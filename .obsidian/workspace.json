@@ -11,14 +11,10 @@
             "id": "8f087303df721b9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Adventures/Campaigns/{{campaign}}.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "{{campaign}}"
+              "title": "New tab"
             }
           }
         ]
@@ -192,8 +188,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
@@ -202,8 +198,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
@@ -212,8 +208,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -368,8 +364,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -378,8 +374,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           }
         ],
@@ -396,8 +392,8 @@
             "state": {
               "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "skull",
-              "title": "Combatant"
+              "icon": "lucide-ghost",
+              "title": "fantasy-statblocks-creature-pane"
             }
           }
         ]
@@ -415,22 +411,12 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-custom-frames:Open Obsidian Forum": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "helpmate:HelpMate": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-kanban:Create new board": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false
+      "templates:Insert template": false
     }
   },
   "active": "8f087303df721b9d",
   "lastOpenFiles": [
+    "08_Archive/_BACKUPS.zip",
     "_SCRIPTS/targeted_fake_file_remover.py",
     "09_Performance/comprehensive_clean_report.md",
     "09_Performance/comprehensive_clean_report.json",
@@ -445,7 +431,6 @@
     "04_Resources/Assets/Generated/Music/generic/special/assets_locations_location_city_abyssos_prime_inverse_palace_abyssos_prime_inverse_palace_svg_special_v91_metadata.json",
     "04_Resources/Assets/Generated/Music/generic/special/assets_locations_location_city_abyssos_prime_docks_v1_abyssos_prime_docks_svg_special_v90_metadata.json",
     "04_Resources/Assets/Generated/Music/generic/special/assets_locations_location_city_abyssos_prime_docks_abyssos_prime_docks_svg_special_v89_metadata.json",
-    "04_Resources/Assets/Generated/Music/generic/special/assets_locations_location_city_abyssos_prime_abyssos_prime_svg_special_v88_metadata.json",
     "09_Performance/audio_fit_report.md",
     "AGILE_VAULT_IMPLEMENTATION_ROADMAP.md",
     "VAULT_ORGANIZATION_STATUS.md",
