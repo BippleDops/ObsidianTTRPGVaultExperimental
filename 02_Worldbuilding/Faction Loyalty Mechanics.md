@@ -65,4 +65,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Campaign_Overview_1 (01_Adventures)]]
+- [[Campaign_Overview]]

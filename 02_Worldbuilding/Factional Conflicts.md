@@ -168,6 +168,5 @@ Mentioned in The Second Prophecy of Stars
 
 ## References
 
-- [[The Crimson Hand
-- [The Restoration Movement]]
+- [[The Restoration Movement]]
 - [[Maelstrom Palace]]

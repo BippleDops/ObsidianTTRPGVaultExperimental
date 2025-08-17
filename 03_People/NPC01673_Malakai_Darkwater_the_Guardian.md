@@ -193,8 +193,7 @@ Provides information for a price
 - Compare with [location-city-divine-magic-divine-magic.svg]]
 - Connects to [[ENC00157_Combat_Encounter_158
 - Connects to [Portrait NPC Tidal Priests Circle V1 Tidal Priests Circle.svg_1 (Portraits)]]
-- Connects to [[SPELL00104_Arcane_Spell_105
-- Requires [NPC00683_Cedric_Underhill_the_Lost]]
+- Connects to [[NPC00683_Cedric_Underhill_the_Lost]]
 - Connects to [[Portrait NPC Ice Kingdom Spirits Ice Kingdom Spirits.svg
 - Parallels [The Umbral Pavilion 2]]
 - Leads to [[NPC Directory.base (Lore)
@@ -208,36 +207,27 @@ Provides information for a price
 - Leads to [[step_017 (phase_029)
 - Related:
 - Parallels [Assets Locations Location City Regional Courts Regional Courts.svg]]
-- See also: [[Depth Pulse 2
-- Related: [NPC01497_Malakai_Crystalbrook_the_Lost]]
-- See also: [[NPC00563_Qadim_Darkwater_the_Seeker
-- See also: [Talisman of Pure Good Xdmg]]
-- Parallels [[Ink Pen Xphb
-- Parallels [Letter_From_the_Pearl_Guard_Captai]]
+- See also: [[NPC01497_Malakai_Crystalbrook_the_Lost]]
+- See also: [[NPC00563_Qadim_Darkwater_the_Seeker]]
+- Parallels [[Letter_From_the_Pearl_Guard_Captai]]
 - Originates from [[LORE00184_History_Entry_185
 - Leads to [conjure-elemental-xphb (spells)]]
 - Affected by
 - Connects to [[spear-xphb (items)
 - Parallels
 - Related: [lemure-xmm (fiend)]]
-- Leads to [[International Temporal Safety Counci
-- Leads to [Combat Encounter Difficulty XP Thresholds by Character Level]]
-- Leads to [[Consequence Chain 5 - Marina's Identity Revelation
-- Originates from [ENC00165_Environmental_Encounter_166]]
+- Leads to [[Combat Encounter Difficulty XP Thresholds by Character Level]]
+- Leads to [[Consequence Chain 5 - Marina's Identity Revelation]]
 - Affected by [[step_096 (phase_008)
 - Connects to [Elite Transport]]
 - Connects to [[LORE00248_Prophecies_Entry_249
 - Originates from [step_038 (phase_028)]]
-- Connects to [[experience-points-xphb (variant-rules)
-- Related: [MON00034_Aberrations_Creature_35]]
-- Connects to [[step_067 (phase_085)
-- Parallels [Regional Courts (D&D_References)]]
+- Connects to [[experience-points-xphb (variant-rules)]]
+- Connects to [[Regional Courts (D&D_References)]]
 - Leads to [[Portrait NPC Current Lord Triton of House Pelagios V2 Current Lord Triton of House Pelagios.svg
 - Parallels
 - Requires [step_061 (phase_088)]]
-- Affected by [[Quick_Start_Guide.md
-- Requires
-- Related: [NPC00396_Qadim_Goldleaf_the_Fallen]]
+- Affected by [[NPC00396_Qadim_Goldleaf_the_Fallen]]
 - Leads to [[ITEM01309_Ornate_Map_Case_of_Durability
 - Originates from [Location City Admiral Thalassa Stormcurrent V1 Admiral Thalassa Stormcurrent.svg]]
 - Affected by [[phase-spider-xmm (monstrosity)
@@ -250,10 +240,8 @@ Provides information for a price
 - Related: [Separatist Movements]]
 - Connects to [[Scene Scene Drowned Cathedral Vigil V2 Drowned Cathedral Vigil.svg
 - Related: [Wealthy Goldcurrent]]
-- Influences [[LORE0079_Secret_of_the_Ancient_Pact
-- Connects to [QUEST00143_Main_Quest_144]]
-- Influences [[DUN00182_Dungeon_183
-- Leads to [ENC00268_Combat_Encounter_269]]
+- Influences [[LORE0079_Secret_of_the_Ancient_Pact]]
+- Influences [[ENC00268_Combat_Encounter_269]]
 - See also: [[relics-uncommon-xdmg (tables)
 - Leads to [ENC00002_Social_Encounter_3]]
 - Leads to [[elven-vandria-gilmadrith-mtf (deities)
@@ -264,8 +252,7 @@ Provides information for a price
 - Parallels [brooch-of-shielding-xdmg (items)]]
 - Leads to [[Epilogue Generation Tables
 - Connects to [step_036 (phase_007)]]
-- See also: [[Crisis Exploitation
-- See also: [NPC00522_Qadim_Emberfall_the_Cunning]]
+- See also: [[NPC00522_Qadim_Emberfall_the_Cunning]]
 - Connects to [[Assets Locations Location City Barkeep Salty Sarah Barkeep Salty Sarah.svg
 - Compare with [step_016 (phase_079)]]
 - See also: [[SPELL00047_Nature_Spell_48

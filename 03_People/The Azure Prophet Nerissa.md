@@ -289,6 +289,5 @@ Member of House Dragonblood - Trait: prophecy
 
 ## References
 
-- [[Quest - The Convergence Crisis
-- [Brother Matthias the Amber Bearer]]
+- [[Brother Matthias the Amber Bearer]]
 - [[Brother Matthias the Amber Bearer (D&D_Statblocks)]]

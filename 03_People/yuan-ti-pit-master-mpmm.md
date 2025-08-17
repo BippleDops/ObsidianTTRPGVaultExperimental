@@ -228,4 +228,4 @@ Modifications:
 - See also: [[Item Artifact Weird Tank Pota V5 Weird Tank Pota.png
 - Connects to [[[INDEX]]]]
 - Originates from [[ENC00043_Combat_Encounter_44]]
-- Related: [[step_006 (phase_060)]]
+- Related: 

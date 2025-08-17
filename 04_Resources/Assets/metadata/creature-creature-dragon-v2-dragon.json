@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Create a detailed concept art illustration in a painterly style which reflects a blend of aquatic fantasy realism and grounded medieval-fantasy themes. The scene should include a dragon with well-defined musculature and unique limbs, contrasted against a human silhouette for size comparison. The setting is an enigmatic zone bridging both underwater and sky, showing evidence of motion within. Render dynamic subsurface caustics, and adopt bioluminescent accents for added fantasy element. Fashion the dragon and the human in culturally coherent gear made from fantasy materials akin to those found in heroic tabletop games such as Dungeons & Dragons 5e. The color scheme should focus on shades of teals, deep blues, and sea-greens, with pearl-like highlights enhancing the visual impact. Avoid any use of modern technology, signs, photoreal CGI, anime-style depictions, and bloom glare. Keep all symbols meaningful or use numbered pins, and refrain from using random or garbled letter strings. The image should maintain the specified aspect ratio and resolution, taking care to prevent the creation of visual artifacts.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-dragon-v2-dragon.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-dragon-v2-dragon.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:01:09.914Z",
+  "generationMethod": "ComfyUI"
 }

@@ -175,20 +175,16 @@ Needs discrete help with family scandal
 - Influences [Pressure Anomaly Regions 2]]
 - Originates from [[elemental-cataclysm-xmm (elemental)
 - Requires [soldier-xphb (backgrounds)]]
-- Influences [[Spectral Librarian Reverent Bookmark 2
-- Influences [commune-with-nature-xphb (spells)]]
+- Influences [[Spectral Librarian Reverent Bookmark 2]]
 - Requires [[Illithilich Vgm (undead)
 - Influences [Captain Sarah Oathbound]]
 - Influences [[Item Template (Lore)
 - Connects to [Manifestation Chambers]]
 - Compare with [[Communication Encrypters
 - Parallels [step_026 (phase_033)]]
-- Influences [[Nurse Director Brightcare (D&D_References)
-- Requires [EVENT00062_Natural_Event_63]]
-- Leads to [[melfs-acid-arrow-xphb (spells)
-- Affected by [Symbol Heraldry Cry... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- See also: [[step_003 (phase_025)
-- Originates from [NPC00528_Gavril_Lightbringer_the_Strong]]
+- Influences [[Nurse Director Brightcare (D&D_References)]]
+- Leads to [[Symbol Heraldry Cry... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- See also: [[NPC00528_Gavril_Lightbringer_the_Strong]]
 - Related: [[step_034 (phase_052)
 - Originates from [pets-beholder-greater-minions-vgm (tables)]]
 - Affected by [[step_081 (phase_027)
@@ -209,15 +205,12 @@ Needs discrete help with family scandal
 - Parallels [Assets Item Artifact Ruby Xdmg V6 Ruby Xdmg.png]]
 - Requires [[LORE00291_History_Entry_292
 - Affected by [Assets Locations Location City Senator Cornelius Depthwalker V1 Senator Cornelius Depthwalker.svg]]
-- Requires [[MON00001_Undead_Creature_2
-- Requires [NPC01432_Pyria_Crystalbrook_the_Broken]]
+- Requires [[NPC01432_Pyria_Crystalbrook_the_Broken]]
 - Compare with [[04_Resources_Assets_Symbols_symbol-heraldry-the-artisans-collective-of-master-crafters-the-artisans-collective-of-master-crafters.svg
 - Connects to [Location City Keeper Temporal Safehaven Keeper Temporal Safehaven.svg]]
 - Connects to [[ITEM00750_Divine_Chalice_of_Truth
 - Compare with [Diplomatic Quarters]]
-- Originates from [[Greatsword Xphb
-- Influences
-- Requires [Pearl Merchant Tidal Goldflow 2]]
+- Originates from [[Pearl Merchant Tidal Goldflow 2]]
 - See also: [[Dr Nereus Thoughtweaver
 - Related: [step_043 (phase_062)]]
 - Leads to [[step_017 (phase_058)
@@ -228,8 +221,7 @@ Needs discrete help with family scandal
 - See also: [step_043 (phase_004)]]
 - Affected by [[LOC00253_Towns_Location_254
 - Leads to [Assets Locations Location City Sage Rememberall Sage Rememberall.svg]]
-- Affected by [[MON00035_Aberrations_Creature_36
-- Related: [NPC01459_Cedric_Youngblood_the_Seeker]]
+- Affected by [[NPC01459_Cedric_Youngblood_the_Seeker]]
 - Influences [[ITEM01446_Ornate_Spyglass_of_Durability
 - Parallels [step_022 (phase_023)]]
 - Influences
@@ -241,16 +233,13 @@ Needs discrete help with family scandal
 - Parallels [Animated Object Xphb]]
 - See also: [[Community Temple Network
 - Originates from [step_013 (phase_083)]]
-- Compare with [[Resource Scarcity Prediction
-- Originates from [Master Chronologist Temporal Truthkeeper 2]]
+- Compare with [[Master Chronologist Temporal Truthkeeper 2]]
 - Connects to
 - Leads to [[Portrait NPC Ancient King Pelagios Ancient King Pelagios.svg
 - Related: [Portrait NPC the Depth Lords V1 the Depth Lords.svg]]
 - Connects to [[The Crimson Sage_1
 - Related: [Assets Locations Location City Barkeep Mira Algaebrew Barkeep Mira Algaebrew.svg]]
-- Affected by [[NPC01601_Branwen_Thornweave_the_Lost
-- Leads to
-- Requires [step_088 (phase_062)]]
+- Affected by [[NPC01601_Branwen_Thornweave_the_Lost]]
 - Originates from [[LORE00188_History_Entry_189
 - Compare with [Astral Projection Xphb]]
 - Related: [[gambling-complications-xge (tables)
@@ -260,14 +249,11 @@ Needs discrete help with family scandal
 - Related:
 - Affected by [[lute-of-thunderous-thumping-xdmg (items)
 - Compare with [MON00077_Constructs_Creature_78]]
-- See also: [[Royal Embassy
-- See also: [MON0008_Shadow_Reaper]]
-- Related: [[QUEST0016_Negotiate_with_the_Dragon
-- Requires [LOC00067_Planes_Location_68]]
+- See also: [[MON0008_Shadow_Reaper]]
+- Related: [[QUEST0016_Negotiate_with_the_Dragon]]
 - Influences [[QUEST00157_Side_Quest_158
 - Connects to [portrait-npc-azure-shard-azure-shard.svg]]
-- Requires [[LOC00190_Wilderness_Location_191
-- Connects to [Scimitar of Speed Xdmg]]
+- Requires [[LOC00190_Wilderness_Location_191]]
 - Connects to [[The Senator's Office 2
 - Leads to [Cover Identity Coordinator]]
 - See also: [[Faction Reputation (D&D_References)]]

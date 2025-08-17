@@ -25,5 +25,8 @@
   "alt_text": "Concept art of aberrant-spirit-beholderkin-xphb with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-aberrant-spirit-beholderkin-xphb-aberrant-spirit-beholderkin-xphb.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-aberrant-spirit-beholderkin-xphb-aberrant-spirit-beholderkin-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:56:39.578Z",
+  "generationMethod": "ComfyUI"
 }

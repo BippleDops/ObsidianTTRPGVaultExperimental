@@ -144,14 +144,9 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Memory Trader Kellian
-- [Silver Mask]]
-- [[The Crimson Hand
-- [The Final Choice]]
-- [[The Restoration Movement
-- [The Silverscale Conspiracy]]
-- [[Silver Mask (D&D_References)
-- [The Final Choice (D&D_References)]]
-- [[The Final Choice 3 (D&D_References)
-- [The Restoration Movement (D&D_References)]]
+- [[Memory Trader Kellian]]
+- [[The Final Choice]]
+- [[The Silverscale Conspiracy]]
+- [[The Final Choice (D&D_References)]]
+- [[The Restoration Movement (D&D_References)]]
 - [[The Silverscale Conspiracy (D&D_References)]]

@@ -25,5 +25,8 @@
   "alt_text": "Concept art of gibbering-mouther-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-gibbering-mouther-xmm-v3-gibbering-mouther-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-gibbering-mouther-xmm-v3-gibbering-mouther-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:03:26.801Z",
+  "generationMethod": "ComfyUI"
 }

@@ -95,17 +95,7 @@ Random Tavern represents a crucial aspect of the world's history, cosmology, or 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[Peoples
-
-### The Golden Era (500 years ago)
-- Economic prosperity
-- Cultural renaissance
-- Expansion of territory
-
-### The Time of Troubles (100 years ago)
-- Civil war
-- Natural disasters
-- Current [Power Structures]] established
+- War with indigenous [[People]] established
 
 ## Religious Observances
 
@@ -137,4 +127,4 @@ Random Tavern represents a crucial aspect of the world's history, cosmology, or 
 
 ## References
 
-- [[Random_Tavern (02_Worldbuilding)]]
+- [[02_Worldbuilding]]

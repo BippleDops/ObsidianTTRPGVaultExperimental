@@ -1,7 +1,6 @@
 ---
 
-title: [[Seven Shards Overview
-type: [Lore]]
+title: [[Seven Shards Overview]]
 tags:
 - lore
 - worldbuilding

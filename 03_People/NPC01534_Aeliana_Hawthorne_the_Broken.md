@@ -214,10 +214,8 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[Truth-seeker's Lens
 - Compare with
 - Originates from [step_069 (phase_010)]]
-- Parallels [[LORE00067_Prophecies_Entry_68
-- Influences [Keepers of Memory (D&D_References)]]
-- Influences [[List Spells School Abjuration
-- Parallels [Seal Vault Complex (D&D_References)]]
+- Parallels [[Keepers of Memory (D&D_References)]]
+- Influences [[Seal Vault Complex (D&D_References)]]
 - Parallels
 - Related: [[Military Moral Quandaries 2
 - Related: [pot-of-awakening-xdmg (items)]]
@@ -225,8 +223,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [Assets Handouts Handout Handout Love Letter with Hidden Message V1 Love Letter with Hidden Message.png]]
 - Leads to [[Location City Current Riders Guild V1 Current Riders Guild.svg
 - Originates from [Novice Apprentice Sarah Hopeful]]
-- Compare with [[step_047 (phase_089)
-- Requires [LOC00218_Towns_Location_219]]
+- Compare with [[LOC00218_Towns_Location_219]]
 - Influences [[step_055 (phase_017)
 - Originates from [ITEM01143_Distilled_Powder_of_Healing]]
 - Compare with [[NPC00367_Jorah_Brightblade_the_Fallen
@@ -254,10 +251,8 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [Symbol Heraldry Transformation Techniques Transformation Techniques.svg]]
 - Parallels [[LOC0079_Grovedale
 - Related: [Depth Current Crisis]]
-- See also: [[ENC00149_Social_Encounter_150
-- Leads to [The Vault of Scales]]
-- Parallels [[SHOP00041_Specialty_Shop_42
-- Connects to [Culinary Dreamweaver Sage Gentlespice]]
+- See also: [[ENC00149_Social_Encounter_150]]
+- Parallels [[Culinary Dreamweaver Sage Gentlespice]]
 - Connects to [[LORE00111_Prophecies_Entry_112
 - Requires [Portrait NPC Captain Garrett Stormcutter V2 Captain Garrett Stormcutter.svg]]
 - Affected by [[The Harmonic Gardens
@@ -286,10 +281,8 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [Portrait NPC Lord Aurelius Goldwave V1 Lord Aurelius Goldwave.svg]]
 - Parallels [[step_028 (phase_018)
 - Originates from [1 the Blood War]]
-- Originates from [[Quest_-_The_Filter_Exchange
-- See also: [Temporal Control 2]]
-- See also: [[QUEST00121_Personal_Quest_122
-- Leads to [SHOP00046_Magical_Shop_47]]
+- Originates from [[Quest_-_The_Filter_Exchange]]
+- See also: [[QUEST00121_Personal_Quest_122]]
 - Affected by [[Location City Seeds of the Past Seeds of the Past.svg
 - Compare with [Assets Locations Location City Sage Lyralei Starweaver Sage Lyralei Starweaver.svg]]
 - Related: [[Parasite Boarding & Biohazards
@@ -300,8 +293,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [Location City Ambassador Silk Bridgewater Ambassador Silk Bridgewater.svg]]
 - See also: [[Assets Locations Location City Risk Assessor Probability Risk Assessor Probability.svg
 - Parallels [The Meridian Amnesia Zone]]
-- Related: [[enemy-xphb (variant-rules)
-- Leads to [step_069 (phase_040)]]
+- Related: [[enemy-xphb (variant-rules)]]
 - Connects to [[Thalassa the Life-Weaver]]
 
 ## Plot Hooks

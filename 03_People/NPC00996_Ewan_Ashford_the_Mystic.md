@@ -165,9 +165,7 @@ Competitor sabotaging business
 
 ## Connections
 
-- Compare with [[Mouth of Grolantor Mpmm
-- Parallels
-- See also: [Port Meridian Harbor District (D&D_References)]]
+- Compare with [[Port Meridian Harbor District (D&D_References)]]
 - Related: [[Location City Culinary Dreamweaver Sage Gentlespice Culinary Dreamweaver Sage Gentlespice.svg
 - See also: [LOC00190_Dungeons_Location_191]]
 - Originates from [[deck-of-many-things-xdmg (decks)
@@ -189,8 +187,7 @@ Competitor sabotaging business
 - Requires [[The Crystal Express
 - Related:
 - Influences [Portrait NPC Merchant Captain Trade V2 Merchant Captain Trade.svg]]
-- Connects to [[NPC01452_Dara_Hawthorne_the_Fallen
-- Affected by [step_007 (phase_061)]]
+- Connects to [[NPC01452_Dara_Hawthorne_the_Fallen]]
 - Compare with [[Quest - The Debtor's Revolt
 - Connects to [Warforged (D&D_References)]]
 - Influences [[step_089 (phase_052)
@@ -204,46 +201,39 @@ Competitor sabotaging business
 - Compare with [Chain Mail Xphb]]
 - Originates from [[spirit-troll-mpmm (giant)
 - Originates from [SPELL00144_Divine_Spell_145]]
-- Related: [[Underwater Fermentation 2
-- Influences [QUEST0041_Investigate_the_Pirates]]
+- Related: [[QUEST0041_Investigate_the_Pirates]]
 - Connects to [[Mess Kit
 - Connects to [step_083 (phase_054)]]
-- Influences [[step_055 (phase_028)
-- See also: [MON00131_Aberrations_Creature_132]]
+- Influences [[MON00131_Aberrations_Creature_132]]
 - Leads to [[step_057 (phase_051)
 - Leads to [step_064 (phase_015)]]
 - Compare with [[giant-insect-centipede-xphb (beast)
 - Related: [ITEM00488_Fortified_Boots_of_Resistance]]
 - Influences [[NPC00582_Cedric_Dawnstrider
 - Connects to [Investigate Shadow Surgeons (Criminal_Organizations)]]
-- Related: [[Reality Anchoring 2
-- Parallels [Community Feast Halls (D&D_References)]]
+- Related: [[Community Feast Halls (D&D_References)]]
 - Related: [[Scene Scene Cloud Citadel Duel V2 Cloud Citadel Duel.svg
 - Related: [ENC00038_Environmental_Encounter_39]]
 - Originates from [[Assets Portraits Portrait NPC Intelligence Services Intelligence Services.svg
 - Requires [LOC0077_NewPeak]]
-- Affected by [[Parliament of Echoes (D&D_References)
-- Originates from [Dr Midnight Surgery]]
+- Affected by [[Parliament of Echoes (D&D_References)]]
 - Originates from [[Crafting an Item Resources and Resolution Xge
 - Originates from [LOC00029_Towns_Location_30]]
 - Related: [[Ecosystem Simulation Engine
 - Connects to [step_086 (phase_032)]]
-- See also: [[The Deep Prophecies (Lore)
-- See also: [Portrait NPC Mari... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- See also: [[Portrait NPC Mari... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Compare with [[Symbol Heraldry Family Matriarch Anvil Family Matriarch Anvil.svg
 - Parallels [Assets Locations Location City Court Manager Noble Court Manager Noble.svg]]
 - Leads to [[Prismatic Plankton 2
 - Requires [step_051 (phase_045)]]
 - Related: [[FAC00018_Cults_19
 - Affected by [Random Magic Items Armaments]]
-- See also: [[automatic-success (variant-rules)
-- See also: [Ambassador Blacktrade (D&D_References)]]
+- See also: [[Ambassador Blacktrade (D&D_References)]]
 - Compare with [[location-city-ironhold-ironhold.svg
 - Influences [step_083 (phase_086)]]
 - Connects to [[step_022 (phase_031)
 - Related: [step_007 (phase_064)]]
-- Leads to [[ENC00039_Environmental_Encounter_40
-- Affected by [The Phantom Current]]
+- Leads to [[ENC00039_Environmental_Encounter_40]]
 - See also: [[Location City Time Lost Delegate Chronus Time Lost Delegate Chronus.svg
 - Influences [The Kelp Witches]]
 - Affected by [[portrait-npc-shadow-brokers-v1-shadow-brokers.svg

@@ -168,18 +168,14 @@ Requires champions for trial by combat
 - Affected by [ENC0071_Random_Encounter_72]]
 - Affected by [[ENC00182_Combat_Encounter_183
 - Influences [ENC00236_Combat_Encounter_237]]
-- Compare with [[Historical Societies (D&D_References)
-- Compare with [The Pearl Heist (D&D_References)]]
-- Compare with [[Environmental Protection Authorit (D&D_References)
-- Requires [suspended-cauldron-xdmg (objects)]]
+- Compare with [[Historical Societies (D&D_References)]]
+- Compare with [[Environmental Protection Authorit (D&D_References)]]
 - Influences [[random-dungeon-hazards-dungeon-hazards (tables)
 - Affected by [Burrow Speed Xphb]]
 - Parallels [[QUEST00327_Side_Quest_328
 - Influences [ITEM00860_Ancient_Amulet_of_Truth]]
-- Connects to [[The Convergence Prophecies 2
-- Influences [step_054 (phase_096)]]
-- Affected by [[Elder Willow Moonwhisper 2
-- Related: [step_057 (phase_050)]]
+- Connects to [[The Convergence Prophecies 2]]
+- Affected by [[Elder Willow Moonwhisper 2]]
 - Connects to [[QUEST00150_Main_Quest_151
 - Connects to
 - Requires [Sky Burial Traditions]]
@@ -189,30 +185,24 @@ Requires champions for trial by combat
 - Affected by [ITEM01196_Greater_Incense_of_Vigor]]
 - See also: [[step_091 (phase_089)
 - Originates from [Portrait NPC the First Queen S Shade V1 the First Queen S Shade.svg]]
-- Influences [[LOC0116_Marshshire
-- Affected by [NPC00053_Alaric_Ironwood_the_Seeker]]
+- Influences [[NPC00053_Alaric_Ironwood_the_Seeker]]
 - Originates from [[ITEM01385_Masterwork_Journal_of_Reliability
 - Compare with [Elder Matthias Stoneward (D&D_References)]]
 - Compare with [[drow-ghaunadaur-mtf (deities)
 - Influences [step_082 (phase_027)]]
-- Compare with [[Tethyan Maritime Code
-- Parallels [Quest - Mirror Surveillance]]
+- Compare with [[Quest - Mirror Surveillance]]
 - Compare with [[step_070 (phase_057)
 - Influences
 - Affected by [Creature Creature Goblin Hexer Xmm Goblin Hexer Xmm.png]]
-- Affected by [[ENC00111_Combat_Encounter_112
-- Related: [SPELL0037_Celestial_Storm]]
+- Affected by [[ENC00111_Combat_Encounter_112]]
 - Influences [[Embroidered Silk and Velvet Mantle Set With
 - Originates from [Financial Officer Golden Calculations]]
-- Affected by [[step_001 (phase_068)
-- See also: [SPELL00140_Divine_Spell_141]]
-- Parallels [[Agent Whisper Voidheart (D&D_References)
-- Compare with [SPELL00148_Arcane_Spell_149]]
+- Affected by [[SPELL00140_Divine_Spell_141]]
+- Parallels [[Agent Whisper Voidheart (D&D_References)]]
 - Compare with [[step_081 (phase_097)
 - Related:
 - Requires [step_082 (phase_023)]]
-- Related: [[Skyforge 2
-- Parallels [Crystal Corruption Cultists (D&D_References)]]
+- Related: [[Crystal Corruption Cultists (D&D_References)]]
 - Requires [[location-city-chef-gastropod-v1-chef-gastropod.svg
 - Parallels [Portrait NPC the Crimson Sage V1 the Crimson Sage.svg]]
 - Parallels [[step_063 (phase_083)
@@ -228,10 +218,8 @@ Requires champions for trial by combat
 - Connects to
 - Compare with [[Location City the Crystal Cathedral of Pure Light the Crystal Cathedral of Pure Light.svg
 - Related: [Archmage Lyralei Stormwind 2]]
-- Compare with [[step_040 (phase_037)
-- Originates from [Master Cloud Shepherd Zephyr Stormcalle (D&D_References)]]
-- Originates from [[NPC01458_Aldric_Silverleaf_the_Scholar
-- Affected by [proficiency-bonus-xphb (tables)]]
+- Compare with [[Master Cloud Shepherd Zephyr Stormcalle (D&D_References)]]
+- Originates from [[NPC01458_Aldric_Silverleaf_the_Scholar]]
 - Parallels [[Sarah Chronicler 2
 - Influences
 - Related: [Location City Keeper Seafoam the Neutral V1 Keeper Seafoam the Neutral.svg]]
@@ -239,24 +227,21 @@ Requires champions for trial by combat
 - Parallels [ITEM00439_Ethereal_Chain_Mail_of_Grace]]
 - Originates from [[step_063 (phase_096)
 - Influences [Resistance Safe Houses]]
-- Originates from [[step_049 (phase_073)
-- Connects to [Cross-Cultural_Legal_Association]]
+- Originates from [[Cross-Cultural_Legal_Association]]
 - Parallels [[ITEM01093_Distilled_Herb_of_Swiftness
 - See also: [NPC00291_Orion_Hawthorne_the_Bold]]
 - Connects to [[Augury Xphb
 - See also: [tsunami-xphb (spells)]]
 - Influences [[Quest - The Crystal Festival_1 (01_Adventures)
 - Related: [step_089 (phase_039)]]
-- Originates from [[Cross-Cultural Business Development Society
-- Parallels [step_078 (phase_044)]]
+- Originates from [[Cross-Cultural Business Development Society]]
 - Parallels [[Nondetection Xphb
 - Affected by [step_021 (phase_051)]]
 - Parallels [[Assets Art Random Encounter Tables Aethermoor.png
 - Affected by [step_001 (phase_051)]]
 - Compare with [[Purification Order (Orders)
 - Leads to [step_083 (phase_095)]]
-- Compare with [[Crystal Corruption Mechanics
-- See also: [Diplomatic Dining Protocol (D&D_References)]]
+- Compare with [[Diplomatic Dining Protocol (D&D_References)]]
 - Compare with
 - Compare with [[Assets Locations Location City Emergency Protocols Emergency Protocols.svg
 - Requires [bodak-mpmm (undead)]]

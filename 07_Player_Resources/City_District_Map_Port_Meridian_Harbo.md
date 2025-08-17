@@ -134,23 +134,7 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 ## Thematic Connections
 - Urban adventures and [[City Encounters
 - Political intrigue like [Noble Houses]]
-- Commerce and [[Merchant Guilds
-
-## D&D 5e References
-
-*(Combat rules: ACX p.189-198)*
-*(Attack rolls: ACX p.194)*
-*(Damage & Healing: ACX p.196-197)*
-*(Character creation: ACX p.11-15)*
-*(Ability scores: ACX p.12-13)*
-*(Backgrounds: ACX p.125-141)*
-*(Exploration: WWT p.242-243)*
-*(Travel pace: ACX p.182)*
-*(Wilderness survival: WWT p.109-112)*
-
-## Connections
-
-- Parallels [The Kelp Highway 2]]
+- Commerce and [[Merchant_Guilds]]
 - Influences [[NPC00419_Malakai_Grimholt_the_Cunning]]
 - See also:
 - See also: [[System Cli Spells School Conjuration]]

@@ -167,12 +167,9 @@ Athletics, Persuasion, Stealth
 - Parallels [SPELL00156_Nature_Spell_157]]
 - Affected by [[step_078 (phase_079)
 - Compare with [The Outer Planes Outer Planes Xphb]]
-- Originates from [[Apprentice Copper 2
-- Related: [Traditional Medicine Spokesman]]
-- See also: [[LOC00178_Cities_Location_179
-- Leads to [NPC01904_Kaelen_Thornweave_the_Swift]]
-- See also: [[step_067 (phase_026)
-- Compare with [NPC0023_Xara_Stormwind_the_Just]]
+- Originates from [[Traditional Medicine Spokesman]]
+- See also: [[NPC01904_Kaelen_Thornweave_the_Swift]]
+- See also: [[NPC0023_Xara_Stormwind_the_Just]]
 - Connects to [[Depth Crystals 2
 - Compare with [Enspelled Staff Level 6 Xdmg]]
 - Parallels [[celtic-oghma (deities)
@@ -187,8 +184,7 @@ Athletics, Persuasion, Stealth
 - Affected by [step_051 (phase_096)]]
 - Related: [[The Clerk of Souls 2
 - Related: [step_037 (phase_099)]]
-- Affected by [[LOC0089_Grovewick
-- Affected by [NPC00834_Aldric_Winterborn_the_Wanderer]]
+- Affected by [[NPC00834_Aldric_Winterborn_the_Wanderer]]
 - Influences [[Portrait NPC Captain Echoing Thunder V2 Captain Echoing Thunder.svg
 - See also: [deep_quality_enhancement_20250814_175143]]
 - Affected by [[Elven Erevan Ilesere Mtf
@@ -201,8 +197,7 @@ Athletics, Persuasion, Stealth
 - Leads to [step_048 (phase_004)]]
 - Leads to [[Portrait NPC Captain Rhea Blackwater V2 Captain Rhea Blackwater.svg
 - Influences [Portrait NPC Madame Crystal Eye V2 Madame Crystal Eye.svg]]
-- Affected by [[Drill Commander Titanius Ironcrystal 2
-- Originates from [GM_Improvement_Tracker]]
+- Affected by [[Drill Commander Titanius Ironcrystal 2]]
 - See also:
 - Requires [[step_004 (phase_087)
 - Connects to [Location City Maelstrom Palace V1 Maelstrom Palace.svg]]
@@ -239,10 +234,8 @@ Athletics, Persuasion, Stealth
 - Requires [Portrait NPC Sorrow Root Nightbloom V1 Sorrow Root Nightbloom.svg]]
 - Connects to [[Assets Locations Location City Historical Prophetic Analysis V1 Historical Prophetic Analysis.svg
 - Affected by [Meridian Docks]]
-- Influences [[LORE0037_Prophecy_of_the_Hero's_Sacrifice
-- Originates from [Business Coalitions 2]]
-- Compare with [[ENC00048_Social_Encounter_49
-- Related: [Bracers of Archery Xdmg]]
+- Influences [[LORE0037_Prophecy_of_the_Hero's_Sacrifice]]
+- Compare with [[ENC00048_Social_Encounter_49]]
 - Connects to [[Assets Symbols Symbol Heraldry the Deepwatch Guard the Deepwatch Guard.svg
 - Leads to [LOC00203_Planes_Location_204]]
 - Influences [[step_018 (phase_091)

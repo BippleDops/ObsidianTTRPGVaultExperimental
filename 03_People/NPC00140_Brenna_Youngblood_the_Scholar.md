@@ -163,16 +163,13 @@ Wants rivals investigated
 - Related: [Tidal Diplomat Nerida]]
 - Related: [[step_012 (phase_088)
 - Compare with [Parliament of Shadows]]
-- Requires [[NPC00224_Dara_Jadeclaw
-- Related: [Keeper Seafoam the Neutral (D&D_References)]]
-- See also: [[step_087 (phase_100)
-- Influences [LOC00114_Cities_Location_115]]
+- Requires [[Keeper Seafoam the Neutral (D&D_References)]]
+- See also: [[LOC00114_Cities_Location_115]]
 - See also: [[Quest - Crystal Corruption_1 (01_Adventures)
 - Requires [Maintece Tech Reef Fixwright]]
 - Compare with [[Rogue Xphb Assassin Xphb
 - Originates from [Tidal Priest Marina Deepcurrent]]
-- Affected by [[NPC00093_Branwen_Thornweave
-- Leads to [step_094 (phase_086)]]
+- Affected by [[NPC00093_Branwen_Thornweave]]
 - Affected by [[step_053 (phase_084)
 - Related: [LORE00246_History_Entry_247]]
 - Related: [[cyclops-sentry-xmm (giant)
@@ -182,12 +179,10 @@ Wants rivals investigated
 - Leads to [[FAC00068_Guilds_69
 - Connects to
 - Related: [Orb of Direction Xdmg]]
-- Requires [[NPC01145_Baelor_Frostwhisper_the_Mystic
-- Influences [House Deepforge (D&D_References)]]
+- Requires [[NPC01145_Baelor_Frostwhisper_the_Mystic]]
 - See also: [[venomous-snake-xmm
 - Parallels [Location City Master Gardener Sage Harmony Bloomtender Master Gardener Sage Harmony Bloomtender.svg]]
-- Compare with [[The Phantom Current (D&D_References)
-- Requires [The Screaming Gardens]]
+- Compare with [[The Phantom Current (D&D_References)]]
 - Related: [[Location City Calm Soothingwave Calm Soothingwave.svg
 - Originates from [pteranodon-xmm (beast)]]
 - Originates from [[The__Cathedral
@@ -198,8 +193,7 @@ Wants rivals investigated
 - Requires [Reality Anchors]]
 - Connects to [[Forgotten Realms Bhaal
 - Influences [Assets Locations Location City the Umbral Nexus V1 the Umbral Nexus.svg]]
-- Affected by [[Temple Clergy (D&D_References)
-- Influences [Forgotten Doorways]]
+- Affected by [[Temple Clergy (D&D_References)]]
 - Requires [[Deep Rothe Mpmm
 - Requires [step_007 (phase_009)]]
 - Compare with [[Portrait NPC Vex Shadowthorn S Apprentices V1 Vex Shadowthorn S Apprentices.svg
@@ -214,26 +208,21 @@ Wants rivals investigated
 - Leads to [Stonespeaker Crystal Oota]]
 - Leads to [[SPELL0010_Eldritch_Shield
 - See also: [DUN00155_Dungeon_156]]
-- Related: [[Border Checkpoints (D&D_References)
-- Requires [step_059 (phase_010)]]
+- Related: [[Border Checkpoints (D&D_References)]]
 - Related: [[The War Room Sanctuary 2
 - Originates from [step_086 (phase_019)]]
 - Connects to [[Final Challenge Rating Experience Points by
 - Requires [Assets Locations Location City the Lost Shipment the Lost Shipment.svg]]
-- See also: [[The Neutral Zone Treaty
-- Compare with [MON00014_Aberrations_Creature_15]]
-- See also: [[ENC00059_Environmental_Encounter_60
-- Requires [Necromantic Rituals]]
+- See also: [[MON00014_Aberrations_Creature_15]]
+- See also: [[ENC00059_Environmental_Encounter_60]]
 - Leads to [[Shadow Medical License
 - Leads to [Pressure-Tube System]]
 - Compare with [[step_099 (phase_084)
 - Influences [Map Map Sunken Library Stacks Sunken Library Stacks.svg]]
-- Requires [[SPELL00023_Nature_Spell_24
-- See also: [harm-xphb (spells)]]
+- Requires [[SPELL00023_Nature_Spell_24]]
 - Originates from [[Advanced Ambush Tactics
 - Parallels [Scene Scene Airship Docks Riot Airship Docks Riot.svg]]
-- Affected by [[LOC00123_Wilderness_Location_124
-- Affected by [Paradox Engine Room]]
+- Affected by [[LOC00123_Wilderness_Location_124]]
 - Compare with [[ENC00279_Combat_Encounter_280
 - Parallels [heightened-spell-xphb (optional-features)]]
 - Leads to [[LOC00085_Dungeons_Location_86
@@ -245,15 +234,11 @@ Wants rivals investigated
 - Leads to
 - Compare with [[Treasure Hoard Challenge 510 (tables)
 - Related: [Tidal Priests Circle (D&D_References)]]
-- Affected by [[step_072 (phase_057)
-- See also: [Artificer-General Magnus Gemheart]]
+- Affected by [[Artificer-General Magnus Gemheart]]
 - Affected by
-- Originates from [[Location City Basalt Depthwright Basalt Depthwright.svg
-- See also: [Portrait NPC Aeth... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
-- See also: [[Illyana Glowstream 2
-- Originates from [The Order of the Shattered Crown (D&D_References)]]
-- Influences [[The Memory Academies
-- Requires [Depth Plague]]
+- Originates from [[Portrait NPC Aeth... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- See also: [[The Order of the Shattered Crown (D&D_References)]]
+- Influences [[The Memory Academies]]
 - Compare with [[NPC2
 - Originates from [nagpa-mpmm (monstrosity)]]
 - Connects to [[MON00140_Constructs_Creature_141

@@ -176,12 +176,10 @@ Requires champions for trial by combat
 - Leads to [[step_088 (phase_042)
 - Requires [step_035 (phase_034)]]
 - Compare with
-- Requires [[Tidal Diplomat Nerida
-- Parallels [Harmonic_Resonance_Evolution]]
+- Requires [[Harmonic_Resonance_Evolution]]
 - Parallels [[step_015 (phase_079)
 - Originates from [Map Map Kelp Forest Labyrinth Kelp Forest Labyrinth.svg]]
-- Originates from [[Master Archivist Valdric Stonewhisper (D&D_References)
-- Leads to [Diplomats Pack Xphb]]
+- Originates from [[Master Archivist Valdric Stonewhisper (D&D_References)]]
 - Compare with [[LORE0098_Myth_of_the_Sundering
 - Leads to [Assets Locations Location City Memoriam Keeper Marcus Remembrance V1 Memoriam Keeper Marcus Remembrance.svg]]
 - Parallels [[wand-of-enemy-detection-xdmg (items)
@@ -190,30 +188,24 @@ Requires champions for trial by combat
 - Originates from [Emergency Medical Research Foundation]]
 - Compare with [[Wizard Xphb School of Transmutation
 - Leads to [LIFE_MANAGEMENT_SYSTEM]]
-- Leads to [[step_026 (phase_095)
-- See also: [LOC00293_Cities_Location_294]]
+- Leads to [[LOC00293_Cities_Location_294]]
 - See also: [[step_053 (phase_068)
 - Requires
 - Connects to
 - Related: [Harbor Defense Grid (D&D_References)]]
 - Affected by [[ENC00279_Social_Encounter_280
 - Connects to [LOC00270_Cities_Location_271]]
-- See also: [[weird-tank-pota (items)
-- Influences [session_preparation_optimization]]
-- Related: [[step_046 (phase_070)
-- Parallels [Possessed Noble Coterie (D&D_References)]]
+- See also: [[session_preparation_optimization]]
+- Related: [[Possessed Noble Coterie (D&D_References)]]
 - Connects to [[Quest - The Forge of Memory
 - Compare with [QUEST0027_In_Search_of_Knowledge]]
-- Requires [[Quest The Pressure Cure
-- See also: [Surface Sympathizer Settlements (D&D_References)]]
+- Requires [[Surface Sympathizer Settlements (D&D_References)]]
 - Influences [[Assets Locations Location City Geometric Tidepools Geometric Tidepools.svg
 - Requires [ENC00177_Environmental_Encounter_178]]
 - Originates from [[Portrait NPC Commander Typhoon Blackheart Commander Typhoon Blackheart.svg_1 (Portraits)
 - Parallels [MON00085_Aberrations_Creature_86]]
-- Related: [[NPC00745_Urien_Ravenheart_the_Cunning
-- Originates from [QUEST0079_Captain's_Revenge]]
-- Leads to [[step_071 (phase_005)
-- See also: [Admiral_Marina_Stormcrest (People)]]
+- Related: [[NPC00745_Urien_Ravenheart_the_Cunning]]
+- Leads to [[Admiral_Marina_Stormcrest (People)]]
 - Leads to [[MON0000_Shadow_Stalker
 - Originates from [Minister of Trade Relations 2]]
 - Leads to [[ITEM0033_Blessed_Tome_of_Power
@@ -225,32 +217,26 @@ Requires champions for trial by combat
 - Originates from [dawn-war-avandra-dmg (deities)]]
 - Compare with [[Assets Locations Location City Deep Harbor V1 Deep Harbor.svg
 - Originates from [High Priestess Nerida Soulcurrent (D&D_References)]]
-- Connects to [[ENC00148_Environmental_Encounter_149
-- Related: [Player_Notes]]
+- Connects to [[ENC00148_Environmental_Encounter_149]]
 - See also:
 - Compare with [[Location City Shadow Chancellor V1 Shadow Chancellor.svg
 - Parallels [Location City Infrastructure Development Infrastructure Development.svg]]
 - Influences [[Song Crystals
 - Related: [LORE00048_Prophecies_Entry_49]]
-- Requires [[MON00081_Aberrations_Creature_82
-- Compare with [step_058 (phase_033)]]
-- Connects to [[staff-of-the-adder-xdmg (items)
-- Originates from [Temple Guardian Marcus the Drowned (D&D_References)]]
+- Requires [[MON00081_Aberrations_Creature_82]]
+- Connects to [[Temple Guardian Marcus the Drowned (D&D_References)]]
 - Affected by [[Assets Locations Location City Healer Elena Mindmender Healer Elena Mindmender.svg
 - Requires [Parliament of Shadows]]
 - Affected by [[Weapon Master Xphb
 - Compare with [Greyhawk Pelor Xdmg]]
 - Originates from [[step_094 (phase_088)
 - Affected by [step_003 (phase_026)]]
-- Parallels [[Symbol Heraldry Aco... Related To: Local Political Structure Connected Plots: to Be Developed
-- See also: [Vault Keeper Aurelia Crownguard]]
-- Originates from [[SPELL00045_Arcane_Spell_46
-- Leads to [Miranda Hopekeeper 2]]
+- Parallels [[Symbol Heraldry Aco... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Originates from [[SPELL00045_Arcane_Spell_46]]
 - Requires
 - Related: [[The Concordat Seal (D&D_References)
 - Requires [NPC01579_Aldric_Proudmore_the_Broken]]
-- Leads to [[LORE0071_Legend_of_the_Ancient_Pact
-- Leads to [LORE00063_Legends_Entry_64]]
+- Leads to [[LORE0071_Legend_of_the_Ancient_Pact]]
 - See also: [[Depth Seekers (D&D_References)
 - Compare with
 - Originates from [Portrait NPC Admiral Thorne Blackwater Admiral Thorne Blackwater.svg]]
@@ -261,14 +247,12 @@ Requires champions for trial by combat
 - Compare with
 - Compare with [[Wind_Touched_Evolution
 - Connects to [Location City Phantom Harbor Charter Phantom Harbor Charter.svg]]
-- Leads to [[step_042 (phase_088)
-- See also: [Session 06 (Shadow_Conspiracy)]]
+- Leads to [[Session 06 (Shadow_Conspiracy)]]
 - See also: [[02_Worldbuilding_People_The_Keeper_of_Between
 - Parallels [ITEM00071_Blessed_Dagger_of_the_Ancients]]
 - Leads to [[arrow-catching-shield-xdmg (items)
 - Parallels [step_088 (phase_049)]]
-- Parallels [[step_098 (phase_089)
-- Parallels [A Day in Aquabyssos (D&D_References)]]
+- Parallels [[A Day in Aquabyssos (D&D_References)]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

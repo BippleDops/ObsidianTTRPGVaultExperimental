@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Imagine a concept art piece in a consistent, painterly style. The scene is a blend of the sky and underwater realms, maintaining a sense of motion and grounded in aquatic realism. The centerpiece is an air elemental spirit from a fantasy tabletop game world, shifting between human silhouette and unique, otherworldly shapes that emphasize its musculature. It's illuminated by bioluminescent accents that further enhance the other-worldliness of its form. The spirit is dressed in culturally coherent medieval fantasy gear, carefully avoiding any semblance of modern technology or signage. The image dabbles in a three-color palette of teals, deep blues, and sea-greens with pearl highlights. Subsurface caustics come into play to suggest an underwater sphere, giving a gentle nod to pressure-dome materials without crossing into the realm of sci-fi UIs or photoreal CGI. There are no symbols, words or random letter strings in the image unless they have a significant meaning to the scene.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-elemental-spirit-air-xphb-v4-elemental-spirit-air-xphb.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-elemental-spirit-air-xphb-v4-elemental-spirit-air-xphb.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:01:31.126Z",
+  "generationMethod": "ComfyUI"
 }

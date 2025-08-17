@@ -164,20 +164,16 @@ Discovered something valuable
 
 - Parallels
 - Related:
-- Compare with [[Boon of the Stormborn
-- Leads to [The Maw of Darkness (D&D_Statblocks)]]
+- Compare with [[The Maw of Darkness (D&D_Statblocks)]]
 - Leads to
 - Related:
-- Originates from [[The Void Watchers' Shrines (D&D_References)
-- Leads to [step_072 (phase_081)]]
+- Originates from [[The Void Watchers' Shrines (D&D_References)]]
 - Requires [[awakened-shrub-xmm (plant)
 - Requires [Portrait NPC the Void Watchers Shrines the Void Watchers Shrines.svg]]
 - Related: [[yuan-ti-malison-type-5-vgm
 - Connects to [SHOP00034_General_Shop_35]]
-- Connects to [[SPELL00052_Divine_Spell_53
-- Connects to [The Shadow Markets (D&D_References)]]
-- Affected by [[Captain Torrent Freewater
-- Affected by [Catoblepas Mpmm]]
+- Connects to [[The Shadow Markets (D&D_References)]]
+- Affected by [[Captain Torrent Freewater]]
 - Requires
 - Related: [[step_051 (phase_096)
 - Affected by [Equipment Catalogs]]
@@ -205,12 +201,9 @@ Discovered something valuable
 - Connects to [step_038 (phase_100)]]
 - Parallels [[Assets Portraits Portrait NPC Shadow Guard Units Shadow Guard Units.svg
 - Requires [Portrait NPC Sister Thalassa the Depth Touched V1 Sister Thalassa the Depth Touched.svg]]
-- Affected by [[NPC00201_Baelor_Blackstone_the_Redeemed
-- Parallels [Shadowport]]
-- Requires [[The Wind Shrine Archipelago (D&D_References)
-- Influences [ITEM01463_Elegant_Lantern_of_Reliability]]
-- Requires [[Supply Master Cargo Deephaul
-- Compare with [step_001 (phase_084)]]
+- Affected by [[NPC00201_Baelor_Blackstone_the_Redeemed]]
+- Requires [[The Wind Shrine Archipelago (D&D_References)]]
+- Requires [[Supply Master Cargo Deephaul]]
 - Parallels [[Communication Encrypters
 - See also:
 - Leads to
@@ -229,35 +222,27 @@ Discovered something valuable
 - Leads to [The Iron Company]]
 - Originates from [[step_092 (phase_046)
 - Leads to [SHOP00011_Magical_Shop_12]]
-- Compare with [[` to search for existing notes to link
-- Requires [Corruption Gardens]]
+- Compare with [[` to search for existing notes to link]]
 - Leads to [[Crisis Command Center 2
 - Compare with [Assets Portraits Portrait NPC the Siren the Siren.svg]]
 - Leads to [[NPC01687_Aldric_Youngblood_the_Cunning
 - Influences [Location City the Dreamwhisper Inn the Dreamwhisper Inn.svg]]
 - Parallels [[The Memory Thief (D&D_References)
 - Connects to [ITEM0009_Blessed_Shield_of_Power]]
-- See also: [[LOC00014_Wilderness_Location_15
-- Connects to [Sacred Order of Luminous Daw (Orders)]]
+- See also: [[Sacred Order of Luminous Daw (Orders)]]
 - Originates from [[Assets Locations Location City High Tide Keeper Nautilus Primordial V1 High Tide Keeper Nautilus Primordial.svg
 - Requires [Foreign Trader Captain Hassan al-Rimal (D&D_References)]]
-- Influences [[LOC00241_Cities_Location_242
-- Requires [Chronomancer_Paradox.png]]
-- Originates from [[NPC01188_Zephyr_Lightbringer_the_Wanderer
-- Connects to [long-rest-xphb (variant-rules)]]
-- Parallels [[The Crystal Cathedral of Pure Light 2
-- Affected by [step_095 (phase_100)]]
-- See also: [[NPC00937_Dara_Darkwater_the_Redeemed
-- Influences [LORE00287_Legends_Entry_288]]
+- Influences [[LOC00241_Cities_Location_242]]
+- Originates from [[NPC01188_Zephyr_Lightbringer_the_Wanderer]]
+- Parallels [[The Crystal Cathedral of Pure Light 2]]
+- See also: [[NPC00937_Dara_Darkwater_the_Redeemed]]
 - Leads to [[Assets Locations Location City Royal Palace of Meridian Royal Palace of Meridian.svg
 - Compare with [step_090 (phase_026)]]
 - Influences [[SPELL00009_Divine_Spell_10
 - Affected by [LORE00145_History_Entry_146]]
 - Leads to
-- Influences [[step_043 (phase_018)
-- See also: [Session 2 the Shadow Surgery]]
-- Compare with [[The Resonance Cathedral (D&D_References)
-- See also: [Events Dimensional Incursions]]
+- Influences [[Session 2 the Shadow Surgery]]
+- Compare with [[The Resonance Cathedral (D&D_References)]]
 - Requires [[Assets Locations Location City the Spectral Gallery V1 the Spectral Gallery.svg
 - See also: [step_024 (phase_016)]]
 - Related: [[step_038 (phase_040)

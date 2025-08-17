@@ -1,7 +1,6 @@
 ---
 
-title: [[locations the Probability Engine
-type: [Lore]]
+title: [[Locations the Probability Engine]]
 tags:
 - lore
 - active

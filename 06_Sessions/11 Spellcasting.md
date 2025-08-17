@@ -110,7 +110,7 @@ This content can be adapted and expanded based on specific campaign needs. ## [P
 - Originates from [[step_038 (phase_074)
 - Originates from [[[The Silent]] Watcher (D&D_References)]]
 - Influences [[[[Assets Portraits Portrait NPC [Priest Faith]] [[Crystalsong Priest [Faith Crystalsong]].svg]]
-- Affected by [[Portrait NPC [[Marina Deepcurrent]] V2 [[Marina Deepcurrent]].svg_1 (Portraits)]]
+- Affected by [[Marina Deepcurrent]] V2 [[Marina Deepcurrent]].svg_1 (Portraits)]]
 - Influences [[[[Pit Fighting [Complications Xge]]]]
 - Influences [[step_025 (phase_048)
 - Related: [pistol-xphb (items)]]

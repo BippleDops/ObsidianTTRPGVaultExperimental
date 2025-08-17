@@ -174,31 +174,24 @@ Needs help with personal quest
 - Leads to [LORE00172_History_Entry_173]]
 - Affected by [[The_Resoce_Crater
 - Parallels [step_067 (phase_042)]]
-- Related: [[step_051 (phase_066)
-- Parallels [Symbol Heraldry Liv... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- Influences [[ITEM0044_Eldritch_Gauntlet_of_Power
-- Connects to [Session Notes Template]]
+- Related: [[Symbol Heraldry Liv... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Influences [[ITEM0044_Eldritch_Gauntlet_of_Power]]
 - Compare with [[Class Training I Became
 - Connects to [Portrait NPC Priest Faith Crystalsong Priest Faith Crystalsong.svg_1 (Portraits)]]
 - Affected by [[step_030 (phase_006)
 - Originates from [Portrait NPC High Techno Priest Lumina Skyweaver V2 High Techno Priest Lumina Skyweaver.svg_1 (Portraits)]]
 - Influences [[ITEM00310_Blessed_Bow_of_Accuracy
 - Influences [step_094 (phase_043)]]
-- Compare with [[NPC01923_Aeliana_Darkwater_the_Cunning
-- Originates from [Resistances Mm]]
+- Compare with [[NPC01923_Aeliana_Darkwater_the_Cunning]]
 - Influences [[Assets Locations Location City Keeper Temporal Safehaven Keeper Temporal Safehaven.svg
 - Connects to [Assets Locations Location City Undead Rights Organization Hq V1 Undead Rights Organization Hq.svg]]
 - Requires [[Roleplaying a Mind Flayer Mind Flayer Personality Traits Vgm
 - Leads to [NPC00158_Idris_Quicksilver]]
 - Originates from
-- Connects to [[NPC00268_Ysara_Thornweave_the_Wise
-- Affected by [step_069 (phase_048)]]
-- Compare with [[ENC00053_Environmental_Encounter_54
-- Affected by [young-purple-worm-pota]]
-- See also: [[Landmark_Generator
-- Compare with [Captain Thaddeus Blackwater]]
-- Leads to [[Enspelled Armor Level 1 Xdmg
-- See also: [Security Chief Marcus Allguard (D&D_References)]]
+- Connects to [[NPC00268_Ysara_Thornweave_the_Wise]]
+- Compare with [[ENC00053_Environmental_Encounter_54]]
+- See also: [[Captain Thaddeus Blackwater]]
+- Leads to [[Security Chief Marcus Allguard (D&D_References)]]
 - Compare with [[LORE00295_History_Entry_296
 - Related: [Scene Scene Deep Mother S Tentacles Rising V1 Deep Mother S Tentacles Rising.svg]]
 - Requires [[SPELL00156_Divine_Spell_157
@@ -209,18 +202,14 @@ Needs help with personal quest
 - See also: [Parliament Naval Headquarters]]
 - Affected by [[step_030 (phase_090)
 - Originates from [Location Name 1 (Places)]]
-- Affected by [[QUEST00145_Personal_Quest_146
-- Connects to [step_072 (phase_050)]]
-- Leads to [[X-L-05_The_Pirate_Confederacy_Crown
-- Connects to [QUEST00225_Personal_Quest_226]]
-- See also: [[NPC01573_Aeliana_Zephyrblade_the_Guardian
-- Related: [LOC00066_Dungeons_Location_67]]
+- Affected by [[QUEST00145_Personal_Quest_146]]
+- Leads to [[X-L-05_The_Pirate_Confederacy_Crown]]
+- See also: [[NPC01573_Aeliana_Zephyrblade_the_Guardian]]
 - Originates from [[step_050 (phase_014)
 - See also: [Magic Item Values by Rarity Magic Item]]
 - Leads to [[SPELL00133_Arcane_Spell_134
 - Originates from [Portrait NPC Working Class Citizens V1 Working Class Citizens.svg]]
-- Related: [[step_073 (phase_099)
-- Parallels [Theological Education (D&D_References)]]
+- Related: [[Theological Education (D&D_References)]]
 - Requires [[ITEM01214_Refined_Herb_of_Clarity
 - Compare with [Location City Tide Welcomeheart V1 Tide Welcomeheart.svg]]
 - See also: [[step_059 (phase_008)
@@ -247,10 +236,8 @@ Needs help with personal quest
 - Connects to [Silver Mask (D&D_References)]]
 - Compare with [[ENC00444_Combat_Encounter_445
 - Originates from [sanctuary-charm-xdmg (rewards)]]
-- Compare with [[Tidal Runner Nerissa (D&D_References)
-- Influences [Sage Freedom Philosopher]]
-- Originates from [[Crystal Storm Barriers 2
-- Affected by [Religious Institutions (D&D_References)]]
+- Compare with [[Tidal Runner Nerissa (D&D_References)]]
+- Originates from [[Religious Institutions (D&D_References)]]
 - See also: [[NPC00588_Vesper_Brightblade_the_Wise
 - See also: [NPC00551_Malakai_Jadeclaw_the_Fallen]]
 - Parallels [[Assets Locations Location City the Gloom Gardens V1 the Gloom Gardens.svg

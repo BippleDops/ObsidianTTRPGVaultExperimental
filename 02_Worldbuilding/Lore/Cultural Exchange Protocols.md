@@ -1,7 +1,6 @@
 ---
 
-title: [[Cultural Exchange Protocols
-type: [Lore]]
+title: [[Cultural Exchange Protocols]]
 tags:
 - lore
 - worldbuilding

@@ -37,41 +37,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-### Contradictions Improvements
-
-- Include cultural hypocrisies and double standards
-
-### Sensory Improvements
-
-- Add smells, sounds, and textures unique to this culture
-
-### Evolution Improvements
-
-- Show how traditions are changing with new generation
-
-### Death_Customs Improvements
-
-- Detail funeral rites and afterlife beliefs
-
-### Superstitions Improvements
-
-- List common superstitions and their origins
-
-### Coming_Of_Age Improvements
-
-- Describe rites of passage and adulthood markers
-
-## Overview
-
-Iron Jack Shadowhand represents a crucial aspect of the world's history, cosmology, or fundamental nature.
-
----
-
-*Last Updated: 2025-08-14 19:03*
-
-## [DM_Notes]]
+- Describe how this culture exists in other [[region]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

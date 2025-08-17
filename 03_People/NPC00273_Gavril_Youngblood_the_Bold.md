@@ -176,8 +176,7 @@ Seeks bodyguards for dangerous journey
 - Influences [thunderous-greatclub-xdmg (items)]]
 - See also: [[DUN00055_Dungeon_56
 - Connects to [Location City Keeper Thundercall Keeper Thundercall.svg]]
-- Affected by [[Quest - Harbor Expansion
-- Originates from [ENC00158_Environmental_Encounter_159]]
+- Affected by [[ENC00158_Environmental_Encounter_159]]
 - Related:
 - Influences [[Lament Architecture (D&D_References)
 - See also: [item-artifact-windvane-pota-v4-windvane-pota.png]]
@@ -186,14 +185,12 @@ Seeks bodyguards for dangerous journey
 - Compare with [[FAC00081_Cults_82
 - Compare with
 - Compare with [step_003 (phase_091)]]
-- See also: [[NPC00497_Zephyr_Blackstone_the_Redeemed
-- Affected by [step_097 (phase_076)]]
+- See also: [[NPC00497_Zephyr_Blackstone_the_Redeemed]]
 - Connects to [[Iron Golem Xmm
 - Compare with [ring-of-force-resistance-xdmg (items)]]
 - Leads to [[step_063 (phase_065)
 - See also: [step_003 (phase_073)]]
-- Compare with [[QUEST00100_Personal_Quest_101
-- See also: [passive-perception-xphb (variant-rules)]]
+- Compare with [[passive-perception-xphb (variant-rules)]]
 - Related: [[step_085 (phase_094)
 - Originates from [step_003 (phase_050)]]
 - Related: [[Random Buildings Building Type
@@ -208,8 +205,7 @@ Seeks bodyguards for dangerous journey
 - Influences [EVENT00076_Magical_Event_77]]
 - Influences [[Norse Heimdall
 - Parallels [Assets Art Banker Cornelius Goldflow.png]]
-- Leads to [[Empyrean Xmm
-- Originates from [ITEM0149_Forgotten_Crown_of_Shadows]]
+- Leads to [[ITEM0149_Forgotten_Crown_of_Shadows]]
 - Originates from [[Wilderness Chase Complications
 - Originates from
 - Affected by [Chambers Exit Location]]
@@ -220,8 +216,7 @@ Seeks bodyguards for dangerous journey
 - Connects to [Marcus Depthward]]
 - Parallels [[Lost Crown of Besilmer Pota
 - Connects to [NPC0120_Aldric_Darkwater]]
-- Requires [[pest-mascot-scc
-- Connects to [Throne Room (D&D_References)]]
+- Requires [[Throne Room (D&D_References)]]
 - Affected by [[step_009 (phase_066)
 - Leads to [QUEST00072_Side_Quest_73]]
 - Originates from [[The Silver Seal 2
@@ -254,19 +249,16 @@ Seeks bodyguards for dangerous journey
 - Parallels [EVENT00033_Political_Event_34]]
 - Leads to [[Orc Names Orc Female Names Vgm
 - Leads to [Pressure Palace]]
-- Requires [[The Kraken's Wake
-- Related: [The Light Preservation Society]]
+- Requires [[The Light Preservation Society]]
 - Parallels [[Assets Locations Location City Foreign Intelligence V1 Foreign Intelligence.svg
 - Affected by [Deep Conservative Alliance]]
 - Originates from [[Locations_Gallery (Galleries)
 - See also:
 - Parallels [step_035 (phase_079)]]
-- Affected by [[High Counci
-- Requires [Specialist Suppression]]
+- Affected by [[Specialist Suppression]]
 - Influences [[step_061 (phase_008)
 - Affected by [04_Resources_Assets_Locations_location-city-master-chef-coral-seasweaver-master-chef-coral-seasweaver.svg]]
-- Parallels [[The Final Choice (D&D_References)
-- Originates from [step_067 (phase_081)]]
+- Parallels [[The Final Choice (D&D_References)]]
 
 ## Visual References
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png

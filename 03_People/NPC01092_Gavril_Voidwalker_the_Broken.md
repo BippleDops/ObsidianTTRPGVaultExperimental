@@ -161,16 +161,14 @@ Seeks rare merchandise
 - Affected by [[step_091 (phase_073)
 - Affected by
 - Compare with [QUEST00000_Main_Quest_1]]
-- Leads to [[The Vault of Whispers (D&D_References)
-- Affected by [ENC00145_Social_Encounter_146]]
+- Leads to [[The Vault of Whispers (D&D_References)]]
 - Leads to [[The Crystal Heart Shard (Lore)
 - Connects to [Location City Siren Maeve Echoborn Siren Maeve Echoborn.svg]]
 - See also: [[Portrait NPC Surface Liaison Captain Reed Bridgewater V2 Surface Liaison Captain Reed Bridgewater.svg
 - Compare with [Assets Item Artifact Poisoners Kit Xphb V1 Poisoners Kit Xphb.png]]
 - Affected by [[step_008 (phase_096)
 - Compare with [Shadow Saints]]
-- Leads to [[Central Crystal Processing Plant 2
-- Influences [step_045 (phase_062)]]
+- Leads to [[Central Crystal Processing Plant 2]]
 - Influences [[Location City Leviathan Shrines Leviathan Shrines.svg
 - Leads to [Afflictions Existence Erosion]]
 - See also: [[Location City Port Meridian Medical Institute V1 Port Meridian Medical Institute.svg
@@ -205,33 +203,26 @@ Seeks rare merchandise
 - Related: [Location City Traditional Craft Districts Traditional Craft Districts.svg]]
 - Connects to [[step_038 (phase_066)
 - Influences [Scroll of Titan Summoning Elemental]]
-- Originates from [[The Cargo Inspection Station 2
-- Parallels [step_061 (phase_039)]]
+- Originates from [[The Cargo Inspection Station 2]]
 - See also: [[brackish-trudge-scc
 - Influences [sentient-magic-item-alignment (tables)]]
-- See also: [[urban-encounters (tables)
-- Related: [Lady Catherine Mourning (D&D_References)]]
+- See also: [[Lady Catherine Mourning (D&D_References)]]
 - Leads to
 - Leads to [[step_015 (phase_082)
 - Originates from [fiery-blast-trap-xge (traps-hazards)]]
 - Requires
 - Compare with [[step_007 (phase_054)
 - Parallels [Silverquill Trinket Scc]]
-- Influences [[NPC00655_Jorah_Darkwater_the_Seeker
-- Requires [step_049 (phase_014)]]
+- Influences [[NPC00655_Jorah_Darkwater_the_Seeker]]
 - Parallels [[Portrait NPC Queen Seraphina Lumengarde Queen Seraphina Lumengarde.svg_1 (Portraits)
 - Affected by [The Pressure Storm Region]]
-- Parallels [[Legal Reform Movemen (D&D_References)
-- Related: [Magnus Fairweigh 2]]
+- Parallels [[Legal Reform Movemen (D&D_References)]]
 - Influences [[Lucky Xphb
 - Requires [Druid Grove Xge]]
 - Compare with [[step_048 (phase_042)
 - Leads to [Portrait NPC Captain Repossession Captain Repossession.svg]]
-- Influences [[Consequence_Chain_Template
-- Leads to [War of Burning Skies]]
-- Affected by [[step_003 (phase_053)
-- Leads to
-- Parallels [Deep Conservative Alliance (D&D_References)]]
+- Influences [[Consequence_Chain_Template]]
+- Affected by [[Deep Conservative Alliance (D&D_References)]]
 - Compare with [[step_031 (phase_047)
 - Originates from [The Seven Shards Mystery]]
 - Related: [[Risk Assessor Probability
@@ -243,8 +234,7 @@ Seeks rare merchandise
 - Requires [[QUEST00283_Personal_Quest_284
 - Influences [Location City Pressure Technology Pressure Technology.svg]]
 - Related:
-- See also: [[The Free Traders Alliance (D&D_References)
-- Connects to [sleep-xphb (spells)]]
+- See also: [[The Free Traders Alliance (D&D_References)]]
 - Compare with [[bracers-of-defense-xdmg (items)
 - See also: [Blob of Annihilation Xmm]]
 - Compare with [[gold-locket-with-a-painted-portrait-inside-xdmg
@@ -252,8 +242,7 @@ Seeks rare merchandise
 - Parallels [[step_045 (phase_080)
 - Compare with [step_035 (phase_083)]]
 - Connects to
-- Compare with [[Player Character Options Depth Adapted Background
-- Compare with [LOC0071_Bridgedale]]
+- Compare with [[Player Character Options Depth Adapted Background]]
 - Related: [[LORE00087_Prophecies_Entry_88
 - Connects to [Session 14 - Shadow Market]]
 - Compare with [[NPC0142_Willem_Darkwater_the_Mad

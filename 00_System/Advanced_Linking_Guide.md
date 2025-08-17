@@ -3,21 +3,21 @@
 ## Standardized Link Formats
 
 ### NPC Links
-- **Standard:** `[[NPC_Name|Display Name]]`
-- **With Icon:** `[[NPC_Name|🧙 Display Name]]`
-- **With Status:** `[[NPC_Name|Display Name (Ally)]]`
-- **Quick Reference:** `[[NPC_Name#Quick Stats|Display Name]]`
+- **Standard:** `[[NPC Name|Display Name]]`
+- **With Icon:** `[[NPC Name|🧙 Display Name]]`
+- **With Status:** `[[NPC Name|Display Name (Ally)]]`
+- **Quick Reference:** `[[NPC Name|Display Name]]`
 
 ### Location Links
-- **Standard:** `[[Location_Name|Display Name]]`
-- **With Type:** `[[Location_Name|🏰 Display Name]]`
-- **With Region:** `[[Location_Name|Display Name (Region)]]`
-- **Map Reference:** `[[Location_Name#Map|Display Name Map]]`
+- **Standard:** `[[Location Name|Display Name]]`
+- **With Type:** `[[Location Name|🏰 Display Name]]`
+- **With Region:** `[[Location Name|Display Name (Region)]]`
+- **Map Reference:** `[[Location Name|Display Name Map]]`
 
 ### Quest Links
-- **Standard:** `[[Quest_Name|Display Name]]`
-- **With Status:** `[[Quest_Name|⚔️ Display Name (Active)]]`
-- **With Phase:** `[[Quest_Name#Phase 2|Display Name Phase 2]]`
+- **Standard:** `[[Quest Name|Display Name]]`
+- **With Status:** `[[Quest Name|⚔️ Display Name (Active)]]`
+- **With Phase:** `[[Quest Name|Display Name Phase 2]]`
 
 ### Cross-Reference System
 - **Bidirectional:** Ensure relationships are linked both ways
@@ -82,13 +82,13 @@
 *Links that change meaning based on context*
 
 #### Dynamic References
-- `[[NPC_Name]]` → Auto-displays appropriate info based on current file
+- `[[NPC Name]]` → Auto-displays appropriate info based on current file
 - `[[Location#Current Events]]` → Shows current happenings
 - `[[Quest#Player Status]]` → Shows personalized quest status
 
 #### Conditional Display
 ```
-![[NPC_Name#Combat Stats]] (only if in combat)
+![[NPC Name]] (only if in combat)
 ![[Location#Social Info]] (only if in social encounter)
 ```
 
@@ -109,9 +109,9 @@
 
 #### Auto-Completion Patterns
 ```
-Type: Character Name → Suggests: [[Character_Name]]
-Type: @Location → Suggests: [[Location_Name]]
-Type: #Quest → Suggests: [[Quest_Name]]
+Type: Character Name → Suggests: [[Character Name]]
+Type: @Location → Suggests: [[Location Name]]
+Type: #Quest → Suggests: [[Quest Name]]
 ```
 
 #### Link Validation
@@ -126,9 +126,9 @@ Type: #Quest → Suggests: [[Quest_Name]]
 
 #### Transclude Patterns
 ```
-![[NPC_Name#Appearance]] → Embed appearance description
-![[Location_Name#Map]] → Embed location map
-![[Quest_Name#Objectives]] → Embed quest objectives
+![[NPC Name]] → Embed appearance description
+![[Location Name]] → Embed location map
+![[Quest Name]] → Embed quest objectives
 ```
 
 #### Conditional Embeds

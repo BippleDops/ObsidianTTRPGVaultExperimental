@@ -25,5 +25,8 @@
   "alt_text": "Concept art of regenerating-black-pudding-oota with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-regenerating-black-pudding-oota-v2-regenerating-black-pudding-oota.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-regenerating-black-pudding-oota-v2-regenerating-black-pudding-oota.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:08:11.585Z",
+  "generationMethod": "ComfyUI"
 }

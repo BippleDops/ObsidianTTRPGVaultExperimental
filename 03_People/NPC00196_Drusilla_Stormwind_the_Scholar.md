@@ -188,8 +188,7 @@ Needs discrete help with family scandal
 - Requires [Information Exchanges 2]]
 - See also: [[Memory Preservation Technology
 - Originates from [level-and-lethality-spell-equivalent-by-level-xge]]
-- Connects to [[Foreign Shadow Syndicates
-- See also: [Social Navigator Coral Diplomacy]]
+- Connects to [[Social Navigator Coral Diplomacy]]
 - Connects to
 - Requires [[The Crimson Tide Pirates
 - Originates from [FAC00045_Orders_46]]
@@ -214,35 +213,29 @@ Needs discrete help with family scandal
 - Originates from [NPC01386_Brenna_Thornweave_the_Lost]]
 - Related: [[Potion of Acid Resistance Xdmg
 - Influences [Foreign Anti-Magic States]]
-- Leads to [[LOC00188_Cities_Location_189
-- Related: [Watch Captain Roderick Shieldbreaker (D&D_References)]]
+- Leads to [[Watch Captain Roderick Shieldbreaker (D&D_References)]]
 - Requires
 - Parallels [[step_015 (phase_097)
 - Affected by [step_094 (phase_073)]]
-- Requires [[Shadow Surgeon Strike Team
-- Influences [Kraken Spaw]]
+- Requires [[Shadow Surgeon Strike Team]]
 - Connects to [[NPC01422_Hilda_Emberfall_the_Guardian
 - Parallels [Portrait NPC Lord Chancellor Prism Valdrick Lord Chancellor Prism Valdrick.svg]]
 - Affected by [[step_017 (phase_031)
 - Connects to [onyx-xdmg (items)]]
-- Connects to [[Merchant Princess Coral Goldtide 2
-- See also: [ENC00084_Social_Encounter_85]]
+- Connects to [[Merchant Princess Coral Goldtide 2]]
 - Connects to [[LORE00136_Legends_Entry_137
 - Leads to [fireball-xphb (spells)]]
 - Leads to [[04_Resources_Assets_Locations_location-city-master-smith-vulcan-deepforge-v1-master-smith-vulcan-deepforge.svg
 - Related: [QUEST00280_Side_Quest_281]]
 - Parallels [[SPELL00045_Arcane_Spell_46
 - Connects to [step_005 (phase_075)]]
-- Connects to [[Infiltrate Surgical Facilities (D&D_References)
-- Requires [Shadow Broker Maximian Darkmarket 2]]
+- Connects to [[Infiltrate Surgical Facilities (D&D_References)]]
 - Leads to [[Revolver Xdmg
 - Affected by [LORE00215_Prophecies_Entry_216]]
-- Connects to [[step_003 (phase_008)
-- Influences [ENC00056_Social_Encounter_57]]
+- Connects to [[ENC00056_Social_Encounter_57]]
 - Compare with [[step_052 (phase_064)
 - See also: [step_066 (phase_030)]]
-- Leads to [[ENC00105_Social_Encounter_106
-- Influences [Kobold Names Vgm]]
+- Leads to [[ENC00105_Social_Encounter_106]]
 - Affected by [[step_055 (phase_054)
 - Influences
 - See also: [step_021 (phase_075)]]
@@ -251,14 +244,12 @@ Needs discrete help with family scandal
 - See also: [[Portrait NPC Queen Morwyn Lumengarde V1 Queen Morwyn Lumengarde.svg_1 (Portraits)
 - Requires
 - See also: [NPC00483_Aeliana_Frostwhisper_the_Seeker]]
-- Compare with [[Scholar Thomas Truthseeker
-- Originates from [LORE0092_Prophecy_of_the_Dark_Times]]
+- Compare with [[LORE0092_Prophecy_of_the_Dark_Times]]
 - Affected by [[step_089 (phase_036)
 - Affected by [step_015 (phase_089)]]
 - Affected by [[LOC00232_Planes_Location_233
 - Originates from [QUEST00176_Personal_Quest_177]]
-- Connects to [[Harbor Facilities 2
-- Compare with [NPC00160_Aldric_Ironforge_the_Swift]]
+- Connects to [[NPC00160_Aldric_Ironforge_the_Swift]]
 - Connects to [[Flame Tongue Xdmg
 - Requires [step_062 (phase_038)]]
 - Influences [[Location City Crystal Sentinels V1 Crystal Sentinels.svg

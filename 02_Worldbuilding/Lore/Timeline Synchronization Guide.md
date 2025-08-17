@@ -1,7 +1,6 @@
 ---
 
-title: [[Timeline Synchronization Guide
-type: [Lore]]
+title: [[Timeline Synchronization Guide]]
 tags:
 - lore
 - worldbuilding

@@ -1,7 +1,6 @@
 ---
 
-title: [[Artificer Prism Lightweaver
-type: [Lore]]
+title: [[Artificer Prism Lightweaver]]
 tags:
 - lore
 - worldbuilding
@@ -95,17 +94,7 @@ Mentioned in The First Prophecy of Shadows
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[Peoples
-
-### The Golden Era (500 years ago)
-- Economic prosperity
-- Cultural renaissance
-- Expansion of territory
-
-### The Time of Troubles (100 years ago)
-- Civil war
-- Natural disasters
-- Current [Power Structures]] established
+- War with indigenous [[People]] established
 
 ## Economic Structure
 

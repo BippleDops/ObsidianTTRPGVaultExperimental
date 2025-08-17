@@ -17,8 +17,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-headquarters: '[[Places
-  Crystal Palace]]'
+headquarters: '[[Crystal Palace]]'
 membership: Unknown
 MyCategory: Unknown
 MyContainer: None

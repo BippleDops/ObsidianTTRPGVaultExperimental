@@ -174,16 +174,13 @@ Provides information for a price
 - Affected by [FAC00062_Orders_63]]
 - See also: [[step_079 (phase_089)
 - Originates from [eternal-mountain-defense (optional-features)]]
-- Affected by [[Marcus Clausewright (D&D_References)
-- Requires [NPC00244_Idris_Goldleaf_the_Risen]]
-- Related: [[Random Encounter
-- Compare with [Councilor Nerida Constitutionalist]]
+- Affected by [[Marcus Clausewright (D&D_References)]]
+- Related: [[Councilor Nerida Constitutionalist]]
 - Compare with [[ITEM00357_Frost_Crossbow_of_Wounding
 - See also: [Deep Guard 2]]
 - Parallels [[NPC00510_Lyanna_Ironforge_the_Seeker
 - Compare with [University Philosophy Departments]]
-- Requires [[NPC01828_Corvus_Crystalbrook_the_Wise
-- Compare with [Magistrate Elena Greywind]]
+- Requires [[NPC01828_Corvus_Crystalbrook_the_Wise]]
 - Influences [[step_006 (phase_061)
 - Originates from [step_059 (phase_053)]]
 - Requires
@@ -198,42 +195,32 @@ Provides information for a price
 - See also: [Portrait NPC Nerissa Deepcurrent V2 Nerissa Deepcurrent.svg]]
 - Leads to [[Parliament Deep District
 - Affected by [Location City Terminal Director Admiral Current Swiftflow V1 Terminal Director Admiral Current Swiftflow.svg]]
-- Requires [[LOC00040_Dungeons_Location_41
-- Requires [Index]]
-- Influences [[Admiral Lady Cassandra Stormwind (D&D_References)
-- Originates from [MON0049_Frost_Titan]]
-- Influences [[NPC01422_Hilda_Emberfall_the_Guardian
-- Affected by [NPC01773_Drusilla_Silverleaf_the_Wanderer]]
+- Requires [[LOC00040_Dungeons_Location_41]]
+- Influences [[Admiral Lady Cassandra Stormwind (D&D_References)]]
+- Influences [[NPC01773_Drusilla_Silverleaf_the_Wanderer]]
 - Related: [[Assets Locations Location City High Chancellor Nerissa Deepcurrent High Chancellor Nerissa Deepcurrent.svg
 - See also: [LORE00329_History_Entry_330]]
 - Requires [[Public Libraries
 - Affected by [Assets Handouts Handout Handout Guild License Certificate V3 Guild License Certificate.png]]
 - Parallels [[Assets Locations Location City Noble House Noble House.svg
 - Compare with [Surgeon Coral Seamender]]
-- Compare with [[System Cli Spells School Enchantment
-- Parallels
-- Leads to [step_076 (phase_063)]]
+- Compare with [[System Cli Spells School Enchantment]]
 - See also: [[location-city-forge-of-war-forge-of-war.svg
 - Related:
 - Originates from [step_031 (phase_027)]]
 - See also: [[The Crystal Throne
 - See also: [step_007 (phase_086)]]
-- See also: [[Religious Leaders
-- Requires [LOC00090_Wilderness_Location_91]]
+- See also: [[LOC00090_Wilderness_Location_91]]
 - Affected by [[Symbol Heraldry Information Trading System V1 Information Trading System.svg
 - Connects to [Pattern Analysis Matrix]]
-- Connects to [[Stegosaurus Mpmm
-- Originates from [Government Leader Capable (D&D_References)]]
+- Connects to [[Government Leader Capable (D&D_References)]]
 - Influences [[Location City Undead Rights Organization Hq V1 Undead Rights Organization Hq.svg
 - Affected by [Portrait NPC Marina Red Tide Coralheart Marina Red Tide Coralheart.svg]]
-- Related: [[Arcane Assembly
-- Parallels [QUEST0012_In_Search_of_Power]]
-- Compare with [[The Resonance Workshop 2
-- Parallels [Aarakocra Dmg]]
+- Related: [[QUEST0012_In_Search_of_Power]]
+- Compare with [[The Resonance Workshop 2]]
 - Compare with [[shadow-dragon-xmm (dragon)
 - See also: [step_070 (phase_052)]]
-- Leads to [[Time Storm Shelters (D&D_References)
-- Parallels [step_055 (phase_031)]]
+- Leads to [[Time Storm Shelters (D&D_References)]]
 - Compare with [[QUEST00168_Main_Quest_169
 - Parallels [Foreign Crime Syndicate]]
 - Influences [[Trade Representatives (D&D_References)
@@ -250,15 +237,11 @@ Provides information for a price
 - Influences [grassland-encounters-levels-15-xge (tables)]]
 - Connects to [[Quest - The Family Reunion 2
 - Leads to [LOC00043_Cities_Location_44]]
-- Requires [[Initiative Tracker (D&D_References)
-- Parallels [step_012 (phase_087)]]
-- Affected by [[The Great Tidal Amphitheater (D&D_References)
-- Requires [SHOP00001_Magical_Shop_2]]
-- Related: [[Deep Mother Influence (Lore)
-- See also: [Sommelier Bacchus Deepbottle (D&D_References)]]
+- Requires [[Initiative Tracker (D&D_References)]]
+- Affected by [[The Great Tidal Amphitheater (D&D_References)]]
+- Related: [[Sommelier Bacchus Deepbottle (D&D_References)]]
 - Connects to
-- Connects to [[Echo-Prime Cacophony Voidlung (D&D_References)
-- Affected by [LOC00296_Towns_Location_297]]
+- Connects to [[Echo-Prime Cacophony Voidlung (D&D_References)]]
 - Influences
 - See also: [[meld-into-stone-xphb (spells)
 - Affected by [Portrait NPC High Techno Priest Lumina Skyweaver V2 High Techno Priest Lumina Skyweaver.svg]]

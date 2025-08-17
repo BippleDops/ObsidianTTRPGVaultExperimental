@@ -156,8 +156,7 @@ Needs help with personal quest
 
 ## Connections
 
-- Affected by [[Military Command (D&D_References)
-- Affected by [NPC01250_Rhiannon_Brightblade_the_Redeemed]]
+- Affected by [[NPC01250_Rhiannon_Brightblade_the_Redeemed]]
 - Leads to [[EVENT00032_Political_Event_33
 - Related: [step_032 (phase_092)]]
 - Compare with
@@ -168,15 +167,13 @@ Needs help with personal quest
 - Connects to [Religious Groups 2]]
 - See also: [[Duergar in the Clan Duergar Clan Names Mtf
 - Leads to [Stinking Cloud Xphb]]
-- Parallels [[Oinoloth Mpmm
-- Requires [SPELL0015_Primal_Shield]]
+- Parallels [[SPELL0015_Primal_Shield]]
 - Originates from [[Deep Guard 2
 - Affected by [Pepper Xdmg]]
 - See also: [[Location City Sage Lyralei Starweaver V1 Sage Lyralei Starweaver.svg
 - Connects to [LOC00118_Cities_Location_119]]
 - Compare with
-- Affected by [[Depth Crystals (D&D_References)
-- Compare with [Nerissa Depthsong]]
+- Affected by [[Depth Crystals (D&D_References)]]
 - Originates from
 - Influences [[step_038 (phase_073)
 - Compare with [step_046 (phase_065)]]
@@ -190,19 +187,14 @@ Needs help with personal quest
 - See also: [Portrait NPC the Shadow Singer Naia V1 the Shadow Singer Naia.svg]]
 - Influences [[step_061 (phase_086)
 - Leads to [Memory Extraction Center]]
-- Influences [[Symbol Heraldry War... Related To: Local Political Structure Connected Plots: to Be Developed
-- Parallels [step_062 (phase_047)]]
-- Related: [[step_011 (phase_080)
-- Leads to [The Administrative Palace]]
+- Influences [[Symbol Heraldry War... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Related: [[The Administrative Palace]]
 - Originates from [[Perfume of Bewitching Xdmg
 - Affected by
 - Originates from [Portrait NPC Lord Admiral Gaius Windcutter Lord Admiral Gaius Windcutter.svg]]
-- Related: [[LORE00332_History_Entry_333
-- See also: [Memorial District of Abyssos Prime]]
-- Related: [[Void Currents (D&D_References)
-- Leads to [rapier-xphb (items)]]
-- Affected by [[ENC00188_Combat_Encounter_189
-- Leads to [DUN00162_Dungeon_163]]
+- Related: [[Memorial District of Abyssos Prime]]
+- Related: [[Void Currents (D&D_References)]]
+- Affected by [[ENC00188_Combat_Encounter_189]]
 - Related: [[Assets Locations Location City Ambassador Lysandra Silvertonge Ambassador Lysandra Silvertonge.svg
 - Compare with [Deck of Many Things]]
 - Influences [[Assets Locations Location City Chief Inspector Magnus Ledgerkeep Chief Inspector Magnus Ledgerkeep.svg
@@ -217,22 +209,17 @@ Needs help with personal quest
 - Originates from [Memorial Mason Kane 2]]
 - Related: [[NPC01100_Drusilla_Goldleaf_the_Broken
 - Originates from [Quest - The Corruption Choice 2]]
-- See also: [[SPELL00042_Nature_Spell_43
-- See also: [step_076 (phase_015)]]
-- Requires [[2-elves (mordenkainens-tome-of-foes)
-- Connects to [step_059 (phase_040)]]
-- Affected by [[Paladin Xphb Oath of Glory Xphb
-- Requires [ENC00088_Environmental_Encounter_89]]
+- See also: [[SPELL00042_Nature_Spell_43]]
+- Requires [[2-elves (mordenkainens-tome-of-foes)]]
+- Affected by [[ENC00088_Environmental_Encounter_89]]
 - Requires [[step_026 (phase_019)
 - Connects to
 - Originates from [Assets Locations Location City Observatory District V1 Observatory District.svg]]
-- Affected by [[Deep Prophecy 2
-- Parallels [LOC00120_Dungeons_Location_121]]
+- Affected by [[LOC00120_Dungeons_Location_121]]
 - Originates from [[step_022 (phase_083)
 - Affected by [ICON_SYSTEM]]
 - Originates from
-- Affected by [[SPELL00005_Arcane_Spell_6
-- Leads to [NPC01607_Branwen_Quicksilver_the_Swift]]
+- Affected by [[NPC01607_Branwen_Quicksilver_the_Swift]]
 - Influences
 - Parallels [[MON00076_Aberrations_Creature_77
 - Connects to [Chancellor Marcus Provinces]]
@@ -240,8 +227,7 @@ Needs help with personal quest
 - See also: [Ω_System-CLI-spells-school-conjuration]]
 - See also: [[Ancient Skyforge Complex
 - Connects to [Cultural Markets]]
-- Influences [[NPC01098_Erasmus_Goldleaf_the_Fallen
-- Related: [step_064 (phase_050)]]
+- Influences [[NPC01098_Erasmus_Goldleaf_the_Fallen]]
 - Originates from
 - Parallels
 - Parallels [[step_013 (phase_043)
@@ -255,10 +241,7 @@ Needs help with personal quest
 - Parallels [Assets Locations Location City Current Peaceweaver Current Peaceweaver.svg]]
 - Influences [[Diplomatic Immunity Tokens
 - See also: [Corruption Symptoms Guide]]
-- Parallels [[True Polymorph Xphb
-
-## Visual References
-![03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png]]
+- Parallels [[Polymorph Xphb]]
 ![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png
 ![03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
 

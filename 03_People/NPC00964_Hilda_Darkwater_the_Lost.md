@@ -161,8 +161,7 @@ Has map to lost treasure
 
 ## Connections
 
-- Requires [[NPC01363_Elric_Oakenshield_the_Lost
-- Parallels [DUN00035_Dungeon_36]]
+- Requires [[NPC01363_Elric_Oakenshield_the_Lost]]
 - Leads to [[step_026 (phase_077)
 - Requires [Omega-Protocol]]
 - Influences
@@ -177,26 +176,20 @@ Has map to lost treasure
 - Affected by [Kraken Xmm (monstrosity)]]
 - Leads to [[Location City the Evolution District the Evolution District.svg
 - Connects to [NPC00845_Drusilla_Ironforge_the_Bold]]
-- Parallels [[Memoriam (D&D_References)
-- Compare with [Deep Compressmaster (D&D_References)]]
-- Requires [[Flute Xphb
-- Related: [Tools Void Sensors]]
+- Parallels [[Deep Compressmaster (D&D_References)]]
+- Requires [[Tools Void Sensors]]
 - Affected by [[giant-seahorse-xmm (beast)
 - Connects to [LOC00241_Planes_Location_242]]
-- Affected by [[Character Relationship Web - Core NPCs (D&D_References)
-- Connects to [ITEM00230_Blazing_Dagger_of_Power]]
-- Requires [[FAC00049_Cults_50
-- See also: [The Memory Keepers Guild (D&D_References)]]
+- Affected by [[Character Relationship Web - Core NPCs (D&D_References)]]
+- Requires [[The Memory Keepers Guild (D&D_References)]]
 - Affected by [[Portrait NPC the Coral Throne Syndicate the Coral Throne Syndicate.svg
 - Affected by [forgotten-realms-deneir (deities)]]
-- Requires [[Forge District
-- Leads to [The Probability Merchant 2]]
+- Requires [[The Probability Merchant 2]]
 - Compare with [[Portrait NPC Militant Priest Abyssal V1 Militant Priest Abyssal.svg
 - Affected by [Location City the Grove Keepers V1 the Grove Keepers.svg]]
 - Compare with [[The Memory Mirror
 - Connects to [Caltrops Xphb]]
-- Parallels [[NPC00211_Brenna_Proudmore_the_Guardian
-- Related: [ITEM00037_Blessed_Hammer_of_Wounding]]
+- Parallels [[NPC00211_Brenna_Proudmore_the_Guardian]]
 - Connects to
 - Requires [[Symbol Heraldry Elara Crystalline Elara Crystalline.svg
 - Influences [Healer Elena Mindmender (D&D_References)]]
@@ -210,33 +203,28 @@ Has map to lost treasure
 - Parallels [ITEM00583_Adamantine_Leather_of_Protection]]
 - Influences [[Assets Portraits Portrait NPC Quest the Crystal Refugees Quest the Crystal Refugees.svg
 - Originates from [Assets Locations Location City the Living Weapon the Living Weapon.svg]]
-- Affected by [[step_096 (phase_035)
-- Parallels [Security Chief Wade Peacekeep]]
+- Affected by [[Security Chief Wade Peacekeep]]
 - Related: [[creature-creature-allip-mpmm-v4-allip-mpmm.png
 - Connects to
 - See also: [Working Class Routines]]
 - Leads to [[necklace-string-of-small-pink-pearls-xdmg (items)
 - Requires [Surgeon General Darkness 2]]
-- Influences [[item types#Heavy%20Armor
-- Leads to [ENC00144_Social_Encounter_145]]
+- Influences [[Item Types]]
 - Influences [[LOC00239_Cities_Location_240
 - Influences [The Communication Array]]
 - Compare with [[Dark Gift of Delban the Star of Ice and Hate
 - Influences [Consequence Chain 2 - Crystal Trade Disruption (Lore)]]
-- Parallels [[step_092 (phase_017)
-- Compare with [Safety Director Storm Shieldvoice 2]]
+- Parallels [[Safety Director Storm Shieldvoice 2]]
 - Influences [[Marriage_Counselor_Tidal_Harmony (02_Worldbuilding)
 - Parallels [04_Resources_Assets_Symbols_symbol-heraldry-the-echo-succession-the-echo-succession.svg]]
 - Originates from [[The Paradox Constitution
 - Influences [cloves-xdmg (items)]]
 - Connects to [[Location City Port Meridian Harbor District V1 Port Meridian Harbor District.svg
 - Requires [Assets Locations Location City the Archive of Unremembered Things V1 the Archive of Unremembered Things.svg]]
-- Originates from [[Temporal Research Division
-- Leads to [NPC01490_Ewan_Ironforge_the_Mystic]]
+- Originates from [[NPC01490_Ewan_Ironforge_the_Mystic]]
 - Affected by [[LORE00276_History_Entry_277
 - Leads to [step_075 (phase_046)]]
-- Requires [[The Counting House (D&D_References)
-- See also: [Captain Nautilus Deepwatch (D&D_References)]]
+- Requires [[Captain Nautilus Deepwatch (D&D_References)]]
 - Compare with [[Vulnerability Xphb
 - Requires [step_060 (phase_086)]]
 - See also: [[step_031 (phase_038)
@@ -254,16 +242,12 @@ Has map to lost treasure
 - Originates from [Cross-Cultural Legal Association (02_Worldbuilding)]]
 - Influences [[Portrait NPC the Smuggler S Den V1 the Smuggler S Den.svg
 - Parallels [Depth Current Crisis]]
-- Compare with [[MON00111_Aberrations_Creature_112
-- See also: [FAC00051_Orders_52]]
+- Compare with [[MON00111_Aberrations_Creature_112]]
 - See also: [[Assets Portraits Portrait NPC Free Current Safe Houses Free Current Safe Houses.svg
 - Compare with [Shadow Detection Orb (D&D_References)]]
 - Leads to [[tiger-eye-xdmg (items)
 - Requires [Mystery_Framework]]
-- Connects to [[Throne of Bubbles (People)
-
-## Visual References
-![03_People/portrait_captain_thorne_darkwater_friendly.png]]
+- Connects to [[Throne of Bubbles]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png
 ![03_People/portrait_captain_thorne_darkwater_standard.png]]
 

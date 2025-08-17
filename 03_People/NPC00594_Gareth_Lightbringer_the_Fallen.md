@@ -165,9 +165,7 @@ Discovered something valuable
 - See also: [Location City Sage Iris Crystalbloom Sage Iris Crystalbloom.svg]]
 - Affected by [[Assets Locations Location City Ghost of Dr Thaddeus Brightwater V1 Ghost of Dr Thaddeus Brightwater.svg
 - Originates from [EVENT00017_Natural_Event_18]]
-- See also: [[Mummy Xmm
-- Related:
-- Compare with [NPC01578_Faelyn_Brightblade_the_Lost]]
+- See also: [[NPC01578_Faelyn_Brightblade_the_Lost]]
 - Connects to [[Scroll of Protection Aberrations Xdmg
 - See also: [Librarian Sage Documented]]
 - Influences [[portrait-npc-memory-merchants-memory-merchants.svg_1 (Portraits)
@@ -180,10 +178,8 @@ Discovered something valuable
 - Requires [The Royal Palace]]
 - Affected by [[Assets Item Artifact Mess Kit V4 Mess Kit.png
 - Related: [Cultural Exchange Society (Cultural_Organizations)]]
-- Parallels [[Bio-Magical Integration Laboratory 2
-- Compare with [step_079 (phase_029)]]
-- Compare with [[The Dreaming Trench
-- Related: [The Consortium of Five (D&D_References)]]
+- Parallels [[Bio-Magical Integration Laboratory 2]]
+- Compare with [[The Consortium of Five (D&D_References)]]
 - Leads to [[Scene Scene Golden Trade Route Convoy V1 Golden Trade Route Convoy.svg
 - Originates from [vampire-spawn-xmm]]
 - Requires [[step_022 (phase_049)
@@ -199,30 +195,23 @@ Discovered something valuable
 - Connects to [step_084 (phase_065)]]
 - Originates from [[ITEM00517_Warded_Plate_of_Fortitude
 - Influences [step_079 (phase_049)]]
-- Leads to [[step_004 (phase_043)
-- Affected by [Merger_Transit_Complications]]
+- Leads to [[Merger_Transit_Complications]]
 - Affected by [[EVENT00085_Magical_Event_86
 - Connects to [step_047 (phase_006)]]
-- Connects to [[LOC00047_Towns_Location_48
-- Requires [NPC01498_Gareth_Quicksilver_the_Risen]]
-- Originates from [[Ships - Player_Handout_Aethermoor_Airships
-- Compare with [Storm Caller Brotherhood]]
-- Connects to [[DUN00157_Dungeon_158
-- Connects to [NPC01146_Orion_Zephyrblade_the_Wise]]
-- Requires [[step_088 (phase_044)
-- See also: [ENC00046_Environmental_Encounter_47]]
+- Connects to [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- Originates from [[Ships - Player_Handout_Aethermoor_Airships]]
+- Connects to [[NPC01146_Orion_Zephyrblade_the_Wise]]
+- Requires [[ENC00046_Environmental_Encounter_47]]
 - Requires [[QUEST00238_Side_Quest_239
 - Parallels [Portrait NPC Vex Shadowthorn the Kingpin V1 Vex Shadowthorn the Kingpin.svg_1 (Portraits)]]
 - Related: [[Location City Angels and Depths V1 Angels and Depths.svg
 - Related: [step_095 (phase_010)]]
 - Connects to [[Assets Locations Location City Surface Portal Alpha V1 Surface Portal Alpha.svg
 - See also: [step_087 (phase_050)]]
-- Requires [[Lifedrinker Xphb
-- See also: [MON00072_Constructs_Creature_73]]
+- Requires [[MON00072_Constructs_Creature_73]]
 - Leads to [[Random Encounters (Lore)
 - Requires [Future Glimpse]]
-- Related: [[NPC01673_Malakai_Darkwater_the_Guardian
-- See also: [Crystal Master Chorus Gemgrow]]
+- Related: [[NPC01673_Malakai_Darkwater_the_Guardian]]
 - Influences [[Underwater Breathing
 - Leads to [step_093 (phase_007)]]
 - Influences
@@ -238,8 +227,7 @@ Discovered something valuable
 - Related: [The Primordial Vaults]]
 - Requires [[step_032 (phase_014)
 - Originates from [step_047 (phase_100)]]
-- Compare with [[Teleportation Circle
-- Related: [ENC00044_Social_Encounter_45]]
+- Compare with [[ENC00044_Social_Encounter_45]]
 - Influences [[step_086 (phase_034)
 - Requires
 - Parallels [fey-spirit-mirthful-xphb (fey)]]
@@ -248,16 +236,14 @@ Discovered something valuable
 - Leads to
 - Originates from [[Queen Seraphina (Lore)
 - Parallels [step_039 (phase_063)]]
-- Related: [[step_097 (phase_071)
-- Leads to [ENC00176_Combat_Encounter_177]]
+- Related: [[ENC00176_Combat_Encounter_177]]
 - Leads to [[Assets Locations Location City the Pressure Crown the Pressure Crown.svg
 - Compare with [Chief Engineer Vera Steamheart 2]]
 - Requires [[step_066 (phase_029)
 - Requires [The Celestial Wind]]
 - Requires [[QUEST00082_Main_Quest_83
 - Connects to [Assets Locations Location City Tidal Memento Tidal Memento.svg]]
-- Originates from [[EVENT00007_Magical_Event_8
-- Leads to [Paladin Commander Sir Radiant Dawnbreaker (D&D_References)]]
+- Originates from [[Paladin Commander Sir Radiant Dawnbreaker (D&D_References)]]
 - Connects to [[NPC01923_Aeliana_Darkwater_the_Cunning
 - Leads to [sample-mental-stress-effects-xdmg (tables)]]
 - Parallels [[FAC00058_Orders_59

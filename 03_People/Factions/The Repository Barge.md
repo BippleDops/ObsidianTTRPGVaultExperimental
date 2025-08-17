@@ -139,5 +139,4 @@ Mentioned in The Hidden Prophecy of Depths
 
 ## References
 
-- [[Merchant's Covenant
-- [Merchant's Covenant (D&D_References)]]
+- [[Merchant's Covenant (D&D_References)]]

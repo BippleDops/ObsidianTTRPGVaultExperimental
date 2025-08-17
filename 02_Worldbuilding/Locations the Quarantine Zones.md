@@ -1,7 +1,6 @@
 ---
 
-title: [[locations the Quarantine Zones
-type: [Lore]]
+title: [[Locations the Quarantine Zones]]
 tags:
 - lore
 - active

@@ -168,8 +168,7 @@ Requires champions for trial by combat
 
 ## Connections
 
-- Connects to [[Emergency_Evacuation_Map_Stormglass_Riot
-- Compare with [Regulatory Medical Authorit]]
+- Connects to [[Emergency_Evacuation_Map_Stormglass_Riot]]
 - Connects to [[Location City Military Families Support Military Families Support Groups.png
 - Parallels
 - Compare with [Portrait NPC Nerissa Deepcurrent Nerissa Deepcurrent.svg_1 (Portraits)]]
@@ -184,10 +183,8 @@ Requires champions for trial by combat
 - Connects to [Hew Lmop]]
 - See also: [[Thessaly the Illuminated 2
 - Leads to [Throne of Bubbles (People)]]
-- Originates from [[NPC00958_Nerys_Xendar_the_Guardian
-- Influences [The Silent Watch]]
-- Connects to [[ENC00289_Social_Encounter_290
-- Leads to [The Recovery Sanctum]]
+- Originates from [[NPC00958_Nerys_Xendar_the_Guardian]]
+- Connects to [[ENC00289_Social_Encounter_290]]
 - Affected by [[Portrait NPC Master Smith Priest Vulcan Depthforge Master Smith Priest Vulcan Depthforge.svg
 - See also: [step_096 (phase_013)]]
 - Compare with [[Temporal Viewing Chambers (D&D_References)
@@ -200,37 +197,30 @@ Requires champions for trial by combat
 - See also: [SHOP00059_Magical_Shop_60]]
 - Related: [[Soundscape_Guide (D&D_References)
 - Originates from [mass-polymorph-xge (spells)]]
-- Requires [[Customer Relations Director Seraphina Calmcurrent (D&D_References)
-- See also: [Shadow Integration Policy]]
+- Requires [[Customer Relations Director Seraphina Calmcurrent (D&D_References)]]
 - Parallels [[Assets Locations Location City Innkeeper Marcus Thorne Innkeeper Marcus Thorne.svg
 - See also: [The Counting House]]
 - Related: [[step_025 (phase_076)
 - Influences [LORE00024_Prophecies_Entry_25]]
-- Parallels [[MON00007_Undead_Creature_8
-- Influences [Community Support Networks (D&D_References)]]
-- Originates from [[LORE0020_History_of_the_Dark_Times
-- Parallels [Training Supervisor Learning Moment (D&D_References)]]
+- Parallels [[Community Support Networks (D&D_References)]]
+- Originates from [[Training Supervisor Learning Moment (D&D_References)]]
 - Related: [[gold-ring-set-with-bloodstones-xdmg (items)
 - Parallels [Marcus the Shade Blackwood]]
 - Originates from [[Assets Portraits Portrait NPC Ice Kingdom Spirits Ice Kingdom Spirits.svg
 - Parallels [Harbor Master's Compass]]
 - Compare with [[ITEM00168_Blazing_Bow_of_Slaying
 - Compare with [ITEM00297_Thunder_Staff_of_Wounding]]
-- Originates from [[Goldspire Expeditio
-- See also: [ENC00243_Social_Encounter_244]]
-- Related: [[The Crystal Cult
-- Requires [ENC00292_Social_Encounter_293]]
+- Originates from [[ENC00243_Social_Encounter_244]]
+- Related: [[ENC00292_Social_Encounter_293]]
 - Originates from
-- Leads to [[Master Conductor Nereus Voidcaller
-- Influences [NPC01010_Ysara_Frostwhisper_the_Redeemed]]
+- Leads to [[NPC01010_Ysara_Frostwhisper_the_Redeemed]]
 - Compare with [[step_002 (phase_065)
 - See also: [ITEM01191_Greater_Crystal_of_Vigor]]
 - Related: [[Trap Effects Trap Save Dcs and Attack Bonuses
 - Influences [EVENT00075_Magical_Event_76]]
 - Related: [[step_095 (phase_089)
 - Originates from [Observatory Codex 2]]
-- Connects to [[QUEST00123_Side_Quest_124
-- Originates from [NPC00394_Fiora_Blackstone_the_Fallen]]
+- Connects to [[NPC00394_Fiora_Blackstone_the_Fallen]]
 - Leads to [[Assets Locations Location City Sea Witches Coven Sea Witches Coven.svg
 - Leads to [Chief Engineer Brass Voidwright (D&D_References)]]
 - Influences [[experience-points-xphb (variant-rules)
@@ -254,8 +244,7 @@ Requires champions for trial by combat
 - Leads to [guardian-portrait-cos (construct)]]
 - Affected by [[druid-xphb-circle-of-dreams-xge (classes)
 - See also: [chittrkk-demon-lord-of-rats-ccodex]]
-- Leads to [[step_042 (phase_039)
-- Compare with [Vault Keeper Aurelia Crownguard (D&D_References)]]
+- Leads to [[Vault Keeper Aurelia Crownguard (D&D_References)]]
 - See also: [[step_037 (phase_082)
 - See also: [sacristy]]
 - Related: [[Location City the Contract Archive the Contract Archive.svg
@@ -265,8 +254,7 @@ Requires champions for trial by combat
 - Connects to [[step_048 (phase_030)
 - Compare with [Information Exchanges 2]]
 - Requires
-- Compare with [[Marina the Unifier
-- Connects to [NPC00557_Elric_Ironforge_the_Fallen]]
+- Compare with [[NPC00557_Elric_Ironforge_the_Fallen]]
 - Compare with [[Storm_Caller_Druid
 
 ## Visual References

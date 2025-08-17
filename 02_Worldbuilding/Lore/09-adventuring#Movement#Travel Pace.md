@@ -4,8 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: [09 adventuring#Movement]]#[[Travel Pace
+- [[09 Adventuring]]#[[Travel Pace
 type: lore
 updated: 2025-08-14
 ---

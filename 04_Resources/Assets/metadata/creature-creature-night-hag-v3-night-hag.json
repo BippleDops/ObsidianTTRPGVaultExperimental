@@ -25,5 +25,8 @@
   "alt_text": "Concept art of night-hag with anatomy, scale, and environment.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-night-hag-v3-night-hag.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-night-hag-v3-night-hag.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:06:52.820Z",
+  "generationMethod": "ComfyUI"
 }

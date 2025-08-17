@@ -25,5 +25,8 @@
   "alt_text": "Concept art of black-dragon with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-black-dragon-v4-black-dragon.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-black-dragon-v4-black-dragon.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:58:47.834Z",
+  "generationMethod": "ComfyUI"
 }

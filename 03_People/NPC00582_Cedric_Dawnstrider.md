@@ -272,7 +272,7 @@ Being extorted by criminals
 - Originates from [undead-spirit-skeletal-xphb (undead)]]
 - Affected by [[NPC0160_Aldric_Brightblade
 - Compare with [Temporal Magic Research]]
-- Compare with [[step_003 (phase_079)]]
+- Compare with
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

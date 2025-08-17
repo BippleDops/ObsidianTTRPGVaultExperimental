@@ -304,17 +304,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [Crystal Wardens (People)]]
 - [[His Own Shadow
 - [Knight]]
-- [[Oracle
-- [The Barnacle]]
-- [[The Sorrowmaster
-- [Vex Shadowthorn's Apprentices]]
-- [[Lumengarde
-- [Lumengarde (D&D_References)]]
-- [[Vex Shadowthorn's Apprentices (D&D_References)
-- [Abyssal Cathedral]]
-- [[Assassin (D&D_Statblocks)
-- [His Own Shadow (D&D_Statblocks)]]
-- [[Knight (D&D_Statblocks)
-- [Oracle (D&D_Statblocks)]]
-- [[The Barnacle (D&D_Statblocks)
-- [The Sorrowmaster (D&D_Statblocks)]]
+- [[The Barnacle]]
+- [[Vex Shadowthorn's Apprentices]]
+- [[Lumengarde (D&D_References)]]
+- [[Vex Shadowthorn's Apprentices (D&D_References)]]
+- [[His Own Shadow (D&D_Statblocks)]]
+- [[Knight (D&D_Statblocks)]]
+- [[The Sorrowmaster (D&D_Statblocks)]]

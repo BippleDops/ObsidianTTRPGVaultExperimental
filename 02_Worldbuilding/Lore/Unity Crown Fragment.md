@@ -1,7 +1,6 @@
 ---
 
-title: Unity [[Crown Fragment
-type: [Lore]]
+title: Unity [[Crown Fragment]]
 tags:
 - lore
 - worldbuilding
@@ -92,60 +91,7 @@ Unity Crown Fragment represents a crucial aspect of the world's history, cosmolo
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[Peoples
-
-### The Golden Era (500 years ago)
-- Economic prosperity
-- Cultural renaissance
-- Expansion of territory
-
-### The [Time]] of Troubles (100 years ago)
+- War with indigenous [[People]] of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current [[Power Structures established
-
-## Cultural Practices
-
-### Greetings
-- Touch foreheads for equals
-- Bow deeply to superiors
-- Never shake with left hand
-
-### Taboos
-- Speaking during sunset prayer
-- Wearing red on holy days
-- Pointing at the moon
-
-## Economic Structure
-
-### Currency
-- Copper Drops (cp)
-- Silver Streams (sp)
-- Gold Suns (gp)
-- Platinum Crowns (pp)
-
-### Major Exports
-- Refined crystals
-- Exotic textiles
-- Trained beasts
-
-### Wealth Distribution
-- 1% control 60% of wealth
-- 20% middle class
-- 79% working poor
-
-## Religious Observances
-
-### Daily Prayers
-- Dawn: Gratitude for life
-- Noon: Strength for labor
-- Dusk: Protection from darkness
-
-### Weekly Observance
-- Temple attendance mandatory
-- Ritual cleansing required
-- Tithing of 10% income
-
-## References
-
-- [Session 09 the Shard Convergence]]
+- Current [[Power Structures]]

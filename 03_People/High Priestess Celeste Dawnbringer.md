@@ -112,18 +112,7 @@ High Priestess Celeste Dawnbringer leads the Church of the Luminous Dawn in [[Cr
 > - Maintains correspondence with healers in other realms seeking cures
 > - Her own faith is beginning to crack under the weight of deception
 > - Has created false healing miracles to maintain public confidence
-> - Knows the location of two of [[The Seven Shards through the queen
-
-## Voice & Mannerisms
-
-**Voice**: Deep and resot
-
-**Speech Pattern**: Formal and elaborate
-
-**Physical Habits**: Remains perfectly still
-
-## Motivations
-1. **Primary**: Heal and protect [Queen Seraphina Lumengarde]] at all costs
+> - Knows the location of two of [[The Seven Shards]] at all costs
 2. **Secondary**: Prevent civil war through secrecy and stability
 3. **Hidden**: Find a true cure for crystal corruption
 4. **Personal**: Reconcile her actions with her faith and conscience
@@ -454,14 +443,11 @@ Member of House Lionblood - Trait: divine blood
 
 ## References
 
-- [[Campaign_Relationship_Matrix
-- [Quest - Diplomatic Immunity]]
+- [[Campaign_Relationship_Matrix]]
 - [[Quest - The Pretender's Crown
 - [Queen Seraphina Lumengarde (People)]]
 - [[Knight
 - [The Crimson Shard Guardian]]
-- [[Crystalhaven (D&D_References)
-- [Queen Seraphina Lumengarde (D&D_References)]]
-- [[The Festival of Rising Tides (D&D_References)
-- [Knight (D&D_Statblocks)]]
+- [[Queen Seraphina Lumengarde (D&D_References)]]
+- [[The Festival of Rising Tides (D&D_References)]]
 - [[The Crimson Shard Guardian (D&D_Statblocks)]]

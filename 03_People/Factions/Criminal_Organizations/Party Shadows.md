@@ -133,10 +133,7 @@ The Party Shadows operates through a cellular structure that mirrors the shadow 
 Led by [[Ambassador Nerida Deepcurrent, this branch focuses on legitimate political influence within the [Parliament of Echoes]]. Members like [[Senator Glaucus Brain and [Tribune Cassia Deepcurrent]] maintain public careers while secretly advancing shadow agendas. They specialize in memory trading, information brokerage, and the subtle art of making opponents forget critical details during key votes.
 
 ### The Surgical Division
-The most disturbing aspect of Party Shadows operations, headed by [[The Silhouette Surgeon Prime. This division performs "shadow surgeries" - procedures that alter memories, modify identities, and even transplant shadow-touched abilities between individuals. [Vex Shadowthorn's Apprentices]] serve as field operatives, while [[Shadow Surgeon Apprentices handle routine procedures.
-
-### The Mirror Network
-A surveillance and intelligence arm consisting of [Shadow Broker Mirrors]] - individuals who have undergone procedures to become living spy networks. Each Mirror can share consciousness with their handler, creating an information web that spans Aquabyssos society. They appear as ordinary citizens but report everything they witness to the collective shadow consciousness.
+The most disturbing aspect of Party Shadows operations, headed by [[The Silhouette Surgeon Prime. This division performs "shadow surgeries" - procedures that alter memories, modify identities, and even transplant shadow-touched abilities between individuals. [Vex Shadowthorn's Apprentices]] serve as field operatives, while [[Shadow Surgeon Apprentice]] - individuals who have undergone procedures to become living spy networks. Each Mirror can share consciousness with their handler, creating an information web that spans Aquabyssos society. They appear as ordinary citizens but report everything they witness to the collective shadow consciousness.
 
 ### Hidden Agenda: The Shadow Parliament
 The ultimate objective involves replacing the [[Parliament of Echoes entirely with a [Parliament of Shadows]] where decisions are made through shadow consensus rather than democratic debate. This new system would eliminate the messiness of public opinion by directly manipulating the collective unconscious of Aquabyssos citizens.

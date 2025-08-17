@@ -163,18 +163,15 @@ Competitor sabotaging business
 
 ## Connections
 
-- Compare with [[MON00151_Constructs_Creature_152
-- Related: [LOC00257_Planes_Location_258]]
+- Compare with [[MON00151_Constructs_Creature_152]]
 - Connects to [[EXAMPLE_CAMPAIGN_SETUP
 - Compare with [step_092 (phase_099)]]
-- Originates from [[Whisper Island Docks
-- Parallels [ENC00011_Environmental_Encounter_12]]
+- Originates from [[ENC00011_Environmental_Encounter_12]]
 - Influences [[Armor of Poison Resistance Xdmg
 - Connects to [step_076 (phase_042)]]
 - Connects to [[Assets Locations Location City War of the Sunless Depths War of the Sunless Depths.svg
 - See also: [LORE00154_Prophecies_Entry_155]]
-- Related: [[Aquabyssos - Session 06 - The Silhouette Surgeons
-- Compare with [The Contingency Vault]]
+- Related: [[Aquabyssos - Session 06 - The Silhouette Surgeons]]
 - See also: [[step_076 (phase_022)
 - Connects to [step_070 (phase_007)]]
 - Influences [[step_096 (phase_058)
@@ -183,8 +180,7 @@ Competitor sabotaging business
 - Originates from [Thalassa Lightbringer (D&D_References)]]
 - Originates from [[LOC00070_Planes_Location_71
 - See also: [LOC00086_Dungeons_Location_87]]
-- Connects to [[QUEST00003_Side_Quest_4
-- Parallels [Communications Specialist Echo Farspeak]]
+- Connects to [[Communications Specialist Echo Farspeak]]
 - Parallels [[ITEM00120_Cursed_Hammer_of_the_Ancients
 - Compare with [step_005 (phase_017)]]
 - Originates from [[monsters-by-habitat-desert-monsters-xmm (tables)
@@ -204,8 +200,7 @@ Competitor sabotaging business
 - Connects to [step_097 (phase_009)]]
 - Related: [[Surface Signals
 - See also: [Independent Shadow Cell (Criminal_Organizations)]]
-- Compare with [[The Whispering Depths (D&D_References)
-- Parallels [NPC00343_Ysara_Thornweave_the_Bold]]
+- Compare with [[The Whispering Depths (D&D_References)]]
 - Related: [[04_Resources_Assets_Symbols_symbol-heraldry-border-fortresses-border-fortresses.svg
 - Leads to [step_093 (phase_063)]]
 - See also: [[QUEST00200_Personal_Quest_201
@@ -216,24 +211,20 @@ Competitor sabotaging business
 - Requires [step_039 (phase_004)]]
 - Parallels [[Undead Spirit Xphb
 - Originates from [step_039 (phase_078)]]
-- Connects to [[NPC0038_Nathaniel_Stormwind
-- See also: [step_035 (phase_062)]]
+- Connects to [[NPC0038_Nathaniel_Stormwind]]
 - Influences [[Scene Scene Pressure Dome Festival Night V2 Pressure Dome Festival Night.svg
 - See also: [item-mastery (CLI_Reference)]]
 - Connects to [[Portrait NPC Senator Glaucus V2 Senator Glaucus.svg_1 (Portraits)
 - Parallels [forgotten-realms-bane (deities)]]
-- Connects to [[step_005 (phase_065)
-- Parallels [Deep Mother Spawning Pools 2]]
-- Influences [[Rogue Xphb
-- Influences [LOC00282_Dungeons_Location_283]]
+- Connects to [[Deep Mother Spawning Pools 2]]
+- Influences [[LOC00282_Dungeons_Location_283]]
 - Parallels [[Portrait NPC Captain Nerion Deepward V2 Captain Nerion Deepward.svg
 - Influences [Original Glaucus (D&D_References)]]
 - Requires [[step_012 (phase_063)
 - Parallels [ITEM00065_Shadow_Spear_of_Speed]]
 - Related: [[step_008 (phase_037)
 - Compare with [Heart of Convergence]]
-- Leads to [[step_096 (phase_026)
-- Related: [Portrait NPC Bank... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Leads to [[Portrait NPC Bank... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[ITEM00585_Ethereal_Helm_of_Grace
 - Affected by [NPC2]]
 - Connects to [[SPELL00015_Nature_Spell_16
@@ -242,8 +233,7 @@ Competitor sabotaging business
 - Originates from [The Resoce Prophet]]
 - Compare with [[LOC0104_UpperHaven
 - Influences [step_032 (phase_061)]]
-- See also: [[ENC00088_Combat_Encounter_89
-- Leads to [ENC00076_Environmental_Encounter_77]]
+- See also: [[ENC00076_Environmental_Encounter_77]]
 - Originates from [[FAC00087_Guilds_88
 - Compare with [Assets Locations Location City Battle Priest Cassius Depthshield Battle Priest Cassius Depthshield.svg]]
 - Influences [[Architect Coral Builder
@@ -257,8 +247,7 @@ Competitor sabotaging business
 - Influences [High Priestess Tidal Blessing (People)]]
 - Leads to [[Fighter Xphb Champion Xphb
 - Originates from [ITEM01222_Distilled_Elixir_of_Healing]]
-- Influences [[Deep-Sea Rescue Operations
-- Compare with [Gm Session Packets Aquabyssos Session 01]]
+- Influences [[Gm Session Packets Aquabyssos Session 01]]
 - Originates from
 - See also: [[LORE00319_Legends_Entry_320
 - Requires [The Recursion Cult 2]]

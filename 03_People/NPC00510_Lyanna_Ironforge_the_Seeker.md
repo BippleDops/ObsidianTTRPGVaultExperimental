@@ -154,8 +154,7 @@ Being extorted by criminals
 
 ## Connections
 
-- Affected by [[Kelp Maze (D&D_References)
-- Parallels [Cultural Liaison Twilight Bridgewalker]]
+- Affected by [[Cultural Liaison Twilight Bridgewalker]]
 - Influences [[Doctor Prism Voidweaver
 - See also: [step_010 (phase_042)]]
 - Requires [[NPC01030_Erasmus_Nightfall_the_Strong
@@ -175,8 +174,7 @@ Being extorted by criminals
 - Affected by [[Crystal-Enhanced Combat Techniques
 - Influences
 - Parallels [Treasure Themes Xdmg]]
-- Compare with [[step_003 (phase_079)
-- Leads to [Countess Marina Stormcrest (D&D_References)]]
+- Compare with [[Countess Marina Stormcrest (D&D_References)]]
 - Affected by [[Scatter Xge
 - Influences [Tidal Chambers 2]]
 - Related: [[
@@ -187,8 +185,7 @@ Being extorted by criminals
 - Originates from [QUEST00100_Main_Quest_101]]
 - Influences [[ITEM00479_Mithril_Plate_of_Resistance
 - Parallels [LOC00250_Cities_Location_251]]
-- Parallels [[Complete Reality Merger System (D&D_References)
-- Compare with [Memory Verification Devices]]
+- Parallels [[Complete Reality Merger System (D&D_References)]]
 - See also: [[MON00094_Aberrations_Creature_95
 - Parallels
 - See also: [Creature Creature Goblin Warrior Xmm V3 Goblin Warrior Xmm.png]]
@@ -198,8 +195,7 @@ Being extorted by criminals
 - Influences [step_055 (phase_033)]]
 - Affected by [[LOC00269_Cities_Location_270
 - Requires [ITEM01140_Superior_Salve_of_Healing]]
-- Related: [[step_088 (phase_077)
-- Requires [Quest - The Crystal Refugees]]
+- Related: [[Quest - The Crystal Refugees]]
 - Parallels [[Cross-Realm Agricultural Exchang 2
 - Connects to [Location City Keeper Valdris Goldvault Keeper Valdris Goldvault.svg]]
 - Parallels [[step_074 (phase_092)
@@ -211,34 +207,26 @@ Being extorted by criminals
 - Originates from [Location City the Slave Markets of Tethys V1 the Slave Markets of Tethys.svg]]
 - Related: [[03 Chapter 3 the Darklake
 - Compare with [Fear Amplification]]
-- Related: [[Cantrip Xphb
-- See also: [LOC00018_Towns_Location_19]]
+- Related: [[LOC00018_Towns_Location_19]]
 - Affected by [[NPC00884_Idris_Grimholt_the_Redeemed
 - Influences [Assets Locations Location City Shadow Trackhound V1 Shadow Trackhound.svg]]
-- See also: [[location-city-aethermoor-aethermoor.svg
-- Leads to [Shadow Physiology and Anatomy (D&D_References)]]
+- See also: [[Shadow Physiology and Anatomy (D&D_References)]]
 - Parallels [[ITEM00681_Enchanted_Gauntlets_of_Grace
 - Influences [Observatory Codex 2]]
 - Leads to [[Gith Tables Githzerai Flaws Mtf
 - Affected by [step_041 (phase_012)]]
 - Requires [[arch-hag-xmm (legendary-group)
 - Influences [12_Research_D&D_Statblocks_High_Priestess_Celeste_Dawnbringer]]
-- Influences [[The Depth Market 2
-- Affected by [Sensory_Signature_Guides (D&D_References)]]
-- Requires [[step_090 (phase_059)
-- Parallels [LOC00257_Dungeons_Location_258]]
-- Affected by [[step_030 (phase_060)
-- Affected by [LOC00141_Cities_Location_142]]
+- Influences [[Sensory_Signature_Guides (D&D_References)]]
+- Requires [[LOC00257_Dungeons_Location_258]]
+- Affected by [[LOC00141_Cities_Location_142]]
 - Parallels [[Deep Mother Cult Practices (D&D_References)
 - Parallels [Portrait NPC Commander Typhoon Blackheart V1 Commander Typhoon Blackheart.svg]]
 - Influences [[step_041 (phase_009)
 - Compare with [step_063 (phase_029)]]
-- Compare with [[morkoth-vgm (legendary-group)
-- Related: [Supplier Erikson Tidecaller (D&D_References)]]
-- See also: [[Smuggler Captain Marina Darkwater
-- Related: [Protection Xphb]]
-- Originates from [[NPC01477_Solas_Crystalbrook_the_Risen
-- Leads to [LOC00116_Wilderness_Location_117]]
+- Compare with [[Supplier Erikson Tidecaller (D&D_References)]]
+- See also: [[Smuggler Captain Marina Darkwater]]
+- Originates from [[NPC01477_Solas_Crystalbrook_the_Risen]]
 - Affected by [[Pressure Crystals 2
 - Influences [Location City the Foundation Depths V1 the Foundation Depths.svg]]
 - Affected by [[Map Map Bioluminescent Forest Ambush V1 Bioluminescent Forest Ambush.svg
@@ -252,8 +240,7 @@ Being extorted by criminals
 - Affected by [[ITEM01306_Elegant_Tool_Kit_of_Durability
 - Connects to
 - Compare with [step_049 (phase_017)]]
-- Influences [[The Original Target (D&D_References)
-- Related: [step_007 (phase_052)]]
+- Influences [[The Original Target (D&D_References)]]
 
 ## Visual References
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png

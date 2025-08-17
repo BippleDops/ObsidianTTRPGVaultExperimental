@@ -161,8 +161,7 @@ Seeks bodyguards for dangerous journey
 
 ## Connections
 
-- Parallels [[LOC00063_Dungeons_Location_64
-- Leads to [NPC00558_Malakai_Frostwhisper_the_Mystic]]
+- Parallels [[NPC00558_Malakai_Frostwhisper_the_Mystic]]
 - Originates from [[Assets Locations Location City Screaming Gardens Songwood Grove Screaming Gardens Songwood Grove.svg
 - Influences [conditions#prone]]
 - Compare with [[step_055 (phase_087)
@@ -181,21 +180,17 @@ Seeks bodyguards for dangerous journey
 - Originates from [steam-mephit-xmm (elemental)]]
 - Originates from [[LORE00277_Legends_Entry_278
 - Compare with [step_013 (phase_097)]]
-- Influences [[Master Artificer Thymallos 2
-- Requires [step_035 (phase_068)]]
+- Influences [[Master Artificer Thymallos 2]]
 - Compare with [[NPC01781_Urien_Keenblade_the_Cunning
 - Related:
 - Related: [SPELL00120_Arcane_Spell_121]]
-- Leads to [[MON00106_Constructs_Creature_107
-- Influences [Barrel Xphb]]
-- Influences [[Assets Handouts Handout Handout Embassy Invitation V1 Embassy Invitation.png
-- Requires [Symbol Heraldry Arc... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Leads to [[MON00106_Constructs_Creature_107]]
+- Influences [[Symbol Heraldry Arc... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Influences [[LOC00083_Wilderness_Location_84
 - Affected by [LOC00273_Wilderness_Location_274]]
 - Originates from [[Protection Xphb
 - Connects to [swarm-of-lemures-xmm (fiend)]]
-- Leads to [[step_066 (phase_074)
-- Requires [Rogue Magical Practitioners]]
+- Leads to [[Rogue Magical Practitioners]]
 - Leads to [[wand-of-magic-missiles-xdmg (items)
 - Affected by [Symbiotic Integration Specialists]]
 - Related: [[Freedom of Movement Xphb
@@ -211,12 +206,10 @@ Seeks bodyguards for dangerous journey
 - Requires [step_091 (phase_024)]]
 - Compare with [[Assets Locations Location City Temple District V1 Temple District.svg
 - Compare with [special-features-what-is-a-detail-from-its-history]]
-- Compare with [[step_046 (phase_084)
-- See also: [ENC00292_Combat_Encounter_293]]
+- Compare with [[ENC00292_Combat_Encounter_293]]
 - Connects to [[Portrait NPC Prince Caspian Duskwater V1 Prince Caspian Duskwater.svg_1 (Portraits)
 - Leads to [step_075 (phase_092)]]
-- Connects to [[The Grand Crystal Exchange
-- Leads to [4 Spells]]
+- Connects to [[The Grand Crystal Exchange]]
 - Parallels [[Assets Portraits Portrait NPC Lord Commander Steelborn Lord Commander Steelborn.svg
 - See also: [Location City War Machine Assembly Halls V1 War Machine Assembly Halls.svg]]
 - Affected by [[Miners Pick
@@ -224,10 +217,8 @@ Seeks bodyguards for dangerous journey
 - Originates from [[upper-class-carousing-complications-xge (tables)
 - Related: [QUEST00231_Side_Quest_232]]
 - Originates from
-- Related: [[The Drowning Embrace (D&D_References)
-- Affected by [yuan-ti-malison-type-4-vgm]]
-- Related: [[Downtime Activity Recuperating Phb
-- Affected by [step_059 (phase_019)]]
+- Related: [[The Drowning Embrace (D&D_References)]]
+- Related: [[Downtime Activity Recuperating Phb]]
 - Affected by [[QUEST00259_Side_Quest_260
 - Parallels [location-city-prism-sword-v1-prism-sword.svg]]
 - Leads to [[Assets Locations Location City Quest the Missing Fleet V1 Quest the Missing Fleet.svg
@@ -245,22 +236,18 @@ Seeks bodyguards for dangerous journey
 - Related: [[Roleplaying a Yuan Ti Yuan Ti Personality Traits Vgm
 - Related: [step_060 (phase_069)]]
 - Originates from
-- Parallels [[Portrait NPC Othe... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Related: [Portrait NPC Pirate Lords of the Spiral Depths V2 Pirate Lords of the Spiral Depths.svg]]
+- Parallels [[Portrait NPC Othe... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Affected by [[Siege Tower Xdmg
 - Leads to [ITEM00883_Primordial_Tome_of_Destiny]]
 - Requires [[step_076 (phase_100)
 - See also: [Animated Halberd Cos]]
-- Compare with [[step_079 (phase_079)
-- Influences [Leviathan Prophet Thalassa 2]]
+- Compare with [[Leviathan Prophet Thalassa 2]]
 - See also: [[red-dragon-xmm (legendary-group)
 - Requires [ITEM01214_Refined_Herb_of_Clarity]]
-- Parallels [[Sky Trader Zephyr Windcatcher 2
-- Leads to [Red Dragon]]
-- Influences [[Update Portal
-- Connects to [Aquabyssos World Overview#Government The Depth Hierarchy]]
+- Parallels [[Sky Trader Zephyr Windcatcher 2]]
+- Influences [[Aquabyssos World Overview]]
 - Leads to
-- Requires [[step_032 (phase_026)]]
+- Requires
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

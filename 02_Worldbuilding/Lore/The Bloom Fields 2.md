@@ -31,11 +31,7 @@ zone_type: Bioluminescent Agricultural Complex
 *Where Light Grows in the Darkness of the Deep*
 
 > *"In the deepest trenches where sunlight has never touched, life creates its own stars. The Bloom Fields stretch like constellations across the ocean floor, each organism a tiny galaxy of living light. Here, we have learned that cultivation is not about imposing our will upon nature, but about understanding the harmony of light and darkness, of growth and depth, of individual brilliance and collective luminescence."*
-> — [[Master Cultivator Luminos Deepglow, Director of Bioluminescent Agriculture
-
-## Overview
-
-The Bloom Fields represent one of [02_Worldbuilding/Places/Aquabyssos]]'s most remarkable environmental achievements—vast underwater agricultural zones where bioluminescent organisms create spectacular displays of living light while providing essential food, materials, and ecological services. These carefully managed ecosystems stretch across thousands of square kilometers of ocean floor at optimal depths, creating an otherworldly landscape where darkness blooms with constellations of organic illumination.
+> — [[Master Cultivator Luminos Deepglow]]'s most remarkable environmental achievements—vast underwater agricultural zones where bioluminescent organisms create spectacular displays of living light while providing essential food, materials, and ecological services. These carefully managed ecosystems stretch across thousands of square kilometers of ocean floor at optimal depths, creating an otherworldly landscape where darkness blooms with constellations of organic illumination.
 
 Unlike traditional surface agriculture that relies on photosynthesis and solar energy, the Bloom Fields harness the unique properties of deep-sea bioluminescence, chemosynthesis, and pressure-adapted organisms to create sustainable food production systems that thrive in the crushing depths. Through centuries of selective cultivation and environmental engineering, [[02_Worldbuilding/Places/Aquabyssos has transformed barren deep-sea plains into thriving gardens of light that sustain millions of inhabitants.
 

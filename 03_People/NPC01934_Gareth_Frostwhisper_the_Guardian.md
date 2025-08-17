@@ -206,20 +206,17 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[Battleaxe Xphb
 - Requires
 - See also: [demilich]]
-- Affected by [[downtime-activity-crafting-a-magic-item (variant-rules)
-- See also: [Identity Preservation]]
+- Affected by [[downtime-activity-crafting-a-magic-item (variant-rules)]]
 - Requires [[step_002 (phase_027)
 - Influences [NPC00295_Jorah_Silverleaf]]
-- Affected by [[The Battle of Parliament Dee
-- Leads to [zircon-xdmg (items)]]
+- Affected by [[The Battle of Parliament Dee]]
 - Related: [[step_072 (phase_076)
 - Parallels [LORE00173_Prophecies_Entry_174]]
 - See also: [[ITEM00927_Refined_Elixir_of_Vigor
 - Parallels [Portrait NPC Pearl Empress Lustrous V1 Pearl Empress Lustrous.svg_1 (Portraits)]]
 - Influences [[Boon of Dimensional Travel Xphb
 - Compare with [LORE00123_Prophecies_Entry_124]]
-- Requires [[Intel Master Raven Shadowsigh 2
-- Affected by [Basket Xphb]]
+- Requires [[Intel Master Raven Shadowsigh 2]]
 - Leads to [[step_075 (phase_056)
 - Parallels
 - Related: [step_073 (phase_026)]]
@@ -240,15 +237,12 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [northern-flanaess-locations-xdmg (tables)]]
 - See also: [[Equipment Development Workshops
 - See also: [star-spawn-mangler-mpmm (aberration)]]
-- Influences [[bonus-action-xphb (variant-rules)
-- Requires [Shadow Cultis]]
+- Influences [[bonus-action-xphb (variant-rules)]]
 - Parallels [[Creature Creature Violet Fungus Xmm Violet Fungus Xmm.png
 - Leads to
 - Affected by [ENC00332_Combat_Encounter_333]]
-- Affected by [[Information Systems Alliance 2
-- Affected by [Pearl_Harbor_City 2]]
-- Connects to [[LOC00234_Wilderness_Location_235
-- Leads to [SPELL00154_Nature_Spell_155]]
+- Affected by [[Information Systems Alliance 2]]
+- Connects to [[LOC00234_Wilderness_Location_235]]
 - Leads to [[Complete_Temporal_Mechanics_System (D&D_References)
 - Connects to [LOC00259_Cities_Location_260]]
 - Originates from [[List Spells Classes Clockwork Sorcery Xphb
@@ -261,8 +255,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [step_098 (phase_092)]]
 - Affected by [[LORE00182_Legends_Entry_183
 - Requires [Assets Portraits Portrait NPC the Scattered Emperor the Scattered Emperor.svg]]
-- Parallels [[downtime-activity-relaxation-xge (variant-rules)
-- See also: [SPELL00045_Arcane_Spell_46]]
+- Parallels [[downtime-activity-relaxation-xge (variant-rules)]]
 - See also: [[Assets Locations Location City the Gloom Gardens V1 the Gloom Gardens.svg
 - Compare with [NPC00078_Qadim_Goldleaf]]
 - Connects to [[Portrait NPC High Techno Priest Lumina Skyweaver High Techno Priest Lumina Skyweaver.svg
@@ -271,26 +264,21 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [step_043 (phase_008)]]
 - Compare with [[The Sacred Convergence Plaza
 - Related: [Assets Locations Location City Mediator Cardinal Harmony Mediator Cardinal Harmony.svg]]
-- Related: [[Consequence Chain 3 Reality Merger Diplomatic Crisis (D&D_References)
-- Affected by [gilded-royal-coach-or-funeral-barge-xdmg (items)]]
+- Related: [[Consequence Chain 3 Reality Merger Diplomatic Crisis (D&D_References)]]
 - Affected by [[02_Worldbuilding_Lore_Quantum_Magic_Theory
 - Originates from [adding-basic-facilities-xdmg (tables)]]
-- Connects to [[LOC00263_Cities_Location_264
-- Parallels [step_100 (phase_056)]]
+- Connects to [[LOC00263_Cities_Location_264]]
 - Leads to [[step_056 (phase_065)
 - See also: [D20 Test Xphb]]
 - Parallels [[Queen Glacialis
 - Related:
 - Originates from [step_043 (phase_062)]]
-- Related: [[MON00056_Constructs_Creature_57
-- Connects to [step_064 (phase_014)]]
-- Affected by [[vrock-xmm (fiend)
-- Affected by [ENC00065_Combat_Encounter_66]]
+- Related: [[MON00056_Constructs_Creature_57]]
+- Affected by [[ENC00065_Combat_Encounter_66]]
 - Parallels
 - Related: [[Assets Locations Location City Marquis Aldwin Goldcurrent Marquis Aldwin Goldcurrent.svg
 - Connects to [step_041 (phase_029)]]
-- Parallels [[step_053 (phase_031)
-- Connects to [Security Chief Wade Peacekeep 2]]
+- Parallels [[Security Chief Wade Peacekeep 2]]
 - Connects to [[Physical Characteristics Beholder Skin
 - Requires [kuo-toa-monitor-xmm]]
 - Parallels [[portrait-npc-crystal-wardens-crystal-wardens.svg

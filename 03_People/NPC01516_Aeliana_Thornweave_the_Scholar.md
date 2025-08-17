@@ -182,77 +182,61 @@ Knows secret about major threat
 - Parallels [[Lady Victoria Pennworth (D&D_References)
 - Connects to
 - Affected by [Brother Matthias Inkdrinker (D&D_References)]]
-- Leads to [[QUEST00186_Personal_Quest_187
-- Leads to [VAULT_STRUCTURE_PLAN]]
+- Leads to [[QUEST00186_Personal_Quest_187]]
 - Related: [[LOC00171_Wilderness_Location_172
 - See also: [Portrait NPC the Pearl Heist V1 the Pearl Heist.svg]]
-- Requires [[Cross-Realm Cultural Exchange
-- Compare with [Herbalism Kit Xphb]]
+- Requires [[Cross-Realm Cultural Exchange]]
 - See also: [[Eastern Kingdoms (02_Worldbuilding)
 - Parallels [The Skyborn Elite]]
 - Leads to [[02_Worldbuilding_Items_Alchemy_Tools
 - Leads to [kraken-priest-mpmm (monstrosity)]]
-- Related: [[Emperor Thalassius (D&D_References)
-- Affected by [Jump Xphb]]
+- Related: [[Emperor Thalassius (D&D_References)]]
 - Influences [[step_085 (phase_044)
 - Parallels [axe-beak-xmm (monstrosity)]]
-- Affected by [[LORE00184_Legends_Entry_185
-- Parallels [Scholar Emperor Thalassius the Wise (D&D_References)]]
+- Affected by [[Scholar Emperor Thalassius the Wise (D&D_References)]]
 - Parallels
-- Influences [[Annis Hag Vgm
-- Originates from [Palace Guard Captain Neutralis]]
+- Influences [[Palace Guard Captain Neutralis]]
 - Connects to [[tome-of-leadership-and-influence-xdmg (items)
 - Compare with [LOC00140_Towns_Location_141]]
 - Connects to [[Emergency Protocols 2 (Places)
 - Related: [ENC00346_Combat_Encounter_347]]
-- Related: [[Quartermaster Shadow Supply (D&D_References)
-- Requires [Political Intrigue of Meridian (D&D_References)]]
+- Related: [[Political Intrigue of Meridian (D&D_References)]]
 - Influences [[Emergency Backup
 - Influences [Assets Item Artifact Poisoners Kit Xphb V7 Poisoners Kit Xphb.png]]
 - Parallels
-- Requires [[Faith Testing Grounds
-- Affected by [monuments]]
+- Requires [[Faith Testing Grounds]]
 - Connects to [[Interactions With Others NPC Interaction
 - Compare with [MON00112_Aberrations_Creature_113]]
-- Influences [[Bleakmoore Estates 2
-- Influences [MON00106_Aberrations_Creature_107]]
+- Influences [[MON00106_Aberrations_Creature_107]]
 - Affected by [[Assets Locations Location City Nereidios V1 Nereidios.svg
 - Influences [False Breather (D&D_References)]]
-- Related: [[Emergency Protocol Certification
-- Connects to [NPC00479_Cedric_Keenblade_the_Cunning]]
+- Related: [[NPC00479_Cedric_Keenblade_the_Cunning]]
 - Affected by [[Shadow_Chancellor.png
 - See also: [orc-names-orc-male-names-vgm (tables)]]
 - Influences [[The Memory Palace (D&D_References)
 - Influences [Quest - Legislative Control_1 (01_Adventures)]]
-- Influences [[Trade Commissioner Coral Goldbalance
-- Leads to [Encounters_and_Challenges (D&D_Sourcebooks)]]
+- Influences [[Encounters_and_Challenges (D&D_Sourcebooks)]]
 - Parallels [[The Harbor Depths (D&D_References)
 - See also: [Master Cultivator Reef Growstone]]
 - Compare with [[step_096 (phase_023)
 - Leads to [The Living Docks]]
-- Leads to [[step_022 (phase_030)
-- Requires [ENC00090_Combat_Encounter_91]]
+- Leads to [[ENC00090_Combat_Encounter_91]]
 - Influences [[step_051 (phase_092)
 - Affected by [Harbor Master's License]]
 - Parallels
 - Leads to
-- Compare with [[step_055 (phase_019)
-- Connects to [Vault Keeper Aurelia Crownguard]]
+- Compare with [[Vault Keeper Aurelia Crownguard]]
 - Related: [[LORE00291_Legends_Entry_292
 - Related: [In-World_Handouts_Gallery]]
 - Connects to [[list-spells-school-abjuration (lists)
 - See also: [step_034 (phase_015)]]
 - Affected by
-- Requires [[step_025 (phase_031)
-- Related: [Mechanics Transformations Crystal Crystal Bloom]]
-- Originates from [[spell-xphb (variant-rules)
-- Requires [step_036 (phase_065)]]
-- Affected by [[Finn Worldwalker 2
-- See also: [Biological Enhancement Procedures 2]]
+- Requires [[Mechanics Transformations Crystal Crystal Bloom]]
+- Originates from [[spell-xphb (variant-rules)]]
+- Affected by [[Biological Enhancement Procedures 2]]
 - Compare with [[LOC00164_Wilderness_Location_165
 - Originates from [The Crystal Integration Festival 2]]
-- Parallels [[NPC0094_Osric_Goldleaf
-- Leads to [Comparative Religion Experts (D&D_References)]]
+- Parallels [[Comparative Religion Experts (D&D_References)]]
 - Influences [[Gloves of Thievery Xdmg
 - Connects to [Temple of the Healing Waters]]
 - Related: [[experience-points-by-challenge-rating-mm (tables)
@@ -270,8 +254,7 @@ Knows secret about major threat
 - Influences [step_028 (phase_072)]]
 - Leads to [[Guild of Cross-Realm Navigators (Groups)
 - Compare with [Random Shop]]
-- Influences [[Divine Communication Specialists 2
-- Leads to [Sage Lyralei Starweaver (D&D_References)]]
+- Influences [[Sage Lyralei Starweaver (D&D_References)]]
 
 ## Visual References
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png

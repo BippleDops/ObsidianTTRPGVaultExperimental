@@ -163,8 +163,7 @@ Needs discrete help with family scandal
 
 - Parallels [[Citizens Against Shadows 2
 - Compare with [MON00031_Constructs_Creature_32]]
-- Related: [[QUEST0079_Captain's_Revenge
-- Compare with [Abyssos Prime Docks (D&D_References)]]
+- Related: [[Abyssos Prime Docks (D&D_References)]]
 - Leads to [[Quantum Compromise Protocols
 - Connects to [Assets Portraits Portrait NPC the Pearl Heist the Pearl Heist.svg]]
 - Connects to [[Void Realm Territories 2
@@ -176,8 +175,7 @@ Needs discrete help with family scandal
 - Affected by [Orc Xphb]]
 - Related: [[helm-of-comprehending-languages-xdmg (items)
 - Parallels [Portrait NPC Archdruid Thornweaver V1 Archdruid Thornweaver.svg_1 (Portraits)]]
-- Parallels [[The Shadow Singer Naia (D&D_Statblocks)
-- Requires [Charisma Check Conversation Reaction]]
+- Parallels [[The Shadow Singer Naia (D&D_Statblocks)]]
 - Originates from
 - Influences [[Colonial Administration (D&D_References)
 - Leads to [gift-of-the-ever-living-ones-xge (optional-features)]]
@@ -185,8 +183,7 @@ Needs discrete help with family scandal
 - Connects to [LORE00114_Prophecies_Entry_115]]
 - Influences [[step_052 (phase_069)
 - Compare with [step_042 (phase_070)]]
-- Affected by [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets D L 03 Deep Mother Dream Tide (People)
-- Originates from [Location City the Cerulean Archipelago the Cerulean Archipelago.svg]]
+- Affected by [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets D L 03 Deep Mother Dream Tide]]
 - Connects to [[Special Features Who Created It Or Was Intended to Use It
 - Compare with [City of Trade]]
 - Requires [[step_015 (phase_045)
@@ -197,12 +194,9 @@ Needs discrete help with family scandal
 - Parallels [step_070 (phase_095)]]
 - See also: [[devastation-orb-of-fire-pota (items)
 - Connects to [ENC00151_Combat_Encounter_152]]
-- Compare with [[step_045 (phase_024)
-- Parallels [NPC01841_Malakai_Nightfall_the_Wise]]
-- Requires [[README (04_Resources)
-- Compare with [Brave Depthfixer (D&D_References)]]
-- Parallels [[Indigo Deepdye 2
-- Affected by [Miranda Hopekeeper (D&D_References)]]
+- Compare with [[NPC01841_Malakai_Nightfall_the_Wise]]
+- Requires [[Brave Depthfixer (D&D_References)]]
+- Parallels [[Miranda Hopekeeper (D&D_References)]]
 - Connects to [[ITEM00530_Enchanted_Gauntlets_of_Resistance
 - Requires [NPC01818_Cedric_Darkwater_the_Seeker]]
 - Compare with [[Memory Keeper Ancient Nerida
@@ -225,18 +219,15 @@ Needs discrete help with family scandal
 - Requires [New Location]]
 - Connects to [[step_026 (phase_012)
 - Leads to [step_011 (phase_005)]]
-- Connects to [[Political Alliances 2
-- Related: [Sage Currentknow (D&D_References)]]
+- Connects to [[Sage Currentknow (D&D_References)]]
 - See also: [[saving-throw-xphb (variant-rules)
 - Leads to [ITEM01113_Pure_Incense_of_Healing]]
 - Originates from [[constrictor-snake-xmm
 - Originates from [SHOP00008_Magical_Shop_9]]
 - Influences [[Dark Gift of Drizlash the Nine Eyed Spider
 - Connects to [step_029 (phase_098)]]
-- Leads to [[twig-blight-xmm (plant)
-- Compare with [NPC00209_Zephyr_Voidwalker_the_Guardian]]
-- Related: [[ENC00106_Social_Encounter_107
-- Influences [Portcullises Xdmg]]
+- Leads to [[NPC00209_Zephyr_Voidwalker_the_Guardian]]
+- Related: [[ENC00106_Social_Encounter_107]]
 - Affected by [[step_036 (phase_016)
 - Related: [Wave Merchant 2]]
 - Originates from [[Location City Merchant Prince Goldwind Crysalborn V1 Merchant Prince Goldwind Crysalborn.svg
@@ -252,12 +243,9 @@ Needs discrete help with family scandal
 - Influences [Entities Crystal Power Nodes]]
 - Parallels [[step_089 (phase_083)
 - See also: [step_096 (phase_019)]]
-- See also: [[step_077 (phase_051)
-- Leads to [QUEST00149_Main_Quest_150]]
-- See also: [[LOC00186_Wilderness_Location_187
-- See also: [NPC01530_Cedric_Oakenshield_the_Lost]]
-- Leads to [[The Cultural Heritage Center
-- Connects to [Senator_Glaucus_Brain (D&D_References)]]
+- See also: [[QUEST00149_Main_Quest_150]]
+- See also: [[NPC01530_Cedric_Oakenshield_the_Lost]]
+- Leads to [[Senator_Glaucus_Brain (D&D_References)]]
 - See also: [[step_089 (phase_028)
 - Originates from [LOC0017_NewBridge]]
 - Requires [[bestow-curse-xphb (spells)

@@ -288,7 +288,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Senator Glaucus
 - [The Scattered Emperor]]
-- [[Aquabyssos - Session 03 - The Gallery Conspiracy
-- [Senator Glaucus (D&D_References)]]
-- [[The Scattered Emperor (D&D_References)
-- [Aquabyssos - Session 01 - The Drowning Welcome]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]

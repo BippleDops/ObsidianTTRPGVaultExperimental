@@ -150,11 +150,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Comprehensive-World-Connection-Guide
-- [Reputation System]]
-- [[Sky Burial Traditions
-- [Comprehensive-World-Connection-Guide (D&D_References)]]
-- [[Comprehensive-World-Connection-Guide 3 (D&D_References)
-- [Reputation System (D&D_References)]]
-- [[Sky Burial Traditions (D&D_References)
-- [Aethermoor - Session 05 The Queens Madness]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
+- [[Aethermoor - Session 05 The Queens Madness]]

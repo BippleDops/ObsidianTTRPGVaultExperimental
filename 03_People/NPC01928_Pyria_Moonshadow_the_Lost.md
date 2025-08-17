@@ -161,38 +161,30 @@ Blackmails party into service
 
 - Compare with [[LORE00166_Legends_Entry_167
 - See also: [LORE00313_Prophecies_Entry_314]]
-- Originates from [[Skill Empowerment Xge
-- Related: [LOC00097_Wilderness_Location_98]]
+- Originates from [[LOC00097_Wilderness_Location_98]]
 - Connects to [[LORE00247_Prophecies_Entry_248
 - See also: [LOC00016_Towns_Location_17]]
 - Affected by [[Silverscale Consortium (02_Worldbuilding)
 - Parallels [Shadow Tide Syndicat]]
-- Requires [[step_087 (phase_056)
-- Influences [LOC00050_Planes_Location_51]]
+- Requires [[LOC00050_Planes_Location_51]]
 - Parallels [[Campaign_Management_Guide
 - Affected by [The Cargo Inspection Station]]
-- Originates from [[QUEST00247_Side_Quest_248
-- Connects to [Eberron the Fury]]
+- Originates from [[QUEST00247_Side_Quest_248]]
 - Affected by [[MON0001_Frost_Stalker
 - Originates from [Location City Memorial Tender Sarah Memorial Tender Sarah.svg]]
 - Leads to [[Portrait NPC Captain Repossession V2 Captain Repossession.svg
 - Originates from [The Great Integration (D&D_References)]]
-- Compare with [[NPC01704_Ewan_Stormwind_the_Mystic
-- Compare with [Hybrid Abominations 2]]
-- Related: [[Lich-Queen Morwyn the Deathless
-- See also: [LORE00045_History_Entry_46]]
+- Compare with [[NPC01704_Ewan_Stormwind_the_Mystic]]
+- Related: [[Lich-Queen Morwyn the Deathless]]
 - Influences [[03_Mechanics_Underwater_Adaptation_Rules_Quick_Ref
 - Leads to [step_053 (phase_019)]]
-- Requires [[The Silence Patrol
-- Related: [Locations the Memory Halls]]
+- Requires [[Locations the Memory Halls]]
 - See also: [[List Spells Optional Features Rush of the
 - Related: [Portrait NPC Banker Titus Goldcurrent V2 Banker Titus Goldcurrent.svg_1 (Portraits)]]
-- Leads to [[Pearlshell
-- Influences [S_009_Void_Moan_Player]]
+- Leads to [[S_009_Void_Moan_Player]]
 - Connects to [[The Transformed Citizens (Lore)
 - Related: [step_027 (phase_087)]]
-- See also: [[The Memory Trade
-- Originates from [NPC01579_Aldric_Proudmore_the_Broken]]
+- See also: [[NPC01579_Aldric_Proudmore_the_Broken]]
 - Connects to [[The_Forgotten_Archive.png
 - Leads to [step_011 (phase_014)]]
 - Compare with [[Crystal Agricultural Research Institute (Groups)
@@ -204,8 +196,7 @@ Blackmails party into service
 - Related: [step_065 (phase_090)]]
 - Parallels [[ITEM0129_Blessed_Blade_of_Shadows
 - Requires [Assets Locations Location City Grief Harvester Melancholy Grief Harvester Melancholy.svg]]
-- Originates from [[LORE0065_History_of_the_Dragon_Wars
-- Requires [step_018 (phase_012)]]
+- Originates from [[LORE0065_History_of_the_Dragon_Wars]]
 - Affected by [[Action_Economy
 - Affected by [step_054 (phase_061)]]
 - Originates from [[.md
@@ -216,20 +207,16 @@ Blackmails party into service
 - Connects to [step_042 (phase_057)]]
 - Affected by [[ITEM00239_Shadow_Sword_of_the_Ancients
 - Leads to [step_049 (phase_022)]]
-- Leads to [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets M L 05 the Dream Sovereign (People)
-- Influences
-- Influences [Portrait NPC Lord Flux the Inconsistent Lord Flux the Inconsistent.svg]]
+- Leads to [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets M L 05 the Dream Sovereign]]
 - Related: [[location-city-noble-council-noble-council.png
 - Related: [Resonance Peaks 2]]
 - Influences [[step_003 (phase_056)
 - See also:
 - Parallels [Sorcerer Xphb Storm Sorcery Xge]]
-- Related: [[step_029 (phase_037)
-- Leads to [NPC01692_Cedric_Lightbringer_the_Cunning]]
+- Related: [[NPC01692_Cedric_Lightbringer_the_Cunning]]
 - Connects to [[variant-spell-points-spell-points-by-level (tables)
 - Related: [The_Loyal_Remt]]
-- Related: [[step_099 (phase_085)
-- Parallels [Constitutional Architect Dr. Harmony Lawbright]]
+- Related: [[Constitutional Architect Dr. Harmony Lawbright]]
 - Influences [[step_055 (phase_090)
 - Affected by [Portrait NPC Abyssos Prime Throne of Bubbles Abyssos Prime Throne of Bubbles.svg_1 (Portraits)]]
 - Related: [[detect-magic-xphb_Quick_Ref
@@ -242,22 +229,19 @@ Blackmails party into service
 - See also: [Clench of the North Wind]]
 - Leads to [[step_029 (phase_040)
 - Compare with [Surgeon Coral Seamender]]
-- Influences [[Technician Dark Arts (D&D_References)
-- See also: [Political Leader Reef-Crown]]
+- Influences [[Technician Dark Arts (D&D_References)]]
 - Originates from [[step_071 (phase_043)
 - Affected by [Mummy Lord Xmm]]
 - Parallels [[Training Complications Xge
 - Originates from [Chief Philosopher Marina Clearpool]]
 - Compare with [[NPC00118_Gavril_Voidwalker
 - Affected by [step_043 (phase_067)]]
-- See also: [[QUEST00189_Side_Quest_190
-- Originates from [4-gith-and-their-endless-war (mordenkainens-tome-of-foes)]]
+- See also: [[4-gith-and-their-endless-war (mordenkainens-tome-of-foes)]]
 - Influences [[step_070 (phase_078)
 - Affected by [step_037 (phase_005)]]
 - Originates from [[The Inter-Realm Marriage Guild (Guilds)
 - Connects to [step_052 (phase_031)]]
-- See also: [[Troglodyte Dmg
-- Leads to [Temple of the Sunken Cathedral 2]]
+- See also: [[Temple of the Sunken Cathedral 2]]
 - Connects to [[Roleplaying a Hag Hag Personality Traits Vgm
 
 ## Visual References

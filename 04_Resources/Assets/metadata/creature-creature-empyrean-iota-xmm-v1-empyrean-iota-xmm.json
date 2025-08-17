@@ -25,5 +25,8 @@
   "alt_text": "Concept art of empyrean-iota-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-empyrean-iota-xmm-v1-empyrean-iota-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-empyrean-iota-xmm-v1-empyrean-iota-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:01:40.516Z",
+  "generationMethod": "ComfyUI"
 }

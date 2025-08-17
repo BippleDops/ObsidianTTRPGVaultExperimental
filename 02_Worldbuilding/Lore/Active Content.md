@@ -101,4 +101,4 @@ Mentioned in The Second Prophecy of Shadows
 
 ## References
 
-- [[Active_Content (02_Worldbuilding)]]
+- [[02_Worldbuilding]]

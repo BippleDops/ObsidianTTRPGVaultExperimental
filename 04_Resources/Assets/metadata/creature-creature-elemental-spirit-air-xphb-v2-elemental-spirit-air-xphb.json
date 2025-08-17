@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "An underwater and sky zone merges together in a depiction that screams fantasy realism. A being that resembles an air elemental spirit, its musculature and unique limbs well defined, interacts within this space showcasing its motion. It carries culturally coherent medieval gear made of aquatic fantasy realism materials, and around it, the bioluminescent accents provide an ethereal feel, casting subsurface caustics everywhere. Human silhouettes in this environment provide a sense of scale. The image is painted in a consistent painterly style with a limited palette emphasizing teals, deep blues, sea-greens, and pearl highlights. Crucial to note, there are no modern technological elements or signage, keeping strictly to the fantastical and medieval setting and ensure no embedded text or words unless specified, keeping symbols meaningful or using numbered pins. The whole design is envisioned within a specific aspect ratio and resolution, carefully avoiding any type of artifacts. The scene avoids photoreal CGI, modern signage, animesque style and bloom glare.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-elemental-spirit-air-xphb-v2-elemental-spirit-air-xphb.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-elemental-spirit-air-xphb-v2-elemental-spirit-air-xphb.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:01:31.127Z",
+  "generationMethod": "ComfyUI"
 }

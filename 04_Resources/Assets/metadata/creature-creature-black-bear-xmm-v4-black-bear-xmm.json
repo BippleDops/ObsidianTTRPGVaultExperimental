@@ -25,5 +25,8 @@
   "alt_text": "Concept art of black-bear-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-black-bear-xmm-v4-black-bear-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-black-bear-xmm-v4-black-bear-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:58:45.423Z",
+  "generationMethod": "ComfyUI"
 }

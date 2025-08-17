@@ -167,8 +167,7 @@ Forming expedition to dangerous location
 
 ## Connections
 
-- See also: [[MON00038_Constructs_Creature_39
-- Requires [step_076 (phase_083)]]
+- See also: [[MON00038_Constructs_Creature_39]]
 - Originates from [[step_066 (phase_064)
 - Originates from [step_009 (phase_088)]]
 - Connects to [[Assets Locations Location City Hidden Smuggler S Cove Hidden Smuggler S Cove.svg
@@ -178,10 +177,8 @@ Forming expedition to dangerous location
 - Affected by [[list-spells-feats-fey-touched-xphb (lists)
 - Leads to
 - See also: [Portrait NPC Financial Corruption V2 Financial Corruption.svg_1 (Portraits)]]
-- Connects to [[ENC00181_Environmental_Encounter_182
-- Connects to [Living Democracy]]
-- Parallels [[LOC00229_Towns_Location_230
-- Affected by [Mourning Depths]]
+- Connects to [[ENC00181_Environmental_Encounter_182]]
+- Parallels [[LOC00229_Towns_Location_230]]
 - Requires [[Location City Military Command Military Command.svg
 - Compare with [step_078 (phase_061)]]
 - Requires [[Ancient Leviathan Spirit
@@ -196,10 +193,8 @@ Forming expedition to dangerous location
 - Affected by [[NPC01547_Branwen_Frostwhisper_the_Mystic
 - Connects to
 - Requires [ITEM01263_Greater_Powder_of_Clarity]]
-- See also: [[NPC00160_Aldric_Ironforge_the_Swift
-- Connects to [Progressive Tide Movement 2]]
-- Compare with [[Coverage_Dashboard (D&D_References)
-- See also: [Ioun Stone Reserve Xdmg]]
+- See also: [[NPC00160_Aldric_Ironforge_the_Swift]]
+- Compare with [[Coverage_Dashboard (D&D_References)]]
 - Requires [[ITEM01417_Ornate_Compass_of_Reliability
 - Influences [NPC00322_Qadim_Quicksilver_the_Redeemed]]
 - Compare with [[The_Coral_Courts.png
@@ -207,34 +202,27 @@ Forming expedition to dangerous location
 - Parallels [Assets Locations Location City High Chancellor Nerissa Deepcurrent High Chancellor Nerissa Deepcurrent.svg]]
 - Parallels [[Parallel Realities
 - Leads to [Pressure Adaptation System (Lore)]]
-- Parallels [[ENC00090_Environmental_Encounter_91
-- See also: [step_051 (phase_017)]]
+- Parallels [[ENC00090_Environmental_Encounter_91]]
 - Originates from [[04_Resources_Assets_Symbols_symbol-heraldry-commerce-manager-fairdealin-commerce-manager-fairdealin.svg
 - Influences [Assets Locations Location City the Diplomatic Quarter V1 the Diplomatic Quarter.svg]]
 - Compare with
 - Connects to [[ITEM00559_Fortified_Plate_of_Protection
 - Related: [MON0022_Bone_Howler]]
-- Connects to [[stinking-cloud-xphb (spells)
-- Parallels [LORE0000_History_of_the_First_King]]
+- Connects to [[LORE0000_History_of_the_First_King]]
 - Requires [[step_057 (phase_008)
 - Influences [step_082 (phase_025)]]
 - Influences [[step_024 (phase_009)
 - Compare with [Portrait NPC Captain Marina Saltborn Captain Marina Saltborn.svg]]
 - Leads to [[step_003 (phase_072)
 - Related: [Fey Spirit Mirthful Xphb]]
-- Compare with [[Cell-Based Revolutionary Organization (D&D_References)
-- Parallels [Lifestyle Expenses Phb]]
+- Compare with [[Cell-Based Revolutionary Organization (D&D_References)]]
 - Leads to [[step_099 (phase_035)
 - Compare with [step_078 (phase_018)]]
 - Leads to [[LOC00275_Planes_Location_276
 - Originates from [Quest - The Shard-Shadow Resonance]]
-- Compare with [[Purifier Marcus Steelbane (D&D_References)
-- Leads to
-- Requires [step_046 (phase_054)]]
-- Connects to [[NPC01525_Rhiannon_Emberfall_the_Scholar
-- Leads to [Divine Preservation Magic 2]]
-- Related: [[Marquis Aldwin Goldcurrent 2
-- Affected by [Safety Director Storm Shieldvoice 2]]
+- Compare with [[Purifier Marcus Steelbane (D&D_References)]]
+- Connects to [[NPC01525_Rhiannon_Emberfall_the_Scholar]]
+- Related: [[Safety Director Storm Shieldvoice 2]]
 - Leads to [[Visibility Underwater Underwater Encounter Distance Xdmg
 - Connects to [Portrait NPC Senator Cordelia Deepcurrent V1 Senator Cordelia Deepcurrent.svg_1 (Portraits)]]
 - Compare with [[LORE00123_Legends_Entry_124
@@ -246,22 +234,17 @@ Forming expedition to dangerous location
 - Connects to [Location City Scribe Master Elena Truthkeeper Scribe Master Elena Truthkeeper.svg]]
 - Related: [[Portrait NPC Queen Lyralei Stormheart V1 Queen Lyralei Stormheart.svg_1 (Portraits)
 - Affected by [NPC00319_Zephyr_Blackstone]]
-- Affected by [[Deputy Ambassador Torren Deepcurrent
-- Influences [High Priestess Celeste Dawnbringer (D&D_Statblocks)]]
-- Compare with [[Magic Missile Xphb
-- Related: [LOC00147_Towns_Location_148]]
+- Affected by [[High Priestess Celeste Dawnbringer (D&D_Statblocks)]]
+- Compare with [[LOC00147_Towns_Location_148]]
 - Compare with [[crafting-an-item-resources-and-resolution-xge (tables)
 - Compare with [ENC00095_Social_Encounter_96]]
-- Affected by [[Sister Thalassa the Depth-Touched (D&D_References)
-- Requires [step_051 (phase_032)]]
+- Affected by [[Sister Thalassa the Depth-Touched (D&D_References)]]
 - Related: [[#Configure
 - Influences [Robe of Scintillating Colors Xdmg]]
-- Affected by [[Innkeeper Mara Ironlung (D&D_References)
-- Affected by [brackish-trudge-scc (plant)]]
+- Affected by [[Innkeeper Mara Ironlung (D&D_References)]]
 - Requires [[Atoll Research Team
 - See also: [step_064 (phase_092)]]
-- Originates from [[step_083 (phase_070)
-- Affected by [LOC00144_Planes_Location_145]]
+- Originates from [[LOC00144_Planes_Location_145]]
 - Influences [[Bronze Dragon Xmm
 - Originates from [Enduring Spellbook Xdmg]]
 - Influences [[Portrait NPC the Resonance Prophet V1 the Resonance Prophet.svg_1 (Portraits)

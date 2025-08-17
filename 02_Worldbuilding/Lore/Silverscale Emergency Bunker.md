@@ -88,7 +88,7 @@ improvements: 20
 
 ## Overview
 
-The Silverscale Emergency Bunker is a heavily fortified underground facility designed to protect key personnel and resources during catastrophic events affecting Aethermoor. Built by the Silverscale [[Organization using both surface and underwater engineering techniques, it represents one of the most secure locations in the surface realm. The bunker features advanced life support systems, magical [Shield]]ing, and secure [[Communication Networks [Link]]ing it to both realms.
+The Silverscale Emergency Bunker is a heavily fortified underground facility designed to protect key personnel and resources during catastrophic events affecting Aethermoor. Built by the Silverscale [[Organization using both surface and underwater engineering techniques, it represents one of the most secure locations in the surface realm. The bunker features advanced life support systems, magical [Shield]]ing, and secure [[Communication Networks]]ing it to both realms.
 
 ## Historical Background
 
@@ -141,7 +141,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## References
 
 - [Silver Mask]]
-- [[The Silverscale Conspiracy
-- [Silver Mask (D&D_References)]]
-- [[The Silverscale Conspiracy (D&D_References)
-- [Aethermoor - Session 04 The Silverscale Gambit]]
+- [[Silver Mask (D&D_References)]]
+- [[Aethermoor - Session 04 The Silverscale Gambit]]

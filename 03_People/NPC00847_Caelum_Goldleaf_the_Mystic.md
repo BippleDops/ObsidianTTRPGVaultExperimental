@@ -178,14 +178,11 @@ Caravan needs guards
 - See also: [drow-2-armor-mm (items)]]
 - Compare with [[Market Prophets
 - Connects to [location-city-regional-courts-regional-courts.svg]]
-- See also: [[step_027 (phase_060)
-- Influences [LOC00165_Cities_Location_166]]
+- See also: [[LOC00165_Cities_Location_166]]
 - Leads to [[step_005 (phase_006)
 - Leads to [Portrait NPC Blackwater Estate V2 Blackwater Estate.svg]]
-- See also: [[ENC00009_Environmental_Encounter_10
-- Compare with [Armor of the First Deep King]]
-- Requires [[step_100 (phase_040)
-- Compare with [ENC00295_Social_Encounter_296]]
+- See also: [[ENC00009_Environmental_Encounter_10]]
+- Requires [[ENC00295_Social_Encounter_296]]
 - Parallels [[step_078 (phase_006)
 - Parallels
 - Compare with [QUEST00319_Side_Quest_320]]
@@ -196,8 +193,7 @@ Caravan needs guards
 - Related: [Assets Locations Location City the Plague Ward the Plague Ward.svg]]
 - Parallels [[step_015 (phase_085)
 - Originates from [step_050 (phase_095)]]
-- Originates from [[SPELL00055_Arcane_Spell_56
-- Parallels [alarm-xphb (spells)]]
+- Originates from [[SPELL00055_Arcane_Spell_56]]
 - Connects to [[Weather_And_Season (D&D_References)
 - Affected by
 - Connects to [Assets Locations Location City the Last Seeds the Last Seeds.svg]]
@@ -208,8 +204,7 @@ Caravan needs guards
 - Parallels [Master Depth-Crystal Thalamos 2]]
 - Influences [[relic-sloth-scc (beast)
 - Requires [Princess Celestia (Lore)]]
-- Related: [[Madame Whisper 2
-- Related: [Director of Experimental Procedures Dr Siren]]
+- Related: [[Director of Experimental Procedures Dr Siren]]
 - Related: [[Location City Wisdom Futureseer V1 Wisdom Futureseer.svg
 - Leads to
 - Leads to [Assets Locations Location City Whisper Island Docks V1 Whisper Island Docks.svg]]
@@ -226,29 +221,24 @@ Caravan needs guards
 - Affected by [step_075 (phase_051)]]
 - Compare with [[Necromantic Rituals 2
 - Influences [SPELL00028_Nature_Spell_29]]
-- Compare with [[step_038 (phase_012)
-- Connects to [ENC00263_Combat_Encounter_264]]
+- Compare with [[ENC00263_Combat_Encounter_264]]
 - Requires [[LOC00020_Towns_Location_21
 - Compare with
 - Influences [step_054 (phase_091)]]
 - Parallels [[The Crystal Throne
 - Compare with [step_018 (phase_080)]]
-- See also: [[ioun-stone-sustece-xdmg
-- Parallels [The Cargo Inspection Station 2]]
+- See also: [[The Cargo Inspection Station 2]]
 - Leads to [[LORE00227_History_Entry_228
 - Leads to [Assets Locations Location City Military Families Support V1 Military Families Support Groups.png]]
 - Leads to [[jade-game-board-with-gold-playing-pieces-xdmg (items)
 - Influences [ITEM01365_Elegant_Journal_of_Durability]]
 - Related: [[Assets Portraits Portrait NPC Duke Hadal Duke Hadal.svg
 - Compare with [The Iteration Collective (D&D_References)]]
-- Connects to [[Surface Trade Ports (D&D_References)
-- Requires [ENC00190_Social_Encounter_191]]
-- See also: [[Quest - The Prophecy Fulfilled
-- Requires [step_044 (phase_049)]]
+- Connects to [[Surface Trade Ports (D&D_References)]]
+- See also: [[Quest - The Prophecy Fulfilled]]
 - Leads to [[step_046 (phase_013)
 - Originates from [Portrait NPC Archdruid Thornweaver V1 Archdruid Thornweaver.svg_1 (Portraits)]]
-- Compare with [[playing-on-a-grid-phb (variant-rules)
-- Related: [NPC01511_Pyria_Jadeclaw_the_Mystic]]
+- Compare with [[playing-on-a-grid-phb (variant-rules)]]
 - Affected by [[step_071 (phase_047)
 - Affected by [transport-via-plants-xphb (spells)]]
 - Connects to [[Location City Keeper Thundercall Keeper Thundercall.svg
@@ -256,16 +246,10 @@ Caravan needs guards
 - Leads to [[The_Professional_Standards_Authority (02_Worldbuilding)
 - Related:
 - Influences [step_077 (phase_035)]]
-- Compare with [[step_072 (phase_067)
-- Parallels [Transformation Assistance 2]]
-- Affected by [[Random_Tables - Aquabyssos Random Encounter Tables
-- Originates from [step_075 (phase_084)]]
-- See also: [[Crime Boss Viper
-- See also: [QUEST0093_The_Shadow_Realm_Disappearances]]
-- Leads to [[step_011 (phase_029)
-- Requires
-- Compare with
-- See also: [Template_StarSystem_Placeholder.png_2 (09_Templates)]]
+- Compare with [[Transformation Assistance 2]]
+- Affected by [[Random_Tables - Aquabyssos Random Encounter Tables]]
+- See also: [[QUEST0093_The_Shadow_Realm_Disappearances]]
+- Leads to [[Template_StarSystem_Placeholder.png_2 (09_Templates)]]
 
 ## Visual References
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png

@@ -65,5 +65,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Pressure Adaptation System
-- [Pressure Adaptation System (D&D_References)]]
+- [[Pressure Adaptation System (D&D_References)]]

@@ -25,5 +25,8 @@
   "alt_text": "Concept art of hound-of-ill-omen-xge with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-hound-of-ill-omen-xge-v2-hound-of-ill-omen-xge.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-hound-of-ill-omen-xge-v2-hound-of-ill-omen-xge.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:04:49.629Z",
+  "generationMethod": "ComfyUI"
 }

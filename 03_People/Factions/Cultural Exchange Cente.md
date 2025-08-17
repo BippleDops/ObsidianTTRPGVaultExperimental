@@ -285,5 +285,4 @@ What they claim to pursue
 
 ## References
 
-- [[Cultural Exchange Centers
-- [The Cultural Exchange Center]]
+- [[The Cultural Exchange Center]]

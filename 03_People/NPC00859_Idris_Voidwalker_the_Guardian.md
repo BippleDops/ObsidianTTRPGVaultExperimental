@@ -164,8 +164,7 @@ Competitor sabotaging business
 
 - Affected by [[Portrait NPC the Shadow Warren V1 the Shadow Warren.svg_1 (Portraits)
 - Related: [NPC01753_Gavril_Frostwhisper_the_Mystic]]
-- Compare with [[ENC00007_Environmental_Encounter_8
-- Parallels [Symbol Heraldry Lys... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Compare with [[Symbol Heraldry Lys... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Originates from [[step_100 (phase_071)
 - Parallels
 - Compare with [Speed-Current Jet]]
@@ -189,10 +188,8 @@ Competitor sabotaging business
 - Affected by [Assets Locations Location City the Luminous Dawn Cathedral V1 the Luminous Dawn Cathedral.svg]]
 - Connects to [[Black Sapphire Xdmg
 - Related: [eldritch-sight (optional-features)]]
-- Connects to [[Aethermoor Wind Rider Traditions (D&D_References)
-- Connects to [Authenticity Verification]]
-- Affected by [[The Great Elevation
-- Affected by [LOC00074_Planes_Location_75]]
+- Connects to [[Aethermoor Wind Rider Traditions (D&D_References)]]
+- Affected by [[LOC00074_Planes_Location_75]]
 - Parallels [[Location City Culinary Critic Marina Tastebud Culinary Critic Marina Tastebud.svg
 - Originates from [Location City Wandering Prophet Coral Stormrider V1 Wandering Prophet Coral Stormrider.svg]]
 - Parallels [[step_067 (phase_081)
@@ -202,8 +199,7 @@ Competitor sabotaging business
 - Requires [[step_074 (phase_042)
 - Affected by
 - Affected by [step_026 (phase_100)]]
-- Influences [[Quest - The Missing Fleet 2
-- Leads to [step_008 (phase_058)]]
+- Influences [[Quest - The Missing Fleet 2]]
 - Originates from [[02_Worldbuilding_Groups_Order_of_Mirrors
 - Related: [LOC00119_Dungeons_Location_120]]
 - Originates from [[Assets Locations Location City Abyss Currentbinder Abyss Currentbinder.svg
@@ -231,12 +227,10 @@ Competitor sabotaging business
 - Requires [Enspelled Weapon Level 5 Xdmg]]
 - Influences [[step_054 (phase_023)
 - Parallels [hill-encounters-levels-510-xge (tables)]]
-- Requires [[ettin-xmm (giant)
-- Parallels [SPELL00124_Arcane_Spell_125]]
+- Requires [[SPELL00124_Arcane_Spell_125]]
 - Leads to [[Location City Dockworkers Union V1 Dockworkers Union.svg
 - See also: [Procedures Hybrid Transformation]]
-- Affected by [[QUEST00431_Side_Quest_432
-- Requires [Signet Ring]]
+- Affected by [[QUEST00431_Side_Quest_432]]
 - Connects to [[ruby-of-the-war-mage-xdmg (items)
 - See also: [LOC00097_Dungeons_Location_98]]
 - Connects to [[Duke Hadal (D&D_References)
@@ -255,8 +249,7 @@ Competitor sabotaging business
 - Originates from [Assets Locations Location City Voluntary Taxation V1 Voluntary Taxation.svg]]
 - See also: [[step_017 (phase_090)
 - Parallels [DC Guidelines]]
-- Originates from [[Vault Backup 20250813 073007 07 Player Character Options Depth Adapted Background
-- Requires [deck-of-many-things-xdmg (items)]]
+- Originates from [[Vault Backup 20250813 073007 07 Player Character Options Depth Adapted Background]]
 - See also: [[scroll-of-protection-plants-xdmg (items)
 - Originates from [NPC00155_Hilda_Thornweave]]
 - Requires [[Archshadow Mortis Voidcut

@@ -167,8 +167,7 @@ Requires champions for trial by combat
 - Leads to [Master Goldwin Ledgerkeeper]]
 - See also: [[LORE00154_Legends_Entry_155
 - Leads to [villains-villains-methods (tables)]]
-- Originates from [[step_079 (phase_031)
-- Leads to [ENC0015_Random_Encounter_16]]
+- Originates from [[ENC0015_Random_Encounter_16]]
 - See also: [[Rising Star
 - Leads to [Portrait NPC Defense Captain Ironguard V2 Defense Captain Ironguard.svg]]
 - Originates from [[step_070 (phase_075)
@@ -177,8 +176,7 @@ Requires champions for trial by combat
 - Parallels [step_064 (phase_024)]]
 - Requires [[ENC00091_Social_Encounter_92
 - Connects to [Lady Venetia Silkwind 2]]
-- Requires [[Security Chief Razor Currentstorm 2
-- Compare with [Aquabyssos Medical Council (D&D_References)]]
+- Requires [[Aquabyssos Medical Council (D&D_References)]]
 - Compare with [[NPC00089_Solas_Goldleaf
 - Compare with [location-city-harbor-patrol-harbor-patrol.svg]]
 - Influences [[MON0006_Bone_Stalker
@@ -193,20 +191,17 @@ Requires champions for trial by combat
 - Requires [Location City New Thalassopolis V1 New Thalassopolis.svg]]
 - Requires [[step_055 (phase_042)
 - Parallels [Assets Item Artifact Travelers Clothes Xphb Travelers Clothes Xphb.png]]
-- Requires [[Biological Enhancement Corps
-- Compare with [05-creating-nonplayer-characters (dungeon-masters-guide-2014)]]
+- Requires [[05-creating-nonplayer-characters (dungeon-masters-guide-2014)]]
 - Leads to [[Traditional Communities
 - Influences [Assets Locations Location City Martha Hillbrook Martha Hillbrook.svg]]
 - Parallels [[Location City Crown of Eternal Ice Crown of Eternal Ice.svg
 - Leads to [NPC00052_Thalia_Dawnstrider]]
 - Affected by [[EVENT00095_Magical_Event_96
 - Leads to [Major_NPCs (02_Worldbuilding)]]
-- Requires [[demonomicon-of-iggwilv-xdmg (items)
-- Compare with [eldritch-blast-xphb (spells)]]
+- Requires [[demonomicon-of-iggwilv-xdmg (items)]]
 - See also: [[Pregenerated_Characters.md
 - Connects to [step_010 (phase_081)]]
-- Requires [[Master Thorne Blackforge (D&D_References)
-- Requires [Monk Xphb Warrior of Mercy Xphb]]
+- Requires [[Master Thorne Blackforge (D&D_References)]]
 - Originates from [[step_053 (phase_045)
 - Affected by [step_053 (phase_083)]]
 - Requires [[Figuring Out Alien Technology
@@ -215,22 +210,16 @@ Requires champions for trial by combat
 - Compare with [boon-of-recovery-xphb (feats)]]
 - See also: [[EVENT00046_Political_Event_47
 - See also: [End Session]]
-- Affected by [[step_032 (phase_057)
-- Related: [QUEST00492_Side_Quest_493]]
+- Affected by [[QUEST00492_Side_Quest_493]]
 - Affected by [[Master_Groups_Index
 - Parallels [step_037 (phase_070)]]
 - Requires
-- Related: [[step_061 (phase_010)
-- Connects to [Security Quarters (D&D_References)]]
-- Originates from [[Senior Nurse Polyp Tendercurrent (D&D_References)
-- Related:
-- Influences [ITEM01332_Ornate_Lantern_of_Convenience]]
+- Related: [[Security Quarters (D&D_References)]]
+- Originates from [[Senior Nurse Polyp Tendercurrent (D&D_References)]]
 - Parallels [[Assets Locations Location City Plague Crisis V1 Plague Crisis.png
 - Requires [step_070 (phase_013)]]
-- Connects to [[Network Designer Flow Linkwright
-- Affected by [step_085 (phase_006)]]
-- Leads to [[step_021 (phase_033)
-- Compare with [The Memory Meadows (D&D_Statblocks)]]
+- Connects to [[Network Designer Flow Linkwright]]
+- Leads to [[The Memory Meadows (D&D_Statblocks)]]
 - Leads to [[Portrait NPC Captain Rhea Blackwater V2 Captain Rhea Blackwater.svg
 - Connects to [step_006 (phase_089)]]
 - Compare with [[portrait-npc-lord-aurelius-v1-lord-aurelius.svg
@@ -240,8 +229,7 @@ Requires champions for trial by combat
 - Connects to [step_048 (phase_008)]]
 - Requires [[step_016 (phase_052)
 - Compare with [Marine Druids 2]]
-- Related: [[guide-xphb (backgrounds)
-- Affected by [Skills With Different Abilities Phb]]
+- Related: [[Skills With Different Abilities Phb]]
 - Affected by [[ENC00169_Social_Encounter_170
 - Influences
 - Compare with [portrait-npc-the-biomancers-v1-the-biomancers.svg]]
@@ -251,12 +239,10 @@ Requires champions for trial by combat
 - Originates from [step_071 (phase_054)]]
 - Affected by [[step_029 (phase_025)
 - See also: [ITEM00544_Ethereal_Shield_of_Grace]]
-- See also: [[Training Camps (D&D_References)
-- Affected by [step_032 (phase_075)]]
+- See also: [[Training Camps (D&D_References)]]
 - See also: [[Symbol Heraldry the Anonymous Accord V1 the Anonymous Accord.svg
 - Related: [Symbol Heraldry Ambassador Blacktrade Ambassador Blacktrade.svg]]
-- Leads to [[ENC00116_Environmental_Encounter_117
-- Compare with [Ambush Point]]
+- Leads to [[ENC00116_Environmental_Encounter_117]]
 - See also: [[Portrait NPC Quest the Refugee Evacuation Quest the Refugee Evacuation.svg
 - Related: [SPELL00003_Arcane_Spell_4]]
 

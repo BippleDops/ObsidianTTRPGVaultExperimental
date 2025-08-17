@@ -25,5 +25,8 @@
   "alt_text": "Concept art of piercer-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-piercer-xmm-v4-piercer-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-piercer-xmm-v4-piercer-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:07:38.071Z",
+  "generationMethod": "ComfyUI"
 }

@@ -175,8 +175,7 @@ Being extorted by criminals
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -221,36 +220,30 @@ Being extorted by criminals
 - See also: [[Ring of Warmth Xdmg
 - Compare with [Assets Portraits Portrait NPC Captain Shadowsail Captain Shadowsail.svg]]
 - Connects to
-- Related: [[ENC0080_Random_Encounter_81
-- Compare with [Master Archivist Valdric Stonewhisper 2]]
+- Related: [[Master Archivist Valdric Stonewhisper 2]]
 - Influences [[Dimensional Fabric 2
 - Affected by [step_033 (phase_069)]]
 - Influences [[The Observatory Between
 - Compare with [location-city-royal-ports-royal-ports.svg]]
 - Leads to [[Location City Merchant Prince Goldwind Crysalborn Merchant Prince Goldwind Crysalborn.svg
 - Requires [The Contract Archive]]
-- Originates from [[Cultural Bridges
-- Originates from [NPC00848_Dara_Proudmore_the_Risen]]
-- Leads to [[LOC00016_Cities_Location_17
-- Influences [The Convergence Point (D&D_References)]]
+- Originates from [[NPC00848_Dara_Proudmore_the_Risen]]
+- Leads to [[The Convergence Point (D&D_References)]]
 - Related: [[Synthesis Healing Pods (Items)
 - Related: [ITEM01054_Greater_Salve_of_Fortune]]
 - Originates from [[Assets Locations Location City Pressure Brewing Technology Pressure Brewing Technology.svg
 - Compare with [step_073 (phase_044)]]
 - Related: [[daemogoth-titan-scc (fiend)
 - Influences [SPELL00134_Arcane_Spell_135]]
-- Connects to [[LOC00059_Wilderness_Location_60
-- Influences [Crystal Merchant Prism Brightstone (D&D_References)]]
+- Connects to [[Crystal Merchant Prism Brightstone (D&D_References)]]
 - Originates from [[Location City Official Memory Keepers V1 Official Memory Keepers.svg
 - Affected by [step_087 (phase_059)]]
 - Compare with [[Ambassador Nerida Deepcurrent
 - Originates from [The Artisans' Collective 2]]
 - Compare with [[cooks-utensils-xphb (items)
 - Influences [step_006 (phase_024)]]
-- Affected by [[step_002 (phase_028)
-- Influences [LOC00192_Planes_Location_193]]
-- Connects to [[Master Harvester Tide Crystalcut (People)
-- Related: [step_078 (phase_090)]]
+- Affected by [[LOC00192_Planes_Location_193]]
+- Connects to [[Master Harvester Tide Crystalcut]]
 - Parallels [[step_071 (phase_071)
 - Connects to [step_045 (phase_081)]]
 - Requires [[step_021 (phase_085)
@@ -262,8 +255,7 @@ Being extorted by criminals
 - Connects to [[mithral-armor-xdmg (items)
 - Requires [FAC00068_Guilds_69]]
 - Requires [[Quest - The Deepmind [Quest - The Deepmind Weapon_1 (01_Adventures)|Weapon_1 (01_Adventures)]]
-- Connects to [[King Torrhen Lumengarde (D&D_References)
-- Connects to [step_006 (phase_075)]]
+- Connects to [[King Torrhen Lumengarde (D&D_References)]]
 - See also: [[step_018 (phase_100)
 - Originates from
 - Parallels [Assets Locations Location City Intelligence Dealer Echo Whisperwave V1 Intelligence Dealer Echo Whisperwave.svg]]
@@ -274,22 +266,16 @@ Being extorted by criminals
 - Related: [[LOC00024_Wilderness_Location_25
 - Requires
 - Requires [ITEM01351_Ornate_Lantern_of_Reliability]]
-- Requires [[NPC01934_Gareth_Frostwhisper_the_Guardian
-- Influences [ITEM00160_Thunder_Sword_of_the_Ancients]]
+- Requires [[NPC01934_Gareth_Frostwhisper_the_Guardian]]
 - Originates from [[ITEM00957_Concentrated_Elixir_of_Healing
 - Requires [Assets Locations Location City Keeper of the Past Elderly Morgan V1 Keeper of the Past Elderly Morgan.svg]]
-- Affected by [[summon-construct-xphb (spells)
-- Leads to [Shadow Collective (D&D_References)]]
+- Affected by [[Shadow Collective (D&D_References)]]
 - Leads to [[location-city-azure-citadel-v1-azure-citadel.svg
 - Originates from [Harbor Master's Tower]]
-- Leads to [[Geryon Mtf
-- Compare with [Social_Encounter_Guidelines]]
-- Requires [[Inter-Realm Political Institutions
-- Requires [Malachar the Mindweave]]
-- Compare with [[rod-of-lordly-might-xdmg (items)
-- Related: [Archdruid Marina Kelpweaver (D&D_References)]]
-- See also: [[Lord Magnus Goldspire (D&D_References)
-- Parallels [step_005 (phase_055)]]
+- Leads to [[Social_Encounter_Guidelines]]
+- Requires [[Inter-Realm Political Institutions]]
+- Compare with [[Archdruid Marina Kelpweaver (D&D_References)]]
+- See also: [[Lord Magnus Goldspire (D&D_References)]]
 - Requires [[Stoneskin Xphb]]
 
 ## Plot Hooks

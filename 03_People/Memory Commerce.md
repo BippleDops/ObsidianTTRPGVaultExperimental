@@ -293,8 +293,7 @@ ___
 
 ## References
 
-- [[Aurelius Goldwave
-- [Trade Route Establishment]]
+- [[Trade Route Establishment]]
 - [[Assets Locations Location City the Harbormaster S Office the Harbormaster S Office.svg
 - [Assets Portraits Portrait NPC Captain Prism Shield Valeria Captain Prism Shield Valeria.svg]]
 - [[Aurelius Goldwave (D&D_Statblocks)]]

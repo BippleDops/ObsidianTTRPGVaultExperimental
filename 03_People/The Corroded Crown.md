@@ -305,5 +305,4 @@ Member of House Lionblood - Trait: divine blood
 
 ## References
 
-- [[Gareth Goldenheart, The Chosen Vessel
-- [Gareth Goldenheart, The Chosen Vessel (D&D_References)]]
+- [[Gareth Goldenheart, The Chosen Vessel (D&D_References)]]

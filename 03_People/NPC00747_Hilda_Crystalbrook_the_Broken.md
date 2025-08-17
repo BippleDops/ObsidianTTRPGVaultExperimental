@@ -166,19 +166,15 @@ Family member has gone missing
 - Connects to [enspelled-staff-level-4-xdmg (items)]]
 - Requires [[Timeline of the Drowning 3 (D&D_References)
 - Requires [Location City Meditation Centers Meditation Centers.svg]]
-- Connects to [[step_084 (phase_081)
-- Leads to [Dimensional Monitoring Devices]]
-- Requires [[QUEST00100_Personal_Quest_101
-- Connects to [step_085 (phase_082)]]
+- Connects to [[Dimensional Monitoring Devices]]
+- Requires [[QUEST00100_Personal_Quest_101]]
 - Requires [[MON0032_Shadow_Guardian
 - Influences [DUN00177_Dungeon_178]]
 - See also:
-- Leads to [[Reality Distortion
-- Related: [Void Suits]]
+- Leads to [[Reality Distortion]]
 - Related: [[Portrait NPC Tidal Priests Circle V1 Tidal Priests Circle.svg_1 (Portraits)
 - Affected by [step_063 (phase_036)]]
-- Connects to [[Community Health Centers
-- Leads to [Desecrated Ground]]
+- Connects to [[Community Health Centers]]
 - Parallels [[#Character-Faction Relationship Matrix
 - See also: [Chief Engineer Vera Steamheart (D&D_References)]]
 - Originates from [[Oracle Temporal Wisdom
@@ -193,8 +189,7 @@ Family member has gone missing
 - Requires [step_088 (phase_023)]]
 - Compare with [[Dual World Mechanics
 - Connects to [melfs-minute-meteors-xge (spells)]]
-- Leads to [[Street Urchin Gang
-- Leads to [MON00116_Constructs_Creature_117]]
+- Leads to [[MON00116_Constructs_Creature_117]]
 - Influences [[Location City His Eternal Majesty Keeper of the Throne of Bubbles His Eternal Majesty Keeper of the Throne of Bubbles.svg
 - Related: [Lord Chancellor Prism Valdrick]]
 - Influences
@@ -204,35 +199,27 @@ Family member has gone missing
 - Compare with [step_002 (phase_077)]]
 - Originates from [[Gnome Baervan Wildwanderer Mtf
 - Parallels [ITEM01201_Concentrated_Salve_of_Swiftness]]
-- Affected by [[step_089 (phase_065)
-- Affected by [Midas Goldcurrent (D&D_References)]]
-- Related: [[NPC0050_Kael_Ironforge
-- Affected by [NPC00523_Branwen_Brightblade_the_Seeker]]
+- Affected by [[Midas Goldcurrent (D&D_References)]]
+- Related: [[NPC00523_Branwen_Brightblade_the_Seeker]]
 - Compare with [[04_Resources_Assets_Portraits_portrait-npc-duchess-marina-ever-drowning-duchess-marina-ever-drowning.svg_Quick_Ref
 - Parallels [step_008 (phase_084)]]
-- Affected by [[step_080 (phase_067)
-- Influences [LOC00151_Planes_Location_152]]
+- Affected by [[LOC00151_Planes_Location_152]]
 - Leads to [[Assets Locations Location City Vote Vaults V1 Vote Vaults.svg
 - Connects to [The Border Marches]]
-- Parallels [[step_032 (phase_042)
-- Parallels [Salvage Master Ironwork (D&D_References)]]
-- Leads to [[LOC00123_Planes_Location_124
-- Compare with [ENC00014_Environmental_Encounter_15]]
+- Parallels [[Salvage Master Ironwork (D&D_References)]]
+- Leads to [[ENC00014_Environmental_Encounter_15]]
 - Parallels [[NPC_Relationships
 - Affected by [Assets Locations Location City Crystal Sentinels V1 Crystal Sentinels.svg]]
 - Connects to [[Assets Locations Location City Healer Elena Mindmender V1 Healer Elena Mindmender.svg
 - Connects to [step_040 (phase_053)]]
-- Influences [[ITEM00451_Enchanted_Shield_of_Grace
-- Parallels [NPC00665_Aeliana_Quicksilver_the_Broken]]
-- Affected by [[The Identity Wars
-- See also: [Government Research Funding]]
+- Influences [[NPC00665_Aeliana_Quicksilver_the_Broken]]
+- Affected by [[Government Research Funding]]
 - Leads to [[The Obsidian Archive
 - Affected by [Simulacrum Xphb]]
 - Influences [[Stop the Shadow Harvest
 - Related: [Reformed Surgeons Alliance]]
 - Parallels
-- Connects to [[Balta Kaine (D&D_References)
-- Influences [Sahuagin Priest Xmm]]
+- Connects to [[Balta Kaine (D&D_References)]]
 - Originates from [[Continual Flame Xphb
 - Parallels [QUEST00448_Side_Quest_449]]
 - Compare with [[Location City Abyss Currentbinder V1 Abyss Currentbinder.svg
@@ -241,23 +228,19 @@ Family member has gone missing
 - Leads to [LORE00162_History_Entry_163]]
 - Related: [[Shield of the Cavalier Xdmg
 - Originates from [LORE00050_Legends_Entry_51]]
-- Related: [[Cargo Master Holdspace
-- Parallels [The Spiral Sanctum (D&D_References)]]
-- Leads to [[Demolitions Expert Deep Precisionboom
-- Compare with [step_067 (phase_089)]]
+- Related: [[The Spiral Sanctum (D&D_References)]]
+- Leads to [[Demolitions Expert Deep Precisionboom]]
 - Leads to [[Location City Thomas Deepanchor V1 Thomas Deepanchor.svg
 - Related: [See Invisibility Xphb]]
 - See also: [[step_063 (phase_091)
 - Affected by [Location City the Crystal Caves the Crystal Caves.svg]]
-- Related: [[SPELL00002_Nature_Spell_3
-- See also: [MON00123_Aberrations_Creature_124]]
+- Related: [[MON00123_Aberrations_Creature_124]]
 - Originates from [[improvising-damage-damage-severity-and-level (tables)
 - Related: [animated-flying-sword-xmm (construct)]]
 - Requires [[The Eternal Flame
 - Parallels [Communication Networks]]
-- Connects to [[Animal Lord Xmm
-- Requires [NPC01027_Ysara_Keenblade_the_Mystic]]
-- Affected by [[step_080 (phase_004)]]
+- Connects to [[NPC01027_Ysara_Keenblade_the_Mystic]]
+- Affected by
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

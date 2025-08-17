@@ -25,5 +25,8 @@
   "alt_text": "Concept art of sea-hag with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-sea-hag-v2-sea-hag.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-sea-hag-v2-sea-hag.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:08:42.640Z",
+  "generationMethod": "ComfyUI"
 }

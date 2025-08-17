@@ -51,22 +51,16 @@ Further information about this topic will be developed as the campaign progresse
 - [#NPCs]]
 - [[#Royal & Noble Characters
 - [02 Chapter 1 Playing the Game#stabilizing a Character]]
-- [[mechuiti-demon-lord-of-apes-tob
-- [qorgeth-demon-lord-of-the-devouring-worm-tob]]
-- [[All NPCs
-- [Aquabyssos_Character_Creation]]
-- [[Character Name
-- [Create New NPC]]
-- [[Generate Campaign NPCs
-- [Important NPCs]]
+- [[qorgeth-demon-lord-of-the-devouring-worm-tob]]
+- [[Aquabyssos_Character_Creation]]
+- [[Character Name]]
+- [[Generate Campaign NPCs]]
 - [[NPC (People)
 - [NPC Directory.base (People)]]
-- [[NPC Cross-World Connections
-- [NPC Development Timeline]]
+- [[NPC Cross-World Connections]]
 - [[NPC Name 1
 - [NPC Name 2 (People)]]
-- [[NPC Reaction Matrix
-- [NPC Relationship System]]
+- [[NPC Relationship System]]
 - [[NPC Statblock
 - [NPC1 (People)]]
 - [[NPC2 (People)
@@ -75,8 +69,7 @@ Further information about this topic will be developed as the campaign progresse
 - [NPCs Statblocks]]
 - [[Random NPC Generator
 - [Random NPC]]
-- [[Shadow Conspiracy NPCs
-- [Character_Bonds]]
+- [[Shadow Conspiracy NPCs]]
 - [[Character_Creation_Extended
 - [Character_Creation_Extended.md_1 (03_People)]]
 - [[NPC_Name_Generator.png
@@ -86,28 +79,17 @@ Further information about this topic will be developed as the campaign progresse
 - [[NPC_Relationship_Web.png_1 (03_People)
 -
 - [Archivist Spectrum Memorykeeper]]
-- [[Captain Azure Windcaller
-- [Captain Nerion Pearlshield]]
-- [[Captain Storm
-- [Captain Zephyr Voidwing]]
-- [[Elite Wind Rider Captain
-- [Explorer Captain Twist Realitywalker]]
-- [[Lord Goldhand
-- [Lord Vex]]
-- [[Master Adapter Fluid Depthshifter
-- [Master Artificer Coral Gemwright (NPCs)]]
-- [[Master Artificer Crystal Brightforge
-- [Master Conductor Nereus Voidcaller]]
-- [[Master Wind Singer Melody Tradition (NPCs)
-- [Master of Crystals Prism Multifacet]]
-- [[Sage Elara
-- [Sky Lords Worship (NPCs)]]
-- [[Smuggler Captain Marina Darkwater
-- [Tradition Keeper Elder Wisdom (NPCs)]]
-- [[Void Lord Stat Blocks
-- [Void Lords]]
-- [[yuan-ti-pit-master-mpmm
-- [Crown_Dome_Conspiracy.png]]
+- [[Captain Nerion Pearlshield]]
+- [[Captain Zephyr Voidwing]]
+- [[Explorer Captain Twist Realitywalker]]
+- [[Lord Goldhand]]
+- [[Master Adapter Fluid Depthshifter]]
+- [[Master Artificer Crystal Brightforge]]
+- [[Master of Crystals Prism Multifacet]]
+- [[Sky_Lords_Worship]]
+- [[Smuggler Captain Marina Darkwater]]
+- [[Void Lord Stat Blocks]]
+- [[yuan-ti-pit-master-mpmm]]
 - [[Shadow_Parliament.png
 - [Syndicate_War.png]]
 - [[The_Coral_Throne_Syndicate.png
@@ -1438,9 +1420,6 @@ Further information about this topic will be developed as the campaign progresse
 - [portrait-npc-verdant-shard-verdant-shard.svg_1 (Portraits)]]
 - [[portrait-npc-vex-shadowthorn-vex-shadowthorn.svg_1 (Portraits)
 - [npcs_1 (Assets)]]
-- [[Session 4.png
-- [Depth_Adapted_Background]]
-- [[Depth_Adapted_Background.md
-- [Merchant NPC Generator]]
-- [[Portrait_Prompts - NPCs (D&D_References)
-- [Generate Campaign NPCs (Text Generator Templates)]]
+- [[Depth_Adapted_Background]]
+- [[Depth_Adapted_Background]]
+- [[Generate Campaign NPCs (Text Generator Templates)]]

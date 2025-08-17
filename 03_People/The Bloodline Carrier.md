@@ -387,5 +387,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Consequence Chain 3 Reality Merger Diplomatic Crisis
 - [Assets Locations Location City Master Goldwin Ledgerkeeper V1 Master Goldwin Ledgerkeeper.svg]]
-- [[Marina-Red-Tide-Coralheart
-- [Marina-Red-Tide-Coralheart (D&D_References)]]
+- [[Marina-Red-Tide-Coralheart (D&D_References)]]

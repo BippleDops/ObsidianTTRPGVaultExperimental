@@ -1,7 +1,6 @@
 ---
 
-title: [[Resoce Chamber
-type: [Lore]]
+title: [[Resoce Chamber]]
 tags:
 - lore
 - both
@@ -116,30 +115,7 @@ Mentioned in The First Prophecy of Winds
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[Peoples
-
-### The Golden Era (500 years ago)
-- Economic prosperity
-- Cultural renaissance
-- Expansion of territory
-
-### The [Time]] of Troubles (100 years ago)
+- War with indigenous [[People]] of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current [[Power Structures established
-
-## Cultural Practices
-
-### Greetings
-- Touch foreheads for equals
-- Bow deeply to superiors
-- Never shake with left hand
-
-### Taboos
-- Speaking during sunset prayer
-- Wearing red on holy days
-- Pointing at the moon
-
-## References
-
-- [Crystal Resonance Chambers]]
+- Current [[Power Structures]]

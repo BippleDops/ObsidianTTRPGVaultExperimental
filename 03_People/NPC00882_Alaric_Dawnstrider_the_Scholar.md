@@ -165,34 +165,28 @@ Seeks rare merchandise
 
 ## Connections
 
-- Parallels [[downtime-activity-gaining-renown (variant-rules)
-- Parallels [LORE00044_Prophecies_Entry_45]]
-- Parallels [[QUEST00198_Side_Quest_199
-- Compare with [Pilgrimage Master Depth Guide Melancholy (D&D_References)]]
-- Originates from [[Cover Identity Coordinator (D&D_References)
-- Leads to [step_005 (phase_031)]]
+- Parallels [[downtime-activity-gaining-renown (variant-rules)]]
+- Parallels [[Pilgrimage Master Depth Guide Melancholy (D&D_References)]]
+- Originates from [[Cover Identity Coordinator (D&D_References)]]
 - Compare with
 - Requires [[step_023 (phase_043)
 - Compare with [LORE00067_Prophecies_Entry_68]]
 - Requires [[LORE00009_Legends_Entry_10
 - Compare with
 - Influences [ITEM0121_Blessed_Circlet_of_the_Dawn]]
-- Connects to [[Princess Luminara 2
-- Affected by [QUEST00117_Personal_Quest_118]]
+- Connects to [[QUEST00117_Personal_Quest_118]]
 - Connects to [[step_088 (phase_033)
 - Leads to [LORE00205_Prophecies_Entry_206]]
 - Parallels [[Dungeon Creator NPC Alignment
 - Requires [step_022 (phase_007)]]
-- Originates from [[Well of Many Worlds Xdmg
-- Parallels [Abyssos Prime Upper Districts]]
+- Originates from [[Abyssos Prime Upper Districts]]
 - Influences [[Maritime Research Institute
 - Parallels [rival-coin-xdmg (items)]]
 - Requires [[Assets Locations Location City Deep Ones Deep Ones.svg
 - Originates from [The Dead Zones]]
 - Leads to [[Servant Mary
 - Parallels [cleric-xphb-life-domain-xphb (classes)]]
-- Originates from [[The Cerulean Trench (D&D_References)
-- Parallels [MON00004_Undead_Creature_5]]
+- Originates from [[The Cerulean Trench (D&D_References)]]
 - Requires [[Supplemental Tables Race Xge
 - See also: [Amnesia Gallery]]
 - Leads to [[portrait-npc-the-barnacle-v2-the-barnacle.svg
@@ -214,30 +208,24 @@ Seeks rare merchandise
 - Requires [[demon-customization-tables-demon-ideals-mtf (tables)
 - Related:
 - Affected by [Nonhuman Corellon Larethian]]
-- Compare with [[ENC00235_Social_Encounter_236
-- Affected by [Dockworkers' Union (D&D_References)]]
+- Compare with [[Dockworkers' Union (D&D_References)]]
 - Related: [[Royal Guard (Lore)
 - Compare with [Portrait NPC Merchant Captain Tobias Stormwind V1 Merchant Captain Tobias Stormwind.svg]]
-- Compare with [[step_078 (phase_096)
-- Compare with [Apprentice Shepherd Nimbus Brightwind]]
+- Compare with [[Apprentice Shepherd Nimbus Brightwind]]
 - Parallels [[Quest - The Blackmail Papers 2
 - See also: [ITEM01321_Simple_Journal_of_Quality]]
 - Compare with [[step_029 (phase_060)
 - Influences [step_088 (phase_016)]]
 - Parallels [[nonhuman-surtur (deities)
 - Parallels [The Crystal Temple]]
-- Related: [[Session 4 - The Shadow Parliament
-- Affected by [Elder Deep 2]]
-- Related: [[The Corroded Crown (D&D_References)
-- Related: [Sage Pelagic]]
-- Connects to [[Daily Routine Nuances and Details (D&D_References)
-- Affected by [step_020 (phase_012)]]
+- Related: [[Session 4 - The Shadow Parliament]]
+- Related: [[The Corroded Crown (D&D_References)]]
+- Connects to [[Daily Routine Nuances and Details (D&D_References)]]
 - See also: [[step_017 (phase_078)
 - Connects to [The Tempest Wardens]]
 - Compare with [[SPELL00024_Divine_Spell_25
 - Affected by [The Floating Markets]]
-- Connects to [[step_009 (phase_030)
-- Connects to [Admiral Cassandra Stormwind (D&D_References)]]
+- Connects to [[Admiral Cassandra Stormwind (D&D_References)]]
 - Related: [[revenant-xmm (undead)
 - Affected by [step_032 (phase_096)]]
 - See also: [[Meridian Trading Company
@@ -257,9 +245,7 @@ Seeks rare merchandise
 - Related: [Portrait NPC Admiral Thorne Blackwater V2 Admiral Thorne Blackwater.svg_1 (Portraits)]]
 - Originates from [[Divine Intervention
 - Compare with [Location City Void Prophet Nullus the Erased V1 Void Prophet Nullus the Erased.svg]]
-- Originates from [[Rowboat Xphb
-- Related:
-- Parallels [Deep Initiation (D&D_References)]]
+- Originates from [[Deep Initiation (D&D_References)]]
 - Leads to [[step_067 (phase_095)
 - Affected by [step_033 (phase_013)]]
 - Related: [[Location City Bubble Yeastkeeper Bubble Yeastkeeper.svg

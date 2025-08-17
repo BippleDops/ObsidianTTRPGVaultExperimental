@@ -25,5 +25,8 @@
   "alt_text": "Concept art of shoosuva-mpmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-shoosuva-mpmm-shoosuva-mpmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-shoosuva-mpmm-shoosuva-mpmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:08:51.996Z",
+  "generationMethod": "ComfyUI"
 }

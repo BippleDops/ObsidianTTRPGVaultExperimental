@@ -42,41 +42,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-### Hospitality Improvements
-
-- Explain guest rights and host obligations
-
-### Superstitions Improvements
-
-- List common superstitions and their origins
-
-### Death_Customs Improvements
-
-- Detail funeral rites and afterlife beliefs
-
-### Contradictions Improvements
-
-- Include cultural hypocrisies and double standards
-
-### Evolution Improvements
-
-- Show how traditions are changing with new generation
-
-### Sensory Improvements
-
-- Add smells, sounds, and textures unique to this culture
-
-## Overview
-
-To Be Determined represents a crucial aspect of the world's history, cosmology, or fundamental nature.
-
----
-
-*Last Updated: 2025-08-14 19:03*
-
-## [DM_Notes]]
+- Describe how this culture exists in other [[region]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -97,8 +63,7 @@ To Be Determined represents a crucial aspect of the world's history, cosmology, 
 - [10 Combat#dropping to 0 Hit Points#death Saving Throws]]
 - [[10 Combat#dropping to 0 Hit Points#monsters and Death
 - [10 Combat#dropping to 0 Hit Points#stabilizing a Creature]]
-- [[Admiral Marina Stormcrest (People)
-- [00_Indexes_Master_Index]]
+- [[Admiral_Marina_Stormcrest (People)]]
 - [[02_Worldbuilding_Artifacts_Shard_of_Dreams
 - [02_Worldbuilding_Locations_Theater_of_Impossible_Dreams]]
 - [[02_Worldbuilding_People_Guildmaster_Victoria_Silvertongue
@@ -522,20 +487,15 @@ To Be Determined represents a crucial aspect of the world's history, cosmology, 
 - [Brewmaster_Grindstone]]
 - [[Dr. Marina Coralheart Shadow
 - [Dr._Void_Mindwright (People)]]
-- [[Draft_Content (People)
-- [Head of Memory Integration Dr. Nautilus Depthcaller (People)]]
-- [[High Theologian Commander Aurelius
-- [Lord_Lady_Chamberlain_Court_Manager]]
+- [[Head of Memory Integration Dr. Nautilus Depthcaller]]
+- [[Lord_Lady_Chamberlain_Court_Manager]]
 - [[Master Artificer Coral Gemwright
 - [Master Artificer Coral Gemwright_1 (People)]]
 - [[Master_Artificer_Coral_Gemwright (People)
 - [Master_Artificer_Coral_Gemwright_1]]
-- [[Master_Golemancer
-- [Master_Resots]]
-- [[Master_Wind_Singer_Melody_Tradition
-- [Sky_Lords_Worship]]
-- [[The Dream Shard
-- [The__Cathedral]]
+- [[Master_Golemancer]]
+- [[Master_Wind_Singer_Melody_Tradition]]
+- [[The Dream Shard]]
 -
 -
 - [[_03_Mechanics_CLI_bestiary_humanoid_druid_xmm
@@ -556,30 +516,19 @@ To Be Determined represents a crucial aspect of the world's history, cosmology, 
 - [_03_Mechanics_CLI_bestiary_npc_shadrix-silverquill-scc]]
 - [[_03_Mechanics_CLI_bestiary_npc_tanazir-quandrix-scc
 - [adult-black-dragon-xmm]]
-- [[adult-blue-dragon-xmm
-- [adult-brass-dragon-xmm]]
-- [[adult-gold-dragon-xmm
-- [adult-green-dragon-xmm]]
-- [[adult-white-dragon-xmm
-- [ancient-black-dragon-xmm]]
+- [[adult-brass-dragon-xmm]]
+- [[adult-gold-dragon-xmm]]
+- [[ancient-black-dragon-xmm]]
 - [[ancient-blue-dragon-xmm
 - [ancient-brass-dragon-xmm]]
-- [[ancient-gold-dragon-xmm
-- [ancient-green-dragon-xmm]]
-- [[ancient-white-dragon-xmm
-- [faerie-dragon-adult-xmm]]
-- [[faerie-dragon-youth-xmm
-- [food-drink-and-lodging-xphb]]
-- [[mounts-and-vehicles-tack-harness-and-drawn-vehicles-xphb
-- [mummy-lord-xmm]]
-- [[satyr-revelmaster-xmm
-- [young-black-dragon-xmm]]
-- [[young-blue-dragon-xmm
-- [young-brass-dragon-xmm]]
-- [[young-bronze-dragon-xmm
-- [young-copper-dragon-xmm]]
-- [[young-gold-dragon-xmm
-- [young-green-dragon-xmm]]
+- [[ancient-green-dragon-xmm]]
+- [[ancient-white-dragon-xmm]]
+- [[food-drink-and-lodging-xphb]]
+- [[mounts-and-vehicles-tack-harness-and-drawn-vehicles-xphb]]
+- [[young-black-dragon-xmm]]
+- [[young-brass-dragon-xmm]]
+- [[young-copper-dragon-xmm]]
+- [[young-green-dragon-xmm]]
 - [[young-red-dragon-xmm
 - [young-silver-dragon-xmm]]
 - [[young-white-dragon-xmm]]

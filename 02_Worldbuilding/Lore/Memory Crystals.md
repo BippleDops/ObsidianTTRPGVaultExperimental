@@ -145,19 +145,11 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Customs House
-- [Economic Crime Methods]]
-- [[Post-Merge Chronology
-- [The Crimson Hand]]
-- [[The Memory Crystals Division
-- [The Transformed Citizens]]
-- [[Throne Room
-- [Tidal Memory Ceremonies]]
-- [[Timeline of the Drowning
-- [Crystal Caverns]]
-- [[Reflection Pools - Surgical Theater
-- [The Great Drowning]]
-- [[The Void Touched Depths
-- [Aboleth Prime Yoth]]
-- [[Timeline of the Drowning (D&D_References)
-- [Timeline of the Drowning 3 (D&D_References)]]
+- [[Economic Crime Methods]]
+- [[Post-Merge Chronology]]
+- [[The Memory Crystals Division]]
+- [[Tidal Memory Ceremonies]]
+- [[Timeline of the Drowning]]
+- [[Reflection Pools - Surgical Theater]]
+- [[The Void Touched Depths]]
+- [[Timeline of the Drowning 3 (D&D_References)]]

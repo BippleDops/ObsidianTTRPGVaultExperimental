@@ -260,23 +260,16 @@ ___
 ## References
 
 - [Aurelius Goldwave]]
-- [[Memory Alteration Consequences
-- [Memory Manipulation Mechanics]]
-- [[Merchant Family Alliances
-- [Political Intrigue Master Index]]
-- [[Silver Mask
-- [The Crimson Hand]]
-- [[The Restoration Movement
-- [Tidal Memory Ceremonies]]
+- [[Memory Alteration Consequences]]
+- [[Political Intrigue Master Index]]
+- [[The Crimson Hand]]
+- [[The Restoration Movement]]
 - [[Timeline of the Drowning
 - [Assets Locations Location City Harbor Pilot Captain Storm Skyreacher V1 Harbor Pilot Captain Storm Skyreacher.svg]]
 - [[Assets Locations Location City Temple of Sacred Dreams V1 Temple of Sacred Dreams.svg
 - [Assets Portraits Portrait NPC Banking Lord Cornelius Coinwright Banking Lord Cornelius Coinwright.svg]]
 - [[Assets Portraits Portrait NPC Lord Commander Gareth Steelborn Lord Commander Gareth Steelborn.svg
 - [Deepmind Conspiracy]]
-- [[Memory Thief
-- [Reflection Pools - Surgical Theater]]
-- [[The Forgotten One
-- [The Memory Thief]]
-- [[Whisper Island
-- [Aurelius Goldwave (D&D_Statblocks)]]
+- [[Reflection Pools - Surgical Theater]]
+- [[The Forgotten One]]
+- [[Aurelius Goldwave (D&D_Statblocks)]]

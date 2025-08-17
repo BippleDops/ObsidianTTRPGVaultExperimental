@@ -167,8 +167,7 @@ Provides information for a price
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -183,8 +182,7 @@ Provides information for a price
 
 ## Connections
 
-- Originates from [[NPC01803_Qadim_Brightblade_the_Broken
-- Compare with [QUEST00378_Side_Quest_379]]
+- Originates from [[NPC01803_Qadim_Brightblade_the_Broken]]
 - Influences [[step_061 (phase_033)
 - Related: [EVENT00099_Political_Event_100]]
 - See also: [[4 the Spiders Web
@@ -203,19 +201,16 @@ Provides information for a price
 - Influences [Haunting Revenant Xmm]]
 - Originates from [[Merchants Guild (Organizations)
 - Leads to [Master Cultivators Guild]]
-- Parallels [[Saint Markovias Thighbone Cos
-- Connects to [Master Archivist Thomas Scrollkeeper (D&D_References)]]
+- Parallels [[Master Archivist Thomas Scrollkeeper (D&D_References)]]
 - Affected by [[NPC00199_Ewan_Ashford
 - Related: [Current Peacefulflow]]
-- Affected by [[The Reality Reformation
-- Related: [The Crystal Palace - Throne Room (D&D_References)]]
+- Affected by [[The Crystal Palace - Throne Room (D&D_References)]]
 - Originates from
 - Affected by [[04_Resources_Assets_Symbols_symbol-heraldry-commerce-manager-fairdealin-commerce-manager-fairdealin.svg
 - Originates from [EVENT00044_Natural_Event_45]]
 - Leads to [[step_078 (phase_088)
 - Originates from [Portrait NPC Lord Marcus Goldweaver V1 Lord Marcus Goldweaver.svg]]
-- Requires [[The Deepmind
-- Connects to [LOC00033_Towns_Location_34]]
+- Requires [[LOC00033_Towns_Location_34]]
 - Related: [[dragonlance-reorx-phb (deities)
 - Parallels [Deep Studycurrent]]
 - Originates from [[NPC00253_Ewan_Crystalbrook
@@ -241,17 +236,14 @@ Provides information for a price
 - Connects to [ENC00382_Combat_Encounter_383]]
 - Affected by [[Magistrate Aldric Lawquill
 - Affected by [Sky City Councils 2]]
-- See also: [[Factions the Crystal Forge Guild
-- See also: [wayfarer-xphb (backgrounds)]]
+- See also: [[Factions the Crystal Forge Guild]]
 - Leads to [[Convergence Points_1 (02_Worldbuilding)
 - See also: [Purification Chambers]]
 - Related:
-- Leads to [[step_040 (phase_075)
-- Related: [Transformation Techniques]]
+- Leads to [[Transformation Techniques]]
 - Leads to [[greater-invisibility-xphb (spells)
 - See also: [Hidden Sanctuary 2]]
-- Requires [[Memory Magic
-- Originates from [The False History Crisis 2]]
+- Requires [[The False History Crisis 2]]
 - Originates from [[ITEM00777_Primordial_Chalice_of_the_Gods
 - Parallels [giant-scorpion-xmm (beast)]]
 - See also: [[Intelligence Communit
@@ -266,20 +258,17 @@ Provides information for a price
 - Connects to [Halls of Eternal Memory]]
 - Compare with [[ITEM0028_Eldritch_Orb_of_Power
 - Related: [Brazier of Commanding Fire Elementals Xdmg]]
-- Compare with [[LORE00246_Legends_Entry_247
-- See also: [NPC01974_Thalia_Zephyrblade_the_Lost]]
+- Compare with [[NPC01974_Thalia_Zephyrblade_the_Lost]]
 - Influences [[LORE00158_Legends_Entry_159
 - See also: [step_030 (phase_095)]]
 - Leads to [[Portrait NPC Quest the Admiral S Gambit V2 Quest the Admiral S Gambit.svg
 - See also: [Symbol Heraldry the Repository Barge V1 the Repository Barge.svg]]
-- Leads to [[Illusory Script Xphb
-- Leads to [ENC00032_Environmental_Encounter_33]]
+- Leads to [[ENC00032_Environmental_Encounter_33]]
 - Affected by [[FAC00040_Cults_41
 - Originates from [step_071 (phase_038)]]
 - Originates from [[step_099 (phase_082)
 - Originates from [step_034 (phase_026)]]
-- Parallels [[LORE0045_History_of_the_Hero's_Sacrifice
-- Parallels [Ambassador Lysandra Silvertonge 2]]
+- Parallels [[LORE0045_History_of_the_Hero's_Sacrifice]]
 - Originates from [[Assets Locations Location City Harbor Pilot Guild Harbor Pilot Guild.svg
 - See also: [chamber-purpose-dungeon-tomb (tables)]]
 - Influences [[Assets Locations Location City the Infinite Garden the Infinite Garden.svg

@@ -160,52 +160,41 @@ Family member has gone missing
 
 ## Connections
 
-- Connects to [[Elven Tethrin Veralde Mtf
-- Influences [Shadow Animation Chamber (D&D_References)]]
-- Parallels [[NPC00253_Ewan_Crystalbrook
-- Connects to [10-combat#Shoving a Creature]]
+- Connects to [[Shadow Animation Chamber (D&D_References)]]
+- Parallels [[NPC00253_Ewan_Crystalbrook]]
 - Connects to [[Symbol Heraldry the Great Cataloguing V1 the Great Cataloguing.svg
 - Leads to [LOC00118_Cities_Location_119]]
-- Related: [[Arcane Eye Xphb
-- Originates from [Gareth_Ironforge (D&D_References)]]
+- Related: [[Gareth_Ironforge (D&D_References)]]
 - Originates from [[Princess Celestia (Lore)
 - Originates from [step_026 (phase_085)]]
 - Affected by [[step_018 (phase_085)
 - Affected by [armor-of-acid-resistance-xdmg (items)]]
-- See also: [[LORE00086_History_Entry_87
-- Parallels [Voidwhisper Diplomat Seraphina Darkgrace]]
+- See also: [[Voidwhisper Diplomat Seraphina Darkgrace]]
 - Leads to [[LORE0091_Legend_of_the_Lost_City
 - Connects to [Tax Commissioner Merion Goldcount 2]]
-- See also: [[Theological Seminaries (D&D_References)
-- Compare with [University Heights 2]]
+- See also: [[Theological Seminaries (D&D_References)]]
 - Affected by [[Symbol Heraldry the Stellar Confluence V1 the Stellar Confluence.svg
 - Influences
 - Requires [Portrait NPC Emperor Abyssal the Deep Sighted Emperor Abyssal the Deep Sighted.svg]]
-- Compare with [[Mother Superior Cordelia Mercyheart (D&D_References)
-- Related: [Temporal Healers 2]]
+- Compare with [[Mother Superior Cordelia Mercyheart (D&D_References)]]
 - Connects to [[High Council Chambers
 - Compare with [ITEM00389_Blessed_Axe_of_Power]]
-- Influences [[Egyptian Imhotep
-- Compare with [QUEST00476_Side_Quest_477]]
+- Influences [[QUEST00476_Side_Quest_477]]
 - Compare with [[location-city-grand-harbor-v1-grand-harbor.svg
 - Leads to [Shadow Reflection Sage]]
 - Related: [[Location City Master Trader Abyss Currentbinder V1 Master Trader Abyss Currentbinder.svg
 - Connects to [LOC00110_Cities_Location_111]]
 - Parallels [[giant-fire-beetle-xmm (beast)
 - Connects to [step_084 (phase_012)]]
-- Originates from [[ENC00247_Combat_Encounter_248
-- Compare with [giant-wolf-spider-xmm]]
+- Originates from [[ENC00247_Combat_Encounter_248]]
 - Influences [[Assets Handouts Handout Handout Merchant Contract with Fine Print V2 Merchant Contract with Fine Print.png
 - Leads to [SHOP00044_General_Shop_45]]
 - Parallels [[step_065 (phase_078)
 - Affected by [The Floating Markets]]
 - Originates from [[Harbor Master's Tower
 - Connects to [Assets Locations Location City Hadrian Depthbridge V1 Hadrian Depthbridge.svg]]
-- Compare with [[NPC01121_Malakai_Thornweave_the_Scholar
-- Parallels [step_019 (phase_046)]]
-- Parallels [[Ω_System-CLI-spells-school-transmutation (Lore)
-- Compare with
-- Influences [Vehicle Ship Reson... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Compare with [[NPC01121_Malakai_Thornweave_the_Scholar]]
+- Parallels [[Vehicle Ship Reson... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[Assets Locations Location City the Crystal Palace Throne Room V1 the Crystal Palace Throne Room.svg
 - See also: [Location City Great Plague of Ages Past V1 Great Plague of Ages Past.svg]]
 - Compare with [[Memory Farmers (D&D_References)
@@ -215,16 +204,13 @@ Family member has gone missing
 - Influences [needles-50-xphb (items)]]
 - Affected by [[Assets Symbols Symbol Heraldry Void Echo Silence Deafmake V1 Void Echo Silence Deafmake.svg
 - Affected by [Location City the Sunken Library of Thalassius the Sunken Library of Thalassius.svg]]
-- Leads to [[The Deep Fugitive (D&D_References)
-- Parallels [#review-integration-progress]]
+- Leads to [[The Deep Fugitive (D&D_References)]]
 - Connects to
-- Parallels [[Traditional Craftsmen Guil
-- Leads to [High Administrator Cornelius Protocols 2]]
+- Parallels [[High Administrator Cornelius Protocols 2]]
 - Connects to [[The Silence Patrol
 - Affected by
 - Connects to [lance-xphb (items)]]
-- Parallels [[Knowledge Truthseeker (D&D_References)
-- Related: [step_059 (phase_088)]]
+- Parallels [[Knowledge Truthseeker (D&D_References)]]
 - Related: [[fire-giant-xmm
 - Affected by [Assets Locations Location City Temporal Magic Research V1 Temporal Magic Research.svg]]
 - See also: [[LOC00167_Wilderness_Location_168
@@ -237,29 +223,22 @@ Family member has gone missing
 - Compare with [Cultural Festival]]
 - Affected by [[Location City Master Chef Coral Seasweaver Master Chef Coral Seasweaver.svg
 - Influences [the-calendar-of-harptos (tables)]]
-- Affected by [[villains-villains-methods (tables)
-- Connects to [Senior Resonance Engineer Harmony Deepnote]]
-- Affected by [[step_064 (phase_047)
-- Compare with [LOC00126_Dungeons_Location_127]]
+- Affected by [[Senior Resonance Engineer Harmony Deepnote]]
+- Affected by [[LOC00126_Dungeons_Location_127]]
 - Compare with [[actions#Opportunity%20Attack
 - Affected by [step_083 (phase_089)]]
-- Parallels [[Silverscale Crystal Warehouses
-- Parallels [step_055 (phase_067)]]
+- Parallels [[Silverscale Crystal Warehouses]]
 - Related: [[QUEST00298_Personal_Quest_299
 - Parallels [Location City Legal Profession V1 Legal Profession.svg]]
 - Connects to [[Portrait NPC Duke Aldric Blackwater Duke Aldric Blackwater.svg
 - Influences [ITEM00033_Radiant_Hammer_of_Power]]
-- Affected by [[step_079 (phase_028)
-- Requires [QUEST00055_Personal_Quest_56]]
-- See also: [[Monsters by Habitat Hill Monsters Xmm
-- Leads to [The Void Touched Oracle (D&D_References)]]
+- Affected by [[QUEST00055_Personal_Quest_56]]
+- See also: [[The Void Touched Oracle (D&D_References)]]
 - See also: [[Alchemy Jug Xdmg
 - Leads to [step_002 (phase_019)]]
 - Influences
-- Influences [[Convergence Point
-- Affected by [Duchess Aurora Spirelight (D&D_References)]]
-- Connects to [[Crying Peaks 2
-- Affected by [The Loop Breaker (D&D_References)]]
+- Influences [[Duchess Aurora Spirelight (D&D_References)]]
+- Connects to [[The Loop Breaker (D&D_References)]]
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png

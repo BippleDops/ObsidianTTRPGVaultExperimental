@@ -25,5 +25,8 @@
   "alt_text": "Concept art of avatar-of-death-dmg with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-avatar-of-death-dmg-v2-avatar-of-death-dmg.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-avatar-of-death-dmg-v2-avatar-of-death-dmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:58:05.375Z",
+  "generationMethod": "ComfyUI"
 }

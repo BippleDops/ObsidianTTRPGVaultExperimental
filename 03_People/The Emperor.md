@@ -274,11 +274,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Eastern Kingdoms (02_Worldbuilding)
 - [The Bathyal Succession]]
-- [[The Emperor''s Gambit
-- [The Tethyan Hegemony]]
+- [[The Emperor''s Gambit]]
 - [[Assets Art Master Smith Coral Hammer.png
 - [Assets Locations Location City Master Curator Pearl Artflow V1 Master Curator Pearl Artflow.svg]]
 - [[Azure Shard
 - [The Scattered Emperor]]
-- [[Azure Shard (D&D_References)
-- [The Scattered Emperor (D&D_References)]]
+- [[The Scattered Emperor (D&D_References)]]

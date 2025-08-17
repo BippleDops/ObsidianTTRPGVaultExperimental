@@ -46,35 +46,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-### Oral_Tradition Improvements
-
-- Add folk tales and children's stories
-
-### Death_Customs Improvements
-
-- Detail funeral rites and afterlife beliefs
-
-### Contradictions Improvements
-
-- Include cultural hypocrisies and double standards
-
-### Coming_Of_Age Improvements
-
-- Describe rites of passage and adulthood markers
-
-### Material_Culture Improvements
-
-- Detail common objects and their cultural significance
-
-### Hospitality Improvements
-
-- Explain guest rights and host obligations
-
-## Overview
-
-02_Worldbuilding/[People]]/The Silent Watcher Entity represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+- Describe how this culture exists in other [[region]]/The Silent Watcher Entity represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ### Basic Information
 02_Worldbuilding/People/The Silent Watcher Entity can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:

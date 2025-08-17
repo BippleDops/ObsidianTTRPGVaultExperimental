@@ -169,8 +169,7 @@ Discovered something valuable
 
 ## Connections
 
-- Originates from [[Chief Diplomat Corallion Reefwright
-- Affected by [ENC00463_Combat_Encounter_464]]
+- Originates from [[Chief Diplomat Corallion Reefwright]]
 - Requires [[Starting Equipment at Higher Levels Xphb
 - Related: [Memory_Merchant_Valeria.png]]
 - Parallels [[Location City Vault Maintenance Checklist Vault Maintenance Checklist.svg
@@ -189,8 +188,7 @@ Discovered something valuable
 - Originates from [LOC0011_Bridgeshire]]
 - See also: [[step_016 (phase_005)
 - Originates from [Location City the Luminous Dawn Cathedral the Luminous Dawn Cathedral.svg]]
-- Requires [[Lady Celestine Windborne (D&D_References)
-- See also: [imp-xmm (fiend)]]
+- Requires [[Lady Celestine Windborne (D&D_References)]]
 - Affected by [[mass-heal-xphb (spells)
 - Requires [step_050 (phase_099)]]
 - Requires [[step_061 (phase_038)
@@ -199,23 +197,20 @@ Discovered something valuable
 - Influences [Portrait NPC Umbral Crystal Miners V1 Umbral Crystal Miners.svg]]
 - See also: [[Location City Master Archivist Thomas Scrollkeeper Master Archivist Thomas Scrollkeeper.png
 - Connects to [step_088 (phase_094)]]
-- Originates from [[Mirror Merchant Marina
-- Leads to [Quest - The Debtor's Revolt]]
+- Originates from [[Quest - The Debtor's Revolt]]
 - Requires [[Assets Locations Location City Whisper Island Docks V1 Whisper Island Docks.svg
 - See also: [LORE00264_Legends_Entry_265]]
 - Affected by [[Portrait NPC Mirror Breaking Crystals V1 Mirror Breaking Crystals.svg
 - Connects to [Bone Scribes]]
 - Compare with [[ki-rin-vgm (legendary-group)
 - Originates from [Assets Locations Location City Keeper of the Past Elderly Morgan Keeper of the Past Elderly Morgan.svg]]
-- Leads to [[NPC01080_Rhiannon_Oakenshield_the_Lost
-- Related: [white-dragon-wyrmling-xmm (dragon)]]
+- Leads to [[NPC01080_Rhiannon_Oakenshield_the_Lost]]
 - Requires [[Continual Flame Xphb
 - Influences [Map Map Crystal Cavern Bridge V1 Crystal Cavern Bridge.svg]]
 - See also:
 - Affected by [[staff-of-frost-xdmg (items)
 - Requires [Assets Locations Location City Restorative Justice V1 Restorative Justice.svg]]
-- Related: [[NPC00291_Orion_Hawthorne_the_Bold
-- Compare with [step_063 (phase_006)]]
+- Related: [[NPC00291_Orion_Hawthorne_the_Bold]]
 - Requires [[molten-magma-roper-pota (monstrosity)
 - Influences [adult-kruthik-mpmm (monstrosity)]]
 - Influences [[Local Authorities
@@ -225,16 +220,12 @@ Discovered something valuable
 - Connects to [step_024 (phase_042)]]
 - Parallels [[The Egyptian Pantheon Egyptian Deities Phb
 - Influences [LOC00100_Wilderness_Location_101]]
-- Connects to [[Minor Illusion Xphb
-- Parallels [MON00031_Undead_Creature_32]]
-- Requires [[The Reality Destabilization Campaign
-- Leads to [INDEX (Curse_of_Strahd)]]
+- Connects to [[MON00031_Undead_Creature_32]]
+- Requires [[The Reality Destabilization Campaign]]
 - Parallels [[step_084 (phase_050)
 - Originates from [Roleplaying a Beholder Beholder Personality Traits Vgm]]
-- Parallels [[step_057 (phase_040)
-- Originates from [The Anonymous Protocol (D&D_References)]]
-- Requires [[LOC00293_Towns_Location_294
-- See also: [maze-xphb (spells)]]
+- Parallels [[The Anonymous Protocol (D&D_References)]]
+- Requires [[LOC00293_Towns_Location_294]]
 - Parallels [[ITEM01293_Greater_Elixir_of_Clarity
 - Requires [Dragonlance Paladine Phb]]
 - Related: [[LORE00080_Legends_Entry_81
@@ -254,8 +245,7 @@ Discovered something valuable
 - Leads to [Portrait NPC Zephyr Goldwhisper Zephyr Goldwhisper.svg]]
 - Leads to [[LOC00012_Cities_Location_13
 - Affected by [potion-of-thunder-resistance-xdmg (items)]]
-- Influences [[ENC00452_Combat_Encounter_453
-- Affected by [The Archives]]
+- Influences [[ENC00452_Combat_Encounter_453]]
 - Parallels [[human-names-egyptian-male-xge (tables)
 - Connects to [Portrait NPC Lady Nexus Goldcurrent V1 Lady Nexus Goldcurrent.svg]]
 - Requires [[QUEST00315_Side_Quest_316
@@ -263,8 +253,7 @@ Discovered something valuable
 - Compare with [[SPELL00116_Divine_Spell_117
 - Affected by
 - Influences [Archivist Reef Bookkeeper (D&D_References)]]
-- See also: [[LOC00047_Wilderness_Location_48
-- Related: [Black Dragon Scale Mail Xdmg]]
+- See also: [[LOC00047_Wilderness_Location_48]]
 - Requires [[QUEST0013_The_Shadow_Realm_Mystery
 - Leads to [NPC01938_Caelum_Underhill_the_Lost]]
 - See also:

@@ -45,10 +45,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [Complete_Temporal_Mechanics_System|Complete Temporal Mechanics System]]
-- [[Crafting_Transcendence|Crafting Transcendence
-- [Economic_Warfare_Simulator|Economic Warfare Simulator]]
-- [[Reality_Breach_Event_Compiler|Reality Breach Event Compiler
-- [Aethermoor_Airships|Aethermoor Airships]]
+- [[Crafting Transcendence|Crafting Transcendence
+- [Economic_Warfare_Simulator]]
+- [[Reality Breach Event Compiler|Reality Breach Event Compiler
+- [Aethermoor_Airships]]
 - [[Aquabyssos_Submarines|Aquabyssos Submarines
 - [Merger_Hybrid_Vehicles|Merger Hybrid Vehicles]]
 - [[Transportation_Infrastructure|Transportation Infrastructure

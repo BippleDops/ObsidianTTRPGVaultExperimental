@@ -164,14 +164,11 @@ Requires champions for trial by combat
 
 - Related: [[MON00075_Aberrations_Creature_76
 - Originates from [Portrait NPC the Free Current Movement V2 the Free Current Movement.svg]]
-- Leads to [[LOC00219_Planes_Location_220
-- See also: [step_029 (phase_054)]]
-- Originates from [[Wither and Bloom Scc
-- Related: [Vote Vaults (D&D_References)]]
+- Leads to [[LOC00219_Planes_Location_220]]
+- Originates from [[Vote Vaults (D&D_References)]]
 - Requires [[The Maw of Darkness (D&D_Statblocks)
 - Originates from [Portrait NPC Director of Experimental Procedures Dr Siren Voidtouch V2 Director of Experimental Procedures Dr Siren Voidtouch.svg]]
-- Parallels [[step_082 (phase_100)
-- Connects to [Navigate Singer Consciousness 2]]
+- Parallels [[Navigate Singer Consciousness 2]]
 - See also: [[ITEM00293_Blazing_Bow_of_Wounding
 - Affected by [Healer Tide-Touch]]
 - Parallels [[Factions Abyssal Courts
@@ -183,8 +180,7 @@ Requires champions for trial by combat
 - Connects to [Portrait NPC Sister Thalassa the Depth Touched Sister Thalassa the Depth Touched.svg_1 (Portraits)]]
 - See also: [[step_011 (phase_100)
 - Leads to [Cultural Heritage Center]]
-- Influences [[NPC01196_Brenna_Underhill_the_Wise
-- Parallels [step_068 (phase_015)]]
+- Influences [[NPC01196_Brenna_Underhill_the_Wise]]
 - Related: [[ITEM01019_Concentrated_Oil_of_Clarity
 - Parallels [The Tidal Shard of Memory 2]]
 - Leads to [[ITEM01103_Lesser_Crystal_of_Vigor
@@ -192,8 +188,7 @@ Requires champions for trial by combat
 - Compare with [FAC00034_Cults_35]]
 - See also: [[portrait-npc-senator-marius-senator-marius.svg_1 (Portraits)
 - Originates from [step_042 (phase_050)]]
-- Originates from [[step_067 (phase_058)
-- Related: [MON00037_Undead_Creature_38]]
+- Originates from [[MON00037_Undead_Creature_38]]
 - See also: [[hat-of-disguise-xdmg (items)
 - Affected by [Location City the Vote Vault Mystery V1 the Vote Vault Mystery.svg]]
 - Affected by [[art-elemental-mascot-scc (elemental)
@@ -208,12 +203,9 @@ Requires champions for trial by combat
 - Related: [step_038 (phase_063)]]
 - Influences [[Quest - Storm Lord's Challenge_1 (01_Adventures)
 - Affected by [Market_District (D&D_References)]]
-- Compare with [[gith-mtf (races)
-- Affected by [SPELL00091_Arcane_Spell_92]]
-- Affected by [[Shield Master Xphb
-- Requires [Master Curator Pearl Artflow]]
-- Compare with [[Senior Temporal Engineer Chronos Fieldwright
-- Originates from [weapon-master-xphb (feats)]]
+- Compare with [[SPELL00091_Arcane_Spell_92]]
+- Affected by [[Master Curator Pearl Artflow]]
+- Compare with [[Senior Temporal Engineer Chronos Fieldwright]]
 - Parallels [[Assets Locations Location City Crystal Mines V1 Crystal Mines.svg
 - Parallels [step_061 (phase_059)]]
 - See also: [[step_003 (phase_056)
@@ -238,8 +230,7 @@ Requires champions for trial by combat
 - Influences [Corallion]]
 - Originates from [[cape-of-the-mountebank-xdmg (items)
 - Compare with [criminal-xphb (backgrounds)]]
-- Parallels [[LORE0060_History_of_the_Dark_Times
-- Affected by [step_033 (phase_032)]]
+- Parallels [[LORE0060_History_of_the_Dark_Times]]
 - See also: [[LOC00246_Dungeons_Location_247
 - Parallels [Human Names Indian Male Xge]]
 - Compare with
@@ -247,10 +238,8 @@ Requires champions for trial by combat
 - See also: [Creature Creature Aerisi Kalinoth Pota Aerisi Kalinoth Pota.png]]
 - Related: [[Assets Locations Location City Void Krakens V1 Void Krakens.svg
 - Influences [LOC0109_Groveton]]
-- Related: [[Gnoll Warrior Xmm
-- Originates from [Whisper Island Docks (D&D_References)]]
-- See also: [[step_013 (phase_071)
-- Affected by [Quartermaster David Simpleton]]
+- Related: [[Whisper Island Docks (D&D_References)]]
+- See also: [[Quartermaster David Simpleton]]
 - See also:
 - Requires [[LORE0016_Legend_of_the_First_King
 - Affected by [NPC00836_Brenna_Ironwood_the_Broken]]

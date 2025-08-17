@@ -47,8 +47,7 @@ related_quests:
 relationship_type: political
 relationships:
 - '[The Scattered Emperor]]'
-- '[[Shadow Duchess Nyx'
-- '[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]]'
+- '[[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]]'
 - '[[Original Glaucus (imprisoned)'
 secondary_faction: '[Shadow Conspiracy]]'
 secrets:
@@ -327,27 +326,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## References
 
-- [[Campaign_Relationship_Matrix
-- [Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
 - [[Assets Locations Location City Master Archivist Thomas Scrollkeeper Master Archivist Thomas Scrollkeeper.png
 - [Original Glaucus]]
 - [[Senator
 - [The Senator]]
-- [[Abyssos Prime
-- [Parliament of Echoes (Places)]]
-- [[The Eternal Senate
-- [Rescue Senator Glaucus]]
-- [[Aquabyssos (D&D_References)
-- [Comprehensive-World-Connection-Guide (D&D_References)]]
-- [[Comprehensive-World-Connection-Guide 3 (D&D_References)
-- [Encounter and Loot Generators]]
-- [[Original Glaucus (D&D_References)
-- [Parliament of Echoes (D&D_References)]]
-- [[Random_Tables - Encounter_and_Loot_Generators
-- [The Eternal Senate (D&D_References)]]
-- [[The Senator (D&D_References)
-- [The Senator's Last Stand]]
-- [[Aquabyssos - Session 01 - The Drowning Welcome
-- [Senator (D&D_Statblocks)]]
+- [[Parliament of Echoes]]
+- [[Rescue Senator Glaucus]]
+- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
+- [[Parliament of Echoes (D&D_References)]]
+- [[Random_Tables - Encounter_and_Loot_Generators]]
+- [[The Senator (D&D_References)]]
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]
 - [[Topic Matrix
 - [Topic_Matrix (Indexes)]]

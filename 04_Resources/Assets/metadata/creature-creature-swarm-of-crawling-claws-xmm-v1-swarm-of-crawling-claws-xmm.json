@@ -25,5 +25,8 @@
   "alt_text": "Concept art of swarm-of-crawling-claws-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-swarm-of-crawling-claws-xmm-v1-swarm-of-crawling-claws-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-swarm-of-crawling-claws-xmm-v1-swarm-of-crawling-claws-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:09:54.122Z",
+  "generationMethod": "ComfyUI"
 }

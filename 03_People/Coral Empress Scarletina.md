@@ -266,7 +266,5 @@ ___
 
 - [[Assets Locations Location City Master Trader Abyss Currentbinder V1 Master Trader Abyss Currentbinder.svg
 - [Assets Locations Location City Temple of Sacred Dreams Temple of Sacred Dreams.svg]]
-- [[Coral Throne Syndicate HQ
-- [Coral Throne Syndicate]]
-- [[Coral Throne Syndicate (D&D_References)
-- [Coral Throne Syndicate HQ (D&D_References)]]
+- [[Coral Throne Syndicate HQ]]
+- [[Coral Throne Syndicate HQ (D&D_References)]]

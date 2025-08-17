@@ -170,19 +170,15 @@ Knows secret about major threat
 - Parallels [Monsters by Habitat Hill Monsters Xmm]]
 - Leads to [[QUEST00265_Side_Quest_266
 - Compare with [Assets Item Artifact Weird Tank Pota V6 Weird Tank Pota.png]]
-- Parallels [[Void-touched Assassins (D&D_References)
-- Influences
-- Requires [pepper-xdmg (items)]]
+- Parallels [[Void-touched Assassins (D&D_References)]]
 - Related: [[Location City Sage Rememberall Sage Rememberall.svg
 - Affected by [Assets Locations Location City Clerk Supreme Marcus Filekeeper Clerk Supreme Marcus Filekeeper.svg]]
 - Related: [[step_080 (phase_040)
 - Requires [The Memory Crown]]
-- Compare with [[Tribune Cassia
-- Leads to [Time]]
+- Compare with [[Tribune Cassia]]
 - Connects to [[Assets Locations Location City the Resonant Hermit the Resonant Hermit.svg
 - Parallels [Dataview Query Guide (D&D_References)]]
-- Related: [[LOC00174_Cities_Location_175
-- Leads to [step_015 (phase_085)]]
+- Related: [[LOC00174_Cities_Location_175]]
 - Originates from [[Location City Council of Faiths Council of Faiths.svg
 - Related: [Reference Homebrew Items New Item]]
 - See also: [[Surface Contact Prohibition
@@ -195,8 +191,7 @@ Knows secret about major threat
 - Requires [step_049 (phase_011)]]
 - Parallels [[6-character-names (xanathars-guide-to-everything)
 - Affected by [egyptian-imhotep (deities)]]
-- Related: [[Encrypted Orders
-- Leads to [Maritime Security Chief Reef (D&D_References)]]
+- Related: [[Maritime Security Chief Reef (D&D_References)]]
 - Related: [[Portrait NPC Quest the Pressure Cure V2 Quest the Pressure Cure.svg
 - Compare with [Portal Mirror Mage 2]]
 - Affected by [[list-spells-feats-strixhaven-mascot-scc (lists)
@@ -207,34 +202,26 @@ Knows secret about major threat
 - Originates from [step_053 (phase_057)]]
 - Related: [[Reality Stability Protocols
 - Parallels [list-spells-school-conjuration]]
-- Affected by [[step_086 (phase_056)
-- Connects to [Interfaith Dialogue (D&D_References)]]
+- Affected by [[Interfaith Dialogue (D&D_References)]]
 - Influences [[LOC00288_Cities_Location_289
 - Originates from [Assets Locations Location City Sage Currentknow Sage Currentknow.svg]]
-- Influences [[conditions#Charmed
-- Compare with [Assets Portraits Portrait NPC the Siren the Siren.svg]]
+- Influences [[Conditions]]
 - Leads to [[Assets Locations Location City Pressure Tube System V1 Pressure Tube System.svg
 - Requires [string-xphb (items)]]
-- See also: [[NPC01393_Erasmus_Winterborn_the_Broken
-- Leads to [LORE00090_Prophecies_Entry_91]]
-- Connects to [[step_097 (phase_082)
-- Originates from [NPC00483_Aeliana_Frostwhisper_the_Seeker]]
+- See also: [[NPC01393_Erasmus_Winterborn_the_Broken]]
+- Connects to [[NPC00483_Aeliana_Frostwhisper_the_Seeker]]
 - Connects to [[Troll Limb Xmm
 - Affected by [figurine-of-wondrous-power-golden-lions-xdmg (items)]]
 - Leads to [[step_036 (phase_086)
 - See also: [Assets Locations Location City Temporal Viewing Chambers V1 Temporal Viewing Chambers.svg]]
 - Requires [[LORE00295_History_Entry_296
 - Originates from [step_010 (phase_031)]]
-- Connects to [[forgotten-realms-bane (deities)
-- Requires [The Hybrid Settlements (D&D_References)]]
-- See also: [[NPC01846_Lyanna_Brightblade_the_Scholar
-- See also: [SPELL00064_Arcane_Spell_65]]
-- Originates from [[The Equipment Vaults
-- Leads to [NPC01725_Orion_Xendar_the_Scholar]]
+- Connects to [[The Hybrid Settlements (D&D_References)]]
+- See also: [[NPC01846_Lyanna_Brightblade_the_Scholar]]
+- Originates from [[NPC01725_Orion_Xendar_the_Scholar]]
 - Affected by [[ENC00001_Social_Encounter_2
 - Influences [wall-of-fire-xphb (spells)]]
-- Connects to [[LOC00163_Dungeons_Location_164
-- Requires [LOC0036_OldGate]]
+- Connects to [[LOC00163_Dungeons_Location_164]]
 - Leads to [[LORE00199_History_Entry_200
 - Parallels [The Corroded Crown]]
 - Affected by [[LORE00168_Prophecies_Entry_169
@@ -247,8 +234,7 @@ Knows secret about major threat
 - Originates from [ITEM00239_Shadow_Sword_of_the_Ancients]]
 - Related: [[Location City Mad Prophet Silas the Depth Touched V1 Mad Prophet Silas the Depth Touched.svg
 - Parallels [Exploration_Rewards]]
-- Requires [[Basalt Depthwright (D&D_References)
-- Affected by [Branching_Campaign_Paths (D&D_References)]]
+- Requires [[Branching_Campaign_Paths (D&D_References)]]
 - Requires [[The Reality Guards 2
 - See also: [Smuggler's Cove]]
 - Leads to [[Marcus Depthward 2

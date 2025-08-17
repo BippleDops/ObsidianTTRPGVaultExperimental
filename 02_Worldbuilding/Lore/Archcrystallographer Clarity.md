@@ -52,5 +52,4 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [The Queen]]
-- [[The Queen (D&D_References)
-- [The Queen 3 (D&D_References)]]
+- [[The Queen 3 (D&D_References)]]

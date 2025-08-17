@@ -164,14 +164,11 @@ Family member has gone missing
 
 ## Connections
 
-- Originates from [[Navigator Saltwind 2
-- See also: [Professor Diana Shadowbane (D&D_References)]]
-- Leads to [[She-Who-Sees-Beyond
-- Leads to [Voidstone]]
+- Originates from [[Professor Diana Shadowbane (D&D_References)]]
+- Leads to [[She-Who-Sees-Beyond]]
 - Compare with [[phase-spider-xmm (monstrosity)
 - Affected by [step_071 (phase_043)]]
-- Leads to [[Player_Handout_Merger_Vessels (Ships)
-- Leads to [actions#Search]]
+- Leads to [[Player_Handout_Merger_Vessels (Ships)]]
 - Leads to
 - Influences [[Assets Locations Location City Quartermaster Sterling Suppystone Quartermaster Sterling Suppystone.svg
 - Originates from [MON00148_Undead_Creature_149]]
@@ -179,8 +176,7 @@ Family member has gone missing
 - Originates from [Location City Expedition to the Sunless Depths Expedition to the Sunless Depths.svg]]
 - Compare with [[step_090 (phase_096)
 - Compare with [$available_space -lt 2]]
-- Leads to [[Shadow-Touched Individuals (D&D_References)
-- Related: [The Whispered Voice 2]]
+- Leads to [[Shadow-Touched Individuals (D&D_References)]]
 - Related: [[Depth Wardens 2
 - Compare with [step_052 (phase_020)]]
 - Influences [[Session 05 - The Shadow War 2
@@ -188,14 +184,12 @@ Family member has gone missing
 - See also: [[Memory Trader Kellian (Lore)
 - Originates from [FAC00064_Guilds_65]]
 - Requires
-- Connects to [[Memory Coral
-- Requires [Quest - Portal Conspiracy 2]]
+- Connects to [[Quest - Portal Conspiracy 2]]
 - Leads to [[Portable Hole Xdmg
 - See also: [step_020 (phase_011)]]
 - Affected by [[Map Map Pressure Maelstrom Edge Pressure Maelstrom Edge.svg
 - Compare with [step_014 (phase_075)]]
-- Compare with [[Memory Merchants Guild
-- Parallels [NPC00386_Branwen_Emberfall_the_Seeker]]
+- Compare with [[NPC00386_Branwen_Emberfall_the_Seeker]]
 - Parallels [[Location City Chief Engineer Vera Steamheart V1 Chief Engineer Vera Steamheart.svg
 - Related: [Portrait NPC Sir Marcus Dawnforge V1 Sir Marcus Dawnforge.svg_1 (Portraits)]]
 - Compare with
@@ -220,10 +214,8 @@ Family member has gone missing
 - Related: [Pristine Pearl]]
 - Related: [[Portrait NPC High Tide Environmental Effects V2 High Tide Environmental Effects.svg
 - Leads to [step_067 (phase_016)]]
-- Compare with [[ENC00106_Social_Encounter_107
-- Compare with [Inspector Helena Truthseeker (D&D_References)]]
-- Connects to [[step_088 (phase_071)
-- Originates from [Quest - The Family Reconciliatio 2]]
+- Compare with [[Inspector Helena Truthseeker (D&D_References)]]
+- Connects to [[Quest - The Family Reconciliatio 2]]
 - Affected by
 - See also: [[step_069 (phase_038)
 - Originates from [LOC00002_Dungeons_Location_3]]
@@ -250,17 +242,13 @@ Family member has gone missing
 - Compare with [Cosmic Consciousness Ethics]]
 - Requires [[step_070 (phase_044)
 - Affected by [step_020 (phase_050)]]
-- Affected by [[MON00093_Aberrations_Creature_94
-- Influences [step_038 (phase_025)]]
+- Affected by [[MON00093_Aberrations_Creature_94]]
 - Originates from [[FAC00031_Cults_32
 - Compare with [describe-appearance-and-personality-dexterity-xphb]]
-- Compare with [[Investigative Chronicler Darius Truthseeker
-- Compare with [Pipe of Smoke Monsters Xdmg]]
+- Compare with [[Investigative Chronicler Darius Truthseeker]]
 - Connects to
-- Compare with [[The Pressure Maelstroms
-- Compare with [NPC01535_Wynne_Winterborn_the_Wanderer]]
-- Compare with [[NPC00779_Lyanna_Lightbringer_the_Redeemed
-- Influences [banshee-xmm (undead)]]
+- Compare with [[NPC01535_Wynne_Winterborn_the_Wanderer]]
+- Compare with [[NPC00779_Lyanna_Lightbringer_the_Redeemed]]
 - Leads to [[Location City the Banker Fish V1 the Banker Fish.svg
 - Influences [bigbys-hand-xphb (spells)]]
 - Originates from [[Abyssal Cour

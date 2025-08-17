@@ -1,7 +1,6 @@
 ---
 
-title: [[Deep Mother Resistance Traits
-type: [Lore]]
+title: [[Deep Mother Resistance Traits]]
 tags:
 - lore
 - worldbuilding
@@ -119,4 +118,4 @@ Deep Mother Resistance Traits represents a crucial aspect of the world's history
 
 ## References
 
-- [[Campaign_Overview_1 (01_Adventures)]]
+- [[Campaign_Overview]]

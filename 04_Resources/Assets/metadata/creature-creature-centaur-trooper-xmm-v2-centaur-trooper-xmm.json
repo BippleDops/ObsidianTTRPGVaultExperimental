@@ -25,5 +25,8 @@
   "alt_text": "Concept art of centaur-trooper-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-centaur-trooper-xmm-v2-centaur-trooper-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-centaur-trooper-xmm-v2-centaur-trooper-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:59:44.707Z",
+  "generationMethod": "ComfyUI"
 }

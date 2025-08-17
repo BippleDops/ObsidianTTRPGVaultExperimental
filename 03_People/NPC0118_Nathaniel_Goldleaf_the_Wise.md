@@ -160,18 +160,13 @@ Arcana, Persuasion
 - Requires [The Deep Fugitive]]
 - See also: [[portrait-npc-lord-bathysmal-v1-lord-bathysmal.svg
 - Originates from [Hand Crossbow Xphb]]
-- Connects to [[SPELL00139_Nature_Spell_140
-- Compare with [The First Healing]]
-- Connects to [[Keeper Elara Mindwell 2
-- Parallels [QUEST00286_Personal_Quest_287]]
-- See also: [[NPC0041_Brenna_Ironforge_the_Clever
-- Connects to [Customs House 2]]
-- Compare with [[Ancient Crystaldeep (D&D_References)
-- Parallels [Crisis Portal Procedures]]
+- Connects to [[SPELL00139_Nature_Spell_140]]
+- Connects to [[QUEST00286_Personal_Quest_287]]
+- See also: [[NPC0041_Brenna_Ironforge_the_Clever]]
+- Compare with [[Ancient Crystaldeep (D&D_References)]]
 - See also: [[Location City Marina Deepcurrent V1 Marina Deepcurrent.svg
 - Related: [step_037 (phase_039)]]
-- Originates from [[Fragment Compass 2
-- Related: [Aquabyssos Depth Caste System (Lore)]]
+- Originates from [[Aquabyssos Depth Caste System]]
 - Related: [[Portrait NPC Shadow Guard Units V1 Shadow Guard Units.svg_1 (Portraits)
 - Compare with [List Spells Classes Knowledge Domain]]
 - Influences [[Location City Cultural Advisor Sarah Bridgekeeper V1 Cultural Advisor Sarah Bridgekeeper.svg
@@ -183,8 +178,7 @@ Arcana, Persuasion
 - Related: [[Portrait NPC Captain Marina Truewater V1 Captain Marina Truewater.svg
 - Compare with
 - Affected by [step_028 (phase_034)]]
-- Leads to [[step_058 (phase_073)
-- Requires [LOC00104_Towns_Location_105]]
+- Leads to [[LOC00104_Towns_Location_105]]
 - Connects to [[M-L-05_The_Dream_Sovereign_Player (D&D_References)
 - See also: [step_054 (phase_052)]]
 - Parallels [[Secondary Tables Arcane Matters Xge
@@ -210,18 +204,15 @@ Arcana, Persuasion
 - Affected by [celestial]]
 - Parallels [[step_003 (phase_034)
 - Requires [Inkling Mascot Scc]]
-- Requires [[Mechanics Transformations Crystal Crystal Bloom
-- Originates from [Divine Transformation Theolog 2]]
+- Requires [[Mechanics Transformations Crystal Crystal Bloom]]
 - Influences [[LOC00079_Cities_Location_80
 - Connects to [Jasper Three-Eyes Flint (People)]]
-- Leads to [[step_047 (phase_021)
-- Influences [NPC00074_Erasmus_Blackstone_the_Guardian]]
+- Leads to [[NPC00074_Erasmus_Blackstone_the_Guardian]]
 - Connects to [[02_Worldbuilding_Artifacts_Shard_of_Empathy
 - Connects to [step_041 (phase_004)]]
 - See also: [[Dark Market Traders
 - Requires [step_043 (phase_030)]]
-- See also: [[QUEST00083_Personal_Quest_84
-- Connects to [NPC01662_Ewan_Stormwind_the_Strong]]
+- See also: [[NPC01662_Ewan_Stormwind_the_Strong]]
 - Parallels [[Pressure Tube Terminal
 - Related: [Sanctum Charm Xdmg]]
 - Leads to [[02_Worldbuilding_Groups_The_Memory_Keepers
@@ -232,10 +223,8 @@ Arcana, Persuasion
 - Influences [shield-of-the-cavalier-xdmg (items)]]
 - Leads to [[The Paradox Engine
 - Related: [EVENT00098_Magical_Event_99]]
-- Affected by [[Deep Lord Pelagios the Eternal
-- Connects to [DASHBOARD_LINK_REPORT]]
-- See also: [[Marina Mindwell
-- Parallels [vulnerability-xphb (variant-rules)]]
+- Affected by [[Deep Lord Pelagios the Eternal]]
+- See also: [[vulnerability-xphb (variant-rules)]]
 - Requires [[step_095 (phase_014)
 - Originates from [The Purification Protocols]]
 - Influences [[merfolk-skirmisher-xmm (elemental)
@@ -244,8 +233,7 @@ Arcana, Persuasion
 - Leads to [giant]]
 - See also: [[05-creating-nonplayer-characters (dungeon-masters-guide-2014)
 - Originates from [Portrait NPC Vespara Nightwhisper Thorne V1 Vespara Nightwhisper Thorne.svg]]
-- Parallels [[Royal Academy of Arcane Arts - Ruins
-- Requires [Zone of Truth Xphb]]
+- Parallels [[Royal Academy of Arcane Arts - Ruins]]
 
 ## Visual References
 ![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png

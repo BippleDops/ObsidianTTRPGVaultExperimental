@@ -25,5 +25,8 @@
   "alt_text": "Concept art of giant-venomous-snake-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-giant-venomous-snake-xmm-v4-giant-venomous-snake-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-giant-venomous-snake-xmm-v4-giant-venomous-snake-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:03:22.020Z",
+  "generationMethod": "ComfyUI"
 }

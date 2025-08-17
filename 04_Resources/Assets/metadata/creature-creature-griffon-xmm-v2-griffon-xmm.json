@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Create a heroic tabletop fantasy illustration in a style akin to medieval fantasy that maintains cultural coherence in the design of the gear, with no influences of modern technology. Feature a griffon-like creature, highly detailed with emphasis on musculature and unique limbs, in comparison to a human silhouette for size reference. The colors should be limited to a three-color palette of teals, deep blues, and sea-greens, along with pearl highlights. Position this scene in a combined underwater and sky environment, creating a sense of motion and depth. Impose aquatic fantasy realism with subsurface caustics and bioluminescent elements. Depict materials as if they were designed to withstand underwater pressure. Avoid any extreme contrasts such as modern signage, sci-fi interfaces, bloom glare, and photoreal CGI, instead sticking to a consistent painterly style that appears handcrafted. Do not incorporate any embedded text or words unless otherwise specified, and ensure that all symbols are meaningful or numbered for clear identification.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-griffon-xmm-v2-griffon-xmm.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-griffon-xmm-v2-griffon-xmm.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:04:14.076Z",
+  "generationMethod": "ComfyUI"
 }

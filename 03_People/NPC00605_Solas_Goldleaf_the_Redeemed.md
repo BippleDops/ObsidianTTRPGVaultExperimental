@@ -158,8 +158,7 @@ Discovered something valuable
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -178,36 +177,28 @@ Discovered something valuable
 - See also: [step_059 (phase_041)]]
 - Related: [[Scene Scene Shadow Market Under Rain Shadow Market Under Rain.svg
 - Influences [step_001 (phase_024)]]
-- Parallels [[step_051 (phase_046)
-- Influences [Void Incursion Risk Assessment]]
-- Connects to [[Professional Divers Association
-- Leads to [SPELL00043_Nature_Spell_44]]
-- Requires [[ITEM00456_Dragon_Scale_Leather_of_Fortitude
-- Compare with [Portrait NPC Blac... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
-- Leads to [[The Crystal Forest
-- See also: [SPELL00056_Divine_Spell_57]]
+- Parallels [[Void Incursion Risk Assessment]]
+- Connects to [[Professional Divers Association]]
+- Requires [[Portrait NPC Blac... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Leads to [[SPELL00056_Divine_Spell_57]]
 - Influences [[skills#Performance
 - Parallels [Void Guardian Mantles]]
 - Affected by [[Assets Art Name.png
 - See also: [Portrait NPC Quest the Deepest Current V1 Quest the Deepest Current.svg]]
 - Compare with [[step_049 (phase_049)
 - Compare with [step_018 (phase_065)]]
-- Parallels [[Scholar Dr Vera Theological
-- Connects to [Folk Hero]]
+- Parallels [[Scholar Dr Vera Theological]]
 - Leads to
 - Related: [[Boon of Recovery Xphb
 - Related: [step_088 (phase_088)]]
 - Originates from
-- Originates from [[ENC00278_Combat_Encounter_279
-- See also: [step_044 (phase_059)]]
+- Originates from [[ENC00278_Combat_Encounter_279]]
 - Leads to [[step_023 (phase_098)
 - Related: [quickened-spell-xphb (optional-features)]]
 - Related: [[Portrait NPC Deep Fortress Network V2 Deep Fortress Network.svg
 - Requires [step_058 (phase_096)]]
-- See also: [[Community Organizer Current Communalspirit
-- Compare with [step_073 (phase_035)]]
-- Parallels [[Ancient Skyforge Complex
-- Related: [Counter-Mirror Task Force (D&D_References)]]
+- See also: [[Community Organizer Current Communalspirit]]
+- Parallels [[Counter-Mirror Task Force (D&D_References)]]
 - See also: [[SPELL00138_Nature_Spell_139
 - Affected by [Assets Locations Location City Military Intelligence V1 Military Intelligence.svg]]
 - Connects to [[Handouts Ships Player Handout Aethermoor Airships
@@ -218,18 +209,14 @@ Discovered something valuable
 - Leads to [Seven Shards Campaign]]
 - Parallels [[step_071 (phase_028)
 - See also: [Enspelled Staff Level 5 Xdmg]]
-- Compare with [[Marcus Goldweave
-- See also: [Crystal Communication Center]]
+- Compare with [[Crystal Communication Center]]
 - Requires [[step_092 (phase_033)
 - Leads to [step_025 (phase_011)]]
-- Originates from [[NPC0058_Soren_Ironforge_the_Young
-- Compare with [hunters-mark-xphb (spells)]]
+- Originates from [[NPC0058_Soren_Ironforge_the_Young]]
 - Leads to [[Reality Anchoring Technology (D&D_References)
 - Compare with [Assets Locations Location City Royal Bloodline Powers V1 Royal Bloodline Powers.svg]]
-- Compare with [[DUN00121_Dungeon_122
-- Related: [MON00105_Undead_Creature_106]]
-- Influences [[The Archive of Unremembered Things (D&D_References)
-- Parallels [NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- Compare with [[MON00105_Undead_Creature_106]]
+- Influences [[The Archive of Unremembered Things (D&D_References)]]
 - Affected by [[list-spells-school-illusion (lists)
 - Influences [step_065 (phase_080)]]
 - Leads to [[Surge Mixmaster (D&D_References)
@@ -244,11 +231,8 @@ Discovered something valuable
 - Leads to [Orcish Fury Xge]]
 - Connects to [[Assets Item Artifact Ruby Xdmg V2 Ruby Xdmg.png
 - Requires [Symbol Heraldry Commander Void Tactician V1 Commander Void Tactician.svg]]
-- Leads to [[Emergency Navigation Coordinator Storm Guidewright
-- Compare with [psychic-gray-ooze-xmm (ooze)]]
-- Related: [[step_017 (phase_061)
-- Related:
-- Compare with [The Memory Weapon Vault (D&D_References)]]
+- Leads to [[Emergency Navigation Coordinator Storm Guidewright]]
+- Related: [[The Memory Weapon Vault (D&D_References)]]
 - Leads to [[QUEST00143_Personal_Quest_144
 - Compare with [LOC00049_Planes_Location_50]]
 - Connects to [[Assets Locations Location City Pilgrimage Master Depth Guide Melancholy V1 Pilgrimage Master Depth Guide Melancholy.svg
@@ -259,18 +243,15 @@ Discovered something valuable
 - Connects to
 - Parallels [Blue Dragon]]
 - Connects to
-- Related: [[step_025 (phase_072)
-- Parallels [The Quantum Accountant (D&D_References)]]
-- Related: [[MON00166_Undead_Creature_167
-- Requires [step_080 (phase_077)]]
+- Related: [[The Quantum Accountant (D&D_References)]]
+- Related: [[MON00166_Undead_Creature_167]]
 - Related: [[ITEM01342_Elegant_Rope_of_Convenience
 - Parallels [The Chronicle Depths 2]]
 - Leads to [[Seven Shards Tracker
 - Affected by [step_069 (phase_099)]]
 - Parallels [[Location City Sky Trader Zephyr Windcatcher Sky Trader Zephyr Windcatcher.svg
 - Parallels [Adapted Refugees (D&D_References)]]
-- Related: [[Policy Analyst Shadowthink
-- Parallels [step_011 (phase_081)]]
+- Related: [[Policy Analyst Shadowthink]]
 - Leads to [[Armor and Shields Armor Phb
 - Related: [diamond-xdmg (items)]]
 - See also: [[Underwater Breathing (D&D_References)

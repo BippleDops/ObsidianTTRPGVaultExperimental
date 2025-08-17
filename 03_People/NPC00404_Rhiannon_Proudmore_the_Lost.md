@@ -170,8 +170,7 @@ Witnessed a crime
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -188,55 +187,43 @@ Witnessed a crime
 - Connects to [Introduction-Overview]]
 - Affected by [[Dr. Matthias Voidheart
 - Compare with [step_019 (phase_095)]]
-- Compare with [[LOC00207_Dungeons_Location_208
-- Requires [Shadow Merchant Riptide (D&D_References)]]
-- Related: [[Parliamentary Infiltration Methods 2
-- Affected by [NPC00027_Faelyn_Proudmore]]
+- Compare with [[Shadow Merchant Riptide (D&D_References)]]
+- Related: [[Parliamentary Infiltration Methods 2]]
 - Parallels [[The Crimson Shard Guardian (D&D_Statblocks)
 - Requires [Location City Archkeeper Nereon V1 Archkeeper Nereon.svg]]
 - Requires
-- Influences [[Master Astronomer Cornelius Starweaver
-- Affected by [step_069 (phase_089)]]
+- Influences [[Master Astronomer Cornelius Starweaver]]
 - See also: [[The Crystalline Wastes
 - Originates from [Assets Locations Location City Void Keeper Null Void Keeper Null.svg]]
-- Affected by [[step_079 (phase_084)
-- Connects to [MON00157_Constructs_Creature_158]]
+- Affected by [[MON00157_Constructs_Creature_158]]
 - Compare with [[step_016 (phase_053)
 - Originates from [QUEST00433_Side_Quest_434]]
 - Connects to [[ITEM01472_Elegant_Map_Case_of_Convenience
 - See also: [Campaign Index (02_Worldbuilding)]]
-- Leads to [[Shadow Broker Mist (D&D_References)
-- Affected by [step_041 (phase_084)]]
+- Leads to [[Shadow Broker Mist (D&D_References)]]
 - Connects to [[SHOP00010_Magical_Shop_11
 - Influences [SPELL00025_Nature_Spell_26]]
-- Requires [[Saddle of the Cavalier Xdmg
-- Leads to [Community-Based Restorative Justice]]
+- Requires [[Community-Based Restorative Justice]]
 - Leads to [[keen-mind-xphb (feats)
 - Connects to [Portrait NPC Goldwave Financial Offices V2 Goldwave Financial Offices.svg]]
-- Affected by [[QUEST00002_Side_Quest_3
-- See also: [The Archives (D&D_References)]]
+- Affected by [[The Archives (D&D_References)]]
 - Originates from [[Anti-Scrying Division 2
 - Connects to [Emergency Protocols Cente 2]]
-- Related: [[Random Encounter Tables (D&D_References)
-- Leads to [step_031 (phase_091)]]
+- Related: [[Random Encounter Tables (D&D_References)]]
 - Originates from [[celestial-spirit-xphb (celestial)
 - Parallels [ITEM00566_Mithril_Leather_of_Resistance]]
-- Leads to [[Island of Skulls
-- Related:
-- Affected by [Paradox Engine Room (D&D_References)]]
+- Leads to [[Paradox Engine Room (D&D_References)]]
 - See also: [[03_Mechanics_Communication_Systems_Quick_Ref
 - Compare with [Assets Locations Location City Echo Truthseer V1 Echo Truthseer.svg]]
 - Related: [[Assets Locations Location City Royal Guard V1 Royal Guard.svg
 - Influences [step_096 (phase_036)]]
 - Connects to [[rogue-xphb-scout-xge (classes)
 - Connects to [dungeon-dressing-mage-furnishings (tables)]]
-- Compare with [[NPC0104_Yorick_Goldleaf
-- Affected by [Emergency Protocols (D&D_References)]]
+- Compare with [[Emergency Protocols (D&D_References)]]
 - Affected by [[QUEST00286_Personal_Quest_287
 - Leads to
 - See also: [12-appendix-b-monster-lists (dungeon-masters-guide-2014)]]
-- Requires [[Wealthy Goldcurrent (D&D_References)
-- Connects to [Cross-Cultural Communication]]
+- Requires [[Wealthy Goldcurrent (D&D_References)]]
 - See also: [[LORE00188_Legends_Entry_189
 - Affected by [greek-hades (deities)]]
 - Connects to [[ruin-grinder-scc
@@ -249,23 +236,18 @@ Witnessed a crime
 - Connects to [Assets Locations Location City Government Leader Capable V1 Government Leader Capable.svg]]
 - Parallels [[Portrait NPC the Royal Treasury Depths the Royal Treasury Depths.svg_1 (Portraits)
 - Related: [Gnoll Witherling Mpmm]]
-- Leads to [[Ancient Crystaldeep (D&D_References)
-- Connects to [LORE00066_Legends_Entry_67]]
+- Leads to [[Ancient Crystaldeep (D&D_References)]]
 - Affected by [[ITEM00856_Time-worn_Ring_of_Destiny
 - Related: [Assets Locations Location City Safety Coordinator Reef Safeguard V1 Safety Coordinator Reef Safeguard.svg]]
 - Affected by
-- Leads to [[NPC00638_Solas_Dawnstrider_the_Guardian
-- Originates from [Vault Backup 20250813 073007 06 GM Travel Encounter Sheets D L 03 Deep Mother Dream Tide]]
+- Leads to [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets D L 03 Deep Mother Dream Tide]]
 - Originates from [[step_091 (phase_080)
 - Compare with [step_013 (phase_083)]]
 - See also: [[Portrait NPC the Resonance Prophet V1 the Resonance Prophet.svg_1 (Portraits)
 - See also: [ENC00159_Environmental_Encounter_160]]
-- Related: [[Captain Valeria
-- Leads to [LOC00164_Cities_Location_165]]
-- See also: [[step_059 (phase_024)
-- Originates from [NPC01974_Thalia_Zephyrblade_the_Lost]]
-- Originates from [[cross_realm_mechanics_research
-- Parallels [step_035 (phase_083)]]
+- Related: [[LOC00164_Cities_Location_165]]
+- See also: [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- Originates from [[cross_realm_mechanics_research]]
 - Leads to [[Location City Kelp Forest Constituencies Kelp Forest Constituencies.svg
 - See also: [Merchant Prince Marcus Goldflow (D&D_References)]]
 - Connects to [[balor-xmm (fiend)
@@ -274,16 +256,14 @@ Witnessed a crime
 - Originates from [spell-scroll-xdmg (items)]]
 - Connects to [[Location City Count Viktor Pressureborn Count Viktor Pressureborn.svg
 - Parallels [step_004 (phase_067)]]
-- Related: [[The Meridian Social Club
-- Related: [Drow 1 Weapon Mm]]
+- Related: [[The Meridian Social Club]]
 - See also: [[THIRTY_THOUSAND_IMPROVEMENTS_ACHIEVED
 - Affected by [Supplemental Tables Relationship Xge]]
 - Influences [[LORE00136_History_Entry_137
 - Affected by [Player_Dashboard]]
 - Compare with [[cloves-xdmg (items)
 - Parallels [Implements Legendary Xdmg]]
-- Affected by [[The Healing of Mermaid's Rest
-- Requires [The Parliament of Shadows Campaign]]
+- Affected by [[The Parliament of Shadows Campaign]]
 
 ## Visual References
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png

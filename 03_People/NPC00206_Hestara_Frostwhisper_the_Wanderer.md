@@ -167,17 +167,14 @@ Requires champions for trial by combat
 - Compare with [[swift-quiver-xphb (spells)
 - Affected by [QUEST00255_Personal_Quest_256]]
 - Requires
-- See also: [[NPC01925_Elric_Frostwhisper_the_Redeemed
-- Affected by [Weather_And_Season (D&D_References)]]
+- See also: [[NPC01925_Elric_Frostwhisper_the_Redeemed]]
 - Related:
 - Requires [[step_096 (phase_080)
 - Connects to [step_056 (phase_047)]]
 - Leads to [[Location City the Vault Keepers the Vault Keepers.svg
 - See also: [Modron Tridrone Xmm]]
-- See also: [[NPC00663_Alaric_Dawnstrider_the_Strong
-- Affected by [ITEM00133_Frost_Dagger_of_Speed]]
-- Parallels [[Quest - Memory Restoration
-- Related: [Summon Undead Xphb]]
+- See also: [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- Parallels [[Quest - Memory Restoration]]
 - Originates from [[The Artisans' Collective (Lore)
 - Related: [cuddly-strixhaven-mascot-scc (items)]]
 - Influences [[The Depth Lords
@@ -188,11 +185,9 @@ Requires champions for trial by combat
 - Related: [Quests Quest the Debtor's Revolt]]
 - Affected by [[step_043 (phase_096)
 - Originates from [step_094 (phase_067)]]
-- Requires [[Provincial Nobility 2
-- Parallels [Great Plague of Ages Past (D&D_References)]]
+- Requires [[Great Plague of Ages Past (D&D_References)]]
 - Connects to
-- Originates from [[Quantum Magic Theory
-- Affected by [Underground Railroad Leader 2]]
+- Originates from [[Underground Railroad Leader 2]]
 - Originates from [[Reputation_Tracker
 - See also: [LORE00230_Prophecies_Entry_231]]
 - Compare with [[silver-ewer-xdmg (items)
@@ -207,35 +202,28 @@ Requires champions for trial by combat
 - Parallels [step_049 (phase_039)]]
 - Influences [[roleplaying-a-beholder-beholder-flaws-vgm (tables)
 - Requires [FAC00019_Orders_20]]
-- Requires [[NPC01511_Pyria_Jadeclaw_the_Mystic
-- Influences [LOC00169_Cities_Location_170]]
+- Requires [[NPC01511_Pyria_Jadeclaw_the_Mystic]]
 - Leads to [[Intelligence Community
 - Related: [step_084 (phase_056)]]
 - Influences [[step_017 (phase_058)
 - Leads to [Observatory Charm Xdmg]]
-- Parallels [[step_033 (phase_082)
-- See also: [SPELL00133_Nature_Spell_134]]
-- Related: [[dracolich-xmm (undead)
-- Connects to [The Pearl Heist (D&D_References)]]
+- Parallels [[SPELL00133_Nature_Spell_134]]
+- Related: [[The Pearl Heist (D&D_References)]]
 - Leads to [[The Wind-Rider Cultural Center (02_Worldbuilding)
 - Parallels
 - Parallels [Memory Merchants Guild]]
-- Parallels [[Democratic Erosion (D&D_References)
-- Leads to [Sergeant Major Deep Veteranstrike (D&D_References)]]
+- Parallels [[Sergeant Major Deep Veteranstrike (D&D_References)]]
 - Leads to [[Assets Portraits Portrait NPC Financial Corruption Financial Corruption.svg
 - Originates from [Cleric Xphb Nature Domain]]
 - Related: [[Vehicles_&_Ships_Gallery
 - Leads to [Deep Mother Cultist Profiles (People)]]
-- See also: [[Duke Theron Depthguard (D&D_References)
-- Leads to [FAC00053_Guilds_54]]
+- See also: [[Duke Theron Depthguard (D&D_References)]]
 - Affected by [[04_Resources_Assets_Locations_location-city-the-drowned-embassy-v1-the-drowned-embassy.svg
 - Affected by [Sage Elara]]
 - See also: [[Location City the Eternal Senate the Eternal Senate.svg
 - Leads to [white-dragon-scale-mail-xdmg (items)]]
-- Influences [[Adventuring Gear Xphb
-- Affected by [The Shadow Markets New (D&D_References)]]
-- Related: [[SPELL00123_Arcane_Spell_124
-- Connects to [Senator Aqueous]]
+- Influences [[The Shadow Markets New (D&D_References)]]
+- Related: [[SPELL00123_Arcane_Spell_124]]
 - Originates from [[Portrait NPC Brother Matthias the Amber Bearer V2 Brother Matthias the Amber Bearer.svg_1 (Portraits)
 - Related: [Black Dragon Xmm]]
 - See also: [[smoke-grenade-xdmg (items)
@@ -249,8 +237,7 @@ Requires champions for trial by combat
 - Connects to [Assets Locations Location City Plague Crisis V1 Plague Crisis.png]]
 - See also: [[ITEM00853_Time-worn_Orb_of_Dominion
 - Connects to [Ancient Bronze Dragon Xmm]]
-- Leads to [[step_046 (phase_016)
-- Related: [Concierge Phillip Gracewater (D&D_References)]]
+- Leads to [[Concierge Phillip Gracewater (D&D_References)]]
 - Related: [[Assets Locations Location City Aethermoor Capital V1 Aethermoor Capital.svg
 - Requires [step_011 (phase_039)]]
 - Related: [[SPELL00018_Nature_Spell_19
@@ -259,8 +246,7 @@ Requires champions for trial by combat
 - Related: [step_032 (phase_051)]]
 - Connects to [[$available_space -lt 2
 - See also: [step_019 (phase_039)]]
-- Influences [[step_032 (phase_039)
-- Related: [Coral Silkweaver (D&D_References)]]
+- Influences [[Coral Silkweaver (D&D_References)]]
 - Influences [[bones-of-the-earth-xge (spells)
 
 ## Visual References

@@ -25,5 +25,8 @@
   "alt_text": "Concept art of bullywug-bog-sage-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-bullywug-bog-sage-xmm-bullywug-bog-sage-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-bullywug-bog-sage-xmm-bullywug-bog-sage-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:59:25.737Z",
+  "generationMethod": "ComfyUI"
 }

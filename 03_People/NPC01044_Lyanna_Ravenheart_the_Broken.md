@@ -162,10 +162,8 @@ Has map to lost treasure
 - Affected by [Assets Locations Location City Commander Reef Shadowstrike V1 Commander Reef Shadowstrike.svg]]
 - Compare with [[Phantom Warrior Archer Cos
 - Originates from [The Crown (D&D_References)]]
-- Influences [[Suspects
-- Compare with [Player Handout Merger Vessels]]
-- Requires [[The Great Balance
-- Parallels [LOC00208_Towns_Location_209]]
+- Influences [[Player Handout Merger Vessels]]
+- Requires [[LOC00208_Towns_Location_209]]
 - Affected by [[The Throne Pretenders
 - Originates from [Elder Whisper-In-The-Dark (People)]]
 - Requires [[step_003 (phase_098)
@@ -181,24 +179,19 @@ Has map to lost treasure
 - Leads to [[step_073 (phase_037)
 - Compare with
 - Leads to [Chimera Xmm]]
-- Connects to [[Random Encounter Tables - Aquabyssos (D&D_References)
-- Compare with [Identity Crisis Resolution (Lore)]]
+- Connects to [[Random Encounter Tables - Aquabyssos (D&D_References)]]
 - Compare with [[Separatist Movements
 - Compare with [step_047 (phase_055)]]
 - Requires [[ENC00084_Social_Encounter_85
 - Parallels [location-city-marina-swiftfin-marina-swiftfin.svg]]
 - Leads to [[Engineer Torres Ironbright
 - Connects to [step_002 (phase_080)]]
-- Connects to [[step_084 (phase_004)
-- Affected by [LOC00216_Cities_Location_217]]
-- Influences [[step_009 (phase_020)
-- Leads to [Keeper Healer Restoration]]
+- Connects to [[LOC00216_Cities_Location_217]]
+- Influences [[Keeper Healer Restoration]]
 - Influences [[Assets Locations Location City Current Bridgewater V1 Current Bridgewater.svg
 - Compare with [Captain Cornelius Deepwater (D&D_References)]]
-- Influences [[Shadow Ability Ethics (D&D_References)
-- Parallels [Downtime Activity Running a Business]]
-- Leads to [[Scepter of Winter's Command (D&D_References)
-- Connects to [QUEST00132_Side_Quest_133]]
+- Influences [[Shadow Ability Ethics (D&D_References)]]
+- Leads to [[Scepter of Winter's Command (D&D_References)]]
 - Originates from
 - See also:
 - Compare with [[Assets Locations Location City the Banker Fish V1 the Banker Fish.svg
@@ -220,10 +213,8 @@ Has map to lost treasure
 - Leads to [quiver-xphb (items)]]
 - See also: [[step_036 (phase_036)
 - Requires [Introduction 2]]
-- Compare with [[Shovel Xphb
-- Compare with [SPELL00050_Divine_Spell_51]]
-- Leads to [[Quest - The Deep Cartographer
-- Parallels [Sage Iris Crystalbloom (D&D_References)]]
+- Compare with [[SPELL00050_Divine_Spell_51]]
+- Leads to [[Sage Iris Crystalbloom (D&D_References)]]
 - Compare with
 - Connects to [[Storm Giant Quintessent Vgm
 - Requires
@@ -239,8 +230,7 @@ Has map to lost treasure
 - Influences [LOC00095_Cities_Location_96]]
 - See also: [[the-blessed-of-corellon-mtf (rewards)
 - Leads to [talisman-of-pure-good-xdmg (items)]]
-- Parallels [[QUEST00284_Personal_Quest_285
-- See also: [step_054 (phase_100)]]
+- Parallels [[QUEST00284_Personal_Quest_285]]
 - Leads to [[2 Appendix a Miscellaneous Creatures
 - Originates from [The Forbidden Descent]]
 - Influences

@@ -25,5 +25,8 @@
   "alt_text": "Concept art of iron-golem-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-iron-golem-xmm-v4-iron-golem-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-iron-golem-xmm-v4-iron-golem-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:05:10.801Z",
+  "generationMethod": "ComfyUI"
 }

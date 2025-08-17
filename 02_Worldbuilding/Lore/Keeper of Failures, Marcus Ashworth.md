@@ -37,39 +37,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-### Oral_Tradition Improvements
-
-- Add folk tales and children's stories
-
-### Sensory Improvements
-
-- Add smells, sounds, and textures unique to this culture
-
-### Coming_Of_Age Improvements
-
-- Describe rites of passage and adulthood markers
-
-### Death_Customs Improvements
-
-- Detail funeral rites and afterlife beliefs
-
-### Hospitality Improvements
-
-- Explain guest rights and host obligations
-
-### Superstitions Improvements
-
-- List common superstitions and their origins
-
-### Contradictions Improvements
-
-- Include cultural hypocrisies and double standards
-
-## Overview
-
-02_Worldbuilding/[People]]/Keeper of Failures, Marcus Ashworth represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+- Describe how this culture exists in other [[region]]/Keeper of Failures, Marcus Ashworth represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ### Basic Information
 02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:

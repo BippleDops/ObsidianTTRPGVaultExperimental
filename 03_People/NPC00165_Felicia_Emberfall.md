@@ -163,8 +163,7 @@ Requires champions for trial by combat
 
 ## Connections
 
-- See also: [[NPC00271_Vesper_Stormwind_the_Cunning
-- Requires [Faction Balance Maintenance]]
+- See also: [[NPC00271_Vesper_Stormwind_the_Cunning]]
 - Compare with [[Temple Hierarchies 2
 - Influences [Handout Handout Ancient Prophecy Fragment V3 Ancient Prophecy Fragment.png]]
 - Requires [[step_001 (phase_050)
@@ -174,20 +173,17 @@ Requires champions for trial by combat
 - Influences [[Location City the Whispering Depths V1 the Whispering Depths.svg
 - Originates from
 - Leads to [Benthic Commune 2]]
-- Requires [[Old Sally Seasprayer (D&D_References)
-- Parallels [Meridian Trading Company]]
+- Requires [[Old Sally Seasprayer (D&D_References)]]
 - Originates from [[Shadow Ability Ethics 2
 - Originates from [The Consciousness Mirror]]
-- Originates from [[QUEST00149_Personal_Quest_150
-- Influences [step_040 (phase_069)]]
+- Originates from [[QUEST00149_Personal_Quest_150]]
 - Compare with [[Creature Creature Nightwalker Mpmm Nightwalker Mpmm.png
 - Connects to [Legal Profession (D&D_References)]]
 - Connects to [[deer-xmm (beast)
 - Originates from [Silverbrook City 2]]
 - Influences [[Quest - The Pretender 2
 - Affected by [LOC00194_Cities_Location_195]]
-- Connects to [[Reflection Broker Mirrors (D&D_References)
-- Requires [Dimensional_Travel]]
+- Connects to [[Reflection Broker Mirrors (D&D_References)]]
 - Originates from [[Dragonlance Mishakal Phb
 - Related: [The Forgotten Collective 2]]
 - Influences [[Simulacrum Xphb
@@ -203,12 +199,10 @@ Requires champions for trial by combat
 - Originates from [Hungry Sorrowsworn Mpmm]]
 - Leads to [[Assets Locations Location City Trade Unions Trade Unions.svg
 - Related: [step_087 (phase_012)]]
-- Influences [[ENC00092_Combat_Encounter_93
-- Related: [Memory Mirror Master (D&D_References)]]
+- Influences [[Memory Mirror Master (D&D_References)]]
 - Affected by [[Sunken Citadel of Remembrance (Places)
 - Affected by [ITEM01018_Refined_Elixir_of_Clarity]]
-- Related: [[Financial Crime Investigation 2
-- Parallels [NPC01195_Gareth_Keenblade_the_Guardian]]
+- Related: [[NPC01195_Gareth_Keenblade_the_Guardian]]
 - Leads to [[Assets Portraits Portrait NPC Aria Lumengarde Aria Lumengarde.svg
 - Parallels [Action Options]]
 - Affected by [[Research Director Aquarius Brightwater
@@ -222,24 +216,21 @@ Requires champions for trial by combat
 - See also: [Location City Chronicle Keeper Sage Deepmemory Chronicle Keeper Sage Deepmemory.svg]]
 - Parallels [[step_089 (phase_067)
 - Influences [step_017 (phase_080)]]
-- Parallels [[Symbol Heraldry Mob... Related To: Local Political Structure Connected Plots: to Be Developed
-- Connects to [step_074 (phase_097)]]
+- Parallels [[Symbol Heraldry Mob... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Requires [[The Void Watchers 2
 - Related: [Calligraphers Supplies Xphb]]
 - Related: [[step_093 (phase_037)
 - Related: [wyvern-xmm (dragon)]]
 - Influences [[04_Resources_Assets_Locations_location-city-marine-druids-marine-druids.svg
 - Originates from [The Sacred Archipelago]]
-- Connects to [[downtime-activity-crime-xge (variant-rules)
-- Originates from [Skill_DCs]]
+- Connects to [[downtime-activity-crime-xge (variant-rules)]]
 - Compare with [[LORE00097_Legends_Entry_98
 - Affected by
 - Influences [ITEM00027_Radiant_Axe_of_Power]]
 - Parallels [[step_059 (phase_071)
 - Originates from
 - Connects to [step_005 (phase_071)]]
-- Affected by [[The Depth Market (D&D_References)
-- Parallels [Celtic Arawn]]
+- Affected by [[The Depth Market (D&D_References)]]
 - See also: [[flesh-golem-xmm (construct)
 - Requires [The Final Forgetting]]
 - Related: [[Backup Procedures
@@ -248,8 +239,7 @@ Requires champions for trial by combat
 - Influences [step_091 (phase_066)]]
 - Affected by [[step_078 (phase_004)
 - Requires [ITEM00508_Ethereal_Helm_of_Resistance]]
-- Affected by [[step_009 (phase_005)
-- Leads to [Trader Cross-Current Jin 2]]
+- Affected by [[Trader Cross-Current Jin 2]]
 - Originates from [[Port Meridian - Harbor District
 - See also:
 - Leads to [QUEST00465_Side_Quest_466]]

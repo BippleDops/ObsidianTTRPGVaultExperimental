@@ -1,7 +1,6 @@
 ---
 
-title: [[Shadow Conspiracy Overview
-type: [Lore]]
+title: [[Shadow Conspiracy Overview]]
 tags:
 - lore
 - worldbuilding
@@ -96,58 +95,4 @@ Mentioned in The Hidden Prophecy of Winds
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[Peoples
-
-### The Golden Era (500 years ago)
-- Economic prosperity
-- Cultural renaissance
-- Expansion of territory
-
-### The Time of Troubles (100 years ago)
-- Civil war
-- Natural disasters
-- Current power structures established
-
-## Cultural Practices
-
-### Greetings
-- Touch foreheads for equals
-- Bow deeply to superiors
-- Never shake with left hand
-
-### Taboos
-- Speaking during sunset prayer
-- Wearing red on holy days
-- Pointing at the moon
-
-## Religious Observances
-
-### Daily Prayers
-- Dawn: Gratitude for life
-- Noon: Strength for labor
-- Dusk: Protection from darkness
-
-### Weekly Observance
-- Temple attendance mandatory
-- Ritual cleansing required
-- Tithing of 10% income
-
-## A Day in the Life
-
-### Nobility
-- 8am: Private tutoring
-- 10am: Court attendance
-- 2pm: Social visits
-- 6pm: Formal dinner
-- 9pm: Entertainment
-
-### Commoner
-- 5am: Morning prayers
-- 6am: Begin labor
-- Noon: Simple meal
-- 6pm: Return home
-- 8pm: Sleep
-
-## References
-
-- [Session 1 Shadows in the Senate]]
+- War with indigenous [[People]]

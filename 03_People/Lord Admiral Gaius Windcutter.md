@@ -264,5 +264,4 @@ ___
 - [Assets Locations Location City the Luminous Dawn Cathedral V1 the Luminous Dawn Cathedral.svg]]
 - [[Assets Portraits Portrait NPC Pressure Lords Pressure Lords.svg
 - [Assets Symbols Symbol Heraldry Financial Crime Investigatio Financial Crime Investigatio.svg]]
-- [[Paladin Commander Sir Radiant Dawnbreaker
-- [Paladin Commander Sir Radiant Dawnbreaker (D&D_References)]]
+- [[Paladin Commander Sir Radiant Dawnbreaker (D&D_References)]]

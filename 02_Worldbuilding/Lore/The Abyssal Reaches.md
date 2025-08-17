@@ -52,5 +52,4 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [Fortress of the Deeps]]
-- [[Kraken Territories
-- [Fortress of the Deeps (D&D_References)]]
+- [[Fortress of the Deeps (D&D_References)]]

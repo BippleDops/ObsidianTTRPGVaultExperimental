@@ -1,6 +1,6 @@
 ---
 
-title: [[Screaming Gardens   Songwood Grove
+title: [[Screaming Gardens Songwood Grove
 type: [location]]
 tags:
 - [[Aquabyssos
@@ -21,17 +21,17 @@ status: complete
 [region]]: Unknown
 population: Unknown
 accessibility:
-  content_warnings:
-  - political coercion
-  - [[Environmental Hazards]]
-  pronunciation: Screaming Gardens - Songwood Grove
-  safety_tools:
-  - Lines & Veils
-  - X-Card
-  - Open Door
-  screen_reader_summary: Screaming Gardens - Songwood Grove is a notable location
-    in Aquabyssos shaped by tidal politics and Convergence anomalies. This entry is
-    structured for fast table use.
+ content_warnings:
+ - political coercion
+ - [[Environmental_Hazards]]
+ pronunciation: Screaming Gardens - Songwood Grove
+ safety_tools:
+ - Lines & Veils
+ - X-Card
+ - Open Door
+ screen_reader_summary: Screaming Gardens - Songwood Grove is a notable location
+ in Aquabyssos shaped by tidal politics and Convergence anomalies. This entry is
+ structured for fast table use.
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:16.823874+00:00'
 world: Aquabyssos
@@ -110,11 +110,11 @@ Screaming Gardens - Songwood Grove is a living crossroads where memory-currents 
 
 ## Player-Facing Summary
 
-Screaming Gardens   Songwood Grove is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Screaming Gardens Songwood Grove is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## [[Lore Details
 
-Legends speak of Screaming Gardens   Songwood Grove as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Screaming Gardens   Songwood Grove.
+Legends speak of Screaming Gardens Songwood Grove as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Screaming Gardens Songwood Grove.
 
 ### [Key Locations]]
 1. Main entrance/approach

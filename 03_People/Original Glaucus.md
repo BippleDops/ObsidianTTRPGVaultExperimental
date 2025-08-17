@@ -395,7 +395,5 @@ Legends speak of Original Glaucus as a nexus where past and present converge. Lo
 - [Assets Symbols Symbol Heraldry the Brotherhood of the Black Anchor the Brotherhood of the Black Anchor.svg]]
 - [[Captain Elara Shadowshard
 - [Senator Glaucus]]
-- [[Captain Elara Shadowshard (D&D_References)
-- [Consequence Chain 1 - Shadow Conspiracy Exposure (D&D_References)]]
-- [[Consequence Chain 1 - Shadow Conspiracy Exposure 3 (D&D_References)
-- [Senator Glaucus (D&D_References)]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure (D&D_References)]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure 3 (D&D_References)]]

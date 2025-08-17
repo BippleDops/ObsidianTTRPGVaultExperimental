@@ -282,5 +282,4 @@ ___
 ## References
 
 - [Assets Art Astrologer Prime Cassandra Starweaver.png]]
-- [[The Original Palace
-- [The Original Palace (D&D_References)]]
+- [[The Original Palace (D&D_References)]]

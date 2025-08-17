@@ -183,16 +183,12 @@ Provides information for a price
 - Related: [step_087 (phase_035)]]
 - Requires [[step_076 (phase_045)
 - Parallels [location-city-free-current-free-current.svg]]
-- Affected by [[Dragonchess Set Xphb
-- Related: [Master Appraiser Keen-Eye Korvyn]]
-- Influences [[Crystal_Corruption_Recognition_Guide
-- Related: [Elven Naralis Analor Mtf]]
-- Connects to [[Random_Tables
-- Parallels [Quest - The Convergence Crisis]]
+- Affected by [[Master Appraiser Keen-Eye Korvyn]]
+- Influences [[Crystal_Corruption_Recognition_Guide]]
+- Connects to [[Quest - The Convergence Crisis]]
 - Compare with [[step_010 (phase_020)
 - Requires [Location City the Mothercoral Crisis the Mothercoral Crisis.svg]]
-- Affected by [[Faction Intelligence
-- See also: [Brother Matthias the Amber Bearer (People)]]
+- Affected by [[Brother Matthias the Amber Bearer]]
 - See also: [[Pressure Territories
 - Compare with
 - Related: [step_091 (phase_028)]]
@@ -206,8 +202,7 @@ Provides information for a price
 - Affected by [prismatic-spray-xphb (spells)]]
 - Influences [[githzerai-zerth-xmm
 - Influences [step_078 (phase_042)]]
-- Parallels [[mind-lash-vgm (items)
-- Affected by [Coastal Encounters Levels 510 Xge]]
+- Parallels [[Coastal Encounters Levels 510 Xge]]
 - Parallels [[Forgotten Realms Torm
 - Leads to [NPC00453_Idris_Grimholt]]
 - Compare with [[step_060 (phase_076)
@@ -216,14 +211,11 @@ Provides information for a price
 - Leads to [Location City the Thornfield District V1 the Thornfield District.svg]]
 - Influences [[Royal Guard (Places)
 - Connects to [step_059 (phase_100)]]
-- Originates from [[ITEM00140_Venomous_Sword_of_Wounding
-- Requires [Training Director Cassius Newlight (D&D_References)]]
+- Originates from [[Training Director Cassius Newlight (D&D_References)]]
 - Affected by [[Assets Locations Location City Storm Guard V1 Storm Guard.svg
 - Influences [LOC00088_Cities_Location_89]]
-- See also: [[MON00153_Constructs_Creature_154
-- Affected by [LOC00044_Towns_Location_45]]
-- See also: [[MON00141_Undead_Creature_142
-- Related: [Corruption Intelligence Agency (D&D_References)]]
+- See also: [[MON00153_Constructs_Creature_154]]
+- See also: [[Corruption Intelligence Agency (D&D_References)]]
 - Parallels [[Void Between Pressures (D&D_References)
 - Influences [location-city-nereidios-nereidios.svg]]
 - Connects to [[npc-bonds (tables)
@@ -234,24 +226,19 @@ Provides information for a price
 - Originates from [Theological Seminaries]]
 - Connects to [[MON00092_Constructs_Creature_93
 - Influences [location-city-indigo-deepdye-v1-indigo-deepdye.svg]]
-- Parallels [[step_073 (phase_038)
-- Requires [QUEST00298_Personal_Quest_299]]
+- Parallels [[QUEST00298_Personal_Quest_299]]
 - Related: [[Ambush Drake Hotdq
 - Related: [step_050 (phase_008)]]
-- Requires [[step_072 (phase_082)
-- Parallels [Information Broker Whisper Goldtongu 2]]
+- Requires [[Information Broker Whisper Goldtongu 2]]
 - Requires [[Assets Locations Location City Truth Verification Magic Truth Verification Magic.svg
 - Leads to [Location City Guardian Neutralwatch V1 Guardian Neutralwatch.svg]]
-- Requires [[Coral Craftsman (D&D_References)
-- Related: [Lady Celestine Windborne (D&D_References)]]
-- See also: [[step_025 (phase_023)
-- Influences [LOC00248_Towns_Location_249]]
+- Requires [[Lady Celestine Windborne (D&D_References)]]
+- See also: [[LOC00248_Towns_Location_249]]
 - Requires [[Training Complications Xge
 - Influences [step_005 (phase_035)]]
 - Influences [[Assets Symbols Symbol Heraldry Doctor Harmony Whisperfall Doctor Harmony Whisperfall.svg
 - Influences [Reality Breach Incidents]]
-- Influences [[NPC00766_Alaric_Grimholt_the_Seeker
-- Requires [step_036 (phase_061)]]
+- Influences [[NPC00766_Alaric_Grimholt_the_Seeker]]
 - Related: [[Embassy Row
 - Requires [Treasure Xdmg]]
 - Originates from [[The Shadow Labs 2
@@ -265,8 +252,7 @@ Provides information for a price
 - Leads to [[step_015 (phase_025)
 - Requires [DUN00045_Dungeon_46]]
 - Requires
-- Originates from [[step_002 (phase_042)
-- Parallels [Captain Harmony Tidereader (D&D_References)]]
+- Originates from [[Captain Harmony Tidereader (D&D_References)]]
 
 ## Visual References
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png

@@ -126,4 +126,4 @@ Completed Content represents a crucial aspect of the world's history, cosmology,
 
 ## References
 
-- [[Completed_Content (02_Worldbuilding)]]
+- [[02_Worldbuilding]]

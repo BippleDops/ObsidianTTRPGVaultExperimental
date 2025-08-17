@@ -173,8 +173,7 @@ Needs help with personal quest
 - Related:
 - See also: [[The Sunken Senate
 - Parallels [Boots of Speed Xdmg]]
-- Requires [[step_031 (phase_069)
-- Related: [LOC00058_Wilderness_Location_59]]
+- Requires [[LOC00058_Wilderness_Location_59]]
 - Originates from
 - Compare with [[ITEM01247_Superior_Herb_of_Vigor
 - Compare with [step_058 (phase_089)]]
@@ -188,22 +187,18 @@ Needs help with personal quest
 - Compare with [LOC00168_Wilderness_Location_169]]
 - Requires [[The Transition Planning Center
 - Leads to [Assets Locations Location City the Forgotten One the Forgotten One.png]]
-- Influences [[LOC00271_Cities_Location_272
-- See also: [Memoriam - The Forgotten Continent (D&D_Statblocks)]]
+- Influences [[Memoriam - The Forgotten Continent (D&D_Statblocks)]]
 - Connects to [[Gulthias Blight Xmm
 - Related: [step_013 (phase_034)]]
-- Connects to [[The Shadow Conspiracy Hierarchy
-- Leads to [demonomicon-of-iggwilv-xdmg (items)]]
+- Connects to [[demonomicon-of-iggwilv-xdmg (items)]]
 - Leads to [[Assets Locations Location City the Cleaner V1 the Cleaner.svg
 - Influences [Pre-Drowning Civilization Archives]]
 - Connects to [[list-optfeaturetype-ed (lists)
 - Influences [EVENT00083_Political_Event_84]]
-- Parallels [[Aurelius Goldwave
-- Affected by [NPC00461_Branwen_Proudmore_the_Strong]]
+- Parallels [[NPC00461_Branwen_Proudmore_the_Strong]]
 - Connects to [[devastation-orb-of-air-pota (items)
 - Compare with [step_018 (phase_097)]]
-- See also: [[Shadow Independence Levels
-- Requires [player-characters-as-vampires-mm (variant-rules)]]
+- See also: [[player-characters-as-vampires-mm (variant-rules)]]
 - Leads to [[LOC0136_Marshstead
 - Affected by [step_092 (phase_082)]]
 - Parallels
@@ -232,8 +227,7 @@ Needs help with personal quest
 - Compare with [Biomancer Corvus Intestinal (Lore)]]
 - Influences [[dwarf-names-duergar-clan-xge (tables)
 - Parallels [Underwater Diplomatic Complex]]
-- Connects to [[Ethereal Anchors (D&D_References)
-- Related: [ENC00457_Combat_Encounter_458]]
+- Connects to [[Ethereal Anchors (D&D_References)]]
 - Leads to [[List Spells Classes Oath of Vengeance Xphb
 - Influences [Abyssal Architecture (D&D_References)]]
 - Related: [[Location City Moderate Depth Coalition V1 Moderate Depth Coalition.svg
@@ -257,8 +251,7 @@ Needs help with personal quest
 - See also: [travelers-clothes-xphb (items)]]
 - Leads to [[The Resonance Forge Hammer 2
 - See also: [Vehicle Ship Arc Engine Prototype Arc Engine Prototype.svg]]
-- Originates from [[step_068 (phase_009)
-- Requires [LOC00181_Cities_Location_182]]
+- Originates from [[LOC00181_Cities_Location_182]]
 
 ## Visual References
 ![[03_People/portrait_captain_dara_ironwill_friendly.png

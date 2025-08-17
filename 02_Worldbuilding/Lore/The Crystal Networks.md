@@ -1,6 +1,5 @@
 ---
-title: The [[Crystal Networks
-type: [Lore]]
+title: The [[Crystal Network]]
 tags:
 - lore
 - active
@@ -26,28 +25,7 @@ The Crystal Networks represents a significant element within the campaign world,
 
 ## Details
 ### Background
-[Historical Context]] and development over [[Time.
-
-### Current State
-Present circumstances and ongoing relevance.
-
-### Future Potential
-Possible developments and plot directions.
-
-## Relationships
-- Connected to various other elements within the vault
-- Part of larger narrative structures
-- Influences and is influenced by surrounding content
-
-## Usage Notes
-This content can be adapted and expanded based on specific campaign needs.
-
-## Plot Hooks
-- Can serve as starting point for investigations
-- May provide crucial information at key moments
-- Offers opportunities for player engagement
-
-## [DM_Notes]]
+[Historical Context]] and development over [[Time]]
 *Customize as needed for your specific campaign requirements.*
 
 ## References

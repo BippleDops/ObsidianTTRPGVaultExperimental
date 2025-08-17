@@ -138,6 +138,5 @@ Things widely suspected
 
 ## References
 
-- [[Political Intrigue Master Index
-- [Relationship Web Nuances]]
+- [[Political Intrigue Master Index]]
 - [[Abyssos Prime - Pressure Terminal]]

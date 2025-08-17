@@ -158,8 +158,7 @@ Wants rivals investigated
 ## Connections
 
 - Originates from
-- Originates from [[VAULT_OPTIMIZATION_COMPLETE
-- Requires [step_087 (phase_036)]]
+- Originates from [[VAULT_OPTIMIZATION_COMPLETE]]
 - Related: [[step_014 (phase_063)
 - Connects to [student-npc-stat-blocks-scc (tables)]]
 - See also: [[Temporal Diving Equipment
@@ -170,8 +169,7 @@ Wants rivals investigated
 - Requires [step_066 (phase_062)]]
 - Compare with [[step_019 (phase_074)
 - Compare with [Location City the Forgotten Collective the Forgotten Collective.svg]]
-- See also: [[step_087 (phase_015)
-- Leads to [The Infinite Spiral (D&D_References)]]
+- See also: [[The Infinite Spiral (D&D_References)]]
 - Connects to [[D_019_Oracle_Whale
 - Affected by [Simultaneous Effects Xphb]]
 - Originates from
@@ -179,8 +177,7 @@ Wants rivals investigated
 - Leads to [step_018 (phase_036)]]
 - Leads to [[Portrait NPC Queen Lyralei Stormheart V2 Queen Lyralei Stormheart.svg_1 (Portraits)
 - Influences [step_055 (phase_029)]]
-- See also: [[EVENT00002_Political_Event_3
-- Affected by [NPC00777_Qadim_Winterborn_the_Bold]]
+- See also: [[NPC00777_Qadim_Winterborn_the_Bold]]
 - Compare with [[Portrait NPC Scholar Priest Tidal Memory V1 Scholar Priest Tidal Memory.svg
 - See also: [ITEM00490_Enchanted_Chain_Mail_of_Grace]]
 - Leads to [[Audit Investigator Thomas Truthseeker
@@ -191,11 +188,9 @@ Wants rivals investigated
 - See also: [step_039 (phase_036)]]
 - Influences [[Assets Locations Location City Memory Merchant Headquarters Memory Merchant Headquarters.svg
 - Requires [QUEST00234_Side_Quest_235]]
-- Influences [[Void Sanctum (D&D_References)
-- Compare with [NPC01172_Corvus_Ashford_the_Cunning]]
+- Influences [[NPC01172_Corvus_Ashford_the_Cunning]]
 - Affected by
-- Compare with [[Enervation Xge
-- Originates from [ENC00092_Environmental_Encounter_93]]
+- Compare with [[ENC00092_Environmental_Encounter_93]]
 - Influences [[step_078 (phase_075)
 - Connects to [LORE00198_Legends_Entry_199]]
 - Compare with [[Wand of Viscid Globs Oota
@@ -228,16 +223,13 @@ Wants rivals investigated
 - Leads to [[LORE00284_History_Entry_285
 - Requires
 - Requires [LOC00191_Towns_Location_192]]
-- Related: [[Ancient Treasury of Tides (D&D_References)
-- Parallels [boon-of-recovery-xphb (feats)]]
-- Compare with [[critical-hit-xphb (variant-rules)
-- Requires [step_029 (phase_093)]]
+- Related: [[Ancient Treasury of Tides (D&D_References)]]
+- Compare with [[critical-hit-xphb (variant-rules)]]
 - Influences [[LOC00023_Dungeons_Location_24
 - Related: [LORE00279_History_Entry_280]]
 - Affected by [[Assets Locations Location City Forge Master Korax Hammerdeep Forge Master Korax Hammerdeep.svg
 - Originates from [Tashas Bubbling Cauldron Xphb]]
-- Compare with [[Propaganda Distribution Networks 2
-- Compare with [Free Current Charter 2]]
+- Compare with [[Propaganda Distribution Networks 2]]
 - Influences [[ITEM01065_Concentrated_Salve_of_Healing
 - Connects to [Poison Needle Trap Xge]]
 - Requires [[Assets Item Artifact Warhammer Xphb V7 Warhammer Xphb.png
@@ -256,7 +248,7 @@ Wants rivals investigated
 - See also: [step_009 (phase_074)]]
 - Requires [[step_036 (phase_013)
 - Influences [LOC0135_LowerGate]]
-- Parallels [[step_082 (phase_072)]]
+- Parallels
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

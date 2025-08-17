@@ -42,33 +42,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-### Contradictions Improvements
-
-- Include cultural hypocrisies and double standards
-
-### Coming_Of_Age Improvements
-
-- Describe rites of passage and adulthood markers
-
-### Superstitions Improvements
-
-- List common superstitions and their origins
-
-### Oral_Tradition Improvements
-
-- Add folk tales and children's stories
-
-## Overview
-
-Tavern Names represents a crucial aspect of the world's history, cosmology, or fundamental nature.
-
----
-
-*Last Updated: 2025-08-14 19:03*
-
-## [DM_Notes]]
+- Describe how this culture exists in other [[region]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -94,4 +68,4 @@ Mentioned in The First Prophecy of Stars
 
 ## References
 
-- [[Tavern_Names (02_Worldbuilding)]]
+- [[02_Worldbuilding]]

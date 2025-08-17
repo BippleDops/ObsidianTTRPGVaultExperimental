@@ -1,7 +1,6 @@
 ---
 
-title: [[Aethermoor Weather Service
-type: [Lore]]
+title: [[Aethermoor Weather Service]]
 tags:
 - lore
 - worldbuilding

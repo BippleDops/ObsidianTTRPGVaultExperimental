@@ -164,8 +164,7 @@ Competitor sabotaging business
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -181,20 +180,16 @@ Competitor sabotaging business
 
 ## Connections
 
-- Compare with [[SPELL00139_Divine_Spell_140
-- Leads to [step_030 (phase_047)]]
-- Compare with [[NPC01547_Branwen_Frostwhisper_the_Mystic
-- Connects to [Quaggoth Xmm]]
+- Compare with [[SPELL00139_Divine_Spell_140]]
+- Compare with [[NPC01547_Branwen_Frostwhisper_the_Mystic]]
 - Leads to [[Thalassius the Wise
 - Parallels [step_054 (phase_020)]]
 - Related: [[step_094 (phase_020)
 - See also: [Magic Items Awarded by Rarity Minor Xge]]
-- Parallels [[Technology Transfer
-- See also: [Archscholar Marina Voidseeker 2]]
+- Parallels [[Archscholar Marina Voidseeker 2]]
 - Compare with [[swarm-of-lemures-xmm (fiend)
 - Originates from [LOC00143_Planes_Location_144]]
-- Leads to [[QUEST00010_Personal_Quest_11
-- Requires [NPC01884_Ysara_Crystalbrook_the_Risen]]
+- Leads to [[NPC01884_Ysara_Crystalbrook_the_Risen]]
 - Requires [[Portrait NPC Captain Cornelius Deepwater V1 Captain Cornelius Deepwater.svg
 - Affected by [The Current Riders Guild]]
 - Parallels [[Portrait NPC the Free Current Movement the Free Current Movement.svg_1 (Portraits)
@@ -207,8 +202,7 @@ Competitor sabotaging business
 - Leads to [LORE00030_Legends_Entry_31]]
 - Influences [[ITEM00909_Concentrated_Herb_of_Swiftness
 - Parallels [Dockworkers Union (D&D_References)]]
-- Related: [[Memory Meadows Black Market
-- Leads to [step_085 (phase_040)]]
+- Related: [[Memory Meadows Black Market]]
 - Originates from [[Portrait NPC Abyssos Prime Throne of Bubbles Abyssos Prime Throne of Bubbles.svg_1 (Portraits)
 - Compare with [ITEM01482_Ornate_Rope_of_Quality]]
 - Influences [[mounts-and-vehicles-mounts-and-other-animals-xphb
@@ -220,14 +214,11 @@ Competitor sabotaging business
 - Connects to
 - Parallels [[menagerie
 - Influences [Assets Locations Location City Ambassador Silk Bridgewater Ambassador Silk Bridgewater.svg]]
-- Connects to [[The Crystal Renaissance
-- Influences [Magical Component Manufacturers Guil 2]]
-- Affected by [[Market_Industry_Name_1
-- Leads to [Crystal Architecture Philosophy]]
+- Connects to [[Magical Component Manufacturers Guil 2]]
+- Affected by [[Crystal Architecture Philosophy]]
 - Parallels [[Portrait NPC Quest the Crystal Refugees V2 Quest the Crystal Refugees.svg
 - Related: [Lament Architecture]]
-- Requires [[step_026 (phase_095)
-- Originates from [Maelstrom Palace (D&D_References)]]
+- Requires [[Maelstrom Palace (D&D_References)]]
 - Influences
 - See also: [[Crystal Corruption Timeline
 - Parallels [location-city-the-tidecaller-the-tidecaller.svg]]
@@ -252,12 +243,10 @@ Competitor sabotaging business
 - Connects to [SHOP00064_General_Shop_65]]
 - Affected by [[Crystal Throne 2
 - See also: [step_003 (phase_082)]]
-- Influences [[House of Lords - Secret Chamber (D&D_References)
-- Influences [potion-of-poison-xdmg (items)]]
+- Influences [[House of Lords - Secret Chamber (D&D_References)]]
 - Related: [[ENC00116_Environmental_Encounter_117
 - Influences [05_Templates_World_Builder_Templates_Template-Hub.md]]
-- Requires [[The Noble Compact (D&D_References)
-- Requires [dawn-war-torog-dmg (deities)]]
+- Requires [[The Noble Compact (D&D_References)]]
 - Leads to [[Shadow_Conspiracy_Infiltration_Signs
 - Originates from [ENC00113_Environmental_Encounter_114]]
 - Connects to [[step_014 (phase_031)

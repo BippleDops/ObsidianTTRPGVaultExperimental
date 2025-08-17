@@ -160,8 +160,7 @@ Seeks rare merchandise
 
 ## Connections
 
-- Compare with [[NPC01665_Malakai_Ravenheart_the_Strong
-- Connects to [Elemental Gem Xdmg]]
+- Compare with [[NPC01665_Malakai_Ravenheart_the_Strong]]
 - Compare with [[step_093 (phase_045)
 - Compare with [Eastport]]
 - Leads to
@@ -188,8 +187,7 @@ Seeks rare merchandise
 - Related: [[Portal_Home
 - Influences [08_Archive_Planning_100_NEXT_LEVEL_IMPROVEMENTS]]
 - Compare with
-- Leads to [[Gentle Currentguide (D&D_References)
-- Related: [FAC00027_Guilds_28]]
+- Leads to [[Gentle Currentguide (D&D_References)]]
 - Compare with [[Marcus Aurelius Shimmerstone
 - Parallels [inflict-wounds-xphb (spells)]]
 - Related: [[Maritime Commerce 2
@@ -198,33 +196,26 @@ Seeks rare merchandise
 - Compare with [Memory Alteration Consequences (D&D_References)]]
 - Parallels [[Embroidered Silk and Velvet Mantle Set With
 - Requires [Veterans Organizations]]
-- See also: [[Crystal Cults (D&D_References)
-- Parallels [step_006 (phase_048)]]
+- See also: [[Crystal Cults (D&D_References)]]
 - Influences [[step_073 (phase_011)
 - See also: [Portrait NPC Quest the Deep Cartographer V2 Quest the Deep Cartographer.svg]]
-- Connects to [[README
-- Parallels [Library of Lost Solutions]]
-- Related: [[Wanted_Poster_Syndicate_Fenc
-- Influences [NPC00603_Hilda_Lightbringer_the_Wanderer]]
+- Connects to [[Library of Lost Solutions]]
+- Related: [[NPC00603_Hilda_Lightbringer_the_Wanderer]]
 - Related: [[NPC0164_Ewan_Brightblade_the_Strong
 - Affected by [Ancient_Prophecy_Fragment_Verdan]]
 - Related: [[QUEST00283_Personal_Quest_284
 - Originates from [portrait-npc-duke-hadal-v1-duke-hadal.svg]]
-- Parallels [[The Black Ledger (D&D_References)
-- Leads to [Rogue_Journal]]
+- Parallels [[The Black Ledger (D&D_References)]]
 - Connects to
 - See also: [[List Spells Optional Features Pact of the Tome Xphb
 - Parallels [Chancellor Marina Depthcaller]]
-- Originates from [[Summon Aberration Xphb
-- Related: [Campaigns Aquabyssos Investigations the Shadow Parliament Conspiracy]]
+- Originates from [[Campaigns Aquabyssos Investigations the Shadow Parliament Conspiracy]]
 - Parallels [[04_Resources_Assets_Locations_location-city-terminal-master-hadrian-depthbridge-terminal-master-hadrian-depthbridge.svg
 - Related: [Brewing Potions of Healing Potion of Healing]]
-- Leads to [[step_063 (phase_025)
-- Related: [LORE0031_Legend_of_the_Ancient_Pact]]
+- Leads to [[LORE0031_Legend_of_the_Ancient_Pact]]
 - Leads to [[ring-of-elemental-command-water-xdmg (items)
 - See also: [Portrait NPC Vex Shadowthorn S Apprentices V1 Vex Shadowthorn S Apprentices.svg]]
-- Connects to [[Session Zero Guide
-- See also: [The Memory Wardens (D&D_References)]]
+- Connects to [[The Memory Wardens (D&D_References)]]
 - Requires [[LORE00206_History_Entry_207
 - Leads to [Location City Current Democratic Party Current Democratic Party.svg]]
 - Related: [[NPC01222_Dara_Quicksilver_the_Risen
@@ -234,24 +225,19 @@ Seeks rare merchandise
 - Originates from [The_Seven_Shards_Campaign]]
 - Parallels [[Assets Locations Location City the Twilight Gardens V1 the Twilight Gardens.svg
 - Connects to [Ritual_Timing_Wheel_Convergenc]]
-- Originates from [[Investigation Laboratories
-- Requires [step_097 (phase_084)]]
+- Originates from [[Investigation Laboratories]]
 - Compare with [[Horn of Valhalla Iron Xdmg
 - Compare with [Assets Art Screaming Gardens Songwood Grove.png]]
 - Compare with
-- Affected by [[Senator's Seal
-- Requires [ENC00157_Combat_Encounter_158]]
-- Influences [[Goldspire Expedition
-- See also: [MON00123_Constructs_Creature_124]]
+- Affected by [[ENC00157_Combat_Encounter_158]]
+- Influences [[MON00123_Constructs_Creature_124]]
 - Parallels
 - Related: [[step_023 (phase_023)
 - Originates from [QUEST0077_In_Search_of_Justice]]
 - Originates from [[step_097 (phase_080)
 - Compare with [grasp-of-hadar-xge (optional-features)]]
-- Related: [[Fear Amplification
-- Related: [Quest - The Deep Mother Rises 2]]
-- See also: [[NPC01812_Xander_Lightbringer_the_Swift
-- Compare with [The Memory Weaver]]
+- Related: [[Quest - The Deep Mother Rises 2]]
+- See also: [[NPC01812_Xander_Lightbringer_the_Swift]]
 - Compare with [[SPELL00048_Divine_Spell_49
 - Originates from [step_064 (phase_011)]]
 - Leads to [[Portrait NPC King Marcus Lumengarde V2 King Marcus Lumengarde.svg_1 (Portraits)

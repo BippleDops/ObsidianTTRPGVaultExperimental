@@ -30,7 +30,7 @@ type: npc
 
 ## Quick Reference
 - **Role**: Character in the campaign
-- **Location**: [[02_Worldbuilding/Locations/Main_Hub]]
+- **Location**: [[02_Worldbuilding]]
 - **Faction**: Independent
 
 ## Description
@@ -92,28 +92,22 @@ The Deep Mother is a character encountered in the campaign world.
 - Connects to [[Cambion Xmm
 - Parallels
 - Related: [Assets Item Artifact Enspelled Armor Level 7 Xdmg V3 Enspelled Armor Level 7 Xdmg.png]]
-- Influences [[NPC01327_Erasmus_Nightfall_the_Scholar
-- Requires [SHOP00046_Specialty_Shop_47]]
+- Influences [[NPC01327_Erasmus_Nightfall_the_Scholar]]
 - See also:
 - Related: [[ENC0001_Random_Encounter_2
 - Requires [QUEST00102_Side_Quest_103]]
-- Leads to [[The Resonant Hermit 2
-- Parallels [Intelligence Processing Center]]
-- See also: [[Eldritch Secrets
-- Parallels [AUTONOMOUS_SYSTEM_ACTIVE]]
+- Leads to [[Intelligence Processing Center]]
+- See also: [[AUTONOMOUS_SYSTEM_ACTIVE]]
 - Parallels
 - Connects to
-- Related: [[Aetheric Wind Songs
-- Related: [Surface Reconnection Coalition]]
+- Related: [[Surface Reconnection Coalition]]
 - See also: [[step_028 (phase_030)
 - Originates from
 - Leads to [dueling-xphb (feats)]]
-- Requires [[Central Index
-- Affected by [Royal Court (D&D_References)]]
+- Requires [[Royal Court (D&D_References)]]
 - Affected by [[Scene Scene Deep Mother S Tentacles Rising V1 Deep Mother S Tentacles Rising.svg
 - Compare with [step_045 (phase_067)]]
-- Influences [[step_058 (phase_030)
-- Connects to [Librarian Scholar Reef Documentcurrent]]
+- Influences [[Librarian Scholar Reef Documentcurrent]]
 - See also: [[vampiric-mist-mpmm (undead)
 - Leads to [Factions the Order of the Veil]]
 - Related: [[step_002 (phase_045)
@@ -121,8 +115,7 @@ The Deep Mother is a character encountered in the campaign world.
 - Affected by
 - Originates from [[portrait-npc-siren-v2-siren.svg_1 (Portraits)
 - Originates from [Crystal Goverce Model]]
-- Related: [[Island of Scream 2
-- See also: [NPC01135_Thalia_Proudmore_the_Broken]]
+- Related: [[NPC01135_Thalia_Proudmore_the_Broken]]
 - Compare with [[Syndicate Enforcers
 - Influences [step_036 (phase_054)]]
 - Influences [[step_073 (phase_071)
@@ -137,8 +130,7 @@ The Deep Mother is a character encountered in the campaign world.
 - Compare with [Consciousness Ward Ring]]
 - Influences
 - Affected by
-- Compare with [[Active Quests
-- Connects to [Silent Guardian Marcus]]
+- Compare with [[Silent Guardian Marcus]]
 - Influences [[step_071 (phase_010)
 - Connects to [Twilight Depth]]
 - See also: [[Depth Pulse 2
@@ -154,8 +146,7 @@ The Deep Mother is a character encountered in the campaign world.
 - Related: [LOC00059_Cities_Location_60]]
 - Leads to [[Lighthouse Ruins
 - See also: [step_003 (phase_073)]]
-- See also: [[step_034 (phase_094)
-- Related: [LOC00076_Wilderness_Location_77]]
+- See also: [[LOC00076_Wilderness_Location_77]]
 - See also: [[Location City Quest Portal Conspiracy Quest Portal Conspiracy.svg
 - See also: [Earl Demersal]]
 - Connects to [[Kelp Highway 2
@@ -166,20 +157,14 @@ The Deep Mother is a character encountered in the campaign world.
 - Connects to [Finn Goodtide]]
 - Originates from [[Assets Art Brother Matthias Inkdrinker.png
 - Requires [step_045 (phase_060)]]
-- Originates from [[Aquabyssos Technical University
-- Originates from [LOC0138_FortGate]]
-- Originates from [[oathbow-xdmg (items)
-- Compare with [Diplomatic Dining Protocol 2]]
-- Related: [[Port Nimbus 2
-- Affected by [SPELL00040_Nature_Spell_41]]
-- Originates from [[Quest - The Shattered Memories_1 (01_Adventures)
-- Compare with [Shadow Integration Coordinator Luna Bridgebuilder 2]]
-- Compare with [[step_093 (phase_064)
-- Requires [NPC00956_Erasmus_Proudmore_the_Wanderer]]
+- Originates from [[Aquabyssos Technical University]]
+- Originates from [[Diplomatic Dining Protocol 2]]
+- Related: [[SPELL00040_Nature_Spell_41]]
+- Originates from [[Shadow Integration Coordinator Luna Bridgebuilder 2]]
+- Compare with [[NPC00956_Erasmus_Proudmore_the_Wanderer]]
 - Leads to [[Location City Wise Tide Truthseeker V1 Wise Tide Truthseeker.svg
 - Affected by [step_089 (phase_007)]]
-- See also: [[Orc Ilneval Vgm
-- Compare with [ENC00278_Combat_Encounter_279]]
+- See also: [[ENC00278_Combat_Encounter_279]]
 - Leads to [[location-city-void-currents-void-currents.svg
 - Related: [Portrait NPC Militant Priest Abyssal V1 Militant Priest Abyssal.svg]]
 - Connects to [[Portrait NPC Free Current Safe Houses Free Current Safe Houses.svg

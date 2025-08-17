@@ -164,8 +164,7 @@ Is secretly testing the party
 
 ## Connections
 
-- See also: [[step_009 (phase_042)
-- Affected by [Field Operations Chief Marcus Ironheart 2]]
+- See also: [[Field Operations Chief Marcus Ironheart 2]]
 - Connects to [[Dancing Lights Xphb
 - Requires
 - Influences [The Crystal Depths]]
@@ -177,21 +176,17 @@ Is secretly testing the party
 - Requires [NPC00140_Brenna_Youngblood_the_Scholar]]
 - Originates from [[step_093 (phase_016)
 - Parallels [UNIFIED_MECHANICS_GUIDE]]
-- Connects to [[The Shadow Surgeons (D&D_References)
-- Related: [Great Crystal Lens]]
+- Connects to [[The Shadow Surgeons (D&D_References)]]
 - Requires [[Assets Locations Location City Quest Harbor Expansion Quest Harbor Expansion.svg
 - Compare with
 - Related: [step_042 (phase_030)]]
-- Compare with [[Master of Whispers Shade-Tongue Aldric
-- Leads to [ITEM01178_Lesser_Salve_of_Swiftness]]
-- Influences [[Identity Crisis Resolution 2
-- Affected by [step_074 (phase_067)]]
+- Compare with [[Master of Whispers Shade-Tongue Aldric]]
+- Influences [[Identity Crisis Resolution 2]]
 - Originates from [[pale-tincture-xdmg (items)
 - Requires [ITEM00604_Mithril_Helm_of_Resistance]]
 - Parallels [[settlements-by-size-xdmg (tables)
 - Parallels [FAC00092_Guilds_93]]
-- Affected by [[Thalassa the Life-Weaver
-- Requires [Pressure-Weighted Representation (D&D_References)]]
+- Affected by [[Pressure-Weighted Representation (D&D_References)]]
 - Leads to [[step_086 (phase_087)
 - Requires
 - Influences [gnome-baravar-cloakshadow-mtf (deities)]]
@@ -201,25 +196,19 @@ Is secretly testing the party
 - See also: [ENC00453_Combat_Encounter_454]]
 - Connects to [[step_034 (phase_027)
 - See also: [step_094 (phase_083)]]
-- Affected by [[Symbol Heraldry Mag... Related To: Local Political Structure Connected Plots: to Be Developed
-- Influences [Longstrider Xphb]]
+- Affected by [[Symbol Heraldry Mag... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Parallels [[Candle of Invocation Xdmg
 - Requires [Captain Marina Tidecrest]]
 - Leads to [[Healing Temples (D&D_References)
 - Parallels [Assets Locations Location City the Memory Storm Fields V1 the Memory Storm Fields.svg]]
-- Related: [[Detection Specialist Gleam Corruptwatch
-- Parallels
-- Related: [QUEST00107_Side_Quest_108]]
+- Related: [[Detection Specialist Gleam Corruptwatch]]
 - Affected by
-- Originates from [[Unity Ambassador Cross-Current
-- Related: [Eldritch Blast]]
+- Originates from [[Unity Ambassador Cross-Current]]
 - Leads to [[Traditional Craftsmen Guild (Guilds)
 - Parallels [LOC00181_Planes_Location_182]]
-- Related: [[ENC0065_Random_Encounter_66
-- Compare with [The Hammer Squad]]
+- Related: [[ENC0065_Random_Encounter_66]]
 - Related:
-- Compare with [[United Councils of Both Worlds 3 (D&D_References)
-- Influences [Tribune Maelstrom]]
+- Compare with [[United Councils of Both Worlds 3 (D&D_References)]]
 - Related: [[Scene Scene Deep Mother S Tentacles Rising Deep Mother S Tentacles Rising.svg
 - Originates from [step_055 (phase_065)]]
 - Compare with [[The Dockworkers Union
@@ -236,18 +225,13 @@ Is secretly testing the party
 - Requires [Poseidon 2]]
 - Connects to [[Archive of Forgotten Depths
 - Connects to [difficulty-class-typical-dcs (tables)]]
-- See also: [[NPC01503_Ewan_Dawnstrider_the_Redeemed
-- Influences [dao-xmm (elemental)]]
+- See also: [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
 - Related: [[Location City Brother Matthias Inkdrinker V1 Brother Matthias Inkdrinker.svg
 - See also: [NPC00414_Fiora_Jadeclaw_the_Risen]]
-- Requires [[Lighthouse Keeper Finn Deepbeacon
-- Requires [Digital - Interface Elements]]
-- Related: [[NPC00701_Faelyn_Youngblood_the_Fallen
-- Compare with [Quest - The Great Integration 2]]
-- Compare with [[Syndicate Enforcers (D&D_References)
-- Originates from [Seasonal Quarters 2]]
-- Related: [[ENC00060_Social_Encounter_61
-- Affected by [The Ancient Nobility (D&D_References)]]
+- Requires [[Lighthouse Keeper Finn Deepbeacon]]
+- Related: [[NPC00701_Faelyn_Youngblood_the_Fallen]]
+- Compare with [[Syndicate Enforcers (D&D_References)]]
+- Related: [[The Ancient Nobility (D&D_References)]]
 - Requires [[step_021 (phase_083)
 - Originates from [Tidal Harmony 2]]
 - Leads to [[LOC00103_Towns_Location_104
@@ -261,8 +245,7 @@ Is secretly testing the party
 - See also:
 - Affected by [[step_093 (phase_019)
 - Parallels [Scene Scene Shadow Market Under Rain V2 Shadow Market Under Rain.png]]
-- Affected by [[Session 4 Battle Above Clouds
-- Parallels [step_011 (phase_038)]]
+- Affected by [[Session 4 Battle Above Clouds]]
 - Leads to [[portrait-npc-tenebrarum-v2-tenebrarum.svg_1 (Portraits)
 
 ## Visual References

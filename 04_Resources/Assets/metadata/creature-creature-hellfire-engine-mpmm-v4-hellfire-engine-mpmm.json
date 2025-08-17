@@ -25,5 +25,8 @@
   "alt_text": "Concept art of hellfire-engine-mpmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-hellfire-engine-mpmm-v4-hellfire-engine-mpmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-hellfire-engine-mpmm-v4-hellfire-engine-mpmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:04:33.021Z",
+  "generationMethod": "ComfyUI"
 }

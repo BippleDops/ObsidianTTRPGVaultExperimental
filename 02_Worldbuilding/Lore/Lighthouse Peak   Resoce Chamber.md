@@ -29,6 +29,5 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[Aetheric Wind Songs
-- [Aetheric Wind Songs (D&D_References)]]
+- [[Aetheric Wind Songs (D&D_References)]]
 - [[Aethermoor - Session 02 The Lighthouse of Storms]]

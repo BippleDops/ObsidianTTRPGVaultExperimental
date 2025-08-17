@@ -25,5 +25,8 @@
   "alt_text": "Concept art of fraz-urbluu-mtf with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-fraz-urbluu-mtf-v3-fraz-urbluu-mtf.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-fraz-urbluu-mtf-v3-fraz-urbluu-mtf.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:02:20.515Z",
+  "generationMethod": "ComfyUI"
 }

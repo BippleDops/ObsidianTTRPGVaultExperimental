@@ -178,16 +178,12 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[The Shadow Conspiracy (Criminal_Organizations)
-- [Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[Comprehensive-World-Connection-Guide
-- [Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
 - [[Merchant Family Alliances
 - [Assets Art Master Smith Coral Hammer.png]]
 - [[Assets Portraits Portrait NPC High Priestess Scylla Deepdream High Priestess Scylla Deepdream.svg
 - [Tenebrarum Embassy]]
-- [[The Shadow Conspiracy
-- [Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]
-- [[Aquabyssos - Session 04 - High Tide Horror
-- [Aquabyssos - Session 05 - Descent into Darkness]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]
+- [[Aquabyssos - Session 05 - Descent into Darkness]]
 - [[Diplomatic Tides (D&D_Statblocks)]]

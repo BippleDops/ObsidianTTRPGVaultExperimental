@@ -25,5 +25,8 @@
   "alt_text": "Concept art of spring-eladrin-mpmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-spring-eladrin-mpmm-v2-spring-eladrin-mpmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-spring-eladrin-mpmm-v2-spring-eladrin-mpmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:09:27.788Z",
+  "generationMethod": "ComfyUI"
 }

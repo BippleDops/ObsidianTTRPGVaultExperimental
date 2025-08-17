@@ -169,39 +169,30 @@ Has information about legendary item
 - Originates from [Vehicles - Vehicles Index]]
 - Influences [[step_047 (phase_099)
 - Requires [step_043 (phase_024)]]
-- Requires [[Local Authorities
-- Compare with [The Seven Breathing Stones]]
+- Requires [[The Seven Breathing Stones]]
 - Parallels [[drow-kiaransalee-mtf (deities)
 - Influences [Light Bearer]]
 - See also: [[Location City the Bone Palace of Sorrows the Bone Palace of Sorrows.png
 - Originates from [08_Archive]]
 - See also: [[Assets Portraits Portrait NPC Captain Rescue Captain Rescue.svg
 - See also: [Demon Customization Tables Unusual Demon]]
-- Requires [[Random_Encounter_Tables (D&D_References)
-- Leads to [Doors Beyond a Door]]
+- Requires [[Random_Encounter_Tables (D&D_References)]]
 - Originates from [[NPC00189_Corvus_Quicksilver
 - Related: [5-nonplayer-characters (volos-guide-to-monsters)]]
 - Requires [[step_009 (phase_095)
 - Related: [04_Resources_Assets_Portraits_portrait-npc-lord-aldric-highwind-lord-aldric-highwind.svg_Quick_Ref]]
-- Leads to [[FAC00021_Guilds_22
-- Connects to [NPC01231_Ewan_Voidwalker_the_Swift]]
-- See also: [[specter-xmm (undead)
-- Leads to [Unite the Emperor (D&D_References)]]
-- Related: [[Dwarves on the Move Special Circumstances Mtf
-- Related: [downtime-activity-performing-sacred-rites (variant-rules)]]
+- Leads to [[NPC01231_Ewan_Voidwalker_the_Swift]]
+- See also: [[Unite the Emperor (D&D_References)]]
+- Related: [[downtime-activity-performing-sacred-rites (variant-rules)]]
 - Compare with [[step_039 (phase_052)
 - Affected by [step_062 (phase_052)]]
-- Compare with [[Inter-Realm Communication Networks
-- Parallels
-- Influences [Coral Seasweaver]]
-- See also: [[Korra Mindshield (D&D_References)
-- Parallels [Economic Manipulation (D&D_References)]]
+- Compare with [[Inter-Realm Communication Networks]]
+- See also: [[Economic Manipulation (D&D_References)]]
 - Requires [[Session 5 Conspiracy Revealed
 - Originates from [step_094 (phase_072)]]
 - Affected by [[SPELL0009_Divine_Shield
 - Requires [Location City Emergency Management Emergency Management.svg]]
-- Compare with [[Lady Serena Goldwave
-- Related: [red-dragon (legendary-group)]]
+- Compare with [[red-dragon (legendary-group)]]
 - Parallels [[step_089 (phase_057)
 - See also: [Time (D&D_References)]]
 - Related: [[Palace Guardians (D&D_References)
@@ -218,8 +209,7 @@ Has information about legendary item
 - Influences [Celtic Nuada]]
 - Affected by [[step_057 (phase_055)
 - Influences [step_029 (phase_024)]]
-- Requires [[LOC00010_Planes_Location_11
-- Influences [Pressure Master Current Depthwright]]
+- Requires [[Pressure Master Current Depthwright]]
 - Connects to [[Valley of Eternal Mourning
 - Parallels [LOC00023_Towns_Location_24]]
 - Originates from [[NPC00681_Zephyr_Xendar_the_Seeker
@@ -229,8 +219,7 @@ Has information about legendary item
 - Parallels
 - Related: [[SPELL00010_Divine_Spell_11
 - Related: [Assets Locations Location City Crystal Master Prism Lightweaver V1 Crystal Master Prism Lightweaver.svg]]
-- Compare with [[Wave Traderwind
-- Influences [Peace of Singing Stones 2]]
+- Compare with [[Peace of Singing Stones 2]]
 - Originates from [[step_043 (phase_023)
 - Related: [Scene Scene the Party S First Glimpse of Abyssos Prime the Party S First Glimpse of Abyssos Prime.png]]
 - Influences [[The Cerulean Archipelago
@@ -244,8 +233,7 @@ Has information about legendary item
 - Compare with [Assets Locations Location City Abyssos Prime Upper Districts V1 Abyssos Prime Upper Districts.png]]
 - Parallels [[MON00049_Constructs_Creature_50
 - See also: [LORE00087_Prophecies_Entry_88]]
-- Leads to [[step_037 (phase_018)
-- Compare with [LOC00215_Dungeons_Location_216]]
+- Leads to [[LOC00215_Dungeons_Location_216]]
 - Parallels [[Shadow Faction Representative (D&D_References)
 - Affected by [Symbol Heraldry the Architects of Depths the Architects of Depths.svg]]
 - Compare with [[Temple of the Sunken Cathedral 2
@@ -254,8 +242,7 @@ Has information about legendary item
 - Requires [ITEM00143_Radiant_Bow_of_Slaying]]
 - Parallels [[Parliament High Council (D&D_References)
 - Originates from [NPC01477_Solas_Crystalbrook_the_Risen]]
-- Influences [[ENC00124_Combat_Encounter_125
-- Connects to [step_061 (phase_069)]]
+- Influences [[ENC00124_Combat_Encounter_125]]
 - Leads to [[location-city-aquabyssos-v1-aquabyssos.svg
 
 ## Visual References

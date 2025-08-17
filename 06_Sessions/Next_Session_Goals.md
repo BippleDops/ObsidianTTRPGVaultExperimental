@@ -3,16 +3,7 @@ tags: [generated, linked]
 created: "2025-08-15T12:34:11.172253"
 ---
 
-# [[Next Session Goals
-
-## Overview
-This content is part of the campaign.
-
-## Description
-Details about this topic.
-
-## Connections
-- Related to: [Related_Topic_1]]
+# [[Next_Session_Goals]]
 - See also: [[Related_Topic_2
 
 ## [Game Mechanics]]

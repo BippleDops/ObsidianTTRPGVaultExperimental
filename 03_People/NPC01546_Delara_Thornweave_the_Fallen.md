@@ -181,39 +181,31 @@ Forming expedition to dangerous location
 - Requires [LOC00184_Wilderness_Location_185]]
 - Originates from [[EVENT00000_Magical_Event_1
 - See also: [level-advancement-character-advancement-xphb (tables)]]
-- Requires [[Luck Blade Xdmg
-- Requires [MON00037_Aberrations_Creature_38]]
-- See also: [[LOC0006_OldHaven
-- Related: [Navigation & Geograph (D&D_References)]]
+- Requires [[MON00037_Aberrations_Creature_38]]
+- See also: [[Navigation & Geograph (D&D_References)]]
 - Affected by [[Quest - The Failing [Quest - The Failing Magic_1 (01_Adventures)|Magic_1 (01_Adventures)]]
-- Compare with [[MON00110_Aberrations_Creature_111
-- Requires [Crystal Vein Settlements]]
+- Compare with [[MON00110_Aberrations_Creature_111]]
 - Parallels [[ENC0022_Random_Encounter_23
 - Related:
 - Parallels [Sister Mourne (D&D_References)]]
-- Parallels [[portrait-comfy-latest.png
-- Compare with [The Abyss Beneath Aquabyssos 3 (D&D_References)]]
+- Parallels [[The Abyss Beneath Aquabyssos 3 (D&D_References)]]
 - Influences [[ITEM00118_Cursed_Bow_of_Accuracy
 - Influences [step_056 (phase_073)]]
-- Connects to [[Historical Preservation Society
-- Affected by [ENC00170_Environmental_Encounter_171]]
+- Connects to [[ENC00170_Environmental_Encounter_171]]
 - Affected by
 - Affected by [[The Deep Expansion
 - Connects to [ITEM00081_Frost_Sword_of_Speed]]
-- See also: [[LOC0029_Groveford
-- Affected by [QUEST00201_Side_Quest_202]]
+- See also: [[QUEST00201_Side_Quest_202]]
 - Connects to [[04_Resources_Assets_Locations_location-city-terminal-director-admiral-current-swiftflow-terminal-director-admiral-current-swiftflow.svg
 - Leads to [LOC00026_Cities_Location_27]]
 - Influences [[Living Amplifiers 2
 - Related: [step_041 (phase_079)]]
 - Originates from [[step_005 (phase_064)
 - Connects to [Trade War 2]]
-- Affected by [[Dr. Siphon Gillwater (D&D_Statblocks)
-- Influences [Ball Bearings Xphb]]
+- Affected by [[Dr. Siphon Gillwater (D&D_Statblocks)]]
 - Affected by [[Location City Portal Terminal Central V1 Portal Terminal Central.png
 - Affected by [Swarm of Bats Xmm]]
-- Parallels [[Nightmarket Plaza 2
-- Compare with [NPC00663_Alaric_Dawnstrider_the_Strong]]
+- Parallels [[NPC00663_Alaric_Dawnstrider_the_Strong]]
 - Requires [[MON00021_Constructs_Creature_22
 - Compare with [Portrait NPC Jasper Three Eyes Flint V1 Jasper Three Eyes Flint.png_1 (Portraits)]]
 - Parallels [[step_031 (phase_045)
@@ -225,15 +217,13 @@ Forming expedition to dangerous location
 - Influences [[LOC00204_Dungeons_Location_205
 - Related:
 - See also: [Speed-Current Jet]]
-- See also: [[X-103_Leviathan_Mirror_Chase
-- Connects to [step_007 (phase_036)]]
+- See also: [[X-103_Leviathan_Mirror_Chase]]
 - Compare with [[ITEM01353_Ornate_Rope_of_Convenience
 - Parallels [step_081 (phase_058)]]
 - Affected by
 - Affected by [[Philosopher-Reformer Unity Bridgewright (D&D_References)
 - Leads to [Portrait NPC Intelligence Services V1 Intelligence Services.svg_1 (Portraits)]]
-- Affected by [[Human Names English Female Xge
-- Influences [NPC01956_Zephyr_Thornweave_the_Guardian]]
+- Affected by [[NPC01956_Zephyr_Thornweave_the_Guardian]]
 - Requires [[nilbog-mpmm (fey)
 - Affected by [The Twilight Depths]]
 - Influences [[Meenlock Mpmm
@@ -244,10 +234,8 @@ Forming expedition to dangerous location
 - Influences [[one-of-a-kind-objects-hag-objects-vgm (tables)
 - Related:
 - Leads to [Enhancement Ethics Advisor (Lore)]]
-- Originates from [[step_087 (phase_098)
-- See also: [NPC00712_Faelyn_Proudmore_the_Fallen]]
-- Influences [[The Bridge of Understanding
-- Requires [The Memory Bridge]]
+- Originates from [[NPC00712_Faelyn_Proudmore_the_Fallen]]
+- Influences [[The Bridge of Understanding]]
 - Originates from [[step_093 (phase_024)
 - Parallels [Location City the Sunken Library of Thalassius V1 the Sunken Library of Thalassius.svg]]
 - Originates from

@@ -52,5 +52,4 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [Order of the Drowned Star (Orders)]]
-- [[Temple of the Sunken Cathedral
-- [Order of the Drowned Star]]
+- [[Temple of the Sunken Cathedral]]

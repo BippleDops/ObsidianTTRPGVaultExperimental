@@ -92,35 +92,8 @@ Emergency Navigation Response represents a crucial aspect of the world's history
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[Peoples
-
-### The Golden Era (500 years ago)
-- Economic prosperity
-- Cultural renaissance
-- Expansion of territory
-
-### The [Time]] of Troubles (100 years ago)
+- War with indigenous [[People]] of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current [[Power Structures established
-
-## A Day in the Life
-
-### Nobility
-- 8am: Private tutoring
-- 10am: Court attendance
-- 2pm: Social visits
-- 6pm: Formal dinner
-- 9pm: Entertainment
-
-### Commoner
-- 5am: Morning prayers
-- 6am: Begin labor
-- Noon: Simple meal
-- 6pm: Return home
-- 8pm: Sleep
-
-## References
-
-- [Emergency_Navigation_Response (02_Worldbuilding)]]
+- Current [[Power Structures]]
 - [[The Depth Chart]]

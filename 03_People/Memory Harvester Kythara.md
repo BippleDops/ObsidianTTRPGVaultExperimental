@@ -824,13 +824,10 @@ Mentioned in The First Prophecy of Shadows
 
 ## References
 
-- [[Quest - The Convergence Crisis
-- [Archivist Mnemonic the Forgotten]]
+- [[Quest - The Convergence Crisis]]
 - [[Assets Locations Location City Spymaster Crow Spymaster Crow.svg
 - [Assets Symbols Symbol Heraldry the Great Resonance the Great Resonance.svg]]
 - [[Pressure Angel Benthia
 - [The Barnacle]]
-- [[Archivist Mnemonic the Forgotten (D&D_Statblocks)
-- [Pressure Angel Benthia (D&D_Statblocks)]]
-- [[The Barnacle (D&D_Statblocks)
-- [The Crown's Burden (D&D_Statblocks)]]
+- [[Archivist Mnemonic the Forgotten (D&D_Statblocks)]]
+- [[The Crown's Burden (D&D_Statblocks)]]

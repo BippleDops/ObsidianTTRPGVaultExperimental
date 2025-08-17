@@ -302,6 +302,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Party Shadows (Criminal_Organizations)
 - [Draft_Content (People)]]
-- [[Aquabyssos - Session 05 - Descent into Darkness
-- [Aquabyssos - Session 06 - The Silhouette Surgeons]]
+- [[Aquabyssos - Session 06 - The Silhouette Surgeons]]
 - [[Party Shadows]]

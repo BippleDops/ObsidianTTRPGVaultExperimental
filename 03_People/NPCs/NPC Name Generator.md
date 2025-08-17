@@ -1,7 +1,6 @@
 ---
 
-title: [[Npc Name Generator
-type: [Lore]]
+title: [[NPC_Name_Generator]]
 tags:
 - lore
 - [[Aquabyssos]]

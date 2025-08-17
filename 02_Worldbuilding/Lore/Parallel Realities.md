@@ -66,15 +66,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-### Sensory Improvements
-
-- Add smells, sounds, and textures unique to this culture
-
-## Overview
-
-02_Worldbuilding/[Places]]/Parallel Realities represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+- Describe how this culture exists in other [[region]]/Parallel Realities represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ### Basic Information
 02_Worldbuilding/Places/Parallel Realities can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
@@ -280,17 +272,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[Peoples
-
-### The Golden Era (500 years ago)
-- Economic prosperity
-- Cultural renaissance
-- Expansion of territory
-
-### The Time of Troubles (100 years ago)
-- Civil war
-- Natural disasters
-- Current [Power Structures]] established
+- War with indigenous [[People]] established
 
 ## A Day in the Life
 
@@ -310,6 +292,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Multi-Phase Boss Fights
-- [The Final Choice]]
+- [[Multi-Phase Boss Fights]]
 - [[Umbral Exchange]]

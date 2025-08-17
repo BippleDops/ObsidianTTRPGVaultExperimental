@@ -25,5 +25,8 @@
   "alt_text": "Concept art of choldrith-mpmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-choldrith-mpmm-v1-choldrith-mpmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-choldrith-mpmm-v1-choldrith-mpmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:59:51.867Z",
+  "generationMethod": "ComfyUI"
 }

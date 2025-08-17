@@ -25,5 +25,8 @@
   "alt_text": "Concept art of bridesmaid-of-zuggtmoy-oota with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-bridesmaid-of-zuggtmoy-oota-v4-bridesmaid-of-zuggtmoy-oota.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-bridesmaid-of-zuggtmoy-oota-v4-bridesmaid-of-zuggtmoy-oota.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:59:11.507Z",
+  "generationMethod": "ComfyUI"
 }

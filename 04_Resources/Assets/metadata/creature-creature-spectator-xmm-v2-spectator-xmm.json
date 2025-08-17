@@ -25,5 +25,8 @@
   "alt_text": "Concept art of spectator-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-spectator-xmm-v2-spectator-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-spectator-xmm-v2-spectator-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:09:11.148Z",
+  "generationMethod": "ComfyUI"
 }

@@ -172,8 +172,7 @@ Blackmails party into service
 - Requires
 - Related: [[step_015 (phase_014)
 - Related: [The Memory Nexus]]
-- Compare with [[Inter-Realm Marriage Registry
-- Leads to [Panther Xmm]]
+- Compare with [[Inter-Realm Marriage Registry]]
 - Affected by [[Elven Araleth Letheranil Mtf
 - Influences [step_036 (phase_099)]]
 - Compare with [[ITEM00803_Celestial_Ring_of_the_Gods
@@ -186,10 +185,8 @@ Blackmails party into service
 - Influences [Location City Interfaith Councils Interfaith Councils.svg]]
 - Connects to [[Tavern Brawler Xphb
 - Connects to [Aria the Windwhisperer]]
-- Compare with [[step_036 (phase_070)
-- Influences [Hadal Zone (D&D_References)]]
-- See also: [[Garden Keeper Earthshade 2
-- Parallels [NPC01899_Pyria_Emberfall_the_Swift]]
+- Compare with [[Hadal Zone (D&D_References)]]
+- See also: [[NPC01899_Pyria_Emberfall_the_Swift]]
 - Compare with [[step_057 (phase_009)
 - Parallels [step_013 (phase_077)]]
 - Parallels [[LORE00021_History_Entry_22
@@ -197,19 +194,14 @@ Blackmails party into service
 - See also: [[step_064 (phase_090)
 - Requires [step_100 (phase_057)]]
 - Related:
-- Connects to [[Reality Stability Commission
-- Requires [NPC01782_Hilda_Grimholt_the_Cunning]]
-- Affected by [[NPC01136_Nerys_Blackstone_the_Lost
-- Affected by [INV 006]]
+- Connects to [[NPC01782_Hilda_Grimholt_the_Cunning]]
+- Affected by [[NPC01136_Nerys_Blackstone_the_Lost]]
 - Leads to [[gnoll-warrior-xmm
 - Parallels [step_051 (phase_083)]]
-- See also: [[NPC01765_Corvus_Jadeclaw_the_Guardian
-- See also: [step_003 (phase_035)]]
-- Influences [[Dimensional Fabric 2
-- Requires [LOC00127_Planes_Location_128]]
+- See also: [[NPC01765_Corvus_Jadeclaw_the_Guardian]]
+- Influences [[LOC00127_Planes_Location_128]]
 - Connects to
-- Parallels [[step_051 (phase_023)
-- Parallels [Quest - Two Minds, One Body]]
+- Parallels [[Quest - Two Minds, One Body]]
 - Originates from [[Crystal Navigation Tools (Items)
 - See also: [gold-dragon-xmm (legendary-group)]]
 - Affected by
@@ -233,19 +225,15 @@ Blackmails party into service
 - Connects to [step_044 (phase_019)]]
 - Parallels [[step_066 (phase_035)
 - Compare with [bard-xphb 2 (classes)]]
-- See also: [[NPC01105_Alaric_Crystalbrook_the_Scholar
-- Affected by [Scholar Thalosseus (D&D_References)]]
+- See also: [[NPC01105_Alaric_Crystalbrook_the_Scholar]]
 - Affected by [[QUEST00013_Main_Quest_14
 - Parallels [SPELL00118_Nature_Spell_119]]
-- Related: [[list-spells-optional-features-gift-of-the-depths-xphb
-- Originates from [LOC00197_Towns_Location_198]]
+- Related: [[list-spells-optional-features-gift-of-the-depths-xphb]]
 - Compare with [[Location City Siren Maeve Echoborn Siren Maeve Echoborn.svg
 - Related:
 - See also: [QUEST00132_Main_Quest_133]]
-- Requires [[NPC01580_Malakai_Quicksilver_the_Wanderer
-- Parallels [Translator Polyglot Petra]]
-- Originates from [[ENC00152_Combat_Encounter_153
-- Requires [The Memory Meadows 2]]
+- Requires [[NPC01580_Malakai_Quicksilver_the_Wanderer]]
+- Originates from [[ENC00152_Combat_Encounter_153]]
 - Requires [[list-spells-classes-war-domain-xphb (lists)
 - Related: [Portrait NPC Working Class Citizens V1 Working Class Citizens.svg_1 (Portraits)]]
 - Parallels [[The Balance Keeper 2

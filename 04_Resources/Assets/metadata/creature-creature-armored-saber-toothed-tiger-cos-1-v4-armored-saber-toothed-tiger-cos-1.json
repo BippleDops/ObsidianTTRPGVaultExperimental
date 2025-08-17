@@ -25,5 +25,8 @@
   "alt_text": "Concept art of armored-saber-toothed-tiger-cos 1 with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-armored-saber-toothed-tiger-cos-1-v4-armored-saber-toothed-tiger-cos-1.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-armored-saber-toothed-tiger-cos-1-v4-armored-saber-toothed-tiger-cos-1.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:58.146Z",
+  "generationMethod": "ComfyUI"
 }

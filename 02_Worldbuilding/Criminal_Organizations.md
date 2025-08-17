@@ -65,13 +65,8 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Consequence Chain 5 - Marina Identity Revelation
-- [Reputation System]]
-- [[Abyssos Prime Docks
-- [Depth Wardens]]
-- [[Harbor District Customs House
-- [Maelstrom Palace]]
-- [[Reflection Pools - Surgical Theater
-- [Shadow Market Canals]]
-- [[The Crystal Wardens
-- [The Free Current]]
+- [[Consequence Chain 5 - Marina Identity Revelation]]
+- [[Abyssos Prime Docks]]
+- [[Harbor District Customs House]]
+- [[Reflection Pools - Surgical Theater]]
+- [[The Crystal Wardens]]

@@ -25,5 +25,8 @@
   "alt_text": "Concept art of ice-troll-rot with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-ice-troll-rot-v3-ice-troll-rot.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-ice-troll-rot-v3-ice-troll-rot.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:04:59.036Z",
+  "generationMethod": "ComfyUI"
 }

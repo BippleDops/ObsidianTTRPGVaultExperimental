@@ -171,14 +171,11 @@ Seeks rare merchandise
 - Related: [lost-sorrowsworn-mpmm (monstrosity)]]
 - Requires [[Location City Causality Shadow Causality Shadow.png
 - Parallels [SPELL00152_Divine_Spell_153]]
-- Compare with [[Dimensional Fabric (D&D_References)
-- See also: [Enterprise Director Duskwork 2]]
+- Compare with [[Dimensional Fabric (D&D_References)]]
 - Parallels [[LOC0146_Marshhollow
 - Originates from [Cross-Cultural Legal Association (02_Worldbuilding)]]
-- Connects to [[Void Between Pressures (D&D_References)
-- Originates from [step_037 (phase_097)]]
-- Originates from [[step_053 (phase_066)
-- Leads to [Supernatural Influence (D&D_References)]]
+- Connects to [[Void Between Pressures (D&D_References)]]
+- Originates from [[Supernatural Influence (D&D_References)]]
 - Parallels [[Item Artifact Spell Gem Lapis Lazuli Oota V3 Spell Gem Lapis Lazuli Oota.png
 - See also: [step_040 (phase_060)]]
 - Connects to [[Assets Locations Location City Pressure Point Settlement V1 Pressure Point Settlement.svg
@@ -189,8 +186,7 @@ Seeks rare merchandise
 - Parallels [House Mercurial]]
 - Originates from [[Quest - Harbor Security_1 (01_Adventures)
 - Affected by [step_097 (phase_036)]]
-- Affected by [[Shadow Liberation Front (D&D_References)
-- Requires [step_051 (phase_062)]]
+- Affected by [[Shadow Liberation Front (D&D_References)]]
 - Compare with [[LORE00240_History_Entry_241
 - Leads to [ring-of-x-ray-vision-xdmg (items)]]
 - Influences [[QUEST00292_Side_Quest_293
@@ -209,34 +205,27 @@ Seeks rare merchandise
 - See also: [Jenkin Fastwind]]
 - Related: [[MON00000_Undead_Creature_1
 - Originates from [World Map]]
-- Compare with [[Equipment Development Workshops
-- Influences [Fey Nobilit]]
+- Compare with [[Equipment Development Workshops]]
 - Requires
-- Requires [[NPC00572_Zephyr_Thornweave_the_Risen
-- Parallels [QUEST00194_Side_Quest_195]]
-- Influences [[Boon of Energy Resistance Xphb
-- Originates from [Senator's Widow Marcella (D&D_References)]]
+- Requires [[NPC00572_Zephyr_Thornweave_the_Risen]]
+- Influences [[Senator's Widow Marcella (D&D_References)]]
 - Parallels [[Public Works Yard (D&D_References)
 - Related: [Portrait NPC Embassy of Eternal Shadows V1 Embassy of Eternal Shadows.svg_1 (Portraits)]]
 - Related:
 - Related: [[ITEM00826_Time-worn_Crown_of_Truth
 - See also: [Linen 1 Sq Yd Xdmg]]
-- Compare with [[Political Parties of Aquabyssos
-- Requires [Shadow Citizenship Act (D&D_References)]]
+- Compare with [[Shadow Citizenship Act (D&D_References)]]
 - Requires [[ioun-stone-xdmg (items)
 - Requires [step_015 (phase_005)]]
 - Compare with [[Identity Anchor
 - Influences [ITEM00486_Warded_Gauntlets_of_Resistance]]
 - See also: [[kraken-xmm (legendary-group)
 - Influences [The Crystalline Wastes_1]]
-- Requires [[NPC00753_Branwen_Ashford_the_Mystic
-- Related: [Emergency Management Services]]
+- Requires [[NPC00753_Branwen_Ashford_the_Mystic]]
 - Leads to [[Location City Siren Maeve Echoborn Siren Maeve Echoborn.svg
 - Originates from [Duchess Elara Brightwater]]
-- See also: [[Divination Xphb
-- Parallels [ENC00264_Combat_Encounter_265]]
-- Requires [[data_content_validator.py
-- Parallels [Elena Truelight]]
+- See also: [[ENC00264_Combat_Encounter_265]]
+- Requires [[data_content_validator.py]]
 - See also: [[04_Resources_Assets_Locations_location-city-the-luminous-dawn-cathedral-v1-the-luminous-dawn-cathedral.svg
 - Connects to [The Restoration of Crystal Grove (D&D_References)]]
 - Related: [[step_032 (phase_038)
@@ -255,10 +244,8 @@ Seeks rare merchandise
 - Leads to
 - Originates from [[flame-tongue-xdmg (items)
 - Originates from [The_Perfect_Symbiosis.png]]
-- Related: [[elf-names-female-adult-xge (tables)
-- Influences [NPC00108_Aeliana_Ironforge_the_Wanderer]]
-- Compare with [[Template-Group.md
-- Influences [The Battlefield Convergence]]
+- Related: [[NPC00108_Aeliana_Ironforge_the_Wanderer]]
+- Compare with [[The Battlefield Convergence]]
 - See also: [[Military Coordinator Strong
 - Influences [The Crystalline Wastes]]
 

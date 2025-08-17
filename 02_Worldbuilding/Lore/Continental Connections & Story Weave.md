@@ -115,5 +115,4 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Campaign_Relationship_Matrix
-- [Master_Lore_Index]]
+- [[Campaign_Relationship_Matrix]]

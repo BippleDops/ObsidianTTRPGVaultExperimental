@@ -154,8 +154,7 @@ Discovered something valuable
 
 - Affected by [[step_072 (phase_043)
 - Originates from [Groundling 2]]
-- Connects to [[NPC01651_Cedric_Winterborn_the_Seeker
-- Requires [step_094 (phase_063)]]
+- Connects to [[NPC01651_Cedric_Winterborn_the_Seeker]]
 - Influences [[LORE00284_Prophecies_Entry_285
 - Influences [Shadow Energy Sources]]
 - Parallels [[Asset_Database 2 (Assets)
@@ -164,31 +163,26 @@ Discovered something valuable
 - Related: [LOC00244_Wilderness_Location_245]]
 - Compare with [[step_067 (phase_076)
 - Leads to [step_085 (phase_099)]]
-- Related: [[Scholars of Divine Lore
-- Affected by [Imperial Seals]]
+- Related: [[Scholars of Divine Lore]]
 - Originates from [[SPELL00003_Divine_Spell_4
 - Leads to [SPELL00158_Nature_Spell_159]]
 - Originates from [[Border Fortresses (D&D_References)
 - Affected by [NPC01743_Wynne_Keenblade_the_Seeker]]
 - Related: [[The Anonymous Protocol (D&D_References)
 - See also: [Treasure Hoard Challenge 1116 (tables)]]
-- Connects to [[medusa-xmm (monstrosity)
-- Related: [NPC00881_Qadim_Voidwalker_the_Strong]]
+- Connects to [[NPC00881_Qadim_Voidwalker_the_Strong]]
 - Influences [[Master Merchant Luna Fairweigh
 - Parallels [Monsters by Habitat Any Habitat Monsters Xmm]]
-- Connects to [[02-a-world-of-your-own (dungeon-masters-guide-2014)
-- Connects to [LOC00123_Dungeons_Location_124]]
+- Connects to [[02-a-world-of-your-own (dungeon-masters-guide-2014)]]
 - Originates from [[Surface-Underwater Trade
 - Originates from
 - Originates from [Faction_Symbols_&_Heraldry]]
 - Connects to [[step_031 (phase_074)
 - Requires [step_026 (phase_062)]]
-- Related: [[step_025 (phase_045)
-- Affected by [Working Class Culture and Traditions]]
+- Related: [[Working Class Culture and Traditions]]
 - Connects to [[Assets Portraits Portrait NPC Captain Echoing Thunder Captain Echoing Thunder.svg
 - Affected by [step_080 (phase_039)]]
-- Parallels [[step_014 (phase_008)
-- Requires [familiars-vgm (variant-rules)]]
+- Parallels [[familiars-vgm (variant-rules)]]
 - See also: [[QUEST00201_Personal_Quest_202
 - Originates from [LOC00069_Dungeons_Location_70]]
 - Compare with [[LOC00146_Towns_Location_147
@@ -220,10 +214,8 @@ Discovered something valuable
 - Originates from [step_089 (phase_096)]]
 - Influences [[Memory Crystals
 - Compare with [Giant Bat Xmm]]
-- Parallels [[step_006 (phase_055)
-- Compare with [Branching_Campaign_Paths (D&D_References)]]
-- See also: [[Heritage Archiv (D&D_References)
-- See also: [Crystal Heart of the Realm]]
+- Parallels [[Branching_Campaign_Paths (D&D_References)]]
+- See also: [[Heritage Archiv (D&D_References)]]
 - Parallels [[step_013 (phase_064)
 - Leads to [Session 21 (06_Sessions)]]
 - Originates from [[LOC00286_Cities_Location_287
@@ -232,8 +224,7 @@ Discovered something valuable
 - Leads to [Museums (D&D_References)]]
 - Compare with [[Random Encounters (D&D_Statblocks)
 - Compare with [Portrait NPC Duke Alexander Tidecrest V2 Duke Alexander Tidecrest.svg_1 (Portraits)]]
-- Influences [[Quest - The Great Integration 2
-- Related: [step_054 (phase_051)]]
+- Influences [[Quest - The Great Integration 2]]
 - Requires [[Marina Bridgewater 2
 - Affected by [step_095 (phase_024)]]
 - Compare with [[Admiral Cordelia Tidewright

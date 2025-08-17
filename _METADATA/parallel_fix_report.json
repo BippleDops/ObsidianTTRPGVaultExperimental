@@ -1,0 +1,10 @@
+{
+  "timestamp": "2025-08-17 18:11:33",
+  "statistics": {
+    "files_processed": 30074,
+    "links_fixed": 101,
+    "links_unfixable": 146156,
+    "files_in_index": 41203,
+    "files_with_ids": 671
+  }
+}

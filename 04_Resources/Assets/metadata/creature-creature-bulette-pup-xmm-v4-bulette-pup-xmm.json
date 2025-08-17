@@ -25,5 +25,8 @@
   "alt_text": "Concept art of bulette-pup-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-bulette-pup-xmm-v4-bulette-pup-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-bulette-pup-xmm-v4-bulette-pup-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:59:23.375Z",
+  "generationMethod": "ComfyUI"
 }

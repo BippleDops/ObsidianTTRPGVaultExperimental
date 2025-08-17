@@ -1,7 +1,6 @@
 ---
 
-title: Concepts [[Cosmic Truth
-type: [Lore]]
+title: Concepts [[Cosmic Truth]]
 tags:
 - lore
 - active

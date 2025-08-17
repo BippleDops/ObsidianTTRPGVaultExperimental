@@ -65,5 +65,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Aetheric Wind Songs
-- [Aetheric Wind Songs (D&D_References)]]
+- [[Aetheric Wind Songs (D&D_References)]]

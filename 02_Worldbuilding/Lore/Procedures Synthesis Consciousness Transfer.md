@@ -1,7 +1,6 @@
 ---
 
-title: Procedures [[Synthesis Consciousness Transfer
-type: [Lore]]
+title: Procedures [[Synthesis Consciousness Transfer]]
 tags:
 - lore
 - active

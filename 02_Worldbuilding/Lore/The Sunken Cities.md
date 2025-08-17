@@ -111,9 +111,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## References
 
 - [Abyssos Prime - Inverse Palace]]
-- [[Temporal Navigation
-- [The Pressure Conspiracy]]
-- [[The Sundering
-- [Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
-- [[Temporal Navigation (D&D_Statblocks)
-- [The Pressure Conspiracy (D&D_Statblocks)]]
+- [[The Pressure Conspiracy]]
+- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
+- [[The Pressure Conspiracy (D&D_Statblocks)]]

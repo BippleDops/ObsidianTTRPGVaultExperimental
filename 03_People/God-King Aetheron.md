@@ -271,6 +271,5 @@ ___
 
 ## References
 
-- [[The Final Choice
-- [The Final Choice (D&D_References)]]
+- [[The Final Choice (D&D_References)]]
 - [[The Final Choice 3 (D&D_References)]]

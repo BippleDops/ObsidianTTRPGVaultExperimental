@@ -162,8 +162,7 @@ Discovered something valuable
 
 - Connects to [[Assets Locations Location City Sister Morwyn V1 Sister Morwyn.svg
 - Compare with [step_094 (phase_097)]]
-- See also: [[Deepmind Medical Centers 2
-- Parallels [DUN00136_Dungeon_137]]
+- See also: [[Deepmind Medical Centers 2]]
 - Parallels [[QUEST00209_Side_Quest_210
 - Requires [Elf Names Male Adult Xge]]
 - Connects to [[step_059 (phase_083)
@@ -181,8 +180,7 @@ Discovered something valuable
 - Parallels [LOC00210_Planes_Location_211]]
 - Connects to [[location-city-crystal-keepers-crystal-keepers.svg
 - Affected by [Deep Expeditions 2]]
-- Parallels [[step_008 (phase_032)
-- Influences [Refugee Leader Maria Dispossessed]]
+- Parallels [[Refugee Leader Maria Dispossessed]]
 - Compare with [[Reality Anchoring (D&D_References)
 - Compare with [Portrait NPC High Tide Environmental Effects High Tide Environmental Effects.svg]]
 - Originates from [[Location City Conservatory of Memory Conservatory of Memory.svg
@@ -204,37 +202,30 @@ Discovered something valuable
 - Requires [step_039 (phase_066)]]
 - Affected by
 - Requires
-- Requires [[02-chapter-1-playing-the-game#Dropping Prone
-- Influences [Symbol Heraldry Information Exchange V1 Information Exchange.svg]]
+- Requires [[02-chapter-1-playing-the-game (players-handbook-2024)]]
 - Affected by [[step_051 (phase_051)
 - Originates from [Resonance Crystal]]
-- Parallels [[Abyss Currentbinder (D&D_References)
-- Compare with [actions#Dash]]
+- Parallels [[Abyss Currentbinder (D&D_References)]]
 - Influences [[step_079 (phase_034)
 - Requires [Assets Locations Location City Temple Scholar Depth Seer Temple Scholar Depth Seer.svg]]
 - Originates from [[step_065 (phase_029)
 - Related: [step_044 (phase_044)]]
-- Originates from [[QUEST00065_Personal_Quest_66
-- Affected by [step_096 (phase_097)]]
+- Originates from [[QUEST00065_Personal_Quest_66]]
 - Originates from [[Portrait NPC Harbor Master Luna Freedrift Harbor Master Luna Freedrift.svg
 - Originates from [step_093 (phase_027)]]
 - Originates from [[forgotten-realms-tymora (deities)
 - Connects to [MON00107_Aberrations_Creature_108]]
 - Connects to
-- Compare with [[The Healer's Persecution (D&D_References)
-- Originates from [step_081 (phase_046)]]
+- Compare with [[The Healer's Persecution (D&D_References)]]
 - Leads to [[Assets Locations Location City Navigator Flux V1 Navigator Flux.svg
 - Compare with [step_048 (phase_084)]]
-- See also: [[sled-xphb (items)
-- Influences [The Bone Palace of Sorrows]]
-- Originates from [[step_003 (phase_031)
-- Compare with [Democratic Legitimacy and Reform]]
+- See also: [[The Bone Palace of Sorrows]]
+- Originates from [[Democratic Legitimacy and Reform]]
 - Parallels [[step_066 (phase_056)
 - See also: [04_Resources_Assets_Symbols_symbol-heraldry-silverscale-consortium-silverscale-consortium.svg]]
 - Connects to [[Emergency Protocol
 - Requires [step_091 (phase_058)]]
-- Connects to [[Echo-Who-Was-Elena (D&D_References)
-- Parallels [Aethermoor Session 07 the Festival of Transformation]]
+- Connects to [[Aethermoor Session 07 the Festival of Transformation]]
 - Compare with [[desert-encounters-levels-510-xge (tables)
 - Parallels
 - Influences [step_006 (phase_035)]]
@@ -244,8 +235,7 @@ Discovered something valuable
 - Connects to [dwarf-duergar-mtf (races)]]
 - Compare with [[Cloak of Arachnida Xdmg
 - Compare with [Beholder Xmm (legendary-group)]]
-- Influences [[campaign-xphb (variant-rules)
-- Influences [Boon of Peerless Aim]]
+- Influences [[campaign-xphb (variant-rules)]]
 - Compare with [[Symbol Heraldry the Unnamed Watcher V1 the Unnamed Watcher.svg
 - Parallels [step_045 (phase_059)]]
 - Requires [[NPC0033_Helena_Stormwind
@@ -255,8 +245,7 @@ Discovered something valuable
 - Influences [[Dr Penumbra Voidheart
 - Influences [04_Resources_Assets_Locations_location-city-the--cathedral-the--cathedral.svg]]
 - Parallels
-- Affected by [[NPC00080_Branwen_Proudmore
-- Related: [ENC00085_Environmental_Encounter_86]]
+- Affected by [[ENC00085_Environmental_Encounter_86]]
 - Related: [[QUEST00357_Side_Quest_358
 - See also: [location-city-fire-crystal-v1-fire-crystal.svg]]
 - Compare with [[FAC00071_Cults_72

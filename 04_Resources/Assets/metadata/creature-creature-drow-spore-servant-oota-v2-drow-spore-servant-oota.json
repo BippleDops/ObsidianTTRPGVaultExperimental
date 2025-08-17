@@ -25,5 +25,8 @@
   "alt_text": "Concept art of drow-spore-servant-oota with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-drow-spore-servant-oota-v2-drow-spore-servant-oota.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-drow-spore-servant-oota-v2-drow-spore-servant-oota.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:01:14.662Z",
+  "generationMethod": "ComfyUI"
 }

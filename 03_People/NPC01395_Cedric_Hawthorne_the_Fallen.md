@@ -169,22 +169,17 @@ Has information about legendary item
 
 - Parallels [[Memory Recovery Specialist 2
 - Leads to [sword-of-answering-answerer (items)]]
-- Related: [[ENC0018_Random_Encounter_19
-- Influences [satyr-xmm (fey)]]
+- Related: [[ENC0018_Random_Encounter_19]]
 - Originates from [[step_065 (phase_017)
 - Leads to [step_016 (phase_026)]]
-- See also: [[Keeper of Contracts Minerva Bindingword
-- Connects to [step_021 (phase_071)]]
+- See also: [[Keeper of Contracts Minerva Bindingword]]
 - Leads to [[Location City Theological Education V1 Theological Education.svg
 - Requires [Innkeeper Mara Ironlung (D&D_References)]]
-- Compare with [[Aethermoor Navigation Crystal (D&D_References)
-- Compare with [ENC00087_Environmental_Encounter_88]]
-- Affected by [[The Deepmost Current (D&D_References)
-- Leads to [MON00030_Aberrations_Creature_31]]
+- Compare with [[Aethermoor Navigation Crystal (D&D_References)]]
+- Affected by [[The Deepmost Current (D&D_References)]]
 - Originates from [[Location City Acolyte Sister Tidal Deepfaith V1 Acolyte Sister Tidal Deepfaith.svg
 - Leads to [Ring of Three Wishes Xdmg]]
-- Originates from [[step_041 (phase_094)
-- Influences [NPC01510_Thalia_Youngblood_the_Cunning]]
+- Originates from [[NPC01510_Thalia_Youngblood_the_Cunning]]
 - Influences [[portrait-npc-queen-nerida-v2-queen-nerida.svg_1 (Portraits)
 - Related:
 - Originates from [NPC01065_Wynne_Hawthorne_the_Swift]]
@@ -203,24 +198,20 @@ Has information about legendary item
 - Connects to [[step_086 (phase_097)
 - Affected by
 - Requires [step_095 (phase_006)]]
-- See also: [[The Reality Monitor
-- Related: [Anatomy Master Dr Vera Shadowbody]]
-- Connects to [[LOC00146_Wilderness_Location_147
-- Influences [Interfaith_Council]]
+- See also: [[Anatomy Master Dr Vera Shadowbody]]
+- Connects to [[LOC00146_Wilderness_Location_147]]
 - Influences [[02_Worldbuilding_Groups_Order_of_Mirrors
 - Related: [The Shard Fragment]]
 - Connects to [[deep-rothe-mpmm (beast)
 - Originates from [statuette-of-saint-markovia-cos (items)]]
-- Requires [[step_060 (phase_062)
-- See also: [The Order of the Azure Flame]]
+- Requires [[The Order of the Azure Flame]]
 - Leads to [[gold-dragon-wyrmling-xmm (dragon)
 - Influences [step_038 (phase_095)]]
 - Connects to [[Weapon Master Xphb
 - Leads to [Assets Locations Location City Hybrid Communities Integration Hybrid Communities Integration.svg]]
 - Connects to [[Assets Locations Location City Ghost of Dr Thaddeus Brightwater Ghost of Dr Thaddeus Brightwater.svg
 - Parallels [catapult-munition-scc (items)]]
-- Connects to [[Grand Master Tempest Windvoic (D&D_References)
-- Requires [step_086 (phase_072)]]
+- Connects to [[Grand Master Tempest Windvoic (D&D_References)]]
 - See also: [[LOC00069_Planes_Location_70
 - Affected by [SPELL00081_Divine_Spell_82]]
 - Affected by [[Location City Quest Harbor Security Quest Harbor Security.svg
@@ -229,30 +220,24 @@ Has information about legendary item
 - Related: [LORE00057_History_Entry_58]]
 - Influences [[Lady Vivienne Thornwhisper (D&D_References)
 - Compare with [Location City the Neutral Current Tavern the Neutral Current Tavern.svg]]
-- Connects to [[NPC01570_Gareth_Emberfall_the_Scholar
-- Parallels [The Conductor (D&D_References)]]
+- Connects to [[NPC01570_Gareth_Emberfall_the_Scholar]]
 - Leads to [[Council of Depths (D&D_References)
 - Connects to
 - Affected by
 - Affected by [MON00152_Undead_Creature_153]]
 - Leads to [[NPC00244_Idris_Goldleaf_the_Risen
 - Compare with [step_093 (phase_067)]]
-- Originates from [[NPC01939_Orion_Nightfall_the_Bold
-- See also: [polar-bear-xmm]]
+- Originates from [[NPC01939_Orion_Nightfall_the_Bold]]
 - Leads to [[Portal_Home
 - Influences [04_Resources_Assets_Symbols_symbol-heraldry-the-stellar-confluence-the-stellar-confluence.svg]]
-- Leads to [[NPC00226_Gavril_Emberfall
-- Originates from
-- Connects to [Overmind Depth-Thought Eternal (D&D_References)]]
+- Leads to [[Overmind Depth-Thought Eternal (D&D_References)]]
 - Connects to
 - Influences [[Faction Trackerbas
 - Originates from [Location City Profit Crosscurrent Profit Crosscurrent.svg]]
 - Connects to [[step_059 (phase_029)
 - Leads to [Asset_Database (Assets)]]
-- Influences [[ENC00106_Social_Encounter_107
-- Requires [The Whisper Survivors]]
-- Connects to [[step_097 (phase_086)
-- Compare with [NPC01997_Aeliana_Frostwhisper_the_Fallen]]
+- Influences [[ENC00106_Social_Encounter_107]]
+- Connects to [[NPC01997_Aeliana_Frostwhisper_the_Fallen]]
 - Affected by [[step_027 (phase_011)
 - Requires [step_005 (phase_078)]]
 - Requires [[LORE00012_Legends_Entry_13
@@ -264,8 +249,7 @@ Has information about legendary item
 - Parallels [Tethyan Basin 2]]
 - Related: [[Current Riders Union
 - Parallels [QUEST00401_Side_Quest_402]]
-- Influences [[Ioun Stone Protection Xdmg
-- Related: [NPC00746_Gavril_Winterborn_the_Risen]]
+- Influences [[NPC00746_Gavril_Winterborn_the_Risen]]
 - Influences [[Void Suits]]
 
 ## Plot Hooks

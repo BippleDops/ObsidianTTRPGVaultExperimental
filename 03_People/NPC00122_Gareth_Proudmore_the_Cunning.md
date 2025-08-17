@@ -162,12 +162,9 @@ Seeks bodyguards for dangerous journey
 ## Connections
 
 - Leads to
-- Affected by [[NPC01051_Gareth_Nightfall_the_Broken
-- Leads to [LORE00089_Prophecies_Entry_90]]
-- Parallels [[LOC0052_Watchridge
-- Connects to [Cultural Festivals Committee (Groups)]]
-- Influences [[phoenix-mpmm (elemental)
-- Leads to [Deep_Mother_Subsystem (D&D_Statblocks)]]
+- Affected by [[NPC01051_Gareth_Nightfall_the_Broken]]
+- Parallels [[Cultural Festivals Committee (Groups)]]
+- Influences [[Deep_Mother_Subsystem (D&D_Statblocks)]]
 - Compare with [[Portrait NPC Duke Theron Depthguard Duke Theron Depthguard.svg
 - Related: [step_091 (phase_046)]]
 - Parallels [[step_083 (phase_094)
@@ -176,15 +173,13 @@ Seeks bodyguards for dangerous journey
 - Compare with [Memory Integration Devices (Items)]]
 - Leads to [[ITEM01286_Pure_Oil_of_Swiftness
 - Related: [step_030 (phase_094)]]
-- See also: [[Tiefling Glasya Mtf
-- See also: [Faction Relationship Web (D&D_References)]]
+- See also: [[Faction Relationship Web (D&D_References)]]
 - Requires [[bard-xphb-college-of-lore-xphb (classes)
 - Related: [Portrait NPC Archbishop Matthias Lightbringer V1 Archbishop Matthias Lightbringer.svg]]
 - Leads to
 - Parallels [[The Trench Speakers
 - Connects to [sahuagin-baron-xmm]]
-- Related: [[SPELL00155_Divine_Spell_156
-- Parallels [Culture Builde (D&D_References)]]
+- Related: [[Culture Builde (D&D_References)]]
 - Leads to [[settlement-tables-and-tracker-tavern-names-xdmg
 - Influences [Shadow Community Healthcare]]
 - See also: [[enspelled-armor-xdmg (items)
@@ -195,30 +190,25 @@ Seeks bodyguards for dangerous journey
 - Affected by
 - Connects to [[step_052 (phase_054)
 - Related: [step_088 (phase_004)]]
-- Influences [[step_091 (phase_011)
-- Related: [Memory Coral Reefs (D&D_References)]]
+- Influences [[Memory Coral Reefs (D&D_References)]]
 - Connects to [[Elemental Gem Yellow Diamond Xdmg
 - Compare with [Encounter_Builder (D&D_References)]]
 - Leads to [[Aetheric Wind Songs (Lore)
 - Affected by [Forgotten Realms Malar]]
-- Parallels [[ENC00054_Environmental_Encounter_55
-- Related: [Thought-Speaker Silent 2]]
+- Parallels [[ENC00054_Environmental_Encounter_55]]
 - Connects to [[step_075 (phase_095)
 - Parallels [List Optfeaturetype Ei]]
-- Parallels [[Goldspire Port (D&D_References)
-- Affected by [Strixhaven Mascots Scc]]
+- Parallels [[Goldspire Port (D&D_References)]]
 - Originates from [[step_082 (phase_047)
 - Originates from [The_Last_Dance.png]]
 - Compare with [[Inverted Ballroom Wing
 - Leads to [02_Worldbuilding_Groups_The_Reunification_Coalition]]
 - Connects to [[step_019 (phase_007)
 - Originates from [Healer Tide-Touch 2]]
-- Influences [[NPC01872_Qadim_Grimholt_the_Strong
-- Affected by [step_013 (phase_065)]]
+- Influences [[NPC01872_Qadim_Grimholt_the_Strong]]
 - See also: [[Elder Kythara 2
 - Influences [step_014 (phase_078)]]
-- Related: [[Commercial Hubs and Markets (D&D_References)
-- Compare with [6 Bestiary]]
+- Related: [[Commercial Hubs and Markets (D&D_References)]]
 - Compare with [[Lightly Armored Xphb
 - See also:
 - Parallels [spell-scroll-level-7-xdmg (items)]]
@@ -228,19 +218,13 @@ Seeks bodyguards for dangerous journey
 - Compare with [skills#Deception]]
 - Parallels [[Quest - Missing Shipments_1 (01_Adventures)
 - Compare with [location-city-royal-ports-v1-royal-ports.svg]]
-- Affected by [[Portrait NPC Deep... Related To: Local Political Structure Connected Plots: to Be Developed
-- Parallels
-- Related: [NPC01133_Hestara_Xendar_the_Broken]]
-- See also: [[Keeper of Crowns Lydia Starfall (D&D_References)
-- See also:
-- Compare with [Royal Academy of Arcane Art]]
-- See also: [[step_014 (phase_081)
-- Compare with [Biological Modification Guidance]]
+- Affected by [[Portrait NPC Deep... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- See also: [[Keeper of Crowns Lydia Starfall (D&D_References)]]
+- See also: [[Biological Modification Guidance]]
 - Related: [[Portrait NPC the Parasite Priests the Parasite Priests.svg_1 (Portraits)
 - Parallels
 - Connects to [Dr Tidal Depth]]
-- Requires [[NPC01784_Erasmus_Ravenheart_the_Wanderer
-- Parallels [robe-of-eyes-xdmg (items)]]
+- Requires [[NPC01784_Erasmus_Ravenheart_the_Wanderer]]
 - Parallels [[step_084 (phase_039)
 - Requires [The Memorial Garden 2]]
 - Compare with
@@ -250,10 +234,8 @@ Seeks bodyguards for dangerous journey
 - Leads to [Scene Scene Pressure Dome Festival Night V2 Pressure Dome Festival Night.svg]]
 - Parallels [[Depths Alliance
 - Leads to [studded-leather-armor-xphb (items)]]
-- Compare with [[Portrait NPC Sena... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Parallels [02_Worldbuilding_Items_Divination_Tools]]
-- Related: [[step_088 (phase_087)
-- Connects to [ENC00101_Environmental_Encounter_102]]
+- Compare with [[Portrait NPC Sena... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Related: [[ENC00101_Environmental_Encounter_102]]
 - Compare with [[Encounters
 - Influences [SHOP00051_Specialty_Shop_52]]
 - Influences [[Wyvern Poison Xdmg

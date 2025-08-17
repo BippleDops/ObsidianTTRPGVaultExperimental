@@ -41,11 +41,8 @@ updated: '2025-08-13T01:18:36.811516+00:00'
 
 - A noble needs help finding before winter
 - A document has gone missing and truth emerges
-- Strange sightings suggest a conspiracy ## Related Notes - [[Similar Topic 1
-
-- [Contrasting Approach]]
-- [[Advanced Version
-- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
+- Strange sightings suggest a conspiracy ## Related Notes - [[Contrasting Approach]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

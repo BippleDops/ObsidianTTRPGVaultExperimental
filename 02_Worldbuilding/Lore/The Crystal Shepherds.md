@@ -54,23 +54,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-### Oral_Tradition Improvements
-
-- Add folk tales and children's stories
-
-### Sensory Improvements
-
-- Add smells, sounds, and textures unique to this culture
-
-### Death_Customs Improvements
-
-- Detail funeral rites and afterlife beliefs
-
-## Overview
-
-02_Worldbuilding/[People]]/The Crystal Shepherds represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+- Describe how this culture exists in other [[region]]/The Crystal Shepherds represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ### Basic Information
 02_Worldbuilding/People/The Crystal Shepherds can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:

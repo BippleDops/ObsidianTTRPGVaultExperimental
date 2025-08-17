@@ -123,6 +123,5 @@ The Oracle represents a crucial aspect of the world's history, cosmology, or fun
 
 ## References
 
-- [[Mad Oracle Thessaly
-- [The Void Touched Depths]]
+- [[The Void Touched Depths]]
 - [[Whisper-Touched William]]

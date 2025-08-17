@@ -25,5 +25,8 @@
   "alt_text": "Concept art of storm-giant-xmm with anatomy, scale, and environment.",
   "realm": "aethermoor",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-storm-giant-xmm-storm-giant-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-storm-giant-xmm-storm-giant-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:09:44.508Z",
+  "generationMethod": "ComfyUI"
 }

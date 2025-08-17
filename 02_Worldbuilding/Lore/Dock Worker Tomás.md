@@ -4,8 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: "[Dock Worker Toma\u0301s]]"
+- [[Dock Worker Toma\u0301s]]"
 type: lore
 updated: 2025-08-14
 ---
@@ -51,5 +50,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[02_Worldbuilding_Lore_Dock_Worker_Tomás
-- [Aethermoor - Session 01 Blood in the Harbor]]
+- [[Aethermoor - Session 01 Blood in the Harbor]]

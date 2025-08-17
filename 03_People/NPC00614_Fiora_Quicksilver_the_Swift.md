@@ -162,34 +162,27 @@ Family member has gone missing
 - Related: [[step_096 (phase_030)
 - Requires [Portrait NPC Captain Dr Bloodletting V1 Captain Dr Bloodletting.svg]]
 - Related:
-- Originates from [[musket-xphb (items)
-- Requires [D-019 Oracle Whale Player (Encounters)]]
-- Requires [[Royal Redirection Corps
-- Originates from [Master Investigator Lysander Truthweaver]]
+- Originates from [[D-019 Oracle Whale Player (Encounters)]]
+- Requires [[Master Investigator Lysander Truthweaver]]
 - Requires [[portrait-npc-captain-rescue-v2-captain-rescue.svg
 - Requires [NPC00155_Hilda_Thornweave]]
 - Influences
 - Requires [[Random Settlements Known for Its
 - Parallels [step_006 (phase_054)]]
-- Connects to [[step_076 (phase_073)
-- Originates from [Harbor Master's Tower (D&D_References)]]
+- Connects to [[Harbor Master's Tower (D&D_References)]]
 - Requires
 - Influences [[Human Names German Female Xge
 - Parallels [Gloves of Missile Snaring Xdmg]]
-- Leads to [[The Temple of Flowing Waters
-- Requires [Vehicle Core Rules#12) Parasite Boarding & Biohazards]]
+- Leads to [[The Temple of Flowing Waters]]
 - Connects to [[step_004 (phase_053)
 - Leads to [step_070 (phase_005)]]
 - Compare with [[Portrait NPC Captain Mistwalker V1 Captain Mistwalker.svg
 - Affected by [blink-xphb (spells)]]
-- Affected by [[Lock Fragment (D&D_References)
-- Leads to [Military Intelligence 2]]
+- Affected by [[Lock Fragment (D&D_References)]]
 - Requires [[Oracle Pelagic Deepgaze
 - Affected by [Order of the Azure Flame]]
-- Affected by [[NPC00894_Malakai_Emberfall_the_Mystic
-- Connects to [Major Trading Companies (D&D_References)]]
-- Leads to [[The Chronicle Depths (D&D_References)
-- Affected by [step_065 (phase_031)]]
+- Affected by [[Major Trading Companies (D&D_References)]]
+- Leads to [[The Chronicle Depths (D&D_References)]]
 - Related: [[step_024 (phase_043)
 - Requires [Assets Locations Location City the Whispering Depths the Whispering Depths.svg]]
 - Affected by [[immovable-rod-xdmg (items)
@@ -198,8 +191,7 @@ Family member has gone missing
 - Affected by [Temple Ward]]
 - Connects to [[step_004 (phase_011)
 - Affected by [step_052 (phase_028)]]
-- Affected by [[The Merchant's Covenant 3 (D&D_References)
-- Requires [EVENT00083_Natural_Event_84]]
+- Affected by [[The Merchant's Covenant 3 (D&D_References)]]
 - Leads to [[Handout Handout Smuggler Ledger Page V2 Smuggler Ledger Page.png
 - Originates from [LOC0137_Peakstead]]
 - Compare with [[Portrait NPC the Bloodline Carrier V1 the Bloodline Carrier.svg
@@ -220,24 +212,19 @@ Family member has gone missing
 - Affected by [step_089 (phase_069)]]
 - Requires [[Merfolk (D&D_References)
 - Originates from [location-city-the-plague-ward-the-plague-ward.svg]]
-- Affected by [[Maestra Luminara Crystalweave
-- See also: [step_016 (phase_089)]]
+- Affected by [[Maestra Luminara Crystalweave]]
 - Compare with [[Reference Homebrew Items Items
 - Compare with [Memory Storm Random Events]]
-- Leads to [[basket-xphb (items)
-- Parallels [The Temple of Eternal Tides]]
+- Leads to [[The Temple of Eternal Tides]]
 - Requires [[Parts of a Stat Block Hit Dice by Size Xmm
 - Connects to [step_099 (phase_096)]]
-- Influences [[MON00034_Aberrations_Creature_35
-- Compare with [The Memory Garden]]
+- Influences [[MON00034_Aberrations_Creature_35]]
 - Related: [[Memory Crystals
 - See also: [step_046 (phase_008)]]
 - Requires [[House Shadowmere (Houses_and_Nobility)
 - Compare with [Location City the Purification Temples V1 the Purification Temples.svg]]
-- See also: [[Aquabyssos Agricultural University
-- Influences [step_084 (phase_039)]]
-- Compare with [[NPC01693_Kaelen_Crystalbrook_the_Risen
-- Originates from [Eldritch Blast Xphb]]
+- See also: [[Aquabyssos Agricultural University]]
+- Compare with [[NPC01693_Kaelen_Crystalbrook_the_Risen]]
 - Parallels [[Creature Creature Elemental Spirit Air Xphb V3 Elemental Spirit Air Xphb.png
 - Requires [ENC00195_Social_Encounter_196]]
 - Connects to [[EVENT00078_Political_Event_79
@@ -246,12 +233,10 @@ Family member has gone missing
 - Originates from [step_061 (phase_067)]]
 - Originates from [[LOC00189_Planes_Location_190
 - Connects to [item-artifact-warhammer-xphb-warhammer-xphb.png]]
-- Influences [[NPC00966_Thalia_Dawnstrider_the_Guardian
-- Leads to [Nonhuman Blibdoolpoolp]]
+- Influences [[NPC00966_Thalia_Dawnstrider_the_Guardian]]
 - Connects to [[EVENT00009_Political_Event_10
 - Parallels [step_077 (phase_088)]]
-- See also: [[step_059 (phase_052)
-- Influences [Character_Creation_Extended]]
+- See also: [[Character_Creation_Extended]]
 - Connects to [[Ambassador Elena Diplomatic
 - Originates from [Assets Locations Location City Abyssos Prime Inverse Palace Abyssos Prime Inverse Palace.svg]]
 - Connects to

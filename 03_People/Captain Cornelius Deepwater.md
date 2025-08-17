@@ -258,8 +258,7 @@ Mentioned in The Second Prophecy of Shadows
 
 ## References
 
-- [[Merchant Family Alliances
-- [Relationship Web Nuances]]
+- [[Merchant Family Alliances]]
 - [[Assets Art Palace Guard Captain Neutralis.png
 - [Assets Portraits Portrait NPC Master of Currents Poseidon Master of Currents Poseidon.svg]]
 - [[Assets Symbols Symbol Heraldry the Stellar Confluence the Stellar Confluence.svg]]

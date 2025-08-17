@@ -167,8 +167,7 @@ Requires champions for trial by combat
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -185,22 +184,15 @@ Requires champions for trial by combat
 
 - Connects to [[Location City Professor Marina Reefbuilder V1 Professor Marina Reefbuilder.svg
 - Connects to [Titan Foundationbearer]]
-- Connects to [[Services Crisis Containment
-- Requires [step_047 (phase_087)]]
-- Parallels [[tool-proficiencies-xge (variant-rules)
-- Requires [Layers of Carceri Xdmg]]
-- Originates from [[step_001 (phase_075)
-- Originates from
-- Parallels [The Silverscale Consortium 3 (D&D_References)]]
+- Connects to [[Services Crisis Containment]]
+- Parallels [[tool-proficiencies-xge (variant-rules)]]
+- Originates from [[The Silverscale Consortium 3 (D&D_References)]]
 - Connects to [[step_015 (phase_072)
 - Related: [step_049 (phase_048)]]
 - Parallels [[step_003 (phase_018)
 - Compare with [githzerai-monk-xmm (aberration)]]
-- See also: [[LOC00129_Planes_Location_130
-- Leads to [MON00047_Constructs_Creature_48]]
-- Parallels [[Killer Whale Xmm
-- Related:
-- Parallels [Political Intrigue of Meridian (D&D_References)]]
+- See also: [[MON00047_Constructs_Creature_48]]
+- Parallels [[Political Intrigue of Meridian (D&D_References)]]
 - Originates from [[step_016 (phase_052)
 - Influences [LORE00325_Prophecies_Entry_326]]
 - Requires [[Portrait NPC Working Class Citizens Working Class Citizens.svg_1 (Portraits)
@@ -210,41 +202,33 @@ Requires champions for trial by combat
 - Related: [step_047 (phase_010)]]
 - Connects to [[Portrait NPC Lord Flux the Inconsistent V2 Lord Flux the Inconsistent.svg
 - Leads to [04_Resources_Assets_Portraits_portrait-npc-captain-prism-shield-valeria-captain-prism-shield-valeria.svg_Quick_Ref]]
-- Connects to [[Surface Portal Alpha (D&D_References)
-- Leads to [Paradox Engineer Tesla Impossibility]]
+- Connects to [[Surface Portal Alpha (D&D_References)]]
 - See also: [[Marina Swiftfin (D&D_References)
 - Compare with [ENC00084_Social_Encounter_85]]
-- Influences [[step_079 (phase_007)
-- See also: [ITEM0017_Blessed_Crown_of_Power]]
+- Influences [[ITEM0017_Blessed_Crown_of_Power]]
 - Requires [[Portrait NPC Quest the Ancient Compact Quest the Ancient Compact.svg
 - Connects to [Sister Benthos Scrollheart (D&D_References)]]
 - Requires
 - Related: [[Dwarves in the Clan Clans Notable Trait Mtf
 - Connects to [MON00142_Constructs_Creature_143]]
-- Originates from [[The Order of Silent Depths
-- Related: [step_027 (phase_053)]]
-- Requires [[NPC00621_Cedric_Winterborn_the_Risen
-- Related: [step_093 (phase_094)]]
+- Originates from [[The Order of Silent Depths]]
+- Requires [[NPC00621_Cedric_Winterborn_the_Risen]]
 - Related: [[The Great Cataloguing
 - Parallels [Location City the Sunken Senate V1 the Sunken Senate.svg]]
 - Connects to [[step_070 (phase_004)
 - Affected by [LOC00004_Planes_Location_5]]
-- Originates from [[Session 3 - Memories Lost and Found
-- Leads to [LOC00203_Planes_Location_204]]
-- Originates from [[LOC00196_Towns_Location_197
-- Related: [Quetzalcoatlus Mpmm]]
+- Originates from [[Session 3 - Memories Lost and Found]]
+- Originates from [[LOC00196_Towns_Location_197]]
 - Leads to [[charm-of-restoration-xdmg (rewards)
 - Connects to [ENC00482_Combat_Encounter_483]]
-- Leads to [[LOC00081_Towns_Location_82
-- Affected by [NPC01479_Kaelen_Voidwalker_the_Cunning]]
+- Leads to [[NPC01479_Kaelen_Voidwalker_the_Cunning]]
 - Parallels [[Location City Cora Peaceweaver Cora Peaceweaver.svg
 - Parallels [SPELL00062_Nature_Spell_63]]
 - Originates from [[Aboleth Xmm (legendary-group)
 - Parallels [Location City the Progressive Coalition Headquarters the Progressive Coalition Headquarters.svg]]
 - Connects to [[README
 - Leads to [step_079 (phase_081)]]
-- Affected by [[Consequence Chain 3 Reality Merger Diplomatic Crisis (Lore)
-- Requires [Lumina Crystal]]
+- Affected by [[Consequence Chain 3 Reality Merger Diplomatic Crisis]]
 - Related: [[Location City Undead Rights Organization Hq V1 Undead Rights Organization Hq.svg
 - Parallels
 - Parallels [Magic Item Table I]]
@@ -252,14 +236,12 @@ Requires champions for trial by combat
 - Connects to [location-city-sister-morwyn-v1-sister-morwyn.svg]]
 - Leads to [[location-city-into-the-blue-into-the-blue.svg
 - Parallels [Brother Pelagios Irondeep]]
-- Connects to [[step_044 (phase_069)
-- Related: [The Crystal Academy Council]]
+- Connects to [[The Crystal Academy Council]]
 - Connects to [[knock-xphb (spells)
 - Affected by [The Umbral Nexus]]
 - Originates from [[Location City Sage Gentlespice Sage Gentlespice.svg
 - Affected by [ENC00398_Combat_Encounter_399]]
-- Connects to [[Withered Court
-- Leads to [NPC00864_Thalia_Ravenheart_the_Wanderer]]
+- Connects to [[NPC00864_Thalia_Ravenheart_the_Wanderer]]
 - Compare with [[Assets Locations Location City Memory Heist V1 Memory Heist.svg
 - Compare with [Consequence_Chain_Template]]
 - Compare with [[step_007 (phase_063)
@@ -268,8 +250,7 @@ Requires champions for trial by combat
 - Affected by [gith-names-githyanki-female-mtf (tables)]]
 - Affected by [[step_016 (phase_048)
 - Affected by [Ioun Stone Mastery Xdmg]]
-- Requires [[Scholar Thalosseus (D&D_References)
-- Compare with [LORE00092_Legends_Entry_93]]
+- Requires [[Scholar Thalosseus (D&D_References)]]
 - Related: [[ENC00418_Combat_Encounter_419
 - Related: [Festival Calendar Complete]]
 - Originates from [[step_030 (phase_035)
@@ -278,10 +259,8 @@ Requires champions for trial by combat
 - Requires [Angel of the Depths (D&D_References)]]
 - Leads to [[Whisper Island
 - Influences [step_047 (phase_080)]]
-- Related: [[The Seven Breathing Stones 2
-- Parallels [NPC00715_Alaric_Stormwind_the_Wanderer]]
-- Originates from [[NPC00080_Branwen_Proudmore
-- Parallels [step_002 (phase_070)]]
+- Related: [[NPC00715_Alaric_Stormwind_the_Wanderer]]
+- Originates from [[NPC00080_Branwen_Proudmore]]
 - Parallels [[NPC01834_Fiora_Voidwalker_the_Strong
 
 ## Visual References

@@ -1,7 +1,6 @@
 ---
 
-title: [[The Drowning Welcome
-type: [Lore]]
+title: [[The Drowning Welcome]]
 tags:
 - lore
 - both

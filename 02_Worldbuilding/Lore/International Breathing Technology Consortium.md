@@ -4,23 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: International Breathing Technology Consortium
-type: lore
-updated: 2025-08-14
----
-
-# International Breathing Technology Consortium
-
-## Overview
-This document contains important information regarding International Breathing Technology Consortium and its role within the greater narrative.
-
-## Description
-International Breathing Technology Consortium represents a significant element within the campaign world, offering various opportunities for engagement and development.
-
-## Key Information
-- **Primary Purpose**: Serves specific function within the world
-- **Connections**: [Link]]ed to multiple other elements
+- [[International Breathing Technology Consortium]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details

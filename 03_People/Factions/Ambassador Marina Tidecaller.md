@@ -202,5 +202,4 @@ Things widely suspected
 
 - [[Order of the Drowned Star (Orders)
 - [Cross-Realm Etiquette Guide]]
-- [[Order of the Drowned Star
-- [Cross-Realm Etiquette Guide (D&D_References)]]
+- [[Cross-Realm Etiquette Guide (D&D_References)]]

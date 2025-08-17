@@ -187,8 +187,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [Surface Reconnection Coalition]]
 - Compare with [[step_083 (phase_077)
 - Related: [Boots of the Winterlands Xdmg]]
-- See also: [[step_056 (phase_059)
-- Affected by [Reality Monitoring Specialists (D&D_References)]]
+- See also: [[Reality Monitoring Specialists (D&D_References)]]
 - Influences [[step_052 (phase_017)
 - See also: [Eberron Olladra]]
 - See also: [[step_044 (phase_082)
@@ -202,41 +201,31 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [Aquabyssos]]
 - Parallels [[Marine Environmental Institute
 - Parallels [NPC01837_Idris_Ashford_the_Bold]]
-- Requires [[step_011 (phase_020)
-- See also: [Pearl Merchant Tidal Goldflow]]
-- Influences [[step_024 (phase_062)
-- Leads to [LOC00123_Planes_Location_124]]
+- Requires [[Pearl Merchant Tidal Goldflow]]
+- Influences [[LOC00123_Planes_Location_124]]
 - Compare with [[Whisper-Witch Naia Softcurrent 2
 - Affected by [QUEST00270_Personal_Quest_271]]
-- Leads to [[NPC01287_Solas_Crystalbrook_the_Seeker
-- Parallels [QUEST00195_Side_Quest_196]]
-- Leads to [[step_029 (phase_094)
-- Leads to [The Amnesia Rehabilitation Centers (D&D_References)]]
-- Affected by [[Crystal Palace (D&D_References)
-- Leads to [Heart Grove]]
-- Originates from [[QUEST00060_Side_Quest_61
-- Requires [Umbral Scholar Valentina Depthlore (D&D_References)]]
+- Leads to [[NPC01287_Solas_Crystalbrook_the_Seeker]]
+- Leads to [[The Amnesia Rehabilitation Centers (D&D_References)]]
+- Affected by [[Crystal Palace (D&D_References)]]
+- Originates from [[Umbral Scholar Valentina Depthlore (D&D_References)]]
 - Affected by [[Portrait NPC Goldwave Financial Offices Goldwave Financial Offices.svg
 - Related: [step_081 (phase_093)]]
 - Compare with [[hit-points-hit-dice-by-size-mm (tables)
 - See also: [The Deep Defense Project]]
-- Parallels [[SPELL0049_Divine_Binding
-- Connects to [Keeper of the Past Elderly Morgan]]
+- Parallels [[Keeper of the Past Elderly Morgan]]
 - Connects to [[tinderbox-xphb (items)
 - Leads to [Location City Exchange Fairflow Exchange Fairflow.svg]]
 - Parallels [[step_074 (phase_039)
 - Related:
 - Affected by [Hell Hound Xmm]]
-- Connects to [[Thermal Shields
-- Affected by [NPC01509_Faelyn_Ironforge_the_Scholar]]
+- Connects to [[NPC01509_Faelyn_Ironforge_the_Scholar]]
 - Requires
 - Connects to [[potion-of-poison-xdmg (items)
 - Connects to [Aquabyssos_Content (02_Worldbuilding)]]
 - Affected by
-- Compare with [[NPC00787_Cedric_Voidwalker_the_Scholar
-- Compare with [The Void Currents (Lore)]]
-- Related: [[step_054 (phase_030)
-- Affected by [ENC00092_Environmental_Encounter_93]]
+- Compare with [[NPC00787_Cedric_Voidwalker_the_Scholar]]
+- Related: [[ENC00092_Environmental_Encounter_93]]
 - Affected by [[figurine-of-wondrous-power-bronze-griffon-xdmg
 - See also: [1-introduction (lost-mine-of-phandelver)]]
 - Influences [[Assets Locations Location City Shadow Current V1 Shadow Current.svg
@@ -247,8 +236,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from
 - Related: [[list-spells-feats-ritual-caster-xphb (lists)
 - Influences [step_079 (phase_093)]]
-- Influences [[Vehicle Core Rules#12) Parasite Boarding & Biohazards
-- Leads to [The Phantom Lighthouse 2]]
+- Influences [[Vehicle_Core_Rules]]
 - Compare with [[step_008 (phase_082)
 - Leads to [step_052 (phase_086)]]
 - Compare with [[step_013 (phase_096)
@@ -258,8 +246,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [Assets Portraits Portrait NPC the Reality Sick Mayor Lord Quantum Aldrich the Reality Sick Mayor Lord Quantum Aldrich.svg]]
 - Parallels [[step_049 (phase_018)
 - Compare with [step_088 (phase_095)]]
-- Compare with [[NPC01952_Branwen_Brightblade_the_Wise
-- See also: [Valley of Eternal Mourning]]
+- Compare with [[NPC01952_Branwen_Brightblade_the_Wise]]
 - Connects to [[Gold Statuette Set With Rubies Xdmg
 - Affected by [NPC2]]
 - Influences [[Tradeway Road

@@ -163,11 +163,9 @@ Needs help with personal quest
 
 ## Connections
 
-- Connects to [[Sage Gentlespice
-- Parallels [Temple of Perpetual Tides 2]]
+- Connects to [[Temple of Perpetual Tides 2]]
 - See also:
-- Related: [[Pregenerated_Characters.md (The_Seven_Shards_Campaign)
-- Compare with [Training Supervisor Learning Moment (D&D_References)]]
+- Related: [[Training Supervisor Learning Moment (D&D_References)]]
 - Requires [[step_039 (phase_094)
 - Leads to [Guardian of Faith Xphb]]
 - Affected by
@@ -179,8 +177,7 @@ Needs help with personal quest
 - Requires [step_015 (phase_056)]]
 - Parallels [[Landmark_Generator
 - Leads to [MON0021_Crystal_Howler]]
-- Related: [[NPC00350_Pyria_Brightblade
-- Requires [Law Enforcement 3]]
+- Related: [[NPC00350_Pyria_Brightblade]]
 - See also: [[Defense Captain Ironguard
 - See also: [Cloud Shepherd Guild]]
 - Connects to [[step_097 (phase_099)
@@ -191,47 +188,34 @@ Needs help with personal quest
 - Originates from [ENC0065_Random_Encounter_66]]
 - Leads to [[umber-hulk-xmm (monstrosity)
 - Compare with [Silvery Barbs Scc]]
-- Originates from [[The Last Guardian
-- Compare with [Portal Engineer Shade Linkwright]]
-- Originates from [[Captain Prism-Shield Valeria (D&D_References)
-- See also: [Shadow Vale]]
-- Leads to [[Wand of Winter Hotdq
-- See also: [Encounter and Loot Generators]]
+- Originates from [[Portal Engineer Shade Linkwright]]
+- Originates from [[Captain Prism-Shield Valeria (D&D_References)]]
+- Leads to [[Encounter and Loot Generators]]
 - Affected by [[ENC00430_Combat_Encounter_431
 - Connects to [LOC00062_Cities_Location_63]]
-- Related: [[The Seven Shards Mystery (D&D_References)
-- Originates from [Judicial_System (D&D_References)]]
+- Related: [[The Seven Shards Mystery (D&D_References)]]
 - Related: [[Assets Locations Location City Legal Counsel Derek Lawkeeper Legal Counsel Derek Lawkeeper.svg
 - Connects to [Portrait NPC Embassy of Eternal Shadows V2 Embassy of Eternal Shadows.svg]]
-- Related: [[NPC00856_Malakai_Lightbringer_the_Strong
-- Affected by [NPC00525_Fiora_Proudmore_the_Wanderer]]
+- Related: [[NPC00856_Malakai_Lightbringer_the_Strong]]
 - Leads to [[The Great Submersion
 - Influences [DUN00159_Dungeon_160]]
 - Originates from [[step_021 (phase_091)
 - Connects to [Location City Transportation Guild V1 Transportation Guild.svg]]
-- Originates from [[SPELL00065_Nature_Spell_66
-- Influences [NPC01873_Baelor_Stormwind_the_Broken]]
+- Originates from [[NPC01873_Baelor_Stormwind_the_Broken]]
 - Affected by [[step_042 (phase_071)
 - See also: [LORE00154_Prophecies_Entry_155]]
 - Requires [[FAC00043_Cults_44
 - Parallels [Location City Quest Portal Conspiracy V1 Quest Portal Conspiracy.svg]]
-- See also: [[step_065 (phase_085)
-- Compare with [Crystal Plague Infection Tracking]]
-- See also: [[bountiful-luck-xge (feats)
-- Parallels [Shadow Medical License (D&D_References)]]
-- Compare with [[sleep-xphb (spells)
-- Leads to [Underwater Cuisine Techniques]]
-- See also: [[Funeral Directors Guild
-- Compare with [Ritual Redirection Options (D&D_References)]]
-- Leads to [[The Preservation Chamber
-- Parallels [Culture_Builder]]
+- See also: [[Crystal Plague Infection Tracking]]
+- See also: [[Shadow Medical License (D&D_References)]]
+- Compare with [[Underwater Cuisine Techniques]]
+- See also: [[Ritual Redirection Options (D&D_References)]]
+- Leads to [[The Preservation Chamber]]
 - Leads to [[vampiric-mist-mpmm (undead)
 - Influences [LORE00239_History_Entry_240]]
 - Compare with [[step_040 (phase_068)
 - Parallels [location-city-regional-courts-regional-courts.svg]]
-- Affected by [[step_016 (phase_050)
-- Connects to
-- Leads to [NPC01365_Vesper_Zephyrblade_the_Redeemed]]
+- Affected by [[NPC01365_Vesper_Zephyrblade_the_Redeemed]]
 - Affected by [[step_023 (phase_009)
 - Parallels [Portrait NPC the Cerulean Breath V2 the Cerulean Breath.svg_1 (Portraits)]]
 - Compare with [[step_090 (phase_072)
@@ -240,8 +224,7 @@ Needs help with personal quest
 - Leads to [step_090 (phase_093)]]
 - Originates from [[Assets Locations Location City Shadow Portal Nexus Shadow Portal Nexus.svg
 - Parallels [Embassy of Emptines (D&D_References)]]
-- Parallels [[Captain Echo (D&D_References)
-- Related: [Keeper Brinescale (D&D_References)]]
+- Parallels [[Keeper Brinescale (D&D_References)]]
 - Requires [[QUEST0068_The_Shadow_Realm_Invasion
 - See also: [Location City Garden Keeper Earthshade Garden Keeper Earthshade.svg]]
 - Requires [[Engineer Shadowbuild

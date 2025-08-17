@@ -25,5 +25,8 @@
   "alt_text": "Concept art of fire-giant-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-fire-giant-xmm-v4-fire-giant-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-fire-giant-xmm-v4-fire-giant-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:02:04.103Z",
+  "generationMethod": "ComfyUI"
 }

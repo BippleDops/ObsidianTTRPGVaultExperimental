@@ -168,12 +168,10 @@ Caravan needs guards
 - Related: [step_019 (phase_052)]]
 - See also: [[list-spells-classes-gloom-stalker-xphb (lists)
 - See also: [Portrait NPC Abyssal Cathedral V1 Abyssal Cathedral.svg_1 (Portraits)]]
-- Connects to [[NPC01917_Vesper_Jadeclaw_the_Broken
-- Connects to [Professional Monster Hunting]]
+- Connects to [[NPC01917_Vesper_Jadeclaw_the_Broken]]
 - Affected by [[step_011 (phase_085)
 - Influences [Location City Chief Engineer Marina Crystalwright Chief Engineer Marina Crystalwright.svg]]
-- Connects to [[The Vault Keepers 2
-- Affected by [10 combat#Dropping_to_0_Hit_Points#Stabilizing_a_Creature]]
+- Connects to [[The Vault Keepers 2]]
 - Leads to
 - Affected by [[NPC0183_Xara_Brightblade
 - Influences [Random Magic Items Relics]]
@@ -188,8 +186,7 @@ Caravan needs guards
 - Influences [step_089 (phase_050)]]
 - Leads to [[leatherworkers-tools-xphb (items)
 - Compare with [LOC0127_NewWatch]]
-- Leads to [[Tax Commissioner Merion Goldcount (D&D_References)
-- Requires [skills#Insight]]
+- Leads to [[Tax Commissioner Merion Goldcount (D&D_References)]]
 - Related: [[Patriarch Valdris Lightbringer (D&D_References)
 - Leads to [Symbol Heraldry the Anonymous Accords the Anonymous Accords.svg]]
 - Influences [[healers-kit-xphb (items)
@@ -206,8 +203,7 @@ Caravan needs guards
 - Leads to [09 Templates]]
 - Affected by [[Leatherworkers Tools Xphb
 - See also: [Purist Coalition Thugs 2]]
-- Parallels [[Cultural Exchange
-- Affected by [Biological Enhancement Procedures 2]]
+- Parallels [[Biological Enhancement Procedures 2]]
 - Compare with [[The Crystal Networks
 - Compare with [Portrait NPC the Reality Sick Mayor Lord Quantum Aldrich the Reality Sick Mayor Lord Quantum Aldrich.svg]]
 - Related: [[step_019 (phase_031)
@@ -218,8 +214,7 @@ Caravan needs guards
 - Affected by [Myconid Adult Xmm]]
 - Connects to [[Quest - War of Tides
 - Affected by [step_050 (phase_092)]]
-- See also: [[step_024 (phase_034)
-- Leads to [NPC01126_Malakai_Oakenshield_the_Fallen]]
+- See also: [[NPC01126_Malakai_Oakenshield_the_Fallen]]
 - See also: [[cloak-of-the-manta-ray-xdmg (items)
 - Influences [Trade Route Establishment]]
 - Affected by [[LORE00010_Legends_Entry_11
@@ -232,8 +227,7 @@ Caravan needs guards
 - Parallels [ITEM01104_Lesser_Potion_of_Swiftness]]
 - Requires [[step_044 (phase_016)
 - Parallels [citrine-xdmg (items)]]
-- Compare with [[Lighthouse Keeper Finn Deepbeacon (D&D_References)
-- See also: [NPC00042_Vesper_Grimholt]]
+- Compare with [[Lighthouse Keeper Finn Deepbeacon (D&D_References)]]
 - Affected by [[LOC00203_Dungeons_Location_204
 - Compare with
 - Influences [entertainer-gladiator-variant (backgrounds)]]
@@ -257,10 +251,8 @@ Caravan needs guards
 - Compare with [Corrupted Government Reflections 2]]
 - Leads to [[Currency Exchanger Goldshift
 - Compare with [Assets Locations Location City Palace Guardians V1 Palace Guardians.svg]]
-- Compare with [[NPC00430_Ewan_Proudmore_the_Wise
-- Requires [Quartermaster Sterling Suppystone 2]]
-- Connects to [[Egyptian Set
-- Influences [The Drowning (D&D_References)]]
+- Compare with [[Quartermaster Sterling Suppystone 2]]
+- Connects to [[The Drowning (D&D_References)]]
 - Originates from [[SPELL00104_Divine_Spell_105
 - See also: [Portrait NPC Quest the Perfect Purifier Quest the Perfect Purifier.svg]]
 - Compare with [[Medical Combat Manual 2

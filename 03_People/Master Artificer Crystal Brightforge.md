@@ -112,8 +112,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Influences [Medical Combat Manual 2]]
 - Connects to [[Quiver Xphb
 - Originates from [step_097 (phase_045)]]
-- Connects to [[Quest - The Blackmail Papers
-- Compare with [step_027 (phase_032)]]
+- Connects to [[Quest - The Blackmail Papers]]
 - Parallels [[SHOP00015_General_Shop_16
 - Requires [step_040 (phase_076)]]
 - Originates from [[step_098 (phase_030)
@@ -129,12 +128,10 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Related: [[NPC01568_Lyanna_Winterborn_the_Strong
 - Requires [Portrait NPC Sacred Healing Gardens V1 Sacred Healing Gardens.svg]]
 - Parallels
-- Compare with [[10-combat#Dropping to 0 Hit Points#Instant Death
-- Requires [Symbol Heraldry Mag... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Compare with [[10-combat#Surprise]]
 - Connects to [[Assets Locations Location City Comparative Religion Comparative Religion.svg
 - Parallels [Research Director Past Future (D&D_References)]]
-- Affected by [[Communications Master Signal Cryptkeeper (D&D_References)
-- Affected by [NPC01110_Wynne_Hawthorne_the_Redeemed]]
+- Affected by [[Communications Master Signal Cryptkeeper (D&D_References)]]
 - Originates from [[Master Chef Coral Seasweaver
 - Connects to [Locations the Meditation Spheres]]
 - See also: [[monsters-by-habitat-coastal-monsters-xmm (tables)
@@ -150,41 +147,32 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - See also:
 - Related: [[Assets Locations Location City Senator Bartholomew Bonewright V1 Senator Bartholomew Bonewright.svg
 - Leads to [QUEST00069_Personal_Quest_70]]
-- Related: [[NPC01745_Felicia_Oakenshield_the_Scholar
-- Parallels [The Memory Meadows Black Market]]
-- Originates from [[Fresh Cleanwave
-- Parallels [Skywind Cloak (D&D_References)]]
+- Related: [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- Originates from [[Skywind Cloak (D&D_References)]]
 - Connects to [[Falling Portcullis Xge
 - Influences [amber-golem-cos (construct)]]
 - Compare with [[Dungeon Delver
 - Influences [Location City Temporal Navigation Temporal Navigation.svg]]
-- Compare with [[Established Family Communitie
-- Parallels [items (items)]]
+- Compare with [[Established Family Communitie]]
 - See also: [[SHOP00048_Specialty_Shop_49
 - Originates from [step_057 (phase_006)]]
 - Related: [[Portrait NPC Gallery Guide Captain Marina Civicvoice V1 Gallery Guide Captain Marina Civicvoice.svg
 - Affected by [step_031 (phase_026)]]
-- Related: [[LOC00050_Wilderness_Location_51
-- Originates from [Captain Marina Saltborn (D&D_References)]]
+- Related: [[Captain Marina Saltborn (D&D_References)]]
 - Compare with [[Water Elemental Myrmidon Mpmm
 - Requires [ITEM00282_Blessed_Staff_of_Slaying]]
 - Originates from [[step_030 (phase_046)
 - Requires [step_078 (phase_089)]]
-- Requires [[SPELL00163_Nature_Spell_164
-- Connects to [Portrait NPC Fina... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
-- Connects to [[Quest - The Divine Test_1 (01_Adventures)
-- Requires [Chief Marine Engineer Coral Seaforge (D&D_References)]]
+- Requires [[Portrait NPC Fina... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Connects to [[Chief Marine Engineer Coral Seaforge (D&D_References)]]
 - Parallels [[conditions (CLI_Reference)
 - Originates from [smiths-tools-xphb (items)]]
 - Leads to [[female-steeder-mpmm (monstrosity)
 - Influences [The Exchange Point]]
-- Leads to [[Pressure Engineers (D&D_References)
-- Leads to
-- Influences [step_050 (phase_020)]]
+- Leads to [[Pressure Engineers (D&D_References)]]
 - Originates from [[Portrait NPC Keeper of the Shattered Crown Marcus Crystalvein V1 Keeper of the Shattered Crown Marcus Crystalvein.svg
 - Requires [04_Resources_Assets_Locations_location-city-dr-siphon-gillwater-v1-dr-siphon-gillwater.png]]
-- Leads to [[step_048 (phase_036)
-- Parallels [Marine Druids (D&D_References)]]
+- Leads to [[Marine Druids (D&D_References)]]
 - Influences [[Wizard Xphb School of Conjuration
 - Connects to [NPC00466_Vesper_Frostwhisper]]
 - Connects to [[step_062 (phase_080)
@@ -195,8 +183,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Influences [misty-step-xphb (spells)]]
 - Requires [[Assets Portraits Portrait NPC the Emperor S Memories the Emperor S Memories.svg
 - See also: [Portrait NPC Marina Red Tide Coralheart Aquabyssos V2 Marina Red Tide Coralheart Aquabyssos.svg_1 (Portraits)]]
-- Compare with [[Emperor Thalassius (D&D_References)
-- Influences [Time 2]]
+- Compare with [[Emperor Thalassius (D&D_References)]]
 - Influences [[QUEST00067_Side_Quest_68
 - Connects to [step_036 (phase_068)]]
 - See also: [[Portrait NPC Archdruid Thornweaver V2 Archdruid Thornweaver.svg

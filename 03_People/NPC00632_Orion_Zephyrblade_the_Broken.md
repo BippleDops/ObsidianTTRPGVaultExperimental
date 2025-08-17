@@ -177,8 +177,7 @@ Witnessed a crime
 - Compare with [rival-coin-xdmg (items)]]
 - Influences [[step_053 (phase_027)
 - Related: [ITEM01124_Greater_Incense_of_Vigor]]
-- Influences [[NPC01290_Pyria_Ashford_the_Broken
-- Influences [SPELL00130_Divine_Spell_131]]
+- Influences [[NPC01290_Pyria_Ashford_the_Broken]]
 - Requires
 - See also: [[The Stormcaller Chorus
 - Connects to [Assets Locations Location City Trade War Trade War.svg]]
@@ -189,16 +188,11 @@ Witnessed a crime
 - Leads to [LORE00051_History_Entry_52]]
 - Connects to [[Creature Creature Thorny Vegepygmy Mpmm V4 Thorny Vegepygmy Mpmm.png
 - Leads to [Duke Lysander Crystalvein (D&D_References)]]
-- Compare with [[FAC00058_Cults_59
-- Parallels [QUEST00109_Main_Quest_110]]
-- Parallels [[step_012 (phase_060)
-- Compare with [Shadow Integration Policy (D&D_References)]]
-- Compare with [[Compass Quest (D&D_References)
-- Affected by [The Unnatural Legion (D&D_References)]]
-- Affected by [[step_025 (phase_013)
-- Related: [Symbol Heraldry Sil... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- Affected by [[SPELL00062_Divine_Spell_63
-- Related: [step_096 (phase_048)]]
+- Compare with [[QUEST00109_Main_Quest_110]]
+- Parallels [[Shadow Integration Policy (D&D_References)]]
+- Compare with [[The Unnatural Legion (D&D_References)]]
+- Affected by [[Symbol Heraldry Sil... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Affected by [[SPELL00062_Divine_Spell_63]]
 - Parallels [[Figurine of Wondrous Power Xdmg
 - Affected by [human-names-german-female-xge (tables)]]
 - Affected by [[step_011 (phase_069)
@@ -207,8 +201,7 @@ Witnessed a crime
 - Connects to
 - Originates from [Assets Vehicles Vehicle Ship Hybrid Rift Runner Sloop V1 Hybrid Rift Runner Sloop.png]]
 - Compare with
-- Connects to [[LORE00039_Prophecies_Entry_40
-- Originates from [6-appendix-a-magic-items (lost-mine-of-phandelver)]]
+- Connects to [[6-appendix-a-magic-items (lost-mine-of-phandelver)]]
 - Connects to [[step_074 (phase_067)
 - Connects to [Symbol Heraldry Thalassa the Pathfinder Thalassa the Pathfinder.svg]]
 - See also: [[Symbol Heraldry Consortium Security Constructs Consortium Security Constructs.svg
@@ -216,18 +209,14 @@ Witnessed a crime
 - Parallels [Monster Conversions Stat Block Conversions]]
 - Related: [[portrait-npc-shadow-brokers-shadow-brokers.svg
 - Parallels [Assets Portraits Portrait NPC Captain Echoing Thunder Captain Echoing Thunder.svg]]
-- Requires [[NPC00736_Vesper_Underhill_the_Scholar
-- Affected by [Captain Rescue (D&D_References)]]
-- Influences [[Bio-Luminescent Threading (D&D_References)
-- Connects to [Archmage Tidal Currentweave (D&D_References)]]
+- Requires [[NPC00736_Vesper_Underhill_the_Scholar]]
+- Influences [[Archmage Tidal Currentweave (D&D_References)]]
 - Parallels [[psychic-blade-xphb (items)
 - Influences [SPELL00114_Arcane_Spell_115]]
-- Affected by [[Shadow Conspiracy Operations
-- Leads to [step_016 (phase_038)]]
+- Affected by [[Shadow Conspiracy Operations]]
 - Influences [[Location City Skyship Technology V1 Skyship Technology.svg
 - Parallels [Whisper Exposure (D&D_References)]]
-- Originates from [[QUEST00397_Side_Quest_398
-- Related: [step_054 (phase_058)]]
+- Originates from [[QUEST00397_Side_Quest_398]]
 - Related: [[ITEM00326_Frost_Dagger_of_Speed
 - Originates from [The Shadow Merchant Prim]]
 - Related: [[step_064 (phase_013)
@@ -251,8 +240,7 @@ Witnessed a crime
 - Parallels [gith-tables-githzerai-names-female-mtf (tables)]]
 - Connects to [[swarm-of-venomous-snakes-xmm
 - Influences [eberron-onatar (deities)]]
-- Parallels [[The Groundling Liberation Movement (D&D_References)
-- Leads to [QUEST00193_Personal_Quest_194]]
+- Parallels [[The Groundling Liberation Movement (D&D_References)]]
 - Related: [[step_018 (phase_096)
 - Affected by
 - Requires [Bright Light Xphb]]

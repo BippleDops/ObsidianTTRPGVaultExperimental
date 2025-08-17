@@ -154,14 +154,12 @@ Witnessed a crime
 
 ## Connections
 
-- Influences [[The Resistance Formation
-- Leads to [NPC00817_Malakai_Silverleaf_the_Wanderer]]
+- Influences [[NPC00817_Malakai_Silverleaf_the_Wanderer]]
 - Originates from [[Curse of Eternal Winter (D&D_References)
 - Originates from [NPC00536_Brenna_Darkwater_the_Redeemed]]
 - Related: [[Emergency Management
 - Related: [Location City Captain Marlowe Tidecrest Captain Marlowe Tidecrest.svg]]
-- Connects to [[Battle_Map_Descriptions 2 (D&D_References)
-- Related: [step_013 (phase_047)]]
+- Connects to [[Battle_Map_Descriptions 2 (D&D_References)]]
 - Requires [[The Drowned Embassy 2
 - Influences [Dockworkers' Union 2]]
 - Parallels [[step_050 (phase_081)
@@ -175,12 +173,10 @@ Witnessed a crime
 - Parallels [Assets Locations Location City Temple Hierarchies Temple Hierarchies.png]]
 - Originates from
 - See also:
-- Compare with [[The Crown's Burden (D&D_Statblocks)
-- Leads to [Spell_Scroll_Creator]]
+- Compare with [[The Crown's Burden (D&D_Statblocks)]]
 - Originates from [[random-traps-trap-effects (tables)
 - Influences [Assets Locations Location City Service Levels V1 Service Levels.svg]]
-- Originates from [[LOC00254_Wilderness_Location_255
-- Connects to [step_055 (phase_038)]]
+- Originates from [[LOC00254_Wilderness_Location_255]]
 - Compare with [[step_092 (phase_053)
 - Parallels [human-names-chinese-female-xge (tables)]]
 - Influences [[Location City the Sinking Atoll V1 the Sinking Atoll.svg
@@ -191,57 +187,46 @@ Witnessed a crime
 - Related: [Silver Mask]]
 - Parallels [[Corrupted Creatures (D&D_References)
 - Compare with [Assets Locations Location City Diplomatic Service Diplomatic Service.svg]]
-- Influences [[step_053 (phase_089)
-- See also: [Communications Center (D&D_References)]]
+- Influences [[Communications Center (D&D_References)]]
 - Leads to [[Skyborn Academy of Aerial Arts
 - Connects to [LOC00254_Cities_Location_255]]
 - Connects to [[relics-rare-xdmg (tables)
 - Affected by [step_004 (phase_072)]]
 - Affected by [[Location City Scribe Master Elena Truthkeeper V1 Scribe Master Elena Truthkeeper.svg
 - Related: [04 Chapter 4 Creating Adventures]]
-- Compare with [[step_064 (phase_067)
-- Influences [NPC01329_Fiora_Winterborn_the_Broken]]
-- Influences [[Quest - Hadal Expedition
-- Requires [QUEST0065_The_Cursed_Alliance]]
+- Compare with [[NPC01329_Fiora_Winterborn_the_Broken]]
+- Influences [[QUEST0065_The_Cursed_Alliance]]
 - Originates from [[monster-personality-xdmg (tables)
 - Parallels [Sardonyx Xdmg]]
-- Originates from [[Memory_Trading_Economy (D&D_References)
-- Requires [step_032 (phase_030)]]
+- Originates from [[Memory_Trading_Economy (D&D_References)]]
 - Affected by [[String Xphb
 - Connects to [LOC0106_Marshton]]
-- Requires [[NPC01139_Nerys_Proudmore_the_Broken
-- Originates from [QUEST00234_Side_Quest_235]]
+- Requires [[NPC01139_Nerys_Proudmore_the_Broken]]
 - Leads to [[Merger_Events_Pack_D
 - Compare with
 - Originates from [Skyfall Observatory 2]]
 - See also: [[Assets Locations Location City Bartender Marina Dualborn V1 Bartender Marina Dualborn.svg
 - Leads to [Mer-Folk Honor Codes]]
-- Originates from [[NPC0047_Hilda_Ironforge_the_Merciful
-- See also: [Memory Merchant Valeria Siltweave]]
+- Originates from [[NPC0047_Hilda_Ironforge_the_Merciful]]
 - Related: [[Whisper-Touched William 2
 - Influences [step_008 (phase_007)]]
 - Leads to [[Baroness Abyssal
 - See also:
 - Parallels [step_074 (phase_020)]]
-- Compare with [[ENC00437_Combat_Encounter_438
-- Related: [QUEST00272_Side_Quest_273]]
+- Compare with [[ENC00437_Combat_Encounter_438]]
 - Requires [[Assets Locations Location City Commander Drake Pressureborn V1 Commander Drake Pressureborn.svg
 - Originates from [explosives (variant-rules)]]
 - Compare with [[Stop the Shadow Harvest
 - Parallels [LORE00045_Legends_Entry_46]]
 - See also: [[The Catastrophe - Hour by Hour
 - Affected by [QUEST00258_Personal_Quest_259]]
-- Requires [[Succubus Xmm
-- Affected by [Information Systems Alliance]]
+- Requires [[Information Systems Alliance]]
 - Compare with
 - Affected by [[Location City House Voidwhisper House Voidwhisper.svg
 - Originates from [04_Resources_Assets_Locations_location-city-dr-marina-voidstudier-v1-dr-marina-voidstudier.svg]]
-- Leads to [[Crystal Agricultural Research Institute
-- Connects to [step_020 (phase_046)]]
-- Connects to [[QUEST00046_Main_Quest_47
-- Leads to [NPC00986_Lyanna_Emberfall_the_Redeemed]]
-- Related: [[SPELL0009_Divine_Shield
-- Originates from [Skyship Technology (D&D_References)]]
+- Leads to [[Crystal Agricultural Research Institute]]
+- Connects to [[NPC00986_Lyanna_Emberfall_the_Redeemed]]
+- Related: [[Skyship Technology (D&D_References)]]
 - Related: [[Tradeway Road
 - Affected by [piranha-xmm (beast)]]
 - Originates from [[Portrait NPC Emperor Abyssal the Deep Sighted V2 Emperor Abyssal the Deep Sighted.svg_1 (Portraits)

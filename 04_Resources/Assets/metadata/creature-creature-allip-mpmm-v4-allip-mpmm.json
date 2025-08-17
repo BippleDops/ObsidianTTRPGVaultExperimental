@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Illustration of an alluring mythical creature with unique limb structure and highlighted musculature. The creature appears against a human silhouette, effectively comparing their sizes, in a three-color palette of teals, deep blues, and sea-greens, with pearl highlights. Set the scene in an enigmatic zone that merges the underwater realm with the sky. The art style is a consistent painterly collection style emphasizing detailed concept art and aquatic fantasy realism. Subsurface caustics add a touch of authenticity to the setting, merging seamlessly with bioluminescent accents and materials depicting pressure-dome structures. Refrain from the inclusion of modern tech, signage, sci-fi UIs, photoreal CGI, anime style, or bloom glare. All elements in the scene must depict motion, adding to the overall dynamism and vitality of the composition. Ensure all symbols used are meaningful, avoiding gibberish strings and random letters.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-allip-mpmm-v4-allip-mpmm.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-allip-mpmm-v4-allip-mpmm.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:10.575Z",
+  "generationMethod": "ComfyUI"
 }

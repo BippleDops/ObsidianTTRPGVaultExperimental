@@ -163,8 +163,7 @@ Family member has gone missing
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -181,8 +180,7 @@ Family member has gone missing
 
 - Compare with [[Government Officia
 - Connects to [Portrait NPC Quest Storm Lord S Challenge V1 Quest Storm Lord S Challenge.svg]]
-- Related: [[Procedures Reality Bridge Construction
-- Related: [step_008 (phase_060)]]
+- Related: [[Procedures Reality Bridge Construction]]
 - Leads to [[QUEST0056_Investigate_the_Demons
 - Parallels [Assets Locations Location City Foreign Affairs Foreign Affairs.svg]]
 - Related: [[MON00121_Aberrations_Creature_122
@@ -193,21 +191,16 @@ Family member has gone missing
 - Leads to [Portrait NPC Memory Harvester Kythara Memory Harvester Kythara.svg_1 (Portraits)]]
 - Parallels [[NPC0071_Freya_Ironforge
 - Originates from [step_085 (phase_066)]]
-- Affected by [[Sea Witches Coven
-- Related: [Governmental Legitimacy 2]]
+- Affected by [[Governmental Legitimacy 2]]
 - Connects to [[rope-of-climbing-xdmg (items)
 - Leads to [Potion of Cold Resistance Xdmg]]
-- Related: [[NPC00122_Gareth_Proudmore_the_Cunning
-- Affected by
-- Requires [step_094 (phase_037)]]
+- Related: [[NPC00122_Gareth_Proudmore_the_Cunning]]
 - Related: [[NPC01899_Pyria_Emberfall_the_Swift
 - See also: [Symbol Heraldry Transformation Assistance V1 Transformation Assistance.svg]]
-- See also: [[NPC00660_Elric_Keenblade_the_Risen
-- Requires [Architect Prime Crystalline Vision (D&D_References)]]
+- See also: [[Architect Prime Crystalline Vision (D&D_References)]]
 - Parallels [[Creature Creature Elemental Spirit Air Xphb V3 Elemental Spirit Air Xphb.png
 - Compare with [step_001 (phase_027)]]
-- Compare with [[The Sunken Cathedral of Stars (D&D_References)
-- Influences [Hammer of Thunderbolts Xdmg]]
+- Compare with [[The Sunken Cathedral of Stars (D&D_References)]]
 - Originates from [[Bastion Events Xdmg
 - Affected by [SPELL00052_Arcane_Spell_53]]
 - Connects to
@@ -225,24 +218,20 @@ Family member has gone missing
 - Requires [Skywrite Xge]]
 - Parallels [[tavern-brawler-xphb (feats)
 - Compare with [Vehicle Ship Kelp Weave Patrol Boat V1 Kelp Weave Patrol Boat.svg]]
-- Parallels [[step_057 (phase_078)
-- Requires [Artisan Glow-Finger Nerida]]
+- Parallels [[Artisan Glow-Finger Nerida]]
 - Leads to [[Item Artifact Spell Gem Lapis Lazuli Oota V2 Spell Gem Lapis Lazuli Oota.png
 - Originates from [ITEM01174_Pure_Herb_of_Fortune]]
 - Influences [[4-monster-lists (monster-manual-2025)
 - Compare with [step_096 (phase_066)]]
 - Related:
-- Affected by [[Medic Captain Truewater (D&D_References)
-- Leads to [step_092 (phase_015)]]
-- Affected by [[Local Friend
-- Parallels [LOC00028_Wilderness_Location_29]]
+- Affected by [[Medic Captain Truewater (D&D_References)]]
+- Affected by [[LOC00028_Wilderness_Location_29]]
 - Compare with [[roleplaying-an-orc-orc-bonds-vgm (tables)
 - Connects to [QUEST00251_Side_Quest_252]]
 - Leads to [[Assets Locations Location City Scholar Thomas Precedent V1 Scholar Thomas Precedent.svg
 - Influences
 - See also: [step_067 (phase_077)]]
-- Leads to [[Otyugh Xmm
-- Connects to [Species Purity Advocate]]
+- Leads to [[Species Purity Advocate]]
 - Affected by [[Hybrid Abominations
 - Originates from [07 Chapter 6 Equipment]]
 - Leads to [[step_036 (phase_026)
@@ -251,14 +240,11 @@ Family member has gone missing
 - Affected by [step_008 (phase_020)]]
 - Influences [[step_058 (phase_053)
 - Parallels [location-city-crystal-mines-v1-crystal-mines.svg]]
-- Originates from [[step_092 (phase_087)
-- Parallels [Marcus Aurelius Shimmerstone]]
-- Parallels [[Bio-Integration Laboratory 2
-- Influences [The Seven Breathing Stones (D&D_References)]]
+- Originates from [[Marcus Aurelius Shimmerstone]]
+- Parallels [[The Seven Breathing Stones (D&D_References)]]
 - Connects to [[Portrait NPC High Priest Dagon Deepcaller V1 High Priest Dagon Deepcaller.svg
 - Related: [Assets Locations Location City Haven Reef Haven Reef.svg]]
-- Requires [[LOC00138_Planes_Location_139
-- Related: [deck-of-many-things#The%20Void]]
+- Requires [[LOC00138_Planes_Location_139]]
 - Compare with [[Vehicle Ship Sky Cutter Interceptor V2 Sky Cutter Interceptor.svg
 - Related: [step_077 (phase_090)]]
 - Influences

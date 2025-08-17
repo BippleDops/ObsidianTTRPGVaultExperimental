@@ -43,9 +43,7 @@ world: Both
 
 - Strange disappearances suggest a curse
 - A stranger needs help finding before the new moon
-- Strange sightings suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Angels and Depths
-
-- [Angels and Depths (D&D_References)]]
+- Strange sightings suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Angels and Depths (D&D_References)]]
 
 ## Notes
 

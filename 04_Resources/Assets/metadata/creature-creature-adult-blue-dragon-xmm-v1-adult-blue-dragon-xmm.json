@@ -25,5 +25,8 @@
   "alt_text": "Concept art of adult-blue-dragon-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-adult-blue-dragon-xmm-v1-adult-blue-dragon-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-adult-blue-dragon-xmm-v1-adult-blue-dragon-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:56:51.574Z",
+  "generationMethod": "ComfyUI"
 }

@@ -462,5 +462,4 @@ Legends speak of Vex Shadowthorn's Apprentices as a nexus where past and present
 
 - [[Party Shadows (Criminal_Organizations)
 - [Assets Locations Location City Master Curator Pearl Artflow V1 Master Curator Pearl Artflow.svg]]
-- [[Aethermoor - Session 02 The Lighthouse of Storms
-- [Party Shadows]]
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]

@@ -188,5 +188,4 @@ Things widely suspected
 
 ## References
 
-- [[Crystal Wardens
-- [Crystal Wardens (D&D_Statblocks)]]
+- [[Crystal Wardens (D&D_Statblocks)]]

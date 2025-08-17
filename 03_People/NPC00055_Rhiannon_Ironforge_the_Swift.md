@@ -164,8 +164,7 @@ Wants rivals investigated
 
 ## Connections
 
-- Influences [[LORE00273_Legends_Entry_274
-- Connects to [NPC01508_Baelor_Dawnstrider_the_Mystic]]
+- Influences [[NPC01508_Baelor_Dawnstrider_the_Mystic]]
 - Leads to [[The Memory Synthesis
 - Affected by [Ballista Xdmg]]
 - Originates from [[LOC00108_Wilderness_Location_109
@@ -173,12 +172,9 @@ Wants rivals investigated
 - Connects to [[Assets Locations Location City Deepstone Deepstone.svg
 - See also: [Disarming Attack Xphb]]
 - Connects to
-- Influences [[Trade Captain Current (D&D_References)
-- Related: [Shape the Flowing River]]
-- Parallels [[LOC00157_Wilderness_Location_158
-- Influences [Mind Guardian Vera]]
-- Requires [[Common Clothes
-- Related: [NPC01023_Delara_Stormwind_the_Guardian]]
+- Influences [[Trade Captain Current (D&D_References)]]
+- Parallels [[LOC00157_Wilderness_Location_158]]
+- Requires [[NPC01023_Delara_Stormwind_the_Guardian]]
 - See also: [[Baroness Seraphina Moonweaver (D&D_References)
 - Connects to [Assets Vehicles Vehicle Ship Altitude Tuned Skiff V2 Altitude Tuned Skiff.svg]]
 - Parallels [[Spell Compendiums
@@ -188,8 +184,7 @@ Wants rivals investigated
 - Originates from [[QUEST00131_Side_Quest_132
 - Leads to
 - Influences [Assets Locations Location City Priest Thomas Messagekeeper Priest Thomas Messagekeeper.svg]]
-- Leads to [[Chief Engineer Nereus Flowstream 2
-- Parallels [Fragment Guarden]]
+- Leads to [[Chief Engineer Nereus Flowstream 2]]
 - Connects to [[QUEST00191_Side_Quest_192
 - Compare with [Military Coordinator Strong 2]]
 - Affected by [[step_003 (phase_095)
@@ -213,15 +208,13 @@ Wants rivals investigated
 - Affected by [Portrait NPC Memory Merchant Valeria Siltweave V1 Memory Merchant Valeria Siltweave.svg]]
 - See also: [[ITEM00970_Concentrated_Crystal_of_Clarity
 - Leads to [ENC00258_Combat_Encounter_259]]
-- Compare with [[ENC00134_Combat_Encounter_135
-- Parallels [step_032 (phase_004)]]
+- Compare with [[ENC00134_Combat_Encounter_135]]
 - Affected by [[spellcasting-focus-xphb (variant-rules)
 - Parallels [Map Map Pressure Maelstrom Edge Pressure Maelstrom Edge.svg]]
 - Connects to
 - Originates from [[step_076 (phase_054)
 - Connects to [step_065 (phase_043)]]
-- Originates from [[step_069 (phase_034)
-- See also: [ENC00254_Social_Encounter_255]]
+- Originates from [[ENC00254_Social_Encounter_255]]
 - Requires [[neogi-mpmm (aberration)
 - Connects to [LOC00290_Planes_Location_291]]
 - Compare with [[horseshoes-of-a-zephyr-xdmg (items)
@@ -234,8 +227,7 @@ Wants rivals investigated
 - Related: [Location City Harbor Pilot Guild Harbor Pilot Guild.svg]]
 - Related: [[02_Worldbuilding_Groups_Marine_Protection_Guil
 - Compare with [step_028 (phase_079)]]
-- Requires [[LORE00000_Prophecies_Entry_1
-- Leads to [NPC00004_Wynne_Moonshadow_the_Guardian]]
+- Requires [[NPC00004_Wynne_Moonshadow_the_Guardian]]
 - Requires [[Foreign Merchants
 - Leads to [elk-xmm (beast)]]
 - Affected by [[Location City Voices From Below Voices From Below.svg
@@ -246,8 +238,7 @@ Wants rivals investigated
 - Parallels [FAC00079_Cults_80]]
 - See also: [[human-names-french-female-xge (tables)
 - Leads to [Tempest Sovereignty]]
-- Connects to [[QUEST00186_Personal_Quest_187
-- See also: [step_057 (phase_059)]]
+- Connects to [[QUEST00186_Personal_Quest_187]]
 - Originates from [[Harbor District Customs House
 - Connects to [river-styx-xdmg (traps-hazards)]]
 - Parallels [[The Void Refineries 2
@@ -255,12 +246,9 @@ Wants rivals investigated
 - Compare with [[step_081 (phase_080)
 - Parallels
 - Leads to [ITEM00960_Concentrated_Herb_of_Clarity]]
-- Influences [[step_085 (phase_015)
-- Related: [Novelist Current Stories (D&D_References)]]
-- Related: [[Professor Marina Reefbuilder (D&D_References)
-- Leads to [Session_Checklist]]
-- Connects to [[NPC00296_Elric_Jadeclaw_the_Bold
-- See also: [Inverted Ballroom Wing 2]]
+- Influences [[Novelist Current Stories (D&D_References)]]
+- Related: [[Professor Marina Reefbuilder (D&D_References)]]
+- Connects to [[NPC00296_Elric_Jadeclaw_the_Bold]]
 - Related: [[step_093 (phase_058)
 - Related: [Location City the Gloom Gardens V1 the Gloom Gardens.svg]]
 - Connects to [[NPC0018_Soren_Stormwind

@@ -20,17 +20,17 @@ status: complete
 [region]]: Unknown
 population: Unknown
 accessibility:
-  content_warnings:
-  - political coercion
-  - [[Environmental Hazards]]
-  pronunciation: The Kelp Highway
-  safety_tools:
-  - Lines & Veils
-  - X-Card
-  - Open Door
-  screen_reader_summary: The Kelp Highway is a notable location in Aquabyssos shaped
-    by tidal politics and Convergence anomalies. This entry is structured for fast
-    table use.
+ content_warnings:
+ - political coercion
+ - [[Environmental_Hazards]]
+ pronunciation: The Kelp Highway
+ safety_tools:
+ - Lines & Veils
+ - X-Card
+ - Open Door
+ screen_reader_summary: The Kelp Highway is a notable location in Aquabyssos shaped
+ by tidal politics and Convergence anomalies. This entry is structured for fast
+ table use.
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:16.745569+00:00'
 world: Aquabyssos

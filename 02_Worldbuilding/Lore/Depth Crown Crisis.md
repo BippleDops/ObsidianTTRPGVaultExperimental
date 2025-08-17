@@ -52,5 +52,4 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [The Depth Crown Crisis]]
-- [[Queen Seraphina (D&D_References)
-- [Queen Seraphina 3 (D&D_References)]]
+- [[Queen Seraphina 3 (D&D_References)]]

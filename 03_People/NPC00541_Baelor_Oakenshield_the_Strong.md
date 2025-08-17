@@ -166,14 +166,12 @@ Being extorted by criminals
 - Leads to [Monster_Ecology_Web (Indexes)]]
 - Related: [[The Deep Prophecies (D&D_References)
 - Affected by [eberron-the-silver-flame (deities)]]
-- Affected by [[step_033 (phase_042)
-- Requires [LOC00096_Wilderness_Location_97]]
+- Affected by [[LOC00096_Wilderness_Location_97]]
 - Originates from [[ENC00002_Environmental_Encounter_3
 - See also: [Merchants Guild (Organizations)]]
 - Parallels [[step_076 (phase_090)
 - See also: [Memory Thieves Guild (Guilds)]]
-- Affected by [[The Nightmare Surgeons
-- Influences [Serenity Stillwater (D&D_References)]]
+- Affected by [[Serenity Stillwater (D&D_References)]]
 - Originates from [[Bloom Field Cultivation Guil
 - Compare with [Assets Locations Location City Concierge Phillip Gracewater V1 Concierge Phillip Gracewater.svg]]
 - Originates from [[MON00013_Aberrations_Creature_14
@@ -189,8 +187,7 @@ Being extorted by criminals
 - Related: [Political Systems and Governance]]
 - See also: [[step_033 (phase_017)
 - Influences [step_014 (phase_035)]]
-- Influences [[step_089 (phase_085)
-- See also: [Stellar Commander Nereus Voidcaller (D&D_References)]]
+- Influences [[Stellar Commander Nereus Voidcaller (D&D_References)]]
 - Originates from [[location-city-bubble-district-bubble-district.svg
 - Influences [NPC00713_Vesper_Jadeclaw_the_Lost]]
 - Leads to [[Creative Visionweaver
@@ -231,24 +228,19 @@ Being extorted by criminals
 - Leads to
 - Leads to [[MON00043_Constructs_Creature_44
 - See also: [Assets Symbols Symbol Heraldry Divine Transformation Theolog Divine Transformation Theolog.svg]]
-- Connects to [[portrait-npc-the-cure-the-cure.svg
-- Parallels [Consequence Chain 3 Reality Merger Diplomatic Crisis]]
-- See also: [[Prime Shadow Trader Whisper Voidwright
-- Influences [Treasurer Elena Goldflow]]
-- Originates from [[hit-point-dice-xphb (variant-rules)
-- Requires [Twilight Depths 2]]
+- Connects to [[Consequence Chain 3 Reality Merger Diplomatic Crisis]]
+- See also: [[Prime Shadow Trader Whisper Voidwright]]
+- Originates from [[hit-point-dice-xphb (variant-rules)]]
 - Influences [[Trade Goods Xdmg
 - Compare with [Assets Portraits Portrait NPC Quest the Bio Adaptation Crisis Quest the Bio Adaptation Crisis.svg]]
-- Influences [[LOC00176_Cities_Location_177
-- Influences [The Boundary Accords]]
+- Influences [[LOC00176_Cities_Location_177]]
 - Leads to [[The Crystal Spires
 - Compare with [ITEM01494_Simple_Spyglass_of_Reliability]]
 - Related: [[ITEM00210_Cursed_Bow_of_Wounding
 - Related: [step_066 (phase_021)]]
 - Originates from [[step_093 (phase_013)
 - Requires [Exchange Fairflow 2]]
-- Leads to [[Ring of Jumping Xdmg
-- Parallels [Keeper Luminous Crystalbeam (D&D_References)]]
+- Leads to [[Keeper Luminous Crystalbeam (D&D_References)]]
 - Affected by [[Assets Locations Location City Goldspire Port V1 Goldspire Port.svg
 - Compare with [War Commander Umbral Strategis (D&D_References)]]
 - See also: [[Assets Locations Location City Temple Hierarchies V1 Temple Hierarchies.png

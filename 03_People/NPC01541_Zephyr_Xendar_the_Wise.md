@@ -178,8 +178,7 @@ Has information about legendary item
 - Originates from [NPC00288_Branwen_Ashford_the_Seeker]]
 - Requires [[Assets Locations Location City the Shadowmere the Shadowmere.png
 - Connects to [Bomber Bobby Naturals 2]]
-- Connects to [[step_059 (phase_082)
-- Requires [NPC01278_Rhiannon_Goldleaf_the_Fallen]]
+- Connects to [[NPC01278_Rhiannon_Goldleaf_the_Fallen]]
 - Parallels [[Noble Quarter
 - Compare with [Tribune Maelstrom]]
 - Parallels [[greek-artemis (deities)
@@ -194,10 +193,8 @@ Has information about legendary item
 - Compare with
 - Related:
 - Requires [celtic-brigantia (deities)]]
-- Compare with [[Shadow Integration Coordinator Luna Bridgebuilder
-- Affected by [ITEM00133_Frost_Dagger_of_Speed]]
-- Compare with [[The First Watcher 2
-- Leads to [Downtime Activity Relaxation Xge]]
+- Compare with [[Shadow Integration Coordinator Luna Bridgebuilder]]
+- Compare with [[Downtime Activity Relaxation Xge]]
 - See also: [[09 Templates
 - Compare with [candle-xphb (items)]]
 - Originates from [[step_090 (phase_063)
@@ -211,34 +208,26 @@ Has information about legendary item
 - Compare with [Merchant Truth Society (D&D_References)]]
 - Compare with [[Portrait NPC Golden Scale Transformation Golden Scale Transformation.svg
 - Parallels [monsters-by-habitat-any-habitat-monsters-xmm (tables)]]
-- Influences [[Reality Shepherd Nexus (D&D_References)
-- Parallels [SPELL00011_Arcane_Spell_12]]
+- Influences [[Reality Shepherd Nexus (D&D_References)]]
 - See also: [[step_097 (phase_063)
 - Related: [02_Worldbuilding_Military_Siege_Engineers]]
 - Compare with [[Crystal Contemplatives
 - Related: [Mixed_Events_Pack_D]]
-- Parallels [[NPC01636_Brenna_Keenblade_the_Strong
-- Parallels [library]]
-- Leads to [[Martha Hillbrook 2
-- Leads to [Mechanics Crystal Corruption]]
+- Parallels [[NPC01636_Brenna_Keenblade_the_Strong]]
+- Leads to [[Mechanics Crystal Corruption]]
 - Requires [[The Great Cataloguing
 - Originates from [Assets Symbols Symbol Heraldry Master Chen Wei Master Chen Wei.png]]
 - Leads to [[Master_Campaign_Index 2
 - Originates from [step_082 (phase_030)]]
 - Originates from
-- See also: [[Initiative_Tracker
-- Affected by [Minister Truth Darknes (D&D_References)]]
+- See also: [[Minister Truth Darknes (D&D_References)]]
 - Connects to [[Location City the Pressure Conspiracy V1 the Pressure Conspiracy.svg
 - Requires [ENC00178_Social_Encounter_179]]
-- Parallels [[Crystal Cleansing Brotherhood (D&D_References)
-- Compare with [Crystal Harmonics 2]]
+- Parallels [[Crystal Cleansing Brotherhood (D&D_References)]]
 - Related:
-- Related: [[Crystal Academy Networks
-- Compare with [Session 12 - Crystal Court Conspiracy]]
-- Related: [[NPC00430_Ewan_Proudmore_the_Wise
-- Connects to [Pressure Combat Modifiers (D&D_References)]]
-- Influences [[Portrait NPC Empe... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Leads to [Session 06 (Shadow_Conspiracy)]]
+- Related: [[Session 12 - Crystal Court Conspiracy]]
+- Related: [[Pressure Combat Modifiers (D&D_References)]]
+- Influences [[Portrait NPC Empe... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Affected by [[human-names-greek-female-xge (tables)
 - Leads to [Portrait NPC Trade Captain Sterling V1 Trade Captain Sterling.svg]]
 - Influences [[Ranger Xphb Beast Master Xphb
@@ -248,16 +237,14 @@ Has information about legendary item
 - Related: [step_008 (phase_010)]]
 - Connects to [[Staff of Charming Xdmg
 - Leads to [Frequency Manipulato]]
-- Influences [[Paladin Xphb Oath of Glory Xphb
-- Requires [High Priestess Celeste Dawnbringer (D&D_Statblocks)]]
+- Influences [[High Priestess Celeste Dawnbringer (D&D_Statblocks)]]
 - See also: [[step_003 (phase_090)
 - Leads to [Assets Locations Location City Memory Sharing Techniques V1 Memory Sharing Techniques.svg]]
 - Parallels [[NPC0115_Katarina_Goldleaf
 - Connects to [FINAL_ASSET_SYSTEM_COMPLETE]]
 - Compare with [[Portrait NPC Parliament High Council V1 Parliament High Council.svg
 - Parallels [Healing Ministries (D&D_References)]]
-- Connects to [[LOC00257_Planes_Location_258
-- Connects to [Deep Mother 2]]
+- Connects to [[LOC00257_Planes_Location_258]]
 - See also: [[NPC Name (People)
 - Parallels [goodberry-xphb (spells)]]
 - Originates from [[step_010 (phase_034)

@@ -51,6 +51,5 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[The Whispering Expanse
-- [Master_Item_Catalog]]
+- [[The Whispering Expanse]]
 - [[The Whispering Expanse (D&D_Statblocks)]]

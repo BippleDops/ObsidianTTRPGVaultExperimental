@@ -25,5 +25,8 @@
   "alt_text": "Concept art of salamander-inferno-master-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-salamander-inferno-master-xmm-v4-salamander-inferno-master-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-salamander-inferno-master-xmm-v4-salamander-inferno-master-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:08:35.485Z",
+  "generationMethod": "ComfyUI"
 }

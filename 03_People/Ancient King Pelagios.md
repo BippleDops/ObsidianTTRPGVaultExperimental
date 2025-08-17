@@ -292,8 +292,7 @@ ___
 
 ## References
 
-- [[Memoriam
-- [Memoriam (D&D_References)]]
+- [[Memoriam (D&D_References)]]
 
 ## Connections
 
@@ -301,16 +300,14 @@ ___
 - Originates from [Assets Locations Location City Teacher Miranda Hopekeeper V1 Teacher Miranda Hopekeeper.svg]]
 - Influences [[Armor of Thunder Resistance Xdmg
 - Compare with [pest-mascot-scc (monstrosity)]]
-- Compare with [[The Sorrow Singers (D&D_References)
-- Parallels [LORE00272_History_Entry_273]]
+- Compare with [[The Sorrow Singers (D&D_References)]]
 - Requires [[Economic Warfare Simulator
 - Affected by [step_018 (phase_023)]]
 - Connects to [[Dimensional Nexus
 - Affected by [step_057 (phase_079)]]
 - See also: [[Dwarven Religion Dwarf Deities the
 - Parallels [step_038 (phase_054)]]
-- Compare with [[Divine Magic (D&D_References)
-- Related: [Market Prophet 2]]
+- Compare with [[Divine Magic (D&D_References)]]
 - Originates from
 - Originates from [[orc-gruumsh-vgm (deities)
 - Affected by [step_047 (phase_065)]]
@@ -326,52 +323,42 @@ ___
 - Parallels [portrait-npc-the-tidecaller-v1-the-tidecaller.svg_1 (Portraits)]]
 - Requires [[step_009 (phase_032)
 - Parallels [step_050 (phase_031)]]
-- Originates from [[MON00012_Aberrations_Creature_13
-- Compare with [Celestial Crystals]]
+- Originates from [[MON00012_Aberrations_Creature_13]]
 - Compare with [[Location City the Drowning Truth V1 the Drowning Truth.svg
 - Related: [step_022 (phase_065)]]
 - Originates from [[step_070 (phase_086)
 - Parallels [09-adventuring#Resting]]
 - Parallels [[Handout Handout Privateer Letter of Marque V1 Privateer Letter of Marque.png
 - Originates from [step_040 (phase_006)]]
-- Parallels [[step_029 (phase_007)
-- Parallels [LOC00224_Towns_Location_225]]
+- Parallels [[LOC00224_Towns_Location_225]]
 - Connects to [[Brewing Potions of Healing Potion of Healing
 - Parallels [Assets Locations Location City Captain Marcus V1 Captain Marcus.svg]]
 - Parallels
 - Affected by [[Assets Locations Location City Chief Engineer Vera Steamheart Chief Engineer Vera Steamheart.svg
 - Originates from [step_009 (phase_056)]]
-- Parallels [[step_002 (phase_077)
-- Originates from [Portrait NPC Pres... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Parallels [[Portrait NPC Pres... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Parallels [[ITEM0002_Cursed_Blade_of_Power
 - Leads to [ITEM00690_Warded_Boots_of_Protection]]
 - Requires [[NPC00180_Felicia_Thornweave
 - See also: [manual-of-bodily-health-xdmg (items)]]
-- Affected by [[Brightforge 2
-- Parallels [Crystal_Plague_Mechanics]]
-- Affected by [[Potion of Fire Breath Xdmg
-- Related: [step_043 (phase_065)]]
+- Affected by [[Crystal_Plague_Mechanics]]
+- Affected by [[Potion of Fire Breath Xdmg]]
 - Originates from [[The Voting Crypts
 - Leads to [Giant Eagle Xmm]]
 - Connects to [[NPC00320_Malakai_Hawthorne_the_Redeemed
 - Parallels [Portrait NPC House of Lords Secret Chamber V1 House of Lords Secret Chamber.svg]]
 - Influences
-- See also: [[Control Flames Xge
-- Connects to [SPELL00031_Divine_Spell_32]]
+- See also: [[SPELL00031_Divine_Spell_32]]
 - Related:
 - See also: [[forgotten-realms-tyr (deities)
 - Related: [beacon-of-hope-xphb (spells)]]
-- Parallels [[Drow Keptolo Mtf
-- Related: [Sacred Texts of Transformatio 2]]
-- Influences [[step_051 (phase_052)
-- See also: [ENC00324_Combat_Encounter_325]]
+- Parallels [[Sacred Texts of Transformatio 2]]
+- Influences [[ENC00324_Combat_Encounter_325]]
 - Leads to [[LORE00301_Legends_Entry_302
 - Leads to [step_029 (phase_053)]]
-- Leads to [[LORE00300_History_Entry_301
-- See also: [LOC00215_Wilderness_Location_216]]
+- Leads to [[LOC00215_Wilderness_Location_216]]
 - See also:
-- Originates from [[Chief Temporal Engineer Paradox Timeweaver 2
-- See also: [Four Armed Troll Hotdq]]
+- Originates from [[Chief Temporal Engineer Paradox Timeweaver 2]]
 - See also: [[Earl Thaddeus Blackthorn
 - Compare with [MON00083_Undead_Creature_84]]
 - Compare with [[Portrait NPC Queen Morwyn Lumengarde Queen Morwyn Lumengarde.svg
@@ -380,13 +367,11 @@ ___
 - Connects to [LOC00050_Towns_Location_51]]
 - Originates from [[Portrait NPC the Throne Chamber of Eternal Bubbles V2 the Throne Chamber of Eternal Bubbles.svg
 - Originates from [EVENT00010_Natural_Event_11]]
-- Leads to [[NPC01153_Faelyn_Brightblade_the_Wise
-- Related: [step_065 (phase_060)]]
+- Leads to [[NPC01153_Faelyn_Brightblade_the_Wise]]
 - Influences
 - Requires [[QUEST00265_Personal_Quest_266
 - Connects to [Assets Art Save Queen Seraphina.png]]
-- Leads to [[LORE0097_Prophecy_of_the_Dragon_Wars
-- Requires [ENC00317_Combat_Encounter_318]]
+- Leads to [[LORE0097_Prophecy_of_the_Dragon_Wars]]
 - Leads to [[QUEST00002_Personal_Quest_3
 - See also: [Ginger Xdmg]]
 - Parallels [[ITEM00971_Refined_Elixir_of_Vigor

@@ -172,16 +172,14 @@ Needs discrete help with family scandal
 
 - Affected by [[step_089 (phase_035)
 - Compare with [FAC00062_Guilds_63]]
-- Related: [[NPC00451_Malakai_Ravenheart_the_Broken
-- Affected by [step_044 (phase_008)]]
+- Related: [[NPC00451_Malakai_Ravenheart_the_Broken]]
 - Compare with [[Depth Pressure Rings (D&D_References)
 - Originates from [Symbol Heraldry High Oracle Serenity Deepcall V1 High Oracle Serenity Deepcall.svg]]
 - Affected by [[ITEM00223_Blessed_Staff_of_Wounding
 - Related: [Bell Xphb]]
 - Connects to [[bag-of-tricks-tan-xdmg (items)
 - Affected by [LORE00275_History_Entry_276]]
-- Originates from [[adult-silver-dragon-xmm (dragon)
-- Connects to [Artistic Communities (D&D_References)]]
+- Originates from [[Artistic Communities (D&D_References)]]
 - See also:
 - Compare with [[supplemental-tables-absent-parent-xge (tables)
 - Leads to [LOC00271_Cities_Location_272]]
@@ -199,24 +197,21 @@ Needs discrete help with family scandal
 - Affected by [LORE00219_Prophecies_Entry_220]]
 - Parallels [[Assets Portraits Portrait NPC Reflection Pools Reflection Pools.svg
 - See also: [FAC00056_Orders_57]]
-- Originates from [[ENC00083_Combat_Encounter_84
-- See also: [Tiefling Names Male Xge]]
+- Originates from [[ENC00083_Combat_Encounter_84]]
 - Compare with [[ENC00437_Combat_Encounter_438
 - Influences [freedom-of-movement-xphb (spells)]]
 - Parallels [[Variant Customizing Ability Scores Ability Score Point Cost Phb
 - Influences [MON00136_Aberrations_Creature_137]]
 - Requires [[LORE0086_Legend_of_the_Fallen_Star
 - Connects to [Assets Locations Location City Archdruid Marina Kelpweaver Archdruid Marina Kelpweaver.svg]]
-- Compare with [[Memory Merchants (D&D_References)
-- Related: [step_024 (phase_016)]]
+- Compare with [[Memory Merchants (D&D_References)]]
 - Affected by [[The Phantom Gazer
 - Affected by [list-optfeaturetype-ei (lists)]]
 - Connects to [[Navigator Stormwatch
 - Compare with [Asset Database]]
 - Requires [[QUEST0099_Wizard's_Folly
 - Compare with [Location City Deep Oracle Bathys V1 Deep Oracle Bathys.png]]
-- Related: [[NPC00605_Solas_Goldleaf_the_Redeemed
-- Influences [Fire Elemental Myrmidon Mpmm]]
+- Related: [[NPC00605_Solas_Goldleaf_the_Redeemed]]
 - Requires [[LOC0050_Havenridge
 - Requires [LORE00223_Legends_Entry_224]]
 - Requires [[Maintenance Stations
@@ -237,24 +232,20 @@ Needs discrete help with family scandal
 - Related: [step_017 (phase_087)]]
 - Connects to [[02_Worldbuilding_Places_The_Gilded_Serpent
 - Influences [step_031 (phase_060)]]
-- Related: [[The Order of Silent Depths
-- Affected by [Shatter Xphb]]
-- See also: [[The Visiting Scholar Complex 2
-- Related: [Symbol Heraldry Pur... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Related: [[The Order of Silent Depths]]
+- See also: [[Symbol Heraldry Pur... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Originates from [[ITEM00131_Shadow_Hammer_of_Wounding
 - Compare with [Quest - The Great Integration 2]]
 - Influences [[step_071 (phase_077)
 - Leads to [egyptian-imhotep (deities)]]
 - Connects to [[The Depth Sounders
 - Influences [barbarian-xphb-path-of-the-berserker-xphb (classes)]]
-- Leads to [[Telepathic Xphb
-- Requires [QUEST00276_Personal_Quest_277]]
+- Leads to [[QUEST00276_Personal_Quest_277]]
 - Affected by [[Assets Locations Location City Temporal Magic Research Temporal Magic Research.svg
 - Leads to [step_015 (phase_048)]]
 - Compare with [[The Crystalline Citadel 2
 - Leads to [location-city-deep-pearls-deep-pearls.svg]]
-- Requires [[LOC00165_Wilderness_Location_166
-- Influences [step_090 (phase_051)]]
+- Requires [[LOC00165_Wilderness_Location_166]]
 - Parallels [[Dwarven Thrower Xdmg
 - Parallels [Mace of Disruption Xdmg]]
 - Influences
@@ -266,8 +257,7 @@ Needs discrete help with family scandal
 - Related: [ENC00060_Social_Encounter_61]]
 - Compare with [[Elf Names Child Xge
 - Compare with [step_061 (phase_095)]]
-- Affected by [[Tax Commissioner Merion Goldcount (D&D_References)
-- Requires [Coral Lifeshaper (D&D_References)]]
+- Affected by [[Tax Commissioner Merion Goldcount (D&D_References)]]
 - Leads to [[Assets Locations Location City Temporal Navigation V1 Temporal Navigation.svg
 - Compare with [step_097 (phase_090)]]
 

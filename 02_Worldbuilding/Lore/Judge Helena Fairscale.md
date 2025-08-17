@@ -54,4 +54,4 @@ This content can be adapted and expanded based on specific campaign needs.
 - [Quest - The Blackmail Papers_1 (01_Adventures)]]
 - [[Quest - The Blackmail Papers_2 (01_Adventures)
 - [Quest - The Truth Unveiled]]
-- [[Quest - The Truth Unveiled_1 (01_Adventures)]]
+- [[Quest - The Truth Unveiled]]

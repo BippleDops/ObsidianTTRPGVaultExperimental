@@ -164,8 +164,7 @@ Provides information for a price
 
 - Originates from [[QUEST00174_Personal_Quest_175
 - Leads to [ITEM01271_Refined_Elixir_of_Healing]]
-- Leads to [[The Shattered Sanctum 2
-- Influences [Session 1 Shadows in the Senate]]
+- Leads to [[Session 1 Shadows in the Senate]]
 - Parallels [[ITEM00039_Thunder_Sword_of_Slaying
 - Leads to [Memory Reflection Mirrors]]
 - Originates from [[LORE00138_Prophecies_Entry_139
@@ -176,18 +175,15 @@ Provides information for a price
 - Leads to [step_057 (phase_068)]]
 - See also: [[Portrait NPC the Pressure Pirates the Pressure Pirates.svg
 - Affected by [EVENT00013_Natural_Event_14]]
-- Affected by [[Bullseye Lantern Xphb
-- Related: [ENC00447_Combat_Encounter_448]]
-- Related: [[LORE0092_Prophecy_of_the_Dark_Times
-- Parallels [Mind Spike Xphb]]
+- Affected by [[ENC00447_Combat_Encounter_448]]
+- Related: [[LORE0092_Prophecy_of_the_Dark_Times]]
 - Affected by [[Nature's Heart
 - Leads to [Portrait NPC Senator Glaucus Brain V2 Senator Glaucus Brain.svg]]
 - Originates from [[The Light Preservation Society
 - Affected by [LOC00116_Towns_Location_117]]
 - See also: [[Location City Memory Coral Reefs V1 Memory Coral Reefs.svg
 - Leads to [Assets Locations Location City Palace Security Chief Palace Security Chief.svg]]
-- Originates from [[step_075 (phase_031)
-- Related: [LOC00040_Wilderness_Location_41]]
+- Originates from [[LOC00040_Wilderness_Location_41]]
 - Related: [[maddening-darkness-xge
 - Parallels [Portrait NPC the Coral Throne Syndicate V1 the Coral Throne Syndicate.svg]]
 - Requires
@@ -197,8 +193,7 @@ Provides information for a price
 - Requires [Audio - Soundscape_Guide]]
 - Compare with [[Respiratory Engineering Guild
 - Originates from [Armor of Poison Resistance Xdmg]]
-- See also: [[Kelp Cultivator Threnody
-- Leads to [NPC01894_Aldric_Lightbringer_the_Bold]]
+- See also: [[NPC01894_Aldric_Lightbringer_the_Bold]]
 - Affected by [[The Chamber
 - Leads to [Wild Magic Surge Xphb]]
 - Originates from
@@ -228,12 +223,10 @@ Provides information for a price
 - Compare with [Assets Locations Location City Curse of Eternal Winter V1 Curse of Eternal Winter.svg]]
 - See also: [[step_092 (phase_098)
 - Influences [step_097 (phase_070)]]
-- Compare with [[Deep Mother Zealots 2
-- Parallels [NPC01456_Wynne_Stormwind_the_Wise]]
+- Compare with [[NPC01456_Wynne_Stormwind_the_Wise]]
 - Related: [[Location City Keeper of Contracts Minerva Bindingword Keeper of Contracts Minerva Bindingword.svg
 - Compare with [Complete Reality Merger System#reality Anchor Mechanics]]
-- Originates from [[Crisis Containment
-- Affected by [LOC00292_Cities_Location_293]]
+- Originates from [[LOC00292_Cities_Location_293]]
 - Related: [[Assets Symbols Symbol Heraldry Welfare Director Caretake V1 Welfare Director Caretake.svg
 - Compare with [MON0040_Shadow_Wraith]]
 - See also: [[step_070 (phase_060)
@@ -246,8 +239,7 @@ Provides information for a price
 - Requires [Progressive Senate Faction]]
 - Originates from [[Assets Locations Location City Temple of the Deep Waters Temple of the Deep Waters.svg
 - Connects to [step_022 (phase_091)]]
-- Requires [[Research Director Aquarius Brightwater
-- Affected by [step_033 (phase_069)]]
+- Requires [[Research Director Aquarius Brightwater]]
 - Related:
 - Originates from [[04_Resources_Assets_Locations_location-city-harbormaster-tidal-stormcrest-harbormaster-tidal-stormcrest.svg
 - Requires [step_100 (phase_059)]]

@@ -157,8 +157,7 @@ Discovered something valuable
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -207,20 +206,16 @@ Discovered something valuable
 - Compare with [Royal Palace of Meridian (D&D_References)]]
 - Related: [[Ghost Xmm
 - Influences [LORE00127_Legends_Entry_128]]
-- See also: [[Drowning Omens
-- Parallels [NPC0149_Delilah_Darkwater]]
+- See also: [[NPC0149_Delilah_Darkwater]]
 - Requires [[step_078 (phase_013)
 - Connects to [symbol-heraldry-the-code-wars-the-code-wars.svg]]
 - Influences [[Assets Locations Location City Void Touched Pilgrims V1 Void Touched Pilgrims.svg
 - Originates from [step_040 (phase_067)]]
 - Parallels [[human-names-german-male-xge (tables)
 - Affected by [Assets Locations Location City Count Viktor Pressureborn V1 Count Viktor Pressureborn.svg]]
-- Originates from [[Administrative Wing (D&D_References)
-- Requires [Landmark_Generator]]
-- Originates from [[NPC01666_Urien_Frostwhisper_the_Broken
-- Parallels [ENC0043_Random_Encounter_44]]
-- Originates from [[DUN00127_Dungeon_128
-- Requires [NPC00257_Delara_Proudmore_the_Wise]]
+- Originates from [[Administrative Wing (D&D_References)]]
+- Originates from [[NPC01666_Urien_Frostwhisper_the_Broken]]
+- Originates from [[NPC00257_Delara_Proudmore_the_Wise]]
 - Related: [[Portrait NPC Surface Supremacists V1 Surface Supremacists.svg_1 (Portraits)
 - Affected by
 - Requires [Location City Circle of Mourners V1 Circle of Mourners.svg]]
@@ -229,8 +224,7 @@ Discovered something valuable
 - Influences [[Assets Locations Location City Vote Vaults V1 Vote Vaults.svg
 - Requires [step_004 (phase_007)]]
 - See also:
-- Affected by [[Depth Cardinal Wisdom Voidseeke 2
-- Affected by [step_019 (phase_065)]]
+- Affected by [[Depth Cardinal Wisdom Voidseeke 2]]
 - Compare with [[step_100 (phase_023)
 - Compare with [Mind Shield Helm 2]]
 - Leads to [[Trade Networks (D&D_References)
@@ -243,28 +237,21 @@ Discovered something valuable
 - Originates from [Location City Heritage Keeper Memoryshade Heritage Keeper Memoryshade.svg]]
 - Parallels [[step_071 (phase_072)
 - Affected by [Guardian Root Network]]
-- Connects to [[Portrait NPC the ... Related To: Local Political Structure Connected Plots: to Be Developed
-- Compare with [Milestone_Tracker]]
+- Connects to [[Portrait NPC the ... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Parallels [[ITEM01337_Elegant_Spyglass_of_Durability
 - Compare with [Assets Locations Location City Express Racers V1 Express Racers.svg]]
-- Connects to [[Interrogation Techniques 3 (D&D_References)
-- Requires [Ancestor's Pool (D&D_References)]]
+- Connects to [[Interrogation Techniques 3 (D&D_References)]]
 - Requires [[Gold Cup Set With Emeralds Xdmg
 - Influences [#Connections]]
 - Compare with [[ITEM00519_Ethereal_Leather_of_Protection
 - Originates from [step_081 (phase_059)]]
-- Parallels [[step_068 (phase_061)
-- See also: [Quest - The Surgical Assassin 2]]
-- Influences [[NPC01529_Brenna_Darkwater_the_Scholar
-- See also: [Gnome Segojan Earthcaller Mtf]]
+- Parallels [[Quest - The Surgical Assassin 2]]
+- Influences [[NPC01529_Brenna_Darkwater_the_Scholar]]
 - Compare with [[ogre-bolt-launcher-mpmm (giant)
 - Leads to [step_076 (phase_048)]]
-- See also: [[step_048 (phase_068)
-- Related: [LORE0074_Secret_of_the_Sundering]]
-- Originates from [[step_068 (phase_070)
-- Compare with [QUEST0082_In_Search_of_Redemption]]
-- Originates from [[platinum-xdmg (items)
-- Parallels [LOC00102_Wilderness_Location_103]]
+- See also: [[LORE0074_Secret_of_the_Sundering]]
+- Originates from [[QUEST0082_In_Search_of_Redemption]]
+- Originates from [[LOC00102_Wilderness_Location_103]]
 - Influences [[step_073 (phase_068)
 - Parallels [step_048 (phase_010)]]
 - Influences [[QUEST00085_Side_Quest_86

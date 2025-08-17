@@ -200,8 +200,7 @@ Following magic item guidelines (WWT p.135-136):
 
 - Influences [step_061 (phase_073)]]
 - Affected by
-- See also: [[actor-xphb (feats)
-- Affected by [Lady Pelagic (D&D_References)]]
+- See also: [[Lady Pelagic (D&D_References)]]
 - Parallels [[Liche (D&D_References)
 - Originates from
 - Connects to [Portrait NPC the Current Merchants the Current Merchants.svg_1 (Portraits)]]
@@ -216,18 +215,14 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [Portrait NPC Lady Elena the Eternal Lady Elena the Eternal.svg]]
 - Leads to
 - Compare with
-- Affected by [[NPC01651_Cedric_Winterborn_the_Seeker
-- Connects to [NPC0099_Tara_Goldleaf]]
+- Affected by [[NPC01651_Cedric_Winterborn_the_Seeker]]
 - Compare with [[The Silent Watcher 2
 - Influences [Crown of Madness Xphb]]
 - Connects to [[Luck Spirit
 - Compare with [Assets Locations Location City Dockmaster Bruno Steadyanchor Dockmaster Bruno Steadyanchor.svg]]
-- Connects to [[NPC00020_Gavril_Crystalbrook
-- Compare with [step_082 (phase_051)]]
-- See also: [[NPC01548_Thalia_Ironforge_the_Wise
-- Parallels [step_047 (phase_016)]]
-- See also: [[Quest - Protect the Truth 2
-- Compare with [NPC01638_Vesper_Silverleaf_the_Scholar]]
+- Connects to [[NPC00020_Gavril_Crystalbrook]]
+- See also: [[NPC01548_Thalia_Ironforge_the_Wise]]
+- See also: [[NPC01638_Vesper_Silverleaf_the_Scholar]]
 - Affected by [[Electric Eel 2
 - Parallels
 - Originates from [red-slaad-xmm (aberration)]]
@@ -241,50 +236,39 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [step_043 (phase_036)]]
 - Connects to [[Portrait NPC the Shadow Warren V2 the Shadow Warren.svg_1 (Portraits)
 - Connects to [MON00060_Undead_Creature_61]]
-- Affected by [[NPC00062_Aldric_Jadeclaw_the_Cunning
-- Leads to
-- Leads to [The Umbral Infirmary]]
-- Compare with [[SHOP00030_Specialty_Shop_31
-- Requires [Divine Communication Studies (D&D_References)]]
-- Related: [[step_022 (phase_082)
-- Influences [NPC00049_Hilda_Oakenshield_the_Bold]]
+- Affected by [[NPC00062_Aldric_Jadeclaw_the_Cunning]]
+- Compare with [[Divine Communication Studies (D&D_References)]]
+- Related: [[NPC00049_Hilda_Oakenshield_the_Bold]]
 - Parallels [[Magic Mouth Xphb
 - Parallels [03_Mechanics_Rules_Reference_Quick_Reference_DnD5e-SideScreen-2024_Quick_Ref]]
 - Influences [[Dolphin (D&D_References)
 - Compare with
 - Connects to [step_088 (phase_016)]]
-- Originates from [[ENC00377_Combat_Encounter_378
-- Requires [Information Exchange (D&D_References)]]
+- Originates from [[Information Exchange (D&D_References)]]
 - Influences [[The Cleaner (D&D_References)
 - Connects to [The Order of Silent Depths (Orders)]]
 - See also: [[step_057 (phase_088)
 - Connects to
 - Parallels [step_035 (phase_093)]]
-- See also: [[step_095 (phase_015)
-- Parallels [ENC00488_Combat_Encounter_489]]
-- Originates from [[step_016 (phase_044)
-- Originates from [Legal Profession (D&D_References)]]
+- See also: [[ENC00488_Combat_Encounter_489]]
+- Originates from [[Legal Profession (D&D_References)]]
 - See also: [[step_027 (phase_008)
 - Parallels [ITEM01237_Superior_Crystal_of_Swiftness]]
-- Parallels [[QUEST00195_Side_Quest_196
-- Requires [step_042 (phase_060)]]
-- Requires [[Prophetic Studies
-- Requires [Void-Echo Silence Deafmake (D&D_References)]]
+- Parallels [[QUEST00195_Side_Quest_196]]
+- Requires [[Void-Echo Silence Deafmake (D&D_References)]]
 - Originates from [[talisman-of-the-sphere-xdmg (items)
 - See also: [Public Safety]]
 - Compare with [[Quest The Failing Magic
 - Compare with
 - Leads to [Item Mastery]]
 - Related:
-- See also: [[NPC00500_Wynne_Ashford_the_Wise
-- See also: [step_058 (phase_083)]]
+- See also: [[NPC00500_Wynne_Ashford_the_Wise]]
 - Parallels [[step_065 (phase_085)
 - Compare with [LORE00286_Legends_Entry_287]]
 - Affected by
 - Related: [[Elemental Spirit Air Xphb
 - Affected by [step_078 (phase_035)]]
-- Affected by [[ENC00199_Environmental_Encounter_200
-- Originates from [LORE00279_History_Entry_280]]
+- Affected by [[ENC00199_Environmental_Encounter_200]]
 - Related: [[step_096 (phase_098)
 - Requires [Location City Healer Tide Touch Healer Tide Touch.svg]]
 - Leads to [[Abyssal Cartel (D&D_References)

@@ -20,7 +20,7 @@ modified: "2025-08-15T12:25:28.187369"
 > *Time is running out...*
 
 ## Contents
-  - [Background](#background)
+ - [Background](#background)
 - [Notes](#notes)
 - [Timeline](#timeline)
 - [NPCs Involved](#npcs-involved)
@@ -44,22 +44,18 @@ aliases: ["[Session Template]]"]
 status: active
 priority: normal
 category: 01 Adventures
-subcategory: [[Session Template]].Md
+subcategory: [[Session_Template]].Md
 related: []
 cssclass: standard
 publish: false
 
 ---
 
- # [[Session Template ## Overview
-
-**Difficulty**: Moderate (Levels 3-5)
-
-This document contains important information regarding [Session Template]] and its role within the greater narrative. ## Description
+ # [[Session_Template]] and its role within the greater narrative. ## Description
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-[[Session Template]] represents a significant element within the campaign world, offering various opportunities for engagemen
+[[Session_Template]] represents a significant element within the campaign world, offering various opportunities for engagemen
 *Sounds of [relevant sounds] echo in the distance.*t and development. ## [[Key Information
 
 - **[Primary Purpose]]**: Serves specific function within the world

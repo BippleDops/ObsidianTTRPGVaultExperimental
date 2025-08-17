@@ -187,37 +187,29 @@ Discovered something valuable
 - Influences [LORE00268_Legends_Entry_269]]
 - Leads to [[step_096 (phase_024)
 - Affected by [Assets Locations Location City Vault Keeper Eternal V1 Vault Keeper Eternal.svg]]
-- Influences [[QUEST00060_Main_Quest_61
-- See also: [Crown Jewels]]
+- Influences [[QUEST00060_Main_Quest_61]]
 - Requires [[LOC00274_Cities_Location_275
 - See also: [Archivist Vera Glowmind 2]]
 - Requires [[Marina Bridgewater (D&D_References)
 - Influences
 - Related: [Location City Whisper Touched William Whisper Touched William.svg]]
-- Related: [[ENC00297_Social_Encounter_298
-- Connects to [Truth and Reconciliation Depths Commission]]
+- Related: [[Truth and Reconciliation Depths Commission]]
 - Related: [[Index
 - Related: [Vehicle Ship Arc Engine Prototype V2 Arc Engine Prototype.svg]]
-- Related: [[Arsenal Keeper Thane Ironwill (D&D_References)
-- Parallels [step_033 (phase_086)]]
+- Related: [[Arsenal Keeper Thane Ironwill (D&D_References)]]
 - Influences [[The Hidden Constitution Archive 2
 - Requires [MON00045_Constructs_Creature_46]]
 - Parallels [[step_081 (phase_047)
 - See also: [ITEM01479_Ornate_Journal_of_Durability]]
-- Influences [[giant-goat-xmm
-- Related: [S-004_Cloud_Canyon_Player]]
+- Influences [[S-004_Cloud_Canyon_Player]]
 - Originates from [[Maelstrom Palace 2
 - Leads to [bag-of-devouring-xdmg (items)]]
-- Affected by [[QUEST00084_Personal_Quest_85
-- Related: [NPC00774_Drusilla_Frostwhisper_the_Risen]]
+- Affected by [[NPC00774_Drusilla_Frostwhisper_the_Risen]]
 - Leads to [[step_064 (phase_063)
 - Parallels [Brother Leviathan]]
-- Affected by [[Portrait NPC Trib... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Parallels [Dangerous Goods Storage]]
-- Parallels [[Initiate Shadow-Walker 2
-- Parallels [LOC00066_Dungeons_Location_67]]
-- Originates from [[Sky Trader Zephyr Windcatcher (D&D_References)
-- See also: [Master Sergeant Reef Ironwall]]
+- Affected by [[Portrait NPC Trib... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Parallels [[LOC00066_Dungeons_Location_67]]
+- Originates from [[Sky Trader Zephyr Windcatcher (D&D_References)]]
 - See also: [[NPC0065_Zara_Ironforge
 - Influences [Location City Surface Trade Ports Surface Trade Ports.svg]]
 - Connects to [[step_019 (phase_031)
@@ -234,13 +226,10 @@ Discovered something valuable
 - Connects to [Location City Protocol Expert Formal V1 Protocol Expert Formal.svg]]
 - Connects to [[Spymaster Quartz Clearview 2
 - Requires [ITEM01256_Superior_Incense_of_Swiftness]]
-- Affected by [[Conceptual Being 8 (D&D_References)
-- Connects to [Ambassador Lysandra Silvertonge (D&D_References)]]
+- Affected by [[Ambassador Lysandra Silvertonge (D&D_References)]]
 - Requires [[Economic Intelligence 2
 - Parallels [Guildmaster_Harwick.png]]
-- Compare with [[Crystallium (D&D_References)
-- Connects to
-- Connects to [#Planets]]
+- Compare with [[Crystallium (D&D_References)]]
 - Affected by [[wall-of-thorns-xphb (spells)
 - Leads to [portrait-npc-sirens-v2-sirens.svg_1 (Portraits)]]
 - See also: [[LOC00052_Towns_Location_53
@@ -252,16 +241,13 @@ Discovered something valuable
 - Requires [step_050 (phase_091)]]
 - Leads to [[ITEM00241_Cursed_Hammer_of_Slaying
 - Compare with [List Spells Optional Features Ascendant Step]]
-- Influences [[Dimensional Security Guards
-- Influences [Truth and Madness]]
+- Influences [[Dimensional Security Guards]]
 - Related: [[Healing Temples
 - Related: [ITEM01006_Distilled_Oil_of_Healing]]
 - Originates from [[Individual Treasure Challenge 17 (tables)
 - Affected by [At Sea Encounters]]
-- Related: [[typhon-father-of-monsters-ccodex
-- Compare with [gnoll-warrior-xmm]]
-- Connects to [[step_006 (phase_021)
-- Compare with [downtime-activity-research-xge (variant-rules)]]
+- Related: [[typhon-father-of-monsters-ccodex]]
+- Connects to [[downtime-activity-research-xge (variant-rules)]]
 
 ## Visual References
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png

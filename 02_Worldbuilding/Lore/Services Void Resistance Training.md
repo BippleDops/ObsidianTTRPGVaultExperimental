@@ -1,7 +1,6 @@
 ---
 
-title: Services [[Void Resistance Training
-type: [Lore]]
+title: Services [[Void Resistance Training]]
 tags:
 - lore
 - active

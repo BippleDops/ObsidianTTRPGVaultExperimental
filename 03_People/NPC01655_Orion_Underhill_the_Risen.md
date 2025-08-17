@@ -176,12 +176,10 @@ Blackmails party into service
 
 - Leads to [[tlincalli-mpmm (monstrosity)
 - See also: [step_020 (phase_062)]]
-- Related: [[step_026 (phase_046)
-- See also: [ENC00456_Combat_Encounter_457]]
+- Related: [[ENC00456_Combat_Encounter_457]]
 - Parallels [[Assets Locations Location City Screaming Gardens Songwood Grove Screaming Gardens Songwood Grove.svg
 - Originates from [DUN00194_Dungeon_195]]
-- Influences [[MON00066_Constructs_Creature_67
-- Related: [Cow Xdmg]]
+- Influences [[MON00066_Constructs_Creature_67]]
 - Requires [[Screaming Gardens - Songwood Grove
 - Compare with [LOC00240_Wilderness_Location_241]]
 - See also: [[Great Crystal Lens 2
@@ -195,49 +193,37 @@ Blackmails party into service
 - Influences [Portrait NPC Umbral Crystal Miners V2 Umbral Crystal Miners.svg]]
 - Originates from [[LORE00067_History_Entry_68
 - See also: [step_048 (phase_078)]]
-- See also: [[Groundbreaker's Hammer
-- Compare with [LORE0049_Secret_of_the_Dragon_Wars]]
+- See also: [[LORE0049_Secret_of_the_Dragon_Wars]]
 - Originates from [[Portrait NPC Sea Spirit Priests Sea Spirit Priests.svg
 - Parallels [Identity Verification Systems]]
-- Compare with [[step_023 (phase_096)
-- Connects to [Shadow Magistrate Umbrian Darkwise]]
+- Compare with [[Shadow Magistrate Umbrian Darkwise]]
 - Parallels [[Pressure Technology 2
 - Originates from [Location City Abyssos Prime Upper Districts Abyssos Prime Upper Districts.png]]
 - Leads to [[step_030 (phase_077)
 - Leads to [Elder Coral Doomteller]]
-- Affected by [[step_089 (phase_088)
-- Connects to [Depth Accords (D&D_References)]]
-- Related: [[Master Melodist Zephyr Cloudwalker
-- Requires [step_092 (phase_062)]]
+- Affected by [[Depth Accords (D&D_References)]]
+- Related: [[Master Melodist Zephyr Cloudwalker]]
 - Related: [[Levitate Xphb
 - Related: [Elven Elebrin Liothiel Mtf]]
-- Compare with [[Ancient King Pelagios (D&D_References)
-- Connects to [Spell Points]]
-- Related: [[NPC01986_Alaric_Keenblade_the_Strong
-- Requires [MON00139_Constructs_Creature_140]]
-- Affected by [[Quest - Economic Warfare
-- Leads to [Sinking Phenomenon Research (D&D_References)]]
+- Compare with [[Ancient King Pelagios (D&D_References)]]
+- Related: [[NPC01986_Alaric_Keenblade_the_Strong]]
+- Affected by [[Sinking Phenomenon Research (D&D_References)]]
 - Originates from [[Portrait NPC Emperor Abyssal the Deep Sighted Emperor Abyssal the Deep Sighted.svg
 - Requires [Crisis Response Service 2]]
 - Requires [[ITEM01316_Elegant_Map_Case_of_Durability
 - Connects to [Work Complications Xge]]
 - Leads to [[enspelled-weapon-level-4-xdmg (items)
 - Influences [QUEST00070_Personal_Quest_71]]
-- Influences [[Junior Administrator Elena Efficient
-- Connects to [Reality Merger Mechanics]]
+- Influences [[Junior Administrator Elena Efficient]]
 - Connects to
-- Affected by [[Reef Saltwater
-- Connects to [Lord Bathysmal (D&D_References)]]
+- Affected by [[Lord Bathysmal (D&D_References)]]
 - Connects to [[step_005 (phase_052)
 - Leads to [merrow-xmm (monstrosity)]]
-- Parallels [[3 Bestiary
-- Affected by [Business Card Dungeon - config]]
-- Connects to [[Echo-Who-Was-Elena
-- Related: [NPC00826_Pyria_Dawnstrider_the_Wanderer]]
+- Parallels [[Business Card Dungeon - config]]
+- Connects to [[NPC00826_Pyria_Dawnstrider_the_Wanderer]]
 - Influences [[Special Features What Minor Property Does It
 - Related: [Governmental Legitimacy 2]]
-- Originates from [[Pool of Sacred Drowning
-- See also: [Shadow Medical Training Methods]]
+- Originates from [[Shadow Medical Training Methods]]
 - Influences [[Blink Dog Xmm
 - Parallels [cleric-xphb-light-domain-xphb (classes)]]
 - Parallels [[Assets Locations Location City Cultural Districts V1 Cultural Districts.svg
@@ -251,12 +237,9 @@ Blackmails party into service
 - Parallels [Quest - The Deep Mother Rises]]
 - Affected by [[Spell Compendium 2
 - Originates from [step_049 (phase_050)]]
-- Affected by [[The Kelp Highway (D&D_References)
-- Connects to [Project Mindbridge]]
-- Related: [[Crysthaven
-- Affected by [The Siren''s Rest Tavern]]
-- Connects to [[deck-of-many-things#Sun
-- Affected by [portrait-npc-aether-crystal-v2-aether-crystal.svg_1 (Portraits)]]
+- Affected by [[The Kelp Highway (D&D_References)]]
+- Related: [[The Siren''s Rest Tavern]]
+- Connects to [[deck-of-many-things#Key]]
 - Influences [[EVENT00071_Magical_Event_72
 - Leads to [Location City Syndicate Enforcers Syndicate Enforcers.svg]]
 - Compare with [[step_086 (phase_042)
@@ -270,10 +253,8 @@ Blackmails party into service
 - Originates from [War College of Depths]]
 - Compare with [[Illusory Dragon Xge
 - Requires [ITEM01206_Concentrated_Incense_of_Swiftness]]
-- Requires [[Risk Assessor Probability (D&D_References)
-- Compare with [The Surgical Sanctum]]
-- Leads to [[step_021 (phase_046)
-- Related: [Merchant Truth Society (D&D_References)]]
+- Requires [[Risk Assessor Probability (D&D_References)]]
+- Leads to [[Merchant Truth Society (D&D_References)]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

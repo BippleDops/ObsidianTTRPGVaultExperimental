@@ -161,8 +161,7 @@ Forming expedition to dangerous location
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -178,54 +177,42 @@ Forming expedition to dangerous location
 
 - Originates from [[tinkers-tools-xphb (items)
 - Influences [step_032 (phase_082)]]
-- Leads to [[Weather and Seasons
-- Parallels [Memory Rights Debate (D&D_References)]]
+- Leads to [[Memory Rights Debate (D&D_References)]]
 - Related: [[LOC00017_Cities_Location_18
 - Compare with [Halfling Tables Halfling Flaws Mtf]]
-- Related: [[Bartender Marina Dualborn (D&D_References)
-- Related: [Lumina Crystal]]
+- Related: [[Bartender Marina Dualborn (D&D_References)]]
 - Compare with [[Egyptian Re Horakhty
 - Related: [Assets Locations Location City Truth Verification Magic Truth Verification Magic.svg]]
-- Related: [[LOC00102_Wilderness_Location_103
-- Compare with [step_029 (phase_006)]]
-- Related: [[step_074 (phase_089)
-- Compare with [ITEM0072_Ancient_Shield_of_the_Dawn]]
+- Related: [[LOC00102_Wilderness_Location_103]]
+- Related: [[ITEM0072_Ancient_Shield_of_the_Dawn]]
 - Requires [[LORE00248_Prophecies_Entry_249
 - Originates from [Location City the Sunken Library of Thalassius V1 the Sunken Library of Thalassius.svg]]
 - Connects to [[Symbol Heraldry Thalassa the Pathfinder Thalassa the Pathfinder.svg
 - Affected by [ENC00113_Environmental_Encounter_114]]
-- Requires [[Initiate Shadow-Walker
-- Requires [climbing-xphb (variant-rules)]]
+- Requires [[climbing-xphb (variant-rules)]]
 - Compare with [[Portrait NPC Lich Queen Morwyn the Deathless V1 Lich Queen Morwyn the Deathless.svg
 - Leads to [Frequency Manipulatio]]
 - Leads to [[LORE00227_History_Entry_228
 - Related: [The War Room Sanctuary]]
-- Leads to [[Economics Research Investment Funds
-- Influences [step_038 (phase_008)]]
-- Related: [[item-artifact-warhammer-xphb-v1-warhammer-xphb.png
-- Parallels [Astrologer Prime Cassandra Starweaver (D&D_References)]]
-- Parallels [[step_011 (phase_015)
-- Parallels [Emergency Navigation Response]]
+- Leads to [[Economics Research Investment Funds]]
+- Related: [[Astrologer Prime Cassandra Starweaver (D&D_References)]]
+- Parallels [[Emergency Navigation Response]]
 - Leads to [[Portrait NPC Character Relationship Web Core Npcs V1 Character Relationship Web Core Npcs.svg_1 (Portraits)
 - Affected by [step_008 (phase_077)]]
 - Connects to [[Portrait NPC the Shadow Warren the Shadow Warren.svg_1 (Portraits)
 - Influences [step_061 (phase_075)]]
-- Originates from [[Pressure Crush Zones
-- Requires [Evidence-Based Policy Development]]
-- Originates from [[Sage Rememberall (D&D_References)
-- Compare with [Quest - Medical Conspiracy]]
+- Originates from [[Evidence-Based Policy Development]]
+- Originates from [[Sage Rememberall (D&D_References)]]
 - Parallels [[curses-xphb (variant-rules)
 - Affected by [step_011 (phase_078)]]
 - Related:
-- Leads to [[Crown Dome Conspiracy (D&D_References)
-- Influences [The Great Separation]]
+- Leads to [[Crown Dome Conspiracy (D&D_References)]]
 - Requires [[ENC00139_Social_Encounter_140
 - Compare with [International Peace Organization]]
 - Parallels [[QUEST00159_Side_Quest_160
 - Connects to
 - See also: [Assets Item Artifact Poisoners Kit Xphb V6 Poisoners Kit Xphb.png]]
-- Parallels [[gith-mtf (races)
-- Affected by [NPC00203_Qadim_Crystalbrook_the_Strong]]
+- Parallels [[NPC00203_Qadim_Crystalbrook_the_Strong]]
 - See also: [[EVENT00060_Magical_Event_61
 - Affected by [QUEST00434_Side_Quest_435]]
 - Affected by [[Belt of Hill Giant Strength Xdmg
@@ -249,15 +236,12 @@ Forming expedition to dangerous location
 - See also: [NPC00261_Gavril_Jadeclaw]]
 - Parallels [[Quest - Stop the Awakening_1 (01_Adventures)
 - Requires [NPC01605_Qadim_Ironwood_the_Wise]]
-- Originates from [[Faction_Relationship_Web
-- Affected by [NPC01695_Ewan_Ashford_the_Fallen]]
+- Originates from [[NPC01695_Ewan_Ashford_the_Fallen]]
 - Connects to [[LORE00175_Prophecies_Entry_176
 - Originates from [step_025 (phase_066)]]
-- Influences [[LOC00294_Towns_Location_295
-- Leads to [DUN00012_Dungeon_13]]
+- Influences [[LOC00294_Towns_Location_295]]
 - Originates from
-- Influences [[LORE00285_Legends_Entry_286
-- Parallels [Emergency Response Procedures 2]]
+- Influences [[Emergency Response Procedures 2]]
 - Parallels [[SHOP00061_General_Shop_62
 - Connects to [Marina the Unifier]]
 - Influences [[Assets Portraits Portrait NPC Marcus Shardbreaker Grimm Marcus Shardbreaker Grimm.svg
@@ -272,8 +256,7 @@ Forming expedition to dangerous location
 - Connects to [portrait-npc-the-senator-the-senator.svg]]
 - Affected by [[Portrait NPC Scholar Priest Tidal Memory V2 Scholar Priest Tidal Memory.svg
 - Affected by [LORE00064_History_Entry_65]]
-- Influences [[step_032 (phase_092)
-- Leads to [VAULT_100_PERCENT_ACHIEVED]]
+- Influences [[VAULT_100_PERCENT_ACHIEVED]]
 - Originates from [[Chamber Purpose Dungeon Planar Gate
 - Originates from [Anesthesiologist Void]]
 

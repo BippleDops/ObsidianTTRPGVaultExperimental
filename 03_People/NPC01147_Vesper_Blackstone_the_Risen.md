@@ -167,22 +167,18 @@ Competitor sabotaging business
 - Compare with [shadow-mastiff-alpha-mpmm (monstrosity)]]
 - Connects to [[step_003 (phase_054)
 - Related: [Assets Locations Location City Captain Echo Captain Echo.svg]]
-- Compare with [[step_036 (phase_074)
-- See also: [Quest - The Corporate Coup]]
+- Compare with [[Quest - The Corporate Coup]]
 - Influences
 - Parallels [[Mounts and Vehicles Tack Harness and Drawn Vehicles Phb
 - Related: [Emergency Protocols 2 (Places)]]
-- Leads to [[creature-creature-bat-xmm-v3-bat-xmm.png
-- Compare with [downtime-activity-practicing-a-profession-phb (variant-rules)]]
+- Leads to [[downtime-activity-practicing-a-profession-phb (variant-rules)]]
 - Leads to [[EVENT00076_Magical_Event_77
 - Influences
 - Influences [The Memory Nexus (D&D_References)]]
-- Related: [[Emergency Life Support Research Foundation 2
-- Requires [DUN00007_Dungeon_8]]
+- Related: [[Emergency Life Support Research Foundation 2]]
 - Requires [[scufflecup-teacup-scc (construct)
 - Leads to [Pressure Adaptation System]]
-- Compare with [[Hidden Shrine of Forgotten Depths
-- Related: [Master Artificer Thymallos (D&D_References)]]
+- Compare with [[Master Artificer Thymallos (D&D_References)]]
 - Affected by [[step_090 (phase_088)
 - Influences [Assets Locations Location City Shadow Crystals Shadow Crystals.svg]]
 - Connects to [[gnome-sheyanna-flaxenstrand-mtf (deities)
@@ -198,12 +194,10 @@ Competitor sabotaging business
 - Requires
 - Compare with [step_034 (phase_050)]]
 - See also:
-- Requires [[NPC00801_Malakai_Youngblood_the_Risen
-- Related: [step_015 (phase_087)]]
+- Requires [[NPC00801_Malakai_Youngblood_the_Risen]]
 - Compare with [[step_065 (phase_007)
 - Influences [step_056 (phase_025)]]
-- Connects to [[Temple of the Healing Waters (D&D_References)
-- Related: [ITEM00951_Distilled_Crystal_of_Healing]]
+- Connects to [[Temple of the Healing Waters (D&D_References)]]
 - Requires [[Training Director Tide Teachwright
 - Compare with [ENC00489_Combat_Encounter_490]]
 - Influences [[Weather Warden Storm Wisdom
@@ -233,15 +227,13 @@ Competitor sabotaging business
 - See also: [Location City the Depth Plague V1 the Depth Plague.svg]]
 - Compare with [[NPC0133_Nora_Darkwater
 - Requires [QUEST00104_Side_Quest_105]]
-- Affected by [[step_082 (phase_038)
-- Originates from [Bomber Bobby Naturals (D&D_References)]]
+- Affected by [[Bomber Bobby Naturals (D&D_References)]]
 - Parallels [[QUEST0054_Wizard's_Request
 - Parallels [apparatus-of-kwalish-xdmg (items)]]
 - Compare with
 - Compare with [[Corallion
 - Leads to [step_089 (phase_092)]]
-- Affected by [[Cloaker Xmm
-- Parallels [The Harbor Guild (D&D_References)]]
+- Affected by [[The Harbor Guild (D&D_References)]]
 - Parallels [[Human Names Polynesian Male Xge
 - Affected by [LOC00066_Planes_Location_67]]
 - Related: [[DUN00019_Dungeon_20
@@ -257,8 +249,7 @@ Competitor sabotaging business
 - Influences [Druid Xphb Circle of Dreams Xge]]
 - Leads to [[Periapt of Health Xdmg
 - Related: [QUEST00434_Side_Quest_435]]
-- Requires [[Truth and Madness (D&D_References)
-- See also: [The Children's Grotto (D&D_References)]]
+- Requires [[The Children's Grotto (D&D_References)]]
 - Affected by [[International Trade Routes 2
 - Originates from [step_057 (phase_021)]]
 - Related: [[step_063 (phase_096)

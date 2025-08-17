@@ -41,43 +41,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-### Hospitality Improvements
-
-- Explain guest rights and host obligations
-
-### Coming_Of_Age Improvements
-
-- Describe rites of passage and adulthood markers
-
-### Superstitions Improvements
-
-- List common superstitions and their origins
-
-### Material_Culture Improvements
-
-- Detail common objects and their cultural significance
-
-### Death_Customs Improvements
-
-- Detail funeral rites and afterlife beliefs
-
-### Sensory Improvements
-
-- Add smells, sounds, and textures unique to this culture
-
-### Contradictions Improvements
-
-- Include cultural hypocrisies and double standards
-
-### Oral_Tradition Improvements
-
-- Add folk tales and children's stories
-
-## Overview
-
-02_Worldbuilding/[People]]/Jasper Three-Eyes Flint represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+- Describe how this culture exists in other [[region]]/Jasper Three-Eyes Flint represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ### Basic Information
 02_Worldbuilding/People/Jasper Three-Eyes Flint can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
@@ -292,11 +256,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## References
 
 - [Campaign_Relationship_Matrix]]
-- [[Comprehensive-World-Connection-Guide
-- [Jasper Three-Eyes Flint (02_Worldbuilding)]]
-- [[Marina-Red-Tide-Coralheart
-- [Aethermoor - Session 02 The Lighthouse of Storms]]
-- [[Aethermoor - Session 06 The Bloodline Awakens
-- [Comprehensive-World-Connection-Guide (D&D_References)]]
-- [[Comprehensive-World-Connection-Guide 3 (D&D_References)
-- [Marina-Red-Tide-Coralheart (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]
+- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]

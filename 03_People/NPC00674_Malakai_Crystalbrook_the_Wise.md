@@ -175,37 +175,30 @@ Discovered something valuable
 - Affected by [Aetheric Wind Songs (D&D_References)]]
 - Compare with [[Timeline of the Catastrophe
 - Influences [list-spells-classes-great-old-one-patron-xphb (lists)]]
-- Related: [[Adjudicating Areas of Effect Targets in
-- Compare with [07-chapter-6-equipment (players-handbook-2024)]]
+- Related: [[07-chapter-6-equipment (players-handbook-2024)]]
 - Affected by [[The World Tree
 - Parallels [Assets Locations Location City Royal Vault V1 Royal Vault.svg]]
-- Affected by [[Assets Locations Location City Foreign Affairs Foreign Affairs.svg
-- Originates from [Consequence Chain 2 - Crystal Trade Disruption 3 (D&D_References)]]
+- Affected by [[Consequence Chain 2 - Crystal Trade Disruption 3 (D&D_References)]]
 - Connects to [[Handout Handout Aged Treasure Map V1 Aged Treasure Map.png
 - Connects to
 - Affected by
 - Compare with [step_096 (phase_043)]]
-- Parallels [[NPC01478_Solas_Voidwalker_the_Strong
-- Influences [Prophetic Circle]]
+- Parallels [[NPC01478_Solas_Voidwalker_the_Strong]]
 - Connects to [[Paradox Meditation Cells
 - Compare with [Crown of Endless Moments]]
 - Connects to [[Session 4 (06_Sessions)
 - Influences [DUN00136_Dungeon_137]]
-- Affected by [[LORE0033_Myth_of_the_Dragon_Wars
-- See also: [LOC00181_Planes_Location_182]]
-- Requires [[step_079 (phase_056)
-- See also: [LOC00033_Wilderness_Location_34]]
+- Affected by [[LORE0033_Myth_of_the_Dragon_Wars]]
+- Requires [[LOC00033_Wilderness_Location_34]]
 - Related:
 - Related: [[Portrait NPC Quest the Tide War V2 Quest the Tide War.svg
 - Related: [step_040 (phase_023)]]
-- Related: [[step_018 (phase_095)
-- Influences [Jenny Copperwright (D&D_References)]]
+- Related: [[Jenny Copperwright (D&D_References)]]
 - Requires [[Primeval Owlbear Xmm
 - Influences [Portrait NPC Captain Scale Walker V1 Captain Scale Walker.svg]]
 - Related: [[ITEM00655_Dragon_Scale_Chain_Mail_of_the_Guardian
 - Requires [The Parliament of Shadows Campaign]]
-- Connects to [[08-using-ability-scores#Contests
-- Originates from [04_Resources_Assets_Symbols_symbol-heraldry-minister-truth-darknes-minister-truth-darknes.svg]]
+- Connects to [[08-using-ability-scores#Wisdom]]
 - Affected by [[Authenticity Verification
 - See also: [cloak-of-the-manta-ray-xdmg (items)]]
 - Parallels [[Gem of Brightness Xdmg
@@ -214,8 +207,7 @@ Discovered something valuable
 - Influences [step_001 (phase_054)]]
 - Influences [[Assets Locations Location City Great Plague of Ages Past V1 Great Plague of Ages Past.svg
 - Requires [step_068 (phase_045)]]
-- Related: [[LOC0137_Peakstead
-- Related: [NPC01189_Aeliana_Voidwalker_the_Bold]]
+- Related: [[NPC01189_Aeliana_Voidwalker_the_Bold]]
 - Related: [[eberron-the-fury (deities)
 - Related: [supplemental-tables-status-xge (tables)]]
 - Related: [[Demon Customization Tables Demon Personality Traits Mtf
@@ -233,16 +225,12 @@ Discovered something valuable
 - See also: [Central Location]]
 - Influences [[Location City Keeper of the Dead Sister Morwyn Keeper of the Dead Sister Morwyn.svg
 - Parallels [Symbol Heraldry Silverscale Consortium V1 Silverscale Consortium.svg]]
-- Originates from [[kuo-toa-whip-xmm (aberration)
-- Requires [step_010 (phase_092)]]
-- Affected by [[Calculator Magnus
-- See also: [README]]
-- Requires [[Intelligence Processing Center 2
-- See also: [NPC00481_Orion_Ironforge_the_Fallen]]
+- Originates from [[kuo-toa-whip-xmm (aberration)]]
+- Affected by [[Calculator Magnus]]
+- Requires [[NPC00481_Orion_Ironforge_the_Fallen]]
 - Requires [[step_073 (phase_063)
 - Originates from [step_096 (phase_077)]]
-- Compare with [[NPC01216_Elric_Darkwater_the_Lost
-- Parallels [EVENT00003_Natural_Event_4]]
+- Compare with [[NPC01216_Elric_Darkwater_the_Lost]]
 - See also:
 - Requires [[step_026 (phase_100)
 - See also: [step_008 (phase_044)]]
@@ -253,15 +241,13 @@ Discovered something valuable
 - See also: [Bio-Integration Researcher Coral Lifeshaper (D&D_References)]]
 - Influences [[crystal-ball-of-telepathy-xdmg (items)
 - Connects to [step_043 (phase_062)]]
-- Connects to [[step_013 (phase_020)
-- Influences [Underground Smuggling Networks 2]]
+- Connects to [[Underground Smuggling Networks 2]]
 - Originates from [[Jasper Three-Eyes Flint (People)
 - See also: [NPC01938_Caelum_Underhill_the_Lost]]
 - Parallels
 - Parallels [[QUEST00373_Side_Quest_374
 - See also: [Assets Locations Location City Void Touched Pilgrims Void Touched Pilgrims.svg]]
-- Requires [[step_075 (phase_019)
-- Connects to [Entities Abstract Cosmic Forces]]
+- Requires [[Entities Abstract Cosmic Forces]]
 - Requires [[Assets Locations Location City Toxin Specialist Venom Reef Toxin Specialist Venom Reef.svg
 - Influences
 - Leads to [step_087 (phase_084)]]

@@ -167,10 +167,8 @@ Has map to lost treasure
 
 ## Connections
 
-- Requires [[NPC00861_Caelum_Goldleaf_the_Risen
-- Requires [Resonance Cascade Attack 2]]
-- See also: [[The Free Traders Alliance 2
-- Related: [README (Tokens)]]
+- Requires [[NPC00861_Caelum_Goldleaf_the_Risen]]
+- See also: [[The Free Traders Alliance 2]]
 - Originates from [[House Deepforge
 - Leads to [FAC00010_Cults_11]]
 - Originates from [[Dybbuk Mpmm
@@ -186,40 +184,32 @@ Has map to lost treasure
 - Compare with [[2-character-options 2 (xanathars-guide-to-everything)
 - Related:
 - Compare with [09-appendix-a-lore-glossary (dungeon-masters-guide-2024)]]
-- Originates from [[Shadow Timeline Lysara
-- See also: [NPC01600_Ewan_Zephyrblade_the_Guardian]]
+- Originates from [[NPC01600_Ewan_Zephyrblade_the_Guardian]]
 - Originates from [[Biomancer Corvus Intestinal (Lore)
 - Leads to [Infected Experiments]]
 - Affected by
 - Parallels [[Sir Ruben Redtape (D&D_References)
 - Connects to [Assets Locations Location City Specimen Careful Lifeguard V1 Specimen Careful Lifeguard.svg]]
-- Related: [[step_079 (phase_087)
-- Originates from [The Current Maps (D&D_References)]]
-- Influences [[NPC00715_Alaric_Stormwind_the_Wanderer
-- Related: [LORE00092_Legends_Entry_93]]
+- Related: [[The Current Maps (D&D_References)]]
+- Influences [[NPC00715_Alaric_Stormwind_the_Wanderer]]
 - Requires [[step_009 (phase_027)
 - Related: [step_047 (phase_078)]]
 - Parallels [[Assets Locations Location City Keeper Deepcurrent V1 Keeper Deepcurrent.svg
 - Affected by [psychic-gray-ooze-xmm (ooze)]]
-- Parallels [[SPELL00091_Arcane_Spell_92
-- Leads to [Scribe Pennsworth]]
+- Parallels [[SPELL00091_Arcane_Spell_92]]
 - Leads to [[Living Amplifiers
 - Related: [04_Resources_Assets_Locations_location-city-quartermaster-judith-steadfast-v1-quartermaster-judith-steadfast.svg]]
 - Requires [[step_027 (phase_019)
 - Connects to [FAC00085_Orders_86]]
-- Parallels [[Undead Rights Organization HQ
-- Related: [Location_Network_Graph]]
+- Parallels [[Undead Rights Organization HQ]]
 - Related:
 - Compare with
-- Originates from [[Nobody-Named-Marcus
-- Affected by [The Deep Temple (D&D_References)]]
+- Originates from [[The Deep Temple (D&D_References)]]
 - Originates from
-- Connects to [[step_020 (phase_023)
-- Related: [ITEM0120_Ancient_Circlet_of_the_Dawn]]
+- Connects to [[ITEM0120_Ancient_Circlet_of_the_Dawn]]
 - Compare with [[FAC00095_Guilds_96
 - Compare with [The Bloodline Awakens]]
-- Leads to [[Temple of the Sunken Cathedral
-- Affected by [Windwright Academy]]
+- Leads to [[Temple of the Sunken Cathedral]]
 - Affected by [[Assets Locations Location City Luna Shimmerleaf V1 Luna Shimmerleaf.svg
 - Affected by [Npc Secrets Xdmg]]
 - Originates from [[The Balance Keeper
@@ -232,16 +222,13 @@ Has map to lost treasure
 - Requires [Random Tavern]]
 - Connects to [[Assets Locations Location City the Temple of Eternal Tides the Temple of Eternal Tides.svg
 - Leads to [Assets Locations Location City Arts Communities Arts Communities.svg]]
-- Originates from [[FAC00086_Guilds_87
-- Parallels [LOC00259_Wilderness_Location_260]]
-- See also: [[QUEST00254_Personal_Quest_255
-- Originates from [Green Dragon Xmm]]
+- Originates from [[LOC00259_Wilderness_Location_260]]
+- See also: [[QUEST00254_Personal_Quest_255]]
 - Related: [[Scroll of Protection Beasts Xdmg
 - Originates from [ENC00220_Combat_Encounter_221]]
 - Originates from [[step_069 (phase_022)
 - Related: [step_073 (phase_070)]]
-- Parallels [[LOC00110_Cities_Location_111
-- Affected by [step_044 (phase_060)]]
+- Parallels [[LOC00110_Cities_Location_111]]
 - See also: [[NPC01719_Elric_Jadeclaw_the_Redeemed
 - Leads to [ring-of-djinni-summoning-xdmg (items)]]
 - Compare with
@@ -253,19 +240,16 @@ Has map to lost treasure
 - Requires [step_097 (phase_046)]]
 - Parallels [[Assets Locations Location City Chief Engineer Marina Crystalwright Chief Engineer Marina Crystalwright.svg
 - Influences [urban-encounters-levels-1116-xge (tables)]]
-- Related: [[NPC00753_Branwen_Ashford_the_Mystic
-- Influences [Seven Shards Campaign Campaign Overview]]
+- Related: [[Seven Shards Campaign Campaign Overview]]
 - Influences [[Eastern Kingdom 2
 - Compare with [LORE00294_Legends_Entry_295]]
-- Originates from [[step_049 (phase_076)
-- Related: [NPC00326_Qadim_Lightbringer]]
+- Originates from [[NPC00326_Qadim_Lightbringer]]
 - Compare with [[Thunder Step Xge
 - Originates from
 - Related: [step_021 (phase_098)]]
 - Leads to [[misty-step-xphb (spells)
 - Influences [LORE00292_Legends_Entry_293]]
-- Originates from [[Party Shadows
-- Related: [NPC01989_Erasmus_Xendar_the_Strong]]
+- Originates from [[NPC01989_Erasmus_Xendar_the_Strong]]
 - Influences [[Memory Extraction Laboratory]]
 
 ## Plot Hooks

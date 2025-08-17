@@ -112,6 +112,5 @@ Shadow Shard represents a crucial aspect of the world's history, cosmology, or f
 ## References
 
 - [02_Worldbuilding_Lore_The_Shadow_Shard]]
-- [[The Shadow Shard
-- [The Seven Shards Mystery]]
+- [[The Seven Shards Mystery]]
 - [[Session 09 the Shard Convergence]]

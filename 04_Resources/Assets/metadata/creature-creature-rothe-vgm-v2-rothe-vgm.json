@@ -25,5 +25,8 @@
   "alt_text": "Concept art of rothe-vgm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-rothe-vgm-v2-rothe-vgm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-rothe-vgm-v2-rothe-vgm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:08:23.473Z",
+  "generationMethod": "ComfyUI"
 }

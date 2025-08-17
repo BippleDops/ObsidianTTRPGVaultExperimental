@@ -49,7 +49,7 @@ The layout and contents within.
 - [NPC00525_Fiora_Proudmore_the_Wanderer]]
 - [[NPC01367_Lyanna_Xendar_the_Wise Present
 - [NPC_Name_1]]
-- [[NPC_Name_2]]
+- [[NPC Name 2]]
 
 ## Available Services
 - Service 1

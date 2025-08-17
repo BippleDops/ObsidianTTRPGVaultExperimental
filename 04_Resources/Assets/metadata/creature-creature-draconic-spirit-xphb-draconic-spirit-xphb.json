@@ -25,5 +25,8 @@
   "alt_text": "Concept art of draconic-spirit-xphb with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-draconic-spirit-xphb-draconic-spirit-xphb.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-draconic-spirit-xphb-draconic-spirit-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:01:05.308Z",
+  "generationMethod": "ComfyUI"
 }

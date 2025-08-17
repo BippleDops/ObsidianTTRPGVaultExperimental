@@ -239,11 +239,8 @@ Roll once on each table or choose as needed for quick NPC creation. ### Aquabyss
 
 - Someone is blackmailing an heir for power
 - A map reveals ancient history about a local noble
-- Strange sightings suggest a portal ## Related Notes - [[Similar Topic 1
-
-- [Contrasting Approach]]
-- [[Advanced Version
-- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
+- Strange sightings suggest a portal ## Related Notes - [[Contrasting Approach]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

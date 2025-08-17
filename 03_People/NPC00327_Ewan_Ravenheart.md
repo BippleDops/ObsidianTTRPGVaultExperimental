@@ -173,22 +173,18 @@ Wants rivals investigated
 
 - Connects to [[LORE00017_History_Entry_18
 - See also: [step_091 (phase_021)]]
-- Originates from [[step_094 (phase_045)
-- Parallels [NPC00138_Nerys_Ravenheart_the_Risen]]
+- Originates from [[NPC00138_Nerys_Ravenheart_the_Risen]]
 - See also: [[druid-grove-xge (spells)
 - See also: [step_064 (phase_048)]]
-- Requires [[Hill Encounters Levels 1720 Xge
-- Influences [step_056 (phase_072)]]
+- Requires [[Hill Encounters Levels 1720 Xge]]
 - Leads to [[vortex-warp-scc (spells)
 - Influences [Assets Locations Location City Expedition to the Sunless Depths V1 Expedition to the Sunless Depths.svg]]
 - Requires [[step_040 (phase_059)
 - Requires [step_079 (phase_005)]]
 - Affected by [[The Ledger Hall
 - Connects to [The Archive Keepers 2]]
-- Leads to [[NPC00017_Hilda_Silverleaf
-- Affected by [The Noble Quarter Market (D&D_References)]]
-- Requires [[LOC00087_Dungeons_Location_88
-- Related: [lightbringer-lmop (items)]]
+- Leads to [[The Noble Quarter Market (D&D_References)]]
+- Requires [[LOC00087_Dungeons_Location_88]]
 - Compare with [[08_Archive
 - Connects to [Fate Weavers 2]]
 - Related:
@@ -197,35 +193,28 @@ Wants rivals investigated
 - Compare with [[Clerics of Thalassa
 - Compare with
 - Originates from [NPC00680_Nerys_Keenblade_the_Wanderer]]
-- Compare with [[Secure Communication Arrays
-- Leads to [step_069 (phase_054)]]
-- See also: [[Archive Kelpmere
-- Compare with [Security Quarters (D&D_References)]]
+- Compare with [[Secure Communication Arrays]]
+- See also: [[Security Quarters (D&D_References)]]
 - Related: [[step_076 (phase_020)
 - Affected by [Location City Portal Commander Marina Bridgewright V1 Portal Commander Marina Bridgewright.png]]
 - Influences [[step_046 (phase_016)
 - Connects to [Assets Portraits Portrait NPC Captain Marcus Ironwill Captain Marcus Ironwill.svg]]
 - See also: [[Healer Tide-Touch 2
 - Influences [6 Appendix a Magic Items]]
-- See also: [[step_054 (phase_057)
-- Parallels
-- Related: [05-chapter-4-character-origins (players-handbook-2024)]]
+- See also: [[05-chapter-4-character-origins (players-handbook-2024)]]
 - Influences [[High Priestess Celeste (D&D_References)
 - Originates from [02_Worldbuilding_Spells_Future_Glimpse]]
 - Leads to [[step_085 (phase_070)
 - Influences [Bronze Dragon Xmm]]
-- Influences [[step_095 (phase_074)
-- Leads to [ENC00146_Social_Encounter_147]]
+- Influences [[ENC00146_Social_Encounter_147]]
 - Parallels [[LORE00298_History_Entry_299
 - Requires [portrait-npc-the-king-s-ears-the-king-s-ears.svg]]
 - Connects to [[DUN00050_Dungeon_51
 - See also: [Psychic Wind Psychic Effects Xdmg]]
 - Originates from [[ITEM00586_Enchanted_Leather_of_Grace
 - Requires [Sky Sovereign Alliance]]
-- Parallels [[LOC00243_Planes_Location_244
-- Leads to [Culinary Dreamweaver Sage Gentlespice 2]]
-- Originates from [[50_PERCENT_MILESTONE_COMPLETE
-- Affected by [Crystal Communication Center (D&D_References)]]
+- Parallels [[Culinary Dreamweaver Sage Gentlespice 2]]
+- Originates from [[Crystal Communication Center (D&D_References)]]
 - Connects to [[NPC00168_Jorah_Quicksilver_the_Broken
 - Connects to [Assets Locations Location City Merchant V1 Merchant.svg]]
 - Parallels [[Assets Locations Location City Abyss Currentbinder V1 Abyss Currentbinder.svg
@@ -234,10 +223,8 @@ Wants rivals investigated
 - Parallels [ITEM00107_Venomous_Bow_of_the_Ancients]]
 - Parallels [[Spike Growth Xphb
 - Originates from [Location City Enchanter Valdris Peacewarden Enchanter Valdris Peacewarden.svg]]
-- Compare with [[MON00106_Constructs_Creature_107
-- Originates from [step_047 (phase_070)]]
-- Requires [[Depth Safety Authorit (D&D_References)
-- See also: [Elven Zandilar Mtf]]
+- Compare with [[MON00106_Constructs_Creature_107]]
+- Requires [[Depth Safety Authorit (D&D_References)]]
 - See also: [[Portrait NPC Duke Lysander Crystalvein V1 Duke Lysander Crystalvein.svg_1 (Portraits)
 - Affected by [location-city-the-plague-ward-the-plague-ward.svg]]
 - Affected by [[QUEST00352_Side_Quest_353
@@ -256,18 +243,15 @@ Wants rivals investigated
 - Influences [[step_032 (phase_038)
 - Parallels
 - Connects to [step_024 (phase_090)]]
-- Originates from [[Commander Ironprice 3 (D&D_References)
-- Influences [step_009 (phase_045)]]
+- Originates from [[Commander Ironprice 3 (D&D_References)]]
 - Compare with [[04_Resources_Assets_Symbols_symbol-heraldry-port-sorrow-trading-company-port-sorrow-trading-company.svg
 - Compare with [Potion of Resistance Xdmg]]
 - Originates from [[Portrait NPC the Crimson Sage V2 the Crimson Sage.svg
 - Connects to [Secure Communication Crystals]]
-- Parallels [[Identity Crisis Resolution 2
-- Requires [step_013 (phase_018)]]
+- Parallels [[Identity Crisis Resolution 2]]
 - Requires [[02_Worldbuilding_Military_Combat_Healers_Quick_Ref
 - Affected by [NPC00498_Fiora_Ironwood_the_Guardian]]
-- Parallels [[Order of the Crystal Flame
-- See also: [Protocol Specialist Sarah Ceremonial 2]]
+- Parallels [[Protocol Specialist Sarah Ceremonial 2]]
 - Originates from [[Assets Art Taverner Bubbles Mcgill.png
 - Parallels [LORE00312_Legends_Entry_313]]
 - Leads to [[SHOP00041_Magical_Shop_42]]

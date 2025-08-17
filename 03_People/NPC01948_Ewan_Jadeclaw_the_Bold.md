@@ -166,61 +166,48 @@ Is secretly testing the party
 - Leads to
 - See also: [[Guild Master Shellforge
 - Affected by [nightmare-xmm (fiend)]]
-- Originates from [[Memory Extraction Laboratory 2
-- Affected by [Coral Craftsman 2]]
+- Originates from [[Memory Extraction Laboratory 2]]
 - See also: [[creature-creature-dragon-v1-dragon.png
 - Parallels
 - Compare with [Portrait NPC Emperor Thalassius the Wise V1 Emperor Thalassius the Wise.svg]]
 - See also:
 - Originates from [[The Archive Keepers 2
 - Connects to [Identity Crisis Resolution]]
-- Requires [[Royal Herald Marcus
-- Compare with [ENC00137_Environmental_Encounter_138]]
+- Requires [[ENC00137_Environmental_Encounter_138]]
 - Parallels [[ITEM00488_Fortified_Boots_of_Resistance
 - Affected by [Depth Pulse]]
 - Affected by [[NPC00316_Caelum_Frostwhisper
 - Influences [QUEST00144_Main_Quest_145]]
-- Influences [[step_055 (phase_067)
-- Parallels [NPC00268_Ysara_Thornweave_the_Wise]]
+- Influences [[NPC00268_Ysara_Thornweave_the_Wise]]
 - Leads to [[Portrait NPC Sea Spirit Priests Sea Spirit Priests.svg
 - Leads to [Senator Defense Umbral]]
-- Leads to [[The Whistleblower (D&D_References)
-- Leads to [ballista-xdmg (objects)]]
+- Leads to [[The Whistleblower (D&D_References)]]
 - Compare with [[Ray of Enfeeblement Xphb
 - Originates from
 - Parallels [Eye Patch Decorated with Tiny Blue Sapphires and Moonstones Xdmg]]
 - Compare with [[Marina Stormwright
 - Requires [step_084 (phase_091)]]
-- Leads to [[NPC00593_Felicia_Darkwater_the_Broken
-- Connects to [step_031 (phase_093)]]
-- Parallels [[Temporal Engineering Guil
-- Leads to [step_011 (phase_074)]]
-- Leads to [[step_017 (phase_037)
-- Related: [ITEM0060_Eldritch_Circlet_of_Power]]
+- Leads to [[NPC00593_Felicia_Darkwater_the_Broken]]
+- Parallels [[Temporal Engineering Guil]]
+- Leads to [[ITEM0060_Eldritch_Circlet_of_Power]]
 - Influences [[Summon Aberration Xphb
 - Parallels [Assets Locations Location City Market Master Cornelius Driftwood Market Master Cornelius Driftwood.svg]]
-- Leads to [[LOC0052_Watchridge
-- Parallels [MON00064_Aberrations_Creature_65]]
-- Compare with [[Institute of Unified Magic
-- Leads to [step_017 (phase_086)]]
+- Leads to [[MON00064_Aberrations_Creature_65]]
+- Compare with [[Institute of Unified Magic]]
 - Leads to [[NPC00123_Lyanna_Thornweave_the_Mystic
 - Leads to [Assets Locations Location City the Kraken S Harbor V1 the Kraken S Harbor.svg]]
-- Related: [[step_023 (phase_097)
-- Connects to [The Festival of Rising Tides 2]]
+- Related: [[The Festival of Rising Tides 2]]
 - Influences
-- Originates from [[step_055 (phase_100)
-- Originates from [Master Artificer Korvin Gearwright (D&D_References)]]
+- Originates from [[Master Artificer Korvin Gearwright (D&D_References)]]
 - Compare with [[NPC00126_Caelum_Darkwater
 - Compare with [step_020 (phase_060)]]
 - See also: [[Cubic Gate Xdmg
 - Affected by
 - Originates from [Character_Creation_Extended.md]]
-- Affected by [[Treaty of Seven Skies (D&D_References)
-- Influences [Chronomancer_Paradox.png]]
+- Affected by [[Treaty of Seven Skies (D&D_References)]]
 - Related: [[step_011 (phase_019)
 - Parallels [Assets Locations Location City the Thornfield District V1 the Thornfield District.svg]]
-- Influences [[Sea Witches Coven (D&D_References)
-- Influences [Old Tongue 2]]
+- Influences [[Sea Witches Coven (D&D_References)]]
 - See also: [[Crimson Reef
 - Requires [Location City Paradox Engineer Zeno Paradox Engineer Zeno.svg]]
 - Connects to [[step_035 (phase_078)
@@ -238,23 +225,17 @@ Is secretly testing the party
 - Affected by [ITEM00786_Celestial_Ring_of_Destiny]]
 - Leads to [[Location City Community Support Networks V1 Community Support Networks.svg
 - Connects to [step_018 (phase_078)]]
-- Affected by [[step_077 (phase_094)
-- Leads to [ENC00420_Combat_Encounter_421]]
-- Influences [[LORE00206_History_Entry_207
-- Influences [NPC00656_Vesper_Winterborn_the_Wanderer]]
-- Requires [[Spectral Librarian Reverent Bookmark 2
-- Leads to [Crystal Master Prism Lightweaver]]
-- Related: [[2-elves (mordenkainens-tome-of-foes)
-- Parallels [ENC00014_Social_Encounter_15]]
-- Connects to [[ITEM00429_Enchanted_Leather_of_Fortitude
-- Related: [NPC01654_Kaelen_Frostwhisper_the_Scholar]]
+- Affected by [[ENC00420_Combat_Encounter_421]]
+- Influences [[NPC00656_Vesper_Winterborn_the_Wanderer]]
+- Requires [[Spectral Librarian Reverent Bookmark 2]]
+- Related: [[2-elves (mordenkainens-tome-of-foes)]]
+- Connects to [[NPC01654_Kaelen_Frostwhisper_the_Scholar]]
 - Requires [[Venom Troll Mpmm
 - Parallels
 - Connects to [Location City Storyteller Memorykeeper Storyteller Memorykeeper.svg]]
 - Connects to [[QUEST00246_Side_Quest_247
 - Parallels [QUEST00102_Personal_Quest_103]]
-- Affected by [[Mountain Encounters Levels 1116 Xge
-- See also: [Spy Games]]
+- Affected by [[Mountain Encounters Levels 1116 Xge]]
 - Connects to
 - Influences [[Crystal Spires
 - Related: [shield-of-the-silver-dragon-cos (items)]]

@@ -25,5 +25,8 @@
   "alt_text": "Concept art of elk-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-elk-xmm-v2-elk-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-elk-xmm-v2-elk-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:01:38.207Z",
+  "generationMethod": "ComfyUI"
 }

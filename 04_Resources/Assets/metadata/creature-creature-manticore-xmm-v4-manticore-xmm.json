@@ -25,5 +25,8 @@
   "alt_text": "Concept art of manticore-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-manticore-xmm-v4-manticore-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-manticore-xmm-v4-manticore-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:05:58.330Z",
+  "generationMethod": "ComfyUI"
 }

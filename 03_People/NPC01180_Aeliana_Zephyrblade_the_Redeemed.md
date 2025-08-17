@@ -168,10 +168,8 @@ Has map to lost treasure
 - Connects to [Template Person Placeholder.png]]
 - Affected by [[QUEST00350_Side_Quest_351
 - Parallels [LOC00094_Towns_Location_95]]
-- Related: [[Public Works Director Boris Bridgewright (D&D_References)
-- Requires [LORE00097_Prophecies_Entry_98]]
-- Connects to [[Detective-Prime Clarity Truthseeke (D&D_References)
-- Requires [Luminar Brightforg]]
+- Related: [[Public Works Director Boris Bridgewright (D&D_References)]]
+- Connects to [[Detective-Prime Clarity Truthseeke (D&D_References)]]
 - Parallels [[Symbol Heraldry Crystal Wardens V1 Crystal Wardens.svg
 - Connects to [modron-monodrone-xmm (construct)]]
 - Parallels [[Memory Coral Reefs (D&D_References)
@@ -182,8 +180,7 @@ Has map to lost treasure
 - Parallels [creating-a-rival-rival-xge (tables)]]
 - Requires [[Location City Black Market Deal V1 Black Market Deal.svg
 - Influences [Assets Locations Location City Temple of the Dawn Temple of the Dawn.svg]]
-- Influences [[Thalassa Lightbringer (D&D_References)
-- Leads to [Parliamentary Archives]]
+- Influences [[Thalassa Lightbringer (D&D_References)]]
 - Affected by [[library
 - Requires [Assets Locations Location City Old Sally Seasprayer Old Sally Seasprayer.svg]]
 - Connects to [[Portrait NPC Deepwater Banking Consortium Deepwater Banking Consortium.svg_1 (Portraits)
@@ -198,19 +195,16 @@ Has map to lost treasure
 - See also: [Crystal Workers Union]]
 - Related: [[Wisdom Futureseer 2
 - Parallels [The Verdant Accord.md]]
-- Leads to [[Zircon Xdmg
-- Originates from [MON00030_Aberrations_Creature_31]]
+- Leads to [[MON00030_Aberrations_Creature_31]]
 - Compare with [[hallucinatory-terrain-xphb (spells)
 - Connects to [enspelled-staff-level-3-xdmg (items)]]
-- Requires [[Lord Commander Steelborn (D&D_References)
-- See also: [DUN00194_Dungeon_195]]
+- Requires [[Lord Commander Steelborn (D&D_References)]]
 - Compare with [[Symbol Heraldry Cross Realm Agricultural Exchang Cross Realm Agricultural Exchang.svg
 - Requires [The Scream Archives (D&D_References)]]
 - Parallels
 - Leads to [[Void-warded Cloak (D&D_References)
 - Leads to [Keeper Thundercall (D&D_References)]]
-- Related: [[Portrait NPC Aria... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Parallels [Cathedral of Light (D&D_References)]]
+- Related: [[Portrait NPC Aria... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Compare with [[NPC01400_Qadim_Frostwhisper_the_Lost
 - Compare with [Maintece_Supervisor_Tide_Fixwright]]
 - Connects to [[step_026 (phase_093)
@@ -218,8 +212,7 @@ Has map to lost treasure
 - Affected by [[LORE00243_Legends_Entry_244
 - Related: [The Godhead Ritual 2]]
 - Affected by
-- Leads to [[MON00076_Undead_Creature_77
-- Related: [NPC01568_Lyanna_Winterborn_the_Strong]]
+- Leads to [[NPC01568_Lyanna_Winterborn_the_Strong]]
 - Leads to [[step_018 (phase_068)
 - Influences [step_063 (phase_038)]]
 - Related: [[Assets Locations Location City Master Gardener Sage Harmony Bloomtender Master Gardener Sage Harmony Bloomtender.svg
@@ -228,20 +221,15 @@ Has map to lost treasure
 - Leads to
 - Requires [SPELL00008_Nature_Spell_9]]
 - Related:
-- Affected by [[yuan-ti-mind-whisperer-mpmm
-- Requires [step_046 (phase_068)]]
-- Affected by [[README 2
-- Related: [Security Chief Marcus Depthguard 2]]
-- Influences [[NPC00904_Hestara_Keenblade_the_Broken
-- See also: [orc-xphb (races)]]
-- Compare with [[The Convergence Seekers
-- Compare with [World_Primer.md]]
+- Affected by [[yuan-ti-mind-whisperer-mpmm]]
+- Affected by [[Security Chief Marcus Depthguard 2]]
+- Influences [[NPC00904_Hestara_Keenblade_the_Broken]]
+- Compare with [[The Convergence Seekers]]
 - Leads to [[boon-of-quick-casting (rewards)
 - Affected by [Piercer Xmm]]
 - Connects to [[Portrait NPC Quest the Deepest Current V2 Quest the Deepest Current.svg
 - Requires [Initiative Tracker (D&D_References)]]
-- Affected by [[Sister Maria Purelight
-- Originates from [ITEM0054_Glorious_Pendant_of_Power]]
+- Affected by [[ITEM0054_Glorious_Pendant_of_Power]]
 - Affected by
 - Connects to [[step_039 (phase_031)
 - Parallels [step_052 (phase_012)]]
@@ -252,10 +240,8 @@ Has map to lost treasure
 - Requires [[instrument-of-the-bards-ollamh-harp-xdmg (items)
 - Parallels
 - Originates from [Assets Portraits Portrait NPC Captain Torren Stormwright Captain Torren Stormwright.svg]]
-- Leads to [[Heavily Obscured Xphb
-- Parallels [Royal Guard (D&D_References)]]
-- Connects to [[Captain Sarah Ironheart
-- See also: [The Grand Crystal Exchange 2]]
+- Leads to [[Royal Guard (D&D_References)]]
+- Connects to [[The Grand Crystal Exchange 2]]
 - Parallels [[Assets Locations Location City Court Herald Titus Court Herald Titus.svg]]
 - Compare with
 - Related:

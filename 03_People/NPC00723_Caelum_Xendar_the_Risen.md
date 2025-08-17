@@ -170,8 +170,7 @@ Discovered something valuable
 - Parallels [Elder Things]]
 - Parallels [[SPELL00152_Divine_Spell_153
 - Connects to [Dr. Nereon Deepcurrent]]
-- Connects to [[Babau Mpmm
-- Leads to [The Order of Storm-Touched]]
+- Connects to [[The Order of Storm-Touched]]
 - Influences [[step_071 (phase_015)
 - Affected by [ITEM00361_Frost_Bow_of_Speed]]
 - Affected by [[FAC00004_Cults_5
@@ -180,56 +179,45 @@ Discovered something valuable
 - Leads to [FAC00062_Guilds_63]]
 - Requires [[mirror-of-life-trapping-xdmg (items)
 - See also: [QUEST00422_Side_Quest_423]]
-- See also: [[Skull Lord Mpmm
-- Leads to [NPC0089_Jora_Goldleaf_the_Just]]
+- See also: [[NPC0089_Jora_Goldleaf_the_Just]]
 - Affected by [[Symbol Heraldry Depth Cardinal Wisdom Voidseeke V1 Depth Cardinal Wisdom Voidseeke.svg
 - Affected by [Barbarian Xphb Path of the Ancestral]]
 - Compare with [[step_032 (phase_063)
 - Requires [Location City Temple of the Eternal Flame Temple of the Eternal Flame.svg]]
 - Leads to
-- Requires [[Energy Bow Xdmg
-- Affected by [LOC00174_Planes_Location_175]]
-- Requires [[Tides_of_Destiny_Introduction (D&D_Sourcebooks)
-- Influences [Campaign_Parallel_Quests]]
+- Requires [[LOC00174_Planes_Location_175]]
+- Requires [[Tides_of_Destiny_Introduction (D&D_Sourcebooks)]]
 - See also: [[QUEST00066_Main_Quest_67
 - Affected by [Portrait NPC Blood in the Water V2 Blood in the Water.svg]]
-- See also: [[guild-artisan-guild-merchant-variant
-- Leads to [elemental]]
+- See also: [[guild-artisan-guild-merchant-variant]]
 - Compare with [[step_049 (phase_038)
 - See also: [step_079 (phase_005)]]
 - Affected by [[FAC00002_Guilds_3
 - Compare with [End_of_Arc_Reflection]]
 - Requires [[Inter-Realm Marriage Registry
 - Parallels [04_Resources_Assets_Symbols_symbol-heraldry-living-amplifiers-living-amplifiers.svg]]
-- Compare with [[LOC00271_Dungeons_Location_272
-- Related: [LORE00021_Legends_Entry_22]]
+- Compare with [[LOC00271_Dungeons_Location_272]]
 - Related: [[Transformation Mechanics
 - See also:
 - Affected by [Creature Creature Swarm of Dretches Xmm V4 Swarm of Dretches Xmm.png]]
-- Connects to [[step_090 (phase_077)
-- Parallels [QUEST00136_Personal_Quest_137]]
+- Connects to [[QUEST00136_Personal_Quest_137]]
 - Parallels [[Gaseous Form Xphb
 - Parallels [Portrait NPC Vex Shadowthorn S Apprentices V2 Vex Shadowthorn S Apprentices.svg]]
-- Influences [[step_018 (phase_017)
-- See also: [NPC01690_Pyria_Dawnstrider_the_Fallen]]
+- Influences [[NPC01690_Pyria_Dawnstrider_the_Fallen]]
 - Influences [[spirit-statue-mascot-scc (construct)
 - Parallels [LOC00094_Planes_Location_95]]
 - Requires [[NPC0155_Katarina_Darkwater
 - Requires [Quest - The Deep Cartographer_1 (01_Adventures)]]
-- Related: [[Tanarukk Mpmm
-- Parallels [QUEST0045_The_Cursed_Legacy]]
+- Related: [[QUEST0045_The_Cursed_Legacy]]
 - Requires [[step_008 (phase_038)
 - Compare with [Teleport Xphb]]
-- Connects to [[Seven_Shards_Legend_Summary
-- Connects to [ITEM0084_Eldritch_Crown_of_the_Dawn]]
+- Connects to [[ITEM0084_Eldritch_Crown_of_the_Dawn]]
 - Parallels [[step_060 (phase_023)
 - Related: [step_051 (phase_013)]]
-- Affected by [[step_052 (phase_096)
-- Parallels [The Archive of Suppressed Evidence (D&D_References)]]
+- Affected by [[The Archive of Suppressed Evidence (D&D_References)]]
 - Influences [[Zephyr Goldwhisper
 - Influences [step_078 (phase_015)]]
-- Originates from [[Economic Intelligence
-- Originates from [Shadow Network (D&D_References)]]
+- Originates from [[Shadow Network (D&D_References)]]
 - Related: [[monk-xphb-way-of-the-sun-soul-xge (classes)
 - Leads to [NPC01565_Felicia_Zephyrblade_the_Redeemed]]
 - Requires [[Royal Vault 2
@@ -242,8 +230,7 @@ Discovered something valuable
 - Requires [balhannoth-mpmm (aberration)]]
 - Affected by [[step_037 (phase_045)
 - Influences [Hazards Crystal Plague]]
-- Parallels [[Mayor Cornelius Tidecrest 2
-- Affected by [Cliffside Manors 2]]
+- Parallels [[Mayor Cornelius Tidecrest 2]]
 - See also: [[step_053 (phase_042)
 - Affected by [Convergence_Points (Lore)]]
 - Requires [[Crystal Engineer Spark Gemwright
@@ -255,14 +242,12 @@ Discovered something valuable
 - Parallels [Location City Sentinel Constructs Sentinel Constructs.svg]]
 - Parallels [[Archive-Prince Mnemonic
 - Related: [step_090 (phase_096)]]
-- Leads to [[Ancient Aquabyssos Rulers 2
-- Compare with [NPC00958_Nerys_Xendar_the_Guardian]]
+- Leads to [[NPC00958_Nerys_Xendar_the_Guardian]]
 - See also: [[Assets Locations Location City Community Coordinator Kelp Bondweaver V1 Community Coordinator Kelp Bondweaver.svg
 - Affected by [step_021 (phase_031)]]
 - Originates from [[Assets Locations Location City Surface Tensions Surface Tensions.svg
 - Related: [Location City Harbor Master Tideshade Harbor Master Tideshade.svg]]
-- Parallels [[Wave Traderwind 2
-- Related: [#Goals]]
+- Parallels [[Wave Traderwind 2]]
 - Parallels [[List Spells Races Aasimar Xphb
 - Connects to [Mass Cure Wounds Xphb]]
 - Influences [[item-artifact-ruby-xdmg-ruby-xdmg.png

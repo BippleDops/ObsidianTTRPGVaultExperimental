@@ -43,11 +43,8 @@ updated: '2025-08-13T01:18:35.711215+00:00'
 
 - A shipment has gone missing and war looms
 - Strange dreams suggest a curse
-- Someone is blackmailing a artifact for power ## Related Notes - [[Similar Topic 1
-
-- [Contrasting Approach]]
-- [[Advanced Version
-- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
+- Someone is blackmailing a artifact for power ## Related Notes - [[Contrasting Approach]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

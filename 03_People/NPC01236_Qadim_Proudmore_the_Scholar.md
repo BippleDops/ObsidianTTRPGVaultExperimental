@@ -205,14 +205,11 @@ Following magic item guidelines (WWT p.135-136):
 ## Connections
 
 - See also: [Deep Sea Cultists]]
-- Influences [[NPC00531_Idris_Brightblade_the_Lost
-- Compare with [Epic Encounter Scaling]]
+- Influences [[NPC00531_Idris_Brightblade_the_Lost]]
 - Originates from [[Captain Blackwater's Fate
 - Related: [Assets Locations Location City Luxury Goods Market V1 Luxury Goods Market.svg]]
-- Leads to [[LOC00046_Planes_Location_47
-- See also: [Imperial Chronicle of Deep History]]
-- Leads to [[Oceanic Historical Society (D&D_References)
-- Influences [The Future Market]]
+- Leads to [[Imperial Chronicle of Deep History]]
+- Leads to [[Oceanic Historical Society (D&D_References)]]
 - Leads to
 - Leads to [[NPC00831_Hilda_Youngblood_the_Strong
 - Affected by [angry-sorrowsworn-mpmm (monstrosity)]]
@@ -222,8 +219,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [LORE00031_Prophecies_Entry_32]]
 - Parallels [[Assets Locations Location City Military Command Military Command.svg
 - Requires [ITEM01159_Lesser_Powder_of_Clarity]]
-- Influences [[Filtration Systems Guild
-- Originates from [Master Chamberlain Geoffrey Wellesle]]
+- Influences [[Master Chamberlain Geoffrey Wellesle]]
 - Parallels
 - Compare with [[step_099 (phase_035)
 - Compare with [ITEM00111_Blessed_Staff_of_Speed]]
@@ -245,8 +241,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires
 - Affected by [Crisis Management]]
 - Affected by
-- Originates from [[The Great Tidal Amphitheater 2
-- Affected by [step_017 (phase_066)]]
+- Originates from [[The Great Tidal Amphitheater 2]]
 - Originates from
 - Originates from [[daerns-instant-fortress-xdmg (items)
 - Influences [04_Resources_Assets_Locations_location-city-harbormaster-tidal-stormcrest-v1-harbormaster-tidal-stormcrest.svg]]
@@ -257,10 +252,8 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[Spell Scroll Level 8 Xdmg
 - Parallels
 - Related: [04_Resources_Assets_Portraits_portrait-npc-captain-torrent-swiftcurrent-captain-torrent-swiftcurrent.svg_Quick_Ref]]
-- Influences [[The Living Tide Temples (D&D_References)
-- Related: [The Great Crystal-Shadow Engine]]
-- Influences [[Shadow Duchess Nyx (D&D_References)
-- Related: [cloudkill-xphb (spells)]]
+- Influences [[The Living Tide Temples (D&D_References)]]
+- Influences [[Shadow Duchess Nyx (D&D_References)]]
 - Related:
 - Originates from
 - Parallels [[Quest - Rescue the Originals
@@ -276,8 +269,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[step_098 (phase_063)
 - Affected by [step_052 (phase_038)]]
 - Leads to
-- Related: [[Alternative-Path-Fled-City (D&D_References)
-- Affected by [Windweaver Spire]]
+- Related: [[Alternative-Path-Fled-City (D&D_References)]]
 - See also: [[LOC00164_Planes_Location_165
 - Originates from [step_016 (phase_090)]]
 - Related: [[NPC01073_Zephyr_Ironwood_the_Strong
@@ -285,8 +277,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from
 - See also: [[thin-ice-xdmg (traps-hazards)
 - See also: [Location City Pressure Suit Malfunction Pressure Suit Malfunction.svg]]
-- See also: [[step_005 (phase_047)
-- Related: [ENC00096_Environmental_Encounter_97]]
+- See also: [[ENC00096_Environmental_Encounter_97]]
 - Affected by [[wall-of-ice-xphb (spells)
 - Compare with [Portrait NPC Marcus Shardbreaker Grimm Marcus Shardbreaker Grimm.svg_1 (Portraits)]]
 - Affected by [[SHOP00013_Magical_Shop_14
@@ -295,12 +286,10 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [ITEM01434_Ornate_Lantern_of_Quality]]
 - Originates from [[LORE00167_History_Entry_168
 - Related: [QUEST0084_Princess's_Gambit]]
-- See also: [[SPELL00123_Divine_Spell_124
-- Parallels [LOC00233_Wilderness_Location_234]]
+- See also: [[LOC00233_Wilderness_Location_234]]
 - Compare with [[Keeper of Memories Echo Truthseer
 - Connects to [Assets Symbols Symbol Heraldry Ambassador Blacktrade Ambassador Blacktrade.svg]]
-- Originates from [[NPC01202_Hilda_Blackstone_the_Swift
-- Related: [Crystalline Depths]]
+- Originates from [[NPC01202_Hilda_Blackstone_the_Swift]]
 - Leads to [[Potion of Frost Giant Strength Xdmg
 - Connects to
 - Affected by [The Great Unraveling 2]]

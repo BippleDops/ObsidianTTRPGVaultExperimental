@@ -1,7 +1,6 @@
 ---
 
-title: [[locations Crystal Conservatory
-type: [Lore]]
+title: [[Locations Crystal Conservatory]]
 tags:
 - lore
 - active

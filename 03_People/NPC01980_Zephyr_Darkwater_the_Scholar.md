@@ -212,15 +212,12 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [Truth and Madness]]
 - See also: [[step_081 (phase_044)
 - Influences [step_044 (phase_077)]]
-- Related: [[SHOP00059_Magical_Shop_60
-- See also: [Brother Matthias the Amber Bearer (D&D_Statblocks)]]
+- Related: [[Brother Matthias the Amber Bearer (D&D_Statblocks)]]
 - Originates from
 - Affected by [[LORE00102_Legends_Entry_103
 - Requires [Assets Locations Location City the Transition Centers V1 the Transition Centers.svg]]
-- Connects to [[step_062 (phase_065)
-- Requires [LOC00092_Cities_Location_93]]
-- Connects to [[ENC00495_Combat_Encounter_496
-- Parallels [step_100 (phase_032)]]
+- Connects to [[LOC00092_Cities_Location_93]]
+- Connects to [[ENC00495_Combat_Encounter_496]]
 - Compare with [[step_054 (phase_095)
 - Related: [The Singing Trenches 2]]
 - Parallels [[04_Resources_Assets_Symbols_symbol-heraldry-stellar-commander-nereus-voidcaller-stellar-commander-nereus-voidcaller.svg
@@ -252,28 +249,23 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [Generate_Location]]
 - Affected by [[ENC00002_Combat_Encounter_3
 - Leads to [Independent Smugglers]]
-- Parallels [[SPELL00006_Nature_Spell_7
-- Related: [NPC00822_Baelor_Lightbringer_the_Mystic]]
+- Parallels [[NPC00822_Baelor_Lightbringer_the_Mystic]]
 - Leads to
 - Related: [[initiative-xphb (variant-rules)
 - Related:
 - Originates from [step_064 (phase_045)]]
-- See also: [[NPC01559_Kaelen_Moonshadow_the_Guardian
-- Compare with [step_011 (phase_035)]]
-- Originates from [[Halberd Xphb
-- See also: [Foreign Crime Syndicate]]
+- See also: [[NPC01559_Kaelen_Moonshadow_the_Guardian]]
+- Originates from [[Foreign Crime Syndicate]]
 - Parallels [[NPC01405_Zephyr_Silverleaf_the_Mystic
 - See also: [NPC00892_Brenna_Oakenshield_the_Mystic]]
-- Influences [[LOC00246_Planes_Location_247
-- Requires [step_033 (phase_057)]]
+- Influences [[LOC00246_Planes_Location_247]]
 - Compare with
 - Parallels [[step_041 (phase_006)
 - Originates from [Quest - Storm Lord's Challenge]]
 - Related: [[animated-object-huge-xphb (construct)
 - See also: [ENC00004_Combat_Encounter_5]]
 - Related:
-- Originates from [[step_079 (phase_080)
-- Originates from [Noble Titles and Ranks (D&D_References)]]
+- Originates from [[Noble Titles and Ranks (D&D_References)]]
 - See also: [[ITEM00288_Frost_Bow_of_the_Ancients
 - Affected by [Magister Voidheart]]
 - Leads to [[Aboleth Memories
@@ -283,8 +275,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[step_007 (phase_013)
 - Connects to
 - Influences [Assets Item Artifact Poisoners Kit Xphb V2 Poisoners Kit Xphb.png]]
-- Requires [[QUEST00374_Side_Quest_375
-- See also: [ENC00025_Environmental_Encounter_26]]
+- Requires [[ENC00025_Environmental_Encounter_26]]
 - See also: [[Location City Tidal Stormcrest V1 Tidal Stormcrest.svg
 - Originates from [ITEM01047_Concentrated_Potion_of_Vigor]]
 - Related: [[Assets Handouts Handout Handout Docking Permit Docking Permit.png

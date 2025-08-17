@@ -169,12 +169,10 @@ Is secretly testing the party
 - Related: [Location City Institute for Reality Studies Researchers V1 Institute for Reality Studies Researchers.svg]]
 - Originates from [[Quest - Legislative Control 2
 - Requires [SPELL00010_Arcane_Spell_11]]
-- Affected by [[Trade Representatives
-- See also: [ENC00065_Social_Encounter_66]]
+- Affected by [[ENC00065_Social_Encounter_66]]
 - See also: [[step_097 (phase_059)
 - Compare with [step_012 (phase_009)]]
-- Related: [[Count Viktor Shadowmere (D&D_References)
-- Affected by [The Crystal Gardens (D&D_References)]]
+- Related: [[Count Viktor Shadowmere (D&D_References)]]
 - Affected by [[step_008 (phase_057)
 - See also: [ITEM00397_Venomous_Staff_of_the_Ancients]]
 - Related: [[Location City Tethyan Hegemony V1 Tethyan Hegemony.svg
@@ -185,8 +183,7 @@ Is secretly testing the party
 - Originates from [Gallery of Frozen Waves 2]]
 - Connects to [[Save_Queen_Seraphina.png
 - Connects to [EVENT00005_Political_Event_6]]
-- Leads to [[Engineer Torres Ironbrigh (D&D_References)
-- Related: [Stormwind's Navigation Crystal (D&D_References)]]
+- Leads to [[Stormwind's Navigation Crystal (D&D_References)]]
 - Related: [[ITEM00924_Pure_Salve_of_Vigor
 - Leads to [Magic Item Values by Rarity Magic Item]]
 - Requires [[NPC00555_Gavril_Goldleaf_the_Bold
@@ -195,8 +192,7 @@ Is secretly testing the party
 - Compare with [Symbol Heraldry Transformation Techniques V1 Transformation Techniques.svg]]
 - Affected by [[Banded Agate Xdmg
 - Related: [Paladin Xphb Oath of Conquest Xge]]
-- See also: [[Shadow Attache Void 2
-- Related: [Marcus "The Shade" Blackwood]]
+- See also: [[Marcus "The Shade" Blackwood]]
 - Originates from
 - Influences [[step_025 (phase_068)
 - Leads to [ITEM00238_Blessed_Crossbow_of_the_Ancients]]
@@ -210,38 +206,29 @@ Is secretly testing the party
 - See also: [step_021 (phase_079)]]
 - Leads to [[observatory-charm-xdmg (rewards)
 - Leads to [LOC00050_Towns_Location_51]]
-- Leads to [[step_094 (phase_033)
-- Parallels
-- Compare with [NPC00950_Rhiannon_Moonshadow_the_Swift]]
+- Leads to [[NPC00950_Rhiannon_Moonshadow_the_Swift]]
 - Influences [[SHOP00050_General_Shop_51
 - Influences [The Awakened Grove Council 2]]
-- Compare with [[Public Safety Complex
-- Related: [cleaving-through-creatures (variant-rules)]]
+- Compare with [[cleaving-through-creatures (variant-rules)]]
 - Originates from
-- Originates from [[Dwarven Muamman Duathal Mtf
-- Leads to [NPC00546_Wynne_Lightbringer_the_Seeker]]
+- Originates from [[NPC00546_Wynne_Lightbringer_the_Seeker]]
 - Originates from [[The Carrion Court (D&D_References)
 - Parallels
 - See also: [MON00037_Undead_Creature_38]]
 - Originates from [[ITEM00887_Void-touched_Mirror_of_Eternity
 - Connects to [Storm Sphere Xge]]
-- Connects to [[Iron Rapids Fleetcurrent (D&D_References)
-- Related: [step_029 (phase_028)]]
+- Connects to [[Iron Rapids Fleetcurrent (D&D_References)]]
 - Originates from [[Quest Campaign Tracker.base
 - Affected by
 - Influences [Portrait NPC Shadow Binding Sanctum V2 Shadow Binding Sanctum.svg]]
-- Affected by [[Architect Temporal Wisdom (D&D_References)
-- Leads to [step_068 (phase_066)]]
-- Influences [[Intelligence Services (D&D_References)
-- Connects to [Fiendish Spirit Devil Xphb]]
-- Connects to [[NPC01105_Alaric_Crystalbrook_the_Scholar
-- Affected by [Greyhawk Olidammara Xdmg]]
+- Affected by [[Architect Temporal Wisdom (D&D_References)]]
+- Influences [[Intelligence Services (D&D_References)]]
+- Connects to [[NPC01105_Alaric_Crystalbrook_the_Scholar]]
 - Parallels [[Special Facility Descriptions Special
 - See also: [summon-dragon-xphb (spells)]]
 - Affected by [[step_051 (phase_097)
 - Connects to [oil-xphb (items)]]
-- Compare with [[SPELL00008_Nature_Spell_9
-- Requires [MON00161_Constructs_Creature_162]]
+- Compare with [[MON00161_Constructs_Creature_162]]
 - Influences [[portrait-npc-senator-v2-senator.svg
 - Related: [NPC01695_Ewan_Ashford_the_Fallen]]
 - Affected by [[Magical Theory Schools
@@ -253,8 +240,7 @@ Is secretly testing the party
 - Compare with [Scholars of Witherbloom Witherbloom Scholars]]
 - Compare with [[hill-encounters-levels-14-xge (tables)
 - See also: [step_063 (phase_022)]]
-- Related: [[`dice: `dice: 3d6``
-- Parallels [The Navigation Post (D&D_References)]]
+- Related: [[The Navigation Post (D&D_References)]]
 - See also: [[step_091 (phase_090)
 - See also: [step_051 (phase_096)]]
 - See also: [[The Crystal Pier

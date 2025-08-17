@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Immerse yourself in a world of medieval-fantasy with a painterly stylization inspired by the techniques prevalent in classical art before 1912. Picture a towering dragon, its anatomy a study of musculature and unique limb structure, painted in a limited palette of teals, deep blues, and sea-greens with subtle pearl highlights, creating a sense of underwater magic while maintaining an overall theme of fantasy realism. Instead of modern technology or signage, include culturally coherent gear, indicative of a grounded, well-thought-out world. Set the scene in a zone where the underwater merges with the sky, the dragon in swift and turbulent motion, a human silhouette observing the spectacle from a safe distance. Illuminate the waterscape with subsurface caustics and ethereal bioluminescent accents, capturing the feel of pressure-dome materials. Eschew embedding any text, words, or garbled symbols - instead, let the art speak its own powerful language. Refrain from modern influences such as sci-fi UIs, photoreal CGI, anime style, or bloom glare, ensuring the painting remains a timeless testament to the grandeur of fantasy.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-dragon-v4-dragon.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-dragon-v4-dragon.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:01:09.914Z",
+  "generationMethod": "ComfyUI"
 }

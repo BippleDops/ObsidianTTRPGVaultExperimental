@@ -269,5 +269,4 @@ ___
 
 ## References
 
-- [[Assets Art Astrologer Prime Cassandra Starweaver.png
-- [Maelstrom Palace]]
+- [[Astrologer Prime Cassandra Starweaver]]

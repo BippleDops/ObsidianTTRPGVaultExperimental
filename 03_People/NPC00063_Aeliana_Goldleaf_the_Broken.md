@@ -175,8 +175,7 @@ Wants rivals investigated
 - See also: [QUEST00380_Side_Quest_381]]
 - Requires [[zuggtmoy-mtf (legendary-group)
 - Leads to [Master Personnel Files]]
-- Parallels [[The Scribes' Covenant (D&D_References)
-- Requires [Keeper Healer Restoration]]
+- Parallels [[The Scribes' Covenant (D&D_References)]]
 - Compare with [[NPC_Relationships
 - Requires [step_017 (phase_068)]]
 - Related: [[step_061 (phase_092)
@@ -189,17 +188,13 @@ Wants rivals investigated
 - Leads to [Crystal Festival 2]]
 - Affected by [[Monk Xphb Warrior of the Elements Xphb
 - Related: [NPC00548_Aeliana_Ravenheart]]
-- Influences [[Meenlock Mpmm
-- Requires [Faction_Tracker (D&D_References)]]
+- Influences [[Faction_Tracker (D&D_References)]]
 - Requires [[The Great Drowning Vision
 - Parallels
 - Affected by [Shadow Conspiracy Investigation]]
-- Originates from [[step_078 (phase_021)
-- Requires [Emergency Systems Designer Storm Lifesaver]]
-- Parallels [[step_007 (phase_013)
-- Requires [NPC01205_Wynne_Frostwhisper_the_Scholar]]
-- Originates from [[ITEM0042_Cursed_Gauntlet_of_Power
-- Related: [step_060 (phase_074)]]
+- Originates from [[Emergency Systems Designer Storm Lifesaver]]
+- Parallels [[NPC01205_Wynne_Frostwhisper_the_Scholar]]
+- Originates from [[ITEM0042_Cursed_Gauntlet_of_Power]]
 - Connects to [[step_039 (phase_034)
 - Requires [Assets Locations Location City Reality Stabilization Centers V1 Reality Stabilization Centers.svg]]
 - Compare with [[Assets Locations Location City Administrative Wing V1 Administrative Wing.svg
@@ -250,8 +245,7 @@ Wants rivals investigated
 - Parallels [goblin-minion-xmm (fey)]]
 - Requires [[Crystal Exchange Plaza
 - Influences [charm-of-heroism-xdmg (rewards)]]
-- Parallels [[MON00049_Aberrations_Creature_50
-- Leads to [LOC00082_Dungeons_Location_83]]
+- Parallels [[MON00049_Aberrations_Creature_50]]
 - Leads to [[step_081 (phase_046)
 - Related: [Location City Harbormaster Tidal Stormcrest Harbormaster Tidal Stormcrest.svg]]
 - Originates from [[step_024 (phase_053)

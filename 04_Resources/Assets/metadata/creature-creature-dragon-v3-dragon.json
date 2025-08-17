@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Create a detailed concept art in a painterly style. The scene should be an underwater-sky merged environment using a three-color palette of teals, deep blues, and sea-greens, with pearl highlights. The focus should be a dragon, showcasing its impressive musculature and unique limbs. Its gear should be culturally coherent and grounded in medieval fantasy aesthetics, including bioluminescent accents. Besides the dragon, include a human silhouette for scale. The scene should depict motion and achieve an effect of aquatic fantasy realism. Incorporate elements of subsurface caustics and pressure-dome materials. Avoid incorporating modern technology, text, or symbols unless meaningful or rendered as numbered pins. Also, avoid styles such as photorealism, anime, or science fiction interfaces.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-dragon-v3-dragon.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-dragon-v3-dragon.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:01:09.915Z",
+  "generationMethod": "ComfyUI"
 }

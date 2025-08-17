@@ -169,8 +169,7 @@ Needs help with personal quest
 
 - Related: [[War Machine Assembly Halls (D&D_References)
 - Leads to [demon-customization-tables-demon-flaws-mtf (tables)]]
-- Related: [[Infinite Dungeon Generator
-- Leads to [DASHBOARD_LINK_REPORT]]
+- Related: [[Infinite Dungeon Generator]]
 - Originates from [[Symbol Heraldry Major Trading Companies Major Trading Companies.svg
 - Compare with [LOC00220_Towns_Location_221]]
 - Connects to [[LORE00300_History_Entry_301
@@ -195,8 +194,7 @@ Needs help with personal quest
 - Parallels [Amulet Xphb]]
 - Compare with [[step_051 (phase_012)
 - Parallels [MON0013_Crystal_Reaper]]
-- Connects to [[Pressure Anomaly Regions (D&D_References)
-- Requires [step_034 (phase_066)]]
+- Connects to [[Pressure Anomaly Regions (D&D_References)]]
 - Related:
 - Parallels [[step_052 (phase_037)
 - Parallels [Vex Shadowthorn]]
@@ -210,12 +208,10 @@ Needs help with personal quest
 - Affected by [Resonance Peaks (D&D_References)]]
 - Related: [[DUN00194_Dungeon_195
 - Influences [Surface Coalition 2]]
-- Influences [[LOC00264_Wilderness_Location_265
-- Leads to [LOC00220_Cities_Location_221]]
+- Influences [[LOC00264_Wilderness_Location_265]]
 - Related: [[Quest - The Shattered Memories
 - Requires [location-city-crimson-reef-v1-crimson-reef.svg]]
-- Parallels [[step_076 (phase_019)
-- See also: [Diplomatic Tides (D&D_Statblocks)]]
+- Parallels [[Diplomatic Tides (D&D_Statblocks)]]
 - Originates from [[Ranger Xphb Horizon Walker Xge
 - Connects to [4-assorted-beasts (volos-guide-to-monsters)]]
 - Related: [[ITEM01084_Lesser_Potion_of_Swiftness
@@ -235,14 +231,12 @@ Needs help with personal quest
 - Originates from
 - Originates from [[Holy Avenger Xdmg
 - Compare with [Tidal Harmony 2]]
-- Related: [[LOC00051_Towns_Location_52
-- Related: [FAC00082_Orders_83]]
+- Related: [[LOC00051_Towns_Location_52]]
 - Related: [[Assets Portraits Portrait NPC the Resonance Prophet the Resonance Prophet.svg
 - Related:
 - Originates from [Location City Transformation Medicine Techniques Transformation Medicine Techniques.svg]]
 - Parallels
-- Compare with [[Windwarden
-- See also: [Lady Jade Clawgrip (D&D_Statblocks)]]
+- Compare with [[Lady Jade Clawgrip (D&D_Statblocks)]]
 - Influences [[step_053 (phase_014)
 - Related: [Swarm of Ravens Xmm]]
 - Affected by [[step_049 (phase_091)

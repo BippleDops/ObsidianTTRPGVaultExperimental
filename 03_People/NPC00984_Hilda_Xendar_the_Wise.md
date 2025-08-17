@@ -171,8 +171,7 @@ Has map to lost treasure
 - Requires [Assets Locations Location City House Voidwhisper V1 House Voidwhisper.svg]]
 - Influences [[Roleplaying a Beholder Beholder Personality
 - Leads to [QUEST00295_Personal_Quest_296]]
-- Influences [[step_045 (phase_085)
-- Parallels [Drift Harbor District (D&D_References)]]
+- Influences [[Drift Harbor District (D&D_References)]]
 - Compare with [[Agent Vex Shadowmere
 - See also: [Trade Specialist Commerce]]
 - See also: [[Location City Inter Realm Relations V1 Inter Realm Relations.svg
@@ -181,8 +180,7 @@ Has map to lost treasure
 - Leads to [Seraphina the Beautiful]]
 - Connects to [[Assets Item Artifact Whelm Xdmg V1 Whelm Xdmg.png
 - See also: [step_060 (phase_042)]]
-- See also: [[Downtime Activity Relaxation Xge
-- Compare with [Symbol Heraldry Amb... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- See also: [[Symbol Heraldry Amb... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Compare with [[step_070 (phase_038)
 - Originates from [giant-frog-xmm (beast)]]
 - Leads to [[Ancestor's Pool (D&D_References)
@@ -190,8 +188,7 @@ Has map to lost treasure
 - Related: [ITEM00298_Thunder_Staff_of_the_Ancients]]
 - Influences [[Assets Locations Location City Pressure Tubes V1 Pressure Tubes.svg
 - Connects to [step_066 (phase_005)]]
-- Requires [[LOC00162_Cities_Location_163
-- Originates from [undead]]
+- Requires [[LOC00162_Cities_Location_163]]
 - Parallels [[LORE00069_History_Entry_70
 - See also: [power-word-fortify-xphb (spells)]]
 - Related:
@@ -201,24 +198,18 @@ Has map to lost treasure
 - Compare with
 - Requires [[Historical Research Institute
 - Originates from [step_084 (phase_039)]]
-- Connects to [[Quality Inspector Gem Precisiontest
-- Originates from [step_091 (phase_088)]]
+- Connects to [[Quality Inspector Gem Precisiontest]]
 - Leads to [[step_060 (phase_049)
 - Originates from [LOC00149_Towns_Location_150]]
 - Connects to [[step_062 (phase_054)
 - Connects to [outlander]]
-- Requires [[step_052 (phase_100)
-- Influences [The Identity Chamber (D&D_References)]]
-- Parallels [[Marina the Unifie 2
-- Connects to [Chief Engineer Brass Voidwright (D&D_References)]]
-- See also: [[challenge-rating-xphb (variant-rules)
-- Requires [step_040 (phase_050)]]
-- Parallels [[NPC01567_Vesper_Ashford_the_Wanderer
-- Parallels [LOC0089_Grovewick]]
+- Requires [[The Identity Chamber (D&D_References)]]
+- Parallels [[Chief Engineer Brass Voidwright (D&D_References)]]
+- See also: [[challenge-rating-xphb (variant-rules)]]
+- Parallels [[NPC01567_Vesper_Ashford_the_Wanderer]]
 - See also: [[Session_Logger_1
 - See also: [ITEM00111_Blessed_Staff_of_Speed]]
-- Influences [[Session 3 the Duplicate Crisis
-- Leads to [Calm Soothingwave 2]]
+- Influences [[Session 3 the Duplicate Crisis]]
 - Related: [[platinum-xdmg (items)
 - Requires [ITEM00929_Superior_Crystal_of_Clarity]]
 - Connects to [[Location City the Depth Plague the Depth Plague.svg
@@ -237,16 +228,14 @@ Has map to lost treasure
 - Parallels [dungeons-dungeon-quirks-xdmg (tables)]]
 - Leads to [[step_083 (phase_060)
 - Connects to [belt-of-hill-giant-strength-xdmg (items)]]
-- Requires [[10-chapter-10-descent-into-the-depths (out-of-the-abyss)
-- Requires [step_096 (phase_043)]]
+- Requires [[10-chapter-10-descent-into-the-depths (out-of-the-abyss)]]
 - Affected by [[Assets Locations Location City the Tidecaller V1 the Tidecaller.svg
 - Connects to [Professional Terminology (D&D_References)]]
 - See also: [[dire-wolf-xmm
 - Requires [Portrait NPC Emperor Abyssal the Deep Sighted V1 Emperor Abyssal the Deep Sighted.svg_1 (Portraits)]]
 - Requires [[04 Chapter 4 Gracklstugh
 - Leads to [step_054 (phase_094)]]
-- Requires [[Communications Chief Storm Signalmaster
-- Related: [step_028 (phase_094)]]
+- Requires [[Communications Chief Storm Signalmaster]]
 - Connects to [[LOC0127_Peakford
 - Originates from [Protocol Expert Formal]]
 - Influences [[Existence Beacons (Items)

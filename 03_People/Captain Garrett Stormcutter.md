@@ -333,5 +333,4 @@ Member of House Serpentblood - Trait: magical affinity
 - [Admiral Thorne Blackwater]]
 - [[Assets Art Brother Matthias Inkdrinker.png
 - [Master Artificer Coral Gemwright]]
-- [[Senator_Glaucus_Brain (D&D_References)
-- [Admiral Thorne Blackwater (D&D_Statblocks)]]
+- [[Admiral Thorne Blackwater (D&D_Statblocks)]]

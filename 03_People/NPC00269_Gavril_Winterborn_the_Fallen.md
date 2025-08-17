@@ -164,10 +164,8 @@ Requires champions for trial by combat
 - Influences [step_002 (phase_014)]]
 - Related: [[Depth Pulse
 - Requires [step_007 (phase_011)]]
-- Related: [[NPC01818_Cedric_Darkwater_the_Seeker
-- Compare with [LOC0029_Groveford]]
-- Compare with [[The Crystal Integration Festival (D&D_References)
-- Compare with [INV-009 (02_Worldbuilding)]]
+- Related: [[NPC01818_Cedric_Darkwater_the_Seeker]]
+- Compare with [[The Crystal Integration Festival (D&D_References)]]
 - Connects to [[ITEM00249_Blazing_Hammer_of_Wounding
 - Related: [The Void Seekers]]
 - Influences [[location-city-middle-harbor-middle-harbor.svg
@@ -175,12 +173,10 @@ Requires champions for trial by combat
 - Affected by [[Surface Contacts (D&D_References)
 - Connects to
 - Leads to [bugbear-warrior-xmm (fey)]]
-- Requires [[revet xmm
-- Related: [The Crystal Harmony Collective]]
+- Requires [[The Crystal Harmony Collective]]
 - See also: [[Trade Route Establishment 2
 - Compare with [The Crystal Amphitheater]]
-- Connects to [[step_068 (phase_023)
-- Originates from [NPC00285_Xander_Goldleaf_the_Mystic]]
+- Connects to [[NPC00285_Xander_Goldleaf_the_Mystic]]
 - Affected by [[NPC0138_Soren_Darkwater
 - Connects to [LORE00147_History_Entry_148]]
 - Requires
@@ -193,17 +189,13 @@ Requires champions for trial by combat
 - Related:
 - Influences [[NPC01906_Alaric_Darkwater_the_Redeemed
 - Requires [Assets Locations Location City Secular Community Practices V1 Secular Community Practices.svg]]
-- Requires [[LORE0053_Myth_of_the_Hero's_Sacrifice
-- Related: [QUEST00187_Main_Quest_188]]
+- Requires [[LORE0053_Myth_of_the_Hero's_Sacrifice]]
 - Affected by
-- Originates from [[green-copper-ewer-cos (items)
-- Compare with [step_063 (phase_054)]]
-- Requires [[Investigation Log INV-000 (D&D_References)
-- Compare with [Halfling Cyrrollalee Mtf]]
+- Originates from [[green-copper-ewer-cos (items)]]
+- Requires [[Investigation Log INV-000 (D&D_References)]]
 - See also: [[LOC00034_Wilderness_Location_35
 - Leads to [twinned-spell-xphb (optional-features)]]
-- Leads to [[step_070 (phase_081)
-- Compare with [The Final Choice 3 (D&D_References)]]
+- Leads to [[The Final Choice 3 (D&D_References)]]
 - Related: [[step_086 (phase_027)
 - Requires [True Polymorph Xphb]]
 - Requires [[flying-snake-xmm (monstrosity)
@@ -215,8 +207,7 @@ Requires champions for trial by combat
 - Leads to [LORE00041_Legends_Entry_42]]
 - See also: [[step_068 (phase_041)
 - Related: [step_068 (phase_073)]]
-- Requires [[The Existence Planning Office
-- Affected by [step_020 (phase_009)]]
+- Requires [[The Existence Planning Office]]
 - Compare with [[Assets Locations Location City Duchess Cordelia Pearlheart V1 Duchess Cordelia Pearlheart.svg
 - Originates from [Portrait NPC Marina Red Tide Coralheart V2 Marina Red Tide Coralheart.svg]]
 - See also: [[step_019 (phase_068)

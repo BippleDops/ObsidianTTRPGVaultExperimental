@@ -161,14 +161,12 @@ Family member has gone missing
 
 - See also: [[Location City Captain Marlowe Tidecrest V1 Captain Marlowe Tidecrest.svg
 - Influences [Assets Item Artifact Travelers Clothes Xphb V6 Travelers Clothes Xphb.png]]
-- Leads to [[LOC00180_Towns_Location_181
-- Related: [NPC00631_Pyria_Crystalbrook_the_Wanderer]]
+- Leads to [[NPC00631_Pyria_Crystalbrook_the_Wanderer]]
 - Requires [[ENC00437_Combat_Encounter_438
 - Compare with [Vehicle Ship Arc Engine Prototype V2 Arc Engine Prototype.svg]]
 - See also: [[Location City Shadow Trackhound Shadow Trackhound.svg
 - See also: [Dimensional Delicacies]]
-- Originates from [[ITEM0060_Eldritch_Circlet_of_Power
-- Compare with [Quartermaster Shadow Supply (D&D_References)]]
+- Originates from [[Quartermaster Shadow Supply (D&D_References)]]
 - Leads to [[The Cosmic Altar
 - Leads to [Princess Lyralei 2]]
 - Originates from [[lizardfolk-vgm (races)
@@ -180,10 +178,8 @@ Family member has gone missing
 - Leads to
 - Requires [[International Trade
 - Affected by [Assets Locations Location City Courier Ripplestone V1 Courier Ripplestone.svg]]
-- Compare with [[Private Investigator Rex Coldcase (D&D_References)
-- Compare with [unbroken-air (optional-features)]]
-- Leads to [[NPC01100_Drusilla_Goldleaf_the_Broken
-- Compare with [nonhuman-eadro (deities)]]
+- Compare with [[Private Investigator Rex Coldcase (D&D_References)]]
+- Leads to [[NPC01100_Drusilla_Goldleaf_the_Broken]]
 - Connects to [[step_079 (phase_067)
 - Influences [Creature Creature Goblin Warrior Xmm V3 Goblin Warrior Xmm.png]]
 - Parallels [[rogue-xphb-inquisitive-xge (classes)
@@ -199,18 +195,15 @@ Family member has gone missing
 - Connects to [LOC00271_Towns_Location_272]]
 - Compare with [[Quest - The Deep Mother's Truth_1 (01_Adventures)
 - Requires [step_005 (phase_086)]]
-- Affected by [[Princess Celestine Lumengarde (D&D_References)
-- Connects to [NPC01849_Kaelen_Silverleaf_the_Scholar]]
-- Connects to [[Merchant Guild Headquarters
-- Originates from [The Crystal Stock Exchange (D&D_References)]]
+- Affected by [[Princess Celestine Lumengarde (D&D_References)]]
+- Connects to [[The Crystal Stock Exchange (D&D_References)]]
 - Influences [[ITEM00846_Infernal_Ring_of_the_Gods
 - Connects to [skills#Performance]]
 - Related: [[Shadow touched Communities
 - See also: [Forgotten Realms Chauntea]]
 - Influences [[step_059 (phase_062)
 - See also: [Location City Marina Deepcurrent Marina Deepcurrent.svg]]
-- Influences [[QUEST00043_Personal_Quest_44
-- Related: [Marcus Depthward 2]]
+- Influences [[QUEST00043_Personal_Quest_44]]
 - Originates from [[Assets Locations Location City Chef Gastropod V1 Chef Gastropod.svg
 - Connects to [necklace-of-adaptation-xdmg (items)]]
 - Parallels [[LOC00020_Dungeons_Location_21
@@ -231,8 +224,7 @@ Family member has gone missing
 - Affected by [Foraging Dcs]]
 - Leads to [[ITEM00228_Radiant_Bow_of_the_Ancients
 - Leads to [Abyssal Academy (D&D_References)]]
-- Requires [[step_052 (phase_076)
-- See also: [NPC01204_Gareth_Underhill_the_Lost]]
+- Requires [[NPC01204_Gareth_Underhill_the_Lost]]
 - See also: [[NPC0089_Jora_Goldleaf_the_Just
 - Originates from [ENC00191_Environmental_Encounter_192]]
 - Related: [[NPC00097_Lyanna_Jadeclaw
@@ -242,8 +234,7 @@ Family member has gone missing
 - Related: [The_Forgotten_Crypt_of_Despair]]
 - Influences [[Rogue_Journal
 - Connects to [Location City Temple of Echoing Tides V1 Temple of Echoing Tides.svg]]
-- Parallels [[NPC01150_Zephyr_Crystalbrook_the_Seeker
-- Parallels [Royal Guard (Places)]]
+- Parallels [[NPC01150_Zephyr_Crystalbrook_the_Seeker]]
 - Requires
 - See also: [[LORE00174_Legends_Entry_175
 - Compare with [Export_Hub]]
@@ -253,8 +244,7 @@ Family member has gone missing
 - Connects to [LORE00235_History_Entry_236]]
 - Affected by [[Levels 1720 Masters of the World Levels 1720
 - Compare with [location-city-abyssos-prime-abyssos-prime.svg]]
-- Affected by [[Lieutenant Marcu
-- Connects to [SPELL00084_Divine_Spell_85]]
+- Affected by [[SPELL00084_Divine_Spell_85]]
 - Affected by [[Random Magic Item Rarity Magic Item Rarities
 - Compare with [step_054 (phase_053)]]
 - Parallels [[Symbol Heraldry Economic Intelligence V1 Economic Intelligence.svg

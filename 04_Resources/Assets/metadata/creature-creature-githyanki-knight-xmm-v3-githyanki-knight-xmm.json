@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Create an illustration in a consistent painterly style, influenced by heroic tabletop fantasy themes. The subject should be similar to a Githyanki knight but not identical. The figure should exhibit unique limbs and distinct musculature, and their gear should be made from materials common to a medieval fantasy setting - all culturally coherent with the knight's design. The image should contrast a silhouette of a human figure. The scenario should blur the line between an underwater and sky environment while maintaining a sense of motion. The style should infuse elements of cosmic surrealism, depicting impossible geometries and a grainy starfield. The lighting should have indigo glows against a three-color palette of indigos, violets, black, and cold silver. The image will be a detailed concept art with no modern signage, sci-fi UIs, photoreal CGI, anime style, or bloom glare. No embedded text or words and no garbled or random letter strings.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-githyanki-knight-xmm-v3-githyanki-knight-xmm.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-githyanki-knight-xmm-v3-githyanki-knight-xmm.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:03:29.141Z",
+  "generationMethod": "ComfyUI"
 }

@@ -258,13 +258,8 @@ ___
 
 ## References
 
-- [[Aurelius Goldwave
-- [Merchant Family Alliances]]
-- [[Political Intrigue Master Index
-- [Silver Mask]]
-- [[The Crimson Hand
-- [The Silverscale Conspiracy]]
-- [[Umbral Exchange
-- [Maelstrom Palace]]
-- [[Pressure Tube Terminal
-- [Aurelius Goldwave (D&D_Statblocks)]]
+- [[Merchant Family Alliances]]
+- [[Political Intrigue Master Index]]
+- [[The Silverscale Conspiracy]]
+- [[Maelstrom Palace]]
+- [[Aurelius Goldwave (D&D_Statblocks)]]

@@ -162,22 +162,18 @@ Blackmails party into service
 
 ## Connections
 
-- Compare with [[greyhawk-obad-hai-xdmg (deities)
-- Requires [Deep Studycurrent (D&D_References)]]
+- Compare with [[Deep Studycurrent (D&D_References)]]
 - Connects to [[step_050 (phase_058)
 - Affected by [Void Spaces]]
-- Originates from [[Musical Instrument Xphb
-- Requires [LOC00222_Planes_Location_223]]
+- Originates from [[LOC00222_Planes_Location_223]]
 - Influences [[ENC00153_Social_Encounter_154
 - Influences [Portrait NPC Ranger Captain Orin Swiftarrow Ranger Captain Orin Swiftarrow.svg]]
 - Connects to [[05-chapter-4-character-origins (players-handbook-2024)
 - Connects to [Assets Locations Location City Midas Goldcurrent V1 Midas Goldcurrent.svg]]
 - Compare with [[Cambion Xmm
 - Influences [kobold-warrior-xmm (dragon)]]
-- Connects to [[Void Storm
-- Originates from [ENC0066_Random_Encounter_67]]
-- Connects to [[QUEST00230_Personal_Quest_231
-- Requires [step_069 (phase_081)]]
+- Connects to [[ENC0066_Random_Encounter_67]]
+- Connects to [[QUEST00230_Personal_Quest_231]]
 - Affected by [[step_093 (phase_035)
 - Originates from [NPC0120_Aldric_Darkwater]]
 - Originates from [[bewitching-whispers (optional-features)
@@ -191,28 +187,22 @@ Blackmails party into service
 - Influences [Assets Locations Location City Security Chief Wade Peacekeep Security Chief Wade Peacekeep.svg]]
 - Leads to [[Portrait NPC Archdruid Thornweaver V1 Archdruid Thornweaver.svg
 - Parallels [eldritch-sight (optional-features)]]
-- Related: [[Intelligence Community (D&D_References)
-- Compare with [Comparative Religion 2]]
+- Related: [[Intelligence Community (D&D_References)]]
 - Influences [[modron-tridrone-xmm (construct)
 - Parallels [step_003 (phase_096)]]
 - See also: [[LORE00308_History_Entry_309
 - Leads to [step_025 (phase_010)]]
-- Requires [[LOC00163_Dungeons_Location_164
-- Affected by [Architect Coral Builder (D&D_References)]]
-- Leads to [[step_031 (phase_030)
-- Parallels [Eastern Kingdom (D&D_References)]]
-- Connects to [[step_002 (phase_018)
-- Connects to [02-chapter-1-playing-the-game (players-handbook-2024)]]
+- Requires [[Architect Coral Builder (D&D_References)]]
+- Leads to [[Eastern Kingdom (D&D_References)]]
+- Connects to [[02-chapter-1-playing-the-game (players-handbook-2024)]]
 - Affected by [[portrait-npc-vex-shadowthorn-vex-shadowthorn.svg
 - Influences [juvenile-hook-horror-oota (monstrosity)]]
 - Originates from [[Portrait NPC Duke Lysander Crystalvein Duke Lysander Crystalvein.svg_1 (Portraits)
 - Influences [Location City Comparative Religion Experts Comparative Religion Experts.svg]]
-- Requires [[Deck of Many Things
-- Parallels [Quest - The Democratic Crisis]]
+- Requires [[Quest - The Democratic Crisis]]
 - Compare with [[Assets Locations Location City Family Portrait V1 Family Portrait.svg
 - Affected by [great-weapon-fighting-xphb (feats)]]
-- Compare with [[NPC00663_Alaric_Dawnstrider_the_Strong
-- Connects to [step_078 (phase_075)]]
+- Compare with [[NPC00663_Alaric_Dawnstrider_the_Strong]]
 - Related: [[LOC00067_Cities_Location_68
 - Connects to [Assets Locations Location City Constitutional Monarchy V1 Constitutional Monarchy.svg]]
 - Connects to [[Deepwatch Guard 2
@@ -230,34 +220,27 @@ Blackmails party into service
 - Connects to [Investigate Shadow Surgeons]]
 - Connects to [[enspelled-weapon-xdmg (items)
 - Requires [Creature Size and Space Xdmg]]
-- Connects to [[Princess Celestia (D&D_References)
-- Affected by [step_080 (phase_077)]]
+- Connects to [[Princess Celestia (D&D_References)]]
 - Compare with
-- Requires [[Culinary Dreamweaver Sage Gentlespice (D&D_References)
-- Connects to [Assets Portraits Portrait NPC Deep Lords Deep Lords.svg]]
+- Requires [[Culinary Dreamweaver Sage Gentlespice (D&D_References)]]
 - Originates from [[step_072 (phase_089)
 - Compare with [Location City the Reef Communities the Reef Communities.svg]]
 - Affected by [[Quest - The System Reform_1 (01_Adventures)
 - Influences [Kraken Xmm]]
 - Parallels [[step_024 (phase_076)
 - Compare with [step_018 (phase_037)]]
-- Connects to [[step_034 (phase_052)
-- Influences [Temple Ward (D&D_Statblocks)]]
-- See also: [[Foreign Shadow Syndicates
-- Requires [step_091 (phase_069)]]
-- Influences [[The Great Thermal Shift
-- Affected by [Sling Xphb]]
+- Connects to [[Temple Ward (D&D_Statblocks)]]
+- See also: [[Foreign Shadow Syndicates]]
+- Influences [[The Great Thermal Shift]]
 - Originates from [[QUEST00148_Personal_Quest_149
 - Connects to [SPELL00109_Nature_Spell_110]]
-- See also: [[NPC01773_Drusilla_Silverleaf_the_Wanderer
-- Parallels [Trade Regulations 2]]
+- See also: [[NPC01773_Drusilla_Silverleaf_the_Wanderer]]
 - Compare with [[step_075 (phase_056)
 - Compare with [step_083 (phase_049)]]
 - Compare with [[globe-of-invulnerability-xphb (spells)
 - Influences [Assets Locations Location City Dream Enhancement Techniques V1 Dream Enhancement Techniques.svg]]
 - Parallels
-- Requires [[step_034 (phase_010)
-- Leads to [Captain Marcus Voidward (D&D_References)]]
+- Requires [[Captain Marcus Voidward (D&D_References)]]
 - Requires [[Downtime Activity Gaining Renown
 - Parallels
 - Related:

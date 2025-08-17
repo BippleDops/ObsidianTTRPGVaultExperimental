@@ -142,32 +142,18 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Aurelius Goldwave
-- [Biomancer Corvus Intestinal]]
-- [[Consequence Chain 1 - Shadow Conspiracy Exposure
-- [Economic Crime Methods]]
-- [[Political Compromise Costs
-- [Quarantine Enforcement]]
-- [[Silver Mask
-- [The Bathyal Succession]]
-- [[The Silverscale Conspiracy
-- [Abyssos Prime - Pressure Terminal]]
-- [[Abyssos Prime Docks
-- [Crystal Cult Temples]]
-- [[Depth Warden Patrol
-- [Depth Wardens]]
-- [[Mad Bell-Ringer Thomas
-- [Mad Oracle Thessaly]]
-- [[Madame Rosalind Goldleaf
-- [Pressure Suit Malfunction]]
-- [[Pressure Terminal
-- [Pressure Tube Terminal]]
-- [[Royal Palace of Meridian
-- [Royal Palace]]
-- [[Tenebrarum Embassy
-- [Tethyan Hegemony]]
-- [[The Crystal Wardens
-- [The Free Current]]
-- [[The Mothercoral Crisis
-- [The Order of the Shattered Crown]]
+- [[Biomancer Corvus Intestinal]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Political Compromise Costs]]
+- [[The Bathyal Succession]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Crystal Cult Temples]]
+- [[Depth Warden Patrol]]
+- [[Mad Bell-Ringer Thomas]]
+- [[Pressure Suit Malfunction]]
+- [[Pressure Tube Terminal]]
+- [[Royal Palace of Meridian]]
+- [[Tenebrarum Embassy]]
+- [[The Crystal Wardens]]
+- [[The Order of the Shattered Crown]]
 - [[Whisper-Touched William]]

@@ -166,8 +166,7 @@ Knows secret about major threat
 
 ## Connections
 
-- Compare with [[High Judge Moira Truthseeke 2
-- Compare with [step_082 (phase_013)]]
+- Compare with [[High Judge Moira Truthseeke 2]]
 - Compare with [[#At the Table
 - See also: [step_089 (phase_062)]]
 - See also: [[22 Afterword
@@ -181,18 +180,15 @@ Knows secret about major threat
 - Related: [Contagion Xphb]]
 - Related: [[step_008 (phase_049)
 - Parallels [step_024 (phase_043)]]
-- Influences [[Crystal Resonance Theory
-- Connects to [NPC01578_Faelyn_Brightblade_the_Lost]]
+- Influences [[NPC01578_Faelyn_Brightblade_the_Lost]]
 - Leads to [[step_003 (phase_054)
 - Originates from [Mind Guardian Vera]]
 - Connects to [[QUEST0009_Captain's_Gambit
 - Connects to [Communication_Systems]]
 - Influences [[LORE00015_Prophecies_Entry_16
 - Requires [EVENT00062_Magical_Event_63]]
-- Leads to [[Crystalline Depths (D&D_Statblocks)
-- Related: [ATOMIC_TEMPLATE]]
-- Affected by [[Memory Keeper Ancient Nerida
-- Compare with [step_042 (phase_008)]]
+- Leads to [[Crystalline Depths (D&D_Statblocks)]]
+- Affected by [[Memory Keeper Ancient Nerida]]
 - See also: [[Constitutional Monarchy
 - Originates from [step_012 (phase_080)]]
 - See also: [[Assets Locations Location City Haven Reef Haven Reef.svg
@@ -200,29 +196,22 @@ Knows secret about major threat
 - Affected by
 - See also: [[step_098 (phase_016)
 - Influences [The Preservation Chamber]]
-- Affected by [[NPC01147_Vesper_Blackstone_the_Risen
-- Parallels [Keeper Sage Remembrance]]
-- Parallels [[NPC00684_Erasmus_Frostwhisper_the_Redeemed
-- Compare with [step_076 (phase_074)]]
+- Affected by [[NPC01147_Vesper_Blackstone_the_Risen]]
+- Parallels [[NPC00684_Erasmus_Frostwhisper_the_Redeemed]]
 - Leads to [[Player_Feedback_Form.md
 - Influences [monsters-by-habitat-coastal-monsters-xmm (tables)]]
 - Related: [[Inverted Ballroom Wing
 - Influences [Distribution by Rarity Magic Items Awarded]]
 - Connects to [[QUEST00008_Personal_Quest_9
 - Leads to [dragonborn-names-female-xge (tables)]]
-- Leads to [[height-and-weight-vgm (tables)
-- Related: [Dockmaster Bruno Steadyanchor (D&D_References)]]
-- Affected by [[Home Embeds Dvsession Journal
-- Connects to [ITEM0085_Forgotten_Crown_of_the_Dawn]]
-- See also: [[ENC00154_Environmental_Encounter_155
-- Originates from [myconid-spore-servant-xmm]]
+- Leads to [[Dockmaster Bruno Steadyanchor (D&D_References)]]
+- Affected by [[ITEM0085_Forgotten_Crown_of_the_Dawn]]
+- See also: [[ENC00154_Environmental_Encounter_155]]
 - Influences [[step_040 (phase_040)
 - Affected by [step_051 (phase_025)]]
 - Related: [[Dimensional Scholar Arcturus Voidwalker
 - Compare with [Assets Locations Location City Temple of the Deep Waters Temple of the Deep Waters.svg]]
-- Influences [[Pressure & Depth Mechanics
-- See also:
-- Affected by [Master Archivist Valdric Stonewhisper (D&D_References)]]
+- Influences [[Master Archivist Valdric Stonewhisper (D&D_References)]]
 - See also: [[Quest - The Silver Revolution
 - See also:
 - See also: [step_029 (phase_008)]]
@@ -236,23 +225,17 @@ Knows secret about major threat
 - See also: [Silver Mask (D&D_References)]]
 - Compare with [[Economic Warfare Simulator
 - See also: [Portrait NPC the Void Watchers Shrines the Void Watchers Shrines.svg]]
-- Leads to [[step_073 (phase_035)
-- Connects to [Master Banker Cornelius Coinwright 2]]
+- Leads to [[Master Banker Cornelius Coinwright 2]]
 - Leads to [[Poseidon 2
 - Leads to [step_045 (phase_084)]]
-- Affected by [[QUEST00035_Personal_Quest_36
-- Influences [NPC00156_Gareth_Winterborn_the_Guardian]]
+- Affected by [[NPC00156_Gareth_Winterborn_the_Guardian]]
 - See also:
-- Originates from [[Biomech Specialist Tide Metalweaver (D&D_References)
-- Parallels [QUEST00063_Personal_Quest_64]]
+- Originates from [[Biomech Specialist Tide Metalweaver (D&D_References)]]
 - Influences
-- Leads to [[Depth Forge
-- Parallels [Crystal Merchants Guild]]
+- Leads to [[Crystal Merchants Guild]]
 - Influences
-- Connects to [[Healing Temples
-- Compare with [Chief Marine Engineer Coral Seaforge]]
-- Connects to [[NPC00963_Nerys_Frostwhisper_the_Guardian
-- Influences [Barkeep Salty Sarah]]
+- Connects to [[Chief Marine Engineer Coral Seaforge]]
+- Connects to [[NPC00963_Nerys_Frostwhisper_the_Guardian]]
 - Compare with [[Hezrou Xmm
 - Affected by [Marcus Evenscale]]
 - Related: [[The Shard Incident

@@ -304,23 +304,19 @@ ___
 - [The Queen]]
 - [[Assets Locations Location City Quartermaster Judith Supplycurrent Quartermaster Judith Supplycurrent.svg
 - [Assets Symbols Symbol Heraldry Minister Truth Darknes Minister Truth Darknes.svg]]
-- [[The Queen (D&D_References)
-- [The Queen 3 (D&D_References)]]
+- [[The Queen 3 (D&D_References)]]
 
 ## Connections
 
-- See also: [[Lizard Xmm
-- Connects to [Session Notes Template_1 (09_Templates)]]
-- Related: [[step_017 (phase_073)
-- Compare with [Aethermoor_Session_10 (D&D_References)]]
+- See also: [[Session Notes Template_1 (09_Templates)]]
+- Related: [[Aethermoor_Session_10 (D&D_References)]]
 - Parallels [[List Spells Optional Features Ascendant Step
 - Affected by [QUEST00036_Main_Quest_37]]
 - Affected by [[The World Tree
 - Connects to [LORE00234_Legends_Entry_235]]
 - Parallels [[Portrait NPC Prince Caspian Duskwater V2 Prince Caspian Duskwater.svg
 - Influences [Chancellor_Octavius.png]]
-- Originates from [[Sergeant Surveillance
-- Influences [QUEST0097_In_Search_of_Vengeance]]
+- Originates from [[QUEST0097_In_Search_of_Vengeance]]
 - Leads to [[Assets Locations Location City Sister Mourne V1 Sister Mourne.svg
 - Originates from [Marianas Abys]]
 - Parallels [[Inter-Realm Transportation
@@ -328,39 +324,32 @@ ___
 - Parallels [[Portrait NPC Elder Whisper in the Dark V1 Elder Whisper in the Dark.svg
 - Connects to
 - Leads to [Assets Locations Location City Sage Nereon V1 Sage Nereon.svg]]
-- Connects to [[The Last Resort Procedures (D&D_References)
-- Parallels [The Whispering Depths (D&D_References)]]
+- Connects to [[The Last Resort Procedures (D&D_References)]]
 - See also: [[Location City the Deep Fugitive the Deep Fugitive.svg
 - See also: [SPELL00158_Divine_Spell_159]]
 - Leads to [[02_Worldbuilding_People_Emergency_Coordinator_Storm_Quickfix
 - Originates from [MON00119_Constructs_Creature_120]]
-- Leads to [[ENC00465_Combat_Encounter_466
-- See also: [The Godhead Ritual 2]]
+- Leads to [[ENC00465_Combat_Encounter_466]]
 - Requires [[QUEST00029_Personal_Quest_30
 - Connects to [ITEM01382_Decorated_Journal_of_Convenience]]
 - Influences [[Assets Locations Location City Gallery of Echoing Truths Gallery of Echoing Truths.svg
 - See also: [step_054 (phase_083)]]
-- Originates from [[Crystal Plague Wards (D&D_References)
-- Parallels [step_084 (phase_045)]]
+- Originates from [[Crystal Plague Wards (D&D_References)]]
 - Related: [[Prophetic Circle
 - Connects to [step_051 (phase_045)]]
-- Requires [[NPC01921_Erasmus_Youngblood_the_Seeker
-- Influences [step_049 (phase_068)]]
+- Requires [[NPC01921_Erasmus_Youngblood_the_Seeker]]
 - Related: [[Assets Locations Location City House Depthguard House Depthguard.svg
 - Influences [ENC00357_Combat_Encounter_358]]
 - Compare with [[Dimensional Collapse
 - Requires [step_098 (phase_016)]]
 - Leads to [[LOC00123_Towns_Location_124
 - Compare with [SPELL00052_Arcane_Spell_53]]
-- Influences [[Training Sergeant Major Veteran Teachstrike
-- Influences [step_095 (phase_026)]]
-- Parallels [[LOC00165_Cities_Location_166
-- Connects to [Indefinite Madness]]
+- Influences [[Training Sergeant Major Veteran Teachstrike]]
+- Parallels [[LOC00165_Cities_Location_166]]
 - Originates from
 - Related: [[Portrait NPC the Crystal Queen Mother V2 the Crystal Queen Mother.svg_1 (Portraits)
 - Compare with [DUN00131_Dungeon_132]]
-- Leads to [[step_052 (phase_077)
-- Connects to [Aethermoor to Aquabyssos Transition Guide 2]]
+- Leads to [[Aethermoor to Aquabyssos Transition Guide 2]]
 - Related: [[Overwhelming Revelations
 - Originates from [Cultural Festival]]
 - Affected by [[step_063 (phase_076)
@@ -374,10 +363,8 @@ ___
 - Related: [List Spells Feats Blessed Warrior Xphb]]
 - Compare with [[QUEST00442_Side_Quest_443
 - Parallels [Item Artifact Boots of Striding and Springing Xdmg Boots of Striding and Springing Xdmg.png]]
-- Related: [[SPELL00054_Divine_Spell_55
-- Parallels [step_081 (phase_034)]]
-- Related: [[X L-12 the Deep Mothers Bridge of Dreams (Encounters)
-- Influences [ITEM00447_Fortified_Plate_of_the_Guardian]]
+- Related: [[SPELL00054_Divine_Spell_55]]
+- Related: [[X L-12 the Deep Mothers Bridge of Dreams (Encounters)]]
 - Influences [[step_072 (phase_046)
 - Leads to
 - See also: [step_004 (phase_037)]]
@@ -404,8 +391,7 @@ ___
 - See also: [Portrait NPC Trade Captain Sterling V2 Trade Captain Sterling.svg]]
 - Connects to [[The Outer Planes Outer Planes Xphb
 - Related: [The Memory Weavers 2]]
-- See also: [[defense-xphb (feats)
-- Influences [ENC00176_Combat_Encounter_177]]
+- See also: [[ENC00176_Combat_Encounter_177]]
 - Related: [[NPC00197_Felicia_Ironforge_the_Redeemed
 - See also: [Portrait NPC Memory Harvester Kythara V2 Memory Harvester Kythara.svg]]
 - Compare with [[artifact-properties-major-detrimental-properties]]

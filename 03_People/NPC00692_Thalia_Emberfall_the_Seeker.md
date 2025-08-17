@@ -168,8 +168,7 @@ Family member has gone missing
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -182,26 +181,20 @@ Family member has gone missing
 
 ## Connections
 
-- Requires [[Pearl Sharpedge (D&D_References)
-- Affected by [NPC01894_Aldric_Lightbringer_the_Bold]]
-- Affected by [[downtime-activity-crafting-a-magic-item (variant-rules)
-- Affected by [step_022 (phase_074)]]
-- Parallels [[The Unknown Original 2
-- Related: [LOC00243_Planes_Location_244]]
+- Requires [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- Affected by [[downtime-activity-crafting-a-magic-item (variant-rules)]]
+- Parallels [[LOC00243_Planes_Location_244]]
 - Compare with [[Lumengarde City
 - Affected by [step_095 (phase_041)]]
-- Originates from [[SPELL00073_Arcane_Spell_74
-- Leads to [step_006 (phase_092)]]
+- Originates from [[SPELL00073_Arcane_Spell_74]]
 - Influences [[step_035 (phase_071)
 - Influences [modern-bullets-10 (items)]]
-- Related: [[list-spells-school-enchantment (lists)
-- Influences [Reflection Captain Vantage (D&D_References)]]
+- Related: [[Reflection Captain Vantage (D&D_References)]]
 - Influences [[item-artifact-warhammer-xphb-warhammer-xphb.png
 - Parallels [EVENT00050_Magical_Event_51]]
 - Originates from [[LOC00120_Towns_Location_121
 - Connects to [LOC00121_Wilderness_Location_122]]
-- Affected by [[LOC00073_Dungeons_Location_74
-- Related: [Explorer Captain Reef Deepdiver 2]]
+- Affected by [[Explorer Captain Reef Deepdiver 2]]
 - Compare with [[PHASE_1_COMPLETE
 - Originates from [Location City Pressure Lock Systems V1 Pressure Lock Systems.svg]]
 - Connects to [[step_079 (phase_016)
@@ -210,8 +203,7 @@ Family member has gone missing
 - Compare with [Devastation Orb of Air Pota]]
 - Related: [[Vehicle Ship Sky Cutter Interceptor Sky Cutter Interceptor.svg
 - Leads to [Memorial Mason Kane]]
-- Affected by [[Diplomatic Dining Protocol 2
-- Related: [INV 001]]
+- Affected by [[Diplomatic Dining Protocol 2]]
 - Leads to [[Assets Locations Location City Port Meridian Market District V1 Port Meridian Market District.svg
 - Leads to
 - Leads to [Quest - The Pretender_1 (01_Adventures)]]
@@ -235,10 +227,8 @@ Family member has gone missing
 - Connects to [[Neural Activity Mappers
 - Affected by
 - Connects to [Magic Schools and Academies]]
-- Leads to [[session_preparation_optimization
-- Parallels [Instrument of Scribing Xdmg]]
-- Parallels [[QUEST00226_Personal_Quest_227
-- Compare with [step_094 (phase_068)]]
+- Leads to [[session_preparation_optimization]]
+- Parallels [[QUEST00226_Personal_Quest_227]]
 - See also: [[step_010 (phase_050)
 - Originates from
 - See also: [Services Reality Anchor Installation]]
@@ -248,17 +238,13 @@ Family member has gone missing
 - Requires [step_001 (phase_090)]]
 - Related: [[step_019 (phase_026)
 - See also: [Portrait NPC Queen Morwyn Lumengarde Queen Morwyn Lumengarde.svg]]
-- Originates from [[ENC00054_Environmental_Encounter_55
-- Related: [step_040 (phase_028)]]
-- Connects to [[NPC00837_Gavril_Brightblade_the_Guardian
-- Related: [ENC00272_Combat_Encounter_273]]
+- Originates from [[ENC00054_Environmental_Encounter_55]]
+- Connects to [[NPC00837_Gavril_Brightblade_the_Guardian]]
 - Originates from [[Forgotten Realms Malar
 - Affected by [step_043 (phase_062)]]
-- See also: [[QUEST00175_Main_Quest_176
-- Leads to [Legal Advocate Rights Defender 2]]
+- See also: [[Legal Advocate Rights Defender 2]]
 - Requires
-- Connects to [[Resonance Equipment (D&D_References)
-- Compare with [QUEST00015_Main_Quest_16]]
+- Connects to [[Resonance Equipment (D&D_References)]]
 - Connects to [[ITEM00283_Venomous_Bow_of_Wounding
 - Leads to [NPC01704_Ewan_Stormwind_the_Mystic]]
 - Affected by [[Coral Reef Sanctuaries (D&D_References)

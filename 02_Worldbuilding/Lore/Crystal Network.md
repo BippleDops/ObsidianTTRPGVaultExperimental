@@ -52,21 +52,12 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [Crystal Forest]]
-- [[Crystal Garden
-- [Great Drowning]]
-- [[Multi-Phase Boss Fights
-- [Post-Merge Chronology]]
-- [[Pressure Adaptation System
-- [Resonance Peaks]]
-- [[The Crimson Hand
-- [The Crystal Networks]]
-- [[The Deep Prophecies
-- [The Queen]]
-- [[The Transformed Citizens
-- [Throne Room]]
-- [[Tidal Chambers
-- [Trade Route Establishment]]
-- [[Wind Song Linguistic Guide
-- [Crystal Caverns]]
-- [[Crystallium Embassy
-- [The Royal Palace]]
+- [[Crystal Garden]]
+- [[Multi-Phase Boss Fights]]
+- [[Pressure Adaptation System]]
+- [[The Crystal Networks]]
+- [[The Deep Prophecies]]
+- [[The Transformed Citizens]]
+- [[Trade Route Establishment]]
+- [[Wind Song Linguistic Guide]]
+- [[Crystallium Embassy]]

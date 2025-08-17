@@ -169,29 +169,24 @@ Is secretly testing the party
 - Influences [[Dark Gift of Norganas the Finger of Oblivion
 - Affected by
 - Compare with [Pressure Linguistics (D&D_References)]]
-- Connects to [[step_014 (phase_072)
-- Connects to [LOC00134_Wilderness_Location_135]]
-- Connects to [[step_051 (phase_081)
-- Influences [Void Touched Pilgrims (D&D_References)]]
+- Connects to [[LOC00134_Wilderness_Location_135]]
+- Connects to [[Void Touched Pilgrims (D&D_References)]]
 - Affected by [[duergar-spore-servant-oota (plant)
 - Related: [Coastal Encounters Levels 510 Xge]]
 - See also: [[LOC0044_UpperHill
 - Parallels [Location City the Crystal Hive Collective V1 the Crystal Hive Collective.svg]]
 - Leads to [[The Archive of Unremembered Things
 - See also: [NPC01258_Gareth_Moonshadow_the_Risen]]
-- Compare with [[Korvin Blacktide (D&D_References)
-- Related: [portable-hole-xdmg (items)]]
+- Compare with [[Korvin Blacktide (D&D_References)]]
 - Leads to
-- Parallels [[ENC00162_Social_Encounter_163
-- See also: [Prismatic Crystal]]
+- Parallels [[ENC00162_Social_Encounter_163]]
 - Compare with [[step_032 (phase_050)
 - Requires [Assets Locations Location City the Observatory the Observatory.svg]]
 - Requires [[pan-flute-xphb (items)
 - Requires [Assets Vehicles Vehicle Ship Storm Borne Battleship Storm Borne Battleship.svg]]
 - See also: [[Boon of Perfect Health
 - Affected by [Windwright Academy (Academies)]]
-- Influences [[Parliament of Echoes - Public Gallery (D&D_References)
-- See also: [Surgeon Shadow-Touched (D&D_References)]]
+- Influences [[Parliament of Echoes - Public Gallery (D&D_References)]]
 - Influences
 - Compare with [[The Final Confrontation
 - Leads to [step_026 (phase_008)]]
@@ -200,30 +195,23 @@ Is secretly testing the party
 - See also: [Reality Distortion Effects]]
 - Requires [[Ankheg Xmm
 - Affected by [robe-of-eyes-xdmg (items)]]
-- Connects to [[MON00131_Aberrations_Creature_132
-- Parallels [The Tempest Wardens]]
-- Related: [[SPELL00043_Arcane_Spell_44
-- Leads to [Lost Fleet 2]]
+- Connects to [[MON00131_Aberrations_Creature_132]]
+- Related: [[SPELL00043_Arcane_Spell_44]]
 - Compare with [[Shadow Collective
 - Connects to [LORE00166_Prophecies_Entry_167]]
 - Requires [[Marcus Tidecaller
 - See also: [Copper Dragon Xmm]]
 - Leads to [[Creature Creature Undead Spirit Xphb Undead Spirit Xphb.png
 - Requires [Assets Locations Location City Aboleth Adjunct Yzz Aboleth Adjunct Yzz.svg]]
-- Parallels [[LOC0130_NorthGate
-- Leads to [S L-08 Gravity Inversion Storm Player (Encounters)]]
+- Parallels [[S L-08 Gravity Inversion Storm Player (Encounters)]]
 - Related: [[Owl Xmm
 - Parallels [wrathful-smite-xphb (spells)]]
-- Leads to [[human-names-chinese-female-xge (tables)
-- Originates from [Keeper of Memories Echo Truthseer (D&D_References)]]
-- Related: [[NPC01682_Vesper_Blackstone_the_Guardian
-- Connects to [Clues by Location]]
-- Originates from [[Transformations - Crystal - Crystal Resonanc
-- Parallels [Consequence Chain Name 1]]
+- Leads to [[Keeper of Memories Echo Truthseer (D&D_References)]]
+- Related: [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- Originates from [[Transformations - Crystal - Crystal Resonanc]]
 - See also: [[Candle Xphb
 - Connects to [step_081 (phase_055)]]
-- Influences [[Siren Maeve Echoborn (D&D_References)
-- See also: [The Great Trade Routes (D&D_References)]]
+- Influences [[The Great Trade Routes (D&D_References)]]
 - Related: [[step_008 (phase_094)
 - Compare with [SPELL00091_Nature_Spell_92]]
 - Originates from [[Greyhawk Nerull Xdmg
@@ -236,8 +224,7 @@ Is secretly testing the party
 - Compare with [step_084 (phase_028)]]
 - Leads to [[Portrait NPC Sea Spirit Priests V2 Sea Spirit Priests.svg_1 (Portraits)
 - Parallels [step_094 (phase_080)]]
-- Originates from [[LOC00037_Planes_Location_38
-- Influences [step_041 (phase_023)]]
+- Originates from [[LOC00037_Planes_Location_38]]
 - Influences [[Crystal Master Prism Lightweaver 2
 - Parallels [Item Artifact Spell Gem Lapis Lazuli Oota V2 Spell Gem Lapis Lazuli Oota.png]]
 - Related: [[SPELL00111_Divine_Spell_112
@@ -261,8 +248,7 @@ Is secretly testing the party
 - Affected by [Assets Locations Location City Pressure Crystals Pressure Crystals.svg]]
 - Compare with [[LOC00163_Dungeons_Location_164
 - Requires [Assets Symbols Symbol Heraldry the Stellar Confluence the Stellar Confluence.svg]]
-- See also: [[ENC00364_Combat_Encounter_365
-- Connects to [NPC00762_Felicia_Nightfall_the_Seeker]]
+- See also: [[NPC00762_Felicia_Nightfall_the_Seeker]]
 - Influences
 - Parallels [[Adjudicating Areas of Effect Targets in Area of Effect Xdmg
 - Parallels [The Free Current Movement (D&D_References)]]

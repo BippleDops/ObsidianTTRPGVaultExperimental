@@ -247,4 +247,4 @@ Mentioned in The Second Prophecy of Stars
 
 ## References
 
-- [[Cultural Festivals Committee (02_Worldbuilding)]]
+- [[Cultural Festivals Committee]]

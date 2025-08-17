@@ -18,17 +18,17 @@ status: complete
 [region]]: Unknown
 population: Unknown
 accessibility:
-  content_warnings:
-  - political coercion
-  - [[Environmental Hazards]]
-  pronunciation: Merchant Lord Silas Copperfield
-  safety_tools:
-  - Lines & Veils
-  - X-Card
-  - Open Door
-  screen_reader_summary: Merchant Lord Silas Copperfield is a notable location in
-    Aethermoor shaped by tidal politics and Convergence anomalies. This entry is structured
-    for fast table use.
+ content_warnings:
+ - political coercion
+ - [[Environmental_Hazards]]
+ pronunciation: Merchant Lord Silas Copperfield
+ safety_tools:
+ - Lines & Veils
+ - X-Card
+ - Open Door
+ screen_reader_summary: Merchant Lord Silas Copperfield is a notable location in
+ Aethermoor shaped by tidal politics and Convergence anomalies. This entry is structured
+ for fast table use.
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:16.958730+00:00'
 world: Aethermoor

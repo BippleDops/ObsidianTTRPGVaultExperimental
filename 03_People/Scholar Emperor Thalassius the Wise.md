@@ -270,6 +270,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [Assets Locations Location City Cathedral of Light V1 Cathedral of Light.png]]
 - [[Assets Locations Location City Harbor Master Captain Dockwise Harbor Master Captain Dockwise.svg
 - [Assets Portraits Portrait NPC Lady Resistance Brightshield Lady Resistance Brightshield.svg]]
-- [[Lord Aldric Blackwater
--
-- [Lord Aldric Blackwater (D&D_References)]]
+- [[Lord Aldric Blackwater (D&D_References)]]

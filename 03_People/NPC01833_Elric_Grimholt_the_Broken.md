@@ -171,21 +171,17 @@ Provides information for a price
 - Connects to [[ITEM00253_Blazing_Axe_of_Slaying
 - Requires
 - Compare with [SPELL00021_Divine_Spell_22]]
-- Leads to [[Session 30 Campaign Finale
-- Compare with [NPC01984_Ewan_Frostwhisper_the_Seeker]]
+- Leads to [[NPC01984_Ewan_Frostwhisper_the_Seeker]]
 - Compare with [[ITEM01006_Distilled_Oil_of_Healing
 - Leads to [LOC00089_Wilderness_Location_90]]
 - Compare with
 - Compare with [[Tiefling Fierna Mtf
 - See also: [Forgotten Realms Selune]]
-- Originates from [[Master Banker Cornelius Coinwrigh
-- Originates from [#Enemies_Allies]]
-- Related: [[step_004 (phase_009)
-- Leads to [SPELL00075_Arcane_Spell_76]]
+- Originates from [[Master Banker Cornelius Coinwrigh]]
+- Related: [[SPELL00075_Arcane_Spell_76]]
 - Compare with [[ITEM01462_Simple_Compass_of_Convenience
 - Related: [Glibness Xphb]]
-- Originates from [[Professional Associations
-- Compare with [Surface Signals]]
+- Originates from [[Professional Associations]]
 - Leads to [[step_096 (phase_088)
 - Compare with [archelon-xmm (beast)]]
 - Compare with [[Undead Spirit Skeletal Xphb
@@ -198,16 +194,14 @@ Provides information for a price
 - Requires [Goldwave Guest Quarters]]
 - Compare with [[step_058 (phase_016)
 - Influences [step_099 (phase_050)]]
-- Connects to [[Session 05 (06_Sessions)
-- See also: [NPC01952_Branwen_Brightblade_the_Wise]]
+- Connects to [[NPC01952_Branwen_Brightblade_the_Wise]]
 - Connects to [[blue-slaad-xmm (aberration)
 - Connects to [The Storm of Convergence]]
 - Connects to [[step_013 (phase_006)
 - Parallels [Assets Locations Location City Secular Community Practices V1 Secular Community Practices.svg]]
 - Connects to [[armor-xphb (tables)
 - Compare with [vault_consistency_report_20250814_173035]]
-- Compare with [[The Neutral Tavern (D&D_References)
-- Leads to [Magic Jar Xphb]]
+- Compare with [[The Neutral Tavern (D&D_References)]]
 - Parallels [[Eberron the Devourer
 - See also: [Will O Wisp Xmm]]
 - Originates from [[LORE0085_History_of_the_Hero's_Sacrifice
@@ -228,16 +222,14 @@ Provides information for a price
 - Influences [LORE00039_Legends_Entry_40]]
 - Related: [[Portrait NPC Captain Voidguard V2 Captain Voidguard.svg
 - Leads to [Madame Nightwhisper (D&D_References)]]
-- Requires [[Location Tracker (02_Worldbuilding)
-- Influences [Terminal Director Admiral Current Swiftflow 2]]
+- Requires [[Terminal Director Admiral Current Swiftflow 2]]
 - Compare with [[Queen Seraphina (Lore)
 - Parallels [Elven Hanali Celanil Mtf]]
 - Compare with [[Ancient Crystal Mines
 - See also: [Monsters by Habitat Any Habitat Monsters Xmm]]
 - See also: [[NPC00712_Faelyn_Proudmore_the_Fallen
 - Parallels [Assets Locations Location City Surface Contacts V1 Surface Contacts.svg]]
-- Leads to [[Cross-Realm Conspiracy Networks
-- Requires [step_021 (phase_062)]]
+- Leads to [[Cross-Realm Conspiracy Networks]]
 - Requires [[Senior Resoce Engineer Harmony Deepnote
 - Originates from [02_Worldbuilding_Groups_The_Shadow_Merchant_Prim]]
 - Parallels [[LOC0082_Watchwick
@@ -256,12 +248,10 @@ Provides information for a price
 - Compare with [QUEST00266_Personal_Quest_267]]
 - Influences [[Symbol Heraldry Living Amplifiers V1 Living Amplifiers.svg
 - Originates from [SPELL00121_Arcane_Spell_122]]
-- Affected by [[Healing Ministries
-- Originates from [Archive Guardian Thomas (D&D_References)]]
+- Affected by [[Archive Guardian Thomas (D&D_References)]]
 - Requires [[Miranda Hopekeeper
 - Originates from [barbed-devil-xmm (fiend)]]
-- See also: [[Luna Shimmerleaf 2
-- Leads to [NPC00598_Idris_Brightblade]]
+- See also: [[NPC00598_Idris_Brightblade]]
 - Originates from [[Assets Locations Location City Temple Guardian Marcus the Drowned Temple Guardian Marcus the Drowned.svg
 - Originates from [Location City the Deep Fugitive the Deep Fugitive.svg]]
 - Leads to [[The Memory Pearl

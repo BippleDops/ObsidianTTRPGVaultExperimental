@@ -133,8 +133,7 @@ Following magic item guidelines (WWT p.135-136):
 - Volo's Creature Catalog to Monsters (VCC) p.183
 
 ## Related Content
-- [[11 Rules Glossary
-- [06 Equipment]]
+- [[11 Rules Glossary]]
 - [[10 Combat
 
 ## Game Mechanics
@@ -144,8 +143,7 @@ Following magic item guidelines (WWT p.135-136):
 
 - Related:
 - Related: [Prismatic Plankton 2]]
-- Originates from [[Locations Archive of Echoes
-- Parallels [step_042 (phase_046)]]
+- Originates from [[Locations Archive of Echoes]]
 - Compare with [[step_058 (phase_018)
 - Affected by [Portrait NPC Archbishop Matthias Lightbringer V2 Archbishop Matthias Lightbringer.svg]]
 - Requires [[SHOP00011_Specialty_Shop_12
@@ -156,15 +154,12 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [Portrait NPC Aboleth Prime Yoth V2 Aboleth Prime Yoth.svg]]
 - Originates from [[NPC00592_Elric_Winterborn_the_Broken
 - Influences [Neural Pattern Recognition System]]
-- Compare with [[Contradiction Chamber 2
-- Influences [illusions-xphb (variant-rules)]]
-- Related: [[Emergency Response Units
-- Related: [NPC01168_Faelyn_Ashford_the_Lost]]
+- Compare with [[illusions-xphb (variant-rules)]]
+- Related: [[NPC01168_Faelyn_Ashford_the_Lost]]
 - Compare with
 - Leads to [[QUEST00213_Personal_Quest_214
 - Originates from [ITEM00270_Blessed_Sword_of_Speed]]
-- Related: [[NPC01250_Rhiannon_Brightblade_the_Redeemed
-- Leads to [Quest - Depth Pilgrimage 2]]
+- Related: [[NPC01250_Rhiannon_Brightblade_the_Redeemed]]
 - Affected by [[Lord Aldric Thornwhisper (D&D_References)
 - Compare with [Location City the Shadowmire Tavern V1 the Shadowmire Tavern.svg]]
 - Connects to [[Handout Handout Merchant Contract with Fine Print Merchant Contract with Fine Print.png
@@ -173,8 +168,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [Deep Dragons]]
 - Leads to [[step_008 (phase_031)
 - Originates from [12_Research_D&D_Statblocks_Archdruid_Thornweaver]]
-- Originates from [[charm-person-xphb (spells)
-- Connects to [Archive Keeper Memoria Vaultmind]]
+- Originates from [[Archive Keeper Memoria Vaultmind]]
 - See also: [[Dream Rails (D&D_References)
 - Compare with [Assets Vehicles Vehicle Ship Aether Sail Testbed V2 Aether Sail Testbed.svg]]
 - Requires [[Portrait NPC High Priest Nereon V1 High Priest Nereon.svg
@@ -194,10 +188,8 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[Creature Creature Nightwalker Mpmm V2 Nightwalker Mpmm.png
 - See also:
 - Leads to [step_045 (phase_046)]]
-- Compare with [[NPC00488_Zephyr_Ravenheart_the_Guardian
-- Leads to [step_026 (phase_036)]]
-- See also: [[step_030 (phase_018)
-- Related: [Cross-Cultural Adaptation Technique]]
+- Compare with [[NPC00488_Zephyr_Ravenheart_the_Guardian]]
+- See also: [[Cross-Cultural Adaptation Technique]]
 - Connects to [[Crystal Singers 2
 - Compare with [step_089 (phase_006)]]
 - Originates from [[FAC00052_Cults_53
@@ -213,10 +205,8 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [step_013 (phase_054)]]
 - Originates from [[Gentle Currentguide 2
 - See also: [Location City Master Host Torrent Welcomeall V1 Master Host Torrent Welcomeall.svg]]
-- See also: [[Natural Weapons
-- Influences [QUEST00097_Main_Quest_98]]
-- See also: [[Restorative Justice (D&D_References)
-- Originates from [Happenstance Hooks Xdmg]]
+- See also: [[QUEST00097_Main_Quest_98]]
+- See also: [[Restorative Justice (D&D_References)]]
 - Parallels [[step_066 (phase_054)
 - Originates from [Assets Locations Location City Coral Vortextrader V1 Coral Vortextrader.svg]]
 - Related: [[training-complications-xge (tables)
@@ -233,14 +223,11 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[ITEM00991_Concentrated_Powder_of_Vigor
 - Influences [Portrait NPC the Leviathan Prophets V2 the Leviathan Prophets.svg]]
 - Affected by
-- Influences [[step_006 (phase_081)
-- See also: [Organizations the Chroniclers]]
-- Parallels [[Festival Ground (D&D_References)
-- Compare with [Merchant Truth Society 2]]
+- Influences [[Organizations the Chroniclers]]
+- Parallels [[Festival Ground (D&D_References)]]
 - Originates from [[LORE00253_Legends_Entry_254
 - Influences [step_004 (phase_008)]]
-- Originates from [[Current Innovator (D&D_References)
-- Leads to [step_082 (phase_088)]]
+- Originates from [[Current Innovator (D&D_References)]]
 - Related: [[enspelled-staff-level-5-xdmg (items)
 
 ## Visual References

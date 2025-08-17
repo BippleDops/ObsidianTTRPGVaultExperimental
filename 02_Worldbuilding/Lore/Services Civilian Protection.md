@@ -1,7 +1,6 @@
 ---
 
-title: Services [[Civilian Protection
-type: [Lore]]
+title: Services [[Civilian Protection]]
 tags:
 - lore
 - active

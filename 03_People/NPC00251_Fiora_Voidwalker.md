@@ -173,8 +173,7 @@ Needs discrete help with family scandal
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -192,10 +191,8 @@ Needs discrete help with family scandal
 
 - Compare with [[LORE00106_History_Entry_107
 - Parallels [step_091 (phase_089)]]
-- Originates from [[ENC00050_Environmental_Encounter_51
-- Affected by [LOC00215_Cities_Location_216]]
-- Parallels [[LOC00110_Wilderness_Location_111
-- Affected by [Specimen Careful Lifeguard]]
+- Originates from [[ENC00050_Environmental_Encounter_51]]
+- Parallels [[LOC00110_Wilderness_Location_111]]
 - Parallels [[Time Storm Shelters (D&D_References)
 - Requires [Portrait NPC Senator Cordelia Deepcurrent V2 Senator Cordelia Deepcurrent.svg_1 (Portraits)]]
 - Related: [[Piercing Arrow Xge
@@ -208,14 +205,12 @@ Needs discrete help with family scandal
 - Requires [chamberlain-of-zuggtmoy-oota (plant)]]
 - Connects to [[Scholar Temporal Chronos 2
 - Requires [Ring of Fire Resistance Xdmg]]
-- Compare with [[step_004 (phase_089)
-- Leads to [SPELL00159_Divine_Spell_160]]
+- Compare with [[SPELL00159_Divine_Spell_160]]
 - Connects to [[ITEM00105_Venomous_Dagger_of_the_Ancients
 - Requires [The Revelation Chamber 2]]
 - Originates from [[LOC0145_LowerHill
 - Affected by [The Corrupted Twins 2]]
-- Requires [[Prince Caelum Stormwright (D&D_References)
-- Leads to [The Emperor's Gambit]]
+- Requires [[Prince Caelum Stormwright (D&D_References)]]
 - Connects to [[ENC00011_Environmental_Encounter_12
 - Compare with [Location City Port Crystalfall V1 Port Crystalfall.svg]]
 - Originates from [[step_088 (phase_050)
@@ -224,8 +219,7 @@ Needs discrete help with family scandal
 - Requires [step_066 (phase_071)]]
 - Originates from [[location-city-trade-union-v1-trade-union.svg
 - Connects to [Scribe Pennsworth]]
-- Related: [[Banker Kess 2
-- Parallels [QUEST00118_Main_Quest_119]]
+- Related: [[QUEST00118_Main_Quest_119]]
 - Affected by
 - Connects to [[The Pressure Forges
 - Related: [Spell Scroll Level 3 Xdmg]]
@@ -250,14 +244,12 @@ Needs discrete help with family scandal
 - Leads to [daemogoth-scc (fiend)]]
 - Influences [[Druid Xphb Circle of the Moon Xphb
 - Leads to [QUEST00148_Personal_Quest_149]]
-- Requires [[step_007 (phase_078)
-- Connects to [Player Handout Aethermoor Airships (D&D_References)]]
+- Requires [[Player Handout Aethermoor Airships (D&D_References)]]
 - Parallels [[LOC00104_Planes_Location_105
 - Leads to [Portrait NPC Salvage Queen Nerissa Deepfinder V2 Salvage Queen Nerissa Deepfinder.svg_1 (Portraits)]]
 - Leads to [[The Transformed Citizens (D&D_References)
 - Leads to [portrait-npc-the-wake-v2-the-wake.svg_1 (Portraits)]]
-- Related: [[step_095 (phase_074)
-- Related: [Into the Blue (D&D_References)]]
+- Related: [[Into the Blue (D&D_References)]]
 - Related: [[Biomancer Corvus Intestinal (Lore)
 - Requires [step_049 (phase_025)]]
 - Originates from [[Gold Jewelry Box With Platinum Filigree Xdmg
@@ -266,8 +258,7 @@ Needs discrete help with family scandal
 - Requires [What You Know - Abyssos Prime.md]]
 - Leads to [[Private Arbitration
 - Originates from [step_071 (phase_056)]]
-- Influences [[QUEST00173_Side_Quest_174
-- Connects to [Dream Rails]]
+- Influences [[QUEST00173_Side_Quest_174]]
 - See also: [[creature-creature-griffon-xmm-v1-griffon-xmm.png
 - See also: [Ocean Ecosystem Management]]
 - Compare with [[Session 15 - Academy Under Siege

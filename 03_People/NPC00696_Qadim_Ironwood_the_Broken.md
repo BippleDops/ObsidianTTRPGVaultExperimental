@@ -157,41 +157,32 @@ Being extorted by criminals
 
 - Affected by [[PHASE_1_COMPLETE
 - Parallels [step_062 (phase_041)]]
-- Affected by [[Adventure Boldexplorer
-- Parallels [Ettin Xmm]]
-- See also: [[LOC00072_Dungeons_Location_73
-- Affected by [step_034 (phase_024)]]
+- Affected by [[Adventure Boldexplorer]]
+- See also: [[LOC00072_Dungeons_Location_73]]
 - Originates from [[Frost Giant Everlasting One Mpmm
 - Influences
 - Connects to [NPC00679_Qadim_Grimholt_the_Fallen]]
-- Influences [[The Chart Vault
-- Connects to
-- Influences [Portrait NPC Sunk... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Influences [[Portrait NPC Sunk... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Originates from [[The Shipwright Guilds (Guilds)
 - Parallels [Banker Cornelius Goldflow]]
 - Compare with [[Assets Locations Location City Elder Matthias Stoneward V1 Elder Matthias Stoneward.svg
 - See also: [Celestial Spirit Xphb]]
 - Originates from [[observant-xphb (feats)
 - Parallels [step_050 (phase_096)]]
-- Affected by [[step_005 (phase_027)
-- Parallels [The Deep Trading Halls (D&D_References)]]
-- Leads to [[Chief Engineer Marina Crystalwright
-- Related: [NPC00477_Fiora_Frostwhisper]]
-- Affected by [[step_053 (phase_022)
-- Influences [Deep Lords (D&D_References)]]
+- Affected by [[The Deep Trading Halls (D&D_References)]]
+- Leads to [[Chief Engineer Marina Crystalwright]]
+- Affected by [[Deep Lords (D&D_References)]]
 - Influences [[Captain Between (D&D_References)
 - Leads to
 - Originates from [step_068 (phase_078)]]
 - Influences [[ITEM01471_Masterwork_Journal_of_Reliability
 - Influences [SPELL00056_Arcane_Spell_57]]
-- Influences [[Temple of the Eternal Flame
-- Influences [Downtime Activity Training to Gain Levels]]
+- Influences [[Downtime Activity Training to Gain Levels]]
 - Requires [[step_010 (phase_008)
 - Related: [Deer Xmm]]
 - See also: [[The Pure Human Enclave
 - Influences [The Wild Hunt 2]]
-- Affected by [[QUEST00330_Side_Quest_331
-- See also: [Shadow Touched Xphb]]
+- Affected by [[QUEST00330_Side_Quest_331]]
 - Affected by [[Assets Locations Location City the Mothercoral Crisis the Mothercoral Crisis.svg
 - See also: [Portrait NPC Weaponsmith Captain Marcus Sharpedge Weaponsmith Captain Marcus Sharpedge.svg]]
 - Connects to [[Location City the Luminous Dawn Cathedral the Luminous Dawn Cathedral.svg
@@ -199,26 +190,21 @@ Being extorted by criminals
 - Affected by [[step_025 (phase_026)
 - Influences
 - Influences [step_056 (phase_026)]]
-- Requires [[Magic User Associations
-- Leads to [NPC00550_Xander_Stormwind_the_Cunning]]
+- Requires [[NPC00550_Xander_Stormwind_the_Cunning]]
 - Influences [[Location City Trade Regulations Trade Regulations.svg
 - Influences [02-chapter-1-playing-the-game#Proficiency Bonus]]
 - Related: [[The Unity Shard
 - Related: [step_025 (phase_081)]]
 - Compare with [[04_Resources_Assets_Locations_location-city-marine-druids-marine-druids.svg
 - Leads to [step_082 (phase_066)]]
-- Compare with [[step_055 (phase_016)
-- Leads to [SPELL00083_Arcane_Spell_84]]
+- Compare with [[SPELL00083_Arcane_Spell_84]]
 - Related: [[Quest - The Portal Crisis_1 (01_Adventures)
 - Related: [LORE00261_Prophecies_Entry_262]]
-- Connects to [[Duke Blackwater's Estate
-- Parallels [LOC00091_Dungeons_Location_92]]
-- Affected by [[Archive Index
-- See also: [ITEM0064_Ancient_Blade_of_the_Dawn]]
+- Connects to [[LOC00091_Dungeons_Location_92]]
+- Affected by [[ITEM0064_Ancient_Blade_of_the_Dawn]]
 - Compare with [[Location City Quill Precisequote V1 Quill Precisequote.svg
 - Influences [ITEM00820_Divine_Chalice_of_Dominion]]
-- See also: [[LOC00255_Wilderness_Location_256
-- Originates from [The Artisans' Collective of Master Crafters (D&D_References)]]
+- See also: [[The Artisans' Collective of Master Crafters (D&D_References)]]
 - Parallels [[Palace Guard Captain Neutralis
 - See also: [Luminous Hollow (D&D_Statblocks)]]
 - Requires
@@ -227,18 +213,15 @@ Being extorted by criminals
 - Influences [Item Catalo_1 (D&D_References)]]
 - Connects to [[step_046 (phase_035)
 - Related: [Location City Keeper Deepcurrent V1 Keeper Deepcurrent.svg]]
-- Related: [[World Map 2
-- Related: [Major Trading Companies 2]]
-- Related: [[LOC00061_Planes_Location_62
-- Related: [Boots of Speed Xdmg]]
+- Related: [[Major Trading Companies 2]]
+- Related: [[LOC00061_Planes_Location_62]]
 - Compare with [[oni-xmm (fiend)
 - Requires [step_026 (phase_083)]]
 - See also: [[Location City Crystal Powered Vessels Crystal Powered Vessels.svg
 - Requires [Artisan Felix Reefwright]]
 - Related: [[mounts-and-vehicles-mounts-and-other-animals-xphb
 - Connects to [step_061 (phase_069)]]
-- Leads to [[SPELL00038_Arcane_Spell_39
-- See also: [DUN00072_Dungeon_73]]
+- Leads to [[SPELL00038_Arcane_Spell_39]]
 - Requires [[03_Mechanics_Conditions_Quick_Ref
 - Parallels [QUEST00324_Side_Quest_325]]
 - See also: [[enduring-spellbook-xdmg (items)
@@ -246,14 +229,11 @@ Being extorted by criminals
 - Originates from [[Portrait NPC Original Glaucus V2 Original Glaucus.svg_1 (Portraits)
 - Parallels [NPC01946_Corvus_Dawnstrider_the_Scholar]]
 - Connects to
-- Originates from [[Reference Homebrew Bestiary Bestiary
-- Leads to [Merchant Delilah Currentrunner (D&D_References)]]
+- Originates from [[Merchant Delilah Currentrunner (D&D_References)]]
 - Parallels [[Assets Locations Location City Duchess Cordelia Pearlheart V1 Duchess Cordelia Pearlheart.svg
 - Originates from [Portrait NPC Goldwave Financial Offices Goldwave Financial Offices.svg_1 (Portraits)]]
-- Related: [[step_016 (phase_086)
-- See also: [MON00091_Constructs_Creature_92]]
-- Leads to [[The Threshold (D&D_References)
-- Leads to [Professional Terminology]]
+- Related: [[MON00091_Constructs_Creature_92]]
+- Leads to [[The Threshold (D&D_References)]]
 - Originates from [[Master of Whispers Shade-Tongue Aldric
 
 ## Visual References

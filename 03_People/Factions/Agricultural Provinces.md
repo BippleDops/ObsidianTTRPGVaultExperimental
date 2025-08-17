@@ -166,6 +166,5 @@ Things widely suspected
 
 ## References
 
-- [[Merchant Family Alliances
-- [The Transformed Citizens]]
+- [[Merchant Family Alliances]]
 - [[The Transformed Citizens (D&D_References)]]

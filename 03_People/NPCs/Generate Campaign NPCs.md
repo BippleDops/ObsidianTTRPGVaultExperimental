@@ -50,7 +50,7 @@ Born into modest circumstances, Generate Campaign NPCs rose through dedication a
 - **Equipment**: Various tools of their trade
 
 ## Relationships
-- **Allies**: [[The Merchant's Guild, [City Watch]]
+- **Allies**: [[The Merchant's Guild]]
 - **Rivals**: [[Shadow Conspiracy
 - **Contacts**: Network of informants throughout the city
 

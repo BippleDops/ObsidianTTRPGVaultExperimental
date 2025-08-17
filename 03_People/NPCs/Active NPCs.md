@@ -58,7 +58,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 ## References
 
-- [[Active_NPCs (02_Worldbuilding)]]
+- [[02_Worldbuilding]]
 
 ## Voice & Mannerisms
 - Speaking style

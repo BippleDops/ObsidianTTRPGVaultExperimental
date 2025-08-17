@@ -565,8 +565,7 @@ Legends speak of Commander Thrace Ironwood as a nexus where past and present con
 
 ## References
 
-- [[Quest - The Convergence Crisis
-- [Establish the New Order (Orders)]]
+- [[Quest - The Convergence Crisis]]
 - [[Assets Locations Location City Beast Master Krell Chainbreaker Beast Master Krell Chainbreaker.svg
 - [Assets Locations Location City Harbor Master S License V1 Harbor Master S License.svg]]
 - [[Assets Symbols Symbol Heraldry the Anonymous Protocol the Anonymous Protocol.svg

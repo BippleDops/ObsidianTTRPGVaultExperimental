@@ -25,5 +25,8 @@
   "alt_text": "Concept art of snow-maiden-cos with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-snow-maiden-cos-v3-snow-maiden-cos.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-snow-maiden-cos-v3-snow-maiden-cos.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:09:08.729Z",
+  "generationMethod": "ComfyUI"
 }

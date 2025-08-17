@@ -4,23 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: The Deep Intelligence Agency Director
-type: lore
-updated: 2025-08-14
----
-
-# The Deep Intelligence Agency Director
-
-## Overview
-This document contains important information regarding The Deep Intelligence Agency Director and its role within the greater narrative.
-
-## Description
-The Deep Intelligence Agency Director represents a significant element within the campaign world, offering various opportunities for engagement and development.
-
-## Key Information
-- **Primary Purpose**: Serves specific function within the world
-- **Connections**: [Link]]ed to multiple other elements
+- [[The Deep Intelligence Agency Director]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details

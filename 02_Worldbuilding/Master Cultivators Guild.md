@@ -65,5 +65,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Crystal Forest
-- [Crystal Forest (D&D_References)]]
+- [[Crystal Forest (D&D_References)]]

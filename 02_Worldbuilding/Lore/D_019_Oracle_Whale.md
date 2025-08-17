@@ -2,27 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# D 019_[[Oracle_Whale
-
-## Overview
-
-D 019_Oracle_Whale represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
-
-## Description
-
-### Basic Information
-D 019_Oracle_Whale can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
-- Physical: A tangible thing or place
-- Conceptual: An idea or belief system
-- Event: Something that happened or will happen
-- Process: An ongoing or repeatable occurrence
-
-### Detailed Explanation
-The full nature of D 019_Oracle_Whale involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
-
-## Context & Connections
-
-### [Historical Context]]
+# D 019_[[D_019_Oracle_Whale]]
 The origins and development of D 019_Oracle_Whale trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements

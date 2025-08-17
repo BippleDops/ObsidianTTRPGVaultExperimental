@@ -163,8 +163,7 @@ Is secretly testing the party
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -179,8 +178,7 @@ Is secretly testing the party
 
 ## Connections
 
-- Affected by [[step_010 (phase_077)
-- Originates from [Inquisitor Mordecai Truthseeker 2]]
+- Affected by [[Inquisitor Mordecai Truthseeker 2]]
 - See also: [[The Crystal Palace (Places)
 - Influences [Portrait NPC Quest the Symbiotic Sacrament V1 Quest the Symbiotic Sacrament.svg]]
 - Originates from [[SPELL00063_Arcane_Spell_64
@@ -199,10 +197,8 @@ Is secretly testing the party
 - Related: [QUEST00285_Side_Quest_286]]
 - Connects to [[Portal_Home
 - Leads to [portrait-npc-emperor-v1-emperor.svg]]
-- See also: [[LOC00217_Cities_Location_218
-- See also: [NPC01616_Branwen_Ironwood_the_Wise]]
-- Affected by [[MON00072_Aberrations_Creature_73
-- Requires [EVENT00092_Political_Event_93]]
+- See also: [[NPC01616_Branwen_Ironwood_the_Wise]]
+- Affected by [[MON00072_Aberrations_Creature_73]]
 - Affected by [[celtic-belenus (deities)
 - Connects to [Lord Flux (D&D_References)]]
 - Affected by [[step_048 (phase_009)
@@ -211,8 +207,7 @@ Is secretly testing the party
 - Parallels [Professor Depth Biologist]]
 - Leads to [[Gnoll Warrior Xmm
 - Leads to [The Crimson Blades]]
-- Requires [[Norse Thrym
-- See also: [NPC00147_Nerys_Blackstone_the_Bold]]
+- Requires [[NPC00147_Nerys_Blackstone_the_Bold]]
 - Compare with [[LOC0083_WestFalls
 - Originates from [step_041 (phase_005)]]
 - Requires [[Cloud Merchants
@@ -240,16 +235,14 @@ Is secretly testing the party
 - Originates from [step_085 (phase_048)]]
 - Connects to [[Quest The Pretender
 - Compare with [Item Artifact Boots of Striding and Springing Xdmg V2 Boots of Striding and Springing Xdmg.png]]
-- See also: [[Void Currents (D&D_References)
-- Related: [Marine Corps]]
+- See also: [[Void Currents (D&D_References)]]
 - Related: [[step_086 (phase_074)
 - Connects to [Shadow Detection Orb 2]]
 - Requires [[ENC0060_Random_Encounter_61
 - Affected by [QUEST00141_Personal_Quest_142]]
 - Compare with [[Assets Locations Location City Pressure Wraiths V1 Pressure Wraiths.svg
 - Compare with [The Foundation Depths (D&D_Statblocks)]]
-- Parallels [[Captain Hadal Drake (D&D_References)
-- Requires [SPELL00135_Nature_Spell_136]]
+- Parallels [[Captain Hadal Drake (D&D_References)]]
 - Compare with [[true-polymorph-xphb (spells)
 - Requires [Parliament_of_Echoes (02_Worldbuilding)]]
 - Influences [[02_Worldbuilding_Groups_Order_of_Mirrors
@@ -258,26 +251,21 @@ Is secretly testing the party
 - See also: [step_096 (phase_038)]]
 - Influences [[List Spells Feats Magic Initiate Xphb
 - See also: [NPC01305_Gavril_Lightbringer_the_Swift]]
-- Requires [[Governmental Legitimacy (D&D_References)
-- Compare with [Npc Appearance]]
+- Requires [[Governmental Legitimacy (D&D_References)]]
 - Related: [[Quest - Reality Referendum
 - Requires [Portrait NPC Captain Zara Stormwind Captain Zara Stormwind.svg]]
 - Influences [[QUEST00087_Personal_Quest_88
 - Affected by [Location City Crystal Sentinels V1 Crystal Sentinels.svg]]
-- Compare with [[Portrait NPC Warr... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Affected by [Initial Attitudes Initial Attitude Xdmg]]
-- See also: [[Elder Kythar
-- Parallels [LOC00162_Wilderness_Location_163]]
+- Compare with [[Portrait NPC Warr... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- See also: [[LOC00162_Wilderness_Location_163]]
 - Leads to [[Deep Mining Guild
 - Requires
 - Related:
 - Originates from [step_020 (phase_054)]]
 - Connects to [[Gith Tables Githzerai Flaws Mtf
 - Originates from [Dwarven Marthammor Duin Mtf]]
-- Parallels [[Lumengarde Republi 2
-- Connects to [LOC00250_Cities_Location_251]]
-- Compare with [[Template-Character 2
-- Affected by [The Inverse Palace (D&D_References)]]
+- Parallels [[LOC00250_Cities_Location_251]]
+- Compare with [[The Inverse Palace (D&D_References)]]
 - Compare with [[Temple Coalition
 
 ## Visual References

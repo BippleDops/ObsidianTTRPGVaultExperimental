@@ -250,11 +250,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## References
 
-- [[Aurelius Goldwave
-- [Silver Mask]]
-- [[The Crystal Festival
-- [The Restoration Movement]]
+- [[Aurelius Goldwave]]
+- [[The Restoration Movement]]
 - [[Assets Locations Location City Innkeeper Marina Dreamwhisper Innkeeper Marina Dreamwhisper.svg
 - [The First Truth]]
-- [[Throne Room - Heart of Palace
-- [Aurelius Goldwave (D&D_Statblocks)]]
+- [[Aurelius Goldwave (D&D_Statblocks)]]

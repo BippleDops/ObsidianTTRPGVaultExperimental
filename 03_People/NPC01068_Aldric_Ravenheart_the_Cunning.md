@@ -156,18 +156,14 @@ Seeks rare merchandise
 
 - Leads to [[Criminal Boss 2
 - Connects to [step_026 (phase_017)]]
-- Requires [[step_045 (phase_043)
-- Requires [LOC00265_Wilderness_Location_266]]
+- Requires [[LOC00265_Wilderness_Location_266]]
 - Parallels [[ITEM00784_Divine_Scepter_of_Destiny
 - Related: [step_028 (phase_098)]]
-- Related: [[The Unnamed Chronicler (D&D_References)
-- Requires [step_052 (phase_024)]]
+- Related: [[The Unnamed Chronicler (D&D_References)]]
 - Requires [[amber-golem-cos (construct)
 - Connects to [step_082 (phase_030)]]
-- Compare with [[Parliamentary Infiltration Methods (D&D_References)
-- Parallels [Deep-Sea Cultural Protocol]]
-- Originates from [[FAC00089_Cults_90
-- Parallels [The Azure Guard (D&D_References)]]
+- Compare with [[Parliamentary Infiltration Methods (D&D_References)]]
+- Originates from [[The Azure Guard (D&D_References)]]
 - Connects to [[Location3
 - See also: [Location City Street Urchin Gang V1 Street Urchin Gang.svg]]
 - Originates from [[Assets Locations Location City Truth Verification Magic Truth Verification Magic.svg
@@ -176,8 +172,7 @@ Seeks rare merchandise
 - Connects to [Temple of the Deep Current]]
 - Leads to [[Ability Score and Modifier Xphb
 - Requires [04_Resources_Assets_Portraits_portrait-npc-captain-twin-reality-marsh-captain-twin-reality-marsh.svg_Quick_Ref]]
-- Connects to [[Ink Xphb
-- Affected by [International Relations (D&D_References)]]
+- Connects to [[International Relations (D&D_References)]]
 - Requires [[step_063 (phase_089)
 - Leads to [Assets Locations Location City Noble House V1 Noble House.svg]]
 - Related: [[ITEM00499_Enchanted_Chain_Mail_of_Grace
@@ -185,19 +180,16 @@ Seeks rare merchandise
 - Affected by [[Blackmarket Betty
 - Requires [Exchange Fairflow]]
 - Affected by
-- Related: [[Cultural Ministry
-- Leads to [teleportation-xphb (variant-rules)]]
+- Related: [[teleportation-xphb (variant-rules)]]
 - Compare with [[Assets Locations Location City Constitutional Monarchy V1 Constitutional Monarchy.svg
 - Compare with [DUN00019_Dungeon_20]]
-- Affected by [[High Chancellor Nerissa Deepcurrent (D&D_References)
-- Parallels [portrait-npc-syndicate-war-syndicate-war.svg]]
+- Affected by [[High Chancellor Nerissa Deepcurrent (D&D_References)]]
 - Originates from [[The Wind Singers Guild
 - Affected by [Original DNA Scanners]]
 - See also: [[LORE00235_History_Entry_236
 - Affected by [Quest - The Admiral's Gambit_1 (01_Adventures)]]
 - Affected by
-- Affected by [[Aurelius''s Private Study
-- See also: [LOC0097_Peakthorpe]]
+- Affected by [[Aurelius''s Private Study]]
 - Compare with [[earthquake-xphb (spells)
 - Leads to
 - Compare with [Merged Zone Navigation]]
@@ -207,10 +199,8 @@ Seeks rare merchandise
 - Affected by [Known Locations]]
 - Affected by [[archery-xphb (feats)
 - Related: [The Aether Works 2]]
-- Parallels [[Acoustic Infection 2
-- Requires [QUEST00412_Side_Quest_413]]
-- Compare with [[Depth Raiders
-- Originates from [NPC00755_Hilda_Dawnstrider_the_Guardian]]
+- Parallels [[QUEST00412_Side_Quest_413]]
+- Compare with [[NPC00755_Hilda_Dawnstrider_the_Guardian]]
 - See also: [[Assets Vehicles Vehicle Ship Void Skimmer Cutter V2 Void Skimmer Cutter.svg
 - Affected by [LOC00135_Wilderness_Location_136]]
 - Originates from [[NPC00430_Ewan_Proudmore_the_Wise
@@ -224,8 +214,7 @@ Seeks rare merchandise
 - Leads to [swarm-of-crawling-claws-xmm (undead)]]
 - Affected by [[step_036 (phase_078)
 - Compare with [Dread Helm Xdmg]]
-- Influences [[step_014 (phase_066)
-- Related: [ENC00286_Social_Encounter_287]]
+- Influences [[ENC00286_Social_Encounter_287]]
 - Connects to
 - Affected by [[step_070 (phase_075)
 - Affected by [Embroidered Glove Set With Jewel Chips Xdmg]]

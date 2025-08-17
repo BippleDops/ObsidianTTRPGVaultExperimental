@@ -167,8 +167,7 @@ Caravan needs guards
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -192,8 +191,7 @@ Caravan needs guards
 - Parallels [Drowning Omens 2]]
 - Influences [[Carpet of Flying 3 Ft 5 Ft Xdmg
 - Requires [nonhuman-gruumsh (deities)]]
-- Leads to [[The Transformation Tracker (D&D_References)
-- Requires [step_099 (phase_059)]]
+- Leads to [[The Transformation Tracker (D&D_References)]]
 - Parallels [[step_063 (phase_069)
 - Related: [Similar Topic 1]]
 - See also: [[Anti-Smuggling Operations 2
@@ -205,29 +203,23 @@ Caravan needs guards
 - Leads to [Abyssal Essence]]
 - Requires [[mass-cure-wounds-xphb (spells)
 - Requires [step_003 (phase_071)]]
-- Requires [[NPC00023_Corvus_Ashford_the_Mystic
-- Requires [QUEST00362_Side_Quest_363]]
-- Requires [[NPC00091_Vesper_Darkwater
-- Originates from [Deva Xmm]]
+- Requires [[NPC00023_Corvus_Ashford_the_Mystic]]
+- Requires [[NPC00091_Vesper_Darkwater]]
 - Affected by
 - Compare with [[Location City Diplomatic Dining Protocol V1 Diplomatic Dining Protocol.svg
 - Influences [QUEST00299_Side_Quest_300]]
-- See also: [[Master Chen Wei (D&D_References)
-- Related: [Temple of the First Tide 2]]
-- Affected by [[LORE00162_History_Entry_163
-- Related: [Chaplain Father Blessing Hopekeeper (D&D_References)]]
+- See also: [[Master Chen Wei (D&D_References)]]
+- Affected by [[Chaplain Father Blessing Hopekeeper (D&D_References)]]
 - Compare with [[Assets Art Forge Master Petra Hammerdeep.png
 - See also: [ENC0021_Random_Encounter_22]]
 - Compare with
-- Related: [[Healer Marina Greenboug
-- Leads to [NPC01021_Elric_Quicksilver_the_Bold]]
+- Related: [[NPC01021_Elric_Quicksilver_the_Bold]]
 - Parallels [[01-chapter-1-the-basics (dungeon-masters-guide-2024)
 - Originates from [Location City the Phantom Current the Phantom Current.svg]]
 - See also:
 - Connects to [[ITEM00767_Void-touched_Scepter_of_Eternity
 - Influences [NPC00191_Orion_Darkwater_the_Wanderer]]
-- Originates from [[Trade Representatives 2
-- See also: [NPC01629_Urien_Brightblade_the_Seeker]]
+- Originates from [[NPC01629_Urien_Brightblade_the_Seeker]]
 - Affected by [[QUEST00082_Personal_Quest_83
 - Parallels
 - Compare with [Location City the Mothercoral Crisis the Mothercoral Crisis.svg]]
@@ -238,12 +230,10 @@ Caravan needs guards
 - Parallels [produce-flame-xphb (spells)]]
 - Requires [[Portrait NPC Duke Gale Vortex V1 Duke Gale Vortex.svg_1 (Portraits)
 - Influences [step_035 (phase_051)]]
-- See also: [[SPELL00121_Arcane_Spell_122
-- Parallels [Timeline of Crimes 2]]
+- See also: [[SPELL00121_Arcane_Spell_122]]
 - Leads to [[summon-celestial-xphb (spells)
 - Leads to [Druidic Warrior Xphb]]
-- Leads to [[step_027 (phase_069)
-- Parallels [NPC00905_Qadim_Darkwater_the_Lost]]
+- Leads to [[NPC00905_Qadim_Darkwater_the_Lost]]
 - Related: [[Old Keoland Locations Xdmg
 - Requires [S-018 Choir Pirates Player]]
 - Affected by [[step_051 (phase_039)
@@ -251,14 +241,12 @@ Caravan needs guards
 - Affected by [[Assets Symbols Symbol Heraldry the Great Resonance the Great Resonance.svg
 - Leads to [step_083 (phase_006)]]
 - Connects to
-- Affected by [[step_097 (phase_088)
-- Connects to [ENC00126_Combat_Encounter_127]]
+- Affected by [[ENC00126_Combat_Encounter_127]]
 - Affected by [[Assets Locations Location City Expedition to the Sunless Depths V1 Expedition to the Sunless Depths.svg
 - Compare with [Portrait NPC Director of Experimental Procedures Dr Siren Voidtouch V1 Director of Experimental Procedures Dr Siren Voidtouch.svg]]
 - See also: [[FAC00087_Orders_88
 - Connects to [ITEM00438_Ethereal_Helm_of_Grace]]
-- Related: [[09-adventuring#Movement#Jumping
-- Leads to [fraz-urbluu-mtf (legendary-group)]]
+- Related: [[09-adventuring#Resting]]
 - Leads to [[LORE00122_Legends_Entry_123
 - Related: [The Probability Merchant 2]]
 - See also: [[Alchemists Supplies Xphb
@@ -275,10 +263,8 @@ Caravan needs guards
 - Leads to [Assets Locations Location City Alternative Path Fled City Alternative Path Fled City.svg]]
 - Originates from
 - Compare with
-- Connects to [[Equipment Catalogs
-- See also: [LOC00091_Towns_Location_92]]
-- Affected by [[LORE00196_Prophecies_Entry_197
-- Influences [Agent Infiltrator (D&D_References)]]
+- Connects to [[LOC00091_Towns_Location_92]]
+- Affected by [[Agent Infiltrator (D&D_References)]]
 - Compare with [[step_077 (phase_007)
 - See also:
 - Related: [Skeleton Xmm]]

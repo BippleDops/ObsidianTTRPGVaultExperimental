@@ -160,9 +160,7 @@ Seeks bodyguards for dangerous journey
 
 - Requires [[step_075 (phase_021)
 - Originates from [ITEM00178_Shadow_Bow_of_Slaying]]
-- Requires [[step_078 (phase_005)
-- See also:
-- Parallels [Duchess Aurora Spirelight (D&D_References)]]
+- Requires [[Duchess Aurora Spirelight (D&D_References)]]
 - Connects to [[LORE00296_Legends_Entry_297
 - Related: [Boon of Peerless Aim]]
 - Influences [[Duergar Deep Duerra Mtf
@@ -175,8 +173,7 @@ Seeks bodyguards for dangerous journey
 - Parallels [list-spells-races-tiefling-asmodeus-mtf (lists)]]
 - Leads to [[LOC00016_Cities_Location_17
 - Influences [Creature Creature Elemental Spirit Air Xphb V3 Elemental Spirit Air Xphb.png]]
-- Leads to [[Temple-Scholar Depth-Seer (D&D_References)
-- Related: [International Trade Routes 2]]
+- Leads to [[Temple-Scholar Depth-Seer (D&D_References)]]
 - Influences [[step_081 (phase_021)
 - Affected by [NPC00190_Cedric_Silverleaf]]
 - Connects to [[Portrait NPC the Royal Treasury Depths V1 the Royal Treasury Depths.svg
@@ -191,12 +188,10 @@ Seeks bodyguards for dangerous journey
 - See also: [cloth-of-gold-vestments-xdmg (items)]]
 - Requires [[ENC00266_Combat_Encounter_267
 - Influences [SPELL00138_Nature_Spell_139]]
-- Requires [[Pressure Safety Authority
-- Leads to [step_024 (phase_069)]]
+- Requires [[Pressure Safety Authority]]
 - Connects to [[step_085 (phase_005)
 - Compare with [The Community Sky-Platforms]]
-- Influences [[step_079 (phase_088)
-- Parallels [Social Clubs (D&D_References)]]
+- Influences [[Social Clubs (D&D_References)]]
 - Requires [[step_058 (phase_038)
 - Influences [Portrait NPC High Priestess Celeste High Priestess Celeste.svg]]
 - Influences [[step_085 (phase_045)
@@ -209,8 +204,7 @@ Seeks bodyguards for dangerous journey
 - Influences [Location City Diplomatic Service V1 Diplomatic Service.svg]]
 - Affected by [[Long Term Madness
 - See also: [Assets Item Artifact Mess Kit V4 Mess Kit.png]]
-- Compare with [[Environmental Engineer Current Depthwrigh 2
-- Requires [Magical Authentication]]
+- Compare with [[Environmental Engineer Current Depthwrigh 2]]
 - Originates from [[ITEM01029_Refined_Potion_of_Healing
 - Connects to [step_030 (phase_098)]]
 - Affected by
@@ -222,18 +216,15 @@ Seeks bodyguards for dangerous journey
 - See also: [[Assets Item Artifact Ruby Xdmg V5 Ruby Xdmg.png
 - Connects to [Shadow Guard Units (D&D_References)]]
 - Related:
-- Influences [[Portrait NPC Watc... Related To: Local Political Structure Connected Plots: to Be Developed
-- Parallels [The Deep Market]]
+- Influences [[Portrait NPC Watc... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Parallels [[LOC00279_Wilderness_Location_280
 - Leads to [location-city-service-levels-v1-service-levels.svg]]
 - See also: [[The Deepmind
 - Leads to [The Cleaner 2]]
 - Requires [[NPC00789_Caelum_Ravenheart_the_Scholar
 - Compare with [Assets Locations Location City Keeper Thundercall V1 Keeper Thundercall.svg]]
-- See also: [[06 Adventure Environments
-- See also: [Seven Shards Campaign Campaign Overview]]
-- Affected by [[Sacred Memory Keeper Ancient Depths (D&D_References)
-- Compare with [conditions#Incapacitated]]
+- See also: [[Seven Shards Campaign Campaign Overview]]
+- Affected by [[Sacred Memory Keeper Ancient Depths (D&D_References)]]
 - Affected by [[NPC00339_Caelum_Moonshadow
 - Affected by [Assets Locations Location City Chief Inspector Magnus Ledgerkeep Chief Inspector Magnus Ledgerkeep.svg]]
 - See also: [[step_040 (phase_074)
@@ -249,8 +240,7 @@ Seeks bodyguards for dangerous journey
 - Affected by [step_047 (phase_046)]]
 - Parallels [[Symbol Heraldry Foreman Prime Salvage Maste V1 Foreman Prime Salvage Maste.svg
 - Connects to [Rod of Absorption Xdmg]]
-- Leads to [[ENC0074_Random_Encounter_75
-- Related: [Consequence Chain 5 - Marina Identity Revelation (D&D_References)]]
+- Leads to [[Consequence Chain 5 - Marina Identity Revelation (D&D_References)]]
 - Affected by [[Lady Venetia Silkwind
 - Compare with [Luck Spirits]]
 - Affected by

@@ -177,8 +177,7 @@ Competitor sabotaging business
 - Parallels [[Portrait NPC the Resonance Prophet the Resonance Prophet.svg
 - Influences [Wind Monks]]
 - Leads to
-- Compare with [[LOC00249_Planes_Location_250
-- See also: [step_033 (phase_072)]]
+- Compare with [[LOC00249_Planes_Location_250]]
 - Influences [[Defender Xdmg
 - Originates from [Molydeus Mpmm]]
 - Compare with
@@ -188,41 +187,32 @@ Competitor sabotaging business
 - Related: [Assets Locations Location City Living Reef V1 Living Reef.png]]
 - Parallels [[Pilgrim Camps
 - See also: [Pearl Xdmg]]
-- See also: [[Aethermoor - Session 08 Between Two Worlds
-- Influences [02-chapter-1-playing-the-game#Ability Checks]]
+- See also: [[Aethermoor - Session 08 Between Two Worlds]]
 - Influences [[Archive Guardian Thomas (D&D_References)
 - Leads to [item-artifact-warhammer-xphb-v1-warhammer-xphb.png]]
-- Compare with [[greek-pan (deities)
-- Leads to [NPC00445_Dara_Oakenshield_the_Bold]]
-- Parallels [[Abyssal Forges
-- Parallels [QUEST00220_Side_Quest_221]]
-- Requires [[Capital City
-- Leads to [Shadow-touched Equipment Set 2]]
+- Compare with [[NPC00445_Dara_Oakenshield_the_Bold]]
+- Parallels [[QUEST00220_Side_Quest_221]]
+- Requires [[Shadow-touched Equipment Set 2]]
 - Requires [[Assets Locations Location City Navigator Flux V1 Navigator Flux.svg
 - Parallels [Ambassador Silk Bridgewater 2]]
 - Compare with [[step_073 (phase_073)
 - Compare with [Assets Locations Location City Rare Ingredient Network V1 Rare Ingredient Network.svg]]
 - Affected by [[Map Map Merged Zone Stairwell V1 Merged Zone Stairwell.svg
 - Affected by [ENC00176_Environmental_Encounter_177]]
-- Influences [[aura-of-life-xphb (spells)
-- Requires [Quest - The Diplomatic Immunity Case]]
+- Influences [[Quest - The Diplomatic Immunity Case]]
 - Connects to [[LORE00222_Legends_Entry_223
 - Leads to [Ray of Frost Xphb]]
-- Compare with [[S-102_Downburst_Hammer
-- Parallels [LOC00063_Dungeons_Location_64]]
-- Compare with [[Shadowhawk Syndicate
-- Related: [MON00080_Aberrations_Creature_81]]
+- Compare with [[LOC00063_Dungeons_Location_64]]
+- Compare with [[MON00080_Aberrations_Creature_81]]
 - Leads to [[Item_Catalog_Complete (Indexes)
 - Requires [Lighthouse of Storms 2]]
-- See also: [[NPC01030_Erasmus_Nightfall_the_Strong
-- See also: [LORE0023_Myth_of_the_Ancient_Pact]]
+- See also: [[NPC01030_Erasmus_Nightfall_the_Strong]]
 - Leads to
 - Influences [[step_037 (phase_100)
 - Influences [Portrait NPC the Golden Fishook Tavern V2 the Golden Fishook Tavern.svg]]
 - Parallels [[Assets Locations Location City Deep Mother Zealots Deep Mother Zealots.svg
 - Originates from [Assets Locations Location City Prismatic Crystal Prismatic Crystal.svg]]
-- Leads to [[Marine Corp 2
-- Connects to [Master Elena Preserver (D&D_References)]]
+- Leads to [[Master Elena Preserver (D&D_References)]]
 - Related: [[LOC00298_Dungeons_Location_299
 - See also: [Port Meridian - Merchant Quarter]]
 - Connects to [[Portrait NPC the First Queen S Shade the First Queen S Shade.svg_1 (Portraits)
@@ -231,24 +221,19 @@ Competitor sabotaging business
 - Influences [ITEM00482_Adamantine_Chain_Mail_of_Fortitude]]
 - See also: [[Master Elena Preserver 2
 - Originates from [step_085 (phase_090)]]
-- Influences [[Grandmother Nightcomfor (D&D_References)
-- Connects to [MON00084_Constructs_Creature_85]]
+- Influences [[Grandmother Nightcomfor (D&D_References)]]
 - Related: [[Jeeves 2
 - Influences [Location City Blood Current Express V1 Blood Current Express.svg]]
 - Compare with
-- Leads to [[QUEST00072_Main_Quest_73
-- Compare with [LOC00228_Wilderness_Location_229]]
+- Leads to [[LOC00228_Wilderness_Location_229]]
 - Influences [[step_095 (phase_032)
 - Leads to [deities-of-dragonlance-neutral-phb (tables)]]
 - Compare with
 - Leads to [[ENC00079_Combat_Encounter_80
 - Requires [Handout Handout Guild License Certificate V2 Guild License Certificate.png]]
-- Related: [[step_059 (phase_096)
-- See also: [ENC00370_Combat_Encounter_371]]
-- See also: [[Dr. Lysander Mindbinder
-- Connects to [Giant Bat Xmm]]
-- Related: [[graveyard-revet-xmm
-- See also: [Mess Kit]]
+- Related: [[ENC00370_Combat_Encounter_371]]
+- See also: [[Dr. Lysander Mindbinder]]
+- Related: [[graveyard-revet-xmm]]
 - Originates from [[step_047 (phase_077)
 - Originates from
 - Leads to [grick-ancient-xmm (aberration)]]
@@ -257,8 +242,7 @@ Competitor sabotaging business
 - Originates from [[Wind_Rider_Orders
 - Originates from [Redirection Syndrome]]
 - Requires
-- Originates from [[step_005 (phase_031)
-- Requires [Session 22 Heist Planning]]
+- Originates from [[Session 22 Heist Planning]]
 - Compare with [[step_014 (phase_082)
 - Originates from [Assets Locations Location City Temporal Viewing Chambers V1 Temporal Viewing Chambers.svg]]
 - Influences [[Local Informants

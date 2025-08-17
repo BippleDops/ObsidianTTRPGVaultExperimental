@@ -169,28 +169,22 @@ Family member has gone missing
 
 - Parallels [[greek-nike (deities)
 - Originates from [Assets Locations Location City Market Heist Market Heist.svg]]
-- See also: [[Archscholar Marina Voidseeker
-- See also: [Community Groups]]
-- Compare with [[Shadow Faction Representative (D&D_References)
-- Leads to [step_041 (phase_053)]]
+- See also: [[Archscholar Marina Voidseeker]]
+- Compare with [[Shadow Faction Representative (D&D_References)]]
 - Influences [[step_002 (phase_095)
 - Originates from [Quest - Foreign Interests]]
-- Influences [[Deep Trenches 2
-- Affected by [NPC01417_Alaric_Zephyrblade_the_Scholar]]
-- Leads to [[MON00010_Aberrations_Creature_11
-- Connects to [step_032 (phase_016)]]
+- Influences [[NPC01417_Alaric_Zephyrblade_the_Scholar]]
+- Leads to [[MON00010_Aberrations_Creature_11]]
 - Originates from [[Sword of Answering Rebutter
 - Compare with [step_072 (phase_097)]]
 - Connects to [[Secret Vault Beneath Throne 2
 - Leads to [Assets Locations Location City Theological Seminaries Theological Seminaries.svg]]
-- Related: [[SPELL00090_Arcane_Spell_91
-- Requires [Quill Precisequote (D&D_References)]]
+- Related: [[Quill Precisequote (D&D_References)]]
 - Compare with [[Information_Trading_System (02_Worldbuilding)
 - Requires [step_100 (phase_057)]]
 - Originates from [[portrait-npc-refugee-camps-v2-refugee-camps.svg
 - Influences [step_028 (phase_009)]]
-- Affected by [[The First Watcher (D&D_References)
-- See also: [LORE00234_Legends_Entry_235]]
+- Affected by [[The First Watcher (D&D_References)]]
 - Affected by [[list-spells-races-tiefling-baalzebul-mtf (lists)
 - Connects to [step_068 (phase_064)]]
 - Related: [[step_059 (phase_063)
@@ -206,14 +200,12 @@ Family member has gone missing
 - Affected by [eberron-balinor (deities)]]
 - Requires [[04_Resources_Assets_Locations_location-city-archdruid-marina-kelpweaver-archdruid-marina-kelpweaver.svg
 - Related: [step_062 (phase_077)]]
-- Affected by [[Tax Commissioner Merion Goldcount 2
-- See also: [armor-of-resistance-xdmg (items)]]
+- Affected by [[Tax Commissioner Merion Goldcount 2]]
 - Originates from [[poltergeist-xmm (undead)
 - Related: [Shadow_Surgeon_Rogue]]
 - Related: [[nonhuman-tiamat (deities)
 - Requires [Assets Locations Location City Void Contamination V1 Void Contamination.svg]]
-- Originates from [[step_050 (phase_075)
-- Affected by [ENC00084_Social_Encounter_85]]
+- Originates from [[ENC00084_Social_Encounter_85]]
 - Leads to
 - Connects to [[Information Storage Crystals
 - Parallels [Symbol Heraldry the Scream Archives V1 the Scream Archives.svg]]
@@ -224,8 +216,7 @@ Family member has gone missing
 - Connects to [[carnelian-xdmg (items)
 - Affected by [LOC00248_Planes_Location_249]]
 - Compare with
-- Originates from [[Clues by Location (D&D_References)
-- Originates from [Crystal Shard]]
+- Originates from [[Clues by Location (D&D_References)]]
 - Influences [[ITEM01409_Practical_Lock_of_Convenience
 - Connects to [Symbol Heraldry Crystal Pirate Crew Crystal Pirate Crew.svg]]
 - Affected by [[location-city-pressure-polyps-pressure-polyps.svg
@@ -238,8 +229,7 @@ Family member has gone missing
 - Connects to [NPC00304_Idris_Hawthorne]]
 - Requires [[duergar-in-the-clan-duergar-clan-names-mtf (tables)
 - Originates from [Portal Mirror Mage]]
-- Connects to [[step_002 (phase_020)
-- Influences [NPC0069_Delilah_Ironforge_the_Terrible]]
+- Connects to [[NPC0069_Delilah_Ironforge_the_Terrible]]
 - Connects to [[Corrupt Officials
 - Requires [FAC00092_Orders_93]]
 - Related: [[Portrait NPC Jasper Three Eyes Flint Jasper Three Eyes Flint.png
@@ -250,8 +240,7 @@ Family member has gone missing
 - Affected by
 - Requires [Resource Scarcity Prediction]]
 - Requires
-- Related: [[FAC00026_Guilds_27
-- See also: [Divine Magic (D&D_References)]]
+- Related: [[Divine Magic (D&D_References)]]
 - Originates from [[Portrait NPC Castellan Ironledger Iii V2 Castellan Ironledger Iii.svg_1 (Portraits)
 - Originates from [Nonhuman Grolantor]]
 - See also: [[lunging-attack-xphb (optional-features)
@@ -265,8 +254,7 @@ Family member has gone missing
 - Compare with [step_018 (phase_073)]]
 - Influences [[Assets Locations Location City International Trade Agreements International Trade Agreements.svg
 - Parallels [step_038 (phase_022)]]
-- Affected by [[List Spells Optional Features Mire the Mind
-- Influences [Template_Galaxy_Placeholder.png_1 (09_Templates)]]
+- Affected by [[Template_Galaxy_Placeholder.png_1 (09_Templates)]]
 
 ## Visual References
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png

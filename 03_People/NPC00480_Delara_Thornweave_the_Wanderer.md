@@ -155,10 +155,8 @@ Discovered something valuable
 - Parallels [[forgotten-realms-oghma (deities)
 - See also: [The Depth Councils 2]]
 - Related:
-- Affected by [[Shadow Embassy
-- Originates from [NPC01465_Ewan_Goldleaf_the_Redeemed]]
-- Leads to [[Shadow Market Canals (D&D_References)
-- Related: [step_057 (phase_017)]]
+- Affected by [[NPC01465_Ewan_Goldleaf_the_Redeemed]]
+- Leads to [[Shadow Market Canals (D&D_References)]]
 - See also: [[night-hag (legendary-group)
 - Affected by [Aethermoor Wind Rider Traditions]]
 - See also: [[step_021 (phase_032)
@@ -167,18 +165,14 @@ Discovered something valuable
 - Connects to [Improvised Damage Xdmg]]
 - Compare with
 - Requires
-- Parallels [[SPELL00028_Arcane_Spell_29
-- Influences [The Spire of Unity]]
+- Parallels [[SPELL00028_Arcane_Spell_29]]
 - Originates from [[ENC00081_Social_Encounter_82
 - Connects to [Assets Locations Location City Pip Goldleaf V1 Pip Goldleaf.svg]]
-- Influences [[Dimensional Scholar Arcturus Voidwalker
-- Influences [Shadow Noble Districts 2]]
+- Influences [[Dimensional Scholar Arcturus Voidwalker]]
 - Leads to [[LORE00187_History_Entry_188
 - Originates from [creature-creature-dragon-v3-dragon.png]]
-- Affected by [[step_098 (phase_030)
-- Affected by [NPC01706_Cedric_Jadeclaw_the_Fallen]]
-- See also: [[The Bloom Fields
-- Parallels [LOC00242_Planes_Location_243]]
+- Affected by [[NPC01706_Cedric_Jadeclaw_the_Fallen]]
+- See also: [[LOC00242_Planes_Location_243]]
 - Leads to [[SPELL00087_Arcane_Spell_88
 - Affected by [Maritime Intelligence Center]]
 - See also: [[Standalone Adventures Adventure Levels Scc
@@ -187,14 +181,12 @@ Discovered something valuable
 - See also: [Memory Tide Events (Lore)]]
 - See also: [[Shadow Councilor Depths Powerbroker
 - Requires [location-city-memory-farmers-v1-memory-farmers.svg]]
-- Affected by [[Rare Ingredient Network
-- Originates from [NPC01863_Caelum_Ironwood_the_Strong]]
+- Affected by [[NPC01863_Caelum_Ironwood_the_Strong]]
 - Leads to [[Magic Items Awarded by Rarity Minor Xge
 - Influences [step_081 (phase_023)]]
 - Connects to [[Individual Treasure Challenge 17 (tables)
 - Originates from [step_061 (phase_059)]]
-- Leads to [[LORE00206_Legends_Entry_207
-- Parallels [Financial Crime Investigation 2]]
+- Leads to [[Financial Crime Investigation 2]]
 - See also: [[FAC00044_Guilds_45
 - Affected by [The Forbidden Section]]
 - Influences [[Navigator Flux Timewalker
@@ -213,8 +205,7 @@ Discovered something valuable
 - Related: [[SPELL00164_Nature_Spell_165
 - Influences [Gastón Flambéheart 2]]
 - Related:
-- See also: [[ENC00293_Combat_Encounter_294
-- Requires [step_095 (phase_096)]]
+- See also: [[ENC00293_Combat_Encounter_294]]
 - Affected by
 - Connects to [[ITEM01150_Distilled_Potion_of_Clarity
 - Affected by [SPELL00144_Divine_Spell_145]]
@@ -225,18 +216,15 @@ Discovered something valuable
 - Connects to [step_008 (phase_018)]]
 - Leads to [[NPC01615_Gavril_Ironforge_the_Mystic
 - Originates from [Paramedic Supervisor Fastaid 2]]
-- Originates from [[Quartermaster David Simpleton (D&D_References)
-- See also: [ITEM0064_Ancient_Blade_of_the_Dawn]]
+- Originates from [[Quartermaster David Simpleton (D&D_References)]]
 - Parallels [[step_048 (phase_088)
 - Related: [The Ghost Walker 2]]
 - Influences [[Jasper Three-Eyes Flint (People)
 - Parallels [Duergar Raiding Parties Duergar Purpose of Raid Mtf]]
-- Related: [[LOC00294_Dungeons_Location_295
-- Requires [QUEST00460_Side_Quest_461]]
+- Related: [[LOC00294_Dungeons_Location_295]]
 - Originates from [[wand-of-viscid-globs-oota (items)
 - Originates from [Timeline_Tracker.base 2]]
-- See also: [[SPELL00068_Nature_Spell_69
-- Requires [step_054 (phase_064)]]
+- See also: [[SPELL00068_Nature_Spell_69]]
 - See also: [[Symbol Heraldry Political Corruption Political Corruption.svg
 - Influences [musician-xphb (feats)]]
 - Compare with [[Portrait NPC Deep Mother Priestess Sira Deep Mother Priestess Sira.svg
@@ -245,12 +233,10 @@ Discovered something valuable
 - Leads to [ITEM01030_Pure_Elixir_of_Swiftness]]
 - Leads to [[relics-very-rare-xdmg (tables)
 - Requires [step_032 (phase_071)]]
-- Related: [[LOC00150_Dungeons_Location_151
-- Parallels [House of Lords - Secret Chamber (D&D_References)]]
+- Related: [[House of Lords - Secret Chamber (D&D_References)]]
 - See also: [[homunculus-xmm (construct)
 - Leads to [Quest - The Dark Harvest]]
-- Compare with [[Aethermoor-Aquabyssos-World-Connection-Guide
-- Parallels [LOC00078_Planes_Location_79]]
+- Compare with [[Aethermoor-Aquabyssos-World-Connection-Guide]]
 - Affected by [[potion-of-fire-giant-strength-xdmg (items)
 
 ## Visual References

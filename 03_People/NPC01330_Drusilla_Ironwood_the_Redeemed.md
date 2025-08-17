@@ -159,8 +159,7 @@ Forming expedition to dangerous location
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -182,8 +181,7 @@ Forming expedition to dangerous location
 - Related: [Assets Handouts Handout Handout Docking Permit Docking Permit.png]]
 - Leads to
 - Connects to
-- Compare with [[location-city-indigo-deepdye-indigo-deepdye.svg
-- Originates from [Symbol Heraldry Mob... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Compare with [[Symbol Heraldry Mob... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Requires [[The Depth Sounders (D&D_References)
 - Connects to
 - Requires [The Cultural Exchange Center]]
@@ -192,8 +190,7 @@ Forming expedition to dangerous location
 - Parallels [[step_063 (phase_024)
 - Related: [fighter-xphb-battle-master-xphb (classes)]]
 - Requires
-- Connects to [[21-appendix-d-demon-lords (out-of-the-abyss)
-- Requires [The Dreamwhisper Inn 2]]
+- Connects to [[21-appendix-d-demon-lords (out-of-the-abyss)]]
 - Requires [[step_002 (phase_097)
 - Affected by [Assets Portraits Portrait NPC the Waking Prophets the Waking Prophets.svg]]
 - Leads to [[location-city-deepsteel-v1-deepsteel.svg
@@ -202,28 +199,22 @@ Forming expedition to dangerous location
 - Influences [Antiquarian Eliza Tidecaller]]
 - Compare with [[Ship_Blueprints (D&D_References)
 - Influences [Assets Locations Location City Progressive Policy Portfolio V1 Progressive Policy Portfolio.svg]]
-- Affected by [[QUEST00439_Side_Quest_440
-- Leads to [Economic Planning]]
-- Requires [[step_081 (phase_028)
-- Parallels [Merchant Prince Aldric Goldcurrent]]
+- Affected by [[QUEST00439_Side_Quest_440]]
+- Requires [[Merchant Prince Aldric Goldcurrent]]
 - Leads to
 - Leads to
-- Influences [[Golden Ballroom 2
-- See also: [Customer Relations Director Seraphina Calmcurrent]]
+- Influences [[Customer Relations Director Seraphina Calmcurrent]]
 - Requires [[QUEST00241_Side_Quest_242
 - Parallels [Symbol Heraldry the Memory Wars V1 the Memory Wars.svg]]
-- See also: [[Shadow Replacement Procedures
-- Originates from [Shadow-Crystal Synthesis (D&D_References)]]
+- See also: [[Shadow-Crystal Synthesis (D&D_References)]]
 - Influences [[ITEM00860_Ancient_Amulet_of_Truth
 - See also: [Police Chief Sarah Lawkeeper 2]]
 - Compare with [[EVENT00012_Political_Event_13
 - See also: [Purifier Marcus Steelbane 2]]
 - Originates from [[Assets Locations Location City Diplomatic Service V1 Diplomatic Service.svg
 - Affected by [04_Resources_Assets_Locations_location-city-st-meridian-s-cathedral-st-meridian-s-cathedral.svg]]
-- Connects to [[Crystal Cult Temples 2
-- See also: [Dhergoloth Mpmm]]
-- Influences [[The Brotherhood of the Black Anchor 2
-- Leads to [Church of the Tidal Throne 2]]
+- Connects to [[Crystal Cult Temples 2]]
+- Influences [[The Brotherhood of the Black Anchor 2]]
 - Compare with [[step_089 (phase_007)
 - Related: [location-city-crimson-reef-v1-crimson-reef.svg]]
 - Compare with
@@ -239,17 +230,14 @@ Forming expedition to dangerous location
 - Originates from [Assets Locations Location City Void Keeper Null V1 Void Keeper Null.svg]]
 - Connects to [[step_062 (phase_046)
 - Originates from [ITEM01103_Lesser_Crystal_of_Vigor]]
-- Originates from [[Librarian Scholar Reef Documentcurrent 2
-- Influences [Evidence Collection Guide]]
+- Originates from [[Librarian Scholar Reef Documentcurrent 2]]
 - Compare with
-- Related: [[Location Tracker (D&D_References)
-- Originates from [step_061 (phase_081)]]
+- Related: [[Location Tracker (D&D_References)]]
 - Related: [[step_037 (phase_014)
 - Affected by [Portrait NPC the Pressure Pirates the Pressure Pirates.svg_1 (Portraits)]]
 - Influences [[Gentle Repose Xphb
 - Leads to [Avatar of Death Dmg]]
-- Originates from [[Cross-Realm Travel Guidelines
-- Requires [step_096 (phase_032)]]
+- Originates from [[Cross-Realm Travel Guidelines]]
 - Affected by [[portrait-npc-the-senator-v2-the-senator.svg_1 (Portraits)
 - Affected by [Portrait NPC High King Aurelius Skyborn V2 High King Aurelius Skyborn.svg]]
 - Originates from [[Faction Balance Maintenance
@@ -258,10 +246,8 @@ Forming expedition to dangerous location
 - Compare with [Copper Chalice With Silver Filigree Xdmg]]
 - Requires [[location-city-into-the-blue-v1-into-the-blue.svg
 - Requires [Pilgrimage Master Depth Guide Melancholy 2]]
-- Parallels [[aljanor-keenblade-oota
-- Related: [Vault Keeper Aurelia Crownguard (D&D_References)]]
-- Affected by [[creature-type-xphb (variant-rules)
-- See also: [ITEM0034_Cursed_Tome_of_Power]]
+- Parallels [[Vault Keeper Aurelia Crownguard (D&D_References)]]
+- Affected by [[creature-type-xphb (variant-rules)]]
 - Originates from [[Smoldering Armor Xdmg
 - Originates from [step_043 (phase_088)]]
 - Affected by [[ENC00062_Combat_Encounter_63
@@ -270,10 +256,8 @@ Forming expedition to dangerous location
 - Parallels [Organizations the Eternal Sentinels]]
 - See also: [[Maritime Commerce 2
 - Leads to [QUEST00051_Side_Quest_52]]
-- Parallels [[LOC00142_Planes_Location_143
-- Connects to [Triton 2]]
-- Parallels [[Master Gardener Sage Harmony Bloomtender (D&D_References)
-- Influences [Communications Coordinator Wave Messagewright]]
+- Parallels [[LOC00142_Planes_Location_143]]
+- Parallels [[Master Gardener Sage Harmony Bloomtender (D&D_References)]]
 
 ## Visual References
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png

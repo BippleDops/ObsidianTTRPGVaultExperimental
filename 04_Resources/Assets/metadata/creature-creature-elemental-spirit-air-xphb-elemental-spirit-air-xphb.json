@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Illustrate an image that captures an underwater and sky merged realm, with hints of aquatic fantasy realism. The scene should portray an elemental spirit of air from a tabletop fantasy game, akin to D&D 5e. The spirit should have a defined musculature and unique limbs, creating a heroic and magnificent impression. Also incorporate a human silhouette to emphasize the scale of the spirit. The gear in the image should be medieval and culturally coherent, without any modern technologies or signs. The entire setting should be painted in a consistent, classic, painterly style. For the color palette, use deep tones of teals, blues, and sea-greens, but add pearl highlights for balance and detail. Accent the scene with bioluminescent features and suggest the effect of underwater caustics. Consider the materials of a pressure dome while constructing the environment. Please avoid any embedded text, words, and symbols unless they serve a meaningful purpose. Lastly, avoid elements of sci-fi user interfaces, modern signage, photorealistic CGI, anime styles, and exaggerated bloom glare.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-elemental-spirit-air-xphb-elemental-spirit-air-xphb.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-elemental-spirit-air-xphb-elemental-spirit-air-xphb.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:01:31.126Z",
+  "generationMethod": "ComfyUI"
 }

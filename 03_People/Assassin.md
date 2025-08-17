@@ -355,33 +355,20 @@ Mentioned in The Second Prophecy of Stars
 ## References
 
 - [Abyssal Academy]]
-- [[Ancient Aquabyssos Rulers
-- [Diplomatic Event Scenarios]]
-- [[Investigation Procedures
-- [Reputation System]]
-- [[The Crimson Hand
-- [The Final Choice]]
-- [[The Great Crystallization
-- [Void-touched Assassins]]
+- [[Diplomatic Event Scenarios]]
+- [[Investigation Procedures]]
+- [[The Final Choice]]
+- [[The Great Crystallization]]
 - [[Assets Portraits Portrait NPC Merchant Captain Tobias Stormwind Merchant Captain Tobias Stormwind.svg
 - [Intelligence Services (People)]]
-- [[Party Quarters - Inverse Palace
-- [Pressure Terminal]]
-- [[Royal Palace of Meridian
-- [Shadow Market Canals]]
-- [[Surface Tensions
-- [Tenebrarum Embassy]]
-- [[The Bone Colosseum
-- [The Eternal Senate]]
-- [[The Great Drowning
-- [The Kraken's Harbor]]
-- [[The Living Weapon
-- [The Reflection Pools]]
-- [[The Void Tears
-- [Throne Room - Heart of Palace]]
-- [[Warden Marcus Stonehand
-- [The Crown's Burden]]
-- [[Master_Item_Catalog
-- [Intelligence Services (D&D_References)]]
+- [[Party Quarters - Inverse Palace]]
+- [[Royal Palace of Meridian]]
+- [[Tenebrarum Embassy]]
+- [[The Bone Colosseum]]
+- [[The Kraken's Harbor]]
+- [[The Reflection Pools]]
+- [[Throne Room - Heart of Palace]]
+- [[Warden Marcus Stonehand]]
+- [[Intelligence Services (D&D_References)]]
 - [[greenhouse
 - [poisons]]

@@ -170,18 +170,14 @@ Witnessed a crime
 - Compare with [[Shadow Crystals (D&D_References)
 - See also:
 - See also: [DUN00149_Dungeon_150]]
-- Related: [[step_066 (phase_016)
-- Connects to [ENC00082_Combat_Encounter_83]]
+- Related: [[ENC00082_Combat_Encounter_83]]
 - Parallels [[step_053 (phase_076)
 - Affected by [Location City Shadow Market Canals V1 Shadow Market Canals.svg]]
 - Compare with [[Breaking_the_Deep.png
 - Compare with [Assets Locations Location City Royal Bloodline Powers V1 Royal Bloodline Powers.svg]]
-- Parallels [[Weapons Trader Gareth Steelmerchant 2
-- Related: [step_017 (phase_045)]]
-- Compare with [[step_015 (phase_010)
-- Compare with [Shadow Duchess Lysandra Voidgrace]]
-- Affected by [[Director of Experimental Procedures Dr. Siren Voidtouch
-- Affected by [step_068 (phase_045)]]
+- Parallels [[Weapons Trader Gareth Steelmerchant 2]]
+- Compare with [[Shadow Duchess Lysandra Voidgrace]]
+- Affected by [[Director of Experimental Procedures Dr. Siren Voidtouch]]
 - Compare with [[guest-xdmg (tables)
 - Requires [step_003 (phase_098)]]
 - Connects to [[step_061 (phase_079)
@@ -190,16 +186,12 @@ Witnessed a crime
 - Parallels [portrait-npc-assassin-v2-assassin.svg_1 (Portraits)]]
 - Affected by [[Portrait NPC Lord Blackwater V1 Lord Blackwater.svg
 - Parallels [The Unnamed Knowledge]]
-- Leads to [[Botanist Rose Sundrinker
-- See also: [Backpack Xphb]]
-- Related: [[step_015 (phase_081)
-- Parallels [The Neutral Current Tavern]]
-- See also: [[Deep Mother's Domain (D&D_References)
-- Leads to [step_090 (phase_031)]]
+- Leads to [[Botanist Rose Sundrinker]]
+- Related: [[The Neutral Current Tavern]]
+- See also: [[Deep Mother's Domain (D&D_References)]]
 - Parallels [[Assets Locations Location City Keeper Aquaeous Depth Scholar Keeper Aquaeous Depth Scholar.svg
 - Influences [Hybrid_Abominations.png]]
-- Influences [[Methane Forests 2
-- Connects to [Chief Resonance Engineer Harmony Crystalstone (D&D_References)]]
+- Influences [[Chief Resonance Engineer Harmony Crystalstone (D&D_References)]]
 - Compare with [[Lorehold Primer Scc
 - See also: [The Deepwater Current]]
 - Related: [[The Pearl Divers Guil (Groups)
@@ -216,8 +208,7 @@ Witnessed a crime
 - See also: [step_080 (phase_018)]]
 - Originates from [[step_007 (phase_051)
 - Compare with [Western Frontier]]
-- Originates from [[NPC00597_Ysara_Ravenheart_the_Redeemed
-- Compare with [ENC00428_Combat_Encounter_429]]
+- Originates from [[NPC00597_Ysara_Ravenheart_the_Redeemed]]
 - See also:
 - Leads to [[step_031 (phase_033)
 - Originates from
@@ -226,25 +217,19 @@ Witnessed a crime
 - Parallels [The Threshold]]
 - See also: [[step_006 (phase_071)
 - Connects to [Harmonic Mind Contro 2]]
-- Parallels [[harm-xphb (spells)
-- Connects to [Pelagic the Current-Walker]]
+- Parallels [[Pelagic the Current-Walker]]
 - Compare with [[step_025 (phase_083)
 - Related: [monsters-and-motivations-monster-motivation (tables)]]
 - Leads to [[Bright Light Xphb
 - Influences [Location City Coral Craftsman V1 Coral Craftsman.svg]]
-- Connects to [[NPC0028_Cormac_Stormwind
-- Leads to [Vehicles - Journey Event Compiler]]
-- Requires [[Quickened Spell Xphb
-- Influences [LORE0095_History_of_the_Ancient_Pact]]
-- Leads to [[Commodity Queen Abundance (D&D_References)
-- Leads to
-- Parallels [Umbral Crystal Miners]]
+- Connects to [[Vehicles - Journey Event Compiler]]
+- Requires [[LORE0095_History_of_the_Ancient_Pact]]
+- Leads to [[Commodity Queen Abundance (D&D_References)]]
 - Compare with [[ENC00262_Social_Encounter_263
 - Leads to [green-copper-ewer-cos (items)]]
 - Compare with [[QUEST00046_Personal_Quest_47
 - Related: [ITEM00566_Mithril_Leather_of_Resistance]]
-- Related: [[The Revelation Chamber 2
-- See also: [Paradox Engineer Tesla Impossibility]]
+- Related: [[Paradox Engineer Tesla Impossibility]]
 - Connects to [[step_031 (phase_056)
 - Related:
 - Leads to [Keeper Stormwall (D&D_References)]]
@@ -254,14 +239,11 @@ Witnessed a crime
 - Parallels [SPELL0035_Mystic_Storm]]
 - Compare with [[Rumor_Table
 - Compare with [step_064 (phase_084)]]
-- Influences [[step_068 (phase_083)
-- Compare with [MON00075_Constructs_Creature_76]]
+- Influences [[MON00075_Constructs_Creature_76]]
 - Leads to [[Location City Deep Compressmaster V1 Deep Compressmaster.svg
 - Affected by [step_078 (phase_023)]]
-- Influences [[Deputy Harbor Master Marina Stormwright
-- Influences [Magnus Fairweigh]]
-- Influences [[NPC00389_Branwen_Stormwind_the_Broken
-- Compare with [step_061 (phase_072)]]
+- Influences [[Deputy Harbor Master Marina Stormwright]]
+- Influences [[NPC00389_Branwen_Stormwind_the_Broken]]
 - Influences [[04_Resources_Assets_Locations_location-city-quartermaster-judith-supplycurrent-v1-quartermaster-judith-supplycurrent.svg
 - Connects to
 - Parallels [Bartender Marina Dualborn]]

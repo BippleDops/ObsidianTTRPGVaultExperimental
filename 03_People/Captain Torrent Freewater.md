@@ -273,5 +273,4 @@ ___
 
 - [[High King Aurelius Skyborn
 - [The Free Current]]
-- [[High King Aurelius Skyborn (D&D_References)
-- [The Free Current (D&D_References)]]
+- [[High King Aurelius Skyborn (D&D_References)]]

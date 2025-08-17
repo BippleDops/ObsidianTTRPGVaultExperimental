@@ -25,5 +25,8 @@
   "alt_text": "Concept art of darkmantle-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-darkmantle-xmm-v2-darkmantle-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-darkmantle-xmm-v2-darkmantle-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:00:32.076Z",
+  "generationMethod": "ComfyUI"
 }

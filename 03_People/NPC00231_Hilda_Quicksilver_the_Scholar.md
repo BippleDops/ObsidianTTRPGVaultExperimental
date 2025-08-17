@@ -173,19 +173,16 @@ Wants rivals investigated
 - Originates from [[roleplaying-a-giant-giant-flaws-vgm (tables)
 - Affected by
 - Leads to [step_007 (phase_027)]]
-- Requires [[step_058 (phase_037)
-- Parallels [The Remembrancer General 2]]
+- Requires [[The Remembrancer General 2]]
 - See also: [[step_086 (phase_070)
 - Leads to [DUN00096_Dungeon_97]]
-- Leads to [[Silverscale Banking House
-- Requires [Undead Spirit Xphb]]
+- Leads to [[Silverscale Banking House]]
 - Influences [[step_060 (phase_047)
 - Influences [Location City Memory Preservation Technology Memory Preservation Technology.svg]]
 - See also:
 - Parallels [[Void Entities
 - See also: [cloak-of-displacement-xdmg (items)]]
-- See also: [[NPC01474_Hilda_Brightblade_the_Broken
-- Parallels [step_041 (phase_095)]]
+- See also: [[NPC01474_Hilda_Brightblade_the_Broken]]
 - Connects to [[The Void Seekers 2
 - Parallels [Assets Locations Location City Bubble District V1 Bubble District.svg]]
 - Affected by [[ITEM00342_Venomous_Staff_of_Accuracy
@@ -200,12 +197,10 @@ Wants rivals investigated
 - See also: [The Addicted Nobles (D&D_References)]]
 - Requires [[Symbol Heraldry High Oracle Serenity Deepcall High Oracle Serenity Deepcall.svg
 - Leads to [Assets Locations Location City Street Urchin Gang V1 Street Urchin Gang.svg]]
-- Influences [[step_071 (phase_057)
-- See also: [The Departed Collective (D&D_References)]]
+- Influences [[The Departed Collective (D&D_References)]]
 - Compare with [[step_001 (phase_031)
 - Influences [Special Facility Descriptions Special Facilities Xdmg]]
-- Originates from [[ENC00283_Social_Encounter_284
-- Requires [LOC00240_Wilderness_Location_241]]
+- Originates from [[LOC00240_Wilderness_Location_241]]
 - Related: [[Quest - Expose the Shadow Conspiracy
 - Connects to [Location City the Golden Trade Route V1 the Golden Trade Route.svg]]
 - Connects to [[Location City Marina Stormwright V1 Marina Stormwright.svg
@@ -225,8 +220,7 @@ Wants rivals investigated
 - Affected by [Mayor Thompson]]
 - Parallels [[Assets Locations Location City the Bathyal Palace V1 the Bathyal Palace.svg
 - See also: [Burnt Othur Fumes Xdmg]]
-- Connects to [[09-adventuring#Movement#Special Types of Movement
-- Connects to [death-ward-xphb (spells)]]
+- Connects to [[09-adventuring#Resting]]
 - Influences [[Portrait NPC Deepwater Banking Consortium V1 Deepwater Banking Consortium.svg_1 (Portraits)
 - Connects to [Assets Item Artifact Dagger of Venom Xdmg V5 Dagger of Venom Xdmg.png]]
 - Connects to [[The Academic Consortium
@@ -238,8 +232,7 @@ Wants rivals investigated
 - Related:
 - Connects to [[Supplemental Tables Status Xge
 - Affected by [step_007 (phase_005)]]
-- Related: [[conditions#Unconscious
-- Compare with [step_029 (phase_005)]]
+- Related: [[Conditions]]
 - Influences [[step_074 (phase_096)
 - Affected by [step_042 (phase_015)]]
 - Connects to
@@ -252,8 +245,7 @@ Wants rivals investigated
 - Connects to [Dimensional Specialists 2]]
 - Requires [[Assets Locations Location City Quill Precisequote V1 Quill Precisequote.svg
 - Connects to [QUEST00468_Side_Quest_469]]
-- Leads to [[The Kraken's Harbor (D&D_References)
-- See also: [MON00052_Aberrations_Creature_53]]
+- Leads to [[The Kraken's Harbor (D&D_References)]]
 - Leads to [[Goldwhisper Manor 2
 - Compare with [ITEM01453_Simple_Tool_Kit_of_Convenience]]
 - Related: [[The Cosmic Entity

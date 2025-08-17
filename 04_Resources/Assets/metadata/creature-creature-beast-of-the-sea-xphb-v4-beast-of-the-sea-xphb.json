@@ -25,5 +25,8 @@
   "alt_text": "Concept art of beast-of-the-sea-xphb with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-beast-of-the-sea-xphb-v4-beast-of-the-sea-xphb.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-beast-of-the-sea-xphb-v4-beast-of-the-sea-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:58:28.774Z",
+  "generationMethod": "ComfyUI"
 }

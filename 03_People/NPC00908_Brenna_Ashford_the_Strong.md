@@ -157,8 +157,7 @@ Has map to lost treasure
 - See also: [LOC0124_Hillford]]
 - Leads to [[ENC00019_Social_Encounter_20
 - Leads to [location-city-the-collector-v1-the-collector.svg]]
-- Connects to [[Parliament Of Echoes
-- See also: [Merchant Viktor Geargrind (D&D_Statblocks)]]
+- Connects to [[Merchant Viktor Geargrind (D&D_Statblocks)]]
 - Connects to [[step_027 (phase_068)
 - See also:
 - Originates from [Admiral Thalassa Stormcurrent 2]]
@@ -173,20 +172,17 @@ Has map to lost treasure
 - Connects to [Surgeon General Darkness]]
 - Compare with [[frost-giant-xmm (giant)
 - Affected by [Location City Archkeeper Nereon Archkeeper Nereon.svg]]
-- Originates from [[Aquabyssos - Session 10 - The Shadow Finale
-- Connects to [yeenoghu-mtf (legendary-group)]]
+- Originates from [[Aquabyssos - Session 10 - The Shadow Finale]]
 - See also: [[Trade Route Stations
 - Leads to [FAC00001_Orders_2]]
 - Affected by [[Ironforg 2
 - Requires [portrait-npc-lady-shadowmere-lady-shadowmere.svg]]
 - Leads to [[skills#Intimidation
 - Parallels [burning-xphb (traps-hazards)]]
-- Originates from [[The Order of the Shattered Crown 2
-- Related: [step_084 (phase_072)]]
+- Originates from [[The Order of the Shattered Crown 2]]
 - Related: [[Locate Object Xphb
 - Leads to [quandrix-student-scc (backgrounds)]]
-- Connects to [[NPC00776_Ysara_Goldleaf_the_Seeker
-- Compare with [FAC00040_Orders_41]]
+- Connects to [[NPC00776_Ysara_Goldleaf_the_Seeker]]
 - Leads to [[darkmantle-xmm (aberration)
 - Connects to [step_012 (phase_064)]]
 - Parallels [[step_045 (phase_028)
@@ -201,13 +197,11 @@ Has map to lost treasure
 - Originates from [NPC01063_Xander_Keenblade_the_Bold]]
 - Related: [[step_063 (phase_052)
 - Leads to [The Silence Garden]]
-- Affected by [[QUEST0097_In_Search_of_Peace
-- Influences [step_016 (phase_074)]]
+- Affected by [[QUEST0097_In_Search_of_Peace]]
 - Connects to [[Temporal Wind Patterns
 - Influences [Paradox Legal Counsel]]
 - Related:
-- Related: [[Egyptian Re Horakhty
-- Parallels [Downtime Activity Recuperating Phb]]
+- Related: [[Downtime Activity Recuperating Phb]]
 - Compare with [[step_010 (phase_033)
 - Parallels [Portrait NPC the Leviathan Prophets the Leviathan Prophets.svg_1 (Portraits)]]
 - Parallels [[step_071 (phase_088)
@@ -230,26 +224,19 @@ Has map to lost treasure
 - See also: [step_036 (phase_090)]]
 - Requires
 - See also:
-- Affected by [[MON00138_Constructs_Creature_139
-- Leads to [The Seven Deep Truths 2]]
+- Affected by [[MON00138_Constructs_Creature_139]]
 - Connects to [[Location City Vault Keeper Aurelia Crownguard Vault Keeper Aurelia Crownguard.svg
 - Related: [Assets Locations Location City Kraken V1 Kraken.svg]]
-- Parallels [[ENC00234_Combat_Encounter_235
-- Compare with [spinel-xdmg (items)]]
-- Affected by [[ENC00016_Social_Encounter_17
-- See also: [Diplomatic Architecture (D&D_References)]]
-- Related: [[Forgotten Realms Beshaba
-- Originates from [NPC01790_Zephyr_Lightbringer_the_Scholar]]
+- Parallels [[ENC00234_Combat_Encounter_235]]
+- Affected by [[Diplomatic Architecture (D&D_References)]]
+- Related: [[NPC01790_Zephyr_Lightbringer_the_Scholar]]
 - Parallels [[Scroll of Protection Dragons Xdmg
 - Compare with [Project Seven Laboratory]]
-- Requires [[step_042 (phase_024)
-- Parallels [silver-dragon (legendary-group)]]
-- Related: [[Weird Tank Pota
-- Compare with [NPC01999_Gavril_Voidwalker_the_Wise]]
+- Requires [[silver-dragon (legendary-group)]]
+- Related: [[NPC01999_Gavril_Voidwalker_the_Wise]]
 - Related: [[Giant Vulture Xmm
 - Affected by [Assets Locations Location City Kelp Silk V1 Kelp Silk.svg]]
-- Parallels [[ENC00179_Environmental_Encounter_180
-- Influences [Void Between Pressures]]
+- Parallels [[ENC00179_Environmental_Encounter_180]]
 - Influences
 - Affected by [[step_011 (phase_074)
 - Affected by [tiger-eye-xdmg (items)]]

@@ -65,5 +65,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Lady Jade Clawgrip
-- [Lady Jade Clawgrip (D&D_Statblocks)]]
+- [[Lady Jade Clawgrip (D&D_Statblocks)]]

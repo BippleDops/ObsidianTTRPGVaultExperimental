@@ -168,8 +168,7 @@ Caravan needs guards
 
 ## Connections
 
-- Leads to [[step_012 (phase_027)
-- Leads to [LOC00194_Dungeons_Location_195]]
+- Leads to [[LOC00194_Dungeons_Location_195]]
 - Requires [[scroll-of-protection-oozes-xdmg (items)
 - Requires [step_002 (phase_012)]]
 - Originates from [[step_030 (phase_040)
@@ -179,8 +178,7 @@ Caravan needs guards
 - Originates from [[NPC01180_Aeliana_Zephyrblade_the_Redeemed
 - Influences
 - Related: [secondary-tables-supernatural-events-xge (tables)]]
-- Parallels [[High Priestess Marina Oracleguard
-- Parallels [Inverse Colonie 2]]
+- Parallels [[High Priestess Marina Oracleguard]]
 - Parallels [[Emergency_Navigation_Response (02_Worldbuilding)
 - Influences [Artifact Properties Minor Detrimental]]
 - Parallels [[Aganazzars Scorcher Xge
@@ -196,12 +194,10 @@ Caravan needs guards
 - Originates from [ITEM00373_Frost_Spear_of_Power]]
 - Compare with [[Light Bearer
 - Leads to [Elf Names Child Xge]]
-- Related: [[step_065 (phase_099)
-- Parallels [ENC00141_Combat_Encounter_142]]
+- Related: [[ENC00141_Combat_Encounter_142]]
 - Affected by [[step_099 (phase_040)
 - Parallels [Grappling Hook Xphb]]
-- Compare with [[Dwarf Names Clan Xge
-- Influences [LOC00054_Dungeons_Location_55]]
+- Compare with [[LOC00054_Dungeons_Location_55]]
 - Compare with [[Long Term Madness
 - Originates from [step_089 (phase_088)]]
 - Leads to [[chamber-purpose-dungeon-temple-or-shrine (tables)
@@ -223,12 +219,9 @@ Caravan needs guards
 - Compare with [[ITEM00023_Venomous_Hammer_of_Wounding
 - Parallels
 - Connects to [Master Artificers Guild (Guilds)]]
-- Requires [[Tidal Priest Marina Deepcurrent
-- Affected by [QUEST00115_Side_Quest_116]]
-- Originates from [[baphomet-mtf (legendary-group)
-- Requires [FAC00040_Orders_41]]
-- Parallels [[NPC01589_Qadim_Proudmore_the_Broken
-- Requires [Throne Room (Lore)]]
+- Requires [[Tidal Priest Marina Deepcurrent]]
+- Originates from [[baphomet-mtf (legendary-group)]]
+- Parallels [[NPC01589_Qadim_Proudmore_the_Broken]]
 - Compare with [[Portrait NPC Abyssos Prime Government V2 Abyssos Prime Government.svg_1 (Portraits)
 - Influences [step_021 (phase_087)]]
 - Originates from
@@ -246,8 +239,7 @@ Caravan needs guards
 - Leads to [[location-city-the-deep-temple-the-deep-temple.svg
 - Influences
 - See also: [QUEST00047_Side_Quest_48]]
-- Parallels [[Adventure Boldexplorer (D&D_Sourcebooks)
-- Connects to [LORE00254_History_Entry_255]]
+- Parallels [[Adventure Boldexplorer (D&D_Sourcebooks)]]
 - Parallels [[Map Map Embassy Quarter Court Embassy Quarter Court.svg
 - Influences [Senator Glaucus Brain (D&D_References)]]
 - Compare with [[step_044 (phase_067)

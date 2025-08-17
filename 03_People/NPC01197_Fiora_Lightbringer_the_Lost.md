@@ -169,8 +169,7 @@ Has map to lost treasure
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -190,8 +189,7 @@ Has map to lost treasure
 - Requires [reincarnate-xphb (spells)]]
 - Leads to [[07_Player_Resources_Character_Options_Character_Bonds
 - Related: [Sword Wraith Commander Mpmm]]
-- Related: [[step_094 (phase_099)
-- Affected by [Ambassador Silk Bridgewater 2]]
+- Related: [[Ambassador Silk Bridgewater 2]]
 - See also: [[QUEST00087_Main_Quest_88
 - Influences [giant-boar-xmm (beast)]]
 - Originates from [[greyhawk-beory-xdmg (deities)
@@ -206,39 +204,31 @@ Has map to lost treasure
 - Leads to [Paladins of Light]]
 - Affected by [[step_095 (phase_053)
 - Influences [Stat Block Xphb]]
-- Related: [[drum-xphb (items)
-- Compare with [Emergency Response Coordinator Time Guardia]]
-- Leads to [[step_067 (phase_052)
-- Affected by [NPC01750_Ysara_Hawthorne_the_Redeemed]]
+- Related: [[Emergency Response Coordinator Time Guardia]]
+- Leads to [[NPC01750_Ysara_Hawthorne_the_Redeemed]]
 - Related: [[Assets Locations Location City Basalt Depthwright Basalt Depthwright.svg
 - Related: [Unknown Contact]]
 - Compare with [[webs-xdmg (traps-hazards)
 - Leads to [SPELL00084_Divine_Spell_85]]
-- Compare with [[Public Libraries (D&D_References)
-- Affected by [Pressure Symbiont 2]]
+- Compare with [[Public Libraries (D&D_References)]]
 - Parallels [[QUEST00044_Main_Quest_45
 - Leads to [demon-customization-tables-demon-bonds-mtf (tables)]]
 - Originates from [[ITEM01267_Superior_Incense_of_Swiftness
 - Affected by [Quest - The Ancient Compact_1 (01_Adventures)]]
 - Connects to [[step_053 (phase_046)
 - Connects to [step_007 (phase_008)]]
-- Influences [[Exhaustion (D&D_References)
-- Related: [Crystal Mines (Lore)]]
+- Influences [[Exhaustion (D&D_References)]]
 - Leads to
 - Parallels [[DUN00139_Dungeon_140
 - Leads to [step_040 (phase_028)]]
 - Leads to [[step_069 (phase_039)
 - Originates from [Location City Coral Throne Syndicate Hq Coral Throne Syndicate Hq.svg]]
-- Parallels [[Teleport Xphb
-- Influences [INDEX (Icewind_Dale_Rime_of_the_Frostmaiden)]]
-- Compare with [[step_088 (phase_006)
-- Connects to [Shadow Academy Training Grounds]]
-- Requires [[step_098 (phase_066)
-- Originates from [NPC01042_Lyanna_Goldleaf_the_Seeker]]
+- Parallels [[INDEX (Icewind_Dale_Rime_of_the_Frostmaiden)]]
+- Compare with [[Shadow Academy Training Grounds]]
+- Requires [[NPC01042_Lyanna_Goldleaf_the_Seeker]]
 - Related: [[step_017 (phase_090)
 - Leads to [Assets Locations Location City Angels and Depths Angels and Depths.svg]]
-- Parallels [[Government Officia
-- Originates from [#Cross-Campaign Organizations]]
+- Parallels [[Government Officia]]
 - Affected by [[Dungeon Dressing Odor
 - Leads to [LORE00117_Legends_Entry_118]]
 - Compare with [[Non-Existence Protocols
@@ -261,8 +251,7 @@ Has map to lost treasure
 - Connects to [step_052 (phase_041)]]
 - Leads to [[Assets Locations Location City Harbor Master Nereid Deepcurrent Harbor Master Nereid Deepcurrent.svg
 - Connects to [NPC_Relationship_Web.png_Quick_Ref]]
-- Originates from [[step_065 (phase_017)
-- Influences [MON00161_Undead_Creature_162]]
+- Originates from [[MON00161_Undead_Creature_162]]
 - Requires
 - Connects to [[step_060 (phase_064)
 - Requires [Portrait NPC King Torrhen Lumengarde V2 King Torrhen Lumengarde.svg_1 (Portraits)]]
@@ -272,8 +261,7 @@ Has map to lost treasure
 - Connects to [ITEM01232_Lesser_Potion_of_Vigor]]
 - Connects to [[faerie-fire-xphb (spells)
 - Requires [LORE00232_Legends_Entry_233]]
-- Requires [[Watchtower Prime 2
-- See also: [Captain Thrace Deeprunner (D&D_References)]]
+- Requires [[Captain Thrace Deeprunner (D&D_References)]]
 - Requires
 - Requires [[Kelp-Based Brewing 2
 - See also: [step_068 (phase_005)]]
@@ -281,8 +269,7 @@ Has map to lost treasure
 - Connects to [step_045 (phase_026)]]
 - Leads to [[Assets Locations Location City Memory Thief Memory Thief.svg
 - Requires [step_073 (phase_043)]]
-- Compare with [[Antiquarian Eliza Tidecaller (D&D_References)
-- Related: [NPC00236_Dara_Brightblade]]
+- Compare with [[Antiquarian Eliza Tidecaller (D&D_References)]]
 - Leads to [[NPC00554_Hestara_Zephyrblade_the_Wanderer
 
 ## Visual References

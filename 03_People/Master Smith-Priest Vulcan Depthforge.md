@@ -257,5 +257,4 @@ ___
 
 - [[Deep Anarchists
 - [Temple Ward]]
-- [[Deep Anarchists (D&D_References)
-- [Temple Ward (D&D_Statblocks)]]
+- [[Deep Anarchists (D&D_References)]]

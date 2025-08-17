@@ -99,14 +99,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[Peoples
-
-### The Golden Era (500 years ago)
-- Economic prosperity
-- Cultural renaissance
-- Expansion of territory
-
-### The [Time]] of Troubles (100 years ago)
+- War with indigenous [[People]] of Troubles (100 years ago)
 - Civil war
 - Natural disasters
 - Current power structures established
@@ -143,6 +136,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Consortium Security Constructs
-- [Consortium Security Constructs (D&D_References)]]
+- [[Consortium Security Constructs (D&D_References)]]
 - [[Silverscale Consortium (D&D_References)]]

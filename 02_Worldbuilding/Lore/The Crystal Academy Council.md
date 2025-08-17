@@ -51,5 +51,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Crystallium
-- [Crystallium (D&D_References)]]
+- [[Crystallium (D&D_References)]]

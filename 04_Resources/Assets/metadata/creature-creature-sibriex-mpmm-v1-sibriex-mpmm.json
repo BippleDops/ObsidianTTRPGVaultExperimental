@@ -25,5 +25,8 @@
   "alt_text": "Concept art of sibriex-mpmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-sibriex-mpmm-v1-sibriex-mpmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-sibriex-mpmm-v1-sibriex-mpmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:08:56.843Z",
+  "generationMethod": "ComfyUI"
 }

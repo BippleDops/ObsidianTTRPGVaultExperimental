@@ -170,8 +170,7 @@ Needs discrete help with family scandal
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -184,52 +183,42 @@ Needs discrete help with family scandal
 
 ## Connections
 
-- See also: [[step_025 (phase_073)
-- Influences [list-spells-school-divination]]
+- See also: [[list-spells-school-divination]]
 - Originates from [[The Great Cataloguing
 - Influences [Flesh to Stone Xphb]]
 - Related:
-- Originates from [[Shadow Timeline Lysara
-- Related: [Chronarch Supreme (D&D_References)]]
+- Originates from [[Chronarch Supreme (D&D_References)]]
 - Compare with [[step_056 (phase_054)
 - Connects to [Fragment War]]
 - Parallels [[step_091 (phase_060)
 - Requires [Ω_System-CLI-spells-school-abjuration]]
-- Connects to [[Captain Marina Truewater (D&D_References)
-- Compare with [step_064 (phase_044)]]
+- Connects to [[Captain Marina Truewater (D&D_References)]]
 - Leads to [[Location City Crystal Cult Temples V1 Crystal Cult Temples.svg
 - See also: [Leviathan Mpmm]]
-- See also: [[step_044 (phase_044)
-- Compare with [Emergency Technology Development Foundation]]
+- See also: [[Emergency Technology Development Foundation]]
 - Requires
-- See also: [[The Recursion Nexus
-- Affected by [MON00084_Aberrations_Creature_85]]
-- Originates from [[Royal Treasury
-- Originates from [LOC00284_Cities_Location_285]]
+- See also: [[MON00084_Aberrations_Creature_85]]
+- Originates from [[LOC00284_Cities_Location_285]]
 - Compare with [[sweeping-cinder-strike (optional-features)
 - See also: [step_002 (phase_087)]]
 - Originates from [[step_068 (phase_033)
 - Related: [Portrait NPC Captain Sky Horizon V2 Captain Sky Horizon.svg]]
 - Connects to [[MON00088_Undead_Creature_89
 - Affected by [strixhaven-pennant-scc (items)]]
-- Requires [[LOC0058_Fallsridge
-- Compare with [NPC1]]
+- Requires [[LOC0058_Fallsridge]]
 - Related: [[step_076 (phase_027)
 - Connects to [step_097 (phase_039)]]
 - Influences [[step_091 (phase_077)
 - Requires [Portrait NPC Golden Scale Transformation V1 Golden Scale Transformation.svg]]
 - Requires [[step_047 (phase_037)
 - Influences [LOC0079_PortPeak]]
-- Compare with [[Festival Coordinator Luna Celebration (People)
-- Leads to [step_070 (phase_091)]]
-- Originates from [[Quest - Songs of Power
-- Leads to [Research Chief Helena Datapoint 2]]
+- Compare with [[Festival Coordinator Luna Celebration]]
+- Originates from [[Research Chief Helena Datapoint 2]]
 - Influences [[Crystalhaven
 - Connects to [step_085 (phase_071)]]
 - Connects to [[step_039 (phase_016)
 - Affected by [Pressure Palace]]
-- Parallels [[The Umbral Pavilion 2
-- Parallels [The Breathing Stone (D&D_References)]]
+- Parallels [[The Breathing Stone (D&D_References)]]
 - See also: [[step_012 (phase_011)
 - Requires [Portrait NPC Quest Crystal Innovation Quest Crystal Innovation.svg]]
 - Leads to [[Portrait NPC Archbishop Mordecai Stormwright V1 Archbishop Mordecai Stormwright.svg
@@ -239,14 +228,12 @@ Needs discrete help with family scandal
 - Affected by [[Portrait NPC the Ancient Nobility V1 the Ancient Nobility.svg
 - Originates from
 - Connects to [Family Retaine 2]]
-- Originates from [[Houses_and_Nobility - House Shadowmere
-- Requires [step_059 (phase_032)]]
+- Originates from [[Houses_and_Nobility - House Shadowmere]]
 - Parallels [[step_016 (phase_052)
 - Requires [portrait-npc-senator-v1-senator.svg]]
 - Related: [[SPELL00029_Arcane_Spell_30
 - See also: [Divine Transformation Theolog]]
-- Related: [[QUEST00053_Personal_Quest_54
-- Leads to [Mind Guardian Vera 2]]
+- Related: [[QUEST00053_Personal_Quest_54]]
 - Requires [[LOC0054_Hillridge
 - Compare with [crime-complications-xge (tables)]]
 - Originates from [[Pristine Pearl 2
@@ -258,8 +245,7 @@ Needs discrete help with family scandal
 - Parallels [ENC00182_Social_Encounter_183]]
 - Influences [[step_072 (phase_014)
 - Requires [Wise Tide Truthseeker 2]]
-- See also: [[Yan C Bin Pota
-- Parallels [Educational_Systems_and_Institutions]]
+- See also: [[Educational_Systems_and_Institutions]]
 - Compare with [[Implements Uncommon Xdmg
 - Requires [step_078 (phase_097)]]
 - Parallels [[FAC00096_Cults_97
@@ -269,20 +255,17 @@ Needs discrete help with family scandal
 - Requires [ITEM00723_Primordial_Ring_of_Dominion]]
 - See also: [[dark-gift-of-drizlash-the-nine-eyed-spider-cos
 - Leads to [step_082 (phase_079)]]
-- Parallels [[Factions the Resonance Keepers
-- Parallels [step_078 (phase_062)]]
+- Parallels [[Factions the Resonance Keepers]]
 - Related: [[ITEM00424_Ethereal_Gauntlets_of_Fortitude
 - Influences [Location City the Thirteen Keys the Thirteen Keys.svg]]
 - Requires [[The Depth Sounders 2
 - Leads to [Crafting Transcendence]]
-- Influences [[Shadowlands (D&D_References)
-- Parallels [Horn Xphb]]
+- Influences [[Shadowlands (D&D_References)]]
 - See also: [[Campaign Path 2
 - See also: [Portrait NPC Surface Ambassador Lord Seaworthy Surface Ambassador Lord Seaworthy.svg]]
 - Influences [[Assets Vehicles Vehicle Ship Pressure Lifter Barge V1 Pressure Lifter Barge.svg
 - Requires [Phase Transition Special Effects]]
-- Parallels [[Environmental Monitor Reef Ecowatch
-- Related: [step_047 (phase_053)]]
+- Parallels [[Environmental Monitor Reef Ecowatch]]
 - Requires [[LORE00068_History_Entry_69]]
 
 ## Plot Hooks

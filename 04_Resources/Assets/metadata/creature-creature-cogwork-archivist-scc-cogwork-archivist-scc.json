@@ -25,5 +25,8 @@
   "alt_text": "Concept art of cogwork-archivist-scc with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-cogwork-archivist-scc-cogwork-archivist-scc.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-cogwork-archivist-scc-cogwork-archivist-scc.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:00:06.022Z",
+  "generationMethod": "ComfyUI"
 }

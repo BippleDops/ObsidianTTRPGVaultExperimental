@@ -44,7 +44,7 @@ Born into modest circumstances, Portrait_Prompts - NPCs rose through dedication 
 - **Special Abilities**: Keen tactical mind
 - **Equipment**: Various tools of their trade ## Relationships
 
-- **Allies**: [[The Merchant's Guild, [City Watch]]
+- **Allies**: [[The Merchant's Guild]]
 - **Rivals**: [[Shadow Conspiracy]]
 - **Contacts**: Network of informants throughout the city ## Current Activities
 

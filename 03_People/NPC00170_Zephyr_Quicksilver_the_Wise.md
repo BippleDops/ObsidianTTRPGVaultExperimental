@@ -161,8 +161,7 @@ Requires champions for trial by combat
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -178,28 +177,21 @@ Requires champions for trial by combat
 
 ## Connections
 
-- Leads to [[The Final Sealing 2
-- Parallels [NPC01032_Urien_Voidwalker_the_Bold]]
-- Leads to [[Deep Adaptation Processes
-- Related: [Princess Celestia 3 (D&D_References)]]
+- Leads to [[NPC01032_Urien_Voidwalker_the_Bold]]
+- Leads to [[Princess Celestia 3 (D&D_References)]]
 - Parallels [[Levels 1116 Masters of the Realm Levels 1116
 - Parallels [burrow-speed-xphb (variant-rules)]]
 - Influences
 - Originates from [[NPC01842_Brenna_Voidwalker_the_Seeker
 - Originates from [NPC01786_Zephyr_Jadeclaw_the_Mystic]]
-- Parallels [[Emergency Coordinator Storm Responsewrigh (D&D_References)
-- Affected by
-- Leads to [The Scribes' Covenant (D&D_References)]]
-- Connects to [[NPC00732_Felicia_Stormwind_the_Wanderer
-- Related: [step_068 (phase_090)]]
-- Parallels [[step_099 (phase_085)
-- Leads to [Harbormaster Creedence Tidereader]]
+- Parallels [[Emergency Coordinator Storm Responsewrigh (D&D_References)]]
+- Connects to [[NPC00732_Felicia_Stormwind_the_Wanderer]]
+- Parallels [[Harbormaster Creedence Tidereader]]
 - Leads to [[Portrait NPC Lich Queen Morwyn the Deathless Lich Queen Morwyn the Deathless.svg_1 (Portraits)
 - Leads to [Abyssal Academy (D&D_References)]]
 - See also: [[NPC00041_Fiora_Jadeclaw
 - Related: [Memory_Trader_Kellian.png]]
-- Influences [[Blue Dragon
-- Leads to [SPELL00083_Divine_Spell_84]]
+- Influences [[SPELL00083_Divine_Spell_84]]
 - Requires [[Crystal Corruption (Places)
 - Originates from [MON00148_Constructs_Creature_149]]
 - Leads to [[step_084 (phase_097)
@@ -213,8 +205,7 @@ Requires champions for trial by combat
 - Influences [[Assets Locations Location City Forge Master Petra Hammerdeep V1 Forge Master Petra Hammerdeep.svg
 - Compare with [Portrait NPC Sir Theron Crystalward V1 Sir Theron Crystalward.svg]]
 - Connects to
-- Affected by [[SPELL00028_Divine_Spell_29
-- Requires [The Deep Prophets 2]]
+- Affected by [[SPELL00028_Divine_Spell_29]]
 - Parallels [[step_046 (phase_049)
 - See also: [Portrait NPC Captain Marina Shieldcurrent V2 Captain Marina Shieldcurrent.svg]]
 - See also: [[Assets Locations Location City Archdruid Marina Kelpweaver Archdruid Marina Kelpweaver.svg
@@ -222,10 +213,8 @@ Requires champions for trial by combat
 - Affected by [[Finn Worldwalker
 - Related: [step_015 (phase_019)]]
 - Influences
-- Compare with [[step_007 (phase_071)
-- Connects to [ENC00128_Combat_Encounter_129]]
-- Compare with [[OPTIMIZATION_COMPLETE
-- Connects to [NPC01061_Xander_Quicksilver_the_Cunning]]
+- Compare with [[ENC00128_Combat_Encounter_129]]
+- Compare with [[NPC01061_Xander_Quicksilver_the_Cunning]]
 - Affected by [[step_090 (phase_080)
 - Parallels [Assets Locations Location City Trade War Trade War.svg]]
 - Influences [[step_016 (phase_096)
@@ -237,8 +226,7 @@ Requires champions for trial by combat
 - Related: [[Keeper Aquaeous Depth-Scholar
 - Leads to
 - See also: [SPELL00064_Nature_Spell_65]]
-- Influences [[Ecological Balance Protocols (D&D_References)
-- Affected by [Shadow Physiology and Anatomy]]
+- Influences [[Ecological Balance Protocols (D&D_References)]]
 - Affected by [[step_099 (phase_020)
 - Parallels [QUEST00165_Side_Quest_166]]
 - Requires [[Location City Scholar David Crossref Scholar David Crossref.svg
@@ -256,10 +244,8 @@ Requires champions for trial by combat
 - Influences
 - Parallels [[Assets Portraits Portrait NPC Emperor Pelagic the Last Emperor Pelagic the Last.svg
 - Compare with [NPC00889_Fiora_Ravenheart_the_Mystic]]
-- Originates from [[step_093 (phase_044)
-- Related: [Master of Currents Poseidon (D&D_References)]]
-- Connects to [[Consequence Chain 3 Reality Merger Diplomatic Crisis (D&D_References)
-- Connects to [step_090 (phase_059)]]
+- Originates from [[Master of Currents Poseidon (D&D_References)]]
+- Connects to [[Consequence Chain 3 Reality Merger Diplomatic Crisis (D&D_References)]]
 - Compare with [[Seven_Shards_Legend_Summary
 - Affected by [Assets Locations Location City Forge Master Korax Hammerdeep Forge Master Korax Hammerdeep.svg]]
 - Connects to [[Animated Flying Sword Xmm
@@ -272,12 +258,10 @@ Requires champions for trial by combat
 - Connects to
 - Related: [[step_020 (phase_063)
 - Requires [Shatter Xphb]]
-- Affected by [[NPC00509_Caelum_Silverleaf_the_Scholar
-- Leads to [Dire Troll Mpmm]]
+- Affected by [[NPC00509_Caelum_Silverleaf_the_Scholar]]
 - See also: [[Symbol Heraldry Sacred Texts of Transformation V1 Sacred Texts of Transformation.svg
 - Connects to [Random Buildings Residence]]
-- Originates from [[step_006 (phase_080)
-- Affected by [Intelligence Processing Center]]
+- Originates from [[Intelligence Processing Center]]
 
 ## Visual References
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png

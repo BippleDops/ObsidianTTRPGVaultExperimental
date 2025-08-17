@@ -195,21 +195,17 @@ Discovered something valuable
 - Related: [Symbol Heraldry the Convergence Seekers the Convergence Seekers.svg]]
 - See also: [[portrait-npc-the-biomancers-v1-the-biomancers.svg
 - Leads to [treasure-hoard-challenge-17 2]]
-- Compare with [[Session 06 (Crystal_Plague)
-- Leads to [Royal Guard]]
+- Compare with [[Session 06 (Crystal_Plague)]]
 - Affected by [[Noble Houses 2
 - Originates from [ITEM00666_Dragon_Scale_Plate_of_Grace]]
 - See also: [[Lightbringer Lmop
 - Leads to [step_093 (phase_054)]]
 - Leads to [[NPC01327_Erasmus_Nightfall_the_Scholar
 - Connects to [War College of Depths (D&D_References)]]
-- See also: [[NPC00360_Drusilla_Hawthorne
-- Related: [Consequence Chain 5 - Marina Identity Revelation]]
-- Related: [[Dataview Query Guide
-- Compare with [Senator Glaucus (D&D_References)]]
+- See also: [[Consequence Chain 5 - Marina Identity Revelation]]
+- Related: [[Senator Glaucus (D&D_References)]]
 - Related:
-- Compare with [[LOC00082_Dungeons_Location_83
-- Affected by [NPC0049_Jora_Ironforge]]
+- Compare with [[LOC00082_Dungeons_Location_83]]
 - Originates from [[Assets Vehicles Vehicle Ship Abyssal Scout Submarine V1 Abyssal Scout Submarine.png
 - Related: [BACKUP_LINKS_FIXED_REPORT]]
 - Originates from [[Burrow Speed Xphb
@@ -218,26 +214,21 @@ Discovered something valuable
 - Compare with [Map Map Wrecked Submarine Interior V2 Wrecked Submarine Interior.svg]]
 - Originates from [[Royal Protocol 2
 - Parallels [Dimensional Nexus]]
-- Connects to [[LORE00132_History_Entry_133
-- See also: [Navigation & Geography (D&D_References)]]
+- Connects to [[Navigation & Geography (D&D_References)]]
 - Influences
-- Connects to [[step_086 (phase_037)
-- See also: [LOC00181_Dungeons_Location_182]]
+- Connects to [[LOC00181_Dungeons_Location_182]]
 - Affected by [[Faction_Heraldry 2 (Symbols)
 - Compare with [step_055 (phase_027)]]
 - Connects to
-- Leads to [[Crystal Vein Settlements (D&D_References)
-- Parallels [NPC00199_Ewan_Ashford]]
+- Leads to [[Crystal Vein Settlements (D&D_References)]]
 - Requires [[Pearl Sharpedge
 - Affected by [step_033 (phase_018)]]
 - Influences [[Trap Effects Trap Save Dcs and Attack Bonuses
 - Leads to [The Constitution of Depths]]
-- Compare with [[LORE00214_Legends_Entry_215
-- Requires [NPC00287_Ysara_Underhill_the_Wise]]
+- Compare with [[NPC00287_Ysara_Underhill_the_Wise]]
 - Requires [[Crystal Dampening Stones
 - Related: [Symbol Heraldry Crystal Pirate Crew V1 Crystal Pirate Crew.svg]]
-- Requires [[LOC00081_Wilderness_Location_82
-- Originates from [Spotlight_Tracker]]
+- Requires [[LOC00081_Wilderness_Location_82]]
 - See also: [[NPC0197_Minerva_Brightblade_the_Strong
 - Requires
 - Originates from
@@ -278,7 +269,7 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Capital**: [Skylance Citadel]]
 - **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
 - **Current Conflict**: The Void Incursion, Elemental Convergence
-- **Key Locations**: [[Floating Gardens, [Storm's Eye Tower]]
+- **Key Locations**: [[Floating Gardens]]
 
 The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.

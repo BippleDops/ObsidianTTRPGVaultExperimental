@@ -57,7 +57,5 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [02_Worldbuilding_Organizations_The_Chroniclers]]
-- [[Organizations the Chroniclers
-- [System Cli Items Weapons]]
-- [[System Cli Spells School Enchantment
-- [System Cli Spells School Illusion]]
+- [[Organizations the Chroniclers]]
+- [[System Cli Spells School Enchantment]]

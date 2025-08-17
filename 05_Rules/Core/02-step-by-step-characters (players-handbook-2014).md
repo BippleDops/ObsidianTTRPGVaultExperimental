@@ -307,4 +307,4 @@ Holds a clue about the ancient prophecy
 - Compare with [Singing Coral 2]]
 - Parallels [[Stormwatch Keep
 - See also: [Great Preparatio 2]]
-- Leads to [[step_079 (phase_004)]]
+- Leads to 

@@ -92,13 +92,9 @@ Memory Trading represents a crucial aspect of the world's history, cosmology, or
 ## References
 
 - [Aquabyssos Cultural Codex]]
-- [[Aurelius Goldwave
-- [Memory Trading Economy]]
-- [[Multi-Phase Boss Fights
-- [Silver Mask]]
-- [[The Crimson Hand
-- [Reflection Pools - Surgical Theater]]
-- [[Shadow Market Canals
-- [The Phosphor Markets]]
+- [[Memory Trading Economy]]
+- [[Multi-Phase Boss Fights]]
+- [[Reflection Pools - Surgical Theater]]
+- [[The Phosphor Markets]]
 - [[Topic Matrix
 - [Topic_Matrix (Indexes)]]

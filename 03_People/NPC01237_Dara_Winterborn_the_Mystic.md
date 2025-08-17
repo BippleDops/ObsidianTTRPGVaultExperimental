@@ -208,18 +208,15 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [Kraken Spawn (D&D_References)]]
 - See also: [[travel-pace-phb (tables)
 - Influences [instrument-of-the-bards-mac-fuirmidh-cittern-xdmg]]
-- Leads to [[The Lost Shipment (D&D_References)
-- See also: [Culture_Builder]]
-- Influences [[Umber Hulk Xmm
-- Requires [NPC01716_Gareth_Ashford_the_Fallen]]
+- Leads to [[The Lost Shipment (D&D_References)]]
+- Influences [[NPC01716_Gareth_Ashford_the_Fallen]]
 - Compare with [[Symbol Heraldry Arcane Master Voidweav Arcane Master Voidweav.svg
 - Influences [Angel of the Depths (D&D_References)]]
 - Related: [[The Current Readers 2
 - Compare with [Roleplaying a Beholder Beholder Ideals Vgm]]
 - Affected by [[Quieting the Depths 2
 - Connects to [step_019 (phase_053)]]
-- Connects to [[NPC01685_Hilda_Jadeclaw_the_Guardian
-- Affected by [Blink Dog Xmm]]
+- Connects to [[NPC01685_Hilda_Jadeclaw_the_Guardian]]
 - Originates from [[The Great Tidal Amphitheater (D&D_References)
 - See also: [Creature Creature Salamander Xmm V2 Salamander Xmm.png]]
 - Parallels [[cobblers-tools-xphb (items)
@@ -243,16 +240,13 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [Bridge Currentcrosser]]
 - Influences [[Purist Coalition Thugs 2
 - Compare with [Supply Master Stockpil 2]]
-- Leads to [[LORE0085_History_of_the_Hero's_Sacrifice
-- See also: [step_047 (phase_064)]]
-- Related: [[step_093 (phase_050)
-- See also: [Bone Scribes (D&D_References)]]
+- Leads to [[LORE0085_History_of_the_Hero's_Sacrifice]]
+- Related: [[Bone Scribes (D&D_References)]]
 - Compare with
 - Parallels
 - See also: [[The Resistance Formation
 - Leads to [step_009 (phase_033)]]
-- Compare with [[NPC00808_Solas_Ironforge_the_Mystic
-- Related: [step_064 (phase_067)]]
+- Compare with [[NPC00808_Solas_Ironforge_the_Mystic]]
 - Connects to [[creature-creature-dragon-v4-dragon.png
 - Connects to
 - Related: [ITEM00550_Adamantine_Helm_of_Resistance]]
@@ -266,10 +260,8 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [step_014 (phase_067)]]
 - Originates from [[Assets Locations Location City Temporal Harvest V1 Temporal Harvest.svg
 - Requires [QUEST00066_Side_Quest_67]]
-- Originates from [[LORE00131_History_Entry_132
-- See also: [Consequence Chain 3 - Reality Merger Diplomatic Crisis 2]]
-- Requires [[Chambers Chamber
-- Originates from [NPC00926_Urien_Darkwater_the_Strong]]
+- Originates from [[Consequence Chain 3 - Reality Merger Diplomatic Crisis 2]]
+- Requires [[NPC00926_Urien_Darkwater_the_Strong]]
 - Compare with [[NPC00182_Urien_Emberfall
 - Originates from [The Convergence Entity]]
 - Related: [[Captain Guard Peacehold
@@ -279,13 +271,11 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Thalassius the Wise
 - Affected by
 - Affected by [location-city-the-azure-coast-the-azure-coast.svg]]
-- Compare with [[FAC00044_Orders_45
-- Affected by [Sir Marcus Dawnforge (D&D_References)]]
+- Compare with [[Sir Marcus Dawnforge (D&D_References)]]
 - Connects to
 - Connects to [[Portrait NPC Vespara Nightwhisper Thorne V2 Vespara Nightwhisper Thorne.svg_1 (Portraits)
 - Related: [step_089 (phase_059)]]
-- Leads to [[High Court
-- Connects to [MON00107_Aberrations_Creature_108]]
+- Leads to [[MON00107_Aberrations_Creature_108]]
 - Parallels [[SPELL00153_Nature_Spell_154
 - Originates from
 - Connects to

@@ -158,8 +158,7 @@ Witnessed a crime
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -175,14 +174,11 @@ Witnessed a crime
 
 - Influences [[step_029 (phase_054)
 - Connects to [SPELL00018_Divine_Spell_19]]
-- Affected by [[ENC0060_Random_Encounter_61
-- Requires [Biological Authentication Scanner]]
-- Affected by [[gith-tables-githyanki-flaws-mtf (tables)
-- Affected by [Combat Medicine Laboratory (D&D_References)]]
+- Affected by [[Biological Authentication Scanner]]
+- Affected by [[Combat Medicine Laboratory (D&D_References)]]
 - See also: [[Treasury Department 2
 - Parallels [location-city-sea-horse-sea-horse.svg]]
-- Parallels [[NPC01403_Rhiannon_Ironwood_the_Broken
-- Requires [FAC00011_Cults_12]]
+- Parallels [[NPC01403_Rhiannon_Ironwood_the_Broken]]
 - Affected by [[SPELL00005_Nature_Spell_6
 - Leads to [Celtic Goibhniu]]
 - Influences [[step_036 (phase_034)
@@ -195,12 +191,10 @@ Witnessed a crime
 - Requires [The Sunken Palace 2]]
 - Affected by [[The Thornfield District 2
 - Connects to [04_Resources_Assets_Locations_location-city-surge-mixmaster-surge-mixmaster.png]]
-- Originates from [[Shadow Arrow Xge
-- Related: [NPC00165_Felicia_Emberfall]]
+- Originates from [[NPC00165_Felicia_Emberfall]]
 - Requires [[Elven Labelas Enoreth Mtf
 - Requires [creature-creature-sphinx-xmm-v1-sphinx-xmm.png]]
-- Originates from [[Fear Farms (D&D_References)
-- See also: [step_023 (phase_061)]]
+- Originates from [[Fear Farms (D&D_References)]]
 - Compare with
 - Parallels [[step_030 (phase_065)
 - Affected by [Location City Memory Meadows Black Market V1 Memory Meadows Black Market.svg]]
@@ -218,10 +212,8 @@ Witnessed a crime
 - Requires [Spell Components]]
 - Affected by [[Assets Locations Location City Golden Coral Golden Coral.svg
 - See also: [Assets Locations Location City Quest the Blackmail Papers Quest the Blackmail Papers.svg]]
-- Connects to [[NPC00805_Aeliana_Hawthorne_the_Redeemed
-- Affected by [EVENT00087_Natural_Event_88]]
-- Connects to [[Interfaith Councils (D&D_References)
-- Connects to [Portrait NPC Deep... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Connects to [[NPC00805_Aeliana_Hawthorne_the_Redeemed]]
+- Connects to [[Portrait NPC Deep... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Originates from [[Deepstone
 - Requires [step_063 (phase_092)]]
 - Compare with [[Portrait NPC the Verdant Accord the Verdant Accord.svg_1 (Portraits)
@@ -250,8 +242,7 @@ Witnessed a crime
 - Compare with [LOC00270_Cities_Location_271]]
 - Requires [[Dual-State Armor (Items)
 - Influences [ENC00217_Social_Encounter_218]]
-- Affected by [[New Thalassopolis
-- Connects to [Chief Resonance Engineer Harmony Crystalstone (D&D_References)]]
+- Affected by [[Chief Resonance Engineer Harmony Crystalstone (D&D_References)]]
 - Parallels [[Ring of Lightning Resistance Xdmg
 - Originates from
 - Parallels [Temple Coalition]]
@@ -264,8 +255,7 @@ Witnessed a crime
 - Leads to [[step_040 (phase_046)
 - Originates from [The Great Cataloguing 2]]
 - Compare with
-- Related: [[Identity Preservation Crystal
-- See also: [step_055 (phase_035)]]
+- Related: [[Identity Preservation Crystal]]
 - Influences [[Assets Locations Location City the Memory Meadows Black Market V1 the Memory Meadows Black Market.svg
 - Requires [Temporal Anchor Points]]
 - Requires [[02_Worldbuilding_Groups_Environmental_Engineers_Guild

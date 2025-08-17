@@ -183,8 +183,7 @@ Needs discrete help with family scandal
 - Compare with [Assets Portraits Portrait NPC Underground Testing Facility Underground Testing Facility.svg]]
 - Requires [[ITEM00109_Shadow_Axe_of_Accuracy
 - Leads to [slippery-ice-xdmg (traps-hazards)]]
-- Originates from [[Lieutenant Loyalt (D&D_References)
-- Requires [Vehicles - Vessel Horror Intensifier]]
+- Originates from [[Vehicles - Vessel Horror Intensifier]]
 - Influences [[Captain Storm Ambushmaster
 - Influences [LOC00089_Towns_Location_90]]
 - Requires
@@ -201,29 +200,23 @@ Needs discrete help with family scandal
 - Compare with [npcs_1 (Assets)]]
 - Originates from [[step_099 (phase_005)
 - Influences [step_018 (phase_094)]]
-- Compare with [[step_073 (phase_081)
-- See also: [Quality Inspector Reef Perfectwright (D&D_References)]]
+- Compare with [[Quality Inspector Reef Perfectwright (D&D_References)]]
 - Affected by [[eldritch-spear-xphb (optional-features)
 - Compare with [Assets Handouts Handout Handout Smuggler Ledger Page Smuggler Ledger Page.png]]
-- Compare with [[Safe House Network (D&D_References)
-- Influences [step_071 (phase_035)]]
+- Compare with [[Safe House Network (D&D_References)]]
 - Leads to [[SHOP00003_General_Shop_4
 - Leads to
 - Affected by [Assets Handouts Handout Handout Privateer Letter of Marque V1 Privateer Letter of Marque.png]]
-- Compare with [[step_085 (phase_061)
-- Requires [Luxury Crystal Market (D&D_References)]]
-- Compare with [[Location3
-- Affected by [Quest - Rescue Senator Glaucus]]
+- Compare with [[Luxury Crystal Market (D&D_References)]]
+- Compare with [[Quest - Rescue Senator Glaucus]]
 - Compare with [[In-World_Handouts_Gallery
 - Originates from [Quest - The Family Reunion 2]]
-- Requires [[awaken-xphb (spells)
-- Influences [Memoriam - The Forgotten Continent 2]]
+- Requires [[Memoriam - The Forgotten Continent 2]]
 - Influences [[Ring of Resistance Xdmg
 - Requires [Warforged]]
 - Compare with [[globe-of-invulnerability-xphb (spells)
 - Affected by [ENC00308_Combat_Encounter_309]]
-- Parallels [[Calm Soothingwave (D&D_References)
-- Affected by [step_031 (phase_018)]]
+- Parallels [[Calm Soothingwave (D&D_References)]]
 - Requires [[Assets Locations Location City High Chancellor Nerissa Deepcurrent High Chancellor Nerissa Deepcurrent.svg
 - Leads to [LORE00113_History_Entry_114]]
 - Leads to
@@ -231,8 +224,7 @@ Needs discrete help with family scandal
 - Leads to [gnome-tables-gnome-flaws-mtf (tables)]]
 - Requires [[Assets Locations Location City Sage Nereon V1 Sage Nereon.svg
 - Leads to [portrait-npc-lord-bathysmal-v2-lord-bathysmal.svg]]
-- Influences [[ox-mpmm (beast)
-- Connects to [ENC00269_Combat_Encounter_270]]
+- Influences [[ENC00269_Combat_Encounter_270]]
 - Parallels [[step_005 (phase_023)
 - Originates from [Coral Lifeshaper 2]]
 - Compare with [[Shared Dreaming 2
@@ -246,31 +238,24 @@ Needs discrete help with family scandal
 - Parallels [step_016 (phase_064)]]
 - See also: [[step_082 (phase_011)
 - Related: [DUN00191_Dungeon_192]]
-- Originates from [[LOC00151_Dungeons_Location_152
-- Related: [step_014 (phase_022)]]
-- Originates from [[Heavy Crossbow Xphb
-- Related: [Training Supervisor Learning Moment]]
+- Originates from [[LOC00151_Dungeons_Location_152]]
+- Originates from [[Training Supervisor Learning Moment]]
 - See also: [[Assets Locations Location City Artificers Consortium Artificers Consortium.svg
 - See also: [The Schism and Reconciliation 2]]
 - Parallels [[Describe Appearance and Personality Intelligence Xphb
 - See also: [instrument-of-the-bards-fochlucan-bandore-xdmg]]
 - Leads to [[Secular Community Practices
 - Connects to [Vitriolic Sphere Xphb]]
-- Compare with [[The Coral Architecture Philosophy (D&D_References)
-- Compare with [Duchess Seraphina Crimsontide (D&D_References)]]
-- Leads to [[Festival Coordinator Nereid Harmony
-- Connects to [NPC_Reaction_Generator]]
+- Compare with [[The Coral Architecture Philosophy (D&D_References)]]
+- Leads to [[Festival Coordinator Nereid Harmony]]
 - Leads to [[werewolf-xmm (monstrosity)
 - Compare with [gith-tables-githyanki-bonds-mtf (tables)]]
-- Affected by [[Depth_Events_Pack_B
-- Parallels [NPC01766_Urien_Moonshadow_the_Wise]]
+- Affected by [[NPC01766_Urien_Moonshadow_the_Wise]]
 - Influences
-- See also: [[Court Herald Master Proclamation Crownvoice
-- Connects to [Whispering Wildlands]]
+- See also: [[Court Herald Master Proclamation Crownvoice]]
 - Affected by [[Assets Locations Location City Compass Quest Compass Quest.svg
 - Parallels [ENC00083_Social_Encounter_84]]
-- Related: [[Goldwave Manor 2
-- Originates from [NPC00906_Aeliana_Ashford_the_Fallen]]
+- Related: [[NPC00906_Aeliana_Ashford_the_Fallen]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

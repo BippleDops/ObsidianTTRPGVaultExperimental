@@ -158,8 +158,7 @@ Has information about legendary item
 
 - Leads to [[Portrait NPC Ice Kingdom Magic Ice Kingdom Magic.svg_1 (Portraits)
 - See also: [LOC00059_Cities_Location_60]]
-- Influences [[npc-secrets-xdmg (tables)
-- Related: [Master Resonants (D&D_References)]]
+- Influences [[Master Resonants (D&D_References)]]
 - Related: [[Symbol Heraldry the Divine Revelation the Divine Revelation.svg
 - Requires [Consequence Chain 2 - Crystal Trade Disruption (Lore)]]
 - Connects to [[step_099 (phase_008)
@@ -203,16 +202,13 @@ Has information about legendary item
 - Compare with [ITEM00030_Venomous_Bow_of_the_Ancients]]
 - Affected by [[step_075 (phase_029)
 - Leads to [Location City Archkeeper Nereon Archkeeper Nereon.svg]]
-- Originates from [[step_021 (phase_032)
-- Compare with [Counselor Marcus Publicvoice (D&D_References)]]
+- Originates from [[Counselor Marcus Publicvoice (D&D_References)]]
 - Influences [[scale-mail-xphb (items)
 - Parallels [treasure-hoards-random-treasure-hoard-xdmg (tables)]]
-- Related: [[Dwarven Valkauna Mtf
-- Requires [LORE0026_Legend_of_the_Sundering]]
+- Related: [[LORE0026_Legend_of_the_Sundering]]
 - Originates from [[Community Support Networks 2
 - Originates from [S-L-02_Void_Curtain_Eclipse]]
-- Affected by [[Aquabyssos-Survival-Mechanics (D&D_References)
-- Requires [location-city-seal-keepers-v1-seal-keepers.svg]]
+- Affected by [[Aquabyssos-Survival-Mechanics (D&D_References)]]
 - Originates from [[Quest - Faith and Doubt_1 (01_Adventures)
 - Connects to [Portrait NPC Captain Scale Walker V2 Captain Scale Walker.svg]]
 - Influences [[Creature Creature Young Green Dragon Xmm V2 Young Green Dragon Xmm.png
@@ -240,10 +236,8 @@ Has information about legendary item
 - Parallels [[trinket-xphb (items)
 - See also: [item-artifact-warhammer-xphb-v2-warhammer-xphb.png]]
 - Requires
-- Originates from [[QUEST00397_Side_Quest_398
-- Influences [Lady Vivienne Thornwhisper (D&D_References)]]
-- Influences [[Memory Tide Pools
-- Connects to [Internal Affairs Divisio 2]]
+- Originates from [[Lady Vivienne Thornwhisper (D&D_References)]]
+- Influences [[Internal Affairs Divisio 2]]
 - Compare with [[silvery-barbs-scc (spells)
 - Affected by [02_Worldbuilding_Factions_The_Void_Sculptors]]
 - Influences [[Assets Portraits Portrait NPC the Pearl Heist the Pearl Heist.svg
@@ -254,8 +248,7 @@ Has information about legendary item
 - See also: [04_Resources_Assets_Locations_location-city-weapon-master-dain-sharpedge-v1-weapon-master-dain-sharpedge.svg]]
 - Compare with [[LOC00069_Dungeons_Location_70
 - Originates from [NPC0116_Leopold_Goldleaf_the_Cunning]]
-- Related: [[QUEST0020_The_Ancient_Treasure
-- Compare with [Great Dyin]]
+- Related: [[QUEST0020_The_Ancient_Treasure]]
 
 ## Visual References
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png

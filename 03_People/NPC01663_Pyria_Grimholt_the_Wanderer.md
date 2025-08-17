@@ -165,8 +165,7 @@ Blackmails party into service
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -186,10 +185,8 @@ Blackmails party into service
 - Influences [FAC00015_Orders_16]]
 - Related: [[LOC00259_Planes_Location_260
 - Leads to [Location City Gatekeeper Iron Lung Boris Gatekeeper Iron Lung Boris.svg]]
-- Compare with [[Ride the Wind
-- Influences [LOC00163_Towns_Location_164]]
-- See also: [[Abyssos Prime - Pressure Terminal 2
-- Connects to [step_022 (phase_053)]]
+- Compare with [[LOC00163_Towns_Location_164]]
+- See also: [[Abyssos Prime - Pressure Terminal 2]]
 - Affected by [[Location City Religious Festivals Religious Festivals.svg
 - Connects to [Anti-Religious Philosophical Arguments 2]]
 - Originates from [[Assets Portraits Portrait NPC Gallery Guide Captain Marina Civicvoice Gallery Guide Captain Marina Civicvoice.svg
@@ -199,14 +196,12 @@ Blackmails party into service
 - Parallels
 - Connects to [[LOC00252_Cities_Location_253
 - See also: [ITEM00515_Dragon_Scale_Plate_of_Fortitude]]
-- Parallels [[Research Director Aquarius Brightwater 2
-- Influences [ENC00158_Environmental_Encounter_159]]
+- Parallels [[Research Director Aquarius Brightwater 2]]
 - Related: [[LOC00267_Cities_Location_268
 - Related: [QUEST00152_Personal_Quest_153]]
 - Originates from [[ENC00009_Combat_Encounter_10
 - Requires [Location City Master Finn Liquidlight V1 Master Finn Liquidlight.svg]]
-- Requires [[step_080 (phase_090)
-- Parallels [Deep Mother Cult Practices (D&D_References)]]
+- Requires [[Deep Mother Cult Practices (D&D_References)]]
 - Originates from
 - Originates from [[ITEM01448_Decorated_Compass_of_Durability
 - Parallels [Captain Scale-Walker (D&D_Statblocks)]]
@@ -230,10 +225,8 @@ Blackmails party into service
 - Originates from [LOC00288_Wilderness_Location_289]]
 - See also: [[Giant Boar Xmm
 - Parallels [List Spells Optional Features River of Hungry Flame]]
-- Requires [[Giant Owl Xmm
-- Related: [ENC00379_Combat_Encounter_380]]
-- Affected by [[Intelligence Processing Center
-- Originates from [NPC01016_Malakai_Ravenheart_the_Redeemed]]
+- Requires [[ENC00379_Combat_Encounter_380]]
+- Affected by [[NPC01016_Malakai_Ravenheart_the_Redeemed]]
 - Affected by [[step_066 (phase_057)
 - Affected by [step_071 (phase_014)]]
 - Leads to [[ITEM01461_Sturdy_Map_Case_of_Quality
@@ -245,16 +238,13 @@ Blackmails party into service
 - Requires [The Crystalline Wastes (D&D_References)]]
 - Parallels [[step_067 (phase_037)
 - Requires [Water Whip]]
-- Influences [[ENC00107_Environmental_Encounter_108
-- Originates from [The Reality Purists]]
+- Influences [[ENC00107_Environmental_Encounter_108]]
 - Originates from [[Assets Locations Location City Quality Inspector Reef Perfectwright Quality Inspector Reef Perfectwright.svg
 - Influences [Foreign Affairs]]
 - Requires [[NPC01561_Orion_Oakenshield_the_Cunning
 - Compare with [Location City Pressure Tube System Pressure Tube System.svg]]
-- Requires [[Customs House (D&D_References)
-- Related: [Location_Tracker 2]]
-- Compare with [[The Kraken's Harbor
-- Compare with [ENC00199_Combat_Encounter_200]]
+- Requires [[Customs House (D&D_References)]]
+- Compare with [[ENC00199_Combat_Encounter_200]]
 - Requires [[Symbol Heraldry the Border Marches the Border Marches.svg
 - Parallels [Assets Locations Location City Voluntary Taxation Voluntary Taxation.svg]]
 - Affected by [[step_006 (phase_044)
@@ -274,10 +264,8 @@ Blackmails party into service
 - Related: [Assets Locations Location City Temple Coalition V1 Temple Coalition.svg]]
 - Connects to [[bracers-of-defense-xdmg (items)
 - Influences [Healing Two Worlds]]
-- Related: [[Continental War 2
-- See also: [NPC00736_Vesper_Underhill_the_Scholar]]
-- Related: [[Archive Kelpmere 2
-- Related: [LOC00084_Towns_Location_85]]
+- Related: [[NPC00736_Vesper_Underhill_the_Scholar]]
+- Related: [[LOC00084_Towns_Location_85]]
 - Originates from [[step_090 (phase_048)
 - Leads to [LORE00023_History_Entry_24]]
 

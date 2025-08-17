@@ -30,7 +30,7 @@ type: npc
 
 ## Quick Reference
 - **Role**: Character in the campaign
-- **Location**: [[02_Worldbuilding/Locations/Main_Hub]]
+- **Location**: [[02_Worldbuilding]]
 - **Faction**: Independent
 
 ## Description
@@ -87,8 +87,7 @@ Captain Lyanna Brightshield is a character encountered in the campaign world.
 ## Connections
 
 - Parallels [Portrait NPC the Pressure King the Pressure King.svg]]
-- Related: [[Reality Anchoring Technology (D&D_References)
-- Leads to [Harbor Master's Tower]]
+- Related: [[Reality Anchoring Technology (D&D_References)]]
 - Parallels [[monsters-by-habitat-arctic-monsters-xmm (tables)
 - Affected by [FAC00048_Cults_49]]
 - Compare with [[Assets Item Artifact Explorers Pack Xphb V4 Explorers Pack Xphb.png
@@ -102,12 +101,10 @@ Captain Lyanna Brightshield is a character encountered in the campaign world.
 - Requires [[Assets Handouts Handout Handout Cult Text with Marginalia V2 Cult Text with Marginalia.png
 - Affected by [step_073 (phase_084)]]
 - Affected by
-- Affected by [[Dimensional Fabric 2
-- Leads to [Chancellor's Advisory Council (D&D_References)]]
+- Affected by [[Chancellor's Advisory Council (D&D_References)]]
 - See also: [[step_020 (phase_100)
 - Requires [step_093 (phase_014)]]
-- See also: [[step_065 (phase_027)
-- Influences [LOC00071_Wilderness_Location_72]]
+- See also: [[LOC00071_Wilderness_Location_72]]
 - Requires [[Master Shadow Harmonist Penumbra Duskweaver 2
 - Related: [Assets Locations Location City Memory Keeper Lament V1 Memory Keeper Lament.svg]]
 - Connects to [[step_007 (phase_040)
@@ -121,24 +118,19 @@ Captain Lyanna Brightshield is a character encountered in the campaign world.
 - Leads to
 - See also: [[Assets Locations Location City Temple of the Eternal Flame V1 Temple of the Eternal Flame.svg
 - See also: [ITEM00314_Shadow_Dagger_of_Power]]
-- Originates from [[giant-boar-xmm
-- Requires [Trade Captain Current (D&D_References)]]
+- Originates from [[Trade Captain Current (D&D_References)]]
 - Related:
 - Parallels [[Garden of Shadows
 - Influences
 - Related: [Assets Locations Location City Keeper Brinescale V1 Keeper Brinescale.svg]]
-- Originates from [[step_050 (phase_013)
-- Parallels [LOC00230_Planes_Location_231]]
+- Originates from [[LOC00230_Planes_Location_231]]
 - Originates from [[step_093 (phase_019)
 - Connects to [Frontier Settlement 2]]
-- Related: [[Encrypted Reflection Messages
-- Connects to [treant-xmm (plant)]]
+- Related: [[Encrypted Reflection Messages]]
 - Compare with [[step_059 (phase_038)
 - Related: [LORE00080_History_Entry_81]]
-- Connects to [[Diplomatic Tides (D&D_Statblocks)
-- Requires [Sanctuary Emergency Systems (D&D_References)]]
-- Parallels [[step_086 (phase_079)
-- Influences [Crown Dome Conspiracy (D&D_References)]]
+- Connects to [[Sanctuary Emergency Systems (D&D_References)]]
+- Parallels [[Crown Dome Conspiracy (D&D_References)]]
 - See also: [[FINAL_GENERATION_REPORT
 - Requires [Parliamentary_Voting_Guide]]
 - Requires [[LOC00014_Towns_Location_15
@@ -171,12 +163,10 @@ Captain Lyanna Brightshield is a character encountered in the campaign world.
 - Leads to [Assets Vehicles Vehicle Ship Void Skimmer Cutter V1 Void Skimmer Cutter.svg]]
 - See also: [[ITEM00504_Warded_Chain_Mail_of_Grace
 - Parallels [MON0044_Void_Wraith]]
-- Affected by [[QUEST00244_Personal_Quest_245
-- Related: [NPC01781_Urien_Keenblade_the_Cunning]]
+- Affected by [[NPC01781_Urien_Keenblade_the_Cunning]]
 - Parallels [[giant-insect-wasp-xphb (beast)
 - Influences [Surgeon Coral Seamender]]
-- Connects to [[The Cerulean Archipelago 2
-- Leads to [Planar Defense League]]
+- Connects to [[The Cerulean Archipelago 2]]
 - Requires [[Location City Diplomatic Minister Reef Diplomatic Minister Reef.svg
 - Compare with [Admiral Marina Stormcrest 2]]
 - Connects to [[EVENT00059_Natural_Event_60

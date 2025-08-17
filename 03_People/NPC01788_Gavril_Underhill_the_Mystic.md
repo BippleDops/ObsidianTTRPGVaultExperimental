@@ -168,8 +168,7 @@ Blackmails party into service
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -188,8 +187,7 @@ Blackmails party into service
 - Originates from [[step_052 (phase_013)
 - Influences [step_009 (phase_045)]]
 - Leads to
-- Originates from [[LOC00152_Planes_Location_153
-- Parallels [NPC01310_Ysara_Silverleaf_the_Risen]]
+- Originates from [[NPC01310_Ysara_Silverleaf_the_Risen]]
 - Leads to [[step_095 (phase_032)
 - See also:
 - Related: [Location City Merchant Lord Silas Copperfield V1 Merchant Lord Silas Copperfield.svg]]
@@ -198,16 +196,13 @@ Blackmails party into service
 - Affected by [[Field Worker Communities
 - Compare with [The Children's Chorus]]
 - Influences
-- Compare with [[ENC00144_Social_Encounter_145
-- Affected by [step_079 (phase_061)]]
+- Compare with [[ENC00144_Social_Encounter_145]]
 - Compare with [[Symbol Heraldry Witness Protection Protocols V1 Witness Protection Protocols.svg
 - Parallels [step_063 (phase_089)]]
 - Originates from
 - Influences [[FAC00015_Orders_16
 - Affected by [step_031 (phase_094)]]
-- Connects to [[step_094 (phase_038)
-- Affected by
-- Leads to [downtime-activity-researching-phb (variant-rules)]]
+- Connects to [[downtime-activity-researching-phb (variant-rules)]]
 - See also: [[step_084 (phase_058)
 - Affected by [Map Map Airship Deck Melee V2 Airship Deck Melee.svg]]
 - Affected by [[melfs-minute-meteors-xge (spells)
@@ -220,26 +215,22 @@ Blackmails party into service
 - See also: [step_100 (phase_038)]]
 - Connects to [[Assets Locations Location City the Crystal Cathedral of Pure Light the Crystal Cathedral of Pure Light.svg
 - Leads to [EVENT00022_Magical_Event_23]]
-- Connects to [[Blessed Mother Thalassa the Transformed
-- Affected by [bastions]]
+- Connects to [[Blessed Mother Thalassa the Transformed]]
 - Originates from [[Meenlock Mpmm
 - Compare with [Assets Locations Location City Wave Healingbringer V1 Wave Healingbringer.svg]]
 - Leads to [[QUEST00292_Side_Quest_293
 - Affected by [Prince Thalassic 2]]
 - See also: [[Assets Locations Location City Scout Captain Vera Deepwatch Scout Captain Vera Deepwatch.svg
 - Parallels [Travel Rules (D&D_References)]]
-- Affected by [[Captain Henrik Saltbreeze (D&D_References)
-- Requires [01-introduction-welcome-to-adventure (players-handbook-2024)]]
+- Affected by [[01-introduction-welcome-to-adventure (players-handbook-2024)]]
 - Compare with [[QUEST00073_Main_Quest_74
 - Affected by [Void-Touched (D&D_References)]]
 - Parallels [[Assets Symbols Symbol Heraldry Salvage Master Ironwork Salvage Master Ironwork.svg
 - Connects to [LORE00013_Prophecies_Entry_14]]
 - Related: [[Depth Warden 2
 - See also: [Portable Ram Xphb]]
-- Influences [[step_061 (phase_076)
-- Requires [Crystal Corruption Taboos]]
-- Connects to [[The Lighthouse Keeper's Ghost (D&D_References)
-- Originates from [ITEM00849_Infernal_Tome_of_Destiny]]
+- Influences [[Crystal Corruption Taboos]]
+- Connects to [[The Lighthouse Keeper's Ghost (D&D_References)]]
 - Compare with [[random-magic-items-arcana (tables)
 - Affected by [Random Buildings Warehouse]]
 - Affected by [[mirage-arcane-xphb (spells)
@@ -255,12 +246,10 @@ Blackmails party into service
 - Parallels [ITEM01318_Practical_Spyglass_of_Reliability]]
 - Originates from [[Assets Locations Location City Council of Faiths Council of Faiths.svg
 - Leads to [Shadow Cultist (Cults_and_Movements)]]
-- See also: [[ENC0098_Random_Encounter_99
-- Parallels [Balta Kaine]]
+- See also: [[ENC0098_Random_Encounter_99]]
 - Leads to [[Location City Harbor Master Captain Dockwise V1 Harbor Master Captain Dockwise.svg
 - Affected by [Wind Currents]]
-- Connects to [[Master Archivist Valdric Stonewhisper 2
-- Requires [Secret Doors Xdmg]]
+- Connects to [[Master Archivist Valdric Stonewhisper 2]]
 - Requires [[NPC00112_Rhiannon_Ironforge
 - Connects to [Portrait NPC Watch Captain Roderick Shieldbreaker V2 Watch Captain Roderick Shieldbreaker.svg]]
 - Requires [[Depth Seekers (D&D_References)
@@ -275,14 +264,12 @@ Blackmails party into service
 - Influences [step_014 (phase_040)]]
 - Connects to [[Anti-Scrying Division 2
 - Connects to [Quaals Feather Token Anchor Xdmg]]
-- Requires [[step_031 (phase_036)
-- Parallels [NPC00696_Qadim_Ironwood_the_Broken]]
+- Requires [[NPC00696_Qadim_Ironwood_the_Broken]]
 - Influences [[Assets Portraits Portrait NPC the Resonance Prophet the Resonance Prophet.svg
 - Connects to [portrait-npc-neutral-zone-neutral-zone.svg_1 (Portraits)]]
 - Related: [[Location City Adult Education Programs V1 Adult Education Programs.svg
 - Parallels [ENC00107_Combat_Encounter_108]]
-- Affected by [[Private Investigator Rex Coldcase
-- Compare with [War of Burning Skies]]
+- Affected by [[Private Investigator Rex Coldcase]]
 
 ## Visual References
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png

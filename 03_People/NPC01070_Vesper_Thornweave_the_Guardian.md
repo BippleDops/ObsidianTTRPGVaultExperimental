@@ -167,12 +167,10 @@ Competitor sabotaging business
 - See also: [[SPELL00143_Arcane_Spell_144
 - Requires
 - Requires [FAC00025_Cults_26]]
-- Originates from [[MON00152_Undead_Creature_153
-- Parallels [The Cerulean Trench (D&D_References)]]
+- Originates from [[The Cerulean Trench (D&D_References)]]
 - See also: [[dragonlance-mishakal-phb (deities)
 - Affected by [ITEM00053_Blessed_Spear_of_Power]]
-- Requires [[Produce Flame Xphb
-- Leads to [LORE0031_Legend_of_the_Ancient_Pact]]
+- Requires [[LORE0031_Legend_of_the_Ancient_Pact]]
 - Related: [[Portrait NPC Captain Guard Peacehold V2 Captain Guard Peacehold.svg
 - Influences [falling-net-xdmg (traps-hazards)]]
 - Affected by [[The Parliament of Nobody
@@ -181,8 +179,7 @@ Competitor sabotaging business
 - Affected by [The Anonymous Accord]]
 - Connects to [[INV-009 (D&D_References)
 - Parallels [ITEM00267_Radiant_Crossbow_of_Speed]]
-- Requires [[Master Illusion Kyrian Mindweaver
-- See also: [step_077 (phase_014)]]
+- Requires [[Master Illusion Kyrian Mindweaver]]
 - Originates from
 - Originates from [[step_065 (phase_025)
 - Requires [step_087 (phase_049)]]
@@ -198,14 +195,12 @@ Competitor sabotaging business
 - Connects to [Warding Wind Xge]]
 - Requires [[Delta-Operations
 - Requires [SPELL00004_Arcane_Spell_5]]
-- Originates from [[The Resurgent Tide
-- Requires [ENC00137_Combat_Encounter_138]]
+- Originates from [[ENC00137_Combat_Encounter_138]]
 - Parallels [[The Void Breach
 - Related: [Commune Xphb]]
 - Related: [[step_062 (phase_008)
 - Related: [step_077 (phase_045)]]
-- Parallels [[The Code Wars (D&D_References)
-- Leads to [Pressure Territories]]
+- Parallels [[The Code Wars (D&D_References)]]
 - Parallels [[Seven Shards Quick Reference
 - Connects to [NPC00061_Qadim_Grimholt]]
 - Affected by [[The Bathyal Succession 2
@@ -218,13 +213,10 @@ Competitor sabotaging business
 - Originates from [Item Artifact Explorers Pack Xphb V2 Explorers Pack Xphb.png]]
 - Connects to [[Assets Locations Location City War of the Sunless Depths War of the Sunless Depths.svg
 - Connects to [step_007 (phase_029)]]
-- Connects to [[step_097 (phase_071)
-- Leads to
-- See also: [Admiral Diplomatic Envoy Thornwick]]
+- Connects to [[Admiral Diplomatic Envoy Thornwick]]
 - Connects to [[Throne Room (D&D_References)
 - Parallels [Assets Locations Location City Astrologer Prime Cassandra Starweaver V1 Astrologer Prime Cassandra Starweaver.svg]]
-- Compare with [[LOC00264_Cities_Location_265
-- Related: [NPC00464_Ewan_Thornweave]]
+- Compare with [[LOC00264_Cities_Location_265]]
 - Requires [[Long Jump Xphb
 - Connects to [Assets Locations Location City Crystal Engineer Spark Gemwright Crystal Engineer Spark Gemwright.svg]]
 - See also: [[LOC00027_Wilderness_Location_28
@@ -241,14 +233,11 @@ Competitor sabotaging business
 - Compare with [Shadow Chancellor]]
 - Related: [[step_079 (phase_073)
 - Leads to [SHOP00025_Magical_Shop_26]]
-- Requires [[The Seahawk 2
-- See also: [Shard_Locations (D&D_Sourcebooks)]]
-- Influences [[Pressure Suit of the Depths
-- Related: [The Sorrow Singers (D&D_References)]]
+- Requires [[Shard_Locations (D&D_Sourcebooks)]]
+- Influences [[The Sorrow Singers (D&D_References)]]
 - Compare with [[Axe Beak Xmm
 - Leads to [step_024 (phase_079)]]
-- Related: [[Find the Grief Bomb (D&D_Statblocks)
-- Leads to [The Lost Shipment 2]]
+- Related: [[Find the Grief Bomb (D&D_Statblocks)]]
 - Leads to
 - Leads to [[QUEST00015_Main_Quest_16
 - Compare with [location-city-marine-druids-v1-marine-druids.svg]]
@@ -256,8 +245,7 @@ Competitor sabotaging business
 - Compare with [ENC00220_Combat_Encounter_221]]
 - Influences [[Quest - The Cure for Madness
 - Originates from [step_068 (phase_021)]]
-- Requires [[conditions#Incapacitated
-- Compare with [Underground Railroad Leader 2]]
+- Requires [[Conditions]]
 - Originates from
 - Leads to [[Sunset Bay
 - Affected by [Random Magic Item Rarity Magic Item Rarities]]

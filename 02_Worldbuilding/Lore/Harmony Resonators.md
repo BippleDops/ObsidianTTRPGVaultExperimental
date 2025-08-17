@@ -47,39 +47,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-### Hospitality Improvements
-
-- Explain guest rights and host obligations
-
-### Death_Customs Improvements
-
-- Detail funeral rites and afterlife beliefs
-
-### Material_Culture Improvements
-
-- Detail common objects and their cultural significance
-
-### Coming_Of_Age Improvements
-
-- Describe rites of passage and adulthood markers
-
-## Overview
-
-02_Worldbuilding/Items/Harmony Resonators represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
-
-### Basic Information
-02_Worldbuilding/Items/Harmony Resonators can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
-- Physical: A tangible thing or place
-- Conceptual: An idea or belief system
-- Event: Something that happened or will happen
-- Process: An ongoing or repeatable occurrence
-
-### Detailed Explanation
-The full nature of 02_Worldbuilding/Items/Harmony Resonators involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
-
-### [Historical Context]]
+- Describe how this culture exists in other [[region]]
 The origins and development of 02_Worldbuilding/Items/Harmony Resonators trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements

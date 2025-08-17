@@ -170,8 +170,7 @@ Competitor sabotaging business
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -191,18 +190,15 @@ Competitor sabotaging business
 - Originates from [The Silent Watcher 2]]
 - Connects to [[Sword of Answering Last Quip
 - Related: [ITEM01213_Concentrated_Crystal_of_Clarity]]
-- Leads to [[cloak-of-arachnida-xdmg (items)
-- Connects to [Official Memory Keepers (D&D_References)]]
+- Leads to [[Official Memory Keepers (D&D_References)]]
 - Influences [[step_100 (phase_068)
 - Compare with [Assets Locations Location City Chief Engineer Vera Steamheart Chief Engineer Vera Steamheart.svg]]
-- Affected by [[Agent Viktor Cleanslate (D&D_References)
-- Connects to [step_042 (phase_065)]]
+- Affected by [[Agent Viktor Cleanslate (D&D_References)]]
 - Originates from [[ITEM01392_Simple_Lock_of_Reliability
 - Originates from [step_095 (phase_006)]]
 - Leads to [[Assets Locations Location City Magical Theory Schools V1 Magical Theory Schools.svg
 - Requires [Mechanics Reference Quick Reference Dnd5e DM Screen 2014]]
-- Connects to [[Aquabyssos-Aethermoor Treaties (D&D_References)
-- Affected by [Lady Shadowmere (D&D_References)]]
+- Connects to [[Aquabyssos-Aethermoor Treaties (D&D_References)]]
 - Parallels [[NPC00208_Cedric_Oakenshield
 - Affected by [Assets Locations Location City Memory Keeper Ancient Nerida Memory Keeper Ancient Nerida.svg]]
 - Affected by [[NPC01263_Drusilla_Nightfall_the_Strong
@@ -211,14 +207,12 @@ Competitor sabotaging business
 - Related: [[step_014 (phase_081)
 - See also: [The Screaming Gardens]]
 - Leads to
-- Affected by [[Stealth and Ambush Player
-- Related: [Court Mage Tempest Shadowcryst]]
+- Affected by [[Court Mage Tempest Shadowcryst]]
 - Influences [[step_030 (phase_022)
 - Leads to [Location City Crown of Eternal Ice V1 Crown of Eternal Ice.svg]]
 - See also: [[Purple Worm Poison Xdmg
 - Connects to [Tidal Reserve]]
-- Leads to [[The Black Ledger 2
-- See also: [NPC01665_Malakai_Ravenheart_the_Strong]]
+- Leads to [[NPC01665_Malakai_Ravenheart_the_Strong]]
 - Originates from [[Portrait NPC Captain Tempest Eye Marelda Captain Tempest Eye Marelda.svg
 - Requires [Street Urchin Gang (D&D_References)]]
 - See also: [[clairvoyance-xphb (spells)
@@ -226,32 +220,25 @@ Competitor sabotaging business
 - Leads to [[training-complications-xge (tables)
 - See also: [AUDIO_LICENSE_README]]
 - Leads to
-- Originates from [[Bio-Mechanical Specialist Tide Lifeforge 2
-- Affected by [DUN00053_Dungeon_54]]
+- Originates from [[Bio-Mechanical Specialist Tide Lifeforge 2]]
 - Connects to [[Guild Organization (Guilds)
 - See also: [step_054 (phase_057)]]
 - Originates from [[Archive of Forgotten Depths 2
 - Related: [mud-mephit-xmm (elemental)]]
-- Leads to [[LOC00030_Dungeons_Location_31
-- Originates from [Regulatory Medical Authorit (D&D_References)]]
+- Leads to [[Regulatory Medical Authorit (D&D_References)]]
 - Compare with [[rust-monster-xmm (monstrosity)
 - Connects to [manual-of-clay-golems-xdmg (items)]]
 - Parallels [[Detect Magic Xphb
 - Originates from [Strong Wind Xdmg]]
-- See also: [[Emergency Coordinator Storm Responsewrigh (D&D_References)
-- Affected by [step_020 (phase_086)]]
+- See also: [[Emergency Coordinator Storm Responsewrigh (D&D_References)]]
 - Influences [[step_062 (phase_081)
 - Compare with [The Party]]
-- Requires [[High Chancellor Nerissa Deepcurrent (D&D_References)
-- Requires
-- Related: [Bridge-Builder Community Center]]
-- Influences [[The Bone Colosseum (D&D_References)
-- Parallels [MON00052_Constructs_Creature_53]]
+- Requires [[High Chancellor Nerissa Deepcurrent (D&D_References)]]
+- Influences [[The Bone Colosseum (D&D_References)]]
 - Requires [[Shadow Society Hierarchy
 - Parallels
 - Parallels [high-altitude-xdmg (traps-hazards)]]
-- Parallels [[The_Seahawk.png
-- Connects to [Rare Ingredient Network (D&D_References)]]
+- Parallels [[Rare Ingredient Network (D&D_References)]]
 - Leads to [[Assets Locations Location City Maintenance Tech Reef Fixwright V1 Maintenance Tech Reef Fixwright.svg
 - Requires [Shadow Medical Training Methods]]
 - Leads to [[LORE00025_Prophecies_Entry_26
@@ -264,22 +251,16 @@ Competitor sabotaging business
 - Related: [[giant-constrictor-snake-xmm (beast)
 - Parallels [LOC00226_Wilderness_Location_227]]
 - Parallels
-- Compare with [[Sacred Historian Coral Deepscribe (D&D_References)
-- Affected by [LOC00081_Dungeons_Location_82]]
-- Parallels [[Pressure-Tube System (D&D_References)
-- Requires [Lady Crystal-Heart Miraleth (D&D_References)]]
-- Compare with [[NPC0092_Magnus_Goldleaf
-- Influences [Tidal Priest Marina Deepcurrent (D&D_References)]]
-- Connects to [[step_097 (phase_006)
-- Originates from [NPC00918_Erasmus_Dawnstrider_the_Broken]]
+- Compare with [[Sacred Historian Coral Deepscribe (D&D_References)]]
+- Parallels [[Lady Crystal-Heart Miraleth (D&D_References)]]
+- Compare with [[Tidal Priest Marina Deepcurrent (D&D_References)]]
+- Connects to [[NPC00918_Erasmus_Dawnstrider_the_Broken]]
 - See also: [[robe-of-the-archmagi-xdmg (items)
 - Leads to [Symbol Heraldry the Repository Barge the Repository Barge.svg]]
-- Parallels [[Shadow Surgical Instruments 2
-- Originates from [Market Charte]]
+- Parallels [[Shadow Surgical Instruments 2]]
 - Requires [[Crystalhaven_1
 - Related: [Portrait NPC Queen Morwyn Lumengarde V2 Queen Morwyn Lumengarde.svg]]
-- Related: [[The Obsidian Archive (D&D_References)
-- Related: [NPC0112_Gideon_Goldleaf]]
+- Related: [[The Obsidian Archive (D&D_References)]]
 - Requires [[Velociraptor Mpmm
 - Influences [LORE00172_Legends_Entry_173]]
 - Parallels [[ambush-xphb (optional-features)

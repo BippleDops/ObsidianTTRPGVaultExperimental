@@ -173,23 +173,18 @@ Seeks rare merchandise
 - Originates from [Cooks Utensils Xphb]]
 - Affected by [[Yeth Hound Mpmm
 - Related: [List Spells Classes Ranger]]
-- Parallels [[Green Hag
-- Connects to [Portrait NPC Sena... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Parallels [[Portrait NPC Sena... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Related: [[step_080 (phase_036)
 - Compare with [The Tidal Sanctum]]
-- Affected by [[QUEST00055_Personal_Quest_56
-- Compare with [step_050 (phase_042)]]
+- Affected by [[QUEST00055_Personal_Quest_56]]
 - Compare with [[NPC00407_Hestara_Dawnstrider
 - Connects to
 - Affected by [Downtime Activity Crafting a Magic Item]]
 - Connects to [[grassland-encounters-levels-1116-xge (tables)
 - Originates from [Tiefling Dispater Mtf]]
-- Related: [[Master Trader Darkmarke 2
-- Leads to [LOC0136_Marshstead]]
-- Originates from [[NPC01130_Vesper_Oakenshield_the_Mystic
-- Requires [Depth Merchant's Consortium]]
-- Leads to [[Potion of Speed Xdmg
-- Originates from [Psychological Profile Generator]]
+- Related: [[Master Trader Darkmarke 2]]
+- Originates from [[NPC01130_Vesper_Oakenshield_the_Mystic]]
+- Leads to [[Psychological Profile Generator]]
 - Related: [[Archshadow Gold Shadowstream
 - Leads to [portrait-npc-shadow-embassy-v2-shadow-embassy.svg_1 (Portraits)]]
 - See also: [[The Wind Roads
@@ -200,32 +195,26 @@ Seeks rare merchandise
 - Originates from [step_089 (phase_005)]]
 - Parallels [[Assets Portraits Portrait NPC High Priestess Celeste Dawnbringer High Priestess Celeste Dawnbringer.svg
 - Parallels [SHOP00035_General_Shop_36]]
-- Connects to [[MON00080_Aberrations_Creature_81
-- See also: [LOC00191_Cities_Location_192]]
-- Related: [[Duchess Marina Ever-Drowning
-- Compare with [Captain Valeria]]
+- Connects to [[MON00080_Aberrations_Creature_81]]
+- Related: [[Duchess Marina Ever-Drowning]]
 - Originates from [[Magic Item Special Features Magic Items
 - Related: [02_Worldbuilding_Lore_The_Memory_Trade]]
-- Influences [[step_073 (phase_096)
-- See also: [Sage Currentknow (D&D_References)]]
+- Influences [[Sage Currentknow (D&D_References)]]
 - Compare with [[The Synthesis Wastes
 - Originates from
 - Influences [step_074 (phase_085)]]
-- Originates from [[Master_Location_Index
-- Parallels [QUEST00257_Personal_Quest_258]]
+- Originates from [[QUEST00257_Personal_Quest_258]]
 - Affected by [[ENC00049_Environmental_Encounter_50
 - Originates from [Captain Rex Ironhaul (D&D_References)]]
 - Leads to [[step_014 (phase_063)
 - Affected by [The Silent Vote]]
-- See also: [[step_096 (phase_048)
-- Connects to [5-halflings-and-gnomes (mordenkainens-tome-of-foes)]]
+- See also: [[5-halflings-and-gnomes (mordenkainens-tome-of-foes)]]
 - Compare with [[locate-animals-or-plants-xphb (spells)
 - Related:
 - Influences [LORE00155_Prophecies_Entry_156]]
 - Compare with [[giant-venomous-snake-xmm (beast)
 - Requires [sentient-magic-item-senses (tables)]]
-- Related: [[Ranger Captain Orin Swiftarrow
-- Influences [Crystal Wardens 2]]
+- Related: [[Ranger Captain Orin Swiftarrow]]
 - Parallels
 - Parallels [[Assets Locations Location City Abyss Currentbinder Abyss Currentbinder.svg
 - Originates from [Deep Mining Consortium]]
@@ -245,8 +234,7 @@ Seeks rare merchandise
 - Parallels [Assets Locations Location City Harbor Patrol Harbor Patrol.svg]]
 - Compare with [[LOC00221_Towns_Location_222
 - Connects to [04_Resources_Assets_Symbols_symbol-heraldry-the-shattering-the-shattering.svg]]
-- Related: [[SPELL00093_Arcane_Spell_94
-- Compare with [LORE0062_Prophecy_of_the_Fallen_Star]]
+- Related: [[LORE0062_Prophecy_of_the_Fallen_Star]]
 - See also: [[succubus-xmm (fiend)
 - Originates from [Magic User Association]]
 - Parallels [[Portrait NPC Agent Whisper Voidheart V1 Agent Whisper Voidheart.svg
@@ -258,12 +246,10 @@ Seeks rare merchandise
 - Connects to [QUEST00184_Main_Quest_185]]
 - Leads to [[Palace Security Chief 2
 - Originates from [Engineer Torres Ironbrigh]]
-- Leads to [[The Senator's Voting Record
-- See also: [step_020 (phase_048)]]
+- Leads to [[The Senator's Voting Record]]
 - Compare with [[Clockwork Iron Cobra Mpmm
 - Influences [step_098 (phase_086)]]
-- See also: [[Disguise Kit Xphb
-- Affected by [Veiled Hierophant (D&D_References)]]
+- See also: [[Veiled Hierophant (D&D_References)]]
 - Affected by [[Enspelled Staff Level 7 Xdmg
 
 ## Visual References

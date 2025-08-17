@@ -52,8 +52,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [02_Worldbuilding_Lore_Temporal_Anchor_Points]]
-- [[The Final Choice
-- [Abyssos Prime - Inverse Palace]]
-- [[Temporal Navigation
-- [Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
+- [[Abyssos Prime - Inverse Palace]]
+- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
 - [[Temporal Navigation (D&D_Statblocks)]]

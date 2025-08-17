@@ -87,6 +87,5 @@ Travel Pace represents a crucial aspect of the world's history, cosmology, or fu
 
 ## References
 
-- [[02-chapter-1-playing-the-game#Travel Pace
-- [09-adventuring#Movement#Travel Pace]]
-- [[Travel_Pace (02_Worldbuilding)]]
+- [[02-chapter-1-playing-the-game (players-handbook-2024)]]
+- [[02_Worldbuilding]]

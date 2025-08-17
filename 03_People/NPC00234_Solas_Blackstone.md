@@ -171,34 +171,28 @@ Seeks bodyguards for dangerous journey
 - See also: [QUEST00283_Side_Quest_284]]
 - Parallels [[Portrait NPC the Speaking Stones V2 the Speaking Stones.svg_1 (Portraits)
 - Leads to [potion-of-healing-xdmg (items)]]
-- Connects to [[Forest Encounters Levels 510 Xge
-- See also: [LOC00068_Cities_Location_69]]
-- Parallels [[Ancient Crystaldeep (D&D_References)
-- Affected by [NPC01963_Rhiannon_Frostwhisper_the_Wanderer]]
+- Connects to [[Forest Encounters Levels 510 Xge]]
+- Parallels [[NPC01963_Rhiannon_Frostwhisper_the_Wanderer]]
 - Compare with [[Symbol Heraldry Information Broker Whisper Goldtongu V1 Information Broker Whisper Goldtongu.svg
 - Leads to [step_076 (phase_095)]]
 - Connects to [[step_081 (phase_010)
 - Requires [step_074 (phase_017)]]
 - Requires [[step_079 (phase_036)
 - Related: [sea-hag-xmm]]
-- Parallels [[Training Supervisor Learning Moment 2
-- Leads to [Cloaker Xmm]]
+- Parallels [[Training Supervisor Learning Moment 2]]
 - See also: [[Location City Current Navigation Techniques Current Navigation Techniques.svg
 - Requires
 - Related: [Diplomat Supreme International (D&D_References)]]
 - Affected by [[Chill Touch Xphb
 - See also: [Portrait NPC Deep Mother Priestess Sira V2 Deep Mother Priestess Sira.svg_1 (Portraits)]]
-- Related: [[Deep Guard (D&D_References)
-- Influences [ENC00140_Environmental_Encounter_141]]
+- Related: [[ENC00140_Environmental_Encounter_141]]
 - Affected by [[NPC01630_Ewan_Underhill_the_Seeker
 - Connects to
 - See also: [MON0049_Frost_Titan]]
 - Affected by [[Memory Extraction Device
 - Requires [Elf Tables Elf Non Drow Adventurer Story]]
-- Connects to [[step_088 (phase_093)
-- Influences [The Strategic Command Center]]
-- Connects to [[MON00065_Undead_Creature_66
-- Connects to [Session 07 (The_Sunken_Conspiracy)]]
+- Connects to [[The Strategic Command Center]]
+- Connects to [[Session 07 (The_Sunken_Conspiracy)]]
 - See also: [[Speed Xphb
 - Affected by [item types#Light%20Armor]]
 - Leads to [[armor-of-agathys-xphb (spells)
@@ -214,8 +208,7 @@ Seeks bodyguards for dangerous journey
 - Compare with [Location City Whisper Translation Whisper Translation.svg]]
 - Originates from [[Location City Private Arbitration V1 Private Arbitration.svg
 - Related: [step_003 (phase_080)]]
-- Leads to [[Symbol Heraldry Por... Related To: Local Political Structure Connected Plots: to Be Developed
-- Connects to [veterans-cane-xdmg (items)]]
+- Leads to [[Symbol Heraldry Por... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Related:
 - Originates from [[LORE00113_Prophecies_Entry_114
 - Requires [Assets Locations Location City Temple of Echoing Tides V1 Temple of Echoing Tides.svg]]
@@ -223,20 +216,16 @@ Seeks bodyguards for dangerous journey
 - Compare with [step_073 (phase_022)]]
 - Leads to [[step_023 (phase_024)
 - Originates from [step_024 (phase_007)]]
-- Leads to [[Assets Locations Location City Harbor Wall V1 Harbor Wall.svg
-- Affected by [Symbol Heraldry Ela... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Leads to [[Symbol Heraldry Ela... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Leads to [[ENC00230_Combat_Encounter_231
 - Related: [The Crystal Shepherds (People)]]
-- See also: [[Personal_Horror_Customization (D&D_References)
-- Related: [ring-of-the-ram-xdmg (items)]]
+- See also: [[Personal_Horror_Customization (D&D_References)]]
 - Related: [[step_031 (phase_020)
 - Parallels [step_026 (phase_008)]]
 - Affected by [[step_011 (phase_099)
 - Originates from [step_095 (phase_065)]]
-- Influences [[Throne Room - Heart of Palace 2
-- Connects to [The Golden Trade Route 2]]
-- Compare with [[Cultural Practices
-- See also: [NPC01650_Kaelen_Blackstone_the_Wanderer]]
+- Influences [[Throne Room - Heart of Palace 2]]
+- Compare with [[NPC01650_Kaelen_Blackstone_the_Wanderer]]
 - Compare with [[Reality Anchor Networks
 - Parallels [Memory Tide Events 2]]
 - Influences [[fey-touched-xphb (feats)
@@ -251,8 +240,7 @@ Seeks bodyguards for dangerous journey
 - Originates from [step_035 (phase_029)]]
 - Affected by [[Assets Locations Location City Port Abyssos Port Abyssos.svg
 - Related: [Supply Master Stockpil]]
-- Parallels [[NPC01093_Kaelen_Zephyrblade_the_Broken
-- Compare with [LOC00099_Planes_Location_100]]
+- Parallels [[NPC01093_Kaelen_Zephyrblade_the_Broken]]
 - Influences [[Resonance Peaks
 - See also: [Adjudicating Areas of Effect Targets in]]
 - Originates from [[Portrait NPC Captain Steelhart V2 Captain Steelhart.svg

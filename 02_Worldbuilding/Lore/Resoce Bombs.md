@@ -30,5 +30,4 @@ Further information about this topic will be developed as the campaign progresse
 ## References
 
 - [Cult of Screams (Cults_and_Movements)]]
-- [[Resonance Bombs
-- [Cult of Screams]]
+- [[Resonance Bombs]]

@@ -206,38 +206,30 @@ Following magic item guidelines (WWT p.135-136):
 ## Connections
 
 - Leads to [ITEM01024_Distilled_Salve_of_Fortune]]
-- Requires [[treasure-xdmg (tables)
-- Compare with
-- Connects to [Template_Planet_Placeholder.png_2 (09_Templates)]]
+- Requires [[Template_Planet_Placeholder.png_2 (09_Templates)]]
 - Requires [[04_Resources_Assets_Locations_location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png
 - Influences [Sacred Healing Springs (D&D_References)]]
 - Connects to [[portrait-npc-assassin-assassin.svg_1 (Portraits)
 - Influences [LOC00254_Planes_Location_255]]
 - Compare with [[LOC00169_Dungeons_Location_170
 - Originates from [Assets Locations Location City the Sunken Library of Thalassius the Sunken Library of Thalassius.svg]]
-- Related: [[Dawn War Vecna Dmg
-- See also: [Inter-Dimensional Artifacts Museum]]
+- Related: [[Inter-Dimensional Artifacts Museum]]
 - See also: [[NPC0136_Quinn_Darkwater_the_Ancient
 - Influences [earth-elemental-myrmidon-mpmm (elemental)]]
-- Requires [[DUN00165_Dungeon_166
-- Requires [Culinary Dreamweaver Sage Gentlespice 2]]
+- Requires [[Culinary Dreamweaver Sage Gentlespice 2]]
 - Connects to [[She-Who-Sees-Beyond 2
 - Influences [Hobgoblin Devastator Mpmm]]
 - Parallels
-- Related: [[SPELL00101_Divine_Spell_102
-- Compare with [NPC01722_Branwen_Oakenshield_the_Mystic]]
-- Parallels [[The Hopekeeper Academy
-- Connects to [NPC00469_Delara_Oakenshield_the_Seeker]]
+- Related: [[NPC01722_Branwen_Oakenshield_the_Mystic]]
+- Parallels [[NPC00469_Delara_Oakenshield_the_Seeker]]
 - Leads to
-- Connects to [[step_048 (phase_037)
-- Affected by [tankard-of-plenty-hotdq (items)]]
+- Connects to [[tankard-of-plenty-hotdq (items)]]
 - Parallels [[Assets Locations Location City Court Herald Master Proclamation Crownvoice Court Herald Master Proclamation Crownvoice.svg
 - Affected by [Assets Portraits Portrait NPC Merchant Captain Tobias Stormwind Merchant Captain Tobias Stormwind.svg]]
 - Leads to [[Portrait NPC Vespara Nightwhisper Thorne Vespara Nightwhisper Thorne.svg_1 (Portraits)
 - Influences
 - Connects to [Atmospheric Research Society]]
-- Influences [[Bestiary - Aquabyssos Creature Compendium
-- Connects to [QUEST0082_In_Search_of_Redemption]]
+- Influences [[Bestiary - Aquabyssos Creature Compendium]]
 - Affected by [[Location City Shadow Trackhound V1 Shadow Trackhound.svg
 - Requires [Royal Palace 2]]
 - Requires [[Unified Aquabyssos Legal Code
@@ -245,10 +237,8 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[red-dragon-wyrmling-xmm (dragon)
 - Compare with
 - Originates from [dual-wielder-xphb (feats)]]
-- See also: [[step_042 (phase_087)
-- See also: [LOC00134_Dungeons_Location_135]]
-- Influences [[Ecosystem_Simulation_Engine (D&D_References)
-- Connects to [step_078 (phase_093)]]
+- See also: [[LOC00134_Dungeons_Location_135]]
+- Influences [[Ecosystem_Simulation_Engine (D&D_References)]]
 - Affected by [[02_Worldbuilding_Lore_Censorship_Magic
 - Influences [Doctor_Silas_Voidtouch.png]]
 - See also: [[step_070 (phase_023)
@@ -260,10 +250,8 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [Paradox Legal Counsel 2]]
 - Connects to [[step_036 (phase_047)
 - Compare with [norse-njord (deities)]]
-- Originates from [[The Wind Roads (D&D_References)
-- Parallels [step_013 (phase_089)]]
-- Compare with [[MON00153_Undead_Creature_154
-- Affected by [The Cleaner]]
+- Originates from [[The Wind Roads (D&D_References)]]
+- Compare with [[MON00153_Undead_Creature_154]]
 - Related: [[paladin-xphb-oath-of-the-ancients-xphb (classes)
 - Connects to [Mixed_Events_Pack_B]]
 - Connects to [[step_045 (phase_064)
@@ -274,8 +262,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [LORE00134_Legends_Entry_135]]
 - Connects to [[life-events-xge (tables)
 - Originates from [Phantom Metropolis]]
-- See also: [[NPC00433_Vesper_Emberfall_the_Fallen
-- Compare with [step_004 (phase_034)]]
+- See also: [[NPC00433_Vesper_Emberfall_the_Fallen]]
 - Affected by
 - Affected by [[ITEM00866_Ancient_Amulet_of_the_Gods
 - Requires [Memory Extraction Laboratory]]
@@ -287,12 +274,10 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [02_Worldbuilding_Factions_The_Void_Sculptors]]
 - See also: [[Identify Important Npcs Adventure Allies
 - Originates from [02_Worldbuilding_Tactics_Pressure_Differential]]
-- Originates from [[The Listener's Code (D&D_References)
-- Related: [SPELL00050_Divine_Spell_51]]
+- Originates from [[The Listener's Code (D&D_References)]]
 - Originates from
 - See also:
-- Influences [[Federation of Crystal Trader
-- Leads to [NPC01791_Aeliana_Oakenshield_the_Bold]]
+- Influences [[NPC01791_Aeliana_Oakenshield_the_Bold]]
 - Influences [[Sacred Historian Coral Deepscribe 2
 - Leads to [NPC01578_Faelyn_Brightblade_the_Lost]]
 - Originates from
@@ -302,8 +287,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [ITEM01255_Refined_Potion_of_Clarity]]
 - Requires [[step_013 (phase_025)
 - Influences [step_012 (phase_082)]]
-- Influences [[NPC00206_Hestara_Frostwhisper_the_Wanderer
-- Affected by [step_059 (phase_038)]]
+- Influences [[NPC00206_Hestara_Frostwhisper_the_Wanderer]]
 - Affected by [[Quest - International Crisis
 
 ## Visual References

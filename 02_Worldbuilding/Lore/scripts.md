@@ -27,9 +27,6 @@ scripts represents a crucial aspect of the world's history, cosmology, or fundam
 
 ## References
 
-- [[Kraken Territories
-- [Military Moral Quandaries]]
-- [[Throne Room
-- [Cathedral of Light]]
-- [[Sylvanheart
-- [VAULT_MASTER_INDEX]]
+- [[Military Moral Quandaries]]
+- [[Cathedral of Light]]
+- [[VAULT_MASTER_INDEX]]

@@ -555,10 +555,8 @@ cr: 1/4
 - Breaking a Seal could be campaign climax
 
 ## See Also
-- [[Deep Mother
-- [The Great Drowning]]
-- [[Groups
-- [Reality Anchors]]
+- [[The Great Drowning]]
+- [[Reality Anchors]]
 - [[Deep_Mother_Subsystem|03 Mechanics/Deep Mother Subsystem
 
 *"Seven to bind, seven to hold, seven to keep the story untold."*
@@ -646,6 +644,5 @@ Legends speak of The Seven Seals as a nexus where past and present converge. Loc
 - [Aethermoor-Aquabyssos-World-Connection-Guide]]
 - [[Deep Mother
 - [Assets Portraits Portrait NPC Pressure Lords Pressure Lords.svg]]
-- [[Nerissa_Deepcurrent
-- [Nerissa Deepcurrent (D&D_References)]]
+- [[Nerissa Deepcurrent (D&D_References)]]
 - [[Nerissa_Deepcurrent (D&D_References)]]

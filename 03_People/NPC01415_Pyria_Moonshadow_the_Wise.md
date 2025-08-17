@@ -158,26 +158,21 @@ Needs help with personal quest
 - Related: [[Master Cultivator Apprenticeship
 - Parallels [Temporal Engineering Institute]]
 - Originates from
-- Related: [[International Pressure
-- Influences [Random_Events]]
-- Requires [[step_036 (phase_050)
-- See also: [Master of the Gallery Cornelius Publicvoice]]
+- Related: [[International Pressure]]
+- Requires [[Master of the Gallery Cornelius Publicvoice]]
 - Requires [[NPC00053_Alaric_Ironwood_the_Seeker
 - Requires [lost-crown-of-besilmer-pota (items)]]
-- Requires [[mage-armor-xphb (spells)
-- Compare with [Silverscale Banking House (D&D_References)]]
+- Requires [[Silverscale Banking House (D&D_References)]]
 - Connects to [[Memory Court 2
 - Originates from [step_047 (phase_051)]]
 - Compare with [[Director Prism Reformheart
 - Influences [Purist Coalition Thugs 2]]
-- Parallels [[passive-perception-xphb (variant-rules)
-- Leads to [Memory Instruments (D&D_References)]]
+- Parallels [[passive-perception-xphb (variant-rules)]]
 - Parallels [[Devouring Blade Xphb
 - Compare with [Paradox Engine Room]]
 - Influences [[Assets Locations Location City the Seven Shards Mystery V1 the Seven Shards Mystery.svg
 - Leads to [Portrait NPC Blackwater Estate Blackwater Estate.svg_1 (Portraits)]]
-- Parallels [[ogrillon-ogre-xmm
-- Requires [QUEST00010_Side_Quest_11]]
+- Parallels [[QUEST00010_Side_Quest_11]]
 - Influences [[LOC00169_Dungeons_Location_170
 - See also:
 - Related: [step_043 (phase_094)]]
@@ -190,20 +185,16 @@ Needs help with personal quest
 - See also:
 - Parallels
 - Connects to [Barghest Mpmm]]
-- Related: [[NPC01166_Gavril_Thornweave_the_Wanderer
-- Requires [Replacement Survivor Support Groups (D&D_References)]]
+- Related: [[Replacement Survivor Support Groups (D&D_References)]]
 - Originates from [[Location City Iron Rapids Fleetcurrent Iron Rapids Fleetcurrent.svg
 - Parallels [Portrait NPC Foreign Trader Captain Hassan Al Rimal V2 Foreign Trader Captain Hassan Al Rimal.svg]]
 - See also:
-- Related: [[downtime-activity-buying-a-magic-item-xge (variant-rules)
-- Compare with [Trade Minister Gale Goldwind]]
-- Parallels [[step_018 (phase_043)
-- Influences [MON00133_Constructs_Creature_134]]
+- Related: [[downtime-activity-buying-a-magic-item-xge (variant-rules)]]
+- Parallels [[MON00133_Constructs_Creature_134]]
 - Affected by
 - Originates from [[white-abishai-mpmm (fiend)
 - Originates from [staff-of-charming-xdmg (items)]]
-- Originates from [[Inventor Chief Adaptatio (D&D_References)
-- Parallels [step_075 (phase_038)]]
+- Originates from [[Inventor Chief Adaptatio (D&D_References)]]
 - Compare with [[Location City Keeper Thundercall V1 Keeper Thundercall.svg
 - Parallels [Keeper of the Past, Elderly Morgan 2]]
 - Parallels [[step_072 (phase_039)
@@ -249,12 +240,10 @@ Needs help with personal quest
 - Leads to [step_079 (phase_006)]]
 - Compare with [[Portrait NPC Lady Willow Greenbough Lady Willow Greenbough.svg
 - Related: [LOC00113_Wilderness_Location_114]]
-- Requires [[MON00022_Undead_Creature_23
-- Related: [step_061 (phase_090)]]
+- Requires [[MON00022_Undead_Creature_23]]
 - Related: [[LOC00249_Wilderness_Location_250
 - Influences [United Councils of Both Worlds 2]]
-- Connects to [[SPELL00159_Divine_Spell_160
-- Leads to [Crafting Transcendence]]
+- Connects to [[SPELL00159_Divine_Spell_160]]
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png

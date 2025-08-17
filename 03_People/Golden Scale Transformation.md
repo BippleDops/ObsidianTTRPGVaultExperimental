@@ -265,5 +265,4 @@ ___
 
 ## References
 
-- [[Aurelius Goldwave
-- [Aurelius Goldwave (D&D_Statblocks)]]
+- [[Aurelius Goldwave (D&D_Statblocks)]]

@@ -187,11 +187,8 @@ The Faction Reputation System tracks character standing with the major political
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## Related Notes - [[Similar Topic 1
-
-- [Contrasting Approach]]
-- [[Advanced Version
-- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
+- Connections to overarching campaign themes ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## Related Notes - [[Contrasting Approach]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

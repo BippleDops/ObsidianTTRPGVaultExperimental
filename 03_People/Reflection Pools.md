@@ -315,12 +315,9 @@ Legends speak of Reflection Pools as a nexus where past and present converge. Lo
 
 - [[Assets Locations Location City Dr Vera Spectrumseeker Dr Vera Spectrumseeker.svg
 - [Original Glaucus]]
-- [[Senator Glaucus
-- [Abyssos Prime]]
-- [[Reflection Pools - Surgical Theater
-- [The Reflection Pools]]
-- [[Aquabyssos - Session 03 - The Gallery Conspiracy
-- [Original Glaucus (D&D_References)]]
+- [[Senator Glaucus]]
+- [[Reflection Pools - Surgical Theater]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
 - [[Senator Glaucus (D&D_References)
 
 ## Connections
@@ -362,8 +359,7 @@ Legends speak of Reflection Pools as a nexus where past and present converge. Lo
 - Compare with [NPC01480_Vesper_Brightblade_the_Guardian]]
 - Requires [[LOC00005_Cities_Location_6
 - See also: [Time''s Mercy]]
-- Compare with [[The First Water (D&D_References)
-- Parallels [chicken-xdmg (items)]]
+- Compare with [[The First Water (D&D_References)]]
 - Connects to [[Creation Xphb
 - Related: [step_097 (phase_074)]]
 - Originates from [[giant-eagle-xmm
@@ -375,16 +371,12 @@ Legends speak of Reflection Pools as a nexus where past and present converge. Lo
 - Related: [[step_037 (phase_017)
 - Connects to [Creature Creature Maw Demon Mpmm V4 Maw Demon Mpmm.png]]
 - Affected by
-- Compare with [[NPC00013_Ysara_Crystalbrook_the_Broken
-- Related: [Law Enforcement 2]]
-- Leads to [[NPC00578_Vesper_Hawthorne_the_Wanderer
-- Leads to [Shadow_Conspiracy (02_Worldbuilding)]]
-- Leads to [[Surface Contact Prohibition 2
-- Parallels [missing-caravan.png]]
+- Compare with [[NPC00013_Ysara_Crystalbrook_the_Broken]]
+- Leads to [[NPC00578_Vesper_Hawthorne_the_Wanderer]]
+- Leads to [[Surface Contact Prohibition 2]]
 - Compare with [[LORE00108_Legends_Entry_109
 - Originates from [The Ancient Treants]]
-- Requires [[LOC00169_Cities_Location_170
-- Compare with [step_062 (phase_024)]]
+- Requires [[LOC00169_Cities_Location_170]]
 - Originates from [[Assets Locations Location City the Reflection Pools V1 the Reflection Pools.svg
 - Compare with
 - Related: [step_034 (phase_074)]]
@@ -392,8 +384,7 @@ Legends speak of Reflection Pools as a nexus where past and present converge. Lo
 - Requires [Location City the Purification Temples the Purification Temples.svg]]
 - Affected by [[step_077 (phase_019)
 - Influences [Bestiary]]
-- Originates from [[QUEST00221_Side_Quest_222
-- Leads to [NPC0104_Yorick_Goldleaf_the_Ancient]]
+- Originates from [[NPC0104_Yorick_Goldleaf_the_Ancient]]
 - Originates from [[step_031 (phase_038)
 - Requires [step_054 (phase_080)]]
 - See also: [[Boon of Combat Prowess Xphb
@@ -404,23 +395,19 @@ Legends speak of Reflection Pools as a nexus where past and present converge. Lo
 - Affected by [Barlgura Xmm]]
 - Related: [[Location City Anti Smuggling Operations V1 Anti Smuggling Operations.svg
 - See also: [Portrait NPC Abyssos Prime Government V2 Abyssos Prime Government.svg]]
-- Leads to [[LORE00122_Legends_Entry_123
-- Affected by [NPC00889_Fiora_Ravenheart_the_Mystic]]
-- Parallels [[QUEST00284_Side_Quest_285
-- See also: [Immunity Xphb]]
+- Leads to [[NPC00889_Fiora_Ravenheart_the_Mystic]]
+- Parallels [[QUEST00284_Side_Quest_285]]
 - Influences [[step_066 (phase_007)
 - Leads to [step_089 (phase_041)]]
 - Originates from [[LOC00189_Wilderness_Location_190
 - Compare with
 - Originates from [step_045 (phase_047)]]
-- Related: [[NPC01057_Pyria_Quicksilver_the_Scholar
-- Compare with [Swarm of Cranium Rats Mpmm]]
+- Related: [[NPC01057_Pyria_Quicksilver_the_Scholar]]
 - Affected by [[Captain Torrent Swiftcurrent (D&D_References)
 - Related:
 - Related:
 - Affected by [Gith Tables Githyanki Ideals Mtf]]
-- Connects to [[resistance-xphb (variant-rules)
-- Related: [step_094 (phase_054)]]
+- Connects to [[resistance-xphb (variant-rules)]]
 - Connects to [[MON00136_Undead_Creature_137
 - Originates from [Marcus Ledgerbor 2]]
 - See also: [[Location City Port Crystalfall Port Crystalfall.svg

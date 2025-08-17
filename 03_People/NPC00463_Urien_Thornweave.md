@@ -165,8 +165,7 @@ Family member has gone missing
 
 - Compare with [[Crab Xmm
 - See also: [EVENT00052_Political_Event_53]]
-- Leads to [[LOC00069_Planes_Location_70
-- See also: [step_056 (phase_008)]]
+- Leads to [[LOC00069_Planes_Location_70]]
 - Related: [[Living Citie
 - Requires [wizard-xphb-abjurer-xphb (classes)]]
 - Related: [[ITEM00662_Mithril_Chain_Mail_of_the_Guardian
@@ -176,10 +175,8 @@ Family member has gone missing
 - Originates from [flameskull-xmm (undead)]]
 - Parallels [[Grick Xmm
 - Affected by [step_021 (phase_041)]]
-- Affected by [[Celestial Gardens
-- Connects to [Democratic Legitimacy and Reform]]
-- Influences [[The Singing Shadows 2
-- See also: [MON00131_Constructs_Creature_132]]
+- Affected by [[Democratic Legitimacy and Reform]]
+- Influences [[MON00131_Constructs_Creature_132]]
 - See also: [[Assets Locations Location City the Umbral Nexus the Umbral Nexus.svg
 - Compare with [Military Commander]]
 - Influences [[List Spells Classes Great Old One Patron Xphb
@@ -188,8 +185,7 @@ Family member has gone missing
 - Requires
 - Affected by [Portrait NPC Shadow Broker Mist Shadow Broker Mist.svg]]
 - Parallels
-- Influences [[MON00075_Constructs_Creature_76
-- Affected by [The Slave Markets of Tethys (D&D_References)]]
+- Influences [[The Slave Markets of Tethys (D&D_References)]]
 - Influences [[The Broken Tower (D&D_References)
 - Parallels [The Sunken Library of Thalassius.md]]
 - See also:
@@ -201,14 +197,12 @@ Family member has gone missing
 - Connects to [Assets Locations Location City Crystal Engineer Spark Gemwright V1 Crystal Engineer Spark Gemwright.svg]]
 - Connects to [[Deep Mother Lore
 - Connects to [Assets Locations Location City Transformation Medicine Techniques V1 Transformation Medicine Techniques.svg]]
-- Affected by [[Events Dimensional Incursions
-- Related: [Travel Pace Phb]]
+- Affected by [[Events Dimensional Incursions]]
 - Parallels [[The Memory Wars (02_Worldbuilding)
 - Influences [War Machine Engineers]]
 - Requires [[LOC00185_Wilderness_Location_186
 - Connects to [Mountain Encounters Levels 14 Xge]]
-- Related: [[Quest - Parliamentary Infiltratio
-- Leads to [United Councils of Both Worlds]]
+- Related: [[Quest - Parliamentary Infiltratio]]
 - Connects to [[scholars-of-witherbloom-witherbloom-scholars-scc
 - See also: [Deep Sciences Research Institute]]
 - Requires [[celtic-dunatis (deities)
@@ -217,35 +211,29 @@ Family member has gone missing
 - Compare with [Assets Locations Location City Official Memory Keepers Official Memory Keepers.svg]]
 - Parallels [[Portrait NPC High Cultivist Jasper Lifebinder V2 High Cultivist Jasper Lifebinder.svg_1 (Portraits)
 - Parallels [step_034 (phase_071)]]
-- Influences [[Cross-Realm Travel Guidelines
-- Requires [NPC01288_Qadim_Oakenshield_the_Wanderer]]
+- Influences [[NPC01288_Qadim_Oakenshield_the_Wanderer]]
 - Affected by [[DUN00199_Dungeon_200
 - Originates from
 - Originates from [firenewt-warrior-mpmm (elemental)]]
 - Connects to [[Harbor Master Captain Dockwise 2
 - Originates from [Scene Scene Golden Trade Route Convoy V1 Golden Trade Route Convoy.svg]]
-- Related: [[NPC01178_Malakai_Winterborn_the_Bold
-- Originates from [Truth Compulsion Glass]]
+- Related: [[NPC01178_Malakai_Winterborn_the_Bold]]
 - Influences [[Assets Locations Location City the Perfect Symbiosis V1 the Perfect Symbiosis.svg
 - Influences [step_068 (phase_009)]]
-- Requires [[Quest - The Bio-Adaptation Crisis
-- Influences [Meta Bind Examples 2]]
-- Parallels [[step_051 (phase_089)
-- Connects to [Treasure_System - Pressure_Artifacts (D&D_References)]]
+- Requires [[Quest - The Bio-Adaptation Crisis]]
+- Parallels [[Treasure_System - Pressure_Artifacts (D&D_References)]]
 - See also: [[Major Surgeon Nightfall
 - Originates from [item-artifact-whelm-xdmg-v5-whelm-xdmg.png]]
 - Compare with [[SPELL00114_Nature_Spell_115
 - Originates from [Financial Crime Investigation 2]]
-- Parallels [[NPC00374_Rhiannon_Lightbringer
-- Parallels [step_045 (phase_054)]]
+- Parallels [[NPC00374_Rhiannon_Lightbringer]]
 - Parallels [[Location City the Free Current V1 the Free Current.svg
 - Originates from [International Law Enforcement]]
 - Requires [[trade-goods-phb
 - Influences [Lumengarde Republic]]
 - Leads to [[Assets Vehicles Vehicle Ship Storm Borne Battleship V2 Storm Borne Battleship.svg
 - Originates from [step_039 (phase_047)]]
-- Compare with [[step_047 (phase_061)
-- Requires [Ambassador Lysandra Silvertonge's Embassy (D&D_References)]]
+- Compare with [[Ambassador Lysandra Silvertonge's Embassy (D&D_References)]]
 - Connects to [[Claws of the Umber Hulk Pota
 - Parallels [FAC00007_Guilds_8]]
 - Originates from [[LORE00077_History_Entry_78

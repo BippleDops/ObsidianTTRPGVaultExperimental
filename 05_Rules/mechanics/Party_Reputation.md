@@ -86,4 +86,4 @@ improvements: 20
 
 ## References
 
-- [[Random Encounters]]
+- [[Random_Encounters]]

@@ -156,12 +156,9 @@ Has information about legendary item
 
 - Connects to [[step_022 (phase_076)
 - Parallels [step_005 (phase_090)]]
-- Leads to [[step_034 (phase_095)
-- Connects to [Ambush Point (D&D_Statblocks)]]
-- Compare with [[04 Places
-- See also: [SPELL00164_Nature_Spell_165]]
-- Compare with [[The Drowning Truth
-- Requires [NPC01081_Gavril_Hawthorne_the_Mystic]]
+- Leads to [[Ambush Point (D&D_Statblocks)]]
+- Compare with [[SPELL00164_Nature_Spell_165]]
+- Compare with [[NPC01081_Gavril_Hawthorne_the_Mystic]]
 - Compare with [[SHOP00019_Specialty_Shop_20
 - Requires [demilich]]
 - Connects to [[Coral Xdmg
@@ -170,10 +167,8 @@ Has information about legendary item
 - Leads to [SPELL0046_Infernal_Wave]]
 - Parallels [[Portrait NPC the Leviathan Prophets V2 the Leviathan Prophets.svg_1 (Portraits)
 - Requires [step_069 (phase_033)]]
-- Compare with [[step_080 (phase_087)
-- Influences [ENC00076_Combat_Encounter_77]]
-- Originates from [[LOC00260_Planes_Location_261
-- Affected by [step_086 (phase_020)]]
+- Compare with [[ENC00076_Combat_Encounter_77]]
+- Originates from [[LOC00260_Planes_Location_261]]
 - Parallels [[assign-hit-dice-hit-dice-by-size (tables)
 - Requires [step_096 (phase_074)]]
 - Leads to [[LOC00155_Dungeons_Location_156
@@ -189,16 +184,13 @@ Has information about legendary item
 - Connects to [step_072 (phase_064)]]
 - Originates from [[Ancient Crystaldeep 2
 - Related: [Hadal-Resistant Equipment]]
-- Influences [[NPC00284_Thalia_Winterborn_the_Broken
-- Originates from [step_008 (phase_092)]]
+- Influences [[NPC00284_Thalia_Winterborn_the_Broken]]
 - See also: [[step_082 (phase_082)
 - Leads to [Assets Locations Location City Shadow Current Shadow Current.svg]]
 - Originates from [[step_095 (phase_086)
 - Affected by [step_100 (phase_016)]]
-- See also: [[NPC00774_Drusilla_Frostwhisper_the_Risen
-- Connects to [The Iron Company 2]]
-- Compare with [[" + join(map(slice(rows, 0, 3), (row) => row.file.name), "
-- Originates from [The Memory Weavers 2]]
+- See also: [[NPC00774_Drusilla_Frostwhisper_the_Risen]]
+- Compare with [[" + join(map(slice(rows, 0, 3), (row) => row.file.name), "]]
 - Compare with [[LORE00056_Prophecies_Entry_57
 - Related: [FAC00090_Guilds_91]]
 - See also: [[4-spells (xanathars-guide-to-everything)
@@ -207,27 +199,21 @@ Has information about legendary item
 - Leads to [Potion of Animal Friendship Xdmg]]
 - Leads to [[step_076 (phase_005)
 - Leads to [sahuagin-baron-xmm]]
-- Affected by [[SPELL00135_Divine_Spell_136
-- See also: [LOC00175_Wilderness_Location_176]]
+- Affected by [[LOC00175_Wilderness_Location_176]]
 - Related: [[Assets Locations Location City Temple Scholar Depth Seer Temple Scholar Depth Seer.svg
 - Parallels [EVENT00083_Magical_Event_84]]
-- Leads to [[Shadow Honor System 2
-- Parallels [Quest - Medical Breakthrough]]
+- Leads to [[Quest - Medical Breakthrough]]
 - Originates from [[step_021 (phase_088)
 - See also: [The Opposition Leader 2]]
-- Compare with [[Cross-Realm Agricultural Exchang (D&D_References)
-- Influences [pipes-of-the-sewers-xdmg (items)]]
-- Connects to [[Economic Manipulation (D&D_References)
-- Related: [Professor Reef Growthseeker]]
+- Compare with [[Cross-Realm Agricultural Exchang (D&D_References)]]
+- Connects to [[Economic Manipulation (D&D_References)]]
 - Affected by [[DUN00062_Dungeon_63
 - Parallels
 - Parallels [VAULT_UPDATES]]
-- Parallels [[Reality Anchor Overrides
-- Parallels [NPC01143_Orion_Ravenheart_the_Risen]]
+- Parallels [[NPC01143_Orion_Ravenheart_the_Risen]]
 - Compare with [[LORE00139_Legends_Entry_140
 - Leads to [ioun-stone-absorption-xdmg (items)]]
-- Compare with [[step_069 (phase_088)
-- Related: [LOC00019_Cities_Location_20]]
+- Compare with [[LOC00019_Cities_Location_20]]
 - Requires [[step_028 (phase_084)
 - See also: [ITEM00529_Dragon_Scale_Cloak_of_Grace]]
 - Leads to [[Assets Locations Location City Song Merrytide Song Merrytide.svg
@@ -239,19 +225,16 @@ Has information about legendary item
 - Requires [monsters-by-habitat-grassland-monsters-xmm (tables)]]
 - Parallels [[Bloodtide Brotherhood
 - Compare with [step_055 (phase_006)]]
-- Compare with [[Identity Ancho
-- Leads to [wands-that-dont-recharge (variant-rules)]]
+- Compare with [[wands-that-dont-recharge (variant-rules)]]
 - Originates from [[step_053 (phase_009)
 - Connects to [LORE00213_Legends_Entry_214]]
-- Connects to [[SHOP00045_General_Shop_46
-- Connects to [Shadow Magistrate Umbrian Darkwise 2]]
+- Connects to [[Shadow Magistrate Umbrian Darkwise 2]]
 - Related: [[Assets Locations Location City Deep Studycurrent V1 Deep Studycurrent.svg
 - Requires [step_086 (phase_077)]]
 - Requires [[Assets Handouts Handout Handout Guild License Certificate V3 Guild License Certificate.png
 - Requires [Deep Prophecy 2]]
 - Compare with
-- Influences [[The Foreclosure Squad
-- Influences [Marcus Clausewright (D&D_References)]]
+- Influences [[Marcus Clausewright (D&D_References)]]
 - Originates from [[Animate Dead Xphb
 - Connects to [item-artifact-whelm-xdmg-v2-whelm-xdmg.png]]
 

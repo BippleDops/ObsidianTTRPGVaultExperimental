@@ -156,5 +156,4 @@ Things widely suspected
 
 ## References
 
-- [[Campaign_Relationship_Matrix
-- [Umbral Exchange]]
+- [[Campaign_Relationship_Matrix]]

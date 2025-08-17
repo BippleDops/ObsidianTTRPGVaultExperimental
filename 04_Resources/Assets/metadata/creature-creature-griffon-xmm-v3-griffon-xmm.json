@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Imagine a painterly styled concept art illustration in the format of a tabletop fantasy game. The scene portrays a muscular griffon-like creature, highlighting its unique limbs, set in a merged environment of underwater and sky. In this ethereal zone, human silhouettes swim alongside the griffon, illuminated by strategically placed bioluminescent accents. The materials evoke the pressure of underwater domes, and subsurface caustics add a touch of aquatic realism. The color palette sticks to teals, deep blues, sea-greens, with pearl highlights illuminating the scene. All clothing and gear are consistent with a grounded medieval fantasy aesthetic and devoid of any modern technology or signs. Numbered pins are preferred to signify important elements, avoiding random letters or symbols, and all the details must maintain a seamless flow suggestive of motion. The image stays clear of styles like sci-fi UI, modern signage, photoreal CGI, and anime, as well as effects like bloom glare.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-griffon-xmm-v3-griffon-xmm.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-griffon-xmm-v3-griffon-xmm.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:04:14.077Z",
+  "generationMethod": "ComfyUI"
 }

@@ -1,7 +1,7 @@
 ---
 tags: [misc]
 type: misc
-aliases: ["[[Session Checklist]]"]
+aliases: ["[[Session_Checklist]]"]
 ---
 
 # [[Session Prep]] Checklist

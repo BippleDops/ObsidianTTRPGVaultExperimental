@@ -171,15 +171,13 @@ Has map to lost treasure
 - Originates from [The Thorned Sanctuary]]
 - Parallels [[step_061 (phase_020)
 - Originates from [Quest - Sky Pirates 2]]
-- Leads to [[step_065 (phase_050)
-- Influences [Surface Contact Prohibition]]
+- Leads to [[Surface Contact Prohibition]]
 - Influences
 - Parallels [[voice-of-the-chain-master (optional-features)
 - Related: [Party Information]]
 - Requires [[ITEM00388_Blazing_Bow_of_Power
 - Originates from [Assets Locations Location City Pearlshell Pearlshell.svg]]
-- Requires [[Inverted Ballroom Wing - Party Quarters (D&D_References)
-- Affected by [Fey Nobilit]]
+- Requires [[Inverted Ballroom Wing - Party Quarters (D&D_References)]]
 - Affected by [[Beholder Zombie Xmm
 - Related: [Weather_Generator]]
 - Leads to [[DUN00110_Dungeon_111
@@ -193,23 +191,19 @@ Has map to lost treasure
 - Requires [Seraph Tidewhisper]]
 - See also: [[ITEM00678_Warded_Leather_of_Fortitude
 - Connects to [NPC01889_Thalia_Zephyrblade_the_Broken]]
-- Affected by [[step_071 (phase_059)
-- Compare with [ENC00058_Combat_Encounter_59]]
+- Affected by [[ENC00058_Combat_Encounter_59]]
 - Parallels [[Carrion Crawler Mucus Xdmg
 - Connects to [Cleric Xphb Tempest Domain]]
 - Affected by [[step_003 (phase_014)
 - Related:
 - Connects to [The Southern Trading Companies 2]]
-- Compare with [[QUEST00085_Main_Quest_86
-- Compare with [Vault_Self_Improvement_Engine (D&D_References)]]
+- Compare with [[Vault_Self_Improvement_Engine (D&D_References)]]
 - Requires [[step_015 (phase_007)
 - Influences [Navigator Flux]]
 - Leads to [[Location City Security Chief Wade Peacekeep Security Chief Wade Peacekeep.svg
 - Affected by [Creature Creature Salamander Xmm V3 Salamander Xmm.png]]
-- See also: [[Assets
-- Leads to [Impossibility Crystal]]
-- Compare with [[NPC00822_Baelor_Lightbringer_the_Mystic
-- Connects to [Clues_Discovered (02_Worldbuilding)]]
+- See also: [[Impossibility Crystal]]
+- Compare with [[NPC00822_Baelor_Lightbringer_the_Mystic]]
 - Compare with [[ITEM00165_Thunder_Hammer_of_Accuracy
 - Parallels [Acid Xphb]]
 - Compare with [[symbol-heraldry-bexley-v1-bexley.svg
@@ -220,17 +214,12 @@ Has map to lost treasure
 - Originates from [Shadow Binding Sanctum (D&D_References)]]
 - Requires [[Assets Locations Location City Royal Court Royal Court.svg
 - See also: [Item Catalo_1 (D&D_References)]]
-- Leads to [[Artificer
-- Influences [NPC01829_Ewan_Lightbringer_the_Risen]]
+- Leads to [[NPC01829_Ewan_Lightbringer_the_Risen]]
 - Compare with [[ENC0059_Random_Encounter_60
 - Related: [ITEM00294_Frost_Bow_of_Power]]
-- See also: [[The Divine Reconciliation (D&D_References)
-- See also: [FAC00076_Cults_77]]
-- Compare with [[Campaign Management Guide (D&D_References)
-- Influences [location-city-deepsteel-v1-deepsteel.svg]]
-- See also: [[Quest - The Deep Mother Awakens 2
-- Related:
-- Related: [Economic Systems and Currency (D&D_References)]]
+- See also: [[The Divine Reconciliation (D&D_References)]]
+- Compare with [[Campaign Management Guide (D&D_References)]]
+- See also: [[Economic Systems and Currency (D&D_References)]]
 - See also: [[ENC00274_Combat_Encounter_275
 - Connects to
 - Affected by [step_073 (phase_039)]]
@@ -241,8 +230,7 @@ Has map to lost treasure
 - Originates from [Assets Handouts Handout Handout Noble Writ with Wax Seal V2 Noble Writ with Wax Seal.png]]
 - Requires [[Chorus Master Melodia Depthsong 2
 - Requires [Location City Community Leaders V1 Community Leaders.svg]]
-- Requires [[step_055 (phase_036)
-- Parallels [Symbol Heraldry Inf... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Requires [[Symbol Heraldry Inf... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Affected by [[Location City Archdeacon Felix Faithkeeper Archdeacon Felix Faithkeeper.svg
 - Compare with [Portrait NPC Captain Sarah Ironheart V2 Captain Sarah Ironheart.svg]]
 - Connects to [[NPC01785_Aldric_Brightblade_the_Redeemed

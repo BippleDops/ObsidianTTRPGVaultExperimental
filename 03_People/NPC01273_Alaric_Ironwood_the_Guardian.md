@@ -175,10 +175,8 @@ Has information about legendary item
 - Parallels [Prince Aurelius Lumengarde 2]]
 - Related: [[step_062 (phase_093)
 - Influences [The Hiring Hall]]
-- See also: [[Storm Speakers
-- Compare with [ENC00068_Social_Encounter_69]]
-- Connects to [[Portrait NPC High... Related To: Local Political Structure Connected Plots: to Be Developed
-- Connects to [step_041 (phase_017)]]
+- See also: [[ENC00068_Social_Encounter_69]]
+- Connects to [[Portrait NPC High... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Compare with [[Void Spaces 2
 - Originates from [MUSIC_INDEX]]
 - See also: [[step_015 (phase_077)
@@ -213,16 +211,13 @@ Has information about legendary item
 - Connects to [[baphomet-mtf (legendary-group)
 - Requires [SHOP00015_Specialty_Shop_16]]
 - Requires
-- Influences [[Royal Physician Doctor Prism-Heart Matthias
-- Influences [step_015 (phase_058)]]
-- Leads to [[LOC00104_Cities_Location_105
-- Influences [step_086 (phase_041)]]
+- Influences [[Royal Physician Doctor Prism-Heart Matthias]]
+- Leads to [[LOC00104_Cities_Location_105]]
 - Related: [[Location City Scholar Thalosseus V1 Scholar Thalosseus.svg
 - Influences [step_032 (phase_073)]]
 - Leads to [[Lock Fragment 2
 - Affected by [Pixie Wonderbringer Xmm]]
-- Leads to [[ballista-xdmg (objects)
-- Requires [QUEST0075_The_Ancient_Artifact]]
+- Leads to [[QUEST0075_The_Ancient_Artifact]]
 - Parallels [[Location City Wealthy Goldcurrent Wealthy Goldcurrent.svg
 - Originates from [Inter-Realm Transportation]]
 - Affected by [[ITEM00993_Refined_Oil_of_Healing
@@ -241,18 +236,14 @@ Has information about legendary item
 - See also: [[Portrait NPC High King Aurelius Skyborn High King Aurelius Skyborn.svg_1 (Portraits)
 - Influences [step_005 (phase_077)]]
 - Leads to
-- Compare with [[Travel_and_Navigation_Reference
-- See also: [10 Combat#dropping to 0 Hit Points#monsters and Death]]
-- Influences [[Magic Item Table F
-- Affected by [SPELL00014_Arcane_Spell_15]]
+- Compare with [[Travel_and_Navigation_Reference]]
+- Influences [[SPELL00014_Arcane_Spell_15]]
 - Originates from [[Encounter_Builder (D&D_References)
 - Originates from [NPC01095_Delara_Goldleaf_the_Cunning]]
 - Affected by [[Crystal Xphb
 - Related: [Location City Diplomatic Immunity Diplomatic Immunity.svg]]
-- See also: [[Combat_Basics
-- Requires [MON00165_Undead_Creature_166]]
-- Influences [[step_077 (phase_058)
-- Related: [Memory Coherence Analyzer]]
+- See also: [[MON00165_Undead_Creature_166]]
+- Influences [[Memory Coherence Analyzer]]
 - See also:
 - Influences [[Staff of Charming Xdmg
 - Leads to [01_Adventures_The_Annual_Renewal]]

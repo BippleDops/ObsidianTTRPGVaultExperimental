@@ -167,8 +167,7 @@ Discovered something valuable
 
 ## Connections
 
-- Parallels [[step_037 (phase_015)
-- Requires [Doctor Harmony Whisperfall 2]]
+- Parallels [[Doctor Harmony Whisperfall 2]]
 - Parallels
 - Affected by [[Fount of Moonlight Xphb
 - Compare with [Symbol Heraldry Factional Conflicts Factional Conflicts.svg_1 (Symbols)]]
@@ -178,18 +177,14 @@ Discovered something valuable
 - Originates from [Portrait NPC Jasper Three Eyes Flint Jasper Three Eyes Flint.png]]
 - Connects to [[Location City the Trade Quarter the Trade Quarter.svg
 - See also: [step_068 (phase_060)]]
-- Leads to [[ENC00382_Combat_Encounter_383
-- Compare with [Angel of the Depths (D&D_References)]]
+- Leads to [[Angel of the Depths (D&D_References)]]
 - Affected by [[creature-creature-allip-mpmm-allip-mpmm.png
 - Requires [Lightstone Scanners]]
 - See also: [[Location City Ambassador Reed Treatymaker Ambassador Reed Treatymaker.svg
 - See also: [QUEST00065_Personal_Quest_66]]
-- Affected by [[step_064 (phase_006)
-- Parallels [QUEST00232_Personal_Quest_233]]
-- Leads to [[Studded Leather Armor Xphb
-- Parallels [Locations the Probability Engine]]
-- Influences [[System Operator Tide Watchwright (D&D_References)
-- Compare with [step_059 (phase_056)]]
+- Affected by [[QUEST00232_Personal_Quest_233]]
+- Leads to [[Locations the Probability Engine]]
+- Influences [[System Operator Tide Watchwright (D&D_References)]]
 - Requires [[Location Name (D&D_References)
 - Leads to [Location City the Primordial Vaults V1 the Primordial Vaults.svg]]
 - Connects to [[QUEST00245_Personal_Quest_246
@@ -209,8 +204,7 @@ Discovered something valuable
 - Originates from [Captain Nautilus Deepwatch]]
 - Compare with [[scroll-of-protection-beasts-xdmg (items)
 - Compare with [The Existence Planning Office]]
-- Related: [[The Shadow Integration Committee (D&D_References)
-- Parallels [SHOP00017_Specialty_Shop_18]]
+- Related: [[The Shadow Integration Committee (D&D_References)]]
 - Connects to [[Deep Mother Zealots (D&D_References)
 - Leads to [location-city-noble-quarter-noble-quarter.svg]]
 - Influences [[step_093 (phase_014)
@@ -230,27 +224,23 @@ Discovered something valuable
 - Affected by
 - See also: [[Recursion_Travel_System
 - Leads to [Master_Narrative_Web.md]]
-- Requires [[Crystal Cleansing Brotherhood 2
-- Related: [step_040 (phase_081)]]
+- Requires [[Crystal Cleansing Brotherhood 2]]
 - Parallels [[eberron-cults-of-the-dragon-below (deities)
 - Leads to [step_091 (phase_011)]]
 - Parallels [[Items - Items
 - Originates from [Object Armor Class]]
 - Originates from [[new-action-breath-weapon-mm (tables)
 - Influences [Location City International Trade Routes International Trade Routes.svg]]
-- Leads to [[NPC01816_Cedric_Jadeclaw_the_Strong
-- Influences [ENC00079_Combat_Encounter_80]]
+- Leads to [[NPC01816_Cedric_Jadeclaw_the_Strong]]
 - Affected by [[spell-gem-bloodstone-oota (items)
 - Leads to [LOC00210_Cities_Location_211]]
 - Affected by [[step_078 (phase_024)
 - Compare with [Crystal Markets]]
 - See also: [[02_Worldbuilding_Military_Combat_Healers_Quick_Ref
 - Connects to [hold-monster-xphb (spells)]]
-- Originates from [[NPC01969_Cedric_Ironforge_the_Lost
-- Affected by [QUEST00316_Side_Quest_317]]
+- Originates from [[NPC01969_Cedric_Ironforge_the_Lost]]
 - Related:
-- Affected by [[giant
-- Parallels [Noble Leisure Schedules (D&D_References)]]
+- Affected by [[Noble Leisure Schedules (D&D_References)]]
 - Originates from [[NPC0135_Petra_Darkwater
 - Compare with [Assets Portraits Portrait NPC Quest the Throne Succession Quest the Throne Succession.svg]]
 - Connects to [[Pressure Effects

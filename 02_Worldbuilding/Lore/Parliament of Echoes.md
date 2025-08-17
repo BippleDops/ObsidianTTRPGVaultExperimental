@@ -281,8 +281,7 @@ Mentioned in The Second Prophecy of Stars
 ## References
 
 - [Campaign_Relationship_Matrix]]
-- [[Quest - The Convergence Crisis
-- [Quest - The Truth Unveiled]]
+- [[Quest - The Convergence Crisis]]
 - [[Quest - The Truth Unveiled_1 (01_Adventures)
 - [Lord Vexton Shadowmere (Criminal_Organizations)]]
 - [[Party Shadows (Criminal_Organizations)
@@ -297,149 +296,78 @@ Mentioned in The Second Prophecy of Stars
 - [Parliament-of-Shadows-Campaign (Government_and_Parliament)]]
 - [[The Parliament of Nobody (Government_and_Parliament)
 - [Rewrite the World Order (Orders)]]
-- [[Abyssal Academy
-- [Ancient Aquabyssos Rulers]]
-- [[Aquabyssos Trade Seal
-- [Aurelius Goldwave]]
-- [[Consequence Chain 1 - Shadow Conspiracy Exposure
-- [Consequence Chain 3 Reality Merger Diplomatic Crisis]]
-- [[Customs House
-- [Great Drowning]]
+- [[Ancient Aquabyssos Rulers]]
+- [[Aquabyssos Trade Seal]]
+- [[Consequence Chain 3 Reality Merger Diplomatic Crisis]]
+- [[Great Drowning]]
 - [[Parliament_of_Echoes (02_Worldbuilding)
 - [The Crimson Hand]]
-- [[The Deep Prophecies
-- [The Deserter's Tale]]
-- [[The Emperor's Gambit
-- [The Festival of Rising Tides]]
-- [[The Final Choice
-- [The Forgetting Bomb]]
-- [[Timeline of the Drowning
-- [Harbor Master Luna Freedrift]]
-- [[Memory Harvester Kythara
-- [Original Glaucus]]
+- [[The Deep Prophecies]]
+- [[The Festival of Rising Tides]]
+- [[The Forgetting Bomb]]
+- [[Harbor Master Luna Freedrift]]
+- [[Memory Harvester Kythara]]
 - [[Senator Glaucus
 - [Shadow Conspiracy (People)]]
-- [[Surface Ambassador Lord Seaworthy
-- [The Scattered Emperor]]
-- [[Tribune Cassia Deepcurrent
-- [Abyssos Prime - Pressure Terminal]]
-- [[Abyssos Prime Docks
-- [Abyssos Prime Upper Districts]]
-- [[Abyssos Prime
-- [Angels and Depths]]
-- [[Azure Citadel
-- [Barkeep Mira Algaebrew]]
-- [[Bubble Burst
-- [Compass Quest]]
-- [[Doctor Coral Shapeshift
-- [Lord Reginald Seaworthy]]
-- [[Mad Oracle Thessaly
-- [Maelstrom Palace]]
-- [[Memory Farmers
-- [Mourning Depths]]
-- [[Parliament of Echoes - Public Gallery
-- [Port Meridian Harbor]]
-- [[Royal Palace
-- [Screaming Gardens]]
-- [[Senator's Private Chambers
-- [Shadow Merchant Riptide]]
-- [[Sister Morwyn
-- [Surface Tensions]]
-- [[The Depth Market
-- [The Eternal Senate]]
-- [[The Forgotten One
-- [The Foundation Depths]]
-- [[The Free Current
-- [The Gilded Shard]]
-- [[The Royal Palace
-- [The Shrinking Sanctuary]]
-- [[The Sinking Atoll
-- [Void Currents]]
-- [[Whisper-Touched William
-- [The Lock Saboteur]]
-- [[The Maw of Darkness
-- [Shadow Behavior Guidelines]]
-- [[The Shadow Conspiracy
-- [The Shadow Harvest]]
-- [[Aquabyssos World Map
-- [Abyssal Academy (D&D_References)]]
-- [[Abyssos Prime - Pressure Terminal (D&D_References)
-- [Abyssos Prime Docks (D&D_References)]]
-- [[Abyssos Prime Upper Districts (D&D_References)
-- [Ancient Aquabyssos Rulers (D&D_References)]]
-- [[Angels and Depths (D&D_References)
-- [Aquabyssos (D&D_References)]]
-- [[Aquabyssos - Session 05 - Descent into Darkness
-- [Aquabyssos - Session 06 - The Silhouette Surgeons]]
-- [[Aquabyssos Ambassadors
-- [Aquabyssos Trade Seal (D&D_References)]]
-- [[Azure Citadel (D&D_References)
-- [Barkeep Mira Algaebrew (D&D_References)]]
-- [[Bubble Burst (D&D_References)
-- [Compass Quest (D&D_References)]]
-- [[Consequence Chain 1 - Shadow Conspiracy Exposure (D&D_References)
-- [Consequence Chain 1 - Shadow Conspiracy Exposure 3 (D&D_References)]]
-- [[Consequence Chain 3 Reality Merger Diplomatic Crisis (D&D_References)
-- [Consequence Chain 3 Reality Merger]]
-- [[Customs House (D&D_References)
-- [Customs House 3 (D&D_References)]]
-- [[Discover Marina's Truth
-- [Doctor Coral Shapeshift (D&D_References)]]
-- [[Evidence Chain Analysis
-- [Lord Reginald Seaworthy (D&D_References)]]
-- [[Lord Vexton Shadowmere
-- [Mad Oracle Thessaly (D&D_References)]]
-- [[Mediator Serenity Stillwater
-- [Memory Farmers (D&D_References)]]
-- [[Mourning Depths (D&D_References)
-- [Original Glaucus (D&D_References)]]
-- [[Parliament-of-Shadows-Campaign
-- [Party Shadows]]
-- [[Port Meridian Harbor (D&D_References)
-- [Queen Seraphina (D&D_References)]]
-- [[Queen Seraphina 3 (D&D_References)
-- [Rewrite the World Order]]
-- [[Royal Palace (D&D_References)
-- [Screaming Gardens (D&D_References)]]
-- [[Senator Glaucus (D&D_References)
-- [Shadow Conspiracy (D&D_References)]]
-- [[Shadow Independence Levels
-- [Shadow Merchant Riptide (D&D_References)]]
-- [[Sister Morwyn (D&D_References)
-- [Surface Tensions (D&D_References)]]
-- [[System Cli Spells School Divination
-- [The Crimson Hand (D&D_References)]]
-- [[The Crimson Hand 3 (D&D_References)
-- [The Depth Market (D&D_References)]]
-- [[The Emperor's Gambit (D&D_References)
-- [The Eternal Senate (D&D_References)]]
-- [[The Festival of Rising Tides (D&D_References)
-- [The Final Choice (D&D_References)]]
-- [[The Final Choice 3 (D&D_References)
-- [The Forgetting Bomb (D&D_References)]]
-- [[The Forgotten One (D&D_References)
-- [The Free Current (D&D_References)]]
-- [[The Gilded Shard (D&D_References)
-- [The Parliament of Nobody]]
-- [[The Royal Palace (D&D_References)
-- [The Scattered Emperor (D&D_References)]]
-- [[The Senator's Last Stand
-- [The Shadow Duchess Duel]]
-- [[The Shrinking Sanctuary (D&D_References)
-- [The Sinking Atoll (D&D_References)]]
-- [[Timeline of the Drowning (D&D_References)
-- [Timeline of the Drowning 3 (D&D_References)]]
-- [[Tribune Cassia Deepcurrent (D&D_References)
-- [Void Currents (D&D_References)]]
-- [[Whisper-Touched William (D&D_References)
-- [Convergence Point Introduction]]
-- [[Convergence_Point_Introduction (D&D_Sourcebooks)
-- [Aquabyssos - Session 01 - The Drowning Welcome]]
-- [[Aurelius Goldwave (D&D_Statblocks)
-- [Diplomatic Tides (D&D_Statblocks)]]
-- [[Find the Grief Bomb (D&D_Statblocks)
-- [Memory Harvester Kythara (D&D_Statblocks)]]
-- [[Surface Ambassador Lord Seaworthy (D&D_Statblocks)
-- [The Foundation Depths (D&D_Statblocks)]]
-- [[The Lock Saboteur (D&D_Statblocks)
-- [The Maw of Darkness (D&D_Statblocks)]]
+- [[Surface Ambassador Lord Seaworthy]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Abyssos Prime Upper Districts]]
+- [[Angels and Depths]]
+- [[Barkeep Mira Algaebrew]]
+- [[Compass Quest]]
+- [[Lord Reginald Seaworthy]]
+- [[Mad Oracle Thessaly]]
+- [[Mourning Depths]]
+- [[Parliament of Echoes - Public Gallery]]
+- [[Screaming Gardens]]
+- [[Senator's Private Chambers]]
+- [[Surface Tensions]]
+- [[The Eternal Senate]]
+- [[The Foundation Depths]]
+- [[The Free Current]]
+- [[The Shrinking Sanctuary]]
+- [[The Sinking Atoll]]
+- [[Whisper-Touched William]]
+- [[Shadow Behavior Guidelines]]
+- [[The Shadow Conspiracy]]
+- [[Abyssal Academy (D&D_References)]]
+- [[Abyssos Prime - Pressure Terminal (D&D_References)]]
+- [[Abyssos Prime Upper Districts (D&D_References)]]
+- [[Angels and Depths (D&D_References)]]
+- [[Aquabyssos - Session 06 - The Silhouette Surgeons]]
+- [[Aquabyssos Trade Seal (D&D_References)]]
+- [[Barkeep Mira Algaebrew (D&D_References)]]
+- [[Compass Quest (D&D_References)]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure 3 (D&D_References)]]
+- [[Consequence Chain 3 Reality Merger Diplomatic Crisis (D&D_References)]]
+- [[Customs House 3 (D&D_References)]]
+- [[Doctor Coral Shapeshift (D&D_References)]]
+- [[Lord Reginald Seaworthy (D&D_References)]]
+- [[Mad Oracle Thessaly (D&D_References)]]
+- [[Memory Farmers (D&D_References)]]
+- [[Original Glaucus (D&D_References)]]
+- [[Parliament-of-Shadows-Campaign]]
+- [[Port Meridian Harbor (D&D_References)]]
+- [[Queen Seraphina 3 (D&D_References)]]
+- [[Screaming Gardens (D&D_References)]]
+- [[Shadow Conspiracy (D&D_References)]]
+- [[Shadow Merchant Riptide (D&D_References)]]
+- [[Surface Tensions (D&D_References)]]
+- [[System Cli Spells School Divination]]
+- [[The Crimson Hand 3 (D&D_References)]]
+- [[The Emperor's Gambit (D&D_References)]]
+- [[The Festival of Rising Tides (D&D_References)]]
+- [[The Forgetting Bomb (D&D_References)]]
+- [[The Forgotten One (D&D_References)]]
+- [[The Gilded Shard (D&D_References)]]
+- [[The Scattered Emperor (D&D_References)]]
+- [[The Senator's Last Stand]]
+- [[The Shrinking Sanctuary (D&D_References)]]
+- [[Timeline of the Drowning 3 (D&D_References)]]
+- [[Tribune Cassia Deepcurrent (D&D_References)]]
+- [[Whisper-Touched William (D&D_References)]]
+- [[Convergence_Point_Introduction (D&D_Sourcebooks)]]
+- [[Aurelius Goldwave (D&D_Statblocks)]]
+- [[Memory Harvester Kythara (D&D_Statblocks)]]
+- [[Surface Ambassador Lord Seaworthy (D&D_Statblocks)]]
+- [[The Maw of Darkness (D&D_Statblocks)]]

@@ -295,7 +295,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## References
 
-- [[Campaign_Relationship_Matrix
-- [Ancient Aquabyssos Rulers]]
-- [[Merchant Family Alliances
-- [The Tidecaller (Places)]]
+- [[Campaign_Relationship_Matrix]]
+- [[Merchant Family Alliances]]

@@ -1,7 +1,6 @@
 ---
 
-title: Creatures [[Void Entities
-type: [Lore]]
+title: Creatures [[Void Entities]]
 tags:
 - lore
 - active

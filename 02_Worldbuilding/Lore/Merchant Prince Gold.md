@@ -1,7 +1,6 @@
 ---
 
-title: [[Merchant Prince Gold
-type: [Lore]]
+title: [[Merchant Prince Gold]]
 tags:
 - lore
 - worldbuilding

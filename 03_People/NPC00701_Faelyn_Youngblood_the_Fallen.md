@@ -179,32 +179,24 @@ Family member has gone missing
 - Affected by [[ITEM00328_Shadow_Spear_of_the_Ancients
 - See also:
 - Connects to [step_100 (phase_026)]]
-- Compare with [[Marquis Aldwin Goldcurrent (D&D_References)
-- See also: [Captain Torren Stormwright (D&D_References)]]
-- Parallels [[LOC00027_Wilderness_Location_28
-- Originates from [Manifestation Chamber]]
+- Compare with [[Marquis Aldwin Goldcurrent (D&D_References)]]
+- Parallels [[LOC00027_Wilderness_Location_28]]
 - Leads to [[step_001 (phase_021)
 - Related: [Vehicle Ship Aether Sail Testbed V2 Aether Sail Testbed.svg]]
-- See also: [[conditions#Surprised
-- Leads to [Assets Locations Location City Memory Meadows Black Market V1 Memory Meadows Black Market.svg]]
+- See also: [[Conditions]]
 - See also: [[damage-types (CLI_Reference)
 - Related: [Korra Mindshield]]
 - Influences
-- Originates from [[Reality Monitoring Specialists
-- Influences [FAC00015_Guilds_16]]
-- Influences [[LOC00166_Towns_Location_167
-- Influences [Screaming Gardens - Songwood Grove 2]]
-- Compare with [[step_062 (phase_032)
-- Requires [QUEST00301_Side_Quest_302]]
+- Originates from [[Reality Monitoring Specialists]]
+- Influences [[Screaming Gardens - Songwood Grove 2]]
+- Compare with [[QUEST00301_Side_Quest_302]]
 - Requires [[Diplomatic Tides
 - Influences [Assets Item Artifact Windvane Pota V5 Windvane Pota.png]]
-- Originates from [[SPELL00139_Arcane_Spell_140
-- Compare with [Pilgrimage Master Depth Guide Melancholy]]
+- Originates from [[Pilgrimage Master Depth Guide Melancholy]]
 - See also:
 - Connects to [[LORE0056_Legend_of_the_First_King
 - Compare with [Biological Stabilization Unit]]
-- Connects to [[Dr. Tidal Depthhealer
-- Affected by [The Memory Coral Crown (D&D_References)]]
+- Connects to [[The Memory Coral Crown (D&D_References)]]
 - Related: [[NPC01052_Idris_Brightblade_the_Mystic
 - Originates from
 - Leads to [alchemy-jug-xdmg (items)]]
@@ -245,8 +237,7 @@ Family member has gone missing
 - Influences [Assets Portraits Portrait NPC the Leviathan Prophets the Leviathan Prophets.svg]]
 - See also: [[International Trade
 - Compare with [step_001 (phase_036)]]
-- Requires [[LORE00011_Legends_Entry_12
-- Requires [MON00087_Constructs_Creature_88]]
+- Requires [[MON00087_Constructs_Creature_88]]
 - Requires [[Future Glimpse Glass
 - Affected by [dungeons-dungeon-quirks-xdmg (tables)]]
 - Related: [[ITEM00379_Radiant_Crossbow_of_Slaying

@@ -71,17 +71,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-## Overview
-
-02_Worldbuilding represents a crucial aspect of the world's history, cosmology, or fundamental nature.
-
----
-
-*Last Updated: 2025-08-14 19:03*
-
-## [DM_Notes]]
+- Describe how this culture exists in other [[region]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -111,40 +101,25 @@ improvements: 20
 ## References
 
 - [Bookmark_Collections]]
-- [[LIFE_MANAGEMENT_SYSTEM
-- [Mobile_Dashboard]]
+- [[LIFE_MANAGEMENT_SYSTEM]]
 - [[Investigate Shadow Surgeons (Criminal_Organizations)
 - [Shadow Ambush - Optional (Criminal_Organizations)]]
 - [[Shadow Conspiracy Investigation (Criminal_Organizations)
 - [Establish New World Order (Orders)]]
 - [[Aethermoor Campaign Overview
 - [Aquabyssos Campaign Overview]]
-- [[Journey Board (Lore)
-- [Problems Time Stream Disruptions]]
-- [[The Forgetting Bomb
-- [The Queen]]
-- [[Keeper Elara Mindwell
-- [The Drowning Truth]]
-- [[The Great Drowning
-- [The Reflection Pools]]
-- [[The Sinking Atoll
-- [Shadow Conspiracy Investigation]]
-- [[Aethermoor - Session 01 Blood in the Harbor
-- [Crystal - Crystal_Resonanc]]
-- [[Crystal - Crystal_Resonance
-- [Investigate Shadow Surgeons]]
-- [[Purist Coalition (D&D_References)
-- [Shadow Ambush - Optional]]
-- [[System Cli Items Weapons
-- [System Cli Spells School Enchantment]]
-- [[System Cli Spells School Illusion
-- [The Forgetting Bomb (D&D_References)]]
-- [[The Queen 3 (D&D_References)
-- [Transformations - Crystal - Crystal Resonanc]]
-- [[Transformations - Crystal - Crystal Resonance
-- [World Bible Index]]
-- [[World_Bible_Index (D&D_References)
-- [Find the Grief Bomb (D&D_Statblocks)]]
-- [[The Drowning Truth (D&D_Statblocks)
-- [The Great Drowning (D&D_Statblocks)]]
+- [[Problems Time Stream Disruptions]]
+- [[The Forgetting Bomb]]
+- [[Keeper Elara Mindwell]]
+- [[The Reflection Pools]]
+- [[Shadow Conspiracy Investigation]]
+- [[Aethermoor - Session 01 Blood in the Harbor]]
+- [[Investigate Shadow Surgeons]]
+- [[Purist Coalition (D&D_References)]]
+- [[System Cli Spells School Enchantment]]
+- [[The Forgetting Bomb (D&D_References)]]
+- [[Transformations - Crystal - Crystal Resonanc]]
+- [[Transformations - Crystal - Crystal Resonance]]
+- [[Find the Grief Bomb (D&D_Statblocks)]]
+- [[The Drowning Truth (D&D_Statblocks)]]
 - [[The Reflection Pools (D&D_Statblocks)]]

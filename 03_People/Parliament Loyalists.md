@@ -288,5 +288,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [Assets Symbols Symbol Heraldry Vex Shadowthorn Boss Fight Vex Shadowthorn Boss Fight.png]]
 - [[Assets Symbols Symbol Heraldry the Shattering the Shattering.svg
 - [Senator]]
-- [[Assassin (D&D_Statblocks)
-- [Senator (D&D_Statblocks)]]
+- [[Assassin (D&D_Statblocks)]]

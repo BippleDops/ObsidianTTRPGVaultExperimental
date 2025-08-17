@@ -470,10 +470,8 @@ Adjust for party composition:
 ---
 
 ## See Also
-- [[Character_Bonds
-- [Groups]]
-- [[Party_Reputation
-- [GM Resource]]
+- [[Character_Bonds]]
+- [[Party_Reputation]]
 - [[Underwater_Adaptation_Rules]]
 
 *"The Party is not just who you adventure with—they're who you become."*
@@ -657,66 +655,37 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## References
 
-- [[Abyssal Academy
-- [Active NPCs]]
-- [[Infected NPC Database
-- [Investigation Procedures]]
+- [[Abyssal Academy]]
+- [[Investigation Procedures]]
 - [[Major NPCs
 - [NPC Voices (02_Worldbuilding)]]
 - [[Senator_Glaucus_Brain (People)
 - [Quarantine Enforcement]]
-- [[Quick NPC
-- [Random Encounters]]
-- [[Sky Burial Traditions
--
-- [The Grand Trade Routes]]
-- [[The Restoration Movement
-- [Underground Smuggling Networks]]
+- [[Random_Encounters]]
+- [[The Grand Trade Routes]]
+- [[Underground Smuggling Networks]]
 - [[Assets Symbols Symbol Heraldry Void Echo Silence Deafmake V1 Void Echo Silence Deafmake.svg
 - [Banking Lord Cornelius Coinwright]]
-- [[Oracle
-- [Abyssos Prime - Pressure Terminal]]
-- [[Captain Marcus
-- [Cathedral of Light]]
-- [[Crystal Cult Temples
-- [Crystal Plague Wards]]
-- [[Elder Matthias Stoneward
-- [Enchanter Valdris Peacewarden]]
-- [[Garden of Shadows
-- [Illyana Glowstream]]
-- [[Keeper Elara Mindwell
-- [Lord Reginald Seaworthy]]
-- [[Mad Bell-Ringer Thomas
-- [Madame Rosalind Goldleaf]]
-- [[Madame Whisper
-- [Memoriam - The Forgotten Continent]]
-- [[Memory Thief
-- [Merchant Delilah Currentrunner]]
-- [[Navigator Sage Driftwood
-- [Party Quarters - Inverse Palace]]
-- [[Port Meridian - Market Square
-- [Port Meridian Harbor]]
-- [[Screaming Gardens
-- [Shadow Market Canals]]
-- [[Supplier Erikson Tidecaller
-- [Surface Signals]]
-- [[Temporal Harvest
-- [The Crystal Wardens]]
-- [[The Drowning Truth
-- [The First Truth]]
-- [[The Forgotten One
-- [The Forgotten Representative]]
-- [[The Great Drowning
-- [The Infinite Garden]]
-- [[The Living Weapon
-- [The Memory Thief]]
-- [[The Reflection Pools
-- [The Seven Shards Mystery]]
-- [[Warden Marcus Stonehand
-- [The Crown's Burden]]
-- [[The Maw of Darkness
-- [The Tide Rises]]
-- [[The Whispering Expanse
-- [Banking Lord Cornelius Coinwright (D&D_References)]]
-- [[Senator_Glaucus_Brain (D&D_References)
-- [Oracle (D&D_Statblocks)]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Cathedral of Light]]
+- [[Crystal Plague Wards]]
+- [[Enchanter Valdris Peacewarden]]
+- [[Illyana Glowstream]]
+- [[Lord Reginald Seaworthy]]
+- [[Madame Rosalind Goldleaf]]
+- [[Memoriam - The Forgotten Continent]]
+- [[Merchant Delilah Currentrunner]]
+- [[Party Quarters - Inverse Palace]]
+- [[Port Meridian - Market Square]]
+- [[Shadow Market Canals]]
+- [[Supplier Erikson Tidecaller]]
+- [[The Crystal Wardens]]
+- [[The Drowning Truth]]
+- [[The Forgotten Representative]]
+- [[The Infinite Garden]]
+- [[The Living Weapon]]
+- [[The Seven Shards Mystery]]
+- [[Warden Marcus Stonehand]]
+- [[The Maw of Darkness]]
+- [[Banking Lord Cornelius Coinwright (D&D_References)]]
+- [[Senator_Glaucus_Brain (D&D_References)]]

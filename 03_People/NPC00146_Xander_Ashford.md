@@ -193,19 +193,14 @@ Wants rivals investigated
 - Parallels [FAC00009_Cults_10]]
 - Requires [[Handout Handout Tavern Bill of Fare Tavern Bill of Fare.png
 - Parallels [Quest - The Corruption Choice 2]]
-- Compare with [[Next Town B
-- Affected by [Royal Intelligence (D&D_References)]]
-- Leads to [[step_066 (phase_081)
-- Influences
-- Leads to [The Drowning Embrace (D&D_References)]]
-- Leads to [[Session 12 - Crystal Court Conspiracy
-- Connects to [mummy-lord-xmm]]
+- Compare with [[Royal Intelligence (D&D_References)]]
+- Leads to [[The Drowning Embrace (D&D_References)]]
+- Leads to [[Session 12 - Crystal Court Conspiracy]]
 - Parallels [[step_004 (phase_044)
 - Influences [Living Allianc]]
 - See also: [[Gulthias Staff Cos
 - Leads to [Save_Queen_Seraphina.png]]
-- Parallels [[4 Gith and Their Endless War
-- Related: [Audit Investigator Thomas Truthseeker]]
+- Parallels [[Audit Investigator Thomas Truthseeker]]
 - Related: [[Forge Master Korax Hammerdeep
 - Compare with [Location City Archdruid Marina Kelpweaver V1 Archdruid Marina Kelpweaver.svg]]
 - Connects to [[step_053 (phase_086)
@@ -218,57 +213,45 @@ Wants rivals investigated
 - Parallels [quandrix-student-scc (backgrounds)]]
 - Parallels [[SPELL00016_Nature_Spell_17
 - Parallels [Halfling Brandobaris Mtf]]
-- Originates from [[step_056 (phase_093)
-- Leads to [NPC01622_Lyanna_Emberfall_the_Seeker]]
-- Requires [[step_040 (phase_033)
-- Connects to [LOC00093_Wilderness_Location_94]]
-- Originates from [[step_051 (phase_056)
-- Connects to [QUEST0048_The_Crystal_Cave_Plague]]
+- Originates from [[NPC01622_Lyanna_Emberfall_the_Seeker]]
+- Requires [[LOC00093_Wilderness_Location_94]]
+- Originates from [[QUEST0048_The_Crystal_Cave_Plague]]
 - Originates from [[QUEST0076_Infiltrate_the_Demons
 - Compare with [ITEM00963_Greater_Crystal_of_Fortune]]
-- Influences [[Marine Druids
-- Requires [Economic Planning (D&D_References)]]
+- Influences [[Economic Planning (D&D_References)]]
 - Influences [[Assets Locations Location City Merchant Prince Akula V1 Merchant Prince Akula.png
 - Related: [Item Artifact Enspelled Armor Level 7 Xdmg V4 Enspelled Armor Level 7 Xdmg.png]]
 - Influences
 - Compare with [[Assets Locations Location City Maritime Commerce V1 Maritime Commerce.svg
 - See also: [step_039 (phase_019)]]
-- Related: [[lesser-restoration-xphb (spells)
-- Requires [NPC00822_Baelor_Lightbringer_the_Mystic]]
+- Related: [[NPC00822_Baelor_Lightbringer_the_Mystic]]
 - See also: [[Adventuring Gear Container Capacity Phb
 - Related: [step_074 (phase_015)]]
-- See also: [[ITEM0051_Divine_Pendant_of_Power
-- Originates from [Portable Hole Xdmg]]
+- See also: [[ITEM0051_Divine_Pendant_of_Power]]
 - Parallels [[secondary-tables-tragedies-xge (tables)
 - Originates from [Assets Locations Location City Adult Education Programs Adult Education Programs.svg]]
 - Compare with [[step_071 (phase_042)
 - Compare with [Vehicle Ship Trench Lantern Surveyor Trench Lantern Surveyor.svg]]
 - Parallels [[NPC01235_Lyanna_Goldleaf_the_Strong
 - Compare with [Portrait NPC Abyssos Prime Parliament of Echoes V2 Abyssos Prime Parliament of Echoes.svg_1 (Portraits)]]
-- See also: [[The Seasonal Courts
-- Leads to [The Cerulean Trench (D&D_References)]]
+- See also: [[The Cerulean Trench (D&D_References)]]
 - Originates from [[Silverquill Student Scc
 - Affected by [ITEM00973_Concentrated_Powder_of_Swiftness]]
 - Parallels
-- Parallels [[QUEST00227_Side_Quest_228
-- Related: [MON00097_Aberrations_Creature_98]]
+- Parallels [[MON00097_Aberrations_Creature_98]]
 - Parallels [[skill-expert-xphb (feats)
 - Compare with [skills#Medicine]]
 - Affected by [[step_052 (phase_010)
 - Parallels [Assets Locations Location City Surface Traders V1 Surface Traders.svg]]
 - Connects to
-- Influences [[step_020 (phase_049)
-- Requires [LOC00098_Cities_Location_99]]
+- Influences [[LOC00098_Cities_Location_99]]
 - Compare with [[02_Worldbuilding_Groups_Environmental_Engineers_Guild
 - Related: [greyhawk-trithereon-xdmg (deities)]]
 - Related: [[step_023 (phase_043)
 - Influences [Order of the Sunken Crown]]
 - Affected by [[Assets Art Screaming Gardens Songwood Grove.png
 - Related: [List Spells Optional Features Flames of the]]
-- Parallels [[item types#Heavy%20Armor
-
-## Visual References
-![03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
+- Parallels [[Item Types]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png
 ![03_People/portrait_duke_alexander_tidecrest_friendly.png]]
 

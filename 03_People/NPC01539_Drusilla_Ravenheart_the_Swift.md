@@ -177,16 +177,12 @@ Knows secret about major threat
 - Compare with
 - Influences [[portrait-npc-duke-hadal-v1-duke-hadal.svg
 - See also: [Assets Portraits Portrait NPC Captain Thaddeus Blackwater Captain Thaddeus Blackwater.svg]]
-- Leads to [[Astrologer Prime Cassandra Starweaver
-- Requires [norse-thrym (deities)]]
+- Leads to [[Astrologer Prime Cassandra Starweaver]]
 - Affected by [[druid-xphb-circle-of-the-stars-xphb (classes)
 - Related: [Portrait NPC the Parasite Priests the Parasite Priests.svg]]
-- Originates from [[ITEM0104_Ancient_Gauntlet_of_the_Dawn
-- Originates from [step_076 (phase_075)]]
-- See also: [[SPELL00046_Arcane_Spell_47
-- Parallels [step_076 (phase_052)]]
-- Requires [[NPC0054_Osric_Ironforge_the_Just
-- See also: [poison-spray-xphb (spells)]]
+- Originates from [[ITEM0104_Ancient_Gauntlet_of_the_Dawn]]
+- See also: [[SPELL00046_Arcane_Spell_47]]
+- Requires [[NPC0054_Osric_Ironforge_the_Just]]
 - Parallels [[step_060 (phase_020)
 - See also: [location-city-electric-eel-v1-electric-eel.svg]]
 - Influences [[spell-scroll-xdmg (items)
@@ -199,8 +195,7 @@ Knows secret about major threat
 - Requires [Architect Temporal Wisdom 2]]
 - Originates from [[ITEM00823_Celestial_Scepter_of_Eternity
 - Requires [green-dragon-scale-mail-xdmg (items)]]
-- Requires [[Reality_Anchor_Syndrome
-- Connects to [Soldier Xphb]]
+- Requires [[Reality_Anchor_Syndrome]]
 - Compare with [[step_002 (phase_054)
 - See also: [Guardian of Faith Xphb]]
 - Related: [[The Future Seer (D&D_References)
@@ -219,22 +214,17 @@ Knows secret about major threat
 - Leads to [step_057 (phase_075)]]
 - Compare with [[Symbol Heraldry Salvage Master Ironwork Salvage Master Ironwork.svg
 - Requires [gith-names-githzerai-male-mtf (tables)]]
-- Affected by [[Quest - The Successor's Burden
-- Related: [Leucrotta Mpmm]]
+- Affected by [[Quest - The Successor's Burden]]
 - Compare with [[List Spells Classes Fey Wanderer Xphb
 - Affected by [step_094 (phase_076)]]
-- See also: [[Aethermoor to Aquabyssos Transition Guide
-- Compare with [Great Temporal War]]
-- Related: [[Anti-Religious Philosophical Arguments (D&D_References)
-- Connects to [potion-of-speed-xdmg (items)]]
+- See also: [[Aethermoor to Aquabyssos Transition Guide]]
+- Related: [[Anti-Religious Philosophical Arguments (D&D_References)]]
 - Requires [[Location City Port Facilities V1 Port Facilities.svg
 - Affected by [Confront the Possessed Queen (Lore)]]
 - Parallels [[step_084 (phase_097)
 - Influences [NPC0100_Ulric_Goldleaf]]
-- Requires [[Senator Economic Shadow (D&D_References)
-- Requires [layers-of-elysium-xdmg (tables)]]
-- Connects to [[Glaive Xphb
-- Connects to [LOC00085_Towns_Location_86]]
+- Requires [[Senator Economic Shadow (D&D_References)]]
+- Connects to [[LOC00085_Towns_Location_86]]
 - Influences [[EVENT00003_Magical_Event_4
 - Parallels [step_018 (phase_007)]]
 - Leads to [[Quest - Missing Shipments
@@ -254,8 +244,7 @@ Knows secret about major threat
 - Requires [Portrait NPC Captain Guard Peacehold Captain Guard Peacehold.svg]]
 - Parallels [[Parliament of Shadows Player Guide.md
 - Influences [Milestone_Tracker]]
-- Leads to [[step_082 (phase_091)
-- See also: [Public Works Director Boris Bridgewright 2]]
+- Leads to [[Public Works Director Boris Bridgewright 2]]
 - Leads to [[Supplemental Tables Occupation Xge
 - Leads to [Portrait NPC Banking Lord Cornelius Coinwright Banking Lord Cornelius Coinwright.svg]]
 - Requires
@@ -268,8 +257,7 @@ Knows secret about major threat
 - Influences [Magic Item Special Features Magic Items]]
 - Requires [[LORE00050_History_Entry_51
 - Originates from [dark-gift-of-tarakamedes-the-grave-wyrm-cos (rewards)]]
-- Requires [[Biomancer Corvus Intestinal (D&D_References)
-- Compare with [step_037 (phase_062)]]
+- Requires [[Biomancer Corvus Intestinal (D&D_References)]]
 - Related:
 - Requires [[Scroll of Titan Summoning Empyrean Xdmg
 

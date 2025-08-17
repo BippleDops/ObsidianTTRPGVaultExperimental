@@ -130,11 +130,8 @@ Background features can be customized to better fit your character's story while
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes ## Plot Hooks - Someone is hunting information for power
 
-- Strange sightings suggest a curse ## Related Notes - [[Similar Topic 1
-
-- [Contrasting Approach]]
-- [[Advanced Version
-- [Historical Context]]
+- Strange sightings suggest a curse ## Related Notes - [[Contrasting Approach]]
+- [[Historical Context]]
 
 ## Notes
 

@@ -30,12 +30,8 @@ Further information about this topic will be developed as the campaign progresse
 ## References
 
 - [Cure Component Locations]]
-- [[Location Name (Lore)
-- [Abyssos Prime Docks]]
-- [[Blood Current Express
-- [Mourning Depths]]
-- [[Pressure Terminal
-- [Royal Palace]]
-- [[The Depth Market
-- [The Sinking Atoll]]
+- [[Abyssos Prime Docks]]
+- [[Blood Current Express]]
+- [[Pressure Terminal]]
+- [[The Sinking Atoll]]
 - [[The Maw of Darkness]]

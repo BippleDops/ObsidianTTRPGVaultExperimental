@@ -164,14 +164,11 @@ Has map to lost treasure
 - Influences [ITEM00177_Frost_Hammer_of_Accuracy]]
 - Originates from [[ENC00153_Environmental_Encounter_154
 - Influences [location-city-neutrality-laws-neutrality-laws.svg]]
-- Compare with [[LOC00123_Planes_Location_124
-- Compare with [step_091 (phase_005)]]
+- Compare with [[LOC00123_Planes_Location_124]]
 - See also: [[Festival Artisans Guild
 - Compare with [Assets Locations Location City Chronomancer Paradox Chronomancer Paradox.svg]]
-- Compare with [[Pre-Submersion_Ruins.png
-- Parallels [The Stolen Anvil (D&D_References)]]
-- Related: [[step_038 (phase_082)
-- Connects to [LOC00266_Wilderness_Location_267]]
+- Compare with [[The Stolen Anvil (D&D_References)]]
+- Related: [[LOC00266_Wilderness_Location_267]]
 - Connects to [[step_038 (phase_018)
 - Affected by [The Crystal Festival 2]]
 - See also: [[Frost Giant Everlasting One Mpmm
@@ -179,8 +176,7 @@ Has map to lost treasure
 - Connects to [[lower-class-carousing-complications-xge (tables)
 - Compare with
 - Parallels [Dragonborn Xphb]]
-- Related: [[Wind Song Traditions 2
-- Influences [ENC00072_Combat_Encounter_73]]
+- Related: [[ENC00072_Combat_Encounter_73]]
 - Connects to [[Dawn War Kord Dmg
 - Parallels
 - Affected by [Dungeoneers Pack Xphb]]
@@ -194,8 +190,7 @@ Has map to lost treasure
 - Originates from [`dice: `dice: 1d100``]]
 - See also: [[enspelled-staff-level-6-xdmg (items)
 - Parallels [The Masked Broker 2]]
-- Connects to [[Healer Dawnshade (D&D_References)
-- Connects to [Merchant Prince Vortex 2]]
+- Connects to [[Healer Dawnshade (D&D_References)]]
 - See also: [[DUN00053_Dungeon_54
 - Parallels
 - Related: [Representative Coral Steadfast]]
@@ -222,41 +217,29 @@ Has map to lost treasure
 - Affected by [step_039 (phase_018)]]
 - Affected by [[Assets Portraits Portrait NPC Blood in the Water Blood in the Water.svg
 - Affected by [LORE00249_History_Entry_250]]
-- Connects to [[LORE0069_Secret_of_the_Hero's_Sacrifice
-- Related: [step_078 (phase_019)]]
-- Parallels [[Jackal Xmm
-- See also: [LOC00128_Wilderness_Location_129]]
+- Connects to [[LORE0069_Secret_of_the_Hero's_Sacrifice]]
+- Parallels [[LOC00128_Wilderness_Location_129]]
 - See also: [[location-city-wave-merchant-v1-wave-merchant.svg
 - Influences
 - Connects to [step_009 (phase_046)]]
-- Affected by [[Current Rider Captain Crimson Velocity (D&D_References)
-- Compare with [Construct Spirit Clay Xphb]]
-- Connects to [[step_091 (phase_033)
-- See also: [High Treasurer Crystal-Count Morgan]]
-- Influences [[Keeper of the Dead, Sister Morwyn
-- Compare with [Halberd Xphb]]
-- Related: [[Goldwhisper Manor 2
-- See also: [NPC00707_Fiora_Oakenshield_the_Seeker]]
-- Requires [[Corrupted Government Reflections
-- Compare with [step_011 (phase_099)]]
-- Parallels [[LOC00123_Dungeons_Location_124
-- Parallels [LOC0029_Groveford]]
-- Related: [[Downtime Activity Building a Stronghold
-- Requires [LORE00271_Legends_Entry_272]]
+- Affected by [[Current Rider Captain Crimson Velocity (D&D_References)]]
+- Connects to [[High Treasurer Crystal-Count Morgan]]
+- Influences [[Keeper of the Dead, Sister Morwyn]]
+- Related: [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- Requires [[Corrupted Government Reflections]]
+- Parallels [[LOC00123_Dungeons_Location_124]]
+- Related: [[Downtime Activity Building a Stronghold]]
 - Affected by [[step_021 (phase_079)
 - Originates from [Link Integrity Report]]
-- See also: [[LOC00200_Cities_Location_201
-- See also: [step_099 (phase_084)]]
+- See also: [[LOC00200_Cities_Location_201]]
 - Parallels [[brown-bear-xmm (beast)
 - Affected by [The Dimensional Hospital 2]]
 - Requires [[#Hubs
 - Requires [step_031 (phase_038)]]
 - Compare with [[Detailed Life Sized Dragonborn Skull Cast in
 - Leads to [Assets Locations Location City Wave Friendlyserve Wave Friendlyserve.svg]]
-- Compare with [[Comprehensive-World-Connection-Guide
-- Parallels [DUN00085_Dungeon_86]]
-- Originates from [[NPC00295_Jorah_Silverleaf
-- Requires [Merger Transit Zones]]
+- Compare with [[Comprehensive-World-Connection-Guide]]
+- Originates from [[NPC00295_Jorah_Silverleaf]]
 - Originates from [[QUEST00484_Side_Quest_485
 - Connects to [Quest - The Currency War]]
 - Requires [[LORE00110_Prophecies_Entry_111]]

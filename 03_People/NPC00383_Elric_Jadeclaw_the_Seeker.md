@@ -164,8 +164,7 @@ Seeks bodyguards for dangerous journey
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -184,15 +183,13 @@ Seeks bodyguards for dangerous journey
 - Leads to [step_002 (phase_085)]]
 - Leads to [[forgotten-realms-mystra (deities)
 - Compare with [Cloud Shepherd Guild Customs]]
-- Leads to [[The Perfect Symbiosis (D&D_References)
-- Influences [QUEST00413_Side_Quest_414]]
+- Leads to [[The Perfect Symbiosis (D&D_References)]]
 - Requires [[04_Resources_Assets_Portraits_portrait-npc-memory-harvester-kythara-v2-memory-harvester-kythara.svg
 - See also: [LORE00324_Prophecies_Entry_325]]
 - Related:
 - Parallels [[armor-of-force-resistance-xdmg (items)
 - Leads to [Bheur Hag Mpmm]]
-- Affected by [[Deep Current Academy
-- Connects to [Depth Raider (D&D_References)]]
+- Affected by [[Depth Raider (D&D_References)]]
 - Compare with [[NPC0172_Magnus_Brightblade
 - Affected by [Coming-of-Age_Traditions_and_Ceremonies (02_Worldbuilding)]]
 - Affected by [[step_045 (phase_100)
@@ -208,8 +205,7 @@ Seeks bodyguards for dangerous journey
 - Connects to
 - Leads to [[step_026 (phase_061)
 - Leads to [The Reality Laboratory]]
-- Influences [[LOC00079_Towns_Location_80
-- See also: [Abyssal Architecture (D&D_References)]]
+- Influences [[Abyssal Architecture (D&D_References)]]
 - Parallels [[Deep Priest Covet
 - Requires [Physical Variations Yuan Ti Humanoid Skin Color Vgm]]
 - Compare with [[Location City Crisis Management Crisis Management.svg
@@ -222,12 +218,9 @@ Seeks bodyguards for dangerous journey
 - Affected by
 - Compare with
 - Influences [NPC01084_Xander_Silverleaf_the_Strong]]
-- See also: [[1-introduction (monster-manual-2014)
-- Requires [LOC00277_Towns_Location_278]]
-- Requires [[The Unity Seeds
-- Leads to [Crystal Storm Barriers (D&D_References)]]
-- Requires [[NPC01160_Hestara_Frostwhisper_the_Fallen
-- Requires [THIRTY_THOUSAND_IMPROVEMENTS_ACHIEVED]]
+- See also: [[1-introduction (monster-manual-2014)]]
+- Requires [[Crystal Storm Barriers (D&D_References)]]
+- Requires [[NPC01160_Hestara_Frostwhisper_the_Fallen]]
 - Parallels [[Tax Commissioner Merion Goldcount (D&D_References)
 - Compare with [Location City Reality Stabilization Centers V1 Reality Stabilization Centers.svg]]
 - Affected by [[Greyhawk St Cuthbert
@@ -244,34 +237,27 @@ Seeks bodyguards for dangerous journey
 - Connects to [Iron Jack Shadowhand]]
 - Originates from [[step_002 (phase_072)
 - Affected by [The Shadow Duchess Duel]]
-- See also: [[Biomancer Corvus Intestinal
-- Leads to [Chancellor Marcus Provinces (D&D_References)]]
+- See also: [[Chancellor Marcus Provinces (D&D_References)]]
 - Connects to [[Shortsword Xphb
 - Related: [LORE00031_History_Entry_32]]
 - Originates from [[step_037 (phase_038)
 - Compare with [Symbol Heraldry the Contemplation Abyss the Contemplation Abyss.svg]]
-- Originates from [[step_073 (phase_079)
-- Connects to [NPC01390_Aeliana_Ironwood_the_Bold]]
+- Originates from [[NPC01390_Aeliana_Ironwood_the_Bold]]
 - Connects to
-- Compare with [[step_075 (phase_030)
-- Originates from [Regional Coordinator Abyss Lightkeeper]]
-- Requires [[NPC00956_Erasmus_Proudmore_the_Wanderer
-- Compare with [Clues_by_Location.png]]
+- Compare with [[Regional Coordinator Abyss Lightkeeper]]
+- Requires [[NPC00956_Erasmus_Proudmore_the_Wanderer]]
 - Requires [[Surface Breach Points (D&D_References)
 - Influences [Map Map Sunken Library Stacks V2 Sunken Library Stacks.svg]]
-- Influences [[Shadow Trackhound (D&D_References)
-- Leads to [Giant Fly Dmg]]
+- Influences [[Shadow Trackhound (D&D_References)]]
 - See also: [[step_061 (phase_052)
 - Compare with [LOC00019_Cities_Location_20]]
 - Parallels [[Enterprise Director Duskwork 2
 - Requires
 - Requires [QUEST00218_Personal_Quest_219]]
-- Affected by [[Magistrate Aldric Lawquill
-- Leads to [step_032 (phase_015)]]
+- Affected by [[Magistrate Aldric Lawquill]]
 - Parallels [[Topic Matrix
 - Leads to [step_014 (phase_081)]]
-- Influences [[Shield Xphb
-- Requires [The Sacred Pearl Beds 2]]
+- Influences [[The Sacred Pearl Beds 2]]
 - Influences [[The Vigil Gardens
 - Influences [Session_Recaps]]
 - Related: [[The Sorrow Gardens

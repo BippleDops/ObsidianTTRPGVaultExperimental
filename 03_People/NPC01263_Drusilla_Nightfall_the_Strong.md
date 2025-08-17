@@ -171,14 +171,11 @@ Has information about legendary item
 
 ## Connections
 
-- Connects to [[Honor-Based Conflict Resolution
-- Related: [yuan-ti-malison-type-5-vgm]]
-- Affected by [[step_032 (phase_070)
-- Requires [QUEST00094_Personal_Quest_95]]
+- Connects to [[Honor-Based Conflict Resolution]]
+- Affected by [[QUEST00094_Personal_Quest_95]]
 - Compare with [[Portrait NPC Duke Gale Vortex V1 Duke Gale Vortex.svg
 - Originates from [Craftmaster Engineer Gearwhispe (D&D_References)]]
-- Leads to [[step_029 (phase_055)
-- Connects to [Commercial Dispute Resolution Procedures (D&D_References)]]
+- Leads to [[Commercial Dispute Resolution Procedures (D&D_References)]]
 - Connects to [[ITEM00247_Blazing_Staff_of_Power
 - See also: [Port Meridian 2]]
 - Originates from
@@ -190,8 +187,7 @@ Has information about legendary item
 - Parallels [step_036 (phase_016)]]
 - Related: [[ITEM00685_Fortified_Plate_of_the_Guardian
 - Connects to [Mad_Prophet_Silas_the_Depth-Touched.png]]
-- Parallels [[Ocean Pantheon
-- Connects to [QUEST0032_In_Search_of_Peace]]
+- Parallels [[QUEST0032_In_Search_of_Peace]]
 - Parallels [[ENC0003_Random_Encounter_4
 - Compare with [step_006 (phase_057)]]
 - See also: [[LOC00251_Wilderness_Location_252
@@ -203,16 +199,13 @@ Has information about legendary item
 - Influences [Consequence_Chain_Name_1 (02_Worldbuilding)]]
 - Parallels [[step_088 (phase_010)
 - Leads to [Portrait NPC Sister Thalassa the Depth Touched Sister Thalassa the Depth Touched.svg]]
-- Requires [[Crystal Agricultural Research Institute (Groups)
-- Leads to [sprite-xmm (fey)]]
-- Connects to [[LOC00149_Wilderness_Location_150
-- Related: [Merchant Prince Akula 2]]
+- Requires [[Crystal Agricultural Research Institute]]
+- Connects to [[LOC00149_Wilderness_Location_150]]
 - Connects to [[Location City Current Peacefulflow V1 Current Peacefulflow.svg
 - Related: [step_082 (phase_036)]]
 - Related: [[Economic Planning 2
 - Connects to [Assets Locations Location City Courier Ripplestone V1 Courier Ripplestone.svg]]
-- Parallels [[NPC01242_Ewan_Keenblade_the_Broken
-- Leads to [Diplomatic Service 2]]
+- Parallels [[NPC01242_Ewan_Keenblade_the_Broken]]
 - Influences [[Master Curator Pearl Artflow (D&D_References)
 - See also: [Portrait NPC the Bloodline Carrier V2 the Bloodline Carrier.svg_1 (Portraits)]]
 - Parallels [[step_050 (phase_027)
@@ -223,8 +216,7 @@ Has information about legendary item
 - Influences [step_088 (phase_050)]]
 - Connects to [[Quaggoth Thonot Xmm
 - Affected by [Portrait NPC Underground Testing Facility V2 Underground Testing Facility.svg_1 (Portraits)]]
-- Leads to [[NPC00745_Urien_Ravenheart_the_Cunning
-- Connects to [ENC00480_Combat_Encounter_481]]
+- Leads to [[NPC00745_Urien_Ravenheart_the_Cunning]]
 - Originates from [[Archbishop Mordecai Stormwright
 - Compare with
 - Originates from [LOC00000_Wilderness_Location_1]]
@@ -237,12 +229,10 @@ Has information about legendary item
 - Leads to [Face the Ancient Threat (Lore)]]
 - Influences [[DUN00197_Dungeon_198
 - Connects to [step_080 (phase_068)]]
-- Parallels [[step_096 (phase_085)
-- Leads to [Silence-Keeper Mute (D&D_References)]]
+- Parallels [[Silence-Keeper Mute (D&D_References)]]
 - Related: [[step_005 (phase_093)
 - Related: [step_097 (phase_020)]]
-- Leads to [[step_001 (phase_022)
-- Affected by [Deep Current Flowmaster (D&D_References)]]
+- Leads to [[Deep Current Flowmaster (D&D_References)]]
 - See also: [[Tavern Keeper Finn Splitlung
 - Compare with [The Convergence Cleansing]]
 - Leads to [[ITEM00220_Blazing_Sword_of_the_Ancients
@@ -251,8 +241,7 @@ Has information about legendary item
 - Parallels [[ENC00425_Combat_Encounter_426
 - Influences
 - Leads to [feed-per-day-xphb (items)]]
-- Leads to [[Infernal Calling Xge
-- Compare with [MON00157_Constructs_Creature_158]]
+- Leads to [[MON00157_Constructs_Creature_158]]
 - Connects to
 - See also: [[Quest - The Pressure Cure
 - Leads to [list-spells-classes-oath-of-vengeance-xphb (lists)]]
@@ -260,8 +249,7 @@ Has information about legendary item
 - Affected by [ITEM0056_Ancient_Circlet_of_Power]]
 - Requires [[step_032 (phase_042)
 - Related: [MON0047_Blood_Wraith]]
-- Originates from [[The Exotic Emporium (D&D_References)
-- Requires [The Exchange Rate Wars]]
+- Originates from [[The Exotic Emporium (D&D_References)]]
 - Requires [[alchemists-supplies-xphb (items)
 - See also: [Inspector Helena Truthseeker]]
 - Connects to [[NPC00207_Ysara_Ravenheart

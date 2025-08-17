@@ -394,27 +394,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## References
 
-- [[Arcanum Heights
-- [D-019_Oracle_Whale_Player]]
-- [[D_019_Oracle_Whale
-- [D_019_Oracle_Whale_Player]]
-- [[Deep Oracle
-- [Oracle Mistweaver]]
-- [[Oracle Temporal Wisdom
-- [Prophecies_and_Omens]]
-- [[The Bathyal Succession
-- [The Convergence Oracle]]
-- [[The Oracle
-- [The Tethyan Hegemony]]
-- [[The Transformed Citizens
-- [Whisper Touched William's Oracle Shrine]]
+- [[D-019_Oracle_Whale_Player]]
+- [[D_019_Oracle_Whale_Player]]
+- [[Oracle Mistweaver]]
+- [[Oracle Temporal Wisdom]]
+- [[The Convergence Oracle]]
+- [[The Tethyan Hegemony]]
+- [[Whisper Touched William's Oracle Shrine]]
 - [[Assets Portraits Portrait NPC Duchess Marina Ever Drowning Duchess Marina Ever Drowning.svg
 - [Crystal Cult Temples]]
-- [[Mad Bell-Ringer Thomas
-- [Mad Oracle Thessaly]]
-- [[Temple of the Sunken Cathedral
-- [The Great Drowning]]
-- [[The Reflection Pools
-- [Whisper-Touched William]]
-- [[The Maw of Darkness
-- [The Whispering Expanse]]
+- [[Mad Bell-Ringer Thomas]]
+- [[Temple of the Sunken Cathedral]]
+- [[Whisper-Touched William]]
+- [[The Whispering Expanse]]

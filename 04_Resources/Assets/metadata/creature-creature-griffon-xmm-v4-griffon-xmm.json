@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Concept art reflecting a fantastical creature, known as griffon-xmm, set within the realms of underwater and sky. Explore and provide emphasis on its unique musculature and limbs. The style should be in the painterly collection, reminiscent of medieval fantasy, with gear that compliments the culture of the creature's world. No modern tech or signs should be present. For color, apply a thematic palette consisting of teals, deep blues, and sea-greens, with pearl highlights decorating the scene. The environment is a merged zone between the aquatic scene and sky, with bioluminescent details and features of pressure-domes. The depiction of movement should bring the scene to life. No use of modern, sci-fi elements or anime style, and avoid text unless explicitly specified, strive for authenticity, consistency, and attention to detail.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-griffon-xmm-v4-griffon-xmm.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-griffon-xmm-v4-griffon-xmm.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:04:14.078Z",
+  "generationMethod": "ComfyUI"
 }

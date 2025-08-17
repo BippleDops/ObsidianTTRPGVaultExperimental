@@ -52,6 +52,5 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [Merchant Family Alliances]]
-- [[Relationship Web Nuances
-- [House Brightshield]]
+- [[Relationship Web Nuances]]
 - [[Houses_and_Nobility - House Brightshield]]

@@ -159,17 +159,14 @@ Is secretly testing the party
 
 - Originates from [[step_073 (phase_092)
 - Related: [Portrait NPC Zephyr Goldwhisper V2 Zephyr Goldwhisper.svg]]
-- Originates from [[LORE00146_Prophecies_Entry_147
-- See also: [Sunken Kingdom of Nereon (D&D_References)]]
+- Originates from [[Sunken Kingdom of Nereon (D&D_References)]]
 - Influences [[Symbol Heraldry Elara Crystalline V1 Elara Crystalline.svg
 - Connects to [Security Services 2]]
 - Leads to [[Session 04 the Deep Mother Stirs
 - Related: [LOC00212_Dungeons_Location_213]]
 - Connects to
-- Leads to [[storm-giant-xmm (giant)
-- Originates from [The Transition Centers (D&D_References)]]
-- Related: [[Environmental Adaptations and Survival
-- Leads to [The Unity Seeds]]
+- Leads to [[The Transition Centers (D&D_References)]]
+- Related: [[Environmental Adaptations and Survival]]
 - Connects to [[02_Worldbuilding_People_Master_Artificer_Coral_Gemwright
 - Requires [LOC00168_Cities_Location_169]]
 - Compare with [[ink-xphb (items)
@@ -186,8 +183,7 @@ Is secretly testing the party
 - Related: [step_037 (phase_065)]]
 - Originates from [[Location City Crystal Engineer Spark Gemwright Crystal Engineer Spark Gemwright.svg
 - Parallels [The Sunken Palace]]
-- Parallels [[Archery Xphb
-- See also: [The Watcher Sanctums]]
+- Parallels [[The Watcher Sanctums]]
 - Requires [[Portrait NPC Captain Torrent Swiftcurrent V2 Captain Torrent Swiftcurrent.svg
 - Affected by [step_007 (phase_054)]]
 - Related:
@@ -209,8 +205,7 @@ Is secretly testing the party
 - Parallels [step_023 (phase_011)]]
 - Compare with [[DUN00102_Dungeon_103
 - Leads to [step_074 (phase_027)]]
-- Related: [[step_100 (phase_094)
-- Compare with [ENC00160_Environmental_Encounter_161]]
+- Related: [[ENC00160_Environmental_Encounter_161]]
 - Leads to [[DUN00129_Dungeon_130
 - See also: [Zone of Truth Xphb]]
 - Compare with [[Size Categories Mm
@@ -242,21 +237,17 @@ Is secretly testing the party
 - Compare with [step_041 (phase_055)]]
 - Related: [[Portrait NPC the Depth Blessed Fisherman Captain Sal Deepcurrent the Depth Blessed Fisherman Captain Sal Deepcurrent.svg
 - Connects to [NPC01352_Lyanna_Winterborn_the_Guardian]]
-- Requires [[Emergency Coordinator Storm Responsewrigh 2
-- Compare with [item mastery#Nick]]
-- Leads to [[Corrupt Crystalline Guard (D&D_References)
-- Leads to [Elder Kythara]]
+- Requires [[Emergency Coordinator Storm Responsewrigh 2]]
+- Leads to [[Corrupt Crystalline Guard (D&D_References)]]
 - Originates from [[charger-xphb (feats)
 - Requires [move-earth-xphb (spells)]]
-- Compare with [[Downtime Activity Building a Stronghold
-- Originates from [Difficult Terrain Xphb]]
+- Compare with [[Downtime Activity Building a Stronghold]]
 - Connects to
 - Leads to [[LORE00294_History_Entry_295
 - See also: [ITEM01405_Sturdy_Lock_of_Durability]]
 - Requires [[NPC01490_Ewan_Ironforge_the_Mystic
 - Leads to [Location City Treasury Department V1 Treasury Department.svg]]
-- Connects to [[fear-xphb (spells)
-- Leads to [QUEST00172_Main_Quest_173]]
+- Connects to [[QUEST00172_Main_Quest_173]]
 
 ## Visual References
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png

@@ -1,7 +1,6 @@
 ---
 
-title: The [[Consciousness Shard Discovery
-type: [Lore]]
+title: The [[Consciousness Shard]]
 tags:
 - lore
 - worldbuilding

@@ -304,5 +304,4 @@ Member of House Lionblood - Trait: divine blood
 - [Shadow Independence Levels (Criminal_Organizations)]]
 - [[The Whisper Syndicate (Criminal_Organizations)
 - [Assets Locations Location City Brother Matthias Inkdrinker V1 Brother Matthias Inkdrinker.svg]]
-- [[The Whisper Syndicate
-- [Shadow Independence Levels]]
+- [[Shadow Independence Levels]]

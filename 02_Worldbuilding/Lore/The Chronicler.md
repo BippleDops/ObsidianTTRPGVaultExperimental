@@ -30,5 +30,4 @@ Further information about this topic will be developed as the campaign progresse
 ## References
 
 - [02_Worldbuilding_Organizations_The_Chroniclers]]
-- [[Organizations the Chroniclers
-- [Location_Network_Graph.md]]
+- [[Organizations the Chroniclers]]

@@ -248,8 +248,7 @@ Vex Shadowthorn is [[Aethermoor's most powerful and dangerous criminal organizat
 
 ### Law Enforcement
 **Government Response**
-- **[[Crystal Guard**: Primary law enforcement enemy
-- **[Anti-Corruption Task Force (D&D_References)]]**: Specialized unit targeting syndicate
+- **[[Anti-Corruption Task Force (D&D_References)]]**: Specialized unit targeting syndicate
 - **[[City Watch Investigations**: Local police attempts to prosecute
 - **[The Purification Order]]**: Religious opponents of shadow corruption
 - **[[International Law Enforcement**: Cross-realm cooperation against crime

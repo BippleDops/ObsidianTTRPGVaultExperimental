@@ -32,12 +32,9 @@ category: Religious-Historical Event
 created_by: cultural-expansion
 related_entities:
 - '[[Deep Mother]]'
-- '[[Aetheron'
-- '[The Shattering]] of [[The Crown]]'
-- '[[The Drowning'
-- '[The Convergence Point]]'
-- '[[The Seven Betrayers'
-- '[Queen Seraphina]]'
+- '[[The Shattering]] of [[The Crown]]'
+- '[[The Convergence Point]]'
+- '[[The Seven Betrayers]]'
 significance: Reality-Altering
 time_period: Ancient Era - Current Era (Ongoing Fulfillment)
 updated: '2025-08-13T12:34:28.946101+00:00'
@@ -61,39 +58,14 @@ The Great Convergence Prophecies represents a significant element within the cam
 
 ## Details
 ### Background
-[Historical Context]] and development over [[Time.
-
-### Current State
-Present circumstances and ongoing relevance.
-
-### Future Potential
-Possible developments and plot directions.
-
-## Relationships
-- Connected to various other elements within the vault
-- Part of larger narrative structures
-- Influences and is influenced by surrounding content
-
-## Usage Notes
-This content can be adapted and expanded based on specific campaign needs.
-
-## Plot Hooks
-- Can serve as starting point for investigations
-- May provide crucial information at key moments
-- Offers opportunities for player engagement
-
-## [DM_Notes]]
+[Historical Context]] and development over [[Time]]
 *Customize as needed for your specific campaign requirements.*
 
 ## References
 
 - [[Campaign_Relationship_Matrix
 - [Eastern Kingdoms (02_Worldbuilding)]]
-- [[Silver Mask
-- [The Restoration Movement]]
-- [[The Silverscale Conspiracy
-- [Eastern Kingdoms (D&D_References)]]
-- [[Master_Lore_Index
-- [Silver Mask (D&D_References)]]
-- [[The Restoration Movement (D&D_References)
-- [The Silverscale Conspiracy (D&D_References)]]
+- [[The Restoration Movement]]
+- [[Eastern Kingdoms (D&D_References)]]
+- [[Silver Mask (D&D_References)]]
+- [[The Silverscale Conspiracy (D&D_References)]]

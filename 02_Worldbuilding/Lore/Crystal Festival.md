@@ -112,17 +112,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[Peoples
-
-### The Golden Era (500 years ago)
-- Economic prosperity
-- Cultural renaissance
-- Expansion of territory
-
-### The Time of Troubles (100 years ago)
-- Civil war
-- Natural disasters
-- Current [Power Structures]] established
+- War with indigenous [[People]] established
 
 ## A Day in the Life
 
@@ -142,18 +132,11 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Aethermoor-Aquabyssos-World-Connection-Guide
-- [Comprehensive-World-Connection-Guide]]
-- [[The Crystal Festival
-- [Commander Thrace Ironwood]]
-- [[The Kraken's Harbor
-- [Stop the Crystal Festival Ritual]]
-- [[The Maw of Darkness
-- [The Seven Shards (D&D_References)]]
-- [[The Seven Shards 3 (D&D_References)
-- [Commander Thrace Ironwood (D&D_Statblocks)]]
-- [[Stop the Crystal Festival Ritual (D&D_Statblocks)
-- [The Maw of Darkness (D&D_Statblocks)]]
-- [[Traveling Merchant Finn (D&D_Statblocks)
-- [Topic Matrix]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Commander Thrace Ironwood]]
+- [[Stop the Crystal Festival Ritual]]
+- [[The Seven Shards (D&D_References)]]
+- [[Commander Thrace Ironwood (D&D_Statblocks)]]
+- [[Stop the Crystal Festival Ritual (D&D_Statblocks)]]
+- [[Traveling Merchant Finn (D&D_Statblocks)]]
 - [[Topic_Matrix (Indexes)]]

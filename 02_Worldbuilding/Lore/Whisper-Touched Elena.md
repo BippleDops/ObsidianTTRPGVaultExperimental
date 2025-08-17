@@ -57,25 +57,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-### Material_Culture Improvements
-
-- Detail common objects and their cultural significance
-
-### Contradictions Improvements
-
-- Include cultural hypocrisies and double standards
-
-## Overview
-
-Whisper-Touched Elena represents a crucial aspect of the world's history, cosmology, or fundamental nature.
-
----
-
-*Last Updated: 2025-08-14 19:03*
-
-## [DM_Notes]]
+- Describe how this culture exists in other [[region]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -95,14 +77,7 @@ Whisper-Touched Elena represents a crucial aspect of the world's history, cosmol
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[Peoples
-
-### The Golden Era (500 years ago)
-- Economic prosperity
-- Cultural renaissance
-- Expansion of territory
-
-### The [Time]] of Troubles (100 years ago)
+- War with indigenous [[People]] of Troubles (100 years ago)
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established

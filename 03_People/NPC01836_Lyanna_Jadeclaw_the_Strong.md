@@ -161,16 +161,13 @@ Provides information for a price
 
 ## Connections
 
-- Leads to [[ENC00107_Environmental_Encounter_108
-- Connects to [Ring of Feather Falling Xdmg]]
-- Influences [[step_064 (phase_087)
-- Compare with [Merchant Quarter Guildhalls (D&D_References)]]
+- Leads to [[ENC00107_Environmental_Encounter_108]]
+- Influences [[Merchant Quarter Guildhalls (D&D_References)]]
 - Parallels
 - Requires [[Original Trackers
 - Affected by
 - Compare with [step_096 (phase_081)]]
-- Affected by [[QUEST00427_Side_Quest_428
-- See also: [3 Bestiary]]
+- Affected by [[QUEST00427_Side_Quest_428]]
 - Related: [[LOC00133_Towns_Location_134
 - Leads to
 - Parallels [Marcus Truthseeker]]
@@ -178,8 +175,7 @@ Provides information for a price
 - Requires [The Crying Stones]]
 - Affected by [[step_072 (phase_034)
 - Compare with [Berserker Axe Xdmg]]
-- Connects to [[MON00151_Constructs_Creature_152
-- Originates from [Master Tidal Engineer Coral Wavewright (D&D_References)]]
+- Connects to [[Master Tidal Engineer Coral Wavewright (D&D_References)]]
 - See also: [[Symbol Heraldry Factional Conflicts Factional Conflicts.svg
 - Originates from [step_009 (phase_026)]]
 - Compare with [[step_100 (phase_018)
@@ -190,15 +186,13 @@ Provides information for a price
 - See also: [woodcarvers-tools-xphb (items)]]
 - Compare with [[Assets Locations Location City Crown Jewels V1 Crown Jewels.svg
 - Influences [rolling-stone-xdmg (traps-hazards)]]
-- Originates from [[Pressure-Tube System (D&D_References)
-- Parallels [The Memory Nexus]]
+- Originates from [[Pressure-Tube System (D&D_References)]]
 - Compare with [[Assets Portraits Portrait NPC Mayor S Manor Mayor S Manor.svg
 - Connects to
 - Affected by [greek-apollo (deities)]]
 - Leads to [[Grenade Launcher Xdmg
 - Parallels [step_040 (phase_089)]]
-- Related: [[Master Thorek Crystalhammer
-- Leads to [05-chapter-5-neverlight-grove (out-of-the-abyss)]]
+- Related: [[05-chapter-5-neverlight-grove (out-of-the-abyss)]]
 - Leads to [[location-city-depth-raiders-depth-raiders.svg
 - Compare with [Assets Locations Location City Depth Cardinal Justice Currentkeeper V1 Depth Cardinal Justice Currentkeeper.svg]]
 - Requires
@@ -217,8 +211,7 @@ Provides information for a price
 - Parallels [NPC01923_Aeliana_Darkwater_the_Cunning]]
 - Influences [[Assets Locations Location City Royal Guard Royal Guard.svg
 - Parallels [SHOP00037_Magical_Shop_38]]
-- Connects to [[Neothelid Mpmm
-- Requires [ENC00206_Combat_Encounter_207]]
+- Connects to [[ENC00206_Combat_Encounter_207]]
 - Parallels [[Location City Master Goldwin Ledgerkeeper Master Goldwin Ledgerkeeper.svg
 - Requires [Dart Xphb]]
 - See also: [[Potion of Greater Healing Xdmg
@@ -236,20 +229,16 @@ Provides information for a price
 - Influences [Archmage Deflector Windturner 2]]
 - Affected by [[satyr-xmm (fey)
 - Originates from [step_100 (phase_010)]]
-- Leads to [[The Resonant Hermit
-- Connects to [NPC00744_Lyanna_Thornweave_the_Wanderer]]
+- Leads to [[NPC00744_Lyanna_Thornweave_the_Wanderer]]
 - Affected by [[step_100 (phase_044)
 - Requires [Noble Knight Variant]]
 - Influences [[pearl-of-power-xdmg (items)
 - Originates from [unseen-servant-xphb (spells)]]
 - Compare with [[Fighter Xphb
 - Connects to [bulezau-mpmm (fiend)]]
-- Compare with [[step_039 (phase_016)
-- Influences [The Shattered Sanctum (D&D_References)]]
-- Parallels [[Commander Transparent
-- Parallels [Prep_Note.png]]
-- Connects to [[Goldwater Trading Company
-- Requires [Bio-Luminescent Threading (D&D_References)]]
+- Compare with [[The Shattered Sanctum (D&D_References)]]
+- Parallels [[Commander Transparent]]
+- Connects to [[Bio-Luminescent Threading (D&D_References)]]
 - Influences [[step_036 (phase_008)
 - Leads to [The Listener's Code]]
 - Influences [[LOC00292_Wilderness_Location_293

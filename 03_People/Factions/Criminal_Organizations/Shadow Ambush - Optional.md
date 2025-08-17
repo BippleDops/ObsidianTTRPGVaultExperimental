@@ -424,5 +424,4 @@ Things widely suspected
 
 ## References
 
-- [[Lieutet Coral Stealthwater
-- [Aquabyssos - Session 01 - The Drowning Welcome]]
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]

@@ -97,24 +97,14 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Crystal Garden
-- [Customs House]]
-- [[Memory Alteration Consequences
-- [The Crimson Hand]]
-- [[The Forgetting Bomb
-- [The Queen]]
-- [[The Transformed Citizens
-- [Throne Room]]
-- [[Aquabyssos - Session 04 - High Tide Horror
-- [Crystal Garden (D&D_References)]]
-- [[Crystal Garden 3 (D&D_References)
-- [Customs House (D&D_References)]]
-- [[Customs House 3 (D&D_References)
-- [Memory Alteration Consequences (D&D_References)]]
-- [[The Crimson Hand (D&D_References)
-- [The Crimson Hand 3 (D&D_References)]]
-- [[The Forgetting Bomb (D&D_References)
-- [The Queen (D&D_References)]]
-- [[The Queen 3 (D&D_References)
-- [The Transformed Citizens (D&D_References)]]
+- [[Crystal Garden]]
+- [[Memory Alteration Consequences]]
+- [[The Forgetting Bomb]]
+- [[The Transformed Citizens]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
+- [[Crystal Garden 3 (D&D_References)]]
+- [[Memory Alteration Consequences (D&D_References)]]
+- [[The Crimson Hand 3 (D&D_References)]]
+- [[The Forgetting Bomb (D&D_References)]]
+- [[The Transformed Citizens (D&D_References)]]
 - [[Throne Room (D&D_References)]]

@@ -165,28 +165,23 @@ Is secretly testing the party
 - Originates from [random-settlements-race-relations (tables)]]
 - Originates from [[EVENT00067_Political_Event_68
 - Connects to [Control Water Xphb]]
-- Related: [[Korra Mindshield
-- Originates from [ITEM0015_Hidden_Shield_of_Power]]
-- Influences [[Captain Hadal Voidwright (D&D_References)
-- Requires [NPC01911_Alaric_Oakenshield_the_Mystic]]
+- Related: [[ITEM0015_Hidden_Shield_of_Power]]
+- Influences [[Captain Hadal Voidwright (D&D_References)]]
 - See also: [[Location City Keeper Luminous Crystalbeam V1 Keeper Luminous Crystalbeam.svg
 - Parallels [step_064 (phase_082)]]
 - Connects to [[step_100 (phase_019)
 - Requires [Mer-Folk Honor Codes]]
-- Leads to [[Academic Jargon
-- Compare with [Observation Tender Clara 2]]
+- Leads to [[Observation Tender Clara 2]]
 - Influences [[eberron-boldrei (deities)
 - Requires [step_070 (phase_029)]]
 - Related: [[LOC00148_Wilderness_Location_149
 - Influences [Location City the Temple of Eternal Tides the Temple of Eternal Tides.svg]]
 - See also: [[giant-toad-xmm (beast)
 - Originates from [step_019 (phase_055)]]
-- Requires [[Chorus Master Melodia Depthsong 2
-- Originates from [step_002 (phase_069)]]
+- Requires [[Chorus Master Melodia Depthsong 2]]
 - Connects to [[LOC00162_Dungeons_Location_163
 - Leads to [list-spells-races-tiefling-fierna-mtf (lists)]]
-- Influences [[Gnoll Flesh Gnawer Mpmm
-- Related: [ENC00071_Environmental_Encounter_72]]
+- Influences [[ENC00071_Environmental_Encounter_72]]
 - Related: [[General Truthseeker Val
 - Compare with [Assets Locations Location City the Eel Keepers V1 the Eel Keepers.svg]]
 - Leads to [[step_017 (phase_019)
@@ -195,8 +190,7 @@ Is secretly testing the party
 - Connects to [step_030 (phase_007)]]
 - Leads to
 - Compare with
-- Requires [[ENC00218_Social_Encounter_219
-- Affected by [The Azure Chamber]]
+- Requires [[ENC00218_Social_Encounter_219]]
 - See also: [[QUEST00001_Side_Quest_2
 - See also: [ITEM00504_Warded_Chain_Mail_of_Grace]]
 - Originates from [[step_003 (phase_040)
@@ -209,32 +203,24 @@ Is secretly testing the party
 - Originates from [step_093 (phase_051)]]
 - Affected by [[ITEM00294_Frost_Bow_of_Power
 - Connects to [Weather_Generator]]
-- Requires [[step_093 (phase_025)
-- Related: [LOC00179_Planes_Location_180]]
+- Requires [[LOC00179_Planes_Location_180]]
 - See also: [[Choose a Class Class Overview Xphb
 - Influences [Probability Garden]]
 - Affected by [[Pixie Wonderbringer Xmm
 - Leads to [old-masterpiece-painting-xdmg (items)]]
-- See also: [[Culture Builder (D&D_References)
-- Leads to [SPELL00022_Divine_Spell_23]]
-- Connects to [[charm-of-vitality-xdmg (rewards)
-- Influences [NPC01308_Jorah_Quicksilver_the_Swift]]
+- See also: [[Culture Builder (D&D_References)]]
+- Connects to [[NPC01308_Jorah_Quicksilver_the_Swift]]
 - Affected by [[Template-Location
 - Compare with [step_061 (phase_094)]]
-- Leads to [[Adult Education Programs 2
-- Parallels [Treasure_Tables]]
+- Leads to [[Adult Education Programs 2]]
 - Originates from [[LOC0009_Groveton
 - Leads to [Deep Dragons 2]]
 - Affected by [[Arcanaloth Xmm
 - Leads to [Location City Sage Iris Crystalbloom V1 Sage Iris Crystalbloom.svg]]
-- Requires [[LORE00321_Legends_Entry_322
-- Requires [Guide Helpfulcurrent (D&D_References)]]
-- Connects to [[The Void Watchers' Shrines (D&D_References)
-- See also: [serpent-venom-xdmg (items)]]
-- Leads to [[MON00077_Aberrations_Creature_78
-- Requires [Elder Whisper-In-The-Dark 2]]
-- Compare with [[QUEST00184_Side_Quest_185
-- Affected by [Police Chief Sarah Lawkeeper (D&D_References)]]
+- Requires [[Guide Helpfulcurrent (D&D_References)]]
+- Connects to [[The Void Watchers' Shrines (D&D_References)]]
+- Leads to [[MON00077_Aberrations_Creature_78]]
+- Compare with [[Police Chief Sarah Lawkeeper (D&D_References)]]
 - Parallels [[ITEM00035_Radiant_Hammer_of_Slaying
 - Influences [MON00052_Constructs_Creature_53]]
 - Affected by [[Assets Locations Location City Flame Keeper Brother Ignatius V1 Flame Keeper Brother Ignatius.svg
@@ -247,8 +233,7 @@ Is secretly testing the party
 - See also: [[Traditional Craft Districts
 - Affected by
 - Requires [step_054 (phase_034)]]
-- Originates from [[NPC00811_Solas_Grimholt_the_Lost
-- Related: [QUEST00011_Side_Quest_12]]
+- Originates from [[NPC00811_Solas_Grimholt_the_Lost]]
 - See also: [[step_034 (phase_068)
 - Originates from [step_013 (phase_080)]]
 - Compare with [[Commandant Void Tactician

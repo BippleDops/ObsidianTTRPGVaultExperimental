@@ -160,8 +160,7 @@ Knows secret about major threat
 - Influences
 - Requires [[vampire-spawn-xmm (undead)
 - Parallels [Aquabyssos Embassy]]
-- Connects to [[dragon
-- See also: [Age of Skybound Empires]]
+- Connects to [[Age of Skybound Empires]]
 - See also: [[Diplomatic Quarters
 - Affected by [Eberron Onatar]]
 - Originates from [[step_082 (phase_076)
@@ -174,14 +173,12 @@ Knows secret about major threat
 - See also: [[Portrait NPC Commander Thrace Ironwood V1 Commander Thrace Ironwood.svg
 - Related: [The Great Tidal Shrine]]
 - Requires
-- Compare with [[step_093 (phase_016)
-- Affected by [ENC00115_Social_Encounter_116]]
+- Compare with [[ENC00115_Social_Encounter_116]]
 - Compare with [[ENC00431_Combat_Encounter_432
 - Related: [Crafting an Item Resources and Resolution Xge]]
 - Influences [[halfling-sheela-peryroyl-mtf (deities)
 - Leads to [Temporal Viewing Chambers]]
-- Originates from [[Quest - The Shattered Memories
-- Connects to [step_100 (phase_009)]]
+- Originates from [[Quest - The Shattered Memories]]
 - Requires [[Discover Marina's Truth
 - Connects to [step_091 (phase_064)]]
 - Requires [[step_008 (phase_031)
@@ -195,12 +192,9 @@ Knows secret about major threat
 - Connects to [[aspect-of-the-moon-xge (optional-features)
 - Connects to
 - Parallels [step_029 (phase_077)]]
-- Leads to [[Void Realm Territories (D&D_References)
-- Originates from [ENC00163_Combat_Encounter_164]]
-- Affected by [[The Herald's Hall
-- See also: [Shadow Energy Medical Meter]]
-- Originates from [[MON00020_Aberrations_Creature_21
-- Related: [step_017 (phase_089)]]
+- Leads to [[Void Realm Territories (D&D_References)]]
+- Affected by [[Shadow Energy Medical Meter]]
+- Originates from [[MON00020_Aberrations_Creature_21]]
 - Leads to [[Portrait NPC Deep Priest Covenant Deep Priest Covenant.svg
 - Affected by [Ethereal Anchors (D&D_References)]]
 - See also:
@@ -209,8 +203,7 @@ Knows secret about major threat
 - Originates from [[Gith Names Githyanki Male Mtf
 - Parallels [Bomb Xdmg]]
 - Influences
-- See also: [[LOC00224_Planes_Location_225
-- Compare with [Poison Spray Xphb]]
+- See also: [[LOC00224_Planes_Location_225]]
 - Affected by [[ITEM01243_Refined_Oil_of_Swiftness
 - Connects to [Military Families Support Groups]]
 - Leads to [[Quest - Succession Crisis

@@ -172,33 +172,28 @@ Competitor sabotaging business
 - Compare with [NPC00276_Ysara_Youngblood]]
 - Requires [[04_Resources_Assets_Locations_location-city-court-herald-master-proclamation-crownvoice-court-herald-master-proclamation-crownvoice.svg
 - Parallels [step_050 (phase_043)]]
-- Influences [[Quarantine_Notice_Crystal_Plagu
-- Requires [step_047 (phase_047)]]
+- Influences [[Quarantine_Notice_Crystal_Plagu]]
 - Parallels [[Location City Artificer Magnus Weightless V1 Artificer Magnus Weightless.svg
 - Connects to [Quest - The Corruption Cleansing_1 (01_Adventures)]]
 - Related: [[05_Templates
 - Parallels [step_067 (phase_012)]]
-- See also: [[Convergence_Crisis_Scenarios_Index (D&D_Sourcebooks)
-- Influences [ITEM00362_Venomous_Bow_of_Slaying]]
+- See also: [[Convergence_Crisis_Scenarios_Index (D&D_Sourcebooks)]]
 - Influences [[13 Performance
 - Connects to
 - Influences [Portrait NPC Quest the Pressure Cure V1 Quest the Pressure Cure.svg]]
 - Originates from [[black-dragon-mask-hotdq (items)
 - Leads to [Symbol Heraldry Theron Crystalward V1 Theron Crystalward.svg]]
-- Compare with [[Template_Person_Placeholder.png_2 (09_Templates)
-- Parallels [spell-scrolls-for-sale-xge (tables)]]
+- Compare with [[Template_Person_Placeholder.png_2 (09_Templates)]]
 - Connects to [[step_040 (phase_019)
 - Originates from [The Visiting Scholar Complex]]
 - Related: [[step_011 (phase_017)
 - Originates from [step_025 (phase_021)]]
 - Compare with [[Brother_Matthias_Inkdrinker.png
 - Affected by [step_078 (phase_082)]]
-- Parallels [[LOC00094_Cities_Location_95
-- Requires [The Evolution District]]
+- Parallels [[LOC00094_Cities_Location_95]]
 - Compare with [[5 Nonplayer Characters
 - Compare with [ITEM01278_Pure_Powder_of_Vigor]]
-- Leads to [[NPC01923_Aeliana_Darkwater_the_Cunning
-- Parallels [step_100 (phase_058)]]
+- Leads to [[NPC01923_Aeliana_Darkwater_the_Cunning]]
 - Requires [[Thunderclap Xphb
 - Influences
 - See also: [SPELL00135_Nature_Spell_136]]
@@ -214,8 +209,7 @@ Competitor sabotaging business
 - Influences [Free Current Safe Houses]]
 - Leads to [[step_029 (phase_066)
 - Originates from [Ethereal Anchor]]
-- Influences [[Inquisitor Mordecai Truthseeker (D&D_References)
-- Affected by [human-names-indian-male-xge (tables)]]
+- Influences [[Inquisitor Mordecai Truthseeker (D&D_References)]]
 - Leads to [[female-steeder-mpmm (monstrosity)
 - Leads to
 - Parallels [standard-languages-phb (tables)]]
@@ -243,17 +237,14 @@ Competitor sabotaging business
 - Compare with [step_069 (phase_008)]]
 - Connects to [[LOC00240_Dungeons_Location_241
 - Requires [Location City the Pressure Crown V1 the Pressure Crown.svg]]
-- Requires [[NPC01195_Gareth_Keenblade_the_Guardian
-- Affected by [nilbog-mpmm (fey)]]
+- Requires [[NPC01195_Gareth_Keenblade_the_Guardian]]
 - Leads to [[step_043 (phase_064)
 - Connects to [Trade Specialist Commerce 2]]
 - Requires
 - Requires [[Daerns Instant Fortress Xdmg
 - Requires [step_026 (phase_088)]]
-- See also: [[step_004 (phase_087)
-- Requires [NPC01564_Faelyn_Moonshadow_the_Wise]]
-- Related: [[MON00082_Aberrations_Creature_83
-- Influences [Yuan Ti Pureblood Vgm]]
+- See also: [[NPC01564_Faelyn_Moonshadow_the_Wise]]
+- Related: [[MON00082_Aberrations_Creature_83]]
 - Leads to [[step_059 (phase_024)
 - See also: [Widow's Rest 2]]
 - Compare with [[Clara Truthscale

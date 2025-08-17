@@ -171,17 +171,14 @@ Knows secret about major threat
 - Influences [EVENT00029_Political_Event_30]]
 - Parallels
 - See also:
-- Related: [[LOC0106_Marshton
-- Requires
-- Requires [Palace Guardians (D&D_References)]]
+- Related: [[Palace Guardians (D&D_References)]]
 - Leads to [[ITEM00625_Mithril_Gauntlets_of_Fortitude
 - Originates from [dungeon-history (tables)]]
 - Leads to [[Witch Bolt Xphb
 - Leads to [Theron Crystalward 2]]
 - Parallels [[Wind Speaker Aria Ghostheart 2
 - Related: [Random Individual Treasure Xdmg]]
-- Related: [[Portrait NPC Trad... Related To: Local Political Structure Connected Plots: to Be Developed
-- Connects to [Assets Locations Location City Sage Gentlespice Sage Gentlespice.svg]]
+- Related: [[Portrait NPC Trad... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - See also: [[Assets Locations Location City the Crystal Stock Exchange the Crystal Stock Exchange.svg
 - Leads to [step_006 (phase_061)]]
 - Affected by [[step_050 (phase_075)
@@ -203,11 +200,9 @@ Knows secret about major threat
 - Influences [step_045 (phase_026)]]
 - See also: [[Symbol Heraldry the Question Council the Question Council.svg
 - Related: [FAC00072_Cults_73]]
-- Connects to [[Cultural Integration
-- Related: [Government Crystal Programs]]
+- Connects to [[Government Crystal Programs]]
 - Originates from
-- See also: [[step_052 (phase_088)
-- Leads to [Quick_Reference - DnD5e-DM Screen-2014]]
+- See also: [[Quick_Reference - DnD5e-DM Screen-2014]]
 - Originates from [[Assets Portraits Portrait NPC Otherworldly Patron Otherworldly Patron.svg
 - See also: [step_083 (phase_080)]]
 - Compare with [[Assets Locations Location City Historical Analysis Historical Analysis.svg
@@ -218,8 +213,7 @@ Knows secret about major threat
 - See also:
 - See also: [[Location City Stormwatch Keep V1 Stormwatch Keep.svg
 - Compare with [step_020 (phase_084)]]
-- Related: [[Lorehold Student Scc
-- Parallels [Quest - Medical Breakthrough]]
+- Related: [[Quest - Medical Breakthrough]]
 - Connects to [[ENC00281_Social_Encounter_282
 - Originates from [giant-badger-xmm (beast)]]
 - Compare with [[step_034 (phase_099)
@@ -232,10 +226,8 @@ Knows secret about major threat
 - Requires [MON00104_Constructs_Creature_105]]
 - Leads to [[step_025 (phase_017)
 - Leads to [Marut Mpmm]]
-- See also: [[Coral Empress Scarletina
-- Parallels [Sunlight Crystal (D&D_References)]]
-- Compare with [[Automatic Success
-- Leads to [SPELL00060_Divine_Spell_61]]
+- See also: [[Sunlight Crystal (D&D_References)]]
+- Compare with [[SPELL00060_Divine_Spell_61]]
 - Leads to [[step_067 (phase_071)
 - Originates from [Portrait NPC Harbor Master Luna Freedrift V1 Harbor Master Luna Freedrift.svg]]
 - Related: [[ITEM01374_Decorated_Lock_of_Convenience
@@ -258,8 +250,7 @@ Knows secret about major threat
 - Influences [Royal Crystal Laboratory (D&D_References)]]
 - Influences [[Marcus Goldlea 2
 - Compare with [Location City Master Smith Vulcan Deepforge Master Smith Vulcan Deepforge.svg]]
-- Connects to [[step_028 (phase_058)
-- Parallels [Factions the Resonance Keepers]]
+- Connects to [[Factions the Resonance Keepers]]
 - Compare with [[NPC01239_Thalia_Ironwood_the_Mystic
 
 ## Visual References

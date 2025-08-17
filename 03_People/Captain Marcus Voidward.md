@@ -248,5 +248,4 @@ ___
 
 ## References
 
-- [[The Deepwatch Guard
-- [The Deepwatch Guard (D&D_References)]]
+- [[The Deepwatch Guard (D&D_References)]]

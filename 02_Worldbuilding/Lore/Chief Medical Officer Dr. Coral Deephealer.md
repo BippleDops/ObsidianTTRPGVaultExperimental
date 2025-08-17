@@ -6,23 +6,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: Chief Medical Officer Dr. Coral Deephealer
-type: lore
-updated: 2025-08-14
----
-
-# Chief Medical Officer Dr. Coral Deephealer
-
-## Overview
-This document contains important information regarding Chief Medical Officer Dr. Coral Deephealer and its role within the greater narrative.
-
-## Description
-Chief Medical Officer Dr. Coral Deephealer represents a significant element within the campaign world, offering various opportunities for engagement and development.
-
-## Key Information
-- **Primary Purpose**: Serves specific function within the world
-- **Connections**: [Link]]ed to multiple other elements
+- [[Chief Medical Officer Dr. Coral Deephealer]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details

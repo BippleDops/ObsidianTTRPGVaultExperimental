@@ -116,7 +116,7 @@ improvements: 20
 - Include cultural hypocrisies and double standards
 
 ## Overview
-Commander Typhoon Blackheart leads [[The Depth Wardens]], Aquabyssos's elite military force responsible for maintaining order in the deepest and most dangerous regions of the realm. A career soldier who's spent three decades defending civilization against deep-sea horrors, shadow creatures, and territorial disputes, she represents military professionalism in a world where political authority is fragmenting. Her primary concern is protecting citizens, regardless of the political chaos swirling around her.
+Commander Typhoon Blackheart leads [[Depth Wardens]], Aquabyssos's elite military force responsible for maintaining order in the deepest and most dangerous regions of the realm. A career soldier who's spent three decades defending civilization against deep-sea horrors, shadow creatures, and territorial disputes, she represents military professionalism in a world where political authority is fragmenting. Her primary concern is protecting citizens, regardless of the political chaos swirling around her.
 
 ## Adventure Hooks
 1. **The Deep Threat**: Join military operation against aberrant creatures from deepest trenches
@@ -282,9 +282,6 @@ Legends speak of Commander Typhoon Blackheart as a nexus where past and present 
 - [Assets Locations Location City Captain Marcus Captain Marcus.svg]]
 - [[Assets Locations Location City Merchant Lord Silas Copperfield Merchant Lord Silas Copperfield.svg
 - [Emperor Thalassius the Wise]]
-- [[Commander Typhoon Blackheart (Places)
-- [Commander Typhoon Blackheart (D&D_References)]]
-- [[Fortress of the Deeps (D&D_References)
-- [Queen Seraphina (D&D_References)]]
-- [[Queen Seraphina 3 (D&D_References)
-- [Emperor Thalassius the Wise (D&D_Statblocks)]]
+- [[Commander Typhoon Blackheart (D&D_References)]]
+- [[Fortress of the Deeps (D&D_References)]]
+- [[Emperor Thalassius the Wise (D&D_Statblocks)]]

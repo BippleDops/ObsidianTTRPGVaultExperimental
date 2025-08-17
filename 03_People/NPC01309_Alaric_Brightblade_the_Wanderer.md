@@ -160,22 +160,18 @@ Forming expedition to dangerous location
 
 ## Connections
 
-- Requires [[Deep Watchfulrest
-- Connects to [Quest - The Failed Surgery 2]]
-- Affected by [[LORE0012_Prophecy_of_the_Dark_Times
-- Compare with [50K_ENHANCEMENT_MASTER_PROMPT]]
+- Requires [[Quest - The Failed Surgery 2]]
+- Affected by [[LORE0012_Prophecy_of_the_Dark_Times]]
 - Parallels
 - Connects to [[step_083 (phase_078)
 - Related: [Assets Locations Location City the Aether Works V1 the Aether Works.svg]]
-- Originates from [[Camel Xmm
-- Leads to [MON00128_Constructs_Creature_129]]
+- Originates from [[MON00128_Constructs_Creature_129]]
 - Related: [[Symbol Heraldry Archmerchant Codex Goldstrea V1 Archmerchant Codex Goldstrea.svg
 - Related:
 - Originates from
 - Influences [step_088 (phase_027)]]
 - Originates from
-- Influences [[NPC01051_Gareth_Nightfall_the_Broken
-- Affected by [Sage Prism Lightweaver 2]]
+- Influences [[NPC01051_Gareth_Nightfall_the_Broken]]
 - Influences [[hill-giant-xmm (giant)
 - Requires [The Pressure Wars 2]]
 - Affected by [[Portrait NPC Tidal Priests Circle V1 Tidal Priests Circle.svg_1 (Portraits)
@@ -188,59 +184,46 @@ Forming expedition to dangerous location
 - Influences [step_041 (phase_060)]]
 - Originates from [[male-steeder-mpmm (monstrosity)
 - Related: [LOC00090_Dungeons_Location_91]]
-- Related: [[Marine Agricultural Council
-- See also: [step_066 (phase_024)]]
+- Related: [[Marine Agricultural Council]]
 - Influences [[step_013 (phase_069)
 - Leads to [Asset_Database (Assets)]]
 - Compare with [[NPC00123_Lyanna_Thornweave_the_Mystic
 - See also: [location-city-royal-guard-v1-royal-guard.svg]]
 - Compare with [[Location City Truth and Madness V1 Truth and Madness.svg
 - Parallels [LOC00072_Dungeons_Location_73]]
-- Originates from [[step_082 (phase_009)
-- Requires [LOC00242_Planes_Location_243]]
+- Originates from [[LOC00242_Planes_Location_243]]
 - Connects to [[Assets Locations Location City Current Navigation Techniques V1 Current Navigation Techniques.svg
 - Requires [Cart Xphb]]
 - Leads to [[Assets Locations Location City Pearl Sharpedge V1 Pearl Sharpedge.svg
 - Parallels [Tide Turner's Trident]]
-- Influences [[step_051 (phase_088)
-- Affected by [QUEST0055_The_Forbidden_Artifact]]
-- Originates from [[Lady Cordelia Windham (D&D_References)
-- Parallels [QUEST00135_Main_Quest_136]]
-- Related: [[Player Handout Aethermoor Airships (D&D_References)
-- Originates from [step_014 (phase_057)]]
+- Influences [[QUEST0055_The_Forbidden_Artifact]]
+- Originates from [[Lady Cordelia Windham (D&D_References)]]
+- Related: [[Player Handout Aethermoor Airships (D&D_References)]]
 - See also: [[Aganazzars Scorcher Xge
 - Leads to [step_048 (phase_008)]]
-- Related: [[The Crystal Amphitheater
-- Compare with [Campaign Management Guide (D&D_References)]]
+- Related: [[Campaign Management Guide (D&D_References)]]
 - Affected by
-- See also: [[Sarah Chronicler (D&D_References)
-- Affected by [SHOP00053_General_Shop_54]]
+- See also: [[Sarah Chronicler (D&D_References)]]
 - Affected by [[step_029 (phase_052)
 - Related: [Portrait NPC the Deep Trade Routes the Deep Trade Routes.svg]]
-- Leads to [[Council of Depths (D&D_References)
-- Affected by [Elder Dee 2]]
-- Compare with [[Sir Marcus Dawnforge (D&D_References)
-- Influences [Warding Wind Xge]]
+- Leads to [[Council of Depths (D&D_References)]]
+- Compare with [[Sir Marcus Dawnforge (D&D_References)]]
 - Affected by [[Symbol Heraldry Void Touched Crew Member Void Touched Crew Member.svg
 - Compare with [step_088 (phase_091)]]
 - See also: [[Fireball Fungus Xdmg
 - See also:
 - See also: [Supplemental Tables Relationship Xge]]
-- Related: [[NPC01849_Kaelen_Silverleaf_the_Scholar
-- Leads to [step_023 (phase_046)]]
+- Related: [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
 - Connects to [[step_077 (phase_097)
 - Related: [Moonbeam Xphb]]
 - Related: [[step_051 (phase_099)
 - Connects to [Human Names Mesoamerican Male Xge]]
-- Influences [[The Mothercoral Crisis (D&D_References)
-- Related: [University System (D&D_References)]]
+- Influences [[The Mothercoral Crisis (D&D_References)]]
 - Connects to [[portrait-npc-duke-hadal-duke-hadal.svg
 - Compare with [lifedrinker-xphb (optional-features)]]
-- Influences [[Void Touched Pilgrims 2
-- Affected by [NPC01152_Urien_Ashford_the_Wanderer]]
+- Influences [[NPC01152_Urien_Ashford_the_Wanderer]]
 - Influences
-- Influences [[step_019 (phase_021)
-- Affected by [NPC00816_Thalia_Ravenheart_the_Risen]]
+- Influences [[NPC00816_Thalia_Ravenheart_the_Risen]]
 - Compare with [[02_Worldbuilding_Places_The_Crystal_Gardens
 - See also: [Quest - The Divine Test]]
 - Originates from [[step_015 (phase_088)
@@ -248,13 +231,10 @@ Forming expedition to dangerous location
 - Parallels [[Location City the Phosphor Markets the Phosphor Markets.png
 - Affected by
 - See also: [LORE00218_History_Entry_219]]
-- Related: [[LOC0090_Haventhorpe
-- Compare with
-- Requires [NPC00029_Pyria_Brightblade_the_Cunning]]
+- Related: [[NPC00029_Pyria_Brightblade_the_Cunning]]
 - See also: [[Assets Locations Location City Kelp Forests Kelp Forests.svg
 - Leads to [entangle-xphb (spells)]]
-- Compare with [[secondary-tables-arcane-matters-xge (tables)
-- Influences [step_064 (phase_060)]]
+- Compare with [[secondary-tables-arcane-matters-xge]]
 - Affected by
 - Connects to [[FAC00038_Cults_39
 - Influences [The_Conductor.png]]

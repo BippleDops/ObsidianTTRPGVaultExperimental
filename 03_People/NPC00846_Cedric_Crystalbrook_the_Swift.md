@@ -173,16 +173,14 @@ Competitor sabotaging business
 - Compare with [Forgotten Realms Mystra]]
 - Affected by [[step_005 (phase_039)
 - Leads to [step_091 (phase_020)]]
-- Connects to [[Weather Warden Storm Wisdom
-- Related: [step_038 (phase_087)]]
+- Connects to [[Weather Warden Storm Wisdom]]
 - Connects to [[intellect-devourer-xmm (aberration)
 - Compare with [tactical-assessment-xphb (optional-features)]]
 - Parallels [[Keeper of the Shattered Crown, Marcus Crystalvein
 - Requires [Assets Locations Location City Planning Director Victor Visionkeeper Planning Director Victor Visionkeeper.svg]]
 - Requires [[xvart-mpmm (monstrosity)
 - Influences [ENC0060_Random_Encounter_61]]
-- Requires [[NPC01661_Malakai_Oakenshield_the_Wanderer
-- Related: [ENC00219_Combat_Encounter_220]]
+- Requires [[NPC01661_Malakai_Oakenshield_the_Wanderer]]
 - Parallels [[Crown of Eternal Ice 2
 - Leads to [step_004 (phase_085)]]
 - Originates from [[Portrait NPC Lady Vivienne Thornwhisper Lady Vivienne Thornwhisper.svg
@@ -204,17 +202,14 @@ Competitor sabotaging business
 - Leads to
 - Connects to [[Assets Locations Location City Divine Communication Studies Divine Communication Studies.svg
 - Leads to [ENC00010_Social_Encounter_11]]
-- Originates from [[Shadow Surgery Training Hospitals (D&D_References)
-- Requires [step_042 (phase_068)]]
+- Originates from [[Shadow Surgery Training Hospitals (D&D_References)]]
 - Influences
 - Requires [[spell-gem-quartz-oota (items)
 - Parallels [Goodberry Xphb]]
 - Leads to [[Symbol Heraldry Transformation Techniques Transformation Techniques.svg
 - Affected by [Sling Bullet Xphb]]
-- Leads to [[NPC00165_Felicia_Emberfall
-- Influences [Syndicate Enforcers (D&D_References)]]
-- Influences [[step_086 (phase_063)
-- Related: [LOC00239_Planes_Location_240]]
+- Leads to [[Syndicate Enforcers (D&D_References)]]
+- Influences [[LOC00239_Planes_Location_240]]
 - See also: [[Elder Scribe Marcus the Lost 2
 - Compare with
 - Leads to [step_001 (phase_063)]]
@@ -222,8 +217,7 @@ Competitor sabotaging business
 - Requires
 - See also: [LOC00076_Towns_Location_77]]
 - See also:
-- Influences [[Sessions Session Packet Template
-- Related: [Fate Weavers (D&D_References)]]
+- Influences [[Sessions Session Packet Template]]
 - Parallels
 - Parallels [[step_018 (phase_022)
 - Affected by [02_Worldbuilding_Groups_The_Resurgent_Tide]]
@@ -233,8 +227,7 @@ Competitor sabotaging business
 - Originates from [Location City Quartermaster Judith Steadfast V1 Quartermaster Judith Steadfast.svg]]
 - Connects to [[Symbol Heraldry Lysara Brightshield V1 Lysara Brightshield.svg
 - See also: [step_089 (phase_098)]]
-- Compare with [[step_003 (phase_016)
-- Requires [LOC00071_Dungeons_Location_72]]
+- Compare with [[LOC00071_Dungeons_Location_72]]
 - See also:
 - Related: [[step_046 (phase_062)
 - Compare with [Location City Great Plague of Ages Past V1 Great Plague of Ages Past.svg]]
@@ -248,8 +241,7 @@ Competitor sabotaging business
 - Parallels [SPELL00065_Divine_Spell_66]]
 - Parallels [[ITEM00717_Divine_Crown_of_the_Gods
 - Leads to [Individual Treasure Challenge 17 (tables)]]
-- Requires [[The Shadow Touched Farmer Blight Heart Maddox
-- Connects to [Embassy District (D&D_References)]]
+- Requires [[The Shadow Touched Farmer Blight Heart Maddox]]
 - Compare with [[step_061 (phase_092)
 - Parallels [NPC (D&D_References)]]
 - Originates from [[NPC00826_Pyria_Dawnstrider_the_Wanderer

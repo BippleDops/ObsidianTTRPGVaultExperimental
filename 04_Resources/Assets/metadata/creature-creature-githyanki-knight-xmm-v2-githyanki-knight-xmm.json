@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Create a heroic tabletop fantasy scene in a grounded medieval-fantasy setting. Show a knight whose gear reflects a culturally coherent aesthetic, yet devoid of any modern technology or signs. The knight should look similar to a githyanki, highlighting its muscular structure and peculiar limbs. Beside it, include a silhouette of a human for comparison. Use a three-colour palette comprised of indigo, violet, black and cold silver, fused in a consistent, painterly style. The setting should be an eerie convergence of underwater and sky elements, showing motion and surreal cosmic elements, like impossible geometries and a starlit atmosphere, all symbolizing a merger of different realms or zones. Refrain from text, words, sci-fi UIs, modern signs, photoreal CGI, anime style, and bloom glare. Resolutely aim for a clear, detailed concept art feel.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-githyanki-knight-xmm-v2-githyanki-knight-xmm.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-githyanki-knight-xmm-v2-githyanki-knight-xmm.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:03:29.141Z",
+  "generationMethod": "ComfyUI"
 }

@@ -202,12 +202,10 @@ Provides information for a price
 - Influences [[NPC00987_Zephyr_Brightblade_the_Cunning
 - Requires
 - Originates from [Dockmaster Bruno Steadyanchor]]
-- Influences [[Watch Captain Roderick Shieldbreaker (D&D_References)
-- Requires [step_010 (phase_100)]]
+- Influences [[Watch Captain Roderick Shieldbreaker (D&D_References)]]
 - Related: [[step_022 (phase_034)
 - Influences [Location City the Unremembered Parliament the Unremembered Parliament.svg]]
-- Originates from [[Giant Sea Horse (D&D_References)
-- Leads to [LOC0090_Haventhorpe]]
+- Originates from [[Giant Sea Horse (D&D_References)]]
 - Compare with [[SPELL00026_Divine_Spell_27
 - Compare with [step_088 (phase_041)]]
 - Influences [[Memory Commerce (D&D_References)
@@ -228,8 +226,7 @@ Provides information for a price
 - Requires [LOC0099_Grovethorpe]]
 - Affected by [[step_019 (phase_028)
 - Originates from [LOC00142_Planes_Location_143]]
-- Originates from [[Balance Stones (D&D_References)
-- Requires [Orcsplitter Pota]]
+- Originates from [[Balance Stones (D&D_References)]]
 - See also: [[NPC01927_Faelyn_Ashford_the_Fallen
 - Related:
 - Connects to [preparing-spells-spell-preparation-by-class-xphb]]
@@ -241,10 +238,8 @@ Provides information for a price
 - Requires [[Bestial Spirit Xphb
 - Parallels [QUEST00094_Main_Quest_95]]
 - Parallels
-- Connects to [[Legal Coordinator Martha Lawbinder
-- Parallels [NPC00877_Drusilla_Lightbringer_the_Lost]]
-- Compare with [[warlock-xphb-archfey-patron-xphb (classes)
-- Requires [The Reunification Faction (D&D_References)]]
+- Connects to [[NPC00877_Drusilla_Lightbringer_the_Lost]]
+- Compare with [[The Reunification Faction (D&D_References)]]
 - Leads to [[Loyalty Enforcers
 - Affected by [step_029 (phase_044)]]
 - Compare with [[step_080 (phase_015)
@@ -252,16 +247,14 @@ Provides information for a price
 - See also: [[Sorrow Pearls
 - Compare with
 - Related: [Royal Archives]]
-- Originates from [[Condition Tracker
-- Affected by [LOC00207_Planes_Location_208]]
+- Originates from [[LOC00207_Planes_Location_208]]
 - Related: [[Human Names Roman Female Xge
 - Related: [Salty Anchor Tavern]]
 - Originates from [[staff-xphb (items)
 - Originates from [Portrait NPC Underground Testing Facility V2 Underground Testing Facility.svg_1 (Portraits)]]
 - Compare with [[Sunken Citadel of Remembrance
 - Compare with [Scroll of Protection Beasts Xdmg]]
-- Affected by [[Deep Mother Priestess Sira (D&D_References)
-- Influences [step_050 (phase_021)]]
+- Affected by [[Deep Mother Priestess Sira (D&D_References)]]
 - See also: [[ring-of-three-wishes-xdmg (items)
 - Affected by [QUEST00156_Side_Quest_157]]
 - Leads to [[hobgoblin-iron-shadow-mpmm (fey)

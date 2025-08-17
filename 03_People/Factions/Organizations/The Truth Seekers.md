@@ -57,6 +57,5 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [02_Worldbuilding_Organizations_The_Truth_Seekers]]
-- [[Organizations the Truth Seekers
-- [The Final Choice]]
+- [[Organizations the Truth Seekers]]
 - [[System Cli Items Weapons]]

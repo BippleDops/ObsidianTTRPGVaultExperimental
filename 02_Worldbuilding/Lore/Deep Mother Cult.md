@@ -1,7 +1,6 @@
 ---
 
-title: [[Deep Mother Cult
-type: [Lore]]
+title: [[Deep Mother Cult]]
 tags:
 - lore
 - worldbuilding
@@ -124,11 +123,7 @@ Mentioned in The Second Prophecy of Winds
 
 ## References
 
-- [[Consequence Chain 4 - Deep Mother Awakening
-- [Deep Mother Cult Practices]]
-- [[Deep Mother Influence
-- [Relationship Web Nuances]]
-- [[The Bathyal Succession
-- [The Deep Mother Cult]]
-- [[The Final Choice
-- [The Great Drowning]]
+- [[Consequence Chain 4 - Deep Mother Awakening]]
+- [[Relationship Web Nuances]]
+- [[The Bathyal Succession]]
+- [[The Great Drowning]]

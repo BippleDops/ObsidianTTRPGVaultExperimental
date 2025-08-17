@@ -65,5 +65,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[The Eternal Senate
-- [The Eternal Senate (D&D_References)]]
+- [[The Eternal Senate (D&D_References)]]

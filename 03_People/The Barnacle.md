@@ -396,5 +396,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [Assets Locations Location City Grief Overwhelming Syndrome V1 Grief Overwhelming Syndrome.svg]]
 - [[Assets Locations Location City Harbor Master Nereid Deepcurrent V1 Harbor Master Nereid Deepcurrent.svg
 - [Assets Symbols Symbol Heraldry the Unnamed Watcher the Unnamed Watcher.svg]]
-- [[Pearl_Harbor_City (D&D_References)
-- [Queen Seraphina (D&D_References)]]
+- [[Pearl_Harbor_City (D&D_References)]]

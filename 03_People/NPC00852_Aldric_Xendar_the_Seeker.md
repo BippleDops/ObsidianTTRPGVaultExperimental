@@ -160,14 +160,11 @@ Seeks rare merchandise
 
 ## Connections
 
-- Connects to [[Memory Coral 2
-- See also: [NPC01487_Wynne_Goldleaf_the_Redeemed]]
+- Connects to [[NPC01487_Wynne_Goldleaf_the_Redeemed]]
 - Compare with [[Aethermoor Archives
 - Affected by [List Spells Races Triton Vgm]]
-- Compare with [[Archivist Spectrum Memorykeeper
-- Related: [The Azure Shard]]
-- See also: [[MON00143_Undead_Creature_144
-- Leads to [Missing Persons of Port Meridian (D&D_References)]]
+- Compare with [[Archivist Spectrum Memorykeeper]]
+- See also: [[Missing Persons of Port Meridian (D&D_References)]]
 - Requires [[Spell Gem Obsidian Oota
 - See also: [Assets Locations Location City the Archive of Unremembered Things the Archive of Unremembered Things.svg]]
 - See also: [[warlock-xphb-celestial-patron-xphb (classes)
@@ -179,18 +176,15 @@ Seeks rare merchandise
 - Related: [LORE00090_Legends_Entry_91]]
 - Leads to [[deities-of-the-forgotten-realms-phb (tables)
 - See also: [Ambassador Neutral (D&D_References)]]
-- Compare with [[NPC01321_Ewan_Ashford_the_Seeker
-- Requires [step_092 (phase_052)]]
+- Compare with [[NPC01321_Ewan_Ashford_the_Seeker]]
 - Influences [[Assets Locations Location City Specimen Careful Lifeguard V1 Specimen Careful Lifeguard.svg
 - Requires [Shadow Citizenship Act (D&D_References)]]
 - Compare with [[MON0020_Void_Howler
 - Requires [location-city-the-time-keeper-the-time-keeper.svg]]
 - Requires [[Assets Locations Location City Private Arbitration V1 Private Arbitration.svg
 - Affected by [Quest - The Prophecy Fulfilled_1 (01_Adventures)]]
-- Requires [[A Day in Aquabyssos (D&D_References)
-- Parallels [QUEST00131_Side_Quest_132]]
-- Connects to [[LOC00083_Cities_Location_84
-- Affected by [The Whispering Chambers (D&D_References)]]
+- Requires [[A Day in Aquabyssos (D&D_References)]]
+- Connects to [[The Whispering Chambers (D&D_References)]]
 - Leads to [[Royal Academy of Ethical Commerce
 - Originates from [Location City Inverted Ballroom Wing Inverted Ballroom Wing.svg]]
 - Affected by [[potion-of-fire-giant-strength-xdmg (items)
@@ -210,8 +204,7 @@ Seeks rare merchandise
 - Affected by [Assets Portraits Portrait NPC Vespara Nightwhisper Thorne V1 Vespara Nightwhisper Thorne.svg]]
 - Related: [[scroll-of-titan-summoning-animal-lord-xdmg (items)
 - Affected by [Portrait NPC Lady Celestine Windborne V1 Lady Celestine Windborne.svg]]
-- Requires [[Create Bonfire Xge
-- Connects to [Loop-Walker Celia (D&D_References)]]
+- Requires [[Loop-Walker Celia (D&D_References)]]
 - Related: [[Location City Comparative Religion Experts Comparative Religion Experts.svg
 - Compare with [LOC00123_Wilderness_Location_124]]
 - Connects to [[LOC0102_Watchton
@@ -222,8 +215,7 @@ Seeks rare merchandise
 - Related: [Location City Mad Prophet Silas the Depth Touched Mad Prophet Silas the Depth Touched.svg]]
 - Influences [[Portrait NPC Captain Thorne Darkwater V1 Captain Thorne Darkwater.svg
 - Influences [Major NPCs]]
-- See also: [[ENC00268_Combat_Encounter_269
-- Related: [neogi-mpmm (aberration)]]
+- See also: [[ENC00268_Combat_Encounter_269]]
 - Affected by [[mess-kit (items)
 - Requires [enthrall-xphb (spells)]]
 - Parallels [[LORE00175_History_Entry_176
@@ -234,21 +226,16 @@ Seeks rare merchandise
 - Affected by [Location City Aquabyssos Government V1 Aquabyssos Government.svg]]
 - Compare with [[Portrait NPC Elder Whisper in the Dark V2 Elder Whisper in the Dark.svg_1 (Portraits)
 - Parallels [Portrait NPC Professor Aldric Crystalweaver Professor Aldric Crystalweaver.svg_1 (Portraits)]]
-- Connects to [[Healing Two Worlds 3 (D&D_References)
-- Originates from [Warforged]]
+- Connects to [[Healing Two Worlds 3 (D&D_References)]]
 - Connects to [[Session 5 the Wind Singer
 - Connects to [step_042 (phase_081)]]
 - Requires [[step_100 (phase_058)
 - Requires [step_050 (phase_061)]]
 - Compare with [[Quest - Mother's Mercy
 - Leads to [Wind Song Linguistic Guide]]
-- Connects to [[NPC01978_Baelor_Crystalbrook_the_Strong
-- Leads to [05_Templates]]
-- Related: [[Training Director Cassius Newlight (D&D_References)
-- Requires
-- Connects to [step_029 (phase_010)]]
-- See also: [[Book of Vile Darkness Xdmg
-- Originates from [Depth Merchant's Consortium (D&D_References)]]
+- Connects to [[NPC01978_Baelor_Crystalbrook_the_Strong]]
+- Related: [[Training Director Cassius Newlight (D&D_References)]]
+- See also: [[Depth Merchant's Consortium (D&D_References)]]
 - Compare with [[ITEM01186_Lesser_Herb_of_Swiftness
 - Affected by [step_091 (phase_028)]]
 - Influences [[04_Resources_Assets_Portraits_portrait-npc-captain-storm-ambushmaster-captain-storm-ambushmaster.svg_Quick_Ref

@@ -406,20 +406,14 @@ Mentioned in The First Prophecy of Winds
 
 ## References
 
-- [[Major Trading Companies
-- [Economic Crime Methods]]
-- [[Economic Systems and Currency
-- [The Grand Trade Routes]]
+- [[Major Trading Companies]]
+- [[Economic Systems and Currency]]
 - [[Assets Locations Location City Pilgrimage Master Depth Guide Melancholy Pilgrimage Master Depth Guide Melancholy.svg
 - [Assets Portraits Portrait NPC Captain Nautilus the Deep Wanderer Captain Nautilus the Deep Wanderer.svg]]
 - [[Assets Portraits Portrait NPC the Reality Sick Mayor Lord Quantum Aldrich the Reality Sick Mayor Lord Quantum Aldrich.svg
 - [Assets Symbols Symbol Heraldry Healing Ministries Healing Ministries.svg]]
-- [[Vex Shadowthorn's Apprentices
-- [Commercial Hubs and Markets]]
-- [[Commercial Hubs and Markets (D&D_References)
-- [Economic Crime Methods (D&D_References)]]
-- [[Economic Systems and Currency (D&D_References)
-- [Economic Warfare and Trade Sanctions]]
-- [[Major Trading Companies (D&D_References)
-- [The Grand Trade Routes (D&D_References)]]
+- [[Vex Shadowthorn's Apprentices]]
+- [[Commercial Hubs and Markets (D&D_References)]]
+- [[Economic Systems and Currency (D&D_References)]]
+- [[Major Trading Companies (D&D_References)]]
 - [[Vex Shadowthorn's Apprentices (D&D_References)]]

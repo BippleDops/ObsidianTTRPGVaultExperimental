@@ -103,16 +103,10 @@ Shadowmere represents a crucial aspect of the world's history, cosmology, or fun
 ## References
 
 - [Archmagus Velleth Shadowmere]]
-- [[Count Viktor Shadowmere
-- [Lady Venetia Shadowmere]]
-- [[Merchant Family Alliances
-- [Princess Nyx Shadowmere]]
-- [[Relationship Web Nuances
-- [The Great Crystallization]]
-- [[The Shadowmere Purification
-- [The Shadowmere Territories]]
-- [[Port Shadowmere
-- [Tenebrarum Embassy]]
-- [[QUEST0078_The_Frozen_Fortress_Invasion
-- [Topic Matrix]]
+- [[Count Viktor Shadowmere]]
+- [[Merchant Family Alliances]]
+- [[The Great Crystallization]]
+- [[The Shadowmere Purification]]
+- [[Tenebrarum Embassy]]
+- [[QUEST0078_The_Frozen_Fortress_Invasion]]
 - [[Topic_Matrix (Indexes)]]

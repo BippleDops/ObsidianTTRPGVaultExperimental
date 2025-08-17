@@ -164,20 +164,17 @@ Needs help with personal quest
 
 - See also: [[Shard Corruption Random Tables
 - Leads to [Druid Xphb Circle of Dreams Xge]]
-- Requires [[forgotten-realms-deneir (deities)
-- Related: [Empress Tethys the Ever-Drowning (D&D_References)]]
+- Requires [[Empress Tethys the Ever-Drowning (D&D_References)]]
 - Leads to [[step_095 (phase_068)
 - See also: [Location City Basil Prismtender Basil Prismtender.svg]]
 - Affected by [[Portrait NPC Original Glaucus V2 Original Glaucus.svg_1 (Portraits)
 - Influences [List Spells Classes Psi Warrior Xphb]]
 - Requires [[Scholar Dr Vera Theological
 - See also: [Portrait NPC Financial Corruption V1 Financial Corruption.svg_1 (Portraits)]]
-- Requires [[step_048 (phase_066)
-- Originates from [Quest - The Deep Mother Awakens 2]]
+- Requires [[Quest - The Deep Mother Awakens 2]]
 - Leads to [[Comparative Religion (D&D_References)
 - Leads to [Assets Locations Location City Historical Preservation Society V1 Historical Preservation Society.svg]]
-- Influences [[step_076 (phase_074)
-- Connects to [The Bathyal Palace (D&D_References)]]
+- Influences [[The Bathyal Palace (D&D_References)]]
 - Compare with [[Assets Locations Location City Chef Gastropod V1 Chef Gastropod.svg
 - Compare with [The Coral Architecture Philosophy (D&D_References)]]
 - Compare with [[step_045 (phase_080)
@@ -196,25 +193,20 @@ Needs help with personal quest
 - Originates from [ITEM00392_Thunder_Spear_of_Wounding]]
 - Influences [[SPELL00053_Nature_Spell_54
 - Leads to [ENC00142_Combat_Encounter_143]]
-- Related: [[Funeral Directors Guild
-- Requires [Battle_Maps_Gallery 2 (Galleries)]]
+- Related: [[Battle_Maps_Gallery 2 (Galleries)]]
 - Leads to [[Crystal Jammers
 - Connects to [List Spells Classes Way of the Sun Soul Xge]]
 - Leads to [[Wind Riders
 - Related: [dancing-sword-xdmg (items)]]
 - Originates from [[deathlock-wight-mpmm (undead)
 - Leads to [ray-of-frost-xphb (spells)]]
-- Compare with [[step_082 (phase_019)
-- See also: [Royal Court of Aethermoor (D&D_References)]]
-- Leads to [[QUEST00273_Side_Quest_274
-- See also: [Tidal Priest Marina Deepcurrent]]
+- Compare with [[Royal Court of Aethermoor (D&D_References)]]
+- Leads to [[Tidal Priest Marina Deepcurrent]]
 - Requires [[QUEST00296_Side_Quest_297
 - Connects to [step_041 (phase_062)]]
 - Affected by
-- Related: [[Molten Magma Roper Pota
-- Related: [LORE0060_History_of_the_Dark_Times]]
-- Influences [[step_090 (phase_046)
-- Compare with [Parliament_of_Echoes (Groups)]]
+- Related: [[LORE0060_History_of_the_Dark_Times]]
+- Influences [[Parliament_of_Echoes (Groups)]]
 - Related: [[Deepmind Medical Centers
 - Originates from [Benthic Commune 2]]
 - Compare with [[Resonance Peaks 2
@@ -234,10 +226,8 @@ Needs help with personal quest
 - Leads to [step_034 (phase_071)]]
 - Compare with [[step_031 (phase_092)
 - Requires [step_027 (phase_013)]]
-- Influences [[step_072 (phase_013)
-- Compare with [NPC00902_Delara_Underhill_the_Seeker]]
-- Connects to [[SPELL00101_Divine_Spell_102
-- See also: [Parliament Of Echoes]]
+- Influences [[NPC00902_Delara_Underhill_the_Seeker]]
+- Connects to [[SPELL00101_Divine_Spell_102]]
 - Connects to [[step_038 (phase_025)
 - Compare with [Void-Keeper Null]]
 - Compare with [[step_079 (phase_068)
@@ -245,8 +235,7 @@ Needs help with personal quest
 - Originates from [[NPC00714_Idris_Thornweave_the_Fallen
 - Requires
 - Related: [location-city-plague-crisis-plague-crisis.png]]
-- See also: [[Financial Corruption
-- See also: [Session 02 (Seven_Shards_Campaign)]]
+- See also: [[Session 02 (Seven_Shards_Campaign)]]
 - Influences [[step_067 (phase_014)
 - Compare with [Void Magic 2]]
 - Compare with [[Symbol Heraldry the Sunken Observatory V1 the Sunken Observatory.svg
@@ -255,13 +244,10 @@ Needs help with personal quest
 - Affected by [04_Resources_Assets_Locations_location-city-master-archivist-valdric-stonewhisper-master-archivist-valdric-stonewhisper.svg]]
 - Influences [[Merfolk Skirmisher Xmm
 - Requires [Portrait NPC High Priestess Scylla Deepdream V2 High Priestess Scylla Deepdream.svg]]
-- Influences [[Commander Eastwind Stormbreak 2
-- Connects to [dust-devil-xge (spells)]]
+- Influences [[Commander Eastwind Stormbreak 2]]
 - See also:
-- Originates from [[NPC00320_Malakai_Hawthorne_the_Redeemed
-- Connects to [SPELL00046_Arcane_Spell_47]]
-- Affected by [[SPELL00039_Nature_Spell_40
-- Related: [step_025 (phase_095)]]
+- Originates from [[NPC00320_Malakai_Hawthorne_the_Redeemed]]
+- Affected by [[SPELL00039_Nature_Spell_40]]
 
 ## Visual References
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png

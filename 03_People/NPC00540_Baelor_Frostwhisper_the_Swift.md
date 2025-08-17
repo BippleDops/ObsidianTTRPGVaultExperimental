@@ -172,12 +172,10 @@ Being extorted by criminals
 - Influences [[step_047 (phase_016)
 - Influences
 - Leads to [Safety Coordinator Reef Safeguard]]
-- Influences [[step_029 (phase_075)
-- Originates from [Treasury Department (D&D_References)]]
+- Influences [[Treasury Department (D&D_References)]]
 - Parallels [[merrenoloth-mpmm (fiend)
 - Affected by [The Deserter 2]]
-- Affected by [[Negotiation Strategy
-- Compare with [Royal Government (D&D_References)]]
+- Affected by [[Royal Government (D&D_References)]]
 - See also: [[Teleport Xphb
 - Affected by [Crown Jewels]]
 - Requires [[list-spells-races-tiefling-mammon-mtf (lists)
@@ -192,12 +190,10 @@ Being extorted by criminals
 - Requires
 - Affected by [[Royal Treasurer 2
 - Connects to [noble-retainers-variant (backgrounds)]]
-- Related: [[QUEST00051_Main_Quest_52
-- Connects to [ITEM0090_Cursed_Orb_of_the_Dawn]]
+- Related: [[ITEM0090_Cursed_Orb_of_the_Dawn]]
 - Compare with [[Assets Locations Location City the Evolution District V1 the Evolution District.svg
 - Originates from [step_001 (phase_034)]]
-- Related: [[webs-xdmg (traps-hazards)
-- Compare with [NPC01449_Drusilla_Ashford_the_Wanderer]]
+- Related: [[NPC01449_Drusilla_Ashford_the_Wanderer]]
 - Originates from [[ITEM00725_Primordial_Crown_of_Truth
 - Originates from [step_013 (phase_015)]]
 - Compare with
@@ -213,18 +209,15 @@ Being extorted by criminals
 - Related: [list-spells-classes-circle-of-the-land-xphb (lists)]]
 - Requires [[Labor Organization
 - See also: [step_007 (phase_082)]]
-- Connects to [[LOC00018_Wilderness_Location_19
-- Connects to [Null Ambassador]]
+- Connects to [[LOC00018_Wilderness_Location_19]]
 - Influences [[EVENT00093_Magical_Event_94
 - Affected by [ITEM00868_Infernal_Ring_of_Destiny]]
-- Related: [[SPELL00036_Nature_Spell_37
-- Compare with [Unified Mechanics Guide (D&D_References)]]
+- Related: [[Unified Mechanics Guide (D&D_References)]]
 - Compare with [[Assets Vehicles Vehicle Ship Pressure Lifter Barge Pressure Lifter Barge.svg
 - Originates from [downtime-activity-gambling-xge (variant-rules)]]
 - See also: [[step_086 (phase_023)
 - Compare with [step_068 (phase_089)]]
-- Parallels [[Adaptation Medical Society (Groups)
-- Parallels [Natural Order Movemen (Groups)]]
+- Parallels [[Adaptation Medical Society (Groups)]]
 - Connects to
 - Affected by [[02_Worldbuilding_People_Dimensional_Security_Chief_Echo_Gatekeeper
 - Leads to [Enspelled Weapon Cantrip Xdmg]]
@@ -238,18 +231,14 @@ Being extorted by criminals
 - Influences [List Spells Optional Features Gift of the Depths Xphb]]
 - Compare with [[location-city-shipwreck-cove-shipwreck-cove.svg
 - Compare with [Quest - Father and Daughter]]
-- Requires [[step_078 (phase_024)
-- Influences [NPC01998_Solas_Silverleaf_the_Guardian]]
+- Requires [[NPC01998_Solas_Silverleaf_the_Guardian]]
 - Originates from [[beholder-pets-vgm (tables)
 - Affected by [The Crystal Influence 2]]
 - Requires [[Maritime Technolog 2
 - Related: [Potion of Flying Xdmg]]
-- Compare with [[NPC00408_Gareth_Stormwind
-- Connects to [LOC00177_Wilderness_Location_178]]
-- Related: [[LORE00025_Legends_Entry_26
-- Connects to [The Architects of Depths (D&D_References)]]
-- Originates from [[yuan-ti-pit-master-mpmm
-- Influences [NPC01784_Erasmus_Ravenheart_the_Wanderer]]
+- Compare with [[LOC00177_Wilderness_Location_178]]
+- Related: [[The Architects of Depths (D&D_References)]]
+- Originates from [[NPC01784_Erasmus_Ravenheart_the_Wanderer]]
 - Connects to [[Shadow Timeline Lysara
 - Originates from [dire-troll-mpmm (giant)]]
 - Affected by
@@ -263,11 +252,7 @@ Being extorted by criminals
 - Influences [step_080 (phase_094)]]
 - Compare with [[step_017 (phase_040)
 - Requires [step_097 (phase_069)]]
-- Affected by [[Random Encounter Tables - Aquabyssos
-- Compare with
-
-## Visual References
-![03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+- Affected by [[Random Encounter Tables - Aquabyssos]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png
 ![03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
 

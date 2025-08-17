@@ -758,8 +758,6 @@ Mentioned in The Second Prophecy of Shadows
 - [Assets Locations Location City Commander Typhoon Blackheart V1 Commander Typhoon Blackheart.svg]]
 - [[Assets Symbols Symbol Heraldry the Anonymous Protocol the Anonymous Protocol.svg
 - [Sir Marcus Dawnforge]]
-- [[The Bloodline Carrier
-- [The Order of the Shattered Crown]]
-- [[Sir Marcus Dawnforge (D&D_References)
-- [Order of the Shattered Crown (D&D_Statblocks)]]
+- [[The Order of the Shattered Crown]]
+- [[Order of the Shattered Crown (D&D_Statblocks)]]
 - [[The Bloodline Carrier (D&D_Statblocks)]]

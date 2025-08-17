@@ -161,14 +161,12 @@ Requires champions for trial by combat
 
 ## Connections
 
-- Affected by [[NPC01651_Cedric_Winterborn_the_Seeker
-- Related: [step_064 (phase_081)]]
+- Affected by [[NPC01651_Cedric_Winterborn_the_Seeker]]
 - Influences [[step_046 (phase_067)
 - Affected by [step_099 (phase_092)]]
 - See also: [[ITEM01295_Greater_Potion_of_Vigor
 - Requires [Assets Locations Location City Pressure Terminal Pressure Terminal.svg]]
-- Parallels [[FAC00009_Guilds_10
-- See also: [Harbormaster Tidal Stormcrest (D&D_References)]]
+- Parallels [[Harbormaster Tidal Stormcrest (D&D_References)]]
 - Originates from [[Location City the Null Cathedral V1 the Null Cathedral.svg
 - Influences [step_074 (phase_021)]]
 - Influences
@@ -178,18 +176,15 @@ Requires champions for trial by combat
 - Leads to [Instrument of the Bards Ollamh Harp Xdmg]]
 - Affected by [[Engineer Shadowbuild 2
 - See also: [Aether Crystals 2]]
-- See also: [[Fragment Wars 2
-- Requires [NPC00122_Gareth_Proudmore_the_Cunning]]
+- See also: [[NPC00122_Gareth_Proudmore_the_Cunning]]
 - Leads to [[ITEM01022_Lesser_Herb_of_Fortune
 - Affected by [ENC00163_Combat_Encounter_164]]
-- Related: [[Embed
-- Requires [Red Abishai Mpmm]]
+- Related: [[Red Abishai Mpmm]]
 - Affected by [[Void Prophet Nullus the Erased
 - Leads to [young-hook-horror-oota (monstrosity)]]
 - Compare with [[NPC01850_Hestara_Oakenshield_the_Wise
 - Connects to [Portrait NPC Captain Elara Shadowshard V2 Captain Elara Shadowshard.svg]]
-- Influences [[Arcturus Lumenblade (D&D_References)
-- Compare with [rust-monster-xmm]]
+- Influences [[Arcturus Lumenblade (D&D_References)]]
 - Parallels [[Cart Xphb
 - Related: [dwarven-fortitude-xge (feats)]]
 - Affected by
@@ -204,28 +199,23 @@ Requires champions for trial by combat
 - Requires [Assets Locations Location City Portal Technician Voidwalk V1 Portal Technician Voidwalk.svg]]
 - Leads to [[Harmony Cores
 - Leads to [Location City Depth Merchants V1 Depth Merchants.svg]]
-- Connects to [[Symphony of the Abyss Recipe
-- Compare with [Dead Magic Seas]]
-- Requires [[Dream Enhancement Techniques (D&D_References)
-- Related: [step_004 (phase_100)]]
+- Connects to [[Symphony of the Abyss Recipe]]
+- Requires [[Dream Enhancement Techniques (D&D_References)]]
 - Originates from [[LOC00056_Planes_Location_57
 - Connects to [Sentient Items Special Purpose Xdmg]]
 - Related: [[SHOP00009_General_Shop_10
 - Requires [Assets Handouts Handout Handout Merchant Contract with Fine Print V2 Merchant Contract with Fine Print.png]]
 - Influences [[Portrait NPC Crystal Plague Infected Npcs Crystal Plague Infected Npcs.svg
 - See also: [Gift of the Ever Living Ones Xge]]
-- Requires [[The Deep Mother Rises (D&D_References)
-- Leads to [beast-of-the-land-xphb (beast)]]
-- Affected by [[Quest - The Divine Test
-- Connects to [NPC00844_Cedric_Blackstone_the_Fallen]]
+- Requires [[The Deep Mother Rises (D&D_References)]]
+- Affected by [[NPC00844_Cedric_Blackstone_the_Fallen]]
 - Influences [[Location City Elder Matthias Stoneward V1 Elder Matthias Stoneward.svg
 - Originates from [step_033 (phase_075)]]
 - Compare with [[step_093 (phase_061)
 - Leads to [step_016 (phase_025)]]
 - Affected by [[ankylosaurus-xmm (beast)
 - Connects to [Assets Locations Location City Innkeeper Marina Dreamwhisper V1 Innkeeper Marina Dreamwhisper.svg]]
-- See also: [[step_028 (phase_037)
-- Influences [Princess Celestia (D&D_References)]]
+- See also: [[Princess Celestia (D&D_References)]]
 - Related: [[step_029 (phase_027)
 - See also:
 - See also: [Slippery Ice Xdmg]]
@@ -233,24 +223,20 @@ Requires champions for trial by combat
 - Connects to [Magic Item Table F]]
 - Compare with [[09 Templates
 - Originates from [Sea Hag]]
-- Requires [[Supplier Erikson Tidecaller
-- Influences [bheur-hag-mpmm (fey)]]
+- Requires [[Supplier Erikson Tidecaller]]
 - Influences [[step_060 (phase_020)
 - Affected by [QUEST00138_Main_Quest_139]]
-- Parallels [[The Purification Temples (D&D_References)
-- Requires [ENC00094_Environmental_Encounter_95]]
+- Parallels [[The Purification Temples (D&D_References)]]
 - Related: [[Priest Faith Crystalsong
 - Related: [create-or-destroy-water-xphb (spells)]]
-- Requires [[NPC00670_Xander_Goldleaf_the_Scholar
-- Leads to [Freedrift Network (D&D_References)]]
+- Requires [[NPC00670_Xander_Goldleaf_the_Scholar]]
 - Requires
 - Compare with [[Assets Locations Location City Aquabyssos V1 Aquabyssos.svg
 - Requires [step_023 (phase_021)]]
 - Compare with [[Corruption Gardens 2
 - Affected by
 - Leads to [elixir-of-health-xdmg (items)]]
-- Requires [[The Great Trade Routes (D&D_References)
-- Originates from [LORE00265_Prophecies_Entry_266]]
+- Requires [[The Great Trade Routes (D&D_References)]]
 - Related: [[leomunds-secret-chest-xphb (spells)
 - Parallels [Bead of Force Xdmg]]
 - Related: [[ITEM01328_Masterwork_Lock_of_Reliability

@@ -133,15 +133,10 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## References
 
 - [The Shadow Conspiracy (Criminal_Organizations)]]
-- [[Consequence Chain 2 - Crystal Trade Disruption
-- [Consequence Chain 5 - Marina Identity Revelation]]
+- [[Consequence Chain 5 - Marina Identity Revelation]]
 - [[Marina Red Tide Coralheart - Aquabyssos
 - [The Great Drowning]]
-- [[The Shadow Conspiracy
-- [Consequence Chain 1 - Shadow Conspiracy Exposure (D&D_References)]]
-- [[Consequence Chain 1 - Shadow Conspiracy Exposure 3 (D&D_References)
-- [Consequence Chain 2 - Crystal Trade Disruption (D&D_References)]]
-- [[Consequence Chain 2 - Crystal Trade Disruption 3 (D&D_References)
-- [Consequence Chain 5 - Marina Identity Revelation (D&D_References)]]
-- [[Marina Red Tide Coralheart - Aquabyssos (D&D_References)
-- [The Great Drowning (D&D_Statblocks)]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure (D&D_References)]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure 3 (D&D_References)]]
+- [[Consequence Chain 5 - Marina Identity Revelation (D&D_References)]]
+- [[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]]

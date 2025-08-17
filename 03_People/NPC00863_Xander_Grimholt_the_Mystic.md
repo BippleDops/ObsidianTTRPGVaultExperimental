@@ -174,15 +174,13 @@ Caravan needs guards
 - Parallels [Four Armed Statue Oota]]
 - Affected by [[Shadow_Chancellor.png
 - Influences [LORE00239_History_Entry_240]]
-- Leads to [[NPC01243_Idris_Stormwind_the_Lost
-- Influences [Subjects Crystal Engineering]]
+- Leads to [[NPC01243_Idris_Stormwind_the_Lost]]
 - Parallels [[step_018 (phase_094)
 - Connects to [Criminal_Organizations]]
 - Influences
 - Leads to [[Assets Locations Location City the Sundered Peaks the Sundered Peaks.svg
 - Related: [Emergency Life Support Research Foundation]]
-- Influences [[LOC00193_Towns_Location_194
-- Leads to [The Artisans' Collective of Master Crafters (D&D_References)]]
+- Influences [[The Artisans' Collective of Master Crafters (D&D_References)]]
 - See also: [[spider-staff-lmop (items)
 - Compare with [MON00068_Constructs_Creature_69]]
 - Affected by [[step_034 (phase_052)
@@ -197,10 +195,8 @@ Caravan needs guards
 - Connects to [symbol-heraldry-the-code-wars-the-code-wars.svg]]
 - Parallels [[step_022 (phase_079)
 - Affected by [step_053 (phase_040)]]
-- Influences [[step_037 (phase_080)
-- Compare with [MON00104_Constructs_Creature_105]]
-- Influences [[deck-of-many-things#Knight
-- Related: [step_042 (phase_067)]]
+- Influences [[MON00104_Constructs_Creature_105]]
+- Influences [[deck-of-many-things#Key]]
 - Compare with [[elemental-gem-yellow-diamond-xdmg (items)
 - Leads to [periapt-of-proof-against-poison-xdmg (items)]]
 - See also: [[Portrait NPC Lord Magnus Goldspire Lord Magnus Goldspire.svg
@@ -208,8 +204,7 @@ Caravan needs guards
 - Leads to [[The Deepwater Consortium
 - See also:
 - Leads to [boon-of-immortality (rewards)]]
-- Influences [[Species Purity Advocate
-- See also: [S-201_Eclipse_Raid_Window_Player]]
+- Influences [[S-201_Eclipse_Raid_Window_Player]]
 - Compare with [[Trust Network Tracker
 - Originates from
 - Affected by [NPC01452_Dara_Hawthorne_the_Fallen]]
@@ -217,16 +212,13 @@ Caravan needs guards
 - Affected by [LORE00333_Prophecies_Entry_334]]
 - Leads to [[pole-of-collapsing-xdmg (items)
 - Parallels [berserker-axe-xdmg (items)]]
-- See also: [[NPC00359_Aeliana_Darkwater
-- Leads to [The Current Maps (D&D_References)]]
+- See also: [[The Current Maps (D&D_References)]]
 - Compare with [[step_057 (phase_083)
 - See also: [Marina Red Tide Coralhear]]
 - Compare with [[step_064 (phase_005)
 - Leads to [step_032 (phase_019)]]
-- See also: [[step_001 (phase_050)
-- Related: [LOC00138_Wilderness_Location_139]]
-- Leads to [[LOC00139_Dungeons_Location_140
-- Requires [Warforged]]
+- See also: [[LOC00138_Wilderness_Location_139]]
+- Leads to [[LOC00139_Dungeons_Location_140]]
 - Parallels [[Customs House 3 (D&D_References)
 - Related: [Physical Variations Yuan Ti Scale Color Vgm]]
 - See also:
@@ -243,8 +235,7 @@ Caravan needs guards
 - Connects to [shield-xphb (items)]]
 - See also: [[The Shadow Mint
 - Influences [Russet Mold Vgm]]
-- Leads to [[Temporal Research Division (D&D_References)
-- Parallels [step_008 (phase_083)]]
+- Leads to [[Temporal Research Division (D&D_References)]]
 - Compare with [[shield-xphb (spells)
 - Affected by
 - Related:
@@ -252,13 +243,10 @@ Caravan needs guards
 - Requires [gith-githzerai-mtf (races)]]
 - Connects to [[step_074 (phase_038)
 - Compare with [Aquabyssos Navy]]
-- See also: [[QUEST00172_Personal_Quest_173
-- Connects to
-- Related: [New Session]]
+- See also: [[QUEST00172_Personal_Quest_173]]
 - See also: [[EVENT00047_Magical_Event_48
 - Originates from [Location City Portal Mirror Mage V1 Portal Mirror Mage.svg]]
-- Originates from [[Sympathetic Officer
-- Parallels [Depth Seekers (D&D_References)]]
+- Originates from [[Depth Seekers (D&D_References)]]
 - Parallels [[step_053 (phase_007)
 - Requires [Faction_Relationship_Web]]
 - Influences [[Trade_Goods_Catalog (02_Worldbuilding)
@@ -267,8 +255,7 @@ Caravan needs guards
 - Influences [list-spells-classes-circle-of-the-sea-xphb (lists)]]
 - Leads to [[Silverscale Emergency Bunker 2
 - Leads to [creature-creature-troll-xmm-v1-troll-xmm.png]]
-- Affected by [[step_032 (phase_010)
-- Compare with [Aethermoor_Sky_Navigation_Chart]]
+- Affected by [[Aethermoor_Sky_Navigation_Chart]]
 - See also: [[Shadow Conspiracy Investigation
 
 ## Visual References

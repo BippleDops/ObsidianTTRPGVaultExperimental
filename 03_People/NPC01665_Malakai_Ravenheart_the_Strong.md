@@ -177,18 +177,14 @@ Offers deal too good to refuse
 - Parallels
 - Requires
 - Requires [step_031 (phase_070)]]
-- See also: [[Beta Leader Torres Coastalambush
-- Leads to [step_049 (phase_061)]]
+- See also: [[Beta Leader Torres Coastalambush]]
 - Originates from [[step_097 (phase_075)
 - Related: [ITEM00639_Dragon_Scale_Plate_of_the_Guardian]]
-- Compare with [[Medical Supply Master
-- Affected by [QUEST0001_Hunt_the_Assassins]]
-- Compare with [[Reality Shepherd Nexus (D&D_References)
-- Parallels [spellbook]]
+- Compare with [[QUEST0001_Hunt_the_Assassins]]
+- Compare with [[Reality Shepherd Nexus (D&D_References)]]
 - Influences [[The Hidden Cove of Whispers 2
 - Originates from [Location City Sentinel Constructs V1 Sentinel Constructs.svg]]
-- Requires [[ruin-grinder-scc (construct)
-- Requires [Technical Director Jasper Lightforge]]
+- Requires [[Technical Director Jasper Lightforge]]
 - Leads to [[The Breathing Stone (D&D_References)
 - Requires [Acoustic Infection (D&D_References)]]
 - Connects to [[The Shadow Nexus
@@ -199,11 +195,8 @@ Offers deal too good to refuse
 - Related: [Silver Threadweaver]]
 - Originates from [[step_058 (phase_034)
 - Parallels [Temporal Harvest 2]]
-- Connects to [[MON00157_Aberrations_Creature_158
-- Related:
-- Compare with [Weapons Phb]]
-- Related: [[step_086 (phase_071)
-- Requires [NPC01531_Pyria_Goldleaf_the_Wise]]
+- Connects to [[MON00157_Aberrations_Creature_158]]
+- Related: [[NPC01531_Pyria_Goldleaf_the_Wise]]
 - Leads to [[The Dueling Chambers
 - Compare with [ioun-stone-xdmg (items)]]
 - Originates from [[NPC00642_Kaelen_Xendar_the_Redeemed
@@ -220,11 +213,8 @@ Offers deal too good to refuse
 - Leads to [LOC00234_Cities_Location_235]]
 - See also: [[Portrait NPC Agent Whisper Voidheart Agent Whisper Voidheart.svg_1 (Portraits)
 - Compare with [Portrait NPC the King S Ears V2 the King S Ears.svg_1 (Portraits)]]
-- Affected by [[step_071 (phase_089)
-- Parallels [SPELL00107_Divine_Spell_108]]
-- Leads to [[Magical Component Manufacturers Guil 2
-- Requires
-- Leads to [NPC0130_Kael_Darkwater]]
+- Affected by [[SPELL00107_Divine_Spell_108]]
+- Leads to [[Magical Component Manufacturers Guil 2]]
 - Leads to [[QUEST00036_Side_Quest_37
 - Compare with [step_093 (phase_029)]]
 - See also: [[Session 01 (Shadow_Conspiracy)
@@ -234,17 +224,14 @@ Offers deal too good to refuse
 - Parallels [[arctic-encounters-levels-1720-xge (tables)
 - Originates from
 - Affected by [Ring of Cold Resistance Xdmg]]
-- Related: [[Rod of Alertness Xdmg
-- Leads to [QUEST0046_Infiltrate_the_Necromancer]]
+- Related: [[QUEST0046_Infiltrate_the_Necromancer]]
 - See also: [[fireball-fungus-xdmg (traps-hazards)
 - Parallels [Assets Locations Location City Innkeeper Marcus Thorne V1 Innkeeper Marcus Thorne.svg]]
 - Compare with [[Location City Foam Deepferment V1 Foam Deepferment.svg
 - Compare with [Map Map Bioluminescent Forest Ambush Bioluminescent Forest Ambush.svg]]
 - See also: [[Stormwind Estate
 - Affected by [Feinting Attack Xphb]]
-- Originates from [[Neutral Grounds
-- Parallels
-- Related: [NPC00745_Urien_Ravenheart_the_Cunning]]
+- Originates from [[NPC00745_Urien_Ravenheart_the_Cunning]]
 - Influences [[Assets Locations Location City the Eel Keepers V1 the Eel Keepers.svg
 - Affected by [International Training Exchanges]]
 - Connects to [[Location City the Probability Merchant V1 the Probability Merchant.svg
@@ -253,8 +240,7 @@ Offers deal too good to refuse
 - Related: [ITEM00560_Fortified_Shield_of_Protection]]
 - Affected by [[Giant Insect Xphb (beast)
 - Compare with [NPC00534_Xander_Ironwood]]
-- Leads to [[The Reality Sick Mayor Lord Quantum Aldrich
-- See also: [unbroken-air (optional-features)]]
+- Leads to [[The Reality Sick Mayor Lord Quantum Aldrich]]
 - Compare with [[Scene Scene Shadow Market Under Rain Shadow Market Under Rain.png
 - Affected by [NPC01522_Aldric_Ravenheart_the_Guardian]]
 - Leads to [[Goat Xmm
@@ -263,8 +249,7 @@ Offers deal too good to refuse
 - Affected by [Portrait NPC Quest the Royal Treatment Quest the Royal Treatment.svg]]
 - Influences [[step_079 (phase_064)
 - Related: [ITEM01403_Ornate_Rope_of_Convenience]]
-- Requires [[step_041 (phase_022)
-- See also: [Session 25 Diplomacy Example]]
+- Requires [[Session 25 Diplomacy Example]]
 - Originates from [[LOC00201_Wilderness_Location_202
 - Affected by [shield-of-the-silver-dragon-cos (items)]]
 

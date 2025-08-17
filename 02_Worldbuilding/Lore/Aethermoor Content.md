@@ -1,7 +1,6 @@
 ---
 
-title: [[Aethermoor Content
-type: [Lore]]
+title: [[Aethermoor Content]]
 tags:
 - lore
 - worldbuilding

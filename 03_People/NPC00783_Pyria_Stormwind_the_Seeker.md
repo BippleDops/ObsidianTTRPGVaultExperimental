@@ -161,8 +161,7 @@ Being extorted by criminals
 
 ## Connections
 
-- Related: [[Tactical Assessment Xphb
-- See also: [Port Meridian - Noble Quarter]]
+- Related: [[Port Meridian - Noble Quarter]]
 - Parallels [[Soul Cage Xge
 - Influences [Assets Portraits Portrait NPC Shadow Guard Units Shadow Guard Units.svg]]
 - See also: [[step_015 (phase_066)
@@ -199,8 +198,7 @@ Being extorted by criminals
 - Influences [Banker Cornelius Goldflow 2]]
 - Originates from [[Great Drowning (Lore)
 - Connects to [Location City Sky Trader Zephyr Windcatcher V1 Sky Trader Zephyr Windcatcher.svg]]
-- Leads to [[Master Tidal Engineer Coral Wavewright (D&D_References)
-- Leads to [gem-of-brightness-xdmg (items)]]
+- Leads to [[Master Tidal Engineer Coral Wavewright (D&D_References)]]
 - Originates from [[Depth Pressure Rings 2
 - Requires [scholars-pack-xphb (items)]]
 - Originates from [[Template_StarSystem_Placeholder.png_2 (09_Templates)
@@ -208,23 +206,18 @@ Being extorted by criminals
 - Originates from [[aberrant-spirit-star-spawn-xphb (aberration)
 - Originates from [ITEM00428_Dragon_Scale_Cloak_of_Fortitude]]
 - Affected by
-- Parallels [[step_082 (phase_059)
-- Related: [Factions the Resonance Keepers]]
+- Parallels [[Factions the Resonance Keepers]]
 - Compare with [[Location City Astrologer Prime Cassandra Starweaver Astrologer Prime Cassandra Starweaver.svg
 - Requires
 - See also: [step_042 (phase_038)]]
-- Leads to [[The Amnesia Rehabilitation Centers 2
-- Affected by [step_075 (phase_011)]]
+- Leads to [[The Amnesia Rehabilitation Centers 2]]
 - Compare with [[Ice Kingdom Magic
 - Connects to [fade-away-xge (feats)]]
-- Connects to [[05-personality-and-background (players-handbook-2014)
-- Compare with [step_049 (phase_053)]]
+- Connects to [[05-personality-and-background (players-handbook-2014)]]
 - Leads to [[darkness-xphb (spells)
 - Originates from [Shadow Civil Rights Movement]]
-- Influences [[Countess Marina Stormcrest (D&D_References)
-- Connects to [The Thermal Gardens]]
-- See also: [[09-appendix-a-the-multiverse (players-handbook-2024)
-- Compare with [step_091 (phase_032)]]
+- Influences [[Countess Marina Stormcrest (D&D_References)]]
+- See also: [[09-appendix-a-the-multiverse (players-handbook-2024)]]
 - Compare with [[step_020 (phase_079)
 - Affected by [Death Saving Throw Xphb]]
 - Compare with [[Assets Locations Location City the Cleaner V1 the Cleaner.svg
@@ -233,8 +226,7 @@ Being extorted by criminals
 - Requires [[step_043 (phase_028)
 - Leads to [enspelled-armor-level-6-xdmg (items)]]
 - Related:
-- Parallels [[LOC00136_Cities_Location_137
-- Leads to [step_044 (phase_068)]]
+- Parallels [[LOC00136_Cities_Location_137]]
 - Related: [[Crystal Laboratory 2
 - Affected by [The Shadow Mint]]
 - Connects to [[ENC00399_Combat_Encounter_400
@@ -242,23 +234,19 @@ Being extorted by criminals
 - See also: [step_080 (phase_082)]]
 - Connects to [[ITEM01172_Pure_Potion_of_Healing
 - Requires [sequester-xphb (spells)]]
-- Originates from [[LORE0074_Secret_of_the_Sundering
-- Leads to [Timeline of the Drowning]]
-- Leads to [[NPC00624_Hestara_Stormwind_the_Wanderer
-- Compare with [MON00135_Undead_Creature_136]]
+- Originates from [[LORE0074_Secret_of_the_Sundering]]
+- Leads to [[NPC00624_Hestara_Stormwind_the_Wanderer]]
 - Related: [[Portrait NPC Marcus the Shade Blackwood Marcus the Shade Blackwood.svg
 - Parallels
 - Influences [LORE00323_Legends_Entry_324]]
 - Influences [[Location City Theological Warfare Theological Warfare.svg
 - Requires [SPELL0047_Primal_Wave]]
-- Requires [[The Queen 3 (D&D_References)
-- Related: [Artist Wave Creator]]
+- Requires [[The Queen 3 (D&D_References)]]
 - Connects to [[step_069 (phase_022)
 - Compare with [hand-crossbow-xphb (items)]]
 - Parallels [[step_017 (phase_047)
 - Related: [LORE00032_Prophecies_Entry_33]]
-- Parallels [[The Evolution District (D&D_References)
-- Parallels [Transformation Specialist Anemone Flowshift 2]]
+- Parallels [[Transformation Specialist Anemone Flowshift 2]]
 - Influences
 - Compare with [[Oracle Mistweaver (D&D_References)
 

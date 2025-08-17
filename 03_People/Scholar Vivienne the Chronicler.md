@@ -414,12 +414,9 @@ Mentioned in The Second Prophecy of Stars
 
 ## References
 
-- [[Campaign_Relationship_Matrix
-- [Quest - The Convergence Crisis]]
+- [[Quest - The Convergence Crisis]]
 - [[Stop the Shadow Harvest (Criminal_Organizations)
 - [Assets Symbols Symbol Heraldry Faction Intelligence Faction Intelligence.svg]]
-- [[High Priestess Nerida Soulcurrent
-- [Order of the Shattered Crown]]
-- [[High Priestess Nerida Soulcurrent (D&D_References)
-- [Stop the Shadow Harvest]]
+- [[Order of the Shattered Crown]]
+- [[High Priestess Nerida Soulcurrent (D&D_References)]]
 - [[Order of the Shattered Crown (D&D_Statblocks)]]

@@ -112,18 +112,15 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Originates from [investiture-of-ice-xge (spells)]]
 - Originates from [[Priest Faith Crystalsong
 - Leads to [ITEM00967_Refined_Salve_of_Fortune]]
-- Requires [[NPC00546_Wynne_Lightbringer_the_Seeker
-- Connects to [Raven Xmm]]
+- Requires [[NPC00546_Wynne_Lightbringer_the_Seeker]]
 - Influences [[Succession Documents
 - Originates from [EVENT00025_Political_Event_26]]
-- See also: [[LOC00116_Planes_Location_117
-- Originates from [Assets Locations]]
+- See also: [[LOC00116_Planes_Location_117]]
 - Compare with [[Quest - The Divine Test_1 (01_Adventures)
 - Influences [Academic Alliance]]
 - See also: [[step_092 (phase_016)
 - Influences [step_036 (phase_081)]]
-- Parallels [[LOC00250_Wilderness_Location_251
-- Parallels [The Crimson Fleet]]
+- Parallels [[LOC00250_Wilderness_Location_251]]
 - See also: [[Portrait NPC Archon Meredith Saltweaver V1 Archon Meredith Saltweaver.svg
 - Compare with [Innkeeper Mara Ironlung (D&D_References)]]
 - Requires [[Shadow Surgery Manual
@@ -133,10 +130,8 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - See also:
 - Connects to [[Egyptian Sobek
 - Compare with [gray-ooze-xmm (ooze)]]
-- Requires [[Counselor Marcus Publicvoice (D&D_References)
-- Affected by [step_025 (phase_025)]]
-- Compare with [[LOC00023_Wilderness_Location_24
-- Compare with [Item_Catalog_Complete.md]]
+- Requires [[Counselor Marcus Publicvoice (D&D_References)]]
+- Compare with [[LOC00023_Wilderness_Location_24]]
 - Originates from [[Void Resistance Training
 - Leads to [7 Appendix B Monsters]]
 - Requires [[The Ossuary Temple
@@ -162,14 +157,11 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Influences [step_074 (phase_030)]]
 - Influences [[Monster_Stats (02_Worldbuilding)
 - Parallels [The Pressure Chambers]]
-- Parallels [[Thermal Signature Medical Detector
-- Affected by [LORE00033_Legends_Entry_34]]
-- Connects to [[step_061 (phase_060)
-- Related: [Treasure Hunter Goldseeker (D&D_References)]]
+- Parallels [[Thermal Signature Medical Detector]]
+- Connects to [[Treasure Hunter Goldseeker (D&D_References)]]
 - Influences [[The Coral Throne
 - Influences [Marcus Goldstream]]
-- Compare with [[Welcome to Aquabyssos
-- Compare with [actions#Overrun]]
+- Compare with [[Welcome to Aquabyssos]]
 - See also: [[LORE00034_Prophecies_Entry_35
 - Influences
 - Affected by [ITEM01084_Lesser_Potion_of_Swiftness]]
@@ -179,30 +171,22 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Leads to [Coinage Standard Exchange Rates Phb]]
 - Affected by [[Celtic the Daghdha
 - Parallels [Creature Creature Hobgoblin Devastator Mpmm Hobgoblin Devastator Mpmm.png]]
-- Compare with [[The Memorial Garden
-- Affected by [QUEST00106_Personal_Quest_107]]
-- Requires [[Cultural Integration Trade Associatio
-- See also:
-- Leads to [step_100 (phase_059)]]
-- Related: [[Quest - The Corruption Investigation
-- Leads to [QUEST00148_Main_Quest_149]]
+- Compare with [[QUEST00106_Personal_Quest_107]]
+- Requires [[Cultural Integration Trade Associatio]]
+- Related: [[Quest - The Corruption Investigation]]
 - Originates from [[Assets Locations Location City Crystal Powered Vessels V1 Crystal Powered Vessels.svg
 - Requires [Assets Locations Location City Hybrid Communities Integration Hybrid Communities Integration.svg]]
 - Affected by [[False Breather 2
 - Leads to [Blink Dog Xmm]]
 - Parallels [[Storm Speakers
 - Requires [Crystal Mimics]]
-- See also: [[NPC0164_Ewan_Brightblade_the_Strong
-- Parallels [nonhuman-kurtulmak (deities)]]
+- See also: [[NPC0164_Ewan_Brightblade_the_Strong]]
 - Influences [[Omega-Protocol 2
 - See also: [Portal Network]]
 - Affected by [[magic-item-rarity (tables)
 - Affected by [Assets Item Artifact Ruby Xdmg V4 Ruby Xdmg.png]]
-- Influences [[Temple Council 2
-- Compare with [Underground River Systems (D&D_References)]]
+- Influences [[Underground River Systems (D&D_References)]]
 - Connects to [[Zircon Xdmg
 - Connects to [step_084 (phase_043)]]
-- Related: [[Depth Effect Quick Reference (D&D_References)
-- Compare with [Portrait NPC Orac... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
-- See also: [[Giant Shark Xmm
-- Parallels [Deep Current Flowmaster]]
+- Related: [[Portrait NPC Orac... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- See also: [[Deep Current Flowmaster]]

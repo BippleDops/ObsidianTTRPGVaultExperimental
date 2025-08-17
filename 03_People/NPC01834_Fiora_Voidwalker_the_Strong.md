@@ -166,13 +166,11 @@ Is secretly testing the party
 - Leads to
 - Compare with [[Great Crystal Lens
 - Parallels [Boots of Speed Xdmg]]
-- Related: [[step_034 (phase_047)
-- Compare with [The Singing Trenches (D&D_References)]]
+- Related: [[The Singing Trenches (D&D_References)]]
 - Influences [[Location City Deep Oracle Bathys V1 Deep Oracle Bathys.png
 - Influences
 - Requires [greyhawk-boccob-xdmg (deities)]]
-- Requires [[Bleakmoore Estates 2
-- Related: [NPC01337_Elric_Dawnstrider_the_Scholar]]
+- Requires [[NPC01337_Elric_Dawnstrider_the_Scholar]]
 - See also: [[The Observatory Between
 - Compare with [The Shadow Awakening]]
 - Influences [[LORE00046_Legends_Entry_47
@@ -180,8 +178,7 @@ Is secretly testing the party
 - Affected by [[ITEM00752_Time-worn_Tome_of_Destiny
 - Leads to [Ice Troll Rot]]
 - Leads to
-- See also: [[The Ghost Walker (D&D_References)
-- See also: [Transformation Specialist Doctor Prism-Current]]
+- See also: [[Transformation Specialist Doctor Prism-Current]]
 - Parallels [[step_095 (phase_087)
 - Originates from [Parliament of Echoes 2]]
 - Influences [[portrait-npc-the-barnacle-v1-the-barnacle.svg
@@ -190,8 +187,7 @@ Is secretly testing the party
 - Affected by [Assets Locations Location City the Depth Plague V1 the Depth Plague.svg]]
 - See also: [[heroes-feast-xphb (spells)
 - Related: [Location City Sea Witches Coven V1 Sea Witches Coven.svg]]
-- Leads to [[Provincial Administrative Centers
-- Requires [Crystal Bridge Embassy]]
+- Leads to [[Provincial Administrative Centers]]
 - See also: [[step_030 (phase_083)
 - Leads to [leatherworkers-tools-xphb (items)]]
 - Influences [[Original Glaucus (People)
@@ -203,8 +199,7 @@ Is secretly testing the party
 - Originates from [Black Pudding Xmm]]
 - Parallels [[step_011 (phase_093)
 - Parallels [QUEST00169_Side_Quest_170]]
-- Parallels [[Pressure Angels (D&D_References)
-- Requires [LORE00091_Legends_Entry_92]]
+- Parallels [[Pressure Angels (D&D_References)]]
 - See also: [[step_060 (phase_009)
 - Affected by [Location City the Iteration Collective V1 the Iteration Collective.svg]]
 - Parallels [[step_062 (phase_039)
@@ -217,16 +212,13 @@ Is secretly testing the party
 - Requires [[LOC00212_Cities_Location_213
 - Compare with
 - Related: [dwarven-thard-harr-mtf (deities)]]
-- Connects to [[raise-dead-xphb (spells)
-- Influences [NPC00389_Branwen_Stormwind_the_Broken]]
+- Connects to [[NPC00389_Branwen_Stormwind_the_Broken]]
 - Compare with [[ITEM00637_Ethereal_Boots_of_Grace
 - Originates from [MON00050_Aberrations_Creature_51]]
-- Compare with [[The Barnacle
-- See also: [Agent Vex Shadowthorn]]
+- Compare with [[Agent Vex Shadowthorn]]
 - Compare with [[step_038 (phase_043)
 - Parallels [step_004 (phase_055)]]
-- See also: [[The Schism and Reconciliation 2
-- Requires [The Black Ledger]]
+- See also: [[The Schism and Reconciliation 2]]
 - Compare with [[step_037 (phase_084)
 - See also: [step_035 (phase_077)]]
 - Compare with [[Tiny Servant Xge
@@ -247,13 +239,9 @@ Is secretly testing the party
 - See also: [hook-horror-xmm (monstrosity)]]
 - Leads to [[The Unshadowed 2
 - See also: [Assets Locations Location City Sunlight Crystal V1 Sunlight Crystal.svg]]
-- Leads to [[The Spire of Courage 2
-- See also: [Marcus Goldleaf (D&D_References)]]
-- Leads to [[ITEM0106_Cursed_Gauntlet_of_the_Dawn
-- See also:
-- Related: [step_057 (phase_075)]]
-- See also: [[NPC01964_Zephyr_Oakenshield_the_Fallen
-- Originates from [step_087 (phase_021)]]
+- Leads to [[Marcus Goldleaf (D&D_References)]]
+- Leads to [[ITEM0106_Cursed_Gauntlet_of_the_Dawn]]
+- See also: [[NPC01964_Zephyr_Oakenshield_the_Fallen]]
 - Leads to [[SPELL00107_Arcane_Spell_108
 
 ## Visual References

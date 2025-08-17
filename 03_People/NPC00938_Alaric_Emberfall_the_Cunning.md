@@ -156,8 +156,7 @@ Seeks rare merchandise
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -175,30 +174,25 @@ Seeks rare merchandise
 
 - See also: [[Assets Portraits Portrait NPC Storm Empress Tempestas Maelstrom Storm Empress Tempestas Maelstrom.svg
 - Requires [QUEST00109_Main_Quest_110]]
-- Related: [[LOC00228_Cities_Location_229
-- Compare with [step_060 (phase_016)]]
+- Related: [[LOC00228_Cities_Location_229]]
 - Requires [[Councillor Void
 - Influences [Portrait NPC Prince Caspian Duskwater Prince Caspian Duskwater.svg]]
-- Leads to [[step_018 (phase_005)
-- Influences [LOC00109_Wilderness_Location_110]]
+- Leads to [[LOC00109_Wilderness_Location_110]]
 - Compare with [[step_017 (phase_009)
 - See also: [zuggtmoy-mtf (legendary-group)]]
 - Compare with [[step_016 (phase_037)
 - Parallels [List Spells Races Tiefling Baalzebul Mtf]]
 - Compare with [[Vote Engineer Abyssal Cog (D&D_References)
 - Leads to [Portrait NPC Lady Cordelia Windham Lady Cordelia Windham.svg]]
-- Originates from [[NPC00950_Rhiannon_Moonshadow_the_Swift
-- See also: [LOC0043_WestHill]]
-- See also: [[step_032 (phase_027)
-- Originates from [LOC00213_Wilderness_Location_214]]
+- Originates from [[NPC00950_Rhiannon_Moonshadow_the_Swift]]
+- See also: [[LOC00213_Wilderness_Location_214]]
 - Compare with [[Symbiotic Integration Specialists
 - Compare with [Enspelled Armor Level 5 Xdmg]]
 - See also:
 - Parallels [[Seeds of Tomorrow 2
 - Affected by
 - Influences [Guardian Merger Rituals]]
-- Related: [[NPC01637_Hestara_Xendar_the_Guardian
-- Parallels [step_009 (phase_057)]]
+- Related: [[NPC01637_Hestara_Xendar_the_Guardian]]
 - Compare with [[step_068 (phase_006)
 - Influences [The Royal Palace]]
 - Compare with
@@ -220,14 +214,11 @@ Seeks rare merchandise
 - See also: [Portrait NPC the Pressure King the Pressure King.svg]]
 - Influences [[ancient-green-dragon-xmm
 - Parallels [Random Encounter Tables Aquabyssos.png]]
-- Requires [[09-adventuring#Recuperating
-- Requires [QUEST00164_Main_Quest_165]]
+- Requires [[09-adventuring#Resting]]
 - Related: [[arcane-vigor-xphb (spells)
 - Connects to [The Threshold Chambers 2]]
 - Compare with
-- Connects to [[item mastery#Slow
-- Originates from
-- See also: [step_067 (phase_090)]]
+- Connects to [[Item Mastery]]
 - Compare with [[step_015 (phase_085)
 - Connects to
 - Affected by [ceremonial-gold-armor-with-black-pearls-xdmg (items)]]
@@ -243,8 +234,7 @@ Seeks rare merchandise
 - Requires [Guerrilla Fighters]]
 - Compare with [[World_State
 - Originates from [Dual World Mechanics]]
-- Leads to [[NPC00870_Xander_Winterborn_the_Bold
-- Related: [step_048 (phase_074)]]
+- Leads to [[NPC00870_Xander_Winterborn_the_Bold]]
 - Compare with [[ENC00146_Combat_Encounter_147
 - Related: [ENC00249_Social_Encounter_250]]
 - Affected by [[ENC00052_Combat_Encounter_53
@@ -252,14 +242,10 @@ Seeks rare merchandise
 - See also: [Gentle Currentguide 2]]
 - See also: [[Quest - Into the Wastes
 - Related: [step_091 (phase_081)]]
-- Leads to [[Home Embeds#Recently Modifie 2
-- Requires [ENC00037_Social_Encounter_38]]
-- See also: [[Quests Quest the Forge of Memory
-- Affected by [D_005_Shadow_Bloom_Player]]
-- Related: [[Ambassador Nerida Deepcurrent (D&D_References)
-- Connects to [QUEST0079_Captain's_Revenge]]
-- Parallels [[healing-xphb (variant-rules)
-- Parallels [step_009 (phase_080)]]
+- Leads to [[Home Embeds - DV]]
+- See also: [[Quests Quest the Forge of Memory]]
+- Related: [[Ambassador Nerida Deepcurrent (D&D_References)]]
+- Parallels [[healing-xphb (variant-rules)]]
 - Compare with [[Assets Locations Location City Progressive Policy Portfolio Progressive Policy Portfolio.svg
 - Connects to [Ice Devil Xmm]]
 - Connects to [[dining-room (bastions)
@@ -271,8 +257,7 @@ Seeks rare merchandise
 - Compare with [quaggoth-thonot-xmm (monstrosity)]]
 - Leads to [[LOC00176_Cities_Location_177
 - Parallels [robe-of-useful-items-xdmg (items)]]
-- Compare with [[LOC00140_Planes_Location_141
-- See also: [step_028 (phase_043)]]
+- Compare with [[LOC00140_Planes_Location_141]]
 
 ## Visual References
 ![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]

@@ -255,6 +255,5 @@ ___
 
 ## References
 
-- [[Quest - Hearts and Minds
-- [Queen Lyralei Stormheart]]
+- [[Quest - Hearts and Minds]]
 - [[Queen Lyralei Stormheart (D&D_References)]]

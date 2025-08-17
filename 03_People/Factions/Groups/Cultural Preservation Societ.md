@@ -57,5 +57,4 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [The Cultural Preservation Society]]
-- [[Keeper Elara Mindwell
-- [Keeper Elara Mindwell (D&D_Statblocks)]]
+- [[Keeper Elara Mindwell (D&D_Statblocks)]]

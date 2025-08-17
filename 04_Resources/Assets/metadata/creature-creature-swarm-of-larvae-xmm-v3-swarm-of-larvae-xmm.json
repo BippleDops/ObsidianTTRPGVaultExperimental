@@ -25,5 +25,8 @@
   "alt_text": "Concept art of swarm-of-larvae-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-swarm-of-larvae-xmm-v3-swarm-of-larvae-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-swarm-of-larvae-xmm-v3-swarm-of-larvae-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:09:58.841Z",
+  "generationMethod": "ComfyUI"
 }

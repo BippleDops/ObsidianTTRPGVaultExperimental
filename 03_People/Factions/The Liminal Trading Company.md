@@ -213,12 +213,9 @@ Things widely suspected
 
 ## References
 
-- [[Quest - The Convergence Crisis
-- [Umbral Exchange]]
+- [[Quest - The Convergence Crisis]]
 - [[Tribune Cassia Deepcurrent
 - [The Floating Market]]
-- [[The Tidepool Markets
-- [The Floating Market (D&D_References)]]
-- [[The Tidepool Markets (D&D_References)
-- [Tribune Cassia Deepcurrent (D&D_References)]]
+- [[The Floating Market (D&D_References)]]
+- [[Tribune Cassia Deepcurrent (D&D_References)]]
 - [[Umbral Exchange (D&D_References)]]

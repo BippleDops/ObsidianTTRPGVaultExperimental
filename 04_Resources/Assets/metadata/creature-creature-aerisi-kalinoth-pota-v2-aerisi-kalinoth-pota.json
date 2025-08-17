@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Imagine a detailed concept art piece in a heroic tabletop fantasy style, similar to Dungeons & Dragons 5th Edition. The theme is medieval-fantasy with culturally consistent gear, all made from materials you would find in those times with no modern technology or signage present. In this painterly illustration, focus on a muscular, fantasy character with unique limbs, portrayed with a human silhouette for comparison. The environment is a beautifully blended underwater and sky zone, indicating motion. This is aquatic fantasy realism, capturing the beauty of subsurface caustics and bioluminescent accents illuminating the pressure-dome shaped setting. The color palette includes predominantly teals, deep blues, sea-greens and pearl highlights. Avoid including embedded text or words, keep any symbols meaningful or use numbered pins. Steering clear of styles associated with sci-fi UIs, modern signage, photoreal CGI and anime style. Also, ensure to minimize bloom glare and any potential artifacts.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-aerisi-kalinoth-pota-v2-aerisi-kalinoth-pota.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-aerisi-kalinoth-pota-v2-aerisi-kalinoth-pota.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:03.321Z",
+  "generationMethod": "ComfyUI"
 }

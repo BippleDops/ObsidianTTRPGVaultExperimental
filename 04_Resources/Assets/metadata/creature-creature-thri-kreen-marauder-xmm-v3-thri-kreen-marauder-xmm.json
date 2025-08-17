@@ -25,5 +25,8 @@
   "alt_text": "Concept art of thri-kreen-marauder-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-thri-kreen-marauder-xmm-v3-thri-kreen-marauder-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-thri-kreen-marauder-xmm-v3-thri-kreen-marauder-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:10:10.794Z",
+  "generationMethod": "ComfyUI"
 }

@@ -43,7 +43,7 @@ updated: '2025-08-13T01:18:31.186044+00:00'
 - A secret they're hiding
 - How they speak (voice/mannerisms) **Plot Integration:**
 - Connection to Shadowhaven's guild system
-- Relationship to at least 2 existing NPCs: [[Councillor Elara Brightwater, [Whisper Jack (Lore)]], [[Master Thorne Blackforge (D&D_References)|Master Thorne Blackforge (D&D References), [Lady Seraphina Goldleaf (D&D_References)|Lady Seraphina Goldleaf (D&D References)]]
+- Relationship to at least 2 existing NPCs: [[Councillor Elara Brightwater]], [[Master Thorne Blackforge (D&D_References)|Master Thorne Blackforge (D&D References), [Lady Seraphina Goldleaf (D&D_References)|Lady Seraphina Goldleaf (D&D References)]]
 - A quest hook they could provide
 - Something valuable they know or possess **Background:**
 - Where they live in the city (district)

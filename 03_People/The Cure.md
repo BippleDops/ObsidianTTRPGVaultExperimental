@@ -332,7 +332,5 @@ Member of House Eagleblood - Trait: curse
 -
 - [[The Queen
 - [Assets Locations Location City Temple Guardian Marcus the Drowned V1 Temple Guardian Marcus the Drowned.svg]]
-- [[The_Crimson_Pearl
-- [Crystal Plague Wards]]
-- [[The Crimson Pearl (D&D_References)
-- [The_Crimson_Pearl (D&D_References)]]
+- [[Crystal Plague Wards]]
+- [[The Crimson Pearl (D&D_References)]]

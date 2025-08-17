@@ -159,16 +159,14 @@ Forming expedition to dangerous location
 
 ## Connections
 
-- Influences [[NPC00879_Felicia_Frostwhisper_the_Swift
-- See also: [EVENT00036_Political_Event_37]]
+- Influences [[NPC00879_Felicia_Frostwhisper_the_Swift]]
 - See also: [[initial-attitudes-initial-attitude-xdmg (tables)
 - Leads to [SPELL00129_Divine_Spell_130]]
 - Affected by [[step_024 (phase_028)
 - Compare with [portrait-npc-tenebrarum-v1-tenebrarum.svg_1 (Portraits)]]
 - Affected by [[Portrait NPC Quest the Admiral S Gambit V1 Quest the Admiral S Gambit.svg
 - Leads to [NPC01417_Alaric_Zephyrblade_the_Scholar]]
-- Originates from [[Balance Stones (D&D_References)
-- See also: [step_100 (phase_022)]]
+- Originates from [[Balance Stones (D&D_References)]]
 - Related: [[Portrait NPC Quest the Cure for Madness V1 Quest the Cure for Madness.svg
 - Influences [LOC00096_Cities_Location_97]]
 - Affected by [[EVENT00024_Natural_Event_25
@@ -179,8 +177,7 @@ Forming expedition to dangerous location
 - Compare with [dragonlance-chemosh-phb (deities)]]
 - Originates from [[Doctor Helena Voidwalker
 - Connects to [Game_Design_Articles]]
-- Leads to [[NPC00814_Drusilla_Thornweave_the_Mystic
-- Affected by [QUEST00142_Personal_Quest_143]]
+- Leads to [[NPC00814_Drusilla_Thornweave_the_Mystic]]
 - Related: [[step_047 (phase_086)
 - Originates from [SPELL00037_Arcane_Spell_38]]
 - Related: [[step_040 (phase_099)
@@ -188,33 +185,27 @@ Forming expedition to dangerous location
 - Leads to [Druidic Focus Xphb]]
 - See also: [[Lock Xphb
 - Affected by [Royal Academy of Arcane Art (Academies)]]
-- Leads to [[step_052 (phase_021)
-- Parallels [LOC00230_Planes_Location_231]]
-- Requires [[ENC00020_Combat_Encounter_21
-- Compare with [Prophetic Visions (D&D_References)]]
+- Leads to [[LOC00230_Planes_Location_231]]
+- Requires [[Prophetic Visions (D&D_References)]]
 - Affected by [[Mechanics_Feedback
 - See also: [Enfeebling Arrow Xge]]
 - Originates from [[Phantom Warrior Cos
 - Affected by [Establish New World Order]]
 - Connects to [[Scepter of Winter's Command (D&D_References)
 - Influences [Assets Locations Location City Current Bridgewater Current Bridgewater.svg]]
-- Compare with [[LOC00013_Towns_Location_14
-- Compare with [ENC00140_Environmental_Encounter_141]]
+- Compare with [[ENC00140_Environmental_Encounter_141]]
 - Influences [[Portrait NPC Quest the Void Conspiracy V2 Quest the Void Conspiracy.png
 - Affected by [NPC00583_Malakai_Proudmore_the_Strong]]
 - Requires [[Portrait NPC Salvage Queen Nerissa Deepfinder V2 Salvage Queen Nerissa Deepfinder.svg
 - Influences [Dynamic NPC Personality Matrix]]
-- Affected by [[Enspelled Weapon Level 8 Xdmg
-- Parallels [NPC01791_Aeliana_Oakenshield_the_Bold]]
+- Affected by [[NPC01791_Aeliana_Oakenshield_the_Bold]]
 - Requires [[manual-of-bodily-health-xdmg (items)
 - Connects to [Singer Consciousness]]
-- Requires [[step_003 (phase_082)
-- See also: [MON00065_Constructs_Creature_66]]
+- Requires [[MON00065_Constructs_Creature_66]]
 - Parallels
 - Affected by [[Keeper Healer Restoration
 - Affected by [Grief Overwhelming Syndrome]]
-- Compare with [[ITEM0035_Divine_Tome_of_Power
-- Compare with [Conceptual Being #7]]
+- Compare with [[ITEM0035_Divine_Tome_of_Power]]
 - Affected by [[The Resoce Forge Hammer
 - Connects to [step_048 (phase_055)]]
 - Originates from [[Goblin Hexer Xmm
@@ -227,20 +218,17 @@ Forming expedition to dangerous location
 - Influences [step_051 (phase_018)]]
 - Parallels [[Portrait NPC Empress Tethys the Ever Drowning V1 Empress Tethys the Ever Drowning.svg_1 (Portraits)
 - Parallels [The Facilitator (D&D_References)]]
-- Connects to [[LOC00256_Dungeons_Location_257
-- Connects to [step_076 (phase_046)]]
+- Connects to [[LOC00256_Dungeons_Location_257]]
 - Connects to [[the-calendar-of-harptos (tables)
 - Leads to [step_077 (phase_021)]]
 - See also: [[Assets Locations Location City Keeper Temporal Safehaven V1 Keeper Temporal Safehaven.svg
 - Connects to [List Spells Optional Features Book of Ancient Secrets]]
-- Requires [[FAC00074_Orders_75
-- Parallels [Resonance Roses (D&D_References)]]
+- Requires [[Resonance Roses (D&D_References)]]
 - Influences [[DUN00165_Dungeon_166
 - Related: [fire-opal-xdmg (items)]]
 - Connects to [[lamia-xmm (fiend)
 - Compare with [Aethermoor Crystal Mines]]
-- Parallels [[Campaign_Conclusions
-- See also: [ENC00181_Environmental_Encounter_182]]
+- Parallels [[ENC00181_Environmental_Encounter_182]]
 - Originates from [[Portrait NPC Lord Aurelius Goldwave V2 Lord Aurelius Goldwave.svg
 - Requires [Aethermoor Wind Rider Traditions (D&D_References)]]
 - See also: [[step_075 (phase_035)
@@ -251,8 +239,7 @@ Forming expedition to dangerous location
 - Originates from
 - Parallels [[downtime-activity-scribing-a-spell-scroll-xge (variant-rules)
 - Requires [Portrait NPC Marina Red Tide Coralheart Aquabyssos V1 Marina Red Tide Coralheart Aquabyssos.svg_1 (Portraits)]]
-- Requires [[Resonance Networks
-- Related: [LOC00213_Wilderness_Location_214]]
+- Requires [[LOC00213_Wilderness_Location_214]]
 - Leads to [[Assets Locations Location City the Umbral Nexus the Umbral Nexus.svg
 - Influences [Assets Locations Location City Count Viktor Pressureborn Count Viktor Pressureborn.svg]]
 - Leads to [[step_045 (phase_042)

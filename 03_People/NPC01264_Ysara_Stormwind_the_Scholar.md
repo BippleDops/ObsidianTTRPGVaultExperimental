@@ -166,41 +166,34 @@ Forming expedition to dangerous location
 
 - Compare with [[step_034 (phase_027)
 - See also: [step_092 (phase_047)]]
-- Influences [[Temporal Control
-- Compare with [Merged Magic (D&D_References)]]
-- Originates from [[Garden of Shadows 2
-- Leads to [NPC01198_Jorah_Emberfall_the_Guardian]]
+- Influences [[Merged Magic (D&D_References)]]
+- Originates from [[NPC01198_Jorah_Emberfall_the_Guardian]]
 - Compare with [[step_096 (phase_022)
 - Leads to
 - Parallels [skills#Arcana]]
 - Requires [[ITEM00272_Cursed_Staff_of_the_Ancients
 - Connects to [Location City Pressure Responsive Fabrics Pressure Responsive Fabrics.svg]]
-- See also: [[Morningstar Xphb
-- Originates from [Taverner Bubbles McGill (D&D_References)]]
+- See also: [[Taverner Bubbles McGill (D&D_References)]]
 - Parallels [[Portrait NPC Ambassador Nerida Deepcurrent V1 Ambassador Nerida Deepcurrent.svg
 - Originates from [The Informant (D&D_References)]]
 - Compare with [[Crystal Mines (Lore)
 - See also: [efreeti-chain-xdmg (items)]]
 - Influences [[Assets Locations Location City Gem Deepseeker V1 Gem Deepseeker.svg
 - See also: [The Porters Union (D&D_References)]]
-- Leads to [[Eye Agate Xdmg
-- Parallels [NPC01807_Cedric_Underhill_the_Seeker]]
-- Affected by [[SPELL00165_Divine_Spell_166
-- Requires [Nautilus Threadmender (D&D_References)]]
+- Leads to [[NPC01807_Cedric_Underhill_the_Seeker]]
+- Affected by [[Nautilus Threadmender (D&D_References)]]
 - Affected by [[Assets Art Sky Trader Zephyr Windcatcher.png
 - See also: [Elena Starweaver]]
 - Influences [[The Shadow Exchange
 - Influences [The Trade Quarter]]
-- Parallels [[DUN00045_Dungeon_46
-- Leads to [NPC01686_Elric_Stormwind_the_Swift]]
+- Parallels [[NPC01686_Elric_Stormwind_the_Swift]]
 - Related: [[Assets Locations Location City the Sundered Vaults V1 the Sundered Vaults.svg
 - Requires [Data Analyst Current Patternweave 2]]
 - Related: [[step_083 (phase_023)
 - Related: [Elder Dee 2]]
 - Parallels [[ITEM0053_Forgotten_Pendant_of_Power
 - Originates from [ENC00412_Combat_Encounter_413]]
-- Parallels [[Mediator Supreme Cora Peaceweaver
-- Compare with [FAC00042_Orders_43]]
+- Parallels [[Mediator Supreme Cora Peaceweaver]]
 - Influences
 - Influences [[step_060 (phase_060)
 - Connects to [Moon Touched Sword Xdmg]]
@@ -222,8 +215,7 @@ Forming expedition to dangerous location
 - Related: [[Calm Emotions Xphb
 - See also:
 - Leads to [step_032 (phase_045)]]
-- Compare with [[NPC00893_Aldric_Lightbringer_the_Guardian
-- Affected by [NPC01944_Xander_Stormwind_the_Redeemed]]
+- Compare with [[NPC00893_Aldric_Lightbringer_the_Guardian]]
 - Requires [[Levels 1116 Masters of the Realm Levels 1116
 - Requires [Location City St Meridian S Cathedral V1 St Meridian S Cathedral.svg]]
 - See also: [[Old Marina Saltwind
@@ -251,19 +243,16 @@ Forming expedition to dangerous location
 - Related: [Assets Locations Location City Marina Bridgewater Marina Bridgewater.svg]]
 - See also: [[EVENT00049_Magical_Event_50
 - See also: [EVENT00020_Natural_Event_21]]
-- See also: [[LOC00179_Dungeons_Location_180
-- See also: [Greyhawk Ehlonna Xdmg]]
+- See also: [[LOC00179_Dungeons_Location_180]]
 - Originates from [[Symbol Heraldry the Anonymous Inquisitor the Anonymous Inquisitor.svg
 - Originates from
 - Leads to [ochre-jelly-xmm (ooze)]]
-- Compare with [[bheur-hag-vgm (legendary-group)
-- Compare with [Pressure-Lock Systems (D&D_References)]]
+- Compare with [[Pressure-Lock Systems (D&D_References)]]
 - Originates from [[step_043 (phase_093)
 - Originates from [step_057 (phase_006)]]
 - Requires [[Syndicate Enforcers 2
 - Originates from [Gold Dragon Xmm]]
-- Requires [[Post-Revolutionary Society Vision (D&D_References)
-- Compare with [LORE00145_Prophecies_Entry_146]]
+- Requires [[Post-Revolutionary Society Vision (D&D_References)]]
 
 ## Visual References
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png
@@ -279,7 +268,7 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Capital**: [Skylance Citadel]]
 - **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
 - **Current Conflict**: The Void Incursion, Elemental Convergence
-- **Key Locations**: [[Floating Gardens, [Storm's Eye Tower]]
+- **Key Locations**: [[Floating Gardens]]
 
 The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.

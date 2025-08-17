@@ -170,8 +170,7 @@ Has information about legendary item
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -205,27 +204,21 @@ Has information about legendary item
 - Leads to [Portrait NPC Ambassador Korvin Blacktide V1 Ambassador Korvin Blacktide.svg]]
 - Parallels [[step_032 (phase_029)
 - Requires [Vicious Vine Xdmg]]
-- See also: [[step_028 (phase_050)
-- Related: [House Tidecaller (D&D_References)]]
+- See also: [[House Tidecaller (D&D_References)]]
 - See also: [[Bookmark_Collections
 - Leads to [Quest The Shadow Fleet]]
-- Compare with [[Magistrate Elena Greywind
-- Requires [NPC00725_Wynne_Jadeclaw_the_Scholar]]
+- Compare with [[NPC00725_Wynne_Jadeclaw_the_Scholar]]
 - Leads to [[step_089 (phase_032)
 - Connects to [Sunburst Xphb]]
-- Originates from [[Financial Crime Investigation 2
-- Affected by [Memorial Current]]
-- Influences [[QUEST00380_Side_Quest_381
-- Influences [Aether Crystals]]
-- Requires [[The Seekers' Guild
-- Originates from [NPC00674_Malakai_Crystalbrook_the_Wise]]
+- Originates from [[Financial Crime Investigation 2]]
+- Influences [[QUEST00380_Side_Quest_381]]
+- Requires [[NPC00674_Malakai_Crystalbrook_the_Wise]]
 - Originates from
 - Affected by [[Reality Anchor Ring
 - Connects to [The Great Cataloguing 2]]
 - Parallels [[EVENT00041_Natural_Event_42
 - Influences [List Spells Optional Features Bewitching]]
-- Originates from [[step_007 (phase_019)
-- Affected by [ENC00252_Social_Encounter_253]]
+- Originates from [[ENC00252_Social_Encounter_253]]
 - Compare with [[ITEM01463_Elegant_Lantern_of_Reliability
 - Affected by [Portrait NPC Priest Faith Crystalsong V1 Priest Faith Crystalsong.svg_1 (Portraits)]]
 - Leads to [[Archive Old Content 2
@@ -241,30 +234,26 @@ Has information about legendary item
 - See also: [[The Pressure Forges 2
 - Affected by [Scholarly Theologians]]
 - Affected by
-- Influences [[ENC00496_Combat_Encounter_497
-- Affected by [Interfaith_Council]]
+- Influences [[ENC00496_Combat_Encounter_497]]
 - Requires [[step_019 (phase_018)
 - Leads to [Portrait NPC Aboleth Prime Yoth V2 Aboleth Prime Yoth.svg]]
 - See also: [[cinnamon-xdmg (items)
 - Originates from
 - Influences [Portrait NPC Vex Shadowthorn the Kingpin V2 Vex Shadowthorn the Kingpin.svg]]
-- Leads to [[rod-of-absorption-xdmg (items)
-- Requires [NPC00402_Hestara_Grimholt_the_Mystic]]
+- Leads to [[NPC00402_Hestara_Grimholt_the_Mystic]]
 - Compare with [[ITEM00481_Ethereal_Boots_of_Grace
 - Affected by [step_039 (phase_048)]]
 - Parallels [[ENC00064_Combat_Encounter_65
 - See also: [bard-xphb-college-of-glamour-xphb 2 (classes)]]
 - Influences [[step_050 (phase_040)
 - Connects to [Nonhuman Hruggek]]
-- Leads to [[The Ironlung Tavern 3 (D&D_References)
-- Compare with [The Spectral Gallery]]
+- Leads to [[The Ironlung Tavern 3 (D&D_References)]]
 - Leads to [[DUN00060_Dungeon_61
 - Related: [Player Portal]]
 - See also: [[The Final Wake
 - Originates from
 - Affected by [winged-kobold-xmm]]
-- Parallels [[LOC00087_Wilderness_Location_88
-- Requires [step_069 (phase_061)]]
+- Parallels [[LOC00087_Wilderness_Location_88]]
 - Originates from
 - Parallels [[Maître d' Pelagia Smoothcurrent
 - Parallels [QUEST00060_Main_Quest_61]]
@@ -275,14 +264,11 @@ Has information about legendary item
 - Related: [Location City the Dreamwhisper Inn V1 the Dreamwhisper Inn.svg]]
 - Compare with [[NPC00466_Vesper_Frostwhisper
 - Related: [QUEST00110_Side_Quest_111]]
-- Parallels [[Dimensional Vaults
-- Influences [The Temporal Observatory (D&D_References)]]
+- Parallels [[The Temporal Observatory (D&D_References)]]
 - Related: [[combat_narrative_integration
 - Parallels [13-appendix-c-maps (dungeon-masters-guide-2014)]]
-- Affected by [[Shadow-Crystal Synthesis
-- Related: [The Balance Keeper (D&D_References)]]
-- Parallels [[Void Prophet Nullus the Erased
-- Related: [NPC01753_Gavril_Frostwhisper_the_Mystic]]
+- Affected by [[The Balance Keeper (D&D_References)]]
+- Parallels [[NPC01753_Gavril_Frostwhisper_the_Mystic]]
 - Requires [[ENC00108_Social_Encounter_109
 - Compare with [Assets Item Artifact Poisoners Kit Xphb V4 Poisoners Kit Xphb.png]]
 

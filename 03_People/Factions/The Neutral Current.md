@@ -159,6 +159,5 @@ Mentioned in The First Prophecy of Winds
 
 ## References
 
-- [[Merchant's Covenant
-- [The Neutral Current Tavern]]
+- [[The Neutral Current Tavern]]
 - [[Merchant's Covenant (D&D_References)]]

@@ -1,7 +1,6 @@
 ---
 
-title: The [[Crystal Palace
-type: [Lore]]
+title: The [[Crystal Palace]]
 tags:
 - lore
 - active

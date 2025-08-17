@@ -1,7 +1,6 @@
 ---
 
-title: [[locations Crystal Shadow Storms
-type: [Lore]]
+title: [[Locations Crystal Shadow Storms]]
 tags:
 - lore
 - active

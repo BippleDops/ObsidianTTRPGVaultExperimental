@@ -163,8 +163,7 @@ Needs discrete help with family scandal
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -209,22 +208,19 @@ Needs discrete help with family scandal
 - Originates from [step_080 (phase_073)]]
 - Originates from [[halfling-arvoreen-mtf (deities)
 - See also: [INV-003 (D&D_References)]]
-- Influences [[MON0041_Frost_Wraith
-- Influences [Noble Quarter Council Chambers]]
+- Influences [[Noble Quarter Council Chambers]]
 - Compare with [[Portrait NPC Find the Shadow Cure V1 Find the Shadow Cure.svg_1 (Portraits)
 - Influences [locked-door-lock-complexity-xdmg (tables)]]
 - Requires [[step_039 (phase_016)
 - Affected by [tricksters-escape-xge (optional-features)]]
 - Influences
-- Related: [[QUEST00156_Side_Quest_157
-- Influences [Combat_Tracker]]
+- Related: [[QUEST00156_Side_Quest_157]]
 - Compare with [[The Scattered Emperor (D&D_References)
 - See also: [NPC00267_Vesper_Lightbringer_the_Strong]]
 - Connects to
 - Connects to [[LORE00192_Prophecies_Entry_193
 - Originates from [Government Seal of Authority]]
-- Related: [[NPC01782_Hilda_Grimholt_the_Cunning
-- Influences [House Shadowmere]]
+- Related: [[NPC01782_Hilda_Grimholt_the_Cunning]]
 - Affected by [[step_094 (phase_006)
 - Related: [The Pressure Stone]]
 - Leads to [[Location City Court Manager Noble Court Manager Noble.svg
@@ -232,8 +228,7 @@ Needs discrete help with family scandal
 - Originates from
 - Connects to [[ITEM00215_Blazing_Crossbow_of_Wounding
 - Leads to [Assets Locations Location City Depth Supremacy Movement Depth Supremacy Movement.svg]]
-- Affected by [[Missing Persons of Port Meridian
-- Compare with [Elemental Court 2]]
+- Affected by [[Missing Persons of Port Meridian]]
 - Compare with [[step_063 (phase_006)
 - Originates from [Scene Scene Crystal Trench Aurora Crystal Trench Aurora.svg]]
 - Connects to [[Quest - The Bio-Adaptation Crisis_1 (01_Adventures)
@@ -256,8 +251,7 @@ Needs discrete help with family scandal
 - Compare with [04_Resources_Assets_Symbols_symbol-heraldry-regulatory-medical-authorit-regulatory-medical-authorit.svg]]
 - Compare with [[list-spells-classes-evoker-xphb (lists)
 - Related: [Lighthouse Pea]]
-- Compare with [[step_026 (phase_059)
-- Parallels [ITEM0122_Cursed_Circlet_of_the_Dawn]]
+- Compare with [[ITEM0122_Cursed_Circlet_of_the_Dawn]]
 - Leads to
 - Leads to [[The Anonymous Accord
 - Connects to [Weather and Season]]
@@ -294,7 +288,7 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Capital**: [Skylance Citadel]]
 - **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
 - **Current Conflict**: The Void Incursion, Elemental Convergence
-- **Key Locations**: [[Floating Gardens, [Storm's Eye Tower]]
+- **Key Locations**: [[Floating Gardens]]
 
 The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.

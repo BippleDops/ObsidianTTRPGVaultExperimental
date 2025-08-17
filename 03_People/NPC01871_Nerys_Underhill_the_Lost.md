@@ -162,8 +162,7 @@ Offers deal too good to refuse
 - Influences [[Golden Ballroom 2
 - See also: [The Golden Promenade]]
 - See also:
-- Affected by [[Crisis Exploitation
-- Connects to [ENC00072_Combat_Encounter_73]]
+- Affected by [[ENC00072_Combat_Encounter_73]]
 - Requires
 - Parallels [[Assets Symbols Symbol Heraldry Factional Conflicts Factional Conflicts.svg
 - Originates from [Nightmarket Plaza]]
@@ -171,8 +170,7 @@ Offers deal too good to refuse
 - Influences [Assets Locations Location City the Tidecaller the Tidecaller.svg]]
 - Leads to [[Location City Pressure Portals V1 Pressure Portals.svg
 - Connects to [Unbroken Air]]
-- Compare with [[circle-of-power-xphb (spells)
-- Compare with [Portrait NPC Inte... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Compare with [[Portrait NPC Inte... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Leads to [[Aquabyssos Vault Readme
 - Parallels [wall-of-ice-xphb (spells)]]
 - Compare with [[Assets Locations Location City Abyssos Prime 2 Abyssos Prime 2.svg
@@ -199,8 +197,7 @@ Offers deal too good to refuse
 - Originates from [Deep Priest Covet]]
 - Requires [[LOC00285_Dungeons_Location_286
 - Related: [MON00016_Aberrations_Creature_17]]
-- Compare with [[Soul Shepherd Brother Marcus the Willing (D&D_References)
-- Requires [Dimensional_Travel]]
+- Compare with [[Soul Shepherd Brother Marcus the Willing (D&D_References)]]
 - Requires [[Assets Vehicles Vehicle Ship Depth Piercer Research Sub V2 Depth Piercer Research Sub.svg
 - See also: [Find the Ideal Introduction Adventure]]
 - Affected by [[List Spells Classes Oath of Devotion Xphb
@@ -230,8 +227,7 @@ Offers deal too good to refuse
 - Connects to [QUEST00037_Side_Quest_38]]
 - Parallels [[The Kelp Territories
 - Leads to [Location City Gatekeeper Iron Lung Boris V1 Gatekeeper Iron Lung Boris.svg]]
-- Parallels [[Port Sorrow Trading Company (D&D_References)
-- Compare with [ITEM01285_Lesser_Oil_of_Healing]]
+- Parallels [[Port Sorrow Trading Company (D&D_References)]]
 - Affected by [[step_076 (phase_032)
 - Leads to [step_073 (phase_087)]]
 - Connects to [[Assets Portraits Portrait NPC Elder Whisper in the Dark Elder Whisper in the Dark.svg
@@ -246,12 +242,10 @@ Offers deal too good to refuse
 - Parallels [[Ioun Stone Intellect Xdmg
 - Connects to
 - Originates from [step_093 (phase_062)]]
-- Requires [[step_049 (phase_011)
-- Influences [red-dragon (legendary-group)]]
+- Requires [[red-dragon (legendary-group)]]
 - See also: [[portrait-npc-queen-glacialis-queen-glacialis.svg
 - Parallels [step_094 (phase_070)]]
-- Related: [[Atoll Research Team 2
-- See also: [Blacksmith Cross-Hammer Grendel]]
+- Related: [[Blacksmith Cross-Hammer Grendel]]
 - Related: [[Creature Creature Aerisi Kalinoth Pota Aerisi Kalinoth Pota.png
 - Influences
 - Originates from

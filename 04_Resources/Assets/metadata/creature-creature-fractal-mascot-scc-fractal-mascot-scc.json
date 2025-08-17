@@ -25,5 +25,8 @@
   "alt_text": "Concept art of fractal-mascot-scc with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-fractal-mascot-scc-fractal-mascot-scc.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-fractal-mascot-scc-fractal-mascot-scc.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:02:18.168Z",
+  "generationMethod": "ComfyUI"
 }

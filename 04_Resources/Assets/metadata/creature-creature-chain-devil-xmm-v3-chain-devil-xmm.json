@@ -25,5 +25,8 @@
   "alt_text": "Concept art of chain-devil-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-chain-devil-xmm-v3-chain-devil-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-chain-devil-xmm-v3-chain-devil-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:59:44.701Z",
+  "generationMethod": "ComfyUI"
 }

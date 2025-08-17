@@ -65,7 +65,5 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[The Grand Trade Routes
-- [Abyssos Prime Docks]]
-- [[Depth Wardens
-- [Port Meridian - Market Square]]
+- [[The Grand Trade Routes]]
+- [[Port Meridian - Market Square]]

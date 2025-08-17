@@ -52,5 +52,4 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [02_Worldbuilding_People_Geology_Specialist_Stone_Soundshape]]
-- [[Resonance Peaks
-- [Resonance Peaks (D&D_References)]]
+- [[Resonance Peaks (D&D_References)]]

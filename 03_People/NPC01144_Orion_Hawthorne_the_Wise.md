@@ -172,57 +172,45 @@ Caravan needs guards
 - Connects to [step_062 (phase_074)]]
 - Connects to [[step_054 (phase_012)
 - Parallels [Wind Wall Xphb]]
-- Affected by [[ITEM0120_Ancient_Circlet_of_the_Dawn
-- Affected by [MON00009_Constructs_Creature_10]]
+- Affected by [[ITEM0120_Ancient_Circlet_of_the_Dawn]]
 - Connects to [[Sphinx of Wonder Xmm
 - See also: [step_027 (phase_005)]]
 - See also: [[Location City Quest the Harbor War V1 Quest the Harbor War.svg
 - Influences [MON00036_Undead_Creature_37]]
 - Influences [[Quests Quest the Debtor's Revolt
 - Compare with [ITEM00239_Shadow_Sword_of_the_Ancients]]
-- Related: [[Serenity Stillwater (D&D_References)
-- Parallels [step_052 (phase_009)]]
-- Affected by [[Interfaith Dialogue (D&D_References)
-- Affected by [Rogue Xphb Thief Xphb]]
+- Related: [[Serenity Stillwater (D&D_References)]]
+- Affected by [[Interfaith Dialogue (D&D_References)]]
 - Leads to [[step_034 (phase_038)
 - Parallels [NPC0055_Petra_Ironforge]]
 - Compare with [[Location City Chronomancer Paradox Chronomancer Paradox.svg
 - Influences [Order of the Eternal Current (Orders)]]
 - Originates from [[Assets Locations Location City the Resonance Cathedral the Resonance Cathedral.svg
 - Leads to [ITEM00587_Dragon_Scale_Helm_of_Protection]]
-- Originates from [[QUEST00006_Personal_Quest_7
-- Influences [Master Koralith (D&D_References)]]
-- Related: [[QUEST00249_Side_Quest_250
-- Influences [carrying-capacity-xphb (variant-rules)]]
-- Parallels [[step_029 (phase_013)
-- Compare with [General Truthseeker Vale (D&D_References)]]
+- Originates from [[Master Koralith (D&D_References)]]
+- Related: [[carrying-capacity-xphb (variant-rules)]]
+- Parallels [[General Truthseeker Vale (D&D_References)]]
 - Influences [[step_096 (phase_057)
 - Parallels [Merfolk 2]]
 - Connects to [[location-city-the-portal-wars-the-portal-wars.svg
 - Originates from [step_090 (phase_041)]]
 - Originates from [[LORE00288_History_Entry_289
 - Compare with [Royal Vault 2]]
-- Originates from [[SPELL00049_Arcane_Spell_50
-- Compare with [NPC01658_Delara_Proudmore_the_Seeker]]
+- Originates from [[NPC01658_Delara_Proudmore_the_Seeker]]
 - Compare with [[04_Resources_Assets_Locations_location-city-dockmaster-bruno-steadyanchor-v1-dockmaster-bruno-steadyanchor.svg
 - See also: [step_037 (phase_078)]]
-- Parallels [[NPC01558_Xander_Voidwalker_the_Broken
-- Parallels [ogre-xmm (giant)]]
+- Parallels [[NPC01558_Xander_Voidwalker_the_Broken]]
 - Originates from [[ITEM00909_Concentrated_Herb_of_Swiftness
 - Connects to [Purification Rituals]]
 - Related:
-- Affected by [[Aethermoor - Session 05 The Queens Madness
-- Connects to [University Philosophy Departments 2]]
+- Affected by [[Aethermoor - Session 05 The Queens Madness]]
 - Related: [[Item Artifact Dagger of Venom Xdmg V3 Dagger of Venom Xdmg.png
 - Related: [Quantum Compromise Protocols]]
-- Affected by [[Electric Eel 2
-- Parallels [Party Quarters - Inverse Palace]]
+- Affected by [[Party Quarters - Inverse Palace]]
 - Influences [[LOC00169_Cities_Location_170
 - Compare with [location-city-indigo-deepdye-indigo-deepdye.svg]]
-- Compare with [[The Deepwatch Guard
-- Related: [The Pressure Training Grounds]]
-- Compare with [[Captain Rodrigo Ironanchor (D&D_References)
-- Affected by [step_009 (phase_080)]]
+- Compare with [[The Pressure Training Grounds]]
+- Compare with [[Captain Rodrigo Ironanchor (D&D_References)]]
 - Affected by [[Cliffside Manors 2
 - Leads to
 - Leads to [The Divine Reunion 2]]
@@ -237,8 +225,7 @@ Caravan needs guards
 - Parallels [Convert Monster]]
 - Connects to [[eberron-the-keeper (deities)
 - Compare with [04_Resources_Assets_Locations_location-city-market-master-cornelius-driftwood-v1-market-master-cornelius-driftwood.svg]]
-- Related: [[LOC00214_Planes_Location_215
-- Parallels [step_040 (phase_033)]]
+- Related: [[LOC00214_Planes_Location_215]]
 - Compare with [[Assets Locations Location City the Progressive Coalition Headquarters V1 the Progressive Coalition Headquarters.svg
 - Influences [step_063 (phase_039)]]
 - Parallels [[SPELL0004_Shadow_Bolt

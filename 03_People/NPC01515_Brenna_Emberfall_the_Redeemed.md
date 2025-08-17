@@ -169,8 +169,7 @@ Has information about legendary item
 
 - Leads to [[Location City War Machine Engineers V1 War Machine Engineers.svg
 - Connects to [eyes-of-the-eagle-xdmg (items)]]
-- Leads to [[Coral Lifeshaper (D&D_References)
-- Related: [Cities]]
+- Leads to [[Coral Lifeshaper (D&D_References)]]
 - Requires [[Fey Spirit Tricksy Xphb
 - Leads to [System1 (02_Worldbuilding)]]
 - Compare with [[Assets Locations Location City the Crystal Merchant V1 the Crystal Merchant.svg
@@ -179,10 +178,8 @@ Has information about legendary item
 - Originates from [power-level-magic-item-power-by-rarity (tables)]]
 - Leads to [[instrument-of-illusions-xdmg (items)
 - Requires [step_090 (phase_053)]]
-- See also: [[step_083 (phase_045)
-- See also: [Social_Encounter_Guidelines]]
-- Leads to [[NPC01467_Hestara_Blackstone_the_Cunning
-- Compare with [LOC00013_Cities_Location_14]]
+- See also: [[Social_Encounter_Guidelines]]
+- Leads to [[NPC01467_Hestara_Blackstone_the_Cunning]]
 - Parallels [[Emergency Protocols
 - Compare with [path-of-blades-xge (traps-hazards)]]
 - See also: [[Dock Worker Tomás (Lore)
@@ -201,12 +198,10 @@ Has information about legendary item
 - See also: [Location City Scarlet Torrent V1 Scarlet Torrent.svg]]
 - See also: [[Scholar Thomas Precedent
 - Requires [step_036 (phase_089)]]
-- Originates from [[Shadow Duchess Nyx
-- Connects to [Technology Void Early Warning System]]
+- Originates from [[Technology Void Early Warning System]]
 - Affected by [[ITEM01459_Decorated_Rope_of_Convenience
 - Connects to [ITEM00574_Mithril_Gauntlets_of_Protection]]
-- Related: [[ENC00456_Combat_Encounter_457
-- Influences [step_099 (phase_056)]]
+- Related: [[ENC00456_Combat_Encounter_457]]
 - Originates from [[NPC01327_Erasmus_Nightfall_the_Scholar
 - Affected by
 - Compare with [Thermal Differential Analysis]]
@@ -214,20 +209,17 @@ Has information about legendary item
 - See also: [Cosmology the Multiverse]]
 - Influences [[DUN00053_Dungeon_54
 - Affected by [gate-xphb (spells)]]
-- Connects to [[Sunken Civilizations
-- See also: [03 Races]]
+- Connects to [[Sunken Civilizations]]
 - Related:
 - Leads to [[LORE00159_History_Entry_160
 - Leads to
 - Parallels [FAC00008_Guilds_9]]
 - Compare with [[ITEM01364_Elegant_Journal_of_Quality
 - Affected by [step_091 (phase_024)]]
-- Connects to [[The Resonance Cathedral (D&D_References)
-- Connects to [Information Broker Whisper]]
+- Connects to [[The Resonance Cathedral (D&D_References)]]
 - Leads to [[NPC01728_Ewan_Jadeclaw_the_Redeemed
 - Parallels [Navigate Singer Consciousness (Lore)]]
-- Related: [[Convergence_Points (Lore)
-- Requires [LOC00124_Wilderness_Location_125]]
+- Related: [[LOC00124_Wilderness_Location_125]]
 - Connects to
 - See also: [[step_071 (phase_042)
 - Related: [Modron Monodrone Xmm]]
@@ -238,14 +230,12 @@ Has information about legendary item
 - See also: [Garden_Keeper_Zen_Currentdancer.png]]
 - Compare with [[Assets Locations Location City Syncretist Mediators Syncretist Mediators.svg
 - Connects to [LOC00013_Dungeons_Location_14]]
-- Compare with [[Home Embeds#Recently Modifie 2
-- Leads to [mariners-armor-xdmg (items)]]
+- Compare with [[Home Embeds - DV]]
 - Compare with
 - Influences
 - Parallels [[adult-kruthik-mpmm (monstrosity)
 - Compare with [Slow Xphb]]
-- Connects to [[Archive_Index (D&D_References)
-- Affected by [Deep Mother Influence 2]]
+- Connects to [[Archive_Index (D&D_References)]]
 - Requires [[voice-of-the-chain-master (optional-features)
 - See also: [Break_Timer]]
 - Compare with

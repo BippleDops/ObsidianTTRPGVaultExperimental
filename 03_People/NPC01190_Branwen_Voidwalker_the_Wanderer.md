@@ -165,8 +165,7 @@ Seeks rare merchandise
 - Leads to [Foam Deepferment 2]]
 - See also: [[SPELL00161_Nature_Spell_162
 - Connects to [forgotten-realms-umberlee (deities)]]
-- Leads to [[LORE00091_History_Entry_92
-- Parallels [NPC01952_Branwen_Brightblade_the_Wise]]
+- Leads to [[NPC01952_Branwen_Brightblade_the_Wise]]
 - Parallels [[The Masked Broker
 - Related: [step_037 (phase_004)]]
 - Connects to
@@ -174,16 +173,14 @@ Seeks rare merchandise
 - See also: [LORE00318_History_Entry_319]]
 - Related: [[ITEM00956_Distilled_Incense_of_Clarity
 - See also: [NPC0086_Gareth_Goldleaf]]
-- Parallels [[firearm-bullets-10-xphb 2 (items)
-- See also: [Archaeological Society (D&D_References)]]
+- Parallels [[Archaeological Society (D&D_References)]]
 - Leads to [[ITEM00738_Divine_Amulet_of_Eternity
 - Related: [draft-horse-xphb (items)]]
 - Compare with [[Biological Enhancement Corps (Lore)
 - Connects to [Teacher-Administrator Shadowlearn 2]]
 - Affected by [[Finger of Death Xphb
 - Leads to [Symbol Heraldry Deep Sea Agricultural Research Institut V1 Deep Sea Agricultural Research Institut.svg]]
-- Influences [[gold-circlet-set-with-four-aquamarines-xdmg (items)
-- Related: [Generate Campaign NPCs (Text Generator Templates)]]
+- Influences [[Generate Campaign NPCs (Text Generator Templates)]]
 - Related: [[Githyanki Raiding Parties Raiding Party Transport Mtf
 - Leads to [step_062 (phase_057)]]
 - Compare with [[EVENT00070_Magical_Event_71
@@ -193,22 +190,15 @@ Seeks rare merchandise
 - Parallels [step_060 (phase_007)]]
 - Influences [[location-city-crystal-speak-v1-crystal-speak.png
 - Parallels [The Void Seekers]]
-- Affected by [[Etheric Current
-- Compare with [X-L-12_The_Deep_Mothers_Bridge_of_Dreams]]
-- Compare with [[QUEST00144_Main_Quest_145
-- Influences [NPC01629_Urien_Brightblade_the_Seeker]]
-- Affected by [[LOC00289_Wilderness_Location_290
-- Parallels [Reality Anchor Points]]
-- Related: [[ooze
-- Affected by [The Keening Cliffs 2]]
-- Influences [[The Deserter (D&D_References)
-- Leads to [step_056 (phase_020)]]
-- Influences [[LOC00149_Cities_Location_150
-- See also: [NPC00924_Solas_Frostwhisper_the_Seeker]]
+- Affected by [[X-L-12_The_Deep_Mothers_Bridge_of_Dreams]]
+- Compare with [[NPC01629_Urien_Brightblade_the_Seeker]]
+- Affected by [[LOC00289_Wilderness_Location_290]]
+- Related: [[The Keening Cliffs 2]]
+- Influences [[The Deserter (D&D_References)]]
+- Influences [[NPC00924_Solas_Frostwhisper_the_Seeker]]
 - Influences [[DUN00148_Dungeon_149
 - Parallels [Treasure Hoard Challenge 04]]
-- Requires [[LOC00076_Dungeons_Location_77
-- Compare with [step_048 (phase_083)]]
+- Requires [[LOC00076_Dungeons_Location_77]]
 - Influences [[step_088 (phase_051)
 - Leads to [Celestial Crystals]]
 - See also: [[SPELL00148_Divine_Spell_149
@@ -237,18 +227,15 @@ Seeks rare merchandise
 - Affected by [step_088 (phase_041)]]
 - Connects to [[Monsters by Habitat Arctic Monsters Xmm
 - Requires [step_036 (phase_013)]]
-- Leads to [[ITEM00281_Radiant_Staff_of_Power
-- Compare with [Academy of Crystalline Art (Academies)]]
+- Leads to [[Academy of Crystalline Art (Academies)]]
 - Requires [[QUEST00071_Main_Quest_72
 - Affected by [Locations Archive of Echoes]]
 - Influences [[Undead Spirit Skeletal Xphb
 - See also: [brackish-trudge-scc (plant)]]
 - Influences [[LOC00086_Dungeons_Location_87
 - Connects to [Assets Handouts Handout Handout Privateer Letter of Marque Privateer Letter of Marque.png]]
-- Influences [[SPELL00138_Nature_Spell_139
-- Originates from [Temporal Distortion Zones (D&D_References)]]
-- Requires [[The Harbormaster's Office (D&D_References)
-- Requires [step_059 (phase_074)]]
+- Influences [[Temporal Distortion Zones (D&D_References)]]
+- Requires [[The Harbormaster's Office (D&D_References)]]
 - See also: [[Crystal Cultivation Training Cente
 - Originates from [The Dreamwhisper Inn (D&D_References)]]
 - Influences [[actions#Utilize

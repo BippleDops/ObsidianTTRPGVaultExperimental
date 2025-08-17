@@ -135,9 +135,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## References
 
 - [Deep Mother]]
-- [[Name Etymology Guide
-- [Timeline of the Drowning]]
-- [[Deep Mother (D&D_References)
-- [Deep Mother 3 (D&D_References)]]
-- [[Timeline of the Drowning (D&D_References)
-- [Timeline of the Drowning 3 (D&D_References)]]
+- [[Timeline of the Drowning]]
+- [[Deep Mother 3 (D&D_References)]]
+- [[Timeline of the Drowning 3 (D&D_References)]]

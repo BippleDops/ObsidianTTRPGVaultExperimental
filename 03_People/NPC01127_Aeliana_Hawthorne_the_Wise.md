@@ -159,8 +159,7 @@ Caravan needs guards
 
 ## Connections
 
-- Parallels [[Firbolg Vgm
-- Originates from [Pressure Crystals (D&D_References)]]
+- Parallels [[Pressure Crystals (D&D_References)]]
 - Leads to [[step_001 (phase_064)
 - Parallels [ITEM00237_Cursed_Spear_of_Wounding]]
 - See also: [[LOC00087_Towns_Location_88
@@ -170,15 +169,13 @@ Caravan needs guards
 - Influences
 - Influences [[Physical Characteristics Beholder Eye Color
 - Compare with [SPELL00011_Nature_Spell_12]]
-- See also: [[Elven Alobal Lorfiril Mtf
-- Leads to [Commander Ironprice (D&D_References)]]
+- See also: [[Commander Ironprice (D&D_References)]]
 - Affected by [[Security Chief Blackout
 - Affected by [MASTER_RULES_INDEX]]
 - Affected by
 - See also: [[Portrait NPC Senator Cordelia Deepcurrent V1 Senator Cordelia Deepcurrent.svg_1 (Portraits)
 - Parallels [Mirror Image Xphb]]
-- Affected by [[step_069 (phase_041)
-- Influences [Master Archivist Valdric Stonewhisper 2]]
+- Affected by [[Master Archivist Valdric Stonewhisper 2]]
 - Originates from [[Sky Burial Traditions (D&D_References)
 - Parallels [NPC01570_Gareth_Emberfall_the_Scholar]]
 - Compare with [[Gravenhollow Compass Ring Oota
@@ -199,8 +196,7 @@ Caravan needs guards
 - Related: [Inverse Colonies]]
 - Influences [[Sorcerer Xphb Clockwork Sorcery Xphb
 - Influences [People]]
-- See also: [[Coral Silkweaver 2
-- See also: [LOC00260_Towns_Location_261]]
+- See also: [[LOC00260_Towns_Location_261]]
 - See also: [[Coral Shaper Polyp
 - Connects to [Location City the Reef Communities the Reef Communities.svg]]
 - Leads to [[Assets Locations Location City Blood Coral Blood Coral.svg
@@ -214,16 +210,13 @@ Caravan needs guards
 - Originates from [SPELL00006_Arcane_Spell_7]]
 - Requires [[The Great Convergence Prophecies (Lore)
 - Originates from [step_063 (phase_030)]]
-- Affected by [[Equipment Chief Current Toolwright
-- Requires [ITEM00236_Cursed_Axe_of_Accuracy]]
+- Affected by [[Equipment Chief Current Toolwright]]
 - Related: [[step_016 (phase_100)
 - Requires [Key Officer]]
-- Leads to [[Council Speaker Tide (D&D_References)
-- Related: [step_034 (phase_095)]]
+- Leads to [[Council Speaker Tide (D&D_References)]]
 - Leads to [[Item Artifact Ioun Stone Greater Absorption Xdmg V5 Ioun Stone Greater Absorption Xdmg.png
 - Connects to [Vorthak (D&D_References)]]
-- See also: [[Quest - The Surgical Assassin 2
-- Connects to [step_002 (phase_027)]]
+- See also: [[Quest - The Surgical Assassin 2]]
 - Parallels [[FAC00010_Orders_11
 - Related: [Royal Guard (Lore)]]
 - See also: [[Temple Ward
@@ -240,8 +233,7 @@ Caravan needs guards
 - Parallels [Assets Locations Location City Royal Palace Royal Palace.svg]]
 - See also: [[Ficial Corruption
 - Affected by [The Mediator]]
-- Connects to [[Chamber of Eternal Debate
-- See also: [S-018_Choir_Pirates]]
+- Connects to [[Chamber of Eternal Debate]]
 - Parallels [[Light Bearer (D&D_References)
 - Originates from [Portrait NPC Quest the Failing Magic V2 Quest the Failing Magic.svg]]
 - Requires [[Master Wind Rider Zephyr Stormcaller
@@ -256,8 +248,7 @@ Caravan needs guards
 - Originates from [LORE00022_History_Entry_23]]
 - Parallels [[02_Worldbuilding_Groups_The_Archive_Optimizers
 - See also: [A Sample Pantheon Dawn War Deities]]
-- Requires [[Fragment Compass (D&D_References)
-- Connects to [step_033 (phase_086)]]
+- Requires [[Fragment Compass (D&D_References)]]
 - Connects to [[Hill Encounters Levels 1116 Xge
 
 ## Visual References

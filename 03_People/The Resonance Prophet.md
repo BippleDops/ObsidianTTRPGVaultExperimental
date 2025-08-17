@@ -357,8 +357,7 @@ Member of House Lionblood - Trait: divine blood
 - Parallels [Future Aquabyssos]]
 - Leads to [[step_008 (phase_010)
 - Compare with [Gong of the Summit]]
-- Leads to [[NPC01870_Lyanna_Silverleaf_the_Cunning
-- Requires [tiefling-xphb (races)]]
+- Leads to [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
 - Originates from [[shapechange-xphb (spells)
 - Parallels [fey-spirit-mirthful-xphb (fey)]]
 - Originates from [[Location City Senator Morticia Graveheart V1 Senator Morticia Graveheart.svg
@@ -374,8 +373,7 @@ Member of House Lionblood - Trait: divine blood
 - Requires
 - Requires [[Assets Locations Location City Whisper Touched William V1 Whisper Touched William.svg
 - Originates from [Session Prep]]
-- Leads to [[Deer Xmm
-- Connects to [Countess Argentum Vaultkeeper 2]]
+- Leads to [[Countess Argentum Vaultkeeper 2]]
 - Connects to [[Location City Scream Saturation Scream Saturation Rules.svg
 - Influences [Transformation Assistance]]
 - Affected by [[Dr. Thaddeus Vain
@@ -400,12 +398,11 @@ Member of House Lionblood - Trait: divine blood
 - Leads to [step_029 (phase_037)]]
 - See also: [[ITEM0056_Ancient_Circlet_of_Power
 - Connects to [MON00145_Undead_Creature_146]]
-- See also: [[ITEM00114_Thunder_Staff_of_Accuracy
-- See also: [Economic Analyst David Numbercruncher]]
+- See also: [[Economic Analyst David Numbercruncher]]
 - Related: [[QUEST00431_Side_Quest_432
 - Originates from [Portrait NPC Quest the Shadow Water Accords V2 Quest the Shadow Water Accords.svg]]
 - See also: [[ENC00092_Social_Encounter_93
 - Compare with [Temporal Pools (D&D_References)]]
 - Originates from [[Portrait NPC Quest the Prophecy Fulfilled V2 Quest the Prophecy Fulfilled.svg
 - Affected by [Assets Locations Location City Chef Amara Tastecurrent V1 Chef Amara Tastecurrent.svg]]
-- Compare with [[step_076 (phase_004)]]
+- Compare with 

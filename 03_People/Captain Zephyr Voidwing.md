@@ -116,22 +116,17 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Related: [Manual of Stone Golems Xdmg]]
 - Influences [[Assets Locations Location City Port Facilities V1 Port Facilities.svg
 - Influences [Rare Ingredient Network]]
-- Influences [[step_052 (phase_095)
-- Leads to [Pilgrim Guide Nautilus Pathfinder]]
+- Influences [[Pilgrim Guide Nautilus Pathfinder]]
 - Influences [[Assets Locations Location City Depth Wardens Depth Wardens.svg
 - Originates from [QUEST00150_Personal_Quest_151]]
 - Related: [[The Royal Transformation
 - Affected by [Treasurer Goldenshadow]]
 - Connects to [[conjure-elemental-xphb (spells)
 - Leads to [Assets Locations Location City Nautilus Threadmender Nautilus Threadmender.svg]]
-- Connects to [[Religious Leader Father Ocean Breeze 2
-- Influences [Hag Eye Xdmg]]
-- Related: [[MON00054_Aberrations_Creature_55
-- Leads to [facility-space-xdmg (tables)]]
-- Leads to [[NPC00715_Alaric_Stormwind_the_Wanderer
-- Requires [step_078 (phase_084)]]
-- Influences [[Sir Theron Crystalward
-- See also: [ENC00255_Social_Encounter_256]]
+- Connects to [[Religious Leader Father Ocean Breeze 2]]
+- Related: [[MON00054_Aberrations_Creature_55]]
+- Leads to [[NPC00715_Alaric_Stormwind_the_Wanderer]]
+- Influences [[ENC00255_Social_Encounter_256]]
 - Leads to
 - Originates from [[Assets Locations Location City Market Heist Market Heist.svg
 - Related: [Crystal Cultivation Training Cente]]
@@ -144,23 +139,19 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Related: [step_020 (phase_049)]]
 - Influences [[LORE00250_Prophecies_Entry_251
 - Requires [step_096 (phase_030)]]
-- Leads to [[step_042 (phase_031)
-- Influences [Paradox Resolution Society 2]]
-- Compare with [[Democratic Erosion (D&D_References)
-- Affected by [High Hierophant Meridius 2]]
+- Leads to [[Paradox Resolution Society 2]]
+- Compare with [[Democratic Erosion (D&D_References)]]
 - Originates from [[step_033 (phase_032)
 - Compare with [Fractal Mascot Scc]]
 - Compare with
 - Originates from [[elemental-gem-xdmg (items)
 - See also: [Sylvanheart (D&D_References)]]
-- Leads to [[The Sunken City of Aeridor 2
-- Requires [step_044 (phase_043)]]
+- Leads to [[The Sunken City of Aeridor 2]]
 - Affected by [[Assets Locations Location City Temple Clergy Temple Clergy.svg
 - Influences [Kinetic Jaunt Scc]]
 - Requires [[step_024 (phase_085)
 - See also: [The Resonance Cathedral 2]]
-- Related: [[Quest - Original Liberation
-- Parallels [step_049 (phase_018)]]
+- Related: [[Quest - Original Liberation]]
 - Compare with [[Ritual Redirection Options (Lore)
 - Affected by [Sanctuary Safeharbor]]
 - Related: [[Location City Court Herald Titus Court Herald Titus.svg
@@ -173,8 +164,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Connects to [08-using-ability-scores#Strength]]
 - Related: [[step_048 (phase_093)
 - Influences [Bag of Tricks Tan Xdmg]]
-- Influences [[Luminary Judge Thaddeus Truthseeker
-- See also: [Consequence Chain 4 - Deep Mother Awakening 2]]
+- Influences [[Consequence Chain 4 - Deep Mother Awakening 2]]
 - Requires [[The Echo Succession 2
 - Influences [Session Planning Guide (02_Worldbuilding)]]
 - Connects to
@@ -192,16 +182,13 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Leads to [LORE00029_Legends_Entry_30]]
 - Compare with [[The Forgotten Collective
 - Related: [step_063 (phase_040)]]
-- Connects to [[The Enforcement Citadel (D&D_References)
-- Parallels [Crystal Ball of True Seeing Xdmg]]
+- Connects to [[The Enforcement Citadel (D&D_References)]]
 - Influences [[EVENT00089_Magical_Event_90
 - Compare with [LORE00042_Legends_Entry_43]]
-- Originates from [[Pressure Wraiths
-- Parallels [Scholar-Merchant Remembrance Tidekeep (D&D_References)]]
+- Originates from [[Scholar-Merchant Remembrance Tidekeep (D&D_References)]]
 - Affected by [[step_032 (phase_082)
 - Originates from
 - Connects to [step_051 (phase_046)]]
-- Originates from [[The Cipher Current
-- Parallels [Quest - The Economic Conspiracy]]
+- Originates from [[Quest - The Economic Conspiracy]]
 - Parallels [[EVENT00007_Natural_Event_8
 - Requires [step_005 (phase_007)]]

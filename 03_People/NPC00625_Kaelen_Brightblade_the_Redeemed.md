@@ -298,7 +298,7 @@ Discovered something valuable
 - Affected by [[The Shadow Merchant Prim (Groups)
 - Compare with
 - Related: [Aerisi Kalinoth Pota]]
-- Compare with [[step_003 (phase_053)]]
+- Compare with
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

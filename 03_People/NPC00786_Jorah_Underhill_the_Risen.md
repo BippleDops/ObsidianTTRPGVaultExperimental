@@ -169,14 +169,11 @@ Discovered something valuable
 - Originates from [ITEM01444_Simple_Spyglass_of_Convenience]]
 - Requires [[Order of the Sunken Crown
 - See also: [ITEM01089_Greater_Crystal_of_Vigor]]
-- Leads to [[step_077 (phase_011)
-- Connects to [Council of Currents (D&D_References)]]
+- Leads to [[Council of Currents (D&D_References)]]
 - See also: [[Truth Verification Serum
 - Connects to [step_023 (phase_056)]]
-- Related: [[Hadal Zone (D&D_References)
-- Related: [step_083 (phase_077)]]
-- Related: [[LOC00118_Planes_Location_119
-- Connects to [step_029 (phase_074)]]
+- Related: [[Hadal Zone (D&D_References)]]
+- Related: [[LOC00118_Planes_Location_119]]
 - Related: [[DUN00006_Dungeon_7
 - See also: [step_065 (phase_047)]]
 - Related: [[The Noble Compact (D&D_References)
@@ -187,10 +184,8 @@ Discovered something valuable
 - Originates from [step_058 (phase_067)]]
 - Compare with [[step_059 (phase_037)
 - Connects to [Portrait NPC Archbishop Mordecai Stormwright V1 Archbishop Mordecai Stormwright.svg]]
-- Affected by [[NPC01296_Urien_Zephyrblade_the_Broken
-- Parallels [The Silhouette Surgeon Prime (D&D_References)]]
-- Affected by [[celtic-dunatis (deities)
-- Requires [LOC00017_Wilderness_Location_18]]
+- Affected by [[The Silhouette Surgeon Prime (D&D_References)]]
+- Affected by [[LOC00017_Wilderness_Location_18]]
 - Connects to
 - Requires [[Sky_Lords_Worship
 - Related: [step_064 (phase_031)]]
@@ -201,8 +196,7 @@ Discovered something valuable
 - Compare with [[Secondary Tables War Xge
 - See also:
 - Affected by [QUEST00174_Side_Quest_175]]
-- Connects to [[step_003 (phase_083)
-- Parallels [MON00074_Constructs_Creature_75]]
+- Connects to [[MON00074_Constructs_Creature_75]]
 - See also:
 - Compare with [[Assets Locations Location City Insurance Industry V1 Insurance Industry.svg
 - Connects to [NPC00787_Cedric_Voidwalker_the_Scholar]]
@@ -235,19 +229,15 @@ Discovered something valuable
 - Parallels [step_049 (phase_084)]]
 - Leads to [[step_055 (phase_090)
 - Connects to [cogwork-archivist-scc (construct)]]
-- See also: [[LOC00079_Dungeons_Location_80
-- Parallels [ENC00020_Environmental_Encounter_21]]
+- See also: [[ENC00020_Environmental_Encounter_21]]
 - Leads to [[maze-xphb (spells)
 - Compare with [list-spells-classes-wizard (lists)]]
-- Influences [[Citizens Adaptation Alliance (D&D_References)
-- Originates from [QUEST00273_Personal_Quest_274]]
+- Influences [[Citizens Adaptation Alliance (D&D_References)]]
 - Connects to [[dawn-war-torog-dmg (deities)
 - Leads to [LOC00068_Planes_Location_69]]
 - See also:
-- Connects to [[NPC00586_Fiora_Moonshadow_the_Wise
-- Leads to [step_047 (phase_087)]]
-- Influences [[Shadow Reflection Sage 2
-- Originates from [X-L-05_The_Pirate_Confederacy_Crown]]
+- Connects to [[NPC00586_Fiora_Moonshadow_the_Wise]]
+- Influences [[X-L-05_The_Pirate_Confederacy_Crown]]
 - See also: [[step_008 (phase_061)
 - Leads to [step_047 (phase_060)]]
 - Compare with

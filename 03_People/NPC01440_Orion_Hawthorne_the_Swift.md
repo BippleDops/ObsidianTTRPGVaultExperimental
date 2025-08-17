@@ -163,8 +163,7 @@ Has information about legendary item
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -178,16 +177,14 @@ Has information about legendary item
 
 ## Connections
 
-- Compare with [[S-L-08_Gravity_Inversion_Storm_Player
-- Influences [step_031 (phase_079)]]
+- Compare with [[S-L-08_Gravity_Inversion_Storm_Player]]
 - Requires [[Abyssal Depths
 - Compare with [Pier 7 (D&D_References)]]
 - Requires [[Emergency Services Coordination
 - Related:
 - See also:
 - Leads to [Shadow Extraction Surgical Suite]]
-- Originates from [[SPELL00137_Arcane_Spell_138
-- Requires [step_016 (phase_035)]]
+- Originates from [[SPELL00137_Arcane_Spell_138]]
 - Originates from [[Crystal_Singer_Bard
 - Compare with [Secular Community Practices]]
 - See also: [[Assets Locations Location City the Perfect Symbiosis V1 the Perfect Symbiosis.svg
@@ -195,14 +192,12 @@ Has information about legendary item
 - Compare with [[EVENT00071_Natural_Event_72
 - Related: [step_033 (phase_086)]]
 - Affected by
-- Related: [[LOC00231_Planes_Location_232
-- Compare with [Key Officer]]
+- Related: [[LOC00231_Planes_Location_232]]
 - Affected by [[Location City Observatory District Observatory District.svg
 - Originates from [list-spells-classes-monk (lists)]]
 - Connects to [[LOC00152_Cities_Location_153
 - Parallels [Assets Locations Location City Master Cultivator Reef Growstone Master Cultivator Reef Growstone.svg]]
-- Compare with [[SPELL00086_Arcane_Spell_87
-- See also: [step_035 (phase_078)]]
+- Compare with [[SPELL00086_Arcane_Spell_87]]
 - Parallels [[step_091 (phase_087)
 - Parallels [step_056 (phase_040)]]
 - Affected by [[QUEST00263_Side_Quest_264
@@ -211,11 +206,9 @@ Has information about legendary item
 - Parallels [Vehicles_&_Ships_Gallery]]
 - Parallels [[step_053 (phase_064)
 - Parallels [Variant Training to Gain Levels Training to]]
-- Originates from [[QUEST00097_Personal_Quest_98
-- Requires [Control Weather Xphb]]
+- Originates from [[QUEST00097_Personal_Quest_98]]
 - Related:
-- Connects to [[FAC00046_Orders_47
-- Parallels [LOC00258_Dungeons_Location_259]]
+- Connects to [[LOC00258_Dungeons_Location_259]]
 - Connects to [[symbol-heraldry-the-networker-the-networker.svg
 - Compare with [step_038 (phase_075)]]
 - See also: [[Merchant Delilah Currentrunner
@@ -226,16 +219,13 @@ Has information about legendary item
 - See also: [Maurezhi Mpmm]]
 - Affected by [[Ambassador Lysandra Silvertonge's Embassy 2
 - Compare with [Symbol Heraldry Purist Coalition Thugs V1 Purist Coalition Thugs.svg]]
-- Related: [[Template_Person_Placeholder.png_1 (09_Templates)
-- Connects to [06-adventure-environments (dungeon-masters-guide-2014)]]
-- Leads to [[step_022 (phase_056)
-- Affected by [The Forgotten Representative]]
+- Related: [[06-adventure-environments (dungeon-masters-guide-2014)]]
+- Leads to [[The Forgotten Representative]]
 - Parallels [[step_035 (phase_049)
 - Compare with [Whispering Wildlands]]
 - Connects to [[step_046 (phase_084)
 - Connects to [Assets Locations Location City Surface Tensions V1 Surface Tensions.svg]]
-- Influences [[LORE00101_History_Entry_102
-- Leads to [NPC00914_Aldric_Hawthorne_the_Scholar]]
+- Influences [[NPC00914_Aldric_Hawthorne_the_Scholar]]
 - See also: [[step_054 (phase_024)
 - Related:
 - Parallels [Quest The Perfect Purifier]]
@@ -243,10 +233,8 @@ Has information about legendary item
 - Parallels [NPC01444_Pyria_Brightblade_the_Seeker]]
 - Originates from [[Fusion Artifacts
 - Affected by [Belt of Fire Giant Strength Xdmg]]
-- Affected by [[step_038 (phase_072)
-- Related: [Cross-realm diplomatic relations]]
-- Compare with [[step_090 (phase_087)
-- Related: [Dimensional Anchor Points (D&D_References)]]
+- Affected by [[Cross-realm diplomatic relations]]
+- Compare with [[Dimensional Anchor Points (D&D_References)]]
 - Leads to [[ITEM00648_Dragon_Scale_Boots_of_Grace
 - Originates from [LOC00046_Dungeons_Location_47]]
 - Originates from [[Active Quests
@@ -255,17 +243,14 @@ Has information about legendary item
 - Originates from [Portrait NPC Banker Titus Goldcurrent V1 Banker Titus Goldcurrent.svg]]
 - Parallels [[ITEM00995_Distilled_Elixir_of_Fortune
 - Leads to [LOC00209_Wilderness_Location_210]]
-- Influences [[Keeper Maelstrom the Great
-- Parallels [NPC01588_Baelor_Ashford_the_Strong]]
+- Influences [[NPC01588_Baelor_Ashford_the_Strong]]
 - Originates from
-- Affected by [[The Time Keeper (D&D_References)
-- Originates from [#Natural & Mystical Locations]]
+- Affected by [[The Time Keeper (D&D_References)]]
 - Connects to [[MON00003_Undead_Creature_4
 - Leads to [step_070 (phase_041)]]
 - Connects to [[Temporal Engineering Guil (D&D_References)
 - Parallels [Alignment and Personality Personality Traits]]
-- Requires [[NPC00732_Felicia_Stormwind_the_Wanderer
-- Affected by [NPC01754_Orion_Grimholt_the_Cunning]]
+- Requires [[NPC00732_Felicia_Stormwind_the_Wanderer]]
 - See also: [[ITEM01358_Simple_Rope_of_Reliability
 - Originates from [step_068 (phase_100)]]
 - See also:

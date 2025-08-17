@@ -160,8 +160,7 @@ Needs discrete help with family scandal
 ## Connections
 
 - Originates from
-- Affected by [[Interfaith_Council
-- Compare with [Consequence Chain 3 - Reality Merger Diplomatic Crisis 2]]
+- Affected by [[Consequence Chain 3 - Reality Merger Diplomatic Crisis 2]]
 - Affected by [[MON00040_Constructs_Creature_41
 - Compare with [Random-Encounter-Tables-Aethermoor.png]]
 - Influences [[Teacher Miranda Hopekeeper (D&D_References)
@@ -185,12 +184,10 @@ Needs discrete help with family scandal
 - Connects to
 - Parallels [[Cyclops Sentry Xmm
 - Compare with [The Unity Coalition]]
-- Related: [[NPC01667_Jorah_Jadeclaw_the_Mystic
-- Compare with [time-stop-xphb (spells)]]
+- Related: [[NPC01667_Jorah_Jadeclaw_the_Mystic]]
 - Leads to [[SPELL0023_Primal_Curse
 - Affected by [step_027 (phase_026)]]
-- Compare with [[QUEST00269_Side_Quest_270
-- Compare with [The Neural Clusters (D&D_References)]]
+- Compare with [[The Neural Clusters (D&D_References)]]
 - Related: [[step_005 (phase_083)
 - Originates from
 - See also: [ITEM00583_Adamantine_Leather_of_Protection]]
@@ -198,18 +195,15 @@ Needs discrete help with family scandal
 - Influences [QUEST0038_The_Frozen_Fortress_Disappearances]]
 - Originates from [[NPC01068_Aldric_Ravenheart_the_Cunning
 - Compare with [portrait-npc-memory-commerce-memory-commerce.svg_1 (Portraits)]]
-- See also: [[flesh-to-stone-xphb (spells)
-- Influences [Arcturus Lumenblade (D&D_References)]]
+- See also: [[Arcturus Lumenblade (D&D_References)]]
 - Connects to [[LOC0020_NorthWatch
 - Originates from [Assets Locations Location City Merchant Delilah Currentrunner V1 Merchant Delilah Currentrunner.svg]]
-- Requires [[dragonchess-set-xphb (items)
-- Leads to [Shadow Citizenship Act (D&D_References)]]
+- Requires [[Shadow Citizenship Act (D&D_References)]]
 - Requires [[potion-of-diminution-xdmg (items)
 - Connects to [step_025 (phase_082)]]
 - Compare with [[5 Credits
 - Affected by [step_036 (phase_015)]]
-- Parallels [[Duchess Aurora Spirelight (D&D_References)
-- Affected by [ITEM00310_Blessed_Bow_of_Accuracy]]
+- Parallels [[Duchess Aurora Spirelight (D&D_References)]]
 - See also: [[NPC00419_Malakai_Grimholt_the_Cunning
 - Originates from [Portrait NPC the Reality Sick Mayor Lord Quantum Aldrich V1 the Reality Sick Mayor Lord Quantum Aldrich.svg]]
 - Connects to [[step_063 (phase_066)
@@ -218,14 +212,12 @@ Needs discrete help with family scandal
 - Parallels
 - Related: [Assets Locations Location City the Recursion Cult V1 the Recursion Cult.png]]
 - Leads to
-- Requires [[Wave Traderwind (D&D_References)
-- Requires [step_063 (phase_040)]]
+- Requires [[Wave Traderwind (D&D_References)]]
 - Originates from [[step_019 (phase_082)
 - Affected by [Azure Shard (People)]]
 - See also: [[The First Watcher (D&D_References)
 - Connects to [belt-of-frost-giant-strength-xdmg (items)]]
-- Originates from [[scroll-mishaps (variant-rules)
-- Connects to [The Observatory 2]]
+- Originates from [[scroll-mishaps (variant-rules)]]
 - Leads to [[Assets Locations Location City the Sinking Atoll V1 the Sinking Atoll.svg
 - Parallels [step_045 (phase_009)]]
 - Affected by [[gnoll-fang-of-yeenoghu-xmm (fiend)
@@ -237,16 +229,13 @@ Needs discrete help with family scandal
 - Leads to [Map Map Sunken Library Stacks V1 Sunken Library Stacks.svg]]
 - Related: [[Alpha-Prime 2
 - Requires [Assets Locations Location City Quest the Portal Crisis V1 Quest the Portal Crisis.svg]]
-- Influences [[QUEST00034_Personal_Quest_35
-- Influences [Lute Xphb]]
-- Connects to [[Navigators Tools Xphb
-- Leads to [The Corruption Saint Marina (D&D_References)]]
+- Influences [[QUEST00034_Personal_Quest_35]]
+- Connects to [[The Corruption Saint Marina (D&D_References)]]
 - Requires [[Tidal Chambers
 - Requires [Location Index]]
 - See also: [[SPELL00006_Arcane_Spell_7
 - Requires [LORE00027_Prophecies_Entry_28]]
-- Leads to [[SPELL0032_Arcane_Storm
-- Leads to [The Seven Seals]]
+- Leads to [[SPELL0032_Arcane_Storm]]
 - Connects to [[giant-boar-xmm (beast)
 - Originates from [amulet-xphb (items)]]
 - Influences [[step_084 (phase_064)

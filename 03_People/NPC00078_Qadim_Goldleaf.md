@@ -157,8 +157,7 @@ Needs discrete help with family scandal
 
 ## Connections
 
-- Compare with [[Representative Coral
-- Leads to [Quest - The Truth Unveiled]]
+- Compare with [[Quest - The Truth Unveiled]]
 - Affected by [[Instrument of the Bards Doss Lute Xdmg
 - Originates from [Scribe Master Augustine Brightquill]]
 - Leads to [[Rhinoceros Xmm
@@ -167,8 +166,7 @@ Needs discrete help with family scandal
 - Affected by [Location City Harbor Master Captain Dockwise V1 Harbor Master Captain Dockwise.svg]]
 - Influences [[04_Resources_Assets_Locations_location-city-master-chronologist-temporal-truthkeeper-v1-master-chronologist-temporal-truthkeeper.svg
 - Affected by [step_025 (phase_022)]]
-- Requires [[Quest2 (01_Adventures)
-- Requires [ENC0050_Random_Encounter_51]]
+- Requires [[ENC0050_Random_Encounter_51]]
 - Originates from [[LOC00296_Cities_Location_297
 - Affected by
 - Compare with [ITEM00578_Mithril_Plate_of_Resistance]]
@@ -182,16 +180,14 @@ Needs discrete help with family scandal
 - Originates from [[step_028 (phase_066)
 - Parallels
 - Leads to [step_008 (phase_074)]]
-- Affected by [[step_078 (phase_057)
-- Affected by [ENC00158_Environmental_Encounter_159]]
+- Affected by [[ENC00158_Environmental_Encounter_159]]
 - Requires [[QUEST00289_Personal_Quest_290
 - See also: [LORE00016_History_Entry_17]]
 - Compare with [[ENC00425_Combat_Encounter_426
 - See also: [Handout Handout Cult Text with Marginalia Cult Text with Marginalia.png]]
 - Originates from [[belt-of-hill-giant-strength-xdmg (items)
 - Requires [Quest - The Lost Verse]]
-- Requires [[QUEST0018_The_Sunken_Temple_Uprising
-- Connects to [step_099 (phase_022)]]
+- Requires [[QUEST0018_The_Sunken_Temple_Uprising]]
 - See also: [[DUN00052_Dungeon_53
 - See also:
 - Influences [QUEST0063_The_Sunken_Temple_War]]
@@ -201,30 +197,24 @@ Needs discrete help with family scandal
 - Parallels [LORE00158_History_Entry_159]]
 - See also: [[Multiclassing Xphb
 - Compare with [Trade Route Stations]]
-- Originates from [[Religious Purists (D&D_References)
-- Related: [NPC0089_Jora_Goldleaf_the_Just]]
-- Requires [[Crystal Plague Infected NPCs (D&D_References)
-- Related: [step_050 (phase_044)]]
+- Originates from [[Religious Purists (D&D_References)]]
+- Requires [[Crystal Plague Infected NPCs (D&D_References)]]
 - Originates from [[Portrait NPC Archon Meredith Saltweaver V2 Archon Meredith Saltweaver.svg
 - Connects to
 - Leads to
 - Influences [step_076 (phase_072)]]
 - Leads to
-- See also: [[SPELL00138_Divine_Spell_139
-- Originates from [Mara Ironlun]]
+- See also: [[SPELL00138_Divine_Spell_139]]
 - Affected by [[step_064 (phase_058)
 - Affected by [step_044 (phase_064)]]
-- Compare with [[ENC00271_Combat_Encounter_272
-- Requires [Seeds of the Past]]
+- Compare with [[ENC00271_Combat_Encounter_272]]
 - Leads to [[the-outer-planes-outer-planes-xphb (tables)
 - Leads to
 - Originates from [Blanket Xphb]]
 - Related: [[02_Worldbuilding_Items_Divination_Tools
 - Connects to [step_032 (phase_039)]]
-- See also: [[Elf Eladrin Dmg
-- Influences [Magical Component Manufacturers Guil (D&D_References)]]
-- See also: [[Dr Midnight Surgery
-- Requires [Crystal Plague Progression System 2]]
+- See also: [[Magical Component Manufacturers Guil (D&D_References)]]
+- See also: [[Crystal Plague Progression System 2]]
 - Compare with [[zariel-mtf (legendary-group)
 - Related: [LORE00063_History_Entry_64]]
 - Leads to [[Location City Syncretist Mediators V1 Syncretist Mediators.svg
@@ -243,13 +233,11 @@ Needs discrete help with family scandal
 - Related: [step_003 (phase_059)]]
 - Leads to [[Influence Detector
 - Requires [step_080 (phase_084)]]
-- Originates from [[Ancestor Memorial Spaces
-- See also: [Dr Coral Mindmend]]
+- Originates from [[Ancestor Memorial Spaces]]
 - Requires [[Sack Xphb
 - Requires
 - Influences [Historical Research 2]]
-- Compare with [[Icon of Ravenloft Cos
-- See also: [Senator Morticia Graveheart (D&D_References)]]
+- Compare with [[Senator Morticia Graveheart (D&D_References)]]
 - Requires [[NPC00164_Solas_Thornweave
 - Connects to [VAULT_CLEAN_STATUS]]
 - Requires [[caltrops-xphb (items)

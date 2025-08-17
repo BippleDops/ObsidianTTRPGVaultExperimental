@@ -155,23 +155,19 @@ Forming expedition to dangerous location
 
 ## Connections
 
-- Leads to [[step_095 (phase_058)
-- Originates from [QUEST0018_The_Shadow_Realm_Plague]]
+- Leads to [[QUEST0018_The_Shadow_Realm_Plague]]
 - Influences [[Portrait NPC the Harmony Collective the Harmony Collective.svg_1 (Portraits)
 - Compare with [Energy Bow Xdmg]]
 - Compare with [[step_055 (phase_008)
 - Compare with [Assets Locations Location City the Lighthouse Keeper S Ghost V1 the Lighthouse Keeper S Ghost.png]]
 - See also: [[Boots of Levitation Xdmg
 - See also: [Tiefling Levistus Mtf]]
-- Requires [[LOC00267_Planes_Location_268
-- Related: [The Pressure Gates (D&D_References)]]
+- Requires [[The Pressure Gates (D&D_References)]]
 - Compare with
-- Originates from [[The Overflow (D&D_References)
-- Requires [NPC00732_Felicia_Stormwind_the_Wanderer]]
+- Originates from [[NPC00732_Felicia_Stormwind_the_Wanderer]]
 - Related: [[step_064 (phase_025)
 - Requires [Location City Temple of the Deep Waters Temple of the Deep Waters.svg]]
-- Originates from [[NPC01029_Xander_Youngblood_the_Bold
-- Compare with [Darkling Mpmm]]
+- Originates from [[NPC01029_Xander_Youngblood_the_Bold]]
 - Compare with [[step_030 (phase_033)
 - See also: [pony-xmm (beast)]]
 - Affected by [[Encounters_and_Challenges (D&D_Sourcebooks)
@@ -180,8 +176,7 @@ Forming expedition to dangerous location
 - Affected by [NPC0073_Helena_Ironforge]]
 - Parallels [[Handout Handout Ancient Prophecy Fragment Ancient Prophecy Fragment.png
 - Connects to [Spectator Xmm]]
-- Requires [[Next Town B
-- Originates from [ritual-xphb (variant-rules)]]
+- Requires [[ritual-xphb (variant-rules)]]
 - Leads to [[portrait-npc-lord-aurelius-v2-lord-aurelius.svg
 - Leads to [Commander Transparent 2]]
 - See also: [[water-elemental-xmm
@@ -190,10 +185,8 @@ Forming expedition to dangerous location
 - Parallels [enspelled-staff-level-6-xdmg (items)]]
 - Connects to [[The Sundered Vaults 2
 - Parallels [FAC00099_Orders_100]]
-- Affected by [[Regenerate Xphb
-- See also: [High Treasurer Crystal-Count Morgan]]
-- Compare with [[NPC00453_Idris_Grimholt
-- Leads to [LOC00247_Dungeons_Location_248]]
+- Affected by [[High Treasurer Crystal-Count Morgan]]
+- Compare with [[LOC00247_Dungeons_Location_248]]
 - Requires [[spells-scc (tables)
 - Compare with [SHOP00000_General_Shop_1]]
 - See also: [[step_040 (phase_047)
@@ -215,13 +208,11 @@ Forming expedition to dangerous location
 - Related: [Portrait NPC the Emperor S Memories V1 the Emperor S Memories.svg]]
 - Compare with [[NPC00438_Hestara_Stormwind
 - Compare with [step_008 (phase_097)]]
-- Affected by [[step_044 (phase_031)
-- Affected by [ENC00048_Environmental_Encounter_49]]
+- Affected by [[ENC00048_Environmental_Encounter_49]]
 - Originates from [[Helm of Brilliance Xdmg
 - Originates from
 - Related: [Diplomatic Intelligence]]
-- Requires [[Giant Spider Xmm
-- Connects to [NPC01028_Erasmus_Darkwater_the_Strong]]
+- Requires [[NPC01028_Erasmus_Darkwater_the_Strong]]
 - Parallels [[EVENT00057_Natural_Event_58
 - Connects to [greek-tyche (deities)]]
 - Related: [[Location City Diplomatic Service V1 Diplomatic Service.svg
@@ -233,14 +224,11 @@ Forming expedition to dangerous location
 - Related: [[DUN00135_Dungeon_136
 - Originates from
 - Requires [Information Warfare]]
-- Parallels [[Underground Smuggling Networks (D&D_References)
-- Parallels [Lieutet Memory Probe]]
-- Requires [[LOC0144_Hillhollow
-- Compare with [ENC00270_Combat_Encounter_271]]
+- Parallels [[Underground Smuggling Networks (D&D_References)]]
+- Requires [[ENC00270_Combat_Encounter_271]]
 - Influences [[The Free Trading Federation
 - Requires [ENC00223_Social_Encounter_224]]
-- Parallels [[ENC00429_Combat_Encounter_430
-- Parallels [step_018 (phase_061)]]
+- Parallels [[ENC00429_Combat_Encounter_430]]
 - Originates from [[list-spells-feats-magic-initiate-xphb (lists)
 - Influences
 - Requires [03 Chapter 3 Dms Toolbox]]
@@ -249,10 +237,8 @@ Forming expedition to dangerous location
 - Affected by [[ITEM00861_Time-worn_Orb_of_Eternity
 - Influences
 - See also: [Parliament Guards]]
-- Connects to [[Voidwhisper Diplomat Seraphina Darkgrace (D&D_References)
-- Parallels [ITEM00241_Cursed_Hammer_of_Slaying]]
-- See also: [[step_098 (phase_091)
-- See also: [Quest - The Merged Reality]]
+- Connects to [[Voidwhisper Diplomat Seraphina Darkgrace (D&D_References)]]
+- See also: [[Quest - The Merged Reality]]
 - Parallels [[04_Resources_Assets_Locations_location-city-scout-captain-vera-deepwatch-scout-captain-vera-deepwatch.svg
 - Influences [step_046 (phase_069)]]
 

@@ -257,5 +257,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Assets Locations Location City Dr Siphon Gillwater Dr Siphon Gillwater.png
 - [Assets Locations Location City Futures Master Economic Sense Futures Master Economic Sense.svg]]
-- [[Trade Captain Current
-- [Trade Captain Current (D&D_References)]]
+- [[Trade Captain Current (D&D_References)]]

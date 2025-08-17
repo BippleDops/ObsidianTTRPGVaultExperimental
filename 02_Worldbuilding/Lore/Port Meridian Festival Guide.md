@@ -1,7 +1,6 @@
 ---
 
-title: [[Port Meridian Festival Guide
-type: [Lore]]
+title: [[Port Meridian Festival Guide]]
 tags:
 - lore
 - worldbuilding

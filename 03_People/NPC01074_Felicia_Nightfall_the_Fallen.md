@@ -174,16 +174,12 @@ Seeks rare merchandise
 - Leads to [Familiars Vgm]]
 - See also: [[daerns-instant-fortress-xdmg (items)
 - Affected by [Levels 14 Local Heroes Levels 14 Adventure Situations Xdmg]]
-- Affected by [[ENC00138_Environmental_Encounter_139
-- Related: [Keeper of Memories Echo Truthseer (D&D_References)]]
-- Originates from [[ENC00152_Combat_Encounter_153
-- Leads to [LOC0023_Gateford]]
-- Influences [[ENC00195_Combat_Encounter_196
-- Compare with [The Sunken Cities 2]]
+- Affected by [[Keeper of Memories Echo Truthseer (D&D_References)]]
+- Originates from [[ENC00152_Combat_Encounter_153]]
+- Influences [[ENC00195_Combat_Encounter_196]]
 - Parallels [[War Commander Umbral Strategis 2
 - Connects to [Palace Guard Captain Ironclad]]
-- Leads to [[giant-toad-xmm (beast)
-- See also: [NPC01705_Xander_Lightbringer_the_Wanderer]]
+- Leads to [[NPC01705_Xander_Lightbringer_the_Wanderer]]
 - Related: [[Natural Order Movement (Orders)
 - Originates from [ITEM00889_Ancient_Chalice_of_the_Gods]]
 - Influences [[step_056 (phase_070)
@@ -199,13 +195,11 @@ Seeks rare merchandise
 - Leads to
 - Parallels [[SPELL00051_Arcane_Spell_52
 - Requires [Shadow Surgeon Strike Team (Criminal_Organizations)]]
-- Compare with [[step_014 (phase_070)
-- Requires [NPC01869_Aldric_Dawnstrider_the_Broken]]
+- Compare with [[NPC01869_Aldric_Dawnstrider_the_Broken]]
 - Originates from [[Chief Researcher Prism Studywright
 - Parallels
 - Requires [longship-xphb (items)]]
-- Related: [[chunk-of-meat (items)
-- Originates from [NPC01810_Solas_Hawthorne_the_Redeemed]]
+- Related: [[NPC01810_Solas_Hawthorne_the_Redeemed]]
 - Connects to [[Assets Locations Location City the Living Quarters the Living Quarters.svg
 - Connects to [step_066 (phase_043)]]
 - Requires [[Assets Locations Location City Deep Studycurrent Deep Studycurrent.svg
@@ -219,16 +213,13 @@ Seeks rare merchandise
 - Originates from
 - Connects to [[supplemental-tables-relationship-xge (tables)
 - Requires [Anti Priest us]]
-- Requires [[Political Intrigue of Meridian 2
-- Related: [NPC00931_Erasmus_Winterborn_the_Swift]]
-- Requires [[QUEST00176_Main_Quest_177
-- Influences [Next_Session_Goals]]
+- Requires [[NPC00931_Erasmus_Winterborn_the_Swift]]
+- Requires [[QUEST00176_Main_Quest_177]]
 - Influences [[Portrait NPC Castellan Ironledger Iii Castellan Ironledger Iii.svg_1 (Portraits)
 - See also: [LOC0053_WestVale]]
 - Leads to [[Roleplaying a Hag Hag Ideals Vgm
 - See also: [Location City Merchant Prince Aldric Goldcurrent V1 Merchant Prince Aldric Goldcurrent.svg]]
-- Parallels [[Academic Institutions (D&D_References)
-- Leads to [step_058 (phase_066)]]
+- Parallels [[Academic Institutions (D&D_References)]]
 - Compare with [[Portrait NPC Scholar Priest Tidal Memory V1 Scholar Priest Tidal Memory.svg
 - Parallels [forgotten-realms-torm (deities)]]
 - See also: [[keen-mind-xphb (feats)
@@ -249,8 +240,7 @@ Seeks rare merchandise
 - Affected by [[devils-sight-xphb (optional-features)
 - Leads to [Determine Numbers and Challenge Ratings Solo]]
 - Affected by
-- Parallels [[Tide-Speaker Nerida of House Abyssos
-- Compare with [nonhuman-bahamut (deities)]]
+- Parallels [[Tide-Speaker Nerida of House Abyssos]]
 - Originates from [[spell-scrolls-spell-scroll (tables)
 - Leads to [Lost Flee]]
 - Compare with [[step_095 (phase_016)
@@ -262,8 +252,7 @@ Seeks rare merchandise
 - Requires [step_058 (phase_094)]]
 - Leads to [[step_097 (phase_034)
 - Connects to [step_029 (phase_042)]]
-- Parallels [[LOC00106_Dungeons_Location_107
-- See also: [step_029 (phase_025)]]
+- Parallels [[LOC00106_Dungeons_Location_107]]
 - Affected by [[step_061 (phase_028)
 - Connects to [Location City Doctor Coral Shapeshift V1 Doctor Coral Shapeshift.svg]]
 - Affected by [[quaals-feather-token-anchor-xdmg (items)

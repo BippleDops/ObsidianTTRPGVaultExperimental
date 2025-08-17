@@ -279,5 +279,4 @@ ___
 ## References
 
 - [Assets Locations Location City Cathedral of Light V1 Cathedral of Light.png]]
-- [[The Free Current
-- [The Free Current (D&D_References)]]
+- [[The Free Current (D&D_References)]]

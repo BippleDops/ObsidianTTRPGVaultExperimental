@@ -19,15 +19,15 @@ SORT region, settlement_type, file.name
 ## Settlement Types
 
 ### [[Lore]]
-- [[Location]]
+- [[location]]
 
 ### lore
-- [[Displaced Atoll Residents (Lore)]]
-- [[Locations]]
+- [[Displaced Atoll Residents]]
+- [[locations]]
 
 ### location
 - [[Displaced Atoll Residents]]
-- [[Map Placeholder]]
+- [[map_placeholder]]
 - [[Meridian Undercity]]
 - [[Resource Coordinator Kelp Allocationwright]]
 - [[Resource Scarcity Prediction]]
@@ -37,8 +37,7 @@ SORT region, settlement_type, file.name
 ### Lore
 - [[Shadow Replacement Procedures 2]]
 
-### [[Lore
-- [[Authenticity Verification]]
+### [[Authenticity Verification]]
 - [[Effects Temporal Displacement]]
 - [[Shadow Replacement Procedures]]
 
@@ -49,8 +48,7 @@ SORT region, settlement_type, file.name
 - [[Crimson Velocity 2]]
 - [[Replacement Survivor Support Groups 2]]
 
-### [[location
-- [[Crimson Velocity]]
+### [[Crimson Velocity]]
 
 ## Quick Actions
 - [[Location_Template|Create New Location]]

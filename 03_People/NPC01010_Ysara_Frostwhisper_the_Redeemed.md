@@ -165,8 +165,7 @@ Seeks rare merchandise
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -181,8 +180,7 @@ Seeks rare merchandise
 ## Connections
 
 - Affected by
-- Influences [[step_054 (phase_043)
-- Requires [ENC0054_Random_Encounter_55]]
+- Influences [[ENC0054_Random_Encounter_55]]
 - See also: [[shield-of-the-cavalier-xdmg (items)
 - See also: [LOC00261_Dungeons_Location_262]]
 - Influences [[box-of-turquoise-animal-figurines-xdmg (items)
@@ -205,10 +203,8 @@ Seeks rare merchandise
 - Requires [LORE00285_History_Entry_286]]
 - Connects to [[Brass Mug With Jade Inlay Xdmg
 - Requires [QUEST0057_In_Search_of_Vengeance]]
-- Affected by [[smiths-tools-xphb (items)
-- Related: [Harbor District Customs House (D&D_References)]]
-- Leads to [[Noble Quarter Council Chambers (D&D_References)
-- Affected by [MON00093_Constructs_Creature_94]]
+- Affected by [[Harbor District Customs House (D&D_References)]]
+- Leads to [[Noble Quarter Council Chambers (D&D_References)]]
 - Affected by [[location-city-haven-reef-v1-haven-reef.svg
 - Related: [step_028 (phase_071)]]
 - Requires [[step_035 (phase_030)
@@ -219,8 +215,7 @@ Seeks rare merchandise
 - Requires [skeleton-dmg (races)]]
 - Parallels [[Lighthouse of Storms (Lore)
 - Originates from [LOC00273_Dungeons_Location_274]]
-- Originates from [[Symbiotic Integration Specialists (D&D_References)
-- Related: [step_068 (phase_077)]]
+- Originates from [[Symbiotic Integration Specialists (D&D_References)]]
 - Compare with [[step_040 (phase_061)
 - Originates from [Hadal Depths]]
 - Compare with [[FAC00001_Guilds_2
@@ -233,19 +228,13 @@ Seeks rare merchandise
 - See also: [SPELL0004_Shadow_Bolt]]
 - Originates from [[feats
 - Requires [signet-ring (items)]]
-- Influences [[The Sunken Library
-- Connects to [NPC00878_Kaelen_Ironwood_the_Strong]]
-- Parallels [[LOC00196_Dungeons_Location_197
-- Affected by [Crystal_Artillery_Player (D&D_References)]]
+- Influences [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- Parallels [[Crystal_Artillery_Player (D&D_References)]]
 - Influences [[Trade Captain Sterling (D&D_References)
 - Parallels [Portrait NPC Embassy of Eternal Shadows V2 Embassy of Eternal Shadows.svg]]
-- Requires [[Grandmother Nightcomfor (D&D_References)
-- Connects to
-- Leads to [step_047 (phase_016)]]
-- See also: [[LOC00061_Towns_Location_62
-- Related: [The Convergence Maze]]
-- Leads to [[NPC01704_Ewan_Stormwind_the_Mystic
-- Leads to [Community Investment Fund]]
+- Requires [[Grandmother Nightcomfor (D&D_References)]]
+- See also: [[LOC00061_Towns_Location_62]]
+- Leads to [[NPC01704_Ewan_Stormwind_the_Mystic]]
 - Originates from [[Institute of Adaptive Sciences
 - See also: [LORE00303_History_Entry_304]]
 - Related:
@@ -266,13 +255,10 @@ Seeks rare merchandise
 - Parallels [step_092 (phase_054)]]
 - Originates from [[Deep Current Academy (Places)
 - See also: [step_031 (phase_069)]]
-- Originates from [[LOC00104_Towns_Location_105
-- Leads to [Purification Chambers (D&D_References)]]
+- Originates from [[Purification Chambers (D&D_References)]]
 - Parallels
-- Compare with [[Astral Skiff Mtf
-- Leads to [Gatekeeper Iron-Lung Boris]]
-- Connects to [[LORE0017_Prophecy_of_the_Dragon_Wars
-- Related: [LOC00063_Planes_Location_64]]
+- Compare with [[Gatekeeper Iron-Lung Boris]]
+- Connects to [[LORE0017_Prophecy_of_the_Dragon_Wars]]
 - Requires [[Culinary Dreamweaver Sage Gentlespice 2
 - Related: [Assets Portraits Portrait NPC Otherworldly Patron Otherworldly Patron.svg]]
 - See also: [[Scream Saturation Rules

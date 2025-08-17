@@ -163,16 +163,13 @@ Knows secret about major threat
 
 ## Connections
 
-- Originates from [[step_011 (phase_024)
-- Requires [Engineering Chief Master Wrench Pressureborn]]
+- Originates from [[Engineering Chief Master Wrench Pressureborn]]
 - Compare with [[Assets Locations Location City Vault Keeper Eternal V1 Vault Keeper Eternal.svg
 - Influences [charlatans-die-xdmg (items)]]
-- Originates from [[NPC01082_Fiora_Ashford_the_Fallen
-- Requires [Community Organizer Current Communalspirit 2]]
+- Originates from [[Community Organizer Current Communalspirit 2]]
 - Leads to [[Halberd Xphb
 - Compare with [whirlwind-xge (spells)]]
-- Affected by [[nonhuman-hruggek (deities)
-- See also: [The Corrupted Admiralty (D&D_References)]]
+- Affected by [[The Corrupted Admiralty (D&D_References)]]
 - Parallels [[Brontosaurus Mpmm
 - Parallels [Ancestor's Pool 2]]
 - Originates from [[step_034 (phase_097)
@@ -180,8 +177,7 @@ Knows secret about major threat
 - Parallels
 - Leads to [[step_094 (phase_047)
 - Requires [Assets Locations Location City Dr Reef Brightwater Dr Reef Brightwater.svg]]
-- Compare with [[step_075 (phase_060)
-- See also: [Memory Merchant Valeria (D&D_References)]]
+- Compare with [[Memory Merchant Valeria (D&D_References)]]
 - Connects to
 - Related: [[Bloodied Xphb
 - Affected by [Portrait NPC the Nameless Auditor the Nameless Auditor.svg]]
@@ -197,20 +193,17 @@ Knows secret about major threat
 - Affected by [Celestial Heights]]
 - Connects to [[The Great Elevation 2
 - Leads to [step_098 (phase_075)]]
-- Requires [[step_006 (phase_098)
-- Leads to [Order of the Drowned Star]]
+- Requires [[Order of the Drowned Star]]
 - Influences [[Location City Memory Coral Reefs V1 Memory Coral Reefs.svg
 - Related: [step_050 (phase_092)]]
 - Requires [[Location City Liberty Coalition V1 Liberty Coalition.svg
 - Influences [step_002 (phase_072)]]
 - Parallels [[SPELL00025_Arcane_Spell_26
 - Affected by [potion-of-animal-friendship-xdmg (items)]]
-- Originates from [[LORE00285_History_Entry_286
-- Connects to [Master Harvest Engineer Kelp Deepso (D&D_References)]]
+- Originates from [[Master Harvest Engineer Kelp Deepso (D&D_References)]]
 - Leads to [[ITEM01077_Lesser_Elixir_of_Healing
 - Originates from [Introduction 2]]
-- Leads to [[ITEM0137_Blessed_Shield_of_Shadows
-- Originates from [Sage Gentlespice]]
+- Leads to [[ITEM0137_Blessed_Shield_of_Shadows]]
 - Requires [[step_073 (phase_021)
 - Requires [elf-names-male-adult-xge (tables)]]
 - Parallels [[Assets Portraits Portrait NPC Duke Hadal Duke Hadal.svg
@@ -229,18 +222,14 @@ Knows secret about major threat
 - See also: [Order of Preserved Knowledge (Orders)]]
 - Influences [[Portrait NPC Blackwater Estate V1 Blackwater Estate.svg
 - Influences [step_057 (phase_088)]]
-- Leads to [[QUEST00115_Personal_Quest_116
-- Compare with [Economic Warfare]]
+- Leads to [[QUEST00115_Personal_Quest_116]]
 - Parallels [[Location City the Crystal Stock Exchange the Crystal Stock Exchange.svg
 - Affected by [pets-beholder-lesser-minions-vgm (tables)]]
-- Parallels [[LOC00065_Dungeons_Location_66
-- Influences [step_002 (phase_037)]]
+- Parallels [[LOC00065_Dungeons_Location_66]]
 - Connects to [[Assets Locations Location City Engineer Prisma Depthwright V1 Engineer Prisma Depthwright.svg
 - Affected by [Forge District (Places)]]
-- Related: [[QUEST00277_Personal_Quest_278
-- Compare with [Environmental Engineer Current Depthwrigh (D&D_References)]]
-- Originates from [[Master Builder Caelum Vortexwright
-- Compare with [step_096 (phase_064)]]
+- Related: [[Environmental Engineer Current Depthwrigh (D&D_References)]]
+- Originates from [[Master Builder Caelum Vortexwright]]
 - Requires [[dragon-turtle-xmm (dragon)
 - Requires
 - Originates from [vicious-weapon-xdmg (items)]]

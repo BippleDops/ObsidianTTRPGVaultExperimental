@@ -173,9 +173,7 @@ Has information about legendary item
 - Parallels [QUEST00427_Side_Quest_428]]
 - See also: [[Master Cultivators Guild
 - Connects to [step_027 (phase_079)]]
-- Affected by [[Depths Alliance (D&D_References)
-- Requires
-- Connects to [Shadow Cultis]]
+- Affected by [[Depths Alliance (D&D_References)]]
 - Compare with [[step_028 (phase_010)
 - Influences [bronze-dragon (legendary-group)]]
 - Originates from [[step_033 (phase_025)
@@ -186,18 +184,15 @@ Has information about legendary item
 - Related: [Assets Locations Location City Memoriam the Forgotten Continent Memoriam the Forgotten Continent.svg]]
 - See also: [[Session Logbase
 - Connects to [step_040 (phase_071)]]
-- Connects to [[step_026 (phase_040)
-- Leads to [International Crystal Trade Associatio]]
+- Connects to [[International Crystal Trade Associatio]]
 - Influences [[Portrait NPC Vanguard Captain Crystalla Shardstrike Vanguard Captain Crystalla Shardstrike.svg
 - Related: [Ability Score Point Costs Xphb]]
-- Requires [[long-jump-xphb (variant-rules)
-- Related: [Void Keeper Sister Nyx Nullspace (D&D_References)]]
+- Requires [[Void Keeper Sister Nyx Nullspace (D&D_References)]]
 - Connects to [[Assets Locations Location City Knowledge Truthseeker V1 Knowledge Truthseeker.svg
 - Parallels [Combat Medicine Laboratory]]
 - Affected by [[step_065 (phase_056)
 - Originates from [Templates World Builder Templates Template Group.md]]
-- Parallels [[Underground Smuggling Networks (D&D_References)
-- Compare with [EVENT00097_Magical_Event_98]]
+- Parallels [[Underground Smuggling Networks (D&D_References)]]
 - Parallels [[Seeds of the Past
 - Originates from [FAC00043_Cults_44]]
 - Leads to
@@ -205,8 +200,7 @@ Has information about legendary item
 - Related: [step_070 (phase_035)]]
 - Parallels [[step_097 (phase_067)
 - Parallels [one-with-shadows-xphb (optional-features)]]
-- Related: [[LOC00191_Wilderness_Location_192
-- Leads to [Reference.md]]
+- Related: [[LOC00191_Wilderness_Location_192]]
 - Compare with [[Dr. Nereus Thoughtweaver
 - Requires [step_022 (phase_066)]]
 - Originates from [[step_057 (phase_092)
@@ -223,10 +217,8 @@ Has information about legendary item
 - Related: [portrait-npc-gareth-ironforge-gareth-ironforge.svg]]
 - Compare with [[step_012 (phase_022)
 - Parallels [Maître d' Pelagia Smoothcurrent]]
-- Requires [[Cleaning Fish
-- Parallels [NPC00594_Gareth_Lightbringer_the_Fallen]]
-- Affected by [[LOC00166_Cities_Location_167
-- Influences [Training Camps 2]]
+- Requires [[NPC00594_Gareth_Lightbringer_the_Fallen]]
+- Affected by [[LOC00166_Cities_Location_167]]
 - Compare with [[Economic_Event_Name_2 (02_Worldbuilding)
 - Originates from [Underwater Fermentation]]
 - Compare with [[Assets Locations Location City Liberty Coalition V1 Liberty Coalition.svg
@@ -236,8 +228,7 @@ Has information about legendary item
 - Originates from [[LORE00105_History_Entry_106
 - Parallels
 - Compare with [Choker Mpmm]]
-- Leads to [[Truth Verification Magic 2
-- Affected by [Embassy District]]
+- Leads to [[Truth Verification Magic 2]]
 - Affected by [[Depth Effect Quick Reference (Lore)
 - Leads to
 - Connects to [step_077 (phase_069)]]
@@ -246,12 +237,10 @@ Has information about legendary item
 - Parallels [[step_038 (phase_030)
 - Influences [location-city-the-observatory-the-observatory.svg]]
 - Originates from
-- Connects to [[Captain Marcus Voidward (D&D_References)
-- Leads to [Quest - Precision Strike 2]]
+- Connects to [[Captain Marcus Voidward (D&D_References)]]
 - Influences [[Portrait NPC High Priest Absence High Priest Absence.svg_1 (Portraits)
 - Leads to [Location City the Reflection Pools the Reflection Pools.svg]]
-- Originates from [[step_091 (phase_023)
-- Affected by [Shadow Community Political Power]]
+- Originates from [[Shadow Community Political Power]]
 - Connects to [[Royal Regalia
 - Leads to [step_098 (phase_016)]]
 - Related: [[The Crown's Burden (D&D_Statblocks)

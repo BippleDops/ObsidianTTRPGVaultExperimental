@@ -170,8 +170,7 @@ Blackmails party into service
 - Leads to [[Psychic Observer All-Seeing Echo
 - Requires
 - Leads to [step_074 (phase_020)]]
-- Compare with [[NPC01016_Malakai_Ravenheart_the_Redeemed
-- Requires [EVENT00015_Natural_Event_16]]
+- Compare with [[NPC01016_Malakai_Ravenheart_the_Redeemed]]
 - Compare with
 - Connects to [[step_008 (phase_047)
 - Originates from [ENC00453_Combat_Encounter_454]]
@@ -180,8 +179,7 @@ Blackmails party into service
 - Originates from [[manual-of-gainful-exercise-xdmg (items)
 - Leads to
 - Originates from [Save_Queen_Seraphina.png]]
-- Requires [[MON00057_Constructs_Creature_58
-- Affected by [Reality Manipulation]]
+- Requires [[MON00057_Constructs_Creature_58]]
 - See also: [[Random Buildings Building Type
 - Originates from
 - Related: [Master Harvester Tide Crystalcut]]
@@ -189,19 +187,15 @@ Blackmails party into service
 - Compare with [LORE00076_Legends_Entry_77]]
 - Leads to [[Thalassopolis Ruins
 - Influences [The_Singing_Shadows.png]]
-- Affected by [[silvered-weapon-xdmg (items)
-- Compare with [Planning Director Victor Visionkeeper]]
+- Affected by [[Planning Director Victor Visionkeeper]]
 - Requires [[needle-xphb (items)
 - See also: [location-city-finn-deepmarket-finn-deepmarket.svg]]
 - See also: [[location-city-port-meridian-port-meridian.svg
 - Parallels [Void-Echo Silence Deafmake]]
 - Affected by
-- Leads to [[Houses_and_Nobility___House_Brightshield
-- Originates from [Fleet_Dynamics_Generator]]
-- Compare with [[Vehicle Core Rules#2) Piloting & Adaptation Requirements
-- Affected by [The Pearl Markets 2]]
-- Related: [[Telepathy Xphb (variant-rules)
-- Requires [step_035 (phase_016)]]
+- Leads to [[Houses_and_Nobility___House_Brightshield]]
+- Compare with [[Vehicle_Core_Rules]]
+- Related: [[Telepathy Xphb (variant-rules)]]
 - Connects to [[NPC01234_Nerys_Dawnstrider_the_Strong
 - Requires [portrait-npc-the-senator-v2-the-senator.svg]]
 - Affected by [[step_082 (phase_069)
@@ -214,9 +208,7 @@ Blackmails party into service
 - See also: [Psychic Shields]]
 - Affected by [[MON0029_Crystal_Devourer
 - Connects to [step_077 (phase_099)]]
-- Connects to [[Goldspire Port (D&D_References)
-- Parallels
-- Requires [Living Corridor]]
+- Connects to [[Goldspire Port (D&D_References)]]
 - Influences [[step_068 (phase_090)
 - Related: [Portrait NPC Admiral Cassandra Stormwind Admiral Cassandra Stormwind.svg_1 (Portraits)]]
 - See also: [[list-spells-races-tiefling-glasya-mtf (lists)
@@ -239,8 +231,7 @@ Blackmails party into service
 - Related: [Portrait NPC Prince Caspian Duskwater V1 Prince Caspian Duskwater.svg_1 (Portraits)]]
 - See also: [[LORE00289_Prophecies_Entry_290
 - Originates from [Working Class Routines (Lore)]]
-- See also: [[SPELL00125_Nature_Spell_126
-- See also: [step_065 (phase_040)]]
+- See also: [[SPELL00125_Nature_Spell_126]]
 - Connects to
 - Requires [[International Law Enforcement
 - Leads to [Portrait NPC the Bloodline Carrier V2 the Bloodline Carrier.svg_1 (Portraits)]]
@@ -266,7 +257,7 @@ Blackmails party into service
 - Originates from [Glaive Xphb]]
 - Originates from [[Old Valdris
 - Affected by [step_100 (phase_012)]]
-- Requires [[step_077 (phase_049)]]
+- Requires
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

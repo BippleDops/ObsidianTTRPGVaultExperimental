@@ -173,24 +173,20 @@ Offers deal too good to refuse
 - See also: [LORE00172_History_Entry_173]]
 - See also: [[Assets Locations Location City Memory Keeper Ancient Nerida Memory Keeper Ancient Nerida.svg
 - Related: [ENC00124_Environmental_Encounter_125]]
-- Compare with [[Hidden Monastery of Eternal Currents
-- Parallels [Human Xphb]]
+- Compare with [[Hidden Monastery of Eternal Currents]]
 - Compare with [[Neural Pathway Rebuilder
 - Leads to [Location City Shadow Chancellor V1 Shadow Chancellor.svg]]
 - Requires [[Assets Locations Location City Commercial District V1 Commercial District.svg
 - Influences [Assets Locations Location City Gentle Currentguide V1 Gentle Currentguide.svg]]
 - Compare with [[Location City Enchanter Valdris Peacewarden V1 Enchanter Valdris Peacewarden.svg
 - Influences [FAC00099_Orders_100]]
-- See also: [[Ancient Lore Knowledge Checks
-- Influences [Merrow Xmm]]
+- See also: [[Ancient Lore Knowledge Checks]]
 - Affected by [[step_009 (phase_063)
 - Compare with [LORE00315_Legends_Entry_316]]
 - Leads to [[dominate-beast-xphb (spells)
 - Related: [LOC00299_Cities_Location_300]]
-- Affected by [[death-tyrant (legendary-group)
-- Connects to [Cloud Giant Xmm]]
-- Leads to [[Corruption Mystic Serafina Shadowheart (D&D_References)
-- Affected by [step_088 (phase_015)]]
+- Affected by [[death-tyrant (legendary-group)]]
+- Leads to [[Corruption Mystic Serafina Shadowheart (D&D_References)]]
 - Leads to [[Scene Scene the Party S First Glimpse of Abyssos Prime V1 the Party S First Glimpse of Abyssos Prime.png
 - Influences [Leviathan the Dee 2]]
 - Requires [[elf-names-child-xge (tables)
@@ -199,30 +195,23 @@ Offers deal too good to refuse
 - Influences [Spell Gem Oota]]
 - Connects to [[step_066 (phase_050)
 - Related: [List Spells Races Tiefling Glasya Mtf]]
-- Affected by [[NPC00679_Qadim_Grimholt_the_Fallen
-- Leads to [Tymora (D&D_References)]]
+- Affected by [[NPC00679_Qadim_Grimholt_the_Fallen]]
 - Affected by [[Assets Locations Location City the Memory Meadows Black Market the Memory Meadows Black Market.svg
 - Connects to
 - Influences [ITEM01480_Decorated_Map_Case_of_Durability]]
-- Connects to [[undead
-- Compare with [Crown of Aethermoor]]
-- See also: [[step_085 (phase_057)
-- Influences [NPC0067_Beatrix_Ironforge_the_Wise]]
-- Related: [[Portrait NPC Mayo... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Leads to [Jeweled Gold Crown Xdmg]]
+- Connects to [[Crown of Aethermoor]]
+- See also: [[NPC0067_Beatrix_Ironforge_the_Wise]]
+- Related: [[Portrait NPC Mayo... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Leads to [[The Floating Market
 - Affected by [step_051 (phase_038)]]
-- Parallels [[Item Catalo
-- Connects to [ITEM0036_Eldritch_Tome_of_Power]]
+- Parallels [[ITEM0036_Eldritch_Tome_of_Power]]
 - Compare with [[SPELL00052_Divine_Spell_53
 - Leads to [LORE00287_Legends_Entry_288]]
-- See also: [[step_066 (phase_048)
-- See also: [NPC01217_Xander_Xendar_the_Wise]]
+- See also: [[NPC01217_Xander_Xendar_the_Wise]]
 - Leads to
 - Related: [[giant-slayer-xdmg (items)
 - Requires [Black Bear Xmm]]
-- Parallels [[Modron Tridrone Xmm
-- Leads to [General Radiance Stormwright]]
+- Parallels [[General Radiance Stormwright]]
 - Parallels [[step_056 (phase_005)
 - Parallels [QUEST00095_Side_Quest_96]]
 - Related: [[area-of-effect-xphb (variant-rules)
@@ -230,8 +219,7 @@ Offers deal too good to refuse
 - Affected by [[NPC (D&D_References)
 - Originates from
 - See also: [step_013 (phase_038)]]
-- Related: [[Geology Specialist Stone Soundshape (People)
-- See also: [step_027 (phase_054)]]
+- Related: [[Geology Specialist Stone Soundshape]]
 - Parallels [[ITEM00928_Lesser_Salve_of_Clarity
 - Parallels [Quest - Sky Pirates 2]]
 - See also: [[Crystal Palace Throne Room
@@ -247,12 +235,10 @@ Offers deal too good to refuse
 - Requires [[Nyx Thalassic (D&D_References)
 - Requires
 - Affected by [ITEM00724_Divine_Crown_of_Destiny]]
-- Related: [[healing
-- Influences [Campaign Calendar (D&D_References)]]
+- Related: [[Campaign Calendar (D&D_References)]]
 - Originates from [[The Living Docks
 - Requires [Memory Court]]
-- Related: [[List Spells Optional Features Whispers of the Grave Xphb
-- Requires [The Depth Blessed Fisherman, Captain Sal Deepcurrent]]
+- Related: [[The Depth Blessed Fisherman, Captain Sal Deepcurrent]]
 - Parallels [[README
 - Compare with [Lore_1 (02_Worldbuilding)]]
 - Related: [[QUEST00086_Side_Quest_87

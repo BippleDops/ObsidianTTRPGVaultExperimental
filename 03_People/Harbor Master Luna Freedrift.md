@@ -339,8 +339,6 @@ Legends speak of Harbor Master Luna Freedrift as a nexus where past and present 
 - [Assets Portraits Portrait NPC Captain Threshold Captain Threshold.svg]]
 - [[The Crimson Shard Guardian
 - [Harbor Master Luna Freedrift (Places)]]
-- [[Supplier Erikson Tidecaller
-- [Supplier Erikson Tidecaller (D&D_References)]]
-- [[Dr. Siphon Gillwater (D&D_Statblocks)
-- [Harbor Master Luna Freedrift (D&D_Statblocks)]]
+- [[Supplier Erikson Tidecaller (D&D_References)]]
+- [[Harbor Master Luna Freedrift (D&D_Statblocks)]]
 - [[The Crimson Shard Guardian (D&D_Statblocks)]]

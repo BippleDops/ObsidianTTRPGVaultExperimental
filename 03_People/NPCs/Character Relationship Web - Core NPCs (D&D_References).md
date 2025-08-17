@@ -169,11 +169,8 @@ Ancient memories preserved in the deepest ocean trenches are rising to the surfa
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes ## Related Notes - [[Similar Topic 1
-
-- [Contrasting Approach]]
-- [[Advanced Version
-- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
+- Connections to overarching campaign themes ## Related Notes - [[Contrasting Approach]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

@@ -54,15 +54,9 @@ updated: '2025-08-13T01:18:36.803414+00:00'
 The Thieves Guild is a powerful and influential criminal organization that operates in the shadows of Shadowhaven. They are involved in all manner of illegal activities, from petty theft to high-stakes heists. ## Player-Facing Summary Thieves Guild is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Thieves Guild as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Thieves Guild. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange disappearances suggest a curse
 
 - An heirloom has gone missing and evil awakens
-- Strange dreams suggest ancient magic ## Related Notes - [[Similar Topic 1
-
-- [Contrasting Approach]]
-- [[Advanced Version
-- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Shadow Surgeons Collective
-
-- [Ancient Siege Tunnels]]
-- [[The Bone Colosseum
-- [Ancient Siege Tunnels (D&D_References)]]
+- Strange dreams suggest ancient magic ## Related Notes - [[Contrasting Approach]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Shadow Surgeons Collective]]
+- [[Ancient Siege Tunnels (D&D_References)]]
 - [[The Bone Colosseum (D&D_References)]]
 
 ## Notes

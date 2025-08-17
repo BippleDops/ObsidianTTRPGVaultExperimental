@@ -1,7 +1,6 @@
 ---
 
-title: Afflictions [[Reality Madness
-type: [Lore]]
+title: Afflictions [[Reality Madness]]
 tags:
 - lore
 - active

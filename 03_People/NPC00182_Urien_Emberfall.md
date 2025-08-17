@@ -168,8 +168,7 @@ Requires champions for trial by combat
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -218,8 +217,7 @@ Requires champions for trial by combat
 - Compare with [step_038 (phase_044)]]
 - Originates from [[Special Features Who Created It Or Was Intended to Use It
 - Originates from [LORE0035_History_of_the_Lost_City]]
-- Originates from [[step_024 (phase_028)
-- See also: [area-of-effect-xphb (variant-rules)]]
+- Originates from [[area-of-effect-xphb (variant-rules)]]
 - Related: [[step_003 (phase_093)
 - Connects to [ITEM01085_Pure_Herb_of_Fortune]]
 - Parallels [[The Golden Trade Route 2
@@ -230,22 +228,18 @@ Requires champions for trial by combat
 - Connects to [Location City Master Thorek Crystalhammer V1 Master Thorek Crystalhammer.svg]]
 - Connects to [[step_037 (phase_080)
 - See also: [LORE00267_Legends_Entry_268]]
-- Parallels [[step_016 (phase_036)
-- Leads to [Royal Treasurer (D&D_References)]]
+- Parallels [[Royal Treasurer (D&D_References)]]
 - Compare with [[MON00038_Constructs_Creature_39
 - Leads to [The Heroes' Hall (D&D_References)]]
-- See also: [[Dancing Lights Xphb
-- Affected by [Crystal-Corruption-Tracking-Sheet]]
+- See also: [[Crystal-Corruption-Tracking-Sheet]]
 - See also: [[step_072 (phase_080)
 - See also: [Divine Intervention Plaza]]
 - Connects to [[Assets Portraits Portrait NPC Quest the Corruption Files Quest the Corruption Files.svg
 - Related: [LORE00108_Prophecies_Entry_109]]
 - Influences [[Location City the Siren S Rest Tavern the Siren S Rest Tavern.svg
 - Influences [Rope Xphb]]
-- Connects to [[Portrait NPC Scho... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Requires [step_062 (phase_024)]]
-- Related: [[NPC01765_Corvus_Jadeclaw_the_Guardian
-- Influences [step_025 (phase_013)]]
+- Connects to [[Portrait NPC Scho... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Related: [[NPC01765_Corvus_Jadeclaw_the_Guardian]]
 - See also: [[QUEST00297_Personal_Quest_298
 - Affected by
 - Leads to [Staff of Charming Xdmg]]
@@ -257,14 +251,11 @@ Requires champions for trial by combat
 - Connects to [step_075 (phase_024)]]
 - Parallels [[Assets Locations Location City Chief Philosopher Marina Clearpool V1 Chief Philosopher Marina Clearpool.svg
 - Influences [step_083 (phase_024)]]
-- Leads to [[step_087 (phase_069)
-- Influences [ENC00177_Combat_Encounter_178]]
-- Requires [[The Multiverse
-- Leads to [ENC00389_Combat_Encounter_390]]
+- Leads to [[ENC00177_Combat_Encounter_178]]
+- Requires [[ENC00389_Combat_Encounter_390]]
 - Parallels [[step_048 (phase_008)
 - Originates from [Economic Intelligence 2]]
-- Compare with [[NPC01767_Alaric_Ravenheart_the_Risen
-- Influences [Merchant Delilah Currentrunner]]
+- Compare with [[NPC01767_Alaric_Ravenheart_the_Risen]]
 - Requires [[MON00109_Aberrations_Creature_110
 - See also: [Assets Locations Location City Crown Jewels Crown Jewels.svg]]
 - Influences [[barrack
@@ -273,12 +264,10 @@ Requires champions for trial by combat
 - Affected by [12_Research_D&D_Statblocks_Archdruid_Thornweaver]]
 - Parallels [[Location City the Forgotten Representative the Forgotten Representative.svg
 - Parallels [ITEM00079_Frost_Sword_of_Wounding]]
-- Compare with [[The First Dreamer (D&D_References)
-- Connects to [Depth Adaptation Points]]
+- Compare with [[The First Dreamer (D&D_References)]]
 - Compare with [[Location City Master Elena Preserver V1 Master Elena Preserver.svg
 - Compare with [step_095 (phase_084)]]
-- Requires [[ENC00025_Social_Encounter_26
-- Affected by [step_037 (phase_020)]]
+- Requires [[ENC00025_Social_Encounter_26]]
 - Compare with [[ITEM00547_Dragon_Scale_Plate_of_Grace
 - Leads to [Human Names German Female Xge]]
 - Originates from [[middle-class-carousing-complications-xge (tables)]]

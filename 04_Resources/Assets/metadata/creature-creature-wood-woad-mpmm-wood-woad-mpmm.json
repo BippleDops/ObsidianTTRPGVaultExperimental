@@ -25,5 +25,8 @@
   "alt_text": "Concept art of wood-woad-mpmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-wood-woad-mpmm-wood-woad-mpmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-wood-woad-mpmm-wood-woad-mpmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:11:26.901Z",
+  "generationMethod": "ComfyUI"
 }

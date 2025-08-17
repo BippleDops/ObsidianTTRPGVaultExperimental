@@ -481,10 +481,8 @@ updated: '2025-08-12T00:00:00+00:00'
 - A journal reveals a conspiracy about this place
 - A letter reveals the truth about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [Ironhold]]
 
-- [[Sylvanheart
-- [Aquabyssos (D&D_References)]]
-- [[Crystalhaven (D&D_References)
-- [Ironhold (D&D_References)]]
+- [[Aquabyssos (D&D_References)]]
+- [[Crystalhaven (D&D_References)]]
 - [[Sylvanheart (D&D_References)]]
 
 ## Notes

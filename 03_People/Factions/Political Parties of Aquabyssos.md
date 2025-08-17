@@ -360,8 +360,6 @@ Things widely suspected
 
 ## References
 
-- [[Consequence Chain 1 - Shadow Conspiracy Exposure
-- [Political Intrigue Master Index]]
-- [[Consequence Chain 1 - Shadow Conspiracy Exposure (D&D_References)
-- [Consequence Chain 1 - Shadow Conspiracy Exposure 3 (D&D_References)]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure 3 (D&D_References)]]
 - [[Political Intrigue Master Index (D&D_References)]]

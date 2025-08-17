@@ -169,8 +169,7 @@ Is secretly testing the party
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -188,20 +187,16 @@ Is secretly testing the party
 - Influences [04_Resources_Assets_Symbols_symbol-heraldry-crystal-pirate-crew-crystal-pirate-crew.svg]]
 - Leads to [[stabling-per-day-xphb (items)
 - Related: [Marine Corps]]
-- Requires [[deck-of-many-things#Sun
-- Influences [Giant Insect Spider Xphb]]
+- Requires [[deck-of-many-things#Key]]
 - Compare with [[dybbuk-mpmm (fiend)
 - Influences [Portrait NPC the Great Trade Routes V2 the Great Trade Routes.svg_1 (Portraits)]]
-- See also: [[step_023 (phase_096)
-- Leads to [Public Safety (D&D_References)]]
-- Influences [[step_063 (phase_062)
-- See also: [The Last Resort Procedures]]
+- See also: [[Public Safety (D&D_References)]]
+- Influences [[The Last Resort Procedures]]
 - Compare with [[QUEST00035_Side_Quest_36
 - Influences [The Neutral Waters 2]]
 - Requires [[quaals-feather-token-bird-xdmg (items)
 - Originates from [Assets Locations Location City Dream Enhancement Techniques Dream Enhancement Techniques.svg]]
-- Compare with [[Merchant Princess Coral Goldtide (D&D_References)
-- Requires [LOC00147_Towns_Location_148]]
+- Compare with [[Merchant Princess Coral Goldtide (D&D_References)]]
 - See also: [[Common Storage
 - Affected by [SHOP00050_Specialty_Shop_51]]
 - Parallels [[green-abishai-mpmm (fiend)
@@ -233,27 +228,22 @@ Is secretly testing the party
 - Connects to [step_028 (phase_032)]]
 - Requires [[Carpet of Flying 5 Ft 7 Ft Xdmg
 - Leads to [LORE00211_Prophecies_Entry_212]]
-- Affected by [[animate-objects-xphb (spells)
-- See also: [NPC00927_Aldric_Ironwood_the_Wanderer]]
+- Affected by [[NPC00927_Aldric_Ironwood_the_Wanderer]]
 - Parallels
 - Affected by [[step_005 (phase_058)
 - Affected by [list-spells-optional-features-ride-the-wind (lists)]]
-- See also: [[step_008 (phase_031)
-- Affected by [NPC00465_Idris_Blackstone_the_Redeemed]]
-- Influences [[step_013 (phase_048)
-- Parallels [NPC01364_Alaric_Frostwhisper_the_Fallen]]
+- See also: [[NPC00465_Idris_Blackstone_the_Redeemed]]
+- Influences [[NPC01364_Alaric_Frostwhisper_the_Fallen]]
 - Requires [[Location City Political Alliances Political Alliances.svg
 - Influences [Related Quest]]
 - Affected by [[The Last Seeds (D&D_References)
 - Requires [Location City Community Coordinator Kelp Bondweaver V1 Community Coordinator Kelp Bondweaver.svg]]
 - Originates from [[wizard-xphb-school-of-transmutation (classes)
 - Connects to [Bomb Xdmg]]
-- Parallels [[step_075 (phase_011)
-- Influences [Sommelier Bacchus Deepbottle (D&D_References)]]
+- Parallels [[Sommelier Bacchus Deepbottle (D&D_References)]]
 - Related: [[step_018 (phase_076)
 - Originates from [step_090 (phase_092)]]
-- Leads to [[NPC01722_Branwen_Oakenshield_the_Mystic
-- Requires [NPC01215_Corvus_Moonshadow_the_Swift]]
+- Leads to [[NPC01722_Branwen_Oakenshield_the_Mystic]]
 - Leads to [[step_080 (phase_030)
 - Affected by [bag-of-holding-xdmg (items)]]
 - Originates from [[Master_Campaign_Index
@@ -271,8 +261,7 @@ Is secretly testing the party
 - Compare with [Location City Archivist Vera Glowmind Archivist Vera Glowmind.png]]
 - Influences [[QUEST00253_Personal_Quest_254
 - Affected by [Assets Locations Location City Shadow Portal Nexus Shadow Portal Nexus.svg]]
-- Influences [[Undead Rights Organization HQ (D&D_References)
-- Originates from [Shadow Harmonists Guild]]
+- Influences [[Undead Rights Organization HQ (D&D_References)]]
 - Influences [[step_077 (phase_035)
 - Connects to [Justice Shadowin]]
 - Affected by [[step_043 (phase_042)

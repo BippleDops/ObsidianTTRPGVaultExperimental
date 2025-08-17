@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Imagine a heroic, tabletop fantasy setting, mirroring the grounded medieval-fantasy materials of Dungeons and Dragons 5e. The scene shows a muscular, many-limbed guardian naga, wreathed in bioluminescent accents, gliding gracefully through a merged zone of sky and sea. The naga wears culturally coherent gear, devoid of any modern technology. Its presence is enlarged by a human silhouette nearby for comparison. The style is painterly, consistent, and filled with the motion of aquatic fantasy realism, lit with the glow of subsurface caustics. The dominant colors are teals, deep blues, and sea-greens, punctuated with pearl highlights. A pressure-dome constructed with medieval technology provides mystery in the scene. There are no artifacts, modern signs, garbled strings, sci-fi UIs, photoreal CGI, anime style elements, or blooms of glare. It's a detailed piece of concept art representing a rich, unique fantasy world.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-guardian-naga-xmm-guardian-naga-xmm.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-guardian-naga-xmm-guardian-naga-xmm.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:04:21.169Z",
+  "generationMethod": "ComfyUI"
 }

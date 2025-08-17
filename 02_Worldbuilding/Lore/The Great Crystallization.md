@@ -124,9 +124,7 @@ The [[Purist Coalition teaches that mortal hubris brought divine punishment. The
 ### The Heretical Truth
 
 > [!warning] DM Only - The Real Story
-> God-King Aetheron was betrayed by his seven most trusted advisors, each representing a different aspect of mortal ambition. They attempted to steal his [[Crown of Stars to claim divinity for themselves. In the struggle, the crown shattered, its [Seven Shards]] piercing the earth. Aetheron fell but did not die, becoming [[The Crimson Sage.
-
-## [The Seven Betrayers]]
+> God-King Aetheron was betrayed by his seven most trusted advisors, each representing a different aspect of mortal ambition. They attempted to steal his [[Crown of Stars to claim divinity for themselves. In the struggle, the crown shattered, its [Seven Shards]] piercing the earth. Aetheron fell but did not die, becoming [[The Crimson Sage]]
 
 > [!warning] DM Only - Secret History
 > 1. **[[Marcus the Just** - Wanted perfect order (ancestor of [High Inquisitor Maltheos]])
@@ -251,37 +249,21 @@ Mentioned in The Second Prophecy of Shadows
 - [Crystal Corruption Taboos]]
 - [[Eastern Kingdom
 - [Eastern Kingdoms (02_Worldbuilding)]]
-- [[Thalassius the Wise
-- [The Crimson Hand]]
-- [[The Final Choice
-- [The Queen]]
-- [[The Seven Betrayers
-- [The Shattering of the Crown]]
-- [[Cathedral of Light
-- [Crystal Gardens]]
-- [[The Void Tears
-- [Aethermoor (D&D_References)]]
-- [[Cathedral of Light (D&D_References)
-- [Convergence Point]]
-- [[Crystal Corruption Taboos (D&D_References)
-- [Eastern Kingdom (D&D_References)]]
-- [[Eastern Kingdoms (D&D_References)
-- [Evidence Chain Analysis]]
-- [[Master Artificers Guild
-- [Thalassius the Wise (D&D_References)]]
-- [[Thalassius the Wise 3 (D&D_References)
-- [The Crimson Hand (D&D_References)]]
-- [[The Crimson Hand 3 (D&D_References)
-- [The Final Choice (D&D_References)]]
-- [[The Final Choice 3 (D&D_References)
-- [The Queen (D&D_References)]]
-- [[The Queen 3 (D&D_References)
-- [The Seven Shards (D&D_References)]]
-- [[The Seven Shards 3 (D&D_References)
-- [The Sundered Peaks (D&D_References)]]
-- [[The Sundering
-- [The Verdant Reach (D&D_References)]]
-- [[The Void Tears (D&D_References)
-- [Transformations - Transformation Compendium]]
+- [[Thalassius the Wise]]
+- [[The Final Choice]]
+- [[The Shattering of the Crown]]
+- [[Cathedral of Light]]
+- [[Aethermoor (D&D_References)]]
+- [[Cathedral of Light (D&D_References)]]
+- [[Crystal Corruption Taboos (D&D_References)]]
+- [[Eastern Kingdoms (D&D_References)]]
+- [[Thalassius the Wise (D&D_References)]]
+- [[Thalassius the Wise 3 (D&D_References)]]
+- [[The Crimson Hand 3 (D&D_References)]]
+- [[The Final Choice 3 (D&D_References)]]
+- [[The Seven Shards (D&D_References)]]
+- [[The Sundered Peaks (D&D_References)]]
+- [[The Verdant Reach (D&D_References)]]
+- [[Transformations - Transformation Compendium]]
 - [[Topic Matrix
 - [Topic_Matrix (Indexes)]]

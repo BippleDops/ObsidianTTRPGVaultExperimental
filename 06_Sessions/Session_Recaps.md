@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 07_player_resources]
 created: "2025-08-15T16:41:38.122352"
 modified: "2025-08-15T16:41:38.122358"
-aliases: [[Session Recaps]]]
+aliases: [[Session_Recaps]]]
 ---
 
 ## Table of Contents
@@ -21,9 +21,7 @@ aliases: [[Session Recaps]]]
 created: 2025-08-15T12:34:11.169218
 ---
 
-# [[Session Recaps
-
-## [Recent Sessions]]
+# [[Session_Recaps]]
 
 ### Session 10 - [[The Haunted Manor
 *Date: [Last Saturday]]*

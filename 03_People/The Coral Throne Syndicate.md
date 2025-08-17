@@ -301,5 +301,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## References
 
-- [[Senator
-- [Senator (D&D_Statblocks)]]
+- [[Senator (D&D_Statblocks)]]

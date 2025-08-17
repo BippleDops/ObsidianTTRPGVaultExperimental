@@ -175,16 +175,13 @@ Is secretly testing the party
 - Parallels [research-complications-xge (tables)]]
 - Parallels [[The Obsidian Archive 2
 - Parallels [step_014 (phase_046)]]
-- Affected by [[QUEST00050_Personal_Quest_51
-- Parallels [Quick_Start_Guide]]
-- Connects to [[ENC00466_Combat_Encounter_467
-- Influences [step_030 (phase_011)]]
+- Affected by [[QUEST00050_Personal_Quest_51]]
+- Connects to [[ENC00466_Combat_Encounter_467]]
 - Connects to [[Portrait NPC the Shadow Warren V1 the Shadow Warren.svg_1 (Portraits)
 - Parallels [step_068 (phase_067)]]
 - Related: [[QUEST00185_Personal_Quest_186
 - Originates from [Elven Aerdrie Faenya Mtf]]
-- Related: [[Wood Elf Magic Xge
-- Compare with [M L-05 the Dream Sovereign Player]]
+- Related: [[M L-05 the Dream Sovereign Player]]
 - Leads to
 - Parallels [[chamber-purpose-general-dungeon-chambers (tables)
 - Compare with [step_075 (phase_024)]]
@@ -201,10 +198,8 @@ Is secretly testing the party
 - Influences [Portrait NPC Intelligence Services V1 Intelligence Services.svg]]
 - Originates from [[LOC00125_Towns_Location_126
 - Affected by [SHOP00066_Specialty_Shop_67]]
-- Affected by [[DUN00061_Dungeon_62
-- Compare with [Artisan Glow-Finger Nerida (D&D_References)]]
-- Related: [[step_008 (phase_039)
-- Leads to [Commander Ironprice (D&D_References)]]
+- Affected by [[Artisan Glow-Finger Nerida (D&D_References)]]
+- Related: [[Commander Ironprice (D&D_References)]]
 - See also: [[Taverner Bubbles McGill
 - See also: [tree-blight-xmm (plant)]]
 - Affected by [[the-egyptian-pantheon-egyptian-deities-phb (tables)
@@ -216,8 +211,7 @@ Is secretly testing the party
 - Requires [[Assets Portraits Portrait NPC Lord Aldric Highwind Lord Aldric Highwind.svg
 - Leads to [SPELL0004_Shadow_Bolt]]
 - Influences
-- Influences [[QUEST00285_Personal_Quest_286
-- Originates from [Pressure Specialist Dr. Marina Deepcurrent]]
+- Influences [[Pressure Specialist Dr. Marina Deepcurrent]]
 - Leads to [[step_092 (phase_071)
 - Influences [List Spells Optional Features Tricksters Escape Xge]]
 - Leads to [[Port Sorrow Trading Company (D&D_References)
@@ -227,22 +221,18 @@ Is secretly testing the party
 - Influences [SPELL00024_Arcane_Spell_25]]
 - Influences [[Mad_Prophet_Silas_the_Depth-Touched.png
 - Compare with [step_027 (phase_043)]]
-- Connects to [[QUEST00479_Side_Quest_480
-- Compare with [ITEM0059_Divine_Circlet_of_Power]]
+- Connects to [[ITEM0059_Divine_Circlet_of_Power]]
 - Parallels [[LORE00323_Legends_Entry_324
 - See also: [Scene Scene the Party S First Glimpse of Abyssos Prime V2 the Party S First Glimpse of Abyssos Prime.png]]
-- Requires [[LORE00013_History_Entry_14
-- Connects to [13-chapter-13-the-wormwrithings (out-of-the-abyss)]]
+- Requires [[13-chapter-13-the-wormwrithings (out-of-the-abyss)]]
 - Originates from [[White Dragon Scale Mail Xdmg
 - Compare with [Months and Festivals Days of the Week Xdmg]]
-- See also: [[MON00077_Aberrations_Creature_78
-- Leads to [step_098 (phase_099)]]
+- See also: [[MON00077_Aberrations_Creature_78]]
 - Compare with [[QUEST00288_Personal_Quest_289
 - Affected by [Groundling (D&D_References)]]
 - Originates from [[NPC01880_Ewan_Brightblade_the_Wise
 - Originates from [LOC00131_Planes_Location_132]]
-- Influences [[LOC00151_Dungeons_Location_152
-- Related: [step_079 (phase_047)]]
+- Influences [[LOC00151_Dungeons_Location_152]]
 - Connects to [[QUEST00281_Personal_Quest_282
 - See also: [QUEST0081_Rescue_the_Cult]]
 - Leads to [[step_050 (phase_061)
@@ -255,12 +245,10 @@ Is secretly testing the party
 - Compare with [step_004 (phase_076)]]
 - Related: [[MON00005_Constructs_Creature_6
 - Influences [Finn Worldwalker]]
-- Compare with [[Dragonlance Gilean Phb
-- Leads to [Lumengarde City (D&D_References)]]
+- Compare with [[Lumengarde City (D&D_References)]]
 - Influences [[Assets Locations Location City Keeper Elara Moonwhisper V1 Keeper Elara Moonwhisper.svg
 - Requires [QUEST00401_Side_Quest_402]]
-- Requires [[To Be Determined
-- Related: [LOC00116_Towns_Location_117]]
+- Requires [[LOC00116_Towns_Location_117]]
 - Requires [[step_036 (phase_018)
 - Parallels [Boon of Planar Travel]]
 - Originates from [[LOC00291_Dungeons_Location_292

@@ -159,14 +159,12 @@ Knows secret about major threat
 - Affected by [[Druid Xphb Circle of the Land Xphb
 - Originates from [Reputation System]]
 - Leads to
-- Connects to [[step_051 (phase_045)
-- Compare with [ITEM0076_Eldritch_Shield_of_the_Dawn]]
+- Connects to [[ITEM0076_Eldritch_Shield_of_the_Dawn]]
 - Connects to [[spell-xphb (variant-rules)
 - Leads to [animal-messenger-xphb (spells)]]
 - Influences [[List Spells Races Tiefling Xphb
 - Originates from [Location City Coral Gardens District Coral Gardens District.svg]]
-- Leads to [[Treatments Synthesis Consciousness Transfer
-- See also: [step_055 (phase_041)]]
+- Leads to [[Treatments Synthesis Consciousness Transfer]]
 - Related: [[location-city-deepsteel-deepsteel.svg
 - Related: [Random_Loot (02_Worldbuilding)]]
 - Requires [[The Great Cataloguing 2
@@ -181,65 +179,49 @@ Knows secret about major threat
 - Requires [Sword of Answering Retorter]]
 - See also: [[step_058 (phase_008)
 - Affected by [step_082 (phase_036)]]
-- See also: [[Bloom Field Cultivation Guil
-- Connects to [Diplomatic Quarters]]
-- Compare with [[09-adventuring (players-handbook-2014)
-- Requires [Sir Theron Crystalward]]
-- Connects to [[Linking Adventures Adventure Connections Xdmg
-- Related: [Deputy Archmerchant Scroll Deepmind (D&D_References)]]
-- Affected by [[LOC00100_Towns_Location_101
-- Influences [Compelled Duel Xphb]]
-- Originates from [[SHOP00020_Specialty_Shop_21
-- See also: [Quality Inspector Surge Breathsafe]]
+- See also: [[Bloom Field Cultivation Guil]]
+- Compare with [[09-adventuring (players-handbook-2014)]]
+- Connects to [[Deputy Archmerchant Scroll Deepmind (D&D_References)]]
+- Affected by [[LOC00100_Towns_Location_101]]
+- Originates from [[Quality Inspector Surge Breathsafe]]
 - Requires [[Hydroloth Mpmm
 - Leads to [step_088 (phase_061)]]
 - Affected by [[step_019 (phase_006)
 - Connects to [FAC00097_Guilds_98]]
 - Originates from [[Assets Symbols Symbol Heraldry the Deepwater Trading Consortium the Deepwater Trading Consortium.svg
 - Influences [ENC00285_Social_Encounter_286]]
-- Influences [[Downtime Activity Crime Xge
-- Requires [step_081 (phase_034)]]
+- Influences [[Downtime Activity Crime Xge]]
 - Connects to [[Greek Zeus
 - See also:
 - See also: [Government Informants]]
 - Leads to [[LOC0045_LowerHill
 - See also: [Assets Locations Location City Sage Gentlespice Sage Gentlespice.svg]]
-- Influences [[Exhaustio
-- Leads to [Forge Master Petra Hammerdeep 2]]
-- Parallels [[NPC00665_Aeliana_Quicksilver_the_Broken
-- Leads to [Master_Groups_Index]]
-- Requires [[MON00099_Constructs_Creature_100
-- Originates from [step_066 (phase_053)]]
-- Connects to [[NPC01604_Dara_Lightbringer_the_Lost
-- Compare with [LORE00029_Legends_Entry_30]]
+- Influences [[Forge Master Petra Hammerdeep 2]]
+- Parallels [[NPC00665_Aeliana_Quicksilver_the_Broken]]
+- Requires [[MON00099_Constructs_Creature_100]]
+- Connects to [[NPC01604_Dara_Lightbringer_the_Lost]]
 - Requires [[Assets Handouts Handout Handout Love Letter with Hidden Message V1 Love Letter with Hidden Message.png
 - Compare with [centaur-trooper-xmm]]
-- Connects to [[Storyteller Memorykeeper (D&D_References)
-- Originates from [Silver Mask 2]]
-- Connects to [[S_004_Cloud_Canyon_Player
-- Compare with [NPC01419_Ewan_Moonshadow_the_Strong]]
+- Connects to [[Storyteller Memorykeeper (D&D_References)]]
+- Connects to [[NPC01419_Ewan_Moonshadow_the_Strong]]
 - Related: [[portrait-npc-shadow-embassy-shadow-embassy.svg
 - See also: [Cultural Advisor Coral Bridgebuilde]]
-- Affected by [[ENC00183_Combat_Encounter_184
-- Connects to [step_052 (phase_059)]]
+- Affected by [[ENC00183_Combat_Encounter_184]]
 - See also: [[LOC00197_Planes_Location_198
 - Connects to [Map Map Sundered Peaks Pass V2 Sundered Peaks Pass.svg]]
-- Compare with [[Consequence Chain 2 - Crystal Trade Disruption (Lore)
-- Connects to [step_060 (phase_074)]]
+- Compare with [[Consequence Chain 2 - Crystal Trade Disruption]]
 - Originates from [[Memory Traders
 - Affected by [Assets Locations Location City Coral Lifeshaper Coral Lifeshaper.svg]]
 - Related: [[location-city-echo-truthseer-echo-truthseer.svg
 - Originates from [Giant Constrictor Snake Xmm]]
-- Parallels [[step_064 (phase_014)
-- Affected by [NPC01081_Gavril_Hawthorne_the_Mystic]]
+- Parallels [[NPC01081_Gavril_Hawthorne_the_Mystic]]
 - See also: [[Enervation Xge
 - Requires [Assets Locations Location City University Philosophy Departments University Philosophy Departments.svg]]
 - Parallels [[The Great Drowning Vision
 - Originates from [step_077 (phase_027)]]
 - Influences [[Tradeway Road
 - Leads to [cleanup_report_20250814_173558]]
-- Related: [[Indifferent Attitude Xphb
-- Leads to [step_083 (phase_070)]]
+- Related: [[Indifferent Attitude Xphb]]
 - Affected by [[monsters-by-habitat-underwater-monsters-xmm (tables)
 - See also: [location-city-shadow-current-v1-shadow-current.svg]]
 - See also: [[Assets Locations Location City Historical Societies V1 Historical Societies.svg
@@ -249,12 +231,10 @@ Knows secret about major threat
 - Connects to [Assets Locations Location City Neutrality Laws Neutrality Laws.svg]]
 - See also: [[List Spells Classes Horizon Walker Xge
 - Influences [Conference Security Center]]
-- Influences [[Shadow Information Brokers (D&D_References)
-- Related: [NPC00495_Erasmus_Stormwind]]
+- Influences [[Shadow Information Brokers (D&D_References)]]
 - Affected by [[04_Resources_Assets_Locations_location-city-terminal-director-admiral-current-swiftflow-terminal-director-admiral-current-swiftflow.svg
 - Originates from [location-city-crystal-speak-crystal-speak.png]]
-- Parallels [[NPC00831_Hilda_Youngblood_the_Strong
-- Requires [Purist Coalition 2]]
+- Parallels [[NPC00831_Hilda_Youngblood_the_Strong]]
 - Related: [[step_018 (phase_071)
 
 ## Visual References

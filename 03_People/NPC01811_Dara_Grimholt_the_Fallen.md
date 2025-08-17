@@ -197,8 +197,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [Surface Coalition 3 (D&D_References)]]
 - See also: [[layers-of-hades-xdmg (tables)
 - Affected by [Central Crystal Processing Plant]]
-- Influences [[Diplomatic Event Scenarios 2
-- Affected by [Founding Nation]]
+- Influences [[Diplomatic Event Scenarios 2]]
 - Parallels
 - See also: [[step_016 (phase_078)
 - Connects to [oil-of-taggit-xdmg (items)]]
@@ -213,23 +212,18 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[Portrait NPC the Shadow Surgeons V1 the Shadow Surgeons.svg
 - Influences
 - Related: [list-spells-classes-grave-domain-xge (lists)]]
-- Requires [[Magical Theory (D&D_References)
-- Parallels [Harbor Master's Compass]]
+- Requires [[Magical Theory (D&D_References)]]
 - See also: [[The Dockworkers Union
 - Related: [QUEST00185_Side_Quest_186]]
-- Related: [[step_061 (phase_055)
-- Connects to [Counter-Mirror Safe Houses (D&D_References)]]
-- Related: [[The Deep Temple (D&D_References)
-- Leads to [LOC0123_Gateford]]
-- Related: [[ENC00179_Environmental_Encounter_180
-- Affected by [Astral Projection Xphb]]
+- Related: [[Counter-Mirror Safe Houses (D&D_References)]]
+- Related: [[The Deep Temple (D&D_References)]]
+- Related: [[ENC00179_Environmental_Encounter_180]]
 - Parallels [[LOC0115_LowerBridge
 - Affected by
 - See also: [step_020 (phase_079)]]
 - Connects to [[Portrait NPC Captain Valeria V2 Captain Valeria.svg
 - Leads to [step_083 (phase_005)]]
-- Connects to [[Silver Dragon Scale Mail Xdmg
-- Affected by [Judge Tidal Fairweather (D&D_References)]]
+- Connects to [[Judge Tidal Fairweather (D&D_References)]]
 - See also: [[Duergar Raiding Parties Duergar Purpose of Raid Mtf
 - Leads to [Lord Vex]]
 - Requires [[Theron Justcurrent
@@ -239,8 +233,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[The Floating Markets
 - Connects to [The Shadowwatch Bastion 2]]
 - Originates from
-- Compare with [[Trade Bars Xdmg
-- Connects to [NPC00124_Delara_Ravenheart_the_Redeemed]]
+- Compare with [[NPC00124_Delara_Ravenheart_the_Redeemed]]
 - Parallels [[The Contemplation Abyss 2
 - Related: [Random Settlements Notable Traits]]
 - Originates from [[circle-of-power-xphb (spells)
@@ -251,30 +244,21 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [Portrait NPC Banker Titus Goldcurrent Banker Titus Goldcurrent.svg]]
 - See also: [[step_051 (phase_079)
 - Parallels [step_020 (phase_076)]]
-- Parallels [[Dark Shard Amulet Xdmg
-- Leads to [Artificer Magnus Weightless (D&D_References)]]
-- Connects to [[SPELL00154_Divine_Spell_155
-- Parallels [Chef Gastropod]]
-- Originates from [[Haven Reef
-- Affected by [ENC00046_Environmental_Encounter_47]]
+- Parallels [[Artificer Magnus Weightless (D&D_References)]]
+- Connects to [[SPELL00154_Divine_Spell_155]]
+- Originates from [[ENC00046_Environmental_Encounter_47]]
 - Parallels [[step_092 (phase_043)
 - See also: [dragon-fear-xge (feats)]]
-- Related: [[NPC01704_Ewan_Stormwind_the_Mystic
-- Related: [The Soul Market]]
-- See also: [[giant-crocodile-xmm (beast)
-- Leads to [Chancellor's Advisory Council (D&D_References)]]
-- Parallels [[Falling Net Xdmg
-- Affected by [ENC00042_Social_Encounter_43]]
+- Related: [[NPC01704_Ewan_Stormwind_the_Mystic]]
+- See also: [[Chancellor's Advisory Council (D&D_References)]]
+- Parallels [[ENC00042_Social_Encounter_43]]
 - Affected by [[Assets Locations Location City Astrologer Prime Cassandra Starweaver V1 Astrologer Prime Cassandra Starweaver.svg
 - Originates from [LOC00092_Dungeons_Location_93]]
-- Affected by [[location-city-coral-courts-coral-courts.svg
-- Connects to [downtime-activity-crafting-phb (variant-rules)]]
+- Affected by [[downtime-activity-crafting-phb (variant-rules)]]
 - Influences [[Eternal Mountain Defense
 - Related: [Location City the Sunken Cathedral of Perfect Order the Sunken Cathedral of Perfect Order.svg]]
-- Parallels [[Noble Quarter Salons (D&D_References)
-- Parallels [SHOP00046_Magical_Shop_47]]
-- Connects to [[Wise Counselor Deep 2
-- Compare with [Portrait NPC Memo... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Parallels [[Noble Quarter Salons (D&D_References)]]
+- Connects to [[Portrait NPC Memo... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - See also: [[Rations Xphb
 - Affected by [FAC00067_Guilds_68]]
 - Related:
@@ -282,15 +266,13 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [Personal Horror Customization]]
 - Connects to [[step_023 (phase_054)
 - See also: [LOC0109_Groveton]]
-- Requires [[The Aether Works 2
-- Affected by [04_Places_Lighthouse_of_Storms]]
+- Requires [[04_Places_Lighthouse_of_Storms]]
 - Compare with [[step_050 (phase_031)
 - Requires
 - Leads to [Reef Tenders (D&D_References)]]
 - Leads to [[Bard Xphb
 - Leads to [rod-of-lordly-might-xdmg (items)]]
-- Affected by [[Aboleth
-- See also: [ENC00065_Social_Encounter_66]]
+- Affected by [[ENC00065_Social_Encounter_66]]
 - Leads to [[Reszur Pota
 
 ## Visual References

@@ -285,16 +285,12 @@ ___
 - Affected by [rhodochrosite-xdmg (items)]]
 - Requires [[step_099 (phase_019)
 - Originates from [Assets Locations Location City Deep Watchfulrest V1 Deep Watchfulrest.svg]]
-- Compare with [[Deathlock Mpmm
-- Connects to [LOC00149_Dungeons_Location_150]]
-- Compare with [[Safety Coordinator Reef Safeguard (D&D_References)
-- Related: [QUEST00401_Side_Quest_402]]
+- Compare with [[LOC00149_Dungeons_Location_150]]
+- Compare with [[Safety Coordinator Reef Safeguard (D&D_References)]]
 - See also: [[Portrait NPC Castellan Ironledger Iii Castellan Ironledger Iii.svg
 - Originates from [Depth Cardinal Justice Currentkeeper]]
-- Compare with [[The Whisper Keepers (D&D_References)
-- Leads to [step_076 (phase_019)]]
-- Affected by [[QUEST00128_Main_Quest_129
-- Affected by [Aethermoor-Aquabyssos-World-Connection-Guide]]
+- Compare with [[The Whisper Keepers (D&D_References)]]
+- Affected by [[Aethermoor-Aquabyssos-World-Connection-Guide]]
 - Leads to [[ITEM00220_Blazing_Sword_of_the_Ancients
 - Related: [ITEM00507_Fortified_Helm_of_Protection]]
 - Parallels [[Portrait NPC Jasper Three Eyes Flint V2 Jasper Three Eyes Flint.png
@@ -327,8 +323,7 @@ ___
 - Influences
 - Compare with [portrait-npc-oracle-oracle.svg]]
 - Compare with
-- Connects to [[Lord Aldric Thornwhisper (D&D_References)
-- Parallels [primeval-owlbear-xmm (monstrosity)]]
+- Connects to [[Lord Aldric Thornwhisper (D&D_References)]]
 - See also: [[step_012 (phase_093)
 - Leads to [item-artifact-windvane-pota-v7-windvane-pota.png]]
 - Affected by [[ENC00159_Social_Encounter_160
@@ -347,12 +342,10 @@ ___
 - Requires [Portrait NPC Paladin Commander Sir Radiant Dawnbreaker V2 Paladin Commander Sir Radiant Dawnbreaker.svg_1 (Portraits)]]
 - Parallels [[Speaker Marcus Resonance (D&D_References)
 - See also: [item-artifact-warhammer-xphb-v5-warhammer-xphb.png]]
-- Related: [[step_072 (phase_050)
-- Requires [Crystal_Artillery_Player (D&D_References)]]
+- Related: [[Crystal_Artillery_Player (D&D_References)]]
 - Compare with [[portrait-npc-shadow-brokers-v1-shadow-brokers.svg
 - Leads to [step_083 (phase_070)]]
-- Affected by [[Port Meridian Harbor
-- Parallels [Captain Henrik Proudbanner (D&D_References)]]
+- Affected by [[Captain Henrik Proudbanner (D&D_References)]]
 - Requires [[step_038 (phase_070)
 - Influences [step_003 (phase_030)]]
 - See also: [[step_045 (phase_075)
@@ -361,8 +354,7 @@ ___
 - Requires [[step_088 (phase_063)
 - Connects to
 - Requires [Quest - The Root Network_3 (01_Adventures)]]
-- Leads to [[ITEM0106_Cursed_Gauntlet_of_the_Dawn
-- Parallels [QUEST0054_Wizard's_Request]]
+- Leads to [[ITEM0106_Cursed_Gauntlet_of_the_Dawn]]
 - Requires [[Portrait NPC High Chamberlain Nautilus Deepcurrent V1 High Chamberlain Nautilus Deepcurrent.svg_1 (Portraits)
 - Connects to [step_017 (phase_029)]]
 - Originates from [[Marcus Depthward 2

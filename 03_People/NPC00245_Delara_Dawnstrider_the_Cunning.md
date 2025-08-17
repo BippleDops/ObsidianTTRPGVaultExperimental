@@ -190,8 +190,7 @@ Seeks bodyguards for dangerous journey
 - Related: [The Deep Defense Project]]
 - Related: [[Quality Monitor Surge Perfectionist
 - Originates from [Portrait NPC Captain Nautilus Deepwatch V1 Captain Nautilus Deepwatch.svg]]
-- Influences [[MON00081_Aberrations_Creature_82
-- Compare with [step_058 (phase_052)]]
+- Influences [[MON00081_Aberrations_Creature_82]]
 - Influences [[elf-tables-drow-adventurer-story-hooks-mtf (tables)
 - Leads to [step_013 (phase_081)]]
 - Connects to [[ENC00274_Social_Encounter_275
@@ -200,8 +199,7 @@ Seeks bodyguards for dangerous journey
 - Originates from [Assets Locations Location City Wealthy Goldcurrent Wealthy Goldcurrent.svg]]
 - Affected by [[halfling-deities-mtf (tables)
 - Parallels [Assets Locations Location City Temple Hierarchies V1 Temple Hierarchies.png]]
-- Requires [[NPC01556_Felicia_Underhill_the_Seeker
-- Parallels [QUEST0045_The_Cursed_Legacy]]
+- Requires [[NPC01556_Felicia_Underhill_the_Seeker]]
 - Affected by [[Portrait NPC the Crimson Shard Guardian V2 the Crimson Shard Guardian.svg
 - Influences [4-credits (monster-manual-2014)]]
 - Affected by [[ITEM01060_Greater_Powder_of_Clarity
@@ -209,10 +207,8 @@ Seeks bodyguards for dangerous journey
 - See also: [[Otherworldly Pacts
 - Influences
 - Parallels [Session 05 (06_Sessions)]]
-- See also: [[NPC00461_Branwen_Proudmore_the_Strong
-- Requires [Hybrid_Abominations.png]]
-- Compare with [[Power Word Stun Xphb
-- See also: [LOC00166_Wilderness_Location_167]]
+- See also: [[NPC00461_Branwen_Proudmore_the_Strong]]
+- Compare with [[LOC00166_Wilderness_Location_167]]
 - Parallels [[Location City Secular Community Practices Secular Community Practices.svg
 - Affected by [ttrpg_methodology_research]]
 - See also: [[step_075 (phase_095)
@@ -230,8 +226,7 @@ Seeks bodyguards for dangerous journey
 - Related: [Assets Locations Location City Echo Scribe Matthias V1 Echo Scribe Matthias.svg]]
 - Compare with [[Assets Art the Final Sealing.png
 - Connects to [step_023 (phase_032)]]
-- Leads to [[The Lost Expedition (D&D_References)
-- Parallels [step_088 (phase_025)]]
+- Leads to [[The Lost Expedition (D&D_References)]]
 - Leads to [[03_Mechanics_Social_Systems_Party_Reputation_Quick_Ref
 - Related: [Location City the Deepmost Current the Deepmost Current.svg]]
 - See also: [[Grand Master Tempest Windvoic
@@ -252,10 +247,8 @@ Seeks bodyguards for dangerous journey
 - Affected by [step_092 (phase_024)]]
 - Affected by [[Quest - The Sanctuary's Secret_1 (01_Adventures)
 - Compare with [step_056 (phase_012)]]
-- Originates from [[NPC01238_Branwen_Ashford_the_Lost
-- Related: [Forgotten Realms Milil]]
-- Parallels [[Sentient Magic Item Senses
-- Leads to [The Order of the Shattered Crown]]
+- Originates from [[NPC01238_Branwen_Ashford_the_Lost]]
+- Parallels [[The Order of the Shattered Crown]]
 - Compare with [[Location City Midas Goldcurrent V1 Midas Goldcurrent.svg
 - Related:
 - See also: [location-city-regional-courts-regional-courts.svg]]

@@ -1,7 +1,6 @@
 ---
 
-title: Tests [[Cosmic Horror Trials
-type: [Lore]]
+title: Tests [[Cosmic Horror Trials]]
 tags:
 - lore
 - active

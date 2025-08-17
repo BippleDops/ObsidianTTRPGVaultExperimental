@@ -270,6 +270,5 @@ ___
 
 - [[Assets Locations Location City Prophetic Dreams Prophetic Dreams.svg
 - [Assets Locations Location City the Dreamwhisper Inn V1 the Dreamwhisper Inn.svg]]
-- [[Master Artificer Coral Gemwright
-- [Port Meridian - Market Square]]
+- [[Port Meridian - Market Square]]
 - [[Port Meridian - Market Square (D&D_References)]]

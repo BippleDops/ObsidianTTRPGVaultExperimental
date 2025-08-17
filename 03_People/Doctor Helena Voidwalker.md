@@ -257,5 +257,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Assets Locations Location City Harbor Master S License V1 Harbor Master S License.svg
 - [Assets Locations Location City Master Engineer Cordelia Pressurewright Master Engineer Cordelia Pressurewright.svg]]
-- [[Pressure's End
-- [Pressure's End (D&D_References)]]
+- [[Pressure's End (D&D_References)]]

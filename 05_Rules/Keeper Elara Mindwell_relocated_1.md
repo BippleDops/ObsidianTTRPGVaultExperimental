@@ -118,7 +118,7 @@ improvements: 20
 
 ## Overview
 
-Keeper Elara Mindwell serves as one of  to political and academic leaders. Her expertise in cultural analysis, historical patterns, and psychological insights makes her an invaluable resource for understanding complex social and political dynamics.
+Keeper Elara Mindwell serves as one of to political and academic leaders. Her expertise in cultural analysis, historical patterns, and psychological insights makes her an invaluable resource for understanding complex social and political dynamics.
 
 As Senior Cultural Advisor to diplomatic missions, Keeper Mindwell specializes in analyzing the cultural, historical, and psychological factors that influence political decisions and social movements. Her ability to identify underlying patterns and predict potential cultural conflicts has prevented numerous diplomatic incidents and helped shape successful negotiation strategies.
 
@@ -427,18 +427,18 @@ Ongoing situations affecting Keeper Elara Mindwell:
 
 ### Potential Monsters
 - **Aberration**: mind flayer
-  - Traits: alien mind, psychic abilities, tentacles
-  - CR Range: 16
+ - Traits: alien mind, psychic abilities, tentacles
+ - CR Range: 16
 
-### [[Environmental Hazards]]
+### [[Environmental_Hazards]]
 - Pit trap
 - **DC 11** to detect
 - `dice: 6d6` damage on failure
 
 ### Magical Influences
 - Active Spell Effect: **Fireball**
-  - School: Evocation
-  - Manifestation: Intermittent
+ - School: Evocation
+ - Manifestation: Intermittent
 
 ## Secret Connections
 

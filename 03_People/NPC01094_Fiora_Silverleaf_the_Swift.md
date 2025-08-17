@@ -169,20 +169,17 @@ Competitor sabotaging business
 - Leads to [ITEM01026_Distilled_Powder_of_Clarity]]
 - Influences [[Basalt Depthwright
 - Influences [step_007 (phase_004)]]
-- Originates from [[NPC01005_Hestara_Zephyrblade_the_Broken
-- Compare with [npcs]]
+- Originates from [[NPC01005_Hestara_Zephyrblade_the_Broken]]
 - Compare with [[Fiora_Frostbeard
 - Compare with [ITEM00969_Lesser_Incense_of_Vigor]]
-- Requires [[step_061 (phase_022)
-- Influences [LORE0058_Myth_of_the_Sundering]]
+- Requires [[LORE0058_Myth_of_the_Sundering]]
 - Leads to [[step_030 (phase_093)
 - See also: [cyclops-sentry-xmm (giant)]]
 - Parallels [[Find_the_Missing_Caravan
 - Influences [Portrait NPC Quest the Symbiotic Sacrament Quest the Symbiotic Sacrament.svg]]
 - Requires [[Lady Venetia Shadowmere
 - Originates from [William''s Living Quarters]]
-- Affected by [[step_041 (phase_061)
-- Related: [Sister Morwyn Veilkeeper (D&D_References)]]
+- Affected by [[Sister Morwyn Veilkeeper (D&D_References)]]
 - Leads to
 - Originates from [[Quest - The Crystal Black Market_1 (01_Adventures)
 - Compare with [LORE0094_Secret_of_the_Fallen_Star]]
@@ -210,24 +207,20 @@ Competitor sabotaging business
 - Related: [Location City Sacred Healing Springs Sacred Healing Springs.svg]]
 - Affected by [[NPC00115_Malakai_Ironwood
 - Connects to [Portrait NPC Salvage Queen Nerissa Deepfinder Salvage Queen Nerissa Deepfinder.svg_1 (Portraits)]]
-- Affected by [[NPC01302_Zephyr_Frostwhisper_the_Strong
-- Connects to [step_003 (phase_009)]]
+- Affected by [[NPC01302_Zephyr_Frostwhisper_the_Strong]]
 - Compare with [[step_052 (phase_098)
 - Originates from [step_068 (phase_096)]]
 - Originates from [[LOC0130_NorthGate
 - Affected by [Uniting_the_Factions.png]]
-- Compare with [[ENC00031_Combat_Encounter_32
-- Requires [step_006 (phase_026)]]
+- Compare with [[ENC00031_Combat_Encounter_32]]
 - Connects to
 - Connects to
-- Originates from [[step_077 (phase_088)
-- Leads to [ENC00061_Social_Encounter_62]]
+- Originates from [[ENC00061_Social_Encounter_62]]
 - Related: [[Portrait NPC Shadow Parliament Shadow Parliament.svg
 - Affected by [step_090 (phase_005)]]
 - Influences [[Assets Locations Location City Merchant Quarter V1 Merchant Quarter.svg
 - Affected by [step_053 (phase_044)]]
-- Originates from [[Lighthouse of Storms (D&D_References)
-- Influences [manes-vaporspawn-xmm (fiend)]]
+- Originates from [[Lighthouse of Storms (D&D_References)]]
 - Originates from [[MON00007_Aberrations_Creature_8
 - Influences [LOC00177_Wilderness_Location_178]]
 - Originates from [[Dust of Sneezing and Choking Xdmg
@@ -247,20 +240,15 @@ Competitor sabotaging business
 - See also: [step_007 (phase_086)]]
 - Originates from [[step_097 (phase_096)
 - See also: [NPC00214_Solas_Moonshadow]]
-- Requires [[NPC01532_Alaric_Hawthorne_the_Redeemed
-- Requires [The Abyssal Prophet (D&D_References)]]
-- Leads to [[step_092 (phase_083)
-- Influences [Organizations the Truth Seekers]]
-- Influences [[LOC00079_Dungeons_Location_80
-- Influences [The Evolution District]]
-- Affected by [[Emergency Response Coordination
-- Connects to [Multi-Phase Boss Fights (D&D_References)]]
+- Requires [[NPC01532_Alaric_Hawthorne_the_Redeemed]]
+- Leads to [[Organizations the Truth Seekers]]
+- Influences [[LOC00079_Dungeons_Location_80]]
+- Affected by [[Multi-Phase Boss Fights (D&D_References)]]
 - Compare with [[The Shadow Infiltration Attempt
 - Connects to [Location City Phantom Harbor Charter Phantom Harbor Charter.svg]]
 - Parallels [[ITEM01391_Decorated_Tool_Kit_of_Durability
 - Compare with [step_100 (phase_064)]]
-- Parallels [[The Depth Accords
-- Compare with [Vehicles - Merger Hybrid Vehicles]]
+- Parallels [[Vehicles - Merger Hybrid Vehicles]]
 - See also: [[Relationship_Web
 - Requires [Campaign World]]
 - Requires

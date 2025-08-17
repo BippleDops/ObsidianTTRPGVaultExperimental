@@ -155,17 +155,14 @@ Insight, Arcana, Deception, Persuasion
 - Requires
 - See also: [[DUN00078_Dungeon_79
 - Originates from [LORE00083_Legends_Entry_84]]
-- Connects to [[LOC00240_Wilderness_Location_241
-- Influences [step_075 (phase_095)]]
+- Connects to [[LOC00240_Wilderness_Location_241]]
 - Affected by [[Artist Voidbrush (D&D_References)
 - Influences [Creature Creature Young Green Dragon Xmm V4 Young Green Dragon Xmm.png]]
-- Requires [[Professor Kaine Tidereader
-- See also: [step_045 (phase_075)]]
+- Requires [[Professor Kaine Tidereader]]
 - Originates from [[Assets Locations Location City Kraken V1 Kraken.svg
 - Requires
 - Related: [blinding-smite-xphb (spells)]]
-- Requires [[Civil Rights Petition (D&D_References)
-- Parallels [step_041 (phase_076)]]
+- Requires [[Civil Rights Petition (D&D_References)]]
 - Leads to [[The Infinite Garden 2
 - Leads to [Portrait NPC the First Queen S Shade the First Queen S Shade.svg]]
 - Requires [[Spy-Master Nonentity 2
@@ -175,14 +172,11 @@ Insight, Arcana, Deception, Persuasion
 - Influences [locate-animals-or-plants-xphb (spells)]]
 - Originates from [[04_Resources_Assets_Locations_location-city-hadrian-depthbridge-v1-hadrian-depthbridge.svg
 - See also: [MON00022_Aberrations_Creature_23]]
-- Requires [[The Crystal Metropolis
-- Parallels [NPC00535_Malakai_Jadeclaw_the_Mystic]]
-- Related: [[NPC00019_Delara_Hawthorne_the_Swift
-- Connects to [Brother Marcus the Deepgrown 2]]
+- Requires [[NPC00535_Malakai_Jadeclaw_the_Mystic]]
+- Related: [[NPC00019_Delara_Hawthorne_the_Swift]]
 - Requires [[Location City Goldspire Confederacy Goldspire Confederacy.svg
 - Originates from [step_022 (phase_030)]]
-- Leads to [[Deputy Archmerchant Scroll Deepmin (D&D_References)
-- Compare with [MON00164_Aberrations_Creature_165]]
+- Leads to [[Deputy Archmerchant Scroll Deepmin (D&D_References)]]
 - Compare with [[Determine Your Xp Budget Xp Budget Per
 - Influences [SPELL00073_Nature_Spell_74]]
 - Leads to
@@ -193,8 +187,7 @@ Insight, Arcana, Deception, Persuasion
 - Compare with [Variant Training to Gain Levels Training to Gain Levels Xdmg]]
 - See also: [[Celtic Belenus
 - Influences [step_051 (phase_014)]]
-- Affected by [[Merchant Prince Hollow
-- Compare with [MON00103_Constructs_Creature_104]]
+- Affected by [[MON00103_Constructs_Creature_104]]
 - Originates from [[step_001 (phase_011)
 - Leads to [step_024 (phase_049)]]
 - See also: [[Magic Schools and Academies
@@ -210,24 +203,19 @@ Insight, Arcana, Deception, Persuasion
 - Requires [[step_095 (phase_056)
 - Requires [Portrait NPC Quest the Blackmail Papers Quest the Blackmail Papers.svg]]
 - Leads to
-- Requires [[water-weird-xmm
-- Parallels [NPC01084_Xander_Silverleaf_the_Strong]]
-- Leads to [[NPC00348_Cedric_Youngblood_the_Swift
-- Originates from [Depth Plague 2]]
+- Requires [[NPC01084_Xander_Silverleaf_the_Strong]]
+- Leads to [[NPC00348_Cedric_Youngblood_the_Swift]]
 - Compare with [[step_042 (phase_016)
 - Related: [location-city-artificer-artificer.svg]]
 - Originates from [[Tinderstrike Pota
 - Influences [step_075 (phase_048)]]
 - Leads to [[step_041 (phase_067)
 - Related: [Horn of Valhalla Iron Xdmg]]
-- Leads to [[LORE00228_History_Entry_229
-- Compare with [ENC00031_Environmental_Encounter_32]]
-- Related: [[NPC01618_Qadim_Frostwhisper_the_Bold
-- Compare with [Aspect of the Moon Xge]]
+- Leads to [[ENC00031_Environmental_Encounter_32]]
+- Related: [[NPC01618_Qadim_Frostwhisper_the_Bold]]
 - Parallels [[copper-dragon-xmm (legendary-group)
 - Connects to [Gimli Deepcurrent (D&D_References)]]
-- Connects to [[QUEST00145_Personal_Quest_146
-- Influences [Tempest Peak]]
+- Connects to [[QUEST00145_Personal_Quest_146]]
 - See also: [[Assets Locations Location City Iron Rapids Fleetcurrent V1 Iron Rapids Fleetcurrent.svg
 - Leads to [Crystal_Plague_Encounter_Progressions]]
 - Connects to [[Portrait NPC the Pressure Pirates V2 the Pressure Pirates.svg_1 (Portraits)
@@ -239,16 +227,13 @@ Insight, Arcana, Deception, Persuasion
 - Connects to [Keeper Maelstrom the Great]]
 - Compare with [[LORE00004_Prophecies_Entry_5
 - Originates from [Psychic Scream Xge]]
-- Related: [[ENC00180_Environmental_Encounter_181
-- Parallels [step_092 (phase_047)]]
+- Related: [[ENC00180_Environmental_Encounter_181]]
 - Related: [[step_016 (phase_013)
 - Influences [Memory Gardens]]
-- Related: [[SHOP00035_General_Shop_36
-- Requires [NPC00754_Hilda_Voidwalker_the_Cunning]]
+- Related: [[NPC00754_Hilda_Voidwalker_the_Cunning]]
 - See also: [[step_020 (phase_055)
 - See also: [step_019 (phase_066)]]
-- Leads to [[The Null Cathedral (D&D_References)
-- Compare with [LOC00253_Cities_Location_254]]
+- Leads to [[The Null Cathedral (D&D_References)]]
 - Influences [[Garden of Shadows 2
 
 ## Visual References

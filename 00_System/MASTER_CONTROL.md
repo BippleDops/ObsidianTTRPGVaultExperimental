@@ -30,40 +30,40 @@ cssclass: master-control
 ### System Overview
 ```mermaid
 graph TD
-    A[Master Control] --> B[Campaign Dashboard]
-    A --> C[AI Generation]
-    A --> D[Player Portal]
-    A --> E[Automation]
-    A --> F[World Simulation]
-    A --> G[Analytics]
-    A --> H[Export System]
-    A --> I[Audio System]
+ A[Master Control] --> B[Campaign Dashboard]
+ A --> C[AI Generation]
+ A --> D[Player Portal]
+ A --> E[Automation]
+ A --> F[World Simulation]
+ A --> G[Analytics]
+ A --> H[Export System]
+ A --> I[Audio System]
 
-    B --> B1[Quick Access]
-    B --> B2[Session Tools]
+ B --> B1[Quick Access]
+ B --> B2[Session Tools]
 
-    C --> C1[NPC Gen]
-    C --> C2[Location Gen]
-    C --> C3[Quest Gen]
+ C --> C1[NPC Gen]
+ C --> C2[Location Gen]
+ C --> C3[Quest Gen]
 
-    D --> D1[Shared Lore]
-    D --> D2[Journals]
+ D --> D1[Shared Lore]
+ D --> D2[Journals]
 
-    E --> E1[Session Logger]
-    E --> E2[Combat Tracker]
+ E --> E1[Session Logger]
+ E --> E2[Combat Tracker]
 
-    F --> F1[NPC Schedules]
-    F --> F2[Faction Politics]
-    F --> F3[Economy]
+ F --> F1[NPC Schedules]
+ F --> F2[Faction Politics]
+ F --> F3[Economy]
 
-    G --> G1[Usage Stats]
-    G --> G2[Optimization]
+ G --> G1[Usage Stats]
+ G --> G2[Optimization]
 
-    H --> H1[PDF Export]
-    H --> H2[VTT Export]
+ H --> H1[PDF Export]
+ H --> H2[VTT Export]
 
-    I --> I1[Soundscapes]
-    I --> I2[Voice Notes]
+ I --> I1[Soundscapes]
+ I --> I2[Voice Notes]
 ```
 
 ### Active Systems
@@ -87,10 +87,10 @@ graph TD
 - [Emergency Backup|🚨 Emergency Backup]]
 
 ### Content Generation
-- [[Generate NPC|🧙 Generate NPC
-- [Generate Location|🏰 Generate Location]]
-- [[Generate Quest|📜 Generate Quest
-- [Generate Encounter|⚔️ Generate Encounter]]
+- [[Generate_NPC|🧙 Generate NPC
+- [Generate Location]]
+- [[Generate_Quest|📜 Generate Quest
+- [Generate Encounter]]
 - [[Generate Loot|💰 Generate Loot
 
 ### World Control
@@ -127,21 +127,21 @@ graph TD
 ### Global Settings
 ```yaml
 system:
-  automation: enabled
-  ai_generation: enabled
-  world_simulation: enabled
-  analytics: enabled
-  audio: enabled
+ automation: enabled
+ ai_generation: enabled
+ world_simulation: enabled
+ analytics: enabled
+ audio: enabled
 
 performance:
-  cache: enabled
-  compression: enabled
-  lazy_loading: enabled
+ cache: enabled
+ compression: enabled
+ lazy_loading: enabled
 
 backup:
-  frequency: hourly
-  retention: 30 days
-  location: cloud
+ frequency: hourly
+ retention: 30 days
+ location: cloud
 ```
 
 ### User Preferences
@@ -170,29 +170,29 @@ backup:
 ### Master Commands
 ```python
 class MasterControl:
-    def __init__(self):
-        self.systems = dict(
-            dashboard='CampaignDashboard',
-            ai='AIGenerator',
-            portal='PlayerPortal',
-            automation='AutomationSystem',
-            world='WorldSimulation',
-            analytics='Analytics',
-            export='ExportSystem',
-            audio='AudioSystem'
-        )
+ def __init__(self):
+ self.systems = dict(
+ dashboard='CampaignDashboard',
+ ai='AIGenerator',
+ portal='PlayerPortal',
+ automation='AutomationSystem',
+ world='WorldSimulation',
+ analytics='Analytics',
+ export='ExportSystem',
+ audio='AudioSystem'
+ )
 
-    def execute(self, command):
-        # Parse and execute any command
-        return self.systems[command.system].execute(command.action)
+ def execute(self, command):
+ # Parse and execute any command
+ return self.systems[command.system].execute(command.action)
 
-    def status(self):
-        return dict((system, s.status()) for system, s in self.systems.items())
+ def status(self):
+ return dict((system, s.status()) for system, s in self.systems.items())
 
-    def emergency_shutdown(self):
-        for system in self.systems.values():
-            system.save_state()
-            system.shutdown()
+ def emergency_shutdown(self):
+ for system in self.systems.values():
+ system.save_state()
+ system.shutdown()
 ```
 
 ## 🌟 Achievement Unlocked

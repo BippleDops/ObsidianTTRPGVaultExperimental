@@ -4,8 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: [The Loop Breaker]]s
+- [[The Loop Breaker]]s
 type: lore
 updated: 2025-08-14
 ---

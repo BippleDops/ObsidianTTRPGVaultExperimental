@@ -170,8 +170,7 @@ Is secretly testing the party
 - Affected by [Deep Chemical Works]]
 - Influences [[step_082 (phase_095)
 - Requires [The Memory Wars 2]]
-- Related: [[MON00032_Aberrations_Creature_33
-- Connects to [step_008 (phase_023)]]
+- Related: [[MON00032_Aberrations_Creature_33]]
 - Originates from [[Spymaster Echo
 - See also:
 - Connects to [Cleaning Fish]]
@@ -179,21 +178,17 @@ Is secretly testing the party
 - Influences [step_092 (phase_049)]]
 - Related: [[#Threads
 - Leads to [MON00139_Constructs_Creature_140]]
-- Influences [[Salamander Xmm
-- Originates from [The Void Conspiracy (D&D_References)]]
+- Influences [[The Void Conspiracy (D&D_References)]]
 - Compare with [[step_003 (phase_063)
 - Influences [Portrait NPC Admiral Cassandra Stormwind V1 Admiral Cassandra Stormwind.svg]]
 - See also: [[needle-xphb (items)
 - Requires [eberron-the-blood-of-vol (deities)]]
 - Affected by [[step_002 (phase_007)
 - Influences [step_014 (phase_007)]]
-- Affected by [[God-King Aetheron (D&D_References)
-- Parallels [step_056 (phase_022)]]
+- Affected by [[God-King Aetheron (D&D_References)]]
 - Connects to
-- Requires [[step_085 (phase_061)
-- Parallels [Reference_Cards - Aquabyssos_Quick_Reference_Cards (D&D_References)]]
-- Parallels [[step_063 (phase_060)
-- Leads to [LOC00026_Planes_Location_27]]
+- Requires [[Reference_Cards - Aquabyssos_Quick_Reference_Cards (D&D_References)]]
+- Parallels [[LOC00026_Planes_Location_27]]
 - Affected by [[Military Intelligence (Places)
 - Influences [LOC00129_Dungeons_Location_130]]
 - Influences [[step_020 (phase_088)
@@ -231,30 +226,24 @@ Is secretly testing the party
 - Influences [Semiautomatic Pistol Xdmg]]
 - Affected by [[QUEST00157_Personal_Quest_158
 - Originates from [SPELL00109_Divine_Spell_110]]
-- Leads to [[QUEST00430_Side_Quest_431
-- Affected by [NPC00687_Brenna_Proudmore_the_Fallen]]
+- Leads to [[NPC00687_Brenna_Proudmore_the_Fallen]]
 - Parallels [[Sentinel Xphb
 - Originates from
 - Related: [DUN00102_Dungeon_103]]
-- Compare with [[Gideon Quickstep
-- Parallels [Lord Flux the Inconsistent (D&D_References)]]
+- Compare with [[Lord Flux the Inconsistent (D&D_References)]]
 - See also: [[The Shadow Markets New
 - Originates from [Shadowport 2]]
 - Connects to
 - Compare with [[step_090 (phase_024)
 - Originates from [step_044 (phase_031)]]
-- Influences [[step_076 (phase_006)
-- Influences [Private Arbitration (D&D_References)]]
+- Influences [[Private Arbitration (D&D_References)]]
 - Connects to [[ITEM00945_Concentrated_Herb_of_Clarity
 - Affected by [INDEX]]
-- Requires [[step_083 (phase_039)
-- See also: [FINAL_ASSET_SYSTEM_COMPLETE]]
-- Leads to [[Young Gold Dragon Xmm
-- See also: [ENC00275_Combat_Encounter_276]]
+- Requires [[FINAL_ASSET_SYSTEM_COMPLETE]]
+- Leads to [[ENC00275_Combat_Encounter_276]]
 - Parallels [[Assets Locations Location City the Whispering Caverns V1 the Whispering Caverns.svg
 - Requires [purple-worm-xmm]]
-- Parallels [[High Hierophant Meridius 2
-- Originates from [Dire Wolf Xmm]]
+- Parallels [[High Hierophant Meridius 2]]
 - See also: [[The Great Shattering
 - Parallels
 - Parallels [Waterskin Xphb]]

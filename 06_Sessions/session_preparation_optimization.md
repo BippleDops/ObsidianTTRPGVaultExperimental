@@ -87,7 +87,7 @@ Date: [Date] | Duration: [[Expected Length]]] | Realm: [[Primary Realm]]] OPENIN
 - Names: [List of available NPC [[Names]]]
 - Stats: [Generic stat blocks]
 - Details: [Random tables for quick content] ADVANCEMENT:
-- [[Plot Threads]]: [Which stories advance]
+- [[Plot_Threads]]: [Which stories advance]
 - [[Character Arcs]]: [Personal development opportunities]
 - [[World Changes]]: [How world state might shift] SESSION END:
 - [[Cliffhangers]]: [Exciting stopping points]

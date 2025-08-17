@@ -178,12 +178,10 @@ Offers deal too good to refuse
 - Parallels
 - See also: [[LOC00168_Cities_Location_169
 - Compare with [Baker's Daughter Crysa]]
-- Requires [[Stellar Commander Nereus Voidcaller
-- Originates from [Atoll Research Team 2]]
+- Requires [[Stellar Commander Nereus Voidcaller]]
 - Affected by [[DUN00138_Dungeon_139
 - Originates from [Loop-Walker Celia]]
-- Requires [[Campaign World
-- Connects to [LOC00115_Towns_Location_116]]
+- Requires [[LOC00115_Towns_Location_116]]
 - Leads to [[Robotics Engineer Wave Autowright
 - Affected by [Assets Locations Location City Pressure Tube Terminal Pressure Tube Terminal.svg]]
 - Compare with [[LOC00001_Cities_Location_2
@@ -194,19 +192,15 @@ Offers deal too good to refuse
 - Originates from [NPC00685_Elric_Ravenheart_the_Wanderer]]
 - Originates from [[Archive Keeper Memoria Vaultmind
 - Parallels [demon-customization-tables-demon-ideals-mtf (tables)]]
-- See also: [[Harbor Pilot Guild (D&D_References)
-- Connects to [Intellectual Freedom Movement (D&D_References)]]
+- See also: [[Intellectual Freedom Movement (D&D_References)]]
 - See also: [[Location City Teacher Miranda Hopekeeper Teacher Miranda Hopekeeper.svg
 - See also: [Lapis Lazuli Xdmg]]
-- Affected by [[The Transformation Tracker (D&D_References)
-- Originates from [EVENT00036_Magical_Event_37]]
-- See also: [[Umber Hulk Xmm
-- Parallels [Captain Sterling Lightshield]]
+- Affected by [[The Transformation Tracker (D&D_References)]]
+- See also: [[Captain Sterling Lightshield]]
 - Affected by [[Assets Locations Location City Keeper Elara Mindwell V1 Keeper Elara Mindwell.svg
 - Related: [ITEM00660_Mithril_Leather_of_Protection]]
 - Related:
-- Leads to [[Sky_Sailor_Fighter
-- See also: [NPC01964_Zephyr_Oakenshield_the_Fallen]]
+- Leads to [[NPC01964_Zephyr_Oakenshield_the_Fallen]]
 - Connects to
 - Requires
 - Originates from [[02_Worldbuilding_Equipment_Identity_Verification_Systems_Quick_Ref
@@ -217,8 +211,7 @@ Offers deal too good to refuse
 - Requires [Portrait NPC Pearl Empress Lustrous V1 Pearl Empress Lustrous.svg]]
 - Affected by [[location-city-port-abyssos-port-abyssos.svg
 - Requires [Portrait NPC Agent Whisper Voidheart V1 Agent Whisper Voidheart.svg_1 (Portraits)]]
-- Leads to [[QUEST00131_Personal_Quest_132
-- Parallels [step_075 (phase_023)]]
+- Leads to [[QUEST00131_Personal_Quest_132]]
 - Influences [[QUEST00216_Side_Quest_217
 - Leads to [scroll-of-protection-beasts-xdmg (items)]]
 - Connects to
@@ -231,14 +224,11 @@ Offers deal too good to refuse
 - Affected by [Location City the Great Sky Harbor the Great Sky Harbor.svg]]
 - Related: [[teleport-xphb (spells)
 - Connects to [step_048 (phase_028)]]
-- See also: [[LOC0117_NewBridge
-- Influences [Campaign_Quick_Reference_Sheets]]
-- Originates from [[Living_Economy_System.md
-- Requires [NPC00582_Cedric_Dawnstrider]]
+- See also: [[Campaign_Quick_Reference_Sheets]]
+- Originates from [[NPC00582_Cedric_Dawnstrider]]
 - See also: [[08 Chapter 8 Audience in Gauntlgrym
 - See also: [location-city-the-lock-the-lock.svg]]
-- Connects to [[NPC01957_Urien_Darkwater_the_Bold
-- Parallels [SPELL00143_Nature_Spell_144]]
+- Connects to [[NPC01957_Urien_Darkwater_the_Bold]]
 - Leads to [[QUEST00189_Main_Quest_190
 - Parallels [LORE00268_Prophecies_Entry_269]]
 - See also: [[Location City Dock Boss Marina Irongrip V1 Dock Boss Marina Irongrip.svg
@@ -247,16 +237,13 @@ Offers deal too good to refuse
 - Leads to [Abyssal Cathedral]]
 - Influences [[Marlos Urnrayle Pota
 - Affected by [Assets Locations Location City Lady Vivienne the Unfrozen Lady Vivienne the Unfrozen.svg]]
-- Originates from [[Protocol Master Elena Etiquette 2
-- See also: [step_035 (phase_071)]]
-- Parallels [[10-combat#Shoving a Creature
-- Connects to [Communication_Systems]]
+- Originates from [[Protocol Master Elena Etiquette 2]]
+- Parallels [[10-combat#Surprise]]
 - Parallels [[SHOP00008_Specialty_Shop_9
 - Connects to [ITEM00674_Mithril_Gauntlets_of_Resistance]]
 - Compare with [[04_Resources_Assets_Locations_location-city-the-siren-s-rest-tavern-the-siren-s-rest-tavern.svg
 - Affected by [step_039 (phase_092)]]
-- See also: [[Aethermoor Daily Rhythms (D&D_References)
-- Compare with [Customs House]]
+- See also: [[Aethermoor Daily Rhythms (D&D_References)]]
 - Affected by [[The Deepmind (D&D_Statblocks)
 - See also: [Royal Ports (D&D_References)]]
 

@@ -4,23 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: Luminary Commander Gareth Boldstrike
-type: lore
-updated: 2025-08-14
----
-
-# Luminary Commander Gareth Boldstrike
-
-## Overview
-This document contains important information regarding Luminary Commander Gareth Boldstrike and its role within the greater narrative.
-
-## Description
-Luminary Commander Gareth Boldstrike represents a significant element within the campaign world, offering various opportunities for engagement and development.
-
-## Key Information
-- **Primary Purpose**: Serves specific function within the world
-- **Connections**: [Link]]ed to multiple other elements
+- [[Luminary Commander Gareth Boldstrike]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details

@@ -25,5 +25,8 @@
   "alt_text": "Concept art of ghast-gravecaller-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-ghast-gravecaller-xmm-ghast-gravecaller-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-ghast-gravecaller-xmm-ghast-gravecaller-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:02:37.043Z",
+  "generationMethod": "ComfyUI"
 }

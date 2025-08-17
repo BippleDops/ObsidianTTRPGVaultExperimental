@@ -92,5 +92,4 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## References
 
 - [The Original Palace]]
-- [[The Depth Accords (D&D_References)
-- [The Original Palace (D&D_References)]]
+- [[The Original Palace (D&D_References)]]

@@ -273,7 +273,7 @@ Being extorted by criminals
 - See also: [[Handout Handout Ancient Prophecy Fragment V2 Ancient Prophecy Fragment.png
 - Influences [devourer-mpmm (undead)]]
 - Affected by [[ENC00133_Environmental_Encounter_134]]
-- Influences [[step_016 (phase_022)]]
+- Influences
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

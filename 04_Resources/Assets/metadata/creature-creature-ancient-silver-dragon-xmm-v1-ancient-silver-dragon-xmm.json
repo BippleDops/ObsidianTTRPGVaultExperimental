@@ -25,5 +25,8 @@
   "alt_text": "Concept art of ancient-silver-dragon-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-ancient-silver-dragon-xmm-v1-ancient-silver-dragon-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-ancient-silver-dragon-xmm-v1-ancient-silver-dragon-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:24.904Z",
+  "generationMethod": "ComfyUI"
 }

@@ -122,9 +122,6 @@ Mentioned in The First Prophecy of Stars
 ## References
 
 - [Abyssos Prime - Inverse Palace]]
-- [[Temporal Navigation
-- [Tethyan Hegemony]]
-- [[The Pressure Conspiracy
-- [Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
-- [[Temporal Navigation (D&D_Statblocks)
-- [The Pressure Conspiracy (D&D_Statblocks)]]
+- [[Temporal Navigation]]
+- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
+- [[The Pressure Conspiracy (D&D_Statblocks)]]

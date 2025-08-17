@@ -170,22 +170,19 @@ Offers deal too good to refuse
 - Originates from [Random Magic Item Rarity Magic Item Rarities]]
 - Leads to [[LOC0008_FortHaven
 - Related: [Assets Locations Location City the Vault Keepers the Vault Keepers.svg]]
-- See also: [[step_099 (phase_054)
-- Compare with [MON00165_Aberrations_Creature_166]]
+- See also: [[MON00165_Aberrations_Creature_166]]
 - Requires [[Depth Speak Variations
 - Originates from [demon-customization-tables-demon-ideals-mtf (tables)]]
 - Affected by [[Sunset Bay (D&D_References)
 - Affected by [ITEM01241_Lesser_Elixir_of_Fortune]]
 - Related: [[step_019 (phase_008)
 - Affected by [The Last Priest]]
-- Leads to [[step_042 (phase_063)
-- Requires [MON00134_Undead_Creature_135]]
+- Leads to [[MON00134_Undead_Creature_135]]
 - Affected by [[step_004 (phase_015)
 - Related: [Location City Teacher Miranda Hopekeeper Teacher Miranda Hopekeeper.svg]]
 - Connects to [[Assets Locations Location City Deep Oracle Bathys V1 Deep Oracle Bathys.png
 - Requires [NPC01585_Pyria_Oakenshield_the_Wanderer]]
-- See also: [[ENC00045_Environmental_Encounter_46
-- Compare with [Celestial Spirit Xphb]]
+- See also: [[ENC00045_Environmental_Encounter_46]]
 - Requires [[Geas Xphb
 - Parallels [Portrait NPC High Inquisitor Maltheos V1 High Inquisitor Maltheos.svg_1 (Portraits)]]
 - Connects to [[step_021 (phase_006)
@@ -196,25 +193,18 @@ Offers deal too good to refuse
 - Connects to [Ability Check Proficiency by Class]]
 - Compare with [[The Forgetting Cult (Cults_and_Movements)
 - Leads to [Location City Ambassador Silk Bridgewater V1 Ambassador Silk Bridgewater.svg]]
-- Related: [[Noble Estates
-- Related: [Scholar Wisdom Clearwater]]
-- Connects to [[Data Analyst Current Patternweave
-- Requires [Proficiency Bonus Xphb]]
-- Affected by [[Queen Glacialis (D&D_References)
-- Originates from [Yochlol Xmm]]
-- Requires [[downtime-activity-buying-a-magic-item-xge (variant-rules)
-- Leads to [The Probability Engine]]
+- Related: [[Scholar Wisdom Clearwater]]
+- Connects to [[Data Analyst Current Patternweave]]
+- Affected by [[Queen Glacialis (D&D_References)]]
+- Requires [[downtime-activity-buying-a-magic-item-xge (variant-rules)]]
 - Requires [[gate-xphb (spells)
 - Related: [boon-of-the-fire-soul (rewards)]]
 - Originates from [[04_Resources_Assets_Locations_location-city-marina-dreamwhisper-v1-marina-dreamwhisper.svg
 - Connects to
 - Originates from [SPELL00095_Arcane_Spell_96]]
-- See also: [[Reference Homebrew Where to Get Mechanics
-- Requires
-- Influences [Pressure Adaptation System]]
+- See also: [[Reference Homebrew Where to Get Mechanics]]
 - Compare with
-- Influences [[Emergency Council Chambers
-- Related: [Memory Coral Reefs (D&D_References)]]
+- Influences [[Memory Coral Reefs (D&D_References)]]
 - Requires [[ITEM01298_Superior_Potion_of_Clarity
 - Originates from [Pair of Engraved Bone Dice Xdmg]]
 - Parallels [[step_043 (phase_064)
@@ -227,18 +217,14 @@ Offers deal too good to refuse
 - Compare with [Witness Protection Protocols]]
 - Originates from [[step_027 (phase_085)
 - Leads to [Aethermoor Archives]]
-- Affected by [[Glibness Xphb
-- Compare with [Chief Medic Coral Battlehealer 2]]
-- Influences [[Monkey's Paw
-- Originates from [ENC00104_Social_Encounter_105]]
+- Affected by [[Chief Medic Coral Battlehealer 2]]
+- Influences [[ENC00104_Social_Encounter_105]]
 - Parallels [[Arcana Uncommon Xdmg
 - Related: [step_091 (phase_069)]]
 - Compare with [[Location City Knowledge Truthseeker V1 Knowledge Truthseeker.svg
 - Parallels [Tidal Memento]]
-- Compare with [[QUEST0022_In_Search_of_Justice
-- Influences [DUN00069_Dungeon_70]]
-- Related: [[Crystal Magic Theory
-- Affected by [NPC01954_Drusilla_Xendar_the_Wise]]
+- Compare with [[QUEST0022_In_Search_of_Justice]]
+- Related: [[NPC01954_Drusilla_Xendar_the_Wise]]
 - Requires [[Creature Creature Thorny Vegepygmy Mpmm Thorny Vegepygmy Mpmm.png
 - Originates from [Jungle of Screams]]
 - Requires [[Pressure_Adaptation_Emergency_Procedures
@@ -250,8 +236,7 @@ Offers deal too good to refuse
 - Influences [step_066 (phase_020)]]
 - Affected by [[LOC00056_Dungeons_Location_57
 - Influences [QUEST00453_Side_Quest_454]]
-- Affected by [[LORE00224_Prophecies_Entry_225
-- See also: [Memory Bank Central (D&D_References)]]
+- Affected by [[Memory Bank Central (D&D_References)]]
 - Connects to [[The Deep Expansion (D&D_References)
 - Related:
 - Affected by [SHOP00051_Magical_Shop_52]]

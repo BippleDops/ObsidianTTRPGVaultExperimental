@@ -160,24 +160,21 @@ Has map to lost treasure
 
 - Related: [[Temple of the Eternal Flame 2
 - Leads to [MON00085_Constructs_Creature_86]]
-- Influences [[Voidwhisper Diplomat Seraphina Darkgrace
-- Connects to [catnap-xge (spells)]]
+- Influences [[Voidwhisper Diplomat Seraphina Darkgrace]]
 - Parallels [[step_047 (phase_045)
 - Leads to [Arrow Catching Shield Xdmg]]
 - Originates from [[Ambush Xphb
 - Influences [human-names-celtic-male-xge (tables)]]
 - Related: [[Sundered Steel 2
 - Affected by [Councilor Truth Darkness]]
-- Compare with [[The Sunken Bazaar 2
-- Requires [Parry Xphb]]
+- Compare with [[The Sunken Bazaar 2]]
 - See also:
 - Requires [[EVENT00077_Natural_Event_78
 - Parallels [LORE00304_History_Entry_305]]
 - Requires [[Portrait NPC Parliament Loyalists V2 Parliament Loyalists.svg
 - Requires [flumph-xmm (aberration)]]
 - Related:
-- Related: [[step_091 (phase_040)
-- Affected by [ENC00400_Combat_Encounter_401]]
+- Related: [[ENC00400_Combat_Encounter_401]]
 - Connects to [[step_065 (phase_031)
 - Related: [Deep Expeditions]]
 - Leads to
@@ -195,19 +192,15 @@ Has map to lost treasure
 - Originates from [ITEM01314_Masterwork_Compass_of_Convenience]]
 - Compare with [[Badger Xmm
 - Related: [Assets Locations Location City Captain Marlowe Tidecrest Captain Marlowe Tidecrest.svg]]
-- Compare with [[ITEM00084_Blessed_Bow_of_Wounding
-- Leads to [Alpha Leader Marina Depthstrike (D&D_References)]]
+- Compare with [[Alpha Leader Marina Depthstrike (D&D_References)]]
 - See also: [[step_075 (phase_044)
 - Parallels [QUEST00329_Side_Quest_330]]
 - Affected by [[Musket Xphb
 - Leads to
 - Connects to [imix-pota (legendary-group)]]
-- Affected by [[Embassy District (D&D_References)
-- Related: [darkmantle-xmm (aberration)]]
-- Affected by [[elf-xphb (races)
-- Influences [LORE0066_Legend_of_the_Sundering]]
-- Affected by [[Banker_Cornelius_Goldflow.png
-- Affected by [Vault Backup 20250813 073007 06 GM Travel Encounter Sheets D L 03 Deep Mother Dream Tide]]
+- Affected by [[Embassy District (D&D_References)]]
+- Affected by [[LORE0066_Legend_of_the_Sundering]]
+- Affected by [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets D L 03 Deep Mother Dream Tide]]
 - Connects to [[IMPLEMENTATION_COMPLETE
 - Leads to [step_070 (phase_074)]]
 - Originates from [[step_053 (phase_006)
@@ -219,27 +212,20 @@ Has map to lost treasure
 - Compare with [[Tiefling Levistus Mtf
 - Affected by [lightning-cannon-xdmg (objects)]]
 - Influences
-- Connects to [[sentinel-shield-xdmg (items)
-- Connects to [NPC01552_Branwen_Lightbringer_the_Swift]]
-- Affected by [[Business Card Dungeon Business Card Dungeons License (Decks)
-- Compare with [LORE00264_History_Entry_265]]
-- Affected by [[step_038 (phase_018)
-- Related: [Princess Celestine Lumengarde 2]]
-- Influences [[Thalassius the Wise
-- See also: [Lucky Finn Dicetide (D&D_References)]]
+- Connects to [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- Affected by [[Business Card Dungeon Business Card Dungeons License (Decks)]]
+- Affected by [[Princess Celestine Lumengarde 2]]
+- Influences [[Lucky Finn Dicetide (D&D_References)]]
 - Compare with [[step_047 (phase_069)
 - Originates from [step_044 (phase_020)]]
-- Leads to [[step_024 (phase_014)
-- Related: [NPC00662_Jorah_Darkwater_the_Scholar]]
-- Influences [[step_073 (phase_044)
-- Affected by [ability-check-xphb (variant-rules)]]
+- Leads to [[NPC00662_Jorah_Darkwater_the_Scholar]]
+- Influences [[ability-check-xphb (variant-rules)]]
 - See also: [[step_031 (phase_054)
 - Related: [step_031 (phase_052)]]
 - Leads to
 - Connects to [[Portrait NPC Prince Caspian Duskwater V2 Prince Caspian Duskwater.svg_1 (Portraits)
 - See also: [MON00104_Constructs_Creature_105]]
-- Connects to [[The Vault Keepers (D&D_References)
-- Requires [Marine Druids 2]]
+- Connects to [[The Vault Keepers (D&D_References)]]
 - Compare with [[Assets Locations Location City Senior Nurse Polyp Tendercurrent V1 Senior Nurse Polyp Tendercurrent.svg
 - Leads to [step_086 (phase_032)]]
 - Connects to [[step_071 (phase_008)
@@ -248,16 +234,14 @@ Has map to lost treasure
 - Originates from [Quest - Harbor Expansion_1 (01_Adventures)]]
 - Originates from [[Disadvantage
 - Connects to [step_057 (phase_057)]]
-- Connects to [[step_077 (phase_092)
-- Leads to [LOC00115_Towns_Location_116]]
+- Connects to [[LOC00115_Towns_Location_116]]
 - Affected by [[Gnoll Pack Lord Xmm
 - Leads to [step_009 (phase_016)]]
 - Parallels [[thin-ice-xdmg (traps-hazards)
 - Influences [Name.png]]
 - Connects to [[Current_Location_1
 - Connects to [step_085 (phase_059)]]
-- Requires [[step_070 (phase_057)
-- See also: [The Unnatural Legion (D&D_References)]]
+- Requires [[The Unnatural Legion (D&D_References)]]
 
 ## Visual References
 ![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png

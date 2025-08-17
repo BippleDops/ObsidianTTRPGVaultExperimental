@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Create a detailed concept art of an elemental spirit of air, in a style that is reminiscent of a painterly collection, highlighting its unique musculature and limbs. A human silhouette should be prominent in the composition to provide scale. The environment is a fantastical merged zone of sky and underwater realms, painted in a three-color palette of teals, deep blues, and sea-greens. Use a grounded medieval fantasy style, avoiding modern technologies or signage. Ensure an aquatic realism in your depiction, including features such as subsurface caustics and bioluminescent accents. Emphasize the materials resembling a pressure dome, and use pearl highlights to accentuate the detail. Please ensure the image maintains a consistent style, avoids artifacts, features no embedded text unless specified and that any symbols or numbered pins used hold meaning.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-elemental-spirit-air-xphb-v1-elemental-spirit-air-xphb.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-elemental-spirit-air-xphb-v1-elemental-spirit-air-xphb.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:01:31.126Z",
+  "generationMethod": "ComfyUI"
 }

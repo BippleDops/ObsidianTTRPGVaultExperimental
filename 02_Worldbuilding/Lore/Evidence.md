@@ -304,113 +304,58 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Establish New World Order (Orders)
-- [Aetheric Wind Songs]]
-- [[Ancient Aquabyssos Rulers
-- [Ancient Siege Tunnels]]
-- [[Central Location
-- [Consequence Chain 1 - Shadow Conspiracy Exposure]]
-- [[Consequence Chain 2 - Crystal Trade Disruption
-- [Continental War]]
-- [[Crystal Corruption Taboos
-- [Cure Component Locations]]
-- [[Deep Mother Influence
-- [Economic Crime Methods]]
-- [[Economic Systems and Currency
-- [Evidence Collection Guide]]
-- [[Evidence Types Guide
-- [Evidence of Crystal Harm]]
-- [[Evidence-Based Policy Development
-- [Fortress of the Deeps]]
-- [[Hidden Sanctuary
-- [Investigation Procedures]]
-- [[Key Locations
-- [Known Locations]]
-- [[Kraken Territories
-- [Memory Alteration Consequences]]
-- [[Merchant Family Alliances
-- [Military Moral Quandaries]]
-- [[Order of the Sunken Crown
-- [Political Compromise Costs]]
-- [[Political Intrigue Master Index
-- [Post-Merge Chronology]]
-- [[Professional Terminology
-- [Quarantine Enforcement]]
-- [[Random Encounters
-- [Relationship Web Nuances]]
-- [[Reputation System
-- [Silver Mask]]
-- [[Sky Burial Traditions
-- [The Crown of Stars]]
-- [[The Crystal Festival
-- [The Deserter's Tale]]
-- [[The Emperor's Gambit
-- [The Festival of Rising Tides]]
-- [[The Great Crystallization
-- [The Pressure Baptism Rites]]
-- [[The Queen
-- [The Silverscale Conspiracy]]
-- [[The Tethyan Hegemony
-- [Timeline of Crimes]]
-- [[Timeline of the Drowning
-- [Underground Smuggling Networks]]
-- [[NPC00743_Ysara_Lightbringer_the_Broken
-- [NPC00042_Vesper_Grimholt]]
-- [[Abyssos Prime Docks
-- [Blood Current Express]]
-- [[Captain Marcus
-- [Compass Quest]]
-- [[Cross-Dimensional Transit Authority
-- [Crystal Cult Temples]]
-- [[Deepmind Conspiracy
-- [Depth Warden Patrol]]
-- [[Depth Wardens
-- [Harbor District Customs House]]
-- [[Inverted Ballroom Wing
-- [Ironhold]]
-- [[Lord Reginald Seaworthy
-- [Maelstrom Palace]]
-- [[Memoriam - The Forgotten Continent
-- [Memory Thief]]
-- [[Mourning Depths
-- [Port Meridian - Market Square]]
-- [[Port Meridian Harbor
-- [Pressure Suit Malfunction]]
-- [[Pressure Terminal
-- [Reality Anchor Network]]
-- [[Reflection Pools - Surgical Theater
-- [Shadow Market Canals]]
-- [[Surface Signals
-- [Temple Ward]]
-- [[Temporal Harvest
-- [The Azure Coast]]
-- [[The Bone Colosseum
-- [The Crystal Wardens]]
-- [[The Deep Patrol
-- [The Depth Market]]
-- [[The Drowning Truth
-- [The Eternal Senate]]
-- [[The First Truth
-- [The Forgotten One]]
-- [[The Forgotten Representative
-- [The Great Drowning]]
-- [[The Iron Pits of Malachar
-- [The Living Weapon]]
-- [[The Memory Storm Fields
-- [The Memory Thief]]
-- [[The Mothercoral Crisis
-- [The Phosphor Markets]]
-- [[The Seven Shards Mystery
-- [The Void Tears]]
-- [[Theological Warfare
-- [Treaty of the Depths]]
-- [[Void Currents
-- [Warden Marcus Stonehand]]
-- [[Whisper Island
-- [Whisper-Touched William]]
-- [[The Crown's Burden
-- [The Lock Saboteur]]
-- [[The Tide Rises
-- [The Whispering Expanse]]
-- [[Establish New World Order
-- [The First Truth (D&D_References)]]
+- [[Establish New World Order]]
+- [[Ancient Aquabyssos Rulers]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Consequence Chain 2 - Crystal Trade Disruption]]
+- [[Crystal Corruption Taboos]]
+- [[Economic Crime Methods]]
+- [[Economic Systems and Currency]]
+- [[Evidence of Crystal Harm]]
+- [[Evidence-Based Policy Development]]
+- [[Investigation Procedures]]
+- [[Known Locations]]
+- [[Memory Alteration Consequences]]
+- [[Military Moral Quandaries]]
+- [[Political Compromise Costs]]
+- [[Political Intrigue Master Index]]
+- [[Professional Terminology]]
+- [[Relationship Web Nuances]]
+- [[Reputation System]]
+- [[Sky Burial Traditions]]
+- [[The Crystal Festival]]
+- [[The Festival of Rising Tides]]
+- [[The Pressure Baptism Rites]]
+- [[The Silverscale Conspiracy]]
+- [[The Tethyan Hegemony]]
+- [[Underground Smuggling Networks]]
+- [[NPC00743_Ysara_Lightbringer_the_Broken]]
+- [[Blood Current Express]]
+- [[Captain Marcus]]
+- [[Cross-Dimensional Transit Authority]]
+- [[Deepmind Conspiracy]]
+- [[Harbor District Customs House]]
+- [[Inverted Ballroom Wing]]
+- [[Lord Reginald Seaworthy]]
+- [[Memoriam - The Forgotten Continent]]
+- [[Port Meridian - Market Square]]
+- [[Pressure Suit Malfunction]]
+- [[Reality Anchor Network]]
+- [[Reflection Pools - Surgical Theater]]
+- [[Surface Signals]]
+- [[Temporal Harvest]]
+- [[The Crystal Wardens]]
+- [[The Depth Market]]
+- [[The Drowning Truth]]
+- [[The Forgotten One]]
+- [[The Forgotten Representative]]
+- [[The Iron Pits of Malachar]]
+- [[The Memory Storm Fields]]
+- [[The Mothercoral Crisis]]
+- [[The Seven Shards Mystery]]
+- [[Treaty of the Depths]]
+- [[Warden Marcus Stonehand]]
+- [[Whisper-Touched William]]
+- [[The Crown's Burden]]
+- [[The Whispering Expanse]]
+- [[The First Truth (D&D_References)]]

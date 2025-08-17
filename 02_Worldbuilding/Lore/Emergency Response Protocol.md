@@ -52,6 +52,5 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [Aetheric Wind Songs]]
-- [[Tidal Chambers
-- [Shadow Market Canals]]
+- [[Shadow Market Canals]]
 - [[Shadow Market Canals (D&D_References)]]

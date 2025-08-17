@@ -292,7 +292,7 @@ Modifications:
 - Originates from [star-rose-quartz-xdmg (items)]]
 - Originates from [[Roleplaying a Beholder Beholder Personality
 - Originates from [step_002 (phase_092)]]
-- See also: [[step_055 (phase_039)]]
+- See also:
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

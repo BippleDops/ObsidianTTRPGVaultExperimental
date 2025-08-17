@@ -31,9 +31,6 @@ Further information about this topic will be developed as the campaign progresse
 
 - [[Cult of Screams (Cults_and_Movements)
 - [The Merchant's Covenant]]
-- [[Angels and Depths
-- [Northgate]]
-- [[Ancient Siege Tunnels (D&D_References)
-- [Angels and Depths (D&D_References)]]
-- [[Cult of Screams
-- [The Phosphor Markets (D&D_References)]]
+- [[Angels and Depths]]
+- [[Ancient Siege Tunnels (D&D_References)]]
+- [[The Phosphor Markets (D&D_References)]]

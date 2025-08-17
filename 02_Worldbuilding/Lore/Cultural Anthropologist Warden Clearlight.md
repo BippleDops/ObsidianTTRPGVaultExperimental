@@ -4,23 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: Cultural Anthropologist Warden Clearlight
-type: lore
-updated: 2025-08-14
----
-
-# Cultural Anthropologist Warden Clearlight
-
-## Overview
-This document contains important information regarding Cultural Anthropologist Warden Clearlight and its role within the greater narrative.
-
-## Description
-Cultural Anthropologist Warden Clearlight represents a significant element within the campaign world, offering various opportunities for engagement and development.
-
-## Key Information
-- **Primary Purpose**: Serves specific function within the world
-- **Connections**: [Link]]ed to multiple other elements
+- [[Cultural Anthropologist Warden Clearlight]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details

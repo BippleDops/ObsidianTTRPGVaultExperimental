@@ -180,23 +180,19 @@ Needs help with personal quest
 - Originates from [04_Resources_Assets_Locations_location-city-dr-vera-spectrumseeker-dr-vera-spectrumseeker.svg]]
 - Affected by [[QUEST00236_Side_Quest_237
 - Related: [portrait-npc-refugee-camps-v1-refugee-camps.svg]]
-- Connects to [[Merger_Events_Pack_B
-- Connects to [LOC00140_Planes_Location_141]]
+- Connects to [[LOC00140_Planes_Location_141]]
 - Parallels [[step_075 (phase_026)
 - Connects to [Treasurer Goldenshadow 2]]
 - Compare with [[greyhawk-obad-hai-xdmg (deities)
 - Parallels [step_055 (phase_013)]]
 - See also: [[QUEST0085_The_Sacred_Prophecy
 - Originates from [Military Harbor Depths]]
-- Related: [[QUEST00344_Side_Quest_345
-- Leads to [Memory Pearls 2]]
+- Related: [[QUEST00344_Side_Quest_345]]
 - Affected by [[step_046 (phase_075)
 - See also: [step_007 (phase_059)]]
 - Connects to [[Quest - The Corruption Cure
 - Parallels [Portrait NPC the Scattered Emperor the Scattered Emperor.svg]]
-- Compare with [[NPC01597_Gavril_Nightfall_the_Swift
-- Leads to
-- Influences [The Azure Shard]]
+- Compare with [[NPC01597_Gavril_Nightfall_the_Swift]]
 - Requires [[Quest - The Silver Revolution_1 (01_Adventures)
 - Parallels [The Convergence Crisis 2]]
 - Originates from [[step_044 (phase_078)
@@ -205,45 +201,38 @@ Needs help with personal quest
 - Requires [step_065 (phase_022)]]
 - Affected by [[Portrait NPC Embassy of Eternal Shadows Embassy of Eternal Shadows.svg
 - Requires [ITEM01443_Ornate_Lantern_of_Durability]]
-- Affected by [[The Anonymous Accord
-- Compare with [QUEST00025_Personal_Quest_26]]
+- Affected by [[QUEST00025_Personal_Quest_26]]
 - Influences [[Home - DV (1-DM Toolkit)
 - Compare with [Portrait NPC Captain Garrett Stormcutter Captain Garrett Stormcutter.svg]]
 - Influences [[step_050 (phase_010)
 - Originates from [step_036 (phase_089)]]
-- See also: [[Magic Users 2
-- See also: [Customs Chief Marina Depthwatch]]
+- See also: [[Customs Chief Marina Depthwatch]]
 - Compare with
 - Connects to [[step_005 (phase_021)
 - Requires [ITEM00850_Infernal_Mirror_of_Eternity]]
 - Originates from
 - Leads to [[forgotten-realms-milil (deities)
 - Originates from [LOC0079_PortPeak]]
-- Originates from [[Theological Education
-- Related: [SPELL00038_Arcane_Spell_39]]
+- Originates from [[SPELL00038_Arcane_Spell_39]]
 - Compare with [[LOC00004_Towns_Location_5
 - Influences [Royal Bloodline Powers 2]]
 - Originates from
-- Leads to [[Treasure_System - Pressure_Artifacts (D&D_References)
-- Parallels [Seven Pillars of Redirection Theory]]
+- Leads to [[Treasure_System - Pressure_Artifacts (D&D_References)]]
 - Connects to [[bronze-dragon-scale-mail-xdmg (items)
 - Originates from [Black Market Crystal Trade]]
 - Related: [[Portrait NPC Lord Magnus Goldspire V2 Lord Magnus Goldspire.svg
 - Parallels [sunburst-xphb (spells)]]
-- Connects to [[Fire Crystals (D&D_References)
-- Influences [Drill Commander Titanius Ironcrystal (D&D_References)]]
+- Connects to [[Drill Commander Titanius Ironcrystal (D&D_References)]]
 - Related: [[step_068 (phase_079)
 - Connects to [The Equipment Vaults]]
-- Connects to [[Harbor Master Nautilus Tideguard 2
-- Influences [Goldwave Ficial Offices]]
+- Connects to [[Harbor Master Nautilus Tideguard 2]]
 - See also: [[step_072 (phase_005)
 - Influences [LORE00236_Legends_Entry_237]]
 - See also: [[step_077 (phase_074)
 - See also: [Assets Locations Location City Pearlshell Pearlshell.svg]]
 - Parallels [[Eldritch Mind Xphb
 - Originates from [The Crimson Sanctuaries]]
-- Compare with [[The Weather Wardens Council
-- Parallels [Fire Crystals]]
+- Compare with [[The Weather Wardens Council]]
 - Compare with [[ITEM01150_Distilled_Potion_of_Clarity
 - Leads to [Assets Item Artifact Whelm Xdmg Whelm Xdmg.png]]
 - Affected by [[boots-of-striding-and-springing-xdmg (items)

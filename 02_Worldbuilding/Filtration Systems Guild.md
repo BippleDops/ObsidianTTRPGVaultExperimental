@@ -65,5 +65,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Underwater Breathing
-- [Underwater Breathing (D&D_References)]]
+- [[Underwater Breathing (D&D_References)]]

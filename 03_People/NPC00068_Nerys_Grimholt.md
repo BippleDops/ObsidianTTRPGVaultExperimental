@@ -167,8 +167,7 @@ Requires champions for trial by combat
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -185,18 +184,15 @@ Requires champions for trial by combat
 - Influences [The Unity Crystal]]
 - Connects to [[step_046 (phase_052)
 - Parallels [step_062 (phase_038)]]
-- Connects to [[Pressure Brewing Technology 2
-- Connects to [step_089 (phase_044)]]
+- Connects to [[Pressure Brewing Technology 2]]
 - See also: [[step_063 (phase_015)
 - Compare with [Assets Locations Location City Marina Clearwater Marina Clearwater.svg]]
-- See also: [[Project Double Laboratory (D&D_References)
-- Connects to [Parliamentary Infiltration List]]
+- See also: [[Project Double Laboratory (D&D_References)]]
 - Parallels [[QUEST00249_Personal_Quest_250
 - Originates from [power-word-kill-xphb (spells)]]
 - Connects to [[The Memory Thief 2
 - Related: [The Phantom Current]]
-- See also: [[FAC00066_Orders_67
-- Connects to [Shadow-Touched Individuals (D&D_References)]]
+- See also: [[Shadow-Touched Individuals (D&D_References)]]
 - Compare with [[treasure-hoard-challenge-17
 - See also: [Handout Handout Aged Treasure Map Aged Treasure Map.png]]
 - Influences [[step_072 (phase_006)
@@ -204,14 +200,10 @@ Requires champions for trial by combat
 - Leads to [[Chief Philosopher Marina Clearpool
 - Connects to
 - Originates from [step_012 (phase_019)]]
-- Influences [[Ecosystem Simulation Engine
-- See also: [step_095 (phase_100)]]
-- Connects to [[LOC0043_Gatehollow
-- Originates from [ENC00420_Combat_Encounter_421]]
-- Leads to [[step_069 (phase_025)
-- Requires [21-appendix-d-demon-lords (out-of-the-abyss)]]
-- Parallels [[The Crimson Hand 3 (D&D_References)
-- Affected by [step_029 (phase_083)]]
+- Influences [[Ecosystem Simulation Engine]]
+- Connects to [[ENC00420_Combat_Encounter_421]]
+- Leads to [[21-appendix-d-demon-lords (out-of-the-abyss)]]
+- Parallels [[The Crimson Hand 3 (D&D_References)]]
 - Influences [[Assets Locations Location City Echo Truthseer Echo Truthseer.svg
 - Influences [Assets Locations Location City Royal Vault Royal Vault.svg]]
 - Requires [[Root-Speaker Vera Deepbark
@@ -228,8 +220,7 @@ Requires champions for trial by combat
 - Influences [Location City Quill Precisequote Quill Precisequote.svg]]
 - Connects to [[Location City Grief Harvester Melancholy Grief Harvester Melancholy.svg
 - Influences [armor-of-shadows-xphb (optional-features)]]
-- Requires [[NPC00704_Elric_Winterborn_the_Wise
-- Influences [light-crossbow-xphb (items)]]
+- Requires [[NPC00704_Elric_Winterborn_the_Wise]]
 - Requires [[ITEM00762_Ancient_Ring_of_Destiny
 - Parallels [Assets Locations Location City Maze Heart Crystal V1 Maze Heart Crystal.svg]]
 - Related: [[barbarian-xphb-path-of-the-storm-herald-xge (classes)
@@ -253,8 +244,7 @@ Requires champions for trial by combat
 - Related: [QUEST00442_Side_Quest_443]]
 - See also: [[step_012 (phase_092)
 - Related: [Void Realm Treaties]]
-- See also: [[Crisis Management (D&D_References)
-- Requires [prestidigitation-xphb (spells)]]
+- See also: [[Crisis Management (D&D_References)]]
 - Related: [[step_009 (phase_095)
 - Parallels [human-names-greek-male-xge (tables)]]
 - Connects to [[SPELL00014_Divine_Spell_15
@@ -266,14 +256,12 @@ Requires champions for trial by combat
 - Compare with [Market Mystery 2]]
 - Compare with [[step_082 (phase_015)
 - Affected by [step_023 (phase_006)]]
-- See also: [[FAC00096_Cults_97
-- Related: [QUEST00355_Side_Quest_356]]
+- See also: [[QUEST00355_Side_Quest_356]]
 - Compare with [[LORE00079_History_Entry_80
 - Compare with [ITEM00833_Void-touched_Tome_of_Destiny]]
 - Affected by [[Royal Regalia 2
 - See also: [ITEM01109_Superior_Crystal_of_Clarity]]
-- Affected by [[The Phantom Current (D&D_References)
-- Related: [Crisis Communication Array]]
+- Affected by [[The Phantom Current (D&D_References)]]
 - Connects to [[Guild of Cross Realm Navigators
 - See also: [Identity_Crisis_Resolution.png]]
 - Compare with [[step_051 (phase_040)

@@ -189,34 +189,24 @@ Caravan needs guards
 - See also: [potion-of-hill-giant-strength-xdmg (items)]]
 - Leads to [[EVENT00011_Political_Event_12
 - Influences [step_064 (phase_093)]]
-- See also: [[ENC00083_Environmental_Encounter_84
-- Requires [The Purification Temples]]
-- See also: [[Master Chef Umami Deepfeast
-- Leads to [NPC01499_Pyria_Darkwater_the_Lost]]
+- See also: [[ENC00083_Environmental_Encounter_84]]
+- See also: [[NPC01499_Pyria_Darkwater_the_Lost]]
 - Parallels [[step_042 (phase_007)
 - Connects to [step_061 (phase_020)]]
-- Affected by [[SPELL00123_Nature_Spell_124
-- Leads to [The Resoce Prophet]]
+- Affected by [[SPELL00123_Nature_Spell_124]]
 - Requires [[Location City Maestro Finn Whirlstep V1 Maestro Finn Whirlstep.svg
 - Leads to [Assets Locations Location City the Threshold Chambers V1 the Threshold Chambers.svg]]
-- Related: [[step_059 (phase_035)
-- Originates from [Parliamentary Procedures and Loopholes]]
+- Related: [[Parliamentary Procedures and Loopholes]]
 - Related:
-- Connects to [[The Crystal-Touched Teacher, Miss Luminara
-- Leads to
-- Related: [Captain Hadal Voidwright]]
-- Influences [[Oceanic Historical Society 2
-- Affected by [The Great Circuit 2]]
+- Connects to [[The Crystal-Touched Teacher, Miss Luminara]]
+- Influences [[Oceanic Historical Society 2]]
 - Requires [[Elven Labelas Enoreth Mtf
 - Related: [data]]
-- Parallels [[QUEST00178_Main_Quest_179
-- Affected by [The Growth Gardens (D&D_References)]]
-- Compare with [[Reality Anchor Network (D&D_References)
-- Originates from [Nonhuman Bahamut]]
+- Parallels [[The Growth Gardens (D&D_References)]]
+- Compare with [[Reality Anchor Network (D&D_References)]]
 - Influences [[Assets Locations Location City Noble Palatemaster V1 Noble Palatemaster.png
 - Parallels [awakened-zurkhwood-oota (plant)]]
-- Influences [[Jenkin Fastwind
-- Parallels [The Convergence Points]]
+- Influences [[The Convergence Points]]
 - Requires [[#Star_System_Details
 - Parallels [Portrait NPC Working Class Citizens V1 Working Class Citizens.svg]]
 - Parallels [[portrait-npc-shadow-brokers-shadow-brokers.svg_1 (Portraits)
@@ -240,18 +230,15 @@ Caravan needs guards
 - Influences [quaals-feather-token-anchor-xdmg (items)]]
 - See also: [[INV-002.png
 - Originates from [The Deep Prophecies (Lore)]]
-- Compare with [[difficult-terrain-xphb (variant-rules)
-- Influences [Clone Xphb]]
+- Compare with [[difficult-terrain-xphb (variant-rules)]]
 - See also: [[Prominent Merchant
 - Related: [step_028 (phase_083)]]
 - See also: [[NPC00214_Solas_Moonshadow
 - Parallels [SHOP00000_Magical_Shop_1]]
-- See also: [[downtime-activity-buying-a-magic-item-xge (variant-rules)
-- Leads to [Sword of Kas Xdmg]]
+- See also: [[downtime-activity-buying-a-magic-item-xge (variant-rules)]]
 - Leads to [[Meta Bind Examples
 - Influences [step_014 (phase_053)]]
-- Requires [[NPC00820_Thalia_Nightfall_the_Risen
-- Related: [Chime of Opening Xdmg]]
+- Requires [[NPC00820_Thalia_Nightfall_the_Risen]]
 - Requires [[step_041 (phase_090)
 - Parallels [Assets Locations Location City Protocol Expert Formal Protocol Expert Formal.svg]]
 - Parallels
@@ -261,8 +248,7 @@ Caravan needs guards
 - Related: [step_065 (phase_045)]]
 - Compare with [[step_059 (phase_015)
 - Leads to [Layers of Mount Celestia Xdmg]]
-- Originates from [[Courier Pelagic
-- Compare with [Captain Finn Crosscurrent (D&D_References)]]
+- Originates from [[Captain Finn Crosscurrent (D&D_References)]]
 - Leads to [[wererat-xmm (monstrosity)
 - Originates from [step_050 (phase_063)]]
 - Affected by [[step_015 (phase_041)

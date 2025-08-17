@@ -167,8 +167,7 @@ Family member has gone missing
 - Connects to [ITEM0143_Hidden_Shield_of_Shadows]]
 - Leads to [[The Phantom Lighthouse
 - Parallels [ITEM00363_Venomous_Sword_of_Accuracy]]
-- Requires [[Seven Shards Quick Reference
-- Connects to [Drow Zinzerena Mtf]]
+- Requires [[Seven Shards Quick Reference]]
 - Parallels [[Kraken Territories 2
 - Affected by [Assets Locations Location City the First Truth the First Truth.svg]]
 - Requires [[Portrait NPC Sunken Kingdom of Nereon V1 Sunken Kingdom of Nereon.svg
@@ -180,10 +179,8 @@ Family member has gone missing
 - Parallels
 - Connects to [[Gold Dragon Wyrmling Xmm
 - Affected by [LOC00100_Dungeons_Location_101]]
-- Related: [[Deep Lord Pelagios the Eternal (D&D_References)
-- See also: [Pressure Crystals]]
-- Originates from [[ENC00190_Social_Encounter_191
-- See also: [Safe House Network 3 (D&D_References)]]
+- Related: [[Deep Lord Pelagios the Eternal (D&D_References)]]
+- Originates from [[Safe House Network 3 (D&D_References)]]
 - Related: [[Assets Locations Location City Temple of Echoing Tides Temple of Echoing Tides.svg
 - Compare with [Merchant Honor Goldweaver]]
 - Leads to [[The Deepmost Current
@@ -195,15 +192,13 @@ Family member has gone missing
 - Requires [[Location City the Perfect Symbiosis the Perfect Symbiosis.svg
 - Compare with
 - Connects to [Location City Deep Mother Spawning Pools V1 Deep Mother Spawning Pools.svg]]
-- Requires [[LOC00205_Dungeons_Location_206
-- Parallels [holy-symbol-xphb (items)]]
+- Requires [[LOC00205_Dungeons_Location_206]]
 - Leads to [[Psychic Shields 2
 - Connects to [Royal Ports]]
 - Parallels
 - See also: [[Portrait NPC Archbishop Mordecai Stormwright V2 Archbishop Mordecai Stormwright.svg
 - Requires [step_047 (phase_077)]]
-- Originates from [[Senator Abyssos Traditionkeeper (D&D_References)
-- Leads to [ENC00197_Environmental_Encounter_198]]
+- Originates from [[Senator Abyssos Traditionkeeper (D&D_References)]]
 - Related: [[Whisper Exposure (D&D_References)
 - Requires [Shadow Chancellor (D&D_References)]]
 - Originates from [[Passive Perception Xphb
@@ -211,8 +206,7 @@ Family member has gone missing
 - Compare with [[step_051 (phase_036)
 - Compare with [step_025 (phase_063)]]
 - Parallels
-- Influences [[LOC00184_Wilderness_Location_185
-- Requires [Truth-seeker's Lens]]
+- Influences [[LOC00184_Wilderness_Location_185]]
 - Compare with [[Wretched Sorrowsworn Mpmm
 - Related: [Location City Political Leader Reef Crown V1 Political Leader Reef Crown.png]]
 - Connects to [[ITEM00133_Frost_Dagger_of_Speed
@@ -225,14 +219,11 @@ Family member has gone missing
 - Connects to [Location City Merchant Viktor Geargrind Merchant Viktor Geargrind.svg]]
 - Influences [[step_054 (phase_015)
 - See also: [Drow High Magic Xge]]
-- Compare with [[The Cold Houses (D&D_References)
-- Parallels [The Verdant Accord (D&D_References)]]
+- Compare with [[The Verdant Accord (D&D_References)]]
 - Compare with [[Maurezhi Mpmm
 - Parallels [Assets Handouts Handout Handout Love Letter with Hidden Message V3 Love Letter with Hidden Message.png]]
-- Requires [[Keeper of Crowns Lydia Starfall (D&D_References)
-- Connects to [The Tethyan Hegemony (Lore)]]
-- Leads to [[step_073 (phase_007)
-- Leads to [Architect Temporal Wisdom (D&D_References)]]
+- Requires [[Keeper of Crowns Lydia Starfall (D&D_References)]]
+- Leads to [[Architect Temporal Wisdom (D&D_References)]]
 - See also: [[invisible-stalker-xmm (elemental)
 - Affected by [Wizard Xphb School of Transmutation]]
 - Connects to [[ITEM00234_Cursed_Axe_of_Wounding
@@ -247,21 +238,17 @@ Family member has gone missing
 - Connects to [Quest - The Throne Succession_1 (01_Adventures)]]
 - Originates from [[Assets Locations Location City Memory Parasite Infection Memory Parasite Infection.svg
 - See also: [Assets Locations Location City Current Navigation Techniques V1 Current Navigation Techniques.svg]]
-- Requires [[The Grand Crystal Exchange 2
-- Affected by [ITEM0085_Forgotten_Crown_of_the_Dawn]]
-- Compare with [[Aethermoor to Aquabyssos Transition Guide 3 (D&D_References)
-- Leads to [QUEST00205_Side_Quest_206]]
+- Requires [[ITEM0085_Forgotten_Crown_of_the_Dawn]]
+- Compare with [[Aethermoor to Aquabyssos Transition Guide 3 (D&D_References)]]
 - Related: [[Tidal Stormcrest 2
 - Requires [Location City Curse of Eternal Winter Curse of Eternal Winter.svg]]
-- Requires [[ITEM0063_Hidden_Circlet_of_Power
-- Influences [New_Journey_Event_Template]]
+- Requires [[ITEM0063_Hidden_Circlet_of_Power]]
 - Connects to [[ability-score-and-modifier-xphb (variant-rules)
 - Affected by
 - Originates from [Arcane Destroyer Tidal Stormcaller]]
 - See also: [[QUEST00039_Main_Quest_40
 - Parallels [Map Map Kelp Forest Labyrinth V1 Kelp Forest Labyrinth.svg]]
-- Originates from [[NPC0108_Cormac_Goldleaf_the_Bold
-- Influences [step_052 (phase_078)]]
+- Originates from [[NPC0108_Cormac_Goldleaf_the_Bold]]
 - Compare with [[Ambush Point (D&D_Statblocks)
 
 ## Visual References

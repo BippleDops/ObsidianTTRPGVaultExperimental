@@ -25,5 +25,8 @@
   "alt_text": "Concept art of animated-object-xphb with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-animated-object-xphb-v1-animated-object-xphb.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-animated-object-xphb-v1-animated-object-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:41.315Z",
+  "generationMethod": "ComfyUI"
 }

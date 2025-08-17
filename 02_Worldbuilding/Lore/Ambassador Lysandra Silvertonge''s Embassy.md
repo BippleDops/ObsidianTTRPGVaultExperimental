@@ -4,8 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: [Ambassador Lysandra Silvertonge]]''s Embassy
+- [[Ambassador Lysandra Silvertonge]]''s Embassy
 type: lore
 updated: 2025-08-14
 ---
@@ -51,5 +50,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Concierge Phillip Gracewater
-- [Concierge Phillip Gracewater (D&D_References)]]
+- [[Concierge Phillip Gracewater (D&D_References)]]

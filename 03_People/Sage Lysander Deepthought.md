@@ -275,8 +275,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [Assets Locations Location City Harbor Master Tideshade Harbor Master Tideshade.svg]]
 - [[Assets Locations Location City Harbor Master Tideshade V1 Harbor Master Tideshade.svg
 - [Assets Portraits Portrait NPC Captain Steelhart Captain Steelhart.svg]]
-- [[The Cerulean Trench
-- [The Infinite Garden]]
-- [[The Void Touched Depths
-- [The Cerulean Trench (D&D_References)]]
+- [[The Infinite Garden]]
+- [[The Cerulean Trench (D&D_References)]]
 - [[The Void Touched Depths (D&D_Statblocks)]]

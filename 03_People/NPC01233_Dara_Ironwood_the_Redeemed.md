@@ -159,8 +159,7 @@ Forming expedition to dangerous location
 
 ## Connections
 
-- See also: [[LOC00192_Dungeons_Location_193
-- Leads to [step_085 (phase_071)]]
+- See also: [[LOC00192_Dungeons_Location_193]]
 - Leads to [[NPC00932_Orion_Grimholt_the_Mystic
 - Related:
 - Connects to [QUEST00208_Side_Quest_209]]
@@ -170,16 +169,13 @@ Forming expedition to dangerous location
 - Compare with [step_024 (phase_034)]]
 - Parallels [[The Progressive Coalition Headquarters (D&D_References)
 - Related: [Assets Locations Location City Scribe Master Elena Truthkeeper Scribe Master Elena Truthkeeper.svg]]
-- Connects to [[NPC01044_Lyanna_Ravenheart_the_Broken
-- Parallels [dawn-war-vecna-dmg (deities)]]
-- Related: [[Crystal-Enhanced Democracy
-- Connects to [Innovative Artisan]]
+- Connects to [[NPC01044_Lyanna_Ravenheart_the_Broken]]
+- Related: [[Crystal-Enhanced Democracy]]
 - Related: [[ITEM00627_Fortified_Cloak_of_Grace
 - Parallels [Express Routes]]
 - See also: [[step_043 (phase_086)
 - Parallels [ITEM01337_Elegant_Spyglass_of_Durability]]
-- Originates from [[step_058 (phase_053)
-- Leads to [The Informant (D&D_References)]]
+- Originates from [[The Informant (D&D_References)]]
 - Affected by
 - Requires [[QUEST00120_Side_Quest_121
 - Parallels [ITEM00589_Enchanted_Shield_of_Protection]]
@@ -203,8 +199,7 @@ Forming expedition to dangerous location
 - Originates from [ENC00003_Combat_Encounter_4]]
 - Compare with [[Related content
 - Requires [Deck of Many Things 13 Cards Xdmg]]
-- Parallels [[step_085 (phase_014)
-- Connects to [ENC00075_Combat_Encounter_76]]
+- Parallels [[ENC00075_Combat_Encounter_76]]
 - Affected by [[LOC0015_LowerBridge
 - Influences
 - Parallels [Government Seal of Authority]]
@@ -213,32 +208,24 @@ Forming expedition to dangerous location
 - Compare with [[Assets Locations Location City High Court V1 High Court.svg
 - Compare with
 - Originates from [SPELL00150_Nature_Spell_151]]
-- Influences [[The Visiting Scholar Complex 2
-- See also: [QUEST00283_Side_Quest_284]]
+- Influences [[The Visiting Scholar Complex 2]]
 - Connects to [[Quest - The Cure for Madness_1 (01_Adventures)
 - Leads to [step_090 (phase_012)]]
 - Compare with [[robe-xphb (items)
 - Connects to [The Collective Codex]]
-- Requires [[Merchants Guild
-- Leads to [NPC01953_Rhiannon_Xendar_the_Redeemed]]
+- Requires [[NPC01953_Rhiannon_Xendar_the_Redeemed]]
 - Affected by [[Symbol Heraldry Treasurer Goldenshadow Treasurer Goldenshadow.svg
 - Requires [step_056 (phase_021)]]
-- Parallels [[ENC00076_Social_Encounter_77
-- Connects to [Depth Current Crisis]]
+- Parallels [[ENC00076_Social_Encounter_77]]
 - Requires [[ability-modifier-attack-roll-abilities-xphb (tables)
 - Originates from [step_024 (phase_050)]]
-- Compare with [[potion-of-frost-giant-strength-xdmg (items)
-- Related: [Deep Conservative Alliance (D&D_References)]]
-- Influences [[sanctum
-- Influences [LOC00036_Dungeons_Location_37]]
-- Parallels [[The Integration Temple (D&D_References)
-- Leads to [EVENT00081_Magical_Event_82]]
+- Compare with [[Deep Conservative Alliance (D&D_References)]]
+- Influences [[LOC00036_Dungeons_Location_37]]
+- Parallels [[The Integration Temple (D&D_References)]]
 - Originates from [[step_064 (phase_071)
 - Originates from [Captain Storm]]
-- See also: [[LOC0141_SouthHill
-- Related: [Withered Court (D&D_References)]]
-- Compare with [[The Drowning Truth (D&D_Statblocks)
-- See also: [Death Hunters Guild (Guilds)]]
+- See also: [[Withered Court (D&D_References)]]
+- Compare with [[The Drowning Truth (D&D_Statblocks)]]
 - Connects to [[spell-scroll-level-1-xdmg (items)
 - Influences [step_089 (phase_021)]]
 - Leads to [[EVENT00091_Political_Event_92
@@ -248,16 +235,13 @@ Forming expedition to dangerous location
 - Affected by [step_037 (phase_089)]]
 - Compare with [[Paladin Xphb Oath of Vengeance Xphb
 - Originates from [step_056 (phase_100)]]
-- See also: [[LOC00016_Dungeons_Location_17
-- Parallels [Harbor Master's Tower 2]]
+- See also: [[LOC00016_Dungeons_Location_17]]
 - Related: [[Boon of the Unfettered
 - Related: [Scroll of Titan Summoning Elemental]]
 - Influences [[step_031 (phase_057)
 - Leads to [ITEM00062_Thunder_Dagger_of_the_Ancients]]
-- Influences [[Void-Touched (D&D_References)
-- Leads to [DASHBOARD_LINK_REPORT]]
-- See also: [[Coming-of-Age Traditions and Ceremonies
-- Connects to [The Community Sky-Platforms]]
+- Influences [[Void-Touched (D&D_References)]]
+- See also: [[Coming-of-Age Traditions and Ceremonies]]
 - Connects to [[step_009 (phase_057)
 
 ## Visual References

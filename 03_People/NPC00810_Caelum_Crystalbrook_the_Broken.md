@@ -156,8 +156,7 @@ Caravan needs guards
 
 ## Connections
 
-- Affected by [[NPC01922_Idris_Stormwind_the_Bold
-- See also: [Deep-Root Caretaker Nereon]]
+- Affected by [[NPC01922_Idris_Stormwind_the_Bold]]
 - Influences [[Portrait NPC Prophet Nerida Voidgazer V2 Prophet Nerida Voidgazer.svg
 - See also: [The First Water]]
 - Influences [[step_005 (phase_023)
@@ -173,8 +172,7 @@ Caravan needs guards
 - Influences [Location City Keeper Brinescale V1 Keeper Brinescale.svg]]
 - Originates from [[ITEM01188_Lesser_Incense_of_Clarity
 - Parallels [Layers of Mount Celestia Xdmg]]
-- See also: [[Pressure Adaptation System
-- Requires [downtime-activity-crime-xge (variant-rules)]]
+- See also: [[downtime-activity-crime-xge (variant-rules)]]
 - Affected by [[step_030 (phase_021)
 - Connects to [LORE00316_Prophecies_Entry_317]]
 - Affected by [[step_018 (phase_036)
@@ -190,8 +188,7 @@ Caravan needs guards
 - Leads to [Location City Maelstrom Palace V1 Maelstrom Palace.svg]]
 - Related: [[step_074 (phase_072)
 - Related: [creature-creature-allip-mpmm-v2-allip-mpmm.png]]
-- Requires [[Master Banker Cornelius Coinwright 2
-- Related: [Complete Reality Merger System#Merger Zone Classifications]]
+- Requires [[Master Banker Cornelius Coinwright 2]]
 - Leads to [[horn-of-valhalla-iron-xdmg (items)
 - Compare with
 - Affected by [Portrait NPC Lady Cordelia Windham V1 Lady Cordelia Windham.svg]]
@@ -200,17 +197,13 @@ Caravan needs guards
 - See also: [Symbol Heraldry the Architects of Depths the Architects of Depths.svg]]
 - Compare with [[Lord_Flux.png
 - See also: [step_038 (phase_075)]]
-- Parallels [[Technology Time Stream Analyzers
-- Affected by [Factions Abyssal Courts]]
+- Parallels [[Technology Time Stream Analyzers]]
 - Parallels [[Chronos Tidekeep
 - Compare with
 - Parallels [Shadow Duchess Nyx_1]]
-- Originates from [[step_015 (phase_084)
-- Parallels [The Shadow Surgeons (D&D_References)]]
-- Influences [[The Silence Generator
-- Requires [storehouse]]
-- Affected by [[step_006 (phase_082)
-- See also: [QUEST0056_Investigate_the_Demons]]
+- Originates from [[The Shadow Surgeons (D&D_References)]]
+- Influences [[The Silence Generator]]
+- Affected by [[QUEST0056_Investigate_the_Demons]]
 - Affected by [[LORE0079_Secret_of_the_Ancient_Pact
 - Affected by
 - Related: [LOC00287_Wilderness_Location_288]]
@@ -221,10 +214,8 @@ Caravan needs guards
 - Compare with [[minotaur-skeleton-xmm (undead)
 - Related:
 - Requires [LORE00221_History_Entry_222]]
-- Originates from [[NPC00549_Orion_Darkwater_the_Guardian
-- Leads to [step_059 (phase_057)]]
-- Influences [[LOC00087_Cities_Location_88
-- Leads to [The Azure Coast]]
+- Originates from [[NPC00549_Orion_Darkwater_the_Guardian]]
+- Influences [[LOC00087_Cities_Location_88]]
 - Requires [[The Deep Mother's Garden
 - Affected by [Assets Locations Location City Artificer S Row Artificer S Row.svg]]
 - Requires [[Quest - Dimensional Crossing
@@ -237,8 +228,7 @@ Caravan needs guards
 - Affected by [Steel Wind Strike Xphb]]
 - Compare with [[chrysoprase-xdmg (items)
 - See also: [Tobias Currentrider]]
-- Parallels [[Mechanics Reference Quick Reference Dnd5e DM Screen 2014
-- Requires [step_072 (phase_017)]]
+- Parallels [[Mechanics Reference Quick Reference Dnd5e DM Screen 2014]]
 - Influences [[Void-Keeper Null
 - Compare with [jeweled-gold-crown-xdmg (items)]]
 - Compare with [[Location City the Shadowmire Tavern the Shadowmire Tavern.svg
@@ -247,15 +237,13 @@ Caravan needs guards
 - Connects to [step_043 (phase_060)]]
 - Leads to [[Rhinoceros Xmm
 - Affected by [12-credits (dungeon-masters-guide-2024)]]
-- Connects to [[NPC00305_Urien_Nightfall_the_Strong
-- Affected by [Resonant_Crystals (Items)]]
+- Connects to [[NPC00305_Urien_Nightfall_the_Strong]]
 - Parallels [[Shadow Crystals 2
 - Parallels [SHOP00005_Specialty_Shop_6]]
 - Related:
 - Affected by [[step_020 (phase_072)
 - Influences [Portrait NPC Sir Theron Crystalward V2 Sir Theron Crystalward.svg_1 (Portraits)]]
-- Requires [[LOC00223_Dungeons_Location_224
-- Leads to [step_057 (phase_082)]]
+- Requires [[LOC00223_Dungeons_Location_224]]
 
 ## Visual References
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png

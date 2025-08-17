@@ -25,5 +25,8 @@
   "alt_text": "Concept art of kuo-toa-archpriest-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-kuo-toa-archpriest-xmm-v2-kuo-toa-archpriest-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-kuo-toa-archpriest-xmm-v2-kuo-toa-archpriest-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:05:32.162Z",
+  "generationMethod": "ComfyUI"
 }

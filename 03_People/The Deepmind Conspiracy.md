@@ -335,5 +335,4 @@ Legends speak of The Deepmind Conspiracy as a nexus where past and present conve
 
 - [[Aurelius Goldwave (Lore)
 - [Assets Symbols Symbol Heraldry Border Territories Border Territories.svg]]
-- [[Deepmind Conspiracy
-- [Aurelius Goldwave (D&D_Statblocks)]]
+- [[Aurelius Goldwave (D&D_Statblocks)]]

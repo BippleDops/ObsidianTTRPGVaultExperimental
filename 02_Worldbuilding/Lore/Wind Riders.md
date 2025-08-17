@@ -101,5 +101,4 @@ Wind Riders represents a crucial aspect of the world's history, cosmology, or fu
 ## References
 
 - [Aethermoor Wind Rider Traditions]]
-- [[Reputation System
-- [Wind Riders Union]]
+- [[Wind Riders Union]]

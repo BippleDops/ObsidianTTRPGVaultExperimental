@@ -161,20 +161,17 @@ Wants rivals investigated
 - Leads to [Location City Education Department V1 Education Department.svg]]
 - Parallels [[step_060 (phase_013)
 - Parallels [FAC00023_Guilds_24]]
-- Influences [[Vehicle Ship Cloud Anchor Freighter V1 Cloud Anchor Freighter.svg
-- Leads to [Portrait NPC Ques... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Influences [[Portrait NPC Ques... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Leads to [[enspelled-weapon-level-8-xdmg (items)
 - Leads to [Underground Training Facilities]]
 - Influences [[SHOP00029_Specialty_Shop_30
 - Influences [Chancellor's Advisory Council]]
 - Leads to [[driftglobe-xdmg (items)
 - Influences [Location City Foreign Intelligence V1 Foreign Intelligence.svg]]
-- Originates from [[Lonely Sorrowsworn Mpmm
-- Connects to [MON00109_Aberrations_Creature_110]]
+- Originates from [[MON00109_Aberrations_Creature_110]]
 - Connects to [[Deep Pearls 2
 - Parallels [Map Map Cloud Dock Boarding Action Cloud Dock Boarding Action.svg]]
-- Parallels [[NPC01000_Zephyr_Keenblade_the_Fallen
-- Leads to [Time 2]]
+- Parallels [[NPC01000_Zephyr_Keenblade_the_Fallen]]
 - See also: [[Assets Locations Location City Judge Tidal Fairweather Judge Tidal Fairweather.svg
 - Connects to [ITEM00407_Fortified_Helm_of_Fortitude]]
 - Originates from [[d100
@@ -206,23 +203,17 @@ Wants rivals investigated
 - Leads to [ITEM01285_Lesser_Oil_of_Healing]]
 - Compare with [[Portrait NPC Vex Shadowthorn the Kingpin Vex Shadowthorn the Kingpin.svg_1 (Portraits)
 - Influences [step_001 (phase_095)]]
-- Leads to [[Portrait NPC Neri... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Related: [International Pressure 2]]
+- Leads to [[Portrait NPC Neri... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Parallels [[ENC00078_Combat_Encounter_79
 - Connects to [Brass Dragon Scale Mail Xdmg]]
 - Related: [[step_020 (phase_088)
 - Related: [Layers of Acheron Xdmg]]
-- Parallels [[step_059 (phase_091)
-- Leads to [SPELL00105_Divine_Spell_106]]
-- See also: [[ENC00170_Social_Encounter_171
-- Requires [step_049 (phase_038)]]
-- Influences [[step_030 (phase_032)
-- Leads to [ENC00474_Combat_Encounter_475]]
+- Parallels [[SPELL00105_Divine_Spell_106]]
+- See also: [[ENC00170_Social_Encounter_171]]
+- Influences [[ENC00474_Combat_Encounter_475]]
 - Connects to
-- Originates from [[Young Merchant Guild
-- Leads to [Deep-Root Caretaker Nereon 2]]
-- Related: [[ENC00087_Environmental_Encounter_88
-- Requires [17 Chapter 17 Against the Demon Lords]]
+- Originates from [[Deep-Root Caretaker Nereon 2]]
+- Related: [[17 Chapter 17 Against the Demon Lords]]
 - Requires [[Echo Gentleguide
 - Influences [Babau Mpmm]]
 - Requires [[Travel_Pace (02_Worldbuilding)
@@ -240,8 +231,7 @@ Wants rivals investigated
 - Originates from [[List Spells School Transmutation
 - Requires [QUEST00140_Side_Quest_141]]
 - Parallels
-- Compare with [[portrait-npc-assassin-assassin.svg
-- Compare with [Faction Relationship Web (D&D_References)]]
+- Compare with [[Faction Relationship Web (D&D_References)]]
 - Leads to [[NPC01330_Drusilla_Ironwood_the_Redeemed
 - See also: [The Deserter's Tale 3 (D&D_References)]]
 - Originates from [[Location City Palace Artificers Palace Artificers.svg

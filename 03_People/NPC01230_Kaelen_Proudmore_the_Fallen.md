@@ -187,21 +187,17 @@ Needs help with personal quest
 - Related: [[Quest1
 - Requires
 - Leads to [step_062 (phase_090)]]
-- Affected by [[Syndicate Enforcers (D&D_References)
-- Parallels [step_020 (phase_088)]]
-- See also: [[step_045 (phase_099)
-- Related: [QUEST00481_Side_Quest_482]]
+- Affected by [[Syndicate Enforcers (D&D_References)]]
+- See also: [[QUEST00481_Side_Quest_482]]
 - Affected by [[azurite-xdmg (items)
 - Affected by [step_064 (phase_023)]]
-- Affected by [[Shadow Convergence 2
-- See also: [Merchant Thane Goldwhisper 2]]
+- Affected by [[Merchant Thane Goldwhisper 2]]
 - Connects to
 - See also: [[ITEM01113_Pure_Incense_of_Healing
 - Connects to [LORE00141_Prophecies_Entry_142]]
 - Leads to [[NPC00084_Dara_Quicksilver
 - Compare with [Quest The Corruption Cure]]
-- Requires [[SPELL00048_Divine_Spell_49
-- See also: [Rope Xphb]]
+- Requires [[SPELL00048_Divine_Spell_49]]
 - Parallels [[LORE00279_Prophecies_Entry_280
 - Parallels [step_033 (phase_084)]]
 - Parallels [[Temporal Physician Healing Moment
@@ -213,17 +209,13 @@ Needs help with personal quest
 - Originates from
 - See also: [[04_Resources_Assets_Symbols_symbol-heraldry-the-carrion-court-the-carrion-court.svg
 - Influences [portrait-npc-mayor-s-manor-v2-mayor-s-manor.svg_1 (Portraits)]]
-- Requires [[Regulatory Medical Authorit 2
-- See also: [step_097 (phase_027)]]
-- Related: [[Reference.md
-- Leads to [LOC00231_Planes_Location_232]]
+- Requires [[Regulatory Medical Authorit 2]]
+- Related: [[LOC00231_Planes_Location_232]]
 - Originates from
-- Influences [[ENC00075_Combat_Encounter_76
-- Leads to [Hill Encounters Levels 1116 Xge]]
+- Influences [[Hill Encounters Levels 1116 Xge]]
 - Compare with [[Fleet_Dynamics_Generator
 - Parallels [Assets Locations Location City Property Markets Property Markets.svg]]
-- Affected by [[Memory Tide Events
-- Compare with [ENC00063_Environmental_Encounter_64]]
+- Affected by [[ENC00063_Environmental_Encounter_64]]
 - Parallels [[QUEST00113_Main_Quest_114
 - Related: [Session 5 - Storm Warnings]]
 - Affected by [[ITEM01103_Lesser_Crystal_of_Vigor
@@ -233,9 +225,7 @@ Needs help with personal quest
 - Related: [Quest - Foreign Interests_1 (01_Adventures)]]
 - Influences [[step_086 (phase_014)
 - Influences [step_089 (phase_063)]]
-- Connects to [[Reality Anchoring (D&D_References)
-- Related:
-- Requires [step_074 (phase_066)]]
+- Connects to [[Reality Anchoring (D&D_References)]]
 - See also: [[04_Resources_Assets_Portraits_portrait-npc-lady-celestine-windborne-lady-celestine-windborne.svg_Quick_Ref
 - Originates from [The Siren's Rest Tavern 2]]
 - Influences [[step_031 (phase_049)
@@ -256,10 +246,8 @@ Needs help with personal quest
 - Affected by [ITEM01148_Superior_Elixir_of_Swiftness]]
 - Originates from [[Portrait NPC Order of the Shattered Crown V1 Order of the Shattered Crown.svg
 - Affected by [ITEM0126_Glorious_Circlet_of_the_Dawn]]
-- Related: [[International Temporal Safety Counci
-- Connects to [The Memory Wars]]
-- Leads to [[step_019 (phase_011)
-- Requires [Regional Coordinator Harbor Watchful]]
+- Related: [[International Temporal Safety Counci]]
+- Leads to [[Regional Coordinator Harbor Watchful]]
 - Parallels [[step_008 (phase_037)
 - Connects to [step_015 (phase_049)]]
 - Parallels [[QUEST00020_Personal_Quest_21

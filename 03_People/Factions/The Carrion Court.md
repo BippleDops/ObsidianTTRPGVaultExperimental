@@ -207,5 +207,4 @@ Things widely suspected
 
 ## References
 
-- [[The Bone Palace of Sorrows
-- [The Bone Palace of Sorrows (D&D_References)]]
+- [[The Bone Palace of Sorrows (D&D_References)]]

@@ -25,5 +25,8 @@
   "alt_text": "Concept art of star-spawn-seer-mpmm with anatomy, scale, and environment.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-star-spawn-seer-mpmm-v3-star-spawn-seer-mpmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-star-spawn-seer-mpmm-v3-star-spawn-seer-mpmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:09:32.600Z",
+  "generationMethod": "ComfyUI"
 }

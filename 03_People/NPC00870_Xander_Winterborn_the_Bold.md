@@ -163,8 +163,7 @@ Seeks rare merchandise
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -178,13 +177,11 @@ Seeks rare merchandise
 
 ## Connections
 
-- Originates from [[FAC00044_Guilds_45
-- Influences [07-chapter-7-escape-from-the-underdark (out-of-the-abyss)]]
+- Originates from [[07-chapter-7-escape-from-the-underdark (out-of-the-abyss)]]
 - Leads to [[04_Resources_Assets_Locations_location-city-harbor-master-tideshade-v1-harbor-master-tideshade.svg
 - Affected by
 - Parallels [MON00092_Constructs_Creature_93]]
-- Affected by [[Hill Encounters Levels 1116 Xge
-- Requires [Ancient King Pelagios]]
+- Affected by [[Hill Encounters Levels 1116 Xge]]
 - Affected by [[List Spells Classes College of Glamour Xphb
 - Leads to [step_055 (phase_036)]]
 - Compare with [[Location City Institute for Reality Studies Researchers Institute for Reality Studies Researchers.svg
@@ -197,8 +194,7 @@ Seeks rare merchandise
 - Influences [step_024 (phase_066)]]
 - Leads to [[08_Archive
 - Compare with [norse-sif (deities)]]
-- Influences [[Crystal Futures Contracts (D&D_References)
-- Affected by [white-dragon-xmm (legendary-group)]]
+- Influences [[Crystal Futures Contracts (D&D_References)]]
 - See also: [[QUEST00041_Main_Quest_42
 - Connects to [Portrait NPC Madame Crystal Eye V1 Madame Crystal Eye.svg]]
 - Leads to [[step_022 (phase_078)
@@ -224,27 +220,22 @@ Seeks rare merchandise
 - Influences [Location City the Free Current V1 the Free Current.svg]]
 - See also: [[Stormwind Supplies
 - Influences [Portal Gateway Keys]]
-- Affected by [[step_081 (phase_040)
-- Related: [ENC00195_Environmental_Encounter_196]]
+- Affected by [[ENC00195_Environmental_Encounter_196]]
 - Requires [[step_100 (phase_007)
 - Connects to [observant-xphb (feats)]]
 - Connects to [[Silverscale Crystal Warehouses (D&D_References)
 - Compare with [roleplaying-a-hag-hag-personality-traits-vgm (tables)]]
-- Connects to [[QUEST0041_Escape_the_Tyrant
-- Related: [step_016 (phase_023)]]
+- Connects to [[QUEST0041_Escape_the_Tyrant]]
 - Related: [[Assets Locations Location City Warehouse District V1 Warehouse District.svg
 - Connects to [Abyssos Prime - Pressure Terminal 2]]
 - Connects to [[Future Glimpse
 - Leads to [poisoned-needle-xdmg (traps-hazards)]]
-- Leads to [[egyptian-isis (deities)
-- Connects to [downtime-activity-performing-sacred-rites (variant-rules)]]
-- See also: [[The Battle Forge Arena (D&D_References)
-- Leads to [QUEST00279_Side_Quest_280]]
+- Leads to [[downtime-activity-performing-sacred-rites (variant-rules)]]
+- See also: [[The Battle Forge Arena (D&D_References)]]
 - Compare with [[Identity Preservation
 - Compare with
 - Affected by [NPC01619_Hilda_Ashford_the_Mystic]]
-- Requires [[LORE0084_Secret_of_the_Dark_Times
-- Compare with [NPC00444_Elric_Oakenshield_the_Scholar]]
+- Requires [[NPC00444_Elric_Oakenshield_the_Scholar]]
 - Leads to [[QUEST00137_Side_Quest_138
 - Affected by [Resonance Equipment]]
 - Requires [[step_062 (phase_062)
@@ -260,14 +251,12 @@ Seeks rare merchandise
 - Connects to [step_096 (phase_066)]]
 - Parallels [[Multi-Dimensional Perception
 - Related: [Portrait NPC Warrior Priest Abyss Sworn V2 Warrior Priest Abyss Sworn.svg_1 (Portraits)]]
-- Originates from [[step_017 (phase_098)
-- Originates from [Medical Cover Operations Center (D&D_References)]]
+- Originates from [[Medical Cover Operations Center (D&D_References)]]
 - Parallels [[Grief Harvester Melancholy 2
 - Parallels [Portrait NPC Lord General Harrison Ironhold V2 Lord General Harrison Ironhold.svg]]
 - Requires [[Assets Locations Location City Nautilus Threadmender Nautilus Threadmender.svg
 - Connects to [step_057 (phase_085)]]
-- See also: [[MON00027_Constructs_Creature_28
-- Affected by [step_045 (phase_046)]]
+- See also: [[MON00027_Constructs_Creature_28]]
 - Connects to [[step_027 (phase_074)
 - See also: [step_088 (phase_093)]]
 - Affected by [[Celtic Brigantia

@@ -158,10 +158,8 @@ Is secretly testing the party
 
 - Compare with [[LOC00294_Towns_Location_295
 - See also: [QUEST00063_Personal_Quest_64]]
-- Related: [[LOC00081_Towns_Location_82
-- Leads to [step_093 (phase_078)]]
-- Requires [[08-chapter-8-bastions (dungeon-masters-guide-2024)
-- Connects to [LOC0148_Fallshollow]]
+- Related: [[LOC00081_Towns_Location_82]]
+- Requires [[08-chapter-8-bastions (dungeon-masters-guide-2024)]]
 - Affected by [[step_002 (phase_069)
 - Connects to [step_091 (phase_016)]]
 - See also: [[ITEM00387_Thunder_Dagger_of_Power
@@ -180,26 +178,21 @@ Is secretly testing the party
 - Connects to [[Location City Archaeological Society V1 Archaeological Society.svg
 - Originates from
 - Influences [step_044 (phase_027)]]
-- Compare with [[Greyhawk Kord Xdmg
-- Compare with [Quest - Medical Breakthrough]]
+- Compare with [[Quest - Medical Breakthrough]]
 - Originates from [[warhorse-skeleton-xmm (undead)
 - See also: [Assets Locations Location City the Reef Communities the Reef Communities.svg]]
 - Connects to [[The_Cure.png
 - Connects to [The Verdant Accord.md]]
-- Related: [[Diplomatic Event Scenarios (D&D_References)
-- See also: [psychic-gray-ooze-xmm (ooze)]]
+- Related: [[Diplomatic Event Scenarios (D&D_References)]]
 - Leads to [[step_030 (phase_090)
 - Parallels [step_056 (phase_008)]]
 - Parallels [[step_029 (phase_051)
 - Leads to [step_039 (phase_042)]]
-- Compare with [[NPC00546_Wynne_Lightbringer_the_Seeker
-- Leads to [step_015 (phase_051)]]
-- Leads to [[Depth Wardens 2
-- Leads to [QUEST00143_Main_Quest_144]]
+- Compare with [[NPC00546_Wynne_Lightbringer_the_Seeker]]
+- Leads to [[QUEST00143_Main_Quest_144]]
 - Affected by [[Ogre Bolt Launcher Mpmm
 - Influences [Void Touched Cult]]
-- Requires [[Quest - The Blackmail Papers
-- Compare with [step_089 (phase_085)]]
+- Requires [[Quest - The Blackmail Papers]]
 - Requires [[ENC00186_Combat_Encounter_187
 - Connects to [ENC00028_Combat_Encounter_29]]
 - Originates from [[Ecological Balance Protocols
@@ -216,8 +209,7 @@ Is secretly testing the party
 - Influences
 - Requires [[12_Research_D&D_Statblocks_The_Synthesis_Gardens
 - Compare with [Ox Xdmg]]
-- Affected by [[Memorial Stones 2
-- Related: [QUEST00170_Personal_Quest_171]]
+- Affected by [[QUEST00170_Personal_Quest_171]]
 - Compare with
 - Related: [[Quick_Reference_and_Handouts
 - Affected by
@@ -228,16 +220,13 @@ Is secretly testing the party
 - Connects to [manual-of-bodily-health-xdmg (items)]]
 - Leads to [[Portrait NPC Ice Kingdom Magic Ice Kingdom Magic.svg_1 (Portraits)
 - Affected by [step_095 (phase_054)]]
-- See also: [[step_008 (phase_094)
-- Affected by [Brother Thaddeus the Rememberer]]
+- See also: [[Brother Thaddeus the Rememberer]]
 - See also: [[The Phantom Fence 2
 - Affected by [Crystal Dampening Stones 2]]
-- Originates from [[Captain Torrent Freewater (D&D_References)
-- Parallels [LORE00292_Prophecies_Entry_293]]
+- Originates from [[Captain Torrent Freewater (D&D_References)]]
 - Related: [[LORE00033_Prophecies_Entry_34
 - Compare with [Location City Chef Amara Tastecurrent V1 Chef Amara Tastecurrent.svg]]
-- Affected by [[step_009 (phase_047)
-- Originates from [MON00095_Aberrations_Creature_96]]
+- Affected by [[MON00095_Aberrations_Creature_96]]
 - See also: [[step_082 (phase_037)
 - Compare with [ITEM00570_Dragon_Scale_Cloak_of_Resistance]]
 - Related: [[vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_D_L 03_Deep_Mother_Dream_Tide
@@ -248,10 +237,8 @@ Is secretly testing the party
 - Leads to [[ENC00149_Social_Encounter_150
 - Connects to
 - Connects to [Artifacts Shard of Empathy]]
-- Requires [[item mastery#Topple
-- Connects to [step_018 (phase_025)]]
-- Connects to [[QUEST00118_Side_Quest_119
-- Requires [step_012 (phase_084)]]
+- Requires [[Item Mastery]]
+- Connects to [[QUEST00118_Side_Quest_119]]
 - Parallels [[Memory Loop Gardens
 - Connects to [The Forgotten Isles]]
 - Requires [[The Threshold Chambers

@@ -162,20 +162,17 @@ Blackmails party into service
 
 - Affected by [[Location Name 2
 - Related: [The Suicide Bridges 2]]
-- Parallels [[Multi-Phase Boss Fights (D&D_References)
-- Related: [Reality Breach Locations (D&D_Statblocks)]]
+- Parallels [[Reality Breach Locations (D&D_Statblocks)]]
 - Originates from [[ENC00054_Combat_Encounter_55
 - Influences [NPC00179_Corvus_Winterborn]]
 - Parallels [[Consortium Credit 2
 - Influences [ITEM00976_Distilled_Incense_of_Clarity]]
-- Connects to [[Palace Staff Guild
-- See also: [Resonance Chamber (D&D_References)]]
+- Connects to [[Resonance Chamber (D&D_References)]]
 - Compare with [[Location Network Graph (Indexes)
 - Leads to [Shadow Collective 2]]
 - Connects to [[The Deep Mother 2
 - See also: [Crown of Stars 2]]
-- Originates from [[deck-of-many-things#Rogue
-- Influences [QUEST00184_Main_Quest_185]]
+- Originates from [[deck-of-many-things#Key]]
 - Related: [[ITEM01183_Pure_Incense_of_Fortune
 - Affected by
 - Originates from [LOC00212_Dungeons_Location_213]]
@@ -185,18 +182,13 @@ Blackmails party into service
 - Originates from
 - Related: [[standard-languages-phb (tables)
 - Connects to [wilderness-chase-complications (tables)]]
-- Related: [[Princess Nerida Deepcurrent
-- Affected by [NPC00231_Hilda_Quicksilver_the_Scholar]]
+- Related: [[NPC00231_Hilda_Quicksilver_the_Scholar]]
 - Leads to [[Random Tricks Trick Objects
 - See also: [ITEM01060_Greater_Powder_of_Clarity]]
-- Connects to [[step_019 (phase_078)
-- Parallels [ENC00186_Combat_Encounter_187]]
-- Affected by [[NPC01633_Cedric_Stormwind_the_Seeker
-- Originates from [Artisan Glow-Finger Nerida]]
-- Connects to [[Conjure Elemental Xphb
-- See also: [NPC00744_Lyanna_Thornweave_the_Wanderer]]
-- Compare with [[step_054 (phase_079)
-- See also: [Aquabyssos Academy (Academies)]]
+- Connects to [[ENC00186_Combat_Encounter_187]]
+- Affected by [[NPC01633_Cedric_Stormwind_the_Seeker]]
+- Connects to [[NPC00744_Lyanna_Thornweave_the_Wanderer]]
+- Compare with [[Aquabyssos Academy (Academies)]]
 - Influences [[Dragonlance Majere Phb
 - Leads to [Assets Locations Location City Keeper Brinescale Keeper Brinescale.svg]]
 - Compare with [[Alchemists Supplies Xphb
@@ -205,8 +197,7 @@ Blackmails party into service
 - See also: [step_001 (phase_083)]]
 - Originates from [[The Current Readers 2
 - Requires [step_028 (phase_058)]]
-- Related: [[ENC0079_Random_Encounter_80
-- See also: [Generate Encounter]]
+- Related: [[ENC0079_Random_Encounter_80]]
 - Requires [[step_029 (phase_082)
 - Connects to [Aquabyssos Embassy]]
 - Related: [[physical-characteristics-beholder-iris-shape-vgm
@@ -219,18 +210,15 @@ Blackmails party into service
 - Connects to [Quest The Seventh Song]]
 - Affected by [[Assets Locations Location City Spy Games Spy Games.svg
 - Leads to [step_053 (phase_081)]]
-- Affected by [[Political Alliances (D&D_References)
-- Related: [SPELL00068_Divine_Spell_69]]
+- Affected by [[Political Alliances (D&D_References)]]
 - Influences [[Historical Prophetic Analysis 2
 - Compare with [Diplomatic Intelligence 2]]
-- Affected by [[Travel Pace Phb
-- Related: [Deep Oracle Thessaly (D&D_References)]]
+- Affected by [[Deep Oracle Thessaly (D&D_References)]]
 - Requires [[location-city-law-enforcement-law-enforcement.svg
 - Affected by [step_034 (phase_070)]]
 - Originates from [[step_052 (phase_040)
 - See also: [Assets Locations Location City Pelagic Cup Pelagic Cup.svg]]
-- Originates from [[LOC00216_Planes_Location_217
-- Parallels [The Concordat Seal]]
+- Originates from [[LOC00216_Planes_Location_217]]
 - Originates from
 - Parallels [[step_058 (phase_088)
 - Requires [List Spells Optional Features Sweeping]]
@@ -241,20 +229,15 @@ Blackmails party into service
 - Affected by [[The Crystal Networks
 - Leads to [step_045 (phase_013)]]
 - Affected by
-- Compare with [[Security Quarters 2
-- Requires [ENC00248_Combat_Encounter_249]]
+- Compare with [[ENC00248_Combat_Encounter_249]]
 - Connects to [[Halls of Eternal Memory (Lore)
 - Affected by [Enlarging Basic Facilities Xdmg]]
-- Affected by [[step_100 (phase_099)
-- Related: [LOC00203_Dungeons_Location_204]]
-- See also: [[Lost Sorrowsworn Mpmm
-- Leads to [LOC00087_Wilderness_Location_88]]
+- Affected by [[LOC00203_Dungeons_Location_204]]
+- See also: [[LOC00087_Wilderness_Location_88]]
 - Related: [[Portrait NPC Deep Mother Cultist Profiles Deep Mother Cultist Profiles.svg
 - Parallels [sphinx-of-valor-xmm]]
-- Leads to [[ENC00192_Environmental_Encounter_193
-- Compare with [step_062 (phase_089)]]
-- See also: [[LOC00206_Wilderness_Location_207
-- Requires [step_067 (phase_033)]]
+- Leads to [[ENC00192_Environmental_Encounter_193]]
+- See also: [[LOC00206_Wilderness_Location_207]]
 - Influences [[step_007 (phase_075)
 - Related: [QUEST00028_Main_Quest_29]]
 - Leads to [[Portrait NPC Archdruid Thornweaver Archdruid Thornweaver.svg_1 (Portraits)

@@ -164,16 +164,13 @@ Knows secret about major threat
 - See also: [step_065 (phase_049)]]
 - Parallels [[diplomats-pack-xphb (items)
 - Related: [LORE00225_Legends_Entry_226]]
-- Requires [[Insurance Industry 2
-- Leads to [ENC00135_Environmental_Encounter_136]]
+- Requires [[ENC00135_Environmental_Encounter_136]]
 - Related: [[The Singing Trenches
 - Requires [QUEST00045_Main_Quest_46]]
-- Parallels [[Bucket Xphb
-- Parallels [Pressure Suit of the Depths 2]]
+- Parallels [[Pressure Suit of the Depths 2]]
 - Related: [[Elven Labelas Enoreth Mtf
 - Leads to [The Silver Tower of Commerce]]
-- Leads to [[MON00009_Aberrations_Creature_10
-- Parallels [brontosaurus-mpmm (beast)]]
+- Leads to [[MON00009_Aberrations_Creature_10]]
 - Influences [[Symbol Heraldry Faction Intelligence Faction Intelligence.svg
 - Compare with [step_003 (phase_082)]]
 - Affected by [[Portrait NPC Captain Thalia Stormguard Captain Thalia Stormguard.svg
@@ -186,14 +183,12 @@ Knows secret about major threat
 - Related: [[Encrypted Orders
 - Requires [step_046 (phase_093)]]
 - Affected by
-- Related: [[Spell Gem Amber Oota
-- Affected by [The Memory Vaults (D&D_References)]]
+- Related: [[The Memory Vaults (D&D_References)]]
 - Leads to [[The Memory Mirror
 - Originates from [step_026 (phase_091)]]
 - See also: [[step_072 (phase_084)
 - Originates from [Assets Locations Location City Harbor Master S Tower V1 Harbor Master S Tower.png]]
-- Originates from [[Stormwind Estate 2
-- Parallels [City_District_Map_Port_Meridian_Harbo]]
+- Originates from [[City_District_Map_Port_Meridian_Harbo]]
 - Related: [[NPC01969_Cedric_Ironforge_the_Lost
 - Leads to [Assets Locations Location City Stormwind Supplies V1 Stormwind Supplies.png]]
 - Related: [[Eastern Flanaess Locations Xdmg
@@ -202,20 +197,17 @@ Knows secret about major threat
 - Related: [investiture-of-stone-xge (spells)]]
 - See also: [[selling-a-magic-item-magic-item-offer-xge (tables)
 - Connects to [The Broken Tower (D&D_References)]]
-- Connects to [[LOC00179_Wilderness_Location_180
-- Affected by [Investment Risk Assessment]]
+- Connects to [[LOC00179_Wilderness_Location_180]]
 - Affected by [[step_062 (phase_042)
 - Connects to [treasure-hoard-challenge-17 2]]
 - Originates from [[Quest - The Harbor War_1 (01_Adventures)
 - Parallels [High Judge Moira Truthseeke 2]]
 - Parallels [[Session 12 the Infinity Engine
 - See also: [blob-of-annihilation-xmm (ooze)]]
-- Parallels [[Trade Captain Marina Pathkeeper 2
-- Leads to [step_062 (phase_024)]]
+- Parallels [[Trade Captain Marina Pathkeeper 2]]
 - Compare with [[step_098 (phase_035)
 - Affected by [ITEM00583_Adamantine_Leather_of_Protection]]
-- Parallels [[Waterskin Xphb
-- Related: [djinni-xmm (elemental)]]
+- Parallels [[djinni-xmm (elemental)]]
 - Originates from [[tools-phb (tables)
 - See also: [belt-of-frost-giant-strength-xdmg (items)]]
 - Related: [[step_049 (phase_009)
@@ -246,20 +238,17 @@ Knows secret about major threat
 - Originates from
 - Compare with [[entertainer-gladiator-variant (backgrounds)
 - Related: [LOC00027_Wilderness_Location_28]]
-- Affected by [[Astrologer Prime Cassandra Starweaver 2
-- Influences [LORE00189_Prophecies_Entry_190]]
+- Affected by [[Astrologer Prime Cassandra Starweaver 2]]
 - Originates from [[LORE00013_History_Entry_14
 - Related: [ITEM01491_Elegant_Compass_of_Quality]]
 - Influences [[step_008 (phase_051)
 - See also:
 - Requires [step_014 (phase_092)]]
-- Originates from [[Deep-Sea Agricultural Research Institut
-- Requires [Skill Xphb]]
-- Requires [[beast-bond-xge (spells)
-- Related: [ENC00390_Combat_Encounter_391]]
+- Originates from [[Deep-Sea Agricultural Research Institut]]
+- Requires [[ENC00390_Combat_Encounter_391]]
 - Originates from [[The Grand Crystal Exchange
 - Affected by [potion-of-healing-xdmg (items)]]
-- Affected by [[step_043 (phase_039)]]
+- Affected by
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

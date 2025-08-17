@@ -173,8 +173,7 @@ Seeks bodyguards for dangerous journey
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -192,8 +191,7 @@ Seeks bodyguards for dangerous journey
 
 - Influences [[ENC00467_Combat_Encounter_468
 - Leads to [crusaders-mantle-xphb (spells)]]
-- Connects to [[Kelp Forests 2
-- Parallels [Pressure-Responsive Fabrics]]
+- Connects to [[Pressure-Responsive Fabrics]]
 - Influences [[globe-of-invulnerability-xphb (spells)
 - Leads to [QUEST00152_Personal_Quest_153]]
 - See also: [[House Stormwin 2
@@ -223,14 +221,12 @@ Seeks bodyguards for dangerous journey
 - Connects to [step_005 (phase_028)]]
 - Affected by [[LOC00163_Dungeons_Location_164
 - Affected by [The Shadowwatch Bastion 2]]
-- See also: [[Duke Sterling Truecrystal
-- Influences [Misty Step Xphb]]
+- See also: [[Duke Sterling Truecrystal]]
 - Related: [[Key Locations
 - Requires [oil-xphb (items)]]
 - Affected by [[LORE00055_History_Entry_56
 - Parallels [Pain-Artist Cruelty Refined 2]]
-- Connects to [[step_088 (phase_033)
-- Parallels [The Surgical Sanctum (D&D_References)]]
+- Connects to [[The Surgical Sanctum (D&D_References)]]
 - Connects to [[Assets Locations Location City Sea Horse Sea Horse.svg
 - Parallels [Egyptian Thoth]]
 - Related: [[ITEM00348_Blessed_Axe_of_Power
@@ -239,19 +235,15 @@ Seeks bodyguards for dangerous journey
 - Connects to [Security Chief Marcus Depthguard]]
 - Originates from [[Merged Magic 2
 - Requires [The Identity Mirror]]
-- Originates from [[The Leviathan Prophets (D&D_References)
-- Related: [marid-xmm (elemental)]]
+- Originates from [[The Leviathan Prophets (D&D_References)]]
 - Requires [[step_056 (phase_055)
 - See also: [Dimensional Researchers]]
-- Leads to [[ENC00423_Combat_Encounter_424
-- Requires [Memorial Mason Kane]]
-- Leads to [[step_057 (phase_005)
-- Leads to [SPELL00153_Arcane_Spell_154]]
+- Leads to [[ENC00423_Combat_Encounter_424]]
+- Leads to [[SPELL00153_Arcane_Spell_154]]
 - See also: [[Potion of Animal Friendship Xdmg
 - Influences
 - Affected by [LORE00147_History_Entry_148]]
-- Influences [[NPC00136_Elric_Ashford_the_Seeker
-- Influences [babau-mpmm (fiend)]]
+- Influences [[NPC00136_Elric_Ashford_the_Seeker]]
 - Requires [[chamber-purpose-dungeon-stronghold (tables)
 - See also: [Cleric_Journal]]
 - Affected by [[ceremony-xge (spells)
@@ -260,8 +252,7 @@ Seeks bodyguards for dangerous journey
 - Compare with [step_069 (phase_027)]]
 - Affected by [[Portrait NPC Prince Caspian Duskwater V2 Prince Caspian Duskwater.svg
 - Compare with [Portrait NPC the Bloodline Carrier V2 the Bloodline Carrier.svg_1 (Portraits)]]
-- Leads to [[Harbor Pilot Captain Storm Skyreacher
-- Originates from [step_061 (phase_079)]]
+- Leads to [[Harbor Pilot Captain Storm Skyreacher]]
 - Affected by [[location-city-market-district-market-district.svg
 - Requires [Bottle of Boundless Coffee Scc]]
 - Connects to [[Portrait NPC Emperor Thalassius Emperor Thalassius.svg

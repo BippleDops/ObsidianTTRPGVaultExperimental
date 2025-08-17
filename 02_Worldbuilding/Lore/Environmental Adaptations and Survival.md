@@ -4,23 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: Environmental Adaptations and Survival
-type: lore
-updated: 2025-08-14
----
-
-# Environmental Adaptations and Survival
-
-## Overview
-This document contains important information regarding Environmental Adaptations and Survival and its role within the greater narrative.
-
-## Description
-Environmental Adaptations and Survival represents a significant element within the campaign world, offering various opportunities for engagement and development.
-
-## Key Information
-- **Primary Purpose**: Serves specific function within the world
-- **Connections**: [Link]]ed to multiple other elements
+- [[Environmental Adaptations and Survival]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details

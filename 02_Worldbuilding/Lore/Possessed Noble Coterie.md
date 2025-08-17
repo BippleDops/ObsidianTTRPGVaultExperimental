@@ -116,12 +116,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Customs House
-- [The Queen]]
-- [[Throne Room
-- [Customs House (D&D_References)]]
-- [[Customs House 3 (D&D_References)
-- [The Queen (D&D_References)]]
-- [[The Queen 3 (D&D_References)
-- [Throne Room (D&D_References)]]
+- [[Customs House]]
+- [[Customs House (D&D_References)]]
+- [[Customs House 3 (D&D_References)]]
+- [[The Queen 3 (D&D_References)]]
 - [[Aethermoor - Session 05 The Queens Madness]]

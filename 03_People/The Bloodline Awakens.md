@@ -61,73 +61,7 @@ improvements: 20
 *When Ancient Heritage Stirs to Life*
 
 > *"The blood remembers what the mind forgets. In the depths where pressure crushes hope and darkness devours light, the old powers stir. Children of forgotten lineages suddenly manifest abilities their ancestors wielded in ages past. But power without understanding is a curse that transforms blessing into nightmare."*
-> — Archives of the [[Archivist Mnemonic the Forgotten
-
-## Relationships
-- **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals
-- **Family**: Family connections
-- **Organizations**: Group affiliations
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### History Improvements
-
-- Add three historical eras with major events
-
-### Culture Improvements
-
-- Define unique cultural practices and taboos
-
-### Economy Improvements
-
-- Detail currency, trade goods, and wealth distribution
-
-### Religion Improvements
-
-- Create detailed religious observances
-
-### Lifestyle Improvements
-
-- Describe typical day for different social classes
-
-### Diaspora Improvements
-
-- Describe how this culture exists in other regions
-
-### Superstitions Improvements
-
-- List common superstitions and their origins
-
-### Sensory Improvements
-
-- Add smells, sounds, and textures unique to this culture
-
-### Evolution Improvements
-
-- Show how traditions are changing with new generation
-
-### Oral_Tradition Improvements
-
-- Add folk tales and children's stories
-
-### Hospitality Improvements
-
-- Explain guest rights and host obligations
-
-### Contradictions Improvements
-
-- Include cultural hypocrisies and double standards
-
-### Death_Customs Improvements
-
-- Detail funeral rites and afterlife beliefs
-
-## Overview
-
-The Bloodline Awakening represents one of the most mysterious and dangerous phenomena occurring throughout [Aquabyssos]]. For generations, certain families have carried dormant supernatural abilities in their genetic heritage - legacies from ancient civilizations, divine bloodlines, or cursed ancestry that has slept within their DNA for centuries. Recently, these dormant powers have begun spontaneously manifesting, transforming ordinary citizens into beings of tremendous power and equally tremendous danger.
+> — Archives of the [[Archivist Mnemonic the Forgotten (D&D_Statblocks)]]. For generations, certain families have carried dormant supernatural abilities in their genetic heritage - legacies from ancient civilizations, divine bloodlines, or cursed ancestry that has slept within their DNA for centuries. Recently, these dormant powers have begun spontaneously manifesting, transforming ordinary citizens into beings of tremendous power and equally tremendous danger.
 
 Unlike learned magic or divine blessing, bloodline awakenings are involuntary and often traumatic experiences. The affected individuals, known as "Awakened," find themselves suddenly possessed of supernatural abilities they neither understand nor control. These manifestations range from elemental manipulation and psychic abilities to shapeshifting and divine powers. What makes the phenomenon particularly dangerous is its unpredictability - awakenings can occur at any age, triggered by stress, proximity to magical phenomena, or seemingly random circumstance.
 

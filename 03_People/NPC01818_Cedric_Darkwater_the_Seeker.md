@@ -168,23 +168,17 @@ Is secretly testing the party
 
 ## Connections
 
-- Affected by [[NPC01365_Vesper_Zephyrblade_the_Redeemed
-- Leads to [Border Fortresses]]
+- Affected by [[NPC01365_Vesper_Zephyrblade_the_Redeemed]]
 - Leads to [[SPELL00022_Nature_Spell_23
 - See also: [LOC00221_Towns_Location_222]]
-- Originates from [[MON00067_Constructs_Creature_68
-- Compare with [step_026 (phase_029)]]
-- Originates from [[Geryon Mtf
-- Related: [Princess Nyx Shadowmere]]
+- Originates from [[MON00067_Constructs_Creature_68]]
+- Originates from [[Princess Nyx Shadowmere]]
 - Requires
 - Leads to
-- Related: [[Historical Research
-- Requires [ettercap-xmm (monstrosity)]]
-- Compare with [[SPELL00032_Nature_Spell_33
-- Related: [Norse Forseti]]
+- Related: [[ettercap-xmm (monstrosity)]]
+- Compare with [[SPELL00032_Nature_Spell_33]]
 - Leads to
-- Connects to [[Underground Testing Facility (D&D_References)
-- Originates from [Silver Sword Mtf]]
+- Connects to [[Underground Testing Facility (D&D_References)]]
 - Influences [[treasure-orc-trophies-vgm (tables)
 - Connects to [Merchants Scale]]
 - Connects to [[The Black Archive
@@ -208,8 +202,7 @@ Is secretly testing the party
 - See also: [Scroll of Protection Oozes Xdmg]]
 - Originates from [[Ether Cyclones Ether Cyclone Xdmg
 - Requires [Assets Locations Location City Victoria Harbormane Victoria Harbormane.svg]]
-- Influences [[LOC00069_Cities_Location_70
-- Requires [step_035 (phase_069)]]
+- Influences [[LOC00069_Cities_Location_70]]
 - See also: [[QUEST00209_Personal_Quest_210
 - Related: [War Machine Assembly Halls]]
 - Requires [[Assets Locations Location City Acolyte Sister Tidal Deepfaith Acolyte Sister Tidal Deepfaith.svg
@@ -218,8 +211,7 @@ Is secretly testing the party
 - See also: [[dart-xphb (items)
 - Requires [AUTOMATION_STATUS]]
 - Requires
-- Connects to [[NPC01789_Vesper_Proudmore_the_Mystic
-- Influences [Vex Shadowthorn]]
+- Connects to [[NPC01789_Vesper_Proudmore_the_Mystic]]
 - Affected by [[ITEM00253_Blazing_Axe_of_Slaying
 - Related: [step_010 (phase_073)]]
 - Connects to [[SHOP00052_Magical_Shop_53
@@ -228,8 +220,7 @@ Is secretly testing the party
 - Affected by [step_095 (phase_011)]]
 - Influences
 - Affected by
-- Requires [[LOC0006_Marshton
-- Influences [High Tide Keeper Nautilus Primordial 2]]
+- Requires [[High Tide Keeper Nautilus Primordial 2]]
 - Originates from [[Dawn War Pelor Dmg
 - See also: [armor-of-vulnerability-xdmg (items)]]
 - See also:
@@ -237,12 +228,9 @@ Is secretly testing the party
 - Leads to [Figurine of Wondrous Power Onyx Dog Xdmg]]
 - Leads to [[individual-treasure-challenge-17 (tables)
 - Parallels [LORE00049_Legends_Entry_50]]
-- Originates from [[Madame Pearl Currentflow (D&D_References)
-- Related: [step_027 (phase_099)]]
-- See also: [[Maritime Commerce
-- Originates from [Imperial Museum of Deep History]]
-- See also: [[Shadow Portal Nexus (D&D_References)
-- Related: [step_059 (phase_072)]]
+- Originates from [[Madame Pearl Currentflow (D&D_References)]]
+- See also: [[Imperial Museum of Deep History]]
+- See also: [[Shadow Portal Nexus (D&D_References)]]
 - Related: [[step_065 (phase_064)
 - Related: [Vehicle Ship Sky Cutter Interceptor Sky Cutter Interceptor.svg]]
 - Related: [[Assets Locations Location City Temple Guardian Marcus the Drowned V1 Temple Guardian Marcus the Drowned.svg
@@ -255,10 +243,8 @@ Is secretly testing the party
 - Originates from [The Gilded Shard]]
 - Related: [[ITEM01393_Decorated_Journal_of_Durability
 - Affected by [Goblin Minion Xmm]]
-- Leads to [[step_070 (phase_065)
-- Parallels [SPELL00019_Divine_Spell_20]]
-- Connects to [[High Judge Moira Truthseeke (D&D_References)
-- Leads to [step_040 (phase_071)]]
+- Leads to [[SPELL00019_Divine_Spell_20]]
+- Connects to [[High Judge Moira Truthseeke (D&D_References)]]
 - Connects to [[The Crown of Consciousness
 - Compare with [LOC00065_Wilderness_Location_66]]
 - Compare with [[step_080 (phase_030)

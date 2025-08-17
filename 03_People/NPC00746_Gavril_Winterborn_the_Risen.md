@@ -157,12 +157,10 @@ Witnessed a crime
 - Connects to [EVENT00009_Political_Event_10]]
 - Influences [[Portrait NPC the Pressure Pirates V1 the Pressure Pirates.svg
 - Related: [Korred Mpmm]]
-- Parallels [[The Divine Reconciliation (D&D_References)
-- Related: [Hidden Sanctuary]]
+- Parallels [[The Divine Reconciliation (D&D_References)]]
 - Compare with [[dryad-xmm (fey)
 - Parallels [sentinel-shield-xdmg (items)]]
-- Compare with [[playing-on-a-grid-phb (variant-rules)
-- Influences [Witness Protection Protocol]]
+- Compare with [[playing-on-a-grid-phb (variant-rules)]]
 - Related: [[Location City the Crystal Caverns the Crystal Caverns.svg
 - Requires [step_009 (phase_044)]]
 - Affected by [[Surface Traders
@@ -180,15 +178,13 @@ Witnessed a crime
 - Originates from [step_009 (phase_078)]]
 - Affected by [[Choldrith Mpmm
 - Parallels [Knock Xphb]]
-- Compare with [[ENC00090_Combat_Encounter_91
-- Affected by [FAC00031_Guilds_32]]
+- Compare with [[ENC00090_Combat_Encounter_91]]
 - Related: [[Template-Item
 - Compare with
 - Leads to [Assets Locations Location City Historical Prophetic Analysis Historical Prophetic Analysis.svg]]
 - Connects to [[Harbor Pilot Guild (D&D_References)
 - Related: [ITEM01472_Elegant_Map_Case_of_Convenience]]
-- Requires [[Political Intrigue of Meridian 2
-- Requires [NPC01083_Zephyr_Nightfall_the_Cunning]]
+- Requires [[NPC01083_Zephyr_Nightfall_the_Cunning]]
 - Parallels [[Merchant Xphb
 - Parallels [EVENT00036_Natural_Event_37]]
 - Affected by [[Symbol Heraldry Merchant Princes Merchant Princes.svg
@@ -201,8 +197,7 @@ Witnessed a crime
 - Related: [Gift of the Ever Living Ones Xge]]
 - See also: [[Timeline_Tracker.base
 - Affected by [sorcerous-burst-xphb (spells)]]
-- Originates from [[Prophetic Studies Institute (D&D_References)
-- Affected by [Equipment_Inventory]]
+- Originates from [[Prophetic Studies Institute (D&D_References)]]
 - Originates from [[step_067 (phase_075)
 - Parallels [step_041 (phase_056)]]
 - See also: [[ending-a-chase-escape-factors-xdmg (tables)
@@ -218,15 +213,12 @@ Witnessed a crime
 - Affected by [The Border Marches (D&D_References)]]
 - Originates from [[step_086 (phase_094)
 - Connects to [Emergency Codex]]
-- Requires [[ENC00229_Social_Encounter_230
-- Originates from [The Biomancers]]
+- Requires [[ENC00229_Social_Encounter_230]]
 - Related: [[Director Marina Coralstudent (Lore)
 - Influences [LOC00141_Planes_Location_142]]
 - Connects to
-- Affected by [[step_057 (phase_065)
-- Affected by [MON00059_Constructs_Creature_60]]
-- Originates from [[Session 04 (06_Sessions)
-- Affected by [ENC00022_Environmental_Encounter_23]]
+- Affected by [[MON00059_Constructs_Creature_60]]
+- Originates from [[ENC00022_Environmental_Encounter_23]]
 - Compare with [[Deep Harbor Technology (D&D_References)
 - Requires [Portrait NPC the Bloodline Carrier V1 the Bloodline Carrier.svg_1 (Portraits)]]
 - Influences
@@ -235,8 +227,7 @@ Witnessed a crime
 - Originates from [[step_056 (phase_034)
 - Parallels [Silver Mask (Lore)]]
 - Originates from
-- Leads to [[step_015 (phase_014)
-- Parallels [LOC00157_Planes_Location_158]]
+- Leads to [[LOC00157_Planes_Location_158]]
 - See also: [[step_055 (phase_031)
 - Originates from
 - Related: [Assets Locations Location City Interfaith Councils Interfaith Councils.svg]]

@@ -173,29 +173,24 @@ Provides information for a price
 
 ## Connections
 
-- Influences [[Training Simulators
-- Parallels [Deputy Inspector Pressure-Tide Jonas]]
+- Influences [[Deputy Inspector Pressure-Tide Jonas]]
 - Related: [[ITEM0130_Cursed_Blade_of_Shadows
 - See also: [NPC00778_Hilda_Hawthorne_the_Risen]]
 - See also: [[04_Resources_Assets_Portraits_portrait-npc-captain-sterling-lightshield-captain-sterling-lightshield.svg_Quick_Ref
 - Originates from [The Imperial Bloodlines]]
 - Compare with [[Living Coral Architecture 2
 - Originates from [Quest - Father and Daughter]]
-- See also: [[step_045 (phase_040)
-- Compare with [Purist Coalition Thugs (D&D_References)]]
+- See also: [[Purist Coalition Thugs (D&D_References)]]
 - Leads to [[owlbear-xmm (monstrosity)
 - Related: [D-010_Pirate_Shadow_Net]]
-- Compare with [[LOC00113_Wilderness_Location_114
-- Influences [step_073 (phase_044)]]
+- Compare with [[LOC00113_Wilderness_Location_114]]
 - Leads to [[step_017 (phase_073)
 - Requires
 - Originates from [explosives-xdmg (tables)]]
-- Related: [[NPC01669_Solas_Silverleaf_the_Bold
-- Connects to [Planar Entities]]
+- Related: [[NPC01669_Solas_Silverleaf_the_Bold]]
 - Compare with [[step_094 (phase_057)
 - Leads to [Pact of the Blade Xphb]]
-- Influences [[MON00074_Aberrations_Creature_75
-- Leads to [Eye and Hand of Vecna Xdmg]]
+- Influences [[MON00074_Aberrations_Creature_75]]
 - Leads to [[Timeline_Tracker.base
 - Connects to [step_075 (phase_063)]]
 - Influences [[Tobias Quillwright
@@ -203,39 +198,33 @@ Provides information for a price
 - Connects to [LORE0041_Legend_of_the_Dragon_Wars]]
 - Requires [[ITEM01117_Pure_Powder_of_Vigor
 - Parallels [Roleplaying Gnolls and Cultists of Yeenoghu]]
-- Leads to [[QUEST00031_Main_Quest_32
-- Connects to [Navigator Flux Timewalker (D&D_References)]]
+- Leads to [[Navigator Flux Timewalker (D&D_References)]]
 - Requires [[Mother's Tear
 - Related:
 - Related: [Identity Trader Masquerad 2]]
 - Leads to [[Power Word Pain Xge
 - Compare with [The Paradox Engine]]
-- Affected by [[NPC01573_Aeliana_Zephyrblade_the_Guardian
-- Leads to [step_080 (phase_005)]]
+- Affected by [[NPC01573_Aeliana_Zephyrblade_the_Guardian]]
 - Compare with [[Send_Recap
 - Originates from [Greyhawk Obad Hai Xdmg]]
 - Parallels [[Religious Healing Orders
 - Affected by [Portrait NPC Crystal Wardens V1 Crystal Wardens.svg_1 (Portraits)]]
 - Related:
-- Originates from [[step_004 (phase_015)
-- Related: [NPC00400_Qadim_Brightblade]]
+- Originates from [[NPC00400_Qadim_Brightblade]]
 - Parallels [[Session 12 Character Focused Example
 - See also:
 - Originates from [step_024 (phase_078)]]
 - Influences [[discovery-expansion-invention-discoveries (tables)
 - See also:
 - Leads to [step_043 (phase_072)]]
-- Influences [[Shadow Community Political Power 2
-- Related: [EVENT00055_Political_Event_56]]
+- Influences [[Shadow Community Political Power 2]]
 - Requires [[Hungry Sorrowsworn Mpmm
 - Parallels [step_028 (phase_052)]]
 - Leads to [[item-artifact-mess-kit-v3-mess-kit.png
 - Leads to [Halfling Tables Halfling Ideals Mtf]]
-- Requires [[The Truth Sanctuary
-- Leads to [Captain Trawl Netcaster 2]]
+- Requires [[Captain Trawl Netcaster 2]]
 - Affected by
-- Compare with [[Creature Creature Nightmare Xmm V3 Nightmare Xmm.png
-- Related: [04-creating-adventures (dungeon-masters-guide-2014)]]
+- Compare with [[04-creating-adventures (dungeon-masters-guide-2014)]]
 - Requires
 - Requires [[step_028 (phase_065)
 - Related: [winter-wolf-xmm (monstrosity)]]
@@ -251,8 +240,7 @@ Provides information for a price
 - Originates from [[creature-creature-allip-mpmm-v3-allip-mpmm.png
 - See also:
 - Connects to [rest-variants (variant-rules)]]
-- Compare with [[LORE0080_History_of_the_First_King
-- Affected by [step_086 (phase_056)]]
+- Compare with [[LORE0080_History_of_the_First_King]]
 - Requires [[NPC01317_Kaelen_Youngblood_the_Fallen
 - Influences
 - Originates from [Street Urchin Gang]]
@@ -260,8 +248,7 @@ Provides information for a price
 - Leads to [NPC01328_Brenna_Voidwalker_the_Mystic]]
 - Requires [[step_001 (phase_070)
 - Parallels [Camel Xmm]]
-- Requires [[step_019 (phase_004)
-- Influences [QUEST00131_Personal_Quest_132]]
+- Requires [[QUEST00131_Personal_Quest_132]]
 - Compare with [[Assets Vehicles Vehicle Ship Coral Frame Diver Tender Coral Frame Diver Tender.svg
 - Connects to [Template_Item_Placeholder.png]]
 - Requires [[step_017 (phase_011)
@@ -272,7 +259,7 @@ Provides information for a price
 - Leads to [Adult Kruthik Mpmm]]
 - Influences [[02_Worldbuilding_Factions_The_Crystal_Forge_Guild
 - Affected by [Map Map Kelp Forest Labyrinth V1 Kelp Forest Labyrinth.svg]]
-- Originates from [[step_058 (phase_094)]]
+- Originates from
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

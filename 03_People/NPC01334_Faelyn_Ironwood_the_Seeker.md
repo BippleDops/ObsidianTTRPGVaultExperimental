@@ -166,16 +166,14 @@ Knows secret about major threat
 
 - See also: [[LOC00095_Towns_Location_96
 - Requires [QUEST0039_Captain's_Revenge]]
-- Compare with [[Luminous Sterling
-- Affected by [QUEST00130_Personal_Quest_131]]
+- Compare with [[QUEST00130_Personal_Quest_131]]
 - Compare with [[ITEM00678_Warded_Leather_of_Fortitude
 - Compare with [Assets Locations Location City Silent Guardian Marcus Silent Guardian Marcus.svg]]
 - Parallels [[Symbol Heraldry Lady Venetia Silkwind Lady Venetia Silkwind.svg
 - Originates from [NPC00464_Ewan_Thornweave]]
 - Connects to [[leucrotta-mpmm (monstrosity)
 - See also: [Location City Temple of the Eternal Flame V1 Temple of the Eternal Flame.svg]]
-- Originates from [[Librarian Scholar Reef Documentcurrent 2
-- Requires [Belt of Giant Strength Xdmg]]
+- Originates from [[Librarian Scholar Reef Documentcurrent 2]]
 - Originates from [[daemogoth-titan-scc
 - Originates from [step_070 (phase_059)]]
 - Influences [[gith-tables-githzerai-ideals-mtf (tables)
@@ -185,43 +183,35 @@ Knows secret about major threat
 - Affected by
 - Parallels [[Crystal Sentinels (D&D_References)
 - Connects to [ITEM01210_Refined_Salve_of_Vigor]]
-- Influences [[The Purification Protocols
-- Connects to [Crystal Caverns]]
+- Influences [[The Purification Protocols]]
 - Requires [[EVENT00008_Natural_Event_9
 - Originates from [Quest - The Family Reconciliatio]]
 - Affected by [[ENC00089_Social_Encounter_90
 - Originates from [Azure Shard (D&D_References)]]
 - Connects to [[ITEM00686_Mithril_Helm_of_Grace
 - Leads to [step_045 (phase_011)]]
-- Leads to [[step_028 (phase_035)
-- Parallels [Lysara Brightshield (D&D_References)]]
+- Leads to [[Lysara Brightshield (D&D_References)]]
 - Affected by [[step_094 (phase_051)
 - See also: [ITEM00592_Dragon_Scale_Helm_of_the_Guardian]]
 - See also:
 - Compare with [[synaptic-static-xphb (spells)
 - Originates from [Assets Locations Location City Angels and Depths V1 Angels and Depths.svg]]
-- Originates from [[ENC00196_Environmental_Encounter_197
-- Related: [SHOP00052_Specialty_Shop_53]]
+- Originates from [[ENC00196_Environmental_Encounter_197]]
 - Originates from [[The Deep Mother
 - Influences [DUN00091_Dungeon_92]]
-- Connects to [[step_099 (phase_083)
-- Parallels [NPC01980_Zephyr_Darkwater_the_Scholar]]
+- Connects to [[NPC01980_Zephyr_Darkwater_the_Scholar]]
 - Parallels [[LOC0051_Bridgeridge
 - Compare with [LOC0000_NorthHaven]]
-- Related: [[Fifth Shard of Ascension
-- Influences [NPC00640_Hilda_Moonshadow_the_Scholar]]
+- Related: [[NPC00640_Hilda_Moonshadow_the_Scholar]]
 - Requires [[Location City Bio Tech Supervisor Reef Lifeweaver V1 Bio Tech Supervisor Reef Lifeweaver.png
 - Originates from [Seasonal Quarters]]
 - Requires [[step_071 (phase_006)
 - Affected by [SPELL0012_Shadow_Shield]]
-- Originates from [[step_069 (phase_089)
-- Leads to [Quest - Depth Pilgrimage 2]]
+- Originates from [[Quest - Depth Pilgrimage 2]]
 - Related: [[step_021 (phase_094)
 - Connects to [step_022 (phase_100)]]
-- Parallels [[NPC01701_Malakai_Quicksilver_the_Redeemed
-- Compare with [MON00061_Aberrations_Creature_62]]
-- Influences [[Darkling Mpmm
-- See also: [Community Services Director Helen Helpinghand]]
+- Parallels [[NPC01701_Malakai_Quicksilver_the_Redeemed]]
+- Influences [[Community Services Director Helen Helpinghand]]
 - Leads to [[armor-of-psychic-resistance-xdmg (items)
 - Parallels [step_099 (phase_044)]]
 - See also: [[Memory Eternal Keeper 2
@@ -235,8 +225,7 @@ Knows secret about major threat
 - Connects to [Portrait NPC High King Aurelius Skyborn V1 High King Aurelius Skyborn.svg]]
 - Originates from [[LOC0115_Valeshire
 - Related: [Record Keepers]]
-- See also: [[step_046 (phase_068)
-- Requires [ENC00434_Combat_Encounter_435]]
+- See also: [[ENC00434_Combat_Encounter_435]]
 - Originates from [[Parliamentary Infiltration Methods 2
 - Compare with [Portrait NPC Abyssos Prime Parliament of Echoes Abyssos Prime Parliament of Echoes.svg]]
 - Affected by
@@ -257,8 +246,7 @@ Knows secret about major threat
 - Affected by [resistance-xphb (variant-rules)]]
 - Affected by [[The Shadow Trade Network
 - Requires [step_064 (phase_018)]]
-- Leads to [[step_053 (phase_084)
-- Requires [Corrupted Government Reflections]]
+- Leads to [[Corrupted Government Reflections]]
 - Originates from
 - See also:
 - Affected by [[Handout Handout Merchant Contract with Fine Print V1 Merchant Contract with Fine Print.png

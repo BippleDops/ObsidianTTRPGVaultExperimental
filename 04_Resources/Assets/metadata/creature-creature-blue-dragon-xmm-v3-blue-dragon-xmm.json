@@ -25,5 +25,8 @@
   "alt_text": "Concept art of blue-dragon-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-blue-dragon-xmm-v3-blue-dragon-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-blue-dragon-xmm-v3-blue-dragon-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:58:57.367Z",
+  "generationMethod": "ComfyUI"
 }

@@ -173,8 +173,7 @@ Has information about legendary item
 
 - Connects to [[D_019_Oracle_Whale
 - Compare with [XP_Calculator]]
-- Compare with [[NPC01138_Brenna_Oakenshield_the_Risen
-- See also: [EVENT00053_Magical_Event_54]]
+- Compare with [[NPC01138_Brenna_Oakenshield_the_Risen]]
 - Leads to [[Dr. Aquarius Brightwater
 - Influences [creature-creature-sphinx-xmm-sphinx-xmm.png]]
 - Affected by [[Temple of Justice
@@ -182,8 +181,7 @@ Has information about legendary item
 - Compare with [[Blight Xphb
 - Leads to [04_Resources_Assets_Art_Places_Retired_Captain_Bron_Saltbeard.png]]
 - Connects to
-- Related: [[Police Chief Sarah Lawkeeper (D&D_References)
-- Parallels [QUEST00089_Main_Quest_90]]
+- Related: [[Police Chief Sarah Lawkeeper (D&D_References)]]
 - Affected by [[step_020 (phase_084)
 - Requires [Cultural Organizations]]
 - See also: [[LOC00053_Cities_Location_54
@@ -193,8 +191,7 @@ Has information about legendary item
 - Compare with
 - Connects to [The Convergence Maze]]
 - Compare with
-- Requires [[The Archive of Unremembered Things (D&D_References)
-- Parallels [location-city-the-last-seeds-the-last-seeds.svg]]
+- Requires [[The Archive of Unremembered Things (D&D_References)]]
 - Influences [[step_063 (phase_091)
 - Influences [#Natural & Mystical Locations]]
 - Related: [[Assets Locations Location City Abyssos Prime Inverse Palace Abyssos Prime Inverse Palace.svg
@@ -204,18 +201,13 @@ Has information about legendary item
 - Leads to [Blood Spear Cos]]
 - Compare with [[location-city-shipwreck-cove-shipwreck-cove.svg
 - Originates from [step_050 (phase_096)]]
-- Requires [[The Pressure Baptism Rites (D&D_References)
-- Connects to [actions#Utilize]]
-- Connects to [[LORE00045_History_Entry_46
-- See also: [NPC01852_Jorah_Proudmore_the_Mystic]]
-- Compare with [[QUEST00246_Personal_Quest_247
-- Related: [QUEST00163_Side_Quest_164]]
-- Affected by [[Leviathan the Deep
-- Connects to [MON00068_Undead_Creature_69]]
+- Requires [[The Pressure Baptism Rites (D&D_References)]]
+- Connects to [[NPC01852_Jorah_Proudmore_the_Mystic]]
+- Compare with [[QUEST00246_Personal_Quest_247]]
+- Affected by [[MON00068_Undead_Creature_69]]
 - Connects to [[step_060 (phase_068)
 - Compare with [Assets Locations Location City International Relations V1 International Relations.svg]]
-- Requires [[Cart Xphb
-- Affected by [Craftmaster Engineer Gearwhispe (D&D_References)]]
+- Requires [[Craftmaster Engineer Gearwhispe (D&D_References)]]
 - See also: [[Location City Truth and Madness Truth and Madness.svg
 - Requires [step_026 (phase_080)]]
 - See also: [[Crystal Weapons
@@ -240,19 +232,15 @@ Has information about legendary item
 - Requires [nonhuman-moradin (deities)]]
 - Related: [[The Memory Trade
 - Compare with [DUN00117_Dungeon_118]]
-- Leads to [[The Null Cathedral (D&D_References)
-- Compare with [Thieves Guild (Guilds)]]
-- Compare with [[Culinary Dreamweaver Sage Gentlespice (D&D_References)
-- Requires [NPC01596_Fiora_Ironforge_the_Mystic]]
+- Leads to [[The Null Cathedral (D&D_References)]]
+- Compare with [[Culinary Dreamweaver Sage Gentlespice (D&D_References)]]
 - Parallels [[Assets Locations Location City Reflection Broker Mirrors Reflection Broker Mirrors.svg
 - Connects to
 - Parallels [ENC00379_Combat_Encounter_380]]
-- Leads to [[NPC01465_Ewan_Goldleaf_the_Redeemed
-- Requires [Dragonlance Chemosh Phb]]
+- Leads to [[NPC01465_Ewan_Goldleaf_the_Redeemed]]
 - Leads to [[supplemental-tables-family-lifestyle-xge (tables)
 - Leads to [step_074 (phase_038)]]
-- Connects to [[DUN00018_Dungeon_19
-- Influences [LOC00177_Dungeons_Location_178]]
+- Connects to [[LOC00177_Dungeons_Location_178]]
 - Related: [[step_084 (phase_083)
 - Leads to [kuo-toa-whip-xmm]]
 - Influences

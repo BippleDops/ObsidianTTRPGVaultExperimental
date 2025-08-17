@@ -309,17 +309,10 @@ Mentioned in The Hidden Prophecy of Depths
 - [Assets Portraits Portrait NPC Captain Dimensional Captain Dimensional.svg]]
 - [[Assets Portraits Portrait NPC Lord Chancellor Prism Lord Chancellor Prism.svg
 - [Captain Redbeard]]
-- [[Knight
-- [Lighthouse Keeper]]
-- [[The Speaking Stones
-- [Order of the Drowned Star]]
-- [[Abyssal Academy (D&D_References)
-- [Ambassador Nerida Deepcurrent (D&D_References)]]
-- [[Aquabyssos Ambassadors
-- [Aquabyssos World Overview]]
-- [[Captain Redbeard (D&D_References)
-- [Houses_and_Nobility - House Shadowmere]]
-- [[The Speaking Stones (D&D_References)
-- [Knight (D&D_Statblocks)]]
-- [[Lighthouse Keeper (D&D_Statblocks)
-- [The Tide Rises (D&D_Statblocks)]]
+- [[Lighthouse Keeper]]
+- [[Order of the Drowned Star]]
+- [[Ambassador Nerida Deepcurrent (D&D_References)]]
+- [[Aquabyssos World Overview]]
+- [[Houses_and_Nobility - House Shadowmere]]
+- [[The Speaking Stones (D&D_References)]]
+- [[Lighthouse Keeper (D&D_Statblocks)]]

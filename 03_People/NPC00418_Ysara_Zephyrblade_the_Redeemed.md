@@ -176,22 +176,18 @@ Discovered something valuable
 - Related: [Reef Shark]]
 - Influences [[Pressure Politics 2
 - Related: [step_070 (phase_068)]]
-- Affected by [[Cargo Master Holdspace (D&D_References)
-- Connects to [LOC00077_Cities_Location_78]]
+- Affected by [[Cargo Master Holdspace (D&D_References)]]
 - Leads to [[02_Worldbuilding_Lore_The_Void_Shard
 - Related: [step_070 (phase_045)]]
 - Related: [[step_051 (phase_021)
 - Affected by [Gnome Gelf Darkhearth Mtf]]
-- Leads to [[step_011 (phase_064)
-- Affected by [Aquabyssos Creature Compendium]]
+- Leads to [[Aquabyssos Creature Compendium]]
 - Parallels [[dagger-of-venom-xdmg (items)
 - Requires [Portrait NPC God King Aetheron V2 God King Aetheron.svg_1 (Portraits)]]
-- Connects to [[Climb Speed Xphb
-- See also: [MON00068_Undead_Creature_69]]
+- Connects to [[MON00068_Undead_Creature_69]]
 - Affected by [[step_014 (phase_048)
 - Parallels [Merchant Family Alliances]]
-- Requires [[The Frequency Wars
-- See also: [Azure Citadel (D&D_References)]]
+- Requires [[Azure Citadel (D&D_References)]]
 - Requires [[LORE00194_Legends_Entry_195
 - See also: [javelin-xphb (items)]]
 - Affected by [[step_004 (phase_005)
@@ -202,8 +198,7 @@ Discovered something valuable
 - Originates from [step_046 (phase_042)]]
 - Influences [[SPELL00155_Nature_Spell_156
 - Leads to [LOC00016_Cities_Location_17]]
-- Influences [[Portrait NPC Sist... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Affected by [LOC00119_Dungeons_Location_120]]
+- Influences [[Portrait NPC Sist... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Parallels [[ENC00465_Combat_Encounter_466
 - See also: [Location City Entertainment Industry V1 Entertainment Industry.svg]]
 - Leads to [[Senator's Private Chambers (D&D_Statblocks)
@@ -223,8 +218,7 @@ Discovered something valuable
 - Leads to [Portrait NPC Abyssos Prime Parliament of Echoes V1 Abyssos Prime Parliament of Echoes.svg_1 (Portraits)]]
 - Originates from [[Portrait NPC Scholar Emperor Thalassius the Wise V1 Scholar Emperor Thalassius the Wise.svg_1 (Portraits)
 - Originates from [Assets Locations Location City Historical Societies V1 Historical Societies.svg]]
-- Affected by [[The Great Trade Routes (D&D_References)
-- Affected by [giant-ape-xmm (beast)]]
+- Affected by [[The Great Trade Routes (D&D_References)]]
 - Affected by [[Martha_Hillbrook.png
 - Connects to [Portrait NPC Ambassador Korvin Blacktide V2 Ambassador Korvin Blacktide.svg_1 (Portraits)]]
 - Originates from [[LORE00278_Prophecies_Entry_279
@@ -236,8 +230,7 @@ Discovered something valuable
 - Influences [location-city-aethermoor-aethermoor.svg]]
 - Requires [[VAULT_STRUCTURE_PLAN
 - Influences [ENC00000_Environmental_Encounter_1]]
-- Compare with [[Azurite Xdmg
-- Connects to [Archmage Tidal Currentweave 2]]
+- Compare with [[Archmage Tidal Currentweave 2]]
 - Requires [[The Lost Mother Seaweed Sarah
 - Parallels [Master Sergeant Reef Ironwall]]
 - Connects to [[LOC00213_Towns_Location_214
@@ -249,8 +242,7 @@ Discovered something valuable
 - Affected by [[Marcus Tidecalle
 - Affected by [gunpowder-keg-xdmg (items)]]
 - Parallels
-- Related: [[Pure Essence Crystals (D&D_References)
-- Influences [Harbor Master's License 2]]
+- Related: [[Pure Essence Crystals (D&D_References)]]
 - Connects to [[ring-of-warmth-xdmg (items)
 - Originates from [step_056 (phase_031)]]
 - Compare with [[Foreign Shadow Syndicate
@@ -259,8 +251,7 @@ Discovered something valuable
 - Requires [ITEM00352_Cursed_Sword_of_Slaying]]
 - Connects to [[step_002 (phase_081)
 - See also: [Reality Anchor Ring 2]]
-- Related: [[Advanced Combat Training Methods (D&D_References)
-- Originates from [step_053 (phase_083)]]
+- Related: [[Advanced Combat Training Methods (D&D_References)]]
 - Originates from [[step_013 (phase_100)
 - Influences [location-city-depth-raiders-v1-depth-raiders.svg]]
 - Influences [[Combat_Reference

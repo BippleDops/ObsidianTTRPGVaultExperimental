@@ -4,8 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: [Eastern Kingdom]]s 2
+- [[Eastern Kingdom]]s 2
 type: lore
 updated: 2025-08-14
 ---
@@ -25,32 +24,10 @@ Eastern Kingdoms 2 represents a significant element within the campaign world, o
 
 ## Details
 ### Background
-[Historical Context]] and development over [[Time.
-
-### Current State
-Present circumstances and ongoing relevance.
-
-### Future Potential
-Possible developments and plot directions.
-
-## Relationships
-- Connected to various other elements within the vault
-- Part of larger narrative structures
-- Influences and is influenced by surrounding content
-
-## Usage Notes
-This content can be adapted and expanded based on specific campaign needs.
-
-## Plot Hooks
-- Can serve as starting point for investigations
-- May provide crucial information at key moments
-- Offers opportunities for player engagement
-
-## [DM_Notes]]
+[Historical Context]] and development over [[Time]]
 *Customize as needed for your specific campaign requirements.*
 
 ## References
 
-- [[Master Artificers Guild (Guilds)
-- [Eastern Kingdom]]
+- [[Master Artificers Guild]]
 - [[Master Artificers Guild]]

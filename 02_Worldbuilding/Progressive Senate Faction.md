@@ -65,5 +65,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[House Brightshield
-- [Houses_and_Nobility - House Brightshield]]
+- [[Houses_and_Nobility - House Brightshield]]

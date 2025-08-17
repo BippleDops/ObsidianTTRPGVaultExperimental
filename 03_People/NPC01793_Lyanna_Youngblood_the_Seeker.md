@@ -157,37 +157,29 @@ Blackmails party into service
 
 ## Connections
 
-- Requires [[Overwhelming Revelations
-- Connects to [INV-002 (Lore)]]
+- Requires [[Overwhelming Revelations]]
 - Originates from [[02_Worldbuilding_Factions_Abyssal_Courts
 - Related: [step_048 (phase_045)]]
 - Requires [[step_097 (phase_078)
 - Requires [FAC00004_Orders_5]]
-- Influences [[ENC00093_Combat_Encounter_94
-- Leads to [Ox Mpmm]]
-- Parallels [[step_057 (phase_028)
-- See also: [Aetherite (D&D_References)]]
+- Influences [[ENC00093_Combat_Encounter_94]]
+- Parallels [[Aetherite (D&D_References)]]
 - Leads to [[list-spells-races-aasimar-xphb (lists)
 - See also: [Race Against the Festival]]
 - Compare with [[step_059 (phase_082)
 - Originates from [Location City Marcus Clausewright Marcus Clausewright.svg]]
-- Connects to [[Crystalline Wastes
-- Influences
-- Related: [17-chapter-17-against-the-demon-lords (out-of-the-abyss)]]
-- Leads to [[NPC00705_Ewan_Grimholt_the_Lost
-- Related: [step_097 (phase_087)]]
+- Connects to [[17-chapter-17-against-the-demon-lords (out-of-the-abyss)]]
+- Leads to [[NPC00705_Ewan_Grimholt_the_Lost]]
 - Requires [[step_084 (phase_071)
 - Influences [demilich-xmm (undead)]]
 - Connects to [[The Depth Reapers 2
 - See also: [LORE00199_History_Entry_200]]
-- Parallels [[LOC00050_Cities_Location_51
-- Affected by [NPC00704_Elric_Winterborn_the_Wise]]
+- Parallels [[NPC00704_Elric_Winterborn_the_Wise]]
 - Requires [[Trade War 2
 - Connects to [Dragonlance Chislev Phb]]
 - See also: [[creature-creature-allip-mpmm-v2-allip-mpmm.png
 - Originates from [drow-vhaeraun-mtf (deities)]]
-- Leads to [[step_079 (phase_057)
-- Leads to [ENC00451_Combat_Encounter_452]]
+- Leads to [[ENC00451_Combat_Encounter_452]]
 - Connects to [[The Silverscale Consortium
 - Compare with [step_027 (phase_048)]]
 - Connects to [[ITEM00782_Infernal_Mirror_of_the_Gods
@@ -203,8 +195,7 @@ Blackmails party into service
 - Compare with [NPC00154_Dara_Winterborn]]
 - Influences [[Inverted Ballroom Wing 2
 - Related: [Portrait NPC Intelligence Services V1 Intelligence Services.svg_1 (Portraits)]]
-- Leads to [[step_059 (phase_055)
-- See also: [Professor Depth Biologist 2]]
+- Leads to [[Professor Depth Biologist 2]]
 - Leads to [[LORE00026_History_Entry_27
 - Compare with
 - Influences [Githyanki Raiding Parties Githyanki Purpose of Raid Mtf]]
@@ -216,32 +207,26 @@ Blackmails party into service
 - Leads to [step_064 (phase_076)]]
 - Affected by [[Ritual Redirection Options 2
 - Related: [Ceremonial Gold Armor With Black Pearls Xdmg]]
-- Compare with [[Navigator Depthseer (D&D_References)
-- Related: [healing-xphb (variant-rules)]]
+- Compare with [[Navigator Depthseer (D&D_References)]]
 - Affected by [[Political Leader Reef-Crown (D&D_References)
 - Originates from [Quest - The Silver Revolution_1 (01_Adventures)]]
-- Originates from [[adult-black-dragon-xmm
-- Related: [Polymorph Xphb]]
+- Originates from [[adult-black-dragon-xmm]]
 - Affected by [[Truth-seeker's Lens
 - Parallels [step_079 (phase_006)]]
-- Requires [[Shadow Information Brokers 2
-- See also: [Pale Tincture Xdmg]]
+- Requires [[Shadow Information Brokers 2]]
 - Compare with [[LOC00275_Dungeons_Location_276
 - Connects to
 - Originates from [step_035 (phase_042)]]
 - Requires [[step_049 (phase_063)
 - Compare with [step_018 (phase_009)]]
-- Originates from [[Pressure Engineering Guild
-- Influences [Submersible_Schematic_Pressure_Gate_Scou]]
-- Leads to [[NPC01895_Fiora_Ashford_the_Wise
-- Connects to [Animal Shapes Xphb]]
+- Originates from [[Submersible_Schematic_Pressure_Gate_Scou]]
+- Leads to [[NPC01895_Fiora_Ashford_the_Wise]]
 - Affected by [[step_062 (phase_083)
 - See also:
 - Connects to [Guardian Portrait Cos]]
 - Leads to [[Location City Historian Lisa Outreach V1 Historian Lisa Outreach.svg
 - Affected by [Quest Nature.png]]
-- See also: [[step_076 (phase_080)
-- Affected by [NPC01985_Gavril_Grimholt_the_Strong]]
+- See also: [[NPC01985_Gavril_Grimholt_the_Strong]]
 - Affected by [[EVENT00096_Natural_Event_97
 - Influences [Wind Walk Xphb]]
 - Affected by [[armored-saber-toothed-tiger-cos (beast)
@@ -251,8 +236,7 @@ Blackmails party into service
 - See also: [[portrait-npc-original-glaucus-original-glaucus.svg
 - Affected by [The Dream Shard (Lore)]]
 - Originates from
-- Related: [[QUEST0069_Captain's_Revenge
-- Leads to [Efreeti Xmm]]
+- Related: [[QUEST0069_Captain's_Revenge]]
 - Related: [[Portrait NPC Commodity Queen Abundance V2 Commodity Queen Abundance.svg_1 (Portraits)
 - Related: [spawn-of-kyuss-mpmm (undead)]]
 - Leads to [[Storm's End Citadel

@@ -259,5 +259,4 @@ ___
 
 ## References
 
-- [[The Queen (D&D_References)
-- [The Queen 3 (D&D_References)]]
+- [[The Queen 3 (D&D_References)]]

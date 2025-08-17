@@ -167,8 +167,7 @@ Being extorted by criminals
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -183,8 +182,7 @@ Being extorted by criminals
 
 ## Connections
 
-- Related: [[The Depth Reapers (D&D_References)
-- Connects to [step_004 (phase_039)]]
+- Related: [[The Depth Reapers (D&D_References)]]
 - Compare with [[LORE00302_Legends_Entry_303
 - Parallels
 - Requires [Quest - The Perfect Purifier]]
@@ -203,21 +201,15 @@ Being extorted by criminals
 - Compare with [Assets Art Botanist Rose Sundrinker.png]]
 - See also: [[LOC00039_Cities_Location_40
 - Originates from [Aquabyssos Technical University 2]]
-- Requires [[Research Chief Helena Datapoint
-- Leads to [dire-worg-xmm (fey)]]
-- Parallels [[step_095 (phase_068)
-- Related:
-- See also: [ENC00141_Environmental_Encounter_142]]
+- Requires [[Research Chief Helena Datapoint]]
+- Parallels [[ENC00141_Environmental_Encounter_142]]
 - See also: [[Derro Savant Mpmm
 - Originates from [Lost Fleet 2]]
-- Leads to [[LOC00235_Towns_Location_236
-- Affected by [Kobold Vgm]]
-- See also: [[ENC00399_Combat_Encounter_400
-- Requires [step_024 (phase_063)]]
+- Leads to [[LOC00235_Towns_Location_236]]
+- See also: [[ENC00399_Combat_Encounter_400]]
 - Originates from [[NPC00155_Hilda_Thornweave
 - Compare with [Portrait NPC Pearl Empress Lustrous V1 Pearl Empress Lustrous.svg]]
-- Parallels [[Financial Institutions (D&D_References)
-- See also: [step_062 (phase_035)]]
+- Parallels [[Financial Institutions (D&D_References)]]
 - Related: [[Economic Development Director Carmen Commerc 2
 - Originates from [Location City the Wandering Atoll the Wandering Atoll.svg]]
 - Influences [[Dragonlance Majere Phb
@@ -226,16 +218,14 @@ Being extorted by criminals
 - Compare with [Assets Locations Location City Navigator Flux Timewalker V1 Navigator Flux Timewalker.svg]]
 - Parallels [[ITEM00465_Adamantine_Boots_of_the_Guardian
 - Compare with [step_019 (phase_099)]]
-- Connects to [[NPC01954_Drusilla_Xendar_the_Wise
-- Influences [Commander Eastwind Stormbreak (D&D_References)]]
+- Connects to [[Commander Eastwind Stormbreak (D&D_References)]]
 - Influences [[Reality Breach Incidents
 - Affected by [Sky Burial Traditions]]
 - See also: [[The Transformed Citizens
 - Affected by [Assets Locations Location City Truth Seeker Cornelius Truth Seeker Cornelius.svg]]
 - Parallels [[step_100 (phase_067)
 - Leads to [Needle Xphb]]
-- Parallels [[Clairvoyance Xphb
-- Affected by [Marcus Clausewright (D&D_References)]]
+- Parallels [[Marcus Clausewright (D&D_References)]]
 - Related:
 - Related:
 - Leads to [[Vehicle Ship Resonance Drive Yacht V2 Resonance Drive Yacht.svg
@@ -258,10 +248,8 @@ Being extorted by criminals
 - See also: [The Drowning Welcome]]
 - Leads to [[step_001 (phase_012)
 - Related: [Assets Locations Location City Entertainment Industry V1 Entertainment Industry.svg]]
-- Affected by [[step_073 (phase_016)
-- Parallels [The Smuggler's Den (D&D_References)]]
-- Originates from [[The Consortium of Five (D&D_References)
-- Parallels [step_005 (phase_015)]]
+- Affected by [[The Smuggler's Den (D&D_References)]]
+- Originates from [[The Consortium of Five (D&D_References)]]
 - Parallels [[Assets Locations Location City the Deepmost Current the Deepmost Current.svg
 - Connects to [step_034 (phase_040)]]
 - Originates from [[Operation Crystal Aegis
@@ -275,8 +263,7 @@ Being extorted by criminals
 - Affected by [Omega-Protocol (D&D_References)]]
 - Connects to [[Charm of Feather Falling Xdmg
 - Influences [The Deep Trade Routes]]
-- Affected by [[Portrait NPC Pira... Related To: Local Political Structure Connected Plots: to Be Developed
-- Connects to [step_097 (phase_044)]]
+- Affected by [[Portrait NPC Pira... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Compare with [[NPC01023_Delara_Stormwind_the_Guardian
 - Originates from [Prince Thalassic (D&D_References)]]
 - Originates from [[QUEST00083_Side_Quest_84

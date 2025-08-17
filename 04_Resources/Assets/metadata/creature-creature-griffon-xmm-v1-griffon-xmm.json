@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Create a detailed concept illustration of a hybrid griffon, in the painterly style of high fantasy. The scene should be set in an underwater-sky hybrid environment, a truly unique zone where the worlds of the sea and sky merge into one plane. The griffon should highlight striking musculature, emphasizing its unique limbs and physique, and by its side, include a human silhouette for scale. Ground the scene in medieval fantasy, using culturally coherent gear and materials, void of any modern technologies. To portray motion, use techniques such as dynamic poses and shapes. The color palette should consist of teals, deep blues, sea-greens, and pearl highlights, evoking the aquatic environment. Complement it with the elements of subsurface caustics and bioluminescent accents, with materials reminiscent of pressure-domes for a touch of fantasy realism. Make sure to respect the specified aspect/resolution and avoid any artifacts, garbled or random letter strings. Also, keep any symbols meaningful or use numbered pins, and refrain from embedding any text or words unless specified.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-griffon-xmm-v1-griffon-xmm.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-griffon-xmm-v1-griffon-xmm.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:04:14.075Z",
+  "generationMethod": "ComfyUI"
 }

@@ -291,9 +291,6 @@ Member of House Wolfblood - Trait: magical affinity
 
 ## References
 
-- [[Thalassius the Wise
-- [The Pressure Baptism Rites]]
-- [[The Restoration Movement
-- [Captain Garrett Stormcutter]]
-- [[Captain Garrett Stormcutter (D&D_References)
-- [Prophet Nerida Voidgazer (D&D_References)]]
+- [[The Pressure Baptism Rites]]
+- [[Captain Garrett Stormcutter]]
+- [[Captain Garrett Stormcutter (D&D_References)]]

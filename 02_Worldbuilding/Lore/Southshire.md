@@ -30,6 +30,5 @@ Further information about this topic will be developed as the campaign progresse
 ## References
 
 - [Central Location]]
-- [[Cure Component Locations
-- [Clues by Location (Lore)]]
+- [[Cure Component Locations]]
 - [[Clues_by_Location.png]]

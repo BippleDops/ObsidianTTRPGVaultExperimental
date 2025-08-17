@@ -25,5 +25,8 @@
   "alt_text": "Concept art of beast-of-the-sky-xphb with anatomy, scale, and environment.",
   "realm": "aethermoor",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-beast-of-the-sky-xphb-v2-beast-of-the-sky-xphb.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-beast-of-the-sky-xphb-v2-beast-of-the-sky-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:58:28.773Z",
+  "generationMethod": "ComfyUI"
 }

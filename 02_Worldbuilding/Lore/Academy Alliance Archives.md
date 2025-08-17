@@ -26,4 +26,4 @@ Academy Alliance Archives represents a crucial aspect of the world's history, co
 
 ## References
 
-- [[Session 10 New Horizons (06_Sessions)]]
+- [[Session_10_New_Horizons]]

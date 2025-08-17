@@ -172,8 +172,7 @@ Needs help with personal quest
 
 - Affected by [[step_093 (phase_095)
 - Originates from [Temporal Anchor Points (Lore)]]
-- See also: [[Cultural Preservation
-- Leads to [Captain Henrik Proudbanner (D&D_References)]]
+- See also: [[Captain Henrik Proudbanner (D&D_References)]]
 - Requires [[step_066 (phase_036)
 - Requires [Portrait NPC the Shadow Surgeons the Shadow Surgeons.svg_1 (Portraits)]]
 - Compare with
@@ -183,8 +182,7 @@ Needs help with personal quest
 - See also: [Assets Locations Location City Coral Shaper Polyp Coral Shaper Polyp.svg]]
 - Parallels [[step_003 (phase_059)
 - Influences [Sanity Quick Reference]]
-- Requires [[Elena Starweaver
-- Compare with [Underdark Encounters Levels 510 Xge]]
+- Requires [[Underdark Encounters Levels 510 Xge]]
 - Connects to [[Assets Locations Location City Port Facilities Port Facilities.svg
 - Requires [LORE0000_History_of_the_First_King]]
 - Affected by [[step_095 (phase_005)
@@ -202,8 +200,7 @@ Needs help with personal quest
 - Connects to [Raise Dead Xphb]]
 - Requires [[LORE00041_Prophecies_Entry_42
 - Influences [QUEST00228_Side_Quest_229]]
-- Compare with [[Portrait NPC Abys... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Leads to [Ranger Xphb Gloom Stalker Xphb]]
+- Compare with [[Portrait NPC Abys... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Connects to [[Pure Shadow Crystals
 - See also: [step_095 (phase_081)]]
 - Compare with [[Assets Locations Location City the Observatory the Observatory.svg
@@ -254,10 +251,8 @@ Needs help with personal quest
 - Parallels [Hadal Zone 2]]
 - Parallels [[step_099 (phase_058)
 - Originates from [Provincial Governments]]
-- Compare with [[The Archives 2
-- Compare with [Quest - Shadow Confrontation]]
-- Related: [[Scholar Wisdom Clearwater (D&D_References)
-- Related: [QUEST00293_Personal_Quest_294]]
+- Compare with [[Quest - Shadow Confrontation]]
+- Related: [[Scholar Wisdom Clearwater (D&D_References)]]
 - Connects to [[Frostbite Xge
 - Parallels
 - See also: [step_029 (phase_026)]]

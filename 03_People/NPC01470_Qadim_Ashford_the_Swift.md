@@ -170,10 +170,8 @@ Forming expedition to dangerous location
 - Originates from [NPC01221_Pyria_Xendar_the_Strong]]
 - Leads to [[portrait-npc-verdant-shard-v2-verdant-shard.svg_1 (Portraits)
 - Parallels [LOC00216_Dungeons_Location_217]]
-- Originates from [[Chronos Tidekeep
-- Affected by [NPC01948_Ewan_Jadeclaw_the_Bold]]
-- Requires [[The Gilded Serpent
-- Compare with [ENC00104_Social_Encounter_105]]
+- Originates from [[NPC01948_Ewan_Jadeclaw_the_Bold]]
+- Requires [[ENC00104_Social_Encounter_105]]
 - Compare with [[eberron-the-path-of-light (deities)
 - Parallels [Codex of Forgotten Depths 2]]
 - See also: [[LOC0102_Watchton
@@ -181,8 +179,7 @@ Forming expedition to dangerous location
 - Influences [[Portrait NPC Envoy Blackwater Jr V2 Envoy Blackwater Jr.svg
 - Requires
 - Related: [Infinite Dungeon Generator]]
-- Affected by [[conditions#Unconscious
-- Requires [Portrait NPC Abyssal Cathedral Abyssal Cathedral.svg_1 (Portraits)]]
+- Affected by [[Conditions]]
 - Related: [[Pipes of Haunting Xdmg
 - Requires [Assets Locations Location City Pilgrimage Coordinators Pilgrimage Coordinators.svg]]
 - Affected by [[SPELL00148_Nature_Spell_149
@@ -203,10 +200,8 @@ Forming expedition to dangerous location
 - Originates from [step_056 (phase_067)]]
 - Affected by [[Farmer Xphb
 - Compare with [EVENT00079_Magical_Event_80]]
-- Originates from [[step_022 (phase_050)
-- Compare with [Vault Keeper Aurelia Crownguard]]
-- Affected by [[LOC00117_Dungeons_Location_118
-- Leads to [Imperial Vaults 2]]
+- Originates from [[Vault Keeper Aurelia Crownguard]]
+- Affected by [[LOC00117_Dungeons_Location_118]]
 - Leads to [[Paradox Storms
 - Related: [Assets Portraits Portrait NPC Lord Marcus Shadowbane Lord Marcus Shadowbane.svg]]
 - Related: [[The Final Gasp 2
@@ -217,14 +212,12 @@ Forming expedition to dangerous location
 - Influences [draakhorn-rot (items)]]
 - Requires [[Symbol Heraldry Supernatural Mysterie V1 Supernatural Mysterie.svg
 - Requires [LOC00044_Planes_Location_45]]
-- Connects to [[Duke Hadal (D&D_References)
-- Related: [NPC01213_Drusilla_Underhill_the_Scholar]]
+- Connects to [[NPC01213_Drusilla_Underhill_the_Scholar]]
 - Requires [[Location City Mediator Cardinal Harmony V1 Mediator Cardinal Harmony.svg
 - Related: [Economics Research Investment Funds]]
 - Originates from [[step_006 (phase_013)
 - Affected by [Assets Locations Location City Scholar Thomas Precedent Scholar Thomas Precedent.svg]]
-- Parallels [[NPC00930_Thalia_Darkwater_the_Wanderer
-- Parallels [boon-of-magic-resistance (rewards)]]
+- Parallels [[NPC00930_Thalia_Darkwater_the_Wanderer]]
 - Compare with [[Truth Serums
 - Compare with [blue-abishai-mpmm (fiend)]]
 - Requires [[ITEM00659_Dragon_Scale_Boots_of_Fortitude
@@ -241,26 +234,22 @@ Forming expedition to dangerous location
 - Requires [LORE00205_Legends_Entry_206]]
 - See also: [[2 Character Races
 - Parallels [Builder Coral Architect]]
-- Affected by [[Assets Portraits Portrait NPC Emperor Abyssal the Deep Sighted Emperor Abyssal the Deep Sighted.svg
-- Originates from [Symbol Heraldry Sup... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Affected by [[Symbol Heraldry Sup... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Originates from
 - Influences [[MON00099_Undead_Creature_100
 - Originates from [Item Artifact Poisoners Kit Xphb V4 Poisoners Kit Xphb.png]]
-- Influences [[step_042 (phase_100)
-- Leads to [LOC00208_Planes_Location_209]]
+- Influences [[LOC00208_Planes_Location_209]]
 - Parallels [[Location City Memorial Artists V1 Memorial Artists.svg
 - Related: [Trade Regulations]]
 - Connects to [[tome-of-leadership-and-influence-xdmg (items)
 - Influences [Item Artifact Weird Tank Pota V6 Weird Tank Pota.png]]
 - Compare with
-- Parallels [[Community Resource Sharing (D&D_References)
-- Connects to [step_032 (phase_027)]]
+- Parallels [[Community Resource Sharing (D&D_References)]]
 - Related: [[Location City University System V1 University System.svg
 - See also: [Law Enforcement (Lore)]]
 - Requires [[bead-of-nourishment-xdmg (items)
 - Requires [Legislative Archive]]
-- Originates from [[adventuring-gear-xphb (tables)
-- Related: [Overmind Depth-Thought Eternal (D&D_References)]]
+- Originates from [[Overmind Depth-Thought Eternal (D&D_References)]]
 - Leads to [[SPELL00144_Nature_Spell_145
 - Compare with [Assets Handouts Handout Handout Embassy Invitation V2 Embassy Invitation.png]]
 - See also: [[LORE00329_Legends_Entry_330

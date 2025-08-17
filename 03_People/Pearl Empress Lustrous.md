@@ -247,5 +247,4 @@ ___
 
 - [[Assets Portraits Portrait NPC Captain Steelhart Captain Steelhart.svg
 - [Assets Portraits Portrait NPC Deep Lords Deep Lords.svg]]
-- [[The Phosphor Markets
-- [The Phosphor Markets (D&D_References)]]
+- [[The Phosphor Markets (D&D_References)]]

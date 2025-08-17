@@ -52,5 +52,4 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [02_Worldbuilding_People_Admiral_Marina_Stormcrest]]
-- [[Lord_Lady_Chamberlain_Court_Manager
-- [Brother Matthias Inkdrinker]]
+- [[Lord_Lady_Chamberlain_Court_Manager]]

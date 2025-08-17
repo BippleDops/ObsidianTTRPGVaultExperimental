@@ -160,11 +160,9 @@ Discovered something valuable
 
 ## Connections
 
-- Parallels [[Communication Systems Consortium
-- Leads to [QUEST0034_Princess's_Revenge]]
+- Parallels [[Communication Systems Consortium]]
 - Affected by
-- Leads to [[Royal Bloodline Codex (D&D_References)
-- Originates from [EVENT00084_Political_Event_85]]
+- Leads to [[Royal Bloodline Codex (D&D_References)]]
 - Leads to [[Location City Throne Room Heart of Palace V1 Throne Room Heart of Palace.svg
 - Originates from
 - Parallels [04_Resources_Assets_Symbols_symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.png]]
@@ -176,24 +174,19 @@ Discovered something valuable
 - Compare with [The Shattering of the Crown]]
 - Influences [[House Mercurial
 - Affected by [dragon-scale-mail-xdmg (items)]]
-- Parallels [[The Grand Bazaar of Echoing Coins (D&D_References)
-- Parallels [location-city-vault-breach-v1-vault-breach.svg]]
+- Parallels [[The Grand Bazaar of Echoing Coins (D&D_References)]]
 - Connects to [[Professor Reef Growthseeker 2
 - Connects to [Portrait NPC Parliament Loyalists V2 Parliament Loyalists.svg_1 (Portraits)]]
-- Leads to [[Captain Twin-Reality Marsh (D&D_References)
-- Leads to [step_058 (phase_051)]]
+- Leads to [[Captain Twin-Reality Marsh (D&D_References)]]
 - Related: [[QUEST00105_Side_Quest_106
 - See also: [QUEST00056_Main_Quest_57]]
-- See also: [[longstrider-xphb (spells)
-- Related: [NPC00831_Hilda_Youngblood_the_Strong]]
+- See also: [[NPC00831_Hilda_Youngblood_the_Strong]]
 - Originates from [[NPC00821_Zephyr_Voidwalker_the_Cunning
 - Influences [ring-of-thunder-resistance-xdmg (items)]]
-- Affected by [[LOC0044_UpperHill
-- Originates from [Backup Procedures (D&D_References)]]
+- Affected by [[Backup Procedures (D&D_References)]]
 - See also: [[Silverscale Consortium
 - Affected by [step_038 (phase_053)]]
-- Connects to [[NPC00636_Pyria_Nightfall_the_Mystic
-- Connects to [step_100 (phase_065)]]
+- Connects to [[NPC00636_Pyria_Nightfall_the_Mystic]]
 - Compare with [[Assets Locations Location City Moderate Depth Coalition Moderate Depth Coalition.svg
 - Leads to [step_073 (phase_004)]]
 - Requires [[MON00039_Aberrations_Creature_40
@@ -205,12 +198,10 @@ Discovered something valuable
 - Influences [LORE00142_History_Entry_143]]
 - Connects to [[peryton-xmm (monstrosity)
 - Related: [Assets Portraits Portrait NPC Warrior Priest Abyss Sworn V1 Warrior Priest Abyss Sworn.svg]]
-- Influences [[step_039 (phase_082)
-- Leads to [Deep Water Rescue Service 2]]
+- Influences [[Deep Water Rescue Service 2]]
 - Compare with [[Ritual Specialists
 - Parallels [step_027 (phase_035)]]
-- Compare with [[Silverscale Emergency Bunker (D&D_References)
-- Compare with [ITEM00023_Venomous_Hammer_of_Wounding]]
+- Compare with [[Silverscale Emergency Bunker (D&D_References)]]
 - See also: [[location-city-noble-quarter-v1-noble-quarter.svg
 - See also: [Merchant_Generator]]
 - Connects to
@@ -222,11 +213,8 @@ Discovered something valuable
 - Parallels [step_065 (phase_048)]]
 - Leads to [[bestial-spirit-air-xphb (beast)
 - Parallels [Assets Locations Location City the Crystal Caverns V1 the Crystal Caverns.svg]]
-- Affected by [[myconid-sprout-xmm
-- Influences
-- Influences [NPC01607_Branwen_Quicksilver_the_Swift]]
-- Leads to [[Political Parties of Aquabyssos (D&D_References)
-- Affected by [LORE00184_Legends_Entry_185]]
+- Affected by [[NPC01607_Branwen_Quicksilver_the_Swift]]
+- Leads to [[Political Parties of Aquabyssos (D&D_References)]]
 - Parallels [[Burglars Pack Xphb
 - Originates from [Horseshoes of a Zephyr Xdmg]]
 - Influences
@@ -234,26 +222,20 @@ Discovered something valuable
 - Parallels [saber-toothed-tiger-xmm]]
 - Affected by [[Assets Handouts Handout Handout Docking Permit V2 Docking Permit.png
 - Connects to [QUEST00009_Main_Quest_10]]
-- Compare with [[step_064 (phase_050)
-- Requires [ENC00021_Combat_Encounter_22]]
+- Compare with [[ENC00021_Combat_Encounter_22]]
 - Related: [[Trader_Grimm_Voidheart.png
 - Leads to [dwarf-names-female-xge (tables)]]
 - Leads to [[Pristine Pearl
 - Compare with [Diplomatic Quarters]]
-- Parallels [[ENC00365_Combat_Encounter_366
-- Leads to [step_090 (phase_094)]]
-- Connects to [[QUEST0018_The_Shadow_Realm_Plague
-- Requires [Ambassador Mark Exchangekeeper (D&D_References)]]
-- See also: [[Surface Loyalist Safe Houses (D&D_References)
-- Originates from [NPC01327_Erasmus_Nightfall_the_Scholar]]
+- Parallels [[ENC00365_Combat_Encounter_366]]
+- Connects to [[Ambassador Mark Exchangekeeper (D&D_References)]]
+- See also: [[Surface Loyalist Safe Houses (D&D_References)]]
 - Requires [[step_035 (phase_097)
 - Related: [Celtic Belenus]]
-- Related: [[NPC00723_Caelum_Xendar_the_Risen
-- Connects to [SPELL00080_Arcane_Spell_81]]
+- Related: [[NPC00723_Caelum_Xendar_the_Risen]]
 - Compare with [[Assets Locations Location City Taverner Bubbles Mcgill Taverner Bubbles Mcgill.svg
 - Originates from [Shadowhaven Merchant Marine]]
-- Originates from [[Scholar Thalosseus (D&D_References)
-- Requires [ENC0011_Random_Encounter_12]]
+- Originates from [[Scholar Thalosseus (D&D_References)]]
 - Requires [[emerald-xdmg (items)
 - Requires [Vault Prime]]
 - Originates from [[greek-artemis (deities)

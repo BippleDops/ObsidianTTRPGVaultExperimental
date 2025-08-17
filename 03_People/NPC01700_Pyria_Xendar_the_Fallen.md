@@ -162,18 +162,14 @@ Provides information for a price
 
 ## Connections
 
-- Parallels [[QUEST0030_The_Sacred_Treasure
-- Parallels [step_062 (phase_065)]]
-- Requires [[LOC00156_Cities_Location_157
-- Related: [Shadow Attache Void 2]]
-- Influences [[step_074 (phase_049)
-- Compare with [A Day in Aquabyssos (D&D_References)]]
+- Parallels [[QUEST0030_The_Sacred_Treasure]]
+- Requires [[LOC00156_Cities_Location_157]]
+- Influences [[A Day in Aquabyssos (D&D_References)]]
 - Influences [[Baron Prism-Edge Valorian
 - Affected by [Shambling Mound Xmm]]
 - Parallels [[step_061 (phase_009)
 - Connects to [QUEST00076_Side_Quest_77]]
-- See also: [[NPC01631_Fiora_Ironwood_the_Mystic
-- Compare with [Count_Strahd_von_Zarovich]]
+- See also: [[NPC01631_Fiora_Ironwood_the_Mystic]]
 - Parallels [[Wealthy Goldcurrent (D&D_References)
 - Compare with [Assets Locations Location City Magical Theory Schools Magical Theory Schools.svg]]
 - Compare with [[Temple of the First Tide 2
@@ -184,12 +180,10 @@ Provides information for a price
 - Related: [Assets Locations Location City Port Meridian Harbor District V1 Port Meridian Harbor District.svg]]
 - Requires [[Portrait NPC Captain Mistwalker Captain Mistwalker.svg
 - Originates from [NPC01956_Zephyr_Thornweave_the_Guardian]]
-- Related: [[step_013 (phase_050)
-- Leads to [Crystal Caverns (D&D_References)]]
+- Related: [[Crystal Caverns (D&D_References)]]
 - See also: [[step_001 (phase_015)
 - Compare with [step_054 (phase_045)]]
-- Parallels [[NPC01740_Nerys_Blackstone_the_Risen
-- Requires [ITEM01301_Simple_Rope_of_Quality]]
+- Parallels [[NPC01740_Nerys_Blackstone_the_Risen]]
 - Related: [[step_003 (phase_074)
 - Related: [Cultural Integration]]
 - Originates from [[step_058 (phase_084)
@@ -203,8 +197,7 @@ Provides information for a price
 - Connects to [Handout Handout Docking Permit V2 Docking Permit.png]]
 - Parallels [[Assets Locations Location City Port Meridian Merchant Quarter V1 Port Meridian Merchant Quarter.svg
 - Affected by [Senior Temporal Engineer Chronos Fieldwright 2]]
-- Leads to [[The Five Towers
-- Originates from [Academy of International Relations]]
+- Leads to [[Academy of International Relations]]
 - Requires [[Primordial Ward Xge
 - Leads to
 - Influences [Symbol Heraldry Chaplain Abyssos the Deepseeke V1 Chaplain Abyssos the Deepseeke.svg]]
@@ -216,12 +209,10 @@ Provides information for a price
 - Connects to [swarm-of-piranhas-xmm (beast)]]
 - Originates from [[bard-xphb-college-of-valor-xphb (classes)
 - Originates from [The Crystal Amphitheater (D&D_References)]]
-- Compare with [[Circle of Eternal Seasons
-- Compare with [NPC00710_Corvus_Quicksilver_the_Scholar]]
+- Compare with [[NPC00710_Corvus_Quicksilver_the_Scholar]]
 - Related: [[The Seven Shards 2
 - Influences [figurine-of-wondrous-power-marble-elephant-xdmg]]
-- See also: [[Religious Purists (D&D_References)
-- Parallels [Mind Spike Xphb]]
+- See also: [[Religious Purists (D&D_References)]]
 - Originates from [[Depth Walker Zephys
 - Compare with [step_071 (phase_032)]]
 - Originates from [[Shadow Reflection Sage
@@ -231,10 +222,8 @@ Provides information for a price
 - Compare with [[The Shadow Integration
 - Leads to
 - Related: [Sleep_Magic]]
-- Related: [[Tactical Combat Options 2
-- Parallels [Dungeon History]]
-- Related: [[Temple of Perpetual Tides (D&D_References)
-- Originates from [step_048 (phase_067)]]
+- Related: [[Tactical Combat Options 2]]
+- Related: [[Temple of Perpetual Tides (D&D_References)]]
 - Related: [[ITEM00432_Enchanted_Helm_of_Protection
 - Originates from [ENC00269_Combat_Encounter_270]]
 - Compare with [[Assets Locations Location City the Last Words V1 the Last Words.svg
@@ -243,22 +232,17 @@ Provides information for a price
 - Leads to
 - Requires
 - Compare with [Magnus Ledgerkeep]]
-- Compare with [[Brass Dragon Wyrmling Xmm
-- Requires [NPC00153_Cedric_Youngblood_the_Mystic]]
+- Compare with [[NPC00153_Cedric_Youngblood_the_Mystic]]
 - Compare with [[Creature Creature Nightmare Xmm V2 Nightmare Xmm.png
 - Compare with [Aquabyssos University]]
-- Originates from [[step_089 (phase_094)
-- Requires [LOC00238_Dungeons_Location_239]]
-- Leads to [[Translator Marina Polyglot (D&D_References)
-- Related: [aasimar-xphb (races)]]
+- Originates from [[LOC00238_Dungeons_Location_239]]
+- Leads to [[Translator Marina Polyglot (D&D_References)]]
 - Originates from [[Quest - Criminal Alliance_1 (01_Adventures)
 - Originates from [location-city-regional-courts-regional-courts.svg]]
 - Compare with [[step_055 (phase_058)
 - Compare with [true-resurrection-xphb (spells)]]
-- Related: [[Pressure Conspiracy
-- Parallels [LORE0025_History_of_the_Dragon_Wars]]
-- Leads to [[kobold-names-vgm (tables)
-- Related: [LOC00169_Wilderness_Location_170]]
+- Related: [[LORE0025_History_of_the_Dragon_Wars]]
+- Leads to [[LOC00169_Wilderness_Location_170]]
 - See also: [[Skyfall Observatory 2
 - Influences [Scene Scene Airship Docks Riot Airship Docks Riot.svg]]
 - Leads to [[arcane-study-charm-xdmg (rewards)]]

@@ -176,8 +176,7 @@ Offers deal too good to refuse
 - Originates from [Detection Technology Laboratory]]
 - See also: [[ITEM00123_Radiant_Spear_of_the_Ancients
 - Originates from [Imperial Vaults 2]]
-- Compare with [[DUN00038_Dungeon_39
-- Related: [LOC00173_Dungeons_Location_174]]
+- Compare with [[LOC00173_Dungeons_Location_174]]
 - Related: [[Assets Locations Location City Heart of Eternal Vigilance V1 Heart of Eternal Vigilance.svg
 - Originates from [ITEM01281_Greater_Crystal_of_Swiftness]]
 - Compare with [[LOC0077_NewPeak
@@ -191,8 +190,7 @@ Offers deal too good to refuse
 - Related: [[Assets Locations Location City Warrior Thane Visionward Warrior Thane Visionward.svg
 - Related:
 - Parallels [Portrait NPC Quest the Pressure Cure V2 Quest the Pressure Cure.svg]]
-- Leads to [[Quest - The Collective Consciousness
-- Influences [cast-off-armor-xdmg (items)]]
+- Leads to [[Quest - The Collective Consciousness]]
 - Compare with [[Treaty of Seven Skies
 - Connects to [Symbol Heraldry the Echo Succession V1 the Echo Succession.svg]]
 - Compare with [[The Seven Shards Mystery
@@ -200,15 +198,12 @@ Offers deal too good to refuse
 - Affected by [Hybrid Ecology]]
 - Affected by [[Paradox Elimination Squad
 - See also: [star-spawn-grue-mpmm (aberration)]]
-- Connects to [[LORE00273_History_Entry_274
-- Connects to [Information Broker Whisper Goldtongu]]
+- Connects to [[Information Broker Whisper Goldtongu]]
 - Influences
 - Requires [[Assets Locations Location City Wise Tide Truthseeker Wise Tide Truthseeker.svg
 - Affected by [step_049 (phase_098)]]
-- Influences [[step_059 (phase_072)
-- Leads to [LOC00009_Dungeons_Location_10]]
-- Compare with [[Deep Current Flowmaster (D&D_References)
-- Requires [LORE0044_Secret_of_the_Dark_Times]]
+- Influences [[LOC00009_Dungeons_Location_10]]
+- Compare with [[Deep Current Flowmaster (D&D_References)]]
 - See also: [[Armor of Poison Resistance Xdmg
 - Related: [Assets Art the Kelp Highway.png]]
 - Connects to [[location-city-express-racers-v1-express-racers.svg
@@ -219,10 +214,8 @@ Offers deal too good to refuse
 - Connects to [step_054 (phase_051)]]
 - Related: [[step_026 (phase_040)
 - Related: [5 Credits]]
-- Related: [[A Sample Pantheon Dawn War Deities
-- Related: [NPC01785_Aldric_Brightblade_the_Redeemed]]
-- Influences [[Senator Morticia Graveheart
-- Influences [step_025 (phase_100)]]
+- Related: [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- Influences [[Senator Morticia Graveheart]]
 - Requires
 - Affected by [[step_011 (phase_045)
 - Leads to
@@ -240,14 +233,11 @@ Offers deal too good to refuse
 - Leads to [[LOC00055_Cities_Location_56
 - Related:
 - Influences [Cora Peaceweaver]]
-- Influences [[4-gith-and-their-endless-war (mordenkainens-tome-of-foes)
-- See also: [Senator Cornelius Depthwalker]]
+- Influences [[4-gith-and-their-endless-war (mordenkainens-tome-of-foes)]]
 - Related: [[step_013 (phase_065)
 - Influences [step_096 (phase_095)]]
-- Influences [[Shadow Network 2
-- Leads to [SPELL00100_Arcane_Spell_101]]
-- Parallels [[The Crystal Depths
-- Related: [Central Crystal Processing Plant (D&D_References)]]
+- Influences [[SPELL00100_Arcane_Spell_101]]
+- Parallels [[Central Crystal Processing Plant (D&D_References)]]
 - Compare with [[Quest - Faith and Doubt_1 (01_Adventures)
 - Parallels [ENC00067_Combat_Encounter_68]]
 - Parallels [[Location City Embassy District V1 Embassy District.svg

@@ -54,5 +54,4 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [02_Worldbuilding_Lore_The_Reality_Engine]]
-- [[Post-Merge Chronology
-- [Unite the Recursions]]
+- [[Post-Merge Chronology]]

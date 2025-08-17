@@ -164,30 +164,23 @@ Seeks rare merchandise
 - Compare with [The Corruption Codex]]
 - Originates from [[Rumor Mill Networ
 - Originates from [step_094 (phase_022)]]
-- Connects to [[step_033 (phase_091)
-- Related: [Adult Education Programs (D&D_References)]]
-- Compare with [[ENC00158_Social_Encounter_159
-- Requires [FINAL_LEAN_IMPROVEMENTS_COMPLETE]]
-- Originates from [[NPC01775_Baelor_Emberfall_the_Mystic
-- Influences [LORE00254_History_Entry_255]]
+- Connects to [[Adult Education Programs (D&D_References)]]
+- Compare with [[FINAL_LEAN_IMPROVEMENTS_COMPLETE]]
+- Originates from [[NPC01775_Baelor_Emberfall_the_Mystic]]
 - Leads to [[Iron Pot Xphb
 - Influences [step_048 (phase_078)]]
 - Compare with [[Portrait NPC God King Aetheron V1 God King Aetheron.svg
 - See also: [Port Authority]]
 - See also: [[LORE00001_History_Entry_2
 - Influences [step_096 (phase_098)]]
-- Influences [[Goldspire Expedition 2
-- Connects to [The Speaking Stones (D&D_References)]]
-- Influences [[Grand Chronarch Echo Causality
-- Requires [step_057 (phase_013)]]
+- Influences [[The Speaking Stones (D&D_References)]]
+- Influences [[Grand Chronarch Echo Causality]]
 - See also: [[Assets Locations Location City Deep Stone Eaters V1 Deep Stone Eaters.svg
 - See also: [Pressure Wraiths (D&D_References)]]
-- Originates from [[LOC00228_Dungeons_Location_229
-- Requires [step_018 (phase_053)]]
+- Originates from [[LOC00228_Dungeons_Location_229]]
 - Originates from [[Portrait NPC Deep Mother Cultist Profiles V1 Deep Mother Cultist Profiles.svg
 - Related: [LOC00297_Dungeons_Location_298]]
-- Influences [[Military Bases 2
-- See also: [Quest - The Sacred Flame]]
+- Influences [[Quest - The Sacred Flame]]
 - Requires [[Western Frontier
 - Originates from [Assets Locations Location City Merchant Prince Akula V1 Merchant Prince Akula.png]]
 - Compare with [[Groff Scc
@@ -196,35 +189,28 @@ Seeks rare merchandise
 - Leads to [Assets Locations Location City Prism Sword V1 Prism Sword.svg]]
 - Related: [[The_Professional_Training_Academy (Places)
 - Requires [Deep Conservative Alliance]]
-- Affected by [[Economic Justice Debates
-- See also: [Wandering Prophet Coral Stormrider]]
+- Affected by [[Wandering Prophet Coral Stormrider]]
 - Originates from [[Elf Deities the Seldarine Mtf
 - Influences
 - Requires [Imperial Navy]]
 - Compare with [[Assets Art Princess Celestia.png
 - Parallels [Assets Locations Location City the Pearl Markets the Pearl Markets.svg]]
-- Compare with [[step_051 (phase_038)
-- Originates from [NPC01445_Jorah_Proudmore_the_Wanderer]]
+- Compare with [[NPC01445_Jorah_Proudmore_the_Wanderer]]
 - Parallels [[step_074 (phase_074)
 - Compare with [LORE00209_Prophecies_Entry_210]]
 - Originates from [[EVENT00010_Magical_Event_11
 - Leads to [SPELL00026_Divine_Spell_27]]
 - See also:
 - Affected by
-- Related: [[cloaker-xmm (aberration)
-- Influences [Storyteller Memorykeeper (D&D_References)]]
+- Related: [[Storyteller Memorykeeper (D&D_References)]]
 - Related: [[step_059 (phase_010)
 - Compare with [ITEM00848_Time-worn_Scepter_of_Truth]]
-- Influences [[NPC01199_Delara_Ravenheart_the_Fallen
-- Influences [LORE00261_History_Entry_262]]
-- Parallels [[LOC00206_Cities_Location_207
-- Leads to [sahuagin-baron-xmm]]
-- Affected by [[Faction_War_Campaign_Act_Structure (D&D_Sourcebooks)
-- Connects to [ITEM00093_Venomous_Staff_of_Power]]
+- Influences [[NPC01199_Delara_Ravenheart_the_Fallen]]
+- Parallels [[LOC00206_Cities_Location_207]]
+- Affected by [[Faction_War_Campaign_Act_Structure (D&D_Sourcebooks)]]
 - Compare with [[Truth-seeker's Lens
 - Parallels [step_030 (phase_054)]]
-- Compare with [[QUEST00193_Personal_Quest_194
-- Requires [Investigation Procedures (D&D_References)]]
+- Compare with [[Investigation Procedures (D&D_References)]]
 - Connects to [[neothelid-mpmm (aberration)
 - See also: [QUEST00034_Main_Quest_35]]
 - Parallels [[Assets Locations Location City Historical Societies V1 Historical Societies.svg
@@ -234,21 +220,16 @@ Seeks rare merchandise
 - Influences [Roleplaying an Orc Orc Flaws Vgm]]
 - Influences [[List Spells Classes Celestial Patron Xphb
 - Compare with [Aquabyssos Cultural Codex 2]]
-- See also: [[Loop-Walker Celia
-- Parallels [X-005_Dream_Sailing_Convoy]]
+- See also: [[X-005_Dream_Sailing_Convoy]]
 - Leads to [[step_068 (phase_040)
 - Requires [step_099 (phase_014)]]
 - Originates from [[Shadow Energy Addiction 2
 - See also:
 - Parallels [Assets Locations Location City Pip Goldleaf Pip Goldleaf.svg]]
-- Affected by [[step_003 (phase_068)
-- Leads to [ENC00183_Combat_Encounter_184]]
-- Originates from [[QUEST00373_Side_Quest_374
-- Requires [MON00145_Aberrations_Creature_146]]
-- See also: [[QUEST00220_Side_Quest_221
-- See also: [Aethermoor to Aquabyssos Transition Guide (D&D_References)]]
-- Affected by [[The Dueling Chambers
-- Related: [Political Leader Reef-Crown (D&D_References)]]
+- Affected by [[ENC00183_Combat_Encounter_184]]
+- Originates from [[MON00145_Aberrations_Creature_146]]
+- See also: [[Aethermoor to Aquabyssos Transition Guide (D&D_References)]]
+- Affected by [[Political Leader Reef-Crown (D&D_References)]]
 - Connects to [[blowgun-xphb (items)
 - Leads to [04_Resources_Assets_Locations_location-city-lady-vivienne-the-unfrozen-lady-vivienne-the-unfrozen.svg]]
 - Compare with

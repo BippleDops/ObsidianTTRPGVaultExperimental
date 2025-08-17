@@ -201,30 +201,25 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [Assets Locations Location City Mad Prophet Silas the Depth Touched V1 Mad Prophet Silas the Depth Touched.svg]]
 - Requires [[Current_Scene (02_Worldbuilding)
 - Leads to [step_051 (phase_088)]]
-- Connects to [[ITEM0040_Ancient_Gauntlet_of_Power
-- Requires [step_079 (phase_041)]]
-- Related: [[Fiora_Frostbeard
-- Affected by [Shadow Community Political Centers]]
+- Connects to [[ITEM0040_Ancient_Gauntlet_of_Power]]
+- Related: [[Shadow Community Political Centers]]
 - Leads to [[step_093 (phase_070)
 - Related: [Earth Elemental Xmm]]
 - See also: [[Bestial Spirit Land Xphb
 - Affected by [Sunken Palace of Tides]]
 - Leads to [[Deep Guard (D&D_References)
 - Leads to [ITEM01323_Decorated_Lantern_of_Convenience]]
-- Requires [[object-hit-points (tables)
-- Compare with [Parliament of Echoes - Shadow Chamber]]
+- Requires [[Parliament of Echoes - Shadow Chamber]]
 - Leads to [[The Sunken Observatory
 - Affected by [LOC00247_Cities_Location_248]]
-- Affected by [[step_014 (phase_074)
-- Originates from [Environmental Protection Specialist]]
+- Affected by [[Environmental Protection Specialist]]
 - Requires [[MON00142_Undead_Creature_143
 - Affected by [LORE00070_History_Entry_71]]
 - Requires [[Depth Corruption System
 - Parallels [portrait-npc-the-barnacle-the-barnacle.svg]]
 - Requires [[LORE00089_Prophecies_Entry_90
 - Related: [step_053 (phase_056)]]
-- Connects to [[Faction Reputation
-- Connects to [Session 18 - Queen's Gambit]]
+- Connects to [[Session 18 - Queen's Gambit]]
 - Related: [[owlin-scc (races)
 - Leads to [The Paradox Engine]]
 - See also:
@@ -248,8 +243,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [QUEST0032_In_Search_of_Peace]]
 - Related: [[ITEM00571_Dragon_Scale_Helm_of_Protection
 - See also: [step_008 (phase_090)]]
-- Requires [[step_015 (phase_071)
-- Influences [Cross-Realm Campaign Offices 2]]
+- Requires [[Cross-Realm Campaign Offices 2]]
 - Affected by [[Symbol Heraldry Transformation Techniques V1 Transformation Techniques.svg
 - Compare with [step_070 (phase_031)]]
 - Parallels [[step_073 (phase_078)
@@ -257,31 +251,25 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to
 - Parallels [[step_046 (phase_060)
 - Affected by [LORE00298_Legends_Entry_299]]
-- Connects to [[The Thornfield District (D&D_References)
-- Compare with [step_025 (phase_097)]]
-- Connects to [[The Crystal Gardens 2
-- Influences [NPC01571_Brenna_Dawnstrider_the_Cunning]]
-- Originates from [[SPELL00027_Nature_Spell_28
-- Connects to [Dangerous Goods Storage (D&D_References)]]
+- Connects to [[The Thornfield District (D&D_References)]]
+- Connects to [[NPC01571_Brenna_Dawnstrider_the_Cunning]]
+- Originates from [[Dangerous Goods Storage (D&D_References)]]
 - Compare with [[Pressure Combat Modifiers (D&D_References)
 - See also: [Assets Locations Location City Crystal Powered Vessels V1 Crystal Powered Vessels.svg]]
-- Related: [[The Hidden Cove of Whispers (D&D_References)
-- Related: [Elder Willow Moonwhisper 2]]
+- Related: [[The Hidden Cove of Whispers (D&D_References)]]
 - Leads to [[step_027 (phase_076)
 - Leads to [02_Worldbuilding_Military_Combat_Healers_Quick_Ref]]
 - Related: [[step_017 (phase_098)
 - Leads to [Tag_Navigation]]
 - See also: [[Portrait NPC the Smuggler S Den V2 the Smuggler S Den.svg
 - Requires [Natural Weapons]]
-- Connects to [[08-chapter-8-audience-in-gauntlgrym (out-of-the-abyss)
-- Parallels [Eberron the Traveler]]
+- Connects to [[08-chapter-8-audience-in-gauntlgrym (out-of-the-abyss)]]
 - Leads to [[Levels 1116 Masters of the Realm Levels 1116
 - Leads to [Master Wind Singer Melody Tradition (NPCs)]]
 - Affected by [[step_087 (phase_095)
 - Originates from
 - Affected by [Assets Art the Pressure Crown.png]]
-- Originates from [[NPC00682_Nerys_Ashford_the_Broken
-- Related: [Red Dragon]]
+- Originates from [[NPC00682_Nerys_Ashford_the_Broken]]
 - Requires [[sending-xphb (spells)
 - Connects to [LOC00026_Planes_Location_27]]
 - Leads to [[step_089 (phase_065)
@@ -291,8 +279,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[Location City Embassy Quarter V1 Embassy Quarter.svg
 - Compare with
 - Connects to [Quest The Refugee Evacuation]]
-- Compare with [[step_099 (phase_086)
-- Connects to [QUEST0013_The_Shadow_Realm_Mystery]]
+- Compare with [[QUEST0013_The_Shadow_Realm_Mystery]]
 - Affected by [[Portal Network (D&D_References)
 - Requires [ITEM00022_Thunder_Staff_of_Slaying]]
 - Requires [[Crystal Corruption]]

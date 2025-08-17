@@ -25,5 +25,8 @@
   "alt_text": "Concept art of hobgoblin-warlord-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-hobgoblin-warlord-xmm-v4-hobgoblin-warlord-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-hobgoblin-warlord-xmm-v4-hobgoblin-warlord-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:04:42.522Z",
+  "generationMethod": "ComfyUI"
 }

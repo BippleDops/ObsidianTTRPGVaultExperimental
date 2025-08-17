@@ -25,5 +25,8 @@
   "alt_text": "Concept art of scorpion-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-scorpion-xmm-v2-scorpion-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-scorpion-xmm-v2-scorpion-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:08:40.222Z",
+  "generationMethod": "ComfyUI"
 }

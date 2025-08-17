@@ -278,6 +278,5 @@ ___
 
 - [[Assets Locations Location City Crystal Master Prism Lightweaver V1 Crystal Master Prism Lightweaver.svg
 - [Korvin Blacktide]]
-- [[Memory Merchant Zephyr Mindweaver
-- [Korvin Blacktide (D&D_References)]]
+- [[Memory Merchant Zephyr Mindweaver]]
 - [[Memory Merchant Zephyr Mindweaver (D&D_Statblocks)]]

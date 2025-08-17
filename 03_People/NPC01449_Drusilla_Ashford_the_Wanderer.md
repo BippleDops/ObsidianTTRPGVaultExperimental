@@ -161,16 +161,14 @@ Knows secret about major threat
 - Connects to [portrait-npc-shadow-embassy-v2-shadow-embassy.svg]]
 - Compare with [[NPC Name Generator 2
 - Connects to [LOC00054_Planes_Location_55]]
-- Compare with [[NPC01857_Wynne_Crystalbrook_the_Mystic
-- Related: [step_067 (phase_100)]]
+- Compare with [[NPC01857_Wynne_Crystalbrook_the_Mystic]]
 - Influences [[bridesmaid-of-zuggtmoy-oota (plant)
 - See also: [Guildmaster Supreme Arcturus Mastery]]
 - Parallels [[fiery-blast-trap-xge (traps-hazards)
 - Compare with [step_014 (phase_049)]]
 - Leads to [[Monsters by Habitat Mountain Monsters Xmm
 - Affected by [Assets Locations Location City the Observatory the Observatory.svg]]
-- Originates from [[Cape of the Mountebank Xdmg
-- Influences [Template_StarSystem_Placeholder.png (09_Templates)]]
+- Originates from [[Template_StarSystem_Placeholder.png (09_Templates)]]
 - Influences [[Assets Locations Location City Forge Master Petra Hammerdeep Forge Master Petra Hammerdeep.svg
 - See also:
 - Compare with [LORE00038_Legends_Entry_39]]
@@ -179,8 +177,7 @@ Knows secret about major threat
 - Influences [step_013 (phase_047)]]
 - Compare with [[NPC00005_Urien_Silverleaf
 - Affected by [LOC00116_Dungeons_Location_117]]
-- Leads to [[NPC01036_Alaric_Grimholt_the_Scholar
-- Connects to [MON00107_Undead_Creature_108]]
+- Leads to [[NPC01036_Alaric_Grimholt_the_Scholar]]
 - See also: [[Bone Scribes 2
 - Parallels [step_027 (phase_040)]]
 - Influences [[step_055 (phase_019)
@@ -193,10 +190,8 @@ Knows secret about major threat
 - Compare with [Assets Locations Location City Duchess Cordelia Pearlheart Duchess Cordelia Pearlheart.svg]]
 - Influences [[step_007 (phase_097)
 - Compare with [Current Peaceweaver 2]]
-- Compare with [[Magical Engineer Reef Spellbreath (D&D_References)
-- Leads to [roleplaying-a-mind-flayer-mind-flayer-flaws-vgm]]
-- Originates from [[deck-of-many-things#Throne
-- Parallels [Royal Government]]
+- Compare with [[Magical Engineer Reef Spellbreath (D&D_References)]]
+- Originates from [[deck-of-many-things#Key]]
 - See also: [[Assets Locations Location City Aethermoor Aethermoor.svg
 - Requires [step_048 (phase_087)]]
 - Compare with [[location-city-depth-plague-depth-plague.svg
@@ -207,16 +202,13 @@ Knows secret about major threat
 - Affected by [sphinx-xmm (legendary-group)]]
 - Originates from [[scholars-of-witherbloom-witherbloom-scholars-scc
 - Originates from [Monsters by Habitat Any Habitat Monsters Xmm]]
-- Originates from [[step_024 (phase_068)
-- Affected by [The Order of the Shattered Crown 2]]
+- Originates from [[The Order of the Shattered Crown 2]]
 - Affected by [[ITEM00651_Mithril_Gauntlets_of_the_Guardian
 - Requires [Padded Armor Xphb]]
 - See also: [[giant-wolf-spider-xmm
 - Parallels [Portrait NPC Castellan Ironledger Iii V1 Castellan Ironledger Iii.svg_1 (Portraits)]]
-- Parallels [[Doctrine Quick Reference (Doctrines)
-- Originates from [High Council]]
-- Affected by [[Unite the Recursions
-- Requires [Reality Monitoring Specialists (D&D_References)]]
+- Parallels [[Doctrine Quick Reference (Doctrines)]]
+- Affected by [[Reality Monitoring Specialists (D&D_References)]]
 - Compare with [[Location City Liberty Coalition V1 Liberty Coalition.svg
 - Connects to
 - Connects to [Saving Throws Proficiency Bonus by Challenge Rating Mm]]
@@ -248,14 +240,12 @@ Knows secret about major threat
 - Connects to [winged-kobold-xmm]]
 - Originates from [[step_095 (phase_057)
 - Compare with [step_036 (phase_080)]]
-- Influences [[The Pressure-Crystal Synthesis Project
-- Related: [LORE00057_Legends_Entry_58]]
+- Influences [[The Pressure-Crystal Synthesis Project]]
 - Leads to [[Key_Locations (02_Worldbuilding)
 - Connects to [NPC00164_Solas_Thornweave]]
 - Originates from [[potion-of-animal-friendship-xdmg (items)
 - Originates from [step_066 (phase_035)]]
-- Influences [[LORE00021_Prophecies_Entry_22
-- Originates from [Portrait NPC Bank... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Influences [[Portrait NPC Bank... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[step_009 (phase_095)
 
 ## Visual References

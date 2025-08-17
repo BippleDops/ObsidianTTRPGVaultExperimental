@@ -1,7 +1,6 @@
 ---
 
-title: The Great [[Festival Grounds
-type: [Lore]]
+title: The Great [[Festival Grounds]]
 tags:
 - lore
 - worldbuilding

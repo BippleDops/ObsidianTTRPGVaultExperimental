@@ -25,5 +25,8 @@
   "alt_text": "Concept art of giant-seahorse-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-giant-seahorse-xmm-v3-giant-seahorse-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-giant-seahorse-xmm-v3-giant-seahorse-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:03:12.629Z",
+  "generationMethod": "ComfyUI"
 }

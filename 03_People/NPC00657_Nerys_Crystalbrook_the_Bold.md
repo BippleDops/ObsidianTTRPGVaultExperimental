@@ -167,45 +167,37 @@ Discovered something valuable
 
 ## Connections
 
-- Leads to [[LOC00107_Dungeons_Location_108
-- Requires [library]]
+- Leads to [[LOC00107_Dungeons_Location_108]]
 - Affected by [[ITEM00378_Shadow_Bow_of_Wounding
 - Compare with [Assets Locations Location City Spy Games V1 Spy Games.svg]]
 - Affected by [[step_085 (phase_083)
 - Connects to [step_008 (phase_062)]]
-- Influences [[NPC00085_Pyria_Xendar_the_Seeker
-- Connects to [QUEST00049_Side_Quest_50]]
+- Influences [[NPC00085_Pyria_Xendar_the_Seeker]]
 - Parallels
 - Influences [[step_002 (phase_062)
 - Compare with [monk-xphb-warrior-of-shadow-xphb (classes)]]
-- Originates from [[step_081 (phase_024)
-- See also: [High Diplomat Coral Bridgewater (Lore)]]
+- Originates from [[High Diplomat Coral Bridgewater]]
 - Requires [[Location City Theological Education Theological Education.svg
 - Leads to
 - Related: [saddlebags]]
 - Originates from [[ITEM01325_Practical_Lantern_of_Durability
 - Connects to [Location City Sunlight Crystal V1 Sunlight Crystal.svg]]
 - Originates from
-- Parallels [[Temple of Divine Order
-- Requires [Symbols - Faction_Heraldry (D&D_References)]]
-- Originates from [[perception-and-encounters-audible-distance-xdmg
-- Requires [step_094 (phase_082)]]
+- Parallels [[Symbols - Faction_Heraldry (D&D_References)]]
+- Originates from [[perception-and-encounters-audible-distance-xdmg]]
 - Originates from [[LORE00045_Legends_Entry_46
 - Parallels [Underwater_Combat]]
-- Influences [[Merchant of Shadows 2
-- Leads to [Underwater Medical Society]]
+- Influences [[Underwater Medical Society]]
 - Related: [[LORE00078_Legends_Entry_79
 - Influences [Manual of Iron Golems Xdmg]]
 - Compare with [[gnome-tables-gnome-bonds-mtf (tables)
 - Affected by [wall-of-thorns-xphb (spells)]]
 - Compare with [[Portrait NPC High Priest Dagon Deepcaller High Priest Dagon Deepcaller.svg_1 (Portraits)
 - Connects to [NPC00909_Malakai_Goldleaf_the_Mystic]]
-- Related: [[NPC01671_Thalia_Zephyrblade_the_Fallen
-- Compare with [Duke Sterling Truecrystal]]
+- Related: [[NPC01671_Thalia_Zephyrblade_the_Fallen]]
 - Influences [[step_095 (phase_099)
 - Requires [ITEM00118_Cursed_Bow_of_Accuracy]]
-- Connects to [[Kelp-Based Brewing (D&D_References)
-- Leads to [step_007 (phase_066)]]
+- Connects to [[Kelp-Based Brewing (D&D_References)]]
 - Affected by [[sorcerer-xphb-clockwork-sorcery-xphb (classes)
 - Parallels [Noble Titles and Ranks (D&D_References)]]
 - Related: [[LORE00195_History_Entry_196
@@ -214,16 +206,13 @@ Discovered something valuable
 - Parallels [[step_073 (phase_044)
 - Influences
 - Parallels [giant-slayer-xdmg (items)]]
-- Connects to [[Port Sorrow Trading Company 2
-- Compare with [step_009 (phase_060)]]
+- Connects to [[Port Sorrow Trading Company 2]]
 - Connects to [[Deepwater Gold
 - Related:
 - Originates from [04_Resources_Assets_Locations_location-city-living-stone-v1-living-stone.svg]]
-- Affected by [[DUN00015_Dungeon_16
-- Parallels [QUEST00330_Side_Quest_331]]
+- Affected by [[QUEST00330_Side_Quest_331]]
 - Related:
-- Requires [[Deep Mother Protocol (D&D_References)
-- Affected by [Tower of Echoes 2]]
+- Requires [[Deep Mother Protocol (D&D_References)]]
 - Parallels [[step_094 (phase_009)
 - Affected by [step_094 (phase_096)]]
 - See also: [[portrait-npc-senator-v1-senator.svg_1 (Portraits)
@@ -237,15 +226,12 @@ Discovered something valuable
 - Related: [[step_077 (phase_077)
 - Connects to [creature-creature-sphinx-xmm-v4-sphinx-xmm.png]]
 - Leads to
-- Related: [[Communications Director Whisper (D&D_References)
-- Parallels
-- Compare with [Abyssal Flora (D&D_References)]]
+- Related: [[Communications Director Whisper (D&D_References)]]
 - Parallels [[Generic Object
 - Influences [location-city-royal-ports-royal-ports.svg]]
 - Requires [[step_032 (phase_060)
 - Requires [Aboleth Mind Mazes (Lore)]]
-- See also: [[Master_Item_Catalog
-- Related: [Professor Reef Growthseeker 2]]
+- See also: [[Professor Reef Growthseeker 2]]
 - See also: [[step_063 (phase_097)
 - See also: [Assets Locations Location City the Noble Quarter Market the Noble Quarter Market.svg]]
 - Compare with [[monk-xphb-warrior-of-the-elements-xphb (classes)
@@ -258,12 +244,10 @@ Discovered something valuable
 - Requires [[Location City Tide Welcomeheart Tide Welcomeheart.svg
 - See also: [Githzerai Monk Xmm]]
 - Affected by
-- Originates from [[DUN00006_Dungeon_7
-- Parallels [NPC01109_Rhiannon_Winterborn_the_Mystic]]
+- Originates from [[NPC01109_Rhiannon_Winterborn_the_Mystic]]
 - Leads to [[Subtle Spell Xphb
 - Connects to [Random_Tavern (02_Worldbuilding)]]
-- Influences [[Customer Relations Director Seraphina Calmcurrent
-- Connects to [step_049 (phase_046)]]
+- Influences [[Customer Relations Director Seraphina Calmcurrent]]
 - Affected by [[gnoll-demoniac-xmm (fiend)
 - Compare with [step_079 (phase_010)]]
 - Requires [[QUEST00011_Main_Quest_12

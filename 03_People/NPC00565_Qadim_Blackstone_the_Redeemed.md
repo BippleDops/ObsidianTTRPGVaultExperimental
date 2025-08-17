@@ -171,14 +171,11 @@ Being extorted by criminals
 - Influences [grassland-encounters-levels-15-xge (tables)]]
 - Related: [[Assets Locations Location City the Temporal Convergence Storms V1 the Temporal Convergence Storms.svg
 - Parallels [step_008 (phase_045)]]
-- Requires [[green-hag-xmm
-- Compare with [Military Intelligence 2]]
-- Compare with [[Fey Teleportation Xge
-- See also: [Organizations the Unity Coalition]]
+- Requires [[Military Intelligence 2]]
+- Compare with [[Organizations the Unity Coalition]]
 - Leads to [[step_035 (phase_046)
 - Affected by [Figurine of Wondrous Power Marble Elephant]]
-- Leads to [[Dart Xphb
-- Compare with [NPC00698_Dara_Oakenshield_the_Swift]]
+- Leads to [[NPC00698_Dara_Oakenshield_the_Swift]]
 - Requires [[LORE00327_History_Entry_328
 - Requires [Style Guide (D&D_References)]]
 - Requires [[Location City Surface Contact Prohibition Surface Contact Prohibition.svg
@@ -191,8 +188,7 @@ Being extorted by criminals
 - Connects to [INV-007 2]]
 - Requires [[Modron Monodrone Xmm
 - Leads to [QUEST00089_Main_Quest_90]]
-- Compare with [[System Cli Spells School Enchantment
-- Compare with [LOC00281_Dungeons_Location_282]]
+- Compare with [[System Cli Spells School Enchantment]]
 - Influences [[ENC00220_Social_Encounter_221
 - Leads to [ENC00312_Combat_Encounter_313]]
 - See also: [[FAC00020_Cults_21
@@ -208,8 +204,7 @@ Being extorted by criminals
 - Originates from
 - Related: [[DUN00157_Dungeon_158
 - Parallels [Wilderness Chase Complications]]
-- Related: [[NPC01921_Erasmus_Youngblood_the_Seeker
-- Requires [step_011 (phase_048)]]
+- Related: [[NPC01921_Erasmus_Youngblood_the_Seeker]]
 - Leads to [[grassland-encounters-levels-1116-xge (tables)
 - Affected by [Stormwind's Navigation Crystal 2]]
 - Parallels [[Portrait NPC Deepwater Banking Consortium Deepwater Banking Consortium.svg_1 (Portraits)
@@ -229,8 +224,7 @@ Being extorted by criminals
 - Requires [FAC00081_Cults_82]]
 - Parallels [[Witness Protection Network 2
 - Influences [LORE00158_Prophecies_Entry_159]]
-- Connects to [[Deep Watchfulrest (D&D_References)
-- Affected by [Pressure Kelp]]
+- Connects to [[Deep Watchfulrest (D&D_References)]]
 - Connects to [[MON00154_Aberrations_Creature_155
 - Requires [Saving Throws Proficiency Bonus by Challenge Rating Mm]]
 - Influences [[Commander Reef Shadowstrike 2
@@ -246,10 +240,8 @@ Being extorted by criminals
 - See also: [Portrait NPC Ice Kingdom Spirits Ice Kingdom Spirits.svg]]
 - Leads to [[LOC00264_Planes_Location_265
 - Leads to [gith-tables-githyanki-personality-traits-mtf (tables)]]
-- Influences [[SPELL00133_Divine_Spell_134
-- Parallels [Independent Merchant]]
-- Leads to [[The Memory Wardens (D&D_References)
-- Leads to [Truth-Seeker Cornelius]]
+- Influences [[SPELL00133_Divine_Spell_134]]
+- Leads to [[The Memory Wardens (D&D_References)]]
 - Compare with
 - Connects to [[MON0036_Void_Guardian
 - Leads to [Blessing of Valhalla Xdmg]]
@@ -258,8 +250,7 @@ Being extorted by criminals
 - Leads to [[inferno-xdmg (traps-hazards)
 - Parallels [04_Resources_Assets_Locations_location-city-ghost-of-dr-thaddeus-brightwater-ghost-of-dr-thaddeus-brightwater.svg]]
 - Parallels
-- Originates from [[Shard Powers and Effects
-- Related: [Trade Networks 2]]
+- Originates from [[Shard Powers and Effects]]
 - See also:
 
 ## Plot Hooks

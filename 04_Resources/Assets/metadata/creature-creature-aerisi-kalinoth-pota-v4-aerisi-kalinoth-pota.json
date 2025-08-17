@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Create an illustration in a painterly style that aligns with the aesthetics of medieval-fantasy tabletop gaming. The subject is a heroic figure akin to an entity from a classical fantasy role-playing game, with emphasis on muscular structures and distinctive limbs. The gear should make sense in terms of the character's culture and environment, with no anachronisms like modern technology. The image will be a merging of underwater and sky zones, depicting motion, and the color palette will be restriction to three colors: teals, deep blues, and sea-greens, with pearl-like highlights for luminescence. Aim for realism with the fantasy elements, including effects on underwater lighting and bioluminescent accents. The materials should bring to mind structures able to withstand underwater pressures. The character will be contrasted with a human silhouette to provide a sense of scale. Make sure to avoid sci-fi interfaces, signs from the modern era, photorealistic CGI, anime visuals, and cluttering the image with random letters or symbols. Avoid any embedded text or words unless it's a part of the brief, and the generated image should be free from artifacts while adhering to the required resolution and aspect ratio.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-aerisi-kalinoth-pota-v4-aerisi-kalinoth-pota.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-aerisi-kalinoth-pota-v4-aerisi-kalinoth-pota.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:03.323Z",
+  "generationMethod": "ComfyUI"
 }

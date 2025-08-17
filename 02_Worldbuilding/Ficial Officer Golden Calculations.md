@@ -33,5 +33,4 @@ Further information about this topic will be developed as the campaign progresse
 ## References
 
 - [Financial Officer Golden Calculations]]
-- [[Commercial Hubs and Markets
-- [Commercial Hubs and Markets (D&D_References)]]
+- [[Commercial Hubs and Markets (D&D_References)]]

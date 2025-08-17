@@ -36,11 +36,8 @@ modified: '2025-08-14'
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-Comprehensive tracking system for faction relationships, conflicts, and alliances. ### wikilink_standardization_report **Connected Factions**: 0 direct connections ### Vault Enhancement Roadmap **Connected Factions**: 0 direct connections ### Link Integrity Report **Connected Factions**: 0 direct connections ### Master Campaign Index **Connected Factions**: 6 direct connections - [[Faction Tracker
-
-- [Complete Faction Warfare System]]
-- [[Faction Standing System
-- [Faction Guide]]
+Comprehensive tracking system for faction relationships, conflicts, and alliances. ### wikilink_standardization_report **Connected Factions**: 0 direct connections ### Vault Enhancement Roadmap **Connected Factions**: 0 direct connections ### Link Integrity Report **Connected Factions**: 0 direct connections ### Master Campaign Index **Connected Factions**: 6 direct connections - [[Complete Faction Warfare System]]
+- [[Faction Standing System]]
 - [[Faction Tracker]] ### Doctrine Quick Reference **Connected Factions**: 0 direct connections ### Encounter and Loot Generators **Connected Factions**: 0 direct connections ### Location Prompts **Connected Factions**: 0 direct connections ### Location_Prompts - Cities **Connected Factions**: 0 direct connections ### Symbols - Faction Heraldry **Connected Factions**: 0 direct connections ### Handouts - Document Designs **Connected Factions**: 0 direct connections ### Major Powers
 
 Factions with significant influence across multiple regions ### Regional Powers

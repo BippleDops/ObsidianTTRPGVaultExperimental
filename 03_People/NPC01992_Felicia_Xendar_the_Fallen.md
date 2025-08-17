@@ -165,8 +165,7 @@ Blackmails party into service
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -183,30 +182,24 @@ Blackmails party into service
 - Connects to [LORE00050_Prophecies_Entry_51]]
 - Compare with [[step_100 (phase_057)
 - Related: [Assets Locations Location City Archivist Stone Memorykeeper Archivist Stone Memorykeeper.svg]]
-- Connects to [[NPC01010_Ysara_Frostwhisper_the_Redeemed
-- Originates from [step_074 (phase_024)]]
-- Requires [[Depth's End Cathedral (D&D_References)
-- Related: [ITEM01229_Lesser_Incense_of_Healing]]
+- Connects to [[NPC01010_Ysara_Frostwhisper_the_Redeemed]]
+- Requires [[Depth's End Cathedral (D&D_References)]]
 - Leads to [[Portrait NPC Quest the Throne Succession V1 Quest the Throne Succession.svg
 - Connects to [step_042 (phase_071)]]
 - Connects to [[Assets Locations Location City Indigo Deepdye V1 Indigo Deepdye.svg
 - Leads to [Assets Locations Location City Temple of the Dawn V1 Temple of the Dawn.svg]]
-- Leads to [[ENC00060_Combat_Encounter_61
-- Leads to [step_044 (phase_081)]]
+- Leads to [[ENC00060_Combat_Encounter_61]]
 - Connects to [[Nurse Director Brightcare 2
 - Originates from [Weather and Season]]
 - Originates from [[step_057 (phase_073)
 - Connects to [step_033 (phase_015)]]
 - Parallels [[Session Zero Guide
 - Connects to [step_022 (phase_036)]]
-- Leads to [[QUEST0003_The_Crystal_Cave_Plague
-- Requires [Drowned]]
-- See also: [[NPC01005_Hestara_Zephyrblade_the_Broken
-- Related: [International Scholars 2]]
+- Leads to [[QUEST0003_The_Crystal_Cave_Plague]]
+- See also: [[NPC01005_Hestara_Zephyrblade_the_Broken]]
 - Related: [[MON00018_Constructs_Creature_19
 - Originates from [SPELL00046_Arcane_Spell_47]]
-- Connects to [[QUEST00196_Main_Quest_197
-- Requires [Museums]]
+- Connects to [[QUEST00196_Main_Quest_197]]
 - Compare with [[Assets Locations Location City Builder Adaptable V1 Builder Adaptable.svg
 - Originates from [Portrait NPC Captain Scale Walker Captain Scale Walker.svg]]
 - Leads to [[ENC00425_Combat_Encounter_426
@@ -218,10 +211,8 @@ Blackmails party into service
 - Affected by [[Quest - The Deep Mother Awakens
 - Affected by [Portrait NPC Captain Henrik Proudbanner V1 Captain Henrik Proudbanner.svg]]
 - Requires
-- Leads to [[The Spire of Courage (D&D_References)
-- Parallels [step_065 (phase_099)]]
-- Compare with [[Unified Mechanics Guide (D&D_References)
-- See also: [step_053 (phase_050)]]
+- Leads to [[The Spire of Courage (D&D_References)]]
+- Compare with [[Unified Mechanics Guide (D&D_References)]]
 - Affected by [[step_099 (phase_009)
 - Parallels [step_079 (phase_009)]]
 - Compare with [[Assets Portraits Portrait NPC the Harmony Collective the Harmony Collective.svg
@@ -239,46 +230,36 @@ Blackmails party into service
 - Requires [The Future Seer (D&D_References)]]
 - Influences [[Reflection Broker Mirrors (D&D_References)
 - See also: [Assets Locations Location City Royal Court V1 Royal Court.svg]]
-- Affected by [[LORE00318_History_Entry_319
-- Compare with [Democratic Architect Prof. Consensus Builder]]
+- Affected by [[Democratic Architect Prof. Consensus Builder]]
 - Parallels [[Final Challenge Rating Experience Points by Challenge Rating
 - See also: [ITEM00971_Refined_Elixir_of_Vigor]]
 - Leads to [[ray-of-enfeeblement-xphb (spells)
 - Compare with [SPELL00147_Nature_Spell_148]]
-- Leads to [[NPC00484_Zephyr_Underhill_the_Redeemed
-- Requires [ITEM00829_Divine_Chalice_of_Eternity]]
-- See also: [[02-chapter-1-playing-the-game#Death Saving Throws
-- Compare with [step_020 (phase_064)]]
+- Leads to [[NPC00484_Zephyr_Underhill_the_Redeemed]]
+- See also: [[02-chapter-1-playing-the-game (players-handbook-2024)]]
 - Leads to [[Faction_Reputation_System
 - Parallels [Assets Locations Location City Professional Organizations Professional Organizations.svg]]
 - Compare with [[NPC00047_Branwen_Emberfall
 - Influences [Portrait NPC Captain Sarah Oathbound V2 Captain Sarah Oathbound.svg]]
-- See also: [[The Transformation Rights Movement 2
-- Connects to [Charm of the Slayer Xdmg]]
+- See also: [[The Transformation Rights Movement 2]]
 - Related: [[LOC00003_Towns_Location_4
 - Leads to [Symbol Heraldry Quest the Family Reconciliatio V1 Quest the Family Reconciliatio.svg]]
-- Originates from [[Living Librar (D&D_References)
-- See also: [step_044 (phase_042)]]
-- Leads to [[Song Crystals
-- Leads to [Wraith Curator Ancient-Wisdom]]
+- Originates from [[Living Librar (D&D_References)]]
+- Leads to [[Wraith Curator Ancient-Wisdom]]
 - See also: [[SPELL00095_Arcane_Spell_96
 - Affected by [Trident of Fish Command Xdmg]]
 - Leads to
-- Influences [[LOC0025_Valeford
-- Affected by []]
+- Influences [[LOC0025_Valeford]]
 - Originates from [[NPC00939_Thalia_Jadeclaw_the_Swift
 - Compare with [ENC00345_Combat_Encounter_346]]
 - Leads to [[Midnight Reaches (D&D_References)
 - Compare with
 - Influences [step_013 (phase_090)]]
-- Parallels [[The Abyss Beneath Aquabyssos (D&D_References)
-- Compare with [step_070 (phase_037)]]
-- Connects to [[Feign Death Xphb
-- Requires [NPC01126_Malakai_Oakenshield_the_Fallen]]
+- Parallels [[The Abyss Beneath Aquabyssos (D&D_References)]]
+- Connects to [[NPC01126_Malakai_Oakenshield_the_Fallen]]
 - Leads to [[Player_Feedback_Form.md
 - Affected by [Portrait NPC the Cerulean Breath V1 the Cerulean Breath.svg_1 (Portraits)]]
-- Parallels [[Coral Reef Republics (D&D_References)
-- Related: [Random Shop]]
+- Parallels [[Coral Reef Republics (D&D_References)]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

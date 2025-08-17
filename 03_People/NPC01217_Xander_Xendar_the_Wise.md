@@ -160,10 +160,8 @@ Knows secret about major threat
 
 ## Connections
 
-- Leads to [[step_055 (phase_050)
-- Related: [The Great Crystallization 2]]
-- Connects to [[FAC00042_Orders_43
-- Compare with [The Screaming Battleground (D&D_References)]]
+- Leads to [[The Great Crystallization 2]]
+- Connects to [[The Screaming Battleground (D&D_References)]]
 - Connects to [[ITEM00188_Radiant_Spear_of_Power
 - Compare with [NPC00456_Cedric_Hawthorne_the_Risen]]
 - Connects to [[step_084 (phase_079)
@@ -188,22 +186,18 @@ Knows secret about major threat
 - See also:
 - Originates from [LOC0149_Grovehollow]]
 - Leads to
-- Requires [[More Difficult Identification
-- See also: [step_065 (phase_080)]]
+- Requires [[More Difficult Identification]]
 - Affected by [[Memorial Guardians
 - See also: [Tankard of Plenty Hotdq]]
 - Influences [[Senator Shadow-Glaucus 2
 - Requires [traps-hazards (traps-hazards)]]
-- See also: [[Pier 7
-- Originates from [ENC00107_Environmental_Encounter_108]]
+- See also: [[ENC00107_Environmental_Encounter_108]]
 - Connects to [[Portrait NPC Shadow Guard Units V1 Shadow Guard Units.svg
 - Related: [Surgeon Coral Precisehands (D&D_References)]]
-- Connects to [[step_041 (phase_007)
-- Influences [NPC01910_Urien_Goldleaf_the_Risen]]
+- Connects to [[NPC01910_Urien_Goldleaf_the_Risen]]
 - See also: [[Location City Quieting the Depths Quieting the Depths.svg
 - Leads to [Scene Scene Merged Zone Reality Fracture V2 Merged Zone Reality Fracture.svg]]
-- Related: [[Deep Mother Protocol (D&D_References)
-- Influences [Basil Prismtender 2]]
+- Related: [[Deep Mother Protocol (D&D_References)]]
 - Compare with [[step_007 (phase_031)
 - Parallels [Chamber Purpose Dungeon Tomb]]
 - Compare with [[Widow's Rest
@@ -222,26 +216,20 @@ Knows secret about major threat
 - Originates from [step_006 (phase_038)]]
 - Influences [[Shard_Locations (D&D_Sourcebooks)
 - Originates from [Assets Locations Location City Screaming Gardens Screaming Gardens.svg]]
-- Leads to [[step_033 (phase_006)
-- Requires [Quest - The Corruption Cure]]
+- Leads to [[Quest - The Corruption Cure]]
 - Requires [[Deep Court
 - Requires [04_Resources_Assets_Portraits_portrait-npc-trade-captain-sterling-trade-captain-sterling.svg_Quick_Ref]]
 - Leads to [[Quest - The Family Reunion_1 (01_Adventures)
 - Related: [step_089 (phase_045)]]
 - Compare with [[Location City Surface Loyalist Safe Houses V1 Surface Loyalist Safe Houses.svg
 - Influences [Shadow Network 2]]
-- Connects to [[Bomber Bobby Naturals
-- Connects to [Weaponsmith Captain Marcus Sharpedge]]
-- Affected by [[step_092 (phase_084)
-- Compare with [Community Advocate Vera Shadowheart]]
-- Connects to [[The Succession Crisis 2
-- Affected by [Symphony of the Abyss Recipe (D&D_References)]]
+- Connects to [[Weaponsmith Captain Marcus Sharpedge]]
+- Affected by [[Community Advocate Vera Shadowheart]]
+- Connects to [[Symphony of the Abyss Recipe (D&D_References)]]
 - Parallels [[step_061 (phase_008)
 - Related: [Location City Clara Truthscale Clara Truthscale.svg]]
-- Connects to [[Main Quest Line
-- Affected by [QUEST00114_Main_Quest_115]]
-- Originates from [[LOC00051_Wilderness_Location_52
-- Leads to [step_041 (phase_060)]]
+- Connects to [[QUEST00114_Main_Quest_115]]
+- Originates from [[LOC00051_Wilderness_Location_52]]
 - See also: [[Corruption Detectors
 - Leads to [DUN00037_Dungeon_38]]
 - Connects to [[step_095 (phase_086)

@@ -248,7 +248,5 @@ Things widely suspected
 
 ## References
 
-- [[Campaign_Relationship_Matrix
-- [Tidal Chambers]]
-- [[Resonance Peaks (D&D_References)
-- [Tidal Chambers (D&D_References)]]
+- [[Campaign_Relationship_Matrix]]
+- [[Resonance Peaks (D&D_References)]]

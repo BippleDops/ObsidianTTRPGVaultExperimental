@@ -4,23 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: Luminary Ambassador Lysander Bridgemaker
-type: lore
-updated: 2025-08-14
----
-
-# Luminary Ambassador Lysander Bridgemaker
-
-## Overview
-This document contains important information regarding Luminary Ambassador Lysander Bridgemaker and its role within the greater narrative.
-
-## Description
-Luminary Ambassador Lysander Bridgemaker represents a significant element within the campaign world, offering various opportunities for engagement and development.
-
-## Key Information
-- **Primary Purpose**: Serves specific function within the world
-- **Connections**: [Link]]ed to multiple other elements
+- [[Luminary Ambassador Lysander Bridgemaker]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details

@@ -25,5 +25,8 @@
   "alt_text": "Concept art of mage-hunter-scc with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-mage-hunter-scc-v3-mage-hunter-scc.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-mage-hunter-scc-v3-mage-hunter-scc.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:05:51.310Z",
+  "generationMethod": "ComfyUI"
 }

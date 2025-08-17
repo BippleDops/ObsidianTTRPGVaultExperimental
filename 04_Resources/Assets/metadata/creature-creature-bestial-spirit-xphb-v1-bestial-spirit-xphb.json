@@ -25,5 +25,8 @@
   "alt_text": "Concept art of bestial-spirit-xphb with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-bestial-spirit-xphb-v1-bestial-spirit-xphb.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-bestial-spirit-xphb-v1-bestial-spirit-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:58:40.541Z",
+  "generationMethod": "ComfyUI"
 }

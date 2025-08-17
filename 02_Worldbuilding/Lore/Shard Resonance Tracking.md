@@ -1,7 +1,6 @@
 ---
 
-title: [[Shard Resoce Tracking
-type: [Lore]]
+title: [[Shard Resoce Tracking]]
 tags:
 - lore
 - worldbuilding

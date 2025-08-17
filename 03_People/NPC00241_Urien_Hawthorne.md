@@ -159,11 +159,8 @@ Needs discrete help with family scandal
 
 - Leads to [[warhammer-xphb (items)
 - Influences [Crystal Palace Throne Room]]
-- Requires [[Underwater Encounters Levels 14 Xge
-- Parallels
-- Related: [Reincarnate Xphb]]
-- Leads to [[The Integration Institute 2
-- Related: [step_028 (phase_027)]]
+- Requires [[Underwater Encounters Levels 14 Xge]]
+- Leads to [[The Integration Institute 2]]
 - Affected by [[Portrait NPC Mirror Breaking Crystals V2 Mirror Breaking Crystals.svg
 - Related: [Location City Crown of Eternal Ice V1 Crown of Eternal Ice.svg]]
 - Requires [[death-kiss-mpmm (aberration)
@@ -173,8 +170,7 @@ Needs discrete help with family scandal
 - Requires [step_016 (phase_051)]]
 - Influences [[MON0039_Blood_Guardian
 - Leads to [Location City Leviathan Prophet Thalassa V1 Leviathan Prophet Thalassa.svg]]
-- Influences [[ENC00143_Environmental_Encounter_144
-- Connects to [step_039 (phase_092)]]
+- Influences [[ENC00143_Environmental_Encounter_144]]
 - Influences [[03-chapter-3-dms-toolbox (dungeon-masters-guide-2024)
 - Connects to [Portrait NPC Queen Morwyn Lumengarde V1 Queen Morwyn Lumengarde.svg_1 (Portraits)]]
 - Originates from [[S-004_Cloud_Canyon_Player
@@ -189,10 +185,8 @@ Needs discrete help with family scandal
 - Requires [step_039 (phase_054)]]
 - Compare with [[step_057 (phase_065)
 - Influences [step_001 (phase_042)]]
-- Parallels [[Vulture Xmm
-- Affected by [Commander Thrace Ironwood]]
-- See also: [[Abyssal Cartel
-- Related: [Customs Chief Marina Depthwatch]]
+- Parallels [[Commander Thrace Ironwood]]
+- See also: [[Customs Chief Marina Depthwatch]]
 - Requires
 - Requires
 - See also: [[Ruin Grinder Scc
@@ -206,8 +200,7 @@ Needs discrete help with family scandal
 - Leads to [step_011 (phase_068)]]
 - Originates from [[NPC_Portraits_Gallery (03_People)_Quick_Ref
 - Originates from [Law Enforcement 2]]
-- Influences [[Commercial Navigation Services 2
-- Related: [The Shadow Singer Naia]]
+- Influences [[Commercial Navigation Services 2]]
 - Influences [[step_020 (phase_087)
 - Influences [Political Corruption 2]]
 - Requires [[The Deep Academy
@@ -219,12 +212,10 @@ Needs discrete help with family scandal
 - Originates from [Unified Mechanics Guide (D&D_References)]]
 - Connects to [[QUEST00029_Main_Quest_30
 - Connects to [research-complications-xge (tables)]]
-- Compare with [[Religious Purists
-- Connects to [Clerk Supreme Marcus Filekeeper (D&D_References)]]
+- Compare with [[Clerk Supreme Marcus Filekeeper (D&D_References)]]
 - Connects to [[Portrait NPC Captain Thaddeus Blackwater Captain Thaddeus Blackwater.svg
 - Leads to [step_017 (phase_034)]]
-- Connects to [[NPC00975_Lyanna_Winterborn_the_Wise
-- Affected by [High Inquisitor Maltheos (D&D_References)]]
+- Connects to [[High Inquisitor Maltheos (D&D_References)]]
 - See also: [[Location City the Twilight Gardens the Twilight Gardens.svg
 - See also: [The Temporal Observatory 2]]
 - See also: [[step_055 (phase_041)
@@ -233,29 +224,23 @@ Needs discrete help with family scandal
 - Influences [NPC00211_Brenna_Proudmore_the_Guardian]]
 - Parallels [[broom-of-flying-xdmg (items)
 - Influences [Assets Locations Location City Memory Sharing Techniques Memory Sharing Techniques.svg]]
-- See also: [[Portrait NPC Othe... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Parallels [forgotten-realms-loviatar (deities)]]
+- See also: [[Portrait NPC Othe... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Requires [[random-buildings-religious-building (tables)
 - Requires [step_081 (phase_082)]]
-- Compare with [[LOC00268_Planes_Location_269
-- Influences [Thornwick Hall]]
+- Compare with [[LOC00268_Planes_Location_269]]
 - Originates from
-- Leads to [[The Luminous Dawn Cathedral (D&D_References)
-- Connects to [norse-skadi (deities)]]
+- Leads to [[The Luminous Dawn Cathedral (D&D_References)]]
 - Affected by [[Portrait NPC Duke Lysander Crystalvein V2 Duke Lysander Crystalvein.svg
 - Leads to [Dynamic NPC Personality Matrix]]
 - Connects to [[Memory_Alterations.png
 - Compare with [ENC00077_Social_Encounter_78]]
-- Connects to [[QUEST00151_Side_Quest_152
-- Requires [citrine-xdmg (items)]]
-- Originates from [[Order of the Silver Anchor (Orders)
-- Leads to [NPC00933_Drusilla_Voidwalker_the_Seeker]]
+- Connects to [[QUEST00151_Side_Quest_152]]
+- Originates from [[NPC00933_Drusilla_Voidwalker_the_Seeker]]
 - See also: [[step_034 (phase_037)
 - See also: [DUN00110_Dungeon_111]]
 - Connects to [[actions#Dash
 - See also: [Seismic Activity]]
-- See also: [[step_056 (phase_006)
-- Parallels [NPC01722_Branwen_Oakenshield_the_Mystic]]
+- See also: [[NPC01722_Branwen_Oakenshield_the_Mystic]]
 - Leads to [[dwarven-abbathor-mtf (deities)]]
 
 ## Plot Hooks

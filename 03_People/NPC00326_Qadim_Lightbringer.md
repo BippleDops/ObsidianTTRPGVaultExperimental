@@ -172,28 +172,23 @@ Needs discrete help with family scandal
 - Compare with [Assets Portraits Portrait NPC the Reality Sick Mayor Lord Quantum Aldrich the Reality Sick Mayor Lord Quantum Aldrich.svg]]
 - Requires [[resilient-xphb (feats)
 - Originates from [Wind Song Linguistic Guide (Lore)]]
-- Compare with [[LORE0001_Legend_of_the_Dragon_Wars
-- Requires [step_063 (phase_038)]]
-- Influences [[Corruption Broker Silver Currentfloat
-- Originates from [ENC00239_Social_Encounter_240]]
+- Compare with [[LORE0001_Legend_of_the_Dragon_Wars]]
+- Influences [[Corruption Broker Silver Currentfloat]]
 - Requires [[campaign_coherence_maintenance
 - Compare with [Assets Locations Location City Prophetic Studies Institute V1 Prophetic Studies Institute.svg]]
 - Parallels [[Lightning Arrow Xphb
 - Requires [Original Trackers]]
-- Related: [[Mechanics Depth Corruption System
-- See also: [LORE00257_History_Entry_258]]
+- Related: [[Mechanics Depth Corruption System]]
 - Compare with [[step_041 (phase_034)
 - Originates from [Location City Harbor Master S Tower Harbor Master S Tower.png]]
 - Originates from [[Assets Portraits Portrait NPC Captain Henrik Proudbanner Captain Henrik Proudbanner.svg
 - Parallels [Keeper of Contracts Minerva Bindingword]]
 - Related: [[step_086 (phase_054)
 - Connects to [portrait-npc-the-cure-the-cure.svg_1 (Portraits)]]
-- Leads to [[item properties#Light
-- Compare with [spyglass-xphb (items)]]
+- Leads to [[Item Properties]]
 - See also: [[blink-dog-xmm
 - See also: [Abyssal Flora 2]]
-- Requires [[Commander Reef Shadowstrike (D&D_References)
-- Influences [step_040 (phase_006)]]
+- Requires [[Commander Reef Shadowstrike (D&D_References)]]
 - Influences [[SHOP00023_General_Shop_24
 - Requires [Random Yuan Ti Servants Yuan Ti Protectors]]
 - Influences
@@ -205,10 +200,8 @@ Needs discrete help with family scandal
 - Compare with [Hat of Many Spells Xdmg]]
 - Parallels [[Master Coral Shimmerhand
 - Leads to [step_037 (phase_045)]]
-- Parallels [[The Seven Founding Houses
-- Requires [NPC01591_Ysara_Jadeclaw_the_Lost]]
-- Related: [[Temporal Magic Research (D&D_References)
-- Affected by [The Memory Wars (02_Worldbuilding)]]
+- Parallels [[NPC01591_Ysara_Jadeclaw_the_Lost]]
+- Related: [[Temporal Magic Research (D&D_References)]]
 - Parallels [[ITEM00113_Thunder_Staff_of_Accuracy
 - Affected by [QUEST0047_In_Search_of_Truth]]
 - Affected by [[Assets Locations Location City Healing Temples V1 Healing Temples.svg
@@ -219,10 +212,8 @@ Needs discrete help with family scandal
 - Influences [weather-xdmg (tables)]]
 - Leads to [[flanking
 - Connects to [EVENT00051_Natural_Event_52]]
-- Affected by [[step_042 (phase_065)
-- Originates from [Security Chief Marcus Allguard 2]]
-- Affected by [[NPC00573_Rhiannon_Dawnstrider_the_Seeker
-- Related: [Ancient Silver Dragon Xmm]]
+- Affected by [[Security Chief Marcus Allguard 2]]
+- Affected by [[NPC00573_Rhiannon_Dawnstrider_the_Seeker]]
 - Parallels [[SHOP00057_General_Shop_58
 - Leads to [NPC00135_Rhiannon_Goldleaf]]
 - Connects to
@@ -237,8 +228,7 @@ Needs discrete help with family scandal
 - Leads to [step_060 (phase_009)]]
 - Leads to [[LORE00236_History_Entry_237
 - Connects to [Portrait NPC Intelligence Services Intelligence Services.svg_1 (Portraits)]]
-- See also: [[step_012 (phase_068)
-- Related: [ENC00143_Environmental_Encounter_144]]
+- See also: [[ENC00143_Environmental_Encounter_144]]
 - Leads to
 - See also: [[step_053 (phase_028)
 - Parallels [step_003 (phase_022)]]
@@ -260,10 +250,8 @@ Needs discrete help with family scandal
 - Originates from [step_032 (phase_046)]]
 - Influences [[step_022 (phase_100)
 - Parallels [step_031 (phase_013)]]
-- Influences [[Captain Nautilus the Deep Wanderer (D&D_Statblocks)
-- Connects to [step_019 (phase_007)]]
-- See also: [[Crisis Response Service (D&D_References)
-- Requires [Memory Verification Devices]]
+- Influences [[Captain Nautilus the Deep Wanderer (D&D_Statblocks)]]
+- See also: [[Crisis Response Service (D&D_References)]]
 
 ## Visual References
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png

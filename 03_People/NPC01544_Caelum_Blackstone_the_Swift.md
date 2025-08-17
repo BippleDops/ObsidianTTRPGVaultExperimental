@@ -162,8 +162,7 @@ Needs help with personal quest
 - Related: [ITEM01085_Pure_Herb_of_Fortune]]
 - Influences [[Assets Locations Location City Keeper Elara Mindwell V1 Keeper Elara Mindwell.svg
 - Requires [Dimensional Resonance]]
-- Related: [[LOC00070_Towns_Location_71
-- Requires [step_002 (phase_083)]]
+- Related: [[LOC00070_Towns_Location_71]]
 - Influences [[Location City Specimen Careful Lifeguard Specimen Careful Lifeguard.svg
 - Parallels [step_012 (phase_083)]]
 - Influences [[Thessaly the Illuminated
@@ -171,8 +170,7 @@ Needs help with personal quest
 - Leads to
 - Connects to [[Symbol Heraldry High Oracle Serenity Deepcall High Oracle Serenity Deepcall.svg
 - Leads to [Assets Locations Location City Dockworkers Union V1 Dockworkers Union.svg]]
-- Affected by [[Diplomatic Event Scenarios (D&D_References)
-- Requires [Countess Argentum Vaultkeeper 2]]
+- Affected by [[Diplomatic Event Scenarios (D&D_References)]]
 - Related: [[step_063 (phase_009)
 - Related: [Location City Lord Reginald Seaworthy Lord Reginald Seaworthy.svg]]
 - Connects to [[monk-xphb-warrior-of-the-open-hand-xphb (classes)
@@ -180,10 +178,8 @@ Needs help with personal quest
 - Influences [[lizardfolk-geomancer-xmm (elemental)
 - Affected by [step_034 (phase_089)]]
 - Affected by
-- Parallels [[The Final Submersion
-- Related: [Bioluminescence (D&D_References)]]
-- Related: [[deck-of-many-things#Star
-- Requires [Community Integration Leader Echo Bridgewright]]
+- Parallels [[Bioluminescence (D&D_References)]]
+- Related: [[deck-of-many-things#Key]]
 - Originates from [[Assets Locations Location City Syndicate Enforcers Syndicate Enforcers.svg
 - Parallels [Crystal Architecture Philosophy]]
 - Requires [[Memory Magic (D&D_References)
@@ -198,8 +194,7 @@ Needs help with personal quest
 - Influences [Portrait NPC the Depth Lords V1 the Depth Lords.svg]]
 - Connects to [[Geometric Tidepools (D&D_References)
 - Leads to [creature-creature-dragon-v4-dragon.png]]
-- Requires [[LOC00234_Towns_Location_235
-- Parallels [step_028 (phase_028)]]
+- Requires [[LOC00234_Towns_Location_235]]
 - Leads to [[Temporal Engineering Institute
 - Compare with
 - Parallels [Assets Portraits Portrait NPC High Techno Priest Lumina Skyweaver High Techno Priest Lumina Skyweaver.svg]]
@@ -213,13 +208,10 @@ Needs help with personal quest
 - Originates from [DUN00129_Dungeon_130]]
 - Related: [[NPC_Generator_Quick_Ref
 - Requires [Assets Locations Location City the Shrinking Sanctuary V1 the Shrinking Sanctuary.svg]]
-- Related: [[Pain-Artist Cruelty Refined (D&D_References)
-- Requires
-- Leads to [step_056 (phase_043)]]
+- Related: [[Pain-Artist Cruelty Refined (D&D_References)]]
 - See also: [[ITEM00800_Void-touched_Ring_of_Dominion
 - Parallels [step_040 (phase_088)]]
-- Parallels [[Magnus Fairweigh (D&D_References)
-- Requires [Craftmaster Shadowwork (D&D_References)]]
+- Parallels [[Craftmaster Shadowwork (D&D_References)]]
 - Connects to [[ITEM00801_Void-touched_Chalice_of_Destiny
 - Affected by [Assets Locations Location City the Last Words V1 the Last Words.svg]]
 - Originates from [[LOC0014_Hillshire
@@ -243,8 +235,7 @@ Needs help with personal quest
 - See also: [ITEM01330_Masterwork_Lantern_of_Quality]]
 - Related: [[step_032 (phase_098)
 - Related: [Assets Locations Location City Archive Kelpmere Archive Kelpmere.svg]]
-- Affected by [[ENC00165_Combat_Encounter_166
-- Leads to [step_020 (phase_065)]]
+- Affected by [[ENC00165_Combat_Encounter_166]]
 - Originates from [[Greek Hermes
 - Compare with [Item Artifact Weird Tank Pota V3 Weird Tank Pota.png]]
 - Requires [[Reality Distortion
@@ -254,8 +245,7 @@ Needs help with personal quest
 - Influences [step_093 (phase_018)]]
 - Leads to [[Quest - Memory War 2
 - Related: [LORE00037_History_Entry_38]]
-- Parallels [[step_014 (phase_013)
-- Parallels [LOC00154_Wilderness_Location_155]]
+- Parallels [[LOC00154_Wilderness_Location_155]]
 - Compare with [[step_029 (phase_085)
 - Compare with [step_030 (phase_093)]]
 

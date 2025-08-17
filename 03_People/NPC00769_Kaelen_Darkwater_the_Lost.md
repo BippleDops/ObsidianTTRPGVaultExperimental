@@ -154,33 +154,26 @@ Witnessed a crime
 
 ## Connections
 
-- Affected by [[Portrait NPC Blac... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Related: [NPC01432_Pyria_Crystalbrook_the_Broken]]
+- Affected by [[Portrait NPC Blac... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Compare with [[SPELL00050_Arcane_Spell_51
 - Affected by [Location City Adult Education Programs V1 Adult Education Programs.svg]]
-- Originates from [[Common Citizens
-- Requires [Reflection Pools - Surgical Theater (D&D_References)]]
-- Requires [[Foreign Governments 2
-- Influences [Reference Quick Reference Dnd5e Sidescreen 2024 (D&D_References)]]
+- Originates from [[Reflection Pools - Surgical Theater (D&D_References)]]
+- Requires [[Reference Quick Reference Dnd5e Sidescreen 2024 (D&D_References)]]
 - Related: [[step_030 (phase_022)
 - Connects to [LORE00200_Legends_Entry_201]]
-- Requires [[Lock Fragmen 2
-- Affected by [The Silverscale Conspiracy (D&D_References)]]
+- Requires [[The Silverscale Conspiracy (D&D_References)]]
 - Requires [[ITEM01245_Superior_Herb_of_Clarity
 - Connects to [step_015 (phase_055)]]
 - Affected by [[The Coral Throne Syndicate (D&D_References)
 - See also: [Symbol Heraldry the Umbral Exchange V1 the Umbral Exchange.svg]]
 - Leads to [[White Dragon Scale Mail Xdmg
 - See also: [Courier Ripplestone]]
-- See also: [[Master_Places_Index
-- Affected by [Pig Xdmg]]
-- Affected by [[area-of-effect-xphb (variant-rules)
-- Affected by [step_089 (phase_039)]]
+- See also: [[Master_Places_Index]]
+- Affected by [[area-of-effect-xphb (variant-rules)]]
 - Related: [[location-city-whisper-island-whisper-island.svg
 - Compare with [Location_Template]]
 - Parallels
-- Related: [[The Lighthouse of Storms 2
-- See also: [Field Operations Chief Marcus Ironheart (D&D_References)]]
+- Related: [[Field Operations Chief Marcus Ironheart (D&D_References)]]
 - Parallels [[01 Chapter 1 Prisoners of the Drow
 - Connects to [The Loyal Remnant]]
 - Influences [[Shadow touched Communities
@@ -198,12 +191,10 @@ Witnessed a crime
 - Affected by [Assets Locations Location City Marina Clearwater V1 Marina Clearwater.svg]]
 - Parallels [[step_032 (phase_026)
 - Requires [step_037 (phase_094)]]
-- Parallels [[NPC00464_Ewan_Thornweave
-- See also: [Swimming Xphb]]
+- Parallels [[NPC00464_Ewan_Thornweave]]
 - Requires [[step_054 (phase_004)
 - See also: [step_042 (phase_073)]]
-- Affected by [[Privacy Protection Agency
-- Parallels [Shovel Xphb]]
+- Affected by [[Privacy Protection Agency]]
 - See also: [[standard-languages-phb (tables)
 - Originates from
 - Related: [LOC00084_Wilderness_Location_85]]
@@ -211,12 +202,10 @@ Witnessed a crime
 - Connects to [Assets Handouts Handout Handout Docking Permit Docking Permit.png]]
 - Related: [[DUN00032_Dungeon_33
 - Compare with [Void Sanctum]]
-- Related: [[Interrogation Techniques (D&D_References)
-- Connects to [ENC00354_Combat_Encounter_355]]
+- Related: [[Interrogation Techniques (D&D_References)]]
 - Originates from [[guardian-naga-xmm
 - See also: [Assets Locations Location City Alternative Path Fled City V1 Alternative Path Fled City.svg]]
-- Influences [[Symphony of the Abyss Recipe (D&D_References)
-- Influences [step_068 (phase_010)]]
+- Influences [[Symphony of the Abyss Recipe (D&D_References)]]
 - Compare with [[QUEST00165_Main_Quest_166
 - Compare with [step_088 (phase_080)]]
 - Influences [[step_071 (phase_050)
@@ -225,10 +214,8 @@ Witnessed a crime
 - Requires [Assets Item Artifact Spell Gem Lapis Lazuli Oota Spell Gem Lapis Lazuli Oota.png]]
 - Originates from [[step_057 (phase_093)
 - Originates from [Location City Courier Chief Swift Currentrider V1 Courier Chief Swift Currentrider.svg]]
-- Related: [[step_057 (phase_023)
-- Leads to [Session 02 (Crystal_Plague)]]
-- Parallels [[Citizens Adaptation Alliance (D&D_References)
-- Compare with [SHOP00013_Specialty_Shop_14]]
+- Related: [[Session 02 (Crystal_Plague)]]
+- Parallels [[Citizens Adaptation Alliance (D&D_References)]]
 - Compare with [[QUEST00252_Personal_Quest_253
 - Leads to [giant-centipede-xmm]]
 - Requires [[Continual Flame Xphb
@@ -237,8 +224,7 @@ Witnessed a crime
 - See also: [step_056 (phase_055)]]
 - Connects to [[People_1 (02_Worldbuilding)
 - Connects to [SPELL00080_Nature_Spell_81]]
-- Requires [[SPELL00028_Divine_Spell_29
-- See also: [Marina Tidecrest]]
+- Requires [[SPELL00028_Divine_Spell_29]]
 - Connects to
 - Requires [[Aquabyssos World Overview#The Preservation Current
 - Requires [Whispers & Memories Emporium]]
@@ -246,8 +232,7 @@ Witnessed a crime
 - Originates from [Firearm Bullet Xphb]]
 - Related: [[Surgery Master Dr. Marcus Deptblade
 - Originates from [Keeper Elara Moonwhisper (D&D_References)]]
-- Leads to [[Captain Cornelius Deepwater
-- Connects to [Merchant Quarter Districts (D&D_References)]]
+- Leads to [[Merchant Quarter Districts (D&D_References)]]
 - Leads to [[LORE00250_Legends_Entry_251
 - Connects to [Spell Scroll Level 1 Xdmg]]
 - Originates from [[Shadow Contamination Scanners

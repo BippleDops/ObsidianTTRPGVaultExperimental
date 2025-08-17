@@ -3,9 +3,7 @@ tags: [generated, linked]
 created: "2025-08-15T12:34:11.168103"
 ---
 
-# [[Session Logger
-
-## [Start New]] [[Session Log
+# [[Session_Logger]] [[Session Log
 
 ### [Session Template]]
 ```markdown

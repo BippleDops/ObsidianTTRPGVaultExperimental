@@ -279,5 +279,4 @@ ___
 
 ## References
 
-- [[Madame Rosalind Goldleaf
-- [Madame Rosalind Goldleaf (D&D_Statblocks)]]
+- [[Madame Rosalind Goldleaf (D&D_Statblocks)]]

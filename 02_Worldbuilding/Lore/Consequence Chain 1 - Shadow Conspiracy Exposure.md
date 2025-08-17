@@ -1,7 +1,6 @@
 ---
 
-title: Consequence Chain 1   [[Shadow Conspiracy Exposure
-type: [Lore]]
+title: Consequence Chain 1   [[Shadow Conspiracy]]
 tags:
 - lore
 - [[Aquabyssos
@@ -63,36 +62,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-### Contradictions Improvements
-
-- Include cultural hypocrisies and double standards
-
-### Oral_Tradition Improvements
-
-- Add folk tales and children's stories
-
-### Sensory Improvements
-
-- Add smells, sounds, and textures unique to this culture
-
-### Hospitality Improvements
-
-- Explain guest rights and host obligations
-
-### Material_Culture Improvements
-
-- Detail common objects and their cultural significance
-
-### Death_Customs Improvements
-
-- Detail funeral rites and afterlife beliefs
-
-## Initial Action
-
-**What the players did:**
-- Investigated the [Gallery of Frozen Waves]] after witnessing party member replacement by reflection
+- Describe how this culture exists in other [[region]] after witnessing party member replacement by reflection
 - Confronted [[Memory Farmers in the [Memory Meadows]] and rescued [[Senator Glaucus
 - Uncovered [Evidence]] of systematic shadow replacement throughout Parliament
 - Discovered [[Shadow_Surgery|Shadow Surgery facilities in [Tenebrarum]]

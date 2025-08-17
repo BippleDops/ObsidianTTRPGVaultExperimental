@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Generate a fantasy-themed painting in a consistent painterly style, using a three-color palette of indigos, violets, black, and cold silver. The painting should depict an underwater/sky merged zone filled with cosmic surrealism and impossible geometries. Stars should be scattered throughout, creating a grainy effect as they twinkle, and indigo should glow mysteriously. Central to this scene is a muscular figure stylized as a fantasy knight. This knight of a Githyanki design should be equipped with culturally coherent gear consistent with a grounded medieval fantasy theme. There should be no modern tech, anime style, bloom glare or signage present. Aim to bring out the unique limb structure and the musculature of the knight. Position a human silhouette for size comparison. The painting should be filled with a sense of movement – yet devoid of any text, random letter strings, or meaningless symbols unless otherwise specified. This should resemble detailed concept art without any noticeable artifacts. Preserve the specified aspect/resolution.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-githyanki-knight-xmm-v4-githyanki-knight-xmm.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-githyanki-knight-xmm-v4-githyanki-knight-xmm.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:03:31.490Z",
+  "generationMethod": "ComfyUI"
 }

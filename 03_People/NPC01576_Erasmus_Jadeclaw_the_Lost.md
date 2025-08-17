@@ -167,8 +167,7 @@ Has information about legendary item
 ## Connections
 
 - Connects to
-- Parallels [[Navigator Flux 2
-- Leads to [QUEST00409_Side_Quest_410]]
+- Parallels [[QUEST00409_Side_Quest_410]]
 - Parallels [[ITEM00121_Shadow_Spear_of_Speed
 - See also: [LOC00232_Cities_Location_233]]
 - Parallels [[flesh-to-stone-xphb (spells)
@@ -190,34 +189,28 @@ Has information about legendary item
 - Connects to
 - Influences
 - Compare with [LOC00259_Planes_Location_260]]
-- Related: [[step_035 (phase_014)
-- Requires [NPC01130_Vesper_Oakenshield_the_Mystic]]
+- Related: [[NPC01130_Vesper_Oakenshield_the_Mystic]]
 - Influences [[Scene Scene Storm Approaching the Airship Storm Approaching the Airship.png
 - Affected by [Master Thorek Crystalhammer]]
 - Connects to [[The Kelp Gardens
 - Affected by [Financial Institutions 2]]
 - Requires [[Assets Locations Location City Ghost of Dr Thaddeus Brightwater V1 Ghost of Dr Thaddeus Brightwater.svg
 - Compare with [eberron-dol-arrah (deities)]]
-- See also: [[conditions#Petrified
-- Affected by [step_040 (phase_014)]]
+- See also: [[Conditions]]
 - Requires [[greyhawk-iuz-xdmg (deities)
 - Originates from [DUN00187_Dungeon_188]]
-- Related: [[Shawm Xphb
-- Compare with [Investigate Shadow Surgeons]]
+- Related: [[Investigate Shadow Surgeons]]
 - Requires
 - Influences [[list-spells-feats-telepathic-xphb (lists)
 - Parallels
 - Requires [Continuity Protocol 2]]
-- Related: [[Dock Boss Marina Irongrip (D&D_References)
-- Influences [step_075 (phase_065)]]
-- Leads to [[09-adventuring#Long Rest
-- Related: [cyclops-sentry-xmm]]
+- Related: [[Dock Boss Marina Irongrip (D&D_References)]]
+- Leads to [[09-adventuring#Resting]]
 - Related: [[step_065 (phase_021)
 - See also: [Institute of Unified Magi]]
 - Affected by [[ENC00470_Combat_Encounter_471
 - Affected by [LORE00135_Legends_Entry_136]]
-- Affected by [[Experimental Medical Ethics (D&D_References)
-- Originates from [step_027 (phase_071)]]
+- Affected by [[Experimental Medical Ethics (D&D_References)]]
 - Influences [[Long Term Madness
 - Affected by [step_084 (phase_085)]]
 - Affected by [[Location City Drift Harbor District V1 Drift Harbor District.svg
@@ -232,29 +225,23 @@ Has information about legendary item
 - Related: [FAC00062_Orders_63]]
 - Parallels [[Animated Broom Xmm
 - Related: [step_061 (phase_099)]]
-- Originates from [[NPC00708_Idris_Crystalbrook_the_Fallen
-- Influences [LOC00153_Planes_Location_154]]
+- Originates from [[NPC00708_Idris_Crystalbrook_the_Fallen]]
 - Affected by [[NPC00623_Dara_Oakenshield_the_Wanderer
 - Leads to [location-city-crystal-singers-crystal-singers.svg]]
 - Originates from
 - Connects to [[step_002 (phase_023)
 - Affected by [The Healing Voids]]
-- Originates from [[Symbol Heraldry Que... Related To: Local Political Structure Connected Plots: to Be Developed
-- Influences [Redcap Mpmm]]
+- Originates from [[Symbol Heraldry Que... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Originates from [[Silver Necklace With a Gemstone Pendant Xdmg
 - See also: [ITEM00741_Ancient_Orb_of_Eternity]]
-- See also: [[LOC00263_Dungeons_Location_264
-- Originates from [Party Shadows]]
+- See also: [[LOC00263_Dungeons_Location_264]]
 - See also: [[Assets Locations Location City the Screaming Battleground V1 the Screaming Battleground.svg
 - Leads to [Quest1]]
-- Originates from [[LORE0016_Legend_of_the_First_King
-- Connects to [LORE00173_History_Entry_174]]
-- Originates from [[NPC01349_Brenna_Stormwind_the_Bold
-- Leads to [LORE00316_History_Entry_317]]
+- Originates from [[LORE0016_Legend_of_the_First_King]]
+- Originates from [[NPC01349_Brenna_Stormwind_the_Bold]]
 - Parallels [[SPELL00048_Arcane_Spell_49
 - Affected by [step_042 (phase_044)]]
-- Compare with [[downtime-activity-practicing-a-profession-phb (variant-rules)
-- See also: [ENC00123_Combat_Encounter_124]]
+- Compare with [[downtime-activity-practicing-a-profession-phb (variant-rules)]]
 - Compare with [[Symbol Heraldry Shadow Conspiracy Investigation V1 Shadow Conspiracy Investigation.png
 - Requires [NPC00984_Hilda_Xendar_the_Wise]]
 - Influences [[Noble Quarter (D&D_Statblocks)

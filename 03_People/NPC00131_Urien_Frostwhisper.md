@@ -169,10 +169,8 @@ Seeks bodyguards for dangerous journey
 - Requires [NPC0158_Nathaniel_Darkwater]]
 - See also: [[Sunken Palace of Tides
 - Originates from [Depth Accords (D&D_References)]]
-- Influences [[Manifestation Chambers 2
-- Leads to [NPC01929_Corvus_Voidwalker_the_Fallen]]
-- Compare with [[QUEST00196_Main_Quest_197
-- Requires [Noble Leisure Schedules (D&D_References)]]
+- Influences [[NPC01929_Corvus_Voidwalker_the_Fallen]]
+- Compare with [[Noble Leisure Schedules (D&D_References)]]
 - Originates from [[MON00112_Undead_Creature_113
 - Influences [ITEM00958_Lesser_Powder_of_Vigor]]
 - Leads to [[NPC00645_Cedric_Moonshadow_the_Fallen
@@ -185,33 +183,26 @@ Seeks bodyguards for dangerous journey
 - Originates from [step_091 (phase_080)]]
 - Originates from [[QUEST00029_Personal_Quest_30
 - Compare with [LOC00041_Dungeons_Location_42]]
-- Leads to [[NPC00178_Ewan_Emberfall_the_Cunning
-- Parallels [Fear Farms (D&D_References)]]
+- Leads to [[NPC00178_Ewan_Emberfall_the_Cunning]]
 - Related: [[nonhuman-skerrit (deities)
 - Originates from [Magistrate Justice Lawkeeper]]
 - Originates from [[ITEM00994_Pure_Potion_of_Vigor
 - Influences [manual-of-gainful-exercise-xdmg (items)]]
-- Requires [[MON00037_Undead_Creature_38
-- Affected by [Glibness Xphb]]
-- Compare with [[Symbol Heraldry Cry... Related To: Local Political Structure Connected Plots: to Be Developed
-- Related: [Update Weather]]
+- Requires [[MON00037_Undead_Creature_38]]
+- Compare with [[Symbol Heraldry Cry... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[tome-of-understanding-xdmg (items)
 - Influences [step_030 (phase_065)]]
 - Requires [[location-city-seal-keepers-v1-seal-keepers.svg
 - Parallels
 - Influences [DUN00046_Dungeon_47]]
-- Affected by [[NPC01615_Gavril_Ironforge_the_Mystic
-- Connects to [SPELL0030_Infernal_Blessing]]
-- Parallels [[The Vault Keepers (D&D_References)
-- Leads to [step_058 (phase_068)]]
-- Parallels [[step_034 (phase_095)
-- Related: [Aquabyssos World Overview#The Resurgent Tide]]
+- Affected by [[NPC01615_Gavril_Ironforge_the_Mystic]]
+- Parallels [[The Vault Keepers (D&D_References)]]
+- Parallels [[Aquabyssos World Overview]]
 - Connects to [[Mule Xphb
 - Originates from [item mastery#Sap]]
 - Influences [[Random Settlements Current Calamity
 - Originates from [Norse Sif]]
-- Originates from [[QUEST00255_Personal_Quest_256
-- Connects to [Stone Giant Xmm]]
+- Originates from [[QUEST00255_Personal_Quest_256]]
 - Influences [[step_044 (phase_023)
 - Related:
 - Parallels [gnoll-dmg (races)]]
@@ -219,32 +210,26 @@ Seeks bodyguards for dangerous journey
 - Related: [04_Resources_Assets_Symbols_symbol-heraldry-the-carrion-court-the-carrion-court.svg]]
 - Affected by [[Memory Alterations (Lore)
 - Leads to [Assets Locations Location City Archaeological Society Archaeological Society.svg]]
-- Originates from [[ENC00172_Combat_Encounter_173
-- Leads to [MON00064_Aberrations_Creature_65]]
+- Originates from [[MON00064_Aberrations_Creature_65]]
 - Originates from [[Dead Magic Zone Xdmg
 - Originates from [ENC00053_Combat_Encounter_54]]
-- Parallels [[Windvane Pota
-- Connects to [LOC00095_Towns_Location_96]]
+- Parallels [[LOC00095_Towns_Location_96]]
 - Parallels [[Living Supremacist Enclaves
 - Affected by [ITEM00559_Fortified_Plate_of_Protection]]
 - Parallels [[Staff of Fire Xdmg
 - Affected by [Frost Giant Everlasting One Mpmm]]
-- Compare with [[High Priestess Celeste Dawnbringer (D&D_Statblocks)
-- Parallels
-- Leads to [ITEM00382_Frost_Hammer_of_Accuracy]]
+- Compare with [[High Priestess Celeste Dawnbringer (D&D_Statblocks)]]
 - Affected by [[Crystalhaven 2
 - Leads to [LORE00150_Prophecies_Entry_151]]
 - Connects to [[step_046 (phase_052)
 - Connects to [LORE00228_Prophecies_Entry_229]]
-- See also: [[Shadow Broker Mist
-- Parallels [DC_Guidelines (Quick_References)]]
+- See also: [[DC_Guidelines (Quick_References)]]
 - Affected by [[Senator Nereon Tidecaller
 - Connects to [decanter-of-endless-water-xdmg (items)]]
 - Related: [[ITEM00231_Radiant_Sword_of_Accuracy
 - Compare with
 - Influences [Student Engineer Bronze]]
-- Originates from [[ENC00064_Social_Encounter_65
-- Compare with [The Final Merger 2]]
+- Originates from [[ENC00064_Social_Encounter_65]]
 - Affected by [[Assets Locations Location City Port Quarter Port Quarter.svg
 - Influences [NPC00070_Erasmus_Silverleaf_the_Wise]]
 - Connects to [[step_029 (phase_005)
@@ -256,14 +241,12 @@ Seeks bodyguards for dangerous journey
 - Leads to [Social Movement Tracking]]
 - Parallels [[Thalassopolis Ruins
 - Requires [Portrait NPC Pilgrim Guide Samuel Walkingfaith V2 Pilgrim Guide Samuel Walkingfaith.svg_1 (Portraits)]]
-- Influences [[International Academic Exchange 2
-- Parallels [Tide Bondkeeper]]
+- Influences [[International Academic Exchange 2]]
 - Connects to [[Anti-Scrying Division 2
 - Influences [Portrait NPC Castellan Ironledger Iii V2 Castellan Ironledger Iii.svg_1 (Portraits)]]
 - Compare with [[DUN00131_Dungeon_132
 - Influences [EVENT00034_Political_Event_35]]
-- Affected by [[LOC00092_Wilderness_Location_93
-- Compare with [City Development Plan 2]]
+- Affected by [[LOC00092_Wilderness_Location_93]]
 - See also: [[Quest - Shadow Citizenship Act]]
 
 ## Plot Hooks

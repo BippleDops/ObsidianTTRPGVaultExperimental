@@ -25,5 +25,8 @@
   "alt_text": "Concept art of merrow-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-merrow-xmm-merrow-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-merrow-xmm-merrow-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:06:15.031Z",
+  "generationMethod": "ComfyUI"
 }

@@ -165,12 +165,10 @@ Wants rivals investigated
 - Affected by [step_018 (phase_075)]]
 - See also: [[step_052 (phase_037)
 - Compare with [magic-item-table-d (tables)]]
-- Compare with [[step_072 (phase_038)
-- See also: [NPC01956_Zephyr_Thornweave_the_Guardian]]
+- Compare with [[NPC01956_Zephyr_Thornweave_the_Guardian]]
 - Parallels [[Location City Warrior Thane Visionward Warrior Thane Visionward.svg
 - Connects to [LOC00148_Wilderness_Location_149]]
-- Leads to [[Harbor District (D&D_References)
-- See also: [NPC00736_Vesper_Underhill_the_Scholar]]
+- Leads to [[NPC00736_Vesper_Underhill_the_Scholar]]
 - Requires [[step_075 (phase_032)
 - Leads to [step_094 (phase_092)]]
 - Requires
@@ -220,14 +218,10 @@ Wants rivals investigated
 - See also:
 - Compare with [ITEM00825_Time-worn_Orb_of_the_Gods]]
 - Influences
-- See also: [[NPC00450_Alaric_Goldleaf_the_Fallen
-- Affected by [Pressure-Responsive Fabrics 2]]
-- Leads to [[step_064 (phase_047)
-- Related: [QUEST00446_Side_Quest_447]]
-- Requires [[step_059 (phase_022)
-- Related: [Current Navigation Techniques (D&D_References)]]
-- Leads to [[ENC00079_Combat_Encounter_80
-- Requires [14-gods-of-the-multiverse (players-handbook-2014)]]
+- See also: [[NPC00450_Alaric_Goldleaf_the_Fallen]]
+- Leads to [[QUEST00446_Side_Quest_447]]
+- Requires [[Current Navigation Techniques (D&D_References)]]
+- Leads to [[14-gods-of-the-multiverse (players-handbook-2014)]]
 - See also: [[QUEST00172_Personal_Quest_173
 - Affected by [Standalone Adventures Adventure Levels Scc]]
 - Originates from [[Creature Bond Partnerships
@@ -236,8 +230,7 @@ Wants rivals investigated
 - Requires [step_002 (phase_057)]]
 - Originates from [[Assets Locations Location City Leviathan Prophet Thalassa Leviathan Prophet Thalassa.svg
 - Affected by [LOC00266_Cities_Location_267]]
-- Related: [[LOC00278_Towns_Location_279
-- See also: [Emperor Pelagic the Last (D&D_References)]]
+- Related: [[Emperor Pelagic the Last (D&D_References)]]
 - See also: [[Fire Crystals (D&D_References)
 - Originates from
 - Affected by [portrait-npc-the-senator-the-senator.svg]]
@@ -255,8 +248,7 @@ Wants rivals investigated
 - Influences [step_091 (phase_021)]]
 - Requires [[Cultural Practices
 - Related: [crime-complications-xge (tables)]]
-- Connects to [[Goblin Boss Xmm
-- Requires [NPC01906_Alaric_Darkwater_the_Redeemed]]
+- Connects to [[NPC01906_Alaric_Darkwater_the_Redeemed]]
 - Leads to [[ITEM00006_Radiant_Axe_of_Speed]]
 
 ## Plot Hooks

@@ -154,6 +154,5 @@ Things widely suspected
 
 ## References
 
-- [[Merchant's Covenant
-- [Relationship Web Nuances]]
+- [[Relationship Web Nuances]]
 - [[Merchant's Covenant (D&D_References)]]

@@ -146,5 +146,4 @@ Things widely suspected
 
 ## References
 
-- [[Merchant's Covenant
-- [Merchant's Covenant (D&D_References)]]
+- [[Merchant's Covenant (D&D_References)]]

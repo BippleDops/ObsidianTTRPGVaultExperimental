@@ -636,5 +636,4 @@ Member of House Dragonblood - Trait: prophecy
 - [Assets Locations Location City Spymaster Crow Spymaster Crow.svg]]
 - [[Assets Locations Location City the Drowning Truth the Drowning Truth.svg
 - [Assets Portraits Portrait NPC Captain Dr Bloodletting Captain Dr Bloodletting.svg]]
-- [[The Sorrowmaster
-- [The Sorrowmaster (D&D_Statblocks)]]
+- [[The Sorrowmaster (D&D_Statblocks)]]

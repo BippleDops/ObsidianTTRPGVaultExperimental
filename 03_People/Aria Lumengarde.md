@@ -277,11 +277,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [Assets Locations Location City Master Engineer Cordelia Pressurewright Master Engineer Cordelia Pressurewright.svg]]
 - [[Assets Locations Location City Temple of Sacred Dreams V1 Temple of Sacred Dreams.svg
 - [Assets Symbols Symbol Heraldry Commander Void Tacticia Commander Void Tacticia.svg]]
-- [[Lord Aurelius Goldwave
-- [Establish the New Order]]
-- [[Prince Caspian Duskwater (D&D_References)
-- [Queen Seraphina Lumengarde (D&D_References)]]
-- [[The Seven Shards (D&D_References)
-- [The Seven Shards 3 (D&D_References)]]
-- [[The Verdant Reach (D&D_References)
-- [Lord Aurelius Goldwave (D&D_Statblocks)]]
+- [[Establish the New Order]]
+- [[Queen Seraphina Lumengarde (D&D_References)]]
+- [[The Seven Shards 3 (D&D_References)]]
+- [[Lord Aurelius Goldwave (D&D_Statblocks)]]

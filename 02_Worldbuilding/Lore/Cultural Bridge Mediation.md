@@ -62,25 +62,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-### Sensory Improvements
-
-- Add smells, sounds, and textures unique to this culture
-
-### Hospitality Improvements
-
-- Explain guest rights and host obligations
-
-## Overview
-
-Cultural Bridge Mediation represents a crucial aspect of the world's history, cosmology, or fundamental nature.
-
----
-
-*Last Updated: 2025-08-14 19:03*
-
-## [DM_Notes]]
+- Describe how this culture exists in other [[region]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

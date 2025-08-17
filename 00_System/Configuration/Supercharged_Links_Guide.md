@@ -29,7 +29,7 @@
 4. Test with existing links
 
 ## Examples
-- [[Gareth Stormwind|🧙 Gareth Stormwind - Allied NPC
-- [Shadowmere Castle|🏰 Shadowmere Castle]] - Dangerous location
+- [[NPC00408_Gareth_Stormwind|🧙 Gareth Stormwind - Allied NPC
+- [Shadowmere Castle]] - Dangerous location
 - [[Dragon's Hoard|⚔️ Dragon's Hoard - Active quest
 - [Sword of Storms|⚔️ Sword of Storms]] - Magical weapon

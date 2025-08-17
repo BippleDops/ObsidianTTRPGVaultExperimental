@@ -106,41 +106,23 @@ Bless represents a crucial aspect of the world's history, cosmology, or fundamen
 
 ## References
 
-- [[Aetheric Wind Songs
-- [Aethermoor Wind Rider Traditions]]
-- [[Blessed Mother Thalassa the Transformed
-- [Consequence Chain 1 - Shadow Conspiracy Exposure]]
-- [[Deep Mother
-- [Depth Speak Variations]]
-- [[High Priestess Tidal Blessing
-- [Multi-Phase Boss Fights]]
-- [[Name Etymology Guide
-- [Sky Burial Traditions]]
-- [[The Festival of Rising Tides
-- [The Pressure Baptism Rites]]
-- [[The Restoration Movement
-- [The Transformed Citizens]]
-- [[Tidal Memory Ceremonies
-- [Timeline of the Drowning]]
-- [[Working Class Routines
-- [Cathedral of Light]]
-- [[Compass Quest
-- [Crystal Cult Temples]]
-- [[Crystal Plague Wards
-- [Ironhold]]
-- [[Mad Oracle Thessaly
-- [Maelstrom Palace]]
-- [[Mourning Depths
-- [Navigator Sage Driftwood]]
-- [[Pressure's End
-- [Sister Morwyn]]
-- [[Temple Ward
-- [Temple of the Sunken Cathedral]]
-- [[The Azure Coast
-- [The Drowning Truth]]
-- [[The Order of the Shattered Crown
-- [The Reflection Pools]]
+- [[Aethermoor Wind Rider Traditions]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Depth Speak Variations]]
+- [[High Priestess Tidal Blessing]]
+- [[Sky Burial Traditions]]
+- [[The Festival of Rising Tides]]
+- [[The Transformed Citizens]]
+- [[Timeline of the Drowning]]
+- [[Working Class Routines]]
+- [[Crystal Cult Temples]]
+- [[Crystal Plague Wards]]
+- [[Mad Oracle Thessaly]]
+- [[Navigator Sage Driftwood]]
+- [[Pressure's End]]
+- [[Temple of the Sunken Cathedral]]
+- [[The Drowning Truth]]
+- [[The Order of the Shattered Crown]]
 - [[The Tidecaller (Places)
 - [Theological Warfare]]
-- [[The Crown's Burden
-- [The Maw of Darkness]]
+- [[The Maw of Darkness]]

@@ -217,15 +217,12 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[Noble Leisure Schedules
 - See also: [Crisis Portal Procedures]]
 - Parallels
-- Parallels [[Brother Matthias the Amber Bearer
-- Connects to [step_060 (phase_049)]]
-- Compare with [[Thalassa the Deepmother (D&D_References)
-- Requires [QUEST00219_Side_Quest_220]]
+- Parallels [[Brother Matthias the Amber Bearer]]
+- Compare with [[Thalassa the Deepmother (D&D_References)]]
 - Compare with [[ENC0098_Random_Encounter_99
 - Parallels [Friendly Attitude Xphb]]
 - Leads to
-- Influences [[step_035 (phase_048)
-- Parallels [NPC01066_Zephyr_Emberfall_the_Mystic]]
+- Influences [[NPC01066_Zephyr_Emberfall_the_Mystic]]
 - Leads to [[Ambassador Current 2
 - Requires [NPC0151_Freya_Darkwater]]
 - Leads to [[NPC00146_Xander_Ashford
@@ -243,20 +240,17 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [step_064 (phase_044)]]
 - Leads to [[ENC00023_Environmental_Encounter_24
 - Affected by [Location City Chief Engineer Marina Crystalwright Chief Engineer Marina Crystalwright.svg]]
-- Compare with [[Random_Loot (02_Worldbuilding)
-- See also: [NPC00870_Xander_Winterborn_the_Bold]]
+- Compare with [[NPC00870_Xander_Winterborn_the_Bold]]
 - Influences [[illithilich-vgm (legendary-group)
 - Influences [ENC00196_Environmental_Encounter_197]]
 - Compare with [[QUEST00239_Side_Quest_240
 - Requires [Portrait NPC Vex Shadowthorn the Kingpin Vex Shadowthorn the Kingpin.svg]]
-- Originates from [[The Grand Archive
-- Requires [Harbor Master's License 2]]
+- Originates from [[Harbor Master's License 2]]
 - Originates from [[Festival Coordinator Luna Celebration (People)
 - Related: [Screaming Gardens (D&D_References)]]
 - Compare with [[bowl-of-commanding-water-elementals-xdmg (items)
 - Parallels [step_083 (phase_022)]]
-- See also: [[The Consciousness Vault (D&D_References)
-- Connects to [Sergeant Surveillance]]
+- See also: [[The Consciousness Vault (D&D_References)]]
 - Leads to [[arcane-gate-xphb (spells)
 - Influences [ITEM01228_Lesser_Potion_of_Vigor]]
 - Influences
@@ -269,8 +263,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [Assets Locations Location City Keeper of the Dead Sister Morwyn Keeper of the Dead Sister Morwyn.svg]]
 - Related: [[Location City Whisper Island Docks Whisper Island Docks.svg
 - Connects to [Portrait NPC Deepwater Banking Consortium V1 Deepwater Banking Consortium.svg]]
-- Connects to [[The Reality Destabilization Campaign
-- See also: [beast-speech (optional-features)]]
+- Connects to [[The Reality Destabilization Campaign]]
 - See also: [[04_Resources_Assets_Portraits_portrait-npc-captain-redbeard-captain-redbeard.svg_Quick_Ref
 - Requires [step_038 (phase_019)]]
 - Leads to [[Javelin of Lightning Xdmg
@@ -305,11 +298,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [Assets Locations Location City Abyss Currentbinder V1 Abyss Currentbinder.svg]]
 - Requires [[step_084 (phase_051)
 - Related: [step_074 (phase_093)]]
-- Affected by [[The Progressive Coalition
-- Related:
-
-## Visual References
-![04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
+- Affected by [[The Progressive Coalition]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png
 ![04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
 

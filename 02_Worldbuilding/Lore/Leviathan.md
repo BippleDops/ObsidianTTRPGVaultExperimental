@@ -101,6 +101,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Aquabyssos Trade Seal
-- [Aurelius Goldwave]]
+- [[Aquabyssos Trade Seal]]
 - [[The Restoration Movement]]

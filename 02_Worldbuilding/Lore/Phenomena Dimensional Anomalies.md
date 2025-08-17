@@ -1,7 +1,6 @@
 ---
 
-title: Phenomena [[Dimensional Anomalies
-type: [Lore]]
+title: Phenomena [[Dimensional Anomalies]]
 tags:
 - lore
 - active

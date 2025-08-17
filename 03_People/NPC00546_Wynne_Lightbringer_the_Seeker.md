@@ -174,8 +174,7 @@ Witnessed a crime
 - See also:
 - Parallels [[Location City Coral Seasweaver Coral Seasweaver.svg
 - Affected by [step_060 (phase_074)]]
-- Requires [[City Development Plan (D&D_References)
-- Requires [Portrait NPC Capt... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Requires [[Portrait NPC Capt... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Affected by [[step_074 (phase_062)
 - Connects to [step_045 (phase_015)]]
 - Connects to [[Assets Locations Location City Patrol Boundaryrider V1 Patrol Boundaryrider.svg
@@ -195,8 +194,7 @@ Witnessed a crime
 - Affected by [Ammunition Varies Ammunition Xphb]]
 - See also: [[goblin-warrior-xmm
 - Compare with [QUEST00120_Main_Quest_121]]
-- Originates from [[INDEX
-- Influences [cogwork-archivist-scc]]
+- Originates from [[cogwork-archivist-scc]]
 - Affected by [[4-spells (xanathars-guide-to-everything)
 - Originates from [Assets Locations Location City Bubble Yeastkeeper Bubble Yeastkeeper.svg]]
 - See also: [[Portrait NPC Shadow Guard Units V1 Shadow Guard Units.svg_1 (Portraits)
@@ -205,8 +203,7 @@ Witnessed a crime
 - Requires [step_076 (phase_096)]]
 - Leads to [[SHOP00054_Specialty_Shop_55
 - Originates from [Assets Locations Location City Harbor District V1 Harbor District.svg]]
-- Leads to [[ENC00022_Social_Encounter_23
-- Influences [DUN00019_Dungeon_20]]
+- Leads to [[ENC00022_Social_Encounter_23]]
 - Requires [[ITEM01345_Practical_Lock_of_Reliability
 - Compare with [ability-checks-typical-difficulty-classes-phb (tables)]]
 - Parallels [[Location City Guide Helpfulcurrent Guide Helpfulcurrent.svg
@@ -214,8 +211,7 @@ Witnessed a crime
 - See also: [The Memory Weaver (D&D_References)]]
 - Requires [[Location City Lord Reginald Seaworthy V1 Lord Reginald Seaworthy.svg
 - Compare with [Location City Port Meridian Market District Port Meridian Market District.svg]]
-- Compare with [[Location City Feast Saltyflavor Feast Saltyflavor.svg
-- Leads to [Corruption Broker Silver Currentfloat (D&D_References)]]
+- Compare with [[Corruption Broker Silver Currentfloat (D&D_References)]]
 - Compare with [[ITEM00278_Shadow_Dagger_of_Wounding
 - Compare with [step_010 (phase_046)]]
 - Parallels [[Portrait NPC Fence Queen Sticky Fingers Sal V1 Fence Queen Sticky Fingers Sal.svg
@@ -228,8 +224,7 @@ Witnessed a crime
 - Affected by [LOC00193_Planes_Location_194]]
 - Related: [[Location City Temporal Magic Research V1 Temporal Magic Research.svg
 - Affected by [NPC01330_Drusilla_Ironwood_the_Redeemed]]
-- Affected by [[Cultural Festivals Committee
-- Compare with [Session_Recaps]]
+- Affected by [[Cultural Festivals Committee]]
 - Originates from [[Birthplace Xge
 - Related: [skills#Deception]]
 - Leads to [[Assets Portraits Portrait NPC Captain Nautilus the Deep Wanderer Captain Nautilus the Deep Wanderer.svg
@@ -240,22 +235,18 @@ Witnessed a crime
 - Parallels [location-city-marina-swiftfin-marina-swiftfin.svg]]
 - Requires [[Aasimar Xphb
 - Leads to [step_078 (phase_008)]]
-- Parallels [[step_083 (phase_035)
-- Connects to [NPC01297_Erasmus_Brightblade_the_Bold]]
-- See also: [[NPC00122_Gareth_Proudmore_the_Cunning
-- Influences [Clerk Supreme Marcus Filekeeper]]
+- Parallels [[NPC01297_Erasmus_Brightblade_the_Bold]]
+- See also: [[NPC00122_Gareth_Proudmore_the_Cunning]]
 - Compare with [[Assets Locations Location City Portal Network Portal Network.svg
 - Parallels [Multiclassing Proficiencies Phb]]
 - Originates from [[Brother_Matthias_Inkdrinker.png
 - Originates from [step_078 (phase_072)]]
-- See also: [[crawling-claw-xmm (undead)
-- See also: [NPC01840_Aldric_Nightfall_the_Risen]]
+- See also: [[NPC01840_Aldric_Nightfall_the_Risen]]
 - Leads to [[step_048 (phase_030)
 - Leads to [step_045 (phase_039)]]
 - Originates from [[LOC00296_Cities_Location_297
 - Compare with [Item Artifact Travelers Clothes Xphb Travelers Clothes Xphb.png]]
-- Leads to [[QUEST00030_Personal_Quest_31
-- Compare with [step_041 (phase_036)]]
+- Leads to [[QUEST00030_Personal_Quest_31]]
 - See also: [[Ring of Evasion Xdmg
 - Influences [creature-creature-sphinx-xmm-v2-sphinx-xmm.png]]
 - Related: [[Assets Locations Location City Infrastructure Development Infrastructure Development.svg

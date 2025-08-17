@@ -164,9 +164,7 @@ Forming expedition to dangerous location
 
 ## Connections
 
-- Requires [[MON00099_Aberrations_Creature_100
-- Parallels
-- Related: [Dining Room]]
+- Requires [[MON00099_Aberrations_Creature_100]]
 - Related: [[Assets Locations Location City Inter Realm Relations V1 Inter Realm Relations.svg
 - See also: [SPELL00002_Nature_Spell_3]]
 - Compare with [[LORE00269_Legends_Entry_270
@@ -192,10 +190,8 @@ Forming expedition to dangerous location
 - Leads to [[SPELL00027_Divine_Spell_28
 - Connects to [Item Artifact Spell Gem Lapis Lazuli Oota Spell Gem Lapis Lazuli Oota.png]]
 - See also:
-- Influences [[Safety Director Storm Shieldvoice
-- Leads to [LOC00249_Dungeons_Location_250]]
-- Originates from [[MON00052_Aberrations_Creature_53
-- Related: [LOC0045_LowerHill]]
+- Influences [[Safety Director Storm Shieldvoice]]
+- Originates from [[MON00052_Aberrations_Creature_53]]
 - Affected by [[step_031 (phase_060)
 - Requires [step_062 (phase_027)]]
 - Influences [[Faction_Reputation_System
@@ -203,12 +199,10 @@ Forming expedition to dangerous location
 - Related:
 - Connects to [[Portrait NPC Deep Anarchists V1 Deep Anarchists.svg
 - Compare with [Leviathan Shrines (D&D_References)]]
-- Requires [[Merchant Null Profiteer (D&D_References)
-- Parallels [Symbol Heraldry Aco... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Requires [[Symbol Heraldry Aco... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Affected by [[NPC00458_Aeliana_Jadeclaw_the_Lost
 - Originates from [The Forgotten Representative 2]]
-- Originates from [[The Vault Keepers (D&D_References)
-- Compare with [step_032 (phase_098)]]
+- Originates from [[The Vault Keepers (D&D_References)]]
 - Affected by [[Circle of Eternal Seasons
 - Affected by [Harbor Patrol (D&D_References)]]
 - Parallels [[durable-xphb (feats)
@@ -221,8 +215,7 @@ Forming expedition to dangerous location
 - Leads to [ITEM00854_Void-touched_Crown_of_Dominion]]
 - Leads to [[orc-gruumsh-vgm (deities)
 - Parallels [Book of Ancient Secrets]]
-- Influences [[Halfling Cyrrollalee Mtf
-- Compare with [NPC01908_Felicia_Dawnstrider_the_Cunning]]
+- Influences [[NPC01908_Felicia_Dawnstrider_the_Cunning]]
 - Influences [[inspiring-leader-xphb (feats)
 - Related: [step_065 (phase_070)]]
 - Compare with [[Dr Elena Mirthorn
@@ -231,8 +224,7 @@ Forming expedition to dangerous location
 - Related: [Mirror Merchant Marina]]
 - See also:
 - Requires
-- Requires [[critical-hit-xphb (variant-rules)
-- Related: [Continental Connections & Story Weave 3 (D&D_References)]]
+- Requires [[Continental Connections & Story Weave 3 (D&D_References)]]
 - Influences [[Deep Pearls 2
 - Compare with [portrait-npc-lord-bathysmal-v2-lord-bathysmal.svg]]
 - See also: [[Location City Emergency Protocols Emergency Protocols.svg
@@ -247,8 +239,7 @@ Forming expedition to dangerous location
 - Influences [FAC00048_Orders_49]]
 - Originates from [[INV 001
 - See also: [greyhawk-nerull-xdmg (deities)]]
-- Leads to [[Flame Keeper Brother Ignatius
-- Related: [Master Depth-Crystal Thalamos (D&D_References)]]
+- Leads to [[Master Depth-Crystal Thalamos (D&D_References)]]
 - Connects to [[charm-monster-xphb (spells)
 - Originates from [Bit and Bridle]]
 - Requires [[Roleplaying a Hag Hag Flaws Vgm
@@ -262,8 +253,7 @@ Forming expedition to dangerous location
 - Parallels
 - Connects to [[LOC0020_Havenford
 - Connects to [Assets Locations Location City Aquabyssos Aquabyssos.svg]]
-- See also: [[step_070 (phase_071)
-- Related: [NPC01729_Kaelen_Dawnstrider_the_Fallen]]
+- See also: [[NPC01729_Kaelen_Dawnstrider_the_Fallen]]
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png

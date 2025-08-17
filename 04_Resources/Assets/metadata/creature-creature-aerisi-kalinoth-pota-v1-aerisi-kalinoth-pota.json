@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Create a heroic tabletop fantasy concept art, with grounded medieval gear devoid of modern technology. The artwork should be in a consistent painterly style with an emphasis on the character's musculature and unique limbs. The character should be placed in an underwater and sky merged zone, portraying a sense of movement. The scene should mimic aquatic realism with elements such as subsurface caustics, bioluminescent accents, and pressure-dome materials. There should be a human silhouette present in the image. Pay attention to detail, from the character's gear to the surrounding environment. The color palette should include teals, deep blues, sea-greens, with touches of pearl highlights. The image should maintain a specified aspect/resolution, avoiding artifacts. It should not include modern signage, photorealistic CGI, or anime style elements. Avoid including embedded text or words unless specified; and there should be no gibberish strings or meaningless symbols. However, numbered pins might be utilized. ",
-  "file": "04_Resources/Assets/Creatures/creature-creature-aerisi-kalinoth-pota-v1-aerisi-kalinoth-pota.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-aerisi-kalinoth-pota-v1-aerisi-kalinoth-pota.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:03.325Z",
+  "generationMethod": "ComfyUI"
 }

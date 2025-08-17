@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Imagine a heroic scene in the world of medieval fantasy tabletop games, reminiscent of Dungeons and Dragons. Focus on representing a unique creature that embodies the elemental spirit of air, characterized by unique limbs and emphasized musculature. This creature is caught in a blended environment that merges the underwater phenomena with the sky. Its gear is grounded in medieval aesthetics, omitting any modern tech. Include a human silhouette for scale comparison. Patrons would appreciate the painterly, consistent style invoked throughout the illustration. The color palette should encapsulate the feel of an aquatic setting - teals, deep blues, sea-greens, and pearlescent highlights. Emphasize the concept of motion visually, creating an atmosphere of dynamic fluidity. This piece is to be a part of a collection, therefore, it should encapsulate a sense of aquatic fantasy realism: conveying subsurface caustics, bioluminescent accents, and pressure-dome materials. The resolution needs to be high, keeping artifacts at bay. Avoid including any sort of text or symbols unless they carry a vital meaning. Finally, avoid including elements of modern signage, photorealistic CGI, anime style or bloom glare.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-elemental-spirit-air-xphb-v3-elemental-spirit-air-xphb.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-elemental-spirit-air-xphb-v3-elemental-spirit-air-xphb.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:01:31.127Z",
+  "generationMethod": "ComfyUI"
 }

@@ -173,14 +173,12 @@ Needs discrete help with family scandal
 - Compare with [Memory Extraction Laboratory (D&D_References)]]
 - Requires [[04_Resources_Assets_Locations_location-city-harbor-master-captain-dockwise-harbor-master-captain-dockwise.svg
 - Compare with [ITEM01112_Concentrated_Potion_of_Vigor]]
-- Leads to [[step_037 (phase_061)
-- Parallels [NPC00707_Fiora_Oakenshield_the_Seeker]]
+- Leads to [[NPC00707_Fiora_Oakenshield_the_Seeker]]
 - Parallels [[SHOP00039_General_Shop_40
 - Leads to [step_077 (phase_091)]]
 - Requires [[location-city-sacred-grottos-sacred-grottos.svg
 - Requires [Assets Locations Location City Community Organizations Community Organizations.svg]]
-- Leads to [[Archivist Reef Bookkeeper
-- Related: [step_063 (phase_091)]]
+- Leads to [[Archivist Reef Bookkeeper]]
 - Parallels [[Zuggtmoy Mtf
 - Affected by [Location City the Sundered Vaults V1 the Sundered Vaults.svg]]
 - Originates from [[DUN00163_Dungeon_164
@@ -199,12 +197,10 @@ Needs discrete help with family scandal
 - Influences [Portrait NPC Castellan Ironledger Iii Castellan Ironledger Iii.svg_1 (Portraits)]]
 - Originates from [[step_088 (phase_047)
 - Compare with [Creature Creature Thorny Vegepygmy Mpmm V3 Thorny Vegepygmy Mpmm.png]]
-- See also: [[QUEST00182_Personal_Quest_183
-- Requires [step_067 (phase_099)]]
+- See also: [[QUEST00182_Personal_Quest_183]]
 - Requires [[step_054 (phase_056)
 - Originates from [International Commerc]]
-- Originates from [[Portrait NPC Dire... Related To: Local Political Structure Connected Plots: to Be Developed
-- Parallels [LOC00097_Dungeons_Location_98]]
+- Originates from [[Portrait NPC Dire... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Parallels [[step_091 (phase_047)
 - Connects to [SHOP00064_General_Shop_65]]
 - Connects to [[LORE00271_History_Entry_272
@@ -212,12 +208,10 @@ Needs discrete help with family scandal
 - Requires [[step_024 (phase_065)
 - Influences
 - Compare with [Memory Crystals 2]]
-- See also: [[demilich
-- Connects to [Commercial District 2]]
+- See also: [[Commercial District 2]]
 - Originates from [[step_002 (phase_024)
 - Compare with [step_083 (phase_014)]]
-- Parallels [[LOC00245_Planes_Location_246
-- Leads to [Symbol Heraldry Amb... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Parallels [[Symbol Heraldry Amb... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Influences [[Royal Guard (Lore)
 - Originates from [QUEST00194_Main_Quest_195]]
 - Related: [[Marcus Ledgerbor 2
@@ -232,18 +226,15 @@ Needs discrete help with family scandal
 - Influences [ENC00139_Combat_Encounter_140]]
 - Connects to [[step_002 (phase_033)
 - Leads to [fire-casting-statue-xdmg (traps-hazards)]]
-- Parallels [[Scholar Thomas Truthseeker
-- Requires [viol-xphb (items)]]
+- Parallels [[Scholar Thomas Truthseeker]]
 - Influences [[NPC00391_Pyria_Lightbringer_the_Scholar
 - Compare with [ITEM01162_Distilled_Herb_of_Swiftness]]
-- Originates from [[Quest - The Crystal Black Market
-- Connects to [step_082 (phase_004)]]
+- Originates from [[Quest - The Crystal Black Market]]
 - Compare with [[Memory Preservation Technology
 - Requires [LOC00221_Wilderness_Location_222]]
 - Originates from [[Portrait NPC High Inquisitor Maltheos High Inquisitor Maltheos.svg
 - Connects to [step_082 (phase_089)]]
-- Affected by [[NPC01148_Ysara_Grimholt_the_Bold
-- Related: [step_038 (phase_063)]]
+- Affected by [[NPC01148_Ysara_Grimholt_the_Bold]]
 - Related: [[ITEM00830_Time-worn_Amulet_of_the_Gods
 - Originates from [celestial-spirit-xphb (celestial)]]
 - See also: [[ogre-bolt-launcher-mpmm (giant)

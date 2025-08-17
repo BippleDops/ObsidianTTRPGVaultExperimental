@@ -163,15 +163,12 @@ Provides information for a price
 - Influences [Weapon Attack Xphb]]
 - Parallels [[step_061 (phase_066)
 - Influences [Marina Oracleguard]]
-- See also: [[LOC00138_Dungeons_Location_139
-- Connects to [NPC00639_Zephyr_Nightfall_the_Wanderer]]
+- See also: [[NPC00639_Zephyr_Nightfall_the_Wanderer]]
 - Affected by
 - Leads to [[step_100 (phase_065)
 - Leads to [step_038 (phase_020)]]
-- Requires [[step_069 (phase_024)
-- Leads to [Government Partner Facilities]]
-- Related: [[The Administrative Palace (D&D_References)
-- Connects to [LORE00156_History_Entry_157]]
+- Requires [[Government Partner Facilities]]
+- Related: [[The Administrative Palace (D&D_References)]]
 - Parallels [[random-urban-encounters (tables)
 - Parallels
 - Leads to [Assets Locations Location City Palace Security Chief V1 Palace Security Chief.svg]]
@@ -180,31 +177,23 @@ Provides information for a price
 - Affected by [step_011 (phase_041)]]
 - Connects to [[step_014 (phase_021)
 - Affected by [step_055 (phase_051)]]
-- Requires [[ENC00263_Social_Encounter_264
-- Connects to [Temple of Cosmic Order]]
+- Requires [[ENC00263_Social_Encounter_264]]
 - Compare with [[Magma Mephit Xmm
 - Compare with
 - Requires [LOC00094_Towns_Location_95]]
-- Parallels [[step_091 (phase_064)
-- Compare with [NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- Parallels [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
 - Connects to [[step_053 (phase_091)
 - Originates from [Jeweled Gold Crown Xdmg]]
-- See also: [[step_006 (phase_072)
-- Connects to [ENC00138_Environmental_Encounter_139]]
+- See also: [[ENC00138_Environmental_Encounter_139]]
 - Compare with [[ENC0023_Random_Encounter_24
 - Leads to [NPC00898_Elric_Hawthorne_the_Mystic]]
-- Requires [[LORE0033_Myth_of_the_Dragon_Wars
-- Connects to [FAC00035_Orders_36]]
+- Requires [[LORE0033_Myth_of_the_Dragon_Wars]]
 - Affected by [[LORE00290_Prophecies_Entry_291
 - Leads to [Tide Turner''s Trident]]
-- Connects to [[NPC00243_Vesper_Nightfall_the_Redeemed
-- Parallels [abominable-yeti-xmm]]
-- Parallels [[step_087 (phase_018)
-- Connects to [ENC00476_Combat_Encounter_477]]
-- Influences [[LORE00276_History_Entry_277
-- Influences [Senior Nurse Polyp Tendercurrent (D&D_References)]]
-- Affected by [[Portrait NPC Sunk... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Originates from [ITEM01386_Ornate_Compass_of_Durability]]
+- Connects to [[NPC00243_Vesper_Nightfall_the_Redeemed]]
+- Parallels [[ENC00476_Combat_Encounter_477]]
+- Influences [[Senior Nurse Polyp Tendercurrent (D&D_References)]]
+- Affected by [[Portrait NPC Sunk... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Affected by [[step_038 (phase_017)
 - Connects to [Cultural Ministry (Cultural_Organizations)]]
 - Compare with [[step_057 (phase_098)
@@ -213,14 +202,12 @@ Provides information for a price
 - Leads to [step_041 (phase_054)]]
 - Originates from [[Assets Locations Location City Keeper of the Past Elderly Morgan Keeper of the Past Elderly Morgan.svg
 - Requires [Creature Creature Hobgoblin Devastator Mpmm V2 Hobgoblin Devastator Mpmm.png]]
-- Originates from [[The Weather Wardens Council
-- Related: [step_052 (phase_097)]]
+- Originates from [[The Weather Wardens Council]]
 - Originates from [[Equipment Catalogs
 - Connects to [EVENT00033_Natural_Event_34]]
 - Affected by [[University Heights 2
 - Originates from [step_059 (phase_066)]]
-- See also: [[step_053 (phase_027)
-- Related: [The Void Tears (D&D_References)]]
+- See also: [[The Void Tears (D&D_References)]]
 - Influences [[Assets Locations Location City Memory Sanctity Laws V1 Memory Sanctity Laws.svg
 - Requires [LOC00223_Dungeons_Location_224]]
 - Related: [[The Temple of Eternal Tides
@@ -233,12 +220,10 @@ Provides information for a price
 - Related: [ITEM00514_Dragon_Scale_Plate_of_Fortitude]]
 - Affected by [[staff-of-frost-xdmg (items)
 - Requires [step_086 (phase_020)]]
-- See also: [[Infinite_Dungeon_Generator (D&D_References)
-- Parallels [step_088 (phase_019)]]
+- See also: [[Infinite_Dungeon_Generator (D&D_References)]]
 - Compare with [[Assets Portraits Portrait NPC Quest the Failing Magic Quest the Failing Magic.svg
 - Connects to [List Spells Optional Features Sculptor of]]
-- Affected by [[NPC00745_Urien_Ravenheart_the_Cunning
-- Compare with [LORE00323_History_Entry_324]]
+- Affected by [[NPC00745_Urien_Ravenheart_the_Cunning]]
 - Originates from [[Location City Gallery of Frozen Waves V1 Gallery of Frozen Waves.svg
 - Originates from [Quaals Feather Token Swan Boat Xdmg]]
 - Compare with [[Assets Vehicles Vehicle Ship Storm Borne Battleship Storm Borne Battleship.svg

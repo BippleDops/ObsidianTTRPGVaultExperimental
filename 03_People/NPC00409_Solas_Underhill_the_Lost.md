@@ -155,8 +155,7 @@ Family member has gone missing
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -181,36 +180,28 @@ Family member has gone missing
 - Originates from [Assets Handouts Handout Handout Privateer Letter of Marque V2 Privateer Letter of Marque.png]]
 - Connects to [[Keeper Brinescale
 - Leads to [step_047 (phase_050)]]
-- Leads to [[Mechanics Custom Classes
-- Compare with [The Forgotten One (D&D_References)]]
+- Leads to [[The Forgotten One (D&D_References)]]
 - Related: [[EVENT00076_Magical_Event_77
 - Originates from [ENC00308_Combat_Encounter_309]]
 - Leads to [[Codex of Forgotten Depths
 - Originates from [NPC00459_Corvus_Goldleaf]]
 - Related: [[step_010 (phase_074)
 - Compare with [The Convergence Seekers]]
-- Parallels [[NPC00215_Solas_Dawnstrider_the_Wise
-- Parallels [step_007 (phase_011)]]
+- Parallels [[NPC00215_Solas_Dawnstrider_the_Wise]]
 - Originates from
 - Requires [[step_083 (phase_054)
 - Leads to [Assets Vehicles Vehicle Ship Kelp Weave Patrol Boat V1 Kelp Weave Patrol Boat.svg]]
-- Influences [[NPC01351_Gavril_Keenblade_the_Risen
-- Originates from [Pathfinders Greataxe Pota]]
-- Compare with [[The Current Maps (D&D_References)
-- Related: [NPC00365_Xander_Dawnstrider_the_Wise]]
+- Influences [[NPC01351_Gavril_Keenblade_the_Risen]]
+- Compare with [[NPC00365_Xander_Dawnstrider_the_Wise]]
 - Influences
 - Requires [[step_027 (phase_078)
 - Originates from [ENC00081_Social_Encounter_82]]
-- Originates from [[FAC00047_Cults_48
-- Influences [Locations Crystal Shadow Storms]]
-- Related: [[Arsenal Keeper Thane Ironwill (D&D_References)
-- Connects to [Sunken Vineyards]]
+- Originates from [[Locations Crystal Shadow Storms]]
+- Related: [[Arsenal Keeper Thane Ironwill (D&D_References)]]
 - Affected by [[demon-customization-tables-demon-flaws-mtf (tables)
 - See also: [Creature Creature Aerisi Kalinoth Pota V3 Aerisi Kalinoth Pota.png]]
-- See also: [[MON00038_Constructs_Creature_39
-- Originates from [step_070 (phase_047)]]
-- Affected by [[Thalassa the Life-Weaver (D&D_References)
-- Compare with [Potion of Thunder Resistance Xdmg]]
+- See also: [[MON00038_Constructs_Creature_39]]
+- Affected by [[Thalassa the Life-Weaver (D&D_References)]]
 - Influences [[step_002 (phase_021)
 - Affected by [step_062 (phase_036)]]
 - See also: [[Location City Unity Hopecurrent Unity Hopecurrent.svg
@@ -221,8 +212,7 @@ Family member has gone missing
 - Affected by [[Nalfeshnee Xmm
 - See also:
 - See also: [ITEM00782_Infernal_Mirror_of_the_Gods]]
-- See also: [[LOC00019_Wilderness_Location_20
-- Affected by [step_001 (phase_051)]]
+- See also: [[LOC00019_Wilderness_Location_20]]
 - Related: [[04_Resources_Assets_Symbols_symbol-heraldry-master-trader-darkmarke-master-trader-darkmarke.svg
 - Influences [step_100 (phase_028)]]
 - Compare with [[EVENT00047_Natural_Event_48
@@ -242,8 +232,7 @@ Family member has gone missing
 - See also: [[Shadow Animation Chamber 2
 - Leads to
 - Leads to [location-city-pelagic-cup-v1-pelagic-cup.svg]]
-- Parallels [[Umbral Scholar Valentina Depthlore 2
-- Requires [Githzerai Monk Xmm]]
+- Parallels [[Umbral Scholar Valentina Depthlore 2]]
 - Related: [[02_Worldbuilding_Factions_Abyssal_Courts
 - See also: [Quick Save]]
 - Connects to [[step_098 (phase_015)
@@ -252,8 +241,7 @@ Family member has gone missing
 - See also: [step_037 (phase_078)]]
 - Requires [[Sky_Events_Pack_B
 - Affected by [Assets Locations Location City Scholar Thomas Precedent V1 Scholar Thomas Precedent.svg]]
-- Compare with [[step_076 (phase_023)
-- Leads to [LORE0016_Legend_of_the_First_King]]
+- Compare with [[LORE0016_Legend_of_the_First_King]]
 - Parallels
 - Leads to [[step_059 (phase_042)
 - Affected by [Location City Abyssos Prime Upper Districts Abyssos Prime Upper Districts.png]]

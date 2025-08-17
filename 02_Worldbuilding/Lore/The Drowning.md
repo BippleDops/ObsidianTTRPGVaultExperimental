@@ -111,29 +111,16 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Continental War
-- [Deep Mother]]
-- [[Great Drowning
-- [Memory Alteration Consequences]]
-- [[Thalassius the Wise
-- [The Bathyal Succession]]
-- [[The Drowning Embrace
-- [The Drowning Welcome]]
-- [[The Great Convergence Prophecies
-- [The Queen]]
-- [[Timeline of the Drowning
-- [Memoriam - The Forgotten Continent]]
-- [[Sister Morwyn
-- [Surface Signals]]
-- [[The Cerulean Trench
-- [The Drowned Embassy]]
-- [[The Drowning Truth
-- [The Eternal Senate]]
-- [[The Great Drowning
-- [The Phosphor Markets]]
-- [[The Primordial Vaults
-- [The Void Touched Depths]]
-- [[Theological Warfare
-- [Whisper-Touched William]]
-- [[The Maw of Darkness
-- [The Bathyal Succession (D&D_References)]]
+- [[Continental War]]
+- [[Memory Alteration Consequences]]
+- [[The Bathyal Succession]]
+- [[The Drowning Welcome]]
+- [[The Great Convergence Prophecies]]
+- [[Memoriam - The Forgotten Continent]]
+- [[Surface Signals]]
+- [[The Drowned Embassy]]
+- [[The Drowning Truth]]
+- [[The Phosphor Markets]]
+- [[The Void Touched Depths]]
+- [[Whisper-Touched William]]
+- [[The Bathyal Succession (D&D_References)]]

@@ -1,7 +1,6 @@
 ---
 
-title: [[locations Abyssal Forges
-type: [Lore]]
+title: [[Locations Abyssal Forges]]
 tags:
 - lore
 - active

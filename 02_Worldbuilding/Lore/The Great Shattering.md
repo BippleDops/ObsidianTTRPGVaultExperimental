@@ -141,6 +141,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## References
 
 - [Azure Shard]]
-- [[Verdant Shard
-- [Azure Shard (D&D_References)]]
+- [[Azure Shard (D&D_References)]]
 - [[Verdant Shard (D&D_References)]]

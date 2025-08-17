@@ -160,16 +160,12 @@ Requires champions for trial by combat
 
 - Leads to [[Location City Professional Organizations Professional Organizations.svg
 - Leads to [LORE00137_Legends_Entry_138]]
-- Requires [[Portrait NPC Blood in the Water V1 Blood in the Water.svg_1 (Portraits)
-- Parallels [Portrait NPC Salv... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
-- Influences [[NPC1 (People)
-- Connects to [ENC00353_Combat_Encounter_354]]
+- Requires [[Portrait NPC Salv... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Influences [[ENC00353_Combat_Encounter_354]]
 - Affected by [[step_096 (phase_064)
 - See also: [Chancellor Octavius 2]]
-- Parallels [[The Anonymous Accords
-- See also: [Corrupted Creatures (D&D_References)]]
-- Connects to [[Wave Merchant (D&D_References)
-- See also: [step_087 (phase_083)]]
+- Parallels [[Corrupted Creatures (D&D_References)]]
+- Connects to [[Wave Merchant (D&D_References)]]
 - See also: [[enervation-xge (spells)
 - Compare with [The_Academy_of_Investigative_Arts (Places)]]
 - Leads to [[ENC0012_Random_Encounter_13
@@ -183,8 +179,7 @@ Requires champions for trial by combat
 - Compare with [heal-xphb (spells)]]
 - Related: [[NPC01450_Wynne_Lightbringer_the_Risen
 - Compare with [NPC01283_Corvus_Hawthorne_the_Fallen]]
-- Compare with [[ENC00207_Social_Encounter_208
-- Connects to [NPC01810_Solas_Hawthorne_the_Redeemed]]
+- Compare with [[NPC01810_Solas_Hawthorne_the_Redeemed]]
 - Influences [[Assets Art Name.png
 - Compare with [Symbol Heraldry Scream Crystals Scream Crystals.svg]]
 - Related: [[step_092 (phase_029)
@@ -192,20 +187,17 @@ Requires champions for trial by combat
 - See also: [step_030 (phase_073)]]
 - Parallels [[Assets Portraits Portrait NPC Ancient King Pelagios Ancient King Pelagios.svg
 - Affected by [Translator Marina Polyglot 2]]
-- Affected by [[NPC00961_Hestara_Proudmore_the_Cunning
-- Compare with [step_013 (phase_092)]]
+- Affected by [[NPC00961_Hestara_Proudmore_the_Cunning]]
 - Leads to [[Enspelled Staff Level 4 Xdmg
 - Originates from [Crying Peaks (D&D_References)]]
 - Parallels [[Pets Beholder Lesser Minions Vgm
 - See also: [step_047 (phase_091)]]
-- Related: [[passages-passage (tables)
-- Requires [Harbor District Customs House]]
+- Related: [[Harbor District Customs House]]
 - Influences [[ENC00204_Combat_Encounter_205
 - Originates from [Assets Locations Location City Loop Walker Celia V1 Loop Walker Celia.svg]]
 - Requires [[System Cli Spells School Necromancy
 - Affected by [Abyssal Cartel (D&D_References)]]
-- Affected by [[Master Environmental Specialist Tidal Convergenc (D&D_References)
-- Related: [QUEST00198_Main_Quest_199]]
+- Affected by [[Master Environmental Specialist Tidal Convergenc (D&D_References)]]
 - Affected by [[young-white-dragon-xmm (dragon)
 - Connects to [LOC00137_Wilderness_Location_138]]
 - Requires [[Memory Tide Events
@@ -233,14 +225,12 @@ Requires champions for trial by combat
 - See also: [[QUEST00040_Side_Quest_41
 - Connects to
 - Influences [Mithral Armor Xdmg]]
-- Related: [[MON0031_Blood_Devourer
-- Requires [LOC00075_Planes_Location_76]]
+- Related: [[LOC00075_Planes_Location_76]]
 - Affected by [[inkling-mascot-scc (ooze)
 - Originates from [MON00127_Undead_Creature_128]]
 - Parallels [[NPC0043_Dara_Ironforge
 - Originates from [Scenes_Gallery]]
-- Related: [[QUEST00077_Personal_Quest_78
-- Connects to [Exhaustio]]
+- Related: [[QUEST00077_Personal_Quest_78]]
 - Affected by [[Refugee Leader Maria Dispossessed
 - Originates from [Gallery of Echoing Truths 2]]
 - See also: [[step_077 (phase_041)
@@ -250,10 +240,8 @@ Requires champions for trial by combat
 - Originates from [[QUEST00107_Side_Quest_108
 - Parallels [fireball-xphb (spells)]]
 - Related:
-- Parallels [[SPELL0016_Arcane_Curse
-- Requires [Rising Dark]]
-- Originates from [[Northern Principalities (D&D_References)
-- Originates from [Screaming Tree Guardians]]
+- Parallels [[SPELL0016_Arcane_Curse]]
+- Originates from [[Northern Principalities (D&D_References)]]
 - Originates from [[Red Dragon Wyrmling Xmm
 - See also: [creature-creature-bat-xmm-v1-bat-xmm.png]]
 - Originates from [[otherworldly-steed-fey-xphb (fey)

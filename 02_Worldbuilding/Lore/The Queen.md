@@ -124,7 +124,7 @@ Everything changed when a [[The Seven Shards|Shard fragment was discovered in th
 
 ### Nature of the Possession
 
-The consciousness inhabiting Queen Seraphina is not demonic or external—it is the crystalline collective memory of [[The Crimson Sage ([Aetheron]]), stored within the crystal network since [[The Great Crystallization. This ancient divine consciousness has been slowly awakening as [The Convergence Point]] approaches, seeking a suitable vessel to guide its return to full power.
+The consciousness inhabiting Queen Seraphina is not demonic or external—it is the crystalline collective memory of [[The Crimson Sage]]), stored within the crystal network since [[The Great Crystallization. This ancient divine consciousness has been slowly awakening as [The Convergence Point]] approaches, seeking a suitable vessel to guide its return to full power.
 
 **The Possession Process:**
 1. **Initial Contact**: Touching the Shard fragment created a direct link
@@ -329,7 +329,7 @@ A secret [[Organization of nobles, military officers, and citizens loyal to the 
 
 **Leadership:**
 - **[Prince Aurelius]]**: The queen's son, providing royal legitimacy
-- **[[General Truthseeker Vale**: Former [Royal Guard]] commander
+- **[[General Truthseeker Vale]] commander
 - **[[Archcrystallographer Clarity**: Court mage specializing in anti-possession research
 - **[[Shield|Lady Resistance Bright[Shield]]]]**: Noble organizing safe houses and supply networks
 
@@ -401,8 +401,7 @@ A religious organization believing crystal possession can be cured through spiri
 The divine consciousness operates through interconnected crystal formations:
 
 **Primary Nodes:**
-- **[Crystal Heart of the Realm]]**: Central consciousness hub beneath [[Royal Palace
-- **[The Seven Shards]]** (when assembled): Maximum power amplification
+- **[Crystal Heart of the Realm]]**: Central consciousness hub beneath [[The Seven Shards]]** (when assembled): Maximum power amplification
 - **Regional Crystal Towers**: Secondary command and control points
 - **Personal Crystal Items**: Jewelry and regalia serving as direct interfaces
 - **Architectural Crystals**: Building elements that monitor and influence inhabitants
@@ -501,7 +500,7 @@ Queen Seraphina's possession represents one path convergence might take—forced
 
 ### Essential Artifacts
 
-- [[The Crown of Consciousness - [Royal Regalia]] enhanced with divine power
+- [[The Crown of Consciousness]] enhanced with divine power
 - [[The Shard Fragment - Original catalyst for possession
 - [The Royal Crystals]] - Personal items serving as consciousness interfaces
 - [[Identity Anchor - Potential tool for restoring original personality
@@ -547,7 +546,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## References
 
 - [The Crown of Stars]]
-- [[Throne Room
-- [The Crystalline Foundry]]
-- [[The Crown's Burden
-- [Throne Room (D&D_References)]]
+- [[The Crystalline Foundry]]
+- [[Throne Room (D&D_References)]]

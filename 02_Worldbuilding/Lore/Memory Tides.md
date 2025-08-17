@@ -98,6 +98,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Timeline of the Drowning
-- [The Maw of Darkness]]
+- [[Timeline of the Drowning]]
 - [[The Maw of Darkness (D&D_Statblocks)]]

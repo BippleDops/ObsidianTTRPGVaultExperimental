@@ -166,5 +166,4 @@ Things widely suspected
 
 ## References
 
-- [[Merchant Family Alliances
-- [Temporal Anomaly Resolution]]
+- [[Temporal Anomaly Resolution]]

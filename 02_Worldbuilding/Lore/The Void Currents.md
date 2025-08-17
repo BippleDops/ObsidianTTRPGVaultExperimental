@@ -1,6 +1,5 @@
 ---
-title: The [[Void Currents
-type: [Lore]]
+title: The [[Void Currents]]
 tags:
 - lore
 - active

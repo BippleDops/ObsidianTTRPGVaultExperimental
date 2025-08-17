@@ -168,10 +168,8 @@ Witnessed a crime
 
 - See also: [[ITEM00776_Divine_Chalice_of_Dominion
 - Originates from [Journey_Event_Permutation_Engine]]
-- Originates from [[Grappling Hook Xphb
-- Connects to [Downtime Activity Crafting an Item Xge]]
-- Influences [[step_064 (phase_075)
-- Parallels [Patrol Boundaryrider (D&D_References)]]
+- Originates from [[Downtime Activity Crafting an Item Xge]]
+- Influences [[Patrol Boundaryrider (D&D_References)]]
 - See also: [[Thrown Weapon Fighting Xphb
 - Leads to [step_057 (phase_014)]]
 - See also: [[Hobgoblin Captain Xmm
@@ -202,8 +200,7 @@ Witnessed a crime
 - Requires [Magical Services (D&D_References)]]
 - Originates from [[step_017 (phase_068)
 - See also: [step_031 (phase_064)]]
-- Parallels [[Pressure Adaptation System (D&D_References)
-- Related: [Professor Marina Reefbuilder (D&D_References)]]
+- Parallels [[Professor Marina Reefbuilder (D&D_References)]]
 - Leads to [[step_003 (phase_006)
 - See also: [dungeon-dressing-noises (tables)]]
 - Related: [[mass-suggestion-xphb (spells)
@@ -220,14 +217,12 @@ Witnessed a crime
 - See also: [[Handout Handout Docking Permit V1 Docking Permit.png
 - See also:
 - Compare with [step_067 (phase_048)]]
-- Originates from [[Kelp Highway (D&D_References)
-- Related: [step_044 (phase_031)]]
+- Originates from [[Kelp Highway (D&D_References)]]
 - Leads to [[The Strangling Vine (D&D_References)
 - Leads to [list-spells-classes-shadow-magic-xge (lists)]]
 - Affected by [[Assets Locations Location City Law Enforcement Medical Support Law Enforcement Medical Support.svg
 - Related: [LOC00156_Towns_Location_157]]
-- Parallels [[Silence-Keeper Mute (D&D_References)
-- Originates from [Terminal Master Hadrian Depthbridge (D&D_References)]]
+- Parallels [[Terminal Master Hadrian Depthbridge (D&D_References)]]
 - Compare with [[NPC00096_Idris_Youngblood_the_Bold
 - Influences
 - See also: [The Ossuary Temple (D&D_References)]]
@@ -239,13 +234,11 @@ Witnessed a crime
 - Originates from [Eastern Technical University]]
 - Related: [[Silver Mask (D&D_References)
 - Connects to [physical-variations-pureblood-characteristics-vgm]]
-- See also: [[improvised-weapons-xphb (variant-rules)
-- Related: [NPC01543_Delara_Crystalbrook_the_Risen]]
+- See also: [[improvised-weapons-xphb (variant-rules)]]
 - Related: [[Aquabyssos World Overview#The Great Drowning
 - Connects to
 - Affected by [ITEM01222_Distilled_Elixir_of_Healing]]
-- Related: [[erupting-earth-xge (spells)
-- Affected by [ENC00019_Environmental_Encounter_20]]
+- Related: [[ENC00019_Environmental_Encounter_20]]
 - Influences
 - Parallels [[ITEM01201_Concentrated_Salve_of_Swiftness
 - Leads to [Coverage_Dashboard (D&D_References)]]
@@ -255,8 +248,7 @@ Witnessed a crime
 - Leads to [Portrait NPC the Great Trade Routes the Great Trade Routes.svg]]
 - Affected by [[norse-uller (deities)
 - Leads to [paladin-xphb-oath-of-vengeance-xphb (classes)]]
-- Related: [[ENC00163_Combat_Encounter_164
-- Requires [Integration Safety Coordinator Luna Balancekeeper]]
+- Related: [[Integration Safety Coordinator Luna Balancekeeper]]
 - See also: [[Assets Locations Location City Temple Ward V1 Temple Ward.svg
 - Parallels [find-greater-steed-xge (spells)]]
 - Requires [[LORE00092_Prophecies_Entry_93

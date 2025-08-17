@@ -159,11 +159,8 @@ Wants rivals investigated
 - Compare with [LOC0046_OldHill]]
 - Requires [[Drow Deities the Dark Seldarine Mtf
 - Originates from [Duchess Aurora Spirelight]]
-- Compare with [[step_047 (phase_031)
-- Leads to [ENC00286_Social_Encounter_287]]
-- Originates from [[Senator Cornelius Depthwalker (D&D_References)
-- See also:
-- Leads to [Harbormaster Tidal Stormcrest]]
+- Compare with [[ENC00286_Social_Encounter_287]]
+- Originates from [[Senator Cornelius Depthwalker (D&D_References)]]
 - Leads to [[step_098 (phase_079)
 - Parallels [step_067 (phase_096)]]
 - Related: [[Crystal Ball of True Seeing Xdmg
@@ -173,19 +170,15 @@ Wants rivals investigated
 - Connects to [LORE00182_History_Entry_183]]
 - Compare with [[Assets Locations Location City Surface Loyalist Safe Houses Surface Loyalist Safe Houses.svg
 - See also: [QUEST00454_Side_Quest_455]]
-- Influences [[NPC00214_Solas_Moonshadow
-- See also: [Public Libraries (D&D_References)]]
-- See also: [[Crystal Plague Mechanics (D&D_References)
-- Leads to [Fourth Shard of Binding]]
+- Influences [[Public Libraries (D&D_References)]]
+- See also: [[Crystal Plague Mechanics (D&D_References)]]
 - Compare with [[ITEM01286_Pure_Oil_of_Swiftness
 - Influences [step_002 (phase_090)]]
-- Originates from [[Tribune Cassia 2
-- Leads to [Gallery of Frozen Waves (D&D_References)]]
+- Originates from [[Gallery of Frozen Waves (D&D_References)]]
 - Parallels
 - Requires [[Symbol Heraldry Scholars of Divine Scholars of Divine Lore.svg
 - Originates from [Queen Seraphina Lumengarde (People)]]
-- Requires [[Mechanics_Feedback
-- Leads to [Shadow-Touched Individuals (D&D_References)]]
+- Requires [[Shadow-Touched Individuals (D&D_References)]]
 - Connects to [[step_079 (phase_051)
 - Affected by
 - See also: [step_031 (phase_096)]]
@@ -195,8 +188,7 @@ Wants rivals investigated
 - Compare with [Intelligence Community]]
 - Requires [[step_069 (phase_045)
 - Compare with [Wood Woad Mpmm]]
-- Originates from [[NPC01351_Gavril_Keenblade_the_Risen
-- Originates from [Time]]
+- Originates from [[NPC01351_Gavril_Keenblade_the_Risen]]
 - Affected by
 - Compare with [[Quest - The Seventh Seal_1 (01_Adventures)
 - Compare with [step_009 (phase_020)]]
@@ -209,12 +201,10 @@ Wants rivals investigated
 - Influences [Assets Locations Location City Palace Staff Guild Palace Staff Guild.svg]]
 - Leads to [[Assets Locations Location City Azure Citadel Azure Citadel.svg
 - Related: [The Anchor of Being]]
-- Originates from [[ENC00108_Combat_Encounter_109
-- See also: [Elk Xmm]]
+- Originates from [[ENC00108_Combat_Encounter_109]]
 - Requires [[Location City Temple of the Dawn V1 Temple of the Dawn.svg
 - Originates from [International Medical Organizations]]
-- Affected by [[Princess Luminara (D&D_References)
-- Connects to [Cordelia Truthseeker]]
+- Affected by [[Princess Luminara (D&D_References)]]
 - Compare with [[Portrait NPC Captain Truth Ironwill V1 Captain Truth Ironwill.svg
 - Requires [Item Artifact Travelers Clothes Xphb V7 Travelers Clothes Xphb.png]]
 - Leads to [[Lieutenant Marcus 2
@@ -224,8 +214,7 @@ Wants rivals investigated
 - Parallels [green-dragon-scale-mail-xdmg (items)]]
 - Connects to [[ITEM00581_Warded_Plate_of_Grace
 - Compare with [Portrait NPC the Soul Market V1 the Soul Market.svg]]
-- Originates from [[LOC00153_Cities_Location_154
-- Leads to [LOC00043_Wilderness_Location_44]]
+- Originates from [[LOC00043_Wilderness_Location_44]]
 - See also: [[LORE0040_History_of_the_First_King
 - Affected by [NPC01262_Ysara_Dawnstrider_the_Swift]]
 - See also: [[Symbol Heraldry Diplomatic Intelligence V1 Diplomatic Intelligence.svg
@@ -239,18 +228,14 @@ Wants rivals investigated
 - Requires [[LORE00236_History_Entry_237
 - Affected by
 - Affected by [Location City Master Archivist Valdric Stonewhisper V1 Master Archivist Valdric Stonewhisper.svg]]
-- Originates from [[Echo-Prime Cacophony Voidlungs (D&D_References)
-- Influences [LORE0047_Prophecy_of_the_Ancient_Pact]]
+- Originates from [[Echo-Prime Cacophony Voidlungs (D&D_References)]]
 - Compare with [[step_099 (phase_049)
 - Originates from [ENC00199_Social_Encounter_200]]
-- Requires [[ENC00260_Social_Encounter_261
-- Originates from [Sacred Texts of Transformatio (D&D_References)]]
-- Parallels [[Roleplaying a Mind Flayer Mind Flayer
-- Compare with [Deputy Archmerchant Scroll Deepmind (D&D_References)]]
+- Requires [[Sacred Texts of Transformatio (D&D_References)]]
+- Parallels [[Deputy Archmerchant Scroll Deepmind (D&D_References)]]
 - Related: [[Assets Locations Location City Banker Cornelius Goldflow Banker Cornelius Goldflow.svg
 - Related: [MON00156_Undead_Creature_157]]
-- Influences [[Leviathan Graveyard (D&D_References)
-- See also: [step_056 (phase_086)]]
+- Influences [[Leviathan Graveyard (D&D_References)]]
 - Connects to [[04_Resources_Assets_Locations_location-city-master-jeweler-sapphire-delicatehand-master-jeweler-sapphire-delicatehand.svg
 - Originates from [step_098 (phase_005)]]
 - Originates from [[The Void Sculptors

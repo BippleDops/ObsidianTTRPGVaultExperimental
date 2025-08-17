@@ -169,8 +169,7 @@ Seeks bodyguards for dangerous journey
 
 - Compare with [[step_058 (phase_062)
 - See also: [Location City Crystal Engineer Spark Gemwright Crystal Engineer Spark Gemwright.svg]]
-- Parallels [[cantrip-xphb (variant-rules)
-- See also: [NPC01843_Branwen_Jadeclaw_the_Fallen]]
+- Parallels [[NPC01843_Branwen_Jadeclaw_the_Fallen]]
 - Parallels [[location-city-goldspire-port-goldspire-port.svg
 - Affected by [portrait-npc-original-glaucus-original-glaucus.svg_1 (Portraits)]]
 - Affected by [[step_049 (phase_072)
@@ -180,39 +179,33 @@ Seeks bodyguards for dangerous journey
 - Parallels [Completed_Content (02_Worldbuilding)]]
 - Requires [[step_070 (phase_084)
 - Affected by [step_094 (phase_069)]]
-- See also: [[NPC00726_Caelum_Lightbringer_the_Broken
-- Originates from [README]]
+- See also: [[NPC00726_Caelum_Lightbringer_the_Broken]]
 - Leads to [[Emergency Response Networks
 - Leads to
 - Affected by [LORE00137_History_Entry_138]]
-- Originates from [[EVENT00046_Magical_Event_47
-- Related: [The Neural Clusters (D&D_References)]]
+- Originates from [[The Neural Clusters (D&D_References)]]
 - Requires [[step_077 (phase_062)
 - Parallels [LORE00298_Prophecies_Entry_299]]
 - Originates from [[Armorer_Padwick
 - Connects to [step_029 (phase_037)]]
-- Parallels [[ENC0017_Random_Encounter_18
-- Influences [step_074 (phase_074)]]
+- Parallels [[ENC0017_Random_Encounter_18]]
 - Originates from [[feinting-attack-xphb (optional-features)
 - Requires [step_097 (phase_041)]]
-- Compare with [[SHOP00046_Magical_Shop_47
-- Originates from [Current Bridgewater (D&D_References)]]
+- Compare with [[Current Bridgewater (D&D_References)]]
 - Connects to [[ITEM00507_Fortified_Helm_of_Protection
 - Compare with [step_005 (phase_078)]]
 - Influences [[step_063 (phase_023)
 - See also: [Crysthaven 2]]
 - Parallels [[Inverted Ballroom Wing (D&D_References)
 - Originates from [location-city-warforged-v1-warforged.svg]]
-- Parallels [[QUEST00114_Side_Quest_115
-- Parallels [Breaking the Deep 2]]
+- Parallels [[QUEST00114_Side_Quest_115]]
 - See also: [[druid-xphb-circle-of-dreams-xge (classes)
 - Requires [chain-devil-xmm (fiend)]]
 - Parallels [[LOC00244_Wilderness_Location_245
 - Requires [Location City the Sunken Cathedral of Perfect Order the Sunken Cathedral of Perfect Order.svg]]
 - See also: [[Portrait NPC Parliament Loyalists Parliament Loyalists.svg_1 (Portraits)
 - Requires [Session 2 Court of Whispers_1 (06_Sessions)]]
-- Influences [[Emergency Life Support Research Foundation
-- Originates from [Abyssal Cyclicalism]]
+- Influences [[Emergency Life Support Research Foundation]]
 - Affected by [[Portrait NPC Militant Priest Abyssal V1 Militant Priest Abyssal.svg_1 (Portraits)
 - Leads to [Ending a Chase Escape Factors Xdmg]]
 - Connects to [[step_082 (phase_067)
@@ -222,8 +215,7 @@ Seeks bodyguards for dangerous journey
 - Connects to [ENC00001_Combat_Encounter_2]]
 - Requires [[Assets Locations Location City Deep Mother Spawning Pools Deep Mother Spawning Pools.svg
 - Affected by [Template-Star-System]]
-- See also: [[step_032 (phase_044)
-- See also: [The Garden Heart Crystal 2]]
+- See also: [[The Garden Heart Crystal 2]]
 - Connects to [[VAULT_ORGANIZATION_STATUS
 - Influences [QUEST00270_Side_Quest_271]]
 - Affected by [[step_098 (phase_022)
@@ -257,15 +249,13 @@ Seeks bodyguards for dangerous journey
 - Requires [Location City Historical Societies Historical Societies.svg]]
 - Affected by [[Portrait NPC Captain Storm Ambushmaster Captain Storm Ambushmaster.svg
 - Compare with [The Free Guilds Alliance]]
-- Originates from [[step_025 (phase_076)
-- Compare with [Mid-Echo Shriek Nerveshatter]]
+- Originates from [[Mid-Echo Shriek Nerveshatter]]
 - Influences [[ITEM00797_Infernal_Ring_of_the_Gods
 - Affected by
 - Compare with [04_Resources_Assets_Locations_location-city-the-crystal-cathedral-of-pure-light-v1-the-crystal-cathedral-of-pure-light.svg]]
 - Originates from [[bag-of-tricks-gray-xdmg (items)
 - Parallels [Reality_Anchor_Paladin]]
-- Connects to [[Crystal Wardens (D&D_Statblocks)
-- Parallels [step_060 (phase_007)]]
+- Connects to [[Crystal Wardens (D&D_Statblocks)]]
 - Connects to [[supplemental-tables-childhood-home-xge (tables)]]
 
 ## Plot Hooks

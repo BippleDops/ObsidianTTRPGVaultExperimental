@@ -157,8 +157,7 @@ Seeks bodyguards for dangerous journey
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -173,10 +172,8 @@ Seeks bodyguards for dangerous journey
 
 - Affected by [[Location City the Iron Pits of Malachar the Iron Pits of Malachar.svg
 - Originates from [step_002 (phase_022)]]
-- Parallels [[step_029 (phase_041)
-- Parallels [NPC01652_Nerys_Winterborn_the_Fallen]]
-- Leads to [[Identify Xphb
-- See also: [The Silence Experiments]]
+- Parallels [[NPC01652_Nerys_Winterborn_the_Fallen]]
+- Leads to [[The Silence Experiments]]
 - Affected by [[ITEM00267_Radiant_Crossbow_of_Speed
 - Affected by [Assets Locations Location City Deep Ones Deep Ones.svg]]
 - Originates from [[step_071 (phase_091)
@@ -186,14 +183,11 @@ Seeks bodyguards for dangerous journey
 - Originates from [[step_095 (phase_010)
 - Influences
 - Compare with [Multi-Phase Boss Fights]]
-- Connects to [[Vehicles_&_Ships_Gallery
-- Affected by [Regent Thalassa]]
-- Leads to [[QUEST0073_The_Frozen_Fortress_Uprising
-- Originates from [Hellfire Engine Mpmm]]
+- Connects to [[Vehicles_&_Ships_Gallery]]
+- Leads to [[QUEST0073_The_Frozen_Fortress_Uprising]]
 - Influences [[summon-greater-demon-xge (spells)
 - See also: [step_012 (phase_077)]]
-- Originates from [[NPC00812_Kaelen_Jadeclaw_the_Seeker
-- Affected by [step_053 (phase_011)]]
+- Originates from [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
 - Related: [[Watery Sphere Xge
 - Connects to [step_098 (phase_015)]]
 - Parallels [[Death Slaad Xmm
@@ -215,14 +209,11 @@ Seeks bodyguards for dangerous journey
 - Affected by [step_074 (phase_093)]]
 - Connects to [[step_090 (phase_052)
 - Leads to [Symbol Heraldry Transformation Assistance V1 Transformation Assistance.svg]]
-- Originates from [[The Heroes' Hall (D&D_References)
-- Compare with [Merger_Events_Pack_A]]
+- Originates from [[The Heroes' Hall (D&D_References)]]
 - Compare with [[archelon-xmm (beast)
 - Leads to [Blue Dragon]]
-- Connects to [[Market Prophets
-- Parallels [Goldspire Expedition 2]]
-- Originates from [[Deep Mother
-- Parallels [High Priest Absence (D&D_References)]]
+- Connects to [[Goldspire Expedition 2]]
+- Originates from [[High Priest Absence (D&D_References)]]
 - Parallels [[ENC0029_Random_Encounter_30
 - Parallels [Assets Locations Location City Merchant Prince Aldric Goldcurrent Merchant Prince Aldric Goldcurrent.svg]]
 - Related: [[Infected Experiments
@@ -232,14 +223,10 @@ Seeks bodyguards for dangerous journey
 - Connects to [step_014 (phase_022)]]
 - Originates from [[ITEM00654_Dragon_Scale_Shield_of_Protection
 - Leads to [D-005 Shadow Bloom Player (Encounters)]]
-- Requires [[NPC00501_Orion_Nightfall_the_Broken
-- Parallels [LOC00195_Wilderness_Location_196]]
-- Related: [[Artist Wave Creator
-- Parallels [SPELL00140_Divine_Spell_141]]
-- Originates from [[step_014 (phase_019)
-- Parallels [Pearl Empress Lustrous (D&D_References)]]
-- Parallels [[step_004 (phase_044)
-- Influences [Maintece_Supervisor_Tide_Fixwright]]
+- Requires [[NPC00501_Orion_Nightfall_the_Broken]]
+- Related: [[SPELL00140_Divine_Spell_141]]
+- Originates from [[Pearl Empress Lustrous (D&D_References)]]
+- Parallels [[Maintece_Supervisor_Tide_Fixwright]]
 - Affected by [[Location City Cultural Districts Cultural Districts.svg
 - Connects to [Item Artifact Spell Gem Lapis Lazuli Oota Spell Gem Lapis Lazuli Oota.png]]
 - Connects to [[Portrait NPC Captain Morgrim Lastvessel V2 Captain Morgrim Lastvessel.svg
@@ -248,11 +235,9 @@ Seeks bodyguards for dangerous journey
 - Influences [Fresh Cleanwave (D&D_References)]]
 - Leads to [[Assets Locations Location City Giant Sea Horse Giant Sea Horse.svg
 - Requires [Assets Locations Location City Spy Games Spy Games.svg]]
-- Requires [[Seven Shards Campaign Campaign Overview
-- Parallels [step_038 (phase_074)]]
+- Requires [[Seven Shards Campaign Campaign Overview]]
 - Compare with
-- Related: [[Depth Corruption System
-- Related: [Ambassador Foreign-Relations Valdris]]
+- Related: [[Ambassador Foreign-Relations Valdris]]
 - Influences [[step_011 (phase_089)
 - See also: [Quest - The Crown Reborn]]
 - Requires [[step_096 (phase_025)

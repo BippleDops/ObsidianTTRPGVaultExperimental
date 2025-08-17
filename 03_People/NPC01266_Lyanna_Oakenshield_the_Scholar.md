@@ -163,8 +163,7 @@ Forming expedition to dangerous location
 - See also: [[LOC0003_WestHaven
 - Originates from
 - Originates from [NPC00765_Pyria_Winterborn_the_Wanderer]]
-- Influences [[Surface Trade Ports
-- Originates from [The Divine Revelation (D&D_References)]]
+- Influences [[The Divine Revelation (D&D_References)]]
 - Originates from [[Assets Item Artifact Whelm Xdmg V6 Whelm Xdmg.png
 - Related: [04_Resources_Assets_Locations_location-city-harbormaster-creedence-tidereader-v1-harbormaster-creedence-tidereader.svg]]
 - Connects to [[Location City Pearl Harbor City V1 Pearl Harbor City.svg
@@ -181,8 +180,7 @@ Forming expedition to dangerous location
 - Influences
 - Connects to [[step_095 (phase_017)
 - Requires [FAC00024_Orders_25]]
-- Originates from [[Duke Lysander Crystalvein (D&D_References)
-- Related: [step_036 (phase_011)]]
+- Originates from [[Duke Lysander Crystalvein (D&D_References)]]
 - Compare with [[The Six Abilities Ability Descriptions Xphb
 - Compare with [step_091 (phase_020)]]
 - Leads to [[Celestial Spirit Defender Xphb
@@ -195,14 +193,12 @@ Forming expedition to dangerous location
 - Compare with [04_Resources_Assets_Locations_location-city-transportation-guild-masters-v1-transportation-guild-masters.svg]]
 - Influences [[LOC00290_Planes_Location_291
 - Requires [boon-of-perfect-health (rewards)]]
-- Influences [[Thermal Vent Communities (D&D_References)
-- Parallels [step_064 (phase_055)]]
+- Influences [[Thermal Vent Communities (D&D_References)]]
 - Affected by [[step_066 (phase_020)
 - Influences [step_029 (phase_011)]]
 - Leads to [[step_017 (phase_005)
 - Influences [Tide Turner (Lore)]]
-- Parallels [[QUEST00194_Side_Quest_195
-- Influences [Identity Ancho]]
+- Parallels [[QUEST00194_Side_Quest_195]]
 - Compare with [[The Anonymous Accord
 - See also: [FAC00037_Cults_38]]
 - Connects to [[02_Worldbuilding_Military_Siege_Engineers
@@ -217,10 +213,8 @@ Forming expedition to dangerous location
 - Connects to [[step_058 (phase_046)
 - Requires [Assets Locations Location City Sacred Historian Coral Deepscribe V1 Sacred Historian Coral Deepscribe.svg]]
 - Requires
-- Parallels [[step_018 (phase_057)
-- See also: [Archbiomancer Thessarian the Unbound]]
-- Compare with [[Work Complications Xge
-- Parallels [Lord Commander Steelborn (D&D_References)]]
+- Parallels [[Archbiomancer Thessarian the Unbound]]
+- Compare with [[Lord Commander Steelborn (D&D_References)]]
 - Connects to [[step_078 (phase_029)
 - Leads to [Location City Surface Portal Alpha V1 Surface Portal Alpha.svg]]
 - Originates from
@@ -246,16 +240,13 @@ Forming expedition to dangerous location
 - Influences [04_Resources_Assets_Locations_location-city-master-elena-preserver-v1-master-elena-preserver.svg]]
 - Related: [[Instrument of the Bards Cli Lyre Xdmg
 - Related: [Location City Luminous Laboratory District Luminous Laboratory District.svg]]
-- Originates from [[Marine Agricultural Council
-- Originates from [NPC01123_Faelyn_Frostwhisper_the_Seeker]]
+- Originates from [[NPC01123_Faelyn_Frostwhisper_the_Seeker]]
 - Influences [[Memory_Merchant_Valeria.png
 - See also: [step_052 (phase_004)]]
-- Compare with [[Underdark Encounters Levels 510 Xge
-- Compare with [step_037 (phase_047)]]
+- Compare with [[Underdark Encounters Levels 510 Xge]]
 - See also: [[LOC00062_Towns_Location_63
 - Requires [MON00035_Undead_Creature_36]]
-- Parallels [[NPC01906_Alaric_Darkwater_the_Redeemed
-- Connects to [marilith-xmm (fiend)]]
+- Parallels [[NPC01906_Alaric_Darkwater_the_Redeemed]]
 
 ## Visual References
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png

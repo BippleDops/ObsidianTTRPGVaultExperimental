@@ -1,7 +1,6 @@
 ---
 
-title: Services [[Temporal Paradox Prevention
-type: [Lore]]
+title: Services [[Temporal Paradox Prevention]]
 tags:
 - lore
 - active

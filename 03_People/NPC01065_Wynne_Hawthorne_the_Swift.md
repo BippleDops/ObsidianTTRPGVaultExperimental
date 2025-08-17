@@ -163,8 +163,7 @@ Seeks rare merchandise
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -189,42 +188,35 @@ Seeks rare merchandise
 - Requires [[The Remembering Ones
 - Parallels
 - Compare with [Lord Commander Gareth]]
-- Leads to [[LOC0136_Marshstead
-- Connects to [MON00077_Undead_Creature_78]]
+- Leads to [[MON00077_Undead_Creature_78]]
 - Leads to [[Portrait NPC High Priest Dagon Deepcaller High Priest Dagon Deepcaller.svg_1 (Portraits)
 - Affected by [Handouts Ships Player Handout Merger Vessels]]
 - Connects to [[Assets Locations Location City the Recursion Cult the Recursion Cult.png
 - Affected by [The Skyborne Merchants]]
-- Parallels [[Ironhold Dock
-- See also: [High Luminary Celestine Brightward]]
+- Parallels [[High Luminary Celestine Brightward]]
 - Affected by [[NPC_Name_Generator
 - Influences [greyhawk-nerull-xdmg (deities)]]
 - Influences [[norse-hermod (deities)
 - Requires [Folding Boat Xdmg]]
 - Leads to
-- Influences [[step_062 (phase_007)
-- Parallels [MON00118_Constructs_Creature_119]]
+- Influences [[MON00118_Constructs_Creature_119]]
 - Related: [[Assets Locations Location City Memoriam the Forgotten Continent Memoriam the Forgotten Continent.svg
 - See also: [step_075 (phase_019)]]
 - See also: [[Mad_Prophet_Silas_the_Depth-Touched.png
 - Parallels [step_027 (phase_088)]]
 - Influences [[The Reality Guards 2
 - Related: [step_062 (phase_078)]]
-- Requires [[Head of Memory Integration Dr. Nautilus Depthcaller (People)
-- Requires
-- Related: [Character_Bonds]]
+- Requires [[Head of Memory Integration Dr. Nautilus Depthcaller]]
 - Requires
 - Leads to [[Oracle Sister Luna Visionseeker
 - Originates from [LOC00051_Planes_Location_52]]
 - Originates from [[Friends Xphb
 - Related:
 - Influences [Frigid Water Xdmg]]
-- Related: [[ENC00067_Social_Encounter_68
-- See also: [Shadow Detection Crystals (D&D_References)]]
+- Related: [[Shadow Detection Crystals (D&D_References)]]
 - Originates from [[SHOP00063_General_Shop_64
 - Requires [step_075 (phase_080)]]
-- Connects to [[Shadow Integration Coordinator Luna Bridgebuilder (D&D_References)
-- Originates from [QUEST00327_Side_Quest_328]]
+- Connects to [[Shadow Integration Coordinator Luna Bridgebuilder (D&D_References)]]
 - Requires [[Pressure Engineers (D&D_References)
 - Parallels [Portrait NPC Quest the Siren S Price V2 Quest the Siren S Price.svg]]
 - Connects to [[ITEM01281_Greater_Crystal_of_Swiftness
@@ -236,14 +228,12 @@ Seeks rare merchandise
 - Compare with [[Session 17 - The Gathering Storm
 - Parallels
 - Affected by [Bottle Stopper Cork Embossed with Gold Leaf and Set with Amethysts Xdmg]]
-- Compare with [[conjure-barrage-xphb (spells)
-- Compare with [NPC01902_Aldric_Moonshadow_the_Redeemed]]
+- Compare with [[NPC01902_Aldric_Moonshadow_the_Redeemed]]
 - Leads to [[Location City Merchant Prince Akula V1 Merchant Prince Akula.png
 - Influences [step_054 (phase_021)]]
 - Influences [[portrait-npc-shadow-embassy-shadow-embassy.svg
 - Parallels [Pressure Point Settlement (D&D_References)]]
-- Originates from [[step_049 (phase_022)
-- Related: [Scream Crystals (D&D_References)]]
+- Originates from [[Scream Crystals (D&D_References)]]
 - Influences [[deities-of-eberron (tables)
 - Influences [Professor Kaine Tidereader]]
 - See also: [[Portrait NPC Captain Nerion Deepward V1 Captain Nerion Deepward.svg
@@ -256,16 +246,13 @@ Seeks rare merchandise
 - Requires [[Assets Locations Location City Mediator Cardinal Harmony Mediator Cardinal Harmony.svg
 - Originates from
 - Requires [step_085 (phase_095)]]
-- Affected by [[Gith Githyanki Mtf
-- Affected by [LOC00230_Wilderness_Location_231]]
+- Affected by [[LOC00230_Wilderness_Location_231]]
 - Requires [[DUN00046_Dungeon_47
 - See also: [step_013 (phase_068)]]
-- Related: [[LOC00276_Wilderness_Location_277
-- Compare with [step_018 (phase_094)]]
+- Related: [[LOC00276_Wilderness_Location_277]]
 - Parallels [[Hallucinatory Terrain Xphb
 - Affected by [ITEM01397_Decorated_Tool_Kit_of_Quality]]
-- Affected by [[Smuggler''s Cove
-- Originates from [Explorer Captain Reef Deepdiver]]
+- Affected by [[Explorer Captain Reef Deepdiver]]
 - Parallels [[Void Technician Prima Nullbane (D&D_References)
 - Affected by [Map Map Embassy Quarter Court Embassy Quarter Court.svg]]
 - Compare with [[Map World Layer World Political Boundaries World Political Boundaries.svg

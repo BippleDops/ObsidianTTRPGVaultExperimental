@@ -103,7 +103,7 @@ improvements: 20
 - Explain guest rights and host obligations
 
 ## Overview
-The Void Watchers are an ancient order dedicated to preventing the collapse of reality itself. Founded eons ago when the first rifts appeared between dimensions, they monitor the boundaries between [[Aethermoor, [Aquabyssos]], and the spaces beyond existence. They understand that both worlds' current crises—crystal corruption and shadow spreading—are symptoms of fundamental reality instability that could unmake everything if left unchecked.
+The Void Watchers are an ancient order dedicated to preventing the collapse of reality itself. Founded eons ago when the first rifts appeared between dimensions, they monitor the boundaries between [[Aethermoor]], and the spaces beyond existence. They understand that both worlds' current crises—crystal corruption and shadow spreading—are symptoms of fundamental reality instability that could unmake everything if left unchecked.
 
 ## Adventure Hooks
 1. **The Reality Storm**: Help contain dimensional breach threatening both worlds
@@ -226,5 +226,4 @@ Things widely suspected
 
 ## References
 
-- [[Quest - The Convergence Crisis
-- [10 combat#Dropping_to_0_Hit_Points#Monsters_and_Death]]
+- [[Quest - The Convergence Crisis]]

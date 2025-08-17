@@ -169,17 +169,14 @@ Seeks bodyguards for dangerous journey
 - Parallels
 - Influences [[step_093 (phase_029)
 - Related: [Firbolg Vgm]]
-- Requires [[step_013 (phase_080)
-- See also: [NPC01423_Baelor_Grimholt_the_Bold]]
-- Connects to [[step_096 (phase_050)
-- Influences [LOC00124_Dungeons_Location_125]]
+- Requires [[NPC01423_Baelor_Grimholt_the_Bold]]
+- Connects to [[LOC00124_Dungeons_Location_125]]
 - Affected by
 - Originates from [[Location City Intelligence Dealer Echo Whisperwave V1 Intelligence Dealer Echo Whisperwave.svg
 - Originates from [Ceremony Xge]]
 - Affected by [[S_009_Void_Moan_Player
 - Requires [Location City Temporal Viewing Chambers V1 Temporal Viewing Chambers.svg]]
-- Leads to [[Portrait NPC Refl... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Influences [step_098 (phase_067)]]
+- Leads to [[Portrait NPC Refl... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Requires
 - Connects to [[step_021 (phase_077)
 - Leads to [ki-rin-mpmm (celestial)]]
@@ -190,10 +187,8 @@ Seeks bodyguards for dangerous journey
 - Originates from [Gnome Garl Glittergold Mtf]]
 - Influences [[menagerie
 - Leads to [step_020 (phase_011)]]
-- Related: [[Sage Currentknow
-- Requires [Unified Vault Completion Guide (D&D_References)]]
-- See also: [[dark-shard-amulet-xdmg
-- Compare with [The Silent Rescue (D&D_References)]]
+- Related: [[Unified Vault Completion Guide (D&D_References)]]
+- See also: [[The Silent Rescue (D&D_References)]]
 - Related: [[step_013 (phase_032)
 - Originates from [LOC00052_Cities_Location_53]]
 - Affected by [[Assets Locations Location City Leviathan Prophet Thalassa Leviathan Prophet Thalassa.svg
@@ -201,8 +196,7 @@ Seeks bodyguards for dangerous journey
 - Influences
 - Leads to [[weapon-of-warning-xdmg (items)
 - Affected by [Assets Locations Location City Sage Currentknow V1 Sage Currentknow.svg]]
-- Related: [[Eldritch Knowledg
-- Requires [NPC00788_Gareth_Ashford_the_Broken]]
+- Related: [[NPC00788_Gareth_Ashford_the_Broken]]
 - See also: [[Prism Sword
 - Requires [Location City Quartermaster David Simpleton V1 Quartermaster David Simpleton.svg]]
 - Connects to [[ITEM00739_Divine_Scepter_of_Eternity
@@ -210,10 +204,8 @@ Seeks bodyguards for dangerous journey
 - Connects to [Revivify Xphb]]
 - Originates from [[LOC0061_SouthMarsh
 - Connects to [Anti-Shadow Technology]]
-- Originates from [[step_087 (phase_097)
-- See also: [Queen Seraphina Lumengarde]]
-- Leads to [[Downtime Activity Practicing a Profession Phb
-- See also: [dragon]]
+- Originates from [[Queen Seraphina Lumengarde]]
+- Leads to [[Downtime Activity Practicing a Profession Phb]]
 - Related: [[Assets Locations Location City Wise Tide Truthseeker V1 Wise Tide Truthseeker.svg
 - Connects to [NPC00953_Ewan_Goldleaf_the_Bold]]
 - Requires [[The Whistleblower 2
@@ -222,8 +214,7 @@ Seeks bodyguards for dangerous journey
 - Connects to [SPELL00050_Divine_Spell_51]]
 - Parallels [[The Umbral Exchange 2
 - Parallels [Location City Sky Trader Zephyr Windcatcher V1 Sky Trader Zephyr Windcatcher.svg]]
-- Originates from [[step_070 (phase_042)
-- Requires [ENC00234_Combat_Encounter_235]]
+- Originates from [[ENC00234_Combat_Encounter_235]]
 - Parallels [[Quick_Reference_Combat_Actions
 - Requires
 - Leads to [Dr._Siphon_Gillwater.png]]
@@ -231,8 +222,7 @@ Seeks bodyguards for dangerous journey
 - See also: [LOC00164_Towns_Location_165]]
 - Requires [[Statuette of Saint Markovia Cos
 - See also: [drow-spore-servant-oota (plant)]]
-- Originates from [[Cross-realm diplomatic relations
-- Parallels [Drow Selvetarm Mtf]]
+- Originates from [[Cross-realm diplomatic relations]]
 - Compare with [[List Spells Races Gnome Deep Dmg
 - Originates from [step_004 (phase_086)]]
 - Compare with [[Scene Scene Underwater Bioluminescent Forest V1 Underwater Bioluminescent Forest.svg

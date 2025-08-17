@@ -200,4 +200,4 @@ Witnessed important events in the past
 - Affected by [The Soul Market (D&D_References)]]
 - Originates from [[Counter-Mirror Task Force
 - Compare with [step_006 (phase_024)]]
-- Leads to [[step_035 (phase_009)]]
+- Leads to 

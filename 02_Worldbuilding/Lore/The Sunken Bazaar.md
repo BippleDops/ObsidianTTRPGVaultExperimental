@@ -118,7 +118,5 @@ Mentioned in The First Prophecy of Winds
 
 ## References
 
-- [[Azure Citadel
-- [The Gilded Shard]]
-- [[Azure Citadel (D&D_References)
-- [The Gilded Shard (D&D_References)]]
+- [[The Gilded Shard]]
+- [[The Gilded Shard (D&D_References)]]

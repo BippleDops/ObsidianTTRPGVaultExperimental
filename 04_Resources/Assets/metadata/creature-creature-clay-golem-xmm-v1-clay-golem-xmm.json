@@ -25,5 +25,8 @@
   "alt_text": "Concept art of clay-golem-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-clay-golem-xmm-v1-clay-golem-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-clay-golem-xmm-v1-clay-golem-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:59:54.211Z",
+  "generationMethod": "ComfyUI"
 }

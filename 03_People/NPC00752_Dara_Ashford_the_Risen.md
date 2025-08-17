@@ -169,8 +169,7 @@ Family member has gone missing
 - Compare with [MON00108_Undead_Creature_109]]
 - Affected by [[LORE00145_History_Entry_146
 - See also: [step_052 (phase_095)]]
-- Leads to [[Quest - The Deep Alliance
-- Connects to [Diplomatic Enclave (D&D_References)]]
+- Leads to [[Diplomatic Enclave (D&D_References)]]
 - Originates from
 - Leads to [[location-city-fire-crystal-v1-fire-crystal.svg
 - Affected by [LORE00070_Legends_Entry_71]]
@@ -179,8 +178,7 @@ Family member has gone missing
 - Originates from
 - See also: [[LOC0135_Valestead
 - Related: [step_070 (phase_015)]]
-- See also: [[ENC00227_Social_Encounter_228
-- Related: [QUEST00154_Main_Quest_155]]
+- See also: [[ENC00227_Social_Encounter_228]]
 - Affected by [[LOC00250_Dungeons_Location_251
 - Originates from [Portrait NPC Shadow Guard Units V1 Shadow Guard Units.svg_1 (Portraits)]]
 - Parallels [[Egyptian Sobek
@@ -206,13 +204,11 @@ Family member has gone missing
 - Influences [step_003 (phase_041)]]
 - See also: [[Quest - Hearts and Minds
 - Connects to [LORE00154_History_Entry_155]]
-- Parallels [[step_036 (phase_007)
-- Related: [Medical Officer Dr Siphon Pressurehealer]]
+- Parallels [[Medical Officer Dr Siphon Pressurehealer]]
 - Compare with [[Portrait NPC Quest the Siren S Price Quest the Siren S Price.svg
 - Connects to
 - Parallels [UNIFIED_MECHANICS_GUIDE]]
-- Related: [[NPC00307_Dara_Proudmore_the_Seeker
-- Leads to [step_028 (phase_080)]]
+- Related: [[NPC00307_Dara_Proudmore_the_Seeker]]
 - Compare with [[Portrait NPC Coral Empress Scarletina V1 Coral Empress Scarletina.svg
 - Connects to [2-elves (mordenkainens-tome-of-foes)]]
 - Influences [[cloak-of-invisibility-xdmg (items)
@@ -224,34 +220,28 @@ Family member has gone missing
 - Originates from [[Portrait NPC the Ancient Nobility V1 the Ancient Nobility.svg
 - Affected by [Assassin]]
 - Requires
-- Influences [[Bio-Luminescent Threading (D&D_References)
-- Influences [framing-events (tables)]]
+- Influences [[Bio-Luminescent Threading (D&D_References)]]
 - Influences [[step_027 (phase_046)
 - Connects to [list-spells-feats-drow-high-magic-xge (lists)]]
-- Influences [[ENC00160_Social_Encounter_161
-- Compare with [step_042 (phase_071)]]
+- Influences [[ENC00160_Social_Encounter_161]]
 - See also: [[portrait-npc-session-4-session-4.svg
 - Compare with [teleport-xphb (spells)]]
 - Originates from [[11 Chapter 11 Gravenhollow
 - Connects to [phantom-steed-xphb (spells)]]
-- Requires [[Plate Armor Xphb
-- Originates from [The Crystal Gardens (D&D_References)]]
+- Requires [[The Crystal Gardens (D&D_References)]]
 - Originates from [[The Equipment Vaults
 - Requires [elven-fenmarel-mestarine-mtf (deities)]]
-- Influences [[step_027 (phase_024)
-- Influences [NPC00107_Ewan_Grimholt_the_Swift]]
+- Influences [[NPC00107_Ewan_Grimholt_the_Swift]]
 - Parallels [[Royal Government 2
 - Related: [enspelled-weapon-cantrip-xdmg (items)]]
 - Related: [[Portrait NPC Envoy Blackwater Jr V1 Envoy Blackwater Jr.svg
 - Parallels [NPC00633_Gareth_Xendar_the_Strong]]
 - Originates from [[Silverscale Trading Post
 - Affected by [Assets Locations Location City the Conductor V1 the Conductor.png]]
-- Influences [[NPC01580_Malakai_Quicksilver_the_Wanderer
-- Parallels [Fiendish Vigor Xphb]]
+- Influences [[NPC01580_Malakai_Quicksilver_the_Wanderer]]
 - Originates from [[ITEM01201_Concentrated_Salve_of_Swiftness
 - Parallels [step_029 (phase_047)]]
-- Compare with [[LOC00252_Dungeons_Location_253
-- See also: [Gallery of Echoing Truths]]
+- Compare with [[LOC00252_Dungeons_Location_253]]
 - Requires
 - Related: [[step_012 (phase_100)
 - Requires [shield-xphb (items)]]

@@ -204,9 +204,7 @@ Following magic item guidelines (WWT p.135-136):
 ## Connections
 
 - Influences [Guide Helpfulcurrent]]
-- Connects to [[The Spire of Hope
-- Parallels
-- See also: [The Hopekeeper Academy (D&D_References)]]
+- Connects to [[The Hopekeeper Academy (D&D_References)]]
 - Originates from [[Roleplaying a Yuan Ti Yuan Ti Personality Traits Vgm
 - Connects to [training-area (bastions)]]
 - Compare with [[ITEM00032_Blazing_Crossbow_of_Wounding
@@ -217,56 +215,47 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [The Crimson Foundries]]
 - Affected by [[Physical Characteristics Beholder Mouth
 - Related: [step_091 (phase_062)]]
-- Affected by [[LOC00235_Dungeons_Location_236
-- Leads to [smiths-tools-xphb (items)]]
+- Affected by [[LOC00235_Dungeons_Location_236]]
 - Influences [[Location City Barkeep Salty Sarah V1 Barkeep Salty Sarah.svg
 - Related: [ITEM0033_Blessed_Tome_of_Power]]
 - Requires [[The Cleaner (D&D_References)
 - Originates from [armor-xphb (tables)]]
-- Compare with [[NPC01855_Thalia_Grimholt_the_Redeemed
-- See also: [step_038 (phase_044)]]
+- Compare with [[NPC01855_Thalia_Grimholt_the_Redeemed]]
 - Leads to [[Sage Rememberall
 - Influences [step_094 (phase_018)]]
 - Related: [[Assets Portraits Portrait NPC Nerissa Deepcurrent Nerissa Deepcurrent.svg
 - Related: [ENC00349_Combat_Encounter_350]]
 - See also: [[step_034 (phase_014)
 - Influences [boon-of-skill-xphb (feats)]]
-- Affected by [[Judge-Militant Adamant Truestone 2
-- Affected by [LORE00125_History_Entry_126]]
+- Affected by [[Judge-Militant Adamant Truestone 2]]
 - Requires [[ENC00194_Environmental_Encounter_195
 - Connects to [Symbol Heraldry Stellar Commander Nereus Voidcaller V1 Stellar Commander Nereus Voidcaller.svg]]
 - See also: [[step_062 (phase_064)
 - Influences [step_080 (phase_060)]]
 - Requires [[SHOP00053_General_Shop_54
 - Influences [npc - Aerisi Kalinoth Pota]]
-- Connects to [[Trigger Event
-- Affected by [NPC00559_Ewan_Voidwalker_the_Strong]]
-- Requires [[Memory Crystal Archivist Nautilus Storykeeper
-- Compare with [step_039 (phase_084)]]
+- Connects to [[NPC00559_Ewan_Voidwalker_the_Strong]]
+- Requires [[Memory Crystal Archivist Nautilus Storykeeper]]
 - Influences [[Assets Locations Location City Archaeological Discoveries Archaeological Discoveries.svg
 - Compare with [Sundered Steel (D&D_References)]]
 - Parallels [[fire-elemental-myrmidon-mpmm (elemental)
 - See also: [The Memory Walls (D&D_References)]]
 - Leads to [[Portrait NPC Captain Guard Peacehold V1 Captain Guard Peacehold.svg
 - See also: [Debt Bonds]]
-- Requires [[NPC01770_Solas_Dawnstrider_the_Swift
-- Connects to [step_061 (phase_029)]]
+- Requires [[NPC01770_Solas_Dawnstrider_the_Swift]]
 - Leads to [[LOC00016_Planes_Location_17
 - See also: [Assets Locations Location City Surgeon Coral Seamender Surgeon Coral Seamender.svg]]
 - See also: [[step_091 (phase_039)
 - Originates from [armor-of-fire-resistance-xdmg (items)]]
 - Parallels [[Shadow Behavior Guidelines (Criminal_Organizations)
 - Parallels [Location City the Vote Vault Mystery V1 the Vote Vault Mystery.svg]]
-- Parallels [[NPC01915_Thalia_Quicksilver_the_Broken
-- Connects to [step_039 (phase_096)]]
+- Parallels [[NPC01915_Thalia_Quicksilver_the_Broken]]
 - Leads to [[step_002 (phase_100)
 - See also: [ITEM00070_Blessed_Staff_of_Slaying]]
 - Related: [[step_072 (phase_006)
 - Originates from [SPELL00102_Nature_Spell_103]]
-- Affected by [[Template-Character 2
-- Affected by [LOC00169_Cities_Location_170]]
-- Connects to [[Seeds of Tomorrow (D&D_References)
-- Affected by [Medical Cover Credentials (D&D_References)]]
+- Affected by [[LOC00169_Cities_Location_170]]
+- Connects to [[Medical Cover Credentials (D&D_References)]]
 - Originates from [[Aquabyssos World Overview#The Resurgent Tide
 - Compare with [step_050 (phase_036)]]
 - Compare with [[devils-sight-xphb (optional-features)
@@ -274,24 +263,19 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [Reality_Manipulation (Lore)]]
 - See also: [[ITEM00339_Frost_Sword_of_Speed
 - Compare with [SHOP00055_Magical_Shop_56]]
-- Influences [[step_080 (phase_066)
-- Parallels [Healer Dawnshade (D&D_References)]]
+- Influences [[Healer Dawnshade (D&D_References)]]
 - Requires [[step_054 (phase_070)
 - Related:
 - Compare with [step_048 (phase_048)]]
 - Leads to [[Quest - The Public Revelation 2
 - Originates from [Portrait NPC Goldwave Financial Offices Goldwave Financial Offices.svg]]
-- Parallels [[hunting-trap-xphb (items)
-- See also: [Historical Research (D&D_References)]]
+- Parallels [[Historical Research (D&D_References)]]
 - Compare with [[Ochre Jelly Xmm
 - Compare with [rod-of-rulership-xdmg (items)]]
 - Related: [[Elemental Court (D&D_References)
 - Compare with [Gatekeeper Iron-Lung Boris 2]]
-- Leads to [[weapon-mastery-properties-xphb (variant-rules)
-- Compare with
-- Related: [Political Intrigue Master Index 2]]
-- Originates from [[QUEST00079_Personal_Quest_80
-- Related: [The Dual Mind]]
+- Leads to [[weapon-mastery-properties-xphb (variant-rules)]]
+- Originates from [[QUEST00079_Personal_Quest_80]]
 - Affected by [[Astrologer_Prime_Cassandra_Starweaver.png
 - Connects to [Order of Preserved Knowledge]]
 - Originates from [[step_096 (phase_048)

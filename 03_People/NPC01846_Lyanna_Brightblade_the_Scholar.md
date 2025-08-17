@@ -216,27 +216,23 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [Combat Medicine Laboratory 2]]
 - Compare with [[Master Artificer Korvin
 - Influences [step_085 (phase_063)]]
-- Originates from [[QUEST00083_Side_Quest_84
-- Affected by [The Sundering]]
+- Originates from [[QUEST00083_Side_Quest_84]]
 - Connects to [[step_003 (phase_029)
 - Affected by [Location City the Coral Palace Complex the Coral Palace Complex.svg]]
-- Affected by [[Geometric Tidepools
-- Related: [Peryton Xmm]]
+- Affected by [[Geometric Tidepools]]
 - See also:
 - Affected by [[Assets Portraits Portrait NPC Quest the Diplomatic Immunity Case Quest the Diplomatic Immunity Case.svg
 - Influences [Cultural Integration Council (Organizations)]]
 - Leads to [[Prism_Soul
 - Connects to [Wand of Polymorph Xdmg]]
-- Compare with [[NPC00315_Qadim_Frostwhisper
-- Originates from [Institute for Supernatural Health Studies (D&D_References)]]
+- Compare with [[Institute for Supernatural Health Studies (D&D_References)]]
 - Connects to [[Portrait NPC Quest the Queen S Secret Quest the Queen S Secret.svg
 - Requires [Portrait NPC Director of Experimental Procedures Dr Siren Voidtouch V1 Director of Experimental Procedures Dr Siren Voidtouch.svg_1 (Portraits)]]
 - Influences [[Portrait NPC Lady Catherine Mourning V2 Lady Catherine Mourning.svg
 - Related: [LOC00032_Dungeons_Location_33]]
 - Compare with [[oil-xphb (items)
 - Affected by [step_038 (phase_006)]]
-- Related: [[Rod Xphb
-- Influences [The Whispered Broker]]
+- Related: [[The Whispered Broker]]
 - Originates from [[step_086 (phase_028)
 - Connects to [step_046 (phase_070)]]
 - Compare with [[Siege Tower Xdmg
@@ -244,16 +240,14 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [Lyre Xphb]]
 - Leads to [[Portrait NPC Tidal Priest Marina Deepcurrent V1 Tidal Priest Marina Deepcurrent.svg
 - Related: [Map Map Floating Market Barges V1 Floating Market Barges.svg]]
-- Requires [[Marcus the Shade Blackwood
-- See also: [step_081 (phase_070)]]
+- Requires [[Marcus the Shade Blackwood]]
 - Originates from [[NPC00309_Lyanna_Xendar_the_Cunning
 - Related:
 - Connects to
 - Leads to [The Unity Seekers (D&D_References)]]
 - Influences [[Location City Church of the Tidal Throne Church of the Tidal Throne.svg
 - Affected by [all-is-well-xdmg (tables)]]
-- Originates from [[The Infinite Garden (D&D_Statblocks)
-- Connects to [step_029 (phase_046)]]
+- Originates from [[The Infinite Garden (D&D_Statblocks)]]
 - Requires [[step_056 (phase_085)
 - Originates from [step_013 (phase_060)]]
 - Related: [[LORE00175_History_Entry_176
@@ -262,10 +256,8 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [treasure-hoard-challenge-1116 (tables)]]
 - Parallels [[Symbol Heraldry Regulatory Medical Authorit V1 Regulatory Medical Authorit.svg
 - Connects to [The Anonymous Inquisitor (D&D_References)]]
-- Requires [[step_087 (phase_080)
-- Requires [Pearl Harbor City (D&D_References)]]
-- Compare with [[Professor Marina Reefbuilder (D&D_References)
-- Affected by [staff-of-defense-lmop (items)]]
+- Requires [[Pearl Harbor City (D&D_References)]]
+- Compare with [[Professor Marina Reefbuilder (D&D_References)]]
 - Related: [[Potion of Psychic Resistance Xdmg
 - Affected by [LOC00097_Towns_Location_98]]
 - See also:
@@ -278,8 +270,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [step_047 (phase_050)]]
 - Requires [[Location City Community Support Networks Community Support Networks.svg
 - Parallels [Gnome Tables Gnome Ideals Mtf]]
-- Parallels [[Shadow Government Complex
-- See also: [Artisan Glow-Finger Nerida (D&D_References)]]
+- Parallels [[Artisan Glow-Finger Nerida (D&D_References)]]
 - Affected by [[step_089 (phase_006)
 - Originates from
 - Affected by [The Consciousness Shard Discovery]]

@@ -42,11 +42,8 @@ danger_level: Moderate
 
 - Strange dreams suggest a portal
 - Strange accidents suggest ancient magic
-- Strange dreams suggest a portal ## Related Notes - [[Similar Topic 1
-
-- [Contrasting Approach]]
-- [[Advanced Version
-- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
+- Strange dreams suggest a portal ## Related Notes - [[Contrasting Approach]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

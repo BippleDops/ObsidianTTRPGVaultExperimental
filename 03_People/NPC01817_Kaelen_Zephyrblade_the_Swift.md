@@ -173,8 +173,7 @@ Blackmails party into service
 - Influences [Location City Comparative Religion Comparative Religion.svg]]
 - Affected by [[step_064 (phase_041)
 - Leads to [conjure-animals-xphb (spells)]]
-- Originates from [[chaos-bolt-xge (spells)
-- See also: [Memory Palace of the Deep Mother]]
+- Originates from [[Memory Palace of the Deep Mother]]
 - Leads to [[EVENT00003_Natural_Event_4
 - Influences [Name Etymology Guide]]
 - See also: [[MON00141_Constructs_Creature_142
@@ -189,23 +188,18 @@ Blackmails party into service
 - Connects to [QUEST00124_Main_Quest_125]]
 - Parallels [[Poison Needle Trap Xge
 - Parallels [forgotten-realms-tempus (deities)]]
-- Compare with [[proficiency-bonus-by-challenge-rating-xmm (tables)
-- Parallels
-- Affected by [Symbol Heraldry Lys... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Compare with [[Symbol Heraldry Lys... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - See also: [[Parliament of Shadows Player Guide.md
 - See also: [Stormwind's Navigation Crystal]]
 - Connects to [[giant-octopus-xmm (beast)
 - Related: [Reality Anchor Overrides]]
-- Compare with [[NPC00989_Baelor_Goldleaf_the_Mystic
-- Connects to [Session 1 Shadows in the Senate-Session 1]]
-- Requires [[SPELL00129_Divine_Spell_130
-- Requires [Merchant Prince Aldric Goldcurrent 2]]
+- Compare with [[Session 1 Shadows in the Senate-Session 1]]
+- Requires [[Merchant Prince Aldric Goldcurrent 2]]
 - Parallels [[ENC00256_Social_Encounter_257
 - Affected by [Session Notes_1 (06_Sessions)]]
 - Originates from [[step_100 (phase_081)
 - Related: [Portrait NPC Throne of Bubbles Throne of Bubbles.svg_1 (Portraits)]]
-- Requires [[The Sunken Library of Thalassius
-- Originates from [NPC0087_Hilda_Goldleaf]]
+- Requires [[The Sunken Library of Thalassius]]
 - Originates from [[step_086 (phase_085)
 - Originates from [The Unnamed Hierophant]]
 - Influences [[NPC01864_Qadim_Voidwalker_the_Wise
@@ -221,44 +215,34 @@ Blackmails party into service
 - Affected by [step_083 (phase_027)]]
 - Influences [[The Nameless Scholar
 - Affected by [Archdruid Thornweaver]]
-- Affected by [[Coral Craftsman (D&D_References)
-- Leads to [Maritime Trade Routes]]
+- Affected by [[Coral Craftsman (D&D_References)]]
 - Leads to [[Assets Locations Location City Ancient Crystal Technology V1 Ancient Crystal Technology.svg
 - Related: [QUEST00260_Side_Quest_261]]
-- Leads to [[LOC00185_Cities_Location_186
-- Related: [improvised-weapons-xphb (variant-rules)]]
-- Related: [[Academic Centers 2
-- See also: [Services Emergency Protocol Certification]]
+- Leads to [[improvised-weapons-xphb (variant-rules)]]
+- Related: [[Services Emergency Protocol Certification]]
 - Compare with [[Arch Hag Xmm
 - Requires
 - Parallels [venomous-snake-xmm]]
-- Originates from [[Surgeon Coral Precisehands
-- Parallels [step_071 (phase_016)]]
+- Originates from [[Surgeon Coral Precisehands]]
 - Connects to
 - Originates from [[LORE00241_Prophecies_Entry_242
 - Leads to [step_067 (phase_047)]]
 - Related: [[16 Chapter 16 the Fetid Wedding
 - Influences [Portrait NPC High Techno Priest Lumina Skyweaver V2 High Techno Priest Lumina Skyweaver.svg_1 (Portraits)]]
-- Related: [[Apparatus of Kwalish Xdmg
-- Requires [NPC01710_Orion_Ashford_the_Broken]]
+- Related: [[NPC01710_Orion_Ashford_the_Broken]]
 - Compare with [[Lifedrinker Xphb
 - Originates from [Location City Innkeeper Mara Ironlung V1 Innkeeper Mara Ironlung.svg]]
 - Influences [[Creature Creature Elemental Spirit Air Xphb V2 Elemental Spirit Air Xphb.png
 - Leads to [LOC00293_Cities_Location_294]]
-- Related: [[Leviathan Prophet Thalassa (D&D_References)
-- Requires [ENC0023_Random_Encounter_24]]
-- Compare with [[step_100 (phase_044)
-- Related: [NPC01046_Lyanna_Keenblade_the_Seeker]]
-- Parallels [[Current_Location
-- Connects to [Crystal Market Manipulation]]
+- Related: [[Leviathan Prophet Thalassa (D&D_References)]]
+- Compare with [[NPC01046_Lyanna_Keenblade_the_Seeker]]
+- Parallels [[Crystal Market Manipulation]]
 - Leads to [[step_026 (phase_051)
 - Related: [Ioun Stone Sustenance Xdmg]]
-- See also: [[Consequence Chain 2 - Crystal Trade Disruption 3 (D&D_References)
-- Compare with [Location City Quest the Truth Unveiled Quest the Truth Unveiled.svg]]
+- See also: [[Consequence Chain 2 - Crystal Trade Disruption 3 (D&D_References)]]
 - Parallels [[Communications Operator Silence
 - Leads to [Order of the Deep Vigil (Orders)]]
-- Requires [[SPELL00032_Nature_Spell_33
-- Parallels [step_029 (phase_056)]]
+- Requires [[SPELL00032_Nature_Spell_33]]
 - Connects to [[Assets Locations Location City Kraken Kraken.svg
 - Compare with [QUEST00014_Side_Quest_15]]
 - Requires

@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Depict a heroic scene from a medieval fantasy setting similar to tabletop games, with no traces of modern technology. The setting should teem with gritty realism, showing clearly the intricate details of culturally accurate gear wielded by the figures. Create an image of a creature inspired by the allip from a popular role-playing game, emphasizing its unique muscular body and limbs. Include a small human silhouette for scale. Maintain a painterly, coherent collection style throughout. The color palette should be limited to deep teals, sea-greens, and blues, with elements of bioluminescent glow and pearl highlights bringing a dreamy underwater ambiance. Render special attention to depicting motion and creating intricate concept art that reflects aquatic fantasy realism. Subsurface caustics should hint at an extraordinary underwater-sky merged environment, encapsulated by materials that mimic the aesthetics of a pressure-dome. Ensure the image resolution is as specified and free of distortions or artifacts. Do not incorporate any embedded text or symbols unless those that hold real meaning.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-allip-mpmm-v1-allip-mpmm.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-allip-mpmm-v1-allip-mpmm.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:10.575Z",
+  "generationMethod": "ComfyUI"
 }

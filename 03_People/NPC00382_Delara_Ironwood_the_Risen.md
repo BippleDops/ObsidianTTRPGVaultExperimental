@@ -171,22 +171,19 @@ Requires champions for trial by combat
 - Influences [Individual Treasure Challenge 04]]
 - Influences [[Assets Vehicles Vehicle Ship Sky Cutter Interceptor V1 Sky Cutter Interceptor.svg
 - Requires [Abyssal Courts]]
-- See also: [[step_046 (phase_090)
-- Affected by [NPC01433_Branwen_Moonshadow_the_Mystic]]
+- See also: [[NPC01433_Branwen_Moonshadow_the_Mystic]]
 - Affected by [[Assets Locations Location City Current Innovator V1 Current Innovator.svg
 - Leads to [Harbor District Customs House (D&D_References)]]
 - Parallels [[ITEM00741_Ancient_Orb_of_Eternity
 - Leads to [step_058 (phase_061)]]
-- Connects to [[Lady Celestine Windborne (D&D_References)
-- Parallels [ENC00103_Social_Encounter_104]]
+- Connects to [[Lady Celestine Windborne (D&D_References)]]
 - Affected by [[Location City Bubble Yeastkeeper Bubble Yeastkeeper.svg
 - Parallels [Location City the Crystalline Foundry V1 the Crystalline Foundry.svg]]
 - Originates from [[Terrestrial Coalition
 - Connects to [Location City Scepter of Winter S Command V1 Scepter of Winter S Command.svg]]
 - Connects to [[witch-sight-xphb (optional-features)
 - Connects to [step_025 (phase_008)]]
-- Originates from [[DUN00084_Dungeon_85
-- Affected by [LOC00107_Towns_Location_108]]
+- Originates from [[LOC00107_Towns_Location_108]]
 - Originates from [[Location City Grief Harvester Melancholy Grief Harvester Melancholy.svg
 - Influences [Unite the Two Worlds]]
 - Affected by [[LOC00057_Towns_Location_58
@@ -195,12 +192,10 @@ Requires champions for trial by combat
 - Originates from [[Shadow-Child Advisory
 - Requires
 - Influences [Assets Locations Location City the Whispering Depths V1 the Whispering Depths.svg]]
-- Parallels [[step_093 (phase_038)
-- Leads to [QUEST00169_Main_Quest_170]]
+- Parallels [[QUEST00169_Main_Quest_170]]
 - Originates from [[Assets Locations Location City Vault Maintenance Checklist Vault Maintenance Checklist.svg
 - Requires [Goldspire Expeditio 2]]
-- Requires [[QUEST00066_Personal_Quest_67
-- Connects to [Zombie Xmm]]
+- Requires [[QUEST00066_Personal_Quest_67]]
 - Connects to [[map-map-coral-market-riot-v1-coral-market-riot.svg
 - Parallels [Merchant Princess Coral Goldtide 2]]
 - Parallels [[Assets Locations Location City Knowledge Truthseeker Knowledge Truthseeker.svg
@@ -209,13 +204,10 @@ Requires champions for trial by combat
 - Requires [ability-modifier-ability-check-examples-xphb (tables)]]
 - Leads to [[Location City Legal Profession V1 Legal Profession.svg
 - Affected by [FAC00070_Guilds_71]]
-- Connects to [[Doctrine Quick Reference (Doctrines)
-- Related: [SPELL0020_Shadow_Curse]]
-- Connects to [[ENC00395_Combat_Encounter_396
-- Influences [Life Events by Age Xge]]
+- Connects to [[Doctrine Quick Reference (Doctrines)]]
+- Connects to [[ENC00395_Combat_Encounter_396]]
 - Requires
-- Leads to [[QUEST00062_Side_Quest_63
-- Parallels [Goldspire Confederacy (D&D_Statblocks)]]
+- Leads to [[Goldspire Confederacy (D&D_Statblocks)]]
 - Requires [[LORE00161_History_Entry_162
 - Influences [Pass Without Trace Xphb]]
 - Parallels [[Temple of the Healing Waters (D&D_References)
@@ -226,18 +218,14 @@ Requires champions for trial by combat
 - Related: [Creature Creature Young Green Dragon Xmm V3 Young Green Dragon Xmm.png]]
 - See also: [[step_093 (phase_014)
 - Originates from [step_066 (phase_087)]]
-- Leads to [[NPC0106_Alistair_Goldleaf
-- See also: [The Seven Betrayers (D&D_References)]]
+- Leads to [[The Seven Betrayers (D&D_References)]]
 - Related: [[Quandrix Student Scc
 - Related: [Marcus Evenscale 2]]
-- Originates from [[Commercial Hubs and Markets (D&D_References)
-- Influences [QUEST0002_In_Search_of_Glory]]
-- Parallels [[perception-and-encounters-audible-distance-xdmg
-- Originates from [Cliffhangers]]
+- Originates from [[Commercial Hubs and Markets (D&D_References)]]
+- Parallels [[perception-and-encounters-audible-distance-xdmg]]
 - Leads to [[Market Prophet (D&D_References)
 - Leads to [Assets Locations Location City the Depth Plague the Depth Plague.svg]]
-- Connects to [[Allied Kingdom
-- Compare with [INDEX (Ghosts_of_Saltmarsh)]]
+- Connects to [[INDEX (Ghosts_of_Saltmarsh)]]
 - Originates from [[step_072 (phase_081)
 - Requires [step_002 (phase_017)]]
 - Parallels [[Deep Studycurrent
@@ -246,23 +234,19 @@ Requires champions for trial by combat
 - Related: [The Meridian Sanctum]]
 - Related: [[12_Research_D&D_Statblocks_Archdruid_Thornweaver
 - Leads to [Kelp Forest Monasteries 2]]
-- Originates from [[Court Herald Titus (D&D_References)
-- Compare with [EVENT00040_Political_Event_41]]
-- Requires [[Scufflecup Teacup Scc
-- Requires [The Restoration Movement (D&D_References)]]
+- Originates from [[Court Herald Titus (D&D_References)]]
+- Requires [[The Restoration Movement (D&D_References)]]
 - See also: [[Scroll of Titan Summoning Blob of Annihilation Xdmg
 - See also:
 - Requires [Portrait NPC the First Queen S Shade the First Queen S Shade.svg]]
 - See also: [[Scene Scene Whisper Island Fog Dawn V1 Whisper Island Fog Dawn.svg
 - Originates from [The Nameless Auditor (D&D_Statblocks)]]
-- Compare with [[step_079 (phase_072)
-- Requires [MON00057_Aberrations_Creature_58]]
+- Compare with [[MON00057_Aberrations_Creature_58]]
 - Leads to [[LORE00272_Prophecies_Entry_273
 - Leads to [Map Map Bioluminescent Forest Ambush V2 Bioluminescent Forest Ambush.png]]
 - Parallels [[handling-mobs-mob-attacks (tables)
 - Influences [merrow-xmm (monstrosity)]]
-- Parallels [[MON00044_Constructs_Creature_45
-- Related: [Dragongleam Hotdq]]
+- Parallels [[MON00044_Constructs_Creature_45]]
 - Related: [[step_079 (phase_061)
 - Originates from [Interactions With Others NPC Interaction]]
 - Parallels [[Portrait NPC the Deep Trade Routes V1 the Deep Trade Routes.svg

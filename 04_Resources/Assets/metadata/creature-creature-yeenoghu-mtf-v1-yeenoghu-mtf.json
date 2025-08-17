@@ -25,5 +25,8 @@
   "alt_text": "Concept art of yeenoghu-mtf with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-yeenoghu-mtf-v1-yeenoghu-mtf.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-yeenoghu-mtf-v1-yeenoghu-mtf.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:11:36.502Z",
+  "generationMethod": "ComfyUI"
 }

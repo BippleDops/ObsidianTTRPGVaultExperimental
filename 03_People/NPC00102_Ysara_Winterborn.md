@@ -176,24 +176,20 @@ Seeks bodyguards for dangerous journey
 - Related: [LOC0083_WestFalls]]
 - Connects to [[Prophet Miralyn Surfacer
 - Compare with [fiendish-vigor-xphb (optional-features)]]
-- Requires [[Reality Maintenance Department
-- Leads to [Balor Xmm]]
+- Requires [[Reality Maintenance Department]]
 - Connects to [[female-steeder-mpmm (monstrosity)
 - Requires [Floating Cities (D&D_References)]]
 - Compare with [[Dream Scholar Memoriam (D&D_References)
 - Leads to [location-city-sea-sprite-v1-sea-sprite.svg]]
 - Originates from [[venomous-snake-xmm
 - Requires [LORE00135_Prophecies_Entry_136]]
-- Leads to [[QUEST00224_Personal_Quest_225
-- Affected by [step_098 (phase_007)]]
-- Related: [[Cranium Rat Mpmm
-- Leads to [Pilgrimage Master Depth Guide Melancholy]]
+- Leads to [[QUEST00224_Personal_Quest_225]]
+- Related: [[Pilgrimage Master Depth Guide Melancholy]]
 - Connects to [[Assets Locations Location City Memoriam Keeper Marcus Remembrance Memoriam Keeper Marcus Remembrance.svg
 - See also: [step_088 (phase_049)]]
 - Related: [[LORE00005_History_Entry_6
 - Originates from [Blood Coral]]
-- Leads to [[Portrait NPC Hous... Related To: Local Political Structure Connected Plots: to Be Developed
-- Leads to [Assets Symbols Symbol Heraldry the Great Cacophony the Great Cacophony.svg]]
+- Leads to [[Portrait NPC Hous... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[eidolon-mpmm (undead)
 - Compare with [tidal-wave-xge (spells)]]
 - Requires [[elven-kirith-sotheril-mtf (deities)
@@ -213,36 +209,29 @@ Seeks bodyguards for dangerous journey
 - Related: [Councillor Void]]
 - Leads to [[Assets Locations Location City Keeper Deepcurrent V1 Keeper Deepcurrent.svg
 - Connects to [04_Resources_Assets_Locations_location-city-master-chronologist-temporal-truthkeeper-v1-master-chronologist-temporal-truthkeeper.svg]]
-- Connects to [[Warrior-Priest Abyss-Sworn (D&D_References)
-- See also: [FAC00060_Cults_61]]
+- Connects to [[Warrior-Priest Abyss-Sworn (D&D_References)]]
 - Requires [[censer-of-controlling-air-elementals-xdmg (items)
 - Requires [Veteran]]
 - Requires [[step_100 (phase_087)
 - See also: [step_096 (phase_098)]]
 - Originates from [[Methane Forests
 - Originates from [NPC0179_Tara_Brightblade]]
-- Influences [[Adult Gold Dragon Xmm
-- Connects to [LOC00267_Planes_Location_268]]
+- Influences [[LOC00267_Planes_Location_268]]
 - Compare with [[Assets Locations Location City Cultural Districts V1 Cultural Districts.svg
 - Requires [ITEM00422_Mithril_Plate_of_the_Guardian]]
-- Originates from [[ITEM0042_Cursed_Gauntlet_of_Power
-- Compare with [step_009 (phase_081)]]
-- Connects to [[step_100 (phase_055)
-- Requires [Poet Laureate Tidal Wordsmith (D&D_References)]]
+- Originates from [[ITEM0042_Cursed_Gauntlet_of_Power]]
+- Connects to [[Poet Laureate Tidal Wordsmith (D&D_References)]]
 - Affected by [[Assets Locations Location City the Eternal Senate V1 the Eternal Senate.svg
 - Parallels [step_041 (phase_081)]]
 - Related: [[step_061 (phase_084)
 - Connects to [Assets Locations Location City Storm Guard V1 Storm Guard.svg]]
-- Influences [[Deep Script (D&D_References)
-- Compare with [Treasure_System - Pressure Artifacts]]
+- Influences [[Treasure_System - Pressure Artifacts]]
 - Compare with [[step_079 (phase_042)
 - See also: [step_090 (phase_086)]]
-- Parallels [[DUN00017_Dungeon_18
-- Leads to [Seven Fleets System (D&D_References)]]
+- Parallels [[Seven Fleets System (D&D_References)]]
 - Compare with [[skulk-mpmm (monstrosity)
 - Compare with [step_006 (phase_075)]]
-- Originates from [[Resonance Chamber 2
-- Related: [LOC00231_Wilderness_Location_232]]
+- Originates from [[LOC00231_Wilderness_Location_232]]
 - Requires [[step_023 (phase_038)
 - See also:
 - Related: [Quest - The Prophecy Fulfilled_1 (01_Adventures)]]
@@ -250,14 +239,11 @@ Seeks bodyguards for dangerous journey
 - Originates from [step_049 (phase_092)]]
 - Originates from [[creature-creature-sphinx-xmm-v3-sphinx-xmm.png
 - Parallels [step_004 (phase_074)]]
-- Requires [[QUEST00087_Personal_Quest_88
-- Affected by [step_062 (phase_079)]]
+- Requires [[QUEST00087_Personal_Quest_88]]
 - Related: [[Armor Training Xphb
 - Compare with [LOC0004_Hillton]]
-- Connects to [[NPC00258_Corvus_Youngblood_the_Seeker
-- Affected by [Deep Mother Subsystem]]
-- Parallels [[Sea Witches Coven 2
-- Influences [#Threads]]
+- Connects to [[NPC00258_Corvus_Youngblood_the_Seeker]]
+- Parallels [[Sea Witches Coven 2]]
 
 ## Visual References
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png

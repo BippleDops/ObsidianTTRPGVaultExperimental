@@ -179,17 +179,13 @@ Wants rivals investigated
 - Parallels [EVENT00075_Natural_Event_76]]
 - Related: [[Sorcerer Xphb Aberrant Sorcery Xphb
 - Influences [step_056 (phase_019)]]
-- Compare with [[War Pick Xphb
-- Affected by [NPC00750_Faelyn_Stormwind_the_Broken]]
-- Affected by [[The Whispering Expanse.md
-- Requires [Surface Tensions (D&D_References)]]
-- Connects to [[Guardian Captain Marcus Shieldwall (D&D_References)
-- Leads to [Shopping_List]]
+- Compare with [[NPC00750_Faelyn_Stormwind_the_Broken]]
+- Affected by [[Surface Tensions (D&D_References)]]
+- Connects to [[Guardian Captain Marcus Shieldwall (D&D_References)]]
 - Requires [[Malachar the Mindweaver
 - Originates from
 - Parallels [LOC00150_Dungeons_Location_151]]
-- See also: [[Crown of Stars (D&D_References)
-- See also: [The Silver Quill 2]]
+- See also: [[Crown of Stars (D&D_References)]]
 - Related: [[Crown_Dome_Conspiracy.png
 - Related: [step_006 (phase_059)]]
 - Compare with [[Assets Locations Location City Surface Expert Grainwise Surface Expert Grainwise.svg
@@ -208,21 +204,17 @@ Wants rivals investigated
 - Connects to [[step_053 (phase_033)
 - Compare with
 - Influences [FAC00007_Cults_8]]
-- Parallels [[Universal Translation
-- Requires [Exhaustion (D&D_References)]]
+- Parallels [[Exhaustion (D&D_References)]]
 - Related: [[The_Vote_Vault_Mystery.png
 - Originates from
 - Connects to [The Umbral Market Plaza 2]]
-- Affected by [[Lady Resistance Brightshield
-- Affected by [step_012 (phase_100)]]
+- Affected by [[Lady Resistance Brightshield]]
 - Affected by [[Deep Prophecy (D&D_References)
 - Influences [LOC00225_Cities_Location_226]]
-- Parallels [[ENC00472_Combat_Encounter_473
-- See also: [LORE0085_History_of_the_Hero's_Sacrifice]]
+- Parallels [[LORE0085_History_of_the_Hero's_Sacrifice]]
 - Leads to [[NPC00076_Aeliana_Grimholt_the_Bold
 - Influences [bead-of-refreshment-xdmg (items)]]
-- Related: [[LOC00282_Dungeons_Location_283
-- See also: [step_092 (phase_079)]]
+- Related: [[LOC00282_Dungeons_Location_283]]
 - Affected by [[Staff of Frost Xdmg
 - See also: [Medusa Xmm]]
 - Affected by [[green-dragon-scale-mail-xdmg (items)
@@ -262,15 +254,11 @@ Wants rivals investigated
 - Affected by [Location City Archivist Stone Memorykeeper Archivist Stone Memorykeeper.svg]]
 - Related: [[monster-relationships-xge (tables)
 - Connects to [LORE00061_History_Entry_62]]
-- Related: [[Keeper Sage Remembrance
-- Compare with [Corruption Studies Research Institute]]
+- Related: [[Corruption Studies Research Institute]]
 - Parallels
 - Parallels [[dwarven-valkauna-mtf (deities)
 - Influences [Assets Portraits Portrait NPC High Tide Environmental Effects High Tide Environmental Effects.svg]]
-- Leads to [[Cross-Cultural Legal Association (02_Worldbuilding)
-
-## Visual References
-![03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
+- Leads to [[Cross-Cultural_Legal_Association]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png
 ![03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
 

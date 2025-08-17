@@ -28,5 +28,8 @@
   "model": "gpt-image-1",
   "size": "1024x1024",
   "revised_prompt": null,
-  "file": "04_Resources/Assets/Creatures/creature-creature-thorny-vegepygmy-mpmm-v1-thorny-vegepygmy-mpmm.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-thorny-vegepygmy-mpmm-v1-thorny-vegepygmy-mpmm.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:10:10.802Z",
+  "generationMethod": "ComfyUI"
 }

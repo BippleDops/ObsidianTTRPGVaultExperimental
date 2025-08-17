@@ -25,5 +25,8 @@
   "alt_text": "Concept art of tree-blight-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-tree-blight-xmm-v1-tree-blight-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-tree-blight-xmm-v1-tree-blight-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:10:17.926Z",
+  "generationMethod": "ComfyUI"
 }

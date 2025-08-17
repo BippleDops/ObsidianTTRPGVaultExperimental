@@ -164,8 +164,7 @@ Witnessed a crime
 
 ## Connections
 
-- See also: [[step_015 (phase_091)
-- Parallels [Maritime Research Institute]]
+- See also: [[Maritime Research Institute]]
 - Leads to
 - Leads to [[LORE00087_Legends_Entry_88
 - Affected by [sword-of-answering-replier (items)]]
@@ -173,8 +172,7 @@ Witnessed a crime
 - Compare with [NPC00466_Vesper_Frostwhisper]]
 - See also: [[step_059 (phase_053)
 - Parallels [ITEM01271_Refined_Elixir_of_Healing]]
-- Influences [[Scream Saturation Rules (D&D_References)
-- Connects to [Agent Infiltrator (D&D_References)]]
+- Influences [[Scream Saturation Rules (D&D_References)]]
 - Affected by [[Portrait NPC Merchant Captain Trade V2 Merchant Captain Trade.svg
 - Parallels [The Exotic Emporium]]
 - Requires [[step_045 (phase_043)
@@ -183,24 +181,20 @@ Witnessed a crime
 - Originates from [Quiver of Ehlonna Xdmg]]
 - Connects to [[Symbol Heraldry the Great Recognition V1 the Great Recognition.svg
 - Parallels [Shadow Magic Integration Practices]]
-- Related: [[The Visiting Scholar Complex 2
-- Affected by [step_037 (phase_006)]]
-- Compare with [[Mirror-Breaking Crystals (D&D_References)
-- Related: [Shadow Crystals 2]]
+- Related: [[The Visiting Scholar Complex 2]]
+- Compare with [[Mirror-Breaking Crystals (D&D_References)]]
 - Connects to [[step_085 (phase_007)
 - Originates from [tankard-of-sobriety-xdmg (items)]]
 - Parallels [[Memory Merchant Valeria (Lore)
 - Leads to [step_060 (phase_040)]]
-- See also: [[MON00082_Undead_Creature_83
-- Parallels [NPC01747_Zephyr_Goldleaf_the_Swift]]
+- See also: [[NPC01747_Zephyr_Goldleaf_the_Swift]]
 - Connects to [[Whisper Ward Amulet
 - Affected by [Location City Hadrian Depthbridge V1 Hadrian Depthbridge.svg]]
 - Leads to [[Enspelled Weapon Level 8 Xdmg
 - Related: [step_022 (phase_026)]]
 - Leads to [[Inter-Realm Diplomacy (D&D_References)
 - Connects to [earth-elemental-myrmidon-mpmm (elemental)]]
-- Leads to [[Session 22 - Deep Mother Rising
-- Related: [Dhergoloth Mpmm]]
+- Leads to [[Session 22 - Deep Mother Rising]]
 - Parallels [[ride-the-wind (optional-features)
 - Originates from [step_094 (phase_025)]]
 - Connects to [[Void Entity Banishment
@@ -213,11 +207,9 @@ Witnessed a crime
 - See also: [step_048 (phase_026)]]
 - Connects to [[tiefling-dispater-mtf (races)
 - Influences [Master Personnel Files]]
-- Requires [[step_064 (phase_097)
-- Influences [The Collector (D&D_References)]]
+- Requires [[The Collector (D&D_References)]]
 - See also:
-- Influences [[Driftglobe Xdmg
-- Connects to [LORE0019_Secret_of_the_Lost_City]]
+- Influences [[LORE0019_Secret_of_the_Lost_City]]
 - Related: [[MON00120_Constructs_Creature_121
 - Compare with [Quest - Parliamentary Corruptio]]
 - Leads to [[Dr. Penumbra Voidheart
@@ -249,18 +241,15 @@ Witnessed a crime
 - Requires [[LOC00075_Cities_Location_76
 - Compare with
 - Compare with [LOC00112_Towns_Location_113]]
-- Leads to [[The Deep Settlements
-- Affected by [QUEST00022_Personal_Quest_23]]
+- Leads to [[QUEST00022_Personal_Quest_23]]
 - Requires [[step_052 (phase_039)
 - Parallels [Forgotten Realms Chauntea]]
 - See also: [[step_020 (phase_008)
 - Connects to [Assets Locations Location City Senator Cornelius Depthwalker Senator Cornelius Depthwalker.svg]]
-- Connects to [[The First Failure (D&D_References)
-- Compare with [LOC00265_Planes_Location_266]]
+- Connects to [[The First Failure (D&D_References)]]
 - Related: [[MON00049_Undead_Creature_50
 - Affected by [Portrait NPC Captain Garrett Stormcutter V1 Captain Garrett Stormcutter.svg]]
-- Influences [[Culinary Critic Marina Tastebud (D&D_References)
-- Requires [step_070 (phase_015)]]
+- Influences [[Culinary Critic Marina Tastebud (D&D_References)]]
 - Requires [[Assets Locations Location City Pressure Terminal Pressure Terminal.svg
 - Compare with [step_017 (phase_058)]]
 - Leads to [[step_035 (phase_097)

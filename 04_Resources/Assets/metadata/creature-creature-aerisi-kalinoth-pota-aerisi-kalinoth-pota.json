@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Imagine a scene set in a grounded medieval-fantasy version of a tabletop game. In this frame, a heroic non-human figure, athletic and endowed with unique limbs, dons culturally coherent gear made from materials akin to those in the medieval period. Neither modern tech nor signage marks the scene. Adhere to a consistent painterly style - a style common before 1912. The image includes the silhouette of a human for comparison to the unique proportions of the hero. The entire spectrum of the art utilizes only three primary hues: deep blues, teals, and sea-greens with a pearlescent highlight. The backdrop is a mesmerizing fusion of sky and underwater elements. Detail the scene to mimic the concept art found in game books. Enhancements such as water refractions (subsurface caustics) and bioluminescent accents aesthetically blend with the aquatic flavor. Material resembling those used for constructing underwater pressure domes cover some parts of the scene. Refrain from adding modern elements such as sci-fi UIs, modern signage, photoreal CGI, anime style, or bloom glare. Additionally, avoid the use of embedded text or words, unless specified. All symbols must have meaning; if they do not, apply numbered pins instead.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-aerisi-kalinoth-pota-aerisi-kalinoth-pota.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-aerisi-kalinoth-pota-aerisi-kalinoth-pota.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:03.323Z",
+  "generationMethod": "ComfyUI"
 }

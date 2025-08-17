@@ -65,5 +65,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Pip Goldleaf
-- [Pip Goldleaf (D&D_Statblocks)]]
+- [[Pip Goldleaf (D&D_Statblocks)]]

@@ -1,7 +1,6 @@
 ---
 
-title: [[Aquabyssos_Government
-type: [Lore]]
+title: [[Aquabyssos_Government]]
 tags:
 - lore
 - worldbuilding
@@ -122,9 +121,6 @@ Aquabyssos_Government represents a crucial aspect of the world's history, cosmol
 
 ## References
 
-- [[Political Intrigue Master Index
-- [Quarantine Enforcement]]
-- [[The Bathyal Succession
-- [Timeline of the Drowning]]
-- [[Depth Warden Patrol
-- [Tenebrarum Embassy]]
+- [[Political Intrigue Master Index]]
+- [[Timeline of the Drowning]]
+- [[Depth Warden Patrol]]

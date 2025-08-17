@@ -153,17 +153,14 @@ Caravan needs guards
 
 ## Connections
 
-- Originates from [[Armor of the First Deep King (D&D_References)
-- Compare with
-- Affected by [The Great Drowning]]
+- Originates from [[Armor of the First Deep King (D&D_References)]]
 - Influences [[Master_Lore_Index
 - Influences [Map World Layer Hidden Locations and Rumor Sites V2 Hidden Locations and Rumor Sites.svg]]
 - Requires [[Scholar Thomas Truthseeker
 - See also: [LOC00006_Wilderness_Location_7]]
 - Influences [[Location City the Depth Market the Depth Market.svg
 - Originates from [step_066 (phase_028)]]
-- Parallels [[LOC00199_Towns_Location_200
-- Requires [The Underground Vault]]
+- Parallels [[LOC00199_Towns_Location_200]]
 - Affected by [[Phantasmal Force Xphb
 - Requires [QUEST00324_Side_Quest_325]]
 - Requires [[The Dream Shard (Lore)
@@ -192,16 +189,14 @@ Caravan needs guards
 - Parallels [[Elemental Adept Xphb
 - Originates from
 - Parallels [ITEM01245_Superior_Herb_of_Clarity]]
-- Leads to [[Temple District
-- Connects to [Procedures Energy State Conversion]]
+- Leads to [[Procedures Energy State Conversion]]
 - Affected by [[Location City Deep Compressmaster V1 Deep Compressmaster.svg
 - Connects to [QUEST00361_Side_Quest_362]]
 - Related: [[Duergar Laduguer Mtf
 - Influences [The Seven Shards]]
 - Related: [[The Great Resoce
 - Affected by [Assets Locations Location City Chancellor Octavius V1 Chancellor Octavius.svg]]
-- See also: [[Merfolk Dmg
-- Connects to [NPC00965_Faelyn_Quicksilver_the_Mystic]]
+- See also: [[NPC00965_Faelyn_Quicksilver_the_Mystic]]
 - Leads to
 - Connects to [[step_086 (phase_069)
 - Parallels [Location City the Listener S Code the Listener S Code.svg]]
@@ -216,8 +211,7 @@ Caravan needs guards
 - Requires [[ENC00133_Environmental_Encounter_134
 - Affected by [ITEM01157_Lesser_Elixir_of_Swiftness]]
 - Influences
-- Leads to [[step_055 (phase_066)
-- Leads to [Session 1 - Strange Tides Rising]]
+- Leads to [[Session 1 - Strange Tides Rising]]
 - Influences [[step_078 (phase_054)
 - Originates from [step_042 (phase_016)]]
 - Influences [[SPELL00101_Nature_Spell_102
@@ -232,24 +226,19 @@ Caravan needs guards
 - Parallels [animal-shapes-xphb (spells)]]
 - Connects to [[The Paradox Engine
 - Requires [Truth Keepers]]
-- Requires [[Aethermoor to Aquabyssos Transition Guide (D&D_References)
-- Influences [The Whisper Touched]]
-- Affected by [[step_080 (phase_054)
-- Originates from [LORE0071_Legend_of_the_Ancient_Pact]]
-- See also: [[Psychological Profile Generator
-- Parallels [Sergeant Instructor Scalpel]]
+- Requires [[Aethermoor to Aquabyssos Transition Guide (D&D_References)]]
+- Affected by [[LORE0071_Legend_of_the_Ancient_Pact]]
+- See also: [[Psychological Profile Generator]]
 - Parallels [[greyhawk-trithereon-xdmg (deities)
 - Originates from [NPC01121_Malakai_Thornweave_the_Scholar]]
 - Influences [[Order of the Silver Anchor
 - Requires [potion-of-resistance-xdmg (items)]]
-- Leads to [[QUEST00282_Side_Quest_283
-- Related: [ale-gallon (items)]]
+- Leads to [[QUEST00282_Side_Quest_283]]
 - Compare with [[Mordenkainens Private Sanctum Xphb
 - Influences [MON00124_Aberrations_Creature_125]]
 - Related: [[step_092 (phase_081)
 - Parallels [Sacred Grief Protocols 2]]
-- Influences [[giant-riding-lizard-oota (beast)
-- See also: [Historical Research Institute (D&D_References)]]
+- Influences [[Historical Research Institute (D&D_References)]]
 - Parallels [[list-spells-classes-circle-of-the-stars-xphb (lists)
 - See also: [Downtime Activity Building a Stronghold]]
 - Requires [[step_054 (phase_067)

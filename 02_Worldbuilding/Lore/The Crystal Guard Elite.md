@@ -52,14 +52,9 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [02_Worldbuilding_Lore_The_Crystal_Guard_Elite]]
-- [[Ancient Siege Tunnels
-- [Customs House]]
-- [[The Queen
-- [Throne Room]]
-- [[Ancient Siege Tunnels (D&D_References)
-- [Customs House (D&D_References)]]
-- [[Customs House 3 (D&D_References)
-- [The Queen (D&D_References)]]
-- [[The Queen 3 (D&D_References)
-- [Throne Room (D&D_References)]]
+- [[Ancient Siege Tunnels]]
+- [[Throne Room]]
+- [[Ancient Siege Tunnels (D&D_References)]]
+- [[Customs House 3 (D&D_References)]]
+- [[The Queen 3 (D&D_References)]]
 - [[Aethermoor - Session 05 The Queens Madness]]

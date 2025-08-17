@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Create a heroic fantasy concept art in a painterly collection style that captures the medieval fantasy essence without the introduction of modern tech or signage. Illustrate the creature known as allip-mpmm from tabletop fantasy, showcasing its musculature and unique limbs, contrasted against a human silhouette. The scene is set in a merged zone of the sky and underwater; showcasing elements of motion, aquatic fantasy, and subsurface caustics. The creature and surroundings glow with bioluminescent accents, hinting at the pressure-dome materials used in this landscape. Use a palette of teals, deep blues, sea-greens and pearl highlights to evoke the sense of underwater depth. The aim is to maintain a consistent stylistic realism without venturing into photoreal CGI or anime style, and avoid unnecessary artifacts, embedded text, gibberish strings, modern signage, or sci-fi UIs.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-allip-mpmm-v3-allip-mpmm.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-allip-mpmm-v3-allip-mpmm.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:10.578Z",
+  "generationMethod": "ComfyUI"
 }

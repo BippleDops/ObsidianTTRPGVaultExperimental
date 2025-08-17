@@ -161,12 +161,10 @@ Discovered something valuable
 - Related: [Human Names Norse Female Xge]]
 - Leads to [[Market Master Duskwate
 - Requires [ITEM01183_Pure_Incense_of_Fortune]]
-- Parallels [[step_076 (phase_082)
-- Parallels [LOC00184_Dungeons_Location_185]]
+- Parallels [[LOC00184_Dungeons_Location_185]]
 - Related: [[step_063 (phase_071)
 - Parallels [FAC00012_Cults_13]]
-- Requires [[Spell_Slots
-- Leads to [LOC00218_Towns_Location_219]]
+- Requires [[LOC00218_Towns_Location_219]]
 - Originates from [[QUEST0034_Champion's_Request
 - Parallels [Shadow Current (D&D_References)]]
 - See also:
@@ -185,12 +183,10 @@ Discovered something valuable
 - Requires [[Assets Locations Location City Transformation Medicine Techniques Transformation Medicine Techniques.svg
 - Connects to
 - Compare with [step_025 (phase_018)]]
-- Originates from [[SPELL00103_Arcane_Spell_104
-- Related: [Crystal Engineer Reef Sparkwright (D&D_References)]]
+- Originates from [[Crystal Engineer Reef Sparkwright (D&D_References)]]
 - Parallels [[step_059 (phase_063)
 - Originates from [step_031 (phase_061)]]
-- Compare with [[Institute for Reality Studies Researchers (D&D_References)
-- Originates from [step_088 (phase_071)]]
+- Compare with [[Institute for Reality Studies Researchers (D&D_References)]]
 - See also: [[step_003 (phase_012)
 - Compare with [The Azure Ports]]
 - Related: [[step_098 (phase_026)
@@ -199,10 +195,8 @@ Discovered something valuable
 - Connects to [QUEST00066_Side_Quest_67]]
 - Leads to [[LORE00181_Prophecies_Entry_182
 - Originates from [The Great Sky Harbor]]
-- See also: [[Abandoned Lighthouse of Convergence
-- Related: [Climb Speed Xphb]]
-- Influences [[Memory Merchant Valeria (D&D_References)
-- Influences [Port Meridian_1]]
+- See also: [[Abandoned Lighthouse of Convergence]]
+- Influences [[Memory Merchant Valeria (D&D_References)]]
 - Requires [[sleep-xphb (spells)
 - Related: [Item Artifact Travelers Clothes Xphb V2 Travelers Clothes Xphb.png]]
 - Influences [[ENC00252_Social_Encounter_253
@@ -211,8 +205,7 @@ Discovered something valuable
 - Influences [step_063 (phase_019)]]
 - Influences [[NPC0091_Lyra_Goldleaf
 - See also: [step_078 (phase_040)]]
-- Originates from [[MON00119_Aberrations_Creature_120
-- Related: [Shard Powers and Effects]]
+- Originates from [[MON00119_Aberrations_Creature_120]]
 - Leads to [[Assets Locations Location City Siren Maeve Echoborn V1 Siren Maeve Echoborn.svg
 - See also: [04_Resources_Assets_Symbols_symbol-heraldry-supernatural-mysteries-supernatural-mysteries.svg]]
 - Parallels [[potion-of-necrotic-resistance-xdmg (items)
@@ -221,8 +214,7 @@ Discovered something valuable
 - Leads to [Assets Locations Location City Kelp Forest Kelp Forest.svg]]
 - Connects to [[NPC01811_Dara_Grimholt_the_Fallen
 - Influences [EVENT00026_Political_Event_27]]
-- Affected by [[step_071 (phase_006)
-- Affected by [Prismatic Crystal (D&D_References)]]
+- Affected by [[Prismatic Crystal (D&D_References)]]
 - Influences [[Pure Essence Crystals
 - Leads to [list-spells-races-tiefling-levistus-mtf (lists)]]
 - Related:
@@ -244,12 +236,10 @@ Discovered something valuable
 - Affected by [Brown Mold Xdmg]]
 - Connects to [[Location City the Living Tide Temples the Living Tide Temples.svg
 - Connects to [step_053 (phase_036)]]
-- Leads to [[Admiral Thalassa Stormcurrent
-- Compare with [step_023 (phase_093)]]
+- Leads to [[Admiral Thalassa Stormcurrent]]
 - Influences [[Locations Abyssal Forges
 - Affected by [step_034 (phase_077)]]
-- Leads to [[Character Backstories
-- Parallels [Master Resoce Architect Echo Stonewhisper]]
+- Leads to [[Master Resoce Architect Echo Stonewhisper]]
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png

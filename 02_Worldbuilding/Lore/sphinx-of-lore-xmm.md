@@ -188,8 +188,7 @@ Adapt this lore to fit campaign:
 
 ## References
 
-- [[Desert Encounters Levels 1116 Xge
-- [Desert Encounters Levels 1720 Xge]]
+- [[Desert Encounters Levels 1116 Xge]]
 - [[Desert Encounters Levels 510 Xge
 - [Monster Conversions Stat Block Conversions]]
 - [[desert-encounters-levels-1116-xge (tables)

@@ -174,8 +174,7 @@ Needs help with personal quest
 
 ## Connections
 
-- Influences [[NPC00915_Qadim_Ravenheart_the_Swift
-- See also: [Marcus Evenscale 2]]
+- Influences [[NPC00915_Qadim_Ravenheart_the_Swift]]
 - Leads to [[Mixed_Events_Pack_D
 - Connects to [step_049 (phase_049)]]
 - Requires [[location-city-service-levels-service-levels.svg
@@ -184,8 +183,7 @@ Needs help with personal quest
 - Affected by [Portrait NPC Lich Queen Morwyn the Deathless V1 Lich Queen Morwyn the Deathless.svg]]
 - Leads to [[LOC00168_Cities_Location_169
 - Originates from [Public Works Yard 2]]
-- Requires [[Scholar-Merchant Remembrance Tidekeep
-- Connects to [step_052 (phase_064)]]
+- Requires [[Scholar-Merchant Remembrance Tidekeep]]
 - See also: [[Assets Locations Location City Senior Nurse Polyp Tendercurrent V1 Senior Nurse Polyp Tendercurrent.svg
 - Compare with [Assets Portraits Portrait NPC Quest the Deep Mother S Truth Quest the Deep Mother S Truth.svg]]
 - Parallels [[Animal Lord Sage Xmm
@@ -195,15 +193,11 @@ Needs help with personal quest
 - Related: [02_Worldbuilding_Factions_The_Resoce_Keepers]]
 - Connects to [[step_035 (phase_081)
 - Parallels [Dancing Lights Xphb]]
-- Originates from [[step_002 (phase_061)
-- See also:
-- Requires [Combat Encounter Difficulty XP Thresholds by Character Level]]
-- Compare with [[Pressure Specialist Dr. Marina Deepcurrent
-- Affected by [step_018 (phase_090)]]
+- Originates from [[Combat Encounter Difficulty XP Thresholds by Character Level]]
+- Compare with [[Pressure Specialist Dr. Marina Deepcurrent]]
 - Originates from [[LORE00179_History_Entry_180
 - Compare with [Races (Homebrew)]]
-- Leads to [[step_012 (phase_012)
-- See also: [Forest Encounters Levels 510 Xge]]
+- Leads to [[Forest Encounters Levels 510 Xge]]
 - Related: [[ogre-bolt-launcher-mpmm (giant)
 - Parallels [step_010 (phase_060)]]
 - Requires [[herbalism-kit-xphb (items)
@@ -211,8 +205,7 @@ Needs help with personal quest
 - Compare with [[World Bible
 - Related: [step_073 (phase_031)]]
 - Parallels
-- Related: [[step_091 (phase_022)
-- Requires [X-005 Dream Sailing Convoy Player]]
+- Related: [[X-005 Dream Sailing Convoy Player]]
 - Affected by
 - Leads to [[step_034 (phase_076)
 - Compare with [step_012 (phase_030)]]
@@ -228,8 +221,7 @@ Needs help with personal quest
 - Compare with [step_003 (phase_068)]]
 - Leads to [[step_024 (phase_017)
 - Compare with [FAC00070_Cults_71]]
-- Affected by [[New Thalassopolis (D&D_References)
-- Requires [Quest - The Divine Test]]
+- Affected by [[New Thalassopolis (D&D_References)]]
 - Related: [[step_068 (phase_095)
 - Related: [plane-shift-xphb (spells)]]
 - Affected by [[ITEM01477_Practical_Map_Case_of_Reliability
@@ -247,16 +239,12 @@ Needs help with personal quest
 - Requires [conjure-celestial-xphb (spells)]]
 - Affected by [[Location City Artisan Felix Reefwright V1 Artisan Felix Reefwright.svg
 - Connects to [Master Smith Vulcan Deepforge]]
-- Leads to [[Drow Selvetarm Mtf
-- Parallels [Aquabyssos_Depth_Encounters]]
+- Leads to [[Aquabyssos_Depth_Encounters]]
 - Leads to [[Roleplaying a Beholder Beholder Personality Traits Vgm
 - Originates from [Deep-Sea Agricultural Research Institut]]
-- Affected by [[step_100 (phase_017)
-- Originates from [Scholar Wisdom Clearwater (D&D_References)]]
-- Affected by [[Green Dragon Xmm
-- Influences [Evidence Types Guide (D&D_References)]]
-- Related: [[SPELL00074_Nature_Spell_75
-- Requires [Silverbrook City]]
+- Affected by [[Scholar Wisdom Clearwater (D&D_References)]]
+- Affected by [[Evidence Types Guide (D&D_References)]]
+- Related: [[SPELL00074_Nature_Spell_75]]
 - Originates from [[step_031 (phase_041)
 - Originates from [step_092 (phase_045)]]
 - Affected by [[Assets Locations Location City Archivist Vera Glowmind V1 Archivist Vera Glowmind.png

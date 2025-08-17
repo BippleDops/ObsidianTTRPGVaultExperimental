@@ -167,22 +167,18 @@ Forming expedition to dangerous location
 
 ## Connections
 
-- Parallels [[Academic Alliance
-- Influences [ENC00200_Social_Encounter_201]]
+- Parallels [[ENC00200_Social_Encounter_201]]
 - Connects to [[step_049 (phase_054)
 - Related: [Haven Reef]]
 - Requires [[Chronomancer Paradox
 - Connects to [The Century of Storms]]
 - Affected by
-- Affected by [[DUN00001_Dungeon_2
-- Leads to [NPC01782_Hilda_Grimholt_the_Cunning]]
-- Leads to [[Portrait NPC Sir ... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Requires [Portrait NPC Quest the Dying Forest V2 Quest the Dying Forest.svg]]
+- Affected by [[NPC01782_Hilda_Grimholt_the_Cunning]]
+- Leads to [[Portrait NPC Sir ... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Influences
 - Leads to [[Keeper Stormheart
 - Related: [secret-doors-xdmg (tables)]]
-- Compare with [[ENC00343_Combat_Encounter_344
-- Requires [step_091 (phase_085)]]
+- Compare with [[ENC00343_Combat_Encounter_344]]
 - Originates from [[QUEST00045_Main_Quest_46
 - Requires [Monk Xphb Way of the Kensei Xge]]
 - Parallels [[giant-slayer-xdmg (items)
@@ -204,14 +200,11 @@ Forming expedition to dangerous location
 - Originates from [LORE00086_Legends_Entry_87]]
 - Affected by [[MON00055_Undead_Creature_56
 - Leads to [Contact Other Plane Xphb]]
-- Influences [[NPC00259_Delara_Proudmore
-- Parallels [NPC01600_Ewan_Zephyrblade_the_Guardian]]
+- Influences [[NPC01600_Ewan_Zephyrblade_the_Guardian]]
 - Influences [[step_078 (phase_098)
 - Leads to [Information_Trading_System (02_Worldbuilding)]]
-- Parallels [[The Audit Tower
-- Compare with [Reality Integration Rules]]
-- Requires [[MON00073_Undead_Creature_74
-- Compare with [Arcturus Lumenblade (D&D_References)]]
+- Parallels [[Reality Integration Rules]]
+- Requires [[Arcturus Lumenblade (D&D_References)]]
 - Connects to [[step_062 (phase_026)
 - Originates from [The_Singer_Beyond.png]]
 - Leads to
@@ -224,39 +217,30 @@ Forming expedition to dangerous location
 - Compare with
 - Related: [[LORE00094_Legends_Entry_95
 - Affected by [Admiral Mistcurrent]]
-- Compare with [[Missing Persons of Port Meridian
-- Influences [Final Message]]
+- Compare with [[Missing Persons of Port Meridian]]
 - Requires [[FAC00006_Guilds_7
 - Related: [ITEM00097_Frost_Sword_of_Accuracy]]
 - Originates from [[Location City Sentinel Constructs Sentinel Constructs.svg
 - Requires [monsters-by-habitat-forest-monsters-xmm (tables)]]
-- Parallels [[The Schism Bridges
-- Connects to [SPELL00112_Arcane_Spell_113]]
-- See also: [[LOC00238_Dungeons_Location_239
-- Requires [step_043 (phase_069)]]
+- Parallels [[SPELL00112_Arcane_Spell_113]]
+- See also: [[LOC00238_Dungeons_Location_239]]
 - Connects to
-- See also: [[Cleaning Fish
-- Leads to [The Paradox Constitution 2]]
+- See also: [[The Paradox Constitution 2]]
 - Related: [[step_072 (phase_079)
 - Influences [Precision Attack Xphb]]
-- Affected by [[Shadow Portal Nexus (D&D_References)
-- Parallels [step_086 (phase_035)]]
-- Connects to [[bard-xphb-college-of-swords-xge 2
-- See also: [Keeper Temporal Safehaven 2]]
-- Related: [[LORE00330_History_Entry_331
-- See also: [Quest - The Collective Consciousness]]
+- Affected by [[Shadow Portal Nexus (D&D_References)]]
+- Connects to [[bard-xphb-college-of-swords-xge 2]]
+- Related: [[Quest - The Collective Consciousness]]
 - Originates from
 - Related: [[Symbol Heraldry Navigation Geography Navigation Geography.svg
 - Requires [NPC0083_Dara_Goldleaf]]
 - Related:
 - Compare with [[Ceremonial Gold Armor With Black Pearls Xdmg
 - Affected by [Assets Vehicles Vehicle Ship Aethermoor Courier Class Airship Aethermoor Courier Class Airship.png]]
-- Requires [[Light Gardener
-- Parallels [Keeper Elara Mindwell 2]]
+- Requires [[Keeper Elara Mindwell 2]]
 - Compare with [[ITEM01004_Superior_Potion_of_Swiftness
 - Connects to [Quest - The Corruption Files]]
-- See also: [[Trident Xphb
-- Parallels [MON00162_Constructs_Creature_163]]
+- See also: [[MON00162_Constructs_Creature_163]]
 - Leads to [[Portrait NPC Pressure Angel Benthia V1 Pressure Angel Benthia.png_1 (Portraits)
 - Connects to [Senator Shadow-Glaucus 2]]
 - Connects to [[Location City the Time Keeper V1 the Time Keeper.svg
@@ -265,11 +249,7 @@ Forming expedition to dangerous location
 - Affected by [[Assets Locations Location City the Listener S Code V1 the Listener S Code.svg
 - Parallels [step_093 (phase_050)]]
 - Leads to
-- Compare with [[Teacher-Administrator Shadowlearn 2
-- Compare with
-
-## Visual References
-![02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+- Compare with [[Teacher-Administrator Shadowlearn 2]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png
 ![02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
 

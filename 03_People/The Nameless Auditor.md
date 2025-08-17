@@ -424,8 +424,7 @@ Legends speak of The Nameless Auditor as a nexus where past and present converge
 
 ## References
 
-- [[Quest - The Convergence Crisis
-- [Quest - The Pretender's Crown]]
+- [[Quest - The Convergence Crisis]]
 - [[12_Research_D&D_Statblocks_The_Nameless_Auditor
 - [Assets Locations Location City Choir Master Celestine Hymnsinger Choir Master Celestine Hymnsinger.svg]]
 - [[Silverscale Consortium (D&D_References)
@@ -434,16 +433,12 @@ Legends speak of The Nameless Auditor as a nexus where past and present converge
 
 - Influences [ENC00025_Social_Encounter_26]]
 - Parallels
-- Influences [[Festival Grounds - Underground
-- Influences [NPC00356_Ewan_Grimholt_the_Redeemed]]
+- Influences [[NPC00356_Ewan_Grimholt_the_Redeemed]]
 - See also: [[step_033 (phase_006)
 - Connects to [Bell Xphb]]
-- Related: [[step_051 (phase_090)
-- See also: [NPC01194_Malakai_Blackstone_the_Broken]]
-- Requires [[step_044 (phase_082)
-- Originates from [ENC00049_Environmental_Encounter_50]]
-- Parallels [[Wave Merchant
-- Related: [Surface Portal Alpha]]
+- Related: [[NPC01194_Malakai_Blackstone_the_Broken]]
+- Requires [[ENC00049_Environmental_Encounter_50]]
+- Parallels [[Surface Portal Alpha]]
 - Originates from [[The Living Paradox
 - Connects to [step_050 (phase_006)]]
 - Parallels [[Void-touched Crew Member 2
@@ -454,13 +449,11 @@ Legends speak of The Nameless Auditor as a nexus where past and present converge
 - Influences [Assets Portraits Portrait NPC Shadow Guard Units Shadow Guard Units.svg]]
 - Compare with [[Assets Art the Kelp Highway.png
 - Originates from [Assets Locations Location City World Map World Map.svg]]
-- Related: [[Item Catalo
-- Related: [NPC01544_Caelum_Blackstone_the_Swift]]
+- Related: [[NPC01544_Caelum_Blackstone_the_Swift]]
 - Influences [[ITEM01229_Lesser_Incense_of_Healing
 - Compare with
 - Originates from [Assets Locations Location City Whisper Touched William Whisper Touched William.svg]]
-- Requires [[step_048 (phase_082)
-- Influences [Post-Revolutionary Society Vision]]
+- Requires [[Post-Revolutionary Society Vision]]
 - Influences [[ITEM00585_Ethereal_Helm_of_Grace
 - Related:
 - Requires [Bag of Tricks Rust Xdmg]]
@@ -468,8 +461,7 @@ Legends speak of The Nameless Auditor as a nexus where past and present converge
 - Parallels [step_091 (phase_065)]]
 - See also: [[snow-maiden-cos (undead)
 - Influences [step_086 (phase_048)]]
-- Requires [[downtime-activity-relaxation-xge (variant-rules)
-- Affected by [Executioners Axe Xdmg]]
+- Requires [[downtime-activity-relaxation-xge (variant-rules)]]
 - Parallels [[Eye Patch Decorated With Tiny Blue Sapphires
 - Compare with [The Depth Blessed Fisherman Captain Sal]]
 - Originates from [[Provincial Governments
@@ -480,27 +472,23 @@ Legends speak of The Nameless Auditor as a nexus where past and present converge
 - Originates from [LOC00148_Planes_Location_149]]
 - Leads to [[Portrait NPC Shadow Duchess Nyx V2 Shadow Duchess Nyx.svg_1 (Portraits)
 - Affected by [Lorehold Student Scc]]
-- Leads to [[step_057 (phase_025)
-- Connects to [Sister Astara the Ever-Watching]]
+- Leads to [[Sister Astara the Ever-Watching]]
 - Affected by
 - Connects to [[cave-fisher-mpmm (monstrosity)
 - Parallels
 - Connects to [step_015 (phase_034)]]
-- Parallels [[Captain Dimensional (D&D_References)
-- Related: [Master of the Gallery Cornelius Publicvoice]]
+- Parallels [[Master of the Gallery Cornelius Publicvoice]]
 - Originates from [[shape-the-flowing-river (optional-features)
 - Compare with [step_038 (phase_089)]]
 - Originates from [[step_021 (phase_005)
 - Influences [Captain Trawl Netcaster]]
 - See also: [[Aethermoor World Guide (Lore)
 - Connects to [LORE00133_History_Entry_134]]
-- Requires [[LORE00057_Legends_Entry_58
-- Compare with [06-adventure-environments (dungeon-masters-guide-2014)]]
+- Requires [[06-adventure-environments (dungeon-masters-guide-2014)]]
 - Affected by [[Orphan_Notes
 - See also:
 - Originates from [mess-kit (items)]]
-- Parallels [[Bullywug Bog Sage Xmm
-- Parallels [LOC00179_Towns_Location_180]]
+- Parallels [[LOC00179_Towns_Location_180]]
 - See also: [[Quest - Stop the Awakening_1 (01_Adventures)
 - Related: [egyptian-bast (deities)]]
 - Parallels [[step_025 (phase_009)
@@ -510,15 +498,13 @@ Legends speak of The Nameless Auditor as a nexus where past and present converge
 - Leads to [regenerating-black-pudding-oota (ooze)]]
 - Leads to [[Depth Raiders
 - Requires [portrait-npc-tenebrarum-v2-tenebrarum.svg_1 (Portraits)]]
-- Affected by [[Senator Glaucus Brain (D&D_References)
-- Related: [step_073 (phase_023)]]
+- Affected by [[Senator Glaucus Brain (D&D_References)]]
 - Affected by [[Academy of Sciences
 - Compare with [Undead Enclaves 2]]
 - See also: [[The Cultural Heritage Society (Groups)
 - Compare with [Random Yuan Ti Servants Yuan Ti Protectors]]
 - Influences
-- See also: [[Ship Wright Shadowhull
-- Influences [Size Xphb]]
+- See also: [[Ship Wright Shadowhull]]
 - Affected by [[Coral Courts (D&D_References)
 - Leads to
 - See also: [ENC00139_Combat_Encounter_140]]

@@ -164,8 +164,7 @@ Being extorted by criminals
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -178,16 +177,12 @@ Being extorted by criminals
 
 ## Connections
 
-- Affected by [[NPC01655_Orion_Underhill_the_Risen
-- Parallels [Bulette Pup Xmm]]
+- Affected by [[NPC01655_Orion_Underhill_the_Risen]]
 - Compare with [[Location City Leviathan Prophet Thalassa V1 Leviathan Prophet Thalassa.svg
 - Related: [Potion of Psychic Resistance Xdmg]]
-- Leads to [[library
-- Leads to [Intervention Windows 2]]
-- Originates from [[Free Current Safe Houses
-- See also: [The Sunken Cathedral of Stars 2]]
-- Influences [[Acid Xphb
-- Related: [QUEST00386_Side_Quest_387]]
+- Leads to [[Intervention Windows 2]]
+- Originates from [[The Sunken Cathedral of Stars 2]]
+- Influences [[QUEST00386_Side_Quest_387]]
 - Originates from [[Location City Thalassa Lightbringer V1 Thalassa Lightbringer.png
 - Originates from [Portrait NPC House Guard Captains House Guard Captains.svg]]
 - Parallels [[Dangerous Waters
@@ -195,8 +190,7 @@ Being extorted by criminals
 - Leads to [Portrait NPC Duke Cyrus Reefheart V1 Duke Cyrus Reefheart.svg_1 (Portraits)]]
 - Parallels [[step_062 (phase_042)
 - Originates from [short-rest-xphb]]
-- Influences [[FAC00080_Cults_81
-- Requires [Detective-Prime Clarity Truthseeke]]
+- Influences [[Detective-Prime Clarity Truthseeke]]
 - Parallels [[The Rationing Authority
 - See also: [treasure-hoards-random-treasure-hoard-xdmg (tables)]]
 - Connects to [[QUEST00064_Side_Quest_65
@@ -206,20 +200,15 @@ Being extorted by criminals
 - Leads to [LOC00008_Wilderness_Location_9]]
 - Originates from [[Talisman of Ultimate Evil Xdmg
 - Related: [ITEM00688_Mithril_Helm_of_Resistance]]
-- Leads to [[SPELL00067_Arcane_Spell_68
-- Leads to [step_065 (phase_058)]]
-- Affected by [[The Memory Meadows Black Market 2
-- See also: [Colossus Xmm]]
-- Parallels [[Daily Routine Nuances and Details 2
-- Compare with [LORE00085_Legends_Entry_86]]
+- Leads to [[SPELL00067_Arcane_Spell_68]]
+- Affected by [[The Memory Meadows Black Market 2]]
+- Parallels [[Daily Routine Nuances and Details 2]]
 - Compare with [[step_053 (phase_071)
 - Leads to [Crystal Shard]]
-- Originates from [[Codex of Forgotten Depths
-- Related: [step_015 (phase_013)]]
+- Originates from [[Codex of Forgotten Depths]]
 - Related: [[one-with-shadows-xphb (optional-features)
 - Compare with [Random Yuan Ti Servants Yuan Ti Protectors]]
-- Connects to [[New Location
-- See also: [NPC00667_Felicia_Goldleaf_the_Strong]]
+- Connects to [[NPC00667_Felicia_Goldleaf_the_Strong]]
 - Leads to [[The Current Merchants (People)
 - Affected by [EVENT00016_Political_Event_17]]
 - Leads to [[NPC00953_Ewan_Goldleaf_the_Bold
@@ -228,8 +217,7 @@ Being extorted by criminals
 - Leads to [object-armor-class (tables)]]
 - Compare with [[egyptian-imhotep (deities)
 - Originates from [Security Chief Corwin Ironshell 2]]
-- Influences [[LOC00155_Cities_Location_156
-- See also: [Bio-Magical Integration Laboratory (D&D_References)]]
+- Influences [[Bio-Magical Integration Laboratory (D&D_References)]]
 - Affected by [[step_025 (phase_014)
 - Compare with [Shoosuva Mpmm]]
 - Parallels [[Vehicle Ship Hybrid Rift Runner Sloop V1 Hybrid Rift Runner Sloop.png
@@ -247,8 +235,7 @@ Being extorted by criminals
 - Compare with [[LORE00176_Prophecies_Entry_177
 - See also: [S-102_Downburst_Hammer]]
 - Related:
-- Affected by [[Assets Art Banker Cornelius Goldflow.png
-- Compare with [10-dungeon-masters-workshop (dungeon-masters-guide-2014)]]
+- Affected by [[10-dungeon-masters-workshop (dungeon-masters-guide-2014)]]
 - See also: [[Symbol Heraldry the Carrion Court the Carrion Court.svg
 - Requires [Symbol Heraldry Border Patrol Unit Border Patrol Unit.svg]]
 - Affected by [[Location City Dockmaster Bruno Steadyanchor V1 Dockmaster Bruno Steadyanchor.svg
@@ -257,12 +244,10 @@ Being extorted by criminals
 - Leads to [step_001 (phase_069)]]
 - Connects to [[describe-appearance-and-personality-charisma-xphb
 - Parallels [step_060 (phase_085)]]
-- Affected by [[Bestial Spirit Water Xphb
-- Originates from [Crystal Cultivation Training Cente]]
+- Affected by [[Crystal Cultivation Training Cente]]
 - Parallels [[LOC00202_Dungeons_Location_203
 - Originates from [QUEST00191_Side_Quest_192]]
-- See also: [[step_065 (phase_051)
-- Compare with [ENC00067_Social_Encounter_68]]
+- See also: [[ENC00067_Social_Encounter_68]]
 - Affected by [[Magical_Items_Gallery (Galleries)
 - Originates from [NPC01765_Corvus_Jadeclaw_the_Guardian]]
 - See also: [[Portrait NPC the Depth Wardens V1 the Depth Wardens.svg
@@ -274,8 +259,7 @@ Being extorted by criminals
 - See also: [NPC00764_Faelyn_Blackstone_the_Bold]]
 - Influences [[SPELL00108_Nature_Spell_109
 - Requires [Quest - The Deep Incursion_1 (01_Adventures)]]
-- Compare with [[LOC00162_Wilderness_Location_163
-- Influences [step_031 (phase_005)]]
+- Compare with [[LOC00162_Wilderness_Location_163]]
 - Leads to [[sleep-of-ages-trap-xge (traps-hazards)
 - Leads to
 

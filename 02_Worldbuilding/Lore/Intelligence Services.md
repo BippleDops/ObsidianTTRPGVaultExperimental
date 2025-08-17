@@ -33,15 +33,10 @@ Further information about this topic will be developed as the campaign progresse
 ## References
 
 - [Shadow Ambush - Optional (Criminal_Organizations)]]
-- [[Foreign Intelligence Services
-- [Fortress of the Deeps]]
-- [[Intelligence Services 2
-- [International Intelligence Services]]
+- [[Foreign Intelligence Services]]
+- [[International Intelligence Services]]
 - [[Political Compromise Costs
 - [Assets Portraits Portrait NPC Captain Marina Shieldcurrent Captain Marina Shieldcurrent.svg]]
-- [[Abyssos Prime - Pressure Terminal
-- [Lord Reginald Seaworthy]]
-- [[Maelstrom Palace
-- [Royal Palace]]
-- [[Shadow Market Canals
-- [Shadow Ambush - Optional]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Maelstrom Palace]]
+- [[Shadow Ambush - Optional]]

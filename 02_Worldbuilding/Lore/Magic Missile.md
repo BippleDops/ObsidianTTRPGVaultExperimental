@@ -91,16 +91,14 @@ Magic Missile represents a crucial aspect of the world's history, cosmology, or 
 
 - [[The Void Tears
 - [Master_Item_Catalog]]
-- [[Master_Spell_Compendium
-- [Helmed Horror Xmm]]
+- [[Master_Spell_Compendium]]
 - [[helmed-horror-xmm (construct)
 - [Night Hag Xmm]]
 - [[night-hag-xmm (fiend)
 - [Illithilich Vgm (undead)]]
 - [[illithilich-vgm (undead)
 - [12 Spells]]
-- [[12-spells (players-handbook-2014)
-- [Brooch of Shielding Xdmg]]
+- [[12-spells (players-handbook-2014)]]
 - [[Robe of Stars Xdmg
 - [Wand of Magic Missiles Xdmg]]
 - [[brooch-of-shielding-xdmg (items)
@@ -117,6 +115,5 @@ Magic Missile represents a crucial aspect of the world's history, cosmology, or 
 - [magic-item-table-f (tables)]]
 - [[random-magic-items-arcana (tables)
 - [random-traps-trap-effects (tables)]]
-- [[wild-magic-surge-phb (tables)
-- [Downtime Activity Crafting a Magic Item]]
+- [[Downtime Activity Crafting a Magic Item]]
 - [[downtime-activity-crafting-a-magic-item (variant-rules)]]

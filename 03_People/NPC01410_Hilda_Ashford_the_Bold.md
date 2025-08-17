@@ -174,27 +174,22 @@ Needs help with personal quest
 
 - Connects to
 - Requires
-- Parallels [[Truth Verification Magic 2
-- See also: [step_064 (phase_036)]]
+- Parallels [[Truth Verification Magic 2]]
 - Related:
 - Connects to [[Shadow Bazaar
 - Connects to [The Unity Seekers 2]]
-- Compare with [[step_010 (phase_025)
-- Originates from [16-chapter-16-the-fetid-wedding (out-of-the-abyss)]]
+- Compare with [[16-chapter-16-the-fetid-wedding (out-of-the-abyss)]]
 - Leads to [[Inter-Realm Courier Network
 - Related: [QUEST00181_Personal_Quest_182]]
 - Influences [[Map World Layer Faction Territories and Influence V2 Faction Territories and Influence.svg
 - Connects to [NPC01047_Hilda_Brightblade_the_Wanderer]]
-- Influences [[step_057 (phase_029)
-- Parallels [Temporal Archivist Chronos]]
+- Influences [[Temporal Archivist Chronos]]
 - See also: [[chain-devil-xmm (fiend)
 - Connects to [NPC0129_Jora_Darkwater]]
 - Requires [[Dr. Coral Mindmend
 - Compare with [pair-of-engraved-bone-dice-xdmg (items)]]
-- Originates from [[Legal Profession 2
-- Requires [LOC00143_Cities_Location_144]]
-- Connects to [[ITEM00883_Primordial_Tome_of_Destiny
-- Related: [NPC00560_Delara_Winterborn_the_Wanderer]]
+- Originates from [[LOC00143_Cities_Location_144]]
+- Connects to [[NPC00560_Delara_Winterborn_the_Wanderer]]
 - Related: [[step_003 (phase_083)
 - Compare with [Roleplaying a Beholder Beholder Ideals Vgm]]
 - Requires [[Scene Scene Shadow Market Under Rain V1 Shadow Market Under Rain.png
@@ -207,8 +202,7 @@ Needs help with personal quest
 - Originates from [Creature Size and Space Xphb]]
 - Originates from [[step_062 (phase_030)
 - See also: [Cultist Leader Depth]]
-- Compare with [[ENC0099_Random_Encounter_100
-- Related: [step_070 (phase_070)]]
+- Compare with [[ENC0099_Random_Encounter_100]]
 - Parallels [[step_040 (phase_008)
 - Connects to [step_078 (phase_014)]]
 - Influences [[Roleplaying a Hag Hag Ideals Vgm
@@ -217,43 +211,33 @@ Needs help with personal quest
 - Connects to [decks]]
 - Leads to [[Iron Flask Xdmg
 - Related: [Crystal Mines (Lore)]]
-- Compare with [[The Memory Meadows 2
-- Compare with [NPC01482_Rhiannon_Underhill_the_Wanderer]]
+- Compare with [[NPC01482_Rhiannon_Underhill_the_Wanderer]]
 - Parallels [[Storyteller Memorykeeper 2
 - See also: [Location City Old Sally Seasprayer V1 Old Sally Seasprayer.svg]]
 - Influences [[Temporal Harvest 2
 - See also: [location-city-the-tidecaller-the-tidecaller.svg]]
-- See also: [[The Academy of Corporate Security
-- Leads to [Topic_Matrix (Indexes)]]
-- Compare with [[The Sundered Vaults (D&D_References)
-- Affected by [grick-ancient-xmm]]
+- See also: [[The Academy of Corporate Security]]
+- Compare with [[The Sundered Vaults (D&D_References)]]
 - Requires [[Assets Locations Location City Historical Analysis Historical Analysis.svg
 - See also:
 - Originates from [Banker Cornelius Goldflow 2]]
-- Requires [[The Healing Waters Chalice
-- See also: [ITEM0081_Blessed_Crown_of_the_Dawn]]
+- Requires [[ITEM0081_Blessed_Crown_of_the_Dawn]]
 - Influences [[Deputy Archmerchant Scroll Deepmin 2
 - Connects to [Academy of Depths (D&D_References)]]
 - Leads to [[step_022 (phase_041)
 - Affected by [wave-xdmg (items)]]
 - Connects to [[Portrait NPC Captain Dara Ironwill V1 Captain Dara Ironwill.svg
 - Originates from [step_015 (phase_018)]]
-- Parallels [[Symbol Heraldry Doc... Related To: Local Political Structure Connected Plots: to Be Developed
-- Leads to [Portrait NPC Storm Empress Tempestas Maelstrom Storm Empress Tempestas Maelstrom.svg_1 (Portraits)]]
+- Parallels [[Symbol Heraldry Doc... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Related:
-- Parallels [[ITEM00070_Blessed_Staff_of_Slaying
-- Related: [Shadow Liberation Front (D&D_References)]]
+- Parallels [[Shadow Liberation Front (D&D_References)]]
 - Parallels [[step_035 (phase_019)
 - Parallels [step_085 (phase_024)]]
-- Leads to [[Captain Sterling Lightshield (D&D_References)
-- Parallels [step_044 (phase_035)]]
+- Leads to [[Captain Sterling Lightshield (D&D_References)]]
 - Parallels [[step_041 (phase_063)
 - See also: [protection-from-evil-and-good-xphb (spells)]]
-- Connects to [[step_010 (phase_100)
-- See also:
-- Leads to [Divine Communication Specialists (D&D_References)]]
-- Originates from [[ENC00440_Combat_Encounter_441
-- Affected by [FAC00079_Guilds_80]]
+- Connects to [[Divine Communication Specialists (D&D_References)]]
+- Originates from [[ENC00440_Combat_Encounter_441]]
 - Parallels [[Sanctuary Charm Xdmg
 - Originates from [Assets Vehicles Vehicle Ship Coral Frame Diver Tender V1 Coral Frame Diver Tender.svg]]
 - See also: [[Coral Vortextrader
@@ -264,14 +248,12 @@ Needs help with personal quest
 - Related: [step_041 (phase_089)]]
 - Requires [[SHOP00035_General_Shop_36
 - Parallels [Balloon Pack Pota]]
-- Compare with [[Elder Kythar
-- Influences [#Context]]
+- Compare with [[Elder Kythar]]
 - Parallels [[Military Families Support Groups
 - Originates from [Assets Locations Location City Community Coordinator Kelp Bondweaver V1 Community Coordinator Kelp Bondweaver.svg]]
 - Compare with [[LOC00260_Cities_Location_261
 - See also: [potion-of-fire-resistance-xdmg (items)]]
-- Parallels [[bomb-xdmg (items)
-- Originates from [The Reunification Faction (D&D_References)]]
+- Parallels [[The Reunification Faction (D&D_References)]]
 
 ## Visual References
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png

@@ -267,7 +267,7 @@ The character can grow and develop alongside party members, making them suitable
 ## Connections
 
 - [02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
-- [[Market_District|Market District
+- [[Market District|Market District
 
 ## Player-Facing Summary
 

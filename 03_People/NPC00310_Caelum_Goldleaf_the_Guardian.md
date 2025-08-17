@@ -172,33 +172,25 @@ Wants rivals investigated
 - Parallels [Portrait NPC the Tidal Council the Tidal Council.svg]]
 - Connects to [[Scroll of Titan Summoning Animal Lord Xdmg
 - Parallels [step_052 (phase_096)]]
-- Related: [[The Bathyal Succession (D&D_References)
-- Related: [Sage Pelagic]]
+- Related: [[The Bathyal Succession (D&D_References)]]
 - Leads to [[step_033 (phase_015)
 - Parallels [Original Glaucus (People)]]
-- Originates from [[QUEST0038_The_Frozen_Fortress_Disappearances
-- Affected by
-- Related: [step_046 (phase_030)]]
+- Originates from [[QUEST0038_The_Frozen_Fortress_Disappearances]]
 - Parallels [[Human Names Roman Female Xge
 - Affected by [ENC00254_Social_Encounter_255]]
-- See also: [[Drow Vhaeraun Mtf
-- Influences [NPC00120_Hestara_Zephyrblade]]
+- See also: [[NPC00120_Hestara_Zephyrblade]]
 - See also: [[Martial Adept
 - Affected by [Assets Locations Location City Basalt Depthwright V1 Basalt Depthwright.svg]]
-- Influences [[step_043 (phase_056)
-- Connects to [NPC01694_Cedric_Brightblade_the_Risen]]
-- Compare with [[MON00148_Aberrations_Creature_149
-- Parallels [step_073 (phase_057)]]
+- Influences [[NPC01694_Cedric_Brightblade_the_Risen]]
+- Compare with [[MON00148_Aberrations_Creature_149]]
 - Parallels [[ITEM01219_Greater_Salve_of_Swiftness
 - Influences [LORE0084_Secret_of_the_Dark_Times]]
 - Influences [[couatl-xmm (celestial)
 - Originates from [step_043 (phase_032)]]
 - Parallels [[Creature Size and Space Xphb
 - Connects to [portrait-npc-the-crimson-sage-the-crimson-sage.svg]]
-- Compare with [[Cross-Dimensional Perception
-- Compare with [step_024 (phase_035)]]
-- Connects to [[LOC00294_Cities_Location_295
-- Influences [Treasury Department (D&D_References)]]
+- Compare with [[Cross-Dimensional Perception]]
+- Connects to [[Treasury Department (D&D_References)]]
 - Requires [[Private Arbitration (D&D_References)
 - Related: [Assets Locations Location City Ambassador Silk Bridgewater Ambassador Silk Bridgewater.svg]]
 - See also: [[step_057 (phase_057)
@@ -206,44 +198,34 @@ Wants rivals investigated
 - Compare with [[LOC00177_Planes_Location_178
 - See also:
 - Related: [FAC00099_Guilds_100]]
-- Compare with [[NPC01846_Lyanna_Brightblade_the_Scholar
-- Parallels [Tribune Cassia (D&D_References)]]
+- Compare with [[NPC01846_Lyanna_Brightblade_the_Scholar]]
 - Influences [[Assets Vehicles Vehicle Ship Hybrid Rift Runner Sloop V1 Hybrid Rift Runner Sloop.png
 - Affected by [step_091 (phase_014)]]
 - See also: [[step_016 (phase_063)
 - Connects to [reliquary-xphb (items)]]
-- Influences [[step_049 (phase_010)
-- Related: [player-characters-as-lycanthropes-mm (variant-rules)]]
+- Influences [[player-characters-as-lycanthropes-mm (variant-rules)]]
 - Leads to [[NPC01935_Ewan_Hawthorne_the_Broken
 - Leads to [Assets Locations Location City the Crystal Merchant the Crystal Merchant.svg]]
 - Influences [[Dragonlance Zivilyn Phb
 - Requires [Assets Locations Location City the Progressive Coalition Headquarters V1 the Progressive Coalition Headquarters.svg]]
-- Influences [[Iron Golem Xmm
-- Requires [The Divine Reconciliation (D&D_References)]]
-- Compare with [[Memoriam - The Forgotten Continent (D&D_Statblocks)
-- Originates from [Spymaster Echo]]
-- Parallels [[ITEM0030_Glorious_Orb_of_Power
-- Compare with [step_056 (phase_062)]]
+- Influences [[The Divine Reconciliation (D&D_References)]]
+- Compare with [[Memoriam - The Forgotten Continent (D&D_Statblocks)]]
+- Parallels [[ITEM0030_Glorious_Orb_of_Power]]
 - Leads to
 - Influences [[Assets Locations Location City Depth Warden Patrol V1 Depth Warden Patrol.svg
 - See also: [Cause Fear Xge]]
 - Requires [[LOC00236_Towns_Location_237
 - Originates from [step_047 (phase_073)]]
-- Requires [[LOC00229_Towns_Location_230
-- Requires [Voidwhisper Diplomat Seraphina Darkgrace]]
+- Requires [[Voidwhisper Diplomat Seraphina Darkgrace]]
 - Connects to
 - Requires [[Assets Portraits Portrait NPC Archbishop Matthias Lightbringer Archbishop Matthias Lightbringer.svg
 - Influences [LOC00270_Planes_Location_271]]
-- Connects to [[step_100 (phase_048)
-- Related: [MON00113_Undead_Creature_114]]
-- Affected by [[downtime-activity-training-phb (variant-rules)
-- See also: [step_009 (phase_018)]]
+- Connects to [[MON00113_Undead_Creature_114]]
+- Affected by [[downtime-activity-training-phb (variant-rules)]]
 - Related: [[step_062 (phase_054)
 - Compare with [awakened-zurkhwood-oota (plant)]]
-- Requires [[step_027 (phase_031)
-- Influences [Unite the Emperor (D&D_References)]]
-- Originates from [[Grand Master Tempest Windvoic
-- Influences [step_020 (phase_069)]]
+- Requires [[Unite the Emperor (D&D_References)]]
+- Originates from [[Grand Master Tempest Windvoic]]
 - Requires [[Shopping_List
 - Leads to [Treasure Hoards Random Treasure Hoard Xdmg]]
 - Originates from [[Divine Preservation Magic (D&D_References)
@@ -254,10 +236,8 @@ Wants rivals investigated
 - Compare with [LOC00269_Towns_Location_270]]
 - Compare with [[Item Artifact Poisoners Kit Xphb V7 Poisoners Kit Xphb.png
 - Connects to [Ω_System-CLI-spells-school-abjuration]]
-- Related: [[Bio-Tech Supervisor Reef Lifeweaver (D&D_References)
-- Related: [Earl Thaddeus Blackthorn (D&D_References)]]
-- Compare with [[step_081 (phase_030)
-- Connects to [Coral Throne Syndicate HQ (D&D_References)]]
+- Related: [[Bio-Tech Supervisor Reef Lifeweaver (D&D_References)]]
+- Compare with [[Coral Throne Syndicate HQ (D&D_References)]]
 
 ## Visual References
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png

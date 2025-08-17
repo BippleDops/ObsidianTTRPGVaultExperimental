@@ -25,5 +25,8 @@
   "alt_text": "Concept art of otherworldly-steed-celestial-xphb with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-otherworldly-steed-celestial-xphb-v2-otherworldly-steed-celestial-xphb.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-otherworldly-steed-celestial-xphb-v2-otherworldly-steed-celestial-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:07:19.018Z",
+  "generationMethod": "ComfyUI"
 }

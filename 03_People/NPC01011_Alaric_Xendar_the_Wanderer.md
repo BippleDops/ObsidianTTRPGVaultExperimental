@@ -165,10 +165,8 @@ Caravan needs guards
 
 - See also: [[step_081 (phase_025)
 - Affected by [step_006 (phase_030)]]
-- Parallels [[LOC00263_Towns_Location_264
-- Leads to [The Mediator]]
-- Influences [[peridot-xdmg (items)
-- Influences [The Rumor Mill (D&D_References)]]
+- Parallels [[LOC00263_Towns_Location_264]]
+- Influences [[The Rumor Mill (D&D_References)]]
 - Influences [[Quest - The Pure Strike
 - Affected by [ITEM00570_Dragon_Scale_Cloak_of_Resistance]]
 - Affected by [[Prince Caspian (D&D_References)
@@ -183,16 +181,14 @@ Caravan needs guards
 - Related: [location-city-inverse-palace-v1-inverse-palace.svg]]
 - Related: [[04_Resources_Assets_Locations_location-city-master-smith-coral-hammer-v1-master-smith-coral-hammer.svg
 - Connects to [step_059 (phase_045)]]
-- Related: [[Npc (D&D_References)
-- Related: [Void Prophet Nullus the Erased (D&D_References)]]
+- Related: [[Void Prophet Nullus the Erased (D&D_References)]]
 - Parallels [[NPC0005_Fiora_Stormwind
 - Influences [step_094 (phase_054)]]
 - Connects to
 - Compare with [[Barkeep Salty Sarah (D&D_References)
 - See also:
 - Originates from [LOC00127_Planes_Location_128]]
-- See also: [[NPC01009_Jorah_Ravenheart_the_Mystic
-- Leads to [step_072 (phase_040)]]
+- See also: [[NPC01009_Jorah_Ravenheart_the_Mystic]]
 - Influences [[training-complications-xge (tables)
 - Connects to [Quest - Stop the Awakening 2]]
 - Compare with
@@ -200,14 +196,12 @@ Caravan needs guards
 - Requires [Brewing Potions of Healing Potion of Healing Creation Xge]]
 - Related: [[Duke Aldric Blackwater
 - Compare with [The Forbidden Section]]
-- Affected by [[Phase Transition Special Effects (D&D_References)
-- Parallels [step_033 (phase_097)]]
+- Affected by [[Phase Transition Special Effects (D&D_References)]]
 - Originates from [[step_039 (phase_017)
 - Related: [Location City the Pressure Crown the Pressure Crown.svg]]
 - Originates from [[Hidden Smuggler's Cove
 - Influences [Tide Welcomeheart 2]]
-- See also: [[high-jump-xphb (variant-rules)
-- Connects to [War Caster Xphb]]
+- See also: [[high-jump-xphb (variant-rules)]]
 - Parallels
 - Leads to [[FAC00008_Guilds_9
 - Parallels [step_020 (phase_064)]]
@@ -219,8 +213,7 @@ Caravan needs guards
 - Compare with [NPC00886_Dara_Ashford_the_Bold]]
 - See also: [[step_051 (phase_074)
 - Leads to [Dimetrodon Mpmm]]
-- Leads to [[NPC00486_Caelum_Stormwind_the_Scholar
-- Related: [step_059 (phase_070)]]
+- Leads to [[NPC00486_Caelum_Stormwind_the_Scholar]]
 - Originates from [[lightning-arrow-xphb (spells)
 - See also: [5E_Official_Content_Integration]]
 - Related: [[Kraken Territories 2
@@ -235,33 +228,27 @@ Caravan needs guards
 - Influences [Portrait NPC Lord Aldric Highwind Lord Aldric Highwind.svg]]
 - Requires [[LOC00114_Dungeons_Location_115
 - Leads to [LORE00052_Prophecies_Entry_53]]
-- Related: [[The Verdant Reach (D&D_References)
-- Parallels [Silent Guardian Marcus 2]]
+- Related: [[The Verdant Reach (D&D_References)]]
 - Influences [[MON00112_Constructs_Creature_113
 - Related: [selling-a-magic-item-magic-item-offer-xge (tables)]]
 - Connects to [[Assets Locations Location City Temple of Echoing Tides V1 Temple of Echoing Tides.svg
 - Parallels [Shadow Dragon Xmm]]
-- Requires [[Memory Blade
-- See also: [The Mourning Depths (D&D_References)]]
-- Connects to [[INDEX (Call_of_the_Netherdeep)
-- See also: [step_022 (phase_011)]]
+- Requires [[The Mourning Depths (D&D_References)]]
+- Connects to [[INDEX (Call_of_the_Netherdeep)]]
 - See also: [[Assets Locations Location City Memory Parasite Infection Memory Parasite Infection.svg
 - Affected by [The Outer Planes Outer Planes Xphb]]
 - Leads to [[LOC0117_NewBridge
 - Originates from [step_063 (phase_027)]]
 - Affected by
-- Compare with [[Arcane Master Voidweav (D&D_References)
-- Connects to [High Tide Celebrant Coral Festivus]]
-- Parallels [[LOC00128_Dungeons_Location_129
-- Parallels [swarm-of-rats-xmm (beast)]]
+- Compare with [[Arcane Master Voidweav (D&D_References)]]
+- Parallels [[LOC00128_Dungeons_Location_129]]
 - Affected by [[height-and-weight-vgm (tables)
 - Parallels [LOC0011_Bridgeshire]]
 - Originates from [[QUEST00163_Side_Quest_164
 - Affected by [nonhuman-kurtulmak (deities)]]
 - See also: [[Assets Locations Location City the Foundation Depths the Foundation Depths.svg
 - Compare with [NPC01476_Qadim_Stormwind_the_Wise]]
-- Compare with [[LOC00266_Cities_Location_267
-- Requires [step_080 (phase_024)]]
+- Compare with [[LOC00266_Cities_Location_267]]
 - Originates from [[creature-creature-griffon-xmm-griffon-xmm.png
 
 ## Visual References

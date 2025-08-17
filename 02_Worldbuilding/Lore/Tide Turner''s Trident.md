@@ -1,7 +1,6 @@
 ---
 
-title: [[Tide Turner''s Trident
-type: [Lore]]
+title: [[Tide Turner''s Trident]]
 tags:
 - lore
 - worldbuilding

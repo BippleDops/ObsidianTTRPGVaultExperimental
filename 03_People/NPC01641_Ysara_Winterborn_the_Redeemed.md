@@ -162,8 +162,7 @@ Provides information for a price
 - Parallels [Healer Xphb]]
 - Affected by [[ioun-stone-protection-xdmg (items)
 - Compare with [Roleplaying a Yuan Ti Yuan Ti Flaws Vgm]]
-- Affected by [[Bone Architect Ossuary (D&D_References)
-- Requires [The Purification Order (Orders)]]
+- Affected by [[Bone Architect Ossuary (D&D_References)]]
 - Compare with [[dominate-beast-xphb (spells)
 - See also: [transport-via-plants-xphb (spells)]]
 - Originates from [[portrait-npc-siren-siren.svg
@@ -172,22 +171,19 @@ Provides information for a price
 - Affected by [LORE00312_History_Entry_313]]
 - Requires [[step_046 (phase_035)
 - Leads to [step_092 (phase_026)]]
-- Influences [[Temporal Locks (Items)
-- Related: [LOC00153_Wilderness_Location_154]]
+- Influences [[LOC00153_Wilderness_Location_154]]
 - Related: [[Assets Locations Location City the Progressive Coalition Headquarters the Progressive Coalition Headquarters.svg
 - Influences [step_082 (phase_069)]]
 - Originates from
 - Connects to [[Duke Aldric Blackwater (D&D_References)
 - Compare with [Portrait NPC Golden Scale Transformation Golden Scale Transformation.svg_1 (Portraits)]]
-- Related: [[step_043 (phase_091)
-- Related: [Crystal Cult Initiates Ambush]]
+- Related: [[Crystal Cult Initiates Ambush]]
 - Compare with [[half-orc-parents-xge (tables)
 - See also: [LORE00194_Prophecies_Entry_195]]
 - Influences [[NPC00784_Urien_Frostwhisper_the_Mystic
 - Compare with
 - Compare with [Portrait NPC Quest Crystal Innovation V2 Quest Crystal Innovation.svg]]
-- Connects to [[component-pouch-xphb (items)
-- Related: [NPC01393_Erasmus_Winterborn_the_Broken]]
+- Connects to [[NPC01393_Erasmus_Winterborn_the_Broken]]
 - Connects to [[Deepsteel 2
 - Related: [step_061 (phase_026)]]
 - Influences [[step_085 (phase_014)
@@ -205,12 +201,10 @@ Provides information for a price
 - Originates from [NPC01770_Solas_Dawnstrider_the_Swift]]
 - Compare with [[step_057 (phase_054)
 - Requires [power-word-stun-xphb (spells)]]
-- Parallels [[QUEST00060_Personal_Quest_61
-- Compare with [Acolyte Sister Tidal Deepfaith (D&D_References)]]
+- Parallels [[Acolyte Sister Tidal Deepfaith (D&D_References)]]
 - Influences [[MON00111_Undead_Creature_112
 - Related: [Quaals Feather Token Fan Xdmg]]
-- Compare with [[step_083 (phase_040)
-- See also: [Order of the Sunken Crown (D&D_References)]]
+- Compare with [[Order of the Sunken Crown (D&D_References)]]
 - Originates from [[ITEM00303_Frost_Axe_of_Accuracy
 - Leads to [Human Names Arabic Male Xge]]
 - Affected by [[Quest - Reflection Reality
@@ -219,14 +213,11 @@ Provides information for a price
 - Connects to [step_073 (phase_093)]]
 - Influences [[Portrait NPC Order of the Shattered Crown Order of the Shattered Crown.svg
 - Related: [LORE00272_Legends_Entry_273]]
-- Leads to [[ENC00194_Environmental_Encounter_195
-- See also: [ENC00125_Social_Encounter_126]]
+- Leads to [[ENC00194_Environmental_Encounter_195]]
 - Affected by [[Assets Locations Location City Treasury Department V1 Treasury Department.svg
 - Leads to [grick-xmm (aberration)]]
-- Compare with [[step_040 (phase_062)
-- Compare with [The Tidecaller (D&D_References)]]
-- Related: [[SPELL00029_Arcane_Spell_30
-- Influences [NPC01012_Solas_Darkwater_the_Strong]]
+- Compare with [[The Tidecaller (D&D_References)]]
+- Related: [[NPC01012_Solas_Darkwater_the_Strong]]
 - Requires [[Guardian Communion Crystals
 - Influences [Royal Bunker (D&D_References)]]
 - Related: [[step_033 (phase_087)
@@ -235,14 +226,11 @@ Provides information for a price
 - Influences [step_051 (phase_080)]]
 - Affected by [[Assets Locations Location City the Collector the Collector.svg
 - Requires [Allied Nation Military Units]]
-- Originates from [[Memory Alterations 2
-- Connects to [Commander Typhoon Blackheart 2]]
-- Compare with [[step_071 (phase_051)
-- Leads to [NPC01273_Alaric_Ironwood_the_Guardian]]
+- Originates from [[Commander Typhoon Blackheart 2]]
+- Compare with [[NPC01273_Alaric_Ironwood_the_Guardian]]
 - Affected by [[step_032 (phase_039)
 - Influences [step_078 (phase_071)]]
-- Requires [[ITEM01014_Superior_Incense_of_Clarity
-- Leads to [Merchant Prince Akula (D&D_References)]]
+- Requires [[Merchant Prince Akula (D&D_References)]]
 - Related: [[step_006 (phase_086)
 - Requires [strixhaven-pent-scc]]
 - Requires [[Portrait NPC Quest the Betrayers Truth Quest the Betrayers Truth.svg
@@ -256,8 +244,7 @@ Provides information for a price
 - Affected by [LOC0144_Hillhollow]]
 - Leads to [[Archmage Tidal Currentweave
 - Originates from [kuo-toa-xmm (aberration)]]
-- Compare with [[Nightmare Protection (D&D_References)
-- Leads to [step_098 (phase_070)]]
+- Compare with [[Nightmare Protection (D&D_References)]]
 
 ## Visual References
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png

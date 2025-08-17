@@ -25,5 +25,8 @@
   "alt_text": "Concept art of fey with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-fey-v1-fey.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-fey-v1-fey.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:01:52.346Z",
+  "generationMethod": "ComfyUI"
 }

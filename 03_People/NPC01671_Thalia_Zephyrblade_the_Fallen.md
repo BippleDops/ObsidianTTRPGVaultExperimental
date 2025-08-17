@@ -180,10 +180,8 @@ Offers deal too good to refuse
 - Leads to [Race Against the Festival 2]]
 - Leads to [[Assets Locations Location City the Hybrid Harbor the Hybrid Harbor.svg
 - Related: [construct]]
-- Leads to [[LOC00101_Wilderness_Location_102
-- Connects to [Choker Mpmm]]
-- Related: [[Traditional Craft Districts (D&D_References)
-- Compare with [Toxin Specialist Venom Reef 2]]
+- Leads to [[LOC00101_Wilderness_Location_102]]
+- Related: [[Traditional Craft Districts (D&D_References)]]
 - Affected by [[Symbol Heraldry Witness Protection Network Witness Protection Network.svg
 - Influences [Mage Hunter Scc]]
 - Originates from [[underwater-encounters-levels-14-xge (tables)
@@ -195,26 +193,19 @@ Offers deal too good to refuse
 - Requires [NPC00327_Ewan_Ravenheart]]
 - Affected by [[Portrait NPC Quest the Seventh Song V2 Quest the Seventh Song.svg
 - Originates from [The Nameless Auditor (D&D_Statblocks)]]
-- Related: [[NPC01412_Jorah_Zephyrblade_the_Wanderer
-- Connects to [step_035 (phase_025)]]
-- Parallels [[Security Officer Guard Stormwind 2
-- Parallels [SPELL00141_Divine_Spell_142]]
-- Related: [[QUEST0019_Merchant's_Secret
-- Affected by [Twilight Depth]]
+- Related: [[NPC01412_Jorah_Zephyrblade_the_Wanderer]]
+- Parallels [[Security Officer Guard Stormwind 2]]
+- Related: [[QUEST0019_Merchant's_Secret]]
 - Influences [[Location City the Contract Archive the Contract Archive.svg
 - Parallels [MON00052_Undead_Creature_53]]
-- Affected by [[Skill_Checks
-- Compare with [QUEST00236_Personal_Quest_237]]
-- Connects to [[MON00156_Aberrations_Creature_157
-- Originates from [LOC0061_SouthMarsh]]
+- Affected by [[QUEST00236_Personal_Quest_237]]
+- Connects to [[MON00156_Aberrations_Creature_157]]
 - Compare with [[lingering-injuries (tables)
 - Originates from [ITEM01422_Decorated_Lantern_of_Quality]]
 - Connects to [[step_043 (phase_015)
 - Compare with [step_100 (phase_009)]]
-- Compare with [[NPC01241_Kaelen_Jadeclaw_the_Broken
-- Originates from [Session 10 (06_Sessions)]]
-- Connects to [[LOC00037_Cities_Location_38
-- See also: [Grappler Xphb]]
+- Compare with [[NPC01241_Kaelen_Jadeclaw_the_Broken]]
+- Connects to [[LOC00037_Cities_Location_38]]
 - Affected by [[Assets Locations Location City Sea Sprite Sea Sprite.svg
 - Requires [step_030 (phase_016)]]
 - Compare with [[Independent Smugglers (Criminal_Organizations)
@@ -230,15 +221,11 @@ Offers deal too good to refuse
 - See also: [Assets Locations Location City the Constellation Mystery V1 the Constellation Mystery.png]]
 - Parallels [[step_082 (phase_007)
 - Related: [Equipment_Inventory]]
-- Parallels [[The Divine Revelation 2
-- Connects to [Session 8 - The Stellar Convergence]]
+- Parallels [[Session 8 - The Stellar Convergence]]
 - Compare with [[step_060 (phase_030)
 - Related: [04_Resources_Assets_Art_Places_Captain_Trawl_Netcaster.png]]
-- Requires [[Crystal Dampening Stones (D&D_References)
-- Affected by [snare-xge (spells)]]
-- Originates from [[The Forgotten One 2
-- Leads to
-- Leads to [NPC0033_Helena_Stormwind_the_Strong]]
+- Requires [[Crystal Dampening Stones (D&D_References)]]
+- Originates from [[NPC0033_Helena_Stormwind_the_Strong]]
 - Related: [[LOC00095_Wilderness_Location_96
 - Related: [Portal Engineer Shade Linkwright]]
 - See also: [[Portal Terminals
@@ -246,13 +233,10 @@ Offers deal too good to refuse
 - Affected by [step_095 (phase_079)]]
 - Parallels [[secondary-tables-adventures-xge (tables)
 - Affected by [Location City Forge Master Petra Hammerdeep V1 Forge Master Petra Hammerdeep.svg]]
-- Requires [[Experimental Medical Ethics (D&D_References)
-- See also:
-- Requires [The Bathyal Succession 2]]
+- Requires [[Experimental Medical Ethics (D&D_References)]]
 - See also: [[Whisper-Witch_Naia_Softcurrent.png
 - See also: [ITEM01300_Sturdy_Lantern_of_Reliability]]
-- Influences [[The Archive of Suppressed Evidence 2
-- Related: [step_003 (phase_093)]]
+- Influences [[The Archive of Suppressed Evidence 2]]
 - Parallels [[step_029 (phase_060)
 - Leads to [Assets Locations Location City the Crystalline Wastes V1 the Crystalline Wastes.svg]]
 - Compare with [[University System

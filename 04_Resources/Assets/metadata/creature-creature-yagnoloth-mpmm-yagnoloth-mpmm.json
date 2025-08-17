@@ -25,5 +25,8 @@
   "alt_text": "Concept art of yagnoloth-mpmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-yagnoloth-mpmm-yagnoloth-mpmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-yagnoloth-mpmm-yagnoloth-mpmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:11:34.148Z",
+  "generationMethod": "ComfyUI"
 }

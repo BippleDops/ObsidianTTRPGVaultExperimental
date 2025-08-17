@@ -141,19 +141,11 @@ Things widely suspected
 
 ## References
 
-- [[Merchant's Covenant
-- [Ancient Siege Tunnels]]
-- [[Continental War
-- [Diplomatic Event Scenarios]]
-- [[Economic Crime Methods
-- [Fortress of the Deeps]]
-- [[Military Moral Quandaries
-- [Political Intrigue Master Index]]
-- [[Commander Typhoon Blackheart (Places)
-- [Mad Oracle Thessaly]]
-- [[Pressure's End
-- [Royal Palace]]
-- [[Tenebrarum Embassy
-- [The Crystal Wardens]]
-- [[Mad Oracle Thessaly (D&D_References)
-- [Merchant's Covenant (D&D_References)]]
+- [[Ancient Siege Tunnels]]
+- [[Diplomatic Event Scenarios]]
+- [[Economic Crime Methods]]
+- [[Political Intrigue Master Index]]
+- [[Commander Typhoon Blackheart]]
+- [[Pressure's End]]
+- [[The Crystal Wardens]]
+- [[Mad Oracle Thessaly (D&D_References)]]

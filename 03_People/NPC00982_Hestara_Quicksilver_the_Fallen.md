@@ -158,8 +158,7 @@ Seeks rare merchandise
 ## Connections
 
 - Parallels
-- Compare with [[QUEST00493_Side_Quest_494
-- Parallels [Crystal Corruption (D&D_References)]]
+- Compare with [[Crystal Corruption (D&D_References)]]
 - Compare with [[Unity Shard Mechanics
 - See also: [The First Truth]]
 - Originates from [[step_072 (phase_093)
@@ -169,8 +168,7 @@ Seeks rare merchandise
 - Requires [step_007 (phase_082)]]
 - Connects to [[Knowledge Truthseeker 2
 - Compare with [ENC00403_Combat_Encounter_404]]
-- See also: [[INDEX (Keys_from_the_Golden_Vault)
-- Affected by [NPC01869_Aldric_Dawnstrider_the_Broken]]
+- See also: [[NPC01869_Aldric_Dawnstrider_the_Broken]]
 - Influences [[step_058 (phase_070)
 - Connects to [step_007 (phase_019)]]
 - Connects to [[step_094 (phase_053)
@@ -197,17 +195,14 @@ Seeks rare merchandise
 - Parallels [umber-hulk-xmm (monstrosity)]]
 - Leads to [[04_Resources_Assets_Locations_location-city-weapon-master-dain-sharpedge-weapon-master-dain-sharpedge.svg
 - See also: [Yeenoghu Mtf]]
-- Influences [[step_067 (phase_084)
-- See also: [Warden Marcus Stonehand (D&D_References)]]
+- Influences [[Warden Marcus Stonehand (D&D_References)]]
 - Affected by [[Scholarly Theologians (D&D_References)
 - Influences
 - Influences [LORE0015_History_of_the_Ancient_Pact]]
 - See also: [[Portrait NPC Lord Flux the Inconsistent V1 Lord Flux the Inconsistent.svg
 - Requires [Consequence Chain 4 - Deep Mother Awakening]]
-- Parallels [[LOC00069_Cities_Location_70
-- Influences [Aethermoor_Airships]]
-- Related: [[deck-of-many-things#Rogue
-- Requires [Location City Crystalline Wastes V1 Crystalline Wastes.svg]]
+- Parallels [[LOC00069_Cities_Location_70]]
+- Related: [[deck-of-many-things#Key]]
 - Leads to [[LOC00005_Cities_Location_6
 - Influences [Greyhawk Pelor Xdmg]]
 - See also: [[International Law Enforcement
@@ -216,27 +211,22 @@ Seeks rare merchandise
 - Influences [step_100 (phase_065)]]
 - Originates from [[LORE00310_Legends_Entry_311
 - Affected by [Portrait NPC Quest the Throne Succession V2 Quest the Throne Succession.svg]]
-- Parallels [[step_048 (phase_086)
-- Connects to [NPC00240_Thalia_Stormwind_the_Fallen]]
+- Parallels [[NPC00240_Thalia_Stormwind_the_Fallen]]
 - Requires [[step_055 (phase_100)
 - Leads to [Assets Locations Location City Echo Theorist Maya V1 Echo Theorist Maya.svg]]
-- Related: [[step_058 (phase_045)
-- Related: [Inter-Dimensional Commerce]]
+- Related: [[Inter-Dimensional Commerce]]
 - Leads to [[04_Places_The_Crystal_Observatory
 - Requires [LOC00050_Wilderness_Location_51]]
-- Leads to [[NPC1_Quick_Ref
-- Compare with [Shadow Surgical Instruments (D&D_References)]]
+- Leads to [[Shadow Surgical Instruments (D&D_References)]]
 - Originates from [[ITEM00290_Blessed_Sword_of_Wounding
 - Affected by
 - Influences [step_035 (phase_048)]]
 - Related: [[step_036 (phase_091)
 - See also: [Assets Locations Location City War of the Sunless Depths War of the Sunless Depths.svg]]
-- Connects to [[Political Systems and Governance
-- Originates from [step_087 (phase_087)]]
+- Connects to [[Political Systems and Governance]]
 - Originates from [[step_023 (phase_044)
 - Requires [Assets Locations Location City the Thirteen Keys V1 the Thirteen Keys.svg]]
-- Requires [[MOC_Lore
-- Requires [LOC0058_FortVale]]
+- Requires [[LOC0058_FortVale]]
 - Leads to [[Assets Locations Location City Abyssos Prime Docks V1 Abyssos Prime Docks.svg
 - Connects to
 - Affected by [undead-spirit-xphb (undead)]]
@@ -246,8 +236,7 @@ Seeks rare merchandise
 - Parallels [step_087 (phase_073)]]
 - Influences [[README (Maps)
 - Connects to [Assets Portraits Portrait NPC Shadow Citizenship Act Shadow Citizenship Act.svg]]
-- Parallels [[Elk Xmm
-- Related: [NPC01841_Malakai_Nightfall_the_Wise]]
+- Parallels [[NPC01841_Malakai_Nightfall_the_Wise]]
 - Connects to
 - Compare with [[Assets Locations Location City Master Jeweler Sapphire Delicatehand Master Jeweler Sapphire Delicatehand.svg
 - Requires [The Depth Compass 2]]

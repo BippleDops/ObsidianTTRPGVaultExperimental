@@ -165,8 +165,7 @@ Offers deal too good to refuse
 
 - Compare with [[The Umbral Exchange
 - Connects to [Ambush Drake Hotdq]]
-- Leads to [[Greyhawk Hextor Xdmg
-- See also: [ENC00055_Social_Encounter_56]]
+- Leads to [[ENC00055_Social_Encounter_56]]
 - Parallels
 - Originates from [[Storm Giant Quintessent Vgm
 - Leads to [step_060 (phase_036)]]
@@ -175,10 +174,8 @@ Offers deal too good to refuse
 - Influences [step_032 (phase_041)]]
 - Originates from [[Portrait NPC Trade Captain Current V2 Trade Captain Current.svg
 - Affected by [ENC00282_Social_Encounter_283]]
-- Leads to [[QUEST00174_Main_Quest_175
-- Parallels [Archivist Mnemonic the Forgotten (D&D_Statblocks)]]
-- Affected by [[LOC00209_Cities_Location_210
-- Requires [Captain Hadal Voidwright]]
+- Leads to [[Archivist Mnemonic the Forgotten (D&D_Statblocks)]]
+- Affected by [[LOC00209_Cities_Location_210]]
 - Influences [[Uniting_the_Factions.png
 - Leads to [step_100 (phase_099)]]
 - Influences [[The Deepmost Current
@@ -193,24 +190,20 @@ Offers deal too good to refuse
 - Influences [Portrait NPC Captain Nautilus the Deep Wanderer Captain Nautilus the Deep Wanderer.svg]]
 - Leads to [[Assets Locations Location City Current Democratic Party Current Democratic Party.svg
 - Parallels [shortbow-xphb (items)]]
-- Affected by [[ENC00233_Combat_Encounter_234
-- Related: [step_049 (phase_026)]]
-- Affected by [[Vex Shadowthorn (D&D_References)
-- Leads to [senses#Darkvision]]
+- Affected by [[ENC00233_Combat_Encounter_234]]
+- Affected by [[Vex Shadowthorn (D&D_References)]]
 - Parallels [[ITEM00878_Divine_Amulet_of_Destiny
 - Leads to [step_080 (phase_093)]]
 - Connects to [[Abyssal Garden 2
 - Compare with [Marcus Depthward]]
-- Connects to [[Memory Alteration 3 (D&D_References)
-- Requires [step_090 (phase_078)]]
+- Connects to [[Memory Alteration 3 (D&D_References)]]
 - Requires [[step_078 (phase_009)
 - Related: [The Crushing Sanctuary]]
 - Parallels [[Portrait NPC Pressure Angel Benthia V1 Pressure Angel Benthia.png_1 (Portraits)
 - Connects to [Potion of Healing Xdmg]]
 - Leads to [[boots-of-speed-xdmg (items)
 - Connects to [arcana-uncommon-xdmg (tables)]]
-- Originates from [[step_029 (phase_090)
-- Requires [Biological Enhancement Procedures (D&D_References)]]
+- Originates from [[Biological Enhancement Procedures (D&D_References)]]
 - Parallels [[portrait-npc-the-emperor-v1-the-emperor.svg_1 (Portraits)
 - Parallels [Location City Port Meridian Harbor Port Meridian Harbor.svg]]
 - Affected by [[ENC00062_Combat_Encounter_63
@@ -219,8 +212,7 @@ Offers deal too good to refuse
 - Parallels [Difficulty Class Typical Dcs Xdmg]]
 - Originates from [[boon-of-truesight-xphb (feats)
 - Connects to [Location City the Plague Ward V1 the Plague Ward.svg]]
-- Leads to [[LOC00092_Planes_Location_93
-- Parallels [step_016 (phase_013)]]
+- Leads to [[LOC00092_Planes_Location_93]]
 - Influences
 - Affected by [[step_008 (phase_038)
 - Compare with [Location City Geometric Tidepools V1 Geometric Tidepools.svg]]
@@ -234,28 +226,21 @@ Offers deal too good to refuse
 - Leads to [Location City Keeper of Secrets Whisper Darkhold V1 Keeper of Secrets Whisper Darkhold.svg]]
 - Influences [[SPELL00046_Divine_Spell_47
 - Affected by [LOC00142_Dungeons_Location_143]]
-- Related: [[Military Architect Darius Swiftblade
-- Originates from [Sister Mourne 2]]
-- Affected by [[Quest - The Silent Majority
-- Requires [FAC00032_Guilds_33]]
-- Related: [[Technology Probability Monitors
-- Compare with [step_001 (phase_100)]]
+- Related: [[Military Architect Darius Swiftblade]]
+- Affected by [[Quest - The Silent Majority]]
+- Related: [[Technology Probability Monitors]]
 - Requires [[Assets Locations Location City the Iteration Collective V1 the Iteration Collective.svg
 - Influences [Create New Session]]
 - Requires [[QUEST00186_Main_Quest_187
 - Compare with [QUEST00291_Personal_Quest_292]]
-- Affected by [[Eldritch Blast
-- Requires [The Silhouette Surgeon Prime]]
+- Affected by [[The Silhouette Surgeon Prime]]
 - Related: [[SPELL00128_Arcane_Spell_129
 - See also: [ENC0089_Random_Encounter_90]]
-- Leads to [[Mediator's Pendant 2
-- Originates from [The Void Tears (D&D_References)]]
+- Leads to [[The Void Tears (D&D_References)]]
 - Compare with [[goliath-xphb (races)
 - Leads to [Wise Counselor Deep 2]]
-- See also: [[workshop
-- Requires [Nerissa Compassion]]
-- See also: [[Scrolls of the Primordial Depths
-- Connects to [Curse of Eternal Winter]]
+- See also: [[Nerissa Compassion]]
+- See also: [[Scrolls of the Primordial Depths]]
 - Originates from [[The Lady's Garden Society
 - Connects to [LORE00216_History_Entry_217]]
 - Connects to [[Location City Sky Trader Zephyr Windcatcher Sky Trader Zephyr Windcatcher.svg

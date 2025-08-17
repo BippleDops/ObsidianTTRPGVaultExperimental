@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "In the style of a detailed concept art, depict a heroic fantasy scene inspired by tabletop gaming, particularly Dungeons & Dragons, in a consistent painterly style. Showcase a griffin with muscular limbs within an environment that feels like a cross between the underwater world and the sky. Use a strict palette of teals, deep blues, and sea-greens with pearl highlights. The griffin should be amidst motion, with realistic aquatic features such as subsurface caustics and bioluminescent accents. Also included in the scene is a human silhouette providing scale. The scene should avoid any modern tech or signage, straying away from photographic realism, anime style, bloom glare, or sci-fi UIs. Ensure that the gear worn by the characters is not only grounded in medieval fantasy but also coherent with the culture of the world being portrayed.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-griffon-xmm-griffon-xmm.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-griffon-xmm-griffon-xmm.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:04:14.079Z",
+  "generationMethod": "ComfyUI"
 }

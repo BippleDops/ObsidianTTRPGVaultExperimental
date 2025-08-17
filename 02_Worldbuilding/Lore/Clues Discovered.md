@@ -108,4 +108,4 @@ Clues Discovered represents a crucial aspect of the world's history, cosmology, 
 
 ## References
 
-- [[Clues_Discovered (02_Worldbuilding)]]
+- [[02_Worldbuilding]]

@@ -169,8 +169,7 @@ Blackmails party into service
 
 - Influences [[Scene Scene Submarine Chase Through Kelp V1 Submarine Chase Through Kelp.svg
 - Leads to [Portrait NPC Throne of Bubbles Throne of Bubbles.svg_1 (Portraits)]]
-- Affected by [[The Philosophical Depths
-- Parallels [LOC0050_NorthVale]]
+- Affected by [[The Philosophical Depths]]
 - Originates from
 - Parallels [[Cleric Xphb Nature Domain
 - Affected by [Parliament Deep District]]
@@ -191,11 +190,8 @@ Blackmails party into service
 - Related: [Portrait NPC Deep Fortress Network V1 Deep Fortress Network.svg_1 (Portraits)]]
 - See also: [[Dark Gift of Shami Amourae the Lady of
 - Originates from [All-Seeing Mirrors]]
-- See also: [[step_089 (phase_075)
-- Affected by
-- Originates from [Portrait NPC Gall... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- Related: [[The Embassy Quarter (D&D_References)
-- Related: [relic-sloth-scc (beast)]]
+- See also: [[Portrait NPC Gall... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Related: [[The Embassy Quarter (D&D_References)]]
 - Parallels [[step_055 (phase_009)
 - Parallels [ITEM01330_Masterwork_Lantern_of_Quality]]
 - Leads to [[Portrait NPC Otherworldly Pacts V2 Otherworldly Pacts.svg_1 (Portraits)
@@ -203,27 +199,23 @@ Blackmails party into service
 - Parallels [Encounter_Scaling_Guide]]
 - Originates from [[Portrait NPC the Seven Seals V2 the Seven Seals.svg_1 (Portraits)
 - Related: [Assets Item Artifact Poisoners Kit Xphb V4 Poisoners Kit Xphb.png]]
-- Connects to [[Chancellor Marcus Provinces
-- Requires [step_033 (phase_096)]]
+- Connects to [[Chancellor Marcus Provinces]]
 - Parallels [[Aquabyssos_City_District_Map
 - Connects to
 - Requires [Feather Fall Xphb]]
-- See also: [[Voidmist Essence
-- Related: [Court Mage Tempest Shadowcryst]]
+- See also: [[Court Mage Tempest Shadowcryst]]
 - Compare with [[Ancient Crystal Mines
 - Affected by [The Shadowmere Territories]]
 - Related: [[Portrait NPC Captain Shadowsail V1 Captain Shadowsail.svg
 - See also: [step_096 (phase_091)]]
 - Affected by [[LOC0072_Watchdale
 - Influences [location]]
-- Compare with [[Safety Coordinator Time Guardian
-- Requires [step_008 (phase_009)]]
+- Compare with [[Safety Coordinator Time Guardian]]
 - Originates from [[Assets Locations Location City Professional Organizations V1 Professional Organizations.svg
 - Compare with [Location City Gravity Anomaly Mechanics Gravity Anomaly Mechanics.svg]]
 - Compare with [[ITEM01429_Ornate_Lantern_of_Convenience
 - Related: [LOC00160_Dungeons_Location_161]]
-- Connects to [[step_015 (phase_069)
-- Leads to [Memory Merchant Kellan Depthseer (D&D_References)]]
+- Connects to [[Memory Merchant Kellan Depthseer (D&D_References)]]
 - Connects to [[chamber-purpose-dungeon-lair (tables)
 - Parallels [Greek Hecate]]
 - Connects to
@@ -233,19 +225,14 @@ Blackmails party into service
 - Influences [step_013 (phase_074)]]
 - Affected by [[LOC00121_Dungeons_Location_122
 - Connects to [Assets Locations Location City Ironhold V1 Ironhold.svg]]
-- Related: [[step_024 (phase_010)
-- Compare with
-- Requires [Chorus Master Melodia Depthsong (D&D_References)]]
-- Related: [[Arcane Study
-- Requires
-- See also: [NPC00381_Jorah_Crystalbrook_the_Broken]]
+- Related: [[Chorus Master Melodia Depthsong (D&D_References)]]
+- Related: [[NPC00381_Jorah_Crystalbrook_the_Broken]]
 - Requires [[step_098 (phase_093)
 - Affected by [Scene Scene Merged Zone Reality Fracture V1 Merged Zone Reality Fracture.svg]]
 - Influences [[shield-of-far-sight-vgm (items)
 - Affected by [High Council]]
 - Compare with
-- Originates from [[Agricultural Provinces (D&D_References)
-- Requires [The Professional Guilds Council]]
+- Originates from [[Agricultural Provinces (D&D_References)]]
 - See also: [[step_060 (phase_043)
 - Parallels [02-chapter-1-playing-the-game#Monster Death]]
 - Leads to [[step_015 (phase_031)
@@ -254,15 +241,13 @@ Blackmails party into service
 - Leads to [Handout Handout Embassy Invitation V2 Embassy Invitation.png]]
 - Compare with [[Fiendish Cults Cult Hardship Mtf
 - See also: [step_095 (phase_091)]]
-- Originates from [[QUEST00087_Main_Quest_88
-- Related: [Shadow Embassy (D&D_References)]]
+- Originates from [[Shadow Embassy (D&D_References)]]
 - Connects to [[Freedrift Network (D&D_References)
 - See also: [List Spells Optional Features Misty Visions]]
 - Requires [[Portrait NPC Gareth Ironforge V2 Gareth Ironforge.svg_1 (Portraits)
 - Requires
 - See also: [Blink Xphb]]
-- Compare with [[NPC01251_Gavril_Ironforge_the_Scholar
-- Related: [M-008_Door_Opens_Elsewhere]]
+- Compare with [[NPC01251_Gavril_Ironforge_the_Scholar]]
 - Leads to [[Elder_Sky-Singer_Melody_Windvoice (02_Worldbuilding)
 - Connects to [Location City Supplier Erikson Tidecaller V1 Supplier Erikson Tidecaller.svg]]
 - Influences [[Portrait NPC Fence Queen Sticky Fingers Sal Fence Queen Sticky Fingers Sal.svg_1 (Portraits)

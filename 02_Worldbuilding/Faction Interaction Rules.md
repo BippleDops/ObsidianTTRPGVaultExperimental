@@ -65,5 +65,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Random Encounters
-- [Random Encounters (D&D_Statblocks)]]
+- [[Random Encounters (D&D_Statblocks)]]

@@ -25,5 +25,8 @@
   "alt_text": "Concept art of young-basilisk-oota with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-young-basilisk-oota-young-basilisk-oota.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-young-basilisk-oota-young-basilisk-oota.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:11:41.248Z",
+  "generationMethod": "ComfyUI"
 }

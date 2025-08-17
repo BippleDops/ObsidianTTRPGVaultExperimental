@@ -260,6 +260,5 @@ ___
 
 ## References
 
-- [[Campaign_Relationship_Matrix
-- [The King's Ears]]
+- [[Campaign_Relationship_Matrix]]
 - [[The King's Ears (D&D_References)]]

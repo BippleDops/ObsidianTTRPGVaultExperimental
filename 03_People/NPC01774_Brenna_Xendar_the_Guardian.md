@@ -184,8 +184,7 @@ Offers deal too good to refuse
 - Originates from [The Ready Current]]
 - See also: [[list-spells-classes-grave-domain-xge (lists)
 - Originates from [Circle of Mourners]]
-- Parallels [[NPC01194_Malakai_Blackstone_the_Broken
-- See also: [step_022 (phase_068)]]
+- Parallels [[NPC01194_Malakai_Blackstone_the_Broken]]
 - Leads to [[Bomb Xdmg
 - Influences [strixhaven-initiate-scc (feats)]]
 - Related: [[step_034 (phase_077)
@@ -194,63 +193,50 @@ Offers deal too good to refuse
 - Parallels [Embassy District (D&D_References)]]
 - Leads to [[list-spells-optional-features-mire-the-mind (lists)
 - Compare with [Location Index (D&D_References)]]
-- Parallels [[Warhorse Xmm
-- Requires [LOC00120_Towns_Location_121]]
+- Parallels [[LOC00120_Towns_Location_121]]
 - Related:
-- Affected by [[Norse Frigga
-- Leads to [Crystal Throne (D&D_References)]]
+- Affected by [[Crystal Throne (D&D_References)]]
 - Parallels [[Heartstone Mm
 - Leads to [ITEM00927_Refined_Elixir_of_Vigor]]
-- Influences [[Legal Scholar Professor Depth Lawkeeper
-- See also: [The Depth Compass (D&D_References)]]
+- Influences [[Legal Scholar Professor Depth Lawkeeper]]
 - Related: [[Intelligence Services 2 (People)
 - Parallels [Assets Locations Location City Silence Keeper Mute Silence Keeper Mute.svg]]
 - Related:
-- See also: [[Elf Sea Mtf
-- Requires [Tenebrarum Embassy (D&D_References)]]
+- See also: [[Tenebrarum Embassy (D&D_References)]]
 - Requires [[Location City the Slave Markets of Tethys V1 the Slave Markets of Tethys.svg
 - Influences [Location City Royal Palace of Meridian V1 Royal Palace of Meridian.svg]]
 - Compare with [[layers-of-the-beastlands-xdmg (tables)
 - Related: [wave-of-rolling-earth (optional-features)]]
-- Connects to [[Quality Monitor Surge Perfectionist
-- Originates from [step_085 (phase_043)]]
+- Connects to [[Quality Monitor Surge Perfectionist]]
 - Originates from [[devourer-mpmm (undead)
 - Requires [LOC0019_Groveshire]]
 - Influences [[LORE00058_Prophecies_Entry_59
 - Parallels [senses#Darkvision]]
-- Compare with [[LOC00162_Towns_Location_163
-- Leads to [DUN00175_Dungeon_176]]
-- Leads to [[Smuggler
-- Compare with [Queen Seraphina 3 (D&D_References)]]
+- Compare with [[LOC00162_Towns_Location_163]]
+- Leads to [[Queen Seraphina 3 (D&D_References)]]
 - Affected by [[blessing-of-valhalla-xdmg (rewards)
 - Originates from [The Diplomatic Quarter (D&D_References)]]
-- Compare with [[Foraging_Rules
-- Connects to [ENC00123_Combat_Encounter_124]]
+- Compare with [[ENC00123_Combat_Encounter_124]]
 - Affected by [[NPC01163_Aldric_Ironwood_the_Strong
 - Parallels
 - Parallels [location-city-depth-plague-depth-plague.svg]]
 - Parallels [[ITEM00836_Primordial_Orb_of_Eternity
 - Connects to [Duergar Raiding Parties 1 Mtf]]
-- Influences [[02_Worldbuilding
-- See also: [NPC00957_Malakai_Brightblade_the_Scholar]]
+- Influences [[NPC00957_Malakai_Brightblade_the_Scholar]]
 - Originates from [[The Tethyan Hegemony (Lore)
 - See also: [Location City the Diplomatic Quarter V1 the Diplomatic Quarter.svg]]
 - Requires [[Annis Hag Mpmm
 - Related: [Memory Thieves Guild]]
-- Originates from [[githzerai-zerth-xmm
-- Connects to [injuries]]
-- Related: [[Procedures Energy State Conversion
-- See also: [House Pressureborn 2]]
+- Originates from [[githzerai-zerth-xmm]]
+- Related: [[Procedures Energy State Conversion]]
 - Related: [[step_060 (phase_075)
 - Connects to [Advanced Ambush Tactics]]
 - Requires [[step_040 (phase_085)
 - Connects to [NPC00162_Xander_Thornweave]]
-- Leads to [[step_077 (phase_058)
-- Related: [The Coral Architecture Philosophy (D&D_References)]]
+- Leads to [[The Coral Architecture Philosophy (D&D_References)]]
 - Originates from [[step_086 (phase_010)
 - Originates from [Location City Magical Theory Schools Magical Theory Schools.svg]]
-- See also: [[step_063 (phase_083)
-- See also: [QUEST0089_Princess's_Request]]
+- See also: [[QUEST0089_Princess's_Request]]
 - Compare with [[Portrait NPC Surface Supremacists V2 Surface Supremacists.svg
 - Leads to [maelstrom-xge (spells)]]
 

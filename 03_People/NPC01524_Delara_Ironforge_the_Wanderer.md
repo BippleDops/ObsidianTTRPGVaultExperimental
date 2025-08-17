@@ -157,34 +157,27 @@ Needs help with personal quest
 
 - Connects to [[Assets Locations Location City Artistic Communities Artistic Communities.svg
 - Compare with [Combat_Basics]]
-- Requires [[Royal Crystal Laboratory (D&D_References)
-- Connects to [Greatsword Xphb]]
+- Requires [[Royal Crystal Laboratory (D&D_References)]]
 - See also: [[The Maritime Alliance (D&D_References)
 - Connects to [Assets Locations Location City Keeper of Crowns Lydia Starfall Keeper of Crowns Lydia Starfall.svg]]
-- Connects to [[Master Cloud Shepherd Zephyr Stormcalle (D&D_References)
-- Requires
-- Requires [Corruption Broker Silver Currentfloat]]
+- Connects to [[Master Cloud Shepherd Zephyr Stormcalle (D&D_References)]]
 - Related: [[wight-xmm (undead)
 - Requires [Belt of Frost Giant Strength Xdmg]]
-- Connects to [[Palace Security Chief
-- Related: [Portrait NPC Ques... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Connects to [[Portrait NPC Ques... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Affected by [[item-artifact-weird-tank-pota-weird-tank-pota.png
 - See also: [step_073 (phase_059)]]
-- Connects to [[Telekinetic Xphb
-- Requires [The Deepmind (D&D_Statblocks)]]
+- Connects to [[The Deepmind (D&D_Statblocks)]]
 - Requires [[Session 1 - Strange Tides Rising
 - Requires [Assets Handouts Handout Handout Noble Writ with Wax Seal V1 Noble Writ with Wax Seal.png]]
 - Related: [[buying-a-magic-item-magic-item-price-xge (tables)
 - See also: [Viscountess Helena Saltmere (D&D_References)]]
-- Leads to [[Tide-Speaker Nerida of House Abyssos (D&D_References)
-- Originates from [norse-thor (deities)]]
+- Leads to [[Tide-Speaker Nerida of House Abyssos (D&D_References)]]
 - Connects to [[LOC00061_Cities_Location_62
 - Compare with [LOC00234_Planes_Location_235]]
 - See also:
 - See also: [[The Deep Temple 2
 - Related: [Bugbear Stalker Xmm]]
-- Influences [[The Grand Trade Routes (D&D_References)
-- Originates from [Boon of Skill Xphb]]
+- Influences [[The Grand Trade Routes (D&D_References)]]
 - Compare with [[LORE00001_History_Entry_2
 - Compare with [Assets Locations Location City Temple District V1 Temple District.svg]]
 - Affected by [[Portrait NPC the Reality Sick Mayor Lord Quantum Aldrich V1 the Reality Sick Mayor Lord Quantum Aldrich.svg
@@ -204,14 +197,12 @@ Needs help with personal quest
 - Connects to [Location City Keeper Deepcurrent Keeper Deepcurrent.svg]]
 - Requires [[step_008 (phase_089)
 - Leads to [identify-important-npcs-adventure-allies (tables)]]
-- See also: [[Tarokka Deck Cos
-- Originates from [LOC00267_Wilderness_Location_268]]
+- See also: [[LOC00267_Wilderness_Location_268]]
 - Related: [[ITEM00323_Blazing_Spear_of_the_Ancients
 - See also: [Azer Sentinel Xmm]]
 - Influences [[Portrait NPC Emperor Thalassius the Wise V1 Emperor Thalassius the Wise.svg
 - Originates from [ITEM00894_Divine_Chalice_of_Truth]]
-- Compare with [[Bridge Currentcrosser
-- See also: [NPC01973_Faelyn_Keenblade_the_Scholar]]
+- Compare with [[NPC01973_Faelyn_Keenblade_the_Scholar]]
 - Parallels [[Symbol Heraldry the Contemplation Abyss the Contemplation Abyss.svg
 - Parallels [Assets Locations Location City Royal Advisor Wise Counselor V1 Royal Advisor Wise Counselor.svg]]
 - Compare with [[Charm of Animal Conjuring Xdmg
@@ -222,16 +213,13 @@ Needs help with personal quest
 - Affected by [Location Name 2 (Places)]]
 - Leads to
 - Requires
-- Parallels [[Quartermaster David Simpleton
-- Originates from [Investigation Procedures 3 (D&D_References)]]
-- Compare with [[Deep Watchfulrest (D&D_References)
-- Requires [strixhaven-initiate-scc (feats)]]
+- Parallels [[Investigation Procedures 3 (D&D_References)]]
+- Compare with [[Deep Watchfulrest (D&D_References)]]
 - Parallels [[step_093 (phase_080)
 - Parallels [Sundered Steel]]
 - Connects to [[MON0035_Storm_Guardian
 - Related: [Assets Handouts Handout Handout Love Letter with Hidden Message V2 Love Letter with Hidden Message.png]]
-- Leads to [[Sage Iris Crystalbloom 2
-- Leads to [Festival Grounds - Underground]]
+- Leads to [[Festival Grounds - Underground]]
 - Originates from [[step_055 (phase_042)
 - Influences [Quest - Medical Conspiracy]]
 - Compare with [[step_006 (phase_056)
@@ -240,8 +228,7 @@ Needs help with personal quest
 - Leads to
 - Parallels [SHOP00032_General_Shop_33]]
 - See also:
-- See also: [[Medical Cover Operations Center 2
-- See also: [Captain Reef Shadowstrike]]
+- See also: [[Medical Cover Operations Center 2]]
 - Parallels
 - Influences
 - Influences [[ITEM00915_Greater_Powder_of_Swiftness
@@ -250,8 +237,7 @@ Needs help with personal quest
 - Affected by [Blue Spinel Xdmg]]
 - Parallels [[immovable-rod-xdmg (items)
 - Parallels [Depth Sickness Mechanics]]
-- Affected by [[FAC00008_Cults_9
-- Compare with [player-character-xphb (variant-rules)]]
+- Affected by [[player-character-xphb (variant-rules)]]
 - Requires [[FAC00086_Cults_87
 - Requires [QUEST00000_Personal_Quest_1]]
 - Affected by [[step_040 (phase_072)

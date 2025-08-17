@@ -52,8 +52,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [Aethermoor_Session_01 (D&D_References)]]
-- [[Aethermoor_Session_10 (D&D_References)
-- [Aquabyssos_Session_01 (D&D_References)]]
-- [[Aquabyssos_Session_10 (D&D_References)
-- [Player Portal]]
+- [[Aethermoor_Session_10 (D&D_References)]]
+- [[Aquabyssos_Session_10 (D&D_References)]]
 - [[Sessions Session Packet Template]]

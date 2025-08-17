@@ -204,14 +204,10 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [Empress Tethys the Ever-Drowning (D&D_References)]]
 - Influences [[location-city-sage-nereon-v1-sage-nereon.svg
 - Leads to [step_091 (phase_073)]]
-- Parallels [[QUEST00153_Main_Quest_154
-- Connects to [Witness Reports 2]]
-- Originates from [[The Temple of First Tide (D&D_References)
-- Requires [step_026 (phase_045)]]
-- Related: [[Reality Maintenance Department
-- Leads to [Corruption Gardens]]
-- Originates from [[Shadow Information Brokers (D&D_References)
-- Parallels [LOC00219_Towns_Location_220]]
+- Parallels [[QUEST00153_Main_Quest_154]]
+- Originates from [[The Temple of First Tide (D&D_References)]]
+- Related: [[Reality Maintenance Department]]
+- Originates from [[Shadow Information Brokers (D&D_References)]]
 - Connects to [[SPELL00075_Divine_Spell_76
 - Compare with [Thermal Vent Fields]]
 - Affected by [[Location City Cora Peaceweaver Cora Peaceweaver.svg
@@ -228,10 +224,8 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [step_076 (phase_087)]]
 - Originates from [[step_090 (phase_087)
 - Originates from [LOC0095_LowerGrove]]
-- Influences [[NPC01098_Erasmus_Goldleaf_the_Fallen
-- Parallels [step_068 (phase_096)]]
-- Requires [[Memory_Keepers
-- Leads to [Kelp Forest Monasteries (D&D_References)]]
+- Influences [[NPC01098_Erasmus_Goldleaf_the_Fallen]]
+- Requires [[Kelp Forest Monasteries (D&D_References)]]
 - Leads to [[step_059 (phase_086)
 - Affected by [step_021 (phase_049)]]
 - Leads to [[Kelp Extraction Tools
@@ -262,34 +256,28 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [Corrupt Officials]]
 - Originates from [[greyhawk-iuz-xdmg (deities)
 - Leads to [NPC00224_Dara_Jadeclaw]]
-- Affected by [[ENC00132_Social_Encounter_133
-- See also: [step_032 (phase_060)]]
+- Affected by [[ENC00132_Social_Encounter_133]]
 - Influences [[Magic Item Special Features Magic History Xdmg
 - Related: [Portrait NPC Free Current Safe Houses V1 Free Current Safe Houses.svg_1 (Portraits)]]
 - Parallels [[Archmage Velina Duskweaver
 - Influences [longsword-xphb (items)]]
 - Leads to [[step_064 (phase_066)
 - Leads to [Location City the Grove Keepers the Grove Keepers.svg]]
-- Affected by [[ENC00290_Social_Encounter_291
-- Requires [hourglass]]
+- Affected by [[ENC00290_Social_Encounter_291]]
 - Related: [[step_087 (phase_044)
 - Requires [ENC00006_Combat_Encounter_7]]
 - Parallels [[Bountiful Luck Xge
 - Influences [investiture-of-ice-xge (spells)]]
-- Compare with [[Portrait NPC Duke... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Parallels [Festival Grounds]]
+- Compare with [[Portrait NPC Duke... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Originates from [[QUEST00383_Side_Quest_384
 - Connects to [step_041 (phase_029)]]
 - Connects to [[Void Breaker Staffs (Items)
 - Affected by [step_021 (phase_095)]]
-- Related: [[step_084 (phase_050)
-- Originates from [Shadow Citizenship Act (D&D_References)]]
-- Connects to [[step_087 (phase_015)
-- See also: [The Merchant's Covenant (D&D_References)]]
+- Related: [[Shadow Citizenship Act (D&D_References)]]
+- Connects to [[The Merchant's Covenant (D&D_References)]]
 - Influences [[step_097 (phase_075)
 - Leads to [Ancient Empire]]
-- Requires [[NPC01896_Qadim_Blackstone_the_Wise
-- Compare with [step_085 (phase_043)]]
+- Requires [[NPC01896_Qadim_Blackstone_the_Wise]]
 - Related: [[ITEM00502_Enchanted_Gauntlets_of_Protection
 - Affected by
 - Influences [Knight of the Order Cos]]
@@ -297,10 +285,8 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [step_005 (phase_083)]]
 - Originates from [[step_084 (phase_090)
 - Parallels [Location City Transportation Guild Masters V1 Transportation Guild Masters.svg]]
-- Influences [[adventure-patrons-patron-hooks-xdmg (tables)
-- Compare with [Portrait NPC Fina... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
-- Requires [[M L-07 the Anchor Cataclysm Player
-- See also: [Thunderous Smite Xphb]]
+- Influences [[Portrait NPC Fina... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Requires [[M L-07 the Anchor Cataclysm Player]]
 
 ## Visual References
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png

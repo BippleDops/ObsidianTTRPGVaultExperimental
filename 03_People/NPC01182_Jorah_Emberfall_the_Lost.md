@@ -171,27 +171,21 @@ Seeks rare merchandise
 - Related: [Dwarven Vergadain Mtf]]
 - Compare with [[ITEM00330_Cursed_Spear_of_Speed
 - Compare with [ITEM00060_Radiant_Hammer_of_Power]]
-- Requires [[The Cleaner
-- See also: [The Memory Garden 2]]
+- Requires [[The Memory Garden 2]]
 - Affected by [[Portrait NPC Intelligence Services V1 Intelligence Services.svg
 - See also: [step_051 (phase_092)]]
 - Leads to [[Meazel Mpmm
 - See also: [fog-cloud-xphb (spells)]]
 - Leads to [[Assets Locations Location City the Lock the Lock.svg
 - Connects to [Wave Xdmg]]
-- See also: [[Marcus Goldlea (D&D_References)
-- Compare with [Underground River Systems (D&D_References)]]
-- Related: [[step_049 (phase_005)
-- Parallels [The Forgetting Cult (Cults_and_Movements)]]
+- See also: [[Underground River Systems (D&D_References)]]
+- Related: [[The Forgetting Cult (Cults_and_Movements)]]
 - Influences [[Item Artifact Dagger of Venom Xdmg V1 Dagger of Venom Xdmg.png
 - Originates from [Senator's Widow Marcella (D&D_References)]]
 - See also:
-- Influences [[Shadow Admiral Vex (D&D_References)
-- Compare with [step_013 (phase_049)]]
-- See also: [[Medical Cover Operations Center
-- Influences [Symbol Heraldry Fre... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- Leads to [[step_071 (phase_089)
-- Requires [SPELL00164_Arcane_Spell_165]]
+- Influences [[Shadow Admiral Vex (D&D_References)]]
+- See also: [[Symbol Heraldry Fre... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Leads to [[SPELL00164_Arcane_Spell_165]]
 - Compare with [[Elder Sky-Singer Melody Windvoice
 - Leads to [halfling-names-male-xge (tables)]]
 - Connects to [[ITEM00022_Thunder_Staff_of_Slaying
@@ -246,14 +240,12 @@ Seeks rare merchandise
 - Requires [human-names-french-male-xge (tables)]]
 - See also: [[The First Water
 - Connects to [ITEM01274_Distilled_Herb_of_Vigor]]
-- Affected by [[Underground Railroad Leader 2
-- Affected by [step_062 (phase_089)]]
+- Affected by [[Underground Railroad Leader 2]]
 - Parallels [[Security Chief Marcus Ironbrand
 - Connects to [List Spells Rewards Boon of the Fire Soul]]
 - See also: [[Optional Rule Abyssal Corruption Abyssal Corruption
 - Influences [QUEST00295_Side_Quest_296]]
-- Requires [[Professor Darklight 2
-- Requires [NPC00299_Aeliana_Keenblade_the_Bold]]
+- Requires [[NPC00299_Aeliana_Keenblade_the_Bold]]
 - Influences [[step_038 (phase_004)
 
 ## Visual References

@@ -1,7 +1,6 @@
 ---
 
-title: [[Oracle Temporal Wisdom
-type: [Lore]]
+title: [[Oracle Temporal Wisdom]]
 tags:
 - lore
 - worldbuilding

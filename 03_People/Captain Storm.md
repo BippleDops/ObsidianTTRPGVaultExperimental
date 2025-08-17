@@ -108,8 +108,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Compare with [string-xphb (items)]]
 - Compare with [[step_025 (phase_041)
 - See also: [Tethyan Maritime Code]]
-- Related: [[LOC00285_Towns_Location_286
-- Parallels [The Identity Chamber (D&D_References)]]
+- Related: [[The Identity Chamber (D&D_References)]]
 - Leads to [[step_065 (phase_018)
 - Compare with [step_087 (phase_044)]]
 - Affected by [[Location City Culinary Dreamweaver Sage Gentlespice Culinary Dreamweaver Sage Gentlespice.svg
@@ -145,16 +144,14 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - See also: [actions#Ready]]
 - Parallels [[Healer Sage Lightbringer
 - Requires [Assets Symbols Symbol Heraldry the Code Wars the Code Wars.svg]]
-- Connects to [[The Guild of Reef Builders
-- Compare with [Battle Priest Cassius Depthshield (D&D_References)]]
+- Connects to [[Battle Priest Cassius Depthshield (D&D_References)]]
 - Affected by [[Assets Locations Location City Tidal Runner Nerissa V1 Tidal Runner Nerissa.svg
 - Requires [Claws of the Umber Hulk Pota]]
 - Requires [[step_008 (phase_004)
 - Parallels [Assets Locations Location City Grief Overwhelming Syndrome Grief Overwhelming Syndrome.svg]]
 - See also: [[Creature Creature Elemental Spirit Air Xphb V4 Elemental Spirit Air Xphb.png
 - Requires [step_079 (phase_077)]]
-- Affected by [[platinum-pp (items)
-- Related: [NPC00360_Drusilla_Hawthorne]]
+- Affected by [[NPC00360_Drusilla_Hawthorne]]
 - Connects to [[The Depth Market
 - Connects to [Assets Locations Location City Pressure Engineers Pressure Engineers.svg]]
 - See also: [[Portrait NPC Corrupted Clients V1 Corrupted Clients.svg
@@ -172,8 +169,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Affected by [[step_015 (phase_046)
 - Originates from
 - Influences [NPC01213_Drusilla_Underhill_the_Scholar]]
-- See also: [[Unite_or_Divide.png
-- Compare with [NPC00684_Erasmus_Frostwhisper_the_Redeemed]]
+- See also: [[NPC00684_Erasmus_Frostwhisper_the_Redeemed]]
 - Influences [[Location City Ancient Echo Truthfinder V1 Ancient Echo Truthfinder.svg
 - Related: [step_038 (phase_040)]]
 - Requires
@@ -199,6 +195,5 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Requires [ram-xdmg (objects)]]
 - See also: [[step_049 (phase_015)
 - Originates from [04_Resources_Assets_Locations_location-city-merchant-lord-silas-copperfield-v1-merchant-lord-silas-copperfield.svg]]
-- Connects to [[ENC0004_Random_Encounter_5
-- Compare with [Chief Marine Engineer Coral Seaforge]]
+- Connects to [[Chief Marine Engineer Coral Seaforge]]
 - Originates from [[LOC00032_Dungeons_Location_33]]

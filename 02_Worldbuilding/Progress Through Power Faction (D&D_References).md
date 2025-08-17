@@ -42,11 +42,8 @@ danger_level: Moderate
 
 - An heirloom has gone missing and war looms
 - A shipment has gone missing and truth emerges
-- A shipment has gone missing and evil awakens ## Related Notes - [[Similar Topic 1
-
-- [Contrasting Approach]]
-- [[Advanced Version
-- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
+- A shipment has gone missing and evil awakens ## Related Notes - [[Contrasting Approach]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

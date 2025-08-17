@@ -1,7 +1,6 @@
 ---
 
-title: Cosmology the [[Multiverse
-type: [Lore]]
+title: Cosmology the [[Multiverse]]
 tags:
 - lore
 - active

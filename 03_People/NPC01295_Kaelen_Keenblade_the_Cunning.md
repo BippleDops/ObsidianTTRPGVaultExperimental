@@ -173,10 +173,8 @@ Knows secret about major threat
 - See also: [[nonhuman-deep-sashelas (deities)
 - Related: [LORE00154_Prophecies_Entry_155]]
 - Requires
-- Parallels [[Patrol Boundaryrider 2
-- See also: [The Community Awakening (D&D_References)]]
-- Connects to [[step_070 (phase_071)
-- Requires [The Ghostly Librarians (D&D_References)]]
+- Parallels [[The Community Awakening (D&D_References)]]
+- Connects to [[The Ghostly Librarians (D&D_References)]]
 - Requires [[The Crimson Fleet.md
 - See also:
 - Connects to [International Pressur]]
@@ -191,14 +189,12 @@ Knows secret about major threat
 - Originates from [Reality Anchor Smith]]
 - Affected by [[sledgehammer
 - Requires [step_002 (phase_078)]]
-- Connects to [[Surface Liaison Captain Reed Bridgewater (D&D_References)
-- Originates from [werebear-xmm (monstrosity)]]
+- Connects to [[Surface Liaison Captain Reed Bridgewater (D&D_References)]]
 - Influences [[Prismatic Plankton 2
 - Originates from [step_002 (phase_093)]]
 - Requires [[Location City Port Shadowmere V1 Port Shadowmere.svg
 - Related: [Location City Harbor District Customs House V1 Harbor District Customs House.svg]]
-- Originates from [[step_010 (phase_089)
-- Compare with [Master of the Gallery Cornelius Publicvoice]]
+- Originates from [[Master of the Gallery Cornelius Publicvoice]]
 - Influences [[QUEST00462_Side_Quest_463
 - Connects to [LOC00161_Towns_Location_162]]
 - Parallels [[Behir Xmm
@@ -210,36 +206,27 @@ Knows secret about major threat
 - Connects to [LORE00294_Legends_Entry_295]]
 - Parallels [[QUEST00456_Side_Quest_457
 - Originates from [Harbor Facilities 2]]
-- Affected by [[Alpha Leader Marina Depthstrike (D&D_References)
-- Related: [Ironhold Doc]]
-- Parallels [[The Citadel of Depths (D&D_References)
-- Related: [FAC00073_Cults_74]]
+- Affected by [[Alpha Leader Marina Depthstrike (D&D_References)]]
+- Parallels [[The Citadel of Depths (D&D_References)]]
 - Connects to [[giant-insect-centipede-xphb (beast)
 - Parallels [Location City Void Prophet Nullus the Erased V1 Void Prophet Nullus the Erased.svg]]
 - Influences [[Abyssal Secrets
 - Related: [Physical Characteristics Beholder Iris Shape]]
 - Compare with [[Location City the Silent Watcher V1 the Silent Watcher.svg
 - See also: [step_071 (phase_028)]]
-- Connects to [[step_024 (phase_070)
-- See also: [The Green Death (D&D_Statblocks)]]
-- Originates from [[Cross-Realm Navigation Cooperation 2
-- Requires [VAULT_OPTIMIZATION_COMPLETE]]
+- Connects to [[The Green Death (D&D_Statblocks)]]
+- Originates from [[Cross-Realm Navigation Cooperation 2]]
 - Parallels [[step_008 (phase_016)
 - Requires [LOC00001_Towns_Location_2]]
-- Related: [[Complete Reality Merger System (D&D_References)
-- Originates from
-- Leads to [Animations - Motion_Specs]]
-- Leads to [[Symbol Heraldry Liv... Related To: Local Political Structure Connected Plots: to Be Developed
-- Parallels
-- Connects to [Harbormaster Creedence Tidereader]]
+- Related: [[Complete Reality Merger System (D&D_References)]]
+- Leads to [[Symbol Heraldry Liv... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Related: [[step_026 (phase_004)
 - Parallels [step_025 (phase_083)]]
 - Related: [[Location City Memory Preservation Technology V1 Memory Preservation Technology.svg
 - Affected by [step_006 (phase_028)]]
 - Originates from [[Animations_Gallery (Galleries)
 - Affected by [Amulet of Proof Against Detection and]]
-- Related: [[Merchant Prince Aurelius Goldhand
-- See also: [step_029 (phase_016)]]
+- Related: [[Merchant Prince Aurelius Goldhand]]
 - Parallels [[psychic-gray-ooze-xmm (ooze)
 - Compare with [step_014 (phase_010)]]
 - Leads to [[Portrait NPC Emperor Thalassius the Wise V1 Emperor Thalassius the Wise.svg_1 (Portraits)
@@ -249,14 +236,11 @@ Knows secret about major threat
 - Connects to [observatory-charm-xdmg (rewards)]]
 - Affected by [[strixhaven-mascot-scc (feats)
 - Influences [step_062 (phase_034)]]
-- Leads to [[Complete Temporal Mechanics System
-- Leads to [Otherworldly Patron (D&D_References)]]
-- Originates from [[yuan-ti-nightmare-speaker-mpmm
-- Related: [step_049 (phase_025)]]
+- Leads to [[Otherworldly Patron (D&D_References)]]
+- Originates from [[yuan-ti-nightmare-speaker-mpmm]]
 - Affected by [[04_Resources_Assets_Portraits_portrait-npc-director-of-experimental-procedures-dr-siren-voidtouch-director-of-experimental-procedures-dr-siren-voidtouch.svg_Quick_Ref
 - Requires [The Midnight Trench]]
-- Parallels [[NPC00309_Lyanna_Xendar_the_Cunning
-- Influences [NPC0122_Cedric_Darkwater]]
+- Parallels [[NPC00309_Lyanna_Xendar_the_Cunning]]
 - Related: [[location-city-port-quarter-port-quarter.svg
 - Leads to [Resonance Chamber 2]]
 - Requires

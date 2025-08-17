@@ -4,8 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: The [Crystal Conservatory]]
+- [[Crystal Conservatory]]
 type: lore
 updated: 2025-08-14
 ---
@@ -51,6 +50,5 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Goldwave Manor
-- [Goldwave Manor (D&D_References)]]
+- [[Goldwave Manor (D&D_References)]]
 - [[Goldwave Manor 3 (D&D_References)]]

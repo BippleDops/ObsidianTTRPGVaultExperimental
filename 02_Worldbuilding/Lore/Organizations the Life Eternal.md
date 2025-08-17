@@ -1,6 +1,6 @@
 ---
 
-title: [[Organizations [The Life Eternal]]
+title: [[The Life Eternal]]
 type: [[Lore
 tags:
 - lore

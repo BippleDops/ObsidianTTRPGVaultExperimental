@@ -164,11 +164,8 @@ Seeks rare merchandise
 - Affected by [Map Map Aethermoor Harbor Skirmish V1 Aethermoor Harbor Skirmish.png]]
 - See also: [[Portrait NPC Quest the Void Conspiracy V1 Quest the Void Conspiracy.png
 - Parallels [Session Planning Workflow]]
-- Parallels [[Coral Throne Syndicate (D&D_References)
-- Influences [LOC00204_Wilderness_Location_205]]
-- Leads to [[Aethermoor to Aquabyssos Transition Guide
-- Affected by
-- Connects to [Dragonlance Majere Phb]]
+- Parallels [[Coral Throne Syndicate (D&D_References)]]
+- Leads to [[Aethermoor to Aquabyssos Transition Guide]]
 - Connects to [[Sergeant Crystal-Heart Elena
 - See also: [Deities of Dragonlance Good Phb]]
 - Compare with [[Inter-Realm Political Institutions
@@ -179,14 +176,11 @@ Seeks rare merchandise
 - Leads to [step_075 (phase_041)]]
 - Connects to [[LOC00290_Cities_Location_291
 - Parallels [Currency_Guide_Scrip_and_Shard]]
-- Influences [[The Deep Mother's Temple
-- Requires
-- See also: [Infected Experiments (D&D_References)]]
+- Influences [[Infected Experiments (D&D_References)]]
 - Connects to [[ITEM00565_Enchanted_Chain_Mail_of_Fortitude
 - Connects to
 - Parallels [ITEM01117_Pure_Powder_of_Vigor]]
-- See also: [[The Lighthouse Keepers (D&D_References)
-- Parallels [magic-item-rarity (tables)]]
+- See also: [[The Lighthouse Keepers (D&D_References)]]
 - Leads to [[step_027 (phase_015)
 - Affected by [Void Sanctum]]
 - Influences [[ITEM00033_Radiant_Hammer_of_Power
@@ -207,15 +201,11 @@ Seeks rare merchandise
 - Affected by [Symbol Heraldry the Umbral Exchange the Umbral Exchange.svg]]
 - Requires [[Player Characters as Vampires Mm
 - Leads to [Location City Banker Cornelius Goldflow Banker Cornelius Goldflow.svg]]
-- Related: [[Downtime Activity Research Xge
-- Influences [FAC00034_Guilds_35]]
+- Related: [[Downtime Activity Research Xge]]
 - Influences [[step_096 (phase_019)
 - Parallels [Void Contamination]]
-- Affected by [[LOC00226_Cities_Location_227
-- Requires [equipment-sizes-phb (variant-rules)]]
-- Influences [[FAC00063_Cults_64
-- Affected by
-- Leads to [NPC00508_Alaric_Nightfall_the_Guardian]]
+- Affected by [[equipment-sizes-phb (variant-rules)]]
+- Influences [[NPC00508_Alaric_Nightfall_the_Guardian]]
 - Originates from [[Marina Bridgewater (D&D_References)
 - Requires [Assets Symbols Symbol Heraldry Master Chen Wei Master Chen Wei.png]]
 - Influences [[EVENT00036_Political_Event_37
@@ -223,8 +213,7 @@ Seeks rare merchandise
 - See also: [The Shattering of the Crown]]
 - Parallels
 - See also:
-- Originates from [[Police Chief Sarah Lawkeeper (D&D_References)
-- Parallels [step_019 (phase_010)]]
+- Originates from [[Police Chief Sarah Lawkeeper (D&D_References)]]
 - Compare with [[treasure-hoard-challenge-17
 - Parallels [QUEST00269_Personal_Quest_270]]
 - Affected by [[step_064 (phase_040)
@@ -232,30 +221,26 @@ Seeks rare merchandise
 - Influences
 - Affected by [[NPC Directory.base (People)
 - Parallels [LOC00031_Planes_Location_32]]
-- Parallels [[LOC00115_Wilderness_Location_116
-- Originates from [step_053 (phase_021)]]
+- Parallels [[LOC00115_Wilderness_Location_116]]
 - Compare with [[NPC_Generator
 - Affected by [Gastn Flambheart]]
 - Affected by [[Assets Handouts Handout Handout Smuggler Ledger Page V2 Smuggler Ledger Page.png
 - Affected by [ENC00435_Combat_Encounter_436]]
 - Leads to [[step_028 (phase_098)
 - Related: [VAULT_COMPLETION_STATUS]]
-- Affected by [[Services Void Incursion Risk Assessment
-- Leads to [step_089 (phase_042)]]
+- Affected by [[Services Void Incursion Risk Assessment]]
 - See also: [[location-city-vote-vaults-vote-vaults.svg
 - Leads to [#Spell Book]]
 - Related: [[ENC00049_Social_Encounter_50
 - Compare with [Session 23 (06_Sessions)]]
 - Requires [[Roleplaying a Hag Hag Personality Traits Vgm
 - See also: [The Storm Callers 2]]
-- Affected by [[Scrap & Salvage (D&D_References)
-- Influences [ENC0004_Random_Encounter_5]]
+- Affected by [[Scrap & Salvage (D&D_References)]]
 - Originates from [[Portrait NPC Intelligence Services V1 Intelligence Services.svg_1 (Portraits)
 - Related: [SPELL00154_Divine_Spell_155]]
 - Affected by [[Assets Locations Location City Memory Coral Reefs V1 Memory Coral Reefs.svg
 - See also: [Carrion Crawler Mucus Xdmg]]
-- Originates from [[Senator's Private Chambers (D&D_Statblocks)
-- Influences [List Spells Classes Path of the Wild Heart]]
+- Originates from [[Senator's Private Chambers (D&D_Statblocks)]]
 - See also: [[ITEM00560_Fortified_Shield_of_Protection
 - Originates from [Assets Handouts Handout Handout Merchant Contract with Fine Print V3 Merchant Contract with Fine Print.png]]
 

@@ -165,8 +165,7 @@ Being extorted by criminals
 
 ## Connections
 
-- See also: [[LOC00153_Wilderness_Location_154
-- Affected by [LOC0095_LowerGrove]]
+- See also: [[LOC00153_Wilderness_Location_154]]
 - Parallels [[ITEM01012_Superior_Powder_of_Swiftness
 - Affected by [EVENT00049_Magical_Event_50]]
 - Compare with [[Yeth Hound Mpmm
@@ -192,27 +191,22 @@ Being extorted by criminals
 - Compare with [[LORE0079_Secret_of_the_Ancient_Pact
 - Related:
 - Affected by [step_087 (phase_015)]]
-- Related: [[Memory Farmers (D&D_References)
-- Influences [Guildmaster Harwick (D&D_References)]]
+- Related: [[Guildmaster Harwick (D&D_References)]]
 - See also: [[buying-a-magic-item-magic-item-price-xge (tables)
 - See also: [Phenomena Shadow Crystal Interactions]]
 - Connects to [[What You Know - Abyssos Prime.md
 - Leads to [step_065 (phase_084)]]
 - Affected by [[step_098 (phase_085)
 - Parallels [Creature Creature Ancient Brass Dragon Xmm Ancient Brass Dragon Xmm.png]]
-- Originates from [[Spell_Casting
-- Requires [QUEST00141_Personal_Quest_142]]
+- Originates from [[QUEST00141_Personal_Quest_142]]
 - Leads to [[ENC00111_Combat_Encounter_112
 - Requires [ITEM00952_Greater_Crystal_of_Swiftness]]
 - Compare with [[Rest_Mechanics
 - Influences [step_039 (phase_046)]]
-- Requires [[Chief Medic Coral Battlehealer (D&D_References)
-- Leads to [Shadow Information Brokers]]
-- Leads to [[LOC00016_Dungeons_Location_17
-- Requires [Pier 8 (D&D_References)]]
+- Requires [[Chief Medic Coral Battlehealer (D&D_References)]]
+- Leads to [[LOC00016_Dungeons_Location_17]]
 - Related:
-- Leads to [[Gnome Tables Gnome Flaws Mtf
-- Influences [Captain Storm Ambushmaster (D&D_References)]]
+- Leads to [[Captain Storm Ambushmaster (D&D_References)]]
 - See also: [[giant-centipede-xmm (beast)
 - Affected by [step_020 (phase_037)]]
 - Connects to [[ITEM01360_Masterwork_Map_Case_of_Reliability
@@ -221,17 +215,14 @@ Being extorted by criminals
 - Parallels [Screaming Gardens - Songwood Grove 2]]
 - Compare with [[LOC00109_Dungeons_Location_110
 - Requires [Sacred Grottos (D&D_References)]]
-- Connects to [[Royal Doubles
-- Leads to [Lady Vivienne the Unfrozen]]
+- Connects to [[Lady Vivienne the Unfrozen]]
 - Related:
 - Related: [[Sharpshooter Xphb
 - Leads to [Gideon Quickstep]]
-- Requires [[Cliffhangers
-- Influences [Reflection Pools (D&D_References)]]
+- Requires [[Reflection Pools (D&D_References)]]
 - Parallels [[Location City Property Markets V1 Property Markets.svg
 - Connects to [copper-dragon-scale-mail-xdmg (items)]]
-- Requires [[NPC01507_Branwen_Goldleaf_the_Swift
-- Connects to [step_018 (phase_021)]]
+- Requires [[NPC01507_Branwen_Goldleaf_the_Swift]]
 - See also:
 - Parallels
 - Compare with [[Compass Quest (D&D_References)
@@ -244,8 +235,7 @@ Being extorted by criminals
 - Requires [LORE00239_Legends_Entry_240]]
 - Originates from [[step_031 (phase_074)
 - Requires [step_044 (phase_076)]]
-- Parallels [[NPC01007_Dara_Frostwhisper_the_Wanderer
-- See also: [blink-xphb (spells)]]
+- Parallels [[NPC01007_Dara_Frostwhisper_the_Wanderer]]
 - Leads to [[Basalt Depthwright (D&D_References)
 - Parallels
 - Leads to [Location City Deep Harbor Technology Deep Harbor Technology.svg]]
@@ -255,8 +245,7 @@ Being extorted by criminals
 - Influences [Portrait NPC Memory Harvester Kythara V1 Memory Harvester Kythara.svg_1 (Portraits)]]
 - Parallels [[step_096 (phase_072)
 - Originates from [ice-toad-rot (monstrosity)]]
-- Related: [[step_072 (phase_025)
-- Parallels [LOC00123_Cities_Location_124]]
+- Related: [[LOC00123_Cities_Location_124]]
 - Affected by [[Thieves Guild (Guilds)
 - Originates from [The Reef Communities 2]]
 - Requires

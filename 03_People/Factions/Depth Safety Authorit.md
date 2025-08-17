@@ -163,5 +163,4 @@ Things widely suspected
 
 ## References
 
-- [[Depth Effect Quick Reference
-- [Depth Effect Quick Reference (D&D_References)]]
+- [[Depth Effect Quick Reference (D&D_References)]]

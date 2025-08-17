@@ -154,8 +154,7 @@ Being extorted by criminals
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -176,10 +175,8 @@ Being extorted by criminals
 - Related: [Assets Locations Location City Current Riders Guild V1 Current Riders Guild.svg]]
 - Related: [[The_Sacred_Convergence_Plaza (02_Worldbuilding)
 - Related: [Portrait NPC Deep Priest Covenant Deep Priest Covenant.svg]]
-- Connects to [[step_037 (phase_031)
-- Compare with [LOC00074_Dungeons_Location_75]]
-- Parallels [[Memory Depths (D&D_References)
-- Related: [White Abishai Mpmm]]
+- Connects to [[LOC00074_Dungeons_Location_75]]
+- Parallels [[Memory Depths (D&D_References)]]
 - Connects to [[elven-darahl-tilvenar-mtf (deities)
 - Compare with [step_010 (phase_098)]]
 - Originates from [[FAC00037_Orders_38
@@ -199,26 +196,21 @@ Being extorted by criminals
 - Requires [SPELL00054_Nature_Spell_55]]
 - Connects to [[Assets Locations Location City Reality Stabilization Centers Reality Stabilization Centers.svg
 - Connects to [yuan-ti-malison-type-3-xmm]]
-- Influences [[Midnight Trenches 3 (D&D_References)
-- Leads to [The Anchor of Being]]
+- Influences [[Midnight Trenches 3 (D&D_References)]]
 - Parallels [[Assets Locations Location City Sorceress Luna Prismatic Sorceress Luna Prismatic.svg
 - Leads to [Bountiful Luck Xge]]
-- Requires [[step_021 (phase_024)
-- Leads to [QUEST00243_Personal_Quest_244]]
+- Requires [[QUEST00243_Personal_Quest_244]]
 - Leads to [[Surface Tensions (D&D_References)
 - Parallels [Session Management Plot Threads]]
-- Compare with [[Goldspire Expeditio (D&D_References)
-- Parallels [step_076 (phase_061)]]
+- Compare with [[Goldspire Expeditio (D&D_References)]]
 - See also: [[SPELL00166_Nature_Spell_167
 - Affected by [LOC00028_Cities_Location_29]]
 - Influences [[list-spells-backgrounds-quandrix-student-scc (lists)
 - Requires [Crystalhaven]]
-- Leads to [[step_025 (phase_082)
-- See also: [ENC00073_Social_Encounter_74]]
+- Leads to [[ENC00073_Social_Encounter_74]]
 - Related: [[step_068 (phase_074)
 - Compare with [step_005 (phase_074)]]
-- Parallels [[Midas Goldcurrent
-- Requires [Surface Portal Alpha (D&D_References)]]
+- Parallels [[Surface Portal Alpha (D&D_References)]]
 - Originates from [[step_064 (phase_068)
 - Originates from [step_037 (phase_067)]]
 - Related: [[LOC00295_Towns_Location_296
@@ -229,21 +221,17 @@ Being extorted by criminals
 - Leads to [LOC00027_Wilderness_Location_28]]
 - Affected by [[step_061 (phase_056)
 - See also: [The Silent Rescue]]
-- Connects to [[Captain Twin-Reality Marsh (D&D_References)
-- Influences [QUEST00101_Personal_Quest_102]]
+- Connects to [[Captain Twin-Reality Marsh (D&D_References)]]
 - Compare with [[The Last Seeds
 - Requires [Location City University System V1 University System.svg]]
-- Leads to [[Half Dragon Xmm
-- See also:
-- Influences [downtime-activity-religious-service-xge (variant-rules)]]
+- Leads to [[downtime-activity-religious-service-xge (variant-rules)]]
 - Related:
 - Parallels [[step_069 (phase_061)
 - Related:
 - Influences [#Cross-Campaign Locations]]
 - Influences [[step_071 (phase_010)
 - Compare with [Portrait NPC Lord Chancellor Prism Lord Chancellor Prism.svg]]
-- Parallels [[Arch Hag Xmm
-- Leads to [NPC01131_Hilda_Voidwalker_the_Redeemed]]
+- Parallels [[NPC01131_Hilda_Voidwalker_the_Redeemed]]
 - Affected by
 - Related:
 - Leads to [[enspelled-weapon-level-6-xdmg (items)
@@ -259,8 +247,7 @@ Being extorted by criminals
 - Related: [Smart_NPC_Template]]
 - Compare with [[Symbol Heraldry Detective Prime Clarity Truthseeke Detective Prime Clarity Truthseeke.svg
 - Influences [Assets Locations Location City Mourning Depths Mourning Depths.svg]]
-- Affected by [[Magical Authenticatio (D&D_References)
-- See also: [The Seven Seals]]
+- Affected by [[Magical Authenticatio (D&D_References)]]
 - Originates from [[ITEM01312_Decorated_Tool_Kit_of_Durability
 - Related: [11 Spellcasting]]
 - Influences [[QUEST0056_Investigate_the_Demons

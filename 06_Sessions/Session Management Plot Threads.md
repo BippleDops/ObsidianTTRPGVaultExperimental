@@ -12,7 +12,7 @@ aliases: [[[Session Management [Plot Threads]]]
 
 > *An opportunity for greatness awaits...*
 
---- aliases: ["[Session Management]] [[Plot Threads]]"]
+--- aliases: ["[Session Management]] [[Plot_Threads]]"]
 created: 2025-08-15
 modified: 2025-08-15
 status: active

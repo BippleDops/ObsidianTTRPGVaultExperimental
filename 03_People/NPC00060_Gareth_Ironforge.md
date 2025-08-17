@@ -173,8 +173,7 @@ Needs discrete help with family scandal
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -187,8 +186,7 @@ Needs discrete help with family scandal
 
 ## Connections
 
-- See also: [[Ancient Treasury of Tides 2
-- See also: [MON00059_Constructs_Creature_60]]
+- See also: [[MON00059_Constructs_Creature_60]]
 - Requires [[Meta Bind Examples 2
 - Compare with [The_Professional_Training_Academy (Places)]]
 - Connects to [[Community Charter
@@ -213,8 +211,7 @@ Needs discrete help with family scandal
 - Parallels [step_086 (phase_083)]]
 - Originates from [[weapon-master-xphb (feats)
 - Connects to [Portrait NPC Captain Thalia Stormguard Captain Thalia Stormguard.svg]]
-- Related: [[ENC00047_Combat_Encounter_48
-- Parallels [Marid Xmm]]
+- Related: [[ENC00047_Combat_Encounter_48]]
 - Related: [[Depth Raider (D&D_References)
 - Affected by [LOC00096_Towns_Location_97]]
 - See also: [[location-city-manta-ray-manta-ray.svg
@@ -227,8 +224,7 @@ Needs discrete help with family scandal
 - Related: [step_073 (phase_033)]]
 - Influences [[Deepcaster (D&D_References)
 - Originates from [SPELL00140_Arcane_Spell_141]]
-- Related: [[dire-wolf-xmm (beast)
-- See also: [Shadow Faction Representative (D&D_References)]]
+- Related: [[Shadow Faction Representative (D&D_References)]]
 - See also:
 - See also: [[LOC00226_Wilderness_Location_227
 - Influences
@@ -237,8 +233,7 @@ Needs discrete help with family scandal
 - Parallels
 - Related: [[location-city-royal-treasury-v1-royal-treasury.svg
 - Affected by [Philosopher-Noble Depth-Crown 2]]
-- Leads to [[step_037 (phase_057)
-- Parallels [Shadow Replacement Procedures (D&D_References)]]
+- Leads to [[Shadow Replacement Procedures (D&D_References)]]
 - Affected by [[The Final Convergence
 - Requires [step_003 (phase_049)]]
 - Affected by
@@ -250,12 +245,9 @@ Needs discrete help with family scandal
 - See also: [Assets Locations Location City Scarlet Torrent Scarlet Torrent.svg]]
 - Related: [[ITEM00494_Warded_Cloak_of_Resistance
 - See also: [The Null Cathedral (D&D_References)]]
-- Influences [[step_071 (phase_019)
-- Leads to [Echo Leader Scout Informationtide]]
-- Connects to [[Underground Distribution Networks
-- Leads to [Crystal Harmonics 2]]
-- Related: [[ENC00267_Social_Encounter_268
-- Connects to [step_051 (phase_059)]]
+- Influences [[Echo Leader Scout Informationtide]]
+- Connects to [[Underground Distribution Networks]]
+- Related: [[ENC00267_Social_Encounter_268]]
 - Affected by [[Finn Brightwate
 - Originates from [Pressure Cult]]
 - See also: [[Ambassador Blacktrade 2
@@ -281,8 +273,7 @@ Needs discrete help with family scandal
 - Originates from
 - See also:
 - Originates from [ankheg-xmm (monstrosity)]]
-- Related: [[Field Operations Chief Marcus Ironheart (D&D_References)
-- Connects to [NPC01877_Hestara_Moonshadow_the_Mystic]]
+- Related: [[Field Operations Chief Marcus Ironheart (D&D_References)]]
 - Leads to [[orc-gruumsh-vgm (deities)
 - Connects to [Figurine of Wondrous Power Ebony Fly Xdmg]]
 - Leads to [[Chancellor's Advisory Council

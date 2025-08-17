@@ -57,25 +57,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-### Superstitions Improvements
-
-- List common superstitions and their origins
-
-### Hospitality Improvements
-
-- Explain guest rights and host obligations
-
-## Overview
-
-Party Members represents a crucial aspect of the world's history, cosmology, or fundamental nature.
-
----
-
-*Last Updated: 2025-08-14 19:03*
-
-## [DM_Notes]]
+- Describe how this culture exists in other [[region]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -91,14 +73,10 @@ Party Members represents a crucial aspect of the world's history, cosmology, or 
 ## References
 
 - [Consequence Chain 4 - Deep Mother Awakening]]
-- [[Consequence Chain 5 - Marina Identity Revelation
-- [Multi-Phase Boss Fights]]
+- [[Consequence Chain 5 - Marina Identity Revelation]]
 - [[Party_Members (02_Worldbuilding)
 - [Reputation System]]
-- [[Silver Mask
-- [Madame Rosalind Goldleaf]]
-- [[Pip Goldleaf
-- [The Memory Thief]]
-- [[The Void Tears
-- [Whisper-Touched William]]
+- [[Madame Rosalind Goldleaf]]
+- [[The Memory Thief]]
+- [[Whisper-Touched William]]
 - [[The Crown's Burden]]

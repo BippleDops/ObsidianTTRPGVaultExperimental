@@ -25,5 +25,8 @@
   "alt_text": "Concept art of ancient-bronze-dragon-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-ancient-bronze-dragon-xmm-v1-ancient-bronze-dragon-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-ancient-bronze-dragon-xmm-v1-ancient-bronze-dragon-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:20.176Z",
+  "generationMethod": "ComfyUI"
 }

@@ -289,48 +289,30 @@ What they claim to pursue
 
 ## References
 
-- [[Campaign_Relationship_Matrix
-- [Quest - Nature's Balance]]
-- [[Quest - The Pretender's Crown
-- [Consortium Security Constructs]]
+- [[Campaign_Relationship_Matrix]]
+- [[Quest - The Pretender's Crown]]
 - [[The Whisper Syndicate (Criminal_Organizations)
 - [Establish the New Order (Orders)]]
 - [[12_Research_D&D_Statblocks_Crystal_Wardens
 - [Crystal Wardens (02_Worldbuilding)]]
 - [[Queen Seraphina Lumengarde (People)
 - [The Great Crystallization]]
-- [[Admiral Cassandra Stormwind
-- [Archbishop Mordecai Stormwright]]
+- [[Archbishop Mordecai Stormwright]]
 - [[Assets Locations Location City Commander Typhoon Blackheart Commander Typhoon Blackheart.svg
 - [Assets Portraits Portrait NPC Lady Catherine Mourning Lady Catherine Mourning.svg]]
-- [[Commercial Hubs and Markets
-- [Port Meridian - Merchant Quarter]]
-- [[The Crystal Cathedral of Pure Light
-- [The Crystal Wardens]]
-- [[The Void Tears
-- [The Whisper Syndicate]]
-- [[Symbol Heraldry Crystal Wardens V1 Crystal Wardens.svg
-- [Admiral Cassandra Stormwind (D&D_References)]]
-- [[Aethermoor (D&D_References)
-- [Archbishop Mordecai Stormwright (D&D_References)]]
-- [[Captain Lyanna Brightshield (D&D_References)
-- [Commercial Hubs and Markets (D&D_References)]]
-- [[Consortium Security Constructs (D&D_References)
-- [Crystalhaven (D&D_References)]]
-- [[Discover Marina's Truth
-- [Establish the New Order]]
-- [[Port Meridian - Merchant Quarter (D&D_References)
-- [Prince Caspian Duskwater (D&D_References)]]
-- [[Purist Coalition (D&D_References)
-- [Queen Seraphina Lumengarde (D&D_References)]]
-- [[The Crystal Cathedral of Pure Light (D&D_References)
-- [The Grand Trade Routes (D&D_References)]]
-- [[The Void Tears (D&D_References)
-- [Whisper-Touched William (D&D_References)]]
-- [[Convergence Point Introduction
-- [Convergence_Point_Introduction (D&D_Sourcebooks)]]
-- [[Ambush Point (D&D_Statblocks)
-- [Crystal Gardens (D&D_Statblocks)]]
-- [[The Crimson Foundries (D&D_Statblocks)
-- [The Crown's Burden (D&D_Statblocks)]]
+- [[Port Meridian - Merchant Quarter]]
+- [[The Crystal Cathedral of Pure Light]]
+- [[The Whisper Syndicate]]
+- [[Admiral Cassandra Stormwind (D&D_References)]]
+- [[Archbishop Mordecai Stormwright (D&D_References)]]
+- [[Commercial Hubs and Markets (D&D_References)]]
+- [[Consortium Security Constructs (D&D_References)]]
+- [[Establish the New Order]]
+- [[Port Meridian - Merchant Quarter (D&D_References)]]
+- [[Queen Seraphina Lumengarde (D&D_References)]]
+- [[The Crystal Cathedral of Pure Light (D&D_References)]]
+- [[Whisper-Touched William (D&D_References)]]
+- [[Convergence_Point_Introduction (D&D_Sourcebooks)]]
+- [[Crystal Gardens (D&D_Statblocks)]]
+- [[The Crimson Foundries (D&D_Statblocks)]]
 - [[The Crystalline Foundry (D&D_Statblocks)]]

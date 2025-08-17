@@ -53,8 +53,7 @@ Uniting the Factions moves information and influence like currency. Publicly pra
 
 - A corpse reveals a betrayal about a local noble ## Related Notes - [Similar Topic 1]]
 
-- [[Contrasting Approach
-- [Advanced Version]]
+- [[Contrasting Approach]]
 - [[Historical Context]]
 
 ## Notes

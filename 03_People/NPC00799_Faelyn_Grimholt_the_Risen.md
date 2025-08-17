@@ -155,18 +155,15 @@ Witnessed a crime
 
 - Affected by [[urban-chase-complications (tables)
 - Related: [Merchant Quarter Districts 2]]
-- See also: [[Corrupted Merrow (D&D_References)
-- Affected by [LOC0005_Valeton]]
-- Related: [[Void Keeper Sister Nyx Nullspace
-- Influences [Political Maneuvering (D&D_References)]]
+- See also: [[Corrupted Merrow (D&D_References)]]
+- Related: [[Political Maneuvering (D&D_References)]]
 - Compare with [[ITEM01333_Practical_Tool_Kit_of_Convenience
 - Leads to [hewards-handy-haversack-xdmg (items)]]
 - Originates from [[step_005 (phase_070)
 - Parallels [step_003 (phase_053)]]
 - Requires [[step_024 (phase_086)
 - Influences [The Final Confrontation 2]]
-- Leads to [[Shadow Energy Medical Meter
-- Affected by [The Original Target (D&D_References)]]
+- Leads to [[The Original Target (D&D_References)]]
 - Originates from [[Aquabyssos Government 2
 - Affected by [Assets Portraits Portrait NPC Warrior Priest Abyss Sworn V1 Warrior Priest Abyss Sworn.svg]]
 - Leads to [[Guardian of Faith Xphb
@@ -178,10 +175,8 @@ Witnessed a crime
 - Compare with [Assets Portraits Portrait NPC Captain Harmony Tidereader Captain Harmony Tidereader.svg]]
 - Parallels [[Symbol Heraldry the Cipher Current V1 the Cipher Current.svg
 - Influences [item-artifact-whelm-xdmg-v3-whelm-xdmg.png]]
-- Originates from [[The Seventh Shard
-- Leads to [ENC0035_Random_Encounter_36]]
-- Related: [[NPC01492_Zephyr_Emberfall_the_Scholar
-- Connects to [The Cipher Current 2]]
+- Originates from [[ENC0035_Random_Encounter_36]]
+- Related: [[NPC01492_Zephyr_Emberfall_the_Scholar]]
 - Originates from [[LOC00175_Planes_Location_176
 - Parallels
 - Originates from [Portrait NPC the Heart of Oceanus V1 the Heart of Oceanus.svg]]
@@ -192,12 +187,10 @@ Witnessed a crime
 - See also: [QUEST00079_Personal_Quest_80]]
 - Connects to [[The Emergence (D&D_References)
 - Related: [gnoll-flesh-gnawer-mpmm (monstrosity)]]
-- See also: [[step_074 (phase_029)
-- See also: [Emergency Tech Chief Storm Rapidfix]]
+- See also: [[Emergency Tech Chief Storm Rapidfix]]
 - Related: [[MON00110_Undead_Creature_111
 - Originates from [Portrait NPC Order of the Shattered Crown V2 Order of the Shattered Crown.svg]]
-- Parallels [[step_088 (phase_070)
-- Parallels [MON00018_Undead_Creature_19]]
+- Parallels [[MON00018_Undead_Creature_19]]
 - Influences [[Corrupt Guards 2
 - Affected by [Item Artifact Travelers Clothes Xphb Travelers Clothes Xphb.png]]
 - See also: [[Cellular Corruption Microscope
@@ -214,8 +207,7 @@ Witnessed a crime
 - Compare with [Memory Restoration Devices]]
 - See also: [[step_048 (phase_096)
 - Parallels [Assets Locations Location City Vault Breach Vault Breach.svg]]
-- Affected by [[MON00041_Aberrations_Creature_42
-- Compare with [step_013 (phase_025)]]
+- Affected by [[MON00041_Aberrations_Creature_42]]
 - Influences [[celtic-belenus (deities)
 - Related: [Portrait NPC Sir Ruben Redtape Sir Ruben Redtape.svg]]
 - Related:
@@ -223,8 +215,7 @@ Witnessed a crime
 - Originates from [Assets Locations Location City the Deep Patrol V1 the Deep Patrol.svg]]
 - Related: [[SHOP00020_Specialty_Shop_21
 - Parallels [topaz-xdmg (items)]]
-- Connects to [[step_006 (phase_062)
-- Related: [Tidal Memento (D&D_References)]]
+- Connects to [[Tidal Memento (D&D_References)]]
 - See also: [[SPELL00113_Arcane_Spell_114
 - Leads to
 - Related: [Assets Locations Location City Sky Trader Zephyr Windcatcher Sky Trader Zephyr Windcatcher.svg]]
@@ -233,26 +224,22 @@ Witnessed a crime
 - Connects to [[step_043 (phase_091)
 - Parallels
 - Leads to [NPC0042_Cedric_Ironforge]]
-- Affected by [[step_092 (phase_067)
-- Leads to [Anti-Priest Nullus (D&D_References)]]
+- Affected by [[Anti-Priest Nullus (D&D_References)]]
 - Influences [[Commander Transparent 2
 - Related: [NPC00319_Zephyr_Blackstone]]
 - Parallels [[LOC00178_Planes_Location_179
 - Related: [Master Artificer Thymallos 2]]
 - Connects to [[location-city-noble-council-noble-council.png
 - Influences [Diplomatic Service (D&D_References)]]
-- Leads to [[Evidence Archive System
-- Related: [NPC01780_Solas_Hawthorne_the_Strong]]
+- Leads to [[NPC01780_Solas_Hawthorne_the_Strong]]
 - Parallels [[ENC0046_Random_Encounter_47
 - Requires [Location City Keepers of Memory Keepers of Memory.svg]]
-- Originates from [[Ascendant Step Xphb
-- Connects to [LOC00265_Cities_Location_266]]
+- Originates from [[LOC00265_Cities_Location_266]]
 - Connects to [[ITEM00419_Fortified_Chain_Mail_of_Fortitude
 - Related: [Archivist Methodius Recordkeeper]]
 - Related: [[step_095 (phase_050)
 - See also: [Scene Scene Sky Whale Migration at Sunset Sky Whale Migration at Sunset.png]]
-- See also: [[Dawn War Kord Dmg
-- Originates from [NPC00145_Wynne_Underhill_the_Risen]]
+- See also: [[NPC00145_Wynne_Underhill_the_Risen]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

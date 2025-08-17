@@ -170,19 +170,15 @@ Has map to lost treasure
 - Connects to [NPC0049_Jora_Ironforge]]
 - Affected by [[Portrait NPC Free Current Safe Houses V2 Free Current Safe Houses.svg_1 (Portraits)
 - Parallels [step_042 (phase_083)]]
-- Affected by [[downtime-activity-sowing-rumors (variant-rules)
-- Compare with
-- Leads to [Void Incursion Risk Assessment]]
+- Affected by [[downtime-activity-sowing-rumors (variant-rules)]]
 - Connects to [[Location City Interfaith Dialogue Interfaith Dialogue.svg
 - Affected by [Portrait NPC Archdruid Thornweaver Archdruid Thornweaver.svg]]
 - Influences [[Acid Splash Xphb
 - Connects to [DUN00098_Dungeon_99]]
-- Parallels [[The Depth Compass
-- Requires [The Schism and Reconciliation 2]]
+- Parallels [[The Schism and Reconciliation 2]]
 - See also: [[Portrait NPC Commodity Queen Abundance Commodity Queen Abundance.svg
 - Requires [Moss Agate Xdmg]]
-- Affected by [[step_068 (phase_098)
-- Parallels [NPC01769_Baelor_Ravenheart_the_Wise]]
+- Affected by [[NPC01769_Baelor_Ravenheart_the_Wise]]
 - Originates from [[Purifier Marcus Steelbane
 - Connects to [LORE00294_Prophecies_Entry_295]]
 - Requires [[Depth Guard
@@ -196,20 +192,16 @@ Has map to lost treasure
 - Originates from [[2-character-races (volos-guide-to-monsters)
 - Connects to
 - Originates from [Quest - The Shadow Fleet_1 (01_Adventures)]]
-- Parallels [[NPC01993_Drusilla_Ironwood_the_Risen
-- Affected by [ENC00289_Social_Encounter_290]]
+- Parallels [[NPC01993_Drusilla_Ironwood_the_Risen]]
 - Requires [[NPC00393_Kaelen_Grimholt
 - Requires [Entities the Living Paradox]]
 - Connects to [[step_078 (phase_039)
 - Originates from [step_050 (phase_030)]]
-- Leads to [[deck-of-many-things#Moon
-- Leads to [The Grand Crystal Exchange (D&D_References)]]
+- Leads to [[deck-of-many-things#Key]]
 - Influences [[Mechanics Dimensional Travel
 - See also: [Weather Sage Ancient Tempest]]
-- Related: [[General Darkness Incarnate
-- Influences [NPC01435_Xander_Hawthorne_the_Broken]]
-- Requires [[Vex Shadowthorn's Apprentices (D&D_References)
-- Leads to [step_001 (phase_017)]]
+- Related: [[NPC01435_Xander_Hawthorne_the_Broken]]
+- Requires [[Vex Shadowthorn's Apprentices (D&D_References)]]
 - Parallels [[step_081 (phase_086)
 - Influences [step_037 (phase_025)]]
 - Compare with [[Yester Hill Axe Cos
@@ -228,29 +220,22 @@ Has map to lost treasure
 - Compare with [[LORE00025_Prophecies_Entry_26
 - Requires
 - Connects to [Items - New Item]]
-- Connects to [[Diplomats Pack Xphb
-- Requires [MON00158_Undead_Creature_159]]
+- Connects to [[MON00158_Undead_Creature_159]]
 - Requires [[Variant Training to Gain Levels Training to Gain Levels Xdmg
 - Influences [Assets Item Artifact Explorers Pack Xphb V7 Explorers Pack Xphb.png]]
-- See also: [[Surface Coalition 2
-- Affected by [Name.png]]
+- See also: [[Surface Coalition 2]]
 - Leads to [[Assets Locations Location City the Cerulean Archipelago the Cerulean Archipelago.svg
 - Connects to [food-drink-and-lodging-xphb (tables)]]
-- Originates from [[ENC00178_Combat_Encounter_179
-- Compare with [bolt-xphb (items)]]
-- Requires [[Tavern Keep Lucky Jack Goldpouch (D&D_References)
-- Connects to [Crystal_Heart]]
-- Compare with [[LOC00155_Dungeons_Location_156
-- Connects to [Memory Encryption]]
+- Originates from [[ENC00178_Combat_Encounter_179]]
+- Requires [[Tavern Keep Lucky Jack Goldpouch (D&D_References)]]
+- Compare with [[LOC00155_Dungeons_Location_156]]
 - Originates from [[LORE00024_History_Entry_25
 - Originates from [hover-xphb (variant-rules)]]
-- Influences [[Gm Session Packets Aquabyssos Session 01
-- Affected by [step_072 (phase_079)]]
+- Influences [[Gm Session Packets Aquabyssos Session 01]]
 - Affected by [[The Exchange Rate (D&D_References)
 - Requires
 - Originates from [Shadow Animation Chamber]]
-- Originates from [[Guild Organizations
-- Parallels [ENC00134_Environmental_Encounter_135]]
+- Originates from [[ENC00134_Environmental_Encounter_135]]
 - Requires [[LORE00077_Legends_Entry_78
 - Leads to [Shadow Embassy]]
 - Requires [[Glowcap Mushroom
@@ -262,8 +247,7 @@ Has map to lost treasure
 - See also: [Symbol Heraldry the Echo Succession V1 the Echo Succession.svg]]
 - Parallels [[The Drowning Spires
 - Originates from [otherworldly-steed-fiend-xphb (fiend)]]
-- Requires [[The Resonance Cathedral (D&D_References)
-- Connects to [08-chapter-8-bastions (dungeon-masters-guide-2024)]]
+- Requires [[08-chapter-8-bastions (dungeon-masters-guide-2024)]]
 - Connects to [[portrait-npc-the-wake-v2-the-wake.svg
 
 ## Visual References

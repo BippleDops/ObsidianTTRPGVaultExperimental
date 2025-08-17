@@ -166,29 +166,22 @@ Caravan needs guards
 - Related: [summon-celestial-xphb (spells)]]
 - Influences [[Dark Gift of Savnok the Inscrutable Cos
 - Leads to [EVENT00088_Political_Event_89]]
-- See also: [[Shadow Faction Representative 2
-- See also: [step_012 (phase_073)]]
+- See also: [[Shadow Faction Representative 2]]
 - Leads to
-- Requires [[Dual Wielder Xphb
-- See also: [Cross-Cultural Adaptation Technique]]
-- Requires [[step_095 (phase_063)
-- Compare with [Bio-Tech Supervisor Reef Lifeweaver]]
-- Originates from [[LOC00127_Wilderness_Location_128
-- Requires [Archshadow Gold Shadowstream]]
+- Requires [[Cross-Cultural Adaptation Technique]]
+- Requires [[Bio-Tech Supervisor Reef Lifeweaver]]
+- Originates from [[LOC00127_Wilderness_Location_128]]
 - Affected by [[step_055 (phase_051)
 - Influences [Corrupted Merrow]]
 - Connects to [[Assets Portraits Portrait NPC Agent Whisper Voidheart Agent Whisper Voidheart.svg
 - Connects to [Marine Agricultural Council]]
-- Compare with [[Shadow Surgery Training Hospitals (D&D_References)
-- Requires [step_070 (phase_016)]]
+- Compare with [[Shadow Surgery Training Hospitals (D&D_References)]]
 - Originates from [[Starting at Higher Level Starting Equipment
 - Originates from [Assets Locations Location City Kelp Forest Kelp Forest.svg]]
 - Compare with [[Memory Rights Debate
 - Leads to [step_031 (phase_051)]]
-- Leads to [[identify-xphb (spells)
-- Influences [LOC00220_Cities_Location_221]]
-- Related: [[The Great Tidal Amphitheater (D&D_References)
-- See also: [Purification Order]]
+- Leads to [[LOC00220_Cities_Location_221]]
+- Related: [[The Great Tidal Amphitheater (D&D_References)]]
 - Requires
 - Connects to [[Assets Locations Location City Market Heist Market Heist.svg
 - Affected by [item properties#Finesse]]
@@ -205,16 +198,13 @@ Caravan needs guards
 - Requires [step_059 (phase_046)]]
 - Connects to [[location-city-harbor-wall-harbor-wall.svg
 - Affected by [LORE00323_History_Entry_324]]
-- Parallels [[Exhaustion_Tracker
-- Connects to [The Diplomatic Protocol Commission]]
-- Compare with [[Strahd Von Zarovich Cos
-- Related: [Forbidden Tomes of Deep Mother 2]]
+- Parallels [[The Diplomatic Protocol Commission]]
+- Compare with [[Forbidden Tomes of Deep Mother 2]]
 - Affected by [[Commanders Strike Xphb
 - Influences [step_071 (phase_078)]]
 - Related: [[LORE00084_Legends_Entry_85
 - Affected by [Home Embeds Vault Graph]]
-- Leads to [[QUEST00437_Side_Quest_438
-- Related: [step_057 (phase_053)]]
+- Leads to [[QUEST00437_Side_Quest_438]]
 - Compare with [[The Phantom Fence (D&D_References)
 - Influences
 - Related: [step_018 (phase_034)]]
@@ -229,10 +219,8 @@ Caravan needs guards
 - Affected by [step_090 (phase_070)]]
 - Parallels [[NPC00462_Fiora_Ironforge_the_Seeker
 - See also: [list-spells-classes-eldritch-knight-xphb (lists)]]
-- See also: [[Foreign Governments (D&D_References)
-- Requires [QUEST00107_Side_Quest_108]]
-- Compare with [[Corrupted Creatures (D&D_References)
-- Compare with [Dwarven Vergadain Mtf]]
+- See also: [[Foreign Governments (D&D_References)]]
+- Compare with [[Corrupted Creatures (D&D_References)]]
 - Parallels [[step_009 (phase_037)
 - Influences [Assets Locations Location City the Sundered Peaks the Sundered Peaks.svg]]
 - Parallels [[Aethermoor Council 2
@@ -242,17 +230,13 @@ Caravan needs guards
 - Originates from
 - Originates from [[LORE00131_Prophecies_Entry_132
 - See also: [step_022 (phase_014)]]
-- Influences [[Archkeeper Nereon (D&D_References)
-- Leads to [step_028 (phase_092)]]
+- Influences [[Archkeeper Nereon (D&D_References)]]
 - Affected by
-- Related: [[The Living Spires (D&D_References)
-- Requires [Marina-Red-Tide-Coralheart (D&D_References)]]
+- Related: [[Marina-Red-Tide-Coralheart (D&D_References)]]
 - Leads to [[City Development Plan
 - Related: [step_053 (phase_004)]]
-- Parallels [[Intelligence Service
-- Parallels [Deep-Sea Agricultural Research Institut (D&D_References)]]
-- Requires [[NPC01880_Ewan_Brightblade_the_Wise
-- Affected by [step_066 (phase_095)]]
+- Parallels [[Deep-Sea Agricultural Research Institut (D&D_References)]]
+- Requires [[NPC01880_Ewan_Brightblade_the_Wise]]
 - Connects to [[NPC0078_Nathaniel_Ironforge
 - Connects to [Temporal Research Institute]]
 

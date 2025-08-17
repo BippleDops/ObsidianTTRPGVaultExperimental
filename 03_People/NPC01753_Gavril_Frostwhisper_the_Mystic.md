@@ -195,8 +195,7 @@ Provides information for a price
 - Compare with [[LOC00199_Planes_Location_200
 - Related:
 - See also: [The Sky Knight Orders (Orders)]]
-- Parallels [[step_089 (phase_042)
-- Compare with [Aethermoor_Session_01 (D&D_References)]]
+- Parallels [[Aethermoor_Session_01 (D&D_References)]]
 - Leads to [[step_090 (phase_068)
 - Requires [Mad Oracle Thessaly 2]]
 - Leads to [[Downtime Activity Relaxation Xge
@@ -219,22 +218,16 @@ Provides information for a price
 - Leads to
 - Influences [[create-homunculus-xge (spells)
 - Compare with [MON0043_Storm_Wraith]]
-- See also: [[Discover Shadow Market Location (D&D_References)
-- Related: [NPC00547_Branwen_Jadeclaw_the_Guardian]]
+- See also: [[Discover Shadow Market Location (D&D_References)]]
 - Requires [[Vex Shadowthorn the Kingpin
 - Originates from [ENC00014_Combat_Encounter_15]]
-- Connects to [[The Memorial Garden 2
-- Related: [Depth Crystals (D&D_References)]]
+- Connects to [[Depth Crystals (D&D_References)]]
 - Requires [[ranger-xphb-fey-wanderer-xphb (classes)
 - Related: [Representative Coral 2]]
-- Parallels [[Archive Guardian Thomas
-- Originates from [Keeper Temporal Safehaven (D&D_References)]]
-- Parallels [[Abyssal Academy
-- Connects to [NPC00652_Ysara_Zephyrblade_the_Strong]]
-- Parallels [[Diplomatic Training Institute
-- Compare with [ENC00035_Environmental_Encounter_36]]
-- Influences [[Artificers' Consortium
-- See also: [Anti-Corruption Task Force 2]]
+- Parallels [[Keeper Temporal Safehaven (D&D_References)]]
+- Parallels [[NPC00652_Ysara_Zephyrblade_the_Strong]]
+- Parallels [[ENC00035_Environmental_Encounter_36]]
+- Influences [[Anti-Corruption Task Force 2]]
 - Originates from [[Assets Locations Location City Emergency Protocols Emergency Protocols.svg
 - Affected by [step_067 (phase_084)]]
 - Requires [[step_034 (phase_034)
@@ -243,31 +236,25 @@ Provides information for a price
 - Leads to [Archivist Coral-Mind Preserver]]
 - Compare with [[step_075 (phase_029)
 - Related: [adult-oblex-mpmm (ooze)]]
-- Originates from [[Echo-Prime Cacophony Voidlung
-- Requires [step_015 (phase_041)]]
+- Originates from [[Echo-Prime Cacophony Voidlung]]
 - Affected by [[Long Rest Xphb
 - Influences [Wind Wall Xphb]]
 - See also: [[Shadow Separation Mechanics
 - Influences [QUEST00479_Side_Quest_480]]
-- Affected by [[potion-of-healing-gv (items)
-- Requires [NPC00869_Alaric_Jadeclaw_the_Broken]]
+- Affected by [[NPC00869_Alaric_Jadeclaw_the_Broken]]
 - Influences [[ITEM00014_Radiant_Sword_of_Speed
 - Compare with [Seven Shards Tracker]]
 - Parallels [[frost-salamander-mpmm (elemental)
 - Affected by [SPELL0047_Primal_Wave]]
-- Parallels [[LOC00213_Planes_Location_214
-- Leads to [Treaty Analysis]]
+- Parallels [[LOC00213_Planes_Location_214]]
 - Influences [[Roleplaying a Mind Flayer Mind Flayer Ideals
 - Requires [cleric-xphb-life-domain-xphb (classes)]]
 - See also: [[Getting Into and Out of Armor Donning and Doffing Armor Phb
 - Related: [Noble Estates]]
-- Related: [[Symphony of the Abyss Recipe (D&D_References)
-- Originates from [step_017 (phase_079)]]
+- Related: [[Symphony of the Abyss Recipe (D&D_References)]]
 - See also:
-- Related: [[step_008 (phase_095)
-- Influences [Intellectual Freedom Movement (D&D_References)]]
-- Originates from [[Parliamentary Infiltration Methods (D&D_References)
-- See also: [Surgery Master Dr Marcus Deptblade]]
+- Related: [[Intellectual Freedom Movement (D&D_References)]]
+- Originates from [[Parliamentary Infiltration Methods (D&D_References)]]
 - Influences [[Wall of Force Xphb
 
 ## Visual References

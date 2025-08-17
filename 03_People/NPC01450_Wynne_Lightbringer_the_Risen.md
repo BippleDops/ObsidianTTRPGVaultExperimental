@@ -165,21 +165,17 @@ Needs help with personal quest
 - Related: [location-city-market-mystery-v1-market-mystery.svg]]
 - Connects to [[Location City the Mourning Depths V1 the Mourning Depths.svg
 - Influences [NPC01028_Erasmus_Darkwater_the_Strong]]
-- Related: [[step_008 (phase_004)
-- See also: [ITEM0083_Divine_Crown_of_the_Dawn]]
-- Originates from [[MON00163_Constructs_Creature_164
-- Influences [NPC00129_Gareth_Jadeclaw]]
+- Related: [[ITEM0083_Divine_Crown_of_the_Dawn]]
+- Originates from [[MON00163_Constructs_Creature_164]]
 - Connects to [[ITEM01414_Masterwork_Lock_of_Reliability
 - Related: [Medical College of Aquabyssos]]
-- Parallels [[The Conductor (D&D_References)
-- Related: [The Crystal Council 3 (D&D_References)]]
+- Parallels [[The Crystal Council 3 (D&D_References)]]
 - Originates from [[The Sundered Peaks_1
 - See also: [step_073 (phase_092)]]
 - Compare with
 - Compare with [[DUN00182_Dungeon_183
 - Influences [Location City Great Plague of Ages Past V1 Great Plague of Ages Past.svg]]
-- Originates from [[step_011 (phase_069)
-- Affected by [LOC00213_Cities_Location_214]]
+- Originates from [[LOC00213_Cities_Location_214]]
 - Compare with [[Abstract Cosmic Forces
 - Requires [ITEM00074_Thunder_Spear_of_Power]]
 - See also: [[Liche (D&D_References)
@@ -188,14 +184,12 @@ Needs help with personal quest
 - Compare with [Location City Theological Seminaries V1 Theological Seminaries.svg]]
 - Originates from [[determine-the-partys-goals-event-based-goals (tables)
 - See also: [Shadow Detection Methods]]
-- Related: [[step_040 (phase_051)
-- Leads to [Lieutenant Bloodcoral Vex Tidebreaker]]
+- Related: [[Lieutenant Bloodcoral Vex Tidebreaker]]
 - Leads to [[LORE00276_Prophecies_Entry_277
 - Related: [step_075 (phase_078)]]
 - Compare with [[step_057 (phase_100)
 - Parallels [ITEM01000_Greater_Herb_of_Clarity]]
-- Parallels [[step_014 (phase_048)
-- Requires [Salvage Master Ironwork 2]]
+- Parallels [[Salvage Master Ironwork 2]]
 - Connects to [[step_082 (phase_011)
 - Related: [Portrait NPC Ancient King Pelagios Ancient King Pelagios.svg]]
 - Leads to [[SPELL00153_Divine_Spell_154
@@ -203,8 +197,7 @@ Needs help with personal quest
 - Originates from [step_016 (phase_057)]]
 - Originates from [[Emergency_Navigation_Response (02_Worldbuilding)
 - Affected by [Murgaxors Orb Scc]]
-- See also: [[NPC01926_Thalia_Dawnstrider_the_Strong
-- Leads to [Template-PointofInterest]]
+- See also: [[NPC01926_Thalia_Dawnstrider_the_Strong]]
 - Connects to [[Assets Locations Location City Merchant Prince Akula Merchant Prince Akula.png
 - Related: [raven-xmm (beast)]]
 - Connects to [[Character Backstories
@@ -233,18 +226,15 @@ Needs help with personal quest
 - Compare with [[ENC0014_Random_Encounter_15
 - Requires
 - Influences [step_016 (phase_055)]]
-- See also: [[The Twilight Gardens (D&D_References)
-- Affected by [QUEST00115_Main_Quest_116]]
+- See also: [[The Twilight Gardens (D&D_References)]]
 - Related: [[step_019 (phase_095)
 - Leads to [step_058 (phase_004)]]
 - Compare with [[The Unity Shard 2
 - Compare with [step_079 (phase_071)]]
-- Related: [[Alternative-Path-Fled-City (D&D_References)
-- Related: [Fate Weavers (D&D_References)]]
+- Related: [[Alternative-Path-Fled-City (D&D_References)]]
 - Requires [[Community Leaders (D&D_References)
 - Originates from [ITEM01371_Elegant_Rope_of_Durability]]
-- Compare with [[crystal-ball-of-mind-reading-xdmg (items)
-- Affected by [Current Rider Captain Crimson Velocity (D&D_References)]]
+- Compare with [[Current Rider Captain Crimson Velocity (D&D_References)]]
 - Connects to [[empyrean-iota-xmm (miscellaneous)
 - Requires [step_035 (phase_029)]]
 - Originates from [[LORE00209_Legends_Entry_210

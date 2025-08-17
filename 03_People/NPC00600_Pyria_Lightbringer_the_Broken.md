@@ -172,23 +172,18 @@ Discovered something valuable
 - See also: [[QUEST00364_Side_Quest_365
 - Parallels
 - Connects to [list-spells-optional-features-chains-of-carceri]]
-- Leads to [[Order of the Silent Vigil (Groups)
-- Requires [NPC01673_Malakai_Darkwater_the_Guardian]]
-- Originates from [[Tradition_Keeper_Elder_Wisdom
-- Parallels [Master Cultivator Reef Growstone 2]]
+- Leads to [[NPC01673_Malakai_Darkwater_the_Guardian]]
+- Originates from [[Master Cultivator Reef Growstone 2]]
 - Originates from [[step_082 (phase_028)
 - Parallels [NPC00056_Gavril_Underhill]]
-- Influences [[Diplomatic Immunity
-- Parallels [LORE0009_Secret_of_the_Dragon_Wars]]
+- Influences [[LORE0009_Secret_of_the_Dragon_Wars]]
 - Parallels [[step_076 (phase_079)
 - Leads to [Assets Locations Location City Old Sally Seasprayer V1 Old Sally Seasprayer.svg]]
 - See also:
 - Affected by [[step_025 (phase_065)
 - Parallels [ITEM00080_Frost_Dagger_of_the_Ancients]]
-- Connects to [[Senator Abyssos Traditionkeeper
-- Connects to [step_051 (phase_081)]]
-- Related: [[step_012 (phase_074)
-- Influences [Replacement Survivor Support Groups (D&D_References)]]
+- Connects to [[Senator Abyssos Traditionkeeper]]
+- Related: [[Replacement Survivor Support Groups (D&D_References)]]
 - Parallels
 - Leads to [[ITEM01316_Elegant_Map_Case_of_Durability
 - Affected by [Legal Scholar Professor Depth Lawkeeper 2]]
@@ -223,8 +218,7 @@ Discovered something valuable
 - Requires [Poison Needle Trap Xge]]
 - See also: [[ITEM01498_Ornate_Spyglass_of_Durability
 - Parallels [step_026 (phase_037)]]
-- Parallels [[Pilgrim Guide Samuel Walkingfaith
-- Leads to [step_031 (phase_087)]]
+- Parallels [[Pilgrim Guide Samuel Walkingfaith]]
 - Related: [[The Lighthouse of Storms 2
 - Originates from [Effects Temporal Displacement]]
 - Originates from [[List Spells Races Triton Vgm
@@ -233,8 +227,7 @@ Discovered something valuable
 - Influences [LORE00066_Legends_Entry_67]]
 - Compare with [[ITEM00150_Cursed_Bow_of_Wounding
 - Requires [selling-a-magic-item-magic-item-offer-xge (tables)]]
-- Related: [[LORE00114_Prophecies_Entry_115
-- Requires [The Memory Crystals Division (D&D_References)]]
+- Related: [[The Memory Crystals Division (D&D_References)]]
 - Affected by [[Potions for Sale Xge
 - Originates from [step_032 (phase_059)]]
 - Influences [[LOC0049_Grovehollow
@@ -256,8 +249,7 @@ Discovered something valuable
 - Leads to [Portrait NPC Quest the Deep Cartographer V2 Quest the Deep Cartographer.svg]]
 - Influences [[gas-spore-fungus-xmm (plant)
 - Affected by [Courier Pelagic 2]]
-- Compare with [[Project Seven Laboratory 2
-- Leads to [The Glass Twins 2]]
+- Compare with [[Project Seven Laboratory 2]]
 - Compare with [[Player Handout Merger Vessels
 - Compare with [thunderclap-xphb (spells)]]
 - Compare with [[ITEM00464_Mithril_Cloak_of_Protection

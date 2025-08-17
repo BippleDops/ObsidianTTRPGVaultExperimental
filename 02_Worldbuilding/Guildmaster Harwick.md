@@ -246,8 +246,7 @@ Key stop on magic items trade route
 
 ## References
 
-- [[Supplier Erikson Tidecaller
-- [Supplier Erikson Tidecaller (D&D_References)]]
+- [[Supplier Erikson Tidecaller (D&D_References)]]
 
 ## Atmosphere
 - Mood and feeling

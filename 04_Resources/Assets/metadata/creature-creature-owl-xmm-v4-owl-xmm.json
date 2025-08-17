@@ -25,5 +25,8 @@
   "alt_text": "Concept art of owl-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-owl-xmm-v4-owl-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-owl-xmm-v4-owl-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:07:26.120Z",
+  "generationMethod": "ComfyUI"
 }

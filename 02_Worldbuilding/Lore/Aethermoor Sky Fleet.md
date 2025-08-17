@@ -1,7 +1,6 @@
 ---
 
-title: [[Aethermoor Sky Fleet
-type: [Lore]]
+title: [[Aethermoor Sky Fleet]]
 tags:
 - lore
 - worldbuilding
@@ -88,30 +87,4 @@ Aethermoor Sky Fleet represents a crucial aspect of the world's history, cosmolo
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[Peoples
-
-### The Golden Era (500 years ago)
-- Economic prosperity
-- Cultural renaissance
-- Expansion of territory
-
-### The Time of Troubles (100 years ago)
-- Civil war
-- Natural disasters
-- Current power structures established
-
-## Religious Observances
-
-### Daily Prayers
-- Dawn: Gratitude for life
-- Noon: Strength for labor
-- Dusk: Protection from darkness
-
-### Weekly Observance
-- Temple attendance mandatory
-- Ritual cleansing required
-- Tithing of 10% income
-
-## References
-
-- [Faction_Reputation_System]]
+- War with indigenous [[People]]

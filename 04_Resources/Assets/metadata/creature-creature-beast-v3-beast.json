@@ -25,5 +25,8 @@
   "alt_text": "Concept art of beast with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-beast-v3-beast.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-beast-v3-beast.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:58:31.087Z",
+  "generationMethod": "ComfyUI"
 }

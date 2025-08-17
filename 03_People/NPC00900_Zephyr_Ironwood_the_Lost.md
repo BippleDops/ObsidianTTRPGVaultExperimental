@@ -153,17 +153,12 @@ Has map to lost treasure
 
 ## Connections
 
-- Related: [[Forge District
-- Related: [LOC00144_Towns_Location_145]]
+- Related: [[LOC00144_Towns_Location_145]]
 - Affected by [[bidirectional_links
 - Leads to [Rod of Lordly Might Xdmg]]
-- Originates from [[System Cli Spells School Divination
-- Parallels [step_050 (phase_056)]]
-- Influences [[Weapons Trader Gareth Steelmerchant 2
-- Parallels [Government_Officials_Guide]]
-- Related: [[ENC00233_Combat_Encounter_234
-- See also:
-- Parallels [Fate Weavers]]
+- Originates from [[System Cli Spells School Divination]]
+- Influences [[Weapons Trader Gareth Steelmerchant 2]]
+- Related: [[ENC00233_Combat_Encounter_234]]
 - Connects to [[Quest - Protect the Truth
 - Requires [ITEM00458_Warded_Leather_of_Resistance]]
 - Compare with [[step_076 (phase_032)
@@ -186,16 +181,13 @@ Has map to lost treasure
 - Compare with [The Sunken Observatory]]
 - Leads to [[Young Brass Dragon Xmm
 - Leads to [step_035 (phase_051)]]
-- Parallels [[QUEST00183_Main_Quest_184
-- See also: [high-jump-xphb (variant-rules)]]
-- Related: [[The Crown of Consciousness
-- See also: [step_092 (phase_048)]]
+- Parallels [[high-jump-xphb (variant-rules)]]
+- Related: [[The Crown of Consciousness]]
 - See also: [[Portrait NPC Agent Whisper Voidheart V1 Agent Whisper Voidheart.svg_1 (Portraits)
 - Affected by [step_005 (phase_034)]]
 - Originates from [[The Dream Confluence
 - Parallels [step_032 (phase_051)]]
-- Affected by [[ITEM00035_Radiant_Hammer_of_Slaying
-- See also: [Consequence Chain 4 - Deep Mother Awakening (D&D_References)]]
+- Affected by [[Consequence Chain 4 - Deep Mother Awakening (D&D_References)]]
 - Requires [[Location City Artist Wave Creator V1 Artist Wave Creator.svg
 - Parallels
 - Compare with
@@ -210,14 +202,11 @@ Has map to lost treasure
 - Affected by [step_085 (phase_062)]]
 - Leads to [[Political Hardliner
 - Related: [step_053 (phase_019)]]
-- Leads to [[step_004 (phase_080)
-- Influences [MON00161_Aberrations_Creature_162]]
+- Leads to [[MON00161_Aberrations_Creature_162]]
 - Influences [[Nonhuman Skoraeus Stonebones
 - Leads to [Flame Arrows Xge]]
 - Parallels
-- See also: [[Quest - Songs of Power
-- Parallels
-- Compare with [Ambassador Elena Diplomatic (D&D_References)]]
+- See also: [[Ambassador Elena Diplomatic (D&D_References)]]
 - Parallels [[Location City Surface Portal Alpha V1 Surface Portal Alpha.svg
 - Affected by [Feed Per Day Xphb]]
 - See also: [[step_034 (phase_075)
@@ -236,8 +225,7 @@ Has map to lost treasure
 - Affected by [step_080 (phase_078)]]
 - Influences [[Symbol Heraldry the Crimson Tide Pirates the Crimson Tide Pirates.svg
 - Originates from [NPC0143_Xara_Darkwater]]
-- Requires [[Boon of Speed Xphb
-- Requires [Sanctuary Safeharbor (D&D_References)]]
+- Requires [[Sanctuary Safeharbor (D&D_References)]]
 - Related: [[Translator Polyglot
 - Leads to [step_036 (phase_033)]]
 - See also: [[Kraken Territories
@@ -248,10 +236,8 @@ Has map to lost treasure
 - Requires [Symbol Heraldry War Commander Umbral Strategis War Commander Umbral Strategis.svg]]
 - Originates from [[mass-suggestion-xphb (spells)
 - Parallels [Acolyte Sister Tidal Deepfaith 2]]
-- Related: [[step_006 (phase_039)
-- Connects to [Social Architect Luna Newdawn (D&D_References)]]
-- Affected by [[Unseen Servant Xphb
-- Compare with [ENC00457_Combat_Encounter_458]]
+- Related: [[Social Architect Luna Newdawn (D&D_References)]]
+- Affected by [[ENC00457_Combat_Encounter_458]]
 - Affected by [[EVENT00068_Natural_Event_69
 
 ## Visual References

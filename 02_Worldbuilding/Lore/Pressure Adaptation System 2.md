@@ -124,15 +124,7 @@ The complex employs specialists in multiple technical disciplines:
 - **Bio-Mechanical Technicians**: Specialists in implant design and biological integration ([02_Worldbuilding/Lore/Biomech Specialist Tide Metalweaver]])
 - **Pressure Theorists**: Researchers developing new adaptation techniques ([[Pressure Theorist Dr. Current Deepthink)
 - **Safety Inspectors**: Personnel ensuring system reliability and user protection ([02_Worldbuilding/Lore/Safety Inspector Pearl Cautionwave]])
-- **Emergency Technicians**: Specialists in rapid repair and crisis response ([[Emergency Tech Chief Storm Rapidfix)
-
-### Supply Chain and Resource Management
-
-**Critical Raw Materials:**
-The Pressure Adaptation System depends on specialized resources that require careful sourcing and management:
-
-**Primary Resources:**
-- **Pressure Crystals**: Harvested from deep ocean crystal formations, processed by [Crystal Harvester Guild]]
+- **Emergency Technicians**: Specialists in rapid repair and crisis response ([[Emergency Tech Chief Storm Rapidfix]]
 - **Bio-Compatible Metals**: Specialized alloys that integrate safely with human biology, sourced from [[02_Worldbuilding/Lore/Deep Mining Consortium
 - **Adaptation Serums**: Magical solutions enhancing biological pressure tolerance, produced by [02_Worldbuilding/Lore/Biological Enhancement Laboratory]]
 - **Emergency Compounds**: Chemical stabilizers for crisis situations, manufactured by [[02_Worldbuilding/Lore/Deep Chemical Works

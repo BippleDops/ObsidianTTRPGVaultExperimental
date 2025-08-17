@@ -175,19 +175,15 @@ Competitor sabotaging business
 - Related: [Assets Portraits Portrait NPC Lord Marcus Shadowbane Lord Marcus Shadowbane.svg]]
 - Affected by [[Working Class Routines
 - Leads to [The Bridge Walker]]
-- Influences [[NPC00358_Vesper_Lightbringer
-- Influences [rust-monster-xmm]]
+- Influences [[NPC00358_Vesper_Lightbringer]]
 - Compare with [[enspelled-weapon-level-4-xdmg (items)
 - Influences
 - Leads to [step_012 (phase_068)]]
 - Compare with [[celtic-dunatis (deities)
 - Compare with [Rope of Climbing Xdmg]]
-- Related: [[09-adventuring (players-handbook-2014)
-- Compare with [LOC0057_NewVale]]
-- Connects to [[Cooperative Market Complex
-- Affected by [MON00139_Constructs_Creature_140]]
-- Leads to [[Memory Alterations
-- Affected by [NPC01688_Hestara_Ashford_the_Broken]]
+- Related: [[09-adventuring (players-handbook-2014)]]
+- Connects to [[MON00139_Constructs_Creature_140]]
+- Leads to [[NPC01688_Hestara_Ashford_the_Broken]]
 - Related: [[Eberron the Undying Court
 - Connects to [Venom Troll Mpmm]]
 - Connects to [[Councilor Depth Harmonizer
@@ -200,55 +196,44 @@ Competitor sabotaging business
 - Connects to [The Inverse Palace]]
 - See also: [[FAC00061_Orders_62
 - Compare with [step_084 (phase_016)]]
-- Originates from [[NPC01093_Kaelen_Zephyrblade_the_Broken
-- See also: [Portal Network]]
+- Originates from [[NPC01093_Kaelen_Zephyrblade_the_Broken]]
 - Parallels [[List Spells Optional Features Flames of the
 - Compare with [Aquabyssos World Guide (Lore)]]
-- Related: [[Quest - Civic Engagement
-- Parallels [Cross-Cultural Mediator Balance Wright]]
+- Related: [[Cross-Cultural Mediator Balance Wright]]
 - See also: [[List Spells Optional Features Visions of
 - Influences [LOC00243_Dungeons_Location_244]]
 - Parallels [[campaign_coherence_maintenance
 - Related: [ITEM00498_Enchanted_Boots_of_Fortitude]]
-- Connects to [[EVENT00007_Magical_Event_8
-- Affected by [QUEST0086_Infiltrate_the_Assassins]]
+- Connects to [[QUEST0086_Infiltrate_the_Assassins]]
 - Connects to [[step_018 (phase_083)
 - Leads to [step_009 (phase_090)]]
-- Requires [[Secular Community Practices (D&D_References)
-- Originates from [lorehold-student-scc (backgrounds)]]
-- Parallels [[Inquisitor Mordecai Truthseeker (D&D_References)
-- Requires [Goldwave Family Ring]]
+- Requires [[Secular Community Practices (D&D_References)]]
+- Parallels [[Inquisitor Mordecai Truthseeker (D&D_References)]]
 - See also: [[Egyptian Re Horakhty
 - Parallels [Portrait NPC Ancient King Pelagios V1 Ancient King Pelagios.svg]]
-- Connects to [[Dream Enhancement Techniques 2
-- Originates from [Dwarven Mya Mtf]]
+- Connects to [[Dream Enhancement Techniques 2]]
 - Parallels [[describe-appearance-and-personality-dexterity-xphb
 - Originates from [ability-modifier-attack-roll-abilities-xphb (tables)]]
 - Influences [[step_045 (phase_084)
 - Leads to [Temple of Cosmic Order]]
 - Related: [[Living Stone
 - Originates from [The Infinite Garden]]
-- Originates from [[LORE00006_Prophecies_Entry_7
-- Parallels [NPC00631_Pyria_Crystalbrook_the_Wanderer]]
+- Originates from [[NPC00631_Pyria_Crystalbrook_the_Wanderer]]
 - Affected by [[Belt of Dwarvenkind Xdmg
 - Influences [step_095 (phase_055)]]
-- See also: [[faerie-dragon-youth-xmm
-- Related: [LOC00165_Dungeons_Location_166]]
+- See also: [[LOC00165_Dungeons_Location_166]]
 - Affected by [[giant-hyena-xmm
 - Influences [The Dreamwhisper Inn 2]]
-- Related: [[step_084 (phase_063)
-- Requires [SPELL00063_Divine_Spell_64]]
+- Related: [[SPELL00063_Divine_Spell_64]]
 - Influences [[Dungeoneers Pack Xphb
 - Influences [List Spells Optional Features Rush of the]]
 - Originates from
-- See also: [[All-Seeing Mirrors
-- See also: [NPC01230_Kaelen_Proudmore_the_Fallen]]
+- See also: [[NPC01230_Kaelen_Proudmore_the_Fallen]]
 - Requires [[NPC01998_Solas_Silverleaf_the_Guardian
 - Connects to [Location City Temple of the Eternal Flame V1 Temple of the Eternal Flame.svg]]
 - Compare with [[ENC00153_Social_Encounter_154
 - Parallels [LOC00103_Dungeons_Location_104]]
-- Requires [[Silverscale Emergency Bunker
-- Leads to [Bio-Magical Integration Laboratory (D&D_References)]]
+- Requires [[Bio-Magical Integration Laboratory (D&D_References)]]
 - Influences
 - See also: [[step_088 (phase_083)
 - Requires [ITEM01310_Practical_Map_Case_of_Convenience]]
@@ -258,10 +243,8 @@ Competitor sabotaging business
 - Influences [step_007 (phase_030)]]
 - Influences [[step_097 (phase_044)
 - See also: [step_083 (phase_039)]]
-- Influences [[Catapult Munition Scc
-- Connects to [Judge-Militant Adamant Truestone 2]]
-- Influences [[Teacher Miranda Hopekeeper (D&D_References)
-- Requires [step_098 (phase_049)]]
+- Influences [[Judge-Militant Adamant Truestone 2]]
+- Influences [[Teacher Miranda Hopekeeper (D&D_References)]]
 - Related: [[halfling-names-male-xge (tables)
 - Leads to [The Screaming Battleground 2]]
 - Connects to [[step_089 (phase_020)

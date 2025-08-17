@@ -159,8 +159,7 @@ Witnessed a crime
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -175,26 +174,21 @@ Witnessed a crime
 
 - Affected by [[step_013 (phase_018)
 - Originates from [nagpa-mpmm (monstrosity)]]
-- Leads to [[House of Lords - Secret Chamber (D&D_References)
-- Influences [LOC0073_WestPeak]]
+- Leads to [[House of Lords - Secret Chamber (D&D_References)]]
 - Related: [[LOC00001_Planes_Location_2
 - Originates from [Portrait NPC High Priest Absence V1 High Priest Absence.svg]]
 - Influences [[Assets Locations Location City Living Reef Living Reef.png
 - Compare with [Dissonant Whispers Xphb]]
-- Affected by [[Combat Medic Nightshift
-- Compare with [NPC01826_Drusilla_Zephyrblade_the_Lost]]
+- Affected by [[NPC01826_Drusilla_Zephyrblade_the_Lost]]
 - See also: [[Divine Smite Xphb
 - Compare with [Portrait NPC Abyssos Prime Throne of Bubbles V2 Abyssos Prime Throne of Bubbles.svg]]
-- Requires [[NPC01820_Xander_Ironwood_the_Strong
-- Originates from [Tidepool Markets]]
+- Requires [[NPC01820_Xander_Ironwood_the_Strong]]
 - Affected by [[step_027 (phase_036)
 - Parallels [step_024 (phase_055)]]
 - Leads to [[Assets Locations Location City the Forgotten Representative V1 the Forgotten Representative.svg
 - Originates from [NPC01682_Vesper_Blackstone_the_Guardian]]
-- Requires [[LORE00177_Legends_Entry_178
-- Related: [NPC00906_Aeliana_Ashford_the_Fallen]]
-- See also: [[List Spells Races Yuan Ti Pureblood Vgm
-- Related: [Professional Organizations (D&D_References)]]
+- Requires [[NPC00906_Aeliana_Ashford_the_Fallen]]
+- See also: [[Professional Organizations (D&D_References)]]
 - Influences [[QUEST00337_Side_Quest_338
 - Requires [Location City Shadow Merchant Riptide V1 Shadow Merchant Riptide.svg]]
 - Requires [[Roleplaying a Giant Giant Flaws Vgm
@@ -216,16 +210,14 @@ Witnessed a crime
 - Related: [step_016 (phase_084)]]
 - Originates from [[Phase Shift Devices
 - Originates from [step_010 (phase_029)]]
-- Originates from [[Surface Observation Posts
-- Related: [step_040 (phase_023)]]
+- Originates from [[Surface Observation Posts]]
 - See also: [[Spell Sniper Xphb
 - Compare with [Young Bronze Dragon Xmm]]
 - Related: [[fiendish-cults-cult-hardship-mtf (tables)
 - Leads to [MON00058_Aberrations_Creature_59]]
 - Requires [[location-city-dolphin-v1-dolphin.svg
 - Parallels [step_044 (phase_015)]]
-- Affected by [[S-018_Choir_Pirates_Player (D&D_References)
-- Requires [LOC00125_Dungeons_Location_126]]
+- Affected by [[S-018_Choir_Pirates_Player (D&D_References)]]
 - Compare with
 - Leads to [[#Organization-Territory Control Matrix
 - Related: [LOC00212_Dungeons_Location_213]]
@@ -250,22 +242,18 @@ Witnessed a crime
 - Connects to
 - Leads to [[Location City Risk Assessor Probability V1 Risk Assessor Probability.svg
 - Compare with [Portrait NPC Queen Seraphina Lumengarde Queen Seraphina Lumengarde.svg]]
-- Originates from [[step_010 (phase_021)
-- Requires [The Memory Crystals Division]]
+- Originates from [[The Memory Crystals Division]]
 - Originates from [[Potion of Climbing Xdmg
 - Leads to
 - Parallels [Lighthouse of Storms]]
 - Compare with [[Ritual Redirection Options 2
 - Requires [QUEST0080_The_Final_Legacy]]
-- See also: [[oblex-spawn-mpmm (ooze)
-- Influences [Aquabyssos Technical University]]
+- See also: [[Aquabyssos Technical University]]
 - Related:
-- Compare with [[NPC01896_Qadim_Blackstone_the_Wise
-- Connects to [Stormwatch Keep 2]]
+- Compare with [[NPC01896_Qadim_Blackstone_the_Wise]]
 - Influences [[scroll-of-protection-xdmg (items)
 - Influences [Emergency Response Stations 2]]
-- Compare with [[Brightforge 2
-- Compare with [Pressure Politics (D&D_References)]]
+- Compare with [[Pressure Politics (D&D_References)]]
 - See also: [[Handout Handout Merchant Contract with Fine Print V3 Merchant Contract with Fine Print.png
 - Related: [16 Credits]]
 - Compare with [[Quarantine_Notice_Crystal_Plagu

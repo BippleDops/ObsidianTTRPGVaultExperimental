@@ -25,5 +25,8 @@
   "alt_text": "Concept art of gnoll-witherling-mpmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-gnoll-witherling-mpmm-v2-gnoll-witherling-mpmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-gnoll-witherling-mpmm-v2-gnoll-witherling-mpmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:03:43.421Z",
+  "generationMethod": "ComfyUI"
 }

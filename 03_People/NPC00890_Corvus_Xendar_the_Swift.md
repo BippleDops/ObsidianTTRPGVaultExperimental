@@ -174,8 +174,7 @@ Has map to lost treasure
 
 - Parallels [[sea-hag-xmm
 - Related: [step_033 (phase_009)]]
-- Leads to [[The Original Senators
-- Compare with [NPC01857_Wynne_Crystalbrook_the_Mystic]]
+- Leads to [[NPC01857_Wynne_Crystalbrook_the_Mystic]]
 - Leads to [[Emergency Management 2
 - Compare with [Watchtower Prime 2]]
 - Affected by
@@ -185,8 +184,7 @@ Has map to lost treasure
 - Affected by [Assets Locations Location City the Royal Palace V1 the Royal Palace.svg]]
 - Compare with [[Assets Locations Location City Archaeological Society Archaeological Society.svg
 - Related: [ENC00185_Social_Encounter_186]]
-- Compare with [[INV-009 (D&D_References)
-- Related: [LOC00206_Cities_Location_207]]
+- Compare with [[LOC00206_Cities_Location_207]]
 - See also: [[ITEM00106_Venomous_Staff_of_Slaying
 - Related: [Portrait NPC Sea Spirit Priests Sea Spirit Priests.svg]]
 - Requires [[Candle of Invocation Xdmg
@@ -198,21 +196,17 @@ Has map to lost treasure
 - Leads to [step_005 (phase_056)]]
 - Affected by [[step_018 (phase_038)
 - Influences [swarm-of-bats-xmm (beast)]]
-- Connects to [[step_066 (phase_025)
-- Originates from [Artificers' Consortium (D&D_References)]]
+- Connects to [[Artificers' Consortium (D&D_References)]]
 - Parallels [[ITEM00420_Fortified_Boots_of_Grace
 - Leads to [step_036 (phase_044)]]
 - Compare with
-- Related: [[ENC00166_Social_Encounter_167
-- Connects to [step_004 (phase_032)]]
+- Related: [[ENC00166_Social_Encounter_167]]
 - Originates from [[Grand Harbor 2
 - Originates from [enduring-spellbook-xdmg (items)]]
-- Connects to [[ENC00195_Environmental_Encounter_196
-- Originates from [step_024 (phase_080)]]
+- Connects to [[ENC00195_Environmental_Encounter_196]]
 - Compare with [[step_070 (phase_016)
 - Originates from [Shadow Cultis (Cults_and_Movements)]]
-- See also: [[DUN00173_Dungeon_174
-- Leads to [ENC00209_Social_Encounter_210]]
+- See also: [[ENC00209_Social_Encounter_210]]
 - Connects to [[Convergence Crisis Scenarios Index
 - See also:
 - Affected by [The Great Convergence Prophecies]]
@@ -230,12 +224,10 @@ Has map to lost treasure
 - Related:
 - Affected by [[Master Artist Pear 2
 - Parallels [step_089 (phase_059)]]
-- Parallels [[manticore-xmm (monstrosity)
-- Affected by [NPC0085_Fiora_Goldleaf_the_Merciful]]
+- Parallels [[NPC0085_Fiora_Goldleaf_the_Merciful]]
 - Influences [[Assets Locations Location City Echo Theorist Maya Echo Theorist Maya.svg
 - See also: [step_021 (phase_068)]]
-- Requires [[step_045 (phase_092)
-- Leads to [Probability Garden (D&D_References)]]
+- Requires [[Probability Garden (D&D_References)]]
 - Originates from [[Location City Elder Matthias Stoneward V1 Elder Matthias Stoneward.svg
 - Connects to [LORE00139_Prophecies_Entry_140]]
 - Compare with [[The Overflow (D&D_References)
@@ -264,8 +256,7 @@ Has map to lost treasure
 - Connects to [[Portrait NPC the Azure Prophet Nerissa V1 the Azure Prophet Nerissa.svg_1 (Portraits)
 - Influences [Assets Locations Location City Coral Vortextrader Coral Vortextrader.svg]]
 - Originates from
-- Influences [[Forgotten Realms Cyric
-- Parallels [LOC00035_Wilderness_Location_36]]
+- Influences [[LOC00035_Wilderness_Location_36]]
 - Influences [[location-city-shadow-wells-shadow-wells.svg
 - Related: [NPC01339_Gavril_Moonshadow_the_Mystic]]
 - Connects to [[Quest - The Collective Consciousness

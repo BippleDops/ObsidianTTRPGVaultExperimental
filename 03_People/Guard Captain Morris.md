@@ -335,16 +335,13 @@ ___
 ## Connections
 
 - Parallels [step_036 (phase_085)]]
-- Compare with [[NPC00797_Brenna_Oakenshield_the_Wise
-- Requires [Kelp Highway (D&D_References)]]
+- Compare with [[NPC00797_Brenna_Oakenshield_the_Wise]]
 - Compare with [[ENC00326_Combat_Encounter_327
 - Leads to [Assets Locations Location City Transportation Guild Masters Transportation Guild Masters.svg]]
 - Compare with [[Symbol Heraldry Aquabyssos Faction Web Aquabyssos Faction Web.svg
 - Compare with [Portrait NPC High Techno Priest Lumina Skyweaver V1 High Techno Priest Lumina Skyweaver.svg_1 (Portraits)]]
-- Leads to [[LOC00132_Planes_Location_133
-- Parallels [step_008 (phase_007)]]
-- Compare with [[D-019_Oracle_Whale_Player
-- Leads to [step_068 (phase_014)]]
+- Leads to [[LOC00132_Planes_Location_133]]
+- Compare with [[D-019_Oracle_Whale_Player]]
 - Requires [[Assets Locations Location City Trader Compass Rose Trader Compass Rose.svg
 - Compare with [SPELL00014_Divine_Spell_15]]
 - Influences [[Assets Item Artifact Warhammer Xphb V6 Warhammer Xphb.png
@@ -361,8 +358,7 @@ ___
 - Connects to [Ammunition 2 Xdmg]]
 - See also: [[The Deep Markets
 - Parallels [FAC00058_Cults_59]]
-- Influences [[Master Illusion Kyrian Mindweaver
-- Connects to [SPELL00110_Nature_Spell_111]]
+- Influences [[Master Illusion Kyrian Mindweaver]]
 - See also: [[Communications Operator Silence (D&D_References)
 - Requires [Quest - The Corruption Investigation_1 (01_Adventures)]]
 - Influences [[Location City the Suicide Bridges the Suicide Bridges.svg
@@ -371,10 +367,8 @@ ___
 - Originates from [step_086 (phase_049)]]
 - Requires [[QUEST00141_Side_Quest_142
 - Originates from [Assets Vehicles Vehicle Ship Hybrid Rift Runner Sloop V1 Hybrid Rift Runner Sloop.png]]
-- Leads to [[14-gods-of-the-multiverse (players-handbook-2014)
-- Parallels [The Brotherhood of the Black Anchor (D&D_References)]]
-- Influences [[Great Sundering
-- See also: [NPC01341_Malakai_Voidwalker_the_Bold]]
+- Leads to [[The Brotherhood of the Black Anchor (D&D_References)]]
+- Influences [[NPC01341_Malakai_Voidwalker_the_Bold]]
 - Originates from [[step_067 (phase_042)
 - Parallels [Physical Variations Yuan Ti Humanoid Skin Color Vgm]]
 - Influences [[mantle-of-spell-resistance-xdmg (items)
@@ -383,8 +377,7 @@ ___
 - Parallels [Drider Xmm]]
 - Leads to [[Symbol Heraldry the Deepwatch Guard the Deepwatch Guard.svg
 - Parallels [Location City Infrastructure Development V1 Infrastructure Development.svg]]
-- See also: [[Supply Master Cargo Deephaul
-- Affected by [Shadow Duchess Nyx (D&D_References)]]
+- See also: [[Shadow Duchess Nyx (D&D_References)]]
 - Parallels [[Random Encounter Tables Aquabyssos.png
 - Originates from [Portrait NPC Duke Lysander Crystalvein Duke Lysander Crystalvein.svg_1 (Portraits)]]
 - See also: [[Creature Xphb
@@ -403,8 +396,7 @@ ___
 - Parallels
 - Related: [[SPELL00103_Divine_Spell_104
 - Originates from [portrait-npc-knight-knight.svg]]
-- Connects to [[NPC00560_Delara_Winterborn_the_Wanderer
-- Influences [The Deep Temple]]
+- Connects to [[NPC00560_Delara_Winterborn_the_Wanderer]]
 - Affected by [[Emergency Hollow
 - Originates from [ITEM00391_Thunder_Spear_of_the_Ancients]]
 - Parallels
@@ -414,16 +406,12 @@ ___
 - Leads to [spell-gem-star-ruby-oota (items)]]
 - Affected by [[net-trap-xge (traps-hazards)
 - Influences [ENC00131_Social_Encounter_132]]
-- Requires [[Memory Recovery Specialist 2
-- Compare with [step_027 (phase_081)]]
-- Affected by [[SPELL00138_Arcane_Spell_139
-- Parallels [The Coral Architecture Philosophy (D&D_References)]]
+- Requires [[Memory Recovery Specialist 2]]
+- Affected by [[The Coral Architecture Philosophy (D&D_References)]]
 - Influences [[Location City Surface Expert Grainwise Surface Expert Grainwise.svg
 - Compare with [step_071 (phase_010)]]
-- Parallels [[Senator's Widow Marcella 2
-- Parallels [Locations the Emergency Response Center]]
-- Connects to [[NPC00014_Alaric_Lightbringer
-- See also: [FAC00043_Guilds_44]]
+- Parallels [[Locations the Emergency Response Center]]
+- Connects to [[NPC00014_Alaric_Lightbringer]]
 - Related: [[Magic Item Table E
 - Related: [INDEX]]
 - Connects to [[Portrait NPC the Shadow Singer Naia the Shadow Singer Naia.svg_1 (Portraits)

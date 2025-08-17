@@ -162,9 +162,7 @@ Competitor sabotaging business
 
 ## Connections
 
-- Related: [[dark-gift-of-seriach-the-hell-hound-whisperer-cos
-- Leads to
-- Requires [Symbol Heraldry Sup... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Related: [[Symbol Heraldry Sup... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Parallels [[step_023 (phase_054)
 - Connects to [step_064 (phase_072)]]
 - See also:
@@ -172,16 +170,13 @@ Competitor sabotaging business
 - Connects to [step_034 (phase_062)]]
 - Leads to [[Clockwork Oaken Bolter Mpmm
 - Originates from [The Umbral Market Plaza]]
-- Related: [[SPELL00103_Arcane_Spell_104
-- Leads to [Deep Studycurrent (D&D_References)]]
-- Originates from [[aid-xphb (spells)
-- Requires [LOC00136_Wilderness_Location_137]]
+- Related: [[Deep Studycurrent (D&D_References)]]
+- Originates from [[LOC00136_Wilderness_Location_137]]
 - Originates from [[bone-devil-xmm (fiend)
 - Connects to [The Free Current]]
 - Influences [[Symbol Heraldry Family Retaine V1 Family Retaine.svg
 - Connects to [LOC0015_LowerBridge]]
-- See also: [[LOC00080_Towns_Location_81
-- See also: [step_004 (phase_006)]]
+- See also: [[LOC00080_Towns_Location_81]]
 - Related:
 - Related: [[location-city-indigo-deepdye-v1-indigo-deepdye.svg
 - Affected by
@@ -192,16 +187,13 @@ Competitor sabotaging business
 - Affected by [guard-drake-white-mpmm (dragon)]]
 - Compare with [[step_072 (phase_036)
 - Influences [mastiff-xmm (beast)]]
-- See also: [[The Memory Palace (D&D_References)
-- Affected by [Pressure-Lock Systems (D&D_References)]]
+- See also: [[Pressure-Lock Systems (D&D_References)]]
 - Affected by [[list-spells-feats-magic-initiate-xphb (lists)
 - Leads to [LOC00130_Cities_Location_131]]
-- Connects to [[Aquabyssos-Aethermoor Treaties 2
-- Requires [step_024 (phase_057)]]
+- Connects to [[Aquabyssos-Aethermoor Treaties 2]]
 - Originates from [[step_022 (phase_097)
 - Influences [ITEM00261_Cursed_Dagger_of_Power]]
-- Related: [[Whisper Island
-- Leads to [QUEST00170_Personal_Quest_171]]
+- Related: [[QUEST00170_Personal_Quest_171]]
 - Originates from [[Random Traps Trap Trigger
 - Leads to [LORE00061_Prophecies_Entry_62]]
 - Influences
@@ -210,15 +202,11 @@ Competitor sabotaging business
 - Connects to [[Merchant Prince Vortex 2
 - Leads to [step_053 (phase_059)]]
 - Compare with
-- Connects to [[QUEST00198_Personal_Quest_199
-- Requires [step_019 (phase_069)]]
-- Related: [[ink-pen-xphb (items)
-- Originates from [Northern Fortresses (D&D_References)]]
+- Connects to [[QUEST00198_Personal_Quest_199]]
+- Related: [[Northern Fortresses (D&D_References)]]
 - Originates from
-- Leads to [[step_075 (phase_034)
-- Related: [NPC00975_Lyanna_Winterborn_the_Wise]]
-- Affected by [[step_043 (phase_019)
-- Compare with [The Century of Storms (D&D_References)]]
+- Leads to [[NPC00975_Lyanna_Winterborn_the_Wise]]
+- Affected by [[The Century of Storms (D&D_References)]]
 - Originates from [[LORE00067_History_Entry_68
 - Affected by [Assets Locations Location City Fire Crystal V1 Fire Crystal.svg]]
 - Related: [[step_049 (phase_035)
@@ -227,27 +215,22 @@ Competitor sabotaging business
 - Requires [location-city-aquabyssos-v1-aquabyssos.svg]]
 - Originates from [[Portrait NPC Senator Cordelia Deepcurrent V1 Senator Cordelia Deepcurrent.svg
 - Parallels [NPC01646_Hestara_Voidwalker_the_Seeker]]
-- Affected by [[50K_ENHANCEMENTS_COMPLETE
-- Leads to [Deepsteel]]
+- Affected by [[50K_ENHANCEMENTS_COMPLETE]]
 - Leads to [[step_025 (phase_096)
 - Requires [ITEM01209_Concentrated_Elixir_of_Fortune]]
 - Influences [[step_039 (phase_009)
 - Connects to [Food and Water Needs]]
-- Influences [[Truth_and_Madness.png
-- Leads to [NPC01458_Aldric_Silverleaf_the_Scholar]]
-- Compare with [[step_083 (phase_043)
-- Connects to [Fort Nautilus (D&D_References)]]
+- Influences [[NPC01458_Aldric_Silverleaf_the_Scholar]]
+- Compare with [[Fort Nautilus (D&D_References)]]
 - Influences [[green-slime-xdmg (traps-hazards)
 - Parallels [step_071 (phase_011)]]
 - Related: [[step_078 (phase_081)
 - Influences [step_008 (phase_024)]]
-- Related: [[optimization_report_*.md
-- Leads to [Houses_and_Nobility - House Deepcurrent]]
+- Related: [[Houses_and_Nobility - House Deepcurrent]]
 - Leads to [[Skill_DCs
 - Influences [Recent Events]]
 - Compare with
-- Parallels [[step_001 (phase_005)
-- Affected by [Viscount Deeper-Still (D&D_References)]]
+- Parallels [[Viscount Deeper-Still (D&D_References)]]
 - Requires [[carrion-crawler-mucus-xdmg (items)
 - Parallels [step_059 (phase_030)]]
 - Parallels [[list-optfeaturetype-ed (lists)
@@ -256,10 +239,8 @@ Competitor sabotaging business
 - See also: [step_065 (phase_085)]]
 - Influences [[step_057 (phase_046)
 - Influences [ITEM00683_Adamantine_Chain_Mail_of_the_Guardian]]
-- Compare with [[MON00032_Undead_Creature_33
-- See also: [step_066 (phase_012)]]
-- See also: [[step_068 (phase_040)
-- Compare with [Chronokeeper Tide Timestable]]
+- Compare with [[MON00032_Undead_Creature_33]]
+- See also: [[Chronokeeper Tide Timestable]]
 - Related: [[dwarven-berronar-truesilver-mtf (deities)
 - Influences [octopus-xmm (beast)]]
 

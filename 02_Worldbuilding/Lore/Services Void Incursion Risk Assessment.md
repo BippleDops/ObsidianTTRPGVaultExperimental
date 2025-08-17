@@ -1,7 +1,6 @@
 ---
 
-title: Services [[Void Incursion Risk Assessment
-type: [Lore]]
+title: Services [[Void Incursion Risk Assessment]]
 tags:
 - lore
 - active

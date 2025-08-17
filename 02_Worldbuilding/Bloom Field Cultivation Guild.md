@@ -41,11 +41,8 @@ updated: '2025-08-13T01:18:36.818122+00:00'
 
 - A merchant needs help finding before the festival
 - Someone is protecting information for power
-- An heirloom has gone missing and evil awakens ## Related Notes - [[Similar Topic 1
-
-- [Contrasting Approach]]
-- [[Advanced Version
-- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
+- An heirloom has gone missing and evil awakens ## Related Notes - [[Contrasting Approach]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

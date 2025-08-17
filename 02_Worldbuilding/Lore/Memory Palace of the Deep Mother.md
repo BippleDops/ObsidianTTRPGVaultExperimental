@@ -1,7 +1,6 @@
 ---
 
-title: Memory Palace of the [[Deep Mother
-type: [Lore]]
+title: Memory Palace of the [[Deep Mother]]
 tags:
 - lore
 - worldbuilding

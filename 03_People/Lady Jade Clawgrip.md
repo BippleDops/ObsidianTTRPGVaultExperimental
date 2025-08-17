@@ -243,10 +243,7 @@ When encountered in [The Silver Tower of Commerce]] or another major business lo
 **Predator's Mark**: Can track anyone she's conducted business with for up to 1 year
 **Silver Tongue**: Advantage on all Deception and Persuasion checks involving ficial matters
 **Territorial Awareness**: Knows immediately when competitors enter her established business territories
-**Generational Memory**: Can access fragments of grandfather [[Argyros the Silver's memories
-
-### The Clawgrip Vault
-Located beneath [The Silver Tower of Commerce]], Jade's personal treasure hoard rivals ancient dragons:
+**Generational Memory**: Can access fragments of grandfather [[Argyros the Silver]], Jade's personal treasure hoard rivals ancient dragons:
 - **Liquid Assets**: 2.8 million gold pieces in various currencies
 - **Art Collection**: 127 pieces valued at 50,000+ gold each
 - **Magic Items**: 23 legendary items with commercial applications
@@ -506,8 +503,6 @@ Legends speak of Lady Jade Clawgrip as a nexus where past and present converge. 
 
 - [[Assets Art Astrologer Prime Cassandra Starweaver.png
 - [Assets Locations Location City Professor Marina Reefbuilder V1 Professor Marina Reefbuilder.svg]]
-- [[Commander Thrace Ironwood
-- [Sirens]]
-- [[Silverscale Consortium (D&D_References)
-- [Sirens (D&D_References)]]
+- [[Commander Thrace Ironwood]]
+- [[Silverscale Consortium (D&D_References)]]
 - [[Commander Thrace Ironwood (D&D_Statblocks)]]

@@ -171,8 +171,7 @@ Provides information for a price
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -188,10 +187,8 @@ Provides information for a price
 
 - Requires [[location-city-the-last-dance-v1-the-last-dance.svg
 - Compare with [LOC00037_Cities_Location_38]]
-- Affected by [[ITEM0043_Divine_Gauntlet_of_Power
-- Influences [Memory Instruments 2]]
-- Affected by [[Religious Groups (D&D_References)
-- See also: [Evidence Types Guide 2]]
+- Affected by [[ITEM0043_Divine_Gauntlet_of_Power]]
+- Affected by [[Religious Groups (D&D_References)]]
 - Connects to [[The Vault of Whispers 2
 - Leads to [Location City Community Leaders V1 Community Leaders.svg]]
 - See also: [[LOC00017_Planes_Location_18
@@ -203,16 +200,14 @@ Provides information for a price
 - Originates from [[Caravan Master Dolrim
 - See also:
 - Compare with [SHOP00034_General_Shop_35]]
-- Affected by [[NPC00747_Hilda_Crystalbrook_the_Broken
-- Requires [Revolutionary Crystal Consciousness]]
+- Affected by [[NPC00747_Hilda_Crystalbrook_the_Broken]]
 - Related: [[ENC00376_Combat_Encounter_377
 - Affected by [Creature Creature Young Green Dragon Xmm V1 Young Green Dragon Xmm.png]]
 - Related: [[creature-creature-allip-mpmm-v1-allip-mpmm.png
 - Connects to [Location City Memoriam Keeper Marcus Remembrance V1 Memoriam Keeper Marcus Remembrance.svg]]
 - Influences [[NPC_Portraits_Gallery (03_People)_Quick_Ref
 - Influences [Corrupt Crystalline Guard]]
-- Affected by [[ITEM0094_Glorious_Orb_of_the_Dawn
-- See also: [Sorceress Luna Prismatic (D&D_References)]]
+- Affected by [[Sorceress Luna Prismatic (D&D_References)]]
 - Requires [[Professor Aldric Crystalweaver
 - Compare with [ENC00088_Combat_Encounter_89]]
 - Requires [[step_037 (phase_028)
@@ -229,21 +224,17 @@ Provides information for a price
 - Connects to [step_007 (phase_004)]]
 - Compare with [[City Speakers
 - Leads to [step_016 (phase_029)]]
-- Compare with [[ENC00322_Combat_Encounter_323
-- Leads to [Patrol Boundaryrider]]
+- Compare with [[ENC00322_Combat_Encounter_323]]
 - Parallels [[The Probability Courts
 - Compare with [step_065 (phase_039)]]
 - Influences
-- See also: [[Weapons Trader Gareth Steelmerchant
-- Affected by [Locked Door Lock Quality Xdmg]]
+- See also: [[Weapons Trader Gareth Steelmerchant]]
 - Parallels [[The Crystal Academy Council
 - Requires [ENC00196_Social_Encounter_197]]
-- Leads to [[Fishing Tackle
-- See also: [Surface Portal Alpha (D&D_References)]]
+- Leads to [[Surface Portal Alpha (D&D_References)]]
 - Originates from [[step_065 (phase_100)
 - Affected by [crossbow-trap-xge (traps-hazards)]]
-- Parallels [[LOC00247_Wilderness_Location_248
-- Requires [step_063 (phase_099)]]
+- Parallels [[LOC00247_Wilderness_Location_248]]
 - Related: [[Carrion Crawler Xmm
 - See also:
 - Leads to [Symbol Heraldry Merchant Family Tidewalker Merchant Family Tidewalker.svg]]
@@ -262,14 +253,12 @@ Provides information for a price
 - Compare with [[ENC0052_Random_Encounter_53
 - Originates from [Location City Luminar the Builder Luminar the Builder.svg]]
 - Connects to
-- Compare with [[SPELL00033_Divine_Spell_34
-- Connects to [Sea Hag]]
+- Compare with [[SPELL00033_Divine_Spell_34]]
 - Compare with [[Portrait NPC Vex Shadowthorn S Apprentices V1 Vex Shadowthorn S Apprentices.svg_1 (Portraits)
 - Requires [Assets Locations Location City Sage Rememberall V1 Sage Rememberall.svg]]
 - Originates from [[Assets Locations Location City Current Riders Guild V1 Current Riders Guild.svg
 - Requires [QUEST00224_Side_Quest_225]]
-- See also: [[The Memory Gifted Historian Scholar Echo
-- Leads to [LOC00190_Towns_Location_191]]
+- See also: [[The Memory Gifted Historian Scholar Echo]]
 - Connects to [[darkvision-xphb (spells)
 - Related: [step_002 (phase_007)]]
 - Compare with [[Portrait NPC Paladin Commander Sir Radiant Dawnbreaker Paladin Commander Sir Radiant Dawnbreaker.svg

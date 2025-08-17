@@ -281,4 +281,4 @@ ___
 
 ## References
 
-- [[Assets Art Botanist Rose Sundrinker.png]]
+- [[Botanist Rose Sundrinker]]

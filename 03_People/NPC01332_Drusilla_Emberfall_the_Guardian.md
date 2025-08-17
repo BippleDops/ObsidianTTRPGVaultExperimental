@@ -164,27 +164,19 @@ Forming expedition to dangerous location
 
 ## Connections
 
-- Compare with [[Lieutenant Loyalt (D&D_References)
-- Related: [ENC00223_Social_Encounter_224]]
+- Compare with [[Lieutenant Loyalt (D&D_References)]]
 - Connects to
-- Influences [[Blacksmith Cross-Hammer Grendel
-- Connects to [Religious Trend Analysis]]
-- Parallels [[step_007 (phase_043)
-- Connects to [list-spells-school-abjuration]]
-- Parallels [[Duchess Aurora Spirelight 2
-- Originates from [Cultural Integration Trade Associatio]]
+- Influences [[Blacksmith Cross-Hammer Grendel]]
+- Parallels [[list-spells-school-abjuration]]
+- Parallels [[Cultural Integration Trade Associatio]]
 - Originates from
-- Compare with [[Asset Database
-- See also: [NPC01256_Jorah_Proudmore_the_Cunning]]
+- Compare with [[NPC01256_Jorah_Proudmore_the_Cunning]]
 - Compare with [[Elena Prismweaver 2
 - See also: [Gilded Royal Coach or Funeral Barge Xdmg]]
 - Related: [[Location City the Porters Union the Porters Union.svg
 - Compare with [Depth Adaptation Points]]
-- See also: [[Dangerous Goods Storage (D&D_References)
-- Parallels
-- Originates from [step_062 (phase_040)]]
-- Compare with [[ENC00364_Combat_Encounter_365
-- Influences [Aethermoor - Session 04 The Silverscale Gambit]]
+- See also: [[Dangerous Goods Storage (D&D_References)]]
+- Compare with [[Aethermoor - Session 04 The Silverscale Gambit]]
 - Connects to [[Aquabyssos World Guide 2
 - Affected by [step_027 (phase_047)]]
 - Leads to
@@ -194,36 +186,28 @@ Forming expedition to dangerous location
 - Compare with [location-city-the-deep-temple-the-deep-temple.svg]]
 - Influences [[The Seven Betrayers 2
 - Requires [step_005 (phase_014)]]
-- Related: [[Marina Administration Center
-- Affected by [The Suicide Bridges]]
+- Related: [[Marina Administration Center]]
 - See also:
-- Leads to [[step_011 (phase_094)
-- Requires [LOC00044_Planes_Location_45]]
+- Leads to [[LOC00044_Planes_Location_45]]
 - Originates from [[Assets Locations Location City Palace Guardians V1 Palace Guardians.svg
 - Connects to [Assets Locations Location City Family Portrait Family Portrait.svg]]
-- See also: [[QUEST00352_Side_Quest_353
-- Related: [Crime Loot Value Xge]]
+- See also: [[QUEST00352_Side_Quest_353]]
 - Related:
-- Originates from [[NPC01081_Gavril_Hawthorne_the_Mystic
-- See also: [Compelled Duel Xphb]]
-- See also: [[ITEM00689_Fortified_Plate_of_Fortitude
-- Parallels [Pirate Captain Blacktide (D&D_References)]]
+- Originates from [[NPC01081_Gavril_Hawthorne_the_Mystic]]
+- See also: [[Pirate Captain Blacktide (D&D_References)]]
 - Compare with [[ITEM00461_Warded_Gauntlets_of_Resistance
 - See also: [step_060 (phase_076)]]
 - Leads to [[step_092 (phase_073)
 - Affected by [step_027 (phase_052)]]
-- Leads to [[Portrait NPC Sena... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Leads to [ITEM00859_Ancient_Crown_of_Eternity]]
+- Leads to [[Portrait NPC Sena... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Influences [[Assets Locations Location City Sacred Healing Springs Sacred Healing Springs.svg
 - Leads to [02_Worldbuilding_Groups_Pressure_Safety_Authorit]]
-- Requires [[ITEM01330_Masterwork_Lantern_of_Quality
-- Related: [Underground Smuggling Networks (D&D_References)]]
+- Requires [[Underground Smuggling Networks (D&D_References)]]
 - Related: [[step_036 (phase_057)
 - Leads to [step_027 (phase_063)]]
 - Parallels [[Assets Locations Location City Artist Wave Creator V1 Artist Wave Creator.svg
 - Originates from [Saving Throws Proficiency Bonus by Challenge Rating Mm]]
-- Parallels [[step_058 (phase_056)
-- Influences [LOC00104_Towns_Location_105]]
+- Parallels [[LOC00104_Towns_Location_105]]
 - Originates from [[QUEST00321_Side_Quest_322
 - Originates from [Surface Contacts (D&D_References)]]
 - Related: [[Keeper Deepcurrent (D&D_References)
@@ -244,15 +228,13 @@ Forming expedition to dangerous location
 - Compare with [Travel_Rules]]
 - Leads to [[step_032 (phase_038)
 - Compare with [Harbor Defense Grid 2]]
-- Influences [[Identity Trader Masquerad (D&D_References)
-- Related: [Scholar Vivienne the Chronicler (D&D_Statblocks)]]
+- Influences [[Scholar Vivienne the Chronicler (D&D_Statblocks)]]
 - Requires [[Location City Sanctuary Safeharbor Sanctuary Safeharbor.svg
 - Requires [step_093 (phase_061)]]
 - Originates from
 - Leads to [[Animated Flying Sword Xmm
 - Parallels [Experimental Medical Ethics]]
-- Connects to [[Consequence Chain 3 Reality Merger
-- Affected by [long-term-madness (tables)]]
+- Connects to [[Consequence Chain 3 Reality Merger]]
 - Compare with [[ITEM00774_Divine_Scepter_of_Dominion
 - Parallels [step_047 (phase_036)]]
 - Requires [[QUEST00420_Side_Quest_421

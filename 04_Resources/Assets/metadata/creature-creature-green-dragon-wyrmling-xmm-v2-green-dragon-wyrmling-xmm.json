@@ -25,5 +25,8 @@
   "alt_text": "Concept art of green-dragon-wyrmling-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-green-dragon-wyrmling-xmm-v2-green-dragon-wyrmling-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-green-dragon-wyrmling-xmm-v2-green-dragon-wyrmling-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:04:07.030Z",
+  "generationMethod": "ComfyUI"
 }

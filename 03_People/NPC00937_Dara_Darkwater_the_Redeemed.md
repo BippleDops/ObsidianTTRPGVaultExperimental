@@ -174,13 +174,10 @@ Has map to lost treasure
 - Related:
 - Parallels [step_099 (phase_057)]]
 - Affected by
-- Leads to [[Security Chief Guard Protectionstrike
-- Related: [Quest - The Lost Verse]]
+- Leads to [[Security Chief Guard Protectionstrike]]
 - Compare with
-- Related: [[step_086 (phase_051)
-- Originates from [Deep Current Network (D&D_References)]]
-- Related: [[Biological Enhancement Laboratory (D&D_References)
-- Parallels [random-buildings-tavern-name-generator (tables)]]
+- Related: [[Deep Current Network (D&D_References)]]
+- Related: [[Biological Enhancement Laboratory (D&D_References)]]
 - See also: [[Portrait NPC Current Lord Triton of House Pelagios V1 Current Lord Triton of House Pelagios.svg
 - See also: [step_011 (phase_034)]]
 - Connects to [[Assets Portraits Portrait NPC the Shadow Surgeons the Shadow Surgeons.svg
@@ -189,18 +186,14 @@ Has map to lost treasure
 - Requires [spirit-naga-xmm]]
 - Leads to [[step_094 (phase_032)
 - Leads to [drider-xmm (monstrosity)]]
-- See also: [[The Crystal Cathedral of Pure Light 2
-- Parallels [Memory Parasite Infection (D&D_References)]]
-- Related: [[Pressure_Altitude_Reference
-- Influences [Deep Mother Spawning Pools (D&D_References)]]
+- See also: [[Memory Parasite Infection (D&D_References)]]
+- Related: [[Deep Mother Spawning Pools (D&D_References)]]
 - Related: [[actions#Search
 - Affected by [LOC00272_Wilderness_Location_273]]
 - Influences [[step_003 (phase_046)
 - Connects to [LORE00318_History_Entry_319]]
-- Related: [[Void Keeper
-- Parallels [Aethermoor Naval Rules]]
-- See also: [[Mystery Key Xdmg
-- Requires [bone-devil-xmm (fiend)]]
+- Related: [[Aethermoor Naval Rules]]
+- See also: [[bone-devil-xmm (fiend)]]
 - Parallels [[Assets Locations Location City the Banshee Caverns the Banshee Caverns.svg
 - See also: [step_062 (phase_009)]]
 - Connects to [[SPELL00126_Divine_Spell_127
@@ -215,42 +208,31 @@ Has map to lost treasure
 - See also: [step_051 (phase_095)]]
 - Compare with [[ITEM00390_Blessed_Staff_of_the_Ancients
 - Requires [NPC01033_Rhiannon_Voidwalker_the_Seeker]]
-- Influences [[Augury Xphb
-- Influences [Tribune Cassia (D&D_References)]]
+- Influences [[Tribune Cassia (D&D_References)]]
 - Compare with [[step_035 (phase_010)
 - Requires
 - Leads to [Erinyes Xmm]]
 - Leads to [[ENC00049_Social_Encounter_50
 - Compare with
 - Parallels [Assets Handouts Handout Handout Merchant Contract with Fine Print V1 Merchant Contract with Fine Print.png]]
-- Parallels [[step_046 (phase_095)
-- See also: [MON00037_Constructs_Creature_38]]
-- Connects to [[Culture Builde (D&D_References)
-- Influences [Nystuls Magic Aura Xphb]]
-- See also: [[Echo-Prime Cacophony Voidlung (D&D_References)
-- Connects to [The Mothercoral Crisis]]
+- Parallels [[MON00037_Constructs_Creature_38]]
+- Connects to [[Culture Builde (D&D_References)]]
+- See also: [[Echo-Prime Cacophony Voidlung (D&D_References)]]
 - Requires [[Keeper of the Past Elderly Morgan
 - Requires [Assets Handouts Handout Handout Smuggler Ledger Page V1 Smuggler Ledger Page.png]]
 - Affected by [[bronze-crown-xdmg (items)
 - Parallels [step_083 (phase_091)]]
-- Requires [[The Forsaken Consortium Collective
-- Leads to [Master Banker Cornelius Coinwright 2]]
-- Requires [[downtime-activity-gambling-xge (variant-rules)
-- Parallels [step_082 (phase_053)]]
-- See also: [[Black Dragon
-- Affected by [Treasure Hunter Jake Gravecoin]]
-- See also: [[Sir Theron Brightshield
-- Parallels
-- Originates from [Investigation Laboratories (D&D_References)]]
-- Affected by [[step_062 (phase_036)
-- See also: [ENC00477_Combat_Encounter_478]]
+- Requires [[Master Banker Cornelius Coinwright 2]]
+- Requires [[downtime-activity-gambling-xge (variant-rules)]]
+- See also: [[Treasure Hunter Jake Gravecoin]]
+- See also: [[Investigation Laboratories (D&D_References)]]
+- Affected by [[ENC00477_Combat_Encounter_478]]
 - See also: [[LOC00095_Dungeons_Location_96
 - Connects to [The Shadow Infiltration Attempt 2]]
 - Influences [[NPC00498_Fiora_Ironwood_the_Guardian
 - Affected by
 - Affected by [QUEST00090_Side_Quest_91]]
-- Parallels [[NPC00081_Gareth_Winterborn_the_Seeker
-- Connects to [Wand of Pyrotechnics Xdmg]]
+- Parallels [[NPC00081_Gareth_Winterborn_the_Seeker]]
 - Influences [[step_059 (phase_052)
 - Connects to [monster-hunters-pack-vrgr (items)]]
 - Related:

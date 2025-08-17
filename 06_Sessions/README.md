@@ -32,6 +32,6 @@ tags: [session]
 tags: [session_recaps]
 ---
 
-# [[Session Recaps]]
+# [[Session_Recaps]]
 
 This folder contains session recaps content.

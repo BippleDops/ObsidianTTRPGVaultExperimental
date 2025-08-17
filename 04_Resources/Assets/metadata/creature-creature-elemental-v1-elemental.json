@@ -25,5 +25,8 @@
   "alt_text": "Concept art of elemental with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-elemental-v1-elemental.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-elemental-v1-elemental.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:01:35.854Z",
+  "generationMethod": "ComfyUI"
 }

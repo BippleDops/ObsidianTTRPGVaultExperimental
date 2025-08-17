@@ -161,8 +161,7 @@ Wants rivals investigated
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -186,25 +185,20 @@ Wants rivals investigated
 - Requires [Burning Hands Xphb]]
 - Parallels [[step_065 (phase_043)
 - Related: [step_014 (phase_076)]]
-- Influences [[Senior Nurse Polyp Tendercurrent
-- Influences [S_018_Choir_Pirates]]
+- Influences [[Senior Nurse Polyp Tendercurrent]]
 - See also: [[Church of the Tidal Throne 2
 - Originates from [MON00088_Aberrations_Creature_89]]
-- See also: [[Heritage Archiv (D&D_References)
-- Parallels [NPC0018_Soren_Stormwind]]
+- See also: [[Heritage Archiv (D&D_References)]]
 - Affected by [[The Bleeding Chambers
 - Leads to [step_079 (phase_033)]]
-- Related: [[meenlock-mpmm (fey)
-- Parallels [The Corruption Saint Marina (D&D_References)]]
+- Related: [[The Corruption Saint Marina (D&D_References)]]
 - Influences [[Infernal Calling Xge
 - Connects to [Assets Locations Location City Nightmare Protection Nightmare Protection.svg]]
 - Related:
 - Compare with [[LOC00148_Planes_Location_149
 - Influences
 - See also: [Location City Senator Cornelius Depthwalker V1 Senator Cornelius Depthwalker.svg]]
-- Connects to [[Research Director Aquarius Brightwater 2
-- See also:
-- Leads to [ENC00076_Social_Encounter_77]]
+- Connects to [[Research Director Aquarius Brightwater 2]]
 - Influences [[NPC01573_Aeliana_Zephyrblade_the_Guardian
 - See also: [Assets Locations Location City Cultural Advisor Sarah Bridgekeeper Cultural Advisor Sarah Bridgekeeper.svg]]
 - Requires
@@ -214,8 +208,7 @@ Wants rivals investigated
 - Leads to [Berserker Axe Xdmg]]
 - Requires [[step_074 (phase_038)
 - Affected by [Anti-Scrying Division 2]]
-- Parallels [[NPC01293_Aldric_Youngblood_the_Guardian
-- Related: [DUN00054_Dungeon_55]]
+- Parallels [[NPC01293_Aldric_Youngblood_the_Guardian]]
 - Related: [[Treasure by Depth
 - Originates from [step_100 (phase_083)]]
 - Parallels [[Parliament Members
@@ -234,16 +227,13 @@ Wants rivals investigated
 - Influences [[step_043 (phase_057)
 - Connects to
 - Related: [lorehold-student-scc (backgrounds)]]
-- Affected by [[Merchant's Consortium (D&D_References)
-- Influences [bless-xphb (spells)]]
-- Leads to [[step_092 (phase_048)
-- Affected by [MON00134_Undead_Creature_135]]
+- Affected by [[Merchant's Consortium (D&D_References)]]
+- Leads to [[MON00134_Undead_Creature_135]]
 - Compare with [[ITEM00567_Fortified_Plate_of_Fortitude
 - Originates from
 - Compare with [Assets Locations Location City Marcus Evenscale Marcus Evenscale.svg]]
 - Requires
-- Connects to [[The Crimson Reef
-- Connects to [Shadow Portal Nexus (D&D_References)]]
+- Connects to [[Shadow Portal Nexus (D&D_References)]]
 - See also: [[LOC00283_Towns_Location_284
 - Originates from [EVENT00041_Natural_Event_42]]
 - Requires
@@ -262,8 +252,7 @@ Wants rivals investigated
 - Originates from [[step_070 (phase_029)
 - Affected by
 - Parallels [Map Map Wrecked Submarine Interior V1 Wrecked Submarine Interior.svg]]
-- Originates from [[Major Trading Companies (D&D_References)
-- Originates from [QUEST00022_Personal_Quest_23]]
+- Originates from [[Major Trading Companies (D&D_References)]]
 - Influences [[Assets Locations Location City Marina Bridgewater Marina Bridgewater.svg
 - Influences [The Council of Shadows]]
 - Leads to [[MON00139_Aberrations_Creature_140

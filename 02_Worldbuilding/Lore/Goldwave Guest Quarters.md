@@ -52,5 +52,4 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [Goldwave Manor]]
-- [[Goldwave Manor (D&D_References)
-- [Goldwave Manor 3 (D&D_References)]]
+- [[Goldwave Manor 3 (D&D_References)]]

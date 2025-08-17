@@ -25,5 +25,8 @@
   "alt_text": "Concept art of faerie-dragon-youth-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-faerie-dragon-youth-xmm-v2-faerie-dragon-youth-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-faerie-dragon-youth-xmm-v2-faerie-dragon-youth-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:01:47.735Z",
+  "generationMethod": "ComfyUI"
 }

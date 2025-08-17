@@ -179,12 +179,9 @@ Has map to lost treasure
 - Originates from [ENC00091_Combat_Encounter_92]]
 - Affected by [[04_Resources_Assets_Locations_location-city-innkeeper-marina-dreamwhisper-innkeeper-marina-dreamwhisper.svg
 - Influences [step_043 (phase_038)]]
-- See also: [[Throne Room - Heart of Palace (D&D_References)
-- Parallels [NPC0151_Freya_Darkwater]]
-- Compare with [[The Final Forgetting (D&D_References)
-- Requires [step_100 (phase_062)]]
-- See also: [[Guardian Root Network
-- Compare with [Religious Festivals (D&D_References)]]
+- See also: [[Throne Room - Heart of Palace (D&D_References)]]
+- Compare with [[The Final Forgetting (D&D_References)]]
+- See also: [[Religious Festivals (D&D_References)]]
 - Parallels [[Goldwave Manor (D&D_References)
 - Affected by [EVENT00098_Political_Event_99]]
 - Requires [[Symbol Heraldry Factional Conflicts Factional Conflicts.svg
@@ -194,14 +191,12 @@ Has map to lost treasure
 - Requires
 - Compare with [[Item Artifact Spell Gem Lapis Lazuli Oota V3 Spell Gem Lapis Lazuli Oota.png
 - Requires [Abyssal Pearls (D&D_References)]]
-- Related: [[The Merchant Princes
-- Related: [Toxin Specialist Venom Reef]]
+- Related: [[Toxin Specialist Venom Reef]]
 - Compare with [[Location City Infrastructure Development V1 Infrastructure Development.svg
 - Leads to [step_065 (phase_078)]]
 - Requires [[The Crystal Pier
 - Affected by [Dr. Memory Lane]]
-- Parallels [[Greyhawk Cuthbert Xdmg
-- Related: [LOC00031_Dungeons_Location_32]]
+- Parallels [[LOC00031_Dungeons_Location_32]]
 - Originates from [[step_056 (phase_068)
 - Related: [list-spells-classes-evoker-xphb (lists)]]
 - Connects to [[SPELL00088_Arcane_Spell_89
@@ -213,8 +208,7 @@ Has map to lost treasure
 - Connects to [step_067 (phase_079)]]
 - Parallels [[Biomancer Corvus Intestinal
 - Originates from [MON00001_Undead_Creature_2]]
-- Affected by [[Master Coral Shimmerhand
-- Originates from [Admiral Cordelia Tidewright (D&D_References)]]
+- Affected by [[Admiral Cordelia Tidewright (D&D_References)]]
 - Compare with [[list-spells-optional-features-breath-of-winter
 - Parallels [constrictor-snake-xmm (beast)]]
 - Parallels [[EVENT00028_Natural_Event_29
@@ -230,8 +224,7 @@ Has map to lost treasure
 - See also: [Location City Historical Analysis Historical Analysis.svg]]
 - Influences [[Phantom Orchestras
 - Connects to [illithilich-vgm (undead)]]
-- Parallels [[step_075 (phase_099)
-- Originates from [Sacred Order of Luminous Daw (Orders)]]
+- Parallels [[Sacred Order of Luminous Daw (Orders)]]
 - Parallels [[SHOP00022_Magical_Shop_23
 - Leads to [Assets Locations Location City the Forgotten Representative the Forgotten Representative.svg]]
 - Affected by [[Portrait NPC Foreign Trader Captain Hassan Al Rimal Foreign Trader Captain Hassan Al Rimal.svg
@@ -256,14 +249,12 @@ Has map to lost treasure
 - Leads to [Eberron the Blood of Vol]]
 - Connects to [[resurrection-xphb (spells)
 - Influences [Portrait NPC Sunken Kingdom of Nereon V1 Sunken Kingdom of Nereon.svg_1 (Portraits)]]
-- Parallels [[step_079 (phase_025)
-- Originates from [ENC00070_Environmental_Encounter_71]]
+- Parallels [[ENC00070_Environmental_Encounter_71]]
 - Requires [[Temporal Control 2
 - Requires [step_096 (phase_056)]]
 - Compare with [[ITEM01367_Elegant_Spyglass_of_Durability
 - See also: [ITEM00029_Venomous_Spear_of_Accuracy]]
-- Influences [[Tide-Speaker Nerida of House Abyssos (D&D_References)
-- Influences [The Crystalline Foundry (D&D_Statblocks)]]
+- Influences [[Tide-Speaker Nerida of House Abyssos (D&D_References)]]
 - Requires [[Assets Locations Location City Liminal Constantinople Liminal Constantinople.svg
 - Connects to [step_025 (phase_067)]]
 

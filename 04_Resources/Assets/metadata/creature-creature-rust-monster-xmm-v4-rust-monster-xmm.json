@@ -25,5 +25,8 @@
   "alt_text": "Concept art of rust-monster-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-rust-monster-xmm-v4-rust-monster-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-rust-monster-xmm-v4-rust-monster-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:08:25.845Z",
+  "generationMethod": "ComfyUI"
 }

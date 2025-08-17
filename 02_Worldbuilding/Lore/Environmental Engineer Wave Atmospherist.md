@@ -4,23 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: Environmental Engineer Wave Atmospherist
-type: lore
-updated: 2025-08-14
----
-
-# Environmental Engineer Wave Atmospherist
-
-## Overview
-This document contains important information regarding Environmental Engineer Wave Atmospherist and its role within the greater narrative.
-
-## Description
-Environmental Engineer Wave Atmospherist represents a significant element within the campaign world, offering various opportunities for engagement and development.
-
-## Key Information
-- **Primary Purpose**: Serves specific function within the world
-- **Connections**: [Link]]ed to multiple other elements
+- [[Environmental Engineer Wave Atmospherist]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details

@@ -195,8 +195,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [ENC00157_Social_Encounter_158]]
 - Related: [[Audio Gallery
 - Connects to [Location City Court Herald Master Proclamation Crownvoice Court Herald Master Proclamation Crownvoice.svg]]
-- Compare with [[step_092 (phase_007)
-- Requires [NPC01971_Zephyr_Grimholt_the_Strong]]
+- Compare with [[NPC01971_Zephyr_Grimholt_the_Strong]]
 - Affected by [[Quests_1 (01_Adventures)
 - See also: [ENC0023_Random_Encounter_24]]
 - Influences [[Keeper Aquaeous Depth-Scholar 2
@@ -224,8 +223,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels
 - Related: [[EVENT00052_Political_Event_53
 - See also: [Crystal Caves of Luminar 2]]
-- Parallels [[General Truthseeker Vale 2
-- Related: [step_014 (phase_063)]]
+- Parallels [[General Truthseeker Vale 2]]
 - Leads to [[Guerrilla Fighters
 - Leads to [step_059 (phase_013)]]
 - Leads to [[step_099 (phase_048)
@@ -246,38 +244,31 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [stirge-xmm (monstrosity)]]
 - Parallels [[Portrait NPC Lady Celestine Windborne V1 Lady Celestine Windborne.svg
 - Connects to [ITEM0102_Glorious_Tome_of_the_Dawn]]
-- Influences [[Guard Drake Mpmm
-- Connects to [Academy of War Science (Academies)]]
+- Influences [[Academy of War Science (Academies)]]
 - Affected by [[Methane Forests
 - Affected by [malnutrition-xphb (traps-hazards)]]
-- Originates from [[Philosopher-Reformer Unity Bridgewright (D&D_References)
-- Related: [Whisper Ward Amulet 2]]
-- Leads to [[NPC00887_Drusilla_Grimholt_the_Bold
-- Leads to [step_057 (phase_083)]]
+- Originates from [[Philosopher-Reformer Unity Bridgewright (D&D_References)]]
+- Leads to [[NPC00887_Drusilla_Grimholt_the_Bold]]
 - Related: [[Assets Locations Location City Silver Threadweaver Silver Threadweaver.png
 - Compare with [Tome of Clear Thought Xdmg]]
-- Requires [[ENC00007_Combat_Encounter_8
-- Affected by [The Consciousness Vault (D&D_References)]]
+- Requires [[The Consciousness Vault (D&D_References)]]
 - Affected by [[Cloak of Many Fashions Xdmg
 - Connects to [The Shadow Singer Naia]]
-- See also: [[Sage Freedom Philosopher
-- Requires [The Crystal Spires]]
+- See also: [[Sage Freedom Philosopher]]
 - Compare with [[Portrait NPC the Free Current Movement V1 the Free Current Movement.svg
 - Requires [LOC00165_Planes_Location_166]]
 - Originates from [[ring-of-telekinesis-xdmg (items)
 - See also: [Location City Military Families Support Military Families Support Groups.png]]
 - Compare with [[MON00115_Constructs_Creature_116
 - Affected by [spellcasting-services-xphb (tables)]]
-- Originates from [[audio_fit_report
-- Parallels [Institute of Adaptive Sciences (Lore)]]
+- Originates from [[Institute of Adaptive Sciences]]
 - Requires [[temple-of-the-gods-xge (spells)
 - Leads to [true-seeing-xphb (spells)]]
 - Connects to [[jade-xdmg (items)
 - Related: [step_032 (phase_015)]]
 - Parallels [[ITEM01251_Superior_Crystal_of_Clarity
 - Influences [The Crystal Integration Festival]]
-- Leads to [[Dawn War Tiamat Dmg
-- Originates from [Scholar Emperor Thalassius the Wise]]
+- Leads to [[Scholar Emperor Thalassius the Wise]]
 - Related:
 - Related: [[step_055 (phase_009)
 - Compare with [Portrait NPC Jasper Three Eyes Flint 2 Jasper Three Eyes Flint 2.svg]]

@@ -25,5 +25,8 @@
   "alt_text": "Concept art of spirit-statue-mascot-scc with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-spirit-statue-mascot-scc-v4-spirit-statue-mascot-scc.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-spirit-statue-mascot-scc-v4-spirit-statue-mascot-scc.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:09:25.427Z",
+  "generationMethod": "ComfyUI"
 }

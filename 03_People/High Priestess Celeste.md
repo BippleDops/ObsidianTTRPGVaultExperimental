@@ -288,6 +288,5 @@ ___
 
 - [[Campaign_Relationship_Matrix
 - [Quest - The Pretender's Crown_1 (01_Adventures)]]
-- [[Relationship Web Nuances
-- [The Festival of Rising Tides]]
-- [[Master_Item_Catalog]]
+- [[The Festival of Rising Tides]]
+- [[Master_Item_Catalog_List]]

@@ -1,6 +1,6 @@
 ---
 
-title: [[Queen Seraphina [Lumengarde]]
+title: [[Queen Seraphina]]
 type: [[Lore]]
 tags:
 - lore

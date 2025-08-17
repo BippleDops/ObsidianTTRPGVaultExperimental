@@ -169,8 +169,7 @@ Seeks bodyguards for dangerous journey
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -190,34 +189,27 @@ Seeks bodyguards for dangerous journey
 - Compare with [Assets Portraits Portrait NPC Lord Commander Steelborn Lord Commander Steelborn.svg]]
 - Requires [[Location City Scout Captain Vera Deepwatch V1 Scout Captain Vera Deepwatch.svg
 - Parallels [Seraphina the Beautiful 2]]
-- See also: [[ENC00042_Environmental_Encounter_43
-- Leads to [The Sunken Bazaar]]
-- See also: [[NPC01607_Branwen_Quicksilver_the_Swift
-- Compare with [step_015 (phase_029)]]
-- Affected by [[Marine Corps
-- Influences [Economic Manipulation (D&D_References)]]
+- See also: [[ENC00042_Environmental_Encounter_43]]
+- See also: [[NPC01607_Branwen_Quicksilver_the_Swift]]
+- Affected by [[Economic Manipulation (D&D_References)]]
 - Requires [[Symbol Heraldry Archmerchant Codex Goldstrea Archmerchant Codex Goldstrea.svg
 - Originates from [Elemental Gem Emerald Xdmg]]
 - Requires [[iron-spike-xphb (items)
 - Related: [winter-wolf-xmm]]
-- Leads to [[step_070 (phase_047)
-- See also: [Abyssal Pearls (D&D_References)]]
+- Leads to [[Abyssal Pearls (D&D_References)]]
 - Connects to [[FAC00015_Guilds_16
 - Originates from [Location City Hadrian Depthbridge V1 Hadrian Depthbridge.svg]]
 - Parallels [[list-spells-backgrounds-witherbloom-student-scc
 - Requires [The Penitent Order]]
 - See also: [[Tiefling Asmodeus Mtf
 - Compare with [step_046 (phase_067)]]
-- Parallels [[Captain Thaddeus Stormwright
-- Influences [step_046 (phase_009)]]
+- Parallels [[Captain Thaddeus Stormwright]]
 - Parallels
-- Requires [[War of Crushing Depths (D&D_References)
-- Leads to [step_071 (phase_017)]]
+- Requires [[War of Crushing Depths (D&D_References)]]
 - Leads to
 - Influences [[Location City Patrol Boundaryrider Patrol Boundaryrider.svg
 - Parallels [LORE00106_History_Entry_107]]
-- Originates from [[The Memory Disruptor Network
-- Leads to [The Current Master]]
+- Originates from [[The Memory Disruptor Network]]
 - See also: [[step_019 (phase_022)
 - Compare with [Journey_Event_Compiler]]
 - Connects to [[Commander Typhoon Blackheart (Places)
@@ -227,19 +219,15 @@ Seeks bodyguards for dangerous journey
 - Requires [[portrait-npc-neutral-zone-v1-neutral-zone.svg
 - Affected by [Constitutional Monarchy (D&D_References)]]
 - Parallels
-- Originates from [[Deep Initiation
-- Requires [LOC00051_Cities_Location_52]]
-- Related: [[LOC00252_Dungeons_Location_253
-- Related: [step_002 (phase_070)]]
+- Originates from [[LOC00051_Cities_Location_52]]
+- Related: [[LOC00252_Dungeons_Location_253]]
 - Requires [[Assets Locations Location City Surface Loyalist Safe Houses V1 Surface Loyalist Safe Houses.svg
 - Originates from
 - Connects to [step_072 (phase_035)]]
-- Leads to [[ENC00222_Combat_Encounter_223
-- Related: [step_096 (phase_062)]]
+- Leads to [[ENC00222_Combat_Encounter_223]]
 - See also: [[step_019 (phase_066)
 - Related: [Portrait NPC House of Lords Secret Chamber House of Lords Secret Chamber.svg]]
-- Requires [[downtime-activity-religious-service-xge (variant-rules)
-- Connects to [ENC00449_Combat_Encounter_450]]
+- Requires [[downtime-activity-religious-service-xge (variant-rules)]]
 - Related: [[Location City Education Department Education Department.svg
 - Originates from [Knowledge Overwhelming Revelations]]
 - Leads to [[step_011 (phase_079)
@@ -248,9 +236,7 @@ Seeks bodyguards for dangerous journey
 - Connects to [NPC0163_Dara_Brightblade]]
 - Influences [[Location City the Sunken Cathedral of Perfect Order V1 the Sunken Cathedral of Perfect Order.svg
 - Originates from [QUEST00195_Main_Quest_196]]
-- See also: [[Deep Archives
-- Influences
-- See also: [Truth-seeker's Lens (D&D_References)]]
+- See also: [[Truth-seeker's Lens (D&D_References)]]
 - Originates from [[Session Timer
 - Affected by [EVENT00086_Magical_Event_87]]
 - Affected by [[NPC00239_Hilda_Xendar_the_Bold
@@ -274,16 +260,13 @@ Seeks bodyguards for dangerous journey
 - See also: [ENC00196_Combat_Encounter_197]]
 - Requires [[ITEM00744_Divine_Mirror_of_Destiny
 - Connects to [Location City Kelp Based Brewing V1 Kelp Based Brewing.svg]]
-- Parallels [[Memory Merchant Valeria Siltweave
-- See also: [ENC00097_Social_Encounter_98]]
+- Parallels [[Memory Merchant Valeria Siltweave]]
 - Parallels [[Assets Locations Location City Ambassador Marina Bridgewater Ambassador Marina Bridgewater.svg
 - Related: [step_025 (phase_044)]]
-- Compare with [[Monsters
-- Originates from [Master Craftsman Hydros]]
+- Compare with [[Master Craftsman Hydros]]
 - Connects to [[list-spells-feats-blessed-warrior-xphb (lists)
 - Parallels [Location City Pressure Weighted Representation V1 Pressure Weighted Representation.svg]]
-- See also: [[step_006 (phase_030)
-- Related: [Crystal Architecture Philosophy (Lore)]]
+- See also: [[Crystal Architecture Philosophy]]
 - Related: [[barbarian-xphb-path-of-the-ancestral-guardian-xge
 
 ## Visual References

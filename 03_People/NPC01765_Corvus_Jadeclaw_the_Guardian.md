@@ -160,8 +160,7 @@ Offers deal too good to refuse
 - Compare with [[step_100 (phase_084)
 - Connects to
 - Related: [step_057 (phase_049)]]
-- Leads to [[Coral Vortextrader
-- Related: [LOC00009_Towns_Location_10]]
+- Leads to [[LOC00009_Towns_Location_10]]
 - Requires [[Assets Locations Location City Shadow Market Canals Shadow Market Canals.svg
 - Leads to [Location City Memorial Wall of Names Memorial Wall of Names.png]]
 - Compare with [[multiclassing-prerequisites-phb (tables)
@@ -175,8 +174,7 @@ Offers deal too good to refuse
 - Affected by [step_094 (phase_040)]]
 - Originates from [[chamber-purpose-dungeon-stronghold (tables)
 - Influences [Thermal Layer Usage]]
-- Compare with [[step_068 (phase_098)
-- Influences [NPC01697_Kaelen_Darkwater_the_Bold]]
+- Compare with [[NPC01697_Kaelen_Darkwater_the_Bold]]
 - Originates from [[Barkeep_Salty_Sarah.png
 - See also: [QUEST0099_Wizard's_Folly]]
 - Affected by [[step_031 (phase_034)
@@ -194,12 +192,10 @@ Offers deal too good to refuse
 - Parallels [[step_089 (phase_038)
 - Related:
 - Connects to [gelatinous-cube-xmm (ooze)]]
-- Requires [[Player_Handout_Aethermoor_Airships
-- Leads to [step_003 (phase_090)]]
+- Requires [[Player_Handout_Aethermoor_Airships]]
 - Connects to [[Assets Locations Location City Terminal Master Hadrian Depthbridge Terminal Master Hadrian Depthbridge.svg
 - Influences [step_005 (phase_068)]]
-- Connects to [[step_013 (phase_005)
-- See also: [S-L-02_Void_Curtain_Eclipse]]
+- Connects to [[S-L-02_Void_Curtain_Eclipse]]
 - Influences [[Location City Registrar Cornelius Scrollkeeper V1 Registrar Cornelius Scrollkeeper.svg
 - Leads to [ENC00246_Combat_Encounter_247]]
 - Parallels [[step_100 (phase_054)
@@ -225,16 +221,14 @@ Offers deal too good to refuse
 - Influences [Quest - Shadow Medicine_1 (01_Adventures)]]
 - Related: [[EVENT00055_Magical_Event_56
 - Leads to [LORE00175_History_Entry_176]]
-- Related: [[NPC01116_Malakai_Hawthorne_the_Strong
-- Requires [NPC01617_Hilda_Goldleaf_the_Mystic]]
+- Related: [[NPC01116_Malakai_Hawthorne_the_Strong]]
 - Parallels [[QUEST00182_Main_Quest_183
 - See also: [step_032 (phase_005)]]
 - Affected by [[step_093 (phase_033)
 - Affected by [Pressure Gate.md (Places)]]
 - Compare with [[Portrait NPC Captain Elara Shadowshard V2 Captain Elara Shadowshard.svg
 - Originates from [Portrait NPC High Inquisitor Maltheos High Inquisitor Maltheos.svg]]
-- Related: [[Fort Nautilus 2
-- Affected by [QUEST0025_The_Stolen_Artifact]]
+- Related: [[QUEST0025_The_Stolen_Artifact]]
 - Requires [[09-appendix-a-lore-glossary (dungeon-masters-guide-2024)
 - Originates from [Egyptian Re Horakhty]]
 - Leads to
@@ -246,8 +240,7 @@ Offers deal too good to refuse
 - Parallels [LORE00154_Prophecies_Entry_155]]
 - Originates from [[step_075 (phase_044)
 - Compare with [Tlincalli Mpmm]]
-- Compare with [[step_073 (phase_067)
-- Compare with [NPC00805_Aeliana_Hawthorne_the_Redeemed]]
+- Compare with [[NPC00805_Aeliana_Hawthorne_the_Redeemed]]
 - Affected by [[ITEM00630_Enchanted_Chain_Mail_of_Protection
 - Originates from [Vampiric Mist Mpmm]]
 - Affected by [[stone-shape-xphb (spells)

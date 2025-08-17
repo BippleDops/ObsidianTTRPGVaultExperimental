@@ -172,9 +172,7 @@ Caravan needs guards
 - Connects to [step_063 (phase_072)]]
 - Parallels [[Legal Reform Movemen 2
 - Parallels [04_Resources_Assets_Locations_location-city-pilgrimage-master-depth-guide-melancholy-pilgrimage-master-depth-guide-melancholy.svg]]
-- Affected by [[Archon Meredith Saltweaver (D&D_References)
-- Connects to
-- Leads to [traps-hazards (traps-hazards)]]
+- Affected by [[Archon Meredith Saltweaver (D&D_References)]]
 - Related: [[ITEM0031_Hidden_Orb_of_Power
 - Influences [The Neutral Current Tavern 2]]
 - Requires [[step_013 (phase_032)
@@ -185,14 +183,11 @@ Caravan needs guards
 - Originates from [nonhuman-grolantor (deities)]]
 - Compare with [[Current Innovator
 - Parallels [ITEM00868_Infernal_Ring_of_Destiny]]
-- Compare with [[phase-spider-xmm
-- Affected by [LOC00284_Dungeons_Location_285]]
+- Compare with [[LOC00284_Dungeons_Location_285]]
 - See also: [[LORE00115_History_Entry_116
 - See also: [ring-of-radiant-resistance-xdmg (items)]]
-- Parallels [[Elder Coral Doomteller
-- Related: [The Heroes' Hall]]
-- Affected by [[NPC01685_Hilda_Jadeclaw_the_Guardian
-- Requires [step_046 (phase_023)]]
+- Parallels [[Elder Coral Doomteller]]
+- Affected by [[NPC01685_Hilda_Jadeclaw_the_Guardian]]
 - Affected by [[QUEST00337_Side_Quest_338
 - Connects to [Order of the Deep Current]]
 - Affected by [[Assets Locations Location City Quest the Harbor War V1 Quest the Harbor War.svg
@@ -202,10 +197,8 @@ Caravan needs guards
 - Leads to
 - Related: [[step_056 (phase_085)
 - Originates from [Dockworkers Union 2]]
-- Related: [[NPC01567_Vesper_Ashford_the_Wanderer
-- Leads to [step_087 (phase_035)]]
-- See also: [[ENC00273_Social_Encounter_274
-- Leads to [The Silent Vote (D&D_References)]]
+- Related: [[NPC01567_Vesper_Ashford_the_Wanderer]]
+- See also: [[The Silent Vote (D&D_References)]]
 - Originates from [[step_090 (phase_071)
 - Originates from [cloud-of-daggers-xphb (spells)]]
 - See also: [[Portrait NPC King Torrhen Lumengarde V1 King Torrhen Lumengarde.svg_1 (Portraits)
@@ -214,8 +207,7 @@ Caravan needs guards
 - See also: [Campaign_Timeline_Tracker]]
 - Connects to [[LOC0127_NewWatch
 - Influences [step_059 (phase_096)]]
-- Related: [[Diplomatic Event Scenarios 2
-- Affected by [FAC00027_Guilds_28]]
+- Related: [[Diplomatic Event Scenarios 2]]
 - Compare with [[Location City Merchant Viktor Geargrind Merchant Viktor Geargrind.svg
 - Parallels [step_040 (phase_091)]]
 - Requires [[step_041 (phase_086)
@@ -223,9 +215,7 @@ Caravan needs guards
 - Compare with [[LOC00154_Towns_Location_155
 - Requires [List Spells Classes Draconic Sorcery Xphb]]
 - Compare with
-- Parallels [[Temple-Scholar Depth-Seer (D&D_References)
-- See also:
-- Requires [The Fishing Fleets]]
+- Parallels [[Temple-Scholar Depth-Seer (D&D_References)]]
 - Influences [[Marcus Goldlea (D&D_References)
 - Related: [Assets Art the Perfect Symbiosis.png]]
 - Related: [[Deep Trenches 2
@@ -239,8 +229,7 @@ Caravan needs guards
 - Affected by [Assets Locations Location City Quest the Blackmail Papers Quest the Blackmail Papers.svg]]
 - Influences [[Crystalhaven_1
 - Affected by [Combat_Basics]]
-- Requires [[NPC0148_Cormac_Darkwater
-- Related: [Hobgoblin Vgm]]
+- Requires [[NPC0148_Cormac_Darkwater]]
 - Parallels [[Deck of Illusions
 - Affected by
 - Originates from [Crown of Eternal Ice (D&D_References)]]
@@ -254,8 +243,7 @@ Caravan needs guards
 - Connects to
 - Compare with [[step_085 (phase_059)
 - Leads to [Note#Heading]]
-- Connects to [[step_097 (phase_010)
-- Compare with [NPC00291_Orion_Hawthorne_the_Bold]]
+- Connects to [[NPC00291_Orion_Hawthorne_the_Bold]]
 - Parallels [[Warhorse Skeleton Xmm
 - Influences [Foreign Shadow Syndicates]]
 - Connects to [[The Consortium of Five (D&D_References)

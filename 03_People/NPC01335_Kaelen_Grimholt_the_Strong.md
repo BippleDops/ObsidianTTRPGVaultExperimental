@@ -160,10 +160,8 @@ Has information about legendary item
 
 ## Connections
 
-- Affected by [[NPC01833_Elric_Grimholt_the_Broken
-- Requires [LOC00262_Cities_Location_263]]
-- Parallels [[DUN00159_Dungeon_160
-- Compare with [INDEX (Call_of_the_Netherdeep)]]
+- Affected by [[NPC01833_Elric_Grimholt_the_Broken]]
+- Parallels [[INDEX (Call_of_the_Netherdeep)]]
 - Leads to [[Assets Locations Location City Compass Quest V1 Compass Quest.svg
 - Compare with [portrait-npc-neutral-zone-neutral-zone.svg_1 (Portraits)]]
 - Connects to [[Draft Content
@@ -172,14 +170,11 @@ Has information about legendary item
 - Originates from [LOC00096_Cities_Location_97]]
 - See also: [[Location City the Memory Meadows Black Market the Memory Meadows Black Market.svg
 - See also: [Master Merchant Luna Fairweigh]]
-- Requires [[Procedures Hybrid Transformation
-- Influences [step_007 (phase_018)]]
+- Requires [[Procedures Hybrid Transformation]]
 - Requires [[step_052 (phase_100)
 - Affected by [Assets Locations Location City the Plague Ward the Plague Ward.svg]]
-- See also: [[step_011 (phase_092)
-- See also: [ITEM0114_Cursed_Pendant_of_the_Dawn]]
-- Originates from [[NPC00187_Qadim_Ashford
-- Affected by [Deep Mother's Domain (D&D_References)]]
+- See also: [[ITEM0114_Cursed_Pendant_of_the_Dawn]]
+- Originates from [[Deep Mother's Domain (D&D_References)]]
 - Related: [[location-city-golden-coral-golden-coral.svg
 - Leads to [step_025 (phase_072)]]
 - Related: [[Location City Portal Technician Voidwalk Portal Technician Voidwalk.svg
@@ -194,16 +189,14 @@ Has information about legendary item
 - Compare with [[Map World Layer Depth Zones and Altitude Bands V1 Depth Zones and Altitude Bands.svg
 - Connects to
 - Requires [README]]
-- Affected by [[LOC00111_Dungeons_Location_112
-- Requires [Mechanics Transformations Crystal Crystal Bloom]]
+- Affected by [[Mechanics Transformations Crystal Crystal Bloom]]
 - Affected by [[step_003 (phase_019)
 - Influences [Halfling Cyrrollalee Mtf]]
 - Related: [[Crystal Research Facilities 2
 - Affected by [Assets Locations Location City Geometric Tidepools V1 Geometric Tidepools.svg]]
 - Parallels [[step_080 (phase_032)
 - Leads to [location-city-tide-risktaker-tide-risktaker.svg]]
-- Related: [[ENC00130_Environmental_Encounter_131
-- Connects to [Glass Bottle Xphb]]
+- Related: [[ENC00130_Environmental_Encounter_131]]
 - Leads to [[Forgotten Realms Mystra
 - Compare with [Scenes Gallery]]
 - Leads to [[step_018 (phase_055)
@@ -217,29 +210,22 @@ Has information about legendary item
 - Influences [ENC0072_Random_Encounter_73]]
 - Related: [[supplemental-tables-family-lifestyle-xge (tables)
 - Connects to [Portrait NPC Enforcer Chief Mako Ironjaw Enforcer Chief Mako Ironjaw.svg_1 (Portraits)]]
-- Influences [[Chorus Master Melodia Depthsong (D&D_References)
-- Requires [Shadow Trackhound 2]]
+- Influences [[Chorus Master Melodia Depthsong (D&D_References)]]
 - Originates from [[Location City the Deepmost Current V1 the Deepmost Current.svg
 - See also: [Tobias Quillwright 2]]
 - Influences
-- Requires [[Artisan Associations 2
-- Parallels [The Reality Destabilization Campaign]]
-- See also: [[ENC00110_Environmental_Encounter_111
-- Leads to [norse-skadi (deities)]]
+- Requires [[The Reality Destabilization Campaign]]
+- See also: [[ENC00110_Environmental_Encounter_111]]
 - Leads to [[step_071 (phase_057)
 - See also: [QUEST00256_Side_Quest_257]]
-- Leads to [[Fire Storm Xphb
-- Requires [Aethermoor - Session 10 The Deep Mother Rises]]
-- Requires [[Spectral Librarian Reverent Bookmark 2
-- Requires [step_010 (phase_062)]]
-- Affected by [[Economic Analyst David Numbercruncher
-- Compare with [Wild Magic Surge Xphb]]
+- Leads to [[Aethermoor - Session 10 The Deep Mother Rises]]
+- Requires [[Spectral Librarian Reverent Bookmark 2]]
+- Affected by [[Economic Analyst David Numbercruncher]]
 - Connects to [[LOC0043_Gatehollow
 - Compare with [Clench of the North Wind]]
 - Parallels [[swarm-of-ravens-xmm (beast)
 - Parallels [LORE00296_History_Entry_297]]
-- Compare with [[The Symbiotic Compact
-- Affected by [Magical Authenticatio (D&D_References)]]
+- Compare with [[Magical Authenticatio (D&D_References)]]
 - Originates from [[Location City Chancellor Octavius V1 Chancellor Octavius.svg
 - Affected by [Corruption Broker Silver Currentfloat 2]]
 - Leads to [[The Transition Protocols 2

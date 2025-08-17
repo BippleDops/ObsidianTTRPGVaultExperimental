@@ -221,35 +221,28 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [MON00055_Undead_Creature_56]]
 - Leads to [[Location City Artisan Associations V1 Artisan Associations.svg
 - Requires [Sanity Quick Reference]]
-- Connects to [[Depth Spirituality 2
-- Affected by [Lady Resistance Brightshield (D&D_References)]]
+- Connects to [[Lady Resistance Brightshield (D&D_References)]]
 - Connects to [[04_Resources_Assets_Locations_location-city-beast-master-krell-chainbreaker-v1-beast-master-krell-chainbreaker.svg
 - Originates from [MON00099_Undead_Creature_100]]
-- See also: [[step_041 (phase_006)
-- Originates from [NPC00684_Erasmus_Frostwhisper_the_Redeemed]]
+- See also: [[NPC00684_Erasmus_Frostwhisper_the_Redeemed]]
 - Related: [[Combat_Tracker_1
 - Related: [Find the Grief Bomb]]
 - Originates from [[facility-space-xdmg (tables)
 - Requires [Location City Professor Reef Growthseeker Professor Reef Growthseeker.svg]]
 - Affected by [[Bat Xmm
 - Related: [Acolyte Xphb]]
-- Connects to [[step_034 (phase_067)
-- Parallels [Transformation Assistance 2]]
+- Connects to [[Transformation Assistance 2]]
 - See also: [[Item Template (02_Worldbuilding)
 - Leads to [Location City the Listener S Code the Listener S Code.svg]]
-- Affected by [[LORE00248_Prophecies_Entry_249
-- See also: [NPC00623_Dara_Oakenshield_the_Wanderer]]
+- Affected by [[NPC00623_Dara_Oakenshield_the_Wanderer]]
 - Affected by
 - Parallels [[step_089 (phase_100)
 - Connects to [stairs]]
-- Connects to [[strahd-zombie-cos (undead)
-- Originates from [Aethermoor - Session 10 The Deep Mother Rises]]
-- Influences [[Archdruid Marina Kelpweaver (D&D_References)
-- See also: [Monsters and Motivations Monster Motivation]]
+- Connects to [[Aethermoor - Session 10 The Deep Mother Rises]]
+- Influences [[Archdruid Marina Kelpweaver (D&D_References)]]
 - Parallels [[Carnivorous Flower Rot
 - Leads to [Security Chief Voidguard]]
-- Requires [[Innkeeper Marcus Thorne (D&D_References)
-- Requires [Titan Coral (D&D_References)]]
+- Requires [[Innkeeper Marcus Thorne (D&D_References)]]
 - Leads to [[step_071 (phase_059)
 - Parallels [SPELL0006_Infernal_Bolt]]
 - Parallels [[step_007 (phase_060)
@@ -263,8 +256,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[LOC00074_Towns_Location_75
 - Connects to [Dr Silent Treatment]]
 - Connects to
-- Parallels [[Chef Xphb
-- Parallels [Necromancer's Conclave]]
+- Parallels [[Necromancer's Conclave]]
 - Affected by [[Memory Extraction Laboratory
 - Influences [Seraphina the Beautiful 2]]
 - See also: [[library
@@ -277,16 +269,12 @@ Following magic item guidelines (WWT p.135-136):
 - Influences
 - Affected by
 - Connects to [Summoning Ritual]]
-- Leads to [[Template_Galaxy_Placeholder.png_2 (09_Templates)
-- Leads to [MON0002_Fire_Stalker]]
+- Leads to [[Template_Galaxy_Placeholder.png_2 (09_Templates)]]
 - Influences [[ITEM01021_Lesser_Herb_of_Swiftness
 - Originates from [Shape Water Xge]]
-- Compare with [[The Abyss Beneath Aquabyssos 3 (D&D_References)
-- See also: [ITEM01094_Distilled_Herb_of_Clarity]]
-- Leads to [[FAC00052_Guilds_53
-- Influences [NPC01320_Ysara_Quicksilver_the_Risen]]
-- Affected by [[NPC00668_Corvus_Brightblade_the_Guardian
-- Parallels [step_032 (phase_094)]]
+- Compare with [[The Abyss Beneath Aquabyssos 3 (D&D_References)]]
+- Leads to [[NPC01320_Ysara_Quicksilver_the_Risen]]
+- Affected by [[NPC00668_Corvus_Brightblade_the_Guardian]]
 - Requires [[step_019 (phase_017)
 - Affected by [Guard Drake Mpmm]]
 - Requires [[step_033 (phase_042)

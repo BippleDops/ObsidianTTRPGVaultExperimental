@@ -179,18 +179,15 @@ Has map to lost treasure
 - Influences [LOC00022_Wilderness_Location_23]]
 - Parallels [[step_100 (phase_025)
 - Parallels [step_022 (phase_028)]]
-- Affected by [[Harbormaster Creedence Tidereader
-- Originates from [Specimen Careful Lifeguard (D&D_References)]]
+- Affected by [[Specimen Careful Lifeguard (D&D_References)]]
 - Affected by [[The Anonymous Inquisitor 2
 - Related: [smoke-mephit-xmm (elemental)]]
-- Leads to [[Crystal Caves of Aethermoor 2
-- Requires [Elder Stormcaller]]
+- Leads to [[Crystal Caves of Aethermoor 2]]
 - Requires [[Portrait NPC Ethics Coordinator Elena Compassion V1 Ethics Coordinator Elena Compassion.svg
 - Requires [Vampiric Mist Mpmm]]
 - Influences [[step_047 (phase_066)
 - Connects to [location-city-captain-marcus-v1-captain-marcus.svg]]
-- Compare with [[Shield of Missile Attraction Xdmg
-- See also: [NPC00269_Gavril_Winterborn_the_Fallen]]
+- Compare with [[NPC00269_Gavril_Winterborn_the_Fallen]]
 - Affected by [[QUEST00393_Side_Quest_394
 - Parallels [step_050 (phase_083)]]
 - Affected by [[LOC00136_Planes_Location_137
@@ -199,8 +196,7 @@ Has map to lost treasure
 - Related: [Duke Marcus Brightshield]]
 - See also: [[conditions (CLI_Reference)
 - Parallels [Crystal Plague]]
-- Parallels [[The Crystal Throne
-- Leads to [LOC00137_Cities_Location_138]]
+- Parallels [[LOC00137_Cities_Location_138]]
 - Requires
 - Influences [[Assets Locations Location City Senior Nurse Polyp Tendercurrent V1 Senior Nurse Polyp Tendercurrent.svg
 - Related: [norse-loki (deities)]]
@@ -212,30 +208,22 @@ Has map to lost treasure
 - Affected by [Bowl of Commanding Water Elementals Xdmg]]
 - Related: [[ITEM01458_Sturdy_Spyglass_of_Durability
 - Leads to [LORE00030_Legends_Entry_31]]
-- Related: [[The Pearl Heist (D&D_References)
-- Originates from [step_099 (phase_045)]]
+- Related: [[The Pearl Heist (D&D_References)]]
 - Connects to [[The Sunken Bazaar (D&D_References)
 - Compare with [Professional Terminology (Lore)]]
 - Parallels
-- Parallels [[NPC00829_Orion_Emberfall_the_Bold
-- Originates from [step_067 (phase_023)]]
-- Parallels [[Sunset Bay 2
-- Requires [SPELL00161_Divine_Spell_162]]
-- Affected by [[SPELL00137_Arcane_Spell_138
-- Leads to [LOC00111_Wilderness_Location_112]]
-- Connects to [[plant
-- Affected by [SPELL00125_Arcane_Spell_126]]
+- Parallels [[NPC00829_Orion_Emberfall_the_Bold]]
+- Parallels [[SPELL00161_Divine_Spell_162]]
+- Affected by [[LOC00111_Wilderness_Location_112]]
+- Connects to [[SPELL00125_Arcane_Spell_126]]
 - Influences [[actions#Dodge
 - Leads to
 - Parallels [location-city-royal-vault-royal-vault.svg]]
-- Parallels [[step_015 (phase_099)
-- Influences [LORE0071_Legend_of_the_Ancient_Pact]]
-- Compare with [[Kraken Xmm
-- See also: [Depth Forge (D&D_References)]]
+- Parallels [[LORE0071_Legend_of_the_Ancient_Pact]]
+- Compare with [[Depth Forge (D&D_References)]]
 - Related: [[ENC00080_Social_Encounter_81
 - Leads to [Assets Symbols Symbol Heraldry Void Echo Silence Deafmake V1 Void Echo Silence Deafmake.svg]]
-- Originates from [[step_010 (phase_023)
-- Leads to [Quest - Rescue the Originals]]
+- Originates from [[Quest - Rescue the Originals]]
 - Influences
 - See also: [[step_003 (phase_058)
 - Connects to [Foreign Merchants]]
@@ -245,15 +233,13 @@ Has map to lost treasure
 - Influences [step_017 (phase_062)]]
 - Affected by [[Food and Water Needs
 - See also: [nondetection-xphb (spells)]]
-- Influences [[Player 2
-- See also: [LOC00120_Cities_Location_121]]
+- Influences [[LOC00120_Cities_Location_121]]
 - Leads to [[step_021 (phase_031)
 - Originates from [Location City Marina Oracleguard Marina Oracleguard.svg]]
 - Compare with [[QUEST00213_Side_Quest_214
 - Parallels [step_019 (phase_092)]]
 - See also:
-- Influences [[item properties#Finesse
-- Leads to [LORE00006_History_Entry_7]]
+- Influences [[Item Properties]]
 - Connects to [[List Optfeaturetype Ei
 - Compare with [step_073 (phase_054)]]
 - Leads to [[Duke Blackwater's Estate (D&D_References)

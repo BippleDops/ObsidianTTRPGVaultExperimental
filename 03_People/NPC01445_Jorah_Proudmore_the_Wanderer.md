@@ -204,12 +204,10 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [Post-Merge Chronology 2]]
 - Affected by [[heal-xphb (spells)
 - Connects to [Rising Dark 2]]
-- Leads to [[Patrol Boundaryrider (D&D_References)
-- Related: [step_008 (phase_023)]]
+- Leads to [[Patrol Boundaryrider (D&D_References)]]
 - Connects to [[Location City the Kraken S Harbor the Kraken S Harbor.svg
 - Originates from [The Neutral Tavern]]
-- Requires [[step_081 (phase_072)
-- Compare with [ENC00060_Combat_Encounter_61]]
+- Requires [[ENC00060_Combat_Encounter_61]]
 - Parallels
 - Connects to
 - Influences [[LOC00100_Dungeons_Location_101
@@ -217,18 +215,15 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [FAC00089_Cults_90]]
 - Originates from [[step_056 (phase_030)
 - Influences [Quest The Perfect Purifier]]
-- Leads to [[Armaments Uncommon Xdmg
-- See also: [Deep Sea Cultist (Cults_and_Movements)]]
+- Leads to [[Deep Sea Cultist (Cults_and_Movements)]]
 - Related:
-- Related: [[step_047 (phase_043)
-- Compare with [LOC00206_Cities_Location_207]]
+- Related: [[LOC00206_Cities_Location_207]]
 - Originates from [[Democratic Erosion (D&D_References)
 - Compare with [Merchant Princess Seren Goldwave]]
 - Requires [[NPC00085_Pyria_Xendar_the_Seeker
 - Affected by [Assets Locations Location City Keeper Stormwall V1 Keeper Stormwall.svg]]
 - Parallels
-- Related: [[Innkeeper Marcus Thorne (D&D_References)
-- Connects to [Leomunds Tiny Hut Xphb]]
+- Related: [[Innkeeper Marcus Thorne (D&D_References)]]
 - Connects to [[Physical Characteristics Beholder Skin
 - Connects to
 - Parallels [Diplomats Pack Xphb]]
@@ -238,20 +233,17 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [The Reality Reformation]]
 - Related: [[Faction_Name (02_Worldbuilding)
 - Affected by [Royal Intelligence]]
-- Connects to [[chasme-xmm (fiend)
-- Originates from [The Crystal Goverce Institute]]
+- Connects to [[The Crystal Goverce Institute]]
 - Requires [[cheese-wedge-xphb (items)
 - Leads to [Factional Conflicts]]
-- Compare with [[QUEST00262_Personal_Quest_263
-- Connects to [Economic Pressure]]
+- Compare with [[QUEST00262_Personal_Quest_263]]
 - Leads to
 - Related: [[11 Chapter 11 Gravenhollow
 - Influences
 - Connects to [Location City the Plague Ward V1 the Plague Ward.svg]]
 - Parallels [[The Growth Gardens 2
 - Leads to [Actions in Combat Describing Actions Xdmg]]
-- Originates from [[Investigative Chronicler Darius Truthseeker
-- See also: [flour-xdmg (items)]]
+- Originates from [[Investigative Chronicler Darius Truthseeker]]
 - Requires [[LOC00268_Cities_Location_269
 - Compare with [MON00131_Undead_Creature_132]]
 - Influences [[Assets Portraits Portrait NPC Militant Priest Abyssal Militant Priest Abyssal.svg
@@ -264,24 +256,20 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [Assets Item Artifact Poisoners Kit Xphb V5 Poisoners Kit Xphb.png]]
 - Requires [[Location City Madame Rosalind Goldleaf Madame Rosalind Goldleaf.svg
 - Parallels [Assets Locations Location City Haven Reef Haven Reef.svg]]
-- Influences [[Royal Advisor Wise Counselor
-- Requires [step_081 (phase_045)]]
+- Influences [[Royal Advisor Wise Counselor]]
 - Originates from [[step_032 (phase_054)
 - Compare with [The Dockworkers Union]]
 - Leads to [[step_063 (phase_065)
 - Related: [step_098 (phase_027)]]
-- Affected by [[NPC00667_Felicia_Goldleaf_the_Strong
-- See also: [03-races (players-handbook-2014)]]
+- Affected by [[NPC00667_Felicia_Goldleaf_the_Strong]]
 - Originates from [[Location City Surface Contact Prohibition V1 Surface Contact Prohibition.svg
 - Connects to [Portrait NPC Enforcer Chief Mako Ironjaw V1 Enforcer Chief Mako Ironjaw.svg_1 (Portraits)]]
 - Leads to [[Shadow Shard
 - Influences [step_086 (phase_030)]]
 - Related: [[LORE00156_Prophecies_Entry_157
 - See also: [Creature Creature Nightmare Xmm V2 Nightmare Xmm.png]]
-- Affected by [[step_009 (phase_098)
-- Compare with [LOC00212_Wilderness_Location_213]]
-- Originates from [[The Sunken Cities 3 (D&D_References)
-- Compare with [Underwater Cuisine Techniques]]
+- Affected by [[LOC00212_Wilderness_Location_213]]
+- Originates from [[The Sunken Cities 3 (D&D_References)]]
 - Leads to [[Terminal Director Admiral Current Swiftflow (D&D_References)
 - Originates from [Location City Quest Harbor Expansion Quest Harbor Expansion.svg]]
 - Originates from

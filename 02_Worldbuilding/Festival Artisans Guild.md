@@ -65,5 +65,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[The Festival of Rising Tides
-- [The Festival of Rising Tides (D&D_References)]]
+- [[The Festival of Rising Tides (D&D_References)]]

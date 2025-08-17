@@ -49,25 +49,7 @@ The Silverscale Conspiracy originated approximately 150 years ago when [02_World
 
 The network's early success came from providing essential funding to cash-strapped nobles and merchants during a period of economic instability, but with loan terms that included information sharing requirements and informal political agreements. These arrangements created a foundation of influence that Silverscale could leverage to guide policy decisions and business developments in directions that served the organization's broader interests.
 
-The conspiracy's expansion into [02_Worldbuilding/Places/Aquabyssos]] occurred through the establishment of trade relationships and currency exchange services that became essential for commerce between the surface and underwater worlds, particularly through partnerships with institutions like [[02_Worldbuilding/Lore/Goldwave Manor, influence over [02_Worldbuilding/Lore/Memory Trader]] networks, and strategic alliances with [[02_Worldbuilding/Lore/The Deep Harvest resource management systems. By controlling the financial mechanisms that enabled cross-world trade, Silverscale gained influence over both civilizations' economic policies and diplomatic relationships, extending their reach into [02_Worldbuilding/Lore/Crystal Forest]] resource allocation and [[02_Worldbuilding/Lore/Pressure Adaptation System financing.
-
-## Cultural Significance and Impact
-
-The Silverscale Conspiracy has profoundly influenced the development of commercial culture, political relationships, and social structures in both worlds, often in ways that remain invisible to most citizens who benefit from improved trade, increased prosperity, and enhanced international cooperation without understanding the hidden costs of these improvements.
-
-## Mechanical Rules and Systems
-
-**Influence Points**: The conspiracy accumulates influence through financial leverage, information control, and political manipulation. Characters investigating the conspiracy must gather evidence while avoiding economic retaliation and political pressure.
-
-**Network Connections**: Silverscale agents operate at multiple levels of society, from high-ranking officials to street-level informants, creating challenges for characters who must identify which individuals can be trusted and which serve the conspiracy's interests.
-
-## Notable Events and Turning Points
-
-### The Silent Takeover of Maritime Trade (127 years ago)
-Silverscale gained control of crucial shipping routes through strategic loans and partnerships that appeared beneficial to all parties but gradually concentrated maritime commerce under their influence.
-
-### The Cross-World Banking Accords (89 years ago)
-The establishment of unified financial standards between [02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos created opportunities for Silverscale to influence both civilizations' monetary policies.
+The conspiracy's expansion into [02_Worldbuilding/Places/Aquabyssos]] occurred through the establishment of trade relationships and currency exchange services that became essential for commerce between the surface and underwater worlds, particularly through partnerships with institutions like [[02_Worldbuilding/Lore/Goldwave Manor, influence over [02_Worldbuilding/Lore/Memory Trader]] networks, and strategic alliances with [[02_Worldbuilding/Lore/The Deep Harvest resource management systems. By controlling the financial mechanisms that enabled cross-world trade, Silverscale gained influence over both civilizations' economic policies and diplomatic relationships, extending their reach into [02_Worldbuilding/Lore/Crystal Forest]] resource allocation and [[Pressure Adaptation System]] and [[02_Worldbuilding/Places/Aquabyssos created opportunities for Silverscale to influence both civilizations' monetary policies.
 
 ### The Recent Acceleration (Past 5 years)
 Conspiracy activities have intensified dramatically, possibly in response to [02_Worldbuilding/Lore/The Convergence Point]] approaching or [[02_Worldbuilding/Lore/The Seven Shards becoming more active, suggesting that whatever long-term plan Silverscale has been implementing may be approaching its culmination.

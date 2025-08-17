@@ -25,5 +25,8 @@
   "alt_text": "Concept art of juiblex-mtf with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-juiblex-mtf-juiblex-mtf.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-juiblex-mtf-juiblex-mtf.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:05:17.893Z",
+  "generationMethod": "ComfyUI"
 }

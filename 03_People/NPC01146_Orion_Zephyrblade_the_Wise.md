@@ -154,8 +154,7 @@ Competitor sabotaging business
 
 ## Connections
 
-- Originates from [[Youth Crystal Education Program
-- See also: [step_097 (phase_062)]]
+- Originates from [[Youth Crystal Education Program]]
 - Related: [[Location City Master Chronologist Temporal Truthkeeper V1 Master Chronologist Temporal Truthkeeper.svg
 - Related: [Location City Leviathan Shrines Leviathan Shrines.svg]]
 - Originates from
@@ -180,8 +179,7 @@ Competitor sabotaging business
 - Connects to [basilisk-xmm (monstrosity)]]
 - See also: [[step_091 (phase_045)
 - Requires [Portrait NPC the Throne Pretenders V2 the Throne Pretenders.svg_1 (Portraits)]]
-- Parallels [[Jenny Copperwright
-- Requires [Sprite Xmm]]
+- Parallels [[Jenny Copperwright]]
 - Influences [[Healing Two Worlds
 - See also: [fey-touched-xphb (feats)]]
 - Leads to [[Quarantine_Notice_Crystal_Plagu
@@ -191,10 +189,8 @@ Competitor sabotaging business
 - Requires [[step_052 (phase_092)
 - Parallels [step_068 (phase_004)]]
 - Originates from
-- See also: [[Arts Communities
-- See also: [Banker Cornelius Goldflow 2]]
-- Parallels [[SPELL00059_Divine_Spell_60
-- Related: [Shortbow Xphb]]
+- See also: [[Banker Cornelius Goldflow 2]]
+- Parallels [[SPELL00059_Divine_Spell_60]]
 - Related: [[ITEM00766_Primordial_Crown_of_Destiny
 - See also: [The Battlefield Convergence]]
 - Related: [[Far Step Xge
@@ -204,8 +200,7 @@ Competitor sabotaging business
 - Leads to [[The Seven Seals (D&D_Statblocks)
 - See also: [sword-of-answering-answerer (items)]]
 - Connects to
-- Affected by [[Madame Nightwhisper (D&D_References)
-- Related: [Mirror-Breaking Crystals]]
+- Affected by [[Madame Nightwhisper (D&D_References)]]
 - See also: [[NPC00016_Ewan_Quicksilver
 - Requires
 - Affected by [Temporal Anomaly Resolution (Lore)]]
@@ -214,24 +209,18 @@ Competitor sabotaging business
 - Leads to [The Reunification Faction]]
 - Leads to [[Palace Courtyard - Crystal Garden
 - Originates from [arms-of-hadar-xphb (spells)]]
-- Related: [[NPC01364_Alaric_Frostwhisper_the_Fallen
-- Connects to [In-World_Handouts_Gallery]]
-- See also: [[ENC00026_Combat_Encounter_27
-- Connects to [The Fishing Fleets (D&D_References)]]
-- Compare with [[System Cli Spells School Transmutation
-- Leads to [The Rolling Tide]]
-- Related: [[Codex of Forgotten Depths
-- Leads to [step_075 (phase_014)]]
+- Related: [[NPC01364_Alaric_Frostwhisper_the_Fallen]]
+- See also: [[The Fishing Fleets (D&D_References)]]
+- Compare with [[System Cli Spells School Transmutation]]
+- Related: [[Codex of Forgotten Depths]]
 - See also: [[NPC01502_Urien_Underhill_the_Scholar
 - Originates from [Location City Illyana Glowstream V1 Illyana Glowstream.svg]]
 - Affected by [[Living Reef
 - Influences [ITEM00943_Concentrated_Herb_of_Clarity]]
 - Connects to [[seeker-dart-pota (items)
 - Requires [fiendish-cults-cult-resources-mtf (tables)]]
-- Originates from [[NPC Name Generator (D&D_References)
-- Originates from [Queen Seraphina]]
-- Originates from [[LOC00107_Planes_Location_108
-- Requires [DUN00193_Dungeon_194]]
+- Originates from [[NPC Name Generator (D&D_References)]]
+- Originates from [[LOC00107_Planes_Location_108]]
 - Leads to
 - Related: [[step_047 (phase_039)
 - Compare with [FAC00031_Orders_32]]
@@ -241,22 +230,14 @@ Competitor sabotaging business
 - Related: [step_089 (phase_032)]]
 - Leads to [[02_Worldbuilding_Lore_The_Frequency_Wars
 - Influences [Portrait NPC Captain Garrett Stormcutter V1 Captain Garrett Stormcutter.svg]]
-- Compare with [[Royal Bloodline Powers
-- Related: [ENC00216_Social_Encounter_217]]
-- Leads to [[LORE00247_Legends_Entry_248
-- Requires [Consequence Chain 1 - Shadow Conspiracy Exposure 2]]
+- Compare with [[ENC00216_Social_Encounter_217]]
+- Leads to [[Consequence Chain 1 - Shadow Conspiracy Exposure 2]]
 - Parallels [[ITEM00768_Primordial_Mirror_of_the_Gods
 - Compare with [conditions#Blinded]]
-- Affected by [[step_053 (phase_083)
-- Connects to [Admiral Cordelia Tidewright 2]]
+- Affected by [[Admiral Cordelia Tidewright 2]]
 - Affected by
-- Parallels [[NPC01212_Dara_Quicksilver_the_Guardian
-- Originates from [Dimensional Researchers]]
-- Originates from [[Evidence Item Descriptions
-- See also:
-
-## Visual References
-![03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
+- Parallels [[NPC01212_Dara_Quicksilver_the_Guardian]]
+- Originates from [[Evidence Item Descriptions]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png
 ![03_People/portrait_emperor_thalassius_the_wise.png]]
 

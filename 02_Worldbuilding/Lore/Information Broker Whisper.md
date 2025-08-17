@@ -52,5 +52,4 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [Information Broker Whisper Goldtongue]]
-- [[Merchant Family Alliances
-- [Relationship Web Nuances]]
+- [[Merchant Family Alliances]]

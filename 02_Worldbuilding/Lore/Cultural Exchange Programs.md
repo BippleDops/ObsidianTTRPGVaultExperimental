@@ -4,8 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: [Cultural Exchange]] Programs
+- [[Cultural Exchange]] Programs
 type: lore
 updated: 2025-08-14
 ---
@@ -51,15 +50,9 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Consequence Chain 5 - Marina Identity Revelation
-- [Eastern Kingdoms (02_Worldbuilding)]]
-- [[Temporal Distortion Zones
-- [The Festival of Rising Tides]]
-- [[Tidal Chambers
-- [Umbral Exchange]]
-- [[Harbor District Customs House
-- [Inverted Ballroom Wing]]
-- [[Sylvanheart
-- [Treaty of the Depths]]
-- [[Eastern Kingdoms (D&D_References)
-- [Marriage Between Worlds]]
+- [[Consequence Chain 5 - Marina Identity Revelation]]
+- [[The Festival of Rising Tides]]
+- [[Umbral Exchange]]
+- [[Harbor District Customs House]]
+- [[Treaty of the Depths]]
+- [[Eastern Kingdoms (D&D_References)]]

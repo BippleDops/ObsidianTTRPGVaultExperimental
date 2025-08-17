@@ -168,19 +168,16 @@ Has information about legendary item
 
 ## Connections
 
-- Compare with [[Deep_Mother_Corruption_Warning
-- Originates from [Angel of the Depths]]
+- Compare with [[Deep_Mother_Corruption_Warning]]
 - Compare with [[The Grove Keepers
 - Parallels [step_042 (phase_055)]]
-- Parallels [[step_064 (phase_029)
-- Leads to [Poet Laureate Tidal Wordsmith 2]]
+- Parallels [[Poet Laureate Tidal Wordsmith 2]]
 - Parallels [[LOC00032_Planes_Location_33
 - See also: [Assets Portraits Portrait NPC Financial Corruption Financial Corruption.svg]]
 - Influences
 - Leads to [[portrait-npc-sire-v2-sire.svg_1 (Portraits)
 - Influences [ENC00062_Environmental_Encounter_63]]
-- Originates from [[step_019 (phase_057)
-- See also: [Giant Seahorses (D&D_References)]]
+- Originates from [[Giant Seahorses (D&D_References)]]
 - Originates from [[LOC00109_Cities_Location_110
 - Originates from [ENC0067_Random_Encounter_68]]
 - Originates from [[Portrait NPC Director of Experimental Procedures Dr Siren Voidtouch Director of Experimental Procedures Dr Siren Voidtouch.svg
@@ -196,14 +193,12 @@ Has information about legendary item
 - Influences
 - Requires [[step_091 (phase_024)
 - See also: [ITEM00481_Ethereal_Boots_of_Grace]]
-- Influences [[MON00127_Constructs_Creature_128
-- Parallels [stable-xphb (variant-rules)]]
+- Influences [[MON00127_Constructs_Creature_128]]
 - Connects to [[Portrait NPC Captain Lyanna Brightshield V2 Captain Lyanna Brightshield.svg
 - See also: [Location City Military Command Military Command.svg]]
 - Related: [[step_075 (phase_031)
 - Influences [Gilded Royal Coach or Funeral Barge Xdmg]]
-- Affected by [[step_091 (phase_034)
-- See also: [Portrait NPC Neri... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Affected by [[Portrait NPC Neri... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Requires [[Elder Whisper-In-The-Dark (Places)
 - Leads to [hit-points-hit-dice-by-size-mm (tables)]]
 - Related: [[ITEM01428_Practical_Spyglass_of_Convenience
@@ -215,10 +210,8 @@ Has information about legendary item
 - See also: [[juiblex-mtf (legendary-group)
 - Leads to
 - Related: [Forgotten Realms Bhaal]]
-- See also: [[Imperial Crown Fragment 2
-- See also: [NPC00777_Qadim_Winterborn_the_Bold]]
-- Related: [[LOC00254_Dungeons_Location_255
-- Requires [step_084 (phase_040)]]
+- See also: [[NPC00777_Qadim_Winterborn_the_Bold]]
+- Related: [[LOC00254_Dungeons_Location_255]]
 - See also: [[step_095 (phase_052)
 - Requires [Beholder Xmm]]
 - Parallels [[instrument-of-the-bards-ollamh-harp-xdmg (items)
@@ -231,24 +224,20 @@ Has information about legendary item
 - Affected by [LORE00073_History_Entry_74]]
 - Connects to [[Player_Notes
 - Related: [Assets Locations Location City Court Herald Master Proclamation Crownvoice V1 Court Herald Master Proclamation Crownvoice.svg]]
-- Requires [[NPC00065_Hestara_Underhill_the_Wanderer
-- Connects to [QUEST00384_Side_Quest_385]]
+- Requires [[NPC00065_Hestara_Underhill_the_Wanderer]]
 - Affected by [[step_072 (phase_026)
 - Originates from [Interfaith Council (Organizations)]]
 - Connects to [[Location City Ancient Treasury of Tides V1 Ancient Treasury of Tides.svg
 - See also: [Assets Locations Location City Emergency Management V1 Emergency Management.svg]]
 - Parallels [[step_031 (phase_059)
 - Leads to [LORE00243_Legends_Entry_244]]
-- See also: [[ENC00344_Combat_Encounter_345
-- Connects to [step_060 (phase_025)]]
+- See also: [[ENC00344_Combat_Encounter_345]]
 - Affected by [[ITEM01404_Ornate_Rope_of_Convenience
 - Compare with [Location City the Vault Keepers V1 the Vault Keepers.svg]]
 - Originates from [[Institute of Adaptive Sciences_1 (02_Worldbuilding)
 - See also: [Assets Locations Location City Captain Marlowe Tidecrest V1 Captain Marlowe Tidecrest.svg]]
-- Leads to [[MON00146_Aberrations_Creature_147
-- Related: [step_092 (phase_006)]]
-- Leads to [[eyebite-xphb (spells)
-- Related: [15-the-planes-of-existence (players-handbook-2014)]]
+- Leads to [[MON00146_Aberrations_Creature_147]]
+- Leads to [[15-the-planes-of-existence (players-handbook-2014)]]
 - Originates from [[step_081 (phase_026)
 - Compare with [painted-gold-war-mask-xdmg (items)]]
 - Originates from [[QUEST00072_Side_Quest_73
@@ -264,8 +253,7 @@ Has information about legendary item
 - Requires
 - Originates from [[Panther Xmm
 - Influences [tiefling-names-female-xge (tables)]]
-- Related: [[Academy of Redirection (Academies)
-- Leads to [step_046 (phase_019)]]
+- Related: [[Academy of Redirection (Academies)]]
 - Affected by [[Illithilich Vgm
 - Originates from [Player Handbook]]
 

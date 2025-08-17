@@ -166,22 +166,18 @@ Family member has gone missing
 
 ## Connections
 
-- Leads to [[Illumination Crystals
-- Compare with [Heart of Chronos (D&D_References)]]
+- Leads to [[Heart of Chronos (D&D_References)]]
 - Compare with [[Scene Scene Deep Mother S Tentacles Rising V2 Deep Mother S Tentacles Rising.svg
 - Leads to [Sahuagin]]
-- Compare with [[Aquabyssos_Session_01 (D&D_References)
-- Related: [ENC0020_Random_Encounter_21]]
+- Compare with [[Aquabyssos_Session_01 (D&D_References)]]
 - See also: [[step_001 (phase_100)
 - Leads to [ITEM01147_Greater_Elixir_of_Clarity]]
-- Influences [[NPC00963_Nerys_Frostwhisper_the_Guardian
-- Leads to [LORE00111_Prophecies_Entry_112]]
+- Influences [[NPC00963_Nerys_Frostwhisper_the_Guardian]]
 - Related: [[Elixir of Health Xdmg
 - Requires [ITEM00020_Cursed_Spear_of_Speed]]
 - Related: [[The Clockwork Depths
 - Affected by [Spell Gem Jade Oota]]
-- Parallels [[NPC01750_Ysara_Hawthorne_the_Redeemed
-- Affected by [LOC00010_Cities_Location_11]]
+- Parallels [[NPC01750_Ysara_Hawthorne_the_Redeemed]]
 - Influences [[Aberrant Cults (Cults_and_Movements)
 - Affected by [12_Research_D&D_Statblocks_Memory_Merchant_Zephyr_Mindweaver]]
 - Requires
@@ -194,8 +190,7 @@ Family member has gone missing
 - Originates from [02-chapter-1-playing-the-game#Carrying Objects]]
 - Affected by [[arcanaloth-xmm (fiend)
 - Affected by [LOC00093_Planes_Location_94]]
-- Influences [[step_022 (phase_017)
-- Related: [Equipment Chief Current Toolwright]]
+- Influences [[Equipment Chief Current Toolwright]]
 - Affected by [[README (Tokens)
 - Affected by [step_056 (phase_042)]]
 - Influences [[step_055 (phase_046)
@@ -205,8 +200,7 @@ Family member has gone missing
 - Related: [Symbol Heraldry Stellar Commander Nereus Voidcaller Stellar Commander Nereus Voidcaller.svg]]
 - Related: [[Depth Accords 2
 - Leads to [blinding-smite-xphb (spells)]]
-- See also: [[SPELL00089_Arcane_Spell_90
-- Parallels [step_011 (phase_042)]]
+- See also: [[SPELL00089_Arcane_Spell_90]]
 - Originates from [[LORE00144_Legends_Entry_145
 - Parallels [Portrait NPC Salvage Queen Nerissa Deepfinder Salvage Queen Nerissa Deepfinder.svg_1 (Portraits)]]
 - Originates from [[Grimlock Xmm
@@ -227,26 +221,21 @@ Family member has gone missing
 - Parallels [Portrait NPC Duke Theron Depthguard Duke Theron Depthguard.svg_1 (Portraits)]]
 - Leads to [[Location City Doctor Silas Voidtouch Doctor Silas Voidtouch.svg
 - See also: [Purist Coalition 2]]
-- Requires [[SPELL00117_Divine_Spell_118
-- Leads to [step_074 (phase_097)]]
+- Requires [[SPELL00117_Divine_Spell_118]]
 - Requires [[ENC00120_Social_Encounter_121
 - Connects to [04 Chapter 3 Character Classes]]
 - See also: [[Organizations the Life Eternal
 - Connects to [Assets Locations Location City Singing Coral Singing Coral.svg]]
-- See also: [[Mystery_Framework
-- Connects to [NPC00344_Vesper_Hawthorne]]
+- See also: [[NPC00344_Vesper_Hawthorne]]
 - See also: [[Shadow Surgery Centers
 - Parallels [step_068 (phase_076)]]
 - Compare with [[lightning-bolt-xphb (spells)
 - Requires [The Shadowhawk Syndicate]]
-- Compare with [[Community Mediator Balance Wright
-- Related: [step_084 (phase_080)]]
-- See also: [[MON00102_Undead_Creature_103
-- Parallels [step_056 (phase_061)]]
+- Compare with [[Community Mediator Balance Wright]]
+- See also: [[MON00102_Undead_Creature_103]]
 - Compare with [[Assets Portraits Portrait NPC Captain Lyanna Brightshield Captain Lyanna Brightshield.svg
 - Originates from [Sir Ruben Redtape (D&D_References)]]
-- Connects to [[LOC00059_Wilderness_Location_60
-- Parallels [The Surface Integration Initiative]]
+- Connects to [[The Surface Integration Initiative]]
 - Leads to [[step_079 (phase_040)
 - Leads to [Zuggtmoy Mtf]]
 - Compare with [[Location City Surface Trade Ports V1 Surface Trade Ports.svg
@@ -259,8 +248,7 @@ Family member has gone missing
 - Influences [step_003 (phase_038)]]
 - Related: [[Holy Water Xphb
 - Parallels [Ray of Frost Xphb]]
-- Parallels [[International Crystal Trade Associatio 2
-- Leads to [Blood in the Water (D&D_References)]]
+- Parallels [[International Crystal Trade Associatio 2]]
 - See also: [[step_042 (phase_081)
 - Leads to
 - Connects to [Property Markets]]

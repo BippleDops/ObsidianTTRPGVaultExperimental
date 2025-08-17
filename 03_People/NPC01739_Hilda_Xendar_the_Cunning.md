@@ -167,8 +167,7 @@ Offers deal too good to refuse
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -185,13 +184,11 @@ Offers deal too good to refuse
 
 - Requires [[QUEST00029_Personal_Quest_30
 - See also: [wizard-xphb-war-magic-xge (classes)]]
-- Leads to [[Arcane-Depth Void
-- Influences [deep-scion-mpmm (monstrosity)]]
+- Leads to [[deep-scion-mpmm (monstrosity)]]
 - Affected by [[Handout Handout Ancient Prophecy Fragment V2 Ancient Prophecy Fragment.png
 - Compare with
 - Requires [Cloud Gardens]]
-- Compare with [[NPC01233_Dara_Ironwood_the_Redeemed
-- Parallels [Recent Events]]
+- Compare with [[NPC01233_Dara_Ironwood_the_Redeemed]]
 - Requires [[step_056 (phase_023)
 - Parallels [step_072 (phase_050)]]
 - Originates from [[SHOP00059_Specialty_Shop_60
@@ -200,22 +197,16 @@ Offers deal too good to refuse
 - Requires
 - Leads to [[Soldier Xphb
 - Affected by [step_094 (phase_039)]]
-- Leads to [[step_069 (phase_074)
-- Affected by [NPC01338_Ysara_Brightblade_the_Seeker]]
-- Connects to [[step_057 (phase_029)
-- See also: [Admiral Storm Tidecaller (D&D_References)]]
-- See also: [[LOC00150_Planes_Location_151
-- Compare with [Probability Garden]]
-- Connects to [[Ships - Player_Handout_Aethermoor_Airships
-- Originates from [LOC00178_Dungeons_Location_179]]
-- Influences [[LOC0138_FortGate
-- Originates from [QUEST00106_Personal_Quest_107]]
+- Leads to [[NPC01338_Ysara_Brightblade_the_Seeker]]
+- Connects to [[Admiral Storm Tidecaller (D&D_References)]]
+- See also: [[LOC00150_Planes_Location_151]]
+- Connects to [[Ships - Player_Handout_Aethermoor_Airships]]
+- Influences [[QUEST00106_Personal_Quest_107]]
 - Related: [[step_100 (phase_086)
 - Originates from [NPC00230_Cedric_Xendar]]
 - Compare with [[LOC00074_Dungeons_Location_75
 - Affected by [Portrait NPC Nerissa Deepcurrent Nerissa Deepcurrent.svg]]
-- Requires [[ITEM00929_Superior_Crystal_of_Clarity
-- See also: [Pressure Tube Terminal (D&D_References)]]
+- Requires [[Pressure Tube Terminal (D&D_References)]]
 - Compare with [[werebear-xmm (monstrosity)
 - Related: [ITEM00304_Blessed_Staff_of_Accuracy]]
 - Parallels [[Remove Curse Xphb
@@ -236,10 +227,8 @@ Offers deal too good to refuse
 - Related: [Nonhuman Eadro]]
 - Related: [[Temple Ward
 - See also: [04_Resources_Assets_Locations_location-city-professor-reef-growthseeker-v1-professor-reef-growthseeker.svg]]
-- Connects to [[step_088 (phase_011)
-- Related: [Trade Captain Marina Pathkeeper]]
-- Originates from [[EVENT00061_Magical_Event_62
-- Parallels [Crisis Command Center (D&D_References)]]
+- Connects to [[Trade Captain Marina Pathkeeper]]
+- Originates from [[Crisis Command Center (D&D_References)]]
 - See also: [[Kelp Forests
 - Leads to [item-artifact-whelm-xdmg-v5-whelm-xdmg.png]]
 - Influences [[Location City Neutrality Laws V1 Neutrality Laws.svg
@@ -248,15 +237,13 @@ Offers deal too good to refuse
 - Connects to [Master Banker Cornelius Coinwrigh]]
 - Connects to [[LOC0094_Hillthorpe
 - Affected by [LOC0085_Valewick]]
-- Related: [[NPC00250_Delara_Darkwater_the_Fallen
-- Compare with [steam-mephit-xmm (elemental)]]
+- Related: [[NPC00250_Delara_Darkwater_the_Fallen]]
 - Related: [[QUEST00156_Personal_Quest_157
 - Leads to [Assets Item Artifact Ruby Xdmg V2 Ruby Xdmg.png]]
 - Compare with [[ITEM00199_Blessed_Dagger_of_Accuracy
 - Requires
 - Parallels [step_092 (phase_051)]]
-- Requires [[step_047 (phase_081)
-- Connects to [Aethermoor to Aquabyssos Transition Guide 3 (D&D_References)]]
+- Requires [[Aethermoor to Aquabyssos Transition Guide 3 (D&D_References)]]
 - Affected by [[Assets Symbols Symbol Heraldry Aquabyssos Faction Web Aquabyssos Faction Web.svg
 - See also: [Manual of Golems Xdmg]]
 - Influences [[step_011 (phase_078)
@@ -265,24 +252,18 @@ Offers deal too good to refuse
 - Affected by [LORE00090_History_Entry_91]]
 - Originates from [[Assets Locations Location City the Transition Centers the Transition Centers.svg
 - Parallels [NPC00368_Vesper_Thornweave_the_Cunning]]
-- Related: [[step_033 (phase_077)
-- Parallels [Session 01 (Seven_Shards_Campaign)]]
-- Requires [[ENC00112_Environmental_Encounter_113
-- Originates from [will-o-wisp-xmm (undead)]]
-- Requires [[QUEST0055_The_Forbidden_Artifact
-- Originates from [Portrait NPC Patr... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Related: [[Session 01 (Seven_Shards_Campaign)]]
+- Requires [[ENC00112_Environmental_Encounter_113]]
+- Requires [[Portrait NPC Patr... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Originates from [[LOC0004_Hillton
 - Leads to [Portrait NPC Senator Glaucus V1 Senator Glaucus.svg_1 (Portraits)]]
-- Influences [[Locations the Temporal Scars
-- Connects to [step_055 (phase_029)]]
+- Influences [[Locations the Temporal Scars]]
 - Compare with [[Titan Foundationbearer
 - Leads to [variant-spell-points-spell-point-cost (tables)]]
-- Connects to [[step_001 (phase_007)
-- Leads to [QUEST00468_Side_Quest_469]]
+- Connects to [[QUEST00468_Side_Quest_469]]
 - Parallels [[Quest - The Runaway Golem_1 (01_Adventures)
 - Compare with [Assets Locations Location City Temple of the Healing Waters V1 Temple of the Healing Waters.svg]]
-- Related: [[Private Arbitration 2
-- Leads to [MON00142_Undead_Creature_143]]
+- Related: [[MON00142_Undead_Creature_143]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

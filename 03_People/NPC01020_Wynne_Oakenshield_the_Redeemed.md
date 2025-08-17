@@ -155,26 +155,21 @@ Competitor sabotaging business
 
 ## Connections
 
-- See also: [[Ally Xphb
-- Compare with [Quartermaster Shadow Supply (D&D_References)]]
-- Originates from [[Scholar Dr Vera Theological
-- Affected by [Whisper Exposure 2]]
+- See also: [[Quartermaster Shadow Supply (D&D_References)]]
+- Originates from [[Scholar Dr Vera Theological]]
 - Connects to [[NPC00361_Kaelen_Dawnstrider_the_Cunning
 - Originates from [S-201 Eclipse Raid Window Player (Encounters)]]
-- Requires [[Diplomat Cross-Current Thane
-- Related: [The Phantom Gazer]]
+- Requires [[Diplomat Cross-Current Thane]]
 - Connects to [[light-xphb (spells)
 - Connects to [Assets Portraits Portrait NPC the Ancient Nobility the Ancient Nobility.svg]]
 - Connects to [[LOC00124_Planes_Location_125
 - Influences [boon-of-invincibility (rewards)]]
-- Influences [[NPC00590_Felicia_Grimholt_the_Guardian
-- Requires [random-undersea-encounters (tables)]]
+- Influences [[NPC00590_Felicia_Grimholt_the_Guardian]]
 - Affected by [[Location City Treasury Department Treasury Department.svg
 - Originates from [Regional Courts]]
 - Affected by [[step_021 (phase_092)
 - Affected by [Deep Ones]]
-- Influences [[MON00135_Aberrations_Creature_136
-- Leads to [LORE00019_Prophecies_Entry_20]]
+- Influences [[MON00135_Aberrations_Creature_136]]
 - Parallels [[ITEM00499_Enchanted_Chain_Mail_of_Grace
 - Related: [skills#Perception]]
 - See also: [[step_044 (phase_084)
@@ -206,10 +201,8 @@ Competitor sabotaging business
 - Connects to
 - See also: [[Agent Whisper Voidheart (People)
 - Leads to [LOC00061_Towns_Location_62]]
-- Influences [[Trader Grimm Voidheart (D&D_References)
-- Leads to [step_068 (phase_057)]]
-- Affected by [[Field Worker Communities
-- Parallels [Floating Gardens]]
+- Influences [[Trader Grimm Voidheart (D&D_References)]]
+- Affected by [[Field Worker Communities]]
 - Leads to [[grassland-encounters-levels-1720-xge (tables)
 - See also: [04_Resources_Assets_Symbols_symbol-heraldry-the-great-recognition-the-great-recognition.svg]]
 - Parallels [[Instrument of the Bards Xdmg
@@ -219,8 +212,7 @@ Competitor sabotaging business
 - Influences [[NPC01546_Delara_Thornweave_the_Fallen
 - Related:
 - Connects to [Current Innovator (D&D_References)]]
-- Influences [[mage-slayer-xphb (feats)
-- Related: [NPC00743_Ysara_Lightbringer_the_Broken]]
+- Influences [[NPC00743_Ysara_Lightbringer_the_Broken]]
 - Leads to [[Supplemental Tables Occupation Xge
 - Requires [Location City Sage Lyralei Starweaver V1 Sage Lyralei Starweaver.svg]]
 - See also: [[Portrait NPC Shadow Duchess Nyx V2 Shadow Duchess Nyx.svg_1 (Portraits)
@@ -236,8 +228,7 @@ Competitor sabotaging business
 - Affected by [NPC01899_Pyria_Emberfall_the_Swift]]
 - Requires [[step_033 (phase_033)
 - Affected by [The Corrupted Current 2]]
-- Leads to [[step_080 (phase_034)
-- See also: [Symbol Heraldry Ela... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Leads to [[Symbol Heraldry Ela... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Compare with [[Depth_Events_Pack_C
 - Leads to [slow-xphb (spells)]]
 - Compare with [[Portrait NPC High King Aurelius Skyborn V2 High King Aurelius Skyborn.svg_1 (Portraits)
@@ -246,13 +237,11 @@ Competitor sabotaging business
 - See also: [Peridot Xdmg]]
 - Affected by [[step_036 (phase_023)
 - Influences [Assets Handouts Handout Handout Tavern Bill of Fare V1 Tavern Bill of Fare.png]]
-- Connects to [[step_024 (phase_097)
-- Leads to [LOC00015_Cities_Location_16]]
+- Connects to [[LOC00015_Cities_Location_16]]
 - Related:
 - Related: [[Royal Vault 2
 - Affected by [step_082 (phase_008)]]
-- Affected by [[step_007 (phase_030)
-- Connects to [ENC00269_Combat_Encounter_270]]
+- Affected by [[ENC00269_Combat_Encounter_270]]
 - Leads to [[step_023 (phase_020)
 - Related: [arcana-rare-xdmg (tables)]]
 

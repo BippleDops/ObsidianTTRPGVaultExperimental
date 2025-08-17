@@ -170,40 +170,22 @@ Things widely suspected
 
 ## References
 
-- [[MASTER_VAULT_INDEX
-- [Quest - Redemption's Price]]
-- [[Aberrant Cults
-- [Artisan Collective]]
-- [[Corrupted Clients (D&D_References)
-- [Current Peacefulflow (D&D_References)]]
-- [[Delta-Operations
-- [Depth Cardinal Justice Currentkeeper (D&D_References)]]
-- [[Depth Guard (D&D_References)
-- [Depth-Aging Process]]
-- [[Duchess Nightshade
-- [Environmental Court]]
-- [[Environmental Engineer Current Depthwright
-- [Heart Grove]]
-- [[Keeper Luminous Crystalbeam (D&D_References)
-- [Lord Marcus Shadowbane (D&D_References)]]
-- [[Marcus Ledgerborn
-- [Market Square]]
-- [[Marquis Aldwin Goldcurrent (D&D_References)
-- [Military Command (D&D_References)]]
-- [[Navigation & Geograph (D&D_References)
-- [Port Meridian Council Chamber (D&D_References)]]
-- [[Poseidon (D&D_References)
-- [Pressure Portals (D&D_References)]]
-- [[Queen Lyralei Stormheart (D&D_References)
-- [Redirection Syndrome]]
-- [[Royal Court (D&D_References)
-- [Silence-Keeper Mute (D&D_References)]]
-- [[Skyforge Guardians
-- [Supply Master Cargo Deephaul]]
-- [[The Battlefield Convergence
-- [The Chronicle Scribes]]
-- [[The Crystal Caves (D&D_References)
-- [The Deep Territories]]
-- [[The Depth Mother's Blessing
-- [The Hippocratic Vault]]
+- [[Quest - Redemption's Price]]
+- [[Artisan Collective]]
+- [[Current Peacefulflow (D&D_References)]]
+- [[Depth Cardinal Justice Currentkeeper (D&D_References)]]
+- [[Depth Guard (D&D_References)]]
+- [[Environmental Court]]
+- [[Environmental Engineer Current Depthwright]]
+- [[Keeper Luminous Crystalbeam (D&D_References)]]
+- [[Marcus Ledgerborn]]
+- [[Marquis Aldwin Goldcurrent (D&D_References)]]
+- [[Port Meridian Council Chamber (D&D_References)]]
+- [[Pressure Portals (D&D_References)]]
+- [[Queen Lyralei Stormheart (D&D_References)]]
+- [[Silence-Keeper Mute (D&D_References)]]
+- [[Supply Master Cargo Deephaul]]
+- [[The Battlefield Convergence]]
+- [[The Crystal Caves (D&D_References)]]
+- [[The Depth Mother's Blessing]]
 - [[Quest_Template]]

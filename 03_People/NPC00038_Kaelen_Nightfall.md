@@ -169,8 +169,7 @@ Needs discrete help with family scandal
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -186,52 +185,41 @@ Needs discrete help with family scandal
 ## Connections
 
 - Related:
-- Leads to [[SPELL00063_Nature_Spell_64
-- Related: [step_017 (phase_024)]]
-- Parallels [[ITEM00129_Frost_Hammer_of_Power
-- Affected by [NPC01829_Ewan_Lightbringer_the_Risen]]
+- Leads to [[SPELL00063_Nature_Spell_64]]
+- Parallels [[NPC01829_Ewan_Lightbringer_the_Risen]]
 - Related: [[Foreign Merchants
 - Parallels [step_089 (phase_074)]]
-- Parallels [[Resonance_Body
-- Leads to [The Green Apocalypse 2]]
+- Parallels [[The Green Apocalypse 2]]
 - Affected by [[Location City Aboleth Adjunct Yzz V1 Aboleth Adjunct Yzz.svg
 - See also: [Grand Harbor 2]]
 - Requires [[potion-of-healing-gv (items)
 - Connects to [Gelatinous Cube Xmm]]
 - Originates from [[step_038 (phase_056)
 - Compare with [QUEST00136_Side_Quest_137]]
-- Originates from [[step_064 (phase_042)
-- Requires [LOC00195_Wilderness_Location_196]]
-- Compare with [[step_012 (phase_055)
-- See also: [QUEST00080_Personal_Quest_81]]
+- Originates from [[LOC00195_Wilderness_Location_196]]
+- Compare with [[QUEST00080_Personal_Quest_81]]
 - Related: [[step_069 (phase_071)
 - Leads to [Dwarven Plate Xdmg]]
-- Affected by [[The Real Marina 3 (D&D_References)
-- Originates from [step_098 (phase_013)]]
+- Affected by [[The Real Marina 3 (D&D_References)]]
 - Influences [[ITEM00216_Shadow_Staff_of_Slaying
 - Compare with [giant-toad-xmm (beast)]]
-- Leads to [[Barkeep Salty Sarah (D&D_References)
-- Originates from [step_089 (phase_071)]]
+- Leads to [[Barkeep Salty Sarah (D&D_References)]]
 - Influences [[pact-of-the-chain-xphb (optional-features)
 - Influences [Location City Echo Translator Vera Echo Translator Vera.svg]]
 - Influences [[LORE00332_Prophecies_Entry_333
 - Originates from [Location City the Crystal Wardens the Crystal Wardens.svg]]
-- Affected by [[SPELL00078_Arcane_Spell_79
-- Influences [Wise Counselor Deep]]
-- See also: [[Enspelled Armor Xdmg
-- See also: [01-introduction (players-handbook-2014)]]
+- Affected by [[SPELL00078_Arcane_Spell_79]]
+- See also: [[01-introduction (players-handbook-2014)]]
 - Related: [[ancient-silver-dragon-xmm (dragon)
 - Related: [NPC00501_Orion_Nightfall_the_Broken]]
-- See also: [[The Pressure Baptism Rites (D&D_References)
-- Influences [Symbol Heraldry Com... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- See also: [[Symbol Heraldry Com... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Influences [[LORE00113_History_Entry_114
 - Requires [Assets Locations Location City Pressure Weighted Representation V1 Pressure Weighted Representation.svg]]
 - Related: [[step_022 (phase_098)
 - Originates from [ITEM01246_Lesser_Potion_of_Vigor]]
 - Requires [[step_100 (phase_006)
 - Influences [Castellan Ironledger III_1]]
-- Compare with [[Fresh Cleanwave
-- Related: [The Seven Shard Guardians]]
+- Compare with [[The Seven Shard Guardians]]
 - Originates from [[beholder-xmm (aberration)
 - Originates from [QUEST00443_Side_Quest_444]]
 - Related: [[Portrait NPC Unite the Emperor Unite the Emperor.svg
@@ -243,12 +231,10 @@ Needs discrete help with family scandal
 - Affected by [step_069 (phase_018)]]
 - Compare with [[Portrait NPC Prophet Nerida Voidgazer V1 Prophet Nerida Voidgazer.svg_1 (Portraits)
 - Leads to [Nereidios 2]]
-- Requires [[step_028 (phase_054)
-- Leads to [MON00045_Aberrations_Creature_46]]
+- Requires [[MON00045_Aberrations_Creature_46]]
 - Parallels [[Memory Manipulation Mechanics
 - Leads to [SPELL00100_Nature_Spell_101]]
-- Parallels [[step_069 (phase_026)
-- Parallels [LOC00014_Planes_Location_15]]
+- Parallels [[LOC00014_Planes_Location_15]]
 - Originates from [[Crystal-Powered Vessels
 - Connects to [The Recursion Nexus (Places)]]
 - Related: [[Portrait NPC Quest the Crown S Return Quest the Crown S Return.svg
@@ -256,12 +242,10 @@ Needs discrete help with family scandal
 - Affected by [[location-city-the-lock-v1-the-lock.svg
 - Affected by
 - Requires [LORE00145_History_Entry_146]]
-- Requires [[step_078 (phase_016)
-- Leads to [LOC00197_Wilderness_Location_198]]
+- Requires [[LOC00197_Wilderness_Location_198]]
 - Influences [[Dungeon Creator Cults and Religions
 - Related: [figurine-of-wondrous-power-ebony-fly-xdmg (items)]]
-- Compare with [[step_001 (phase_025)
-- Originates from [NPC00054_Drusilla_Blackstone_the_Swift]]
+- Compare with [[NPC00054_Drusilla_Blackstone_the_Swift]]
 - Affected by [[Location City Chronomancer Paradox Chronomancer Paradox.svg
 - Affected by [The Silverscale Conspiracy 2]]
 - Related: [[pushing-attack-xphb (optional-features)
@@ -272,18 +256,14 @@ Needs discrete help with family scandal
 - Related: [Ancient Ocean Magic 2]]
 - See also: [[Luck Spirit 2
 - Originates from [Portrait NPC Empress Tethys the Ever Drowning V2 Empress Tethys the Ever Drowning.svg_1 (Portraits)]]
-- Connects to [[LORE00174_History_Entry_175
-- Influences [Bio-Magical Integration Laboratory (D&D_References)]]
+- Connects to [[Bio-Magical Integration Laboratory (D&D_References)]]
 - Originates from [[ENC00456_Combat_Encounter_457
 - Originates from [Merchant Quarter Districts 2]]
-- Parallels [[NPC01464_Aeliana_Brightblade_the_Fallen
-- Parallels [Lumengarde City 2]]
-- Compare with [[will-o-wisp-xmm (undead)
-- Parallels [The Hidden Cove of Whispers 2]]
+- Parallels [[NPC01464_Aeliana_Brightblade_the_Fallen]]
+- Compare with [[The Hidden Cove of Whispers 2]]
 - Related: [[step_063 (phase_084)
 - Compare with [Portrait NPC Lord Erasmus Voidheart V1 Lord Erasmus Voidheart.svg]]
-- Affected by [[QUEST00109_Side_Quest_110
-- Compare with [Merchant_Guilds]]
+- Affected by [[QUEST00109_Side_Quest_110]]
 - Connects to
 
 ## Plot Hooks

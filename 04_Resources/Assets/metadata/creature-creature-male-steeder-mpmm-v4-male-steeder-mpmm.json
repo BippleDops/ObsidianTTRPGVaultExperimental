@@ -25,5 +25,8 @@
   "alt_text": "Concept art of male-steeder-mpmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-male-steeder-mpmm-v4-male-steeder-mpmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-male-steeder-mpmm-v4-male-steeder-mpmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:05:53.699Z",
+  "generationMethod": "ComfyUI"
 }

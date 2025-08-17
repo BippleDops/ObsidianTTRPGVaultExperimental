@@ -40,95 +40,61 @@ Possible developments and plot opportunities.
 ## Relationships
 
 ### Direct Connections
-- [[Hall of Mirrors
-- [#Cross-Campaign Locations]]
+- [[Hall of Mirrors]]
 - [[#Natural & Mystical Locations
 - [#Underground & Aquatic Locations]]
 - [[#lore Location Connection Matrix
 - [All Locations]]
 - [[Assets Portraits Portrait NPC Quest the Prophecy Fulfilled Quest the Prophecy Fulfilled.svg
 - [Current_Location]]
-- [[Displaced Atoll Residents
-- [Temporal Displacement]]
+- [[Displaced Atoll Residents]]
 - [[Location Found
 - [Location Name 1 (Places)]]
-- [[Location Name 2 (Places)
-- [Location-Based Encounter Tables]]
+- [[Location-Based Encounter Tables]]
 - [[Location1 (Places)
 - [Location2 (Places)]]
 - [[Location3 (Places)
 - [Abyssal Forges]]
-- [[Abyssal Spires
--
-- [Conspiracy Prison Facilities]]
-- [[Crystal Conservatory
-- [Crystal Shadow Storms]]
-- [[Cultural Centers
-- [Embassy Row]]
-- [[Floating Arsenal
-- [Hybrid Ecology]]
-- [[Phantom Metropolis
-- [Phantom Reef]]
-- [[Portal Terminals
-- [Residential Districts]]
-- [[Sunken Palace
-- [Technical Quarter]]
-- [[The Communication Array
-- [The Cosmic Library]]
-- [[The Emergency Response Center
-- [The Equipment Vaults]]
-- [[The Grand Exchange
-- [The Healing Voids]]
-- [[The Meditation Spheres
-- [The Memory Halls]]
-- [[The Null Zones
-- [The Probability Engine]]
-- [[The Quarantine Zones
-- [The Synthesis Wastes]]
-- [[The Temporal Scars
-- [The Time Anchor]]
-- [[The Void Scanner
-- [The Watcher Sanctums]]
-- [[Theater of Impossible Dreams
-- [Main Location]]
-- [[Meridian Undercity
-- [Parent_Location_Name]]
+- [[Conspiracy Prison Facilities]]
+- [[Crystal Shadow Storms]]
+- [[Cultural Centers]]
+- [[Floating Arsenal]]
+- [[Phantom Metropolis]]
+- [[Residential Districts]]
+- [[Technical Quarter]]
+- [[The Communication Array]]
+- [[The Emergency Response Center]]
+- [[The Grand Exchange]]
+- [[The Meditation Spheres]]
+- [[The Probability Engine]]
+- [[The Quarantine Zones]]
+- [[The Temporal Scars]]
+- [[The Watcher Sanctums]]
+- [[Theater of Impossible Dreams]]
+- [[Parent_Location_Name]]
 - [[Aquabyssos Prime (Places)
 - [Emergency Protocols 2 (Places)]]
 - [[Financial District (Places)
 - [Forge District (Places)]]
-- [[Forgotten Doorways
-- [Kraken 2 (Places)]]
+- [[Forgotten Doorways]]
 - [[Law Enforcement 2 (Places)
 - [New Meridian (Places)]]
-- [[Order of the Crystal Flame Monastery (Places)
-- [Parallel Realities (Places)]]
-- [[Pressure Gate.md (Places)
-- [Sister Morwyn's Memorial Sanctuary (Places)]]
-- [[Sunken Citadel of Remembrance (Places)
-- [Thalassopolis Ruins]]
-- [[The Community Feast Halls (Places)
-- [The Crimson Reef]]
-- [[The Crystal Mines of Sorrow
-- [The Crystal Palace (Places)]]
-- [[The Crystal Temple (Places)
-- [The Decompression Chamber]]
-- [[The Deep Academy
-- [The Gilded Serpent]]
+- [[Order of the Crystal Flame Monastery]]
+- [[Sister Morwyn's Memorial Sanctuary]]
+- [[Sunken Citadel of Remembrance]]
+- [[The Community Feast Halls]]
+- [[The Crystal Mines of Sorrow]]
+- [[The Decompression Chamber]]
+- [[The Gilded Serpent]]
 - [[The Philosophical Depths
 - [The Recursion Nexus (Places)]]
-- [[The Sacred Armory
-- [The Sunken Library of Thalassius.md]]
-- [[The Twilight Depths
-- [The Twilight Reaches]]
+- [[The Sunken Library of Thalassius]]
+- [[The Twilight Reaches]]
 - [[The_Crystal_Gardens (Places)
 - [Whisper-Touched William's Oracle Shrine (Places)]]
-- [[Places (Places)
-- [Resource Scarcity Prediction]]
-- [[Shadow Replacements
-- [Shard Locations]]
-- [[The First Failure
-- [The Silent Watcher]]
+- [[Resource Scarcity Prediction]]
+- [[Shadow Replacements]]
+- [[The Silent Watcher]]
 - [[map_placeholder
 - [Clues_by_Location.png_1 (Art)]]
 - [[Create_New_Location.png_1 (Art)
@@ -2373,26 +2339,18 @@ Possible developments and plot opportunities.
 - [locations_1 (Assets)]]
 - [[Location_Name.png_1 (04_Places)
 - [Location_Network_Graph.md_1 (04_Places)]]
-- [[City_District_Map_Port_Meridian_Harbo
-- [Template_Continent_Placeholder.png]]
-- [[Template_Continent_Placeholder.png_2 (09_Templates)
-- [Template_Galaxy_Placeholder.png (09_Templates)]]
-- [[Template_Galaxy_Placeholder.png_2 (09_Templates)
-- [Template_Group_Placeholder.png]]
+- [[City_District_Map_Port_Meridian_Harbo]]
+- [[Template_Continent_Placeholder.png_2 (09_Templates)]]
+- [[Template_Galaxy_Placeholder.png_2 (09_Templates)]]
 - [[Template_Item_Placeholder.png
 - [Template_Lore_Placeholder.png]]
-- [[Template_Person_Placeholder.png (09_Templates)
-- [Template_Person_Placeholder.png_2 (09_Templates)]]
-- [[Template_Place_Placeholder.png
-- [Template_Place_Placeholder.png_2 (09_Templates)]]
-- [[Template_Planet_Placeholder.png
-- [Template_Planet_Placeholder.png_2 (09_Templates)]]
-- [[Template_Player_Placeholder.png
-- [Template_Player_Placeholder.png_2 (09_Templates)]]
+- [[Template_Person_Placeholder.png_2 (09_Templates)]]
+- [[Template_Place_Placeholder.png_2 (09_Templates)]]
+- [[Template_Planet_Placeholder.png_2 (09_Templates)]]
+- [[Template_Player_Placeholder.png_2 (09_Templates)]]
 - [[Template_Quest_Placeholder.png
 - [Template_Species_Placeholder.png]]
-- [[Template_Species_Placeholder.png_2 (09_Templates)
-- [Template_StarSystem_Placeholder.png (09_Templates)]]
+- [[Template_StarSystem_Placeholder.png (09_Templates)]]
 - [[Template_StarSystem_Placeholder.png_2 (09_Templates)]]
 
 ### Indirect Influences

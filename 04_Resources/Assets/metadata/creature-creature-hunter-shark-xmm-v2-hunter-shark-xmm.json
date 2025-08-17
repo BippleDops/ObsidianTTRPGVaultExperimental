@@ -25,5 +25,8 @@
   "alt_text": "Concept art of hunter-shark-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-hunter-shark-xmm-v2-hunter-shark-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-hunter-shark-xmm-v2-hunter-shark-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:04:51.996Z",
+  "generationMethod": "ComfyUI"
 }

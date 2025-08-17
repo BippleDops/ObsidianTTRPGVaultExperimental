@@ -177,10 +177,8 @@ Forming expedition to dangerous location
 - Leads to [Vehicle Ship Aethermoor Courier Class Airship Aethermoor Courier Class Airship.png]]
 - Compare with [[Places
 - Leads to [Umbral Exchange (Lore)]]
-- Parallels [[The Detention Complex
-- See also: [Underwater Navigation Guild]]
-- Affected by [[SPELL00071_Arcane_Spell_72
-- Compare with [NPC01473_Dara_Frostwhisper_the_Lost]]
+- Parallels [[Underwater Navigation Guild]]
+- Affected by [[NPC01473_Dara_Frostwhisper_the_Lost]]
 - Parallels [[Pressure Symbiont
 - Originates from [step_055 (phase_086)]]
 - Compare with [[Dual Integration Therapy
@@ -191,10 +189,8 @@ Forming expedition to dangerous location
 - Related: [ITEM00826_Time-worn_Crown_of_Truth]]
 - Requires [[step_015 (phase_042)
 - Connects to [Sage Freedom Philosopher 2]]
-- Leads to [[NPC01358_Zephyr_Dawnstrider_the_Bold
-- Parallels [The Safe Houses 2]]
-- Requires [[Portrait NPC Captain Henrik Saltbreeze V1 Captain Henrik Saltbreeze.svg
-- Affected by [Vault Backup 20250813 073007 06 GM Travel Encounter Sheets D L 03 Deep Mother Dream Tide (People)]]
+- Leads to [[NPC01358_Zephyr_Dawnstrider_the_Bold]]
+- Requires [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets D L 03 Deep Mother Dream Tide]]
 - Affected by [[Maritime Commerce 2
 - Related: [The Circle of Depths 2]]
 - Compare with [[Location City Sorceress Luna Prismatic V1 Sorceress Luna Prismatic.svg
@@ -203,26 +199,22 @@ Forming expedition to dangerous location
 - See also: [NPC00152_Hestara_Grimholt]]
 - Parallels [[Assets Locations Location City Guide Helpfulcurrent Guide Helpfulcurrent.svg
 - Connects to [location-city-abyssos-prime-abyssos-prime.svg]]
-- Affected by [[step_069 (phase_053)
-- Related: [High Priestess Nerida Deepcurrent (D&D_References)]]
+- Affected by [[High Priestess Nerida Deepcurrent (D&D_References)]]
 - Affected by [[QUEST00295_Personal_Quest_296
 - Affected by [Location City Pool of Sacred Drowning V1 Pool of Sacred Drowning.svg]]
 - Affected by [[LOC0079_PortPeak
 - Compare with [step_071 (phase_081)]]
 - See also: [[Marine Protection Guild (Guilds)
 - Affected by [Location City Transformation Specialist Anemone Flowshift Transformation Specialist Anemone Flowshift.svg]]
-- Affected by [[Biological Enhancement Corps
-- Connects to [Adult Gold Dragon Xmm]]
-- Affected by [[step_063 (phase_098)
-- Parallels [NPC00920_Malakai_Ravenheart_the_Guardian]]
+- Affected by [[Biological Enhancement Corps]]
+- Affected by [[NPC00920_Malakai_Ravenheart_the_Guardian]]
 - Connects to [[list-spells-optional-features-shroud-of-shadow-xge
 - Connects to [Assets Locations Location City Interfaith Cooperation V1 Interfaith Cooperation.svg]]
 - Requires [[List Spells Classes Druid
 - Leads to [LORE00226_History_Entry_227]]
 - Originates from [[Variant Customizing Ability Scores Ability
 - Connects to [Portrait NPC Captain Marcus Voidward V2 Captain Marcus Voidward.svg]]
-- Requires [[step_041 (phase_065)
-- Requires [LOC00174_Dungeons_Location_175]]
+- Requires [[LOC00174_Dungeons_Location_175]]
 - Connects to [[Pressure Point Settlement
 - Leads to [LORE00313_History_Entry_314]]
 - Originates from [[step_087 (phase_064)
@@ -243,24 +235,18 @@ Forming expedition to dangerous location
 - Related: [step_039 (phase_016)]]
 - Related: [[step_086 (phase_005)
 - Connects to [Tent Xphb]]
-- Parallels [[NPC00437_Hilda_Stormwind_the_Mystic
-- Parallels [step_030 (phase_068)]]
-- Leads to [[step_041 (phase_059)
-- See also: [ENC00096_Environmental_Encounter_97]]
-- Affected by [[Epilogue Generation Tables
-- Related: [Pressure Master Current Depthwright]]
+- Parallels [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- Leads to [[ENC00096_Environmental_Encounter_97]]
+- Affected by [[Pressure Master Current Depthwright]]
 - Requires [[Chamber Purpose Dungeon Treasure Vault
 - Requires [Dr Jasper Memorymend]]
 - See also: [[elk-xmm (beast)
 - Requires [identify-the-partys-goals-wilderness-goals (tables)]]
-- Related: [[Zaratan Mpmm
-- Requires [NPC00941_Felicia_Frostwhisper_the_Seeker]]
+- Related: [[NPC00941_Felicia_Frostwhisper_the_Seeker]]
 - Requires [[step_061 (phase_065)
 - Requires [Harbor Defense Grid]]
-- Related: [[Random Buildings Tavern
-- Influences [Master Navigator Tidal Crosscurrent]]
-- Requires [[step_071 (phase_068)
-- Compare with [LOC00059_Wilderness_Location_60]]
+- Related: [[Master Navigator Tidal Crosscurrent]]
+- Requires [[LOC00059_Wilderness_Location_60]]
 - Leads to [[Downtime_Activities
 - Requires [step_063 (phase_089)]]
 - Requires

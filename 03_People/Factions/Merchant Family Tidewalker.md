@@ -201,5 +201,4 @@ Things widely suspected
 
 ## References
 
-- [[The Transformed Citizens
-- [The Transformed Citizens (D&D_References)]]
+- [[The Transformed Citizens (D&D_References)]]

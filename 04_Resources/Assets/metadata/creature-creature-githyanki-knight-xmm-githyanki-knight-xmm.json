@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Imagine a scene from a medieval fantasy tabletop game, complete with heroic figures and culturally coherent gear, all created with a painterly effect. In the heart of the image, focus on illustrating a githyanki knight, showcasing its defined musculature and its unique limbs. Include a human silhouette to provide a reference for scale. The setting for this picture is somewhere between the sky and underwater, a strange realm where cosmic surrealism takes hold, causing impossible geometries to form around the knight. Stars scatter across the image like grains against the indigo and violet hues mixed with strokes of black and cold silver. The environment seems to be in constant movement, enhancing the picture's fantastical concept art style. Please avoid the inclusion of modern technology, text or words unless specified, sci-fi interfaces, modern signage, photorealistic CGI, anime style, and bloom glare in the picture.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-githyanki-knight-xmm-githyanki-knight-xmm.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-githyanki-knight-xmm-githyanki-knight-xmm.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:03:29.140Z",
+  "generationMethod": "ComfyUI"
 }

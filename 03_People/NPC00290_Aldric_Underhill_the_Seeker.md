@@ -160,8 +160,7 @@ Wants rivals investigated
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -176,30 +175,24 @@ Wants rivals investigated
 
 ## Connections
 
-- Compare with [[The Crystal Renaissance
-- Connects to [Whirlwind Xge]]
-- Compare with [[Student Engineer Bronze (D&D_References)
-- Originates from [S-105_Star_Anchor_Choir]]
+- Compare with [[The Crystal Renaissance]]
+- Compare with [[Student Engineer Bronze (D&D_References)]]
 - Connects to [[Quest - Marina's Choice_1 (01_Adventures)
 - Influences [NPC0069_Delilah_Ironforge_the_Terrible]]
-- Compare with [[Pressure Tube Terminal
-- See also: [ENC00031_Environmental_Encounter_32]]
+- Compare with [[ENC00031_Environmental_Encounter_32]]
 - Related: [[Madame Whisper (D&D_References)
 - Influences
 - Requires [ITEM00658_Fortified_Cloak_of_Grace]]
 - Parallels [[step_016 (phase_040)
 - Originates from [LOC00046_Cities_Location_47]]
-- Originates from [[step_037 (phase_024)
-- See also:
-- Connects to [NPC01771_Malakai_Ironwood_the_Redeemed]]
+- Originates from [[NPC01771_Malakai_Ironwood_the_Redeemed]]
 - Compare with [[step_024 (phase_040)
 - Related: [Shadow Prison]]
 - Influences [[step_030 (phase_004)
 - See also: [step_091 (phase_058)]]
 - Compare with [[Modern Bullet
 - Affected by [location-city-dolphin-dolphin.svg]]
-- Related: [[The Crystal Consumed Merchant, Trader Glass Eye Gorvin
-- Affected by [LOC00027_Towns_Location_28]]
+- Related: [[The Crystal Consumed Merchant, Trader Glass Eye Gorvin]]
 - Parallels [[LOC00016_Wilderness_Location_17
 - Affected by [Assets Locations Location City Harbor Pilot Guild V1 Harbor Pilot Guild.svg]]
 - Affected by [[Giant Seahorse Xmm
@@ -210,14 +203,11 @@ Wants rivals investigated
 - Leads to [step_028 (phase_069)]]
 - Parallels [[Linking Adventures Adventure Connections Xdmg
 - Influences [Link]]
-- Related: [[Tide Turner's Trident
-- Connects to [NPC01921_Erasmus_Youngblood_the_Seeker]]
+- Related: [[NPC01921_Erasmus_Youngblood_the_Seeker]]
 - Leads to [[Depth Supremacy Movement (D&D_References)
 - Related: [ITEM00427_Enchanted_Gauntlets_of_Resistance]]
-- Requires [[Anti-Priest Nullus (D&D_References)
-- Influences [Fragment Compass 2]]
-- Leads to [[Chancellor's Advisory Council
-- Requires [Avatar Manifestations]]
+- Requires [[Anti-Priest Nullus (D&D_References)]]
+- Leads to [[Chancellor's Advisory Council]]
 - Requires [[Location City Nautilus Threadmender Nautilus Threadmender.svg
 - See also: [The First Truth 2]]
 - Connects to
@@ -241,29 +231,25 @@ Wants rivals investigated
 - Connects to [ITEM00125_Blazing_Spear_of_the_Ancients]]
 - Originates from [[gith-names-githzerai-female-mtf (tables)
 - See also: [ITEM00982_Refined_Elixir_of_Clarity]]
-- Originates from [[Wind Monks
-- Related: [QUEST00149_Personal_Quest_150]]
+- Originates from [[QUEST00149_Personal_Quest_150]]
 - Connects to [[Quest - Legislative Control
 - Influences [LOC00136_Dungeons_Location_137]]
 - Leads to [[Assets Locations Location City Scream Saturation Scream Saturation Rules.svg
 - Influences [Assets Portraits Portrait NPC High Priestess Scylla Deepdream High Priestess Scylla Deepdream.svg]]
 - Related: [[Dark Gift of Dahlver Nar He of the Many
 - Connects to [Shadow Energy Addiction (D&D_References)]]
-- Originates from [[Quest - The Perfect Purifier
-- See also: [step_063 (phase_065)]]
+- Originates from [[Quest - The Perfect Purifier]]
 - Compare with [[ENC00097_Social_Encounter_98
 - Parallels [ITEM00070_Blessed_Staff_of_Slaying]]
 - Connects to [[Location City Sage Rememberall V1 Sage Rememberall.svg
 - Related: [step_075 (phase_009)]]
-- Influences [[ENC00153_Environmental_Encounter_154
-- Related: [EVENT00056_Natural_Event_57]]
+- Influences [[ENC00153_Environmental_Encounter_154]]
 - Affected by [[Location City Harbor Master S Tower V1 Harbor Master S Tower.png
 - Influences [ITEM01040_Greater_Powder_of_Vigor]]
 - Requires
 - Originates from [[Social Navigation Protocols
 - Originates from [step_085 (phase_014)]]
-- Leads to [[Assets Locations Location City the Tidecaller the Tidecaller.svg
-- Originates from [Portrait NPC Gall... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Leads to [[Portrait NPC Gall... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[Player Handbook
 - Parallels [step_063 (phase_027)]]
 - Leads to

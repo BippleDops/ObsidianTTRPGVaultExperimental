@@ -30,4 +30,4 @@ Further information about this topic will be developed as the campaign progresse
 ## References
 
 - [Shard Resonance Tracking]]
-- [[Session 10 New Horizons (06_Sessions)]]
+- [[Session_10_New_Horizons]]

@@ -134,5 +134,4 @@ Things widely suspected
 
 ## References
 
-- [[Port Meridian - Merchant Quarter
-- [Port Meridian - Merchant Quarter (D&D_References)]]
+- [[Port Meridian - Merchant Quarter (D&D_References)]]

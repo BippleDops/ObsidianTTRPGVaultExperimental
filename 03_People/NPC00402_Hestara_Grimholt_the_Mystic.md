@@ -165,48 +165,39 @@ Being extorted by criminals
 - Influences
 - Connects to [Location City the Harbormaster S Office V1 the Harbormaster S Office.svg]]
 - Requires
-- Related: [[Cross-Realm Navigation Cooperation 2
-- Parallels [step_051 (phase_008)]]
+- Related: [[Cross-Realm Navigation Cooperation 2]]
 - Influences [[Assets Locations Location City Void Prophet Nullus the Erased Void Prophet Nullus the Erased.svg
 - See also:
 - Influences
 - Affected by [step_076 (phase_033)]]
 - Leads to [[step_003 (phase_026)
 - Compare with [The Memory Wars 2]]
-- Related: [[step_035 (phase_059)
-- Influences [ENC00130_Combat_Encounter_131]]
-- Compare with [[step_030 (phase_027)
-- Originates from [NPC00334_Thalia_Moonshadow_the_Redeemed]]
-- Requires [[NPC01625_Qadim_Lightbringer_the_Swift
-- Influences
-- Related: [Laser Pistol Xdmg]]
+- Related: [[ENC00130_Combat_Encounter_131]]
+- Compare with [[NPC00334_Thalia_Moonshadow_the_Redeemed]]
+- Requires [[NPC01625_Qadim_Lightbringer_the_Swift]]
 - Compare with [[The Crimson Sage
 - Connects to [Portrait NPC Quest the Cure for Madness V2 Quest the Cure for Madness.svg]]
 - Connects to [[Assets Locations Location City Innkeeper Marcus Thorne V1 Innkeeper Marcus Thorne.svg
 - Connects to [Medical Director Healing Tidecurrent]]
 - Influences [[Motion_Specs (D&D_References)
 - Originates from [step_040 (phase_010)]]
-- Affected by [[ENC0074_Random_Encounter_75
-- Related: [step_012 (phase_019)]]
+- Affected by [[ENC0074_Random_Encounter_75]]
 - Parallels [[EVENT00060_Magical_Event_61
 - See also: [Economic Interest 2]]
 - Leads to [[Assets Locations Location City the Shadow Markets V1 the Shadow Markets.svg
 - Leads to [step_015 (phase_015)]]
 - Affected by [[step_078 (phase_007)
 - Compare with [Voluntary Taxation]]
-- Originates from [[NPC01223_Jorah_Thornweave_the_Scholar
-- Leads to [Cultural Festival]]
+- Originates from [[NPC01223_Jorah_Thornweave_the_Scholar]]
 - Parallels [[NPC00205_Ewan_Keenblade
 - Requires [MON00027_Undead_Creature_28]]
-- Leads to [[visibility-underwater-underwater-encounter-distance-xdmg
-- Connects to [Vampiric Mist Mpmm]]
+- Leads to [[visibility-underwater-underwater-encounter-distance-xdmg]]
 - Parallels [[MON00079_Constructs_Creature_80
 - Compare with
 - Related: [Jungle of Screams]]
 - Parallels [[Vex Shadowthorn the Kingpin
 - See also: [Royal Palace of Meridian 2]]
-- Compare with [[NPC0141_Vera_Darkwater
-- Affected by [Countess Argentum Vaultkeeper]]
+- Compare with [[Countess Argentum Vaultkeeper]]
 - See also: [[robe-of-stars-xdmg (items)
 - Compare with [QUEST00411_Side_Quest_412]]
 - Parallels [[Diplomatic Quarters
@@ -239,13 +230,11 @@ Being extorted by criminals
 - Compare with [Assets Locations Location City Divine Communication Studies Divine Communication Studies.svg]]
 - Compare with [[ENC00223_Social_Encounter_224
 - Originates from [Identity Trader Masquerad]]
-- Parallels [[NPC00383_Elric_Jadeclaw_the_Seeker
-- Influences [step_084 (phase_095)]]
+- Parallels [[NPC00383_Elric_Jadeclaw_the_Seeker]]
 - Leads to [[step_056 (phase_036)
 - Related:
 - Parallels [step_099 (phase_019)]]
-- Originates from [[Depth Warden
-- Connects to [Locations the Synthesis Wastes]]
+- Originates from [[Locations the Synthesis Wastes]]
 - Originates from [[step_028 (phase_033)
 - Leads to [The Chronicle Scribes]]
 - Requires [[step_081 (phase_087)

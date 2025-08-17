@@ -147,25 +147,21 @@ Deception, Persuasion, Investigation, Perception
 
 - Connects to [[04_Resources_Assets_Locations_location-city-commander-drake-pressureborn-v1-commander-drake-pressureborn.svg
 - Connects to [Location City Institute for Reality Studies Researchers Institute for Reality Studies Researchers.svg]]
-- Influences [[Shadow Surgery Network (D&D_References)
-- Leads to [SPELL00120_Nature_Spell_121]]
+- Influences [[Shadow Surgery Network (D&D_References)]]
 - Influences
-- Related: [[Marquis Benedict Riversend 2
-- Parallels [Harbor Master's License (D&D_References)]]
+- Related: [[Harbor Master's License (D&D_References)]]
 - Leads to [[religious-service-xge (tables)
 - See also: [Investment of the Chain Master Xphb]]
 - Requires [[Portrait NPC Parliament High Council V1 Parliament High Council.svg
 - Affected by [The Silver Seal]]
 - Influences [[QUEST00495_Side_Quest_496
 - Leads to [Aquabyssos (D&D_References)]]
-- Related: [[ENC00079_Environmental_Encounter_80
-- Parallels [DUN00018_Dungeon_19]]
+- Related: [[ENC00079_Environmental_Encounter_80]]
 - Leads to [[Location City the Lighthouse Keeper S Ghost the Lighthouse Keeper S Ghost.png
 - Compare with [step_052 (phase_036)]]
 - Requires [[Jumping Xphb
 - Parallels [norse-frigga (deities)]]
-- Parallels [[The Void Seals
-- See also: [Admiral Storm Tidecaller (D&D_References)]]
+- Parallels [[Admiral Storm Tidecaller (D&D_References)]]
 - Compare with [[Location City Unity Hopecurrent V1 Unity Hopecurrent.svg
 - Connects to [behir-xmm (monstrosity)]]
 - Requires [[Assets Portraits Portrait NPC Brother Marcus Steelbane Brother Marcus Steelbane.svg
@@ -188,15 +184,13 @@ Deception, Persuasion, Investigation, Perception
 - Leads to [list-spells-optional-features-sculptor-of-flesh]]
 - Requires [[elf-tables-elf-non-drow-adventurer-story-hooks-mtf
 - See also: [step_036 (phase_063)]]
-- Connects to [[Forest Encounters Levels 14 Xge
-- Originates from [step_090 (phase_089)]]
+- Connects to [[Forest Encounters Levels 14 Xge]]
 - Parallels [[step_096 (phase_014)
 - Requires [SHOP00028_Specialty_Shop_29]]
 - Requires [[The Spire of Knowledge
 - Parallels [Assets Locations Location City Pressure Suit Malfunction V1 Pressure Suit Malfunction.svg]]
 - Originates from
-- Requires [[Blood Current Express (D&D_References)
-- Influences [step_086 (phase_040)]]
+- Requires [[Blood Current Express (D&D_References)]]
 - See also: [[Temple of Perpetual Tides 2
 - Compare with [EVENT00075_Political_Event_76]]
 - Parallels [[Unite_or_Divide.png
@@ -215,26 +209,19 @@ Deception, Persuasion, Investigation, Perception
 - Compare with [step_063 (phase_096)]]
 - Requires [[The Depth Sounders
 - See also: [Sanctuary Safeharbor]]
-- Originates from [[Seraphina the Beautiful 2
-- Compare with [Cell-Based Revolutionary Organization]]
-- Influences [[LOC0102_Watchton
-- Requires [High Priestess Celeste]]
-- Parallels [[step_098 (phase_097)
-- Compare with [NPC00420_Gavril_Stormwind_the_Lost]]
+- Originates from [[Cell-Based Revolutionary Organization]]
+- Influences [[High Priestess Celeste]]
+- Parallels [[NPC00420_Gavril_Stormwind_the_Lost]]
 - Leads to [[Reality Madness
 - Influences [step_096 (phase_092)]]
-- Leads to [[Stellar Commander Nereus Voidcaller
-- Leads to [step_020 (phase_084)]]
-- Originates from [[Magnus Ledgerkeep 2
-- Compare with [LOC00271_Wilderness_Location_272]]
+- Leads to [[Stellar Commander Nereus Voidcaller]]
+- Originates from [[LOC00271_Wilderness_Location_272]]
 - See also:
 - Affected by [[LOC00063_Wilderness_Location_64
 - Originates from [Map Map Crystal Cavern Bridge V2 Crystal Cavern Bridge.svg]]
 - Parallels
-- Parallels [[step_045 (phase_029)
-- Related: [NPC01614_Felicia_Lightbringer_the_Mystic]]
-- Affected by [[SPELL00162_Arcane_Spell_163
-- Related: [PHASES_2-6_COMPLETE]]
+- Parallels [[NPC01614_Felicia_Lightbringer_the_Mystic]]
+- Affected by [[SPELL00162_Arcane_Spell_163]]
 - Originates from [[Royal Academy of Magical Science
 - Affected by
 - Originates from [Adventure Xphb]]

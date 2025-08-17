@@ -25,5 +25,8 @@
   "alt_text": "Concept art of cloaker-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-cloaker-xmm-v1-cloaker-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-cloaker-xmm-v1-cloaker-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:59:56.575Z",
+  "generationMethod": "ComfyUI"
 }

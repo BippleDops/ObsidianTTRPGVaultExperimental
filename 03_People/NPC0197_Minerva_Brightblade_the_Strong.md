@@ -157,20 +157,16 @@ Insight, Perception, Arcana
 - Requires
 - Requires [[Chancellor Marcus Provinces
 - Related: [portrait-npc-tenebrarum-v1-tenebrarum.svg]]
-- Affected by [[The Twilight Gardens (D&D_References)
-- Requires [giant-boar-xmm]]
+- Affected by [[The Twilight Gardens (D&D_References)]]
 - Parallels [[step_060 (phase_100)
 - Parallels [Tribune Cassia]]
-- Influences [[LOC00287_Wilderness_Location_288
-- Influences [step_068 (phase_086)]]
+- Influences [[LOC00287_Wilderness_Location_288]]
 - Originates from [[Location City Pressure Suit Malfunction Pressure Suit Malfunction.svg
 - Leads to [The Seahawk]]
 - Related: [[Life Events by Age Xge
 - Compare with [step_005 (phase_008)]]
-- Related: [[step_092 (phase_060)
-- Requires [ENC00151_Social_Encounter_152]]
-- Affected by [[The Tide Turners
-- Influences [QUEST0002_In_Search_of_Glory]]
+- Related: [[ENC00151_Social_Encounter_152]]
+- Affected by [[QUEST0002_In_Search_of_Glory]]
 - Affected by [[ITEM01046_Pure_Powder_of_Fortune
 - Connects to [Greyhawk Obad Hai Xdmg]]
 - Influences [[#Natural & Mystical Locations
@@ -179,12 +175,10 @@ Insight, Perception, Arcana
 - Parallels [Dwarf Duergar Mtf]]
 - Requires [[SPELL00003_Arcane_Spell_4
 - Influences [Assets Item Artifact Travelers Clothes Xphb V6 Travelers Clothes Xphb.png]]
-- See also: [[Session 01 Strange Tides Rising
-- Related: [The Transition Centers (D&D_References)]]
+- See also: [[The Transition Centers (D&D_References)]]
 - Related: [[Brother Marcus Steelbane (People)
 - Affected by [Assets Locations Location City the Deep Patrol V1 the Deep Patrol.svg]]
-- Related: [[SPELL00104_Arcane_Spell_105
-- Parallels [step_066 (phase_095)]]
+- Related: [[SPELL00104_Arcane_Spell_105]]
 - Influences [[Location City International Trade Agreements V1 International Trade Agreements.svg
 - Requires [Crystal Merchants Guil]]
 - Compare with [[Portrait NPC Doctor Helena Voidwalker Doctor Helena Voidwalker.svg
@@ -196,8 +190,7 @@ Insight, Perception, Arcana
 - Leads to [04_Resources_Assets_Locations_location-city-portal-commander-marina-bridgewright-portal-commander-marina-bridgewright.png]]
 - Requires [[step_076 (phase_041)
 - Requires [ITEM00521_Fortified_Chain_Mail_of_Protection]]
-- Related: [[The Festival of Rising Tides (D&D_References)
-- Requires [step_042 (phase_098)]]
+- Related: [[The Festival of Rising Tides (D&D_References)]]
 - See also: [[step_082 (phase_052)
 - Connects to [Current Weavers]]
 - Originates from [[step_099 (phase_052)
@@ -209,8 +202,7 @@ Insight, Perception, Arcana
 - Originates from [list-spells-races-tiefling-asmodeus-mtf (lists)]]
 - Affected by [[step_076 (phase_084)
 - Requires [step_077 (phase_067)]]
-- Influences [[step_023 (phase_035)
-- Requires [Memory Tide Events (D&D_References)]]
+- Influences [[Memory Tide Events (D&D_References)]]
 - See also: [[Assets Locations Location City the Twin Prophets the Twin Prophets.svg
 - Leads to [Portrait NPC Economic Manipulation V2 Economic Manipulation.svg]]
 - Compare with [[step_010 (phase_038)
@@ -231,21 +223,17 @@ Insight, Perception, Arcana
 - Related: [barbarian-xphb-path-of-the-storm-herald-xge (classes)]]
 - Related: [[The Shattered Sanctum
 - Related: [ITEM00222_Blazing_Crossbow_of_Slaying]]
-- Connects to [[Jungle of Screams
-- Parallels [QUEST00127_Main_Quest_128]]
-- Originates from [[LORE0045_History_of_the_Hero's_Sacrifice
-- Parallels [Guild Organizations]]
+- Connects to [[QUEST00127_Main_Quest_128]]
+- Originates from [[LORE0045_History_of_the_Hero's_Sacrifice]]
 - Influences [[Market_Master_Cornelius_Driftwood.png
 - Related: [Director Prism Reformheart (Lore)]]
 - See also: [[Assets Portraits Portrait NPC Captain Threshold Captain Threshold.svg
 - Related: [step_061 (phase_071)]]
-- Originates from [[step_044 (phase_021)
-- Leads to [Battle_Map_Descriptions (D&D_References)]]
+- Originates from [[Battle_Map_Descriptions (D&D_References)]]
 - Compare with [[Location City House Pressureborn V1 House Pressureborn.svg
 - Influences [step_083 (phase_036)]]
 - Related:
-- Affected by [[XP Calculator
-- Parallels [ITEM0082_Cursed_Crown_of_the_Dawn]]
+- Affected by [[ITEM0082_Cursed_Crown_of_the_Dawn]]
 
 ## Visual References
 ![[04_Resources/maps/world_assets_locations_location_city_keeper_of_contracts_minerva_bindingword_v1_keeper_of_contracts_minerva_bindingword_svg_political.png

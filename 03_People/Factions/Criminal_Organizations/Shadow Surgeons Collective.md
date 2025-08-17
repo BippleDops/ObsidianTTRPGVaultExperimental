@@ -264,8 +264,7 @@ Hidden beneath the [[Shadow Market Canals in a pocket dimension partially existi
 **[[Parliament of Echoes**: Political connections enabling legal immunity
 
 ### Enemies and Rivals
-**[Depth Wardens]]**: Active investigation led by [[Admiral Thorne Blackwater
-**[The Lighthouse Keepers]]**: Moral opposition to shadow magic corruption
+**[Depth Wardens]]**: Active investigation led by [[Admiral Thorne Blackwater]]**: Moral opposition to shadow magic corruption
 **[[Memory Farmers**: Direct competition in memory-related criminal services
 **[Groups]]**: Paladins dedicated to stopping shadow magic abuse
 **[[Reformed Surgeons Alliance**: Former members exposing operations and helping victims
@@ -281,7 +280,7 @@ Hidden beneath the [[Shadow Market Canals in a pocket dimension partially existi
 ### Weaknesses
 **Ethical Conflicts**: Internal disagreements about methods
 **Evidence Trail**: Memory extraction leaves detectable traces
-**Dependency**: Relies heavily on [[Aether Crystal]] technology
+**Dependency**: Relies heavily on [[Aether Crystals]] technology
 **Public Relations**: Negative reputation limits recruitment and operations
 **Legal Vulnerability**: Legitimate operations subject to regulation and oversight
 

@@ -4,23 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: Master Investigator Lysander Truthweaver
-type: lore
-updated: 2025-08-14
----
-
-# Master Investigator Lysander Truthweaver
-
-## Overview
-This document contains important information regarding Master Investigator Lysander Truthweaver and its role within the greater narrative.
-
-## Description
-Master Investigator Lysander Truthweaver represents a significant element within the campaign world, offering various opportunities for engagement and development.
-
-## Key Information
-- **Primary Purpose**: Serves specific function within the world
-- **Connections**: [Link]]ed to multiple other elements
+- [[Master Investigator Lysander Truthweaver]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details

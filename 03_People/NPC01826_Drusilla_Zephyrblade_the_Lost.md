@@ -153,8 +153,7 @@ Offers deal too good to refuse
 
 - Affected by [[Assets Portraits Portrait NPC Captain Redbeard Captain Redbeard.svg
 - Connects to [SPELL00035_Divine_Spell_36]]
-- Leads to [[NPC01755_Orion_Xendar_the_Lost
-- Affected by [step_057 (phase_085)]]
+- Leads to [[NPC01755_Orion_Xendar_the_Lost]]
 - Requires
 - Affected by [[Location City Resonance Roses V1 Resonance Roses.svg
 - See also: [location-city-market-heist-v1-market-heist.svg]]
@@ -168,12 +167,9 @@ Offers deal too good to refuse
 - Related: [step_020 (phase_040)]]
 - Compare with [[step_069 (phase_094)
 - Compare with [Eastern Kingdoms (02_Worldbuilding)]]
-- Leads to [[Witness Protection Protocols 2
-- Parallels [step_043 (phase_021)]]
-- Leads to [[Living_Economy_System (D&D_References)
-- Connects to [Consciousness Contracts]]
-- Connects to [[Portrait NPC Capt... Related To: Local Political Structure Connected Plots: to Be Developed
-- Parallels [portrait-npc-the-party-v2-the-party.svg_1 (Portraits)]]
+- Leads to [[Witness Protection Protocols 2]]
+- Leads to [[Living_Economy_System (D&D_References)]]
+- Connects to [[Portrait NPC Capt... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Related: [[ITEM00344_Blazing_Crossbow_of_Slaying
 - Leads to [step_004 (phase_073)]]
 - Affected by [[aid-xphb (spells)
@@ -197,16 +193,12 @@ Offers deal too good to refuse
 - Influences [Frost Brand Xdmg]]
 - Connects to [[Noble Retainers Variant
 - Influences [Quest_Index.png]]
-- Influences [[LORE00315_History_Entry_316
-- Parallels [NPC01549_Hestara_Keenblade_the_Redeemed]]
+- Influences [[NPC01549_Hestara_Keenblade_the_Redeemed]]
 - Leads to [[MON00136_Aberrations_Creature_137
 - Requires [Assets Locations Location City Luminar the Builder V1 Luminar the Builder.svg]]
-- Originates from [[ENC00074_Environmental_Encounter_75
-- Requires [step_046 (phase_062)]]
-- Connects to [[Necromantic Rituals (D&D_References)
-- Requires [ENC00365_Combat_Encounter_366]]
-- Leads to [[The Final Forgetting (D&D_References)
-- Affected by [INDEX (Candlekeep_Mysteries)]]
+- Originates from [[ENC00074_Environmental_Encounter_75]]
+- Connects to [[Necromantic Rituals (D&D_References)]]
+- Leads to [[The Final Forgetting (D&D_References)]]
 - Originates from [[Portrait NPC Quest the Successor S Burden Quest the Successor S Burden.svg
 - Affected by [Quest - The Prophecy Fulfilled]]
 - Parallels [[Bountiful Luck Xge
@@ -217,29 +209,22 @@ Offers deal too good to refuse
 - Parallels [step_087 (phase_088)]]
 - Influences [[Skyship Technology 2
 - Related: [step_025 (phase_036)]]
-- See also: [[SHOP00034_Specialty_Shop_35
-- Compare with [The Memory Crystals Division (D&D_References)]]
-- Influences [[Phase_Omega_Enhanced_Index (D&D_References)
-- Influences [Scroll of Protection Humanoids Xdmg]]
+- See also: [[The Memory Crystals Division (D&D_References)]]
+- Influences [[Phase_Omega_Enhanced_Index (D&D_References)]]
 - Leads to
-- Affected by [[NPC01519_Hestara_Frostwhisper_the_Seeker
-- Leads to [ITEM00805_Time-worn_Ring_of_Destiny]]
-- Originates from [[Noble Houses (D&D_References)
-- Related: [step_002 (phase_044)]]
+- Affected by [[NPC01519_Hestara_Frostwhisper_the_Seeker]]
+- Originates from [[Noble Houses (D&D_References)]]
 - Requires [[Economic Pressure
 - Parallels [Draft Horse Xphb]]
 - Influences [[ITEM00361_Frost_Bow_of_Speed
 - Influences [Memory_Merchant_Valeria.png]]
 - Affected by [[step_004 (phase_072)
 - Influences [Financial District (Places)]]
-- Originates from [[Lumengarde 2
-- Affected by [SPELL00031_Nature_Spell_32]]
+- Originates from [[SPELL00031_Nature_Spell_32]]
 - Affected by [[Heart Grov (D&D_References)
 - Related: [LOC00122_Towns_Location_123]]
-- Requires [[LOC00117_Dungeons_Location_118
-- Parallels [step_058 (phase_030)]]
-- Parallels [[Shadow Energy Addiction (D&D_References)
-- Affected by [NPC00501_Orion_Nightfall_the_Broken]]
+- Requires [[LOC00117_Dungeons_Location_118]]
+- Parallels [[Shadow Energy Addiction (D&D_References)]]
 - Influences [[vampiric-touch-xphb (spells)
 - Requires [Brightforge]]
 - Affected by [[ENC00059_Social_Encounter_60

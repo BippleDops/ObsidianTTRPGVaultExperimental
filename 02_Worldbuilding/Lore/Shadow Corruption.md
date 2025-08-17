@@ -113,43 +113,24 @@ Shadow corruption represents a crucial aspect of the world's history, cosmology,
 
 ## References
 
-- [[Aquabyssos Trade Seal
-- [Aurelius Goldwave]]
-- [[Crystal Garden
-- [Customs House]]
-- [[Deep Mother
-- [Fortress of the Deeps]]
-- [[Memory Alteration Consequences
-- [Military Moral Quandaries]]
-- [[Political Compromise Costs
-- [Random Encounters]]
-- [[Reputation System
-- [Silver Mask]]
-- [[Thalassius the Wise
-- [The Crimson Hand]]
-- [[The Deep Prophecies
-- [The Forgetting Bomb]]
-- [[The Queen
-- [The Transformed Citizens]]
-- [[Throne Room
-- [Timeline of the Drowning]]
-- [[Umbral Exchange
-- [Memory Merchant Valeria Siltweave]]
-- [[Commander Typhoon Blackheart (Places)
-- [Sister Morwyn]]
-- [[The Crown's Burden
-- [Crystal Garden (D&D_References)]]
-- [[Crystal Garden 3 (D&D_References)
-- [Customs House (D&D_References)]]
-- [[Customs House 3 (D&D_References)
-- [Thalassius the Wise (D&D_References)]]
-- [[Thalassius the Wise 3 (D&D_References)
-- [The Queen (D&D_References)]]
-- [[The Queen 3 (D&D_References)
-- [The Seven Shards (D&D_References)]]
-- [[The Seven Shards 3 (D&D_References)
-- [The Transformed Citizens (D&D_References)]]
-- [[Throne Room (D&D_References)
-- [Memory Merchant Valeria Siltweave (D&D_Statblocks)]]
+- [[Aquabyssos Trade Seal]]
+- [[Crystal Garden]]
+- [[Fortress of the Deeps]]
+- [[Memory Alteration Consequences]]
+- [[Political Compromise Costs]]
+- [[Reputation System]]
+- [[Thalassius the Wise]]
+- [[The Deep Prophecies]]
+- [[The Transformed Citizens]]
+- [[Timeline of the Drowning]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[Commander Typhoon Blackheart]]
+- [[Crystal Garden (D&D_References)]]
+- [[Crystal Garden 3 (D&D_References)]]
+- [[Thalassius the Wise (D&D_References)]]
+- [[Thalassius the Wise 3 (D&D_References)]]
+- [[The Seven Shards (D&D_References)]]
+- [[The Transformed Citizens (D&D_References)]]
+- [[Memory Merchant Valeria Siltweave (D&D_Statblocks)]]
 - [[Topic Matrix
 - [Topic_Matrix (Indexes)]]

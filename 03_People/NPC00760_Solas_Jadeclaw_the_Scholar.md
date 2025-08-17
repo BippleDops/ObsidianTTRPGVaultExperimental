@@ -159,17 +159,13 @@ Witnessed a crime
 - Compare with [[SPELL00059_Divine_Spell_60
 - Leads to [Marquis Benedict Riversen 2]]
 - Leads to
-- Compare with [[air-elemental-xmm
-- Parallels [NPC00155_Hilda_Thornweave]]
+- Compare with [[NPC00155_Hilda_Thornweave]]
 - See also:
-- Originates from [[Memory_Trading_Economy (D&D_References)
-- Leads to [Port Meridian - Market Square (D&D_References)]]
+- Originates from [[Port Meridian - Market Square (D&D_References)]]
 - Related: [[Location City Whisper Translation V1 Whisper Translation.svg
 - Related:
 - Parallels [step_038 (phase_069)]]
-- Originates from [[downtime-activity-carousing-xge (variant-rules)
-- Requires
-- Influences [feywild-time-warp-xdmg (tables)]]
+- Originates from [[downtime-activity-carousing-xge (variant-rules)]]
 - Affected by [[step_004 (phase_053)
 - Compare with [The Memory Mirror]]
 - Related:
@@ -184,8 +180,7 @@ Witnessed a crime
 - Affected by [[Location City the Iron Pits of Malachar the Iron Pits of Malachar.svg
 - Influences
 - Compare with [Elf Names Male Adult Xge]]
-- Related: [[Scholar_and_Academic_Guide
-- Related: [Random Encounter]]
+- Related: [[Scholar_and_Academic_Guide]]
 - Compare with [[Symbol Heraldry Arcturus Lumenblade Arcturus Lumenblade.svg
 - Affected by
 - Requires
@@ -194,8 +189,7 @@ Witnessed a crime
 - Originates from [Creatures Gallery]]
 - See also: [[step_083 (phase_038)
 - Compare with [FAC00085_Guilds_86]]
-- Parallels [[Geas Xphb
-- Affected by [ENC00195_Combat_Encounter_196]]
+- Parallels [[ENC00195_Combat_Encounter_196]]
 - Originates from
 - Leads to [[step_089 (phase_006)
 - Influences [step_091 (phase_026)]]
@@ -210,8 +204,7 @@ Witnessed a crime
 - Leads to [[step_074 (phase_042)
 - Connects to [ITEM00988_Concentrated_Powder_of_Swiftness]]
 - Affected by
-- Parallels [[step_073 (phase_014)
-- Affected by [MON00046_Constructs_Creature_47]]
+- Parallels [[MON00046_Constructs_Creature_47]]
 - Leads to [[step_033 (phase_007)
 - Requires
 - Requires [ENC00119_Social_Encounter_120]]
@@ -223,8 +216,7 @@ Witnessed a crime
 - Requires [04_Resources_Assets_Locations_location-city-culinary-dreamweaver-sage-gentlespice-v1-culinary-dreamweaver-sage-gentlespice.svg]]
 - See also: [[ITEM00196_Blazing_Sword_of_Accuracy
 - Affected by [Crown of Endless Moments]]
-- Influences [[nilbog-mpmm (fey)
-- Requires [Keeper Maelstrom the Great]]
+- Influences [[Keeper Maelstrom the Great]]
 - Originates from [[Assets Locations Location City Coral Vortextrader Coral Vortextrader.svg
 - Related: [step_020 (phase_097)]]
 - Originates from [[step_061 (phase_078)
@@ -232,25 +224,21 @@ Witnessed a crime
 - Parallels
 - Affected by [[ITEM00904_Greater_Potion_of_Fortune
 - Originates from [LOC00217_Towns_Location_218]]
-- Requires [[Stench Kow Mpmm
-- Affected by [NPC01689_Thalia_Lightbringer_the_Lost]]
+- Requires [[NPC01689_Thalia_Lightbringer_the_Lost]]
 - Requires [[helm-of-teleportation-xdmg (items)
 - Requires [Vault Guardian Prime]]
 - Compare with [[Location City Crystal Palace Complex V1 Crystal Palace Complex.svg
 - Leads to [Assets Locations Location City His Eternal Majesty Keeper of the Throne of Bubbles V1 His Eternal Majesty Keeper of the Throne of Bubbles.svg]]
 - See also: [[Marina Oracleguard
 - Affected by [step_034 (phase_076)]]
-- Parallels [[LOC00075_Dungeons_Location_76
-- Compare with [The Order of the Silent Vigil (Orders)]]
-- Related: [[step_089 (phase_088)
-- Compare with [Priest Faith Crystalsong (D&D_References)]]
+- Parallels [[The Order of the Silent Vigil (Orders)]]
+- Related: [[Priest Faith Crystalsong (D&D_References)]]
 - See also: [[Inter-Realm Trade Protocol 2
 - Compare with
 - Related: [ITEM00118_Cursed_Bow_of_Accuracy]]
 - Related: [[Assets Locations Location City the Memory Thief the Memory Thief.svg
 - Related: [step_082 (phase_047)]]
-- Affected by [[New Ability Scores Honor and Sanity
-- Parallels [EVENT00028_Natural_Event_29]]
+- Affected by [[New Ability Scores Honor and Sanity]]
 - Requires [[step_074 (phase_044)
 - Requires [ITEM00663_Warded_Shield_of_Fortitude]]
 - Originates from [[ITEM00782_Infernal_Mirror_of_the_Gods

@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Create an illustration in a consistently painterly style, adhering to a three-color palette of teals, deep blues, and sea-greens with highlights in pearl. The subject of the image is a heroic fantasy creature, similar to something one might find in Dungeons and Dragons 5E, highlighting its unique musculature and limbs. The creature should inspire a sense of motion and possess bioluminescent accents. Incorporate a human silhouette into the image for scale. The scene is set in an unorthodox merged zone of underwater meets sky, featuring details of subsurface caustics. The creature and its gear should appear culturally coherent and made from materials you'd find in a grounded medieval-fantasy realm. Additionally, take special care to avoid rendering modern technology, artifacts, embedded text or words unless specified, random letter strings, sci-fi UIs, modern signage, photorealistic CGI, anime style, and bloom glare.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-allip-mpmm-allip-mpmm.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-allip-mpmm-allip-mpmm.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:10.579Z",
+  "generationMethod": "ComfyUI"
 }

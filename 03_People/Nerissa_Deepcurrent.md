@@ -108,14 +108,7 @@ Nerissa appears ageless, though she has ruled for nearly two centuries. Her silv
 
 ## Background
 
-Born into the Oracle bloodline that predicted the Great Submersion, Nerissa was raised from birth to lead Aquabyssos. She witnessed the last days of the surface empire through inherited memories and carries the weight of three thousand years of isolation. Her grandmother was the last Oracle to speak with [[Emperor Thalassius the Wise before his sacrifice.
-
-## Location & Movement
-
-High Tidecaller Nerissa Deepcurrent's location and movement patterns reflect their role as a leader, with established routines and predictable presence in key locations.
-
-### Primary Location
-**[Pearl_Harbor_City]]** - Main base of operations
+Born into the Oracle bloodline that predicted the Great Submersion, Nerissa was raised from birth to lead Aquabyssos. She witnessed the last days of the surface empire through inherited memories and carries the weight of three thousand years of isolation. Her grandmother was the last Oracle to speak with [[Emperor Thalassius the Wise]]** - Main base of operations
 - Typically found here during scheduled/formal occasions
 - Movement style: accompanied by retinue, formal protocols
 
@@ -374,5 +367,4 @@ Legends speak of Nerissa Deepcurrent as a nexus where past and present converge.
 
 ## References
 
-- [[Archshadow Nerissa Deepcurrent
-- [High Tidecaller Nerissa Deepcurrent]]
+- [[High Tidecaller Nerissa Deepcurrent]]

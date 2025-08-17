@@ -33,7 +33,7 @@ modified: '2025-01-15'
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 title: [Session Feedback]] Form
-type: [[Feedback Form]]
+type: [[Feedback_Form]]
 tags:
 - session/review
 - campaign/improvement

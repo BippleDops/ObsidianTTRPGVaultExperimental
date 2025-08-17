@@ -168,8 +168,7 @@ Needs discrete help with family scandal
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -183,10 +182,8 @@ Needs discrete help with family scandal
 
 ## Connections
 
-- Related: [[ENC00287_Social_Encounter_288
-- Affected by [step_048 (phase_089)]]
-- Originates from [[The Kelp Highway 2
-- Compare with [ITEM0014_Glorious_Shield_of_Power]]
+- Related: [[ENC00287_Social_Encounter_288]]
+- Originates from [[ITEM0014_Glorious_Shield_of_Power]]
 - Related: [[portrait-npc-the-cure-the-cure.svg_1 (Portraits)
 - Connects to [Master Resonant 2]]
 - Related: [[QUEST00081_Personal_Quest_82
@@ -199,13 +196,10 @@ Needs discrete help with family scandal
 - Related: [QUEST00161_Side_Quest_162]]
 - See also: [[SPELL0033_Divine_Storm
 - Connects to [Portrait NPC Memory Merchant Valeria Siltweave V2 Memory Merchant Valeria Siltweave.svg]]
-- Requires [[step_003 (phase_053)
-- Leads to [Enhancement Ethics Advisor]]
+- Requires [[Enhancement Ethics Advisor]]
 - Parallels [[Location City Crystal Keepers V1 Crystal Keepers.svg
 - Requires [fractal-mascot-scc]]
-- Connects to [[step_036 (phase_066)
-- Compare with
-- Connects to [The Whispering Caverns (D&D_References)]]
+- Connects to [[The Whispering Caverns (D&D_References)]]
 - See also: [[Quest1 (01_Adventures)
 - Compare with [Portal Technology]]
 - Requires [[Spell Damage
@@ -223,8 +217,7 @@ Needs discrete help with family scandal
 - See also: [human-names-norse-female-xge (tables)]]
 - Connects to [[Deep Oracle Thessaly
 - Related: [step_091 (phase_060)]]
-- Affected by [[Deep Mother Cult Practices (D&D_References)
-- Related: [step_094 (phase_035)]]
+- Affected by [[Deep Mother Cult Practices (D&D_References)]]
 - Connects to [[step_042 (phase_026)
 - Influences
 - Requires [Glowcap Mushroom]]
@@ -232,8 +225,7 @@ Needs discrete help with family scandal
 - Influences [step_094 (phase_065)]]
 - Originates from [[Portrait NPC Doctor Helena Voidwalker Doctor Helena Voidwalker.svg
 - Connects to [Expertise Xphb]]
-- Related: [[step_052 (phase_088)
-- Originates from [Noble Palatemaster (D&D_References)]]
+- Related: [[Noble Palatemaster (D&D_References)]]
 - Affected by [[ITEM00411_Enchanted_Gauntlets_of_Grace
 - Requires [NPC00878_Kaelen_Ironwood_the_Strong]]
 - See also: [[LORE00066_History_Entry_67
@@ -245,41 +237,33 @@ Needs discrete help with family scandal
 - Requires [step_098 (phase_068)]]
 - Leads to [[Session Planning Toolkit
 - Related: [Trade War (D&D_References)]]
-- Leads to [[NPC00747_Hilda_Crystalbrook_the_Broken
-- Leads to [step_072 (phase_041)]]
+- Leads to [[NPC00747_Hilda_Crystalbrook_the_Broken]]
 - Leads to [[step_022 (phase_085)
 - Affected by [portrait-npc-crystal-wardens-crystal-wardens.svg]]
 - Connects to [[Depth-Forged Trident
 - Related:
 - Parallels [02_Worldbuilding_Military_Guerrilla_Fighters]]
-- Parallels [[NPC01283_Corvus_Hawthorne_the_Fallen
-- Parallels [step_060 (phase_075)]]
+- Parallels [[NPC01283_Corvus_Hawthorne_the_Fallen]]
 - Connects to [[ITEM01069_Refined_Incense_of_Clarity
 - Originates from [Parliament Of Echoes]]
-- Connects to [[The Anonymous Inquisitor (D&D_References)
-- Leads to [step_027 (phase_043)]]
+- Connects to [[The Anonymous Inquisitor (D&D_References)]]
 - Affected by [[step_060 (phase_010)
 - Affected by [step_093 (phase_075)]]
-- Connects to [[step_007 (phase_065)
-- Requires [The Love Bridge (D&D_References)]]
+- Connects to [[The Love Bridge (D&D_References)]]
 - Compare with [[Greyhawk Obad Hai Xdmg
 - See also: [list-spells-classes-monk (lists)]]
 - Influences [[step_030 (phase_085)
 - Influences [DUN00127_Dungeon_128]]
-- Parallels [[Quaggoth Xmm
-- Compare with [Conceptual Being 7 (D&D_References)]]
+- Parallels [[Conceptual Being 7 (D&D_References)]]
 - Originates from [[Goldhorn the Magnificen
 - Parallels [The Silver Quill 2]]
 - Originates from [[Enspelled Armor Level 5 Xdmg
 - Connects to [The Weeping Widows]]
 - Originates from [[wizard-xphb-school-of-enchantment (classes)
 - Influences [step_046 (phase_046)]]
-- Leads to [[Garden Keeper Earthshade (D&D_References)
-- Related: [ITEM0137_Blessed_Shield_of_Shadows]]
-- Related: [[ENC00347_Combat_Encounter_348
-- Originates from [Safe Passage Guild]]
-- Leads to [[gaming-hall (bastions)
-- Parallels [LOC00103_Planes_Location_104]]
+- Leads to [[Garden Keeper Earthshade (D&D_References)]]
+- Related: [[ENC00347_Combat_Encounter_348]]
+- Leads to [[LOC00103_Planes_Location_104]]
 - Requires [[Noble Titles and Ranks
 - Connects to [Shadow Surgeon Strike Team (Criminal_Organizations)]]
 - Compare with [[bestial-spirit-land-xphb (beast)]]

@@ -162,16 +162,11 @@ Things widely suspected
 
 ## References
 
-- [[Merchant's Covenant
-- [Aquabyssos Trade Seal]]
+- [[Aquabyssos Trade Seal]]
 - [[Continental War
 - [Eastern Kingdoms (02_Worldbuilding)]]
-- [[Political Compromise Costs
-- [The Bathyal Succession]]
-- [[The Crown of Stars
-- [The Restoration Movement]]
-- [[The Tethyan Hegemony
-- [Maelstrom Palace]]
-- [[Royal Palace
-- [The Eternal Senate]]
+- [[Political Compromise Costs]]
+- [[The Restoration Movement]]
+- [[The Tethyan Hegemony]]
+- [[The Eternal Senate]]
 - [[Merchant's Covenant (D&D_References)]]

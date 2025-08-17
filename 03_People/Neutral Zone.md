@@ -255,10 +255,8 @@ ___
 
 ## References
 
-- [[Aquabyssos Trade Seal
-- [Continental War]]
-- [[The Neutral Zones
-- [The Queen]]
+- [[Aquabyssos Trade Seal]]
+- [[The Neutral Zones]]
 - [[Assets Portraits Portrait NPC Captain Elara Shadowshard Captain Elara Shadowshard.svg
 - [Party Quarters - Inverse Palace]]
 - [[Surface Tensions]]

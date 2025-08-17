@@ -156,10 +156,8 @@ Is secretly testing the party
 
 ## Connections
 
-- Originates from [[Foreign Trader Captain Hassan al-Rimal (D&D_References)
-- Affected by [MON00014_Aberrations_Creature_15]]
-- Requires [[ENC00210_Social_Encounter_211
-- Leads to [Goblin Dmg]]
+- Originates from [[Foreign Trader Captain Hassan al-Rimal (D&D_References)]]
+- Requires [[ENC00210_Social_Encounter_211]]
 - Leads to [[Ancient_Riddle
 - Requires [eberron-cults-of-the-dragon-below (deities)]]
 - Requires [[Portrait NPC Pilgrim Guide Samuel Walkingfaith Pilgrim Guide Samuel Walkingfaith.svg_1 (Portraits)
@@ -178,16 +176,14 @@ Is secretly testing the party
 - Requires [Soundscape Guide]]
 - Leads to [[Fire Crystal 2
 - Connects to [The Audit Tower 2]]
-- See also: [[Goldspire Port
-- Requires [Aethermoor to Aquabyssos Transition Guide]]
+- See also: [[Aethermoor to Aquabyssos Transition Guide]]
 - Parallels [[Creature Creature Maw Demon Mpmm V2 Maw Demon Mpmm.png
 - Compare with [Lich-Queen Morwyn the Deathless]]
 - Compare with [[Infrastructure Development
 - Related: [Diplomatic Training Institute (Lore)]]
 - Parallels [[LOC00143_Cities_Location_144
 - Affected by [Assets Locations Location City Duchess Cordelia Pearlheart Duchess Cordelia Pearlheart.svg]]
-- Compare with [[step_026 (phase_039)
-- Influences [The Spire of Knowledge (D&D_References)]]
+- Compare with [[The Spire of Knowledge (D&D_References)]]
 - See also: [[Surface Liaison Captain Reed Bridgewater (D&D_References)
 - See also: [Portrait NPC Quest the Shadow Water Accords Quest the Shadow Water Accords.svg]]
 - Compare with [[The Neutral Pavilion
@@ -200,8 +196,7 @@ Is secretly testing the party
 - Leads to [Assets Locations Location City Temple of the Dawn Temple of the Dawn.svg]]
 - Requires [[item-artifact-ruby-xdmg-ruby-xdmg.png
 - Related: [Portrait NPC the Void Watchers Shrines the Void Watchers Shrines.svg]]
-- Related: [[LOC00218_Wilderness_Location_219
-- Connects to [Service Levels]]
+- Related: [[LOC00218_Wilderness_Location_219]]
 - Leads to [[List Spells Races Triton Vgm
 - Influences [Assets Locations Location City Taverner Bubbles Mcgill V1 Taverner Bubbles Mcgill.svg]]
 - Compare with [[ITEM01253_Greater_Incense_of_Swiftness
@@ -209,16 +204,13 @@ Is secretly testing the party
 - Affected by [[Chaplain Father Blessing Hopekeeper
 - Affected by [ITEM01316_Elegant_Map_Case_of_Durability]]
 - Influences
-- Requires [[Ancient Siege Tunnels (D&D_References)
-- Influences [ENC00184_Combat_Encounter_185]]
+- Requires [[Ancient Siege Tunnels (D&D_References)]]
 - Originates from [[Staff of Swarming Insects Xdmg
 - Influences [LOC00193_Dungeons_Location_194]]
-- Related: [[Foraging_Rules
-- Influences [SPELL00164_Nature_Spell_165]]
+- Related: [[SPELL00164_Nature_Spell_165]]
 - Parallels [[Pier 7 (D&D_References)
 - Affected by [LORE00296_Prophecies_Entry_297]]
-- Connects to [[MUSIC_INDEX
-- Connects to [Progressive Movement Infiltration (D&D_References)]]
+- Connects to [[Progressive Movement Infiltration (D&D_References)]]
 - Requires [[Wizard Xphb Abjurer Xphb
 - Leads to
 - See also: [NPC00979_Pyria_Nightfall_the_Seeker]]
@@ -232,8 +224,7 @@ Is secretly testing the party
 - Parallels [ITEM00500_Dragon_Scale_Chain_Mail_of_Protection]]
 - Affected by [[Methane Forests 2
 - Originates from [Shadow Crystal Black Market]]
-- Leads to [[Safety Coordinator Reef Safeguard (D&D_References)
-- Related: [step_100 (phase_056)]]
+- Leads to [[Safety Coordinator Reef Safeguard (D&D_References)]]
 - See also: [[Location City Restorative Justice V1 Restorative Justice.svg
 - Related: [05-personality-and-background (players-handbook-2014)]]
 - Related: [[S-018 Choir Pirates Player
@@ -245,8 +236,7 @@ Is secretly testing the party
 - Requires [Artificers' Consortium]]
 - Related: [[Armor of Gleaming Xdmg
 - Originates from [location-city-deep-harbor-v1-deep-harbor.svg]]
-- Related: [[LOC00096_Towns_Location_97
-- See also: [Citizens Against Shadows (D&D_References)]]
+- Related: [[Citizens Against Shadows (D&D_References)]]
 - Influences [[04_Resources_Assets_Symbols_symbol-heraldry-witness-protection-protocols-v1-witness-protection-protocols.svg
 - Affected by [step_063 (phase_025)]]
 - See also: [[step_045 (phase_065)

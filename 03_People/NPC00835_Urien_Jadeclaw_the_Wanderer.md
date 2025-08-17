@@ -165,12 +165,9 @@ Caravan needs guards
 - Related: [step_095 (phase_093)]]
 - Parallels [[The Final Wake
 - See also: [Assets Locations Location City Keeper Temporal Safehaven V1 Keeper Temporal Safehaven.svg]]
-- Compare with [[treasure-xdmg (tables)
-- Parallels [LOC00213_Cities_Location_214]]
-- Affected by [[Magic Schools and Academies
-- Originates from [The Eel Keepers]]
-- Parallels [[NPC00678_Solas_Jadeclaw
-- Influences [Commercial District (D&D_References)]]
+- Compare with [[LOC00213_Cities_Location_214]]
+- Affected by [[Magic Schools and Academies]]
+- Parallels [[Commercial District (D&D_References)]]
 - Connects to [[Froghemoth Mpmm
 - Leads to [Shadow Saints]]
 - Affected by [[Cape of the Mountebank Xdmg
@@ -183,8 +180,7 @@ Caravan needs guards
 - Parallels [Crystal Garden 2]]
 - Related: [[norse-frigga (deities)
 - Related: [step_014 (phase_054)]]
-- Parallels [[MON00107_Aberrations_Creature_108
-- Influences [step_051 (phase_059)]]
+- Parallels [[MON00107_Aberrations_Creature_108]]
 - Affected by [[Location City the Crystal Hive Collective the Crystal Hive Collective.svg
 - Parallels
 - Requires [QUEST00067_Main_Quest_68]]
@@ -192,16 +188,14 @@ Caravan needs guards
 - Connects to [step_012 (phase_031)]]
 - Affected by [[Initiative Tracker (Lore)
 - Related: [Abyssal Territories 2]]
-- Connects to [[step_090 (phase_097)
-- Influences [ENC00046_Social_Encounter_47]]
+- Connects to [[ENC00046_Social_Encounter_47]]
 - Originates from [[The Shadow Nexus
 - See also: [step_082 (phase_091)]]
 - Originates from [[Assets Locations Location City Observation Tender Clara V1 Observation Tender Clara.svg
 - Connects to [night-hag-xmm (fiend)]]
 - Leads to [[villains-secret-weakness-villains-weakness (tables)
 - Parallels [ITEM00918_Distilled_Crystal_of_Clarity]]
-- Affected by [[LOC00169_Cities_Location_170
-- Compare with [step_092 (phase_027)]]
+- Affected by [[LOC00169_Cities_Location_170]]
 - Affected by [[God-King Aetheron (D&D_References)
 - Affected by [Economic Warfare and Trade Sanctions]]
 - Originates from [[Assets Locations Location City Dr Marina Voidstudier V1 Dr Marina Voidstudier.svg
@@ -212,14 +206,12 @@ Caravan needs guards
 - Influences [Circlet of Blasting Xdmg]]
 - Compare with [[Dimensional Travel Stress
 - Leads to [Assets Locations Location City Memorial Wall of Names Memorial Wall of Names.png]]
-- Originates from [[Faction_Heraldry 2 (Symbols)
-- Leads to [MON00079_Constructs_Creature_80]]
+- Originates from [[MON00079_Constructs_Creature_80]]
 - Parallels [[LOC00232_Wilderness_Location_233
 - Originates from [NPC01530_Cedric_Oakenshield_the_Lost]]
 - Originates from [[EVENT00033_Natural_Event_34
 - Requires [Quest - The Haunted Depths 2]]
-- Connects to [[ENC00104_Social_Encounter_105
-- Affected by [step_043 (phase_012)]]
+- Connects to [[ENC00104_Social_Encounter_105]]
 - Leads to [[Assets Locations Location City Sacred Grief Protocols Sacred Grief Protocols.png
 - Related: [The Unshadowed 2]]
 - See also:
@@ -228,24 +220,20 @@ Caravan needs guards
 - Related:
 - Leads to [[Boots of Speed Xdmg
 - Influences [02_Worldbuilding_Groups_The_Signal_Keepers]]
-- Related: [[step_002 (phase_019)
-- Related: [Aquabyssos (D&D_References)]]
+- Related: [[Aquabyssos (D&D_References)]]
 - Affected by
 - Connects to [[step_052 (phase_055)
 - Requires [step_002 (phase_057)]]
-- Affected by [[Dimensional Instabilities
-- Affected by [Duchess Marina Ever-Drowning (D&D_References)]]
+- Affected by [[Duchess Marina Ever-Drowning (D&D_References)]]
 - Connects to [[LORE00082_History_Entry_83
 - Affected by [Quest - Foreign Interests]]
-- Originates from [[Thugs (Lore)
-- Related: [ENC00086_Combat_Encounter_87]]
+- Originates from [[ENC00086_Combat_Encounter_87]]
 - Leads to [[04_Resources_Assets_Locations_location-city-cathedral-of-light-v1-cathedral-of-light.png
 - Compare with
 - Requires [step_042 (phase_006)]]
 - Leads to [[step_089 (phase_048)
 - Influences [Shadow Market Canals]]
-- Leads to [[LOC00214_Cities_Location_215
-- See also: [LOC0009_PortHaven]]
+- Leads to [[LOC00214_Cities_Location_215]]
 - Related: [[EVENT00087_Political_Event_88
 - Parallels [step_055 (phase_004)]]
 - Requires [[Coral Craftsman

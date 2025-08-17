@@ -175,10 +175,8 @@ Is secretly testing the party
 - Leads to [Portrait NPC the Bloodline Awakens V1 the Bloodline Awakens.svg_1 (Portraits)]]
 - Leads to [[remove-curse-xphb (spells)
 - Requires [LOC00271_Cities_Location_272]]
-- See also: [[Depths Alliance
-- Influences [Noble Quarter Council Chambers (D&D_References)]]
-- Connects to [[LOC00029_Dungeons_Location_30
-- Influences [The Foundation Depths 2]]
+- See also: [[Noble Quarter Council Chambers (D&D_References)]]
+- Connects to [[LOC00029_Dungeons_Location_30]]
 - Requires [[#Summary
 - Parallels [Dark Gift of Norganas the Finger of Oblivion]]
 - Requires [[NPC01607_Branwen_Quicksilver_the_Swift
@@ -189,21 +187,16 @@ Is secretly testing the party
 - Compare with [NPC01587_Aeliana_Frostwhisper_the_Bold]]
 - See also: [[Government Officia 2
 - Originates from [step_043 (phase_080)]]
-- Parallels [[QUEST00239_Personal_Quest_240
-- Requires
-- Influences [Diamond Xdmg]]
+- Parallels [[QUEST00239_Personal_Quest_240]]
 - Related: [[ITEM00889_Ancient_Chalice_of_the_Gods
 - Influences [MON00132_Aberrations_Creature_133]]
-- Leads to [[Siren Maeve Echoborn (D&D_References)
-- Leads to [step_048 (phase_028)]]
+- Leads to [[Siren Maeve Echoborn (D&D_References)]]
 - Connects to [[step_093 (phase_046)
 - Connects to [Administrative Code]]
 - See also: [[Unite the Two Worlds
 - Affected by [Monsters by Habitat Urban Monsters Xmm]]
-- Related: [[Mithral Armor Xdmg
-- Connects to [LOC00253_Wilderness_Location_254]]
-- Related: [[Professional Divers Association
-- Requires [War of Burning Skies]]
+- Related: [[LOC00253_Wilderness_Location_254]]
+- Related: [[Professional Divers Association]]
 - Leads to [[ITEM01472_Elegant_Map_Case_of_Convenience
 - Originates from [step_078 (phase_022)]]
 - Leads to [[MON00060_Undead_Creature_61
@@ -212,12 +205,9 @@ Is secretly testing the party
 - Compare with [Fragment Compas (D&D_References)]]
 - Parallels [[Guildmaster_Harwick.png
 - See also: [10K_GENERATION_REPORT]]
-- Requires [[Random-Encounter-Tables-Aethermoor
-- Influences [derro-mpmm (aberration)]]
-- Connects to [[QUEST00141_Personal_Quest_142
-- Connects to [Lighthouse Peak - Resonance Chamber]]
-- Related: [[Paradox Storms
-- Connects to [The Throne Room (D&D_References)]]
+- Requires [[Random-Encounter-Tables-Aethermoor]]
+- Connects to [[Lighthouse Peak - Resonance Chamber]]
+- Related: [[The Throne Room (D&D_References)]]
 - Requires [[carpet-of-flying-6-ft-9-ft-xdmg (items)
 - Leads to [NPC00675_Brenna_Blackstone_the_Bold]]
 - Originates from [[Ray of Enfeeblement Xphb
@@ -235,17 +225,13 @@ Is secretly testing the party
 - Influences [QUEST00038_Personal_Quest_39]]
 - Originates from [[Forbidden Knowledge 2
 - Affected by [step_058 (phase_052)]]
-- Influences [[LOC00007_Planes_Location_8
-- Compare with [NPC00856_Malakai_Lightbringer_the_Strong]]
-- Leads to [[step_078 (phase_035)
-- Leads to [NPC0174_Osric_Brightblade]]
+- Influences [[NPC00856_Malakai_Lightbringer_the_Strong]]
+- Leads to [[NPC0174_Osric_Brightblade]]
 - Leads to [[Assets Locations Location City War of the Sunless Depths War of the Sunless Depths.svg
 - Affected by [Assets Vehicles Vehicle Ship Coral Frame Diver Tender V2 Coral Frame Diver Tender.svg]]
 - Connects to [[step_033 (phase_009)
 - Influences [step_072 (phase_097)]]
-- Influences [[Prophetic Studies Institute (D&D_References)
-- Requires
-- Leads to [Insurance Cooperative]]
+- Influences [[Prophetic Studies Institute (D&D_References)]]
 - Connects to [[ITEM00975_Lesser_Oil_of_Clarity
 - Compare with [step_062 (phase_007)]]
 - Influences [[step_004 (phase_021)

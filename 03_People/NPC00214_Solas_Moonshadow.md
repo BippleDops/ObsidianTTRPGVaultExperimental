@@ -190,33 +190,25 @@ Wants rivals investigated
 - Affected by [semiautomatic-pistol-xdmg (items)]]
 - Parallels [[step_013 (phase_036)
 - Originates from [Ritual Xphb]]
-- Connects to [[ENC0013_Random_Encounter_14
-- Requires [Master Harvester Tide Crystalcut]]
+- Connects to [[Master Harvester Tide Crystalcut]]
 - Influences [[step_009 (phase_039)
 - Leads to [NPC0120_Aldric_Darkwater]]
-- See also: [[NPC01422_Hilda_Emberfall_the_Guardian
-- Related: [orc-yurtrus-vgm (deities)]]
+- See also: [[NPC01422_Hilda_Emberfall_the_Guardian]]
 - Affected by [[Assets Locations Location City Garden Keeper Earthshade Garden Keeper Earthshade.svg
 - Related: [The Shadow Shepherds (D&D_References)]]
-- Leads to [[potion-of-gaseous-form-xdmg (items)
-- Leads to [Coral Empress Scarletina (D&D_References)]]
+- Leads to [[Coral Empress Scarletina (D&D_References)]]
 - See also: [[LORE00241_History_Entry_242
 - Leads to [04_Resources_Assets_Portraits_portrait-npc-captain-marina-shieldcurrent-captain-marina-shieldcurrent.svg_Quick_Ref]]
-- Parallels [[NPC01303_Aldric_Zephyrblade_the_Guardian
-- Related: [LOC0133_WestGate]]
+- Parallels [[NPC01303_Aldric_Zephyrblade_the_Guardian]]
 - Leads to [[ENC0051_Random_Encounter_52
 - Affected by
 - Influences [dwarven-abbathor-mtf (deities)]]
-- Compare with [[War Pick Xphb
-- Compare with [LOC00178_Wilderness_Location_179]]
+- Compare with [[LOC00178_Wilderness_Location_179]]
 - See also: [[The Primordial Vaults
 - Parallels [magic-item-table-e (tables)]]
-- Affected by [[The Memories Nexus
-- Compare with [NPC00715_Alaric_Stormwind_the_Wanderer]]
-- Compare with [[LOC00097_Towns_Location_98
-- Leads to [The Crown 2]]
-- Originates from [[Crystal_Corruption_Reference
-- Requires [FAC00079_Orders_80]]
+- Affected by [[NPC00715_Alaric_Stormwind_the_Wanderer]]
+- Compare with [[LOC00097_Towns_Location_98]]
+- Originates from [[Crystal_Corruption_Reference]]
 - Originates from [[Nonhuman Maglubiyet
 - See also: [step_030 (phase_087)]]
 - Requires [[step_052 (phase_077)
@@ -232,10 +224,8 @@ Wants rivals investigated
 - Compare with [step_093 (phase_095)]]
 - Compare with [[Transportation Pods
 - Parallels [giant-octopus-xmm (beast)]]
-- Leads to [[LORE00277_History_Entry_278
-- Related: [ENC00198_Environmental_Encounter_199]]
-- Requires [[Crystal_Heart
-- Connects to [The Battle of Parliament Dee]]
+- Leads to [[ENC00198_Environmental_Encounter_199]]
+- Requires [[The Battle of Parliament Dee]]
 - Connects to [[Twilight Depth
 - Leads to [Creature Creature Nightmare Xmm V3 Nightmare Xmm.png]]
 - Originates from [[step_015 (phase_004)
@@ -243,39 +233,33 @@ Wants rivals investigated
 - Affected by [[Forgotten Realms Azuth
 - See also:
 - See also: [Skill_DCs]]
-- Compare with [[LOC00048_Cities_Location_49
-- Requires [Aura of Life Xphb]]
+- Compare with [[LOC00048_Cities_Location_49]]
 - Compare with [[02_Worldbuilding_Lore_The_Shadow_Shard
 - Compare with [Wave Soothingtouch (D&D_References)]]
 - Related: [[Quest - The Shattered Memories
 - Leads to [Storm of Eternal Lightning 2]]
 - Originates from [[ITEM00390_Blessed_Staff_of_the_Ancients
 - Influences [NPC00908_Brenna_Ashford_the_Strong]]
-- Leads to [[sling-bullet-xphb (items)
-- Affected by [proficiency-xphb (variant-rules)]]
+- Leads to [[proficiency-xphb (variant-rules)]]
 - Affected by [[half-dragon-xmm (dragon)
 - Related: [step_047 (phase_073)]]
-- Parallels [[cause-fear-xge (spells)
-- Originates from [Noble Palatemaster (D&D_References)]]
+- Parallels [[Noble Palatemaster (D&D_References)]]
 - Connects to [[step_027 (phase_099)
 - See also: [ITEM00296_Cursed_Sword_of_Wounding]]
 - Connects to [[step_008 (phase_030)
 - Leads to [Portrait NPC Lord Marcus Goldweaver V2 Lord Marcus Goldweaver.svg]]
 - See also: [[Academy of Foundational Inquiry
 - Connects to [LOC00232_Planes_Location_233]]
-- Parallels [[Potion of Diminution Xdmg
-- Related: [Memory Magic (D&D_References)]]
-- See also: [[step_049 (phase_021)
-- Related: [Reality Distortion Effects]]
+- Parallels [[Memory Magic (D&D_References)]]
+- See also: [[Reality Distortion Effects]]
 - Originates from [[Memory Trading Economy
 - Compare with [LOC00004_Towns_Location_5]]
-- Requires [[SPELL00077_Nature_Spell_78
-- Leads to [Cultural_Ambassador_Bridge-Builder]]
+- Requires [[Cultural_Ambassador_Bridge-Builder]]
 - Leads to [[MON00035_Undead_Creature_36
 - Affected by [travel-xphb (tables)]]
 - Parallels [[ITEM00655_Dragon_Scale_Chain_Mail_of_the_Guardian
 - See also: [step_023 (phase_046)]]
-- Influences [[The Community Feast Halls (Places)]]
+- Influences [[The Community Feast Halls]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

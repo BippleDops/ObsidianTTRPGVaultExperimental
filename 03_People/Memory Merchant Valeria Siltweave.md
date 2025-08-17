@@ -290,12 +290,7 @@ Recent developments have revealed mystical elements to her work:
 - Provides ethically-sourced memories for scholarly research
 - Maintains strict anonymity and consent protocols
 - Contributes to understanding of memory magic and psychology
-- Partners with [[University of Deepcurrent memory research department
-
----
-
-### 1. The Memory Plague Investigation (Level 8-12)
-A mysterious ailment is causing people to lose treasured memories. Valeria suspects magical interference from [Shadow Corruption]] but needs investigators to trace the source.
+- Partners with [[University of Deepcurrent]] but needs investigators to trace the source.
 - **Rewards**: 5,000gp, Memory protection charms, Faction reputation
 - **Complications**: The plague may be side effect of [[Memory Farmer Thane's new extraction techniques
 
@@ -317,12 +312,7 @@ A memory farming operation is kidnapping vulnerable individuals. Valeria hires t
 ### 5. The Memory War (Level 12-16)
 Full-scale conflict erupts between ethical and exploitative memory factions. Valeria needs champions to tip the balance toward reform.
 - **Rewards**: 10,000gp, Leadership role in reformed industry, Royal recognition
-- **Complications**: Victory may attract attention from [[The Deep Mother herself
-
----
-
-### Divine Exploration Network
-**[Captain Nautilus the Deep Wanderer]]**: Divine memory research partnership
+- **Complications**: Victory may attract attention from [[The Deep Mother]]**: Divine memory research partnership
 - Receives memories of Deep Mother encounters from his exploration network
 - Provides therapeutic support for individuals overwhelmed by cosmic consciousness experiences
 - Collaborates on preserving cultural memories related to divine oceanic encounters
@@ -487,16 +477,13 @@ Legends speak of Memory Merchant Valeria Siltweave as a nexus where past and pre
 
 - [[Campaign_Relationship_Matrix
 - [House Shadowmere (Houses_and_Nobility)]]
-- [[Merchant Family Alliances
-- [Relationship Web Nuances]]
+- [[Merchant Family Alliances]]
 - [[Archivist Mnemonic the Forgotten
 - [Assets Locations Location City Captain Marlowe Tidecrest V1 Captain Marlowe Tidecrest.svg]]
 - [[Assets Symbols Symbol Heraldry Port Sorrow Trading Company Port Sorrow Trading Company.svg
 - [His Own Shadow]]
-- [[The Sorrowmaster
-- [Houses_and_Nobility - House Shadowmere]]
-- [[Archivist Mnemonic the Forgotten (D&D_Statblocks)
-- [His Own Shadow (D&D_Statblocks)]]
+- [[Houses_and_Nobility - House Shadowmere]]
+- [[Archivist Mnemonic the Forgotten (D&D_Statblocks)]]
 - [[The Sorrowmaster (D&D_Statblocks)
 
 ## Connections
@@ -505,8 +492,7 @@ Legends speak of Memory Merchant Valeria Siltweave as a nexus where past and pre
 - Influences [[NPC00490_Corvus_Xendar_the_Lost
 - Leads to [Portrait NPC Marina Red Tide Coralheart V2 Marina Red Tide Coralheart.svg]]
 - Connects to
-- Requires [[ITEM0116_Eldritch_Pendant_of_the_Dawn
-- Originates from [EVENT00018_Magical_Event_19]]
+- Requires [[ITEM0116_Eldritch_Pendant_of_the_Dawn]]
 - Requires [[step_089 (phase_057)
 - Originates from [Master Curator Pearl Artflow]]
 - See also: [[Portrait NPC Captain Guard Peacehold Captain Guard Peacehold.svg
@@ -519,30 +505,25 @@ Legends speak of Memory Merchant Valeria Siltweave as a nexus where past and pre
 - Affected by [step_018 (phase_011)]]
 - Related: [[Synthesis Consciousness Transfer
 - Originates from [Portrait NPC Quest the Deepmind Weapon Quest the Deepmind Weapon.svg]]
-- Related: [[Marina Bridgewater (D&D_References)
-- Requires [ENC00159_Combat_Encounter_160]]
+- Related: [[Marina Bridgewater (D&D_References)]]
 - Related: [[Location City Crystals Curiosities V1 Crystals Curiosities.svg
 - Requires [Master Harvest Engineer Kelp Deepso (D&D_References)]]
-- Requires [[step_038 (phase_099)
-- Leads to [Random Encounter Tables - Aquabyssos (D&D_References)]]
+- Requires [[Random Encounter Tables - Aquabyssos (D&D_References)]]
 - Related: [[Grasp of Hadar Xge
 - See also: [step_030 (phase_081)]]
 - Requires [[step_078 (phase_022)
 - Related: [Opposition Research]]
 - Leads to [[QUEST00348_Side_Quest_349
 - Compare with [Portrait NPC Director of Experimental Procedures Dr Siren Voidtouch V1 Director of Experimental Procedures Dr Siren Voidtouch.svg_1 (Portraits)]]
-- See also: [[QUEST00082_Main_Quest_83
-- Connects to [Divine Magic]]
+- See also: [[QUEST00082_Main_Quest_83]]
 - Affected by [[step_012 (phase_014)
 - Affected by [Assets Locations Location City the Sunken Palace the Sunken Palace.svg]]
-- Connects to [[step_001 (phase_072)
-- Parallels [LOC00191_Dungeons_Location_192]]
+- Connects to [[LOC00191_Dungeons_Location_192]]
 - Affected by [[step_074 (phase_066)
 - Connects to [Location City Underwater Cuisine Techniques V1 Underwater Cuisine Techniques.svg]]
 - Connects to [[04_Resources_Assets_Symbols_symbol-heraldry-the-cipher-current-the-cipher-current.svg
 - Originates from [FAC00039_Cults_40]]
-- Parallels [[Enspelled Staff Level 6 Xdmg
-- Influences [NPC00979_Pyria_Nightfall_the_Seeker]]
+- Parallels [[NPC00979_Pyria_Nightfall_the_Seeker]]
 - Connects to [[Communications Coordinator Wave Messagewright
 - See also: [04_Resources_Assets_Locations_location-city-commander-typhoon-blackheart-commander-typhoon-blackheart.svg]]
 - Related: [[The Current Maps 2
@@ -553,21 +534,16 @@ Legends speak of Memory Merchant Valeria Siltweave as a nexus where past and pre
 - Affected by [Assets Vehicles Vehicle Ship Cloud Anchor Freighter V2 Cloud Anchor Freighter.svg]]
 - Related: [[Portrait NPC King Marcus Lumengarde V2 King Marcus Lumengarde.svg
 - Leads to [LOC0001_SouthHaven]]
-- Requires [[NPC00417_Cedric_Ashford
-- Leads to [ENC00418_Combat_Encounter_419]]
+- Requires [[ENC00418_Combat_Encounter_419]]
 - See also:
-- Compare with [[NPC01675_Pyria_Stormwind_the_Strong
-- Requires [ENC00467_Combat_Encounter_468]]
-- Parallels [[Symbols - Faction_Heraldry (D&D_References)
-- Originates from [deployment_report]]
-- Affected by [[ENC00169_Combat_Encounter_170
-- Requires [step_029 (phase_006)]]
+- Compare with [[NPC01675_Pyria_Stormwind_the_Strong]]
+- Parallels [[Symbols - Faction_Heraldry (D&D_References)]]
+- Affected by [[ENC00169_Combat_Encounter_170]]
 - Influences [[Public Safety Complex
 - Connects to [QUEST00405_Side_Quest_406]]
 - Related: [[Dr Nereon Deepcurrent
 - See also: [step_096 (phase_096)]]
-- Connects to [[Lady Venetia Silkwind
-- Leads to [Home_Embeds_Vault_Graph (D&D_References)]]
+- Connects to [[Home_Embeds_Vault_Graph (D&D_References)]]
 - Connects to [[salamander-inferno-master-xmm (elemental)
 - Related: [step_003 (phase_024)]]
 - Connects to [[ENC00088_Social_Encounter_89
@@ -575,29 +551,19 @@ Legends speak of Memory Merchant Valeria Siltweave as a nexus where past and pre
 - Affected by
 - Requires [[Molten Magma Roper Pota
 - Requires [Portrait NPC the Emerald Sage Willowbark V1 the Emerald Sage Willowbark.svg]]
-- See also: [[secondary-tables-boons-xge (tables)
-- Parallels [Aethermoor Daily Rhythms (D&D_References)]]
+- See also: [[Aethermoor Daily Rhythms (D&D_References)]]
 - Related: [[location-city-social-clubs-social-clubs.svg
 - Parallels [Infinite Mathematics Divisio 2]]
 - Parallels [[QUEST0019_Merchant's_Secret
 - Connects to [Location City Living Supremacist Enclaves V1 Living Supremacist Enclaves.svg]]
 - Originates from [[Assets Locations Location City Quest Harbor Security V1 Quest Harbor Security.svg
 - Requires [The Leviathan Prophets (D&D_References)]]
-- Connects to [[Multiclassing Xphb
-- See also:
-- Affected by [Citizens Against Shadows (D&D_References)]]
-- Compare with [[step_030 (phase_024)
-- Compare with [NPC01360_Ewan_Blackstone_the_Strong]]
+- Connects to [[Citizens Against Shadows (D&D_References)]]
+- Compare with [[NPC01360_Ewan_Blackstone_the_Strong]]
 - Leads to
-- Influences [[ENC00290_Combat_Encounter_291
-- See also: [step_100 (phase_019)]]
-- Originates from [[ENC00124_Social_Encounter_125
-- See also: [step_081 (phase_073)]]
-- Related: [[LOC00233_Wilderness_Location_234
-- Requires [LORE00046_Legends_Entry_47]]
-- See also: [[The Oracle of the Sundered Peaks
-- See also: [Master Investigator Lysander Truthweaver]]
-- Influences [[true-strike-xphb (spells)
-- Leads to [Portrait NPC Surf... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
-- Leads to [[Crystal Network
-- Requires [LOC00068_Dungeons_Location_69]]
+- Influences [[ENC00290_Combat_Encounter_291]]
+- Originates from [[ENC00124_Social_Encounter_125]]
+- Related: [[LOC00233_Wilderness_Location_234]]
+- See also: [[Master Investigator Lysander Truthweaver]]
+- Influences [[Portrait NPC Surf... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Leads to [[LOC00068_Dungeons_Location_69]]

@@ -25,5 +25,8 @@
   "alt_text": "Concept art of vampire-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-vampire-xmm-vampire-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-vampire-xmm-vampire-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:10:44.146Z",
+  "generationMethod": "ComfyUI"
 }

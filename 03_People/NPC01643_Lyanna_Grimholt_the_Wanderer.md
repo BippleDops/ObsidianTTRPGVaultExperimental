@@ -201,10 +201,8 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[Portrait NPC Working Class Citizens Working Class Citizens.svg
 - Connects to
 - See also: [Security Officer Guard Stormwind]]
-- Compare with [[step_036 (phase_062)
-- Influences [Crystal_Corruption_Identification_Chart]]
-- Parallels [[Circle of Nature's Balance 2
-- Affected by [step_003 (phase_078)]]
+- Compare with [[Crystal_Corruption_Identification_Chart]]
+- Parallels [[Circle of Nature's Balance 2]]
 - Leads to [[Portrait NPC High Priestess Nerida Soulcurrent High Priestess Nerida Soulcurrent.svg
 - Leads to [Shadow Senate Leaders (D&D_References)]]
 - Connects to [[Portrait NPC Scholar Priest Tidal Memory V2 Scholar Priest Tidal Memory.svg
@@ -226,24 +224,21 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [Intellectual Freedom Movement (D&D_References)]]
 - Influences [[Assets Locations Location City Scholar Merchant Remembrance Tidekeep Scholar Merchant Remembrance Tidekeep.svg
 - Parallels [1-introduction 2 (xanathars-guide-to-everything)]]
-- Parallels [[MON00154_Undead_Creature_155
-- Leads to [step_047 (phase_022)]]
+- Parallels [[MON00154_Undead_Creature_155]]
 - Leads to [[amulet-of-the-planes-xdmg (items)
 - Related: [LOC00168_Wilderness_Location_169]]
 - Connects to [[step_021 (phase_033)
 - See also: [Current Riders Union 2]]
 - Requires [[step_029 (phase_009)
 - Influences [Engineer Brass Gearspin]]
-- Influences [[LOC00275_Dungeons_Location_276
-- Affected by [Continental Connections & Story Weave 2]]
+- Influences [[Continental Connections & Story Weave 2]]
 - Influences [[step_053 (phase_004)
 - Related: [piwafwi-cloak-of-elvenkind-oota (items)]]
 - Compare with
 - Parallels [[step_086 (phase_066)
 - See also:
 - Influences [hammer-of-thunderbolts-xdmg (items)]]
-- Compare with [[ENC00115_Environmental_Encounter_116
-- Parallels [The Depth Blessed Fisherman Captain Sal]]
+- Compare with [[The Depth Blessed Fisherman Captain Sal]]
 - Influences [[Master Cultivators Guild (Groups)
 - Affected by [summon-greater-demon-xge (spells)]]
 - Originates from
@@ -263,8 +258,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [Location City Keeper Deepcurrent Keeper Deepcurrent.svg]]
 - Connects to [[Ω_System-CLI-spells-school-abjuration
 - Originates from [Encrypted Orders]]
-- Compare with [[ENC0058_Random_Encounter_59
-- Connects to [The Trade Quarter (D&D_References)]]
+- Compare with [[The Trade Quarter (D&D_References)]]
 - Requires [[step_071 (phase_073)
 - Compare with [item-artifact-windvane-pota-v7-windvane-pota.png]]
 - Related: [[elven-mythrien-sarath-mtf (deities)
@@ -278,14 +272,10 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [Dawn War Corellon Dmg]]
 - Requires [[MON00003_Aberrations_Creature_4
 - Influences [step_088 (phase_060)]]
-- Leads to [[Divine Communication Specialists (D&D_References)
+- Leads to [[Divine Communication Specialists (D&D_References)]]
 - Connects to
-- Related: [MON00100_Aberrations_Creature_101]]
-- Connects to
-- Influences [[Transformation Techniques 2
-- Affected by [New Death Faction]]
-- Compare with [[The Crimson Foundries 2
-- Parallels [NPC00076_Aeliana_Grimholt_the_Bold]]
+- Influences [[Transformation Techniques 2]]
+- Compare with [[NPC00076_Aeliana_Grimholt_the_Bold]]
 - Originates from [[04_Resources_Assets_Symbols_symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.png
 - Affected by [location-city-shadow-crystals-shadow-crystals.svg]]
 - Related: [[EVENT00032_Natural_Event_33

@@ -149,16 +149,14 @@ Investigation, Arcana, Stealth
 
 ## Connections
 
-- Connects to [[Goldwave Manor 2
-- Parallels [NPC01821_Thalia_Dawnstrider_the_Wise]]
+- Connects to [[NPC01821_Thalia_Dawnstrider_the_Wise]]
 - See also: [[Portrait NPC the Golden Fishook Tavern V1 the Golden Fishook Tavern.svg_1 (Portraits)
 - Originates from [Drowned (D&D_References)]]
 - Compare with [[Order of the Crimson Eye (Orders)
 - Influences [EVENT00028_Political_Event_29]]
 - Affected by [[padded-armor-xphb (items)
 - Compare with [Crystal Jellies 2]]
-- Connects to [[Old Tongue
-- Requires [Chorus Master Melodia Depthsong]]
+- Connects to [[Chorus Master Melodia Depthsong]]
 - Related: [[step_039 (phase_087)
 - Affected by [LORE00105_History_Entry_106]]
 - See also: [[step_090 (phase_067)
@@ -167,31 +165,26 @@ Investigation, Arcana, Stealth
 - Influences [SHOP00048_Magical_Shop_49]]
 - See also: [[step_011 (phase_065)
 - Leads to [Assets Locations Location City Expedition to the Sunless Depths V1 Expedition to the Sunless Depths.svg]]
-- Affected by [[step_032 (phase_043)
-- Affected by [The Tidecaller (D&D_References)]]
+- Affected by [[The Tidecaller (D&D_References)]]
 - See also: [[step_074 (phase_039)
 - Related:
 - Connects to [Chaplain Abyssos the Deepseeke]]
 - Connects to [[Reality Anchor Deployment
 - Affected by [Location City Trade Regulations Trade Regulations.svg]]
-- Requires [[list-spells-school-conjuration
-- Influences [step_056 (phase_096)]]
+- Requires [[list-spells-school-conjuration]]
 - Connects to [[Dwarven Fortitude Xge
 - Related: [Variant Customizing Ability Scores Ability Score Point Cost Phb]]
-- Related: [[NPC00934_Jorah_Ravenheart_the_Swift
-- Compare with [LOC00267_Cities_Location_268]]
+- Related: [[NPC00934_Jorah_Ravenheart_the_Swift]]
 - Originates from [[Portrait NPC Emperor Thalassius the Wise V2 Emperor Thalassius the Wise.svg_1 (Portraits)
 - Connects to [Face the Ancient Threat (D&D_References)]]
-- Parallels [[The Breathing Stone (D&D_References)
-- Requires [step_048 (phase_062)]]
+- Parallels [[The Breathing Stone (D&D_References)]]
 - Affected by [[SPELL00076_Divine_Spell_77
 - Originates from [SHOP00032_Magical_Shop_33]]
 - Connects to [[Character_Creation_Extended.md_Quick_Ref
 - See also: [summon-undead-xphb (spells)]]
 - Related: [[Scene Scene Sunken Library Revelation V1 Sunken Library Revelation.svg
 - Affected by [ENC00236_Combat_Encounter_237]]
-- Leads to [[Arcana Uncommon Xdmg
-- See also: [NPC00505_Dara_Ravenheart_the_Risen]]
+- Leads to [[NPC00505_Dara_Ravenheart_the_Risen]]
 - Related: [[QUEST00181_Personal_Quest_182
 - Influences
 - Influences
@@ -203,28 +196,23 @@ Investigation, Arcana, Stealth
 - Connects to [step_007 (phase_054)]]
 - Compare with [[Template_Continent_Placeholder.png_2 (09_Templates)
 - Connects to [Portrait NPC the Speaking Stones V2 the Speaking Stones.svg]]
-- Influences [[NPC01487_Wynne_Goldleaf_the_Redeemed
-- Compare with [Quest - The Betrayers' Truth]]
+- Influences [[NPC01487_Wynne_Goldleaf_the_Redeemed]]
 - Influences [[step_007 (phase_014)
 - Related: [MON0018_Fire_Howler]]
 - Originates from [[step_038 (phase_067)
 - See also: [ITEM01039_Superior_Powder_of_Healing]]
-- Related: [[Living Coral Architecture (D&D_References)
-- Compare with [Memory Depths]]
-- Influences [[step_026 (phase_009)
-- Requires [Portrait NPC Orac... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Related: [[Living Coral Architecture (D&D_References)]]
+- Influences [[Portrait NPC Orac... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Affected by [[potion-of-comprehension-xdmg (items)
 - Connects to [step_018 (phase_008)]]
 - Requires [[step_095 (phase_061)
 - Influences [Fire Elemental Myrmidon Mpmm]]
 - Affected by [[boon-of-invincibility (rewards)
 - Originates from [ITEM00739_Divine_Scepter_of_Eternity]]
-- Influences [[SPELL00107_Nature_Spell_108
-- Leads to [Crystal Palace (D&D_References)]]
+- Influences [[Crystal Palace (D&D_References)]]
 - Related: [[step_014 (phase_084)
 - Influences [11 Rules Glossary]]
-- Affected by [[Scholar Vivienne the Chronicler
-- Requires [wall-of-stone-xphb (spells)]]
+- Affected by [[Scholar Vivienne the Chronicler]]
 - Influences [[NPC0127_Hilda_Darkwater
 - Requires [step_051 (phase_020)]]
 - Originates from
@@ -235,12 +223,10 @@ Investigation, Arcana, Stealth
 - See also: [NPC01973_Faelyn_Keenblade_the_Scholar]]
 - Influences [[Thornwick Hall
 - Requires [LOC00006_Planes_Location_7]]
-- Related: [[NPC00887_Drusilla_Grimholt_the_Bold
-- Related: [The Final Forgetting (D&D_References)]]
+- Related: [[The Final Forgetting (D&D_References)]]
 - Compare with [[Entertainers Pack Xphb
 - See also: [Eberron the Fury]]
-- Influences [[NPC01855_Thalia_Grimholt_the_Redeemed
-- See also: [Aura of Life Xphb]]
+- Influences [[NPC01855_Thalia_Grimholt_the_Redeemed]]
 - Affected by [[Physical Characteristics Beholder Eyestalk Texture Vgm
 - See also: [step_064 (phase_078)]]
 - Originates from [[Portrait NPC Quest the Missing Guards V2 Quest the Missing Guards.svg

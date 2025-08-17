@@ -171,38 +171,28 @@ Needs discrete help with family scandal
 - Compare with [LORE00016_Legends_Entry_17]]
 - Requires [[step_060 (phase_055)
 - Requires [Locations_Gallery (Galleries)]]
-- Requires [[NPC00986_Lyanna_Emberfall_the_Redeemed
-- Originates from [step_046 (phase_099)]]
+- Requires [[NPC00986_Lyanna_Emberfall_the_Redeemed]]
 - Connects to [[step_017 (phase_043)
 - Originates from [Holy Avenger Xdmg]]
-- Parallels [[Stormwatch Keep 2
-- See also: [LOC00194_Dungeons_Location_195]]
-- Related: [[step_003 (phase_094)
-- Related: [Pristine Pearl (D&D_References)]]
-- Related: [[LOC00200_Towns_Location_201
-- Related: [aasimar-xphb (races)]]
+- Parallels [[LOC00194_Dungeons_Location_195]]
+- Related: [[Pristine Pearl (D&D_References)]]
+- Related: [[LOC00200_Towns_Location_201]]
 - Influences [[QUEST00080_Main_Quest_81
 - See also: [SHOP00010_Magical_Shop_11]]
-- Compare with [[ENC00189_Environmental_Encounter_190
-- Originates from [Curse of Eternal Winter]]
-- Related: [[Occupied Space Xphb
-- Affected by [Master Archivist Thomas Scrollkeeper (D&D_References)]]
+- Compare with [[ENC00189_Environmental_Encounter_190]]
+- Related: [[Master Archivist Thomas Scrollkeeper (D&D_References)]]
 - Leads to [[EVENT00009_Political_Event_10
 - Compare with [Luxury Goods Market 2]]
 - Affected by [[step_001 (phase_013)
 - Originates from [human-names-polynesian-female-xge (tables)]]
-- Originates from [[Environmental Hazards (D&D_References)
-- Leads to [step_066 (phase_085)]]
-- Requires [[Pirate Lords of the Spiral Depths (D&D_References)
-- Connects to [ENC00263_Social_Encounter_264]]
+- Originates from [[Environmental Hazards (D&D_References)]]
+- Requires [[Pirate Lords of the Spiral Depths (D&D_References)]]
 - Compare with
 - Originates from
 - Originates from [[step_051 (phase_090)
 - Connects to [Assets Locations Location City the Shadow Markets New the Shadow Markets New.svg]]
-- Requires [[Houses_and_Nobility - House Deepcurrent
-- Influences [Interfaith Cooperation]]
-- Parallels [[ENC00302_Combat_Encounter_303
-- See also: [Master Artist Pear (D&D_References)]]
+- Requires [[Houses_and_Nobility - House Deepcurrent]]
+- Parallels [[Master Artist Pear (D&D_References)]]
 - Related: [[SHOP00062_Magical_Shop_63
 - See also: [LOC00160_Planes_Location_161]]
 - See also: [[Programmed Illusion Xphb
@@ -215,25 +205,21 @@ Needs discrete help with family scandal
 - Affected by [12_Research_D&D_Statblocks_The_Nameless_Auditor]]
 - Leads to [[animated-flying-sword-xmm (construct)
 - Affected by [Assets Portraits Portrait NPC Shadow Binding Sanctum Shadow Binding Sanctum.svg]]
-- Originates from [[deck-of-many-things#The%20Fates
-- Requires [LORE00068_Prophecies_Entry_69]]
+- Originates from [[deck-of-many-things#Key]]
 - See also: [[Shadow Conspiracy Operations
 - Connects to [ITEM00530_Enchanted_Gauntlets_of_Resistance]]
 - See also: [[Disease_and_Plague_System
 - Originates from [dybbuk-mpmm (fiend)]]
-- Connects to [[step_090 (phase_079)
-- Influences [LORE0015_History_of_the_Ancient_Pact]]
+- Connects to [[LORE0015_History_of_the_Ancient_Pact]]
 - Connects to
 - Leads to [[Martial Weapon Training Xphb
 - Originates from [Void_Keeper_Sister_Nyx_space]]
-- Affected by [[Chief Diplomat Corallion Reefwright
-- Leads to [LOC00036_Wilderness_Location_37]]
+- Affected by [[Chief Diplomat Corallion Reefwright]]
 - Leads to [[step_017 (phase_032)
 - Connects to [step_057 (phase_070)]]
 - Originates from [[LOC00266_Dungeons_Location_267
 - See also: [horror_atmosphere_techniques]]
-- Compare with [[step_084 (phase_096)
-- See also: [LOC00246_Cities_Location_247]]
+- Compare with [[LOC00246_Cities_Location_247]]
 - Connects to [[Assets Locations Location City Scholar Thomas Precedent Scholar Thomas Precedent.svg
 - Requires [Portrait NPC Agent Whisper Voidheart V1 Agent Whisper Voidheart.svg]]
 - Parallels [[step_051 (phase_088)
@@ -248,8 +234,7 @@ Needs discrete help with family scandal
 - See also: [QUEST00038_Side_Quest_39]]
 - Leads to [[04_Resources_Assets_Symbols_symbol-heraldry-war-commander-umbral-strategis-v1-war-commander-umbral-strategis.svg
 - Leads to [the-six-abilities-ability-descriptions-xphb (tables)]]
-- Affected by [[Interfaith Cooperation (D&D_References)
-- Leads to [Aquabyssos Medical University (D&D_References)]]
+- Affected by [[Aquabyssos Medical University (D&D_References)]]
 - See also: [[step_085 (phase_087)
 
 ## Visual References

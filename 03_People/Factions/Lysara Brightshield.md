@@ -170,7 +170,5 @@ Things widely suspected
 
 ## References
 
-- [[Crystal Wardens
-- [Relationship Web Nuances]]
-- [[Crystal Wardens (D&D_Statblocks)
-- [Item Template]]
+- [[Relationship Web Nuances]]
+- [[Crystal Wardens (D&D_Statblocks)]]

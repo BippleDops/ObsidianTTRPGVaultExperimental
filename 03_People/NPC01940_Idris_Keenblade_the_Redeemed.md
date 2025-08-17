@@ -170,17 +170,14 @@ Is secretly testing the party
 
 ## Connections
 
-- Related: [[Shadow Attache Void
-- Parallels
-- Related: [Coral Reef Republics (D&D_References)]]
+- Related: [[Coral Reef Republics (D&D_References)]]
 - Parallels [[silk-rope-50-feet (items)
 - Affected by [step_015 (phase_068)]]
 - Influences [[QUEST00170_Main_Quest_171
 - See also: [Portrait NPC the Bloodline Carrier V2 the Bloodline Carrier.svg]]
 - Affected by [[step_073 (phase_016)
 - Requires [Foreign Shadow Syndicate]]
-- Affected by [[step_007 (phase_017)
-- Compare with [Master Cultivator Reef Growstone (D&D_References)]]
+- Affected by [[Master Cultivator Reef Growstone (D&D_References)]]
 - Connects to [[Portrait NPC Agent Whisper Voidheart Agent Whisper Voidheart.svg_1 (Portraits)
 - Affected by [ITEM00822_Time-worn_Crown_of_Eternity]]
 - Related: [[step_017 (phase_099)
@@ -192,16 +189,13 @@ Is secretly testing the party
 - Leads to [[step_049 (phase_043)
 - Leads to [Orthon Mpmm]]
 - Leads to
-- Parallels [[Luminous Hollow
-- Influences [Lady Chamberlain Court Manager]]
-- Related: [[step_076 (phase_072)
-- Influences [The Current Merchants (D&D_Statblocks)]]
+- Parallels [[Lady Chamberlain Court Manager]]
+- Related: [[The Current Merchants (D&D_Statblocks)]]
 - Originates from [[step_016 (phase_027)
 - Requires [copper-dragon-scale-mail-xdmg (items)]]
 - Parallels [[QUEST00176_Side_Quest_177
 - Leads to [magic-items-for-sale-scc (tables)]]
-- Influences [[step_058 (phase_054)
-- Leads to [NPC01657_Dara_Dawnstrider_the_Mystic]]
+- Influences [[NPC01657_Dara_Dawnstrider_the_Mystic]]
 - Parallels [[ball-bearings-xphb (items)
 - Affected by [Assets Locations Location City Illyana Glowstream V1 Illyana Glowstream.svg]]
 - Requires [[Variant Spell Points Spell Point Cost
@@ -217,21 +211,16 @@ Is secretly testing the party
 - Compare with [Assets Locations Location City Harbormaster Tidal Stormcrest V1 Harbormaster Tidal Stormcrest.svg]]
 - Influences [[Memory Fragment Collections
 - See also: [sentient-magic-item-communication (tables)]]
-- See also: [[MON00031_Aberrations_Creature_32
-- Influences [FAC00076_Orders_77]]
-- Influences [[Shadow Embassy
-- Connects to [ENC00058_Social_Encounter_59]]
-- Affected by [[SPELL00106_Divine_Spell_107
-- Related: [Weather_And_Season (D&D_References)]]
+- See also: [[MON00031_Aberrations_Creature_32]]
+- Influences [[ENC00058_Social_Encounter_59]]
+- Affected by [[Weather_And_Season (D&D_References)]]
 - Connects to
-- Parallels [[step_052 (phase_084)
-- Requires [Security Chief Wade Peacekeep 2]]
+- Parallels [[Security Chief Wade Peacekeep 2]]
 - Influences [[step_096 (phase_016)
 - Related: [step_089 (phase_084)]]
 - See also: [[The Glass Twins
 - Related: [Sunset Bay 2]]
-- Influences [[step_032 (phase_097)
-- Compare with [Depth Merchant's Consortium (D&D_References)]]
+- Influences [[Depth Merchant's Consortium (D&D_References)]]
 - Influences [[Quest The Dying Forest
 - See also: [ENC0086_Random_Encounter_87]]
 - Leads to [[NPC0114_Jasper_Goldleaf
@@ -247,13 +236,10 @@ Is secretly testing the party
 - Requires [MON00082_Constructs_Creature_83]]
 - Affected by [[Assets Locations Location City Dr Siphon Gillwater V1 Dr Siphon Gillwater.png
 - Originates from [Seven Fleets System]]
-- Requires [[step_072 (phase_043)
-- Connects to
-- Leads to [Respiratory Sciences Research Institute (D&D_References)]]
+- Requires [[Respiratory Sciences Research Institute (D&D_References)]]
 - Influences [[Hover Xphb
 - See also: [Location City the Singing Trenches the Singing Trenches.svg]]
-- Parallels [[step_081 (phase_026)
-- Leads to [ENC00052_Combat_Encounter_53]]
+- Parallels [[ENC00052_Combat_Encounter_53]]
 - Related: [[Animated Object Medium or Smaller Xphb
 - Leads to [step_053 (phase_052)]]
 - Originates from [[step_032 (phase_035)
@@ -261,8 +247,7 @@ Is secretly testing the party
 - Related: [Assets Locations Location City Memorial Wall of Names V1 Memorial Wall of Names.png]]
 - Connects to [[Detect Evil and Good Xphb
 - Related: [Location City the Lost Shipment the Lost Shipment.svg]]
-- Influences [[NPC00015_Dara_Stormwind
-- See also: [Community Groups (D&D_References)]]
+- Influences [[Community Groups (D&D_References)]]
 - Compare with [[experience-points-by-challenge-rating-xmm (tables)
 - See also: [House Shadowmere (Houses_and_Nobility)]]
 - Affected by [[Quest - The Shadow Market Wars 2

@@ -25,5 +25,8 @@
   "alt_text": "Concept art of black-abishai-mpmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-black-abishai-mpmm-v3-black-abishai-mpmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-black-abishai-mpmm-v3-black-abishai-mpmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:58:45.423Z",
+  "generationMethod": "ComfyUI"
 }

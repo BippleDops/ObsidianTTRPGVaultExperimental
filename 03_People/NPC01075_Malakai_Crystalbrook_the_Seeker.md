@@ -160,8 +160,7 @@ Caravan needs guards
 
 - Influences [[QUEST00494_Side_Quest_495
 - Requires [SHOP00011_Specialty_Shop_12]]
-- Related: [[NPC01945_Qadim_Keenblade_the_Guardian
-- Requires [hunters-mark-xphb (spells)]]
+- Related: [[NPC01945_Qadim_Keenblade_the_Guardian]]
 - Affected by [[step_086 (phase_014)
 - Connects to [Ball Bearing]]
 - Compare with [[04_Resources_Assets_Portraits_portrait-npc-captain-storm-ambushmaster-captain-storm-ambushmaster.svg_Quick_Ref
@@ -171,42 +170,34 @@ Caravan needs guards
 - See also:
 - Related: [[Pit Fighting Complications Xge
 - Leads to [Depth Accords]]
-- Connects to [[NPC00305_Urien_Nightfall_the_Strong
-- Influences [zone-of-truth-xphb (spells)]]
+- Connects to [[NPC00305_Urien_Nightfall_the_Strong]]
 - Influences
 - Influences [[Portrait NPC Scholar Vivienne the Chronicler V2 Scholar Vivienne the Chronicler.svg
 - Leads to [Gate Towns of the Outlands Xdmg]]
 - Connects to [[Cultural Guide
 - Influences [Elite Transport]]
-- Connects to [[The Grand Archive (D&D_References)
-- Connects to [SPELL00042_Divine_Spell_43]]
-- Affected by [[QUEST0073_The_Frozen_Fortress_Uprising
-- Influences [Shadow-Touched Individuals (D&D_References)]]
+- Connects to [[The Grand Archive (D&D_References)]]
+- Affected by [[Shadow-Touched Individuals (D&D_References)]]
 - See also: [[Location City Inverted Ballroom Wing V1 Inverted Ballroom Wing.svg
 - Affected by [Archon Meredith Saltweaver (D&D_References)]]
 - Parallels [[Assets Locations Location City Wave Merchant V1 Wave Merchant.svg
 - See also: [crystal-ball-of-mind-reading-xdmg (items)]]
 - Requires [[Creature Size and Space Xphb
 - Requires [step_085 (phase_019)]]
-- Influences [[The Parliament of Echoes
-- See also: [The Maritime Quarter (D&D_References)]]
+- Influences [[The Maritime Quarter (D&D_References)]]
 - Influences [[Hazirawn Hotdq
 - Parallels [step_088 (phase_020)]]
 - Originates from [[The Forgiveness Seekers
 - Related: [Assets Locations Location City Quest the Blackmail Papers V1 Quest the Blackmail Papers.svg]]
 - Compare with [[LORE00250_History_Entry_251
 - Related: [Assets Locations Location City Paradox Engineer Zeno Paradox Engineer Zeno.svg]]
-- Requires [[Royal Advisor Wise Counselor
-- Originates from [The Dead Zones]]
-- Influences [[step_068 (phase_081)
-- Connects to [NPC00454_Alaric_Emberfall_the_Fallen]]
+- Requires [[Royal Advisor Wise Counselor]]
+- Influences [[NPC00454_Alaric_Emberfall_the_Fallen]]
 - Compare with
-- Compare with [[The Forgetting Cult (Cults_and_Movements)
-- Affected by [Shield Xphb]]
+- Compare with [[The Forgetting Cult (Cults_and_Movements)]]
 - Requires [[step_028 (phase_024)
 - Compare with [Interfaith Cooperation]]
-- Related: [[NPC00098_Faelyn_Ironforge_the_Seeker
-- Related: [NPC01575_Xander_Silverleaf_the_Cunning]]
+- Related: [[NPC01575_Xander_Silverleaf_the_Cunning]]
 - See also: [[step_095 (phase_032)
 - Leads to [weasel-xmm (beast)]]
 - Connects to [[Deep Mother Influence 2
@@ -233,24 +224,18 @@ Caravan needs guards
 - See also: [Harmonic Defense Grid]]
 - Affected by [[LORE00290_History_Entry_291
 - Originates from [Location City Master Smith Vulcan Deepforge V1 Master Smith Vulcan Deepforge.svg]]
-- Leads to [[The Quantum Accountant (D&D_References)
-- Affected by [NPC00697_Jorah_Stormwind_the_Mystic]]
+- Leads to [[The Quantum Accountant (D&D_References)]]
 - Influences [[step_036 (phase_048)
 - Requires [step_085 (phase_070)]]
 - See also: [[ITEM00212_Cursed_Crossbow_of_Accuracy
 - Compare with [LOC00294_Cities_Location_295]]
-- Influences [[Merchant Council of Port Meridian (D&D_References)
-- Originates from [5 Shared Campaigns]]
-- Parallels [[step_082 (phase_007)
-- Affected by [Artist Wave Creator (D&D_References)]]
-- Requires [[Foreign Merchants (D&D_References)
-- See also: [step_037 (phase_022)]]
-- Requires [[3 Dwarves and Duergar
-- Leads to [NPC00709_Urien_Youngblood_the_Risen]]
+- Influences [[Merchant Council of Port Meridian (D&D_References)]]
+- Parallels [[Artist Wave Creator (D&D_References)]]
+- Requires [[Foreign Merchants (D&D_References)]]
+- Requires [[NPC00709_Urien_Youngblood_the_Risen]]
 - Originates from [[ENC00303_Combat_Encounter_304
 - Related: [location-city-deepsteel-deepsteel.svg]]
-- Requires [[Tribune Cassia
-- See also: [NPC00727_Orion_Lightbringer_the_Bold]]
+- Requires [[NPC00727_Orion_Lightbringer_the_Bold]]
 - Related: [[Portrait NPC the Current Merchants V1 the Current Merchants.svg
 - Parallels [List Spells Optional Features Ride the Wind]]
 - Influences [[Location City the Floating Market the Floating Market.svg

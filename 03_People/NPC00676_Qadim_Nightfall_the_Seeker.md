@@ -168,29 +168,24 @@ Discovered something valuable
 - Connects to [gem-of-seeing-xdmg (items)]]
 - See also: [[The Question Council 2
 - Related: [LOC00066_Towns_Location_67]]
-- Affected by [[ENC00075_Environmental_Encounter_76
-- See also: [SPELL00065_Nature_Spell_66]]
+- Affected by [[ENC00075_Environmental_Encounter_76]]
 - Requires [[Portrait NPC Captain Nerida Stormcrest V2 Captain Nerida Stormcrest.svg
 - Originates from [step_074 (phase_045)]]
 - Connects to [[step_056 (phase_089)
 - Compare with [Werebear Xmm]]
-- Influences [[Master Harvest Engineer Kelp Deepso (D&D_References)
-- Compare with [jackalwere-xmm (fiend)]]
+- Influences [[Master Harvest Engineer Kelp Deepso (D&D_References)]]
 - See also: [[Paradox Legal Counsel 2
 - Originates from [orcish-fury-xge (feats)]]
 - Related: [[.md
 - Compare with [Tashas Hideous Laughter Xphb]]
 - Related: [[step_025 (phase_077)
 - Affected by [S-009_Void_Moan]]
-- Originates from [[LOC00021_Wilderness_Location_22
-- Related: [Viscountess Helena Saltmere (D&D_References)]]
+- Originates from [[Viscountess Helena Saltmere (D&D_References)]]
 - Leads to [[Assets Portraits Portrait NPC Shadow Citizenship Act Shadow Citizenship Act.svg
 - Compare with [Tobias Currentrider]]
 - Requires [[NPC00413_Faelyn_Jadeclaw_the_Cunning
 - Influences [Vehicle Ship Aethermoor Courier Class Airship V1 Aethermoor Courier Class Airship.png]]
-- See also: [[step_015 (phase_070)
-- See also:
-- Leads to [Junior Administrator Elena Efficient]]
+- See also: [[Junior Administrator Elena Efficient]]
 - See also: [[step_061 (phase_035)
 - Related: [step_055 (phase_056)]]
 - Parallels [[NPC01592_Ysara_Hawthorne_the_Broken
@@ -218,8 +213,7 @@ Discovered something valuable
 - Originates from [The Crystal Forest]]
 - Requires [[Basil Prismtender 2
 - Affected by [Location City Adventure Boldexplorer V1 Adventure Boldexplorer.svg]]
-- Originates from [[Crown Jewels (D&D_References)
-- Connects to [step_015 (phase_059)]]
+- Originates from [[Crown Jewels (D&D_References)]]
 - Requires
 - Leads to [[Assets Locations Location City Geometric Tidepools V1 Geometric Tidepools.svg
 - See also:
@@ -235,11 +229,8 @@ Discovered something valuable
 - Affected by [Quest - The Blackmail Papers_3 (01_Adventures)]]
 - Related: [[Innovative Artisa
 - Parallels [Location City Quest Harbor Security Quest Harbor Security.svg]]
-- Influences [[ENC00145_Social_Encounter_146
-- Related:
-- Compare with [Prime Minister Government Leader (D&D_References)]]
-- Affected by [[5 Credits
-- Compare with [ITEM0074_Cursed_Shield_of_the_Dawn]]
+- Influences [[Prime Minister Government Leader (D&D_References)]]
+- Affected by [[ITEM0074_Cursed_Shield_of_the_Dawn]]
 - See also: [[Emergency Protocol 2
 - Originates from [step_088 (phase_027)]]
 - Requires [[List Spells Optional Features Pact of the Chain Xphb
@@ -253,16 +244,14 @@ Discovered something valuable
 - Influences
 - Affected by [[Assets Portraits Portrait NPC Captain Marina Truewater Captain Marina Truewater.svg
 - Related: [Scene Scene Merged Zone Reality Fracture V2 Merged Zone Reality Fracture.svg]]
-- Connects to [[QUEST00107_Side_Quest_108
-- Leads to [Captain Storm Ambushmaster (D&D_References)]]
+- Connects to [[Captain Storm Ambushmaster (D&D_References)]]
 - Leads to [[The Archivist
 - Connects to [LORE00145_History_Entry_146]]
 - Compare with [[step_079 (phase_059)
 - Originates from [LOC00241_Cities_Location_242]]
 - Parallels [[Organizations the Unity Coalition
 - Compare with [Assets Symbols Symbol Heraldry Welfare Director Caretake V1 Welfare Director Caretake.svg]]
-- See also: [[Orc Ilneval Vgm
-- Requires [Professor Darklight (D&D_References)]]
+- See also: [[Professor Darklight (D&D_References)]]
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png

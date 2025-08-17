@@ -170,8 +170,7 @@ Forming expedition to dangerous location
 - Influences [Portrait NPC Tribune Cassia Deepcurrent V1 Tribune Cassia Deepcurrent.svg]]
 - Originates from [[Assets Locations Location City Quest the Portal Crisis Quest the Portal Crisis.svg
 - Related: [medium-armor-master-xphb (feats)]]
-- Requires [[Patrol Boundaryrider
-- See also: [QUEST00114_Personal_Quest_115]]
+- Requires [[QUEST00114_Personal_Quest_115]]
 - Originates from [[Quest - Crystal Corruption_1 (01_Adventures)
 - Influences
 - Related: [step_066 (phase_072)]]
@@ -185,8 +184,7 @@ Forming expedition to dangerous location
 - Connects to [EVENT00090_Magical_Event_91]]
 - Originates from [[Item Artifact Enspelled Armor Level 7 Xdmg V1 Enspelled Armor Level 7 Xdmg.png
 - Related: [Silverscale Consortium]]
-- See also: [[Pale Tincture Xdmg
-- Leads to [ENC00084_Social_Encounter_85]]
+- See also: [[ENC00084_Social_Encounter_85]]
 - Originates from [[Assets Locations Location City the Living Tide Temples the Living Tide Temples.svg
 - Leads to [Assets Locations Location City Triton V1 Triton.svg]]
 - Originates from [[10 Chapter 10 Descent Into the Depths
@@ -198,36 +196,29 @@ Forming expedition to dangerous location
 - Influences [Portrait NPC Banker Titus Goldcurrent Banker Titus Goldcurrent.svg_1 (Portraits)]]
 - Affected by [[Professional Terminology (Lore)
 - Connects to [Ettin Xmm]]
-- Originates from [[Master Resonance Architect Echo Stonewhisper (People)
-- Affected by [LORE0024_Secret_of_the_First_King]]
+- Originates from [[Master Resonance Architect Echo Stonewhisper]]
 - Related: [[LORE00144_History_Entry_145
 - Connects to [Face_the_Ancient_Threat.png]]
 - Originates from [[step_018 (phase_053)
 - Influences [Session Planning Guide (06_Sessions)]]
-- Requires [[NPC00447_Fiora_Nightfall_the_Broken
-- Influences [step_055 (phase_043)]]
+- Requires [[NPC00447_Fiora_Nightfall_the_Broken]]
 - Leads to [[Bubble District 2
 - Affected by [NPC00459_Corvus_Goldleaf]]
 - Influences [[Assets Portraits Portrait NPC Captain Threshold Captain Threshold.svg
 - Originates from [step_062 (phase_100)]]
 - Originates from [[step_056 (phase_050)
 - See also: [step_033 (phase_100)]]
-- See also: [[MON00156_Constructs_Creature_157
-- Requires [step_007 (phase_067)]]
+- See also: [[MON00156_Constructs_Creature_157]]
 - Parallels [[Quaals Feather Token Bird Xdmg
 - Connects to
 - Connects to [List Spells Feats Druidic Warrior Xphb]]
-- Originates from [[LOC00210_Planes_Location_211
-- Affected by [polar-bear-xmm]]
+- Originates from [[LOC00210_Planes_Location_211]]
 - Requires
 - Related: [[symbol-heraldry-the-archivist-v1-the-archivist.svg
 - Compare with [Medical Historian Nautilus Deepscribe]]
-- Influences [[LOC00298_Cities_Location_299
-- See also: [step_082 (phase_055)]]
-- Connects to [[step_091 (phase_039)
-- Connects to [Historical Preservation Society 2]]
-- See also: [[Defense Captain Ironguard (D&D_References)
-- Related: [step_097 (phase_032)]]
+- Influences [[LOC00298_Cities_Location_299]]
+- Connects to [[Historical Preservation Society 2]]
+- See also: [[Defense Captain Ironguard (D&D_References)]]
 - Influences [[QUEST00278_Personal_Quest_279
 - Requires [Intelligence Services 2 (People)]]
 - Connects to [[NPC00761_Aldric_Moonshadow_the_Guardian
@@ -242,8 +233,7 @@ Forming expedition to dangerous location
 - Leads to [Portrait NPC the King S Ears V1 the King S Ears.svg]]
 - Connects to [[Location City Entertainment Industry V1 Entertainment Industry.svg
 - Originates from [creating-a-monster-stat-block-monster-features]]
-- Parallels [[BACKUP_LINKS_FIXED_REPORT
-- Influences [Underground River Systems (D&D_References)]]
+- Parallels [[Underground River Systems (D&D_References)]]
 - Originates from [[Portrait NPC Duke Sterling Truecrystal V2 Duke Sterling Truecrystal.svg
 - Compare with [Assets Locations Location City Guide Helpfulcurrent V1 Guide Helpfulcurrent.svg]]
 - Leads to [[step_082 (phase_033)
@@ -256,8 +246,7 @@ Forming expedition to dangerous location
 - Originates from [Ranger Xphb Monster Slayer Xge]]
 - Influences [[QUEST00006_Personal_Quest_7
 - Originates from [Portrait NPC Deep Mother Priestess Sira Deep Mother Priestess Sira.svg_1 (Portraits)]]
-- Parallels [[step_088 (phase_096)
-- Connects to [Deep Sea Explorer Captain Abyss (D&D_References)]]
+- Parallels [[Deep Sea Explorer Captain Abyss (D&D_References)]]
 - Originates from [[The Forgotten Isles
 
 ## Visual References

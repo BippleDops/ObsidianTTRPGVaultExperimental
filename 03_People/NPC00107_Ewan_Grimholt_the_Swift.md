@@ -169,8 +169,7 @@ Wants rivals investigated
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -188,8 +187,7 @@ Wants rivals investigated
 - Connects to [The Consortium of Five (D&D_References)]]
 - Originates from [[Location City Foam Deepferment Foam Deepferment.svg
 - Compare with [LOC00062_Dungeons_Location_63]]
-- Related: [[NPC01765_Corvus_Jadeclaw_the_Guardian
-- Influences [NPC00316_Caelum_Frostwhisper]]
+- Related: [[NPC01765_Corvus_Jadeclaw_the_Guardian]]
 - Connects to [[Dock Workers Guild
 - See also: [Three Dragon Ante Set Xphb]]
 - Originates from [[magic-item-table-b (tables)
@@ -200,10 +198,8 @@ Wants rivals investigated
 - Related: [quick-matchups-xge (tables)]]
 - Affected by [[Memory Artist Recall (D&D_References)
 - Compare with [portrait-npc-siren-v2-siren.svg_1 (Portraits)]]
-- Originates from [[Current Region
-- Parallels [Lord Aurelius Voidcrown]]
-- Requires [[SPELL00090_Arcane_Spell_91
-- Affected by [Greatsword Xphb]]
+- Originates from [[Lord Aurelius Voidcrown]]
+- Requires [[SPELL00090_Arcane_Spell_91]]
 - Compare with [[Master of Myriad Forms Xphb
 - See also: [Unseen Servant Xphb]]
 - Affected by [[step_074 (phase_022)
@@ -211,10 +207,8 @@ Wants rivals investigated
 - Originates from [[ITEM01176_Concentrated_Potion_of_Swiftness
 - Originates from
 - See also: [location-city-sea-sprite-v1-sea-sprite.svg]]
-- Influences [[Conservatory of Memory (D&D_References)
-- Requires [ENC00151_Social_Encounter_152]]
-- Originates from [[The Tethyan Hegemony (D&D_References)
-- Influences [Challenge Rating Xphb]]
+- Influences [[Conservatory of Memory (D&D_References)]]
+- Originates from [[The Tethyan Hegemony (D&D_References)]]
 - Influences [[Portrait NPC Lord Aldric Thornwhisper V2 Lord Aldric Thornwhisper.svg
 - Affected by [Scholar Temporal Chronos 2]]
 - Requires [[white-abishai-mpmm (fiend)
@@ -227,8 +221,7 @@ Wants rivals investigated
 - Leads to [SPELL00138_Divine_Spell_139]]
 - See also: [[step_036 (phase_030)
 - Originates from [Captain Dr Bloodletting]]
-- Related: [[Noble Leisure Schedules (D&D_References)
-- Parallels [The Kraken's Harbor 2]]
+- Related: [[Noble Leisure Schedules (D&D_References)]]
 - Connects to [[step_099 (phase_038)
 - Affected by [location-city-time-time.svg]]
 - Influences [[Merchant Quarter Guildhalls 2
@@ -241,8 +234,7 @@ Wants rivals investigated
 - Requires [[Financial Institutions 2
 - Influences
 - Leads to [step_032 (phase_044)]]
-- Connects to [[step_023 (phase_024)
-- Influences [Battle_Maps_Gallery 2 (Galleries)]]
+- Connects to [[Battle_Maps_Gallery 2 (Galleries)]]
 - Parallels [[QUEST00113_Side_Quest_114
 - Related: [choose-languages-standard-languages-xphb (tables)]]
 - Requires [[step_011 (phase_087)
@@ -253,8 +245,7 @@ Wants rivals investigated
 - Compare with [step_005 (phase_017)]]
 - See also: [[step_042 (phase_084)
 - Requires [Name Etymology Guide]]
-- Connects to [[The Crystal Concordance
-- Leads to [ENC00187_Social_Encounter_188]]
+- Connects to [[ENC00187_Social_Encounter_188]]
 - Connects to [[hippopotamus-xmm (beast)
 - Affected by
 - Compare with [Assets Locations Location City Depth Merchant S Consortium V1 Depth Merchant S Consortium.svg]]
@@ -264,12 +255,10 @@ Wants rivals investigated
 - Compare with [step_083 (phase_043)]]
 - Related: [[Training Camps 2
 - Connects to [Framing Events]]
-- Leads to [[step_037 (phase_092)
-- Leads to [SPELL00093_Divine_Spell_94]]
+- Leads to [[SPELL00093_Divine_Spell_94]]
 - Influences [[Old Marina Saltwind
 - Requires [Shard Powers and Effects]]
-- Connects to [[LOC00013_Wilderness_Location_14
-- Affected by [Spell Scroll Cantrip Xdmg]]
+- Connects to [[LOC00013_Wilderness_Location_14]]
 - Related:
 - Related: [[sovereign-glue-xdmg (items)
 - Leads to [ITEM00335_Radiant_Crossbow_of_Power]]

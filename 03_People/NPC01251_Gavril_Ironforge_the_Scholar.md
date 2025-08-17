@@ -186,30 +186,24 @@ Needs help with personal quest
 - Compare with [The Norse Pantheon Norse Deities Phb]]
 - Connects to [[ITEM00742_Ancient_Tome_of_Truth
 - Leads to [SHOP00024_Specialty_Shop_25]]
-- Parallels [[step_012 (phase_024)
-- Parallels [NPC00492_Idris_Quicksilver_the_Bold]]
+- Parallels [[NPC00492_Idris_Quicksilver_the_Bold]]
 - Related: [[step_044 (phase_071)
 - Originates from [Gnome Baravar Cloakshadow Mtf]]
-- Originates from [[Symbols - Faction_Heraldry (D&D_References)
-- Requires [step_074 (phase_006)]]
+- Originates from [[Symbols - Faction_Heraldry (D&D_References)]]
 - See also: [[Portrait NPC the Scattered Emperor the Scattered Emperor.svg_1 (Portraits)
 - Affected by [Assets Locations Location City Wave Soothingtouch Wave Soothingtouch.svg]]
-- Leads to [[Divine Communication Studies
-- Affected by [step_059 (phase_011)]]
-- Related: [[Captain Thornback (D&D_References)
-- Parallels [LOC00022_Planes_Location_23]]
+- Leads to [[Divine Communication Studies]]
+- Related: [[Captain Thornback (D&D_References)]]
 - Compare with [[Final Challenge Rating Experience Points by
 - Requires [hippogriff-xmm (monstrosity)]]
-- Related: [[NPC01327_Erasmus_Nightfall_the_Scholar
-- Related: [Underground Guide Marcus Molewalker]]
+- Related: [[NPC01327_Erasmus_Nightfall_the_Scholar]]
 - Affected by [[physical-variations-yuan-ti-scale-pattern-vgm (tables)
 - Related: [Greyhawk Pholtus Xdmg]]
 - Compare with [[step_035 (phase_034)
 - Influences [laboratory]]
 - Compare with [[Monster Lore Vgm
 - Originates from [step_091 (phase_044)]]
-- Leads to [[Political Hardliner
-- Influences [NPC00426_Baelor_Ashford_the_Fallen]]
+- Leads to [[NPC00426_Baelor_Ashford_the_Fallen]]
 - Parallels [[Enspelled Armor Level 6 Xdmg
 - Connects to
 - Affected by [ITEM01360_Masterwork_Map_Case_of_Reliability]]
@@ -223,12 +217,10 @@ Needs help with personal quest
 - Leads to [fomorian-xmm (giant)]]
 - Connects to [[ITEM00137_Thunder_Dagger_of_Slaying
 - Parallels [step_013 (phase_030)]]
-- Influences [[step_087 (phase_043)
-- Requires [ENC00304_Combat_Encounter_305]]
+- Influences [[ENC00304_Combat_Encounter_305]]
 - See also: [[sling-bullet-xphb (items)
 - Compare with [SPELL00103_Nature_Spell_104]]
-- Compare with [[Silvered Weapon Xdmg
-- Affected by [ENC00273_Social_Encounter_274]]
+- Compare with [[ENC00273_Social_Encounter_274]]
 - Parallels [[random-settlements-notable-traits (tables)
 - Leads to [NPC00106_Gareth_Winterborn]]
 - Leads to [[Smiths Tools Xphb
@@ -237,14 +229,11 @@ Needs help with personal quest
 - Originates from [Lord Goldhand]]
 - Requires [[step_058 (phase_006)
 - See also: [location-city-shadow-current-v1-shadow-current.svg]]
-- Parallels [[ITEM00098_Shadow_Hammer_of_Accuracy
-- Affected by [LORE0021_Legend_of_the_Hero's_Sacrifice]]
+- Parallels [[LORE0021_Legend_of_the_Hero's_Sacrifice]]
 - Connects to [[SPELL00029_Arcane_Spell_30
 - Affected by [Political Risk Assessment]]
-- Influences [[ENC00034_Social_Encounter_35
-- Parallels [step_070 (phase_042)]]
-- Parallels [[The Unity Seeds
-- Parallels [High Priestess Celeste Dawnbringer (D&D_Statblocks)]]
+- Influences [[ENC00034_Social_Encounter_35]]
+- Parallels [[High Priestess Celeste Dawnbringer (D&D_Statblocks)]]
 - Connects to [[Timeline_Tracker.base 2
 - Originates from [step_080 (phase_084)]]
 - Parallels [[Light Gardeners

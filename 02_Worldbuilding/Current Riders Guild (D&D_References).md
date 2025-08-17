@@ -61,24 +61,10 @@ The guild maintains extensive breeding programs for:
 
 During the annual [[Pelagic Cup racing competition, several guild mounts fall ill with mysterious symptoms. Players must investigate potential sabotage by rival courier services or uncover connections to [The Depth Plague]]. ### Diplomatic Emergency (Level 7-9)
 
-War threatens between [[Triton city-states. The guild needs experienced adventurers to escort their most skilled diplomat through hostile waters controlled by [Deep Ones]] and deliver peace negotiations to [[The Sunken Senate. ### Guild Membership Benefits
+War threatens between [[Triton city-states. The guild needs experienced adventurers to escort their most skilled diplomat through hostile waters controlled by [Deep Ones]] and deliver peace negotiations to [[The Sunken Senate]], [[The Twilight Gardens]], and [[The Pearl Markets]], creating a comprehensive network spanning the known regions of Aquabyssos. ## Player-Facing Summary Current Riders Guild is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Current Riders Guild as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Current Riders Guild. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes ## Plot Hooks - A prisoner has gone missing and evil awakens
 
-Characters who join the Current Riders Guild (requires proficiency in Animal Handling and either Athletics or Survival) gain: - **Faction Renown System** - Advance through guild ranks
-- **Mount Access** - Reduced rates for mount rental and care
-- **Information Network** - Advantage on Intelligence (Investigation) checks regarding recent events across Aquabyssos
-- **Safe Havens** - Guild facilities provide sanctuary in major settlements ### Guild Rank Progression
-
-1. **Apprentice Rider** (0-3 renown)
-2. **Current Rider** (4-10 renown) 3. **Swift Rider** (11-25 renown)
-4. **Master Courier** (26+ renown) ## Connected Locations
-
-The Current Riders Guild maintains outposts in [Port Abyssos]], [[The Twilight Gardens, [Fort Nautilus]], and [[The Pearl Markets]], creating a comprehensive network spanning the known regions of Aquabyssos. ## Player-Facing Summary Current Riders Guild is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Current Riders Guild as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Current Riders Guild. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes ## Plot Hooks - A prisoner has gone missing and evil awakens
-
-- A stranger needs help finding before winter ## Related Notes - [[Similar Topic 1
-
-- [Contrasting Approach]]
-- [[Advanced Version
-- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
+- A stranger needs help finding before winter ## Related Notes - [[Contrasting Approach]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

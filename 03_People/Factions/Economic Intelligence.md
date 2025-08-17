@@ -154,5 +154,4 @@ Things widely suspected
 
 - [[Merchant's Covenant
 - [Eastern Kingdoms (02_Worldbuilding)]]
-- [[Tenebrarum Embassy
-- [Merchant's Covenant (D&D_References)]]
+- [[Merchant's Covenant (D&D_References)]]

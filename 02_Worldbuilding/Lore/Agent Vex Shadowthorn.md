@@ -1,7 +1,6 @@
 ---
 
-title: Agent [[Vex Shadowthorn
-type: [Lore]]
+title: Agent [[Vex Shadowthorn]]
 tags:
 - lore
 - worldbuilding

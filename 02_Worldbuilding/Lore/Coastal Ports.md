@@ -32,4 +32,4 @@ Further information about this topic will be developed as the campaign progresse
 - [Clues by Location (Lore)]]
 - [[Clues_by_Location.png
 - [Create_New_Location.png]]
-- [[Location_Network_Graph.md]]
+- [[Location_Network_Graph]]

@@ -279,11 +279,8 @@ Mentioned in The First Prophecy of Winds
 ## References
 
 - [Assets Locations Location City Court Herald Master Proclamation Crownvoice Court Herald Master Proclamation Crownvoice.svg]]
-- [[Memory Harvester Kythara
-- [Oracle]]
+- [[Memory Harvester Kythara]]
 - [[The Sorrowmaster
 - [Tribune Cassia Deepcurrent]]
-- [[Tribune Cassia Deepcurrent (D&D_References)
-- [Memory Harvester Kythara (D&D_Statblocks)]]
-- [[Oracle (D&D_Statblocks)
-- [The Sorrowmaster (D&D_Statblocks)]]
+- [[Tribune Cassia Deepcurrent (D&D_References)]]
+- [[The Sorrowmaster (D&D_Statblocks)]]

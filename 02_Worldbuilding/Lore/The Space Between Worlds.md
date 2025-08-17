@@ -52,6 +52,5 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[Comprehensive-World-Connection-Guide
-- [Session 09 the Shard Convergence]]
+- [[Comprehensive-World-Connection-Guide]]
 - [[Shard_Locations (D&D_Sourcebooks)]]

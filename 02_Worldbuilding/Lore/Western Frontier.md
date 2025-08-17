@@ -30,4 +30,4 @@ Further information about this topic will be developed as the campaign progresse
 ## References
 
 - [Key Locations]]
-- [[Clues by Location (Lore)]]
+- [[Clues by Location]]

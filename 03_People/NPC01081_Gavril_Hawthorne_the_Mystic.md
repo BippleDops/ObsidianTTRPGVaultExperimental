@@ -172,8 +172,7 @@ Has map to lost treasure
 - Compare with [[Assets Locations Location City the Shadow Markets New the Shadow Markets New.svg
 - Connects to
 - Connects to [step_026 (phase_061)]]
-- Affected by [[item properties#Silvered%20Weapons
-- Affected by [NPC01614_Felicia_Lightbringer_the_Mystic]]
+- Affected by [[Item Properties]]
 - Related: [[ITEM00102_Blazing_Hammer_of_the_Ancients
 - Related: [repelling-blast-xphb (optional-features)]]
 - Requires [[05-creating-nonplayer-characters (dungeon-masters-guide-2014)
@@ -190,8 +189,7 @@ Has map to lost treasure
 - Compare with [LORE00128_Legends_Entry_129]]
 - Leads to [[The Great Circuit 2
 - Connects to [ENC0002_Random_Encounter_3]]
-- Connects to [[Current Scene
-- Compare with [Gem Deepseeker (D&D_References)]]
+- Connects to [[Gem Deepseeker (D&D_References)]]
 - Requires [[Pressure Guard Steelwall
 - See also: [duergar-raiding-parties-duergar-group-leader-mtf]]
 - Leads to [[burning-hands-xphb (spells)
@@ -228,35 +226,28 @@ Has map to lost treasure
 - Related: [ITEM00625_Mithril_Gauntlets_of_Fortitude]]
 - Originates from [[greek-pan (deities)
 - Compare with [thorn-whip-xphb (spells)]]
-- Compare with [[02-chapter-1-playing-the-game (players-handbook-2024)
-- Related: [Chain Shirt Xphb]]
+- Compare with [[02-chapter-1-playing-the-game (players-handbook-2024)]]
 - Requires [[Assets Locations Location City Culinary Dreamweaver Sage Gentlespice Culinary Dreamweaver Sage Gentlespice.svg
 - Affected by [ITEM00440_Ethereal_Gauntlets_of_Resistance]]
 - Related:
 - See also: [[Symbol Heraldry Sister Benthos Scrollheart Sister Benthos Scrollheart.svg
 - Compare with [Location City Harbor Master Nereid Deepcurrent V1 Harbor Master Nereid Deepcurrent.svg]]
-- Influences [[step_055 (phase_004)
-- Connects to [Face the Ancient Threat (D&D_References)]]
+- Influences [[Face the Ancient Threat (D&D_References)]]
 - Related: [[Constitutional Architect Dr. Harmony Lawbright
 - See also: [Assets Locations Location City Gentle Currentguide V1 Gentle Currentguide.svg]]
-- Connects to [[The Neutral Tavern (D&D_References)
-- Connects to [LOC00015_Planes_Location_16]]
+- Connects to [[The Neutral Tavern (D&D_References)]]
 - Requires [[Depth Moss 2
 - Influences [Assets Portraits Portrait NPC Abyssos Prime Government Abyssos Prime Government.svg]]
-- Leads to [[SPELL00093_Divine_Spell_94
-- Parallels [step_032 (phase_033)]]
+- Leads to [[SPELL00093_Divine_Spell_94]]
 - Leads to [[ITEM00838_Infernal_Crown_of_Destiny
 - Requires [The Broken Tower 2]]
 - See also: [[QUEST00132_Main_Quest_133
 - Influences [Adjudicating Areas of Effect Targets in Area]]
 - See also: [[Quality Inspector Gem Precisiontest
 - Related: [Location City Court Manager Noble Court Manager Noble.svg]]
-- Parallels [[Pelagic Cup (D&D_References)
-- Connects to [step_058 (phase_018)]]
-- Requires [[Ring of Water Walking Xdmg
-- Compare with [Current Bridgewater (D&D_References)]]
-- Leads to [[skills-with-different-abilities-phb (variant-rules)
-- Affected by [Void-Touched Equipment]]
+- Parallels [[Pelagic Cup (D&D_References)]]
+- Requires [[Current Bridgewater (D&D_References)]]
+- Leads to [[skills-with-different-abilities-phb (variant-rules)]]
 - Requires [[ITEM0135_Hidden_Blade_of_Shadows
 - Leads to
 - Requires [Creature Creature Young Green Dragon Xmm V2 Young Green Dragon Xmm.png]]

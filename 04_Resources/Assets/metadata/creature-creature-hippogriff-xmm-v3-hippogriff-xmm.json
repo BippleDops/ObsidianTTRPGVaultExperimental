@@ -25,5 +25,8 @@
   "alt_text": "Concept art of hippogriff-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-hippogriff-xmm-v3-hippogriff-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-hippogriff-xmm-v3-hippogriff-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:04:37.815Z",
+  "generationMethod": "ComfyUI"
 }

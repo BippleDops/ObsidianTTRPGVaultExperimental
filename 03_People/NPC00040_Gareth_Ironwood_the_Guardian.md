@@ -161,8 +161,7 @@ Requires champions for trial by combat
 - Leads to [Assets Locations Location City Prismatic Crystal V1 Prismatic Crystal.svg]]
 - Connects to [[step_077 (phase_045)
 - Parallels [Torpor Xdmg]]
-- Compare with [[step_057 (phase_035)
-- Originates from [Goldspire Expedition (D&D_References)]]
+- Compare with [[Goldspire Expedition (D&D_References)]]
 - Originates from [[purple-worm-xmm (monstrosity)
 - Compare with [Assets Locations Location City Madame Rosalind Goldleaf V1 Madame Rosalind Goldleaf.svg]]
 - Affected by [[Archaeological Discoveries 2
@@ -180,18 +179,14 @@ Requires champions for trial by combat
 - Affected by [step_080 (phase_067)]]
 - Related: [[Medical Cover Operations Center
 - Affected by [Quest - The Deepest Current_1 (01_Adventures)]]
-- See also: [[step_024 (phase_073)
-- Requires [Political Parties of Aquabyssos 2]]
-- See also: [[Great Silence 2
-- Connects to [Shadow Integration Policy 2]]
+- See also: [[Political Parties of Aquabyssos 2]]
+- See also: [[Shadow Integration Policy 2]]
 - Influences [[step_018 (phase_066)
 - Related: [Portrait NPC Blood in the Water Blood in the Water.svg_1 (Portraits)]]
 - Compare with [[Bead of Nourishment Xdmg
 - Affected by [step_017 (phase_063)]]
-- Compare with [[International Pressure 2
-- Affected by [Pilgrim Guide Samuel Walkingfaith]]
-- Related: [[step_087 (phase_084)
-- Influences [Corrupted Merrow (D&D_References)]]
+- Compare with [[Pilgrim Guide Samuel Walkingfaith]]
+- Related: [[Corrupted Merrow (D&D_References)]]
 - Parallels [[Marina Administration Center
 - Originates from [New Thalassopolis 2]]
 - Originates from [[step_041 (phase_074)
@@ -201,14 +196,11 @@ Requires champions for trial by combat
 - Requires [Location City the Banker Fish V1 the Banker Fish.svg]]
 - Influences [[Assets Locations Location City Sommelier Bacchus Deepbottle Sommelier Bacchus Deepbottle.svg
 - Related: [04_Resources_Assets_Portraits_portrait-npc-director-of-experimental-procedures-dr-siren-voidtouch-director-of-experimental-procedures-dr-siren-voidtouch.svg_Quick_Ref]]
-- Requires [[NPC01764_Baelor_Brightblade_the_Lost
-- Parallels [Scout Captain Vera Deepwatch (D&D_References)]]
+- Requires [[Scout Captain Vera Deepwatch (D&D_References)]]
 - Leads to [[LORE00207_Prophecies_Entry_208
 - Influences [step_033 (phase_076)]]
-- Leads to [[ENC00238_Combat_Encounter_239
-- Leads to [step_099 (phase_028)]]
-- Connects to [[Aether Crystals 2
-- Requires [Futures Master Economic-Sense (D&D_References)]]
+- Leads to [[ENC00238_Combat_Encounter_239]]
+- Connects to [[Futures Master Economic-Sense (D&D_References)]]
 - Originates from [[Portrait NPC Quest the Void Conspiracy V2 Quest the Void Conspiracy.png
 - Requires
 - Related: [NPC01099_Felicia_Proudmore_the_Seeker]]
@@ -232,23 +224,18 @@ Requires champions for trial by combat
 - Originates from
 - See also: [[Dimensional Anchor Technology
 - See also: [Roleplaying a Beholder Beholder Bonds Vgm]]
-- Affected by [[The Consciousness Mirror
-- Compare with [Locations the Meditation Spheres]]
+- Affected by [[Locations the Meditation Spheres]]
 - Parallels
 - Parallels [[step_069 (phase_097)
 - Compare with [step_020 (phase_095)]]
 - Originates from [[Razorvine Xdmg
 - Leads to [Creature Creature Young Green Dragon Xmm Young Green Dragon Xmm.png]]
-- Related: [[Houses_and_Nobility - House Brightshield
-- Leads to [Eberron the Mockery]]
-- Requires [[Emergency Navigation Coordinator Storm Guidewright
-- Requires [step_010 (phase_057)]]
-- Parallels [[step_052 (phase_006)
-- Related: [High Administrator Cornelius Protocols (D&D_References)]]
+- Related: [[Houses_and_Nobility - House Brightshield]]
+- Requires [[Emergency Navigation Coordinator Storm Guidewright]]
+- Parallels [[High Administrator Cornelius Protocols (D&D_References)]]
 - Leads to [[initiative-variants (variant-rules)
 - Leads to [book-of-vile-darkness-xdmg (items)]]
-- Connects to [[step_040 (phase_065)
-- Related: [Pressure Specialist Dr. Marina Deepcurrent]]
+- Connects to [[Pressure Specialist Dr. Marina Deepcurrent]]
 - Leads to [[Institute of Living Sciences (Lore)
 - Parallels
 - Related: [step_080 (phase_079)]]

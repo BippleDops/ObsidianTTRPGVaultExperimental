@@ -52,8 +52,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [Comprehensive-World-Connection-Guide]]
-- [[Economic Systems and Currency
-- [Multi-Phase Boss Fights]]
-- [[The Crystal Shard
-- [The Seven Shards Mystery]]
+- [[Economic Systems and Currency]]
+- [[The Seven Shards Mystery]]
 - [[The Lock Saboteur]]

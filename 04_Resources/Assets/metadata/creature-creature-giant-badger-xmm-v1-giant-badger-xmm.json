@@ -25,5 +25,8 @@
   "alt_text": "Concept art of giant-badger-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-giant-badger-xmm-v1-giant-badger-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-giant-badger-xmm-v1-giant-badger-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:02:44.139Z",
+  "generationMethod": "ComfyUI"
 }

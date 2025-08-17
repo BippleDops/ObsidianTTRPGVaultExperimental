@@ -67,9 +67,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [Aquabyssos World Overview#The Void Touched]]
-- [[Entities Void Touched Crystals
-- [Void Touched Sanctum]]
-- [[Void-Touched Equipment
-- [Void-touched Assassins]]
-- [[The Void Touched Depths
-- [Void Touched Pilgrims]]
+- [[Entities Void Touched Crystals]]
+- [[Void-touched Assassins]]
+- [[The Void Touched Depths]]

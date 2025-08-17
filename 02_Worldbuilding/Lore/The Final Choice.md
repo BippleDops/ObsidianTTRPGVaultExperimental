@@ -101,15 +101,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-### Death_Customs Improvements
-
-- Detail funeral rites and afterlife beliefs
-
-## Overview
-
-The Final Choice represents the culmination of every conspiracy, secret organization, and hidden agenda operating within [Aethermoor]] and [[Aquabyssos. This is not merely another plot or scheme, but the ultimate convergence point where all previous conspiracies reveal themselves as interconnected elements of a singular, reality-defining decision that must be made to prevent the total collapse of both worlds.
+- Describe how this culture exists in other [[region]] and [[Aquabyssos. This is not merely another plot or scheme, but the ultimate convergence point where all previous conspiracies reveal themselves as interconnected elements of a singular, reality-defining decision that must be made to prevent the total collapse of both worlds.
 
 Unlike conventional conspiracies driven by greed, power, or revenge, The Final Choice conspiracy is orchestrated by entities that transcend normal mortal concerns. The true conspirators include [The Deep Mother]], ancient remts of [[The Seven Betrayers, corrupted aspects of [The Silverscale Conspiracy]], and even more alien intelligences that exist between dimensions. Their goal is not to control reality, but to fundamentally rewrite the rules that govern existence itself.
 
@@ -527,6 +519,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## References
 
 - [Timeline of Crimes]]
-- [[The Crown's Burden
-- [Evidence Chain Analysis]]
+- [[Evidence Chain Analysis]]
 - [[Timeline of Crimes (D&D_References)]]

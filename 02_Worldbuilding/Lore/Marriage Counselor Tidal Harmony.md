@@ -1,7 +1,6 @@
 ---
 
-title: Marriage Counselor [[Tidal Harmony
-type: [Lore]]
+title: Marriage Counselor [[Tidal Harmony]]
 tags:
 - lore
 - worldbuilding

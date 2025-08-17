@@ -172,13 +172,11 @@ Being extorted by criminals
 - Originates from [ENC00216_Combat_Encounter_217]]
 - Requires [[efreeti-bottle-xdmg (items)
 - See also: [LOC00196_Dungeons_Location_197]]
-- Requires [[Unite_the_Two_Worlds.png
-- See also: [Pressure-Responsive Fabrics (D&D_References)]]
+- Requires [[Pressure-Responsive Fabrics (D&D_References)]]
 - Connects to
 - Leads to [[ITEM01402_Practical_Spyglass_of_Durability
 - Related: [Assets Locations Location City Shadow Market Canals Shadow Market Canals.svg]]
-- Connects to [[Commander Drake Pressureborn
-- Requires [step_015 (phase_023)]]
+- Connects to [[Commander Drake Pressureborn]]
 - Affected by [[End Session
 - See also: [step_084 (phase_079)]]
 - Compare with [[Copper Dragon Wyrmling Xmm
@@ -187,22 +185,16 @@ Being extorted by criminals
 - Affected by [Symbol Heraldry Political Parties of Aquabyssos V1 Political Parties of Aquabyssos.svg]]
 - Compare with [[SHOP00008_General_Shop_9
 - Parallels [Shadow Broker Mirrors]]
-- Affected by [[The Corrupted Admiralty 2
-- Parallels [Post-Revolutionary Society Vision (D&D_References)]]
-- Parallels [[step_100 (phase_024)
-- Related: [Emergency Protocols Cente]]
-- Influences [[step_037 (phase_061)
-- Affected by [Sundered Steel (D&D_References)]]
-- Originates from [[The Azure Fleet Corporation (D&D_References)
-- Influences [ITEM00262_Radiant_Spear_of_Speed]]
+- Affected by [[Post-Revolutionary Society Vision (D&D_References)]]
+- Parallels [[Emergency Protocols Cente]]
+- Influences [[Sundered Steel (D&D_References)]]
+- Originates from [[The Azure Fleet Corporation (D&D_References)]]
 - Related: [[Memory Meadows 2
 - Originates from [Secret Doors Xdmg]]
 - Requires [[Location City Temporal Magic Research V1 Temporal Magic Research.svg
 - Leads to [NPC00882_Alaric_Dawnstrider_the_Scholar]]
-- Affected by [[efreeti-chain-xdmg (items)
-- Connects to [LOC00235_Wilderness_Location_236]]
-- Originates from [[NPC01078_Felicia_Oakenshield_the_Wise
-- Parallels [step_013 (phase_011)]]
+- Affected by [[LOC00235_Wilderness_Location_236]]
+- Originates from [[NPC01078_Felicia_Oakenshield_the_Wise]]
 - Leads to [[Surface Traders (D&D_References)
 - Originates from [Symbol Heraldry Information Broker Whisper Goldtongu Information Broker Whisper Goldtongu.svg]]
 - Affected by [[Cleaning Fish
@@ -216,16 +208,12 @@ Being extorted by criminals
 - Leads to [The Opposition Leader (D&D_References)]]
 - Leads to [[The Observatory 2
 - Originates from [step_068 (phase_004)]]
-- Related: [[The Convergence Oracle
-- Leads to [Madame Rosalind Goldleaf (D&D_Statblocks)]]
-- Connects to [[step_031 (phase_030)
-- Compare with [Harbor Master's Tower (D&D_References)]]
-- Originates from [[Breath of Winter
-- Related: [MON00096_Aberrations_Creature_97]]
+- Related: [[Madame Rosalind Goldleaf (D&D_Statblocks)]]
+- Connects to [[Harbor Master's Tower (D&D_References)]]
+- Originates from [[MON00096_Aberrations_Creature_97]]
 - Originates from [[ENC00239_Combat_Encounter_240
 - See also: [Portrait NPC Lord Aldric Thornwhisper V2 Lord Aldric Thornwhisper.svg]]
-- Related: [[Basket Xphb
-- Leads to [skill-variants (variant-rules)]]
+- Related: [[skill-variants (variant-rules)]]
 - Compare with [[step_025 (phase_042)
 - Connects to [ITEM00718_Void-touched_Mirror_of_Destiny]]
 - Parallels [[ENC00147_Social_Encounter_148
@@ -251,8 +239,7 @@ Being extorted by criminals
 - Originates from [adult-black-dragon-xmm]]
 - Affected by [[QUEST0075_The_Cursed_Alliance
 - Connects to [Crystal-Powered Vessels 2]]
-- Requires [[feather-fall-xphb (spells)
-- See also: [Crystal Throne (D&D_References)]]
+- Requires [[Crystal Throne (D&D_References)]]
 - Influences [[Quiet Haven (D&D_References)
 - Requires [Location City Quartermaster Judith Supplycurrent Quartermaster Judith Supplycurrent.svg]]
 - Leads to [[List Spells Optional Features Master of Myriad Forms Xphb

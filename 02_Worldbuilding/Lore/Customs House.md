@@ -99,12 +99,7 @@ improvements: 20
 
 The Customs House stands as one of the most unusual and important buildings in either world—a facility that exists simultaneously in both [[Aethermoor and [Aquabyssos]], serving as the primary checkpoint for the growing trade between realities. Located at a stable [[Merged Reality Zones, this imposing structure facilitates legal commerce while serving as the front line against interdimensional smuggling, illegal immigration, and the spread of dangerous artifacts.
 
-Originally built as separate facilities on both sides of a dimensional weak point, the buildings gradually merged as reality barriers weakened, creating a unique architectural marvel where crystal spires extend underwater while [Coral]] formations grow in open air. The Customs House has become a symbol of cooperation between worlds, even as political tensions rise and [[The Convergence Point approaches.
-
-### Dual Architecture
-
-**The Aethermoor Side (The Crystal Gate)**
-The [Aethermoor]] portion features traditional crystal architecture with practical modifications:
+Originally built as separate facilities on both sides of a dimensional weak point, the buildings gradually merged as reality barriers weakened, creating a unique architectural marvel where crystal spires extend underwater while [Coral]] formations grow in open air. The Customs House has become a symbol of cooperation between worlds, even as political tensions rise and [[The Convergence Point]] portion features traditional crystal architecture with practical modifications:
 - **Main Structure**: Five-story crystal spire with administrative offices and inspection facilities
 - **Processing Halls**: Large chambers where goods are examined using crystal-based detection magic
 - **Storage Vaults**: Secure warehouses for quarantined or disputed items
@@ -199,13 +194,11 @@ The Customs House serves as an intelligence hub:
 - Expert in crystal-based security systems and reality stabilization
 - Coordinates with [[The Crystal Guard Elite for security operations
 - Maintains direct communication with [Crystalhaven]] government
-- Increasingly concerned about political use of customs [[data
-
-**[Deputy Inspector Pressure-Tide Jonas]]** (Aquabyssos Representative)
+- Increasingly concerned about political use of customs [[Deputy Inspector Pressure-Tide Jonas]]** (Aquabyssos Representative)
 - Veteran enforcement officer with enhanced pressure adaptation
 - Specialist in memory-based contraband detection techniques
 - Coordinates with Aquabyssos maritime patrol units
-- [[reports to [Parliament of Echoes]] security committee
+- [[Parliament of Echoes]] security committee
 - Struggles with conflicting loyalties as tensions increase
 
 ### Security Forces
@@ -449,7 +442,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Harbor District Customs House
-- [Port Meridian - Merchant Quarter]]
-- [[Aethermoor - Session 01 Blood in the Harbor
-- [Port Meridian - Merchant Quarter (D&D_References)]]
+- [[Port Meridian - Merchant Quarter]]
+- [[Port Meridian - Merchant Quarter (D&D_References)]]

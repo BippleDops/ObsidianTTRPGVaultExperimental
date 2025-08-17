@@ -11,5 +11,8 @@
     "animated",
     "generated"
   ],
-  "created": "2025-08-16T16:58:15.206Z"
+  "created": "2025-08-16T16:58:15.206Z",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:55:35.314Z",
+  "generationMethod": "ComfyUI"
 }

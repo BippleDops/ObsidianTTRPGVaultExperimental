@@ -81,7 +81,7 @@ This relates to the deep realm of Deepest ocean trenches and underwater kingdoms
 - **Capital**: [Pearlheart Palace]]
 - **Primary Magic**: Tidal control, pressure magic, bioluminescence
 - **Current Conflict**: The Crushing Dark, Surface Wars
-- **Key Locations**: [[Abyssal Trenches, [Coral Throne]]
+- **Key Locations**: [[Abyssal Trenches]]
 
 In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens
 build cities of living coral and navigate by bioluminescent paths.

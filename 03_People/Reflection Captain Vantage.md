@@ -299,5 +299,4 @@ ___
 - [Assets Symbols Symbol Heraldry Family Retaine Family Retaine.svg]]
 - [[Assets Symbols Symbol Heraldry the Void Watchers the Void Watchers.svg
 - [Captain Marrow Drinker]]
-- [[Captain Marrow Drinker (D&D_References)
-- [Shadow Broker Mirrors]]
+- [[Captain Marrow Drinker (D&D_References)]]

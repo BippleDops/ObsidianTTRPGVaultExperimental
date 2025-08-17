@@ -160,15 +160,12 @@ Seeks rare merchandise
 ## Connections
 
 - Requires
-- Requires [[The Forgotten Mourner (D&D_References)
-- Originates from [The Consciousness Vault]]
+- Requires [[The Forgotten Mourner (D&D_References)]]
 - Requires
 - Connects to [[Portrait NPC Surface Supremacists V1 Surface Supremacists.svg_1 (Portraits)
 - Compare with [Commander Transparent]]
-- Related: [[step_093 (phase_084)
-- Requires [LOC00103_Cities_Location_104]]
-- Connects to [[LORE0023_Myth_of_the_Ancient_Pact
-- Parallels [step_063 (phase_085)]]
+- Related: [[LOC00103_Cities_Location_104]]
+- Connects to [[LORE0023_Myth_of_the_Ancient_Pact]]
 - Originates from [[location-city-sea-horse-v1-sea-horse.svg
 - Compare with [location-city-deepstone-v1-deepstone.svg]]
 - Leads to
@@ -213,38 +210,29 @@ Seeks rare merchandise
 - See also: [NPC01985_Gavril_Grimholt_the_Strong]]
 - See also: [[ITEM00420_Fortified_Boots_of_Grace
 - Originates from [step_077 (phase_084)]]
-- Requires [[Portrait NPC Duke... Related To: Local Political Structure Connected Plots: to Be Developed
-- Influences [ITEM01302_Simple_Lock_of_Durability]]
+- Requires [[Portrait NPC Duke... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[Manual of Flesh Golems Xdmg
 - Compare with [ITEM00276_Cursed_Sword_of_Wounding]]
-- Compare with [[step_014 (phase_074)
-- Leads to [NPC00601_Vesper_Ironwood_the_Guardian]]
-- Connects to [[ENC00254_Combat_Encounter_255
-- Influences [Port Meridian - Market Square (D&D_References)]]
+- Compare with [[NPC00601_Vesper_Ironwood_the_Guardian]]
+- Connects to [[Port Meridian - Market Square (D&D_References)]]
 - Affected by [[step_075 (phase_067)
 - Parallels [eyes-of-charming-xdmg (items)]]
-- Connects to [[Master Investigator Lysander Truthweaver
-- Related: [Heritage Keeper Memoryshade 2]]
-- Leads to [[Provincial Administrative Centers
-- Parallels [Location_Prompts]]
-- Leads to [[Deep Water Rescue Service
-- See also: [Emerald Xdmg]]
+- Connects to [[Master Investigator Lysander Truthweaver]]
+- Leads to [[Provincial Administrative Centers]]
+- Leads to [[Deep Water Rescue Service]]
 - Connects to
-- Related: [[Dream Enhancement Techniques
-- Affected by [Bio-Magical Integration Laboratory]]
+- Related: [[Bio-Magical Integration Laboratory]]
 - Compare with [[Assets Locations Location City Senior Nurse Polyp Tendercurrent V1 Senior Nurse Polyp Tendercurrent.svg
 - Leads to
 - Connects to [step_017 (phase_042)]]
-- Originates from [[ITEM0021_Forgotten_Crown_of_Power
-- Influences [QUEST00116_Main_Quest_117]]
+- Originates from [[ITEM0021_Forgotten_Crown_of_Power]]
 - Influences [[step_047 (phase_054)
 - Affected by [Location City Port Meridian Market District Port Meridian Market District.svg]]
 - Originates from [[portrait-npc-verdant-shard-verdant-shard.svg_1 (Portraits)
 - Requires [Halfling Tables Halfling Personality Traits]]
 - Connects to [[Infected Experiments
 - Compare with [SPELL00092_Nature_Spell_93]]
-- Leads to [[step_074 (phase_089)
-- Influences [The Bone Palace of Sorrows (D&D_References)]]
+- Leads to [[The Bone Palace of Sorrows (D&D_References)]]
 - Requires [[Festival Coordinator Luna Celebration (People)
 - Requires [Location City Quest Portal Conspiracy V1 Quest Portal Conspiracy.svg]]
 - Originates from [[Brontosaurus Mpmm
@@ -256,8 +244,7 @@ Seeks rare merchandise
 - Related: [The Deserter (D&D_References)]]
 - Connects to [[Crystal Garden
 - Influences [Pike Xphb]]
-- Compare with [[silver-dragon (legendary-group)
-- See also: [step_072 (phase_075)]]
+- Compare with [[silver-dragon (legendary-group)]]
 - See also: [[NPC01096_Lyanna_Proudmore_the_Redeemed
 
 ## Visual References

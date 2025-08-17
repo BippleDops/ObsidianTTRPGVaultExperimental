@@ -235,5 +235,4 @@ What they claim to pursue
 
 ## References
 
-- [[Reputation System
-- [The Living Weapon]]
+- [[The Living Weapon]]

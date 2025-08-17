@@ -103,7 +103,7 @@ Former associate of the party's patron
 ## [See Also]]
 - [[Character_Journals]]]]
 - [[NPC01894_Aldric_Lightbringer_the_Bold]]
-- [[NPC00317_Pyria_Blackstone_the_Redeemed]] Know - [[Abyssos Prime.md]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]] Know - [[Abyssos Prime]]
 - [[NPC00385_Qadim_Darkwater_the_Cunning]]
 - [[NPC00661_Corvus_Darkwater_the_Broken]]]]
 - [[NPC01151_Orion_Stormwind_the_Seeker]]

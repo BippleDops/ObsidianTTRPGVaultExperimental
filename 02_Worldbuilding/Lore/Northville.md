@@ -30,4 +30,4 @@ Further information about this topic will be developed as the campaign progresse
 ## References
 
 - [Location_Name.png]]
-- [[Location_Network_Graph.md]]
+- [[Location_Network_Graph]]

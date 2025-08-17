@@ -160,14 +160,12 @@ Discovered something valuable
 
 - Affected by [[FAC00018_Cults_19
 - Originates from [step_017 (phase_082)]]
-- Affected by [[MON00014_Undead_Creature_15
-- Influences [Hereditary Houses]]
+- Affected by [[MON00014_Undead_Creature_15]]
 - Requires [[NPC0068_Cormac_Ironforge
 - Related: [Assets Locations Location City the Living Quarters V1 the Living Quarters.svg]]
 - Requires [[QUEST00252_Personal_Quest_253
 - Related: [Shadow Markets 2]]
-- Related: [[ITEM01090_Superior_Potion_of_Vigor
-- See also: [NPC01361_Erasmus_Moonshadow_the_Seeker]]
+- Related: [[NPC01361_Erasmus_Moonshadow_the_Seeker]]
 - Affected by [[layers-of-arborea-xdmg (tables)
 - Requires [Assets Locations Location City Echo Keeper Selin Echo Keeper Selin.svg]]
 - Connects to
@@ -179,12 +177,9 @@ Discovered something valuable
 - Requires [[Eye Patch Decorated with Tiny Blue Sapphires and Moonstones Xdmg
 - Requires
 - Originates from [illusory-dragon-xge (spells)]]
-- Related: [[04_Resources
-- Leads to [SPELL0039_Primal_Storm]]
-- Influences [[High Priest Absence
-- See also: [Portrait NPC the ... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- Influences [[Crystal Storm Barriers (D&D_References)
-- Affected by [Memory Meadows Black Market (D&D_References)]]
+- Related: [[SPELL0039_Primal_Storm]]
+- Influences [[Portrait NPC the ... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Influences [[Memory Meadows Black Market (D&D_References)]]
 - Leads to [[step_054 (phase_025)
 - Related: [construct-spirit-stone-xphb (construct)]]
 - Requires [[step_033 (phase_045)
@@ -206,8 +201,7 @@ Discovered something valuable
 - Leads to [step_038 (phase_038)]]
 - Parallels [[Location City Breaking the Deep Breaking the Deep.svg
 - Leads to [Assets Vehicles Vehicle Ship Sky Cutter Interceptor V1 Sky Cutter Interceptor.svg]]
-- Related: [[ITEM00451_Enchanted_Shield_of_Grace
-- Requires [The Emperor's Memories (D&D_References)]]
+- Related: [[The Emperor's Memories (D&D_References)]]
 - Parallels [[04_Resources_Assets_Locations_location-city-terminal-director-admiral-current-swiftflow-v1-terminal-director-admiral-current-swiftflow.svg
 - Influences [ENC00280_Combat_Encounter_281]]
 - Requires [[The Pressure Baptism Rites 2
@@ -225,36 +219,29 @@ Discovered something valuable
 - Parallels [Item Artifact Weird Tank Pota V4 Weird Tank Pota.png]]
 - Originates from [[step_066 (phase_049)
 - Parallels [The Sinking Atoll]]
-- Connects to [[Surface Observation Posts (D&D_References)
-- Affected by [NPC0033_Helena_Stormwind]]
+- Connects to [[Surface Observation Posts (D&D_References)]]
 - Originates from [[ITEM00056_Venomous_Hammer_of_Speed
 - Requires [Portrait NPC the Reality Sick Mayor Lord Quantum Aldrich the Reality Sick Mayor Lord Quantum Aldrich.svg]]
 - Originates from [[step_026 (phase_073)
 - Related: [Portrait NPC the Waking Prophets V1 the Waking Prophets.svg]]
 - Influences [[step_036 (phase_052)
 - Related: [nilbog-mpmm (fey)]]
-- Leads to [[step_059 (phase_087)
-- Originates from [Field Engineer Stone Installwrigh 2]]
+- Leads to [[Field Engineer Stone Installwrigh 2]]
 - Influences [[step_039 (phase_019)
 - Influences [ITEM00672_Fortified_Gauntlets_of_Fortitude]]
-- Compare with [[LOC00090_Wilderness_Location_91
-- Requires [Bag of Beans Xdmg]]
-- Originates from [[LOC0118_Fallsshire
-- Originates from [International Trade Agreements 2]]
-- Requires [[Hadal Zon
-- Related: [QUEST00437_Side_Quest_438]]
+- Compare with [[LOC00090_Wilderness_Location_91]]
+- Originates from [[International Trade Agreements 2]]
+- Requires [[QUEST00437_Side_Quest_438]]
 - Originates from [[step_050 (phase_044)
 - Influences [step_016 (phase_091)]]
 - Connects to [[Mayor's Manor (D&D_References)
 - See also: [Assets Locations Location City Private Arbitration V1 Private Arbitration.svg]]
 - Connects to [[Holy Symbol Varies Holy Symbols Xphb
 - Compare with [NPC00133_Lyanna_Oakenshield_the_Seeker]]
-- Compare with [[step_049 (phase_046)
-- Originates from [Wise Counselor Deep (D&D_References)]]
+- Compare with [[Wise Counselor Deep (D&D_References)]]
 - Requires [[step_036 (phase_010)
 - See also: [step_042 (phase_026)]]
-- Parallels [[NPC00766_Alaric_Grimholt_the_Seeker
-- Originates from [step_007 (phase_052)]]
+- Parallels [[NPC00766_Alaric_Grimholt_the_Seeker]]
 - Compare with [[centaur-trooper-xmm
 - Compare with [step_024 (phase_049)]]
 - Requires [[Illumination Crysta 2

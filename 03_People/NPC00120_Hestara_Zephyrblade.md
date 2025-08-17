@@ -182,8 +182,7 @@ Requires champions for trial by combat
 - Related:
 - Affected by [[NPC00445_Dara_Oakenshield_the_Bold
 - Related: [Assets Locations Location City Keeper Thundercall Keeper Thundercall.svg]]
-- Connects to [[Infinite Mathematics Divisio (D&D_References)
-- Originates from [Shadow Energy Addiction]]
+- Connects to [[Infinite Mathematics Divisio (D&D_References)]]
 - Leads to [[Norse Hel
 - Originates from [signet-ring (items)]]
 - Affected by [[LORE00262_Legends_Entry_263
@@ -197,73 +196,58 @@ Requires champions for trial by combat
 - See also:
 - Compare with [step_019 (phase_082)]]
 - Requires
-- Leads to [[step_076 (phase_033)
-- Compare with [Inverted Ballroom Wing - Party Quarters]]
+- Leads to [[Inverted Ballroom Wing - Party Quarters]]
 - Affected by [[Void-touched Crew Member 2
 - Parallels [QUEST00382_Side_Quest_383]]
 - Parallels [[The Merchant's Covenant (D&D_References)
 - Leads to [Handout Handout Tavern Bill of Fare Tavern Bill of Fare.png]]
 - Parallels [[step_079 (phase_080)
 - Connects to [02_Worldbuilding_Groups_The_Memory_Keepers]]
-- Influences [[Temple of the Healing Waters (D&D_References)
-- Compare with [LOC00043_Cities_Location_44]]
+- Influences [[Temple of the Healing Waters (D&D_References)]]
 - Leads to [[The Sunken Markets_1
 - Connects to [ITEM01475_Sturdy_Lantern_of_Convenience]]
 - Requires [[giant-insect-spider-xphb (beast)
 - Parallels [List Spells Classes Oath of Redemption Xge]]
 - See also: [[Quest - Memory Commerce
 - Connects to [step_071 (phase_050)]]
-- Parallels [[step_057 (phase_086)
-- See also: [Watch Captain Roderick Shieldbreaker (D&D_References)]]
+- Parallels [[Watch Captain Roderick Shieldbreaker (D&D_References)]]
 - Related: [[Floating Arsenal
 - Compare with [Orc Yurtrus Vgm]]
-- Connects to [[Spell Gem Ruby Oota
-- Leads to [ENC00352_Combat_Encounter_353]]
+- Connects to [[ENC00352_Combat_Encounter_353]]
 - Related: [[LORE00043_Prophecies_Entry_44
 - See also: [Assets Locations Location City the Whispering Depths V1 the Whispering Depths.svg]]
-- Related: [[step_042 (phase_020)
-- See also: [NPC01059_Dara_Goldleaf_the_Wise]]
-- Connects to [[Anti-Scrying Division 2
-- Related: [Ambush Xphb]]
-- Connects to [[Allosaurus Xmm
-- Requires [MON00023_Undead_Creature_24]]
+- Related: [[NPC01059_Dara_Goldleaf_the_Wise]]
+- Connects to [[Anti-Scrying Division 2]]
+- Connects to [[MON00023_Undead_Creature_24]]
 - Affected by [[step_046 (phase_021)
 - See also: [Quest - Sky Pirates_1 (01_Adventures)]]
 - See also: [[step_010 (phase_076)
 - See also: [Crystal Resoce Networks]]
-- Leads to [[SPELL00133_Divine_Spell_134
-- Parallels [step_096 (phase_062)]]
-- Related: [[Purple Worm Poison Xdmg
-- Leads to [NPC00483_Aeliana_Frostwhisper_the_Seeker]]
-- Related: [[FAC00091_Orders_92
-- Connects to [Master Chronologist Temporal Truthkeeper (D&D_References)]]
+- Leads to [[SPELL00133_Divine_Spell_134]]
+- Related: [[NPC00483_Aeliana_Frostwhisper_the_Seeker]]
+- Related: [[Master Chronologist Temporal Truthkeeper (D&D_References)]]
 - See also: [[LOC00152_Wilderness_Location_153
 - Originates from [step_090 (phase_057)]]
 - Related: [[step_079 (phase_012)
 - Connects to [Wall of Sand Xge]]
 - Leads to [[Dr Storm Truthfinder
 - Compare with [ITEM01376_Practical_Compass_of_Quality]]
-- Compare with [[step_081 (phase_053)
-- Originates from [MON00141_Aberrations_Creature_142]]
+- Compare with [[MON00141_Aberrations_Creature_142]]
 - Originates from [[ITEM01356_Ornate_Tool_Kit_of_Reliability
 - Leads to [Western Frontier]]
-- Related: [[Portcullises Xdmg
-- Requires [NPC00948_Zephyr_Frostwhisper_the_Redeemed]]
+- Related: [[NPC00948_Zephyr_Frostwhisper_the_Redeemed]]
 - Related: [[NPC01103_Elric_Xendar_the_Redeemed
 - Leads to [Assets Locations Location City Temporal Viewing Chambers Temporal Viewing Chambers.svg]]
 - Requires [[Portrait NPC Tribune Cassia Deepcurrent V2 Tribune Cassia Deepcurrent.svg_1 (Portraits)
 - See also:
 - Parallels [step_025 (phase_061)]]
-- Influences [[Aquabyssos Survival Mechanics (D&D_References)
-- Compare with [step_055 (phase_090)]]
+- Influences [[Aquabyssos Survival Mechanics (D&D_References)]]
 - See also: [[Assets Locations Location City Blood Coral V1 Blood Coral.svg
 - Affected by [Ersatz Eye Xdmg]]
 - Originates from [[Noble Titles and Ranks
 - Originates from [QUEST0020_The_Ancient_Treasure]]
-- Affected by [[LOC00112_Towns_Location_113
-- Connects to [NPC01889_Thalia_Zephyrblade_the_Broken]]
-- Requires [[NPC0020_Ulric_Stormwind
-- Requires [Fort Nautilus 2]]
+- Affected by [[NPC01889_Thalia_Zephyrblade_the_Broken]]
+- Requires [[NPC0020_Ulric_Stormwind]]
 - Leads to [[Location City Registrar Cornelius Scrollkeeper V1 Registrar Cornelius Scrollkeeper.svg
 - Affected by [QUEST0055_The_Forbidden_Artifact]]
 

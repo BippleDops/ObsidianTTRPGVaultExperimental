@@ -52,7 +52,5 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [The Forgetting Bomb]]
-- [[Timeline of the Drowning
-- [The Forgetting Bomb (D&D_References)]]
-- [[Timeline of the Drowning (D&D_References)
-- [Timeline of the Drowning 3 (D&D_References)]]
+- [[The Forgetting Bomb (D&D_References)]]
+- [[Timeline of the Drowning 3 (D&D_References)]]

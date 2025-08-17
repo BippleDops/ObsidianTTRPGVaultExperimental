@@ -166,48 +166,34 @@ Witnessed a crime
 - Originates from [Project Double Laboratory (D&D_References)]]
 - Parallels [[Symbol Heraldry Void Touched Crew Member Void Touched Crew Member.svg
 - See also: [02_Worldbuilding_Lore_Quantum_Magic_Theory]]
-- Requires [[Cover Identity Coordinator (D&D_References)
-- Requires [EVENT00005_Magical_Event_6]]
+- Requires [[Cover Identity Coordinator (D&D_References)]]
 - Affected by [[step_061 (phase_072)
 - Requires [Underwater_Combat]]
 - Originates from [[Human Names French Female Xge
 - Compare with [Investiture of Stone Xge]]
 - Compare with [[step_030 (phase_033)
 - Originates from [Location City the Exotic Emporium the Exotic Emporium.svg]]
-- Affected by [[LOC00287_Cities_Location_288
-- Affected by [The Void Seals]]
-- Influences [[ITEM00296_Cursed_Sword_of_Wounding
-- Parallels [Master Trader Darkmarke (D&D_References)]]
-- Connects to [[Faction_Guide.md
-- Originates from [The Shadow Infiltration Attempt]]
-- See also: [[Memory Farmers (D&D_References)
-- Influences [Ancestor Memorial Spaces 2]]
+- Affected by [[LOC00287_Cities_Location_288]]
+- Influences [[Master Trader Darkmarke (D&D_References)]]
+- Connects to [[The Shadow Infiltration Attempt]]
+- See also: [[Memory Farmers (D&D_References)]]
 - Originates from [[step_071 (phase_027)
 - Connects to [Assets Locations Location City Expedition to the Sunless Depths Expedition to the Sunless Depths.svg]]
 - Connects to [[step_081 (phase_077)
 - Leads to [step_008 (phase_059)]]
 - Connects to [[step_047 (phase_023)
 - Requires [Sky City Councils 2]]
-- See also: [[The Healer's Persecution (D&D_References)
-- See also: [The Collector (D&D_References)]]
-- Originates from [[Tidal Priest Marina Deepcurrent (D&D_References)
-- See also: [location-city-mourning-depths-mourning-depths.svg]]
-- Requires [[Wind Marshal Gale Stormwright
-- Affected by [Bomb Xdmg]]
-- Parallels [[Fort Nautilus
-- Requires [ENC00309_Combat_Encounter_310]]
-- Affected by [[step_068 (phase_082)
-- Influences [SPELL00101_Nature_Spell_102]]
+- See also: [[The Healer's Persecution (D&D_References)]]
+- Originates from [[Tidal Priest Marina Deepcurrent (D&D_References)]]
+- Requires [[Wind Marshal Gale Stormwright]]
+- Parallels [[ENC00309_Combat_Encounter_310]]
+- Affected by [[SPELL00101_Nature_Spell_102]]
 - Connects to [[Assets Vehicles Vehicle Ship Storm Borne Battleship V1 Storm Borne Battleship.svg
 - Parallels [step_095 (phase_062)]]
-- Related: [[NPC01427_Vesper_Dawnstrider_the_Lost
-- Affected by [LORE00156_Legends_Entry_157]]
-- Parallels [[Subjects Crystal Engineering
-- Connects to [ITEM0115_Divine_Pendant_of_the_Dawn]]
-- Affected by [[New Skyholm
-- Compare with [NPC01711_Wynne_Crystalbrook_the_Lost]]
-- Originates from [[ENC0030_Random_Encounter_31
-- Affected by [Holy Weapon Xge]]
+- Related: [[NPC01427_Vesper_Dawnstrider_the_Lost]]
+- Parallels [[ITEM0115_Divine_Pendant_of_the_Dawn]]
+- Affected by [[NPC01711_Wynne_Crystalbrook_the_Lost]]
+- Originates from [[ENC0030_Random_Encounter_31]]
 - Affected by [[sleet-storm-xphb (spells)
 - Requires [Portrait NPC Quest the Diplomatic Immunity Case Quest the Diplomatic Immunity Case.svg]]
 - Influences
@@ -242,16 +228,13 @@ Witnessed a crime
 - Leads to [[Spy Games 2
 - Influences
 - See also: [Assets Locations Location City Foreign Affairs V1 Foreign Affairs.svg]]
-- See also: [[step_042 (phase_026)
-- Originates from [22-afterword (out-of-the-abyss)]]
-- Compare with [[LOC00245_Towns_Location_246
-- Parallels [step_029 (phase_024)]]
+- See also: [[22-afterword (out-of-the-abyss)]]
+- Compare with [[LOC00245_Towns_Location_246]]
 - Parallels [[location-city-floating-cities-floating-cities.svg
 - Connects to [spell-scroll-cantrip-xdmg (items)]]
 - Influences [[Portrait NPC Master of Currents Poseidon Master of Currents Poseidon.svg
 - Parallels [ITEM0090_Cursed_Orb_of_the_Dawn]]
-- Connects to [[Pearl Sharpedge (D&D_References)
-- Originates from [2 Goblin Arrows]]
+- Connects to [[Pearl Sharpedge (D&D_References)]]
 - Connects to [[Scepter of Winter's Command 2
 - Connects to [list-spells-classes-oath-of-vengeance-xphb (lists)]]
 - Parallels [[Portrait NPC Ice Kingdom Magic V2 Ice Kingdom Magic.svg_1 (Portraits)

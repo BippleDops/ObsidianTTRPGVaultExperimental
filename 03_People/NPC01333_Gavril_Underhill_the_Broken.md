@@ -175,26 +175,22 @@ Has information about legendary item
 - Leads to [SPELL00063_Nature_Spell_64]]
 - Affected by [[Memory Vault
 - Requires [step_100 (phase_042)]]
-- Affected by [[Safety Coordinator Reef Safeguard
-- Affected by [Information Exchange]]
-- Parallels [[Deep Dragons (D&D_References)
-- Leads to [step_070 (phase_033)]]
+- Affected by [[Safety Coordinator Reef Safeguard]]
+- Parallels [[Deep Dragons (D&D_References)]]
 - Compare with [[step_001 (phase_033)
 - Parallels [Location City Surface Portal Alpha V1 Surface Portal Alpha.svg]]
 - Requires [[Young Silver Dragon Xmm
 - Compare with [step_036 (phase_056)]]
 - Requires [[step_051 (phase_030)
 - Related: [The Negotiation Void]]
-- Requires [[The Memory Keepers
-- Influences [ENC00488_Combat_Encounter_489]]
+- Requires [[ENC00488_Combat_Encounter_489]]
 - See also: [[step_043 (phase_047)
 - Originates from [Ambassador Marina Tidecaller]]
 - Leads to [[02_Worldbuilding_Groups_The_Cloud_Shepherd_Guild
 - Connects to [Master Builder Caelum Vortexwright]]
 - Parallels [[step_044 (phase_029)
 - Leads to [Thornweaver the Druid]]
-- Parallels [[NPC00174_Aldric_Silverleaf_the_Fallen
-- Influences [Pets Beholder Lesser Minions Vgm]]
+- Parallels [[NPC00174_Aldric_Silverleaf_the_Fallen]]
 - Compare with
 - Affected by [[list-spells-feats-blessed-warrior-xphb (lists)
 - Leads to [slippers-of-spider-climbing-xdmg (items)]]
@@ -203,14 +199,12 @@ Has information about legendary item
 - Influences
 - Affected by [[Stormcaller Navy
 - Requires [False Breathers 2]]
-- Related: [[NPC01465_Ewan_Goldleaf_the_Redeemed
-- Compare with [Void Prophet Nullus the Erased (D&D_References)]]
+- Related: [[Void Prophet Nullus the Erased (D&D_References)]]
 - Leads to [[step_084 (phase_018)
 - Requires [Thunder Step Xge]]
 - Affected by [[NPC00015_Dara_Stormwind
 - Related: [step_068 (phase_015)]]
-- Leads to [[zombie-xmm (undead)
-- Affected by [NPC01519_Hestara_Frostwhisper_the_Seeker]]
+- Leads to [[NPC01519_Hestara_Frostwhisper_the_Seeker]]
 - Compare with [[Sage Pelagic
 - Related: [step_074 (phase_015)]]
 - Parallels [[Ammunition 2 Xdmg
@@ -219,27 +213,22 @@ Has information about legendary item
 - Leads to [Eye Patch Decorated With Tiny Blue Sapphires]]
 - Influences [[Deep Spies
 - See also: [step_023 (phase_083)]]
-- Affected by [[Clockwork Iron Cobra Mpmm
-- Related: [Storyteller Memorykeeper (D&D_References)]]
-- Requires [[The Forgotten Court 2
-- Related: [Imp Xmm]]
+- Affected by [[Storyteller Memorykeeper (D&D_References)]]
+- Requires [[The Forgotten Court 2]]
 - Affected by [[ray-of-frost-xphb (spells)
 - Related: [step_061 (phase_018)]]
-- Leads to [[The Reunification Faction 2
-- Influences [Mounted_Combat]]
+- Leads to [[The Reunification Faction 2]]
 - See also: [[bones-of-the-earth-xge (spells)
 - Parallels
 - Affected by [Multiclassing Phb]]
 - Related: [[Portrait NPC Shadow Guard Units Shadow Guard Units.svg
 - Leads to
 - Connects to [Art and Literature Intelligence]]
-- Requires [[SPELL00001_Nature_Spell_2
-- Related: [The Abyssal Court 3 (D&D_References)]]
+- Requires [[The Abyssal Court 3 (D&D_References)]]
 - Compare with [[step_098 (phase_045)
 - Leads to
 - Affected by [lock-of-trickery-xdmg (items)]]
-- Connects to [[Manta Ray 2
-- Influences [NPC01514_Pyria_Ironforge_the_Fallen]]
+- Connects to [[NPC01514_Pyria_Ironforge_the_Fallen]]
 - Connects to [[Portrait NPC the Pressure Pirates the Pressure Pirates.svg_1 (Portraits)
 - See also:
 - Originates from [economic_warfare_simulation_theory]]
@@ -251,22 +240,17 @@ Has information about legendary item
 - Originates from
 - Affected by [[ITEM01080_Greater_Potion_of_Healing
 - Parallels [Location City Security Services Security Services.svg]]
-- Parallels [[NPC00712_Faelyn_Proudmore_the_Fallen
-- Compare with [LOC0050_Havenridge]]
+- Parallels [[NPC00712_Faelyn_Proudmore_the_Fallen]]
 - Requires [[Young Diver Coral Swiftcurrent 2
 - Compare with [Assets Locations Location City Curse of Eternal Winter Curse of Eternal Winter.svg]]
 - Affected by [[Wandering Prophet Coral Stormrider (D&D_References)
 - Affected by [Assets Portraits Portrait NPC Financial Corruption Financial Corruption.svg]]
 - Influences [[Assets Locations Location City Master Chef Coral Seasweaver V1 Master Chef Coral Seasweaver.svg
 - Affected by [Abyssal the Deep-Touched]]
-- Connects to [[Architect Coral Builder (D&D_References)
-- Influences [12-chapter-12-the-tower-of-vengeance (out-of-the-abyss)]]
-- Originates from [[Bear Trap Xge
-- Related:
-- Parallels [Basalt Depthwright (D&D_References)]]
+- Connects to [[12-chapter-12-the-tower-of-vengeance (out-of-the-abyss)]]
+- Originates from [[Basalt Depthwright (D&D_References)]]
 - Connects to
-- Influences [[step_045 (phase_097)
-- Related: [LOC00262_Dungeons_Location_263]]
+- Influences [[LOC00262_Dungeons_Location_263]]
 - Requires [[location-city-age-of-wonders-v1-age-of-wonders.svg
 - Connects to [step_098 (phase_019)]]
 - Affected by [[Tidal Council (D&D_References)]]

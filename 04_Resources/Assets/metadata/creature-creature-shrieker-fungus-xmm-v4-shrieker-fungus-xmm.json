@@ -25,5 +25,8 @@
   "alt_text": "Concept art of shrieker-fungus-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-shrieker-fungus-xmm-v4-shrieker-fungus-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-shrieker-fungus-xmm-v4-shrieker-fungus-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:08:54.458Z",
+  "generationMethod": "ComfyUI"
 }

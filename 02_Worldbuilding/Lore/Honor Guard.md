@@ -52,6 +52,5 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [The Deserter's Tale]]
-- [[The Crystal Wardens
-- [The Deserter's Tale (D&D_References)]]
+- [[The Deserter's Tale (D&D_References)]]
 - [[The Deserter's Tale 3 (D&D_References)]]

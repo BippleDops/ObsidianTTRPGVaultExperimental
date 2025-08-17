@@ -25,5 +25,8 @@
   "alt_text": "Concept art of fey-spirit-xphb with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-fey-spirit-xphb-fey-spirit-xphb.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-fey-spirit-xphb-fey-spirit-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:01:52.335Z",
+  "generationMethod": "ComfyUI"
 }

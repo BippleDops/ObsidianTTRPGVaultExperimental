@@ -60,7 +60,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 ## References
 
-- [[Campaign_Overview (Crystal_Plague)]]
+- [[Campaign_Overview]]
 
 ## Voice & Mannerisms
 - Speaking style

@@ -168,22 +168,19 @@ Requires champions for trial by combat
 - Connects to [step_087 (phase_043)]]
 - Leads to [[Assets Locations Location City Truth Verification Magic Truth Verification Magic.svg
 - Originates from [LOC0101_Bridgeton]]
-- Leads to [[Underground Smuggling Networks (D&D_References)
-- Connects to [LOC00047_Wilderness_Location_48]]
+- Leads to [[Underground Smuggling Networks (D&D_References)]]
 - See also: [[Layers of the Abyss Xdmg
 - Parallels [Creative Visionweaver]]
 - Compare with [[Cassia Lightweaver
 - Leads to [The Tidecaller (Places)]]
-- Connects to [[Dwarven Dumathoin Mtf
-- Leads to [Aethermoor to Aquabyssos Transition Guide 3 (D&D_References)]]
+- Connects to [[Aethermoor to Aquabyssos Transition Guide 3 (D&D_References)]]
 - Affected by [[NPC01192_Idris_Moonshadow_the_Seeker
 - Parallels [Clues_Discovered (02_Worldbuilding)]]
 - Originates from [[step_039 (phase_040)
 - Leads to [Assets Locations Location City Memorial Artists V1 Memorial Artists.svg]]
 - Parallels [[The Crystal Academy (Academies)
 - Affected by [minotaur-of-baphomet-xmm]]
-- Connects to [[The Concordat Seal 2
-- Influences [Daily Routine Nuances and Details (D&D_References)]]
+- Connects to [[Daily Routine Nuances and Details (D&D_References)]]
 - Influences [[Healer Sage Bondseer
 - Parallels [step_060 (phase_086)]]
 - Compare with [[The False History Crisis
@@ -199,23 +196,17 @@ Requires champions for trial by combat
 - Originates from [Summon Fiend Xphb]]
 - Parallels [[Shadow Currency
 - Compare with [NPC0124_Ewan_Darkwater]]
-- Originates from [[step_015 (phase_063)
-- Influences [Security Services (D&D_References)]]
-- Compare with [[Aethermoor Navigation Crystal
-- See also: [step_089 (phase_051)]]
-- Compare with [[Maintece Tech Reef Fixwright
-- See also: [step_033 (phase_011)]]
-- Originates from [[Data Analyst Current Patternweave 2
-- Affected by [step_094 (phase_093)]]
+- Originates from [[Security Services (D&D_References)]]
+- Compare with [[Aethermoor Navigation Crystal]]
+- Compare with [[Maintece Tech Reef Fixwright]]
+- Originates from [[Data Analyst Current Patternweave 2]]
 - Leads to [[step_038 (phase_049)
 - See also:
 - Requires [dwarven-tharmekhul-mtf (deities)]]
-- Parallels [[ENC00254_Social_Encounter_255
-- Connects to [step_010 (phase_016)]]
+- Parallels [[ENC00254_Social_Encounter_255]]
 - Connects to [[Void Integration Research
 - Related: [Ranger Xphb Gloom Stalker Xphb]]
-- See also: [[ENC00164_Combat_Encounter_165
-- Parallels [Sterling Goldbalance (D&D_References)]]
+- See also: [[Sterling Goldbalance (D&D_References)]]
 - Requires [[Portrait NPC Nerissa Deepcurrent Nerissa Deepcurrent.svg_1 (Portraits)
 - Leads to
 - Parallels [Heart of Eternal Vigilance]]
@@ -225,20 +216,17 @@ Requires champions for trial by combat
 - Leads to [Assets Locations Location City City Council of Aquabyssos V1 City Council of Aquabyssos.svg]]
 - See also: [[Portrait NPC Emperor Thalassius V1 Emperor Thalassius.svg_1 (Portraits)
 - Originates from [Assets Locations Location City House Depthguard V1 House Depthguard.svg]]
-- Related: [[NPC01795_Delara_Brightblade_the_Redeemed
-- Parallels [Keeper Luminous Crystalbeam 2]]
+- Related: [[NPC01795_Delara_Brightblade_the_Redeemed]]
 - Parallels [[Greyhawk Incabulos Xdmg
 - Parallels [step_061 (phase_074)]]
 - Originates from [[The Convergence Laboratory
 - Requires [ENC00387_Combat_Encounter_388]]
 - Compare with [[step_082 (phase_089)
 - See also: [Eye Patch Decorated With Tiny Blue Sapphires]]
-- Parallels [[FINAL_1000_IMPROVEMENTS_SUBCARY
-- Connects to [NPC01297_Erasmus_Brightblade_the_Bold]]
+- Parallels [[NPC01297_Erasmus_Brightblade_the_Bold]]
 - Requires [[Sled Dog Rot
 - Related: [Location City Titan Foundationbearer Titan Foundationbearer.svg]]
-- Influences [[ENC00251_Combat_Encounter_252
-- Related: [Finn Brightwater]]
+- Influences [[ENC00251_Combat_Encounter_252]]
 - Requires [[NPC00071_Erasmus_Thornweave
 - Requires [Assets Vehicles Vehicle Ship Arc Engine Prototype Arc Engine Prototype.svg]]
 - See also: [[The Shadow Merchant Prime

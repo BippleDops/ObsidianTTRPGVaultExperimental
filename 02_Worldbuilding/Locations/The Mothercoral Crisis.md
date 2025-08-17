@@ -180,17 +180,7 @@ As the crisis escalates, panic spreads through [[Aquabyssos society:
 ### [Merchant]] Captain Salvage
 **Role**: Independent operator with boats and diving equipment
 **Information**: Recent changes in sea conditions, transportation options
-**Needs**: Payment for services, protection from [[Environmental Hazards
-
-### Scientific Investigation
-**Methods**: Sample collection, magical analysis, environmental monitoring
-**Locations**: Research stations, affected areas, healthy comparison sites
-**Challenges**: Dangerous environments, equipment failures, time pressure
-**Results**: Understanding of biological and magical factors causing the crisis
-
-### Political Investigation
-**Methods**: Interviewing officials, reviewing policy changes, examining permits
-**Locations**: Government offices, industrial facilities, [Diplomatic Quarters]]
+**Needs**: Payment for services, protection from [[Environmental_Hazards]]
 **Challenges**: Bureaucratic obstacles, potential cover-ups, conflicting interests
 **Results**: Discovery of human activities that may have contributed to the crisis
 

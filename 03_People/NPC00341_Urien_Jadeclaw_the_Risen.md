@@ -174,8 +174,7 @@ Wants rivals investigated
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -216,14 +215,11 @@ Wants rivals investigated
 - Connects to [white-dragon-scale-mail-xdmg (items)]]
 - Influences [[Portrait NPC Commander Typhoon Blackheart V1 Commander Typhoon Blackheart.svg
 - Leads to [Friends and Foes Strixhaven Creatures Scc]]
-- Requires [[LORE00092_Legends_Entry_93
-- Parallels [Captain Sarah Oathbound (D&D_References)]]
-- Parallels [[NPC00414_Fiora_Jadeclaw_the_Risen
-- Affected by [Mace of Smiting Xdmg]]
+- Requires [[Captain Sarah Oathbound (D&D_References)]]
+- Parallels [[NPC00414_Fiora_Jadeclaw_the_Risen]]
 - Requires [[Portrait NPC the Royal Treasury Depths V2 the Royal Treasury Depths.svg_1 (Portraits)
 - Compare with [step_069 (phase_092)]]
-- Connects to [[09-adventuring#Difficult Terrain
-- Related: [step_070 (phase_031)]]
+- Connects to [[09-adventuring#Resting]]
 - Affected by [[step_062 (phase_010)
 - Compare with [Location City Deep Stone Eaters Deep Stone Eaters.svg]]
 - Originates from [[step_073 (phase_062)
@@ -251,18 +247,15 @@ Wants rivals investigated
 - Leads to [ITEM01273_Pure_Potion_of_Fortune]]
 - Originates from [[Possessed Noble Coterie 2
 - Requires [Trader Cross-Current Jin 2]]
-- Influences [[LOC00144_Wilderness_Location_145
-- Leads to [step_038 (phase_094)]]
+- Influences [[LOC00144_Wilderness_Location_145]]
 - Compare with [[Prophetic Weather Charts 2
 - Connects to [The Tidepool Markets 2]]
-- Influences [[Stellar Commander Nereus Voidcaller (D&D_References)
-- Leads to [ITEM01344_Simple_Rope_of_Quality]]
+- Influences [[Stellar Commander Nereus Voidcaller (D&D_References)]]
 - Originates from [[Location City Theological Education Theological Education.svg
 - Requires [Goldspire Confederacy (D&D_References)]]
 - Originates from [[FAC00028_Orders_29
 - Connects to [Location City the Pressure Forges the Pressure Forges.svg]]
-- Compare with [[Senior Resonance Engineer Harmony Deepnote
-- See also: [witherbloom-student-scc (backgrounds)]]
+- Compare with [[Senior Resonance Engineer Harmony Deepnote]]
 - Influences [[LOC00122_Wilderness_Location_123
 - Parallels
 - Influences [List Spells Classes Ranger]]
@@ -289,8 +282,7 @@ Wants rivals investigated
 - Influences [step_029 (phase_026)]]
 - Connects to [[living-the-giant-life-giant-life-spans-vgm (tables)
 - Leads to [Location City Scepter of Winter S Command V1 Scepter of Winter S Command.svg]]
-- Parallels [[SPELL00128_Nature_Spell_129
-- Connects to [Legal Scholar Professor Depth Lawkeeper 2]]
+- Parallels [[Legal Scholar Professor Depth Lawkeeper 2]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

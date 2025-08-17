@@ -271,5 +271,4 @@ ___
 - [Assets Locations Location City Terminal Master Hadrian Depthbridge V1 Terminal Master Hadrian Depthbridge.svg]]
 - [[Assets Symbols Symbol Heraldry Foreman Prime Salvage Maste Foreman Prime Salvage Maste.svg
 - [The Dream Shard]]
-- [[The Floating Market
-- [The Floating Market (D&D_References)]]
+- [[The Floating Market (D&D_References)]]

@@ -167,44 +167,35 @@ Requires champions for trial by combat
 - Leads to [[Island of Scream
 - Affected by [Location City Community Support Networks V1 Community Support Networks.svg]]
 - Affected by
-- Leads to [[Vehicle Ship Reson... Related To: Local Political Structure Connected Plots: to Be Developed
-- Requires [Locations the Equipment Vaults]]
-- Originates from [[step_007 (phase_017)
-- Related: [NPC00214_Solas_Moonshadow]]
-- Originates from [[downtime-activity-carousing-xge (variant-rules)
-- Originates from [Character Relationship Web - Core NPCs (D&D_References)]]
-- Related: [[LORE0067_Prophecy_of_the_Lost_City
-- Related: [step_038 (phase_067)]]
+- Leads to [[Vehicle Ship Reson... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Originates from [[NPC00214_Solas_Moonshadow]]
+- Originates from [[Character Relationship Web - Core NPCs (D&D_References)]]
+- Related: [[LORE0067_Prophecy_of_the_Lost_City]]
 - Leads to [[Cultural Exchange
 - Connects to [Assets Art Whisper Translation.png]]
-- Requires [[Potion of Heroism Xdmg
-- Affected by [Marcus Ledgerbor (D&D_References)]]
+- Requires [[Marcus Ledgerbor (D&D_References)]]
 - Compare with [[List Spells Optional Features Sweeping Cinder Strike
 - Leads to [Depth_Adapted_Background]]
-- Compare with [[LORE00032_History_Entry_33
-- Affected by [Ambassador Lysandra Silvertonge (D&D_References)]]
+- Compare with [[Ambassador Lysandra Silvertonge (D&D_References)]]
 - Connects to [[QUEST00073_Side_Quest_74
 - Connects to [summon-celestial-xphb (spells)]]
 - Related: [[Echo-Prime Cacophony Voidlungs 2
 - Affected by [Map World Layer Hidden Locations and Rumor Sites V1 Hidden Locations and Rumor Sites.svg]]
 - Originates from [[FAC00056_Orders_57
 - Connects to [The Siren's Rest Tavern 2]]
-- Parallels [[Artificers' Consortium (D&D_References)
-- See also: [The Black Ledger]]
+- Parallels [[Artificers' Consortium (D&D_References)]]
 - Compare with [[Location City Engineer Prisma Depthwright V1 Engineer Prisma Depthwright.svg
 - Requires [giant-weasel-xmm]]
 - Affected by [[SPELL0023_Primal_Curse
 - See also: [Map Map Drowned Cathedral Nave Drowned Cathedral Nave.svg]]
 - Connects to [[step_065 (phase_043)
 - Affected by [Headband of Intellect Xdmg]]
-- Related: [[LORE00206_History_Entry_207
-- Requires [Master Archivist Valdric Stonewhisper 2]]
+- Related: [[Master Archivist Valdric Stonewhisper 2]]
 - Requires [[Assets Portraits Portrait NPC the Depth Blessed Fisherman Captain Sal Deepcurrent the Depth Blessed Fisherman Captain Sal Deepcurrent.svg
 - Connects to [Deck of Many Things 13 Cards]]
 - Originates from [[step_072 (phase_062)
 - Leads to [step_065 (phase_032)]]
-- Compare with [[QUEST00152_Main_Quest_153
-- Affected by [NPC01647_Zephyr_Crystalbrook_the_Bold]]
+- Compare with [[NPC01647_Zephyr_Crystalbrook_the_Bold]]
 - Leads to [[step_034 (phase_069)
 - Leads to [QUEST00026_Main_Quest_27]]
 - Compare with
@@ -216,10 +207,8 @@ Requires champions for trial by combat
 - Requires [Location City the Whisper Island Mystery the Whisper Island Mystery.png]]
 - Compare with [[ENC00447_Combat_Encounter_448
 - Related: [Location City Prophetic Dreams V1 Prophetic Dreams.svg]]
-- Leads to [[Memory Extraction Laboratory (D&D_References)
-- Requires [Corruption Broker Silver Currentfloat (D&D_References)]]
-- Originates from [[QUEST00087_Side_Quest_88
-- Related: [QUEST0042_In_Search_of_Knowledge]]
+- Leads to [[Corruption Broker Silver Currentfloat (D&D_References)]]
+- Originates from [[QUEST0042_In_Search_of_Knowledge]]
 - Influences [[Church of the Tidal Throne 2
 - Connects to [ITEM01203_Greater_Salve_of_Swiftness]]
 - Connects to [[Quest - The Failed Surgery 2
@@ -231,33 +220,28 @@ Requires champions for trial by combat
 - Affected by [Location City Thalassa the Deepmother V1 Thalassa the Deepmother.svg]]
 - Originates from [[Portrait NPC Reflection Pools V1 Reflection Pools.svg_1 (Portraits)
 - Originates from [Airship Xphb]]
-- Compare with [[Living Reef
-- Connects to [Session Zero Universal Guide]]
+- Compare with [[Session Zero Universal Guide]]
 - Affected by [[step_035 (phase_071)
 - Leads to
 - Parallels [The Phantom Current]]
-- See also: [[step_059 (phase_082)
-- Connects to [Observation Tender Clara (D&D_References)]]
+- See also: [[Observation Tender Clara (D&D_References)]]
 - See also: [[LOC00179_Planes_Location_180
 - Originates from [Bag of Tricks Xdmg]]
 - See also: [[Bead of Refreshment Xdmg
 - Originates from [Creature Creature Goblin Hexer Xmm V1 Goblin Hexer Xmm.png]]
 - Influences [[step_060 (phase_058)
 - Connects to [ghost-xmm (undead)]]
-- Influences [[Session_12_The_Infinity_Engine
-- Affected by [Umber Hulk Xmm]]
+- Influences [[Session_12_The_Infinity_Engine]]
 - See also: [[step_033 (phase_051)
 - Connects to [Tribune Maelstrom]]
-- Compare with [[Shadowport
-- Affected by [Master Navigator Tidal Crosscurren]]
+- Compare with [[Master Navigator Tidal Crosscurren]]
 - Parallels [[ITEM00253_Blazing_Axe_of_Slaying
 - Originates from [step_065 (phase_085)]]
 - Originates from [[Keeper Healer Restoration
 - See also:
 - Requires
 - Influences [NPC01373_Faelyn_Ravenheart_the_Seeker]]
-- See also: [[LOC00051_Cities_Location_52
-- Influences [step_070 (phase_023)]]
+- See also: [[LOC00051_Cities_Location_52]]
 - Influences [[Fighter Xphb Champion Xphb
 - Affected by [Potion of Poison Resistance Xdmg]]
 - Affected by [[Assets Locations Location City Time Lost Delegate Chronus V1 Time Lost Delegate Chronus.svg

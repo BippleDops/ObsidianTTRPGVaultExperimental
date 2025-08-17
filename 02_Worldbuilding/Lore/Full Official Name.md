@@ -91,30 +91,7 @@ Full Official Name represents a crucial aspect of the world's history, cosmology
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[Peoples
-
-### The Golden Era (500 years ago)
-- Economic prosperity
-- Cultural renaissance
-- Expansion of territory
-
-### The [Time]] of Troubles (100 years ago)
+- War with indigenous [[People]] of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current [[Power Structures established
-
-## Religious Observances
-
-### Daily Prayers
-- Dawn: Gratitude for life
-- Noon: Strength for labor
-- Dusk: Protection from darkness
-
-### Weekly Observance
-- Temple attendance mandatory
-- Ritual cleansing required
-- Tithing of 10% income
-
-## References
-
-- [CORDELIA_VAULT_USER_MANUAL]]
+- Current [[Power Structures]]

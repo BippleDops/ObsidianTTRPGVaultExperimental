@@ -161,36 +161,30 @@ Wants rivals investigated
 
 - Related: [[Random Buildings Building Type
 - Requires [LORE0059_Secret_of_the_Lost_City]]
-- Compare with [[Captain Voidguard (D&D_References)
-- Affected by [Party Members]]
+- Compare with [[Captain Voidguard (D&D_References)]]
 - Leads to [[Location City Guildmaster Harwick Guildmaster Harwick.png
 - Affected by [Locations the Temporal Scars]]
-- Influences [[half-elf (races)
-- Parallels [Advanced Construct Schematics]]
-- Affected by [[Maritime Emergency Protocols
-- Compare with [step_096 (phase_022)]]
+- Influences [[Advanced Construct Schematics]]
+- Affected by [[Maritime Emergency Protocols]]
 - Originates from [[Complete Reality Merger System 2
 - Affected by [Map Map Abyssal Trench Ledge V1 Abyssal Trench Ledge.svg]]
 - See also: [[Supplemental Tables Occupation Xge
 - Affected by [step_087 (phase_025)]]
-- Connects to [[step_026 (phase_036)
-- Parallels [LOC00122_Planes_Location_123]]
+- Connects to [[LOC00122_Planes_Location_123]]
 - Originates from [[The Maelstrom Court
 - Originates from [ITEM00754_Divine_Orb_of_Eternity]]
 - Connects to [[QUEST0055_The_Sacred_Alliance
 - Originates from [QUEST00118_Personal_Quest_119]]
 - Requires [[LORE00198_History_Entry_199
 - Parallels [step_057 (phase_034)]]
-- Compare with [[Environmental Engineer Wave Atmospherist
-- Compare with [step_039 (phase_034)]]
+- Compare with [[Environmental Engineer Wave Atmospherist]]
 - Related: [[step_061 (phase_081)
 - Parallels [Ballista Xdmg]]
 - Compare with [[step_042 (phase_033)
 - Parallels [Portrait NPC Director of Experimental Procedures Dr Siren Voidtouch Director of Experimental Procedures Dr Siren Voidtouch.svg_1 (Portraits)]]
 - Connects to [[Portrait NPC Captain Marcus Voidward V2 Captain Marcus Voidward.svg
 - Leads to [Portrait NPC Professor Aldric Crystalweaver Professor Aldric Crystalweaver.svg]]
-- Compare with [[step_012 (phase_068)
-- Parallels [Brother Matthias Inkdrinker 2]]
+- Compare with [[Brother Matthias Inkdrinker 2]]
 - See also: [[Portrait NPC Sorrow Root Nightbloom Sorrow Root Nightbloom.svg
 - Leads to [DIRECTORY_STRUCTURE]]
 - Connects to [[The Dream Shepherds
@@ -209,8 +203,7 @@ Wants rivals investigated
 - Leads to [Power Word Stun Xphb]]
 - See also: [[Thirsting Blade Xphb
 - Compare with [Location Name 2 (Places)]]
-- Affected by [[NPC01556_Felicia_Underhill_the_Seeker
-- Compare with [Void Realm Treaties]]
+- Affected by [[NPC01556_Felicia_Underhill_the_Seeker]]
 - Connects to [[step_054 (phase_064)
 - Influences [Portrait NPC Envoy Blackwater Jr V1 Envoy Blackwater Jr.svg]]
 - Parallels [[ITEM00086_Shadow_Hammer_of_Slaying
@@ -218,8 +211,7 @@ Wants rivals investigated
 - Requires [[Quest - Elite Selection 2
 - Requires [QUEST00439_Side_Quest_440]]
 - Leads to
-- Parallels [[step_091 (phase_071)
-- See also: [NPC01741_Zephyr_Hawthorne_the_Wanderer]]
+- Parallels [[NPC01741_Zephyr_Hawthorne_the_Wanderer]]
 - Related:
 - Related: [[Crystal Witch Prisma
 - Affected by [The Great Balance]]
@@ -227,12 +219,10 @@ Wants rivals investigated
 - Leads to [ENC00281_Social_Encounter_282]]
 - Related: [[Assets Locations Location City Basalt Depthwright V1 Basalt Depthwright.svg
 - Connects to [step_070 (phase_033)]]
-- Influences [[NPC00122_Gareth_Proudmore_the_Cunning
-- Parallels [Magic User Association]]
+- Influences [[NPC00122_Gareth_Proudmore_the_Cunning]]
 - Influences [[Location City Ambassador Reed Treatymaker V1 Ambassador Reed Treatymaker.svg
 - Compare with [dice-set-xphb (items)]]
-- Leads to [[Shadow Brokers (D&D_References)
-- Influences [NPC00262_Branwen_Ravenheart_the_Swift]]
+- Leads to [[NPC00262_Branwen_Ravenheart_the_Swift]]
 - Requires [[Red Dragon Xmm
 - Connects to [LOC0075_LowerPeak]]
 - Parallels [[SHOP00036_General_Shop_37
@@ -253,10 +243,8 @@ Wants rivals investigated
 - Requires [[step_073 (phase_093)
 - Influences [University Heights]]
 - See also:
-- Affected by [[README
-- See also: [NPC01354_Xander_Ravenheart_the_Mystic]]
-- Requires [[08-chapter-8-bastions (dungeon-masters-guide-2024)
-- Requires [NPC00717_Drusilla_Ironforge_the_Risen]]
+- Affected by [[NPC01354_Xander_Ravenheart_the_Mystic]]
+- Requires [[08-chapter-8-bastions (dungeon-masters-guide-2024)]]
 - Parallels [[Gill-Men
 - Connects to [step_073 (phase_100)]]
 

@@ -151,28 +151,23 @@ Perception, Persuasion, Arcana
 
 - Related: [[ITEM00320_Thunder_Sword_of_the_Ancients
 - Affected by [QUEST00038_Main_Quest_39]]
-- Connects to [[step_065 (phase_062)
-- Parallels [SPELL00010_Nature_Spell_11]]
+- Connects to [[SPELL00010_Nature_Spell_11]]
 - Affected by [[step_093 (phase_082)
 - Compare with [Talisman of Pure Good Xdmg]]
 - Connects to [[boon-of-truesight-xphb (feats)
 - Connects to [Animate Objects Xphb]]
-- Leads to [[QUEST00486_Side_Quest_487
-- Related: [step_050 (phase_063)]]
+- Leads to [[QUEST00486_Side_Quest_487]]
 - Originates from [[Location City Treasury Department Treasury Department.svg
 - See also: [step_051 (phase_024)]]
 - Related: [[LORE00164_Prophecies_Entry_165
 - Related: [Alpha-Prime]]
-- Affected by [[Crystal Gardens 2
-- Requires [Tavern Keeper Finn Splitlung 2]]
+- Affected by [[Tavern Keeper Finn Splitlung 2]]
 - Affected by [[ENC0065_Random_Encounter_66
 - See also: [Neutral Observer Peace]]
 - Parallels [[step_075 (phase_018)
 - Related: [Silk Merchant Chen]]
-- Affected by [[Project Mindbridge (D&D_References)
-- Influences [Character_Advancement_Quick_Ref]]
-- Leads to [[LORE00213_Prophecies_Entry_214
-- Parallels [Aquabyssos - Session 10 - The Shadow Finale]]
+- Affected by [[Project Mindbridge (D&D_References)]]
+- Leads to [[Aquabyssos - Session 10 - The Shadow Finale]]
 - Originates from [[step_024 (phase_075)
 - Related: [Trade_Goods_Catalog (02_Worldbuilding)]]
 - See also: [[Faction_Guide.md_1 (07_Player_Resources)
@@ -213,26 +208,20 @@ Perception, Persuasion, Arcana
 - See also: [[step_060 (phase_083)
 - Affected by
 - Influences [QUEST00142_Main_Quest_143]]
-- Related: [[SPELL00127_Nature_Spell_128
-- Compare with [Reality Anchor Points (D&D_References)]]
-- Parallels [[The Speaker''s Throne
-- See also: [NPC01023_Delara_Stormwind_the_Guardian]]
-- Connects to [[ENC00270_Social_Encounter_271
-- Connects to [step_058 (phase_014)]]
+- Related: [[Reality Anchor Points (D&D_References)]]
+- Parallels [[NPC01023_Delara_Stormwind_the_Guardian]]
+- Connects to [[ENC00270_Social_Encounter_271]]
 - Requires [[LOC00033_Dungeons_Location_34
 - Leads to [armaments-common-xdmg (tables)]]
 - Affected by [[Location City the Great Sky Harbor the Great Sky Harbor.svg
 - Originates from [Creature Creature Goblin Hexer Xmm V3 Goblin Hexer Xmm.png]]
-- Leads to [[NPC01252_Jorah_Youngblood_the_Strong
-- Requires [molydeus-mpmm (fiend)]]
+- Leads to [[NPC01252_Jorah_Youngblood_the_Strong]]
 - Connects to [[stone-giant-xmm
 - Related: [step_006 (phase_050)]]
-- Related: [[Temporal Magic Research 2
-- Affected by [Cloud Gardens 2]]
+- Related: [[Temporal Magic Research 2]]
 - Connects to [[The Order of Silent Depths
 - Originates from [step_081 (phase_030)]]
-- Influences [[Template_Planet_Placeholder.png_2 (09_Templates)
-- Related: [NPC01923_Aeliana_Darkwater_the_Cunning]]
+- Influences [[Template_Planet_Placeholder.png_2 (09_Templates)]]
 - Related: [[Smoldering Armor Xdmg
 - Compare with [step_100 (phase_007)]]
 - Related:

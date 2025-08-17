@@ -446,32 +446,27 @@ Legends speak of Admiral Cassandra Stormwind as a nexus where past and present c
 
 ## References
 
-- [[Campaign_Relationship_Matrix
-- [Abyssal Academy]]
+- [[Campaign_Relationship_Matrix]]
 - [[Queen Seraphina Lumengarde (People)
 - [Assets Locations Location City Market Master Cornelius Driftwood V1 Market Master Cornelius Driftwood.svg]]
 - [[Assets Locations Location City Professor Marina Reefbuilder V1 Professor Marina Reefbuilder.svg
 - [Assets Symbols Symbol Heraldry Arcturus Lumenblade Arcturus Lumenblade.svg]]
 - [[Captain Scale-Walker
 - [Lighthouse Keeper]]
-- [[The Senator
-- [Queen Seraphina Lumengarde (D&D_References)]]
-- [[The Senator (D&D_References)
-- [Captain Scale-Walker (D&D_Statblocks)]]
+- [[Queen Seraphina Lumengarde (D&D_References)]]
+- [[Captain Scale-Walker (D&D_Statblocks)]]
 - [[Lighthouse Keeper (D&D_Statblocks)
 
 ## Connections
 
 - Connects to
 - Leads to [Master Depth-Crystal Thalamos (D&D_References)]]
-- Leads to [[LOC00295_Towns_Location_296
-- Influences [step_052 (phase_041)]]
+- Leads to [[LOC00295_Towns_Location_296]]
 - Affected by [[step_019 (phase_025)
 - See also: [step_004 (phase_077)]]
 - Requires [[Assets Locations Location City the Memory Storm Fields V1 the Memory Storm Fields.svg
 - Requires [Quest - The Silent Majority 2]]
-- Compare with [[Capital District
-- Related: [Downtime Activity Recuperating Phb]]
+- Compare with [[Downtime Activity Recuperating Phb]]
 - Leads to [[LORE00159_Legends_Entry_160
 - Affected by [The Abyssal Tavern]]
 - Requires [[portrait-npc-the-senator-v2-the-senator.svg_1 (Portraits)
@@ -490,12 +485,10 @@ Legends speak of Admiral Cassandra Stormwind as a nexus where past and present c
 - See also: [QUEST00403_Side_Quest_404]]
 - Compare with [[step_043 (phase_040)
 - Leads to [FAC00020_Guilds_21]]
-- Compare with [[Vote Engineer Abyssal Cog 2
-- Leads to [step_095 (phase_096)]]
+- Compare with [[Vote Engineer Abyssal Cog 2]]
 - Related: [[NPC01810_Solas_Hawthorne_the_Redeemed
 - Parallels [Assets Locations Location City the Grand Bazaar of Echoing Coins the Grand Bazaar of Echoing Coins.svg]]
-- See also: [[QUEST00159_Main_Quest_160
-- Influences [Survival Codex]]
+- See also: [[QUEST00159_Main_Quest_160]]
 - Influences
 - Compare with [[step_006 (phase_069)
 - Originates from [ITEM01073_Refined_Incense_of_Fortune]]
@@ -505,50 +498,41 @@ Legends speak of Admiral Cassandra Stormwind as a nexus where past and present c
 - Parallels [Assets Portraits Portrait NPC Underground Testing Facility Underground Testing Facility.svg]]
 - Affected by [[step_051 (phase_021)
 - Leads to [Physical Characteristics Beholder Mouth]]
-- Parallels [[Observatory Network Nodes
-- Compare with [Fabricate Xphb]]
-- Leads to [[LOC00166_Cities_Location_167
-- Affected by [Portrait NPC Unde... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Parallels [[Observatory Network Nodes]]
+- Leads to [[Portrait NPC Unde... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Leads to [[Scholar Temporal Chronos
 - Parallels [Wand of Polymorph Xdmg]]
-- Connects to [[LOC00250_Wilderness_Location_251
-- Requires [Shadow Surgery Training Hospitals 2]]
+- Connects to [[Shadow Surgery Training Hospitals 2]]
 - Connects to [[Cellular Shadow Trackers
 - Leads to [scroll-of-titan-summoning-elemental-cataclysm-xdmg]]
-- Parallels [[Paramedic Supervisor Fastaid (D&D_References)
-- Leads to [LOC00281_Dungeons_Location_282]]
+- Parallels [[Paramedic Supervisor Fastaid (D&D_References)]]
 - Parallels [[Deep_Mother_Subsystem
 - Compare with [Portrait NPC Deep Mother Cultist Profiles V2 Deep Mother Cultist Profiles.svg_1 (Portraits)]]
 - Connects to [[QUEST00122_Side_Quest_123
 - Affected by [Portrait NPC Shadow Guard Units Shadow Guard Units.svg_1 (Portraits)]]
 - Requires
-- Connects to [[13 Chapter 13 the Wormwrithings
-- Related: [downtime-activity-carousing (variant-rules)]]
+- Connects to [[downtime-activity-carousing (variant-rules)]]
 - See also: [[The Ghostly Librarians 2
 - Originates from [Portrait NPC the Crimson Pearl V1 the Crimson Pearl.svg]]
 - Compare with [[Spiritual Healing
 - Requires [step_034 (phase_091)]]
 - Requires [[Special Features Who Created It Or Was Intended to Use It
 - Connects to [The Archive Keepers 2]]
-- Compare with [[ENC00081_Environmental_Encounter_82
-- See also: [step_042 (phase_072)]]
+- Compare with [[ENC00081_Environmental_Encounter_82]]
 - Affected by [[step_061 (phase_024)
 - Leads to [Maze Heart Crystal]]
-- See also: [[Anchor Stronghaul (D&D_References)
-- Compare with [LOC00212_Planes_Location_213]]
+- See also: [[Anchor Stronghaul (D&D_References)]]
 - Requires [[Portrait NPC Zephyr Goldwhisper Zephyr Goldwhisper.svg
 - Originates from [Assets Locations Location City Scribe Master Elena Truthkeeper Scribe Master Elena Truthkeeper.svg]]
 - Compare with [[Assets Locations Location City the Crystalline Foundry V1 the Crystalline Foundry.svg
 - Connects to [Goblin Boss Xmm]]
 - Compare with [[SPELL00021_Arcane_Spell_22
 - Related: [List Spells Rewards Boon of the Stormborn]]
-- Leads to [[Temporal Control (D&D_References)
-- Leads to [Dwarf Names Clan Xge]]
+- Leads to [[Temporal Control (D&D_References)]]
 - Compare with [[step_100 (phase_018)
 - Originates from
 - See also: [ENC00014_Combat_Encounter_15]]
-- Influences [[step_088 (phase_056)
-- Leads to [Ancient Mer-Folk Sentinel Kythara]]
+- Influences [[Ancient Mer-Folk Sentinel Kythara]]
 - Compare with [[Portrait NPC the Nameless Auditor V2 the Nameless Auditor.svg_1 (Portraits)
 - Affected by [Faction_Relationships]]
 - Influences [[Quest The Seventh Song
@@ -561,4 +545,4 @@ Legends speak of Admiral Cassandra Stormwind as a nexus where past and present c
 - Compare with [step_052 (phase_060)]]
 - Leads to [[ITEM00319_Shadow_Dagger_of_Speed
 - Affected by [step_093 (phase_076)]]
-- Originates from [[step_087 (phase_021)]]
+- Originates from 

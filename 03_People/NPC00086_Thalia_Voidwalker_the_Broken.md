@@ -158,8 +158,7 @@ Seeks bodyguards for dangerous journey
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -177,12 +176,10 @@ Seeks bodyguards for dangerous journey
 
 - Requires [[Order of Sacred Winds (Organizations)
 - Leads to [Scrying Xphb]]
-- Parallels [[step_071 (phase_080)
-- Connects to [Purifier Marcus Steelbane (D&D_References)]]
+- Parallels [[Purifier Marcus Steelbane (D&D_References)]]
 - Originates from [[Lighthouse of Storms
 - Related: [step_042 (phase_015)]]
-- Leads to [[LOC00268_Wilderness_Location_269
-- Parallels [LORE00003_Prophecies_Entry_4]]
+- Leads to [[LOC00268_Wilderness_Location_269]]
 - Requires [[yuan-ti-nightmare-speaker-mpmm
 - Parallels [ENC00119_Social_Encounter_120]]
 - See also: [[level-advancement-character-advancement-xphb (tables)
@@ -193,22 +190,18 @@ Seeks bodyguards for dangerous journey
 - Affected by
 - Affected by [[step_055 (phase_032)
 - Originates from [Assets Locations Location City Scepter of Winter S Command Scepter of Winter S Command.svg]]
-- Leads to [[Paradox Resolution Society (D&D_References)
-- Parallels [Storm Guard]]
+- Leads to [[Paradox Resolution Society (D&D_References)]]
 - Originates from [[ITEM00246_Radiant_Bow_of_Speed
 - Influences [04_Resources_Assets_Locations_location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
 - Affected by [[Seventh Shard
 - Connects to [step_017 (phase_099)]]
-- Originates from [[MON00164_Undead_Creature_165
-- Connects to [step_021 (phase_031)]]
+- Originates from [[MON00164_Undead_Creature_165]]
 - Connects to [[eldritch-spear-xphb (optional-features)
 - See also: [Desert Encounters Levels 1116 Xge]]
-- Influences [[Independent Merchan (D&D_References)
-- Requires [step_028 (phase_023)]]
+- Influences [[Independent Merchan (D&D_References)]]
 - Influences [[Scene Scene Merged Zone Reality Fracture V2 Merged Zone Reality Fracture.png
 - Requires [list-spells-backgrounds-silverquill-student-scc]]
-- See also: [[Sage Analytical Mindweaver (D&D_References)
-- Influences [ITEM01367_Elegant_Spyglass_of_Durability]]
+- See also: [[Sage Analytical Mindweaver (D&D_References)]]
 - Leads to [[Moon Touched Sword Xdmg
 - See also: [aspect-of-the-moon-xge (optional-features)]]
 - Parallels [[Location City Maritime Security Chief Reef V1 Maritime Security Chief Reef.svg
@@ -232,14 +225,12 @@ Seeks bodyguards for dangerous journey
 - Influences [step_044 (phase_013)]]
 - Leads to [[step_010 (phase_068)
 - Affected by [Audio_Gallery (Galleries)]]
-- Parallels [[Current Deepvoice (D&D_References)
-- Related: [Government Research Funding]]
+- Parallels [[Current Deepvoice (D&D_References)]]
 - Connects to [[NPC01434_Baelor_Winterborn_the_Guardian
 - Parallels [04_Resources_Assets_Portraits_portrait-npc-duchess-marina-ever-drowning-duchess-marina-ever-drowning.svg_Quick_Ref]]
 - Parallels [[Ring of Invisibility Xdmg
 - Influences [Portrait NPC King Torrhen Lumengarde V1 King Torrhen Lumengarde.svg]]
-- Compare with [[Aquabyssos - Session 05 - Descent into Darkness
-- Parallels [Character_Creation_Extended.md_Quick_Ref]]
+- Compare with [[Aquabyssos - Session 05 - Descent into Darkness]]
 - See also: [[step_059 (phase_073)
 - Influences [step_090 (phase_086)]]
 - Connects to [[A Day in Aquabyssos (Lore)
@@ -252,13 +243,10 @@ Seeks bodyguards for dangerous journey
 - Parallels [Trebuchet Xdmg]]
 - Connects to [[step_083 (phase_047)
 - Connects to [black-dragon-mask-hotdq (items)]]
-- Influences [[step_071 (phase_016)
-- Related: [Weaponsmith Captain Marcus Sharpedge]]
+- Influences [[Weaponsmith Captain Marcus Sharpedge]]
 - Compare with [[LORE00074_Prophecies_Entry_75
 - Related: [chuul-spore-servant-oota (plant)]]
-- Leads to [[The Deserter 2
-- Requires
-- Parallels [The Great Shattering 3 (D&D_References)]]
+- Leads to [[The Great Shattering 3 (D&D_References)]]
 - Leads to [[Alpha-Prime 2
 - Requires [Template-Group]]
 - Leads to [[The Free Traders Alliance

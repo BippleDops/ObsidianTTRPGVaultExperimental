@@ -154,5 +154,5 @@ ___
 
 ## References
 
-- [[Campaign_Overview (Shadow_Conspiracy)]]
+- [[Campaign_Overview]]
 -

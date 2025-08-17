@@ -165,8 +165,7 @@ Needs help with personal quest
 
 ## Connections
 
-- Leads to [[Fate Weavers (D&D_References)
-- Related: [step_012 (phase_068)]]
+- Leads to [[Fate Weavers (D&D_References)]]
 - Influences
 - Leads to [[tankard-of-sobriety-xdmg (items)
 - Connects to [staff-of-the-python-xdmg (items)]]
@@ -175,16 +174,13 @@ Needs help with personal quest
 - Related: [EVENT00045_Political_Event_46]]
 - Leads to [[Assets Locations Location City Crystallium Embassy V1 Crystallium Embassy.svg
 - Leads to [Memory Merchant Centers (D&D_References)]]
-- Related: [[step_016 (phase_052)
-- Parallels [Aethermoor - Session 06 The Bloodline Awakens]]
-- Affected by [[Witness Protection Protocols
-- Compare with [Temple Hierarchies (D&D_References)]]
+- Related: [[Aethermoor - Session 06 The Bloodline Awakens]]
+- Affected by [[Temple Hierarchies (D&D_References)]]
 - Connects to [[LOC00088_Wilderness_Location_89
 - Requires [Location City Reality Anchoring Technology Reality Anchoring Technology.svg]]
 - See also: [[Assets Locations Location City the First Failure the First Failure.svg
 - Requires [step_017 (phase_080)]]
-- Connects to [[United Councils of Both Worlds 2
-- Influences [Regenerate Xphb]]
+- Connects to [[United Councils of Both Worlds 2]]
 - Influences [[LORE00248_History_Entry_249
 - Requires
 - See also: [War Caster Xphb]]
@@ -192,8 +188,7 @@ Needs help with personal quest
 - Affected by [Assets Locations Location City Storm Guard V1 Storm Guard.svg]]
 - Affected by [[Layers of Carceri Xdmg
 - Affected by [dragonlance-shinare-phb (deities)]]
-- Parallels [[step_063 (phase_045)
-- Related: [Propaganda Distribution Networks]]
+- Parallels [[Propaganda Distribution Networks]]
 - Leads to [[Multi-Phase Boss Fights
 - See also: [emberhorn-minotaur-pota (monstrosity)]]
 - See also: [[Behir Xmm
@@ -201,8 +196,7 @@ Needs help with personal quest
 - Affected by [Harbor Patrol]]
 - Related: [[Green Dragon Wyrmling Xmm
 - Related: [height-and-weight-vgm (tables)]]
-- Originates from [[Chronokeeper Tide Timestable
-- Requires [Captain Marrow Drinker (D&D_References)]]
+- Originates from [[Captain Marrow Drinker (D&D_References)]]
 - Compare with [[step_012 (phase_075)
 - Affected by [#Hubs]]
 - Affected by [[elven-fenmarel-mestarine-mtf (deities)
@@ -213,10 +207,8 @@ Needs help with personal quest
 - Compare with [step_082 (phase_057)]]
 - Related: [[ENC00445_Combat_Encounter_446
 - Leads to [Ring of Spell Turning Xdmg]]
-- Requires [[NPC01370_Vesper_Silverleaf_the_Bold
-- Related: [step_039 (phase_044)]]
-- Influences [[MON00158_Undead_Creature_159
-- Affected by [The Crown Authority]]
+- Requires [[NPC01370_Vesper_Silverleaf_the_Bold]]
+- Influences [[MON00158_Undead_Creature_159]]
 - See also: [[SPELL0036_Shadow_Storm
 - See also: [Shadow Duchess Nyx_1]]
 - Related: [[Sunken Palace
@@ -233,38 +225,31 @@ Needs help with personal quest
 - See also: [[Portrait NPC the Scattered Emperor V1 the Scattered Emperor.svg_1 (Portraits)
 - Parallels [step_016 (phase_050)]]
 - Compare with
-- Related: [[step_032 (phase_091)
-- Leads to [NPC01083_Zephyr_Nightfall_the_Cunning]]
+- Related: [[NPC01083_Zephyr_Nightfall_the_Cunning]]
 - Related: [[Symbol Heraldry Arcturus Lumenblade Arcturus Lumenblade.svg
 - Connects to [Assets Locations Location City Shadow Merchant Riptide Shadow Merchant Riptide.svg]]
 - Compare with [[Monsters by Habitat Swamp Monsters Xmm
 - Influences [electrum-ep (items)]]
-- Influences [[Academy of Crystalline Art
-- See also: [Wall of Force Xphb]]
+- Influences [[Academy of Crystalline Art]]
 - Affected by [[Shadow-Silk Weavers Guild (Guilds)
 - Originates from
 - Requires [FAC00078_Cults_79]]
 - Parallels [[Inverse Colonies 2
 - Originates from [Assets Locations Location City Quill Precisequote V1 Quill Precisequote.svg]]
-- Affected by [[The Silence Experiments
-- Originates from [Weapons Trader Gareth Steelmerchant]]
+- Affected by [[Weapons Trader Gareth Steelmerchant]]
 - Affected by [[step_054 (phase_084)
 - Requires
 - Originates from
 - Influences [NPC01634_Erasmus_Frostwhisper_the_Seeker]]
-- Related: [[step_083 (phase_069)
-- Requires [Technical Director Jasper Lightforge 2]]
+- Related: [[Technical Director Jasper Lightforge 2]]
 - Connects to [[Merchant Quarter 2
 - Affected by [Template-Player-Demiplane]]
-- Affected by [[QUEST00244_Personal_Quest_245
-- Parallels [Hunger of Hadar Xphb]]
-- Influences [[ITEM00082_Venomous_Bow_of_Accuracy
-- See also: [NPC00258_Corvus_Youngblood_the_Seeker]]
+- Affected by [[QUEST00244_Personal_Quest_245]]
+- Influences [[NPC00258_Corvus_Youngblood_the_Seeker]]
 - Compare with [[Location City Supplier Erikson Tidecaller Supplier Erikson Tidecaller.svg
 - Compare with [black-abishai-mpmm (fiend)]]
-- Influences [[Sergeant Major Deep Veteranstrike (D&D_References)
-- Originates from [ITEM00236_Cursed_Axe_of_Accuracy]]
-- Requires [[step_064 (phase_025)]]
+- Influences [[Sergeant Major Deep Veteranstrike (D&D_References)]]
+- Requires
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

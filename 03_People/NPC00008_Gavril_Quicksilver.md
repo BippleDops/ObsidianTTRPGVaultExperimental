@@ -170,23 +170,19 @@ Needs discrete help with family scandal
 - Requires [[NPC01259_Jorah_Blackstone_the_Scholar
 - Affected by [Assets Locations Location City Master Elena Preserver V1 Master Elena Preserver.svg]]
 - See also:
-- Influences [[Formal Dueling Protocols
-- Related: [The Hidden Constitution Archive 2]]
+- Influences [[The Hidden Constitution Archive 2]]
 - Connects to [[Symbol Heraldry Financial Crime Investigatio V1 Financial Crime Investigatio.svg
 - Affected by [QUEST00467_Side_Quest_468]]
-- See also: [[NPC01222_Dara_Quicksilver_the_Risen
-- Compare with [Morningstar Xphb]]
+- See also: [[NPC01222_Dara_Quicksilver_the_Risen]]
 - Related: [[Assets Locations Location City New Thalassopolis V1 New Thalassopolis.svg
 - Originates from [ENC00411_Combat_Encounter_412]]
 - Related: [[LORE00118_Legends_Entry_119
 - Affected by [ITEM00590_Mithril_Chain_Mail_of_Protection]]
-- Originates from [[LOC00245_Towns_Location_246
-- Originates from [NPC00600_Pyria_Lightbringer_the_Broken]]
+- Originates from [[NPC00600_Pyria_Lightbringer_the_Broken]]
 - Connects to [[ensnaring-strike-xphb (spells)
 - Influences
 - Affected by [Portrait NPC Lady Cordelia Windham Lady Cordelia Windham.svg]]
-- See also: [[LOC00220_Wilderness_Location_221
-- Compare with [step_042 (phase_005)]]
+- See also: [[LOC00220_Wilderness_Location_221]]
 - Originates from
 - See also: [[ITEM00586_Enchanted_Leather_of_Grace
 - Leads to [Portrait NPC Captain Shadowsail V1 Captain Shadowsail.svg]]
@@ -196,32 +192,26 @@ Needs discrete help with family scandal
 - Parallels
 - Connects to
 - Related: [Oathbow Xdmg]]
-- Compare with [[Stellar Commander Nereus Voidcaller 2
-- Requires [NPC01523_Dara_Darkwater_the_Fallen]]
+- Compare with [[Stellar Commander Nereus Voidcaller 2]]
 - Parallels [[Location City Fresh Cleanwave V1 Fresh Cleanwave.svg
 - Parallels [step_080 (phase_035)]]
 - Leads to [[step_006 (phase_021)
 - Leads to [ITEM00024_Cursed_Bow_of_Wounding]]
 - Connects to [[step_061 (phase_042)
 - Parallels [step_023 (phase_034)]]
-- Affected by [[SPELL00128_Divine_Spell_129
-- Connects to [Royal Quarters 2]]
-- Compare with [[Session 12 the Infinity Engine
-- Compare with [Introduction-Overview]]
+- Affected by [[SPELL00128_Divine_Spell_129]]
+- Compare with [[Session_12_The_Infinity_Engine]]
 - Originates from [[Catapult Xge
 - Connects to [step_023 (phase_023)]]
-- Related: [[NPC00653_Vesper_Ironwood_the_Seeker
-- Influences [EVENT00029_Magical_Event_30]]
+- Related: [[NPC00653_Vesper_Ironwood_the_Seeker]]
 - Influences [[Pure Shadow Crystals
 - Leads to [Assets Locations Location City Healing Temples Healing Temples.svg]]
 - Leads to [[Portrait NPC Sacred Healing Gardens V2 Sacred Healing Gardens.svg
 - See also: [ENC00221_Social_Encounter_222]]
 - Parallels [[QUEST00187_Personal_Quest_188
 - Related: [Typical Difficulty Classes Xphb]]
-- Influences [[Deep Biology Institute (D&D_References)
-- See also: [Regional Politics]]
-- Connects to [[Aquabyssos_Session_10 (D&D_References)
-- Compare with [Deepsteel (D&D_References)]]
+- Influences [[Deep Biology Institute (D&D_References)]]
+- Connects to [[Aquabyssos_Session_10 (D&D_References)]]
 - Requires [[step_077 (phase_060)
 - Influences [Marcus Goldstream]]
 - Parallels [[Water Breathing Xphb
@@ -230,15 +220,13 @@ Needs discrete help with family scandal
 - Parallels [ASSET_EXPANSION_COMPLETE]]
 - Related: [[step_070 (phase_015)
 - Compare with [step_024 (phase_027)]]
-- Compare with [[Corruption Broker Silver Currentfloat 2
-- Affected by [step_031 (phase_043)]]
+- Compare with [[Corruption Broker Silver Currentfloat 2]]
 - Connects to
 - Leads to [[Symbol Heraldry Border Checkpoints Border Checkpoints.svg
 - Parallels [ENC00145_Combat_Encounter_146]]
 - See also: [[LORE00241_Prophecies_Entry_242
 - Originates from [Evidence Archive System]]
-- Connects to [[Nautilus Threadmender (D&D_References)
-- Originates from [Memory_Mechanics]]
+- Connects to [[Nautilus Threadmender (D&D_References)]]
 - Requires [[NPC_Name_Generator.png
 - Compare with [Flensing Claws Vgm]]
 - Originates from
@@ -254,12 +242,10 @@ Needs discrete help with family scandal
 - Originates from [step_060 (phase_019)]]
 - Parallels [[The Forgotten Archive (Lore)
 - Connects to [elven-naralis-analor-mtf (deities)]]
-- See also: [[step_027 (phase_061)
-- See also: [LOC00164_Towns_Location_165]]
+- See also: [[LOC00164_Towns_Location_165]]
 - Parallels [[step_009 (phase_080)
 - See also: [Portrait NPC Lord Erasmus Voidheart V1 Lord Erasmus Voidheart.svg]]
-- Affected by [[step_010 (phase_097)
-- Requires [LOC00225_Wilderness_Location_226]]
+- Affected by [[LOC00225_Wilderness_Location_226]]
 - Affected by [[Field Operations Chief Marcus Healhand
 - Originates from [Location City Temple Districts Temple Districts.svg]]
 - Affected by [[venomous-snake-xmm (beast)

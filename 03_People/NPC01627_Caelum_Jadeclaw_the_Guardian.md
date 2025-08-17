@@ -156,28 +156,24 @@ Offers deal too good to refuse
 
 ## Connections
 
-- Requires [[ENC00001_Combat_Encounter_2
-- Influences [The Floating Markets of Nereidios]]
+- Requires [[The Floating Markets of Nereidios]]
 - Requires [[locate-object-xphb (spells)
 - Related:
 - Influences [Quarantine_Notice_Crystal_Plagu]]
 - Originates from [[His Eternal Majesty, Keeper of the Throne of Bubbles
 - Influences [Location City Time Lost Delegate Chronus Time Lost Delegate Chronus.svg]]
 - Related:
-- Influences [[The Kelp Highway (D&D_References)
-- Parallels [EVENT00096_Natural_Event_97]]
+- Influences [[The Kelp Highway (D&D_References)]]
 - Originates from [[Keeper Seafoam the Neutral (D&D_References)
 - Originates from
 - Influences [Portrait NPC the Shadow Singer Naia V1 the Shadow Singer Naia.svg_1 (Portraits)]]
-- Compare with [[LOC00278_Towns_Location_279
-- Originates from [All Sessions]]
+- Compare with [[LOC00278_Towns_Location_279]]
 - Affected by [[location-city-surge-mixmaster-surge-mixmaster.png
 - Leads to
 - Influences [Reality Integration Rules]]
 - Compare with [[LOC00228_Planes_Location_229
 - Influences [Creature Creature Maw Demon Mpmm Maw Demon Mpmm.png]]
-- Influences [[step_020 (phase_038)
-- Parallels [NPC01215_Corvus_Moonshadow_the_Swift]]
+- Influences [[NPC01215_Corvus_Moonshadow_the_Swift]]
 - Related: [[ice-storm-xphb (spells)
 - See also: [step_013 (phase_022)]]
 - Parallels [[NPC00015_Dara_Stormwind
@@ -198,11 +194,9 @@ Offers deal too good to refuse
 - Parallels [Assets Locations Location City Void Current Survivors Void Current Survivors.svg]]
 - See also: [[new-action-breath-weapon-mm (tables)
 - Connects to [Information_Trading_System (02_Worldbuilding)]]
-- Compare with [[QUEST00126_Main_Quest_127
-- See also: [FAC00002_Guilds_3]]
+- Compare with [[QUEST00126_Main_Quest_127]]
 - Affected by
-- See also: [[ITEM0086_Glorious_Crown_of_the_Dawn
-- Originates from [The Azure Prophet Nerissa (D&D_References)]]
+- See also: [[The Azure Prophet Nerissa (D&D_References)]]
 - Influences [[ENC00291_Social_Encounter_292
 - Requires [Potion of Invulnerability Xdmg]]
 - Originates from [[step_012 (phase_048)
@@ -215,8 +209,7 @@ Offers deal too good to refuse
 - Leads to [LORE00073_Prophecies_Entry_74]]
 - Influences [[step_072 (phase_061)
 - Requires [step_095 (phase_024)]]
-- See also: [[LOC00289_Dungeons_Location_290
-- Related: [larva-xmm (fiend)]]
+- See also: [[LOC00289_Dungeons_Location_290]]
 - Originates from [[QUEST00281_Personal_Quest_282
 - Related: [Vorthak 3 (D&D_References)]]
 - Requires [[portrait-npc-shadow-embassy-v2-shadow-embassy.svg
@@ -234,22 +227,18 @@ Offers deal too good to refuse
 - Influences [[LORE00331_Prophecies_Entry_332
 - Compare with
 - Influences [LOC00015_Wilderness_Location_16]]
-- Connects to [[Archivist Coral-Mind Preserver
-- Parallels [NPC00760_Solas_Jadeclaw_the_Scholar]]
+- Connects to [[NPC00760_Solas_Jadeclaw_the_Scholar]]
 - Compare with [[The Cosmic Altar
 - Connects to [step_068 (phase_052)]]
 - Leads to [[Echo Gentleguide (D&D_References)
 - Leads to [Assets Locations Location City Port Facilities V1 Port Facilities.svg]]
-- Connects to [[yuan-ti-malison-type-5-vgm
-- Related: [Shield of Faith Xphb]]
+- Connects to [[yuan-ti-malison-type-5-vgm]]
 - Affected by [[step_032 (phase_079)
 - Parallels [Chef Amara Tastecurrent]]
 - Connects to [[location-city-kelp-forests-v1-kelp-forests.svg
 - Influences [LOC00274_Dungeons_Location_275]]
-- Compare with [[Deep_Mother_Subsystem
-- Related: [The Vote Vault Mystery (D&D_References)]]
-- Affected by [[Community Groups (D&D_References)
-- Parallels [Symbol Xphb]]
+- Compare with [[The Vote Vault Mystery (D&D_References)]]
+- Affected by [[Community Groups (D&D_References)]]
 - Parallels
 - Related: [[step_007 (phase_082)
 - See also: [Senator Glaucus Brain (Lore)]]

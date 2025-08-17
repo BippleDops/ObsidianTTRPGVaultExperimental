@@ -146,10 +146,8 @@ Things widely suspected
 
 ## References
 
-- [[Merchant's Covenant
-- [Merchant Family Alliances]]
+- [[Merchant Family Alliances]]
 - [[Post-Merge Chronology
 - [The Memory Wars (02_Worldbuilding)]]
-- [[Timeline of the Drowning
-- [Memoriam - The Forgotten Continent]]
+- [[Memoriam - The Forgotten Continent]]
 - [[Merchant's Covenant (D&D_References)]]

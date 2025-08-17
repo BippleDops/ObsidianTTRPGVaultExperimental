@@ -176,8 +176,7 @@ Is secretly testing the party
 - Related: [doppelganger-xmm (monstrosity)]]
 - Leads to [[ally-xphb (variant-rules)
 - Related: [giant-insect-centipede-xphb (beast)]]
-- Compare with [[step_004 (phase_006)
-- Compare with [LOC00226_Wilderness_Location_227]]
+- Compare with [[LOC00226_Wilderness_Location_227]]
 - See also: [[Forgotten Realms Leira
 - Influences [To Be Determined]]
 - See also: [[Inter-Dimensional Commodities
@@ -186,27 +185,21 @@ Is secretly testing the party
 - Connects to [Navigation & Geography]]
 - See also: [[SPELL00161_Nature_Spell_162
 - Connects to [tentacle-rod-xdmg (items)]]
-- Compare with [[Crystalline Depths (D&D_Statblocks)
-- Related: [step_059 (phase_024)]]
-- See also: [[step_008 (phase_050)
-- Influences [The Harbor Guild (D&D_References)]]
+- Compare with [[Crystalline Depths (D&D_Statblocks)]]
+- See also: [[The Harbor Guild (D&D_References)]]
 - Compare with [[giant-toad-xmm
 - Leads to [step_022 (phase_057)]]
 - Requires [[Elf Names Family Xge
 - Related: [Location City Diplomatic Dining Protocol Diplomatic Dining Protocol.svg]]
 - Leads to
-- Connects to [[NPC01397_Orion_Emberfall_the_Guardian
-- Originates from [step_050 (phase_033)]]
+- Connects to [[NPC01397_Orion_Emberfall_the_Guardian]]
 - See also: [[Frequency Manipulation
 - Leads to [step_001 (phase_068)]]
-- Affected by [[Sage Analytical Mindweaver (D&D_References)
-- Connects to [Astral Color Pools]]
-- Requires [[Regional Training Outposts
-- Related: [step_008 (phase_068)]]
+- Affected by [[Sage Analytical Mindweaver (D&D_References)]]
+- Requires [[Regional Training Outposts]]
 - Leads to [[Quest - The Shadow Fleet_1 (01_Adventures)
 - Originates from [Temporal Viewing Chambers]]
-- Originates from [[Student Researcher Brightwater
-- Parallels [step_067 (phase_092)]]
+- Originates from [[Student Researcher Brightwater]]
 - Connects to [[step_065 (phase_006)
 - Connects to [Portrait NPC Senator Glaucus Brain Senator Glaucus Brain.svg_1 (Portraits)]]
 - Related:
@@ -216,8 +209,7 @@ Is secretly testing the party
 - Compare with [Merfolk (D&D_References)]]
 - Affected by [[Portrait NPC Duke Cyrus Reefheart Duke Cyrus Reefheart.svg
 - Influences [Silence-Keeper Mute (D&D_References)]]
-- Compare with [[step_081 (phase_007)
-- Parallels [Archscholar Marina Voidseeker 2]]
+- Compare with [[Archscholar Marina Voidseeker 2]]
 - Affected by [[The Crystal Mines of Sorrow
 - Compare with [Strixhaven Campus Guide Scc]]
 - Influences [[QUEST00291_Personal_Quest_292
@@ -229,19 +221,15 @@ Is secretly testing the party
 - Connects to [[giant-lizard-xmm (beast)
 - Related:
 - Connects to [QUEST00179_Main_Quest_180]]
-- Originates from [[Public Relations Sarah Spokesperson
-- Parallels [The Past Warden]]
+- Originates from [[Public Relations Sarah Spokesperson]]
 - Leads to [[location-city-crystallium-v1-crystallium.svg
 - Connects to [Assets Locations Location City Veiled Hierophant Veiled Hierophant.svg]]
 - See also:
-- Originates from [[Captain Repossession
-- Compare with [Quest - The Null Constitution]]
-- Influences [[Captain Thornback (D&D_References)
-- Influences [Reflection Pools - Surgical Theater (D&D_References)]]
+- Originates from [[Quest - The Null Constitution]]
+- Influences [[Reflection Pools - Surgical Theater (D&D_References)]]
 - Requires [[step_004 (phase_031)
 - Compare with [step_047 (phase_038)]]
-- Leads to [[Tethyan Basin (D&D_References)
-- Requires [NPC00604_Gavril_Underhill_the_Strong]]
+- Leads to [[NPC00604_Gavril_Underhill_the_Strong]]
 - See also: [[step_087 (phase_033)
 - See also: [Giant Venomous Snake Xmm]]
 - Influences [[step_086 (phase_058)
@@ -253,20 +241,17 @@ Is secretly testing the party
 - Affected by [fire-shield-xphb (spells)]]
 - Originates from [[Assets Locations Location City Professional Associations V1 Professional Associations.svg
 - Requires [Session 03 Memories Lost and Found]]
-- Compare with [[The Observatory Between (D&D_References)
-- Originates from [Mechanics Crystal Corruption]]
+- Compare with [[The Observatory Between (D&D_References)]]
 - Compare with [[thorn-whip-xphb (spells)
 - Leads to [Portrait NPC Pearl Empress Lustrous V1 Pearl Empress Lustrous.svg_1 (Portraits)]]
-- Parallels [[Municipal Services Complex (D&D_References)
-- Affected by [Mummy Xmm]]
+- Parallels [[Municipal Services Complex (D&D_References)]]
 - Influences [[SHOP00025_General_Shop_26
 - Originates from [LOC00042_Towns_Location_43]]
 - Related: [[Chamber of Last Words
 - Connects to [step_029 (phase_076)]]
 - See also: [[The Unnamed Watcher 2
 - Influences [silk-xdmg (items)]]
-- Originates from [[downtime-activity-research-xge (variant-rules)
-- Connects to [NPC00343_Ysara_Thornweave_the_Bold]]
+- Originates from [[downtime-activity-research-xge (variant-rules)]]
 - Parallels [[step_006 (phase_055)
 - Originates from
 - Related: [Bead of Force Xdmg]]

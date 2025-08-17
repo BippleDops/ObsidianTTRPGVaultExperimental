@@ -159,8 +159,7 @@ Is secretly testing the party
 ## Connections
 
 - Requires
-- Leads to [[NPC00429_Cedric_Dawnstrider_the_Guardian
-- Compare with [Deputy Harbor Master Marina Stormwright (D&D_References)]]
+- Leads to [[Deputy Harbor Master Marina Stormwright (D&D_References)]]
 - Influences [[Cultural Advisor Sarah Bridgekeeper
 - Originates from [Assets Locations Location City Risk Assessor Probability Risk Assessor Probability.svg]]
 - Leads to [[Template-Lore
@@ -171,25 +170,19 @@ Is secretly testing the party
 - Requires [step_082 (phase_055)]]
 - Affected by [[SHOP00056_General_Shop_57
 - Originates from [portrait-npc-mayor-s-manor-mayor-s-manor.svg_1 (Portraits)]]
-- Compare with [[Infected Experiments (D&D_References)
-- Requires [Frostbite Xge]]
+- Compare with [[Infected Experiments (D&D_References)]]
 - Requires [[Master Merchant Luna Fairweigh
 - Related: [Location City Wise Tide Truthseeker Wise Tide Truthseeker.svg]]
 - Originates from [[LOC00153_Towns_Location_154
 - Requires
 - Compare with [DUN00024_Dungeon_25]]
-- Compare with [[step_096 (phase_049)
-- Parallels [S-004 Cloud Canyon Player (Encounters)]]
-- Connects to [[ENC0063_Random_Encounter_64
-- Influences [step_098 (phase_031)]]
+- Compare with [[S-004 Cloud Canyon Player (Encounters)]]
+- Connects to [[ENC0063_Random_Encounter_64]]
 - Originates from [[The Enforcement Citadel
 - See also: [Dragon Turtle Xmm]]
-- See also: [[derro-savant-mpmm (aberration)
-- Influences [Information Broker Whisper Goldtongue]]
-- Parallels [[MON00026_Aberrations_Creature_27
-- Affected by [step_026 (phase_095)]]
-- Related: [[step_085 (phase_053)
-- Connects to [NPC01498_Gareth_Quicksilver_the_Risen]]
+- See also: [[Information Broker Whisper Goldtongue]]
+- Parallels [[MON00026_Aberrations_Creature_27]]
+- Related: [[NPC01498_Gareth_Quicksilver_the_Risen]]
 - Parallels [[Assets Locations Location City Quest the Blackmail Papers Quest the Blackmail Papers.svg
 - Requires [Location City Noble Palatemaster V1 Noble Palatemaster.png]]
 - See also: [[Cleaning_Kit_of_Ancients
@@ -211,10 +204,8 @@ Is secretly testing the party
 - Originates from [fighter-xphb (classes)]]
 - Originates from [[step_050 (phase_040)
 - Originates from [The Shard Fragment]]
-- Parallels [[Anchor_Fortress_Player (D&D_References)
-- Influences [ENC00083_Combat_Encounter_84]]
-- Influences [[The Crystal Express 2
-- Affected by [NPC01810_Solas_Hawthorne_the_Redeemed]]
+- Parallels [[Anchor_Fortress_Player (D&D_References)]]
+- Influences [[NPC01810_Solas_Hawthorne_the_Redeemed]]
 - Affected by [[Chief Diplomat Corallion Reefwright
 - Originates from [LOC00106_Dungeons_Location_107]]
 - Parallels [[step_031 (phase_074)
@@ -223,16 +214,13 @@ Is secretly testing the party
 - Affected by [Portrait NPC Financial Corruption V1 Financial Corruption.svg]]
 - Influences [[Dracolich Xmm (undead)
 - Requires [supplemental-tables-family-lifestyle-xge (tables)]]
-- Influences [[Inter-Realm Diplomacy (D&D_References)
-- Affected by [step_062 (phase_015)]]
-- See also: [[The Convergence Garden Festival
-- Parallels [LORE00133_History_Entry_134]]
+- Influences [[Inter-Realm Diplomacy (D&D_References)]]
+- See also: [[The Convergence Garden Festival]]
 - Requires [[Retired Captain Bron Saltbeard (D&D_References)
 - See also:
 - Influences
 - Leads to [Vehicle Ship Resonance Drive Yacht V2 Resonance Drive Yacht.svg]]
-- Affected by [[step_079 (phase_097)
-- Related: [LOC00199_Planes_Location_200]]
+- Affected by [[LOC00199_Planes_Location_200]]
 - Parallels [[Assets Locations Location City Emergency Life Support Research Foundation Emergency Life Support Research Foundation.svg
 - Leads to [Portrait NPC Sunken Kingdom of Nereon V2 Sunken Kingdom of Nereon.svg_1 (Portraits)]]
 - See also: [[MON00111_Aberrations_Creature_112
@@ -243,14 +231,11 @@ Is secretly testing the party
 - Parallels [Quest - The Seventh Song_1 (01_Adventures)]]
 - Leads to [[LOC00239_Towns_Location_240
 - Originates from [Symbol Heraldry Sacred Texts of Transformation Sacred Texts of Transformation.svg]]
-- See also: [[Dr. Marina Coralhea... Related To: Local Political Structure Connected Plots: to Be Developed
-- Leads to [The Forgotten Representative 2]]
-- Leads to [[Allied Nation Military Units 2
-- Leads to [Aquabyssos Faction Web 2]]
+- See also: [[Dr. Marina Coralhea... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Leads to [[Allied Nation Military Units 2]]
 - Leads to [[INDEX
 - Originates from [Magmin Xmm]]
-- Originates from [[LOC00042_Towns_Location_43
-- Parallels [LOC00085_Wilderness_Location_86]]
+- Originates from [[LOC00085_Wilderness_Location_86]]
 - Requires [[The Void Watchers 2
 - See also: [armor-xphb (tables)]]
 - Related: [[step_080 (phase_031)

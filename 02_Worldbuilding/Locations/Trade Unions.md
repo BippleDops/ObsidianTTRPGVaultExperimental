@@ -154,18 +154,18 @@ Ongoing situations affecting Trade Unions:
 
 ### Potential Monsters
 - **Dragon**: metallic
-  - Traits: standard
-  - CR Range: 17
+ - Traits: standard
+ - CR Range: 17
 
-### [[Environmental Hazards]]
+### [[Environmental_Hazards]]
 - Pit trap
 - **DC 19** to detect
 - `dice: 2d6` damage on failure
 
 ### Magical Influences
 - Active Spell Effect: **Wish**
-  - School: Conjuration
-  - Manifestation: Intermittent
+ - School: Conjuration
+ - Manifestation: Intermittent
 
 ## Cultural Practices
 

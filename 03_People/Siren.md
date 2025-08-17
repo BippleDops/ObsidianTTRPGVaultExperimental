@@ -243,10 +243,8 @@ ___
 
 ## References
 
-- [[The Senator (People)
-- [The Siren''s Rest Tavern]]
+- [[The Siren''s Rest Tavern]]
 - [[Assets Locations Location City Archdruid Marina Kelpweaver V1 Archdruid Marina Kelpweaver.svg
 - [Assets Symbols Symbol Heraldry Deep Sea Agricultural Research Institut Deep Sea Agricultural Research Institut.svg]]
-- [[The Senator
-- [Siren Maeve Echoborn]]
+- [[Siren Maeve Echoborn]]
 - [[The Senator (D&D_References)]]

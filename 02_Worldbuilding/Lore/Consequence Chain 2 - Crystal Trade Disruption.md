@@ -33,23 +33,7 @@ improvements: 20
 
 # Consequence Chain 2: Crystal Trade Disruption
 
-*[[The Silverscale Consortium's Economic Empire Exposed*
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### History Improvements
-
-- Add three historical eras with major events
-
-### Culture Improvements
-
-- Define unique cultural practices and taboos
-
-### Economy Improvements
-
-- Detail currency, [trade-goods-xdmg (tables)]], and wealth distribution
+*[[The Silverscale Consortium]], and wealth distribution
 
 ### Religion Improvements
 

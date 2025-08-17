@@ -108,6 +108,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 - [[Quest - The Blackmail Papers_1 (01_Adventures)
 - [Quest - The Blackmail Papers_2 (01_Adventures)]]
-- [[Hidden Sanctuary
-- [Crystal Cult Temples]]
+- [[Crystal Cult Temples]]
 - [[Shadow Market Canals]]

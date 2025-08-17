@@ -4,8 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: [Abyssal Garden]]s
+- [[Abyssal Garden]]s
 type: lore
 updated: 2025-08-14
 ---
@@ -51,5 +50,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[The Original Palace
-- [The Original Palace (D&D_References)]]
+- [[The Original Palace (D&D_References)]]

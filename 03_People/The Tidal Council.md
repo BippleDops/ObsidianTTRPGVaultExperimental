@@ -350,11 +350,9 @@ Legends speak of The Tidal Council as a nexus where past and present converge. L
 
 ## References
 
-- [[The Deserter's Tale
-- [The Emperor's Gambit]]
+- [[The Emperor's Gambit]]
 - [[Assets Portraits Portrait NPC Captain Torrent Swiftcurrent Captain Torrent Swiftcurrent.svg
 - [The Deserter's Tale (D&D_References)]]
-- [[The Deserter's Tale 3 (D&D_References)
-- [The Emperor's Gambit (D&D_References)]]
+- [[The Deserter's Tale 3 (D&D_References)]]
 - [[Topic Matrix
 - [Topic_Matrix (Indexes)]]

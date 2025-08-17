@@ -38,12 +38,9 @@ Further information about this topic will be developed as the campaign progresse
 - [Aquabyssos World Overview#The Surface Seekers]]
 - [[Aquabyssos World Overview#The Three Depths
 - [Aquabyssos World Overview#The Void Touched]]
-- [[Pressure's End
-- [The Cerulean Trench]]
-- [[The Phosphor Markets
-- [The Primordial Vaults]]
-- [[50K_ENHANCEMENTS_COMPLETE
-- [Monster_Ecology_Web (Indexes)]]
+- [[The Cerulean Trench]]
+- [[The Primordial Vaults]]
+- [[50K_ENHANCEMENTS_COMPLETE]]
 - [[final_link_repair_20250814_175237
 - [smart_link_fix_20250814_175123]]
 - [[step_004_implement_style_consistency

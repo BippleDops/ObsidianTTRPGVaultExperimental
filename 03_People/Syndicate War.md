@@ -295,5 +295,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Assets Portraits Portrait NPC Lord Marcus Goldweaver Lord Marcus Goldweaver.svg
 - [The_Crimson_Pearl]]
-- [[The Crimson Pearl (D&D_References)
-- [The_Crimson_Pearl (D&D_References)]]
+- [[The Crimson Pearl (D&D_References)]]

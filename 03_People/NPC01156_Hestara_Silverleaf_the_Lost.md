@@ -163,10 +163,8 @@ Seeks rare merchandise
 
 - Compare with [[Emergency Protocol Certification
 - Parallels [silverquill-student-scc (backgrounds)]]
-- Compare with [[The Bureau of Crystal Regulation
-- Requires [Archivist Supreme Indexa (D&D_References)]]
-- Parallels [[Counter-Mirror Safe Houses (D&D_References)
-- Parallels [step_069 (phase_066)]]
+- Compare with [[Archivist Supreme Indexa (D&D_References)]]
+- Parallels [[Counter-Mirror Safe Houses (D&D_References)]]
 - Compare with [[Port Meridian Council Chamber (D&D_References)
 - Related: [Assets Locations Location City Deep Watchfulrest V1 Deep Watchfulrest.svg]]
 - Parallels
@@ -188,12 +186,10 @@ Seeks rare merchandise
 - Connects to [Faction_Tracker.bas]]
 - Leads to [[Assets Locations Location City the Hopekeeper Academy V1 the Hopekeeper Academy.svg
 - Influences [eberron-balinor (deities)]]
-- Influences [[Shadow Cultist (Cults_and_Movements)
-- Influences [Class Training I Became]]
+- Influences [[Shadow Cultist (Cults_and_Movements)]]
 - Parallels [[ITEM01011_Pure_Oil_of_Vigor
 - See also: [Keras Stormwin]]
-- Affected by [[NPC0049_Jora_Ironforge
-- Connects to [Archkeeper Nereon (D&D_References)]]
+- Affected by [[Archkeeper Nereon (D&D_References)]]
 - Related: [[LOC00182_Cities_Location_183
 - Influences [Assets Locations Location City Elder Scribe Marcus the Lost Elder Scribe Marcus the Lost.svg]]
 - Requires [[The Drowning Truth
@@ -205,20 +201,15 @@ Seeks rare merchandise
 - Originates from [[Portrait NPC Pirate Lords of the Spiral Depths Pirate Lords of the Spiral Depths.svg
 - See also: [step_053 (phase_011)]]
 - Requires
-- Connects to [[Law Enforcement (Lore)
-- Connects to [Counter-Mirror Task Force (D&D_References)]]
-- Compare with [[Quest - Shadow Integration
-- Affected by [Archdeacon Felix Faithkeeper (D&D_References)]]
+- Connects to [[Counter-Mirror Task Force (D&D_References)]]
+- Compare with [[Archdeacon Felix Faithkeeper (D&D_References)]]
 - Influences [[README
 - Affected by [Merchant_Guilds]]
-- Influences [[find-traps-xphb (spells)
-- Requires [NPC01560_Caelum_Youngblood_the_Mystic]]
-- Influences [[step_092 (phase_066)
-- Affected by [Commercial Archives (D&D_References)]]
+- Influences [[NPC01560_Caelum_Youngblood_the_Mystic]]
+- Influences [[Commercial Archives (D&D_References)]]
 - Connects to [[Port Meridian Medical Institute 2
 - Originates from [Location City Memory Farmer Thane V1 Memory Farmer Thane.svg]]
-- Requires [[sleep-xphb (spells)
-- Influences [Quest - The Economic Conspiracy]]
+- Requires [[Quest - The Economic Conspiracy]]
 - Leads to [[The Crown Authority
 - Connects to [Portrait NPC Lady Catherine Mourning V2 Lady Catherine Mourning.svg]]
 - Related: [[LORE00308_Prophecies_Entry_309
@@ -237,8 +228,7 @@ Seeks rare merchandise
 - Affected by [Portrait NPC Gareth Goldenheart the Chosen Vessel V1 Gareth Goldenheart the Chosen Vessel.svg]]
 - Parallels [[04_Resources_Assets_Locations_location-city-choir-master-celestine-hymnsinger-choir-master-celestine-hymnsinger.svg
 - Parallels [Orc Shargaas Vgm]]
-- Influences [[LOC00183_Dungeons_Location_184
-- Compare with [step_002 (phase_008)]]
+- Influences [[LOC00183_Dungeons_Location_184]]
 - Affected by [[step_068 (phase_023)
 - Related: [Assets Locations Location City Warehouse District Warehouse District.svg]]
 - Compare with [[Initiate Shadow-Walker 2

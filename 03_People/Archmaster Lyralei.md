@@ -200,8 +200,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Pirate Lords of the Spiral Depths (friend)
-- [Npc]] (colleague)
+- [[Pirate Lords of the Spiral Depths]] (colleague)
 - [[04_Resources (friend)
 ---
 *Tags*: #npc #contact #worldbuilding

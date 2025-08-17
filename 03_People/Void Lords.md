@@ -62,7 +62,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 ## References
 
-- [[Session 10 New Horizons (06_Sessions)]]
+- [[Session_10_New_Horizons]]
 
 ## Voice & Mannerisms
 - Speaking style

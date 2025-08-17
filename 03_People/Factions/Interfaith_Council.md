@@ -264,5 +264,4 @@ What they claim to pursue
 
 ## References
 
-- [[Interfaith Councils
-- [Temple Ward]]
+- [[Interfaith Councils]]

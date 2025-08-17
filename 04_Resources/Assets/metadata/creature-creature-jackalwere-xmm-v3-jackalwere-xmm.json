@@ -25,5 +25,8 @@
   "alt_text": "Concept art of jackalwere-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-jackalwere-xmm-v3-jackalwere-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-jackalwere-xmm-v3-jackalwere-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:05:15.527Z",
+  "generationMethod": "ComfyUI"
 }

@@ -566,6 +566,5 @@ Member of House Serpentblood - Trait: magical affinity
 - [The Azure Shard]]
 - [[Assets Portraits Portrait NPC Captain Zara Stormwind Captain Zara Stormwind.svg
 - [Sir Marcus Dawnforge]]
-- [[Verdant Shard
-- [Sir Marcus Dawnforge (D&D_References)]]
+- [[Sir Marcus Dawnforge (D&D_References)]]
 - [[Verdant Shard (D&D_References)]]

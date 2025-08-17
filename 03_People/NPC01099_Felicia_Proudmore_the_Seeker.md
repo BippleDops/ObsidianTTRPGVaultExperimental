@@ -170,8 +170,7 @@ Caravan needs guards
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -187,8 +186,7 @@ Caravan needs guards
 
 ## Connections
 
-- Connects to [[INV 007
-- Leads to [Merchant Honor Goldweaver]]
+- Connects to [[Merchant Honor Goldweaver]]
 - Influences [[02_Worldbuilding_Places_The_Crystal_Gardens
 - See also: [Inquisitor Thorne (D&D_References)]]
 - Connects to [[Location City Keeper Stormheart Keeper Stormheart.svg
@@ -209,23 +207,18 @@ Caravan needs guards
 - Compare with [ITEM00371_Shadow_Axe_of_Accuracy]]
 - Parallels [[githzerai-zerth-xmm
 - Related: [barbarian-xphb (classes)]]
-- See also: [[Stench Kow Mpmm
-- Connects to [LOC00120_Dungeons_Location_121]]
+- See also: [[LOC00120_Dungeons_Location_121]]
 - See also: [[sprig-of-mistletoe-xphb (items)
 - See also: [Thalassa the Deepmother]]
 - See also:
 - Compare with [[symbol-heraldry-bexley-v1-bexley.svg
 - Originates from [S-114_Gravity_Well_Rescue]]
-- Requires [[ENC00161_Environmental_Encounter_162
-- Affected by [Sacred Memory Gardens]]
-- Influences [[The Professional Training Academy
-- Related: [NPC00700_Corvus_Hawthorne_the_Broken]]
+- Requires [[ENC00161_Environmental_Encounter_162]]
+- Influences [[NPC00700_Corvus_Hawthorne_the_Broken]]
 - See also: [[Locations the Synthesis Wastes
 - Influences [QUEST00233_Personal_Quest_234]]
-- Compare with [[Gareth Goldenheart, The Chosen Vessel (D&D_References)
-- Originates from [Lady Elena the Eternal (D&D_References)]]
-- Parallels [[Enspelled Weapon Xdmg
-- Compare with [MON00046_Constructs_Creature_47]]
+- Compare with [[Gareth Goldenheart, The Chosen Vessel (D&D_References)]]
+- Parallels [[MON00046_Constructs_Creature_47]]
 - Compare with [[Physical Characteristics Beholder Eyestalk Shape Vgm
 - Leads to [Greyhawk Ehlonna Xdmg]]
 - See also: [[Location City the Free Current V1 the Free Current.svg
@@ -234,12 +227,10 @@ Caravan needs guards
 - Connects to [draconic-spirit-xphb (dragon)]]
 - Compare with [[Goldspire Expeditio 2
 - Requires [describe-appearance-and-personality-charisma-xphb]]
-- Related: [[The Dimensional Anchor Stone
-- Affected by [LOC0061_SouthMarsh]]
+- Related: [[The Dimensional Anchor Stone]]
 - Parallels [[Prep_Note.png
 - See also: [location-city-fire-crystals-fire-crystals.svg]]
-- Originates from [[The Sacred Archipelago 2
-- Related: [Portrait NPC Amba... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Originates from [[Portrait NPC Amba... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Connects to [[ITEM00595_Ethereal_Shield_of_the_Guardian
 - See also: [LOC00203_Cities_Location_204]]
 - Compare with [[Location City Keeper Stormwall V1 Keeper Stormwall.svg
@@ -266,15 +257,10 @@ Caravan needs guards
 - Leads to [[Handout Handout Docking Permit V1 Docking Permit.png
 - Compare with [FAC00081_Cults_82]]
 - Compare with
-- Compare with [[NPC00427_Urien_Xendar
-- See also:
-- Requires [NPC00125_Fiora_Oakenshield_the_Bold]]
-- Parallels [[THEME_MUSIC_MAPPING
-- Influences [damage-types-xphb (variant-rules)]]
-- Requires [[NPC00058_Elric_Nightfall
-- Affected by [10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
-- Originates from [[MON00039_Constructs_Creature_40
-- Originates from [step_014 (phase_087)]]
+- Compare with [[NPC00125_Fiora_Oakenshield_the_Bold]]
+- Parallels [[damage-types-xphb (variant-rules)]]
+- Requires [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- Originates from [[MON00039_Constructs_Creature_40]]
 - Influences [[Portrait NPC Quest the Void Conspiracy V2 Quest the Void Conspiracy.png
 - See also: [Assets Locations Location City Religious Leaders Religious Leaders.svg]]
 - Influences
@@ -283,8 +269,7 @@ Caravan needs guards
 - See also: [[ITEM01367_Elegant_Spyglass_of_Durability
 - Leads to [04_Resources_Assets_Portraits_portrait-npc-memory-harvester-kythara-v2-memory-harvester-kythara.svg]]
 - Requires
-- Influences [[Malachar the Mindweave (D&D_References)
-- Parallels [The Twin Prophets]]
+- Influences [[Malachar the Mindweave (D&D_References)]]
 - Compare with [[rogue-xphb-thief-xphb (classes)
 - Compare with
 

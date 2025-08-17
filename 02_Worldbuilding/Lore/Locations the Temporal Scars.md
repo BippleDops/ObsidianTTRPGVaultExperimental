@@ -1,7 +1,6 @@
 ---
 
-title: [[locations the Temporal Scars
-type: [Lore]]
+title: [[Locations the Temporal Scars]]
 tags:
 - lore
 - active

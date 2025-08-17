@@ -25,5 +25,8 @@
   "alt_text": "Concept art of infant-hook-horror-oota with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-infant-hook-horror-oota-v4-infant-hook-horror-oota.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-infant-hook-horror-oota-v4-infant-hook-horror-oota.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:05:06.101Z",
+  "generationMethod": "ComfyUI"
 }

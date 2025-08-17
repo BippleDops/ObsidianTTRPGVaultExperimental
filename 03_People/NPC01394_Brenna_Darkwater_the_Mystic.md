@@ -174,8 +174,7 @@ Needs help with personal quest
 - Affected by [LOC0033_WestGate]]
 - Parallels [[portrait-npc-aether-crystal-aether-crystal.svg_1 (Portraits)
 - See also: [step_059 (phase_024)]]
-- Influences [[step_095 (phase_013)
-- Parallels [Social Clubs (D&D_References)]]
+- Influences [[Social Clubs (D&D_References)]]
 - Requires [[step_035 (phase_042)
 - See also: [elf-eladrin-dmg (races)]]
 - Parallels [[Location City Healer Tide Touch Healer Tide Touch.svg
@@ -191,8 +190,7 @@ Needs help with personal quest
 - Affected by [Korra Mindshield (D&D_References)]]
 - See also: [[Wind Walk Xphb
 - Influences [Memorial Tender Sarah]]
-- Related: [[NPC01375_Xander_Moonshadow_the_Lost
-- Requires [step_086 (phase_071)]]
+- Related: [[NPC01375_Xander_Moonshadow_the_Lost]]
 - Originates from [[Archive Index
 - Related: [The__Cathedral]]
 - Requires [[Death Slaad Xmm
@@ -228,10 +226,8 @@ Needs help with personal quest
 - Related: [step_076 (phase_076)]]
 - Requires [[Portrait NPC Quest the Bio Adaptation Crisis V1 Quest the Bio Adaptation Crisis.svg
 - Requires [Tethyan Hegemony]]
-- Influences [[Death Tyrant Xmm
-- Affected by [War Machine Assembly Halls (D&D_References)]]
-- Originates from [[08-using-ability-scores#Constitution
-- Related: [QUEST00246_Side_Quest_247]]
+- Influences [[War Machine Assembly Halls (D&D_References)]]
+- Originates from [[08-using-ability-scores#Wisdom]]
 - Leads to [[ITEM00728_Infernal_Orb_of_Truth
 - Related:
 - Leads to [Camel Xphb]]
@@ -255,20 +251,17 @@ Needs help with personal quest
 - Affected by [Shadowmere]]
 - Compare with [[Giant Wolf Spider Xmm
 - See also: [Dr. Precision Strike]]
-- Related: [[step_056 (phase_097)
-- Requires [SPELL00134_Arcane_Spell_135]]
+- Related: [[SPELL00134_Arcane_Spell_135]]
 - Influences [[Location City Surface Contacts V1 Surface Contacts.svg
 - Requires [Portrait NPC Lich Queen Morwyn the Deathless Lich Queen Morwyn the Deathless.svg]]
 - Compare with [[Ranger Skybow
 - See also: [step_095 (phase_060)]]
 - Originates from [[Assets Item Artifact Poisoners Kit Xphb V3 Poisoners Kit Xphb.png
 - Parallels [step_002 (phase_048)]]
-- Affected by [[ENC00274_Social_Encounter_275
-- See also: [diagonals]]
+- Affected by [[ENC00274_Social_Encounter_275]]
 - Leads to [[scroll-of-protection-beasts-xdmg (items)
 - Influences [mental-prison-xge (spells)]]
-- Parallels [[Cultural Districts (D&D_References)
-- Requires [QUEST00301_Side_Quest_302]]
+- Parallels [[Cultural Districts (D&D_References)]]
 - Influences [[The Growth Gardens (D&D_References)
 
 ## Visual References

@@ -339,8 +339,6 @@ iched: true -->
 
 - [[Consequence Chain 1 - Shadow Conspiracy Exposure
 - [Assets Locations Location City Master Archivist Valdric Stonewhisper Master Archivist Valdric Stonewhisper.svg]]
-- [[Senator Glaucus
-- [The Eternal Senate]]
-- [[Whisper-Touched William
-- [Senator Glaucus (D&D_References)]]
+- [[The Eternal Senate]]
+- [[Senator Glaucus (D&D_References)]]
 - [[Shadow Citizenship Act (D&D_References)]]

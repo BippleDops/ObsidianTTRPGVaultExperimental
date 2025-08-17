@@ -65,5 +65,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Depth Effect Quick Reference
-- [Depth Effect Quick Reference (D&D_References)]]
+- [[Depth Effect Quick Reference (D&D_References)]]

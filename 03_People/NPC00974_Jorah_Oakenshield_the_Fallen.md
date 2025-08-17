@@ -166,14 +166,12 @@ Seeks rare merchandise
 - Originates from [LORE0030_History_of_the_Fallen_Star]]
 - Affected by [[X-102_Portal_Ferry_Strike
 - Connects to [young-bronze-dragon-xmm (dragon)]]
-- Affected by [[QUEST00218_Personal_Quest_219
-- Affected by [Noble House Politics 2]]
+- Affected by [[QUEST00218_Personal_Quest_219]]
 - See also: [[symbol-heraldry-family-retaine-family-retaine.svg
 - Leads to [Audio_Control_Center]]
 - Related: [[Tax Commissioner Merion Goldcount 2
 - Originates from [ENC00464_Combat_Encounter_465]]
-- Leads to [[step_087 (phase_077)
-- Influences [Quest - The Healer's Burden]]
+- Leads to [[Quest - The Healer's Burden]]
 - Leads to [[umbral-vampire-tob
 - Leads to [step_074 (phase_007)]]
 - Related: [[Reality Distortion
@@ -185,8 +183,7 @@ Seeks rare merchandise
 - Affected by [LOC00138_Planes_Location_139]]
 - Influences [[step_060 (phase_072)
 - Related: [step_080 (phase_006)]]
-- Compare with [[The Temporal Convergence Storms (D&D_References)
-- See also: [step_022 (phase_013)]]
+- Compare with [[The Temporal Convergence Storms (D&D_References)]]
 - Influences [[Map Map Golden Trade Route Toll V2 Golden Trade Route Toll.svg
 - Connects to [Lady Crystal-Heart Miraleth (D&D_References)]]
 - Affected by [[Sage Currentknow
@@ -195,21 +192,18 @@ Seeks rare merchandise
 - Requires [Marcus the Jus 2]]
 - See also: [[step_029 (phase_031)
 - Influences [Assets Locations Location City Traditional Craft Districts Traditional Craft Districts.svg]]
-- Connects to [[Theoretical Physicist Marina Voidwright (D&D_References)
-- Related: [Master_People_Index]]
+- Connects to [[Theoretical Physicist Marina Voidwright (D&D_References)]]
 - Originates from [[elven-tethrin-veralde-mtf (deities)
 - Parallels [Guild Master Copper (Guilds)]]
 - Requires [[LOC0021_Bridgeford
 - Connects to
 - Leads to [sacred-statue-mpmm (construct)]]
-- Related: [[astral-projection-xphb (spells)
-- Related: [NPC01740_Nerys_Blackstone_the_Risen]]
+- Related: [[NPC01740_Nerys_Blackstone_the_Risen]]
 - Influences [[Portrait NPC Sir Theron Crystalward V2 Sir Theron Crystalward.svg
 - Compare with [Memory_Keepers]]
 - Influences [[Location City Stormwatch Keep V1 Stormwatch Keep.svg
 - Parallels [Creature Creature Goblin Hexer Xmm V2 Goblin Hexer Xmm.png]]
-- Related: [[02 a World of Your Own
-- Parallels [Portrait NPC Deep... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Related: [[Portrait NPC Deep... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Connects to [[The Cultural Heritage Center
 - See also: [Portrait NPC Lord Commander Thane Skyward V1 Lord Commander Thane Skyward.svg]]
 - Connects to [[Assets Vehicles Vehicle Ship Aether Sail Testbed Aether Sail Testbed.svg
@@ -221,8 +215,7 @@ Seeks rare merchandise
 - Leads to [SPELL0003_Mystic_Bolt]]
 - See also: [[List Spells Classes Tempest Domain
 - Requires [Prep Note 2]]
-- See also: [[NPC00597_Ysara_Ravenheart_the_Redeemed
-- Parallels [Aether Crystals 2]]
+- See also: [[NPC00597_Ysara_Ravenheart_the_Redeemed]]
 - Influences [[LORE00321_History_Entry_322
 - Compare with [Temple District (D&D_References)]]
 - Parallels [[Item Artifact Ioun Stone Greater Absorption Xdmg Ioun Stone Greater Absorption Xdmg.png
@@ -237,23 +230,18 @@ Seeks rare merchandise
 - Compare with [ability-modifier-saving-throw-examples-xphb (tables)]]
 - Influences [[Commercial Archives
 - Parallels [The Restoration Movement]]
-- Requires [[step_064 (phase_063)
-- Leads to
-- See also: [NPC01146_Orion_Zephyrblade_the_Wise]]
+- Requires [[NPC01146_Orion_Zephyrblade_the_Wise]]
 - Requires [[LORE00214_Legends_Entry_215
 - Compare with [Portrait NPC High Priestess Celeste V1 High Priestess Celeste.svg_1 (Portraits)]]
-- Leads to [[ENC00392_Combat_Encounter_393
-- Leads to [step_030 (phase_009)]]
+- Leads to [[ENC00392_Combat_Encounter_393]]
 - Connects to [[Location City Whisper Island Docks V1 Whisper Island Docks.svg
 - Parallels [step_016 (phase_036)]]
 - Parallels [[ITEM00137_Thunder_Dagger_of_Slaying
 - Leads to [talisman-of-ultimate-evil-xdmg (items)]]
 - See also: [[step_004 (phase_040)
 - Influences [Deep Dragons]]
-- Influences [[The Transition Protocols (D&D_References)
-- Parallels [step_063 (phase_093)]]
-- Leads to [[NPC00618_Aldric_Stormwind_the_Redeemed
-- Related: [QUEST00241_Personal_Quest_242]]
+- Influences [[The Transition Protocols (D&D_References)]]
+- Leads to [[NPC00618_Aldric_Stormwind_the_Redeemed]]
 - Compare with
 - Originates from [[River of Hungry Flame
 - See also: [ballista-xdmg (objects)]]

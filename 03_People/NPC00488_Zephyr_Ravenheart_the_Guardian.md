@@ -154,22 +154,19 @@ Being extorted by criminals
 
 ## Connections
 
-- Originates from [[step_071 (phase_014)
-- Parallels [NPC01307_Jorah_Ironforge_the_Lost]]
+- Originates from [[NPC01307_Jorah_Ironforge_the_Lost]]
 - Compare with [[step_040 (phase_067)
 - See also: [Crystal Jellies]]
 - Originates from [[Quest - The Seven Seals
 - Leads to [Inflict Wounds Xphb]]
-- Originates from [[MON00149_Constructs_Creature_150
-- Requires [The Rationing Authority]]
+- Originates from [[MON00149_Constructs_Creature_150]]
 - Influences [[ENC00104_Social_Encounter_105
 - Connects to [Assets Locations Location City Great Plague of Ages Past Great Plague of Ages Past.svg]]
 - Influences [[Portrait NPC Priest Faith Crystalsong V2 Priest Faith Crystalsong.svg_1 (Portraits)
 - Parallels [Dwarven Religion Dwarf Deities the Mordinsamman Mtf]]
 - Related: [[Egyptian Set
 - Compare with [step_091 (phase_041)]]
-- Compare with [[Glabrezu Xmm
-- See also: [Session_10_New_Horizons]]
+- Compare with [[Session_10_New_Horizons]]
 - Originates from [[Master Engineer Coral Pressureforge
 - Requires [NPC00799_Faelyn_Grimholt_the_Risen]]
 - Connects to [[elven-alobal-lorfiril-mtf (deities)
@@ -188,12 +185,10 @@ Being extorted by criminals
 - Compare with [Location City Curse of Eternal Winter Curse of Eternal Winter.svg]]
 - Requires [[halfling-names-clan-xge (tables)
 - Requires [Location City the Thornfield District V1 the Thornfield District.svg]]
-- Connects to [[The Pressure-Crystal Synthesis Project
-- Compare with [Indigo Deepdye (D&D_References)]]
+- Connects to [[The Pressure-Crystal Synthesis Project]]
 - See also: [[Quest - Budget Crisis
 - Connects to [QUEST00068_Side_Quest_69]]
-- Leads to [[Citizens Adaptation Alliance (D&D_References)
-- Requires [step_058 (phase_064)]]
+- Leads to [[Citizens Adaptation Alliance (D&D_References)]]
 - Originates from [[The Silver Seal 2
 - See also: [step_006 (phase_065)]]
 - Affected by [[Assets Portraits Portrait NPC Deep Fortress Network Deep Fortress Network.svg
@@ -204,20 +199,17 @@ Being extorted by criminals
 - Related: [LORE00040_Legends_Entry_41]]
 - See also: [[Guardian of Nature Xge
 - Parallels [Arcane Vigor Xphb]]
-- Influences [[International Temporal Safety Counci (D&D_References)
-- Leads to [Thri Kreen Psion Xmm]]
+- Influences [[International Temporal Safety Counci (D&D_References)]]
 - Influences [[Location City the Harbor Guild the Harbor Guild.svg
 - Connects to [step_063 (phase_084)]]
 - Related:
-- Parallels [[Wand Xphb
-- See also: [Quest - The Final Tide]]
+- Parallels [[Quest - The Final Tide]]
 - Affected by
 - Leads to [[Smuggler (D&D_Statblocks)
 - Connects to [LOC00254_Planes_Location_255]]
 - Influences [[ITEM01174_Pure_Herb_of_Fortune
 - Connects to [armor-of-vulnerability-bludgeoning-xdmg (items)]]
-- Requires [[NPC01838_Cedric_Brightblade_the_Swift
-- Related: [Hezrou Xmm]]
+- Requires [[NPC01838_Cedric_Brightblade_the_Swift]]
 - Parallels [[Quest - The Shattered Memories_1 (01_Adventures)
 - Influences [Quest The Democratic Balance]]
 - Parallels [[Emergency Protocol 2
@@ -226,18 +218,15 @@ Being extorted by criminals
 - Parallels
 - Originates from [[Equipment_Inventory
 - See also: [Portrait NPC High Priestess Celeste V1 High Priestess Celeste.svg_1 (Portraits)]]
-- Affected by [[Foreign Trade Envoy Lysander Farreach
-- Connects to [step_012 (phase_030)]]
-- Parallels [[The Hadean Depth
-- Parallels [QUEST00015_Main_Quest_16]]
+- Affected by [[Foreign Trade Envoy Lysander Farreach]]
+- Parallels [[QUEST00015_Main_Quest_16]]
 - Connects to [[step_011 (phase_046)
 - Parallels [step_082 (phase_019)]]
 - Requires [[half-elf-parents-xge (tables)
 - Leads to [grappling-hook-xphb (items)]]
 - Leads to [[step_092 (phase_047)
 - Originates from [Portrait NPC Quest the Dying Forest V2 Quest the Dying Forest.svg]]
-- Related: [[step_042 (phase_004)
-- Parallels [NPC01367_Lyanna_Xendar_the_Wise]]
+- Related: [[NPC01367_Lyanna_Xendar_the_Wise]]
 - See also: [[Assets Locations Location City Wealthy Goldcurrent Wealthy Goldcurrent.svg
 - Connects to
 - Affected by [QUEST00091_Personal_Quest_92]]
@@ -252,8 +241,7 @@ Being extorted by criminals
 - Leads to
 - Requires [[Portrait NPC Parliament Loyalists V1 Parliament Loyalists.svg_1 (Portraits)
 - Requires [Assets Locations Location City the Hopekeeper Academy V1 the Hopekeeper Academy.svg]]
-- Connects to [[Guild Seal Document Silverscale Consortiu
-- Compare with [ITEM00363_Venomous_Sword_of_Accuracy]]
+- Connects to [[Guild Seal Document Silverscale Consortiu]]
 
 ## Visual References
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png

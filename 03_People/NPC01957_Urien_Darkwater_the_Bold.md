@@ -169,16 +169,12 @@ Blackmails party into service
 
 - Compare with [[Ambassador Neutral 2
 - Connects to [step_080 (phase_099)]]
-- Connects to [[Crystalline Wastes (D&D_References)
-- Connects to [The Seven Shards]]
-- Requires [[Thessaly the Illuminated (D&D_References)
-- Connects to [SPELL00135_Divine_Spell_136]]
-- Connects to [[Memorial Guardians
-- Connects to [Portrait NPC Bank... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Connects to [[Crystalline Wastes (D&D_References)]]
+- Requires [[Thessaly the Illuminated (D&D_References)]]
+- Connects to [[Portrait NPC Bank... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Connects to [[MON0002_Fire_Stalker
 - Requires [step_061 (phase_068)]]
-- Originates from [[NPC01086_Fiora_Moonshadow_the_Scholar
-- Connects to [NPC00807_Alaric_Crystalbrook_the_Cunning]]
+- Originates from [[NPC00807_Alaric_Crystalbrook_the_Cunning]]
 - Influences [[Figuring Out Alien Technology
 - Originates from [Bearded Devil Xmm]]
 - Requires [[step_005 (phase_038)
@@ -187,15 +183,13 @@ Blackmails party into service
 - Originates from [step_036 (phase_043)]]
 - Influences [[Portrait NPC Shadow Duchess Nyx V2 Shadow Duchess Nyx.svg_1 (Portraits)
 - Compare with [druid-xphb-circle-of-the-moon-xphb (classes)]]
-- Connects to [[Revolutionary Safe Houses
-- Influences [Family Retainer (D&D_References)]]
+- Connects to [[Family Retainer (D&D_References)]]
 - Requires [[list-spells-classes-celestial-patron-xphb (lists)
 - See also: [NPC Cross-World Connections]]
 - See also: [[Location City Memory Recording Chambers V1 Memory Recording Chambers.svg
 - See also: [SPELL00047_Nature_Spell_48]]
 - Connects to
-- Connects to [[webs-xdmg (traps-hazards)
-- Requires [step_031 (phase_022)]]
+- Connects to [[webs-xdmg (traps-hazards)]]
 - Parallels [[Community Mediator Balance Wright
 - Requires [ITEM00689_Fortified_Plate_of_Fortitude]]
 - Parallels [[step_031 (phase_090)
@@ -214,31 +208,26 @@ Blackmails party into service
 - Related: [step_086 (phase_010)]]
 - Originates from [[mace-of-disruption-xdmg (items)
 - Connects to [High Priestess Marina Oracleguard]]
-- Influences [[ITEM00171_Thunder_Dagger_of_Wounding
-- See also: [Text Generator Templates - Convert Monster]]
+- Influences [[Text Generator Templates - Convert Monster]]
 - Requires [[Assets Locations Location City Bridge Currentcrosser Bridge Currentcrosser.svg
 - Related: [Location City Choir Master Celestine Hymnsinger Choir Master Celestine Hymnsinger.svg]]
 - Related: [[pike-xphb (items)
 - Affected by [ITEM01352_Masterwork_Tool_Kit_of_Convenience]]
-- Affected by [[NPC01589_Qadim_Proudmore_the_Broken
-- Related: [step_031 (phase_067)]]
+- Affected by [[NPC01589_Qadim_Proudmore_the_Broken]]
 - See also: [[ITEM00352_Cursed_Sword_of_Slaying
 - Influences [Assets Locations Location City Palace Guardians V1 Palace Guardians.svg]]
 - Requires [[giant-vulture-xmm (monstrosity)
 - Affected by [elven-chain-xdmg (items)]]
 - Originates from [[Creature Creature Maw Demon Mpmm V3 Maw Demon Mpmm.png
 - Leads to [Crystal Sanctum 2]]
-- Leads to [[Adaptation Medical Society (Groups)
-- Leads to [The First King's Diary (D&D_References)]]
-- Leads to [[ITEM0073_Blessed_Shield_of_the_Dawn
-- Connects to [Parliament Of Echoes]]
+- Leads to [[The First King's Diary (D&D_References)]]
+- Leads to [[ITEM0073_Blessed_Shield_of_the_Dawn]]
 - Influences [[step_031 (phase_046)
 - Leads to [Deep Guard 2]]
 - Related: [[Warrior Thane Visionward
 - Originates from
 - Compare with [Instrument of the Bards Doss Lute Xdmg]]
-- See also: [[nothic-xmm (aberration)
-- Leads to [MON00059_Aberrations_Creature_60]]
+- See also: [[MON00059_Aberrations_Creature_60]]
 - Parallels [[step_007 (phase_020)
 - Related: [INV-003.png (Art)]]
 - Compare with [[step_012 (phase_069)
@@ -247,14 +236,12 @@ Blackmails party into service
 - Leads to [SPELL00061_Nature_Spell_62]]
 - Parallels [[Assets Locations Location City Codex of Forgotten Depths V1 Codex of Forgotten Depths.svg
 - Compare with [LOC00142_Dungeons_Location_143]]
-- Requires [[LOC00095_Wilderness_Location_96
-- Related: [LORE00035_History_Entry_36]]
+- Requires [[LOC00095_Wilderness_Location_96]]
 - Influences [[horseshoes-of-speed-xdmg (items)
 - Parallels [step_026 (phase_017)]]
 - Influences [[location-city-royal-quarters-v1-royal-quarters.svg
 - Affected by [step_060 (phase_037)]]
-- Parallels [[NPC00372_Alaric_Grimholt
-- Parallels [NPC01379_Baelor_Quicksilver_the_Broken]]
+- Parallels [[NPC01379_Baelor_Quicksilver_the_Broken]]
 - Compare with [[step_010 (phase_042)
 - Originates from [step_046 (phase_088)]]
 - Parallels [[Trip Attack Xphb
@@ -264,8 +251,7 @@ Blackmails party into service
 - Related: [Assets Locations Location City the Spectral Gallery the Spectral Gallery.svg]]
 - See also: [[step_011 (phase_044)
 - Requires [Location City Marina Oracleguard V1 Marina Oracleguard.svg]]
-- Originates from [[Marilith Xmm
-- Compare with [SPELL00164_Nature_Spell_165]]
+- Originates from [[SPELL00164_Nature_Spell_165]]
 - Parallels [[LOC00029_Cities_Location_30
 
 ## Visual References

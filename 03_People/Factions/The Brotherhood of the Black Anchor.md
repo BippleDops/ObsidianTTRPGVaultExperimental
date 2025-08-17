@@ -168,5 +168,4 @@ Things widely suspected
 ## References
 
 -
-- [[The Hidden Cove of Whispers
-- [The Hidden Cove of Whispers (D&D_References)]]
+- [[The Hidden Cove of Whispers (D&D_References)]]

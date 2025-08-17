@@ -47,43 +47,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-### Sensory Improvements
-
-- Add smells, sounds, and textures unique to this culture
-
-### Superstitions Improvements
-
-- List common superstitions and their origins
-
-### Contradictions Improvements
-
-- Include cultural hypocrisies and double standards
-
-### Hospitality Improvements
-
-- Explain guest rights and host obligations
-
-### Oral_Tradition Improvements
-
-- Add folk tales and children's stories
-
-## Overview
-
-1-DM Toolkit/DM Board represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
-
-### Basic Information
-1-DM Toolkit/DM Board can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
-- Physical: A tangible thing or place
-- Conceptual: An idea or belief system
-- Event: Something that happened or will happen
-- Process: An ongoing or repeatable occurrence
-
-### Detailed Explanation
-The full nature of 1-DM Toolkit/DM Board involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
-
-### [Historical Context]]
+- Describe how this culture exists in other [[region]]
 The origins and development of 1-DM Toolkit/DM Board trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -277,17 +241,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[Peoples
-
-### The Golden Era (500 years ago)
-- Economic prosperity
-- Cultural renaissance
-- Expansion of territory
-
-### The Time of Troubles (100 years ago)
-- Civil war
-- Natural disasters
-- Current [Power Structures]] established
+- War with indigenous [[People]] established
 
 ## Economic Structure
 

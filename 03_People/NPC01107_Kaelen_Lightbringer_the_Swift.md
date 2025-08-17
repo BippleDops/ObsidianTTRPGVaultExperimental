@@ -160,8 +160,7 @@ Has map to lost treasure
 
 - Influences [[International Peace Organization
 - Originates from [ITEM01222_Distilled_Elixir_of_Healing]]
-- Requires [[Merchant Marine Shadowcargo
-- Compare with [NPC01673_Malakai_Darkwater_the_Guardian]]
+- Requires [[NPC01673_Malakai_Darkwater_the_Guardian]]
 - Connects to [[step_061 (phase_051)
 - Related:
 - See also: [urban-encounters-levels-1720-xge (tables)]]
@@ -197,8 +196,7 @@ Has map to lost treasure
 - Related: [[04_Resources_Assets_Locations_location-city-ghost-of-dr-thaddeus-brightwater-ghost-of-dr-thaddeus-brightwater.svg
 - Compare with
 - Connects to [NPC01888_Hestara_Ravenheart_the_Redeemed]]
-- See also: [[Ranger Captain Orin Swiftarrow (D&D_References)
-- Connects to [Goldspire Confederacy (D&D_Statblocks)]]
+- See also: [[Ranger Captain Orin Swiftarrow (D&D_References)]]
 - Leads to [[Assets Symbols Symbol Heraldry Deputy Archmerchant Scroll Deepmin Deputy Archmerchant Scroll Deepmin.svg
 - Leads to
 - Originates from [Location_Generator]]
@@ -219,16 +217,13 @@ Has map to lost treasure
 - Affected by [ENC00110_Combat_Encounter_111]]
 - Originates from [[step_022 (phase_056)
 - Related: [Gold Idol Xdmg]]
-- Affected by [[Void Integration Research (D&D_References)
-- Connects to [step_040 (phase_067)]]
+- Affected by [[Void Integration Research (D&D_References)]]
 - Connects to [[greyhawk-istus-xdmg (deities)
 - Compare with [ITEM01301_Simple_Rope_of_Quality]]
-- Originates from [[Quest - The Forge of Memory
-- See also: [LOC0133_WestGate]]
+- Originates from [[Quest - The Forge of Memory]]
 - Leads to [[Assets Locations Location City Sacred Grief Protocols Sacred Grief Protocols.png
 - Originates from [Assets Symbols Symbol Heraldry Purist Coalition Thugs Purist Coalition Thugs.svg]]
-- Parallels [[Ambassador Marina Tidecaller 2
-- Parallels [Ambassador Marina Tidecaller (D&D_References)]]
+- Parallels [[Ambassador Marina Tidecaller (D&D_References)]]
 - Compare with [[QUEST00103_Side_Quest_104
 - See also: [step_093 (phase_085)]]
 - Parallels [[step_037 (phase_027)
@@ -244,8 +239,7 @@ Has map to lost treasure
 - Affected by
 - Originates from [[step_061 (phase_044)
 - Influences [Clothes of Mending Xdmg]]
-- Influences [[Chain Shirt Xphb
-- Connects to [Defense Captain Ironguard]]
+- Influences [[Defense Captain Ironguard]]
 - Connects to [[step_061 (phase_053)
 - Requires [Intellect Devourer Xmm]]
 - Parallels

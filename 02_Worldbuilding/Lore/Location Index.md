@@ -1,7 +1,6 @@
 ---
 
-title: [[location Index
-type: [Lore]]
+title: [[Location Index]]
 tags:
 - lore
 - aerial

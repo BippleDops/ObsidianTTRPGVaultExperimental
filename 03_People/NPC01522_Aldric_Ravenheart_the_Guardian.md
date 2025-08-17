@@ -153,25 +153,21 @@ Forming expedition to dangerous location
 
 ## Connections
 
-- Influences [[Sir Theron Crystalward (D&D_References)
-- Influences [Temporal Research Institute]]
+- Influences [[Sir Theron Crystalward (D&D_References)]]
 - Requires [[Secondary Tables Arcane Matters Xge
 - Compare with [Blade Barrier Xphb]]
 - Affected by [[NPC01418_Malakai_Darkwater_the_Broken
 - Related: [Location City Keeper Valdris Goldvault Keeper Valdris Goldvault.svg]]
 - Connects to
-- Connects to [[step_063 (phase_024)
-- Compare with [Downtime Activity Researching Phb]]
+- Connects to [[Downtime Activity Researching Phb]]
 - Affected by [[Assets Locations Location City the Crystal Wardens the Crystal Wardens.svg
 - Influences [LORE0099_Secret_of_the_Lost_City]]
-- See also: [[LOC00251_Dungeons_Location_252
-- Parallels [Examples of Faction Ranks]]
+- See also: [[LOC00251_Dungeons_Location_252]]
 - Connects to [[LORE00098_Prophecies_Entry_99
 - See also: [Morkoth Mpmm]]
 - Leads to [[Sun Blade Xdmg
 - Leads to [step_088 (phase_076)]]
-- Related: [[EVENT00052_Natural_Event_53
-- Leads to [NPC01238_Branwen_Ashford_the_Lost]]
+- Related: [[NPC01238_Branwen_Ashford_the_Lost]]
 - Leads to [[step_019 (phase_050)
 - Compare with [Master Resonant 2]]
 - See also: [[modern-bullet (items)
@@ -189,16 +185,13 @@ Forming expedition to dangerous location
 - Related: [ITEM00207_Blessed_Staff_of_the_Ancients]]
 - Compare with [[ITEM00259_Frost_Sword_of_Accuracy
 - Originates from [ITEM00992_Pure_Powder_of_Swiftness]]
-- Leads to [[SPELL00150_Arcane_Spell_151
-- Influences [step_043 (phase_091)]]
+- Leads to [[SPELL00150_Arcane_Spell_151]]
 - Originates from [[Quest - The Family Reunio_1 (01_Adventures)
 - Parallels [NPC01677_Jorah_Grimholt_the_Guardian]]
 - Related: [[assassins-blood-xdmg (items)
 - Leads to [Location City Reality Monitoring Specialists Reality Monitoring Specialists.svg]]
-- Influences [[project-image-xphb (spells)
-- Originates from [Crystal Assessor Pearl Gradewell (D&D_References)]]
-- Affected by [[Coral Xdmg
-- Compare with [Resonance Peaks (D&D_References)]]
+- Influences [[Crystal Assessor Pearl Gradewell (D&D_References)]]
+- Affected by [[Resonance Peaks (D&D_References)]]
 - Leads to [[step_015 (phase_086)
 - Originates from [step_069 (phase_096)]]
 - See also: [[ITEM01188_Lesser_Incense_of_Clarity
@@ -227,18 +220,15 @@ Forming expedition to dangerous location
 - Compare with [Assets Locations Location City Senator S Widow Marcella Senator S Widow Marcella.svg]]
 - Connects to [[step_007 (phase_039)
 - Parallels [The Community Bridge]]
-- Influences [[Sorcerer Xphb
-- Connects to [MON00087_Undead_Creature_88]]
+- Influences [[MON00087_Undead_Creature_88]]
 - Originates from [[random-traps-trap-damage-severity (tables)
 - Parallels
 - Related: [ITEM00168_Blazing_Bow_of_Slaying]]
-- Connects to [[relic-sloth-scc
-- Influences [Underground Smuggling Networks (D&D_References)]]
+- Connects to [[Underground Smuggling Networks (D&D_References)]]
 - See also:
 - Related: [[Pelagic the Current-Walker (D&D_References)
 - Connects to [Handout Handout Ship Manifests with Stamps Ship Manifests with Stamps.png]]
-- Connects to [[Manta Ray (D&D_References)
-- Affected by [Lighthouse Pea]]
+- Connects to [[Manta Ray (D&D_References)]]
 - Related: [[02_Worldbuilding_Locations_Crystal_Conservatory
 - Requires [Candle of Invocation Xdmg]]
 - Related: [[Assets Locations Location City Bubble District V1 Bubble District.svg

@@ -161,8 +161,7 @@ Caravan needs guards
 
 ## Connections
 
-- See also: [[NPC01640_Felicia_Brightblade_the_Lost
-- See also: [MON00158_Undead_Creature_159]]
+- See also: [[NPC01640_Felicia_Brightblade_the_Lost]]
 - Leads to [[MON00014_Constructs_Creature_15
 - Parallels [Portrait NPC the Crimson Shard Guardian V2 the Crimson Shard Guardian.svg]]
 - Affected by [[The Memory Thief (D&D_References)
@@ -172,51 +171,38 @@ Caravan needs guards
 - Parallels [ITEM01415_Practical_Lantern_of_Convenience]]
 - Leads to [[Quest - Hunt the Shadows
 - Originates from [ITEM00002_Frost_Sword_of_Slaying]]
-- Parallels [[MON00081_Aberrations_Creature_82
-- Affected by [step_053 (phase_047)]]
+- Parallels [[MON00081_Aberrations_Creature_82]]
 - Affected by [[The Sacred Pearl Beds
 - Related: [dawn-war-torog-dmg (deities)]]
 - Connects to [[Quest - The Successor's Burden
 - Parallels [location-city-crimson-reef-crimson-reef.svg]]
-- Influences [[The First Queen's Shade
-- Related: [Legal Advocate Rights Defender (D&D_References)]]
+- Influences [[Legal Advocate Rights Defender (D&D_References)]]
 - Requires
-- Connects to [[Scholar Wisdom Clearwater 2
-- Affected by [Tax Commissioner Merion Goldcount 2]]
+- Connects to [[Tax Commissioner Merion Goldcount 2]]
 - Related: [[bastions
 - Originates from [The Divine Trial]]
 - Requires [[Portrait NPC Vex Shadowthorn the Kingpin V2 Vex Shadowthorn the Kingpin.svg_1 (Portraits)
 - Connects to [Assets Locations Location City Insurance Industry V1 Insurance Industry.svg]]
-- Leads to [[The Exchange Point (D&D_References)
-- Parallels [Construct Spirit Stone Xphb]]
+- Leads to [[The Exchange Point (D&D_References)]]
 - Connects to [[Assets Portraits Portrait NPC Memory Merchants Memory Merchants.svg
 - Parallels [SPELL00006_Arcane_Spell_7]]
-- Originates from [[step_098 (phase_078)
-- See also: [Aether Crystals (D&D_References)]]
-- Influences [[The Shadowmere (D&D_References)
-- Originates from [step_084 (phase_064)]]
-- Requires [[ENC00165_Social_Encounter_166
-- Requires [step_044 (phase_051)]]
+- Originates from [[Aether Crystals (D&D_References)]]
+- Influences [[The Shadowmere (D&D_References)]]
+- Requires [[ENC00165_Social_Encounter_166]]
 - Connects to [[Trade Escort Player
 - Requires [step_001 (phase_059)]]
 - See also: [[Diplomatic Enclave 2
 - Influences [step_050 (phase_087)]]
 - Related: [[Session_Recaps
 - Affected by [ITEM00977_Superior_Potion_of_Swiftness]]
-- Originates from [[Deputy Archmerchant Scroll Deepmind
-- Compare with [Misty Step Xphb]]
-- Leads to [[Master Adapter Fluid Depthshifter
-- Influences [step_076 (phase_097)]]
+- Originates from [[Deputy Archmerchant Scroll Deepmind]]
+- Leads to [[Master Adapter Fluid Depthshifter]]
 - Affected by [[Item Artifact Dagger of Venom Xdmg V7 Dagger of Venom Xdmg.png
 - Originates from [step_011 (phase_052)]]
-- Originates from [[Court Herald Titus (D&D_References)
-- See also: [step_095 (phase_056)]]
-- Compare with [[Grand Engineer Prism Masterwork
-- See also: [Comprehensive-World-Connection-Guide 2]]
-- Parallels [[Frequency Manipulatio (D&D_References)
-- Connects to [Divine Transformation Theolog]]
-- Influences [[Cloak of Flies Xge
-- Requires [QUEST00230_Side_Quest_231]]
+- Originates from [[Court Herald Titus (D&D_References)]]
+- Compare with [[Comprehensive-World-Connection-Guide 2]]
+- Parallels [[Frequency Manipulatio (D&D_References)]]
+- Influences [[QUEST00230_Side_Quest_231]]
 - Influences [[Spell Gem Ruby Oota
 - Affected by [step_069 (phase_076)]]
 - Related: [[Cliffside Manors (D&D_References)
@@ -227,12 +213,9 @@ Caravan needs guards
 - Compare with [LORE00282_History_Entry_283]]
 - Connects to [[step_060 (phase_010)
 - Connects to [Fabricate Xphb]]
-- Affected by [[Aethermoor Daily Rhythms (D&D_References)
-- Compare with [magic-item-table-b (tables)]]
-- Requires [[Lich-Queen Morwyn the Deathless (D&D_References)
-- Related: [Student Researcher Brightwater 2]]
-- Requires [[derro-mpmm (aberration)
-- Affected by [Temporal Diving Equipment (D&D_References)]]
+- Affected by [[Aethermoor Daily Rhythms (D&D_References)]]
+- Requires [[Lich-Queen Morwyn the Deathless (D&D_References)]]
+- Requires [[Temporal Diving Equipment (D&D_References)]]
 - Affected by
 - Originates from [[Traditional Craft Districts
 - Affected by [MON00116_Constructs_Creature_117]]
@@ -242,8 +225,7 @@ Caravan needs guards
 - Related: [Regulatory Authority Directo]]
 - Leads to [[Deities of the Forgotten Realms Phb
 - Originates from [NPC00536_Brenna_Darkwater_the_Redeemed]]
-- Related: [[NPC01436_Zephyr_Moonshadow_the_Mystic
-- See also: [ITEM00313_Frost_Crossbow_of_Power]]
+- Related: [[NPC01436_Zephyr_Moonshadow_the_Mystic]]
 - Requires [[Location City Infrastructure Development V1 Infrastructure Development.svg
 - Requires [location-city-depth-raiders-depth-raiders.svg]]
 - Related: [[Symbol Heraldry Established Family Communitie Established Family Communitie.svg

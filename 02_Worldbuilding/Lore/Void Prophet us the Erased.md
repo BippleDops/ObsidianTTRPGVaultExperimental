@@ -16,7 +16,7 @@ This topic is referenced in [Void-Touched]] Depths]] and other parts of the camp
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Void Touch Depths]]
+- Referenced by: [[Void Touch]]
 - Related topics in the same category
 
 ## Details
@@ -29,6 +29,5 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[The Void Touched Depths
-- [Void Prophet Nullus the Erased]]
+- [[Void Prophet Nullus the Erased]]
 - [[The Void Touched Depths (D&D_Statblocks)]]

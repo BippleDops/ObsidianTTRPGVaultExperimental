@@ -25,5 +25,8 @@
   "alt_text": "Concept art of aquatic-troll-rot with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-aquatic-troll-rot-aquatic-troll-rot.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-aquatic-troll-rot-aquatic-troll-rot.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:50.959Z",
+  "generationMethod": "ComfyUI"
 }

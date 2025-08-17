@@ -52,4 +52,4 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [Quest - The Missing Fleet]]
-- [[Quest - The Missing Fleet_1 (01_Adventures)]]
+- [[Quest - The Missing Fleet]]

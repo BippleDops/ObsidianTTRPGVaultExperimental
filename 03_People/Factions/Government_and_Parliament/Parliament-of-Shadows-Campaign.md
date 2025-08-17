@@ -217,26 +217,16 @@ The organization's headquarters spans both realms through magical transportation
 - [Shadow Behavior Guidelines|02 Worldbuilding/Groups/Shadow Behavior Guidelines]]
 - [[The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren
 - [Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
-- [[The Crystal Throne
-
-**Key Locations**:
-- [The Inter-Realm Council Chambers]]
-- [[Cross-Realm Campaign Offices
-- [Shadow Community Political Centers]]
-- [[Communication Networks
-
-**Notable NPCs**:
-- [Campaign Director Umbra Bridgeworth]]
-- [[Electoral Strategist Marcus Votepower
-- [Community Organizer Luna Grassroots]]
+- [[The Inter-Realm Council Chambers]]
+- [[Shadow Community Political Centers]]
+- [[Campaign Director Umbra Bridgeworth]]
+- [[Electoral Strategist Marcus Votepower]]
 - [[International Coordinator Raven Crossrealm
 
 **Important Concepts**:
 - [Shadow Political Representation]]
-- [[Cross-Realm Democracy
-- [Shadow Civil Rights Movement]]
-- [[Inter-Realm Political Institutions
-- [Shadow Community Political Power]]
+- [[Shadow Civil Rights Movement]]
+- [[Inter-Realm Political Institutions]]
 
 ## Player-Facing Summary
 

@@ -290,8 +290,6 @@ Mentioned in The First Prophecy of Shadows
 
 ## References
 
-- [[Lord Marcus Shadowbane
-- [Marina-Red-Tide-Coralheart]]
-- [[Aethermoor - Session 06 The Bloodline Awakens
-- [Lord Marcus Shadowbane (D&D_References)]]
+- [[Marina-Red-Tide-Coralheart]]
+- [[Aethermoor - Session 06 The Bloodline Awakens]]
 - [[Marina-Red-Tide-Coralheart (D&D_References)]]

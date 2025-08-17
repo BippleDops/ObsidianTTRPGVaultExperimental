@@ -4,23 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: Intelligence Chief Marina Shadowcurrent
-type: lore
-updated: 2025-08-14
----
-
-# Intelligence Chief Marina Shadowcurrent
-
-## Overview
-This document contains important information regarding Intelligence Chief Marina Shadowcurrent and its role within the greater narrative.
-
-## Description
-Intelligence Chief Marina Shadowcurrent represents a significant element within the campaign world, offering various opportunities for engagement and development.
-
-## Key Information
-- **Primary Purpose**: Serves specific function within the world
-- **Connections**: [Link]]ed to multiple other elements
+- [[Intelligence Chief Marina Shadowcurrent]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details

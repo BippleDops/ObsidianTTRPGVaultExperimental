@@ -172,12 +172,10 @@ Seeks rare merchandise
 - Related: [[LORE00237_Prophecies_Entry_238
 - Affected by [QUEST00235_Personal_Quest_236]]
 - Related:
-- Connects to [[Weather and Season
-- Related: [Temporary Hit Points Xphb]]
+- Connects to [[Temporary Hit Points Xphb]]
 - Leads to [[Forgotten Realms Chauntea
 - Parallels [Dart Xphb]]
-- Parallels [[Temporal Wind Patterns
-- Related: [Shadow Noble Districts (D&D_References)]]
+- Parallels [[Shadow Noble Districts (D&D_References)]]
 - Originates from
 - Originates from [[Modern Bullets 10
 - Influences [Sergeant Surveillance]]
@@ -185,9 +183,7 @@ Seeks rare merchandise
 - Influences [twists]]
 - Related: [[step_071 (phase_020)
 - Compare with [canoloth-mpmm (fiend)]]
-- Compare with [[NPC01437_Caelum_Blackstone_the_Mystic
-- Requires
-- Requires [Gm Resources]]
+- Compare with [[NPC01437_Caelum_Blackstone_the_Mystic]]
 - Requires [[The Healing Circles
 - Related: [ITEM00687_Enchanted_Leather_of_Grace]]
 - Related:
@@ -195,46 +191,38 @@ Seeks rare merchandise
 - Connects to [step_029 (phase_014)]]
 - Connects to [[step_045 (phase_083)
 - Affected by [Dwarven Valkauna Mtf]]
-- Affected by [[Temporal Engineering Guil 2
-- Influences [step_063 (phase_069)]]
-- Related: [[SHOP00052_Magical_Shop_53
-- Affected by [Seasonal Quarters (D&D_References)]]
+- Affected by [[Temporal Engineering Guil 2]]
+- Related: [[Seasonal Quarters (D&D_References)]]
 - Connects to [[location-city-fire-crystal-fire-crystal.svg
 - Parallels [step_078 (phase_026)]]
 - Connects to [[SPELL00154_Arcane_Spell_155
 - Compare with [Assets Portraits Portrait NPC Blood in the Water Blood in the Water.svg]]
 - Influences [[Intelligence Chief Shadow Knowal (D&D_References)
 - Affected by [Assets Locations Location City Abyss Currentbinder V1 Abyss Currentbinder.svg]]
-- Connects to [[ENC00082_Social_Encounter_83
-- Affected by [Every Tavern 2]]
+- Connects to [[ENC00082_Social_Encounter_83]]
 - Connects to [[step_030 (phase_066)
 - Influences [step_081 (phase_025)]]
 - See also: [[step_083 (phase_046)
 - Compare with
 - Requires [The Citizens Protection Act 2]]
-- Parallels [[LOC00271_Towns_Location_272
-- Influences [step_038 (phase_052)]]
+- Parallels [[LOC00271_Towns_Location_272]]
 - Related: [[Assets Locations Location City Port Nimbus Port Nimbus.svg
 - Related: [MON00156_Aberrations_Creature_157]]
-- Parallels [[Theoretical Physicist Marina Voidwright 2
-- See also: [step_045 (phase_070)]]
+- Parallels [[Theoretical Physicist Marina Voidwright 2]]
 - Requires [[Diplomatic Service
 - See also: [Location City Surface Contacts Surface Contacts.svg]]
 - Connects to
 - See also: [[creature-creature-troll-xmm-v4-troll-xmm.png
 - Requires [1 Introduction (monster-manual-2014)]]
-- Parallels [[Quest Refugees of the Deep
-- Requires [Deep-Sea Agricultural Research Institut 2]]
+- Parallels [[Deep-Sea Agricultural Research Institut 2]]
 - Related: [[Deep Mother Zealots
 - Originates from [The Unknown Original 2]]
-- See also: [[Chief Medic Coral Battlehealer
-- Compare with [Wish Xphb]]
+- See also: [[Chief Medic Coral Battlehealer]]
 - Leads to [[Portrait NPC Deep Anarchists V2 Deep Anarchists.svg_1 (Portraits)
 - Related: [Giant Seahorse Xmm]]
 - Connects to [[Location City Commander Typhoon Blackheart V1 Commander Typhoon Blackheart.svg
 - Parallels [Assets Locations Location City Planning Director Victor Visionkeeper Planning Director Victor Visionkeeper.svg]]
-- See also: [[random-height-and-weight-phb (tables)
-- Requires [International Pressure Technology Consortium]]
+- See also: [[International Pressure Technology Consortium]]
 - Parallels [[Deep Guard (D&D_References)
 - Leads to [ITEM01269_Pure_Crystal_of_Fortune]]
 - Related: [[Portrait NPC Captain Dara Ironwill Captain Dara Ironwill.svg
@@ -243,8 +231,7 @@ Seeks rare merchandise
 - Requires [Lyra Voidweave]]
 - Requires [[cobblers-tools-xphb (items)
 - Parallels [QUEST00054_Side_Quest_55]]
-- Related: [[Conjure Fey Xphb
-- See also: [Environmental Monitor Reef Ecowatch (D&D_References)]]
+- Related: [[Environmental Monitor Reef Ecowatch (D&D_References)]]
 - Compare with
 - Leads to
 - Influences [[The Silverscale Consortium
@@ -252,18 +239,13 @@ Seeks rare merchandise
 - Affected by
 - Influences [[The Deep Silence
 - Leads to [step_076 (phase_063)]]
-- Leads to [[MOC_Lore
-- Parallels [Keeper of the Shattered Crown Marcus]]
+- Leads to [[Keeper of the Shattered Crown Marcus]]
 - Connects to
 - Compare with [[step_043 (phase_088)
 - Parallels [step_004 (phase_037)]]
 - See also: [[step_057 (phase_032)
 - Compare with [Assets Locations Location City Exotic Imports Market Exotic Imports Market.svg]]
-- Originates from [[The Seven Breathing Stones
-- See also:
-
-## Visual References
-![03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
+- Originates from [[The Seven Breathing Stones]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png
 ![03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
 

@@ -174,8 +174,7 @@ Wants rivals investigated
 - Leads to
 - Connects to [[LORE00172_Legends_Entry_173
 - Leads to [Bioluminescence]]
-- Leads to [[step_003 (phase_031)
-- Related: [Welfare Director Caretake 2]]
+- Leads to [[Welfare Director Caretake 2]]
 - Parallels [[Handout Handout Privateer Letter of Marque V1 Privateer Letter of Marque.png
 - Compare with [Treble-Echo Whistle Brainsplitter]]
 - Requires
@@ -183,8 +182,7 @@ Wants rivals investigated
 - Originates from [incubus-xmm (fiend)]]
 - Related: [[Keeper Luminous Truehart
 - Compare with [Vex Shadowthorn's Apprentices (People)]]
-- Connects to [[Quick_Encounter_Calculator
-- Parallels [Dockworkers' Union (D&D_References)]]
+- Connects to [[Dockworkers' Union (D&D_References)]]
 - Affected by [[step_067 (phase_071)
 - Leads to [step_070 (phase_012)]]
 - Leads to
@@ -197,8 +195,7 @@ Wants rivals investigated
 - Influences [EVENT00062_Natural_Event_63]]
 - Influences [[LOC00075_Towns_Location_76
 - Influences [Assets Locations Location City Divine Magic Divine Magic.svg]]
-- Parallels [[LOC00079_Cities_Location_80
-- See also: [Merger Transit Zones]]
+- Parallels [[LOC00079_Cities_Location_80]]
 - Influences [[The Deep Territories
 - Related:
 - Requires [The Cipher Current 2]]
@@ -217,8 +214,7 @@ Wants rivals investigated
 - Related: [[ITEM0142_Glorious_Shield_of_Shadows
 - Parallels
 - Compare with [Parliament of Echoes - Shadow Chamber]]
-- Influences [[QUEST0011_Escape_the_Demons
-- Affected by [storehouse]]
+- Influences [[QUEST0011_Escape_the_Demons]]
 - Requires [[Hidden Sanctuary
 - Connects to [chalcedony-xdmg (items)]]
 - Affected by [[Assets Locations Location City Master Archivist Thomas Scrollkeeper Master Archivist Thomas Scrollkeeper.png
@@ -227,10 +223,8 @@ Wants rivals investigated
 - Parallels [Elf Eladrin Dmg]]
 - Influences [[step_069 (phase_038)
 - Influences [Item_Catalog_Complete.md]]
-- Influences [[Merchant Family Alliances 2
-- Influences [Pressure Palace]]
-- Originates from [[Marcus Thornwhispe
-- Parallels [Luminary Marcus Healwright]]
+- Influences [[Merchant Family Alliances 2]]
+- Originates from [[Luminary Marcus Healwright]]
 - Related: [[ENC00111_Social_Encounter_112
 - Parallels [Assets Locations Location City Artificer S Row V1 Artificer S Row.svg]]
 - Influences [[step_030 (phase_006)
@@ -251,10 +245,8 @@ Wants rivals investigated
 - Related: [The Perfect Symbiosis]]
 - Influences [[Assets Locations Location City Merchant Quarter Districts Merchant Quarter Districts.svg
 - See also: [LORE00261_Prophecies_Entry_262]]
-- Influences [[The Bone Bridges (D&D_References)
-- Originates from [step_078 (phase_075)]]
-- Leads to [[deck-of-many-things#The%20Void
-- Related: [NPC01193_Felicia_Thornweave_the_Wanderer]]
+- Influences [[The Bone Bridges (D&D_References)]]
+- Leads to [[deck-of-many-things#Key]]
 - Affected by [[Dissolution_Chambers (02_Worldbuilding)
 - See also: [The Verdant Reach]]
 - Influences [[Faerie Dragon Youth Xmm
@@ -262,8 +254,7 @@ Wants rivals investigated
 - Requires [[Religious Communities 2
 - Connects to
 - Compare with [LOC00089_Towns_Location_90]]
-- Influences [[Intel Master Raven Shadowsigh 2
-- Related: [ITEM0123_Divine_Circlet_of_the_Dawn]]
+- Influences [[ITEM0123_Divine_Circlet_of_the_Dawn]]
 - Originates from [[Location City Sacred Historian Coral Deepscribe Sacred Historian Coral Deepscribe.svg
 - Related: [Location City Aquabyssos Government V1 Aquabyssos Government.svg]]
 - Connects to [[Assets Locations Location City Healer Tide Touch V1 Healer Tide Touch.svg

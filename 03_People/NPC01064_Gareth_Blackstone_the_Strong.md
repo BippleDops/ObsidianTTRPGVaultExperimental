@@ -167,8 +167,7 @@ Has map to lost treasure
 - Parallels
 - Related: [[portrait-npc-memory-commerce-memory-commerce.svg_1 (Portraits)
 - See also: [Assets Locations Location City the Portal Wars V1 the Portal Wars.svg]]
-- See also: [[Portrait NPC Gall... Related To: Local Political Structure Connected Plots: to Be Developed
-- Affected by [step_039 (phase_012)]]
+- See also: [[Portrait NPC Gall... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Leads to
 - Related: [[work-wages-xge (tables)
 - Originates from [Major Trading Companies 2]]
@@ -184,11 +183,8 @@ Has map to lost treasure
 - Affected by [[step_095 (phase_069)
 - Related: [dark-gift-of-zrin-hala-the-howling-storm-cos (rewards)]]
 - Related:
-- Leads to [[step_017 (phase_005)
-- See also:
-- Affected by [Chief Engineer Vera Steamheart (D&D_References)]]
-- Compare with [[The Echo Succession (D&D_References)
-- Originates from [step_045 (phase_040)]]
+- Leads to [[Chief Engineer Vera Steamheart (D&D_References)]]
+- Compare with [[The Echo Succession (D&D_References)]]
 - Compare with [[skills#Intimidation
 - See also: [Portrait NPC Lord Flux the Inconsistent V1 Lord Flux the Inconsistent.svg]]
 - Leads to [[QUEST00398_Side_Quest_399
@@ -222,16 +218,12 @@ Has map to lost treasure
 - Leads to [Queen Seraphina 3]]
 - Requires [[Reflection Captain Vantage
 - Compare with [step_036 (phase_007)]]
-- See also: [[Crystal Research Facilities
-- Influences [Maritime Security Chief Reef (D&D_References)]]
-- Compare with [[ENC0060_Random_Encounter_61
-- See also: [step_061 (phase_099)]]
+- See also: [[Maritime Security Chief Reef (D&D_References)]]
+- Compare with [[ENC0060_Random_Encounter_61]]
 - See also: [[Assets Locations Location City the Crystal Cathedral of Pure Light the Crystal Cathedral of Pure Light.svg
 - Related: [Embroidered Silk and Velvet Mantle Set with Numerous Moonstones Xdmg]]
-- Related: [[step_001 (phase_038)
-- Compare with [NPC00791_Hilda_Zephyrblade_the_Scholar]]
-- Leads to [[LOC00061_Planes_Location_62
-- Leads to [NPC01579_Aldric_Proudmore_the_Broken]]
+- Related: [[NPC00791_Hilda_Zephyrblade_the_Scholar]]
+- Leads to [[NPC01579_Aldric_Proudmore_the_Broken]]
 - Compare with [[Map Map Gloom Gardens Paths V2 Gloom Gardens Paths.svg
 - Requires
 - Influences [MON00019_Aberrations_Creature_20]]
@@ -245,23 +237,18 @@ Has map to lost treasure
 - Affected by [portrait-npc-mayor-s-manor-mayor-s-manor.svg_1 (Portraits)]]
 - Connects to [[QUEST0045_The_Forbidden_Treasure
 - Compare with [Depth Cardinal Wisdom Voidseeke 2]]
-- Affected by [[Diplomat Supreme International (D&D_References)
-- Requires [EVENT00004_Political_Event_5]]
-- Affected by [[Political Maneuvering (D&D_References)
-- Compare with [giant-wolf-spider-xmm]]
-- Requires [[QUEST00109_Main_Quest_110
-- Parallels [MON00163_Constructs_Creature_164]]
+- Affected by [[Diplomat Supreme International (D&D_References)]]
+- Affected by [[Political Maneuvering (D&D_References)]]
+- Requires [[MON00163_Constructs_Creature_164]]
 - Connects to [[Identify the Partys Goals Other Goals
 - Parallels
 - Compare with [Culture_Builder]]
 - Affected by [[Assets Locations Location City Kelp Silk V1 Kelp Silk.svg
 - Connects to [location-city-spy-games-spy-games.svg]]
-- Related: [[step_060 (phase_100)
-- Compare with [LOC00047_Wilderness_Location_48]]
+- Related: [[LOC00047_Wilderness_Location_48]]
 - Connects to [[Investigation Procedures (D&D_References)
 - Affected by [02_Worldbuilding_Lore_Dock_Worker_Tomás]]
-- Parallels [[Temporal Protection
-- Compare with [System Cli Spells School Abjuration]]
+- Parallels [[System Cli Spells School Abjuration]]
 
 ## Visual References
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png

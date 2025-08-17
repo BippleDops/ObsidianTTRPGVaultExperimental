@@ -1,7 +1,6 @@
 ---
 
-title: Factions [[Abyssal Courts
-type: [Lore]]
+title: Factions [[Abyssal Courts]]
 tags:
 - lore
 - active

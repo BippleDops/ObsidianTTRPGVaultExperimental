@@ -262,7 +262,7 @@ Nature, Investigation
 - Affected by [[LOC00168_Planes_Location_169]]
 - Requires [[Shadow Kraken (D&D_References)
 - Parallels [Bone Scribes (D&D_References)]]
-- Originates from [[step_029 (phase_033)]]
+- Originates from
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

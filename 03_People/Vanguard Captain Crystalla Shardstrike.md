@@ -256,5 +256,4 @@ ___
 
 ## References
 
-- [[The Crystal Wardens
-- [The Crystal Wardens (D&D_References)]]
+- [[The Crystal Wardens (D&D_References)]]

@@ -283,22 +283,18 @@ Balancing research needs with educational and service responsibilities.
 
 **Key Locations**:
 - [The Umbral Medical Academy]]
-- [[Shadow Surgery Training Hospitals
-- [Medical Research Laboratories]]
+- [[Shadow Surgery Training Hospitals]]
 - [[Community Health Centers
 
 **Notable NPCs**:
 - [Master Surgeon Thane Shadowmend]]
-- [[Anatomy Master Dr. Vera Shadowbody
-- [Surgery Master Dr. Marcus Deptblade]]
+- [[Surgery Master Dr. Marcus Deptblade]]
 - [[Student Master Dr. Mentor Guideheart
 
 **Important Concepts**:
 - [Shadow Surgery Techniques]]
-- [[Shadow Physiology and Anatomy
-- [Shadow Medical Ethics]]
-- [[Shadow Medical Training Methods
-- [Shadow Community Healthcare]]
+- [[Shadow Physiology and Anatomy]]
+- [[Shadow Medical Training Methods]]
 
 ## Player-Facing Summary
 

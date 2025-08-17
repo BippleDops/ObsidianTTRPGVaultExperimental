@@ -210,22 +210,18 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [QUEST00055_Main_Quest_56]]
 - Affected by [[Portrait NPC Memory Harvester Kythara V1 Memory Harvester Kythara.svg
 - Related: [04_Resources_Assets_Locations_location-city-terminal-director-admiral-current-swiftflow-v1-terminal-director-admiral-current-swiftflow.svg]]
-- Related: [[MON0028_Void_Devourer
-- Related: [Conspiracy Web]]
+- Related: [[MON0028_Void_Devourer]]
 - Connects to [[step_087 (phase_026)
 - Leads to [Location City Government Leader Capable V1 Government Leader Capable.svg]]
-- Related: [[MON00039_Aberrations_Creature_40
-- Influences [LORE00231_Legends_Entry_232]]
-- Connects to [[Spell Scroll Xdmg
-- Influences [07-chapter-6-equipment (players-handbook-2024)]]
+- Related: [[MON00039_Aberrations_Creature_40]]
+- Connects to [[07-chapter-6-equipment (players-handbook-2024)]]
 - Leads to [[step_055 (phase_088)
 - Originates from [Assets Symbols Symbol Heraldry the Sunken Observatory the Sunken Observatory.svg]]
 - Leads to [[Handout Handout Noble Writ with Wax Seal Noble Writ with Wax Seal.png
 - Connects to [Portrait NPC Banker Titus Goldcurrent Banker Titus Goldcurrent.svg_1 (Portraits)]]
 - Leads to
 - Originates from
-- Leads to [[Keeper Thundercall (D&D_References)
-- Affected by [step_079 (phase_010)]]
+- Leads to [[Keeper Thundercall (D&D_References)]]
 - Related: [[Symbol Heraldry Financial Crime Investigatio Financial Crime Investigatio.svg
 - Parallels [LORE0059_Secret_of_the_Lost_City]]
 - Originates from [[step_010 (phase_018)
@@ -233,22 +229,18 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Location City Memory Keeper Lament Memory Keeper Lament.svg
 - Originates from
 - Parallels [Energy Bow Xdmg]]
-- Leads to [[step_076 (phase_009)
-- Connects to [Grand Master Tempest Windvoic 2]]
+- Leads to [[Grand Master Tempest Windvoic 2]]
 - Parallels [[step_028 (phase_048)
 - Requires [step_064 (phase_094)]]
 - Leads to [[arcane-focus-xphb (items)
 - Leads to [SHOP00005_Specialty_Shop_6]]
-- Leads to [[Entities Crystal Power Nodes
-- Influences [Shared Dreaming 2]]
-- Requires [[NPC01189_Aeliana_Voidwalker_the_Bold
-- Related: [The Sunken Markets]]
+- Leads to [[Entities Crystal Power Nodes]]
+- Requires [[NPC01189_Aeliana_Voidwalker_the_Bold]]
 - Leads to [[list-spells-classes-warlock 2 (lists)
 - Compare with [Trader Compass Rose 2]]
 - Affected by [[Symbol Heraldry the Repository Barge V1 the Repository Barge.svg
 - Originates from [SPELL00066_Divine_Spell_67]]
-- Requires [[ITEM0104_Ancient_Gauntlet_of_the_Dawn
-- Related: [clockwork-amulet-xdmg (items)]]
+- Requires [[ITEM0104_Ancient_Gauntlet_of_the_Dawn]]
 - Originates from [[Swarm of Bats Xmm
 - Affected by
 - Requires [Heart Crystal 2]]
@@ -268,8 +260,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [step_089 (phase_053)]]
 - Related: [[step_085 (phase_085)
 - Requires [step_013 (phase_048)]]
-- See also: [[Deathlock Mpmm
-- Requires [Mechanics Standardization Report (D&D_References)]]
+- See also: [[Mechanics Standardization Report (D&D_References)]]
 - Leads to [[step_081 (phase_053)
 - Connects to [LOC0056_OldVale]]
 - Related: [[Matre D' Pelagia Smoothcurrent
@@ -278,12 +269,10 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [Locations the Memory Halls]]
 - Requires [[Gateway Keeper Riftwalk 2
 - Leads to [list-spells-classes-oath-of-vengeance-xphb (lists)]]
-- Leads to [[fine-clothes-xphb (items)
-- Affected by [downtime-activity-running-a-business (variant-rules)]]
+- Leads to [[downtime-activity-running-a-business (variant-rules)]]
 - Affected by [[MON00065_Undead_Creature_66
 - Influences [control-winds-xge (spells)]]
-- See also: [[NPC01116_Malakai_Hawthorne_the_Strong
-- Originates from [step_078 (phase_078)]]
+- See also: [[NPC01116_Malakai_Hawthorne_the_Strong]]
 - Originates from [[Political Immunity Privileges
 - Influences [greyhawk-iuz-xdmg (deities)]]
 - See also: [[iron-spikes-xphb (items)

@@ -328,8 +328,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Assets Portraits Portrait NPC Banking Lord Cornelius Coinwright Banking Lord Cornelius Coinwright.svg
 - [His Own Shadow]]
-- [[Oracle
-- [The Sorrowmaster]]
-- [[His Own Shadow (D&D_Statblocks)
-- [Oracle (D&D_Statblocks)]]
+- [[The Sorrowmaster]]
+- [[His Own Shadow (D&D_Statblocks)]]
 - [[The Sorrowmaster (D&D_Statblocks)]]

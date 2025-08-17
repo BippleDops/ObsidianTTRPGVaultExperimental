@@ -167,16 +167,12 @@ Discovered something valuable
 - Requires [step_091 (phase_097)]]
 - Parallels [[NPC Name (People)
 - Compare with [Baboon Xmm]]
-- Requires [[LOC00035_Planes_Location_36
-- Parallels [Custom Background]]
+- Requires [[LOC00035_Planes_Location_36]]
 - Parallels [[NPC01047_Hilda_Brightblade_the_Wanderer
 - Leads to [Location City Deep Mother Spawning Pools V1 Deep Mother Spawning Pools.svg]]
-- Leads to [[step_080 (phase_030)
-- Affected by [The Crystal Cult (Cults_and_Movements)]]
-- Influences [[Established Family Communities (D&D_References)
-- Influences [Portal Network (D&D_References)]]
-- Originates from [[step_060 (phase_074)
-- Originates from [NPC01733_Xander_Darkwater_the_Cunning]]
+- Leads to [[The Crystal Cult (Cults_and_Movements)]]
+- Influences [[Established Family Communities (D&D_References)]]
+- Originates from [[NPC01733_Xander_Darkwater_the_Cunning]]
 - Parallels [[spell-scroll-level-6-xdmg (items)
 - Requires [LORE00143_Legends_Entry_144]]
 - Requires [[step_079 (phase_099)
@@ -184,8 +180,7 @@ Discovered something valuable
 - Parallels [[QUEST0090_The_Ancient_Treasure
 - Leads to
 - Compare with [step_067 (phase_086)]]
-- Requires [[Session 08 (The_Sunken_Conspiracy)
-- Related: [03-races (players-handbook-2014)]]
+- Requires [[Session 08 (The_Sunken_Conspiracy)]]
 - Related: [[step_071 (phase_055)
 - Influences [04_Resources_Assets_Locations_location-city-merchant-prince-aldric-goldcurrent-v1-merchant-prince-aldric-goldcurrent.svg]]
 - Affected by [[Battle Map Descriptions_1
@@ -199,13 +194,11 @@ Discovered something valuable
 - Compare with [09-adventuring#Movement#Special Types of Movement]]
 - Connects to [[step_064 (phase_038)
 - Compare with [Shadow Crystals 2]]
-- Compare with [[The Convergence Point 3 (D&D_References)
-- Affected by [potters-tools-xphb (items)]]
+- Compare with [[The Convergence Point 3 (D&D_References)]]
 - Leads to [[NPC01150_Zephyr_Crystalbrook_the_Seeker
 - See also:
 - Affected by [random-hag-minions-servants-vgm (tables)]]
-- Originates from [[LOC0010_Havenshire
-- Parallels [Bestiary - Aquabyssos Creature Compendium]]
+- Originates from [[Bestiary - Aquabyssos Creature Compendium]]
 - Related: [[Assets Art the Conductor.png
 - Compare with
 - Connects to [EVENT00097_Magical_Event_98]]
@@ -219,8 +212,7 @@ Discovered something valuable
 - Parallels [Magical Theory]]
 - Leads to [[Location City Archivist Stone Memorykeeper Archivist Stone Memorykeeper.svg
 - Originates from [The Concordat Seal (D&D_References)]]
-- Compare with [[Aquabyssos World Overview
-- Related: [step_061 (phase_079)]]
+- Compare with [[Aquabyssos World Overview]]
 - Originates from [[LOC00242_Towns_Location_243
 - Influences [cloak-of-elvenkind-xdmg (items)]]
 - Requires [[High Inquisitor Maltheos_1
@@ -233,21 +225,16 @@ Discovered something valuable
 - Parallels [Assets Locations Location City the Trencher Folk the Trencher Folk.svg]]
 - Leads to [[step_058 (phase_070)
 - Influences [list-spells-optional-features-eldritch-sight (lists)]]
-- See also: [[Interrogation Techniques 3 (D&D_References)
-- Compare with [step_009 (phase_089)]]
+- See also: [[Interrogation Techniques 3 (D&D_References)]]
 - Parallels [[D-L-03_Deep_Mother_Dream_Tide_Player
 - See also: [Assets Locations Location City Seal Keepers V1 Seal Keepers.svg]]
 - Connects to
-- Influences [[SPELL00039_Divine_Spell_40
-- Requires [The Crystal Gardens 2]]
+- Influences [[SPELL00039_Divine_Spell_40]]
 - Related: [[Portrait NPC Pirate Captain Blacktide Pirate Captain Blacktide.svg
 - Originates from [Training Camps 2]]
-- Leads to [[Crystalline Depths (D&D_Statblocks)
-- Leads to [strixhaven-initiate-scc (feats)]]
-- Related: [[murgaxors-orb-scc (items)
-- Parallels [Giant Centipede Xmm]]
-- Parallels [[step_063 (phase_061)
-- Compare with [Silverscale Emergency Bunker]]
+- Leads to [[Crystalline Depths (D&D_Statblocks)]]
+- Related: [[murgaxors-orb-scc (items)]]
+- Parallels [[Silverscale Emergency Bunker]]
 - Compare with [[step_037 (phase_082)
 - Affected by [04_Resources_Assets_Locations_location-city-scout-captain-vera-deepwatch-v1-scout-captain-vera-deepwatch.svg]]
 - Connects to [[zone-of-truth-xphb (spells)

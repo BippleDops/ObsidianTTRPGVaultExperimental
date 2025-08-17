@@ -163,8 +163,7 @@ Is secretly testing the party
 
 - Affected by [[ITEM01268_Refined_Potion_of_Fortune
 - Requires [International Scholars 2]]
-- See also: [[ENC00124_Environmental_Encounter_125
-- Compare with [step_072 (phase_083)]]
+- See also: [[ENC00124_Environmental_Encounter_125]]
 - Parallels [[step_006 (phase_065)
 - Related: [step_022 (phase_045)]]
 - Affected by [[Encounter Xphb
@@ -180,14 +179,12 @@ Is secretly testing the party
 - Connects to [wood-elf-magic-xge (feats)]]
 - Affected by [[Portrait NPC High Priest Nereon High Priest Nereon.svg
 - Influences [step_020 (phase_089)]]
-- Originates from [[Navigator Saltwind (D&D_References)
-- See also: [Depth Merchants]]
+- Originates from [[Navigator Saltwind (D&D_References)]]
 - Affected by [[Location City Royal Palace of Meridian V1 Royal Palace of Meridian.svg
 - Leads to [LOC00067_Wilderness_Location_68]]
 - Compare with [[step_084 (phase_097)
 - Connects to [Portrait NPC Character Relationship Web Core Npcs Character Relationship Web Core Npcs.svg]]
-- See also: [[LOC00120_Dungeons_Location_121
-- Compare with [Resoce Conspiracy]]
+- See also: [[LOC00120_Dungeons_Location_121]]
 - Originates from [[Elder_Sky-Singer_Melody_Windvoice (02_Worldbuilding)
 - Parallels [step_093 (phase_071)]]
 - Affected by [[Counselor Marcus Publicvoice 2
@@ -202,20 +199,16 @@ Is secretly testing the party
 - Related: [[Thieves Guild (Guilds)
 - Requires [Reality Integration Rules]]
 - Related:
-- Influences [[kobold-warrior-xmm
-- Leads to [SPELL00146_Arcane_Spell_147]]
-- Originates from [[MON00116_Aberrations_Creature_117
-- Influences [step_038 (phase_018)]]
+- Influences [[SPELL00146_Arcane_Spell_147]]
+- Originates from [[MON00116_Aberrations_Creature_117]]
 - Compare with [[Location City Surgeon Coral Seamender Surgeon Coral Seamender.svg
 - Connects to [QUEST00192_Main_Quest_193]]
 - Related:
-- Parallels [[NPC00403_Gareth_Lightbringer_the_Lost
-- Parallels [SPELL00045_Nature_Spell_46]]
+- Parallels [[NPC00403_Gareth_Lightbringer_the_Lost]]
 - Leads to [[hag-names-vgm (tables)
 - Originates from [LOC00054_Towns_Location_55]]
 - Connects to
-- Parallels [[International Academic Exchange (D&D_References)
-- Compare with [Emperor]]
+- Parallels [[International Academic Exchange (D&D_References)]]
 - Affected by [[ITEM00321_Radiant_Bow_of_Slaying
 - Connects to [Staff of Swarming Insects Xdmg]]
 - Influences [[QUEST00021_Side_Quest_22
@@ -224,8 +217,7 @@ Is secretly testing the party
 - See also: [step_056 (phase_091)]]
 - Originates from [[monsters-by-habitat-arctic-monsters-xmm (tables)
 - Connects to [NPC Voices (02_Worldbuilding)]]
-- See also: [[Ry'leth
-- Requires [Deep Studycurrent (D&D_References)]]
+- See also: [[Deep Studycurrent (D&D_References)]]
 - Influences
 - Leads to [[Assets Locations Location City Abyssal Crystals V1 Abyssal Crystals.svg
 - Influences
@@ -234,16 +226,14 @@ Is secretly testing the party
 - Requires [Paladins of Light]]
 - See also: [[Gnome Urdlen Mtf
 - Compare with [07_Player_Resources_Character_Options_Character_Bonds]]
-- Related: [[step_077 (phase_019)
-- Parallels [Psychic Observer All-Seeing Echo]]
+- Related: [[Psychic Observer All-Seeing Echo]]
 - Parallels [[List Spells Classes Path of the Ancestral
 - Requires [step_017 (phase_058)]]
 - Influences [[step_042 (phase_020)
 - Compare with [Mind Spike Xphb]]
 - Requires [[Symbol Heraldry the Iron Company V1 the Iron Company.svg
 - Requires [vorpal-sword-xdmg (items)]]
-- Influences [[Transformation Specialist Doctor Prism-Current
-- See also: [Quieting the Depths (D&D_References)]]
+- Influences [[Transformation Specialist Doctor Prism-Current]]
 - Compare with [[Portrait NPC Ice Kingdom Spirits V1 Ice Kingdom Spirits.svg_1 (Portraits)
 - Leads to [Location City Pilgrimage Coordinators Pilgrimage Coordinators.svg]]
 - Connects to [[The Memory Integration 2

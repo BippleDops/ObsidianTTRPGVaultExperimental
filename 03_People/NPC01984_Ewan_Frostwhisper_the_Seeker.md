@@ -160,18 +160,15 @@ Blackmails party into service
 
 ## Connections
 
-- Influences [[Concierge Phillip Gracewater (D&D_References)
-- Affected by [step_047 (phase_086)]]
-- Parallels [[step_052 (phase_093)
-- Affected by [Campaign Index (D&D_References)]]
+- Influences [[Concierge Phillip Gracewater (D&D_References)]]
+- Parallels [[Campaign Index (D&D_References)]]
 - See also: [[LOC00021_Cities_Location_22
 - Originates from [step_047 (phase_023)]]
 - Influences [[ENC00038_Social_Encounter_39
 - Requires [The Nexus of All Possibilities]]
 - Influences [[QUEST0005_The_Ancient_Artifact
 - Related: [Portrait NPC Lich Queen Morwyn the Deathless V1 Lich Queen Morwyn the Deathless.svg_1 (Portraits)]]
-- Requires [[step_081 (phase_009)
-- See also: [International Academic Exchange]]
+- Requires [[International Academic Exchange]]
 - Originates from [[step_088 (phase_022)
 - Connects to [Instrument of the Bards Fochlucan Bandore]]
 - Influences [[Communication_Systems
@@ -183,8 +180,7 @@ Blackmails party into service
 - Originates from [step_099 (phase_089)]]
 - Connects to [[elder-oblex-mpmm (ooze)
 - Related: [LORE00134_History_Entry_135]]
-- See also: [[LOC00011_Wilderness_Location_12
-- Compare with [The Kelp Territories 2]]
+- See also: [[LOC00011_Wilderness_Location_12]]
 - Related: [[step_060 (phase_067)
 - Leads to [step_096 (phase_041)]]
 - Parallels [[Dragonborn Xphb
@@ -195,70 +191,53 @@ Blackmails party into service
 - Leads to [[step_054 (phase_073)
 - See also:
 - Originates from [Kuo Toa Dmg]]
-- Parallels [[Quest - Moral Choices 2
-- Related: [ENC00343_Combat_Encounter_344]]
+- Parallels [[ENC00343_Combat_Encounter_344]]
 - Influences
 - See also: [[Portrait NPC the Crimson Shard Guardian V1 the Crimson Shard Guardian.svg
 - Requires [README]]
-- See also: [[Void Realm Treaties
-- Affected by [Vault Keeper Aurelia Crownguard (D&D_References)]]
+- See also: [[Vault Keeper Aurelia Crownguard (D&D_References)]]
 - Requires [[step_063 (phase_072)
 - See also: [step_097 (phase_067)]]
-- Parallels [[LOC00186_Planes_Location_187
-- Compare with [Whisper-Touched William (D&D_References)]]
+- Parallels [[Whisper-Touched William (D&D_References)]]
 - Requires [[Assets Locations Location City the Crystal Hive Collective V1 the Crystal Hive Collective.svg
 - Affected by [Void Watchers (Lore)]]
-- Connects to [[Layers of Carceri Xdmg
-- Affected by [Pip Goldleaf (D&D_Statblocks)]]
-- Related: [[NPC00056_Gavril_Underhill
-- Leads to [step_083 (phase_074)]]
+- Connects to [[Pip Goldleaf (D&D_Statblocks)]]
+- Related: [[NPC00056_Gavril_Underhill]]
 - See also: [[Assets Item Artifact Enspelled Armor Level 7 Xdmg V3 Enspelled Armor Level 7 Xdmg.png
 - Connects to [step_020 (phase_089)]]
 - Originates from [[Consortium Credit 2
 - Originates from
 - Compare with [underdark-encounters-levels-1116-xge (tables)]]
-- Connects to [[Security Chief Valdris Watchful
-- Connects to [step_023 (phase_087)]]
+- Connects to [[Security Chief Valdris Watchful]]
 - Leads to [[Shadow Conspiracy
 - Compare with [step_100 (phase_097)]]
-- Parallels [[Symbol Heraldry Hea... Related To: Local Political Structure Connected Plots: to Be Developed
-- See also: [Duergar Raiding Parties Duergar Purpose of]]
-- Influences [[The Last Seeds (D&D_References)
-- Leads to [Free Current]]
-- Originates from [[step_075 (phase_076)
-- Influences [LOC00024_Wilderness_Location_25]]
+- Parallels [[Symbol Heraldry Hea... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Influences [[The Last Seeds (D&D_References)]]
+- Originates from [[LOC00024_Wilderness_Location_25]]
 - Compare with [[Portrait NPC Brother Matthias the Amber Bearer Brother Matthias the Amber Bearer.svg
 - Requires [FAC00013_Cults_14]]
-- Affected by [[Ship_Schematic_The_Seahawk.md
-- Parallels [Captain Marrow Drinker (D&D_References)]]
-- See also: [[step_089 (phase_093)
-- Originates from [World_Map_Layers (D&D_References)]]
+- Affected by [[Captain Marrow Drinker (D&D_References)]]
+- See also: [[World_Map_Layers (D&D_References)]]
 - Related:
 - Influences [[LORE0059_Secret_of_the_Lost_City
 - Affected by [prismari-student-scc (backgrounds)]]
-- Affected by [[Grandmother Nightcomfor (D&D_References)
-- Leads to [Blessing of Magic Resistance Xdmg]]
+- Affected by [[Grandmother Nightcomfor (D&D_References)]]
 - Leads to [[ENC00187_Combat_Encounter_188
 - Affected by [02_Worldbuilding_Places_The_Crystal_Palace]]
-- Connects to [[NPC01653_Lyanna_Winterborn_the_Scholar
-- Leads to
-- Compare with [Conquered Territory]]
+- Connects to [[NPC01653_Lyanna_Winterborn_the_Scholar]]
 - Compare with [[Portrait NPC Pearl Empress Lustrous V2 Pearl Empress Lustrous.svg
 - Parallels [step_048 (phase_048)]]
 - Influences [[step_053 (phase_047)
 - Compare with [location-city-primary-schools-primary-schools.svg]]
-- Connects to [[Silverbrook City (D&D_References)
-- See also: [LOC00089_Towns_Location_90]]
+- Connects to [[Silverbrook City (D&D_References)]]
 - Requires [[Rod of the Pact Keeper Xdmg
 - Requires [Madame Pearl Currentflow]]
 - Compare with [[step_031 (phase_046)
 - See also: [QUEST00168_Main_Quest_169]]
-- Connects to [[Candle Xphb
-- Affected by [QUEST0041_Investigate_the_Pirates]]
+- Connects to [[QUEST0041_Investigate_the_Pirates]]
 - Affected by [[Memory Tides (D&D_References)
 - Originates from [Woodcarvers Tools Xphb]]
-- Compare with [[The Counting House (D&D_References)
-- Related: [Merchant Lord Cornelius Generous (D&D_References)]]
+- Compare with [[Merchant Lord Cornelius Generous (D&D_References)]]
 - Affected by [[LORE0051_Legend_of_the_Lost_City
 
 ## Visual References

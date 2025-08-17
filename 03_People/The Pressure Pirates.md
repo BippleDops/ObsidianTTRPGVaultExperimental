@@ -278,7 +278,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Assets Locations Location City the Sunken Cathedral of Perfect Order the Sunken Cathedral of Perfect Order.svg
 - [Lighthouse Keeper]]
-- [[Lord_Lady_Chamberlain_Court_Manager
-- [The Final Choice (D&D_References)]]
-- [[The Final Choice 3 (D&D_References)
-- [Lighthouse Keeper (D&D_Statblocks)]]
+- [[Lord_Lady_Chamberlain_Court_Manager]]
+- [[The Final Choice 3 (D&D_References)]]

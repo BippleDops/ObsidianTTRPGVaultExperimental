@@ -32,4 +32,4 @@ Further information about this topic will be developed as the campaign progresse
 - [Known Locations]]
 - [[Clues by Location (Lore)
 - [Location_Name.png]]
-- [[Location_Network_Graph.md]]
+- [[Location_Network_Graph]]

@@ -4,8 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: [Aquabyssos]] [[World Overview#The Surface Seekers
+- [[Aquabyssos]] [[World Overview#The Surface Seekers
 type: lore
 updated: 2025-08-14
 ---

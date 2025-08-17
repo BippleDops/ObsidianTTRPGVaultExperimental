@@ -284,8 +284,7 @@ Member of House Lionblood - Trait: magical affinity
 
 ## References
 
-- [[Campaign_Relationship_Matrix
-- [Relationship Web Nuances]]
+- [[Campaign_Relationship_Matrix]]
 - [[Assets Locations Location City Choir Master Celestine Hymnsinger V1 Choir Master Celestine Hymnsinger.svg
 - [Assets Locations Location City Marine Druids V1 Marine Druids.svg]]
 - [[Assets Locations Location City the Crystalline Foundry V1 the Crystalline Foundry.svg

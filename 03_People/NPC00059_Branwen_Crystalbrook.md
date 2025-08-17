@@ -163,13 +163,11 @@ Wants rivals investigated
 
 ## Connections
 
-- Parallels [[NPC01995_Aeliana_Frostwhisper_the_Strong
-- Influences [QUEST0078_The_Frozen_Fortress_Invasion]]
+- Parallels [[NPC01995_Aeliana_Frostwhisper_the_Strong]]
 - Compare with [[Portrait NPC the Golden Fishook Tavern the Golden Fishook Tavern.svg_1 (Portraits)
 - Parallels
 - Connects to [Map of the Whispering Expanse]]
-- Affected by [[NPC00036_Gareth_Moonshadow
-- Requires [step_064 (phase_081)]]
+- Affected by [[NPC00036_Gareth_Moonshadow]]
 - Connects to [[Telepathy Xphb (variant-rules)
 - Originates from [Assets Locations Location City the Screaming Battleground V1 the Screaming Battleground.svg]]
 - Leads to [[Null-Noble Aristocrat
@@ -191,12 +189,10 @@ Wants rivals investigated
 - Parallels
 - Leads to [[ENC00056_Environmental_Encounter_57
 - Connects to [random-magic-items-armaments (tables)]]
-- Influences [[step_088 (phase_030)
-- Compare with [NPC01644_Kaelen_Stormwind_the_Scholar]]
+- Influences [[NPC01644_Kaelen_Stormwind_the_Scholar]]
 - Originates from [[Assets Portraits Portrait NPC Lady Celestine Windborne Lady Celestine Windborne.svg
 - Affected by [Assets Locations Location City Replacement Survivor Support V1 Replacement Survivor Support Groups.svg]]
-- Parallels [[Stellar Commander Nereus Voidcaller 2
-- Influences [Shadow Cultis]]
+- Parallels [[Stellar Commander Nereus Voidcaller 2]]
 - Connects to
 - Related:
 - Related: [[Instrument of the Bards Cli Lyre Xdmg
@@ -206,8 +202,7 @@ Wants rivals investigated
 - Influences
 - Connects to [[Location City Protocol Expert Formal V1 Protocol Expert Formal.svg
 - See also: [Stop the Shadow Harvest]]
-- Affected by [[step_085 (phase_081)
-- See also: [Dimensional Monitoring Devices]]
+- Affected by [[Dimensional Monitoring Devices]]
 - Affected by [[step_084 (phase_021)
 - Leads to [ITEM01130_Superior_Potion_of_Clarity]]
 - Influences [[Silent Image Xphb
@@ -219,18 +214,15 @@ Wants rivals investigated
 - Affected by [step_095 (phase_020)]]
 - Connects to [[The Coral Estates
 - Originates from [Abyssal Depths]]
-- See also: [[Memory Depths
-- Related: [QUEST00184_Side_Quest_185]]
+- See also: [[QUEST00184_Side_Quest_185]]
 - Connects to [[step_091 (phase_058)
 - Compare with [step_059 (phase_035)]]
 - Requires [[The Divine Reconciliation 2
 - Compare with [location-city-the-lock-v1-the-lock.svg]]
-- Affected by [[ENC00116_Combat_Encounter_117
-- Affected by [The Memory Weaver (D&D_References)]]
+- Affected by [[The Memory Weaver (D&D_References)]]
 - Leads to [[regenerate-xphb (spells)
 - Originates from [Spare the Dying Xphb]]
-- Affected by [[LOC00130_Cities_Location_131
-- Leads to [Wagon Xphb]]
+- Affected by [[LOC00130_Cities_Location_131]]
 - Compare with [[SPELL00002_Arcane_Spell_3
 - Affected by [Craftmaster Shadowwork 2]]
 - See also: [[Kelp Forest Rangers
@@ -243,14 +235,11 @@ Wants rivals investigated
 - Requires [Academy of Depths]]
 - Related: [[Marcus Goldlea
 - Leads to [ITEM00947_Concentrated_Herb_of_Vigor]]
-- Parallels [[Iron Xdmg
-- Connects to [The Forgetting Bomb Arsenal]]
+- Parallels [[The Forgetting Bomb Arsenal]]
 - Connects to [[Market Squar 2
 - Requires [04_Resources_Assets_Symbols_symbol-heraldry-salvage-master-ironwork-salvage-master-ironwork.svg]]
-- Related: [[Dr. Marina Coralhea... Related To: Local Political Structure Connected Plots: to Be Developed
-- Influences [locate-creature-xphb (spells)]]
-- Leads to [[Medical Ethics in Plague Crisis
-- See also: [step_029 (phase_099)]]
+- Related: [[Dr. Marina Coralhea... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Leads to [[Medical Ethics in Plague Crisis]]
 - Compare with [[Assets Portraits Portrait NPC Blackwater Estate Blackwater Estate.svg
 - Originates from [Art Brief Database]]
 - Compare with [[step_075 (phase_019)
@@ -259,8 +248,7 @@ Wants rivals investigated
 - Parallels [Aethermoor_Content (02_Worldbuilding)]]
 - Compare with [[Dungeon Creator NPC Class
 - Originates from [step_085 (phase_041)]]
-- Compare with [[Warden Marcus Stonehand
-- Influences [LOC00283_Wilderness_Location_284]]
+- Compare with [[LOC00283_Wilderness_Location_284]]
 - Originates from
 - Originates from [[Map Map Gloom Gardens Paths V2 Gloom Gardens Paths.svg]]
 

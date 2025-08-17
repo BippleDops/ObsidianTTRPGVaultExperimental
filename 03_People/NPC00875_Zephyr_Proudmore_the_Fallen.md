@@ -180,18 +180,14 @@ Caravan needs guards
 - Parallels [Aethermoor Content]]
 - Requires [[NPC0014_Osric_Stormwind
 - Influences [step_009 (phase_066)]]
-- Originates from [[Captain Nerida Stormcrest (D&D_References)
-- Parallels [step_033 (phase_035)]]
+- Originates from [[Captain Nerida Stormcrest (D&D_References)]]
 - Connects to [[Symbol Heraldry Faction Intelligence Faction Intelligence.svg_1 (Symbols)
 - Affected by [MON00030_Constructs_Creature_31]]
-- Leads to [[Royal Archives 3 (D&D_References)
-- Parallels [step_070 (phase_034)]]
-- Leads to [[ENC00135_Social_Encounter_136
-- Compare with [Lion Xmm]]
+- Leads to [[Royal Archives 3 (D&D_References)]]
+- Leads to [[ENC00135_Social_Encounter_136]]
 - Connects to [[spider-climb-xphb (spells)
 - Compare with [New_Encounter_Sheet_Template]]
-- Leads to [[Quantum Compromise Protocols 2
-- Parallels [step_094 (phase_100)]]
+- Leads to [[Quantum Compromise Protocols 2]]
 - Leads to
 - Leads to [[Hooded Lantern Xphb
 - Connects to [ITEM00600_Adamantine_Gauntlets_of_Resistance]]
@@ -220,8 +216,7 @@ Caravan needs guards
 - Affected by [implements-rare-xdmg (tables)]]
 - Originates from [[glamoured-studded-leather-xdmg (items)
 - Related: [NPC00151_Hestara_Emberfall]]
-- Influences [[NPC00926_Urien_Darkwater_the_Strong
-- Leads to [NPC01956_Zephyr_Thornweave_the_Guardian]]
+- Influences [[NPC01956_Zephyr_Thornweave_the_Guardian]]
 - Originates from [[food-and-water-needs (tables)
 - Leads to [Githzerai Psion Xmm]]
 - Connects to [[Portrait NPC Brother Matthias the Amber Bearer V2 Brother Matthias the Amber Bearer.svg
@@ -246,16 +241,13 @@ Caravan needs guards
 - Leads to [step_042 (phase_086)]]
 - Affected by [[Location City the Observatory V1 the Observatory.svg
 - Leads to [Assets Locations Location City Political Alliances Political Alliances.svg]]
-- Influences [[Shadow Detection Crystals (D&D_References)
-- Related: [step_003 (phase_065)]]
+- Influences [[Shadow Detection Crystals (D&D_References)]]
 - Connects to [[sled-dog-rot (beast)
 - See also: [Academic Jargon]]
 - Originates from [[scroll-of-protection-humanoids-xdmg (items)
 - Parallels [Location City Alternative Path Fled City V1 Alternative Path Fled City.svg]]
-- See also: [[Depth Cardinal Wisdom Voidseeke (D&D_References)
-- Related: [LOC0011_Bridgeshire]]
-- Leads to [[Whispering Wildlands
-- Requires [LOC00180_Dungeons_Location_181]]
+- See also: [[Depth Cardinal Wisdom Voidseeke (D&D_References)]]
+- Leads to [[LOC00180_Dungeons_Location_181]]
 - Related: [[Monsters and Motivations Monster Motivation
 - Influences [The Whisper Core]]
 - Connects to [[step_100 (phase_010)

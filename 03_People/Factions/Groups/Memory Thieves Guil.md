@@ -57,5 +57,4 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [02_Worldbuilding_Groups_Memory_Thieves_Guil]]
-- [[Memory Thief
-- [Memory Thief (D&D_Statblocks)]]
+- [[Memory Thief (D&D_Statblocks)]]

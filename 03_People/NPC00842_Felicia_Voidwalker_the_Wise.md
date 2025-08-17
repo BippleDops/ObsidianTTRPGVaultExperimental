@@ -168,8 +168,7 @@ Has map to lost treasure
 - Requires [Portrait NPC Captain Marcus Ironwill Captain Marcus Ironwill.svg]]
 - Parallels [[Archmerchant Codex Goldstrea
 - Connects to [LORE00246_Legends_Entry_247]]
-- Influences [[step_073 (phase_062)
-- Leads to [ITEM0146_Cursed_Crown_of_Shadows]]
+- Influences [[ITEM0146_Cursed_Crown_of_Shadows]]
 - Affected by [[Cultural Exchange
 - Influences [step_014 (phase_099)]]
 - See also: [[giant-insect-xphb (beast)
@@ -183,8 +182,7 @@ Has map to lost treasure
 - See also: [Courier Pelagic 2]]
 - Parallels [[04_Resources_Assets_Symbols_symbol-heraldry-border-territories-border-territories.svg
 - Requires [Portrait NPC Master Artificer Korvin Gearwright V1 Master Artificer Korvin Gearwright.svg]]
-- Compare with [[Plot_Threads
-- Originates from [LORE0012_Prophecy_of_the_Dark_Times]]
+- Compare with [[LORE0012_Prophecy_of_the_Dark_Times]]
 - Requires [[Jasper Worldbridge
 - Influences [LORE00293_Prophecies_Entry_294]]
 - Connects to [[location-city-grand-harbor-v1-grand-harbor.svg
@@ -214,14 +212,11 @@ Has map to lost treasure
 - Compare with [step_048 (phase_060)]]
 - Related: [[LORE00216_Legends_Entry_217
 - Connects to [Location City Thorek Crystalhammer V1 Thorek Crystalhammer.png]]
-- See also: [[glass-bottle-xphb (items)
-- Requires [NPC01125_Kaelen_Thornweave_the_Lost]]
-- Connects to [[step_063 (phase_014)
-- Related: [Corrupt Crystalline Guard 2]]
+- See also: [[NPC01125_Kaelen_Thornweave_the_Lost]]
+- Connects to [[Corrupt Crystalline Guard 2]]
 - Compare with [[step_056 (phase_041)
 - Leads to [step_017 (phase_038)]]
-- Compare with [[SPELL00145_Arcane_Spell_146
-- Requires [step_032 (phase_087)]]
+- Compare with [[SPELL00145_Arcane_Spell_146]]
 - Connects to [[step_036 (phase_074)
 - Compare with
 - Related: [eldritch-blast-xphb (spells)]]
@@ -233,15 +228,13 @@ Has map to lost treasure
 - Affected by [Assets Locations Location City Trader Grimm Voidheart Trader Grimm Voidheart.png]]
 - Related: [[Academic Rival (D&D_References)
 - Related: [Location City Police Chief Sarah Lawkeeper V1 Police Chief Sarah Lawkeeper.svg]]
-- Connects to [[SPELL0041_Divine_Wave
-- Requires [Memory Tides 3 (D&D_References)]]
+- Connects to [[Memory Tides 3 (D&D_References)]]
 - Parallels [[04_Resources_Assets_Portraits_portrait-npc-merchant-captain-trade-merchant-captain-trade.svg_Quick_Ref
 - See also: [Flow Circlemaker (D&D_References)]]
 - See also:
 - Connects to [[02_Worldbuilding_Groups_Surface_Reconnection_Coalition
 - Parallels [Assets Locations Location City Foreign Intelligence Foreign Intelligence.svg]]
-- Influences [[step_023 (phase_054)
-- Leads to [SPELL00029_Nature_Spell_30]]
+- Influences [[SPELL00029_Nature_Spell_30]]
 - Connects to [[dawn-war-avandra-dmg (deities)
 - Influences
 - Parallels [Quandrix Primer Scc]]

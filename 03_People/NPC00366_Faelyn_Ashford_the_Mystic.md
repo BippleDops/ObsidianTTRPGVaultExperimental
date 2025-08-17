@@ -156,8 +156,7 @@ Wants rivals investigated
 
 ## Connections
 
-- Influences [[Helmed Horror Xmm
-- Parallels [The Unnamed Chronicler 2]]
+- Influences [[The Unnamed Chronicler 2]]
 - Leads to [[DUN00199_Dungeon_200
 - See also: [ITEM01456_Elegant_Spyglass_of_Durability]]
 - Parallels [[Portrait NPC Elder Whisper in the Dark V2 Elder Whisper in the Dark.svg_1 (Portraits)
@@ -168,17 +167,14 @@ Wants rivals investigated
 - See also: [[QUEST0051_Hunt_the_Tyrant
 - Affected by [step_041 (phase_095)]]
 - Compare with
-- Influences [[Environmental Protection Authorit (D&D_References)
-- See also: [step_096 (phase_038)]]
+- Influences [[Environmental Protection Authorit (D&D_References)]]
 - Leads to [[Portrait NPC Sunken Kingdom of Nereon V2 Sunken Kingdom of Nereon.svg_1 (Portraits)
 - Leads to [EVENT00079_Natural_Event_80]]
 - Compare with
 - Related: [[githzerai-groups-githzerai-special-allies-mtf (tables)
 - Parallels [Scene Scene Drowned Cathedral Vigil V2 Drowned Cathedral Vigil.svg]]
-- Related: [[LOC0013_WestBridge
-- Related: [D-005 Shadow Bloom Player (Encounters)]]
-- Compare with [[NPC01795_Delara_Brightblade_the_Redeemed
-- Parallels [Reef Truescale]]
+- Related: [[D-005 Shadow Bloom Player (Encounters)]]
+- Compare with [[NPC01795_Delara_Brightblade_the_Redeemed]]
 - Connects to [[The Current Maps
 - Affected by [step_052 (phase_024)]]
 - Leads to [[Spell Scroll Level 4 Xdmg
@@ -192,44 +188,32 @@ Wants rivals investigated
 - Connects to [step_098 (phase_056)]]
 - Influences [[step_040 (phase_052)
 - Leads to [Location City Brother Matthias Inkdrinker Brother Matthias Inkdrinker.svg]]
-- Leads to [[Teleportation Xphb
-- Parallels [Secret Vault Beneath Throne (D&D_References)]]
+- Leads to [[Secret Vault Beneath Throne (D&D_References)]]
 - Affected by
-- Compare with [[NPC00117_Lyanna_Winterborn_the_Redeemed
-- Influences [NPC01334_Faelyn_Ironwood_the_Seeker]]
+- Compare with [[NPC00117_Lyanna_Winterborn_the_Redeemed]]
 - Related: [[Portrait NPC High Priestess Celeste V2 High Priestess Celeste.svg
 - Connects to [List Spells Optional Features River of Hungry Flame]]
 - See also:
-- Affected by [[QUEST00073_Side_Quest_74
-- Connects to [NPC01880_Ewan_Brightblade_the_Wise]]
-- Influences [[Quest - The Transition Protocol
-- Requires [step_023 (phase_099)]]
-- Parallels [[Crystallium Embassy 2
-- Connects to [City Council of Aquabyssos (D&D_References)]]
+- Affected by [[NPC01880_Ewan_Brightblade_the_Wise]]
+- Influences [[Quest - The Transition Protocol]]
+- Parallels [[City Council of Aquabyssos (D&D_References)]]
 - Parallels [[Portrait NPC Lord Commander Steelborn V2 Lord Commander Steelborn.svg
 - Leads to [step_041 (phase_025)]]
-- Influences [[NPC00677_Nerys_Dawnstrider_the_Lost
-- Originates from [SPELL00044_Divine_Spell_45]]
-- Compare with [[FAC00078_Cults_79
-- Affected by [NPC00449_Dara_Zephyrblade_the_Broken]]
+- Influences [[NPC00677_Nerys_Dawnstrider_the_Lost]]
+- Compare with [[NPC00449_Dara_Zephyrblade_the_Broken]]
 - Parallels [[step_021 (phase_012)
 - Influences [Quest - The Shadow Wa_1 (01_Adventures)]]
 - Influences [[step_090 (phase_080)
 - Affected by [Handout Handout Cult Text with Marginalia Cult Text with Marginalia.png]]
-- Influences [[sling-bullets-20-xphb (items)
-- Related: [Session Management Session Template]]
-- Parallels [[ENC00170_Environmental_Encounter_171
-- Parallels [step_064 (phase_016)]]
+- Influences [[Session Management Session Template]]
+- Parallels [[ENC00170_Environmental_Encounter_171]]
 - Compare with [[Silverscale Consortium
 - See also: [step_040 (phase_043)]]
 - Affected by [[celtic-arawn (deities)
 - Originates from [Sea Hag Xmm]]
 - See also: [[LORE00317_Legends_Entry_318
 - See also: [Planetar Xmm]]
-- See also: [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets D L 03 Deep Mother Dream Tide (People)
-- Related:
-- See also:
-- Originates from [Charger Xphb]]
+- See also: [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets D L 03 Deep Mother Dream Tide]]
 - Influences [[Fighter Xphb Arcane Archer Xge
 - Influences [step_009 (phase_027)]]
 - Originates from [[Ω_System-CLI-spells-school-abjuration
@@ -242,14 +226,12 @@ Wants rivals investigated
 - Leads to [Captain Rhea Blackwater]]
 - Affected by [[The Crimson Sage (D&D_Statblocks)
 - Originates from [astral-brig-mtf (vehicles)]]
-- Related: [[Deep Scion Mpmm
-- Affected by [NPC01887_Rhiannon_Stormwind_the_Cunning]]
+- Related: [[NPC01887_Rhiannon_Stormwind_the_Cunning]]
 - Leads to [[Dwarf Names Female Xge
 - See also: [ITEM00712_Infernal_Amulet_of_Dominion]]
 - Parallels [[Location City Echo Theorist Maya V1 Echo Theorist Maya.svg
 - Related: [Portrait NPC High Cultivist Jasper Lifebinder High Cultivist Jasper Lifebinder.svg_1 (Portraits)]]
-- Parallels [[Tidal Deepvoice 2
-- Leads to [MON00147_Aberrations_Creature_148]]
+- Parallels [[MON00147_Aberrations_Creature_148]]
 - Related: [[Symbol Heraldry Archmerchant Codex Goldstrea V1 Archmerchant Codex Goldstrea.svg
 - Requires [QUEST00121_Main_Quest_122]]
 - Related: [[Downtime Activity Sowing Rumors

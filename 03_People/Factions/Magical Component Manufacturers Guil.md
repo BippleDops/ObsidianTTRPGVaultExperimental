@@ -180,5 +180,4 @@ Things widely suspected
 
 ## References
 
-- [[Crystal-Corruption-Tracking-Sheet
-- [Crystal-Corruption-Tracking-Sheet (D&D_References)]]
+- [[Crystal-Corruption-Tracking-Sheet (D&D_References)]]

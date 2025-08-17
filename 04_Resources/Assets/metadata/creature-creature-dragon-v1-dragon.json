@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Imagine a high-definition fantasy illustration set in a surreal setting where the sky and underwater realms merge. This artwork uses a chromatic palette of teals, deep blues, and sea-greens, along with pearl highlights. showcase a muscular dragon with distinctive limbs, covered in bioluminescent accents that provide an ethereal glow in their underwater environment. Ensure that its gear is culturally coherent and crafted with medieval materials, devoid of any traces of technology or modern signs. In the scene, hint at the presence of a human silhouette, alluding to the dragon's scale and grandeur. Capture the creature's motion and mimic the effect of underwater light distortions or subsurface caustics. Avoid any modern signage, anime style, photoreal CGI, or glare effects. Ensure full detail and precision, creating a concept art worthy of a tabletop fantasy game, all in a consistent painterly style.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-dragon-v1-dragon.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-dragon-v1-dragon.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:01:09.917Z",
+  "generationMethod": "ComfyUI"
 }

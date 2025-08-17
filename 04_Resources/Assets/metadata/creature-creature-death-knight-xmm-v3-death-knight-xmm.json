@@ -25,5 +25,8 @@
   "alt_text": "Concept art of death-knight-xmm with anatomy, scale, and environment.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-death-knight-xmm-v3-death-knight-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-death-knight-xmm-v3-death-knight-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:00:36.802Z",
+  "generationMethod": "ComfyUI"
 }

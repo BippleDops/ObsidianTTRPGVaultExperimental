@@ -28,5 +28,8 @@
   "model": "gpt-image-1",
   "size": "1024x1024",
   "revised_prompt": null,
-  "file": "04_Resources/Assets/Creatures/creature-creature-nightmare-xmm-v2-nightmare-xmm.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-nightmare-xmm-v2-nightmare-xmm.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:06:55.250Z",
+  "generationMethod": "ComfyUI"
 }

@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Create a detailed concept art of a heroic fantasy scenario, akin to the style of tabletop games, particularly Dungeons and Dragons 5e. The scene should be set in a blend of underwater and sky realm where a muscular guardian-naga creature with unique limbs is seen in motion. The creature is highlighted using an exceptional three-color palette of teals, deep blues, and sea-greens with pearl accents that render an aquatic fantasy realism feel. The picture should include a human silhouette for comparison, adorned with culturally coherent medieval gear, while excluding modern tech or signage. The texture should resemble pressure-dome materials, emphasizing aquascape-like features such as subsurface caustics and bioluminescent aspects. Maintain a consistent, painterly collection style, avoiding modern sci-fi UIs, glaring bloom effects, photoreal CGI, anime style, or embedded text. The image should be of specific aspect/resolution and free from visual artifacts.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-guardian-naga-xmm-v1-guardian-naga-xmm.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-guardian-naga-xmm-v1-guardian-naga-xmm.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:04:21.168Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Concept art of gnoll-flesh-gnawer-mpmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-gnoll-flesh-gnawer-mpmm-v2-gnoll-flesh-gnawer-mpmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-gnoll-flesh-gnawer-mpmm-v2-gnoll-flesh-gnawer-mpmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:03:41.057Z",
+  "generationMethod": "ComfyUI"
 }

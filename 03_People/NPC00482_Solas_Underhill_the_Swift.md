@@ -156,8 +156,7 @@ Being extorted by criminals
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -171,10 +170,8 @@ Being extorted by criminals
 
 ## Connections
 
-- See also: [[QUEST00169_Personal_Quest_170
-- Related: [step_075 (phase_077)]]
-- Requires [[NPC00283_Kaelen_Zephyrblade_the_Bold
-- Leads to [Ambassador Neutral 2]]
+- See also: [[QUEST00169_Personal_Quest_170]]
+- Requires [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
 - Leads to [[step_078 (phase_042)
 - Connects to [Create or Destroy Water Xphb]]
 - Related:
@@ -188,14 +185,11 @@ Being extorted by criminals
 - Originates from [[Random Location Generator
 - Influences [merchant-xphb (backgrounds)]]
 - Compare with
-- Requires [[step_022 (phase_015)
-- Requires [LOC00179_Dungeons_Location_180]]
+- Requires [[LOC00179_Dungeons_Location_180]]
 - Originates from [[Roleplaying a Hag Hag Personality Traits Vgm
 - Affected by [NPC01324_Idris_Grimholt_the_Guardian]]
-- Parallels [[Institute for Reality Studies Researchers 2
-- Affected by [Royal Chaplain Magnus Goldcurrent 2]]
-- Leads to [[step_008 (phase_100)
-- Leads to [ENC00083_Combat_Encounter_84]]
+- Parallels [[Institute for Reality Studies Researchers 2]]
+- Leads to [[ENC00083_Combat_Encounter_84]]
 - Leads to [[Assets Vehicles Vehicle Ship Hybrid Rift Runner Sloop V2 Hybrid Rift Runner Sloop.png
 - Compare with [step_026 (phase_022)]]
 - Compare with
@@ -216,28 +210,21 @@ Being extorted by criminals
 - Related: [Assets Locations Location City Crystal Engineer Reef Sparkwright Crystal Engineer Reef Sparkwright.svg]]
 - Requires [[SPELL00112_Nature_Spell_113
 - Affected by [Location City Chronokeeper Tide Timestable V1 Chronokeeper Tide Timestable.svg]]
-- Compare with [[Pressure Combat Modifiers (D&D_References)
-- Related: [Local Informants (Groups)]]
+- Compare with [[Pressure Combat Modifiers (D&D_References)]]
 - Compare with [[step_028 (phase_020)
 - Requires [dwarven-moradin-mtf (deities)]]
 - Connects to [[Location City the Siren S Rest Tavern V1 the Siren S Rest Tavern.svg
 - Connects to [3-phandalin (lost-mine-of-phandelver)]]
 - Influences [[list-spells-classes-warrior-of-the-elements-xphb
 - Connects to [Ancient Treasury of Tides]]
-- See also: [[step_036 (phase_062)
-- Influences [Silverscale Banking House (D&D_References)]]
-- See also: [[02-step-by-step-characters (players-handbook-2014)
-- Connects to [Purification Chambers]]
-- Influences [[Battle Map Descriptions
-- Influences [NPC01990_Corvus_Frostwhisper_the_Wise]]
-- Connects to [[step_042 (phase_081)
-- Affected by [teleportation-xphb (variant-rules)]]
-- Originates from [[Progressive Research Institutions
-- See also: [step_071 (phase_063)]]
+- See also: [[Silverscale Banking House (D&D_References)]]
+- See also: [[02-step-by-step-characters (players-handbook-2014)]]
+- Influences [[NPC01990_Corvus_Frostwhisper_the_Wise]]
+- Connects to [[teleportation-xphb (variant-rules)]]
+- Originates from [[Progressive Research Institutions]]
 - Parallels [[eyes-of-the-rune-keeper (optional-features)
 - Affected by [random-yuan-ti-servants-yuan-ti-agents-vgm (tables)]]
-- Leads to [[The Pressure Forges 2
-- Compare with [Depth Plague (D&D_References)]]
+- Leads to [[Depth Plague (D&D_References)]]
 - Requires [[SPELL00093_Arcane_Spell_94
 - Requires [Cargo Master Holdspace]]
 - Connects to [[Location City Luminous Laboratory District Luminous Laboratory District.svg
@@ -249,8 +236,7 @@ Being extorted by criminals
 - Influences [monsters-by-habitat-mountain-monsters-xmm (tables)]]
 - Related: [[Devil Customization Tables
 - Parallels [location-city-harbor-district-harbor-district.svg]]
-- Connects to [[ITEM01171_Lesser_Powder_of_Clarity
-- Connects to [Mechanics Transformations Crystal Crystal Bloom]]
+- Connects to [[Mechanics Transformations Crystal Crystal Bloom]]
 - Influences
 - See also: [[Faction_Symbols_&_Heraldry
 - Requires [Assets Locations Location City Archaeological Society V1 Archaeological Society.svg]]

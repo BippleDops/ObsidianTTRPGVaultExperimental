@@ -180,5 +180,4 @@ Things widely suspected
 
 ## References
 
-- [[Campaign_Relationship_Matrix
-- [Merchant Family Alliances]]
+- [[Campaign_Relationship_Matrix]]

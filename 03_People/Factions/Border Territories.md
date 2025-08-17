@@ -168,7 +168,5 @@ Things widely suspected
 
 - [[MASTER_VAULT_INDEX
 - [The Heart of Oceanus]]
-- [[The Deep Mother 3 (D&D_References)
-- [Ambush Point (D&D_Statblocks)]]
-- [[Smuggler (D&D_Statblocks)
-- [The Heart of Oceanus (D&D_Statblocks)]]
+- [[The Deep Mother 3 (D&D_References)]]
+- [[The Heart of Oceanus (D&D_Statblocks)]]

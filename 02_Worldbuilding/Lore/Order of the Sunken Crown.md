@@ -166,11 +166,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## References
 
 - [Kraken Territories]]
-- [[The Cerulean Trench
-- [The Primordial Vaults]]
-- [[Kraken Territories (D&D_References)
-- [The Cerulean Trench (D&D_References)]]
-- [[The Primordial Vaults (D&D_References)
-- [The Seven Shards (D&D_References)]]
-- [[The Seven Shards 3 (D&D_References)
-- [The Void Touched Depths (D&D_Statblocks)]]
+- [[The Primordial Vaults]]
+- [[The Cerulean Trench (D&D_References)]]
+- [[The Primordial Vaults (D&D_References)]]
+- [[The Void Touched Depths (D&D_Statblocks)]]

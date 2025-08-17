@@ -166,22 +166,18 @@ Family member has gone missing
 - Originates from [step_010 (phase_041)]]
 - See also: [[QUEST00246_Side_Quest_247
 - Related: [Location City the Missing Diplomat V1 the Missing Diplomat.svg]]
-- Parallels [[Surface Contacts (D&D_References)
-- Leads to [Downtime Revisited Xge]]
+- Parallels [[Surface Contacts (D&D_References)]]
 - Originates from [[step_031 (phase_098)
 - Affected by [SPELL00050_Nature_Spell_51]]
 - See also: [[quaggoth-xmm (monstrosity)
 - Compare with [step_060 (phase_098)]]
-- Related: [[QUEST00125_Main_Quest_126
-- Leads to [The Border Marches]]
+- Related: [[QUEST00125_Main_Quest_126]]
 - Related: [[traps-hazards (traps-hazards)
 - Parallels [Aethermoor Content]]
-- Parallels [[step_079 (phase_099)
-- Compare with [Silverscale Emergency Bunker (D&D_References)]]
+- Parallels [[Silverscale Emergency Bunker (D&D_References)]]
 - Related: [[step_084 (phase_008)
 - Related: [The Crystal Shard]]
-- Influences [[step_020 (phase_037)
-- Connects to [ENC00013_Social_Encounter_14]]
+- Influences [[ENC00013_Social_Encounter_14]]
 - Requires [[flanking
 - Influences [Assets Vehicles Vehicle Ship Coral Frame Diver Tender Coral Frame Diver Tender.svg]]
 - Compare with [[Creature_Prompts (Assets)
@@ -192,8 +188,7 @@ Family member has gone missing
 - Originates from [FAC00025_Orders_26]]
 - Requires [[NPC00800_Rhiannon_Voidwalker_the_Mystic
 - Parallels [Assets Locations Location City Trade Regulations V1 Trade Regulations.svg]]
-- Originates from [[Swarm of Bats Xmm
-- Leads to [The Great Convergence Prophecies (D&D_References)]]
+- Originates from [[The Great Convergence Prophecies (D&D_References)]]
 - Originates from [[step_042 (phase_078)
 - Compare with [Crystal Corruption Taboos 2]]
 - Leads to [[step_074 (phase_061)
@@ -202,31 +197,26 @@ Family member has gone missing
 - Influences [item-properties#Two-Handed]]
 - Connects to [[Races (Homebrew)
 - Leads to [step_024 (phase_042)]]
-- Parallels [[ENC00078_Environmental_Encounter_79
-- Affected by [step_012 (phase_063)]]
+- Parallels [[ENC00078_Environmental_Encounter_79]]
 - Originates from [[DM_Session_Navigator
 - See also: [step_062 (phase_012)]]
 - Related: [[The Chronicle Depths (D&D_References)
 - Parallels [Assets Locations Location City Commercial District Commercial District.svg]]
 - Compare with [[Sacred Memory Keeper Ancient Depths (D&D_References)
 - Requires [Portrait NPC Duke Lysander Crystalvein V1 Duke Lysander Crystalvein.svg]]
-- Compare with [[Aethermoor Sky Fleet
-- Leads to [SPELL00164_Nature_Spell_165]]
-- Parallels [[step_042 (phase_062)
-- Compare with [Royal Bloodline Powers (D&D_References)]]
+- Compare with [[SPELL00164_Nature_Spell_165]]
+- Parallels [[Royal Bloodline Powers (D&D_References)]]
 - Affected by [[location-city-merchant-v1-merchant.svg
 - Requires [portrait-npc-azure-shard-v1-azure-shard.svg_1 (Portraits)]]
 - Compare with [[step_038 (phase_039)
 - Originates from [Second Chance Xge]]
 - Connects to [[Guide Helpfulcurrent 2
 - Originates from [augury-xphb (spells)]]
-- Parallels [[Delta Leader Precise Shadowsurgeon 2
-- Compare with [QUEST00125_Personal_Quest_126]]
+- Parallels [[Delta Leader Precise Shadowsurgeon 2]]
 - Compare with [[The Depth Plague (D&D_References)
 - Connects to [Assets Locations Location City the Purification Temples the Purification Temples.svg]]
 - Related:
-- Connects to [[FAC00011_Orders_12
-- Parallels [LOC00101_Dungeons_Location_102]]
+- Connects to [[LOC00101_Dungeons_Location_102]]
 - Originates from [[ITEM00295_Thunder_Sword_of_Power
 - See also:
 - Affected by [Disguise Kit Xphb]]
@@ -237,15 +227,12 @@ Family member has gone missing
 - Requires [step_067 (phase_088)]]
 - See also: [[LORE00141_Legends_Entry_142
 - Affected by [step_023 (phase_046)]]
-- Related: [[NPC00354_Caelum_Dawnstrider_the_Risen
-- Parallels [step_013 (phase_070)]]
-- Parallels [[NPC00386_Branwen_Emberfall_the_Seeker
-- Connects to [Quest - Stop the Awakening]]
+- Related: [[NPC00354_Caelum_Dawnstrider_the_Risen]]
+- Parallels [[NPC00386_Branwen_Emberfall_the_Seeker]]
 - See also:
 - Parallels [[Ancient Bronze Dragon Xmm
 - Parallels [LORE00207_Legends_Entry_208]]
-- Affected by [[NPC00211_Brenna_Proudmore_the_Guardian
-- Parallels [QUEST00293_Side_Quest_294]]
+- Affected by [[NPC00211_Brenna_Proudmore_the_Guardian]]
 - Related: [[Guild of Cross-Realm Navigators (02_Worldbuilding)
 - Compare with
 - Requires [MON00087_Constructs_Creature_88]]
@@ -254,8 +241,7 @@ Family member has gone missing
 - Compare with [[Assets Locations Location City Concierge Phillip Gracewater Concierge Phillip Gracewater.svg
 - Leads to
 - Related: [Assets Portraits Portrait NPC Quest the Betrayers Truth Quest the Betrayers Truth.svg]]
-- Connects to [[Emergency Management Services
-- Influences [Houses_and_Nobility___House_Brightshield]]
+- Connects to [[Houses_and_Nobility___House_Brightshield]]
 - Parallels [[LOC00176_Wilderness_Location_177
 
 ## Visual References

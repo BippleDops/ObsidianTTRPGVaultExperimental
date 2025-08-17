@@ -586,5 +586,4 @@ Mentioned in The First Prophecy of Shadows
 
 ## References
 
-- [[Senator
-- [Senator (D&D_Statblocks)]]
+- [[Senator (D&D_Statblocks)]]

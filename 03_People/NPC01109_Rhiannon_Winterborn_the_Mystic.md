@@ -168,8 +168,7 @@ Seeks rare merchandise
 - Related: [[Crystal Garden
 - Affected by [step_007 (phase_056)]]
 - Influences
-- Affected by [[step_019 (phase_070)
-- Influences [QUEST0009_Captain's_Request]]
+- Affected by [[QUEST0009_Captain's_Request]]
 - Connects to [[ITEM00740_Infernal_Orb_of_the_Gods
 - Requires [step_079 (phase_056)]]
 - Parallels [[04_Resources_Assets_Locations_location-city-market-master-cornelius-driftwood-v1-market-master-cornelius-driftwood.svg
@@ -178,8 +177,7 @@ Seeks rare merchandise
 - Leads to [step_091 (phase_071)]]
 - Compare with [[Mira Stormwind
 - See also: [SHOP00016_General_Shop_17]]
-- Influences [[step_060 (phase_068)
-- Compare with [Interfaith Community Centers (D&D_References)]]
+- Influences [[Interfaith Community Centers (D&D_References)]]
 - Affected by [[QUEST00069_Main_Quest_70
 - Connects to [EVENT00084_Political_Event_85]]
 - Compare with
@@ -189,8 +187,7 @@ Seeks rare merchandise
 - Leads to [step_019 (phase_022)]]
 - Connects to [[Location City Marina Stormwright V1 Marina Stormwright.svg
 - See also: [MON00067_Aberrations_Creature_68]]
-- Parallels [[step_020 (phase_014)
-- Originates from [NPC01635_Vesper_Ironforge_the_Cunning]]
+- Parallels [[NPC01635_Vesper_Ironforge_the_Cunning]]
 - Parallels [[List Spells Classes Shadow Magic Xge
 - Related: [step_095 (phase_016)]]
 - Parallels [[QUEST00316_Side_Quest_317
@@ -200,14 +197,12 @@ Seeks rare merchandise
 - Connects to [list-spells-classes-oath-of-glory-xphb (lists)]]
 - Affected by [[Assets Locations Location City the Deepmost Current V1 the Deepmost Current.svg
 - See also: [04_Resources_Assets_Locations_location-city-forge-master-korax-hammerdeep-forge-master-korax-hammerdeep.svg]]
-- Requires [[The Cold Houses (D&D_References)
-- Related: [The Paradox Constitution (D&D_References)]]
+- Requires [[The Paradox Constitution (D&D_References)]]
 - Compare with [[Assets Item Artifact Warhammer Xphb V1 Warhammer Xphb.png
 - Requires [War of Crushing Depths]]
 - Affected by [[The Shattered Summoning Circle
 - Affected by [EVENT00083_Political_Event_84]]
-- Leads to [[ENC00087_Combat_Encounter_88
-- Compare with [step_064 (phase_023)]]
+- Leads to [[ENC00087_Combat_Encounter_88]]
 - Related: [[Assets Locations Location City Portal Commander Marina Bridgewright Portal Commander Marina Bridgewright.png
 - Connects to [QUEST00210_Personal_Quest_211]]
 - Affected by [[NPC00170_Zephyr_Quicksilver_the_Wise
@@ -222,8 +217,7 @@ Seeks rare merchandise
 - Compare with [Teacher Miranda Hopekeeper]]
 - Affected by [[location-city-crystallium-crystallium.svg
 - Related: [Portrait NPC Shadow Citizenship Act V2 Shadow Citizenship Act.svg_1 (Portraits)]]
-- Parallels [[The Convergence Crown
-- Parallels [The Shadowmere Purification 2]]
+- Parallels [[The Shadowmere Purification 2]]
 - Originates from [[QUEST00495_Side_Quest_496
 - Compare with [Basic Poison Xphb]]
 - See also: [[QUEST00451_Side_Quest_452
@@ -236,18 +230,15 @@ Seeks rare merchandise
 - Leads to [ITEM00079_Frost_Sword_of_Wounding]]
 - Compare with [[Githyanki Dracomancer Xmm
 - Compare with [D-L-11_The_Last_Anchor_Player]]
-- Parallels [[Downtime Activity Training to Gain Levels
-- Parallels [Gold Statuette Set With Rubies Xdmg]]
+- Parallels [[Downtime Activity Training to Gain Levels]]
 - Influences [[Surveillance Detection Gear
 - Leads to [04_Resources_Assets_Locations_location-city-futures-master-economic-sense-futures-master-economic-sense.svg]]
-- Influences [[International Academic Exchange
-- Connects to [FAC00045_Guilds_46]]
+- Influences [[International Academic Exchange]]
 - Affected by [[Lumengarde Republi
 - Connects to [Ring of Elemental Command Water Xdmg]]
 - Requires [[step_094 (phase_059)
 - Influences [LOC00005_Dungeons_Location_6]]
-- Requires [[step_042 (phase_016)
-- Compare with [ENC00399_Combat_Encounter_400]]
+- Requires [[ENC00399_Combat_Encounter_400]]
 - See also: [[EVENT00014_Magical_Event_15
 - Requires [step_015 (phase_054)]]
 - Leads to [[sprig-of-mistletoe-xphb (items)
@@ -258,8 +249,7 @@ Seeks rare merchandise
 - Originates from
 - Originates from
 - See also: [Entertainment Industry]]
-- Originates from [[Elder Things 2
-- Connects to [QUEST00318_Side_Quest_319]]
+- Originates from [[QUEST00318_Side_Quest_319]]
 - Compare with [[NPC01128_Vesper_Jadeclaw_the_Swift
 - Compare with
 - Connects to [Captain Cornelius Deepwater]]

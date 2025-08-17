@@ -163,8 +163,7 @@ Has information about legendary item
 
 ## Connections
 
-- Parallels [[NPC_Name_Generator
-- Requires [ENC00059_Environmental_Encounter_60]]
+- Parallels [[ENC00059_Environmental_Encounter_60]]
 - Originates from [[Druid Xphb Circle of the Moon Xphb
 - Originates from [Aboleth Xmm (legendary-group)]]
 - Leads to [[Quest - Mother's Mercy 2
@@ -181,8 +180,7 @@ Has information about legendary item
 - Compare with [Living System Gardens]]
 - Connects to [[Reference Quick Reference Dnd5e Sidescreen 2024 (D&D_References)
 - Affected by [Assets Locations Location City Quartermaster Shadow Supply V1 Quartermaster Shadow Supply.svg]]
-- Parallels [[Archdruid Thornweaver
-- Influences [Diplomat Cross-Current Thane 2]]
+- Parallels [[Diplomat Cross-Current Thane 2]]
 - Related:
 - Connects to [[Ammunition of Slaying Xdmg
 - Related: [NPC0182_Willem_Brightblade]]
@@ -196,30 +194,25 @@ Has information about legendary item
 - Parallels [Political Consulting Guild (Guilds)]]
 - Connects to [[Session 4 Battle Above Clouds_1 (06_Sessions)
 - Influences [02_Worldbuilding_Military_Guerrilla_Fighters]]
-- Related: [[NPC01188_Zephyr_Lightbringer_the_Wanderer
-- Leads to [Goading Attack Xphb]]
+- Related: [[NPC01188_Zephyr_Lightbringer_the_Wanderer]]
 - See also: [[step_004 (phase_013)
 - Compare with [Kuo Toa Whip Xmm]]
 - See also: [[locked-door-lock-complexity-xdmg (tables)
 - Compare with [step_077 (phase_069)]]
-- Parallels [[NPC00530_Qadim_Silverleaf_the_Swift
-- Influences [LOC00037_Cities_Location_38]]
+- Parallels [[NPC00530_Qadim_Silverleaf_the_Swift]]
 - Related: [[d20-test-xphb (variant-rules)
 - Originates from [step_079 (phase_078)]]
-- Affected by [[EVENT00036_Magical_Event_37
-- Requires [NPC01399_Orion_Ashford_the_Bold]]
+- Affected by [[NPC01399_Orion_Ashford_the_Bold]]
 - Influences [[Robe of the Archmagi Xdmg
 - Compare with
 - Influences [Capital City]]
 - Leads to [[Bartender Marina Dualborn
 - Requires [Location City Keeper of Secrets Whisper Darkhold Keeper of Secrets Whisper Darkhold.svg]]
 - Originates from
-- Influences [[Overmind Depth-Thought Eternal
-- Influences [step_064 (phase_064)]]
+- Influences [[Overmind Depth-Thought Eternal]]
 - Compare with [[ITEM00551_Adamantine_Plate_of_Fortitude
 - Originates from [Port Meridian Harbor District.png]]
-- Originates from [[QUEST00239_Side_Quest_240
-- Affected by [FINAL_LEAN_IMPROVEMENTS_COMPLETE]]
+- Originates from [[FINAL_LEAN_IMPROVEMENTS_COMPLETE]]
 - Affected by [[Portrait NPC Quest the Voice Beneath V1 Quest the Voice Beneath.svg
 - Connects to [NPC00456_Cedric_Hawthorne_the_Risen]]
 - Leads to [[Artificer's Row 2
@@ -228,14 +221,11 @@ Has information about legendary item
 - Requires [ITEM00268_Blessed_Staff_of_the_Ancients]]
 - Originates from [[Location City Quartermaster David Simpleton Quartermaster David Simpleton.svg
 - Originates from [Dim Light Xphb]]
-- Affected by [[Admiral Marina Stormcrest (People)
-- Influences [Frost Giant Xmm]]
+- Affected by [[Admiral_Marina_Stormcrest (People)]]
 - Originates from [[Blowgun Xphb
 - Influences [LOC0145_LowerHill]]
-- Leads to [[Pressure Adaptation System (Lore)
-- Related: [Harbor Patrol]]
-- Related: [[LORE0035_History_of_the_Lost_City
-- Requires [step_094 (phase_045)]]
+- Leads to [[Pressure Adaptation System]]
+- Related: [[LORE0035_History_of_the_Lost_City]]
 - Related: [[Harmonic_Resonance_Evolution
 - Affected by [Ambassador Mark Exchangekeeper]]
 - Leads to [[noble-knight-variant (backgrounds)
@@ -244,25 +234,19 @@ Has information about legendary item
 - Leads to [MON00144_Constructs_Creature_145]]
 - Requires [[LORE00078_Legends_Entry_79
 - Related: [Dock Worker Toms]]
-- Compare with [[NPC0194_Jasper_Brightblade
-- Leads to [README]]
+- Compare with [[NPC0194_Jasper_Brightblade]]
 - Requires [[06 Sessions
 - Compare with [Sword of Wounding Xdmg]]
-- Related: [[NPC01352_Lyanna_Winterborn_the_Guardian
-- Parallels [egyptian-anubis (deities)]]
+- Related: [[NPC01352_Lyanna_Winterborn_the_Guardian]]
 - Affected by
-- Compare with [[Network Coordinator Wave Linkmaster
-- Requires [SPELL00065_Nature_Spell_66]]
-- See also: [[Enterprise Director Duskwork 2
-- Influences [Council Speaker Tide (D&D_References)]]
+- Compare with [[Network Coordinator Wave Linkmaster]]
+- See also: [[Council Speaker Tide (D&D_References)]]
 - Originates from [[step_074 (phase_096)
 - See also: [Portrait NPC Captain Thorne Darkwater V2 Captain Thorne Darkwater.svg]]
-- Related: [[Memoriam - The Forgotten Continent 2
-- Leads to [Quest - The Plague of Crystals]]
+- Related: [[Memoriam - The Forgotten Continent 2]]
 - Leads to
 - Originates from
-- Influences [[The Great Convergence Prophecies 2
-- Affected by [step_083 (phase_067)]]
+- Influences [[The Great Convergence Prophecies 2]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

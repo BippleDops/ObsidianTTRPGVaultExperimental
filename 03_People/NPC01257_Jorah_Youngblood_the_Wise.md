@@ -165,13 +165,10 @@ Has information about legendary item
 - See also: [Assets Locations Location City Hadrian Depthbridge V1 Hadrian Depthbridge.svg]]
 - See also: [[Map or Scroll Case Xphb
 - Affected by [generic-object (objects)]]
-- Requires [[Military Coordinator Strong (D&D_References)
-- Originates from [step_073 (phase_096)]]
+- Requires [[Military Coordinator Strong (D&D_References)]]
 - Leads to [[step_061 (phase_031)
 - Requires [polar-bear-xmm]]
-- Compare with [[NPC00066_Drusilla_Lightbringer_the_Wanderer
-- Connects to
-- Affected by [command-xphb (spells)]]
+- Compare with [[NPC00066_Drusilla_Lightbringer_the_Wanderer]]
 - Originates from [[beguiling-influence (optional-features)
 - Connects to [SHOP00030_Magical_Shop_31]]
 - Originates from [[Quest - The Crimson Tide_1 (01_Adventures)
@@ -179,18 +176,14 @@ Has information about legendary item
 - Originates from [Dr. Melissa Healwright]]
 - See also: [[lucky-xphb (feats)
 - See also: [dimetrodon-mpmm (beast)]]
-- Requires [[LOC00118_Planes_Location_119
-- Compare with [ENC00166_Environmental_Encounter_167]]
+- Requires [[ENC00166_Environmental_Encounter_167]]
 - Influences [[The Healing Voids
 - Requires [location-city-resonance-roses-resonance-roses.svg]]
 - Parallels [[step_081 (phase_032)
 - Compare with [Portrait NPC Captain Sarah Ironheart Captain Sarah Ironheart.svg]]
-- See also: [[QUEST00325_Side_Quest_326
-- Related: [step_024 (phase_042)]]
-- Compare with [[Brother Matthias Inkdrinker (D&D_References)
-- Originates from [ITEM00981_Lesser_Salve_of_Swiftness]]
-- Parallels [[Stop the Crystal Festival Ritual
-- Related: [Wind Song Linguistic Guide 2]]
+- See also: [[QUEST00325_Side_Quest_326]]
+- Compare with [[Brother Matthias Inkdrinker (D&D_References)]]
+- Parallels [[Stop the Crystal Festival Ritual]]
 - See also:
 - Originates from [[04_Resources_Assets_Symbols_symbol-heraldry-crisis-response-service-crisis-response-service.svg
 - Compare with [M L-07 the Anchor Cataclysm Player]]
@@ -207,18 +200,15 @@ Has information about legendary item
 - Requires [[swarm-of-dretches-xmm (fiend)
 - Connects to [EVENT00083_Magical_Event_84]]
 - Influences
-- Originates from [[NPC00825_Wynne_Darkwater_the_Bold
-- Related: [3 Bestiary]]
+- Originates from [[NPC00825_Wynne_Darkwater_the_Bold]]
 - Compare with [[Bookmark_Collections
 - Affected by [Nonhuman Surtur]]
 - Requires [[step_061 (phase_028)
 - Affected by [Assets Locations Location City Mediator Serenity Stillwater V1 Mediator Serenity Stillwater.svg]]
 - Connects to [[special-purpose-sentient-items-alignment-xdmg (tables)
 - See also: [10 Appendix B Creature Stat Blocks]]
-- Affected by [[Emergency Navigation Response
-- Influences [step_009 (phase_038)]]
-- See also: [[Item Types
-- Requires [QUEST00294_Side_Quest_295]]
+- Affected by [[Emergency Navigation Response]]
+- See also: [[QUEST00294_Side_Quest_295]]
 - Compare with [[Investiture of Wind Xge
 - Connects to [Void Ward Pendant]]
 - See also: [[Symbol Heraldry Investigators Anonymous Investigators Anonymous.svg
@@ -230,30 +220,24 @@ Has information about legendary item
 - Influences [[The Zone Map Codex 2
 - Leads to
 - Parallels [Exotic Saddle Xphb]]
-- Originates from [[MON00031_Aberrations_Creature_32
-- Requires [LORE00220_Legends_Entry_221]]
+- Originates from [[MON00031_Aberrations_Creature_32]]
 - Parallels [[04_Resources_Assets_Locations_location-city-captain-trawl-netcaster-captain-trawl-netcaster.svg
 - Influences [QUEST0079_Elder's_Folly]]
 - Related: [[ITEM01262_Pure_Herb_of_Swiftness
 - Compare with [ENC00021_Combat_Encounter_22]]
-- Connects to [[Kingdom of Luminal Peaks
-- Parallels [Random_Encounter_Tables (D&D_References)]]
+- Connects to [[Random_Encounter_Tables (D&D_References)]]
 - Originates from [[portrait-npc-shadow-embassy-shadow-embassy.svg_1 (Portraits)
 - Parallels [step_014 (phase_022)]]
 - Affected by [[artifact-properties-minor-beneficial-properties
 - Leads to [Blackrazor Xdmg]]
 - Affected by [[Session 4 Battle Above Clouds_1 (06_Sessions)
 - Compare with [Acolyte Sister Tidal Deepfaith 2]]
-- Requires [[Portrait NPC Anci... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Influences [high-jump-xphb (variant-rules)]]
-- Requires [[NPC01219_Hilda_Zephyrblade_the_Guardian
-- See also: [step_048 (phase_082)]]
+- Requires [[Portrait NPC Anci... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Requires [[NPC01219_Hilda_Zephyrblade_the_Guardian]]
 - Compare with [[Great Temporal War
 - See also: [step_070 (phase_038)]]
-- Connects to [[conditions#prone
-- Compare with [step_057 (phase_076)]]
-- Requires [[The Identity Chamber
-- Connects to [Consciousness Research Institute]]
+- Connects to [[Conditions]]
+- Requires [[Consciousness Research Institute]]
 - See also: [[step_092 (phase_015)
 - Compare with [step_038 (phase_005)]]
 - Compare with [[Pearl Sharpedge

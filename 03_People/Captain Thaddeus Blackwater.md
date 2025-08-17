@@ -314,9 +314,6 @@ Legends speak of Captain Thaddeus Blackwater as a nexus where past and present c
 - [Admiral Cassandra Stormwind]]
 - [[Assets Locations Location City Culinary Dreamweaver Sage Gentlespice Culinary Dreamweaver Sage Gentlespice.svg
 - [Captain Blackwater]]
-- [[The Kraken's Harbor
-- [Admiral Cassandra Stormwind (D&D_References)]]
-- [[Aethermoor (D&D_References)
-- [The Kraken's Harbor (D&D_References)]]
-- [[The Sunken Markets (D&D_References)
-- [Captain Blackwater (D&D_Statblocks)]]
+- [[Admiral Cassandra Stormwind (D&D_References)]]
+- [[The Kraken's Harbor (D&D_References)]]
+- [[The Sunken Markets (D&D_References)]]

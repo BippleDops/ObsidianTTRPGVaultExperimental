@@ -161,8 +161,7 @@ Being extorted by criminals
 
 - Connects to [[Gimli Deepcurrent (D&D_References)
 - Influences [Portrait NPC Quest the Royal Treatment V2 Quest the Royal Treatment.svg]]
-- Affected by [[Cockatrice Regent Xmm
-- Leads to [The Harbor Guild (D&D_References)]]
+- Affected by [[The Harbor Guild (D&D_References)]]
 - Requires [[step_093 (phase_014)
 - Originates from [step_023 (phase_006)]]
 - See also: [[step_094 (phase_033)
@@ -172,16 +171,14 @@ Being extorted by criminals
 - Leads to [[antimatter-rifle-xdmg (items)
 - Requires
 - Parallels [Crown of Endless Moments]]
-- Requires [[NPC00968_Elric_Youngblood_the_Wanderer
-- Influences [S-201_Eclipse_Raid_Window_Player]]
+- Requires [[NPC00968_Elric_Youngblood_the_Wanderer]]
 - Leads to [[step_024 (phase_008)
 - Affected by [The Final Sealing]]
 - Related: [[Crown of Stars 2
 - Compare with [step_062 (phase_037)]]
 - Originates from [[LOC00156_Cities_Location_157
 - See also: [The Crystal Festival Grounds]]
-- Parallels [[QUEST00051_Personal_Quest_52
-- Compare with [NPC01228_Brenna_Crystalbrook_the_Scholar]]
+- Parallels [[NPC01228_Brenna_Crystalbrook_the_Scholar]]
 - See also: [[item-artifact-ruby-xdmg-v6-ruby-xdmg.png
 - Originates from [step_094 (phase_038)]]
 - Parallels [[step_009 (phase_087)
@@ -194,16 +191,13 @@ Being extorted by criminals
 - Compare with [[Organizations the Void Seals
 - Affected by
 - Requires [NPC00143_Fiora_Youngblood_the_Broken]]
-- Influences [[ENC00086_Social_Encounter_87
-- Requires [step_100 (phase_090)]]
-- Requires [[The Void Shard (Lore)
-- Compare with [Medical Cover Credentials (D&D_References)]]
+- Influences [[ENC00086_Social_Encounter_87]]
+- Requires [[Medical Cover Credentials (D&D_References)]]
 - Requires [[03 Races
 - Requires [step_005 (phase_039)]]
 - Influences [[The Shard Fragment
 - Connects to [Immolation Xge]]
-- Related: [[EVENT00012_Magical_Event_13
-- Affected by [NPC01016_Malakai_Ravenheart_the_Redeemed]]
+- Related: [[NPC01016_Malakai_Ravenheart_the_Redeemed]]
 - Leads to [[Portrait NPC Lord Chancellor Prism V2 Lord Chancellor Prism.svg
 - Requires
 - Connects to [House Deepforge (D&D_References)]]
@@ -212,8 +206,7 @@ Being extorted by criminals
 - Originates from [[Jug Xphb
 - Leads to [ITEM01111_Lesser_Salve_of_Vigor]]
 - Affected by
-- Compare with [[Future Aquabyssos
-- See also: [Lady Pelagic (D&D_References)]]
+- Compare with [[Lady Pelagic (D&D_References)]]
 - Compare with [[Quest - The Shadow Fleet
 - Connects to [step_072 (phase_069)]]
 - Leads to [[Location City the Embassy Quarter the Embassy Quarter.svg
@@ -225,13 +218,10 @@ Being extorted by criminals
 - See also: [LOC00230_Wilderness_Location_231]]
 - Compare with [[Dock Master Voidpilings
 - Connects to [step_094 (phase_099)]]
-- Leads to [[Campaign Epilogues 2
-- See also: [ENC00242_Combat_Encounter_243]]
+- Leads to [[ENC00242_Combat_Encounter_243]]
 - Originates from [[step_006 (phase_005)
 - Requires [Greyhawk Trithereon Xdmg]]
-- Affected by [[step_028 (phase_092)
-- Related:
-- Related: [System Operator Tide Watchwright (D&D_References)]]
+- Affected by [[System Operator Tide Watchwright (D&D_References)]]
 - Influences [[Alpha-Prime
 - Affected by [ITEM01201_Concentrated_Salve_of_Swiftness]]
 - Parallels [[Bestial Spirit Water Xphb
@@ -253,8 +243,7 @@ Being extorted by criminals
 - Compare with [ENC0086_Random_Encounter_87]]
 - Compare with [[Repelling Blast Xphb
 - Influences [step_018 (phase_073)]]
-- Parallels [[The Hybrid Harbor (D&D_References)
-- Originates from [Shadow Mastiff Mpmm]]
+- Parallels [[The Hybrid Harbor (D&D_References)]]
 - Parallels [[Undead Services Bureau
 - Influences [kraken-xmm (legendary-group)]]
 - Connects to [[list-spells-feats-wood-elf-magic-xge (lists)

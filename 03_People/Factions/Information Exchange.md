@@ -175,16 +175,10 @@ Things widely suspected
 
 ## References
 
-- [[Customs House
-- [Diplomatic Event Scenarios]]
-- [[Relationship Web Nuances
-- [The Silverscale Conspiracy]]
-- [[Umbral Exchange
-- [Underground Smuggling Networks]]
-- [[Madame Rosalind Goldleaf
-- [Madame Whisper]]
-- [[Maelstrom Palace
-- [Port Meridian - Market Square]]
-- [[Shadow Market Canals
-- [The Shrinking Sanctuary]]
+- [[Diplomatic Event Scenarios]]
+- [[The Silverscale Conspiracy]]
+- [[Underground Smuggling Networks]]
+- [[Madame Rosalind Goldleaf]]
+- [[Port Meridian - Market Square]]
+- [[The Shrinking Sanctuary]]
 - [[NPC Name 2]]

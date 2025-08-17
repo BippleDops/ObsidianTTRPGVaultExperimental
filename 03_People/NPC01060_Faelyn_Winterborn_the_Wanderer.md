@@ -160,11 +160,9 @@ Has map to lost treasure
 - Compare with [NPC01434_Baelor_Winterborn_the_Guardian]]
 - Leads to [[Location City Sacred Healing Springs V1 Sacred Healing Springs.svg
 - Influences [maddening-darkness-xge]]
-- Influences [[NPC00033_Caelum_Underhill
-- Leads to [NPC00356_Ewan_Grimholt_the_Redeemed]]
+- Influences [[NPC00356_Ewan_Grimholt_the_Redeemed]]
 - Compare with
-- Influences [[ice-devil-xmm (fiend)
-- Leads to [LOC00237_Wilderness_Location_238]]
+- Influences [[LOC00237_Wilderness_Location_238]]
 - Parallels [[Mirror Image Xphb
 - Related: [LOC0085_LowerFalls]]
 - Affected by [[Map World Layer Depth Zones and Altitude Bands V2 Depth Zones and Altitude Bands.svg
@@ -179,24 +177,20 @@ Has map to lost treasure
 - Related: [step_059 (phase_027)]]
 - Leads to [[step_083 (phase_056)
 - Compare with [ITEM00826_Time-worn_Crown_of_Truth]]
-- Influences [[step_068 (phase_073)
-- Affected by [NPC01193_Felicia_Thornweave_the_Wanderer]]
+- Influences [[NPC01193_Felicia_Thornweave_the_Wanderer]]
 - Requires [[Handout Handout Privateer Letter of Marque V2 Privateer Letter of Marque.png
 - Connects to [Ω_System-CLI-spells-school-conjuration]]
 - Originates from [[NPC00762_Felicia_Nightfall_the_Seeker
 - Parallels [ITEM00804_Void-touched_Chalice_of_Eternity]]
-- Originates from [[Royal Chaplain Magnus Goldcurrent (D&D_References)
-- Compare with [step_056 (phase_089)]]
+- Originates from [[Royal Chaplain Magnus Goldcurrent (D&D_References)]]
 - Originates from [[Paradox Engine Room (D&D_References)
 - Originates from [NPC0067_Beatrix_Ironforge_the_Wise]]
 - Parallels [[ITEM01253_Greater_Incense_of_Swiftness
 - Requires [archaic-scc (celestial)]]
 - Connects to [[step_036 (phase_015)
 - Originates from [Assets Locations Location City Keeper Aquaeous Depth Scholar Keeper Aquaeous Depth Scholar.svg]]
-- See also: [[Underground River Systems (D&D_References)
-- Related: [Intelligence Processing Center]]
-- Affected by [[ENC00448_Combat_Encounter_449
-- Leads to [step_062 (phase_060)]]
+- See also: [[Underground River Systems (D&D_References)]]
+- Affected by [[ENC00448_Combat_Encounter_449]]
 - Requires
 - Leads to [[SHOP00057_Magical_Shop_58
 - Leads to
@@ -217,10 +211,8 @@ Has map to lost treasure
 - Leads to [step_022 (phase_020)]]
 - Leads to [[Potion of Flying Xdmg
 - Related: [Location City the Inverse Palace V1 the Inverse Palace.svg]]
-- Related: [[awakened-zurkhwood-oota (plant)
-- Requires [The Shattering of the Crown (D&D_References)]]
-- Influences [[step_077 (phase_010)
-- Leads to [Portrait NPC Duch... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Related: [[The Shattering of the Crown (D&D_References)]]
+- Influences [[Portrait NPC Duch... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - See also: [[QUEST0059_Princess's_Request
 - See also: [Identity Verification Mirrors]]
 - Originates from [[The Inverse Palace 2
@@ -231,8 +223,7 @@ Has map to lost treasure
 - Compare with [The First Drowning]]
 - Affected by [[describe-appearance-and-personality-charisma-xphb
 - Affected by [Assets Portraits Portrait NPC Quest the Throne Succession Quest the Throne Succession.svg]]
-- Parallels [[LOC00077_Cities_Location_78
-- Leads to [ITEM0090_Cursed_Orb_of_the_Dawn]]
+- Parallels [[ITEM0090_Cursed_Orb_of_the_Dawn]]
 - Connects to [[Dimensional Scholar Arcturus Voidwalker
 - Affected by [Portrait NPC Free Captains Alliance V1 Free Captains Alliance.svg]]
 - Connects to [[portrait-npc-captain-rescue-v2-captain-rescue.svg
@@ -245,12 +236,10 @@ Has map to lost treasure
 - Originates from [ENC00100_Social_Encounter_101]]
 - Related: [[level-advancement-character-advancement-xphb (tables)
 - Leads to [LOC00068_Cities_Location_69]]
-- Requires [[The_Wind-Rider_Cultural_Society
-- Compare with [Quickened Spell Xphb]]
+- Requires [[The_Wind-Rider_Cultural_Society]]
 - Related: [[Sword of Sharpness Xdmg
 - Compare with [Location City Keeper Temporal Safehaven Keeper Temporal Safehaven.svg]]
-- Compare with [[QUEST00099_Main_Quest_100
-- Affected by [The Moonwell]]
+- Compare with [[QUEST00099_Main_Quest_100]]
 - Related: [[LOC00009_Cities_Location_10
 - Leads to [MON00005_Aberrations_Creature_6]]
 - See also: [[step_080 (phase_099)

@@ -165,15 +165,11 @@ Seeks bodyguards for dangerous journey
 
 ## Connections
 
-- See also: [[step_074 (phase_078)
-- Originates from [Paramedic Supervisor Fastaid (D&D_References)]]
-- Compare with [[SPELL00092_Nature_Spell_93
-- Connects to [Trade Captain Current (D&D_References)]]
+- See also: [[Paramedic Supervisor Fastaid (D&D_References)]]
+- Compare with [[Trade Captain Current (D&D_References)]]
 - Requires [[Harbor Master Captain Dockwise 2
 - Compare with [Location City Archdruid Marina Kelpweaver V1 Archdruid Marina Kelpweaver.svg]]
-- Connects to [[Handouts Ships Player Handout Aethermoor Airships
-- Originates from
-- Leads to [dolphin-mpmm (beast)]]
+- Connects to [[Handouts Ships Player Handout Aethermoor Airships]]
 - Leads to [[SHOP00065_General_Shop_66
 - Affected by [giant-eagle-xmm (celestial)]]
 - Influences [[LORE00005_Prophecies_Entry_6
@@ -182,18 +178,14 @@ Seeks bodyguards for dangerous journey
 - Originates from [Location City Memorial Artists Memorial Artists.svg]]
 - Related: [[SPELL00150_Arcane_Spell_151
 - Related: [Template_Player_Placeholder.png]]
-- Requires [[LOC00240_Towns_Location_241
-- Influences [The Archive of Suppressed Evidence 2]]
-- Originates from [[step_089 (phase_085)
-- See also: [LOC00014_Wilderness_Location_15]]
+- Requires [[The Archive of Suppressed Evidence 2]]
+- Originates from [[LOC00014_Wilderness_Location_15]]
 - Leads to [[portrait-npc-azure-shard-v2-azure-shard.svg
 - Affected by [LORE00152_Prophecies_Entry_153]]
-- Connects to [[The Flowing Market
-- See also: [LOC00142_Towns_Location_143]]
+- Connects to [[LOC00142_Towns_Location_143]]
 - Parallels [[Unite the Recursions
 - Affected by [ITEM01446_Ornate_Spyglass_of_Durability]]
-- Connects to [[Economic_Systems (D&D_References)
-- See also: [wind-wall-xphb (spells)]]
+- Connects to [[Economic_Systems (D&D_References)]]
 - Connects to [[LORE00044_Prophecies_Entry_45
 - Affected by [Portrait NPC Nerissa Deepcurrent V2 Nerissa Deepcurrent.svg_1 (Portraits)]]
 - See also: [[ITEM01017_Lesser_Herb_of_Vigor
@@ -212,12 +204,9 @@ Seeks bodyguards for dangerous journey
 - Related: [Memory Extraction Laboratory 2]]
 - Connects to [[Dark Gift of Tarakamedes the Grave Wyrm Cos
 - Affected by [Portrait NPC Captain Sarah Oathbound V1 Captain Sarah Oathbound.svg]]
-- Influences [[gulthias-staff-cos (items)
-- Affected by [Prophet Nerida Voidgazer (D&D_References)]]
-- Parallels [[step_059 (phase_090)
-- Leads to [ENC00245_Combat_Encounter_246]]
-- Parallels [[NPC01459_Cedric_Youngblood_the_Seeker
-- Compare with [step_023 (phase_094)]]
+- Influences [[Prophet Nerida Voidgazer (D&D_References)]]
+- Parallels [[ENC00245_Combat_Encounter_246]]
+- Parallels [[NPC01459_Cedric_Youngblood_the_Seeker]]
 - See also: [[ITEM01294_Superior_Salve_of_Clarity
 - See also: [LOC00000_Planes_Location_1]]
 - Originates from [[The Groundling Liberation Movement (D&D_References)
@@ -232,39 +221,30 @@ Seeks bodyguards for dangerous journey
 - See also: [CLEANUP_COMPLETE]]
 - Connects to [[Figurine of Wondrous Power Bronze Griffon
 - Influences [Portrait NPC Abyssal Cathedral V2 Abyssal Cathedral.svg]]
-- Originates from [[giant-elk-xmm
-- Leads to [NPC01882_Cedric_Ironforge_the_Swift]]
+- Originates from [[NPC01882_Cedric_Ironforge_the_Swift]]
 - Influences
 - Requires [[Portrait NPC Captain Threshold Captain Threshold.svg
 - Affected by [NPC00715_Alaric_Stormwind_the_Wanderer]]
 - Originates from
 - Connects to [[SHOP00005_Specialty_Shop_6
 - Connects to [LORE00028_Prophecies_Entry_29]]
-- Influences [[Pressure Effects 2
-- Influences [The Eternal Senate (D&D_References)]]
-- Compare with [[allosaurus-xmm (beast)
-- Originates from [Trader Grimm Voidheart (D&D_References)]]
-- Connects to [[High Vigil Keeper Thalassa Depthmind (D&D_References)
-- Connects to [Gaze of Two Minds Xphb]]
+- Influences [[The Eternal Senate (D&D_References)]]
+- Compare with [[Trader Grimm Voidheart (D&D_References)]]
+- Connects to [[High Vigil Keeper Thalassa Depthmind (D&D_References)]]
 - Requires [[Session Planning Templates
 - Affected by [step_088 (phase_099)]]
-- Connects to [[NPC01432_Pyria_Crystalbrook_the_Broken
-- Requires [NPC00786_Jorah_Underhill_the_Risen]]
+- Connects to [[NPC01432_Pyria_Crystalbrook_the_Broken]]
 - Connects to [[LORE00046_Legends_Entry_47
 - Affected by [NPC00220_Hilda_Ironforge]]
-- Requires [[Devil's Gorge
-- Leads to [Foreign Affairs Ministr]]
-- See also: [[Sergeant Crystal-Heart Elena
-- Parallels [step_066 (phase_072)]]
-- Affected by [[Session 1 the Queens Summons
-- Related: [step_099 (phase_014)]]
+- Requires [[Foreign Affairs Ministr]]
+- See also: [[Sergeant Crystal-Heart Elena]]
+- Affected by [[Session 1 the Queens Summons]]
 - Compare with [[step_098 (phase_079)
 - Compare with [Portrait NPC Ice Kingdom Magic Ice Kingdom Magic.svg]]
 - Related: [[Portrait NPC the Deepmind Conspiracy the Deepmind Conspiracy.svg
 - Connects to [Sunset Bay (D&D_References)]]
-- Originates from [[Commander Thrace Ironwood
-- Connects to [Hold Person Xphb]]
-- Related: [[step_069 (phase_078)]]
+- Originates from [[Commander Thrace Ironwood]]
+- Related:
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

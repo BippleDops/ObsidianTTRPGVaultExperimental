@@ -25,5 +25,8 @@
   "alt_text": "Concept art of triceratops-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-triceratops-xmm-v1-triceratops-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-triceratops-xmm-v1-triceratops-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:10:20.323Z",
+  "generationMethod": "ComfyUI"
 }

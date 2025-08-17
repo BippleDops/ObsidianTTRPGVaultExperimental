@@ -165,8 +165,7 @@ Discovered something valuable
 - Requires [Crisis Management]]
 - Leads to [[Shadow Portal Nexus
 - Parallels [Assets Locations Location City Lady Vivienne the Unfrozen Lady Vivienne the Unfrozen.svg]]
-- Related: [[LOC00210_Dungeons_Location_211
-- Related: [Dr. Marina Voidseeker]]
+- Related: [[LOC00210_Dungeons_Location_211]]
 - Affected by [[step_100 (phase_085)
 - See also: [7 Appendix B Monsters]]
 - See also: [[step_098 (phase_013)
@@ -180,16 +179,14 @@ Discovered something valuable
 - Requires [step_052 (phase_054)]]
 - Connects to [[npc-bonds (tables)
 - Influences [coastal-encounters-levels-1116-xge (tables)]]
-- Related: [[Crystal Corruption Mechanics
-- Influences [The Memory Coral Crown]]
+- Related: [[Crystal Corruption Mechanics]]
 - Requires [[LORE00130_Prophecies_Entry_131
 - Influences [EVENT00027_Magical_Event_28]]
 - Related: [[enspelled-weapon-level-2-xdmg (items)
 - Requires [Assets Locations Location City Artisan Associations V1 Artisan Associations.svg]]
 - Affected by [[ENC00356_Combat_Encounter_357
 - Connects to [bountiful-luck-xge (feats)]]
-- Related: [[NPC00340_Orion_Ironwood_the_Broken
-- Leads to [Shadow Current]]
+- Related: [[NPC00340_Orion_Ironwood_the_Broken]]
 - See also: [[Portrait NPC Quest the Seventh Song V2 Quest the Seventh Song.svg
 - Related: [NPC01401_Rhiannon_Ironforge_the_Seeker]]
 - Leads to
@@ -200,32 +197,25 @@ Discovered something valuable
 - Originates from [[Assets Locations Location City Maritime Commerce V1 Maritime Commerce.svg
 - Influences
 - Requires [Whisper Jack]]
-- Related: [[nonhuman-surtur (deities)
-- Affected by [The Contract Archive (D&D_References)]]
+- Related: [[The Contract Archive (D&D_References)]]
 - See also: [[Divine Preservation Magic
 - Related: [Portrait NPC Vex Shadowthorn V2 Vex Shadowthorn.svg]]
 - Requires [[Abyssal Trenches (D&D_References)
 - Originates from
 - Affected by [Aethermoor Special Forces (D&D_References)]]
-- Leads to [[Skill_Checks
-- Connects to [QUEST00065_Personal_Quest_66]]
+- Leads to [[QUEST00065_Personal_Quest_66]]
 - Parallels [[The Lost Shipment (D&D_References)
 - Influences [Location City International Trade Routes International Trade Routes.svg]]
-- Compare with [[Ring of Water Walking Xdmg
-- Influences [The Scribes' Sanctuary (D&D_References)]]
+- Compare with [[The Scribes' Sanctuary (D&D_References)]]
 - Connects to
-- Leads to [[The Crystal Amphitheater (D&D_References)
-- Affected by [Quest - War of Tides_1 (01_Adventures)]]
+- Leads to [[The Crystal Amphitheater (D&D_References)]]
 - Parallels [[Weasel Xmm
 - Influences [windvane-pota (items)]]
-- Requires [[marilith-xmm (fiend)
-- Related: [Quest - Cultural Preservation]]
-- Leads to [[step_049 (phase_067)
-- See also: [Sarah Chronicler (D&D_References)]]
+- Requires [[Quest - Cultural Preservation]]
+- Leads to [[Sarah Chronicler (D&D_References)]]
 - Connects to [[Adjust Hit Points and Hit Point Dice Fixed
 - Compare with [Intervention Windows (D&D_References)]]
-- Compare with [[Public Works Yard (D&D_References)
-- Influences [The Dream Shard (Lore)]]
+- Compare with [[Public Works Yard (D&D_References)]]
 - See also: [[DUN00127_Dungeon_128
 - Originates from [Portrait NPC Captain Rex Ironhaul V1 Captain Rex Ironhaul.svg]]
 - Connects to [[Identity Storage Vault 2
@@ -251,8 +241,7 @@ Discovered something valuable
 - Leads to [step_043 (phase_074)]]
 - Influences [[Location City Pilgrimage Coordinators Pilgrimage Coordinators.svg
 - Influences [random-buildings-warehouse (tables)]]
-- Originates from [[LOC00256_Cities_Location_257
-- Affected by [Egyptian Bast]]
+- Originates from [[LOC00256_Cities_Location_257]]
 - Affected by [[step_025 (phase_005)
 - Parallels [QUEST00160_Main_Quest_161]]
 - Connects to

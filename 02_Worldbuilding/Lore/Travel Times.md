@@ -69,17 +69,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-## Overview
-
-Travel Times represents a crucial aspect of the world's history, cosmology, or fundamental nature.
-
----
-
-*Last Updated: 2025-08-14 19:03*
-
-## [DM_Notes]]
+- Describe how this culture exists in other [[region]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -112,8 +102,6 @@ Travel Times represents a crucial aspect of the world's history, cosmology, or f
 
 ## References
 
-- [[Kraken Territories
-- [The Grand Trade Routes]]
-- [[Travel_Times (02_Worldbuilding)
-- [Abyssos Prime - Pressure Terminal]]
+- [[The Grand Trade Routes]]
+- [[Abyssos Prime - Pressure Terminal]]
 - [[Pressure Terminal]]

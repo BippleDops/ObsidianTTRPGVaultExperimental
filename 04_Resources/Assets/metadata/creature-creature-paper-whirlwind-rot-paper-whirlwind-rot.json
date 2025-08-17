@@ -25,5 +25,8 @@
   "alt_text": "Concept art of paper-whirlwind-rot with anatomy, scale, and environment.",
   "realm": "aethermoor",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-paper-whirlwind-rot-paper-whirlwind-rot.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-paper-whirlwind-rot-paper-whirlwind-rot.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:07:28.521Z",
+  "generationMethod": "ComfyUI"
 }

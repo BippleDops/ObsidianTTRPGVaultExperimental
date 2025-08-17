@@ -124,5 +124,4 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Envoy Blackwater Jr (D&D_Statblocks)
-- [Envoy Blackwater Jr.]]
+- [[Envoy Blackwater Jr (D&D_Statblocks)]]

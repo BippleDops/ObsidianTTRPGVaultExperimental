@@ -167,14 +167,12 @@ Has map to lost treasure
 - Originates from [location-city-storm-guard-storm-guard.svg]]
 - Influences [[EVENT00043_Magical_Event_44
 - Leads to [SPELL00100_Arcane_Spell_101]]
-- Requires [[Inkling Mascot Scc
-- Connects to [Portrait NPC Mili... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Requires [[Portrait NPC Mili... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Connects to [[Lieutenant Storm Truesight
 - Originates from [Assets Handouts Handout Handout Aged Treasure Map V1 Aged Treasure Map.png]]
 - Leads to [[Dimensional Guard
 - Compare with [Portrait NPC High Priestess Scylla Deepdream V2 High Priestess Scylla Deepdream.svg_1 (Portraits)]]
-- Originates from [[Wizard Xphb School of Transmutation
-- Requires [Shadow Magistrate Umbrian Darkwise (D&D_References)]]
+- Originates from [[Shadow Magistrate Umbrian Darkwise (D&D_References)]]
 - Influences [[sleet-storm-xphb (spells)
 - Affected by [physical-characteristics-beholder-skin-color-vgm]]
 - Affected by [[young-bulette-pota (beast)
@@ -182,36 +180,31 @@ Has map to lost treasure
 - See also: [Captain Marlowe Tidecrest]]
 - Connects to [[NPC0148_Cormac_Darkwater
 - Compare with [shadow-blade-xge (spells)]]
-- Connects to [[Respiratory Sciences Research Institute
-- Related: [Paradox Theory]]
+- Connects to [[Respiratory Sciences Research Institute]]
 - Affected by [[LORE00300_Legends_Entry_301
 - Leads to [Quest - Marina's Choice 2]]
 - Affected by [[Assets Locations Location City Concierge Phillip Gracewater Concierge Phillip Gracewater.svg
 - See also: [step_030 (phase_008)]]
-- Compare with [[step_057 (phase_080)
-- Related: [LOC00195_Planes_Location_196]]
+- Compare with [[LOC00195_Planes_Location_196]]
 - Leads to [[step_092 (phase_071)
 - Compare with [iron-flask-xdmg (items)]]
 - Connects to [[Aethermoor Capital (D&D_References)
 - Requires
 - Related: [Quest The Democratic Balance]]
-- See also: [[ENC00026_Environmental_Encounter_27
-- Affected by [Handout Handout Te... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- See also: [[Handout Handout Te... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Influences [[shadow-touched-xphb (feats)
 - Leads to
 - Connects to [QUEST00210_Personal_Quest_211]]
 - Related: [[Assets Locations Location City Heritage Keeper Memoryshade V1 Heritage Keeper Memoryshade.svg
 - Originates from [Baroness Seraphina Moonweaver (D&D_References)]]
-- Related: [[Maritime Security Chief Reef (D&D_References)
-- See also: [QUEST00255_Personal_Quest_256]]
+- Related: [[Maritime Security Chief Reef (D&D_References)]]
 - Influences [[Trade Union
 - Parallels [step_018 (phase_024)]]
 - Affected by [[step_031 (phase_014)
 - Connects to [Map World Layer Depth Zones and Altitude Bands V1 Depth Zones and Altitude Bands.svg]]
 - Parallels [[Quest - Identity Crisis_1 (01_Adventures)
 - Compare with [scholars-pack-xphb (items)]]
-- Parallels [[The First Transformation Wave
-- Leads to [NPC00121_Jorah_Proudmore]]
+- Parallels [[The First Transformation Wave]]
 - Requires
 - See also: [[Wind Song Traditions (D&D_References)
 - Related: [Symbol Heraldry Witness Protection Protocol Witness Protection Protocol.svg]]
@@ -222,10 +215,8 @@ Has map to lost treasure
 - Compare with [[step_056 (phase_096)
 - Connects to [Describe Appearance and Personality Charisma]]
 - Originates from
-- Requires [[Public Safety Complex
-- Requires [Hill Encounters Levels 1116 Xge]]
-- See also: [[ENC00120_Social_Encounter_121
-- Related: [step_093 (phase_083)]]
+- Requires [[Hill Encounters Levels 1116 Xge]]
+- See also: [[ENC00120_Social_Encounter_121]]
 - Connects to [[Flind Mpmm
 - See also: [layers-of-mount-celestia-xdmg (tables)]]
 - See also:
@@ -233,10 +224,8 @@ Has map to lost treasure
 - Influences [Ω_System-CLI-spells-school-necromancy]]
 - Related: [[SPELL00121_Divine_Spell_122
 - Parallels [The Observatory of Whispers]]
-- Leads to [[SPELL00058_Divine_Spell_59
-- See also: [Historical Preservation Society 2]]
-- Related: [[README
-- Requires [Ancient Siege Tunnels 2]]
+- Leads to [[Historical Preservation Society 2]]
+- Related: [[Ancient Siege Tunnels 2]]
 - Parallels [[gray-ooze-xmm (ooze)
 - Compare with [step_004 (phase_058)]]
 - Affected by [[NPC01583_Delara_Ravenheart_the_Swift
@@ -259,8 +248,7 @@ Has map to lost treasure
 - Parallels [Mammoth Xmm]]
 - Originates from [[step_066 (phase_015)
 - Related: [Jackalwere Xmm]]
-- Originates from [[ENC00094_Environmental_Encounter_95
-- Affected by [Rumor Mill Networ]]
+- Originates from [[ENC00094_Environmental_Encounter_95]]
 
 ## Visual References
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png

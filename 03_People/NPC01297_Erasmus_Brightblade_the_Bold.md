@@ -201,8 +201,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [step_015 (phase_029)]]
 - Parallels [[Portrait NPC Zephyr Goldwhisper Zephyr Goldwhisper.svg_1 (Portraits)
 - Compare with [The Memory-Gifted Historian, Scholar Echo-Thought]]
-- Affected by [[rat-xmm (beast)
-- Connects to [Chief Surgeon Nerissa Tideheart]]
+- Affected by [[Chief Surgeon Nerissa Tideheart]]
 - See also: [[ENC00030_Combat_Encounter_31
 - Compare with [Symbol Heraldry Crisis Response Service Crisis Response Service.svg]]
 - Connects to [[Location City Surface Underwater Trade Surface Underwater Trade.svg
@@ -211,12 +210,10 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [step_018 (phase_059)]]
 - Related: [[murgaxors-orb-scc (items)
 - Connects to [Flow Circlemaker 2]]
-- Influences [[The Maw of Darkness
-- See also: [ENC00316_Combat_Encounter_317]]
+- Influences [[ENC00316_Combat_Encounter_317]]
 - Affected by [[QUEST0094_Baron's_Gambit
 - Originates from [step_075 (phase_044)]]
-- Requires [[step_031 (phase_080)
-- Leads to [Intervention Windows (D&D_References)]]
+- Requires [[Intervention Windows (D&D_References)]]
 - Requires [[ITEM01061_Superior_Herb_of_Healing
 - Leads to [kuo-toa-monitor-xmm (aberration)]]
 - Originates from [[brooch-of-shielding-xdmg (items)
@@ -225,8 +222,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [House Pressureborn]]
 - Requires [[ITEM00018_Venomous_Sword_of_Speed
 - Originates from [QUEST00425_Side_Quest_426]]
-- Affected by [[The Shadow Warren
-- Leads to [MON00134_Aberrations_Creature_135]]
+- Affected by [[MON00134_Aberrations_Creature_135]]
 - Compare with [[location-city-sister-mourne-v1-sister-mourne.svg
 - Compare with
 - See also: [The Drowning Truth 2]]
@@ -234,10 +230,8 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [Portrait NPC Vespara Nightwhisper Thorne V2 Vespara Nightwhisper Thorne.svg]]
 - Leads to [[step_018 (phase_047)
 - Requires [defender-xdmg (items)]]
-- Requires [[Archive_Index (D&D_References)
-- Connects to [step_012 (phase_064)]]
-- Parallels [[Elephant Xphb
-- Related: [International Corruption Monitoring Consortium]]
+- Requires [[Archive_Index (D&D_References)]]
+- Parallels [[International Corruption Monitoring Consortium]]
 - Influences [[ITEM00638_Adamantine_Gauntlets_of_Grace
 - Influences [step_073 (phase_096)]]
 - Leads to [[Shadow Surgery Center
@@ -248,14 +242,12 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [Services Void Entity Banishment]]
 - Parallels [[Location City Harbor Pilot Guild Harbor Pilot Guild.svg
 - Parallels [README]]
-- Compare with [[The Oracle of Bathyal Palace
-- Parallels [step_029 (phase_095)]]
+- Compare with [[The Oracle of Bathyal Palace]]
 - Leads to [[Portrait NPC Quest the Dying Forest V2 Quest the Dying Forest.svg
 - Influences [Quest - Syndicate Shadows_1 (01_Adventures)]]
 - Influences [[Portrait NPC Fence Queen Sticky Fingers Sal Fence Queen Sticky Fingers Sal.svg
 - Compare with [Portrait NPC Reflection Pools V1 Reflection Pools.svg_1 (Portraits)]]
-- See also: [[ENC00306_Combat_Encounter_307
-- Influences [Tenebrarum]]
+- See also: [[ENC00306_Combat_Encounter_307]]
 - Compare with [[step_080 (phase_072)
 - Connects to [Swimming Xphb]]
 - Affected by [[Archaeological Discoveries (D&D_References)
@@ -264,8 +256,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [DUN00135_Dungeon_136]]
 - Influences [[Cosmology the Multiverse
 - Compare with [Spiritual Healers]]
-- Requires [[Master Tidal Engineer Coral Wavewright
-- Affected by [Diamond Dust Dealer]]
+- Requires [[Master Tidal Engineer Coral Wavewright]]
 - See also: [[The Bloom Fields (D&D_References)
 - Affected by [NPC01208_Qadim_Thornweave_the_Seeker]]
 - Related: [[Codex of Forgotten Depths 2
@@ -278,8 +269,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [Crystal Exchange Plaza 2]]
 - Parallels [[Armor of Gleaming Xdmg
 - Compare with [step_021 (phase_004)]]
-- Connects to [[Quest - The Diplomatic Immunity Case
-- Requires [QUEST00257_Side_Quest_258]]
+- Connects to [[Quest - The Diplomatic Immunity Case]]
 - Parallels [[step_029 (phase_016)
 - Affected by [step_090 (phase_020)]]
 - Compare with
@@ -287,8 +277,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [goblin-minion-xmm (fey)]]
 - Requires [[location-city-the-collector-v1-the-collector.svg
 - Originates from [Diplomatic Tides]]
-- Influences [[cyclops-oracle-xmm (giant)
-- Related: [Viscount Deeper-Still (D&D_References)]]
+- Influences [[Viscount Deeper-Still (D&D_References)]]
 
 ## Visual References
 ![[03_People/portrait_lord_erasmus_voidheart_dramatic.png

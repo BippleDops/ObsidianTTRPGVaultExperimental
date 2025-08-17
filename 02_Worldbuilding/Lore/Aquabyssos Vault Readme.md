@@ -1,7 +1,6 @@
 ---
 
-title: [[Aquabyssos Vault Readme
-type: [Lore]]
+title: [[Aquabyssos Vault Readme]]
 tags:
 - lore
 - worldbuilding

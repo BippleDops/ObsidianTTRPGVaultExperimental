@@ -173,12 +173,10 @@ Forming expedition to dangerous location
 - Originates from [Assets Portraits Portrait NPC Quest the Deep Cartographer Quest the Deep Cartographer.svg]]
 - Influences [[Assets Locations Location City Surface Expert Grainwise V1 Surface Expert Grainwise.svg
 - Leads to [LORE00326_Legends_Entry_327]]
-- Related: [[step_078 (phase_008)
-- Affected by [ENC00140_Environmental_Encounter_141]]
+- Related: [[ENC00140_Environmental_Encounter_141]]
 - Influences [[Assets Locations Location City Sage Lyralei Starweaver V1 Sage Lyralei Starweaver.svg
 - Related: [Kenku Dmg]]
-- Affected by [[Enspelled Weapon Level 3 Xdmg
-- See also: [Alpha Leader Marina Depthstrike (D&D_References)]]
+- Affected by [[Alpha Leader Marina Depthstrike (D&D_References)]]
 - See also: [[Coral (Lore)
 - Leads to [Flame Blade Xphb]]
 - Influences [[ITEM00182_Radiant_Hammer_of_Accuracy
@@ -187,22 +185,16 @@ Forming expedition to dangerous location
 - Affected by [step_022 (phase_011)]]
 - See also: [[step_083 (phase_086)
 - Compare with [Hell Hound Xmm]]
-- Parallels [[NPC01560_Caelum_Youngblood_the_Mystic
-- Related: [Locations_Gallery (Galleries)]]
-- Leads to [[LOC00149_Planes_Location_150
-- Requires [Supply Master Stockpil]]
+- Parallels [[NPC01560_Caelum_Youngblood_the_Mystic]]
+- Leads to [[LOC00149_Planes_Location_150]]
 - Parallels [[Portrait NPC the Leviathan Prophets V2 the Leviathan Prophets.svg_1 (Portraits)
 - Connects to [Assets Locations Location City Service Levels Service Levels.svg]]
-- Parallels [[NPC01234_Nerys_Dawnstrider_the_Strong
-- Influences [The Last Resort Procedures]]
-- Related: [[Vehicles - Vessel Horror Intensifier
-- Influences [MON00150_Constructs_Creature_151]]
-- Leads to [[Eberron Boldrei
-- Connects to [NPC00273_Gavril_Youngblood_the_Bold]]
+- Parallels [[NPC01234_Nerys_Dawnstrider_the_Strong]]
+- Related: [[Vehicles - Vessel Horror Intensifier]]
+- Leads to [[NPC00273_Gavril_Youngblood_the_Bold]]
 - Connects to [[step_100 (phase_028)
 - See also: [Cosmology the Multiverse]]
-- Originates from [[ENC00152_Combat_Encounter_153
-- Connects to [Goldwhisper Mano]]
+- Originates from [[ENC00152_Combat_Encounter_153]]
 - Parallels [[at-sea-encounters (tables)
 - Parallels [Location City Seeds of the Past V1 Seeds of the Past.svg]]
 - Requires [[QUEST00114_Main_Quest_115
@@ -215,8 +207,7 @@ Forming expedition to dangerous location
 - Parallels [gaze-of-two-minds-xphb (optional-features)]]
 - Affected by [[step_029 (phase_036)
 - Parallels [roleplaying-a-beholder-beholder-flaws-vgm (tables)]]
-- See also: [[Possession Mechanics
-- Connects to [LOC00049_Dungeons_Location_50]]
+- See also: [[LOC00049_Dungeons_Location_50]]
 - Related:
 - Related: [[creature-creature-sphinx-xmm-v3-sphinx-xmm.png
 - Related: [portrait-npc-syndicate-war-v2-syndicate-war.svg]]
@@ -242,18 +233,13 @@ Forming expedition to dangerous location
 - Originates from [Quest - Nature's Balance_1 (01_Adventures)]]
 - Connects to [[all-is-well-xdmg (tables)
 - Related: [skill-xphb (variant-rules)]]
-- Originates from [[LORE0025_History_of_the_Dragon_Wars
-- Leads to [step_034 (phase_037)]]
-- Requires [[LORE00320_History_Entry_321
-- Compare with [S-004 Cloud Canyon Player (Encounters)]]
-- Leads to [[MON00160_Undead_Creature_161
-- Requires [Unite or Divide]]
+- Originates from [[LORE0025_History_of_the_Dragon_Wars]]
+- Requires [[S-004 Cloud Canyon Player (Encounters)]]
+- Leads to [[MON00160_Undead_Creature_161]]
 - Parallels [[Princess Celestia (Lore)
 - Influences [All Sessions]]
-- Connects to [[Hereditary House 2
-- Originates from [LOC00198_Wilderness_Location_199]]
-- Parallels [[Ogre Howdah Mpmm
-- Originates from [Harbor District (D&D_References)]]
+- Connects to [[LOC00198_Wilderness_Location_199]]
+- Parallels [[Harbor District (D&D_References)]]
 - Leads to [[LORE00111_History_Entry_112
 - See also: [Luxury Goods Market]]
 - Leads to [[ITEM00703_Infernal_Tome_of_Eternity
@@ -262,8 +248,7 @@ Forming expedition to dangerous location
 - Related: [Portrait NPC Captain Thornback V1 Captain Thornback.svg]]
 - Connects to [[roleplaying-a-hag-hag-flaws-vgm (tables)
 - Related: [QUEST00005_Side_Quest_6]]
-- Originates from [[Depth Guard Sanctuary
-- Parallels [ENC00352_Combat_Encounter_353]]
+- Originates from [[ENC00352_Combat_Encounter_353]]
 - Related: [[MON00165_Undead_Creature_166
 
 ## Visual References

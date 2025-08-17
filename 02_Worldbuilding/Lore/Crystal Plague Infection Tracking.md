@@ -50,33 +50,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-### Superstitions Improvements
-
-- List common superstitions and their origins
-
-### Death_Customs Improvements
-
-- Detail funeral rites and afterlife beliefs
-
-### Oral_Tradition Improvements
-
-- Add folk tales and children's stories
-
-### Hospitality Improvements
-
-- Explain guest rights and host obligations
-
-## Overview
-
-Crystal Plague Infection Tracking represents a crucial aspect of the world's history, cosmology, or fundamental nature.
-
----
-
-*Last Updated: 2025-08-14 19:03*
-
-## [DM_Notes]]
+- Describe how this culture exists in other [[region]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -103,4 +77,4 @@ Crystal Plague Infection Tracking represents a crucial aspect of the world's his
 
 ## References
 
-- [[Campaign_Overview (Crystal_Plague)]]
+- [[Campaign_Overview]]

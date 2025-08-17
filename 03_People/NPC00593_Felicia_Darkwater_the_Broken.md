@@ -181,14 +181,12 @@ Being extorted by criminals
 - Compare with [ITEM00728_Infernal_Orb_of_Truth]]
 - See also: [[Armor of Poison Resistance Xdmg
 - Connects to [Find_the_Missing_Caravan]]
-- Influences [[Silver Threadweaver (D&D_References)
-- Requires [Bestial Spirit Water Xphb]]
+- Influences [[Silver Threadweaver (D&D_References)]]
 - Affected by [[Assets Locations Location City Truth and Madness Truth and Madness.svg
 - Leads to [Symbol Heraldry Aquabyssos Faction Web V1 Aquabyssos Faction Web.svg_1 (Symbols)]]
 - See also: [[Religious Orders (Orders)
 - Parallels [step_095 (phase_053)]]
-- See also: [[Downtime Activity Work Xge
-- Leads to [step_091 (phase_018)]]
+- See also: [[Downtime Activity Work Xge]]
 - Compare with
 - Influences [[duergar-deities-mtf (tables)
 - See also: [step_054 (phase_072)]]
@@ -200,14 +198,11 @@ Being extorted by criminals
 - See also: [ITEM00489_Adamantine_Helm_of_Protection]]
 - Parallels [[The Eternal Speaker (People)
 - Affected by [Beholder Xmm]]
-- Influences [[LOC00255_Wilderness_Location_256
-- Related: [step_088 (phase_077)]]
-- Affected by [[Combat_Reference_Card
-- See also: [Secret Society Membership Rolls]]
+- Influences [[LOC00255_Wilderness_Location_256]]
+- Affected by [[Secret Society Membership Rolls]]
 - Compare with [[The Ironlung Tavern 2
 - Influences [step_090 (phase_063)]]
-- See also: [[Exotic Imports Market (D&D_References)
-- See also: [Sentinel Archive Vaults]]
+- See also: [[Exotic Imports Market (D&D_References)]]
 - Requires [[step_016 (phase_019)
 - Affected by [step_088 (phase_078)]]
 - Influences [[step_013 (phase_089)
@@ -218,25 +213,19 @@ Being extorted by criminals
 - Parallels [Vicious Vine Xdmg]]
 - See also: [[ITEM00210_Cursed_Bow_of_Wounding
 - Affected by [step_060 (phase_028)]]
-- Parallels [[fiendish-cults-cult-goals-mtf (tables)
-- Affected by [Cross-Realm Etiquette Guide (D&D_References)]]
-- Originates from [[Meteor Swarm Xphb
-- See also: [The Threshold (D&D_References)]]
-- Connects to [[God-King Aetheron (D&D_References)
-- Requires [step_006 (phase_086)]]
-- Affected by [[NPC01547_Branwen_Frostwhisper_the_Mystic
-- Related: [step_073 (phase_039)]]
+- Parallels [[Cross-Realm Etiquette Guide (D&D_References)]]
+- Originates from [[The Threshold (D&D_References)]]
+- Connects to [[God-King Aetheron (D&D_References)]]
+- Affected by [[NPC01547_Branwen_Frostwhisper_the_Mystic]]
 - Requires [[step_080 (phase_007)
 - Influences [ITEM00186_Frost_Axe_of_the_Ancients]]
 - Connects to [[Quest - The Final Tide_1 (01_Adventures)
 - Compare with [step_044 (phase_086)]]
 - Compare with [[location-city-pressure-palace-pressure-palace.png
 - See also: [Portrait NPC Working Class Citizens V2 Working Class Citizens.svg]]
-- Related: [[Initiative Tracker (D&D_References)
-- Parallels [obsidian-xdmg (items)]]
+- Related: [[Initiative Tracker (D&D_References)]]
 - Parallels
-- Leads to [[The Verdant Accord (D&D_References)
-- Related: [step_007 (phase_076)]]
+- Leads to [[The Verdant Accord (D&D_References)]]
 - Influences [[ITEM00772_Divine_Scepter_of_Truth
 - Parallels [ITEM01361_Elegant_Tool_Kit_of_Quality]]
 - Originates from [[Map Map Golden Trade Route Toll V2 Golden Trade Route Toll.svg
@@ -255,19 +244,15 @@ Being extorted by criminals
 - Related: [Keepers of Memory 2]]
 - Compare with [[LORE00112_History_Entry_113
 - See also: [The Living Tools (Items)]]
-- Related: [[Methane Forests 2
-- See also: [Memory Merchant Valeria Siltweave]]
-- Originates from [[Cultural Heritage Center
-- Requires [Chronicle Keeper Sage Deepmemory (D&D_References)]]
+- Related: [[Memory Merchant Valeria Siltweave]]
+- Originates from [[Chronicle Keeper Sage Deepmemory (D&D_References)]]
 - See also: [[Assets Locations Location City Temple Ward Temple Ward.svg
 - Originates from [Emanation Area of Effect Xphb]]
-- Leads to [[Hazards Crystal Plague
-- Originates from [Shadow Magistrate Umbrian Darkwise 2]]
+- Leads to [[Shadow Magistrate Umbrian Darkwise 2]]
 - Influences
 - Influences [[Assets Locations Location City Historical Research Institute V1 Historical Research Institute.svg
 - Related: [cloudkill-xphb (spells)]]
-- Connects to [[NPC00486_Caelum_Stormwind_the_Scholar
-- Affected by [Sacred Texts of Transformation 2]]
+- Connects to [[NPC00486_Caelum_Stormwind_the_Scholar]]
 - Related: [[NPC0093_Nora_Goldleaf
 
 ## Visual References

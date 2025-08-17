@@ -166,8 +166,7 @@ Forming expedition to dangerous location
 - See also: [[Cassia Lightweaver
 - Compare with
 - Requires [LOC00196_Dungeons_Location_197]]
-- Connects to [[LOC0009_PortHaven
-- Connects to [ENC00223_Combat_Encounter_224]]
+- Connects to [[ENC00223_Combat_Encounter_224]]
 - Compare with [[Portrait NPC Archbishop Mordecai Stormwright V2 Archbishop Mordecai Stormwright.svg
 - Parallels [LORE0086_Legend_of_the_Fallen_Star]]
 - Compare with [[step_059 (phase_080)
@@ -178,8 +177,7 @@ Forming expedition to dangerous location
 - Connects to [Assets Locations Location City Sanctuary Safeharbor Sanctuary Safeharbor.svg]]
 - Influences [[NPC0065_Zara_Ironforge
 - Leads to [buying-a-magic-item-magic-item-price-xge (tables)]]
-- Leads to [[Consequence Chain 3 Reality Merger Diplomatic Crisis
-- Leads to [step_008 (phase_073)]]
+- Leads to [[Consequence Chain 3 Reality Merger Diplomatic Crisis]]
 - Compare with [[Passages Passage
 - Connects to [Wand of Web Xdmg]]
 - Leads to [[ITEM01408_Simple_Journal_of_Reliability
@@ -190,10 +188,8 @@ Forming expedition to dangerous location
 - Compare with [Archmage Velina Duskweaver]]
 - Influences [[Elven Erevan Ilesere Mtf
 - See also: [step_037 (phase_053)]]
-- Influences [[Information Broker Whisper Goldtongu
-- Compare with [Journey Board (Lore)]]
-- See also: [[The Reality Storm Crisis
-- Affected by [NPC01212_Dara_Quicksilver_the_Guardian]]
+- Influences [[Information Broker Whisper Goldtongu]]
+- See also: [[NPC01212_Dara_Quicksilver_the_Guardian]]
 - Leads to [[Secondary Tables Supernatural Events Xge
 - Parallels [Lady Elena the Eternal (D&D_References)]]
 - Requires [[ink-pen-xphb (items)
@@ -202,8 +198,7 @@ Forming expedition to dangerous location
 - Influences [Reef Shark]]
 - Leads to [[The Shadowmere_1
 - Connects to [The_Dimensional_Barrier (Lore)]]
-- Connects to [[Desperate Plague Victim (D&D_References)
-- Compare with [Surface-Underwater Trade 2]]
+- Connects to [[Desperate Plague Victim (D&D_References)]]
 - Originates from [[Suspended Cauldron Xdmg
 - Influences [Greyhawk Erythnul Xdmg]]
 - Influences
@@ -233,16 +228,13 @@ Forming expedition to dangerous location
 - Related: [Mindwitness Mpmm]]
 - See also: [[Assets Locations Location City the Archive Keepers the Archive Keepers.svg
 - Requires [Quest - The Deepest Current]]
-- Compare with [[step_036 (phase_014)
-- Parallels [NPC00867_Felicia_Quicksilver_the_Wanderer]]
-- Parallels [[NPC01071_Xander_Hawthorne_the_Redeemed
-- Influences [secondary-tables-arcane-matters-xge]]
+- Compare with [[NPC00867_Felicia_Quicksilver_the_Wanderer]]
+- Parallels [[NPC01071_Xander_Hawthorne_the_Redeemed]]
 - Compare with [[Invisible Stalker Xmm
 - Affected by [Martha_Hillbrook.png]]
 - See also: [[Portrait NPC Shadow Guard Units V1 Shadow Guard Units.svg_1 (Portraits)
 - Requires [Ottos Irresistible Dance Xphb]]
-- Affected by [[Diplomatic Service 2
-- Connects to [Wraith Curator Ancient-Wisdom 2]]
+- Affected by [[Wraith Curator Ancient-Wisdom 2]]
 - Parallels [[step_057 (phase_076)
 - Requires [step_007 (phase_057)]]
 - Requires
@@ -250,8 +242,7 @@ Forming expedition to dangerous location
 - Requires [Monk Xphb Way of the Drunken Master Xge]]
 - See also: [[Portrait NPC the Speaking Stones the Speaking Stones.svg
 - Affected by [Pressure Adaptation System]]
-- Related: [[Crystal_Wardens (Groups)
-- Leads to [Chief Philosopher Marina Clearpool (D&D_References)]]
+- Related: [[Chief Philosopher Marina Clearpool (D&D_References)]]
 - Parallels
 - Leads to
 - Leads to [[step_097 (phase_083)

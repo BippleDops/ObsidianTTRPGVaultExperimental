@@ -250,5 +250,4 @@ ___
 
 - [[Assets Locations Location City Quartermaster David Simpleton V1 Quartermaster David Simpleton.svg
 - [Draft_Content (People)]]
-- [[Theological Warfare
-- [Theological Warfare (D&D_References)]]
+- [[Theological Warfare (D&D_References)]]

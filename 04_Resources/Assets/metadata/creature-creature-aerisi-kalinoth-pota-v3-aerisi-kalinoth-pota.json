@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "A dynamic medieval-fantasy tableau in a painterly style, capturing the motion of a mythical creature resembling aerisi-kalinoth-pota, but distinguished by its unique musculature and limbs. Against the backdrop of a spectacular underwater scene, the sky and sea merge into one, with subsurface caustic patterns illuminating the surreal landscape. Teals, deep blues, and sea greens dominate the palette, accented by pearlescent highlights. Drawn to scale, a human silhouette provides a sense of scale. The creature's gear and ornamentation is consistent with its environment and lacks any modern elements. Don't add any textual, modern, or futuristic elements. Focus on detailed concept art and ensure clarity even with a limited three-color palette.",
-  "file": "04_Resources/Assets/Creatures/creature-creature-aerisi-kalinoth-pota-v3-aerisi-kalinoth-pota.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-aerisi-kalinoth-pota-v3-aerisi-kalinoth-pota.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:03.320Z",
+  "generationMethod": "ComfyUI"
 }

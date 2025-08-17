@@ -25,5 +25,8 @@
   "alt_text": "Concept art of otherworldly-steed-fiend-xphb with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-otherworldly-steed-fiend-xphb-v4-otherworldly-steed-fiend-xphb.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-otherworldly-steed-fiend-xphb-v4-otherworldly-steed-fiend-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:07:21.366Z",
+  "generationMethod": "ComfyUI"
 }

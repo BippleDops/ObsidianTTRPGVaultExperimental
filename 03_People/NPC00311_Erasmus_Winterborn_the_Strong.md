@@ -169,12 +169,10 @@ Needs discrete help with family scandal
 - Requires [wall-of-water-xge (spells)]]
 - Parallels [[step_058 (phase_046)
 - Affected by [step_048 (phase_016)]]
-- Leads to [[Quest - The Corruption Cleansing
-- See also: [MON00076_Undead_Creature_77]]
+- Leads to [[Quest - The Corruption Cleansing]]
 - Leads to [[Assets Handouts Handout Handout Ancient Prophecy Fragment V2 Ancient Prophecy Fragment.png
 - Originates from [light-repeating-crossbow-oota (items)]]
-- Connects to [[step_034 (phase_097)
-- Originates from [Campaign Calendar (D&D_References)]]
+- Connects to [[Campaign Calendar (D&D_References)]]
 - Compare with [[creature-creature-murgaxor-scc-murgaxor-scc.png
 - See also: [lapis-lazuli-xdmg (items)]]
 - Originates from [[Location City Temple Districts V1 Temple Districts.svg
@@ -197,8 +195,7 @@ Needs discrete help with family scandal
 - See also: [Parliament High Council (D&D_References)]]
 - Related: [[Quest - The Royal Treatment_1 (01_Adventures)
 - Parallels [LOC00198_Wilderness_Location_199]]
-- Related: [[Diplomatic Dining Protocol (D&D_References)
-- Originates from [The Neutral Embassy]]
+- Related: [[Diplomatic Dining Protocol (D&D_References)]]
 - Related: [[Ambush Point (D&D_Statblocks)
 - Requires [ENC00232_Combat_Encounter_233]]
 - Requires
@@ -209,31 +206,24 @@ Needs discrete help with family scandal
 - Originates from
 - Leads to [[Handout Handout Ancient Prophecy Fragment V2 Ancient Prophecy Fragment.png
 - Influences [Captain_Trawl_Netcaster.png]]
-- Originates from [[Witness Protection Network (D&D_References)
-- Originates from [Tidal Memento (D&D_References)]]
+- Originates from [[Witness Protection Network (D&D_References)]]
 - See also: [[SHOP00045_General_Shop_46
 - Leads to [step_032 (phase_088)]]
 - See also: [[Location City Surface Contact Prohibition Surface Contact Prohibition.svg
 - Compare with [ENC00158_Combat_Encounter_159]]
-- Compare with [[Sister Astara the Ever-Watching
-- Leads to [LORE00124_Legends_Entry_125]]
+- Compare with [[Sister Astara the Ever-Watching]]
 - Related: [[step_025 (phase_098)
 - Affected by [Temporal Rescue]]
-- Related: [[LOC00255_Dungeons_Location_256
-- See also: [step_064 (phase_029)]]
+- Related: [[LOC00255_Dungeons_Location_256]]
 - Leads to [[Assets Locations Location City Sacred Grottos V1 Sacred Grottos.svg
 - Connects to [portrait-npc-the-schooling-v2-the-schooling.svg_1 (Portraits)]]
-- Leads to [[Coming-of-Age Traditions and Ceremonies
-- Affected by [SPELL00095_Arcane_Spell_96]]
+- Leads to [[Coming-of-Age Traditions and Ceremonies]]
 - Leads to
 - See also:
-- Originates from [[LOC00141_Wilderness_Location_142
-- See also: [Chief Inspector Magnus Ledgerkeep (D&D_References)]]
+- Originates from [[Chief Inspector Magnus Ledgerkeep (D&D_References)]]
 - Related:
-- Parallels [[Arcane Broker Void-Touch Mystic
-- Leads to [tiefling-fierna-mtf (races)]]
-- Affected by [[Unity Festival
-- Requires [Working Class Routines 2]]
+- Parallels [[Arcane Broker Void-Touch Mystic]]
+- Affected by [[Working Class Routines 2]]
 - Influences [[celtic-morrigan (deities)
 - Leads to [Symbol Heraldry Purist Coalition Purist Coalition.svg]]
 - Originates from [[Location City Marina Bridgewater V1 Marina Bridgewater.svg
@@ -254,14 +244,12 @@ Needs discrete help with family scandal
 - Connects to [04_Resources_Assets_Locations_location-city-living-stone-v1-living-stone.svg]]
 - Parallels [[Assets Locations Location City Memoriam Keeper Marcus Remembrance V1 Memoriam Keeper Marcus Remembrance.svg
 - See also: [step_053 (phase_020)]]
-- Compare with [[Tidal Memory Ceremonies 2
-- See also: [Commander Transparent (D&D_References)]]
+- Compare with [[Commander Transparent (D&D_References)]]
 - See also: [[Orcsplitter Pota
 - Connects to [LOC0114_UpperBridge]]
 - Originates from [[ITEM01227_Refined_Herb_of_Swiftness
 - Connects to [Assets Locations Location City Sommelier Bacchus Deepbottle Sommelier Bacchus Deepbottle.svg]]
-- See also: [[Random Encounter Tables - Aquabyssos (D&D_References)
-- Related: [hat-of-vermin-xdmg (items)]]
+- See also: [[Random Encounter Tables - Aquabyssos (D&D_References)]]
 - See also: [[Assets Vehicles Vehicle Ship Crown Council Flagship Crown Council Flagship.svg
 - See also: [Symbol Heraldry Minister Truth Darknes Minister Truth Darknes.svg]]
 - Compare with [[Comprehend Languages Xphb

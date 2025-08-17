@@ -185,8 +185,7 @@ Seeks rare merchandise
 - Affected by [step_051 (phase_026)]]
 - Related: [[Warhorse Skeleton Xmm
 - Influences [step_028 (phase_025)]]
-- Originates from [[Aberrant Cults (Cults_and_Movements)
-- Related: [step_028 (phase_056)]]
+- Originates from [[Aberrant Cults (Cults_and_Movements)]]
 - Compare with [[Location City Breaking the Deep V1 Breaking the Deep.svg
 - Affected by [Project Iron Laboratory]]
 - Leads to
@@ -197,8 +196,7 @@ Seeks rare merchandise
 - Leads to [The Windcatchers Guild]]
 - See also: [[step_042 (phase_024)
 - Influences [Assets Locations Location City Scepter of Winter S Command V1 Scepter of Winter S Command.svg]]
-- Requires [[Symbol Heraldry Cry... Related To: Local Political Structure Connected Plots: to Be Developed
-- Requires [NPC0104_Yorick_Goldleaf]]
+- Requires [[Symbol Heraldry Cry... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Originates from [[02_Worldbuilding_Groups_Order_of_Mirrors
 - Connects to [NPC01074_Felicia_Nightfall_the_Fallen]]
 - Requires
@@ -215,13 +213,11 @@ Seeks rare merchandise
 - Compare with [Creature Creature Hobgoblin Devastator Mpmm V4 Hobgoblin Devastator Mpmm.png]]
 - Leads to [[step_048 (phase_031)
 - Compare with [step_010 (phase_070)]]
-- Influences [[Jenny Copperwright
-- Originates from [prophets-gambit-cos (variant-rules)]]
+- Influences [[prophets-gambit-cos (variant-rules)]]
 - Requires [[potion-of-acid-resistance-xdmg (items)
 - Affected by [ITEM00874_Ancient_Ring_of_Destiny]]
 - Influences
-- Affected by [[Quest - Crystal Corruption
-- See also: [The Speaker of Silence (D&D_References)]]
+- Affected by [[The Speaker of Silence (D&D_References)]]
 - Compare with [[goblin-minion-xmm (fey)
 - Leads to [step_035 (phase_084)]]
 - Leads to [[QUEST00122_Main_Quest_123
@@ -233,32 +229,26 @@ Seeks rare merchandise
 - Compare with [[step_061 (phase_046)
 - Requires [tome-of-leadership-and-influence-xdmg (items)]]
 - Parallels
-- Influences [[Mechanics Recursion Travel System
-- Connects to [The Grand Abandonment - Central Warehouse Comple (D&D_References)]]
+- Influences [[The Grand Abandonment - Central Warehouse Comple (D&D_References)]]
 - Affected by [[Gravity Anomaly Mechanics 2
 - Connects to [ability-modifiers-xphb (tables)]]
 - Originates from [[step_029 (phase_011)
 - Parallels [04_Resources_Assets_Portraits_portrait-npc-captain-swift-cloudracer-captain-swift-cloudracer.svg_Quick_Ref]]
-- Originates from [[Royal Embassy
-- Affected by
-- Requires [Deep Mystic Aurelius Glowseeker 2]]
+- Originates from [[Deep Mystic Aurelius Glowseeker 2]]
 - See also:
-- Affected by [[LOC00259_Wilderness_Location_260
-- Leads to [Historical Prophetic Analysis]]
+- Affected by [[LOC00259_Wilderness_Location_260]]
 - Originates from [[Commander Typhoon Blackheart (Places)
 - Requires [step_030 (phase_033)]]
 - Leads to [[step_097 (phase_025)
 - Influences [step_044 (phase_027)]]
-- Compare with [[Grief Harvester Melancholy (D&D_References)
-- Originates from [Bear Trap Xge]]
+- Compare with [[Grief Harvester Melancholy (D&D_References)]]
 - Originates from [[SPELL00109_Divine_Spell_110
 - Requires
 - Related: [Encounter Tables]]
 - Requires
 - Influences [[Location City the Sunken Cathedral of Perfect Order the Sunken Cathedral of Perfect Order.svg
 - Affected by [Student Prime Coral]]
-- Originates from [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)
-- Requires [Assets Locations Location City Blood Coral V1 Blood Coral.svg]]
+- Originates from [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]
 - Parallels [[NPC00249_Branwen_Blackstone
 - Affected by [ITEM00036_Thunder_Crossbow_of_Speed]]
 - Influences [[Location City Mourning Depths V1 Mourning Depths.svg
@@ -266,8 +256,7 @@ Seeks rare merchandise
 - Requires
 - Influences [[Goading Attack Xphb
 - Connects to [Neutrality Laws 2]]
-- See also: [[NPC00354_Caelum_Dawnstrider_the_Risen
-- Originates from [Chronomancer Paradox]]
+- See also: [[NPC00354_Caelum_Dawnstrider_the_Risen]]
 - Connects to [[step_059 (phase_065)
 - Parallels [Will O Wisp Xmm]]
 - See also: [[Disaster Prevention Centers (D&D_References)

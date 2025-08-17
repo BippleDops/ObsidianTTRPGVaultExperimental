@@ -4,23 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: Crystal Agricultural Research Institute
-type: lore
-updated: 2025-08-14
----
-
-# Crystal Agricultural Research Institute
-
-## Overview
-This document contains important information regarding Crystal Agricultural Research Institute and its role within the greater narrative.
-
-## Description
-Crystal Agricultural Research Institute represents a significant element within the campaign world, offering various opportunities for engagement and development.
-
-## Key Information
-- **Primary Purpose**: Serves specific function within the world
-- **Connections**: [Link]]ed to multiple other elements
+- [[Crystal Agricultural Research Institute]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details

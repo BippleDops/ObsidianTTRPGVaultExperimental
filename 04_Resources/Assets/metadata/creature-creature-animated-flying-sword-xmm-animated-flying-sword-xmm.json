@@ -28,5 +28,8 @@
   "model": "gpt-image-1",
   "size": "1024x1024",
   "revised_prompt": null,
-  "file": "04_Resources/Assets/Creatures/creature-creature-animated-flying-sword-xmm-animated-flying-sword-xmm.png"
+  "file": "04_Resources/Assets/Creatures/creature-creature-animated-flying-sword-xmm-animated-flying-sword-xmm.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:36.736Z",
+  "generationMethod": "ComfyUI"
 }

@@ -4,8 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: [Aethermoor]] Culture and Society
+- [[Aethermoor]] Culture and Society
 type: lore
 updated: 2025-08-14
 ---

@@ -300,5 +300,4 @@ ___
 
 - [[Assets Art Dr. Siphon Gillwater.png
 - [Assets Symbols Symbol Heraldry Acoustic Infection Acoustic Infection.svg]]
-- [[High Priestess Nerida Soulcurrent
-- [High Priestess Nerida Soulcurrent (D&D_References)]]
+- [[High Priestess Nerida Soulcurrent (D&D_References)]]

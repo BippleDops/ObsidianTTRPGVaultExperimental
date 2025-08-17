@@ -4,23 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: Foreign Trade Envoy Lysander Farreach
-type: lore
-updated: 2025-08-14
----
-
-# Foreign Trade Envoy Lysander Farreach
-
-## Overview
-This document contains important information regarding Foreign Trade Envoy Lysander Farreach and its role within the greater narrative.
-
-## Description
-Foreign Trade Envoy Lysander Farreach represents a significant element within the campaign world, offering various opportunities for engagement and development.
-
-## Key Information
-- **Primary Purpose**: Serves specific function within the world
-- **Connections**: [Link]]ed to multiple other elements
+- [[Foreign Trade Envoy Lysander Farreach]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details

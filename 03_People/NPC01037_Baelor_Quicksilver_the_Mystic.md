@@ -156,8 +156,7 @@ Competitor sabotaging business
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -174,8 +173,7 @@ Competitor sabotaging business
 
 - Connects to [[Assets Locations Location City the First Failure V1 the First Failure.svg
 - Requires [Coral Vortextrader]]
-- Requires [[Reality Maintenance Department (D&D_References)
-- Parallels [The Unnatural Legion]]
+- Requires [[Reality Maintenance Department (D&D_References)]]
 - Affected by [[Assets Locations Location City Coral Craftsman Coral Craftsman.svg
 - Connects to [The Whisper Keepers 2]]
 - Parallels [[Portrait NPC Captain Sky Horizon Captain Sky Horizon.svg
@@ -201,12 +199,9 @@ Competitor sabotaging business
 - Leads to [Horn of Silent Alarm Xdmg]]
 - Affected by [[step_078 (phase_019)
 - Compare with [Truth-Shielding Illusions]]
-- Requires [[step_081 (phase_047)
-- Related: [Session 20 - Reality Fractures]]
-- See also: [[step_064 (phase_028)
-- Influences [Timeline Synchronization Guide]]
-- Leads to [[Resistance Xphb
-- Requires [NPC00277_Dara_Frostwhisper]]
+- Requires [[Session 20 - Reality Fractures]]
+- See also: [[Timeline Synchronization Guide]]
+- Leads to [[NPC00277_Dara_Frostwhisper]]
 - Compare with [[human-names-spanish-female-xge (tables)
 - Related:
 - Affected by [Festival Grounds]]
@@ -215,15 +210,13 @@ Competitor sabotaging business
 - Parallels [[Chaplain Abyssos the Deepseeke 2
 - Related:
 - Requires [ITEM01349_Ornate_Journal_of_Reliability]]
-- Parallels [[bearded-devil-xmm (fiend)
-- Affected by [Cave Badger Oota]]
+- Parallels [[bearded-devil-xmm (fiend)]]
 - Influences
 - Leads to [[The Deep Fugitive (D&D_References)
 - Requires [Location City Shadow Noble Districts V1 Shadow Noble Districts.svg]]
 - See also: [[The Primordial Vaults 2
 - Requires [step_030 (phase_019)]]
-- Compare with [[Propaganda Distribution Networks
-- Influences [step_071 (phase_021)]]
+- Compare with [[Propaganda Distribution Networks]]
 - Compare with [[SPELL00051_Arcane_Spell_52
 - Originates from [step_087 (phase_009)]]
 - Compare with [[location-city-trade-unions-v1-trade-unions.svg
@@ -233,20 +226,14 @@ Competitor sabotaging business
 - Connects to [The Southern Trading Companies 2]]
 - Originates from [[buying-a-magic-item-magic-item-price-xge (tables)
 - Connects to [step_035 (phase_049)]]
-- Related: [[ENC00192_Social_Encounter_193
-- Connects to [step_007 (phase_093)]]
-- See also: [[The Vault Keepers
-- Influences [Current Navigation Techniques 2]]
+- Related: [[ENC00192_Social_Encounter_193]]
+- See also: [[Current Navigation Techniques 2]]
 - Originates from [[EVENT00013_Natural_Event_14
 - Related: [eagle-xmm (beast)]]
-- Influences [[step_030 (phase_070)
-- Connects to [Tradition_Keeper_Elder_Wisdom]]
-- See also: [[NPC00676_Qadim_Nightfall_the_Seeker
-- Related: [step_095 (phase_031)]]
-- Related: [[step_048 (phase_008)
-- Connects to [Investigation Procedures (D&D_References)]]
-- Influences [[step_017 (phase_007)
-- Leads to [Royal Redirection Corps (D&D_References)]]
+- Influences [[Tradition_Keeper_Elder_Wisdom]]
+- See also: [[NPC00676_Qadim_Nightfall_the_Seeker]]
+- Related: [[Investigation Procedures (D&D_References)]]
+- Influences [[Royal Redirection Corps (D&D_References)]]
 - Parallels [[LORE00189_History_Entry_190
 - See also: [ENC00057_Combat_Encounter_58]]
 - Affected by [[Assets Locations Location City Memorial Wall of Names Memorial Wall of Names.png
@@ -260,14 +247,12 @@ Competitor sabotaging business
 - Influences [Assets Art Choir Master Celestine Hymnsinger.png]]
 - Requires [[PHASE1_60_PERCENT_COMPLETE
 - Connects to [Campaign_Conclusions]]
-- See also: [[LOC00296_Planes_Location_297
-- See also: [Watchtower Prime 2]]
+- See also: [[LOC00296_Planes_Location_297]]
 - Connects to [[dragon
 - Compare with [DM_Screen (02_Worldbuilding)]]
 - Parallels [[enspelled-staff-xdmg (items)
 - Compare with [Snake Horror Rot]]
-- Compare with [[NPC0190_Ezra_Brightblade
-- Parallels [ENC00053_Environmental_Encounter_54]]
+- Compare with [[ENC00053_Environmental_Encounter_54]]
 - See also: [[step_061 (phase_043)
 - Connects to [Keg Launcher Xdmg]]
 - Parallels [[Relentless Hex Xge

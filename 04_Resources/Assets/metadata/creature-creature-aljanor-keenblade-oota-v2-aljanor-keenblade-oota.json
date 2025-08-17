@@ -25,5 +25,8 @@
   "alt_text": "Concept art of aljanor-keenblade-oota with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-aljanor-keenblade-oota-v2-aljanor-keenblade-oota.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-aljanor-keenblade-oota-v2-aljanor-keenblade-oota.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:08.158Z",
+  "generationMethod": "ComfyUI"
 }

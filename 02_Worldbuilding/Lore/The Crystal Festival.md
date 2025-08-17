@@ -1,7 +1,6 @@
 ---
 
-title: The [[Crystal Festival
-type: [Lore]]
+title: The [[Crystal Festival]]
 tags:
 - lore
 - bloodline

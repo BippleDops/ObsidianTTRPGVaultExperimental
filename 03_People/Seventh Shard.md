@@ -274,14 +274,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## References
 
-- [[Seventh Shard of Unity
-- [The Great Crystallization]]
+- [[The Great Crystallization]]
 - [[The Seventh Shard
 - [Assets Locations Location City Captain Marcus V1 Captain Marcus.svg]]
 - [[Assets Locations Location City Master Curator Pearl Artflow V1 Master Curator Pearl Artflow.svg
 - [Assets Symbols Symbol Heraldry Port Sorrow Trading Company Port Sorrow Trading Company.svg]]
-- [[Azure Shard
-- [Verdant Shard]]
-- [[The Seven Shards Mystery
-- [Azure Shard (D&D_References)]]
+- [[Verdant Shard]]
+- [[Azure Shard (D&D_References)]]
 - [[Verdant Shard (D&D_References)]]

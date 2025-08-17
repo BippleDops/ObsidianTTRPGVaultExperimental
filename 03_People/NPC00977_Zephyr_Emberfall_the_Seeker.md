@@ -184,8 +184,7 @@ Caravan needs guards
 - Originates from [Ice Devil Xmm]]
 - Connects to [[Fortress of the Deeps 2
 - Related: [Assets Locations Location City World Map V1 World Map.svg]]
-- Affected by [[Merchant Quarter Guildhalls (D&D_References)
-- Parallels [Treasure Generators]]
+- Affected by [[Merchant Quarter Guildhalls (D&D_References)]]
 - Related: [[Crystal Singers 2
 - Related: [Ambassador Current 2]]
 - Compare with [[Lumengarde 2
@@ -198,8 +197,7 @@ Caravan needs guards
 - Originates from [LOC00042_Towns_Location_43]]
 - Compare with [[Inter-Realm Communication Networks
 - Related: [Assets Locations Location City Sorceress Luna Prismatic V1 Sorceress Luna Prismatic.svg]]
-- Parallels [[Criminal Organizations (D&D_References)
-- See also: [ITEM00393_Thunder_Sword_of_Speed]]
+- Parallels [[Criminal Organizations (D&D_References)]]
 - Parallels [[LOC0011_Bridgeshire
 - Originates from [The Spire of Knowledge 2]]
 - Parallels [[step_040 (phase_095)
@@ -219,28 +217,22 @@ Caravan needs guards
 - Leads to [Potions for Sale Xge]]
 - Originates from [[Assets Symbols Symbol Heraldry the Crystal Throne the Crystal Throne.svg
 - Leads to [Scribe a Scroll Complications Xge]]
-- Parallels [[moss-agate-xdmg (items)
-- Connects to [Portrait NPC Ques... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Parallels [[Portrait NPC Ques... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Requires [[Free Current Safe Houses
 - Leads to [Portrait NPC Sorrow Root Nightbloom Sorrow Root Nightbloom.svg_1 (Portraits)]]
-- Parallels [[Portrait NPC Sist... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Leads to [QUEST00391_Side_Quest_392]]
-- Requires [[ENC00048_Environmental_Encounter_49
-- Affected by [Quest_-_The_Weekly_Cleansing]]
+- Parallels [[Portrait NPC Sist... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Requires [[ENC00048_Environmental_Encounter_49]]
 - Related: [[Location City Knowledge Truthseeker Knowledge Truthseeker.svg
 - Originates from [Map Map Aethermoor Harbor Skirmish V1 Aethermoor Harbor Skirmish.png]]
 - Originates from [[QUEST00138_Personal_Quest_139
 - See also: [The_Coral_Throne_Syndicate.png]]
-- Connects to [[step_008 (phase_072)
-- Influences [High Theologian ... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Connects to [[High Theologian ... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Parallels [[Ersatz Eye Xdmg
 - Parallels [ITEM01119_Lesser_Potion_of_Swiftness]]
 - Compare with [[staff-of-adornment-xdmg (items)
 - Influences [DUN00093_Dungeon_94]]
-- Parallels [[The Storm Riders (D&D_References)
-- See also: [step_049 (phase_047)]]
-- Requires [[ENC00045_Environmental_Encounter_46
-- Parallels [Umbros Shadowdrain]]
+- Parallels [[The Storm Riders (D&D_References)]]
+- Requires [[ENC00045_Environmental_Encounter_46]]
 - Compare with [[Symbol Heraldry Faction Intelligence Faction Intelligence.svg
 - Related: [Portrait NPC Lord Aldric Blackwater V2 Lord Aldric Blackwater.svg]]
 - Leads to [[item-artifact-warhammer-xphb-v5-warhammer-xphb.png
@@ -263,8 +255,7 @@ Caravan needs guards
 - See also: [SPELL00127_Divine_Spell_128]]
 - Compare with [[Security Checkpoints
 - Affected by [Royal Archives]]
-- Requires [[Retired Captain Bron Saltbeard (D&D_References)
-- Requires [Memory Plague]]
+- Requires [[Retired Captain Bron Saltbeard (D&D_References)]]
 - Parallels
 
 ## Visual References

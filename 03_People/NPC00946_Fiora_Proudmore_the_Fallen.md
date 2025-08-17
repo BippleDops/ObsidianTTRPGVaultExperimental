@@ -161,8 +161,7 @@ Seeks rare merchandise
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -181,8 +180,7 @@ Seeks rare merchandise
 - Related: [[The Azure Coast (D&D_References)
 - Originates from
 - See also: [LOC00102_Dungeons_Location_103]]
-- Related: [[NPC00462_Fiora_Ironforge_the_Seeker
-- Requires [step_006 (phase_069)]]
+- Related: [[NPC00462_Fiora_Ironforge_the_Seeker]]
 - See also: [[Privacy Protection Agency (D&D_References)
 - Affected by [choose-a-class-class-overview-xphb (tables)]]
 - Parallels [[Resources Spell Scroll Costs Xge
@@ -195,16 +193,13 @@ Seeks rare merchandise
 - Originates from [Environmental Hazards 2]]
 - Originates from [[Hybrid Abominations
 - Compare with [Assets Locations Location City the Bone Colosseum V1 the Bone Colosseum.svg]]
-- See also: [[Crystal Addiction Victims
-- Parallels [The Grand Archive 2]]
+- See also: [[Crystal Addiction Victims]]
 - Affected by [[Special Purpose Sentient Items Alignment Xdmg
 - Requires [Undead Services Bureau]]
-- Parallels [[Phantom Orchestras
-- Parallels [NPC01820_Xander_Ironwood_the_Strong]]
+- Parallels [[NPC01820_Xander_Ironwood_the_Strong]]
 - Leads to [[Dragonlance Morgion Phb
 - Originates from [Location City the Drowning Truth V1 the Drowning Truth.svg]]
-- Affected by [[Hybrid Abominations 2
-- Compare with [Pressure Current (D&D_References)]]
+- Affected by [[Pressure Current (D&D_References)]]
 - Connects to [[Location City the Crystalline Wastes V1 the Crystalline Wastes.svg
 - Related: [Identify the Partys Goals Wilderness Goals]]
 - Parallels [[ITEM00307_Shadow_Dagger_of_Speed
@@ -212,10 +207,8 @@ Seeks rare merchandise
 - Requires [[Weather and Seasons
 - See also:
 - Affected by [Assets Portraits Portrait NPC Marcus the Shade Blackwood Marcus the Shade Blackwood.svg]]
-- Parallels [[Cult of the Endless Voi (Cults_and_Movements)
-- See also: [LORE00295_Prophecies_Entry_296]]
-- See also: [[Equipment Catalog
-- See also: [ENC00177_Environmental_Encounter_178]]
+- Parallels [[Cult of the Endless Voi (Cults_and_Movements)]]
+- See also: [[ENC00177_Environmental_Encounter_178]]
 - See also: [[Quest - The Crystal Refugees_1 (01_Adventures)
 - Affected by [Armor of Vulnerability Slashing Xdmg]]
 - Parallels [[Assets Portraits Portrait NPC Captain Thrace Deeprunner Captain Thrace Deeprunner.svg
@@ -226,30 +219,24 @@ Seeks rare merchandise
 - Parallels [SHOP00041_Specialty_Shop_42]]
 - Leads to [[step_060 (phase_016)
 - Influences [step_006 (phase_081)]]
-- Parallels [[needles-50-xphb (items)
-- Parallels [ITEM0116_Eldritch_Pendant_of_the_Dawn]]
+- Parallels [[ITEM0116_Eldritch_Pendant_of_the_Dawn]]
 - Requires [[ENC00196_Combat_Encounter_197
 - Originates from [MON00018_Undead_Creature_19]]
 - Leads to [[The Memory Meadows (D&D_Statblocks)
 - Compare with [Quest - Medical Breakthrough 2]]
 - See also: [[Crimson Reef
 - Influences [Location City the Resonant Hermit V1 the Resonant Hermit.svg]]
-- Leads to [[NPC01767_Alaric_Ravenheart_the_Risen
-- Compare with [Economic Interest]]
-- Leads to [[step_052 (phase_029)
-- Requires [QUEST00126_Personal_Quest_127]]
-- See also: [[ITEM0146_Cursed_Crown_of_Shadows
-- See also: [Divine Preservation Magic (D&D_References)]]
+- Leads to [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- Leads to [[QUEST00126_Personal_Quest_127]]
+- See also: [[Divine Preservation Magic (D&D_References)]]
 - Originates from [[step_054 (phase_017)
 - Compare with [Quest - The Shattered Memories_1 (01_Adventures)]]
 - Affected by [[Multiverse (D&D_References)
 - Requires [Assets Locations Location City Age of Wonders V1 Age of Wonders.svg]]
-- Compare with [[NPC00948_Zephyr_Frostwhisper_the_Redeemed
-- Influences [Lord Vex]]
+- Compare with [[NPC00948_Zephyr_Frostwhisper_the_Redeemed]]
 - Affected by [[The Depth Market (D&D_References)
 - Originates from [Elf Random Height and Weight Mtf]]
-- Connects to [[ENC00149_Combat_Encounter_150
-- Compare with [NPC00266_Urien_Stormwind_the_Fallen]]
+- Connects to [[NPC00266_Urien_Stormwind_the_Fallen]]
 - Parallels [[step_010 (phase_060)
 - Leads to [stonespeaker-crystal-oota (items)]]
 - Leads to [[Commercial Ethics Enforcement Agency
@@ -261,8 +248,7 @@ Seeks rare merchandise
 - Originates from
 - See also: [[killer-whale-xmm
 - Affected by [Clues_by_Location.png]]
-- Related: [[NPC00762_Felicia_Nightfall_the_Seeker
-- Related: [step_031 (phase_063)]]
+- Related: [[NPC00762_Felicia_Nightfall_the_Seeker]]
 - Requires [[Location City the Seven Shards Mystery V1 the Seven Shards Mystery.svg
 - Leads to [#Natural & Mystical Locations]]
 - Parallels [[step_062 (phase_064)

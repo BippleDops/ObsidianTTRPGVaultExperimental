@@ -175,8 +175,6 @@ This content can be adapted and expanded based on specific campaign needs.
 - [Assets Locations Location City Lord Reginald Seaworthy Lord Reginald Seaworthy.svg]]
 - [[Assets Symbols Symbol Heraldry Vex Shadowthorn Boss Fight Vex Shadowthorn Boss Fight.png
 - [Assets Symbols Symbol Heraldry the Artisans Collective of Master Crafters the Artisans Collective of Master Crafters.svg]]
-- [[Memory Merchant Valeria Siltweave
-- [Pressure Angel Benthia]]
-- [[Compass Quest (D&D_References)
-- [Memory Merchant Valeria Siltweave (D&D_Statblocks)]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[Memory Merchant Valeria Siltweave (D&D_Statblocks)]]
 - [[Pressure Angel Benthia (D&D_Statblocks)]]

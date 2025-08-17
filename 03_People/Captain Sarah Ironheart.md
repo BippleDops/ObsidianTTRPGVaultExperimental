@@ -296,6 +296,5 @@ ___
 - [Quest - The Blackmail Papers_2 (01_Adventures)]]
 - [[Quest - The Truth Unveiled
 - [Quest - The Truth Unveiled_1 (01_Adventures)]]
-- [[Merchant Family Alliances
-- [Relationship Web Nuances]]
+- [[Merchant Family Alliances]]
 - [[Assets Locations Location City Master Curator Pearl Artflow Master Curator Pearl Artflow.svg]]

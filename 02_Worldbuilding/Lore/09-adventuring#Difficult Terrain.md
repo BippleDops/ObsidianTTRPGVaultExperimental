@@ -4,23 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: "09 adventuring#Difficult Terrain"
-type: lore
-updated: 2025-08-14
----
-
-# 09-adventuring#Difficult Terrain
-
-## Overview
-This document contains important information regarding 09-adventuring#Difficult Terrain and its role within the greater narrative.
-
-## Description
-09-adventuring#Difficult Terrain represents a significant element within the campaign world, offering various opportunities for engagement and development.
-
-## Key Information
-- **Primary Purpose**: Serves specific function within the world
-- **Connections**: [Link]]ed to multiple other elements
+- [[09 Adventuring]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
@@ -52,6 +36,5 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [09-adventuring#Movement#Activity While Traveling]]
-- [[09-adventuring#Movement#Special Types of Movement
-- [Quick_Reference - DnD5e-SideScreen-2014]]
+- [[09-adventuring#Resting]]
 - [[Reference Quick Reference Dnd5e Sidescreen 2014]]

@@ -407,8 +407,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [Great Drowning]]
 - [[The Deep Prophecies
 - [Intelligence Services (People)]]
-- [[Lighthouse Keeper Finn Deepbeacon
-- [Mad Bell-Ringer Thomas]]
-- [[The Lighthouse Keeper's Ghost
-- [Aethermoor - Session 02 The Lighthouse of Storms]]
+- [[Lighthouse Keeper Finn Deepbeacon]]
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]
 - [[Intelligence Services (D&D_References)]]

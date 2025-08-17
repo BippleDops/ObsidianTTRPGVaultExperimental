@@ -173,8 +173,7 @@ Discovered something valuable
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -195,8 +194,7 @@ Discovered something valuable
 - Related: [LORE00227_Legends_Entry_228]]
 - See also: [[LOC00224_Wilderness_Location_225
 - Connects to [The Depth Councils (D&D_References)]]
-- Affected by [[step_096 (phase_046)
-- Requires [The Bone Palace of Sorrows 2]]
+- Affected by [[The Bone Palace of Sorrows 2]]
 - Originates from
 - Affected by
 - Affected by
@@ -211,46 +209,34 @@ Discovered something valuable
 - Requires [Warhorse Skeleton Xmm]]
 - Affected by [[Lords of the Nine Layers and Rulers of the
 - See also: [Assets Locations Location City Memorial Current V1 Memorial Current.png]]
-- Affected by [[Vex Shadowthorn
-- Parallels [ITEM0041_Blessed_Gauntlet_of_Power]]
+- Affected by [[ITEM0041_Blessed_Gauntlet_of_Power]]
 - Affected by [[Amethyst Xdmg
 - Originates from [Grick Xmm]]
-- Originates from [[Citizens Adaptation Alliance (D&D_References)
-- Connects to [Cultural Ministry (Cultural_Organizations)]]
-- Connects to [[step_016 (phase_019)
-- See also: [Witness Protection Network 2]]
+- Originates from [[Citizens Adaptation Alliance (D&D_References)]]
+- Connects to [[Witness Protection Network 2]]
 - Connects to [[ITEM01387_Ornate_Compass_of_Convenience
 - See also: [step_063 (phase_064)]]
 - Compare with [[LOC00246_Wilderness_Location_247
 - See also: [Location City Crystal Keepers V1 Crystal Keepers.svg]]
-- Influences [[NPC01761_Idris_Moonshadow_the_Broken
-- Compare with [NPC00435_Aldric_Silverleaf]]
-- Parallels [[LOC00266_Planes_Location_267
-- Influences [step_059 (phase_065)]]
-- See also: [[NPC01302_Zephyr_Frostwhisper_the_Strong
-- Compare with [step_003 (phase_020)]]
+- Influences [[NPC01761_Idris_Moonshadow_the_Broken]]
+- Parallels [[LOC00266_Planes_Location_267]]
+- See also: [[NPC01302_Zephyr_Frostwhisper_the_Strong]]
 - Affected by
-- Leads to [[NPC00006_Pyria_Winterborn_the_Broken
-- Leads to [Prismatic Plankton]]
-- See also: [[The Dimensional Hospital
-- Originates from [Goldspire Confederacy (D&D_Statblocks)]]
+- Leads to [[NPC00006_Pyria_Winterborn_the_Broken]]
+- See also: [[Goldspire Confederacy (D&D_Statblocks)]]
 - Originates from [[Symbol Heraldry High Oracle Serenity Deepcall High Oracle Serenity Deepcall.svg
 - Originates from
 - Compare with [Location City Harbormaster Tidal Stormcrest V1 Harbormaster Tidal Stormcrest.svg]]
-- See also: [[ENC00031_Social_Encounter_32
-- Connects to [The Azure Chamber]]
-- Originates from [[Operation Crystal Aegis
-- Influences [NPC00877_Drusilla_Lightbringer_the_Lost]]
-- Affected by [[NPC01490_Ewan_Ironforge_the_Mystic
-- Leads to [NPC01874_Rhiannon_Thornweave_the_Wanderer]]
+- See also: [[ENC00031_Social_Encounter_32]]
+- Originates from [[NPC00877_Drusilla_Lightbringer_the_Lost]]
+- Affected by [[NPC01874_Rhiannon_Thornweave_the_Wanderer]]
 - Related: [[step_003 (phase_088)
 - Leads to [FAC00092_Guilds_93]]
 - Connects to [[Quest - Succession Crisis_1 (01_Adventures)
 - Connects to [NPC01690_Pyria_Dawnstrider_the_Fallen]]
 - Connects to [[step_019 (phase_084)
 - Related: [step_017 (phase_049)]]
-- Originates from [[LOC00193_Towns_Location_194
-- Related: [step_041 (phase_025)]]
+- Originates from [[LOC00193_Towns_Location_194]]
 - Originates from [[QUEST0057_In_Search_of_Vengeance
 - Parallels [Assets Vehicles Vehicle Ship Trench Lantern Surveyor V1 Trench Lantern Surveyor.svg]]
 - Connects to
@@ -260,12 +246,9 @@ Discovered something valuable
 - Compare with [Assets Art Npcs Quest the Pretender.png]]
 - Requires [[Outfitters_Shop
 - Parallels [Crystal Throne]]
-- Leads to [[The Green Wardens
-- Connects to [Lord Chancellor Prism Valdrick]]
-- See also: [[Professor_Euclid_Mindmaze.png
-- Leads to [The Crystalline Foundry (D&D_Statblocks)]]
-- Related: [[step_080 (phase_074)
-- Parallels [NPC01361_Erasmus_Moonshadow_the_Seeker]]
+- Leads to [[Lord Chancellor Prism Valdrick]]
+- See also: [[The Crystalline Foundry (D&D_Statblocks)]]
+- Related: [[NPC01361_Erasmus_Moonshadow_the_Seeker]]
 - See also: [[supplemental-tables-relationship-xge (tables)
 - Parallels [Marcus the Jus 2]]
 - Leads to [[step_036 (phase_057)

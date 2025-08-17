@@ -85,13 +85,9 @@ Currently involved in the ongoing events of the campaign.
 - Influences [The Scholars of Divine Lore 2]]
 - Requires [[ITEM00637_Ethereal_Boots_of_Grace
 - See also: [Assets Locations Location City Heart of Eternal Vigilance V1 Heart of Eternal Vigilance.svg]]
-- Influences [[step_038 (phase_022)
-- Influences
-- Compare with [2-monsters-a-to-z (monster-manual-2025)]]
-- Affected by [[The Convergence Cleansing
-- See also: [FAC00012_Cults_13]]
-- Parallels [[longstrider-xphb (spells)
-- Related: [ENC00188_Social_Encounter_189]]
+- Influences [[2-monsters-a-to-z (monster-manual-2025)]]
+- Affected by [[The Convergence Cleansing]]
+- Parallels [[ENC00188_Social_Encounter_189]]
 - Influences [[step_061 (phase_031)
 - See also: [step_089 (phase_034)]]
 - Related: [[step_008 (phase_055)
@@ -104,15 +100,13 @@ Currently involved in the ongoing events of the campaign.
 - See also: [step_058 (phase_050)]]
 - Leads to [[step_069 (phase_039)
 - Influences [Food and Water Needs]]
-- Influences [[step_029 (phase_080)
-- Leads to [Enterprise Director Duskwork (D&D_References)]]
+- Influences [[Enterprise Director Duskwork (D&D_References)]]
 - Influences
 - See also: [[Aquabyssos Rumors 2
 - See also: [step_058 (phase_074)]]
 - Originates from [[Reality Stabilization Anchors 2
 - See also: [ENC00467_Combat_Encounter_468]]
-- Parallels [[step_026 (phase_035)
-- Affected by [Great Preparatio (D&D_References)]]
+- Parallels [[Great Preparatio (D&D_References)]]
 - See also: [[LORE00070_Prophecies_Entry_71
 - Connects to [list-spells-feats-fey-teleportation-xge (lists)]]
 - Related: [[invisibility-xphb (spells)
@@ -123,8 +117,7 @@ Currently involved in the ongoing events of the campaign.
 - Affected by [Assets Locations Location City the Collector the Collector.svg]]
 - Compare with [[ITEM00814_Void-touched_Chalice_of_Truth
 - Compare with [yuan-ti-anathema-mpmm]]
-- Connects to [[step_006 (phase_074)
-- Compare with [Sage Analytical Mindweaver 2]]
+- Connects to [[Sage Analytical Mindweaver 2]]
 - Compare with [[Heritage Keeper Memoryshade 2
 - Originates from [ITEM01069_Refined_Incense_of_Clarity]]
 - Connects to [[Yochlol Xmm
@@ -135,10 +128,8 @@ Currently involved in the ongoing events of the campaign.
 - Parallels [04_Resources_Assets_Handouts_handout-handout-wanted-poster-with-reward-wanted-poster-with-reward.png]]
 - Requires [[step_094 (phase_097)
 - Influences [Location City Legal Education V1 Legal Education.svg]]
-- Compare with [[step_060 (phase_100)
-- See also: [SPELL00010_Divine_Spell_11]]
-- Originates from [[LOC00064_Towns_Location_65
-- Requires [step_083 (phase_064)]]
+- Compare with [[SPELL00010_Divine_Spell_11]]
+- Originates from [[LOC00064_Towns_Location_65]]
 - Affected by [[Location City Institute for Reality Studies Researchers Institute for Reality Studies Researchers.svg
 - Compare with [Archshadow Steel Voidstrike]]
 - Requires [[Current Riders Guild
@@ -157,16 +148,14 @@ Currently involved in the ongoing events of the campaign.
 - Requires [Divine Transformation Theolog 2]]
 - Connects to [[gloves-of-swimming-and-climbing-xdmg (items)
 - Related: [NPC01571_Brenna_Dawnstrider_the_Cunning]]
-- Compare with [[ENC00247_Combat_Encounter_248
-- Affected by [step_088 (phase_032)]]
+- Compare with [[ENC00247_Combat_Encounter_248]]
 - Influences [[SPELL00105_Arcane_Spell_106
 - Connects to [step_095 (phase_090)]]
 - Compare with [[Azure Citadel
 - Leads to [Captain_Trawl_Netcaster.png]]
 - Originates from
 - See also:
-- Affected by [[Keeper Luminous Crystalbeam 2
-- Affected by [step_023 (phase_030)]]
+- Affected by [[Keeper Luminous Crystalbeam 2]]
 - Parallels [[step_024 (phase_048)
 - Originates from [Aethermoor Archives (Lore)]]
 - Parallels [[Portrait NPC Deep Mother Priestess Sira V2 Deep Mother Priestess Sira.svg_1 (Portraits)

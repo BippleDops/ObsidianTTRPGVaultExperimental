@@ -52,7 +52,5 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [House Shadowmere (Houses_and_Nobility)]]
-- [[Relationship Web Nuances
-- [House Brightshield]]
-- [[Houses_and_Nobility - House Brightshield
-- [Houses_and_Nobility - House Shadowmere]]
+- [[Relationship Web Nuances]]
+- [[Houses_and_Nobility - House Brightshield]]

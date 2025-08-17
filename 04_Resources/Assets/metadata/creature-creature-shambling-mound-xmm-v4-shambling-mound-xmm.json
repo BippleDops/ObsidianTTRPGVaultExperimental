@@ -25,5 +25,8 @@
   "alt_text": "Concept art of shambling-mound-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-shambling-mound-xmm-v4-shambling-mound-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-shambling-mound-xmm-v4-shambling-mound-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:08:51.998Z",
+  "generationMethod": "ComfyUI"
 }

@@ -102,17 +102,7 @@ Mentioned in The First Prophecy of Shadows
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[Peoples
-
-### The Golden Era (500 years ago)
-- Economic prosperity
-- Cultural renaissance
-- Expansion of territory
-
-### The Time of Troubles (100 years ago)
-- Civil war
-- Natural disasters
-- Current [Power Structures]] established
+- War with indigenous [[People]] established
 
 ## A Day in the Life
 
@@ -134,14 +124,9 @@ Mentioned in The First Prophecy of Shadows
 
 - [[02_Worldbuilding_Lore_Aboleth_Mind_Mazes
 - [Aboleth Memories]]
-- [[Aboleth Mind Mazes
-- [Aboleth Servants]]
-- [[Aboleth Territories
-- [Ancient Aquabyssos Rulers]]
-- [[Deep Mother
-- [Fortress of the Deeps]]
-- [[Known Locations
-- [Primordial Aboleth Council]]
-- [[Timeline of the Drowning
-- [Timeline of the Drowning (D&D_References)]]
+- [[Aboleth Mind Mazes]]
+- [[Ancient Aquabyssos Rulers]]
+- [[Fortress of the Deeps]]
+- [[Primordial Aboleth Council]]
+- [[Timeline of the Drowning (D&D_References)]]
 - [[Timeline of the Drowning 3 (D&D_References)]]

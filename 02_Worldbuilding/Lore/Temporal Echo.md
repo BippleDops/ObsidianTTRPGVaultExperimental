@@ -86,14 +86,9 @@ Mentioned in The Second Prophecy of Stars
 ## References
 
 - [Temporal Anomaly Resolution]]
-- [[The Final Choice
-- [The Tethyan Hegemony]]
-- [[Crystal Caverns
-- [Surface Signals]]
-- [[The Great Drowning
-- [The Primordial Vaults]]
-- [[The Reflection Pools
-- [The Seven Shards Mystery]]
-- [[The Void Tears
-- [Whisper-Touched William]]
+- [[The Tethyan Hegemony]]
+- [[Surface Signals]]
+- [[The Primordial Vaults]]
+- [[The Seven Shards Mystery]]
+- [[Whisper-Touched William]]
 - [[Session 07 the Convergence Approaches]]

@@ -513,29 +513,17 @@ Mentioned in The Second Prophecy of Depths
 
 ## References
 
-- [[Campaign_Relationship_Matrix
-- [Ancient Aquabyssos Rulers]]
-- [[Queen Seraphina Lumengarde (People)
-- [The Emperor's Gambit]]
-- [[Elder Whisper-In-The-Dark
-- [Harbor Master Luna Freedrift]]
-- [[Nerissa_Deepcurrent
-- [Oracle]]
-- [[Senator
-- [The Sorrowmaster]]
+- [[Campaign_Relationship_Matrix]]
+- [[Queen Seraphina Lumengarde]]
+- [[Harbor Master Luna Freedrift]]
+- [[Nerissa_Deepcurrent]]
+- [[The Sorrowmaster]]
 - [[Unite the Emperor
 - [Compass Quest]]
-- [[Ancient Aquabyssos Rulers (D&D_References)
-- [Compass Quest (D&D_References)]]
-- [[Depth Wardens (D&D_References)
-- [Discover Marina's Truth]]
-- [[Economic Systems and Currency (D&D_References)
-- [Nerissa Deepcurrent (D&D_References)]]
-- [[Nerissa_Deepcurrent (D&D_References)
-- [Queen Seraphina Lumengarde (D&D_References)]]
-- [[Sister Morwyn (D&D_References)
-- [Unite the Emperor (D&D_References)]]
-- [[Elder Whisper-In-The-Dark (D&D_Statblocks)
-- [Oracle (D&D_Statblocks)]]
-- [[Senator (D&D_Statblocks)
-- [The Sorrowmaster (D&D_Statblocks)]]
+- [[Ancient Aquabyssos Rulers (D&D_References)]]
+- [[Depth Wardens (D&D_References)]]
+- [[Economic Systems and Currency (D&D_References)]]
+- [[Queen Seraphina Lumengarde (D&D_References)]]
+- [[Unite the Emperor (D&D_References)]]
+- [[Elder Whisper-In-The-Dark (D&D_Statblocks)]]
+- [[The Sorrowmaster (D&D_Statblocks)]]

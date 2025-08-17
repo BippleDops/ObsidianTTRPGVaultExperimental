@@ -165,15 +165,13 @@ Caravan needs guards
 
 - Affected by [[The Remembrancer General
 - Compare with [step_043 (phase_019)]]
-- Requires [[NPC00890_Corvus_Xendar_the_Swift
-- Requires [The Crystal Heart Chamber]]
+- Requires [[NPC00890_Corvus_Xendar_the_Swift]]
 - Connects to [[armor-of-radiant-resistance-xdmg (items)
 - Affected by
 - Related: [Symbol Heraldry Deep Sea Agricultural Research Institut Deep Sea Agricultural Research Institut.svg]]
 - Influences [[Assets Locations Location City the Suicide Bridges V1 the Suicide Bridges.svg
 - See also: [ITEM01150_Distilled_Potion_of_Clarity]]
-- See also: [[The Living Docks
-- Compare with [LOC00205_Towns_Location_206]]
+- See also: [[LOC00205_Towns_Location_206]]
 - Leads to [[Scholar Thalosseus
 - Affected by [Location City the Crystal Cathedral of Pure Light V1 the Crystal Cathedral of Pure Light.svg]]
 - Related: [[The Phantom Fleet (D&D_References)
@@ -182,12 +180,10 @@ Caravan needs guards
 - Requires [Portrait NPC Vex Shadowthorn the Kingpin V1 Vex Shadowthorn the Kingpin.svg]]
 - Compare with [[step_096 (phase_020)
 - Connects to [step_086 (phase_055)]]
-- Related: [[ENC00072_Environmental_Encounter_73
-- Related: [03-races (players-handbook-2014)]]
+- Related: [[ENC00072_Environmental_Encounter_73]]
 - Connects to [[Prince Aurelius
 - See also: [Location City Temple of the Deep Waters V1 Temple of the Deep Waters.svg]]
-- Affected by [[NPC01234_Nerys_Dawnstrider_the_Strong
-- Leads to [ITEM0084_Eldritch_Crown_of_the_Dawn]]
+- Affected by [[NPC01234_Nerys_Dawnstrider_the_Strong]]
 - Related: [[Giant Boar Xmm
 - Affected by [Assets Locations Location City Port Meridian Merchant Quarter V1 Port Meridian Merchant Quarter.svg]]
 - Connects to [[augury-xphb (spells)
@@ -195,8 +191,7 @@ Caravan needs guards
 - Requires [LOC00165_Wilderness_Location_166]]
 - Influences [[list-spells-classes-horizon-walker-xge (lists)
 - Connects to [FAC00079_Cults_80]]
-- Related: [[Shadow Trackhound (D&D_References)
-- Related: [Investigate Shadow Conspiracy]]
+- Related: [[Shadow Trackhound (D&D_References)]]
 - Originates from [[step_080 (phase_052)
 - Affected by [step_062 (phase_098)]]
 - Originates from [[QUEST00139_Personal_Quest_140
@@ -216,8 +211,7 @@ Caravan needs guards
 - Originates from [step_043 (phase_004)]]
 - Leads to [[step_019 (phase_016)
 - Originates from [step_009 (phase_048)]]
-- Influences [[QUEST00110_Side_Quest_111
-- See also: [Symbol Heraldry Bex... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Influences [[Symbol Heraldry Bex... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Affected by [[NPC00391_Pyria_Lightbringer_the_Scholar
 - Leads to
 - Requires [ITEM01471_Masterwork_Journal_of_Reliability]]
@@ -243,10 +237,8 @@ Caravan needs guards
 - Parallels
 - Parallels [[Location City Judge Tidal Fairweather Judge Tidal Fairweather.svg
 - See also: [Egyptian Imhotep]]
-- Connects to [[QUEST00361_Side_Quest_362
-- Leads to [NPC00460_Elric_Goldleaf_the_Wanderer]]
-- Originates from [[step_038 (phase_006)
-- Requires [QUEST00274_Personal_Quest_275]]
+- Connects to [[NPC00460_Elric_Goldleaf_the_Wanderer]]
+- Originates from [[QUEST00274_Personal_Quest_275]]
 - See also:
 - See also: [[Merchant Quarter Guildhalls 2
 - Compare with [Location_Network_Graph.md]]
@@ -258,8 +250,7 @@ Caravan needs guards
 - Influences [Assets Item Artifact Weird Tank Pota V3 Weird Tank Pota.png]]
 - Influences [[Dwarven Thautam Mtf
 - Compare with [physical-variations-type-2-malison-arms-vgm (tables)]]
-- Influences [[Arctic Encounters Levels 510 Xge
-- See also: [Elder Willow Moonwhisper 2]]
+- Influences [[Arctic Encounters Levels 510 Xge]]
 - Related:
 - Related: [[step_088 (phase_038)
 - Connects to [ITEM01233_Refined_Oil_of_Clarity]]

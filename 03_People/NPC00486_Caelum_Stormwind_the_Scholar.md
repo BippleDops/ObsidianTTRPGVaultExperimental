@@ -156,8 +156,7 @@ Discovered something valuable
 
 ## Connections
 
-- Parallels [[LOC00027_Wilderness_Location_28
-- Connects to [Gnome Names Male Xge]]
+- Parallels [[LOC00027_Wilderness_Location_28]]
 - Requires [[50K_ENHANCEMENTS_COMPLETE
 - Leads to [Face_the_Ancient_Threat.png]]
 - Originates from [[LORE00074_Legends_Entry_75
@@ -167,8 +166,7 @@ Discovered something valuable
 - Leads to [04_Resources_Assets_Locations_location-city-merchant-prince-aldric-goldcurrent-v1-merchant-prince-aldric-goldcurrent.svg]]
 - Requires [[The Tide Pools 2
 - Influences [cloak-of-protection-xdmg (items)]]
-- See also: [[Grand Master Tempest Windvoice
-- Influences [NPC00285_Xander_Goldleaf_the_Mystic]]
+- See also: [[NPC00285_Xander_Goldleaf_the_Mystic]]
 - Affected by [[Assets Locations Location City Memory Merchant Headquarters V1 Memory Merchant Headquarters.svg
 - Related: [EVENT00081_Political_Event_82]]
 - Compare with [[Location City Reflection Pools Surgical Theater V1 Reflection Pools Surgical Theater.svg
@@ -185,32 +183,25 @@ Discovered something valuable
 - Connects to [[one-of-a-kind-objects-hag-objects-vgm (tables)
 - Originates from [Foreign Merchant]]
 - Parallels
-- Affected by [[Boon of Combat Prowess Xphb
-- Compare with [NPC01687_Aldric_Youngblood_the_Cunning]]
+- Affected by [[NPC01687_Aldric_Youngblood_the_Cunning]]
 - Parallels [[control-winds-xge (spells)
 - Compare with [step_041 (phase_067)]]
-- Influences [[Symbol Heraldry Har... Related To: Local Political Structure Connected Plots: to Be Developed
-- Parallels [Assets Locations Location City Reef Shark Reef Shark.svg]]
+- Influences [[Symbol Heraldry Har... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Related: [[Quest - Economic Development_1 (01_Adventures)
 - Influences [Gnome Gods Gnome Deities Mtf]]
 - Related:
-- Originates from [[Possessed Noble Coterie 3 (D&D_References)
-- Requires [LORE00053_Legends_Entry_54]]
+- Originates from [[Possessed Noble Coterie 3 (D&D_References)]]
 - Leads to [[MON00001_Undead_Creature_2
 - Connects to [Assets Portraits Portrait NPC the Shadow Surgeons the Shadow Surgeons.svg]]
-- Affected by [[Giant Eagle Xmm
-- Parallels [NPC00361_Kaelen_Dawnstrider_the_Cunning]]
+- Affected by [[NPC00361_Kaelen_Dawnstrider_the_Cunning]]
 - Parallels [[MON00082_Constructs_Creature_83
 - Originates from [ettercap-xmm (monstrosity)]]
-- Requires [[leviathan-mpmm (elemental)
-- Originates from [NPC01435_Xander_Hawthorne_the_Broken]]
-- Related: [[Hold Monster Xphb
-- Compare with [Artisan Glow-Finger Nerida]]
+- Requires [[NPC01435_Xander_Hawthorne_the_Broken]]
+- Related: [[Artisan Glow-Finger Nerida]]
 - Affected by
 - Connects to [[Average Results Mob Results Xdmg
 - Influences [Portrait NPC Captain Navigator V1 Captain Navigator.svg]]
-- Originates from [[stone-cursed-mpmm (construct)
-- Connects to [Faction Intelligence (D&D_References)]]
+- Originates from [[Faction Intelligence (D&D_References)]]
 - See also: [[step_064 (phase_077)
 - Influences [step_028 (phase_004)]]
 - Compare with [[Marcus Thornwhispe
@@ -233,14 +224,11 @@ Discovered something valuable
 - Influences [[NPC Development Timeline
 - Requires [Assets Portraits Portrait NPC the Royal Treasury Depths the Royal Treasury Depths.svg]]
 - Compare with
-- Parallels [[The Deep Intelligence Agency Director
-- Connects to [Bio-Magical Integration Laboratory (D&D_References)]]
+- Parallels [[Bio-Magical Integration Laboratory (D&D_References)]]
 - See also: [[Human Names Norse Male Xge
 - Parallels [Location City Seeds of the Past Seeds of the Past.svg]]
-- Leads to [[The Great Tidal Amphitheater
-- Requires [Brother Thomas the Illuminated 2]]
-- See also: [[LORE00244_Prophecies_Entry_245
-- Compare with [NPC00206_Hestara_Frostwhisper_the_Wanderer]]
+- Leads to [[Brother Thomas the Illuminated 2]]
+- See also: [[NPC00206_Hestara_Frostwhisper_the_Wanderer]]
 - Compare with [[Spined Devil Xmm
 - Parallels [Weavers Tools Xphb]]
 - Originates from [[step_029 (phase_025)
@@ -271,7 +259,7 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Capital**: [Skylance Citadel]]
 - **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
 - **Current Conflict**: The Void Incursion, Elemental Convergence
-- **Key Locations**: [[Floating Gardens, [Storm's Eye Tower]]
+- **Key Locations**: [[Floating Gardens]]
 
 The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.

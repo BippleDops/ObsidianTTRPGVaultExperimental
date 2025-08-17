@@ -184,8 +184,7 @@ Caravan needs guards
 - See also: [three-dragon-ante-set-xphb (items)]]
 - Connects to [[Portrait NPC Ice Kingdom Magic Ice Kingdom Magic.svg
 - See also: [Chronomancer_Paradox.png]]
-- Connects to [[Consequence Chain 4 - Deep Mother Awakening (D&D_References)
-- Related: [Border Nexus Trading Post]]
+- Connects to [[Consequence Chain 4 - Deep Mother Awakening (D&D_References)]]
 - Originates from [[Major Hadal Deepstrike
 - Affected by [LOC00248_Towns_Location_249]]
 - Originates from [[The Crystal Pier
@@ -198,22 +197,17 @@ Caravan needs guards
 - Requires [QUEST00404_Side_Quest_405]]
 - Parallels [[04 Chapter 4 Gracklstugh
 - See also: [Potion of Radiant Resistance Xdmg]]
-- Parallels [[The Great Mother Tree (D&D_References)
-- Originates from [step_060 (phase_048)]]
-- Parallels [[Skeleton Xmm
-- Leads to [LOC00247_Planes_Location_248]]
+- Parallels [[The Great Mother Tree (D&D_References)]]
+- Parallels [[LOC00247_Planes_Location_248]]
 - Leads to [[Item Artifact Ioun Stone Greater Absorption Xdmg V3 Ioun Stone Greater Absorption Xdmg.png
 - Leads to [hippopotamus-xmm (beast)]]
-- Influences [[DUN00020_Dungeon_21
-- Related: [Seamstress Coral Silkweaver]]
-- Connects to [[NPC01814_Ewan_Oakenshield_the_Redeemed
-- Influences [The Transformation Rights Movement (D&D_References)]]
+- Influences [[Seamstress Coral Silkweaver]]
+- Connects to [[The Transformation Rights Movement (D&D_References)]]
 - Parallels [[Black Dragon Wyrmling Xmm
 - See also: [SPELL00099_Divine_Spell_100]]
 - Originates from [[Crystal Vein Settlements 2
 - Originates from [step_011 (phase_082)]]
-- Leads to [[Inter-Realm Trade Protocol 2
-- Leads to [NPC01632_Qadim_Darkwater_the_Guardian]]
+- Leads to [[NPC01632_Qadim_Darkwater_the_Guardian]]
 - Related: [[Character_Journal_Template
 - Requires [Cultural Exchange Society]]
 - See also: [[elf-sea-mtf (races)
@@ -222,20 +216,17 @@ Caravan needs guards
 - Parallels [Portrait NPC Senator Cordelia Deepcurrent Senator Cordelia Deepcurrent.svg_1 (Portraits)]]
 - Requires [[step_002 (phase_052)
 - Compare with [forgotten-realms-talos (deities)]]
-- Requires [[step_016 (phase_041)
-- Requires [QUEST0033_The_Crystal_Cave_Curse]]
+- Requires [[QUEST0033_The_Crystal_Cave_Curse]]
 - Requires [[SPELL00150_Divine_Spell_151
 - Connects to [House Pressureborn 2]]
-- Leads to [[Symbol Heraldry Scr... Related To: Local Political Structure Connected Plots: to Be Developed
-- See also: [Session Planning Toolkit]]
+- Leads to [[Symbol Heraldry Scr... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Requires [[The Dreaming Trench
 - Leads to [step_016 (phase_005)]]
 - Related: [[Gaseous Form Xphb
 - Parallels [Assets Locations Location City Scholar Thalosseus Scholar Thalosseus.svg]]
 - Affected by [[Location City City Council of Aquabyssos City Council of Aquabyssos.svg
 - Affected by [instrument-of-illusions-xdmg (items)]]
-- Requires [[Prince Aurelius Lightbringer (D&D_References)
-- Connects to [step_001 (phase_028)]]
+- Requires [[Prince Aurelius Lightbringer (D&D_References)]]
 - Influences [[step_050 (phase_083)
 - See also: [Captain Reef Shadowstrike]]
 - Requires [[02_Worldbuilding_Military_Sabotage_Specialists
@@ -249,9 +240,7 @@ Caravan needs guards
 - Parallels [Assets Locations Location City Spy Games V1 Spy Games.svg]]
 - Connects to [[The Observatory
 - Connects to [Location City Luxury Goods Market V1 Luxury Goods Market.svg]]
-- See also: [[step_014 (phase_043)
-- Leads to
-- Influences [The Identity Mirror (D&D_References)]]
+- See also: [[The Identity Mirror (D&D_References)]]
 - Compare with [[step_067 (phase_005)
 - Leads to [Ranger Xphb Gloom Stalker Xphb]]
 - Related: [[LOC0146_Marshhollow

@@ -174,11 +174,9 @@ Blackmails party into service
 
 ## Connections
 
-- Compare with [[MON00091_Constructs_Creature_92
-- Related: [step_009 (phase_069)]]
+- Compare with [[MON00091_Constructs_Creature_92]]
 - Influences
-- Requires [[NPC00270_Kaelen_Stormwind_the_Wanderer
-- Connects to [Reef Tenders (D&D_References)]]
+- Requires [[NPC00270_Kaelen_Stormwind_the_Wanderer]]
 - Leads to
 - Leads to [[Depth Wardens
 - Related: [step_069 (phase_074)]]
@@ -189,16 +187,14 @@ Blackmails party into service
 - Connects to [[Smuggler''s Cove
 - Influences
 - Requires [ITEM00861_Time-worn_Orb_of_Eternity]]
-- Connects to [[halfling-xphb (races)
-- Influences [QUEST00288_Personal_Quest_289]]
+- Connects to [[QUEST00288_Personal_Quest_289]]
 - See also: [[Location City Foam Deepferment V1 Foam Deepferment.svg
 - Parallels [NPC0142_Willem_Darkwater]]
 - Related: [[evards-black-tentacles-xphb (spells)
 - Influences [Marcus Shardbreaker Grimm]]
 - Originates from [[step_051 (phase_010)
 - Originates from [The Guild Council]]
-- Related: [[Crystal Dealer Fracture (D&D_References)
-- Compare with [Grand Admiral Typhoon Stormcrest]]
+- Related: [[Crystal Dealer Fracture (D&D_References)]]
 - Parallels [[Psychic Scream Xge
 - Leads to [step_083 (phase_036)]]
 - Influences [[Wind Song Linguistic Guide (D&D_References)
@@ -211,25 +207,20 @@ Blackmails party into service
 - Related: [flensing-claws-large-vgm (items)]]
 - Influences [[LORE00041_Legends_Entry_42
 - Leads to [location-city-memory-heist-v1-memory-heist.svg]]
-- Leads to [[Paradox Resolution Society 2
-- Requires [step_099 (phase_005)]]
+- Leads to [[Paradox Resolution Society 2]]
 - Influences [[ITEM00399_Blazing_Sword_of_Wounding
 - Related:
 - Originates from [Location City Silence Keeper Mute V1 Silence Keeper Mute.svg]]
 - Influences [[Portrait NPC Quest Into the Wastes V1 Quest Into the Wastes.svg
 - See also: [Session 9 - The Shard Convergence]]
-- Originates from [[step_037 (phase_082)
-- Parallels [Secular Community Practices]]
+- Originates from [[Secular Community Practices]]
 - Connects to [[location-city-express-racers-v1-express-racers.svg
 - Influences [Council of Admiralties]]
-- Compare with [[Barlgura Xmm
-- See also: [QUEST0056_Investigate_the_Demons]]
+- Compare with [[QUEST0056_Investigate_the_Demons]]
 - Connects to [[Underwater_Combat_Rules
 - Affected by [Citizens' Budget Review]]
-- Influences [[step_022 (phase_007)
-- Originates from [Keeper Aquaeous Depth-Scholar (D&D_References)]]
-- Requires [[Druid Xphb Circle of the Sea Xphb
-- Connects to [step_036 (phase_034)]]
+- Influences [[Keeper Aquaeous Depth-Scholar (D&D_References)]]
+- Requires [[Druid Xphb Circle of the Sea Xphb]]
 - Connects to [[Portrait NPC the Ancient Nobility V1 the Ancient Nobility.svg_1 (Portraits)
 - See also: [The Probability Engine]]
 - Influences [[Portrait NPC Jasper Three Eyes Flint V2 Jasper Three Eyes Flint.png_1 (Portraits)
@@ -238,8 +229,7 @@ Blackmails party into service
 - Leads to [step_006 (phase_023)]]
 - Affected by [[step_096 (phase_055)
 - Requires [SHOP00003_General_Shop_4]]
-- Leads to [[ITEM01003_Greater_Powder_of_Vigor
-- Parallels [NPC01093_Kaelen_Zephyrblade_the_Broken]]
+- Leads to [[NPC01093_Kaelen_Zephyrblade_the_Broken]]
 - Connects to [[LOC00291_Dungeons_Location_292
 - Parallels
 - Connects to [Young Diver Coral Swiftcurrent]]
@@ -251,22 +241,19 @@ Blackmails party into service
 - Influences [Finn Goodtide 2]]
 - See also: [[GM Resource
 - Originates from [Symbol Heraldry Scream Crystals V1 Scream Crystals.svg]]
-- Requires [[Update Indexes 3 (D&D_References)
-- Parallels [Dimensional Collapse]]
+- Requires [[Update Indexes 3 (D&D_References)]]
 - Connects to
 - Connects to [[The Revelation Chamber
 - Related: [step_017 (phase_026)]]
 - Influences [[Silver Mask 2
 - Influences
 - Leads to [Democratic Erosion]]
-- Originates from [[Assets Art Doctor Silas Voidtouch.png
-- Connects to [Bestiary - Aquabyssos Creature Compendium]]
+- Originates from [[Bestiary - Aquabyssos Creature Compendium]]
 - Affected by [[Harbor Master's License
 - Requires [Quest - The Moderate Path]]
 - Related: [[SPELL00119_Nature_Spell_120
 - Influences [Location City the Noble Compact V1 the Noble Compact.svg]]
-- Compare with [[Cinnamon Xdmg
-- Related: [ITEM0001_Blessed_Blade_of_Power]]
+- Compare with [[ITEM0001_Blessed_Blade_of_Power]]
 - See also: [[shatter-xphb (spells)
 - See also: [Foreign Shadow Syndicates]]
 - Influences [[ITEM00965_Lesser_Salve_of_Fortune

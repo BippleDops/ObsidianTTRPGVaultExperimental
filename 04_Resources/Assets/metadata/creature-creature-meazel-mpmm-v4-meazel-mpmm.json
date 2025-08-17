@@ -25,5 +25,8 @@
   "alt_text": "Concept art of meazel-mpmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-meazel-mpmm-v4-meazel-mpmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-meazel-mpmm-v4-meazel-mpmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:06:07.872Z",
+  "generationMethod": "ComfyUI"
 }

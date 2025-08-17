@@ -176,8 +176,7 @@ Needs discrete help with family scandal
 - See also: [Portrait NPC Underground Testing Facility V1 Underground Testing Facility.svg_1 (Portraits)]]
 - Affected by [[List Spells Optional Features Wave of
 - See also: [Location City Stormwind Supplies V1 Stormwind Supplies.png]]
-- Influences [[Spell_Compendiums (D&D_References)
-- Influences [Dr. Tidal Depthhealer]]
+- Influences [[Spell_Compendiums (D&D_References)]]
 - Leads to
 - Compare with [[Free Current
 - Related: [halfling-xphb (races)]]
@@ -196,18 +195,15 @@ Needs discrete help with family scandal
 - Originates from
 - Requires [[step_086 (phase_004)
 - Influences [Dual Integration Therapy]]
-- Requires [[Ambassador Elena Diplomatic (D&D_References)
-- Influences [Hero Points]]
-- Connects to [[Brother Matthias the Amber Bearer
-- Parallels [Diplomatic Protocol Center 2]]
+- Requires [[Ambassador Elena Diplomatic (D&D_References)]]
+- Connects to [[Brother Matthias the Amber Bearer]]
 - Connects to [[step_040 (phase_083)
 - See also: [Location City Temple Districts V1 Temple Districts.svg]]
 - See also: [[Portrait NPC Priest Faith Crystalsong Priest Faith Crystalsong.svg_1 (Portraits)
 - Related:
 - Parallels
 - Related: [SPELL00017_Nature_Spell_18]]
-- Connects to [[Sea Hag Xmm
-- Requires [Community Mediator Balance Wright (D&D_References)]]
+- Connects to [[Community Mediator Balance Wright (D&D_References)]]
 - Connects to [[The Question Council 2
 - Influences
 - Leads to [step_053 (phase_047)]]
@@ -215,23 +211,18 @@ Needs discrete help with family scandal
 - Parallels [[Assets Portraits Portrait NPC Merchant Captain Trade Merchant Captain Trade.svg
 - Related:
 - Parallels [Crystal Forest (Lore)]]
-- Requires [[Diplomatic Architecture (D&D_References)
-- Related: [Current Junction Points]]
-- Affected by [[step_096 (phase_077)
-- See also: [Institute of Recursive Reality Studies (D&D_References)]]
+- Requires [[Diplomatic Architecture (D&D_References)]]
+- Affected by [[Institute of Recursive Reality Studies (D&D_References)]]
 - See also: [[Diplomatic Minister Reef
 - Requires [step_062 (phase_024)]]
-- Parallels [[Whisper-Witch Naia Softcurrent (D&D_References)
-- Requires [flute-xphb (items)]]
+- Parallels [[Whisper-Witch Naia Softcurrent (D&D_References)]]
 - See also: [[LOC00023_Dungeons_Location_24
 - Originates from [step_081 (phase_019)]]
-- Influences [[NPC00342_Ysara_Hawthorne_the_Wanderer
-- Related: [chasme-xmm (fiend)]]
+- Influences [[NPC00342_Ysara_Hawthorne_the_Wanderer]]
 - Originates from
 - Connects to [[The Senator (D&D_References)
 - Requires [Assets Locations Location City Medical Research Facilities Medical Research Facilities.svg]]
-- Related: [[step_040 (phase_032)
-- Related: [Medical Research Facilities]]
+- Related: [[Medical Research Facilities]]
 - Leads to [[Portrait NPC Pirate Captain Blacktide V2 Pirate Captain Blacktide.svg
 - Related: [Glibness Xphb]]
 - Related: [[step_081 (phase_098)
@@ -244,14 +235,11 @@ Needs discrete help with family scandal
 - Connects to [Fine Wine Bottle Xphb]]
 - Originates from [[Shield of Faith Xphb
 - Influences [Item Artifact Spell Gem Lapis Lazuli Oota V2 Spell Gem Lapis Lazuli Oota.png]]
-- See also: [[step_041 (phase_081)
-- Affected by [NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- See also: [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
 - Connects to [[The Seven Deep Truths (D&D_References)
 - Parallels [Assets Locations Location City Intellectual Freedom Movement Intellectual Freedom Movement.svg]]
-- Connects to [[The Final Sealing 3 (D&D_References)
-- Influences [QUEST00231_Personal_Quest_232]]
-- Compare with [[QUEST00292_Side_Quest_293
-- Compare with [Gate Xphb]]
+- Connects to [[The Final Sealing 3 (D&D_References)]]
+- Compare with [[QUEST00292_Side_Quest_293]]
 - Parallels [[Location City Pilgrimage Coordinators V1 Pilgrimage Coordinators.svg
 - Parallels [step_045 (phase_045)]]
 - Requires [[Assets Locations Location City Iron Rapids Fleetcurrent V1 Iron Rapids Fleetcurrent.svg

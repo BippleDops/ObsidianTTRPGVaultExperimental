@@ -172,8 +172,7 @@ Discovered something valuable
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -188,18 +187,14 @@ Discovered something valuable
 
 - Leads to [[Portrait NPC Paladin Commander Sir Radiant Dawnbreaker Paladin Commander Sir Radiant Dawnbreaker.svg_1 (Portraits)
 - Leads to [Dark Gift of Khirad the Star of Secrets Cos]]
-- Requires [[NPC01680_Caelum_Moonshadow_the_Broken
-- Affected by [ENC00169_Combat_Encounter_170]]
-- Originates from [[Court Mage Tempest Shadowcryst
-- See also: [Salvage Master Ironwork (D&D_References)]]
+- Requires [[NPC01680_Caelum_Moonshadow_the_Broken]]
+- Originates from [[Salvage Master Ironwork (D&D_References)]]
 - Parallels [[Void Suits
 - See also: [Transmuted Spell Xphb]]
-- Connects to [[Transformation Assistance (D&D_References)
-- Requires [NPC00386_Branwen_Emberfall_the_Seeker]]
+- Connects to [[Transformation Assistance (D&D_References)]]
 - Compare with [[Animated Rug of Smothering Xmm
 - Originates from [Armaments Common Xdmg]]
-- Parallels [[step_011 (phase_056)
-- Affected by [LOC00254_Dungeons_Location_255]]
+- Parallels [[LOC00254_Dungeons_Location_255]]
 - Affected by [[DUN00002_Dungeon_3
 - Related: [DUN00110_Dungeon_111]]
 - Parallels [[ITEM01290_Concentrated_Oil_of_Clarity
@@ -213,12 +208,10 @@ Discovered something valuable
 - Related: [step_038 (phase_079)]]
 - Connects to [[Location City His Eternal Majesty Keeper of the Throne of Bubbles His Eternal Majesty Keeper of the Throne of Bubbles.svg
 - Connects to [step_083 (phase_014)]]
-- Related: [[step_092 (phase_099)
-- Influences [QUEST00140_Personal_Quest_141]]
+- Related: [[QUEST00140_Personal_Quest_141]]
 - Compare with [[command-amulet-xmm (items)
 - Parallels [Unknown Rival]]
-- Affected by [[Forge of War (D&D_Statblocks)
-- Requires [Queen Seraphina 3]]
+- Affected by [[Forge of War (D&D_Statblocks)]]
 - Affected by [[Field Engineer Stone Installwrigh (D&D_References)
 - Requires [Location City Court Herald Master Proclamation Crownvoice Court Herald Master Proclamation Crownvoice.svg]]
 - Related: [[Sacred Texts of Transformation (D&D_References)
@@ -235,8 +228,7 @@ Discovered something valuable
 - Parallels [Location City Bio Tech Supervisor Reef Lifeweaver V1 Bio Tech Supervisor Reef Lifeweaver.png]]
 - Parallels [[FAC00097_Cults_98
 - Leads to [Location City Temporal Navigation Temporal Navigation.svg]]
-- Connects to [[Noble Palatemaster (D&D_References)
-- Influences [step_096 (phase_076)]]
+- Connects to [[Noble Palatemaster (D&D_References)]]
 - Leads to [[The Scribes' Covenant 2
 - See also: [FAC00069_Guilds_70]]
 - Influences [[QUEST00306_Side_Quest_307
@@ -247,23 +239,19 @@ Discovered something valuable
 - Affected by [General Darkness Incarnate]]
 - See also: [[Shadow Market Canals 2
 - Influences [greyhawk-syrul-xdmg (deities)]]
-- Parallels [[NPC00958_Nerys_Xendar_the_Guardian
-- Originates from [step_001 (phase_071)]]
+- Parallels [[NPC00958_Nerys_Xendar_the_Guardian]]
 - Affected by [[Pressure Linguistics 2
 - Parallels [Assets Locations Location City Void Prophet Nullus the Erased V1 Void Prophet Nullus the Erased.svg]]
 - Influences [[step_079 (phase_075)
 - Related: [Firenewt Warrior Mpmm]]
 - Affected by [[Assets Locations Location City Temple of the Eternal Flame V1 Temple of the Eternal Flame.svg
 - See also: [step_086 (phase_018)]]
-- Influences [[Guide Helpfulcurrent (D&D_References)
-- Influences [LOC00005_Dungeons_Location_6]]
+- Influences [[Guide Helpfulcurrent (D&D_References)]]
 - Related: [[Mammoth Xmm
 - Compare with [step_088 (phase_092)]]
 - Originates from [[Crystal Magic 2
 - See also: [Shadow Mastiff Alpha Mpmm]]
-- Connects to [[Services Emergency Protocol Certification
-- Connects to
-- Requires [Organization]]
+- Connects to [[Services Emergency Protocol Certification]]
 - Requires [[Keeper Luminous Truehart
 - Related: [Portrait NPC Abyssos Prime Throne of Bubbles V1 Abyssos Prime Throne of Bubbles.svg]]
 - Parallels [[Frost Salamander Mpmm
@@ -272,15 +260,13 @@ Discovered something valuable
 - Compare with [drow-malyk-mtf (deities)]]
 - Affected by [[Lysara Brightshield 2
 - Parallels [Portrait NPC Underground Testing Facility V1 Underground Testing Facility.svg]]
-- Originates from [[Goldwave Financial Offices
-- Requires [09-adventuring (players-handbook-2014)]]
+- Originates from [[09-adventuring (players-handbook-2014)]]
 - See also: [[Complete Reality Merger System
 - Related: [Location City Captain Trawl Netcaster Captain Trawl Netcaster.svg]]
 - Related: [[Stone of Controlling Earth Elementals Xdmg
 - Compare with
 - Connects to [Crystal - Crystal_Resonance]]
-- Related: [[holy-symbol-varies-holy-symbols-xphb
-- Related: [LOC00240_Wilderness_Location_241]]
+- Related: [[holy-symbol-varies-holy-symbols-xphb]]
 - Requires [[Difficulty Class Typical Dcs Xdmg
 - Leads to
 - Compare with [Corruption Gardens]]

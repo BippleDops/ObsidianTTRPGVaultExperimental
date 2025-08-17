@@ -25,5 +25,8 @@
   "alt_text": "Concept art of archaic-scc with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-archaic-scc-v2-archaic-scc.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-archaic-scc-v2-archaic-scc.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:55.762Z",
+  "generationMethod": "ComfyUI"
 }

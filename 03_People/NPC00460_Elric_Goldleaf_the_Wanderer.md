@@ -188,13 +188,10 @@ Being extorted by criminals
 - Affected by [Location City Temple Coalition Temple Coalition.svg]]
 - Related: [[Location City Harbor Master Captain Dockwise V1 Harbor Master Captain Dockwise.svg
 - Requires [step_036 (phase_005)]]
-- Requires [[The Sundered Vaults
-- Requires [NPC00395_Aeliana_Thornweave]]
-- Compare with [[step_074 (phase_049)
-- Compare with [LOC00031_Wilderness_Location_32]]
+- Requires [[NPC00395_Aeliana_Thornweave]]
+- Compare with [[LOC00031_Wilderness_Location_32]]
 - Requires
-- Compare with [[rope-xphb (items)
-- Originates from [Session 18 Horror Corruption]]
+- Compare with [[Session 18 Horror Corruption]]
 - Affected by
 - Related: [[Portrait NPC the Current Merchants the Current Merchants.svg_1 (Portraits)
 - Leads to [MON00128_Undead_Creature_129]]
@@ -213,20 +210,15 @@ Being extorted by criminals
 - Leads to [LORE00148_History_Entry_149]]
 - Influences [[ITEM00175_Cursed_Dagger_of_Wounding
 - Related: [Pain-Artist Cruelty Refined 2]]
-- Requires [[Crystal_Singer_Bard
-- Affected by [QUEST0042_In_Search_of_Knowledge]]
-- Affected by [[Sea Sprite (D&D_References)
-- Requires [NPC01711_Wynne_Crystalbrook_the_Lost]]
-- See also: [[Wanted_Poster_Syndicate_Fenc
-- Influences [step_035 (phase_076)]]
+- Requires [[QUEST0042_In_Search_of_Knowledge]]
+- Affected by [[NPC01711_Wynne_Crystalbrook_the_Lost]]
+- See also: [[Wanted_Poster_Syndicate_Fenc]]
 - Influences [[Location City Portal Commander Marina Bridgewright Portal Commander Marina Bridgewright.png
 - Parallels [01 Introduction (players-handbook-2014)]]
-- Parallels [[Safety Director Storm Shieldvoice (D&D_References)
-- Originates from [NPC00153_Cedric_Youngblood_the_Mystic]]
+- Parallels [[Safety Director Storm Shieldvoice (D&D_References)]]
 - Parallels [[LOC00167_Dungeons_Location_168
 - Connects to [Location City Surface Contact Prohibition Surface Contact Prohibition.svg]]
-- Leads to [[LOC00072_Towns_Location_73
-- Related: [NPC00801_Malakai_Youngblood_the_Risen]]
+- Leads to [[NPC00801_Malakai_Youngblood_the_Risen]]
 - Influences [[Assets Locations Location City Ambassador Reed Treatymaker Ambassador Reed Treatymaker.svg
 - Compare with [assassins-blood-xdmg (items)]]
 - Affected by [[Assets Vehicles Vehicle Ship Trench Lantern Surveyor V1 Trench Lantern Surveyor.svg
@@ -236,23 +228,18 @@ Being extorted by criminals
 - See also: [Portrait NPC Blood in the Water Blood in the Water.svg_1 (Portraits)]]
 - Leads to [[step_019 (phase_100)
 - Affected by [shield-of-faith-xphb (spells)]]
-- Compare with [[LOC00051_Cities_Location_52
-- Requires [step_045 (phase_063)]]
+- Compare with [[LOC00051_Cities_Location_52]]
 - See also:
 - Compare with [[tanarukk-mpmm (fiend)
 - Related: [location-city-portal-network-v1-portal-network.svg]]
-- See also: [[Technical Director Jasper Lightforge (D&D_References)
-- Leads to [arrow-catching-shield-xdmg (items)]]
-- See also: [[Like This
-- Leads to [Admiral Diplomatic Envoy Thornwick]]
+- See also: [[Technical Director Jasper Lightforge (D&D_References)]]
+- See also: [[Admiral Diplomatic Envoy Thornwick]]
 - Connects to [[Quest - The Memory Heist 2
 - Influences [step_049 (phase_052)]]
 - Compare with [[portrait-npc-senator-marius-v2-senator-marius.svg_1 (Portraits)
 - Compare with [step_015 (phase_018)]]
-- Leads to [[LOC00267_Planes_Location_268
-- Related: [Void Touched Sanctum]]
-- Parallels [[step_051 (phase_089)
-- Compare with [Random_Location_Generator (D&D_References)]]
+- Leads to [[LOC00267_Planes_Location_268]]
+- Parallels [[Random_Location_Generator (D&D_References)]]
 - Influences
 - Compare with
 - Affected by

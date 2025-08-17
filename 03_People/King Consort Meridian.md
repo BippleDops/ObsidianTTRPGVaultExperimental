@@ -289,5 +289,4 @@ ___
 - [The Queen]]
 - [[Assets Locations Location City Transportation Guild Masters V1 Transportation Guild Masters.svg
 - [Assets Portraits Portrait NPC Captain Henrik Proudbanner Captain Henrik Proudbanner.svg]]
-- [[The Queen (D&D_References)
-- [The Queen 3 (D&D_References)]]
+- [[The Queen 3 (D&D_References)]]

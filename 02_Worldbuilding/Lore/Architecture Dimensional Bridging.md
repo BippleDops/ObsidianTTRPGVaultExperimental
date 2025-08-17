@@ -1,7 +1,6 @@
 ---
 
-title: Architecture [[Dimensional Bridging
-type: [Lore]]
+title: Architecture [[Dimensional Bridging]]
 tags:
 - lore
 - active

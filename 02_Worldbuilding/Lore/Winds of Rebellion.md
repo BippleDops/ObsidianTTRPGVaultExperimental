@@ -58,29 +58,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-### Superstitions Improvements
-
-- List common superstitions and their origins
-
-### Material_Culture Improvements
-
-- Detail common objects and their cultural significance
-
-### Oral_Tradition Improvements
-
-- Add folk tales and children's stories
-
-## Overview
-
-Winds of Rebellion represents a crucial aspect of the world's history, cosmology, or fundamental nature.
-
----
-
-*Last Updated: 2025-08-14 19:03*
-
-## [DM_Notes]]
+- Describe how this culture exists in other [[region]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

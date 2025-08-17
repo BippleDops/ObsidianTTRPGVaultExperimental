@@ -174,16 +174,13 @@ Offers deal too good to refuse
 - Requires [step_073 (phase_069)]]
 - Influences [[step_062 (phase_093)
 - Originates from [Instrument of the Bards Mac Fuirmidh Cittern]]
-- Compare with [[QUEST00026_Personal_Quest_27
-- See also: [sentinel-xphb (feats)]]
+- Compare with [[QUEST00026_Personal_Quest_27]]
 - Compare with
-- Leads to [[step_030 (phase_099)
-- Originates from [Economic Interests (D&D_References)]]
+- Leads to [[Economic Interests (D&D_References)]]
 - Affected by
 - See also: [[The Scales of Fortune 2
 - See also: [Project Image Xphb]]
-- Parallels [[Shadow Physiology and Anatomy 2
-- Parallels [MON00036_Undead_Creature_37]]
+- Parallels [[Shadow Physiology and Anatomy 2]]
 - Parallels [[upper-class-carousing-complications-xge (tables)
 - Leads to
 - Affected by [Assets Locations Location City the Singing Shadows V1 the Singing Shadows.svg]]
@@ -198,22 +195,18 @@ Offers deal too good to refuse
 - Affected by [Memory Merchant Centers (D&D_References)]]
 - Related: [[LORE00076_Prophecies_Entry_77
 - Related: [Session 12 the Infinity Engine]]
-- Compare with [[Seahorse Xmm
-- Influences [MON00083_Constructs_Creature_84]]
+- Compare with [[MON00083_Constructs_Creature_84]]
 - Leads to [[Portrait NPC the Corroded Crown V1 the Corroded Crown.svg
 - Originates from [Assets Locations Location City the Reef Communities the Reef Communities.svg]]
-- Affected by [[Archbishop Mordecai Stormwright
-- Connects to [hallow-xphb (spells)]]
-- Compare with [[step_044 (phase_028)
-- Related: [Harbor Master Nautilus Tideguard]]
+- Affected by [[Archbishop Mordecai Stormwright]]
+- Compare with [[Harbor Master Nautilus Tideguard]]
 - Influences [[The Crystal Empire
 - Parallels [step_026 (phase_050)]]
 - Leads to [[Assets Art Inv 002.png
 - Related: [ITEM01146_Greater_Powder_of_Clarity]]
 - Compare with [[alkilith-mpmm (fiend)
 - Parallels [Variant Spell Points Spell Points by Level]]
-- Related: [[MON00050_Aberrations_Creature_51
-- Affected by [Caravan Master Dolrim]]
+- Related: [[MON00050_Aberrations_Creature_51]]
 - Compare with [[Merchant Quarter Districts 2
 - Related:
 - Connects to [LOC00039_Dungeons_Location_40]]
@@ -222,8 +215,7 @@ Offers deal too good to refuse
 - Parallels [[LOC00198_Cities_Location_199
 - Parallels [Symbol Heraldry Aquabyssos Faction Web V1 Aquabyssos Faction Web.svg]]
 - Parallels
-- See also: [[Tools Dual State Sensors
-- See also: [ENC00226_Combat_Encounter_227]]
+- See also: [[ENC00226_Combat_Encounter_227]]
 - Affected by [[The Threshold
 - Requires [Pressure Crystals]]
 - Originates from
@@ -231,8 +223,7 @@ Offers deal too good to refuse
 - Originates from [NPC00515_Baelor_Crystalbrook_the_Seeker]]
 - Compare with [[Random Settlements Notable Traits
 - Compare with [high-altitude-xdmg (traps-hazards)]]
-- Parallels [[step_041 (phase_098)
-- Influences [Enterprise Director Duskwork (D&D_References)]]
+- Parallels [[Enterprise Director Duskwork (D&D_References)]]
 - Affected by [[Assets Locations Location City Specimen Careful Lifeguard Specimen Careful Lifeguard.svg
 - Compare with [step_073 (phase_025)]]
 - Originates from [[Assets Locations Location City Kelp Forest Constituencies Kelp Forest Constituencies.svg
@@ -254,15 +245,12 @@ Offers deal too good to refuse
 - Parallels [[Grassland Encounters Levels 1720 Xge
 - Requires
 - Parallels [NPC01062_Gareth_Goldleaf_the_Mystic]]
-- Connects to [[Portrait NPC Crys... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Originates from
-- Related: [step_020 (phase_087)]]
+- Connects to [[Portrait NPC Crys... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Originates from [[Hover Xphb
 - Originates from [step_002 (phase_042)]]
 - See also: [[young-copper-dragon-xmm (dragon)
 - Originates from [step_068 (phase_031)]]
-- Connects to [[step_092 (phase_076)
-- Requires [Grandmother Nightcomfor 2]]
+- Connects to [[Grandmother Nightcomfor 2]]
 - Related: [[villains-villains-methods (tables)
 - See also: [Chamber of Eternal Debate]]
 - Compare with [[NPC01425_Fiora_Oakenshield_the_Strong

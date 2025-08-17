@@ -4,8 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- [[Lore
-title: The [Seven Shards Campaign]] Overview
+- [[Seven Shards Campaign]] Overview
 type: lore
 updated: 2025-08-14
 ---

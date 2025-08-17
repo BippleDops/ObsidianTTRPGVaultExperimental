@@ -18,13 +18,13 @@ created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
 accessibility:
-  content_warnings: []
-  pronunciation: Lighthouse of Storms
-  safety_tools:
-  - Lines & Veils
-  - X-Card
-  screen_reader_summary: This lore entry explains a pivotal principle or event and
-    its consequences for play.
+ content_warnings: []
+ pronunciation: Lighthouse of Storms
+ safety_tools:
+ - Lines & Veils
+ - X-Card
+ screen_reader_summary: This lore entry explains a pivotal principle or event and
+ its consequences for play.
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:16.188683+00:00'
 world: Aquabyssos
@@ -98,7 +98,7 @@ Lighthouse of Storms is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Lighthouse of Storms as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lighthouse of Storms.
 
-## [[DM Notes]]
+## [[DM_Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

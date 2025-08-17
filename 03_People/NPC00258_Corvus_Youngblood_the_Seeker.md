@@ -156,49 +156,39 @@ Needs discrete help with family scandal
 
 ## Connections
 
-- Related: [[step_077 (phase_085)
-- Influences [NPC00934_Jorah_Ravenheart_the_Swift]]
+- Related: [[NPC00934_Jorah_Ravenheart_the_Swift]]
 - Originates from [[Memory Alterations (Lore)
 - Affected by [Maps - World_Map_Layers]]
 - Originates from [[step_006 (phase_041)
 - Compare with [step_035 (phase_076)]]
 - Affected by [[step_032 (phase_042)
 - Influences [portrait-npc-the-senator-the-senator.svg_1 (Portraits)]]
-- Related: [[Merchant Family Tidewalker (D&D_References)
-- Affected by [step_055 (phase_089)]]
+- Related: [[Merchant Family Tidewalker (D&D_References)]]
 - Parallels
-- Leads to [[${chosenPath}
-- Related: [LOC00224_Cities_Location_225]]
+- Leads to [[LOC00224_Cities_Location_225]]
 - Connects to [[ITEM01382_Decorated_Journal_of_Convenience
 - Connects to [ENC00060_Combat_Encounter_61]]
 - Influences [[Echo-Theorist Maya
 - Compare with [Symbol Heraldry Lady Venetia Silkwind Lady Venetia Silkwind.svg]]
-- Originates from [[Portrait NPC Shad... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Connects to [carriage-xphb (items)]]
+- Originates from [[Portrait NPC Shad... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Related: [[scroll-mishaps (variant-rules)
 - Influences [ENC00231_Social_Encounter_232]]
-- Related: [[Investigation Log INV-000 (D&D_References)
-- Leads to [Quest The Refugee Evacuation]]
+- Related: [[Investigation Log INV-000 (D&D_References)]]
 - Parallels [[NPC01747_Zephyr_Goldleaf_the_Swift
 - Originates from [forgotten-realms-beshaba (deities)]]
-- Related: [[QUEST0024_Champion's_Redemption
-- See also: [The People's Movement 3 (D&D_References)]]
+- Related: [[The People's Movement 3 (D&D_References)]]
 - Leads to [[Portrait NPC the Harmony Collective V1 the Harmony Collective.svg_1 (Portraits)
 - Leads to [LOC00067_Cities_Location_68]]
 - Leads to [[FAC00085_Guilds_86
 - Connects to [ITEM00067_Venomous_Sword_of_Wounding]]
-- Requires [[The Drowned Embassy (D&D_Statblocks)
-- Compare with [LOC0124_Hillford]]
-- See also: [[Underground Network
-- Parallels [NPC00374_Rhiannon_Lightbringer]]
+- Requires [[The Drowned Embassy (D&D_Statblocks)]]
+- See also: [[NPC00374_Rhiannon_Lightbringer]]
 - See also: [[Windwarden
 - Leads to [step_067 (phase_040)]]
-- Influences [[ENC00319_Combat_Encounter_320
-- Influences [The Kelp Highways (D&D_References)]]
+- Influences [[The Kelp Highways (D&D_References)]]
 - Affected by [[ENC00306_Combat_Encounter_307
 - Originates from [Location City the Golden Trade Route the Golden Trade Route.svg]]
-- Affected by [[Depths Alliance (D&D_References)
-- Compare with [Harmonic Mind Contro (D&D_References)]]
+- Affected by [[Harmonic Mind Contro (D&D_References)]]
 - Leads to [[Assets Locations Location City Port Abyssos V1 Port Abyssos.svg
 - Compare with [Family Retaine (D&D_References)]]
 - Related: [[investiture-of-stone-xge (spells)
@@ -211,23 +201,18 @@ Needs discrete help with family scandal
 - Related: [step_094 (phase_098)]]
 - Affected by [[astral-brig-mtf (vehicles)
 - Requires [LOC0094_Hillthorpe]]
-- Related: [[Royal Treasurer 2
-- Related: [Parliamentary Infiltration List]]
+- Related: [[Parliamentary Infiltration List]]
 - Leads to [[ITEM00759_Celestial_Mirror_of_the_Gods
 - Related: [Creature Creature Goblin Warrior Xmm V4 Goblin Warrior Xmm.png]]
-- Related: [[Surgeon Coral Precisehands 2
-- Compare with [Zombie Dmg]]
-- Requires [[EVENT00074_Political_Event_75
-- Requires [The Pressure-Crystal Synthesis Project]]
+- Related: [[Surgeon Coral Precisehands 2]]
+- Requires [[The Pressure-Crystal Synthesis Project]]
 - Requires [[step_092 (phase_039)
 - Compare with
 - Originates from [Port Nimbus 2]]
-- Connects to [[INV-003.png (Art)
-- Connects to [Neighbor Advocate Penumbra]]
+- Connects to [[Neighbor Advocate Penumbra]]
 - Connects to [[Random_Encounters (02_Worldbuilding)
 - Related: [The Identity Mirror (D&D_References)]]
-- Influences [[NPC00518_Zephyr_Quicksilver_the_Scholar
-- Originates from [NPC01779_Elric_Xendar_the_Wise]]
+- Influences [[NPC00518_Zephyr_Quicksilver_the_Scholar]]
 - See also: [[dueling-xphb (feats)
 - Related: [step_056 (phase_094)]]
 - Parallels [[MASTER_RULES_INDEX
@@ -236,8 +221,7 @@ Needs discrete help with family scandal
 - Compare with
 - Connects to
 - See also: [Location City Pressure Wraiths Pressure Wraiths.svg]]
-- Related: [[The Collector (D&D_References)
-- Affected by [ladder-xphb (items)]]
+- Related: [[The Collector (D&D_References)]]
 - Related: [[identify-the-partys-goals-dungeon-goals (tables)
 - Leads to [Random Buildings Tavern]]
 - Related: [[LOC00024_Towns_Location_25
@@ -249,12 +233,10 @@ Needs discrete help with family scandal
 - Related: [[step_084 (phase_048)
 - Requires
 - See also: [Quest - The Shattered Memories_1 (01_Adventures)]]
-- Compare with [[QUEST00016_Side_Quest_17
-- Requires [NPC2]]
+- Compare with [[QUEST00016_Side_Quest_17]]
 - Leads to [[ITEM0064_Ancient_Blade_of_the_Dawn
 - Connects to [grassland-encounters-levels-610-xge (tables)]]
-- Parallels [[QUEST00180_Personal_Quest_181
-- Parallels [Character Index]]
+- Parallels [[QUEST00180_Personal_Quest_181]]
 - Leads to [[LOC00157_Planes_Location_158
 
 ## Visual References

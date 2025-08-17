@@ -65,5 +65,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Madame Rosalind Goldleaf
-- [Madame Rosalind Goldleaf (D&D_Statblocks)]]
+- [[Madame Rosalind Goldleaf (D&D_Statblocks)]]

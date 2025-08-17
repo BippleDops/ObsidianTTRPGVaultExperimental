@@ -19,17 +19,17 @@ status: complete
 [region]]: Unknown
 population: Unknown
 accessibility:
-  content_warnings:
-  - political coercion
-  - [[Environmental Hazards]]
-  pronunciation: Brother Matthias Inkdrinker
-  safety_tools:
-  - Lines & Veils
-  - X-Card
-  - Open Door
-  screen_reader_summary: Brother Matthias Inkdrinker is a notable location in Aquabyssos
-    shaped by tidal politics and Convergence anomalies. This entry is structured for
-    fast table use.
+ content_warnings:
+ - political coercion
+ - [[Environmental_Hazards]]
+ pronunciation: Brother Matthias Inkdrinker
+ safety_tools:
+ - Lines & Veils
+ - X-Card
+ - Open Door
+ screen_reader_summary: Brother Matthias Inkdrinker is a notable location in Aquabyssos
+ shaped by tidal politics and Convergence anomalies. This entry is structured for
+ fast table use.
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:16.896215+00:00'
 world: Aquabyssos

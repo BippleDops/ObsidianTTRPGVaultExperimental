@@ -65,5 +65,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Aboleth Adjunct Yzz
-- [Aboleth Adjunct Yzz (D&D_References)]]
+- [[Aboleth Adjunct Yzz (D&D_References)]]

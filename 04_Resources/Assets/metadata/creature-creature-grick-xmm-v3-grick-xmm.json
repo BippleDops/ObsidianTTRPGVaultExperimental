@@ -25,5 +25,8 @@
   "alt_text": "Concept art of grick-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-grick-xmm-v3-grick-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-grick-xmm-v3-grick-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:04:14.076Z",
+  "generationMethod": "ComfyUI"
 }

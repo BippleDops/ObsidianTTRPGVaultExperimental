@@ -167,7 +167,7 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Capital**: [Skylance Citadel]]
 - **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
 - **Current Conflict**: The Void Incursion, Elemental Convergence
-- **Key Locations**: [[Floating Gardens, [Storm's Eye Tower]]
+- **Key Locations**: [[Floating Gardens]]
 
 The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.

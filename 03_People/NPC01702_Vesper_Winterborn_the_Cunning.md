@@ -163,8 +163,7 @@ Provides information for a price
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -196,10 +195,8 @@ Provides information for a price
 - Connects to [Comparative Mythology 2]]
 - Leads to [[The Noble Quarter Market
 - Parallels [step_100 (phase_035)]]
-- Related: [[step_068 (phase_005)
-- Related: [Services Void Resistance Training]]
-- Leads to [[NPC00847_Caelum_Goldleaf_the_Mystic
-- Compare with [step_066 (phase_004)]]
+- Related: [[Services Void Resistance Training]]
+- Leads to [[NPC00847_Caelum_Goldleaf_the_Mystic]]
 - Affected by
 - Connects to [[spell-xphb (variant-rules)
 - Parallels [Portrait NPC Blood in the Water Blood in the Water.svg]]
@@ -222,16 +219,13 @@ Provides information for a price
 - Influences [Assets Locations Location City Syndicate Enforcers V1 Syndicate Enforcers.svg]]
 - Requires [[Locations the Equipment Vaults
 - Originates from [EVENT00059_Natural_Event_60]]
-- See also: [[Npc Portraits Gallery (D&D_References)
-- Affected by [Cultural Exchange Society]]
-- Requires [[Authenticity Verification (D&D_References)
-- Related: [step_027 (phase_011)]]
+- See also: [[Npc Portraits Gallery (D&D_References)]]
+- Requires [[Authenticity Verification (D&D_References)]]
 - Compare with [[Random Magic Items Implements
 - Requires [Aquabyssos Medical University]]
 - Requires [[Location City Echo Keeper Selin Echo Keeper Selin.svg
 - Influences [Ancient Ocean Magic (D&D_References)]]
-- Originates from [[Aquabyssos
-- Parallels [ENC00469_Combat_Encounter_470]]
+- Originates from [[ENC00469_Combat_Encounter_470]]
 - Compare with [[Gray Ooze Xmm
 - Related: [Location City the Seven Shards Mystery the Seven Shards Mystery.svg]]
 - Influences [[Portrait NPC Senator Cordelia Deepcurrent V2 Senator Cordelia Deepcurrent.svg
@@ -242,22 +236,19 @@ Provides information for a price
 - Influences [portrait-npc-deep-anarchists-deep-anarchists.svg]]
 - Affected by [[LOC00245_Cities_Location_246
 - Influences [Assets Locations Location City Adult Education Programs Adult Education Programs.svg]]
-- Affected by [[step_059 (phase_073)
-- Compare with [Mediator Serenity Stillwater]]
+- Affected by [[Mediator Serenity Stillwater]]
 - See also: [[Ring of Protection Xdmg
 - Leads to [Assets Locations Location City Crystalhaven Crystalhaven.svg]]
 - Requires [[shadow-dragon-xmm (dragon)
 - Requires [EVENT00035_Magical_Event_36]]
-- Requires [[step_034 (phase_093)
-- Parallels [NPC01228_Brenna_Crystalbrook_the_Scholar]]
+- Requires [[NPC01228_Brenna_Crystalbrook_the_Scholar]]
 - Affected by [[portrait-npc-the-barnacle-v1-the-barnacle.svg
 - Connects to [Shared Campaign Variant Rules Xge]]
 - Affected by [[Location City Diplomatic Immunity Diplomatic Immunity.svg
 - Influences [Abyssal Contracts]]
 - Leads to [[probabilities-sylvan-forest-encounters (tables)
 - Connects to [npc - Aerisi Kalinoth Pota]]
-- Connects to [[step_018 (phase_096)
-- Leads to [NPC01619_Hilda_Ashford_the_Mystic]]
+- Connects to [[NPC01619_Hilda_Ashford_the_Mystic]]
 - Affected by [[Marina-Red-Tide-Coralheart
 - Originates from [QUEST0011_Infiltrate_the_Dragon]]
 - Leads to [[step_056 (phase_018)
@@ -275,8 +266,7 @@ Provides information for a price
 - Influences [[step_098 (phase_026)
 - Compare with
 - Compare with [shape-water-xge (spells)]]
-- Requires [[step_044 (phase_073)
-- Affected by [The Cleaner (D&D_References)]]
+- Requires [[The Cleaner (D&D_References)]]
 - Parallels [[Campaign_Tracker]]
 
 ## Plot Hooks

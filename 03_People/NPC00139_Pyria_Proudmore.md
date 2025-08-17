@@ -161,17 +161,14 @@ Needs discrete help with family scandal
 
 ## Connections
 
-- Compare with [[Captain Nerion Deepward (D&D_References)
-- Related: [ITEM01172_Pure_Potion_of_Healing]]
+- Compare with [[Captain Nerion Deepward (D&D_References)]]
 - Affected by [[step_053 (phase_095)
 - Related: [veterans-cane-xdmg (items)]]
-- Compare with [[NPC00757_Zephyr_Quicksilver_the_Swift
-- Parallels [step_006 (phase_021)]]
+- Compare with [[NPC00757_Zephyr_Quicksilver_the_Swift]]
 - See also: [[Hit Point Dice Xphb
 - Related:
 - Affected by [Character Name]]
-- Originates from [[Market Master Cornelius Driftwood
-- Related: [step_050 (phase_046)]]
+- Originates from [[Market Master Cornelius Driftwood]]
 - Compare with [[Emberhorn Minotaur Pota
 - Requires [step_087 (phase_098)]]
 - See also: [[Scene Scene Merged Zone Reality Fracture V2 Merged Zone Reality Fracture.svg
@@ -180,8 +177,7 @@ Needs discrete help with family scandal
 - See also: [nonhuman-yondalla (deities)]]
 - See also: [[Assets Locations Location City Market Master Cornelius Driftwood Market Master Cornelius Driftwood.svg
 - Leads to [step_066 (phase_019)]]
-- Leads to [[NPC01319_Vesper_Lightbringer_the_Bold
-- Leads to [Portrait NPC Anci... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Leads to [[Portrait NPC Anci... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Parallels [[step_044 (phase_030)
 - Requires [services-phb (tables)]]
 - See also:
@@ -189,8 +185,7 @@ Needs discrete help with family scandal
 - Affected by [Hold Monster Xphb]]
 - Affected by [[LORE00012_Prophecies_Entry_13
 - Parallels [Assets Locations Location City Ancient Echo Truthfinder V1 Ancient Echo Truthfinder.svg]]
-- Related: [[The Probability Engine
-- Connects to [Planar Breaches of Aquabyssos]]
+- Related: [[Planar Breaches of Aquabyssos]]
 - Compare with
 - Requires [[step_047 (phase_100)
 - Connects to [SPELL00065_Nature_Spell_66]]
@@ -200,8 +195,7 @@ Needs discrete help with family scandal
 - Related:
 - Parallels [[step_080 (phase_086)
 - Related: [Location City House Depthguard House Depthguard.svg]]
-- Affected by [[step_060 (phase_060)
-- See also: [QUEST00021_Personal_Quest_22]]
+- Affected by [[QUEST00021_Personal_Quest_22]]
 - See also: [[Location City Quill Precisequote V1 Quill Precisequote.svg
 - Compare with [brown-bear-xmm]]
 - Compare with [[Surgeon Marcus Healhand 2
@@ -210,8 +204,7 @@ Needs discrete help with family scandal
 - Parallels [step_067 (phase_079)]]
 - Parallels [[Monster Relationships Xge
 - See also: [item properties#Silvered%20Weapons]]
-- Compare with [[NPC0188_Cormac_Brightblade
-- Affected by [NPC01256_Jorah_Proudmore_the_Cunning]]
+- Compare with [[NPC01256_Jorah_Proudmore_the_Cunning]]
 - Leads to [[step_093 (phase_058)
 - Compare with [Location City the Trencher Folk V1 the Trencher Folk.svg]]
 - Related: [[Assets Portraits Portrait NPC Quest the Siren S Price Quest the Siren S Price.svg
@@ -223,20 +216,17 @@ Needs discrete help with family scandal
 - Influences [[step_047 (phase_083)
 - Related:
 - Originates from [Criminal Boss 2]]
-- Requires [[LORE0076_Legend_of_the_Dark_Times
-- Parallels [Mourning Mother Cordelia 2]]
+- Requires [[LORE0076_Legend_of_the_Dark_Times]]
 - Related: [[step_093 (phase_020)
 - Leads to [step_036 (phase_049)]]
 - Leads to [[Location City Senator Bartholomew Bonewright V1 Senator Bartholomew Bonewright.svg
 - See also: [QUEST00274_Personal_Quest_275]]
 - Affected by [[QUEST00387_Side_Quest_388
 - Affected by [ITEM01313_Practical_Tool_Kit_of_Reliability]]
-- Originates from [[Temple Council 2
-- Requires [Priest Faith Crystalsong (D&D_References)]]
+- Originates from [[Priest Faith Crystalsong (D&D_References)]]
 - See also: [[The Crown 2
 - Connects to [Assets Locations Location City Sister Mourne V1 Sister Mourne.svg]]
-- Requires [[Consequence Chain 4 - Deep Mother Awakening 2
-- Leads to [Surface Ambassador Lord Seaworthy]]
+- Requires [[Consequence Chain 4 - Deep Mother Awakening 2]]
 - Compare with [[step_031 (phase_054)
 - Connects to [ULTIMATE_SYSTEM_REPORT]]
 - Related: [[races (races)
@@ -249,18 +239,13 @@ Needs discrete help with family scandal
 - Related: [LORE0078_Myth_of_the_Fallen_Star]]
 - Compare with [[recurring-expenses-maintenance-costs (tables)
 - Parallels [Neutral Commerce Agreements]]
-- See also: [[Count Spark Lightning
-- Influences [Investigation Laboratories 2]]
-- Requires [[NPC0057_Rhea_Ironforge_the_Merciful
-- Parallels [Shadow Political Representation]]
-- Connects to [[High Priestess Scylla Deepdream (D&D_References)
-- Compare with [Shadow Market Syndicat]]
+- See also: [[Investigation Laboratories 2]]
+- Requires [[NPC0057_Rhea_Ironforge_the_Merciful]]
+- Connects to [[High Priestess Scylla Deepdream (D&D_References)]]
 - Connects to [[greek-ares (deities)
 - Compare with [step_019 (phase_015)]]
-- Affected by [[The Queen 2
-- Influences [Undead Rights Organization HQ (D&D_References)]]
-- Originates from [[berserker-axe-xdmg (items)
-- Influences [High Priest Nereon (D&D_References)]]
+- Affected by [[Undead Rights Organization HQ (D&D_References)]]
+- Originates from [[High Priest Nereon (D&D_References)]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

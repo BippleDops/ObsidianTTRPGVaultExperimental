@@ -272,5 +272,4 @@ ___
 ## References
 
 - [Assets Portraits Portrait NPC Captain Redbeard Captain Redbeard.svg]]
-- [[Blood Current Express
-- [Blood Current Express (D&D_References)]]
+- [[Blood Current Express (D&D_References)]]

@@ -25,5 +25,8 @@
   "alt_text": "Concept art of larva-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-larva-xmm-v1-larva-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-larva-xmm-v1-larva-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:05:36.911Z",
+  "generationMethod": "ComfyUI"
 }

@@ -158,8 +158,7 @@ Competitor sabotaging business
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -181,14 +180,12 @@ Competitor sabotaging business
 - Leads to [Western Frontier]]
 - Affected by [[duergar-laduguer-mtf (deities)
 - Requires [step_096 (phase_028)]]
-- See also: [[Audio Gallery
-- See also: [The Strangling Vine 2]]
+- See also: [[The Strangling Vine 2]]
 - Compare with [[Burning Xphb
 - Originates from [step_042 (phase_084)]]
 - Compare with [[Senator Marius (D&D_Statblocks)
 - Compare with [magic-item-special-features-magic-items-quirk-xdmg]]
-- Connects to [[Procedures Hybrid Transformation
-- Parallels [step_081 (phase_036)]]
+- Connects to [[Procedures Hybrid Transformation]]
 - Originates from [[ITEM00544_Ethereal_Shield_of_Grace
 - Compare with [LORE00263_Prophecies_Entry_264]]
 - Originates from [[ITEM00900_Refined_Herb_of_Healing
@@ -199,13 +196,11 @@ Competitor sabotaging business
 - Parallels
 - Influences [Elf Names Female Adult Xge]]
 - See also:
-- Originates from [[Cultural Districts (D&D_References)
-- Related: [The Rolling Tide]]
+- Originates from [[Cultural Districts (D&D_References)]]
 - Influences
 - Compare with [[step_097 (phase_025)
 - Leads to [Location City Memoriam the Forgotten Continent V1 Memoriam the Forgotten Continent.svg]]
-- Requires [[MON00162_Constructs_Creature_163
-- Related: [cheese-wedge-xphb (items)]]
+- Requires [[MON00162_Constructs_Creature_163]]
 - See also: [[Scout Deepfinder
 - Affected by [step_032 (phase_081)]]
 - Influences [[Assets Locations Location City Aboleth Adjunct Yzz Aboleth Adjunct Yzz.svg
@@ -218,10 +213,8 @@ Competitor sabotaging business
 - Compare with [Void Realm Territories]]
 - See also: [[Mounts and Vehicles Mounts and Other Animals
 - Requires [Location City Planning Director Victor Visionkeeper V1 Planning Director Victor Visionkeeper.svg]]
-- Parallels [[The Sunken Cities (D&D_References)
-- Related: [Lemure Xmm]]
-- Affected by [[Princess Celestine Lumengarde
-- Connects to [Emergency Response Coordinator Time Guardian]]
+- Parallels [[The Sunken Cities (D&D_References)]]
+- Affected by [[Emergency Response Coordinator Time Guardian]]
 - Affected by [[Marcus Evenscale
 - Parallels [step_087 (phase_046)]]
 - Compare with [[divination-xphb (spells)
@@ -234,15 +227,12 @@ Competitor sabotaging business
 - See also: [Location City Master Gardener Sage Harmony Bloomtender V1 Master Gardener Sage Harmony Bloomtender.svg]]
 - Requires [[MON00153_Constructs_Creature_154
 - Connects to [Assets Portraits Portrait NPC Militant Priest Abyssal Militant Priest Abyssal.svg]]
-- Related: [[House Stormwin 2
-- See also: [The Battle of Parliament Dee]]
+- Related: [[The Battle of Parliament Dee]]
 - Related: [[Marriage_Counselor_Tidal_Harmony (02_Worldbuilding)
 - Parallels [LOC00074_Towns_Location_75]]
 - Connects to [[step_031 (phase_055)
 - Leads to [shadowfell-despair-xdmg (tables)]]
-- Leads to [[DUN00125_Dungeon_126
-- Influences
-- Affected by [Craftmaster Shadowwork (D&D_References)]]
+- Leads to [[Craftmaster Shadowwork (D&D_References)]]
 - Influences [[Feywild Time Warp
 - Originates from [LORE00280_Prophecies_Entry_281]]
 - Compare with [[step_073 (phase_029)
@@ -251,8 +241,7 @@ Competitor sabotaging business
 - Compare with [Spell Scroll Level 2 Xdmg]]
 - Parallels [[portrait-npc-verdant-shard-v1-verdant-shard.svg
 - Related: [Location City Specimen Careful Lifeguard Specimen Careful Lifeguard.svg]]
-- Related: [[Audit Investigator Thomas Truthseeker (D&D_References)
-- Leads to [Location City Temporal Navigation Temporal Navigation.svg]]
+- Related: [[Audit Investigator Thomas Truthseeker (D&D_References)]]
 - Compare with [[MON00050_Constructs_Creature_51
 - Influences [ITEM00470_Ethereal_Cloak_of_Protection]]
 - Compare with [[List Spells Optional Features Mask of Many
@@ -266,8 +255,7 @@ Competitor sabotaging business
 - Parallels [camel-xphb (items)]]
 - Leads to [[step_038 (phase_079)
 - Affected by [Scene Scene the Party S First Glimpse of Abyssos Prime V1 the Party S First Glimpse of Abyssos Prime.svg]]
-- Connects to [[spell-gem-topaz-oota (items)
-- Related: [Shadow Cultist (Cults_and_Movements)]]
+- Connects to [[Shadow Cultist (Cults_and_Movements)]]
 - Affected by [[step_047 (phase_056)
 - Influences [The Truth Seeker]]
 - Affected by [[Dr Memory Lane

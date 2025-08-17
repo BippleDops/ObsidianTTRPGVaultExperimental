@@ -67,17 +67,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[regions
-
-## Overview
-
-reports represents a crucial aspect of the world's history, cosmology, or fundamental nature.
-
----
-
-*Last Updated: 2025-08-14 19:03*
-
-## [DM_Notes]]
+- Describe how this culture exists in other [[region]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -111,39 +101,21 @@ reports represents a crucial aspect of the world's history, cosmology, or fundam
 
 ## References
 
-- [[Arcanum Heights
-- [Biomancer Corvus Intestinal]]
-- [[Crystal-Corruption-Tracking-Sheet
-- [Customs House]]
-- [[Deep Mother Influence
-- [Political Compromise Costs]]
-- [[Quarantine Enforcement
-- [Silver Mask]]
-- [[The Breathing Stone
-- [The Tethyan Hegemony]]
-- [[Throne Room
-- [Timeline of the Drowning]]
-- [[Trade Route Establishment
-- [Underground Smuggling Networks]]
-- [[Captain Marcus
-- [Compass Quest]]
-- [[Depth Warden Patrol
-- [Depth Wardens]]
-- [[Ironhold
-- [Madame Whisper]]
-- [[Merchant Delilah Currentrunner
-- [Pip Goldleaf]]
-- [[Port Meridian Harbor
-- [Reality Anchor Network]]
-- [[Reality Breach Locations
-- [Royal Palace]]
-- [[Shadow Market Canals
-- [Surface Signals]]
-- [[Temporal Harvest
-- [The Living Weapon]]
-- [[The Seven Shards Mystery
-- [Void Currents]]
-- [[Warden Marcus Stonehand
-- [Witness Reports]]
-- [[The Maw of Darkness
-- [The Whispering Expanse]]
+- [[Biomancer Corvus Intestinal]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Political Compromise Costs]]
+- [[Quarantine Enforcement]]
+- [[The Tethyan Hegemony]]
+- [[Timeline of the Drowning]]
+- [[Underground Smuggling Networks]]
+- [[Captain Marcus]]
+- [[Depth Warden Patrol]]
+- [[Madame Whisper]]
+- [[Merchant Delilah Currentrunner]]
+- [[Reality Anchor Network]]
+- [[Reality Breach Locations]]
+- [[Shadow Market Canals]]
+- [[The Living Weapon]]
+- [[The Seven Shards Mystery]]
+- [[Warden Marcus Stonehand]]
+- [[The Whispering Expanse]]

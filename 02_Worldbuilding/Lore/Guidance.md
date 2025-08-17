@@ -119,56 +119,31 @@ Guidance represents a crucial aspect of the world's history, cosmology, or funda
 
 ## References
 
-- [[Abyssal Academy
-- [Aetheric Wind Songs]]
-- [[Aethermoor Wind Rider Traditions
-- [Aethermoor to Aquabyssos Transition Guide]]
-- [[Aquabyssos Cultural Codex
-- [Aquabyssos Trade Seal]]
-- [[Biomancer Corvus Intestinal
-- [Campaign Epilogues]]
-- [[Consequence Chain 2 - Crystal Trade Disruption
-- [Cross-Realm Etiquette Guide]]
-- [[Crystal Corruption Taboos
-- [Crystal Forest]]
-- [[Crystal Garden
-- [Random Encounters]]
-- [[Sky Burial Traditions
-- [Temporal Anomaly Resolution]]
-- [[Thalassius the Wise
-- [The Bathyal Succession]]
-- [[The Breathing Stone
-- [The Crimson Hand]]
-- [[The Festival of Rising Tides
-- [The Great Crystallization]]
-- [[The Pressure Baptism Rites
-- [Throne Room]]
-- [[Trade Route Establishment
-- [Abyssos Prime - Pressure Terminal]]
-- [[Cathedral of Light
-- [Compass Quest]]
-- [[Crystal Caverns
-- [Crystal Cult Temples]]
-- [[Depth Warden Patrol
-- [Depth Wardens]]
-- [[Enchanter Valdris Peacewarden
-- [Garden of Shadows]]
-- [[Ironhold
-- [Keeper Elara Mindwell]]
-- [[Mad Oracle Thessaly
-- [Maelstrom Palace]]
-- [[Mourning Depths
-- [Navigator Sage Driftwood]]
-- [[Pip Goldleaf
-- [Port Meridian - Market Square]]
-- [[Reflection Pools - Surgical Theater
-- [Sister Morwyn]]
+- [[Aetheric Wind Songs]]
+- [[Aethermoor to Aquabyssos Transition Guide]]
+- [[Aquabyssos Cultural Codex]]
+- [[Biomancer Corvus Intestinal]]
+- [[Consequence Chain 2 - Crystal Trade Disruption]]
+- [[Crystal Corruption Taboos]]
+- [[Random_Encounters]]
+- [[Temporal Anomaly Resolution]]
+- [[The Bathyal Succession]]
+- [[The Breathing Stone]]
+- [[The Festival of Rising Tides]]
+- [[The Pressure Baptism Rites]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Cathedral of Light]]
+- [[Crystal Cult Temples]]
+- [[Depth Warden Patrol]]
+- [[Enchanter Valdris Peacewarden]]
+- [[Keeper Elara Mindwell]]
+- [[Mad Oracle Thessaly]]
+- [[Navigator Sage Driftwood]]
+- [[Port Meridian - Market Square]]
+- [[Reflection Pools - Surgical Theater]]
 - [[Sylvanheart
 - [Temple Ward]]
-- [[The First Truth
-- [The Living Weapon]]
-- [[The Reflection Pools
-- [The Shrinking Sanctuary]]
-- [[Theological Warfare
-- [Whisper-Touched William]]
+- [[The Living Weapon]]
+- [[The Shrinking Sanctuary]]
+- [[Whisper-Touched William]]
 - [[The First Truth (D&D_References)]]

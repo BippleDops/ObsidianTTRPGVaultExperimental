@@ -169,14 +169,11 @@ Has information about legendary item
 
 ## Connections
 
-- Related: [[Faction_Reputation_System
-- Related: [Senator Glaucus (D&D_References)]]
-- Affected by [[monuments
-- Compare with [LOC00043_Cities_Location_44]]
+- Related: [[Senator Glaucus (D&D_References)]]
+- Affected by [[LOC00043_Cities_Location_44]]
 - Leads to [[Aquabyssos World Overview#The Preservation Current
 - Connects to [SPELL00139_Divine_Spell_140]]
-- Leads to [[step_088 (phase_092)
-- Connects to [Maintenance Tech Reef Fixwright 2]]
+- Leads to [[Maintenance Tech Reef Fixwright 2]]
 - Affected by
 - Influences [[etherealness-xphb (spells)
 - Requires [LOC00093_Planes_Location_94]]
@@ -204,10 +201,8 @@ Has information about legendary item
 - Compare with [LOC0114_UpperBridge]]
 - Compare with [[Financial Corruption
 - See also: [QUEST00002_Side_Quest_3]]
-- Related: [[Communications Master Signal Cryptkeeper 2
-- Requires [step_004 (phase_079)]]
-- Originates from [[FAC00057_Guilds_58
-- Leads to [Merchant Council of Port Meridian (D&D_References)]]
+- Related: [[Communications Master Signal Cryptkeeper 2]]
+- Originates from [[Merchant Council of Port Meridian (D&D_References)]]
 - Influences [[step_098 (phase_052)
 - Parallels [step_007 (phase_081)]]
 - Parallels [[Location City Traditional Craft Districts Traditional Craft Districts.svg
@@ -226,8 +221,7 @@ Has information about legendary item
 - Compare with [moonstone-xdmg (items)]]
 - Influences [[ITEM01009_Concentrated_Potion_of_Clarity
 - Influences [portrait-npc-the-barnacle-v1-the-barnacle.svg]]
-- Leads to [[Communications Chief Storm Signalmaster 2
-- Connects to [SPELL00047_Arcane_Spell_48]]
+- Leads to [[Communications Chief Storm Signalmaster 2]]
 - See also: [[Location City Senator Bartholomew Bonewright Senator Bartholomew Bonewright.svg
 - Affected by [DUN00122_Dungeon_123]]
 - Leads to [[step_012 (phase_024)
@@ -236,15 +230,12 @@ Has information about legendary item
 - Leads to [oil-of-taggit-xdmg (items)]]
 - Leads to [[Initiative Tracker (Lore)
 - Influences [NPC Cross-World Connections]]
-- Affected by [[LOC00111_Dungeons_Location_112
-- Related: [step_089 (phase_084)]]
+- Affected by [[LOC00111_Dungeons_Location_112]]
 - See also: [[Portrait NPC Commodity Queen Abundance V1 Commodity Queen Abundance.svg_1 (Portraits)
 - Affected by [Ioun Stone Strength Xdmg]]
 - Parallels
-- Affected by [[LOC00169_Planes_Location_170
-- Related: [step_078 (phase_018)]]
-- Requires [[QUEST0024_Champion's_Redemption
-- Compare with [gelatinous-cube-xmm]]
+- Affected by [[LOC00169_Planes_Location_170]]
+- Requires [[QUEST0024_Champion's_Redemption]]
 - Requires [[step_097 (phase_021)
 - Leads to [LORE00065_History_Entry_66]]
 - See also: [[step_056 (phase_086)

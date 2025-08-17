@@ -165,12 +165,10 @@ Wants rivals investigated
 - Connects to [[02_Worldbuilding_Groups_The_Resurgent_Tide
 - Leads to
 - Influences [QUEST00133_Personal_Quest_134]]
-- See also: [[FAC00080_Orders_81
-- Compare with [Communications Master Signal Cryptkeeper (D&D_References)]]
+- See also: [[Communications Master Signal Cryptkeeper (D&D_References)]]
 - See also: [[Assets Locations Location City Crimson Velocity Crimson Velocity.svg
 - Connects to [Location City Cora Peaceweaver V1 Cora Peaceweaver.svg]]
-- See also: [[The Shadow Conspiracy Hierarchy
-- Affected by [Aquabyssos Shadow Pools]]
+- See also: [[The Shadow Conspiracy Hierarchy]]
 - Affected by [[Location City Pressure Technology Pressure Technology.svg
 - Related: [Portrait NPC Quest the Tide War V1 Quest the Tide War.svg]]
 - Compare with [[The Vault of Whispers (D&D_References)
@@ -188,8 +186,7 @@ Wants rivals investigated
 - Compare with [DUN00194_Dungeon_195]]
 - Influences [[step_032 (phase_048)
 - Affected by [10-combat#Reactions]]
-- See also: [[Lieutet Memory Probe
-- Parallels [Legal Advocate Rights Defender (D&D_References)]]
+- See also: [[Legal Advocate Rights Defender (D&D_References)]]
 - Parallels [[deathlock-mastermind-mpmm (undead)
 - Requires [Assets Locations Location City Artist Wave Creator V1 Artist Wave Creator.svg]]
 - Compare with [[Assets Locations Location City the Whisper Island Mystery V1 the Whisper Island Mystery.png
@@ -219,18 +216,15 @@ Wants rivals investigated
 - Affected by [ITEM00967_Refined_Salve_of_Fortune]]
 - Requires [[Leviathan (D&D_References)
 - Originates from [step_072 (phase_024)]]
-- Parallels [[Boon of Immortality
-- Originates from [Crystal Storm Barriers (D&D_References)]]
+- Parallels [[Crystal Storm Barriers (D&D_References)]]
 - Influences [[Portrait NPC Underground Testing Facility Underground Testing Facility.svg_1 (Portraits)
 - Connects to [QUEST0073_The_Frozen_Fortress_Uprising]]
 - Connects to [[Portrait NPC Shadow Conspiracy V1 Shadow Conspiracy.svg
 - Requires [step_093 (phase_008)]]
-- Connects to [[Treasure Themes Xdmg
-- Related: [Royal Quarters (D&D_References)]]
+- Connects to [[Royal Quarters (D&D_References)]]
 - Requires [[Scroll of Titan Summoning Empyrean Xdmg
 - Affected by [step_100 (phase_026)]]
-- Compare with [[Comparative Mythology (D&D_References)
-- Related: [LORE00033_Legends_Entry_34]]
+- Compare with [[Comparative Mythology (D&D_References)]]
 - Parallels [[The Harbor Depths
 - See also: [step_007 (phase_031)]]
 - Connects to [[ENC00189_Social_Encounter_190
@@ -247,8 +241,7 @@ Wants rivals investigated
 - Compare with [LORE00166_Prophecies_Entry_167]]
 - Connects to [[ITEM01186_Lesser_Herb_of_Swiftness
 - Connects to [step_055 (phase_031)]]
-- Compare with [[myconid-sprout-xmm (plant)
-- Connects to [NPC01857_Wynne_Crystalbrook_the_Mystic]]
+- Compare with [[NPC01857_Wynne_Crystalbrook_the_Mystic]]
 - Affected by [[Temple of the Deep Current
 - Connects to [Dawn War Melora Dmg]]
 - See also:
@@ -258,8 +251,7 @@ Wants rivals investigated
 - Parallels [The Whispering Caverns]]
 - Affected by [[step_036 (phase_075)
 - Originates from [keoghtoms-ointment-xdmg (items)]]
-- Influences [[Pressure Suit Malfunction
-- Related: [The Temporal War Battlefields]]
+- Influences [[The Temporal War Battlefields]]
 
 ## Visual References
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png

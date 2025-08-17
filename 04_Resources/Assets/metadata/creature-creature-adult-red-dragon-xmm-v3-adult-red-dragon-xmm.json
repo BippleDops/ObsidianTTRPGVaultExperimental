@@ -25,5 +25,8 @@
   "alt_text": "Concept art of adult-red-dragon-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-adult-red-dragon-xmm-v3-adult-red-dragon-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-adult-red-dragon-xmm-v3-adult-red-dragon-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:01.021Z",
+  "generationMethod": "ComfyUI"
 }

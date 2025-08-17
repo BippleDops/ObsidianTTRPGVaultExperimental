@@ -172,31 +172,22 @@ Has map to lost treasure
 - Influences [[Monsters by Habitat Hill Monsters Xmm
 - Originates from
 - Connects to [The Depth Councils 2]]
-- Originates from [[Sea Witches
-- Compare with [NPC01114_Solas_Proudmore_the_Guardian]]
-- See also: [[Translator Polyglot
-- Parallels [Vault Keeper Eternal (D&D_Statblocks)]]
-- Influences [[LOC00261_Planes_Location_262
-- Compare with [DUN00138_Dungeon_139]]
+- Originates from [[NPC01114_Solas_Proudmore_the_Guardian]]
+- See also: [[Vault Keeper Eternal (D&D_Statblocks)]]
+- Influences [[LOC00261_Planes_Location_262]]
 - Related: [[step_021 (phase_054)
 - See also: [Location City Quartermaster Judith Supplycurrent Quartermaster Judith Supplycurrent.svg]]
-- Related: [[LOC00098_Wilderness_Location_99
-- Connects to [The Shadow Markets New (D&D_References)]]
-- Connects to [[Academic Institutions (D&D_References)
-- Requires [saffron-xdmg (items)]]
-- Requires [[Session 04 the Deep Mother Stirs
-- Leads to [giant-owl-xmm (celestial)]]
-- Influences [[Training Director Cassius Newlight (D&D_References)
-- Connects to [QUEST00007_Personal_Quest_8]]
+- Related: [[The Shadow Markets New (D&D_References)]]
+- Connects to [[Academic Institutions (D&D_References)]]
+- Requires [[Session 04 the Deep Mother Stirs]]
+- Influences [[Training Director Cassius Newlight (D&D_References)]]
 - See also:
-- Related: [[Progressive Policy Portfolio
-- See also: [NPC00149_Dara_Ironwood]]
+- Related: [[Progressive Policy Portfolio]]
 - Compare with [[Novelist Current Stories
 - Influences [05_Rules/Conditions]]
 - Compare with [[location-city-crystallium-crystallium.svg
 - Compare with [Suspects]]
-- Connects to [[Medical Officer Dr Siphon Pressurehealer
-- Connects to [Guardian Merger Rituals]]
+- Connects to [[Medical Officer Dr Siphon Pressurehealer]]
 - Requires [[The Shadow Consortium
 - Affected by [SPELL00127_Divine_Spell_128]]
 - See also: [[step_084 (phase_100)
@@ -206,20 +197,17 @@ Has map to lost treasure
 - Parallels [step_086 (phase_063)]]
 - Leads to [[Portrait NPC Marcus the Shade Blackwood V2 Marcus the Shade Blackwood.svg
 - Leads to [Underwater_Adaptation_Rules]]
-- Affected by [[ENC00016_Social_Encounter_17
-- Requires [Quartermaster Judith Supplycurrent 2]]
+- Affected by [[Quartermaster Judith Supplycurrent 2]]
 - Related: [[mimic-xmm (monstrosity)
 - Influences [Assets Portraits Portrait NPC Quest the Betrayers Truth Quest the Betrayers Truth.svg]]
 - Leads to [[NPC_Name_Generator.png
 - See also: [Assets Handouts Handout Handout Temple Prayer Sheet V2 Temple Prayer Sheet.png]]
-- Affected by [[NPC01327_Erasmus_Nightfall_the_Scholar
-- Requires [Dr. Coral Soulseeker]]
+- Affected by [[NPC01327_Erasmus_Nightfall_the_Scholar]]
 - Affected by [[step_067 (phase_086)
 - Requires [Assets Locations Location City Restorative Justice V1 Restorative Justice.svg]]
 - Affected by [[Portrait NPC Memory Harvester Kythara Memory Harvester Kythara.svg
 - Requires [NPC00572_Zephyr_Thornweave_the_Risen]]
-- Requires [[Session 07 (Seven_Shards_Campaign)
-- Connects to [FAC00026_Orders_27]]
+- Requires [[Session 07 (Seven_Shards_Campaign)]]
 - Originates from
 - Parallels [[NPC01392_Idris_Oakenshield_the_Mystic
 - Influences [NPC01337_Elric_Dawnstrider_the_Scholar]]
@@ -237,14 +225,12 @@ Has map to lost treasure
 - Related:
 - Leads to [[The Negotiation Void 2
 - See also: [step_050 (phase_074)]]
-- Connects to [[Dangerous Goods Storage (D&D_References)
-- Connects to [MON0027_Storm_Devourer]]
+- Connects to [[Dangerous Goods Storage (D&D_References)]]
 - Originates from [[EVENT00084_Natural_Event_85
 - Requires [Midnight Trenches]]
 - Compare with [[step_041 (phase_032)
 - Originates from [The Visiting Scholar Complex]]
-- Leads to [[Reef Saltwater (D&D_References)
-- Leads to [SPELL00110_Nature_Spell_111]]
+- Leads to [[Reef Saltwater (D&D_References)]]
 - Connects to [[step_096 (phase_051)
 - Compare with [Location City Temporal Harvest Temporal Harvest.svg]]
 - Related: [[Swarm of Cranium Rats Mpmm
@@ -266,8 +252,7 @@ Has map to lost treasure
 - Parallels [[Grant Item
 - Influences
 - Originates from [charisma-check-conversation-reaction (tables)]]
-- Connects to [[The Phantom Market
-- Compare with [improvised-weapons-xphb (variant-rules)]]
+- Connects to [[improvised-weapons-xphb (variant-rules)]]
 - Related: [[wretched-sorrowsworn-mpmm (monstrosity)
 
 ## Visual References

@@ -185,8 +185,7 @@ Needs discrete help with family scandal
 - Influences [ITEM01415_Practical_Lantern_of_Convenience]]
 - See also: [[step_047 (phase_067)
 - Compare with [Ability Scores and Modifiers Phb]]
-- Affected by [[NPC0076_Leopold_Ironforge
-- Related: [Emergency Hollo]]
+- Affected by [[NPC0076_Leopold_Ironforge]]
 - Originates from [[Elven Hanali Celanil Mtf
 - Connects to [06 Chapter 6 Blingdenstone]]
 - Affected by [[Pole of Angling Xdmg
@@ -217,20 +216,14 @@ Needs discrete help with family scandal
 - Related: [[ITEM00040_Cursed_Spear_of_Slaying
 - Requires
 - Compare with [EVENT00028_Magical_Event_29]]
-- Requires [[Maintece Tech Reef Fixwright
-- Parallels [step_013 (phase_018)]]
+- Requires [[Maintece Tech Reef Fixwright]]
 - See also:
-- Requires [[Scholar Emperor Thalassius the Wise (D&D_References)
-- Affected by
-- Requires [ITEM00761_Celestial_Chalice_of_the_Gods]]
-- Leads to [[FAC00063_Cults_64
-- Compare with [guild-artisan-guild-merchant-variant]]
-- Affected by [[LOC00107_Wilderness_Location_108
-- Originates from [Symbol Heraldry Mag... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Requires [[Scholar Emperor Thalassius the Wise (D&D_References)]]
+- Leads to [[guild-artisan-guild-merchant-variant]]
+- Affected by [[Symbol Heraldry Mag... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Leads to [[Assets Locations Location City Free Current Free Current.svg
 - Leads to [Location City Temple of the Deep Waters Temple of the Deep Waters.svg]]
-- Leads to [[Pain-Artist Cruelty Refined (D&D_References)
-- See also: [QUEST00186_Main_Quest_187]]
+- Leads to [[Pain-Artist Cruelty Refined (D&D_References)]]
 - Connects to [[Assets Locations Location City Shadow Current V1 Shadow Current.svg
 - Connects to
 - Requires [Great Drowning 2]]
@@ -249,10 +242,8 @@ Needs discrete help with family scandal
 - Originates from [step_067 (phase_017)]]
 - Requires [[Deep Current Society
 - See also: [Scholars of Prismari Prismari Scholars Scc]]
-- Compare with [[Session 2 - The Crystal Fever
-- See also: [Underground Testing Facility (D&D_References)]]
-- Parallels [[step_051 (phase_069)
-- Affected by [Quest - The Drowned Prophecy]]
+- Compare with [[Underground Testing Facility (D&D_References)]]
+- Parallels [[Quest - The Drowned Prophecy]]
 - Parallels [[Quest - Nature
 - Related: [Conditions_Reference]]
 - Parallels [[Location City the Lost Expedition V1 the Lost Expedition.svg
@@ -268,8 +259,7 @@ Needs discrete help with family scandal
 - Influences [Assets Locations Location City Emergency Life Support Research Foundation Emergency Life Support Research Foundation.svg]]
 - Requires [[The Deep Markets
 - See also: [location-city-royal-guard-royal-guard.svg]]
-- Requires [[Unicorn Xmm
-- Connects to [LOC00012_Towns_Location_13]]
+- Requires [[LOC00012_Towns_Location_13]]
 - Requires [[step_030 (phase_063)
 - Originates from [Location City the Royal Palace V1 the Royal Palace.svg]]
 - Parallels [[LORE00152_History_Entry_153

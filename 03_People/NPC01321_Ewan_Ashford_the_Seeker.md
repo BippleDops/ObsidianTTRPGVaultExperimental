@@ -162,39 +162,31 @@ Forming expedition to dangerous location
 - Influences [Location City Surface Traders V1 Surface Traders.svg]]
 - Connects to [[step_091 (phase_094)
 - Parallels [FAC00040_Cults_41]]
-- Compare with [[ENC00121_Combat_Encounter_122
-- Compare with [Court Herald Titus (D&D_References)]]
+- Compare with [[Court Herald Titus (D&D_References)]]
 - Requires
 - Parallels [[Reality Anchor Networks (Items)
 - Affected by [step_003 (phase_050)]]
 - Parallels [[LORE00013_History_Entry_14
 - Originates from [Expeditious Retreat Xphb]]
-- Leads to [[ENC00223_Social_Encounter_224
-- Influences [Royal Bloodline Codex]]
+- Leads to [[ENC00223_Social_Encounter_224]]
 - Leads to
 - Originates from [[Pressure Networks
 - Leads to [Assets Locations Location City Grand Harbor Grand Harbor.svg]]
-- Requires [[step_005 (phase_034)
-- Parallels [ENC00085_Combat_Encounter_86]]
+- Requires [[ENC00085_Combat_Encounter_86]]
 - Requires [[Scrap & Salvage
 - Influences
 - Parallels [Forgotten Realms Loviatar]]
-- Parallels [[step_041 (phase_082)
-- Parallels [The Anonymous Protocol (D&D_References)]]
-- Affected by [[Infinite Mathematics Divisio (D&D_References)
-- See also: [LORE0034_Secret_of_the_Sundering]]
-- Originates from [[Ice Storm Xphb
-- See also: [NPC00626_Dara_Darkwater_the_Bold]]
+- Parallels [[The Anonymous Protocol (D&D_References)]]
+- Affected by [[Infinite Mathematics Divisio (D&D_References)]]
+- Originates from [[NPC00626_Dara_Darkwater_the_Bold]]
 - Parallels [[LOC00275_Dungeons_Location_276
 - Compare with [04_Resources_Assets_Locations_location-city-master-finn-liquidlight-v1-master-finn-liquidlight.svg]]
-- Compare with [[The Crystal Amphitheater (D&D_References)
-- Parallels [step_060 (phase_097)]]
+- Compare with [[The Crystal Amphitheater (D&D_References)]]
 - Requires [[Reality Anchor Points 2
 - Connects to [LOC00101_Cities_Location_102]]
 - See also: [[The Tide Rises
 - Originates from [npc_development_framework]]
-- Affected by [[step_067 (phase_016)
-- Influences [QUEST00228_Personal_Quest_229]]
+- Affected by [[QUEST00228_Personal_Quest_229]]
 - Connects to [[EVENT00022_Magical_Event_23
 - Parallels [ITEM01278_Pure_Powder_of_Vigor]]
 - Affected by [[SHOP00039_General_Shop_40
@@ -215,8 +207,7 @@ Forming expedition to dangerous location
 - Parallels [step_074 (phase_088)]]
 - Originates from [[The Great Transformation
 - See also: [04_Resources_Assets_Locations_location-city-the-crystal-cathedral-of-pure-light-the-crystal-cathedral-of-pure-light.svg]]
-- Related: [[Emergency Medical Research Foundation
-- Connects to [Memory Restoration Devices]]
+- Related: [[Emergency Medical Research Foundation]]
 - Influences [[step_008 (phase_076)
 - Connects to
 - Related: [ENC00207_Social_Encounter_208]]
@@ -227,12 +218,10 @@ Forming expedition to dangerous location
 - See also: [[step_069 (phase_043)
 - Parallels
 - Influences [Assets Locations Location City Keeper of Secrets Whisper Darkhold Keeper of Secrets Whisper Darkhold.svg]]
-- Connects to [[Current Bridgewater (D&D_References)
-- See also: [ITEM00919_Superior_Salve_of_Vigor]]
+- Connects to [[Current Bridgewater (D&D_References)]]
 - Originates from [[Assets Vehicles Vehicle Ship Hybrid Rift Runner Sloop Hybrid Rift Runner Sloop.png
 - Compare with [spell-gem-lapis-lazuli-oota (items)]]
-- See also: [[Bestiary Compendium Reference (Lore)
-- Requires [Deepwater Banking Consortium (D&D_References)]]
+- See also: [[Deepwater Banking Consortium (D&D_References)]]
 - Parallels [[QUEST0096_Investigate_the_Cult
 - Requires [SHOP00027_Specialty_Shop_28]]
 - Originates from
@@ -241,18 +230,14 @@ Forming expedition to dangerous location
 - Leads to [[Captain Rodrigo Ironanchor (D&D_References)
 - Originates from [NPC00826_Pyria_Dawnstrider_the_Wanderer]]
 - Compare with
-- Leads to [[NPC01957_Urien_Darkwater_the_Bold
-- Connects to [step_002 (phase_056)]]
+- Leads to [[NPC01957_Urien_Darkwater_the_Bold]]
 - Parallels [[Portrait NPC Empress Tethys the Ever Drowning V1 Empress Tethys the Ever Drowning.svg
 - Parallels [armor-of-vulnerability-bludgeoning-xdmg (items)]]
 - Leads to [[Location City Comparative Religion Comparative Religion.svg
 - Connects to [Parliament Loyalists]]
-- Influences [[step_059 (phase_073)
-- Influences [NPC01062_Gareth_Goldleaf_the_Mystic]]
-- Parallels [[Rumor_Table
-- Parallels [NPC01793_Lyanna_Youngblood_the_Seeker]]
-- Influences [[NPC01970_Brenna_Dawnstrider_the_Wise
-- Leads to [Four Armed Statue Oota]]
+- Influences [[NPC01062_Gareth_Goldleaf_the_Mystic]]
+- Parallels [[NPC01793_Lyanna_Youngblood_the_Seeker]]
+- Influences [[NPC01970_Brenna_Dawnstrider_the_Wise]]
 - Requires [[block-and-tackle-xphb (items)
 - Requires [step_044 (phase_092)]]
 - Parallels [[Nonhuman Bahamut

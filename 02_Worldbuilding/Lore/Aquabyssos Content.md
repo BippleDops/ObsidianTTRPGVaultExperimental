@@ -1,7 +1,6 @@
 ---
 
-title: [[Aquabyssos Content
-type: [Lore]]
+title: [[Aquabyssos Content]]
 tags:
 - lore
 - worldbuilding

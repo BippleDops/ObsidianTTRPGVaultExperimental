@@ -57,5 +57,4 @@ This content can be adapted and expanded based on specific campaign needs.
 ## References
 
 - [System Cli Items Weapons]]
-- [[System Cli Spells School Enchantment
-- [System Cli Spells School Illusion]]
+- [[System Cli Spells School Enchantment]]

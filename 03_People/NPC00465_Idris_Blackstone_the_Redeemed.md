@@ -171,23 +171,18 @@ Being extorted by criminals
 - Affected by [[Location City the Banshee Caverns V1 the Banshee Caverns.svg
 - Affected by [Mouth of Grolantor Mpmm]]
 - See also:
-- Related: [[LOC00165_Dungeons_Location_166
-- Requires [Navigate Fractal Reality]]
+- Related: [[LOC00165_Dungeons_Location_166]]
 - Originates from [[The Royal Transformation 2
 - Requires [giant-shark-xmm (beast)]]
 - Influences [[step_022 (phase_069)
 - Influences [Location City Senator Bartholomew Bonewright Senator Bartholomew Bonewright.svg]]
-- Compare with [[step_066 (phase_026)
-- See also:
-- Related: [LORE0052_Prophecy_of_the_Dark_Times]]
+- Compare with [[LORE0052_Prophecy_of_the_Dark_Times]]
 - Compare with [[Location City Emergency Life Support Research Foundation V1 Emergency Life Support Research Foundation.svg
 - Originates from [SPELL00134_Nature_Spell_135]]
 - Compare with
-- Leads to [[Reality Anchor Points (D&D_References)
-- Parallels [Infrastructure Development]]
+- Leads to [[Reality Anchor Points (D&D_References)]]
 - Requires
-- See also: [[NPC01049_Jorah_Moonshadow_the_Scholar
-- Connects to [Meazel Mpmm]]
+- See also: [[NPC01049_Jorah_Moonshadow_the_Scholar]]
 - Influences [[step_006 (phase_053)
 - Parallels [Physical Characteristics Beholder Body Diameter Vgm]]
 - Compare with [[Phantom Harbor Charter 2
@@ -199,8 +194,7 @@ Being extorted by criminals
 - Influences [[NPC00312_Faelyn_Voidwalker_the_Wise
 - Parallels
 - Parallels [Giant Constrictor Snake Xmm]]
-- Originates from [[Magic User
-- Influences [NPC01619_Hilda_Ashford_the_Mystic]]
+- Originates from [[NPC01619_Hilda_Ashford_the_Mystic]]
 - Leads to [[step_087 (phase_027)
 - See also: [step_096 (phase_072)]]
 - Originates from [[Assets Item Artifact Weird Tank Pota V4 Weird Tank Pota.png
@@ -209,13 +203,11 @@ Being extorted by criminals
 - See also: [step_026 (phase_069)]]
 - Connects to [[02_Worldbuilding_Locations_Archive_of_Echoes
 - Influences [The Crown of Stars]]
-- Influences [[Terminal Master Hadrian Depthbridge
-- Affected by [The Assayers Hall]]
+- Influences [[Terminal Master Hadrian Depthbridge]]
 - Affected by [[Assets Locations Location City Triton V1 Triton.svg
 - Affected by [Fire Crystals 2]]
 - See also:
-- Compare with [[Supernatural Mysteries (D&D_References)
-- Connects to [step_055 (phase_083)]]
+- Compare with [[Supernatural Mysteries (D&D_References)]]
 - See also: [[step_053 (phase_011)
 - Related: [List Spells Optional Features River of Hungry Flame]]
 - Influences [[ITEM00631_Ethereal_Plate_of_Protection
@@ -230,8 +222,7 @@ Being extorted by criminals
 - See also: [Credit Rating Management]]
 - Compare with [[Sentient Items Special Purpose Xdmg
 - See also: [Spell Gem Topaz Oota]]
-- Affected by [[SPELL00020_Nature_Spell_21
-- Affected by [Sacred Texts of Transformation (D&D_References)]]
+- Affected by [[Sacred Texts of Transformation (D&D_References)]]
 - Affected by [[ITEM00800_Void-touched_Ring_of_Dominion
 - Related: [Trade Bars Xdmg]]
 - Related: [[List Spells Classes Aberrant Sorcery Xphb
@@ -239,14 +230,12 @@ Being extorted by criminals
 - Requires [[Master of Crystals Prism Multifacet
 - Connects to [ITEM0061_Forgotten_Circlet_of_Power]]
 - Influences
-- Related: [[Underwater Combat Gear
-- Affected by [Template_Species_Placeholder.png_1 (09_Templates)]]
+- Related: [[Template_Species_Placeholder.png_1 (09_Templates)]]
 - Connects to [[Location City Representative Coral Youngcurrent V1 Representative Coral Youngcurrent.svg
 - Affected by [Assets Locations Location City Leviathan Shrines Leviathan Shrines.svg]]
 - See also: [[ITEM01305_Elegant_Lantern_of_Durability
 - Connects to [Gideon Quickste (D&D_References)]]
-- Compare with [[5-shared-campaigns (xanathars-guide-to-everything)
-- Affected by [wizard-xphb-evoker-xphb (classes)]]
+- Compare with [[5-shared-campaigns (xanathars-guide-to-everything)]]
 - Connects to [[The Herald's Hall 2
 - Connects to [Portrait NPC Quest the Throne Succession Quest the Throne Succession.svg]]
 - Leads to [[step_079 (phase_032)
@@ -255,8 +244,7 @@ Being extorted by criminals
 - Related: [step_001 (phase_025)]]
 - Compare with [[step_075 (phase_055)
 - Requires [step_045 (phase_045)]]
-- Affected by [[NPC01683_Erasmus_Xendar_the_Wise
-- Requires [DUN00037_Dungeon_38]]
+- Affected by [[NPC01683_Erasmus_Xendar_the_Wise]]
 - Leads to [[step_054 (phase_082)
 - Leads to [Paladin Xphb Oath of Redemption Xge]]
 - Compare with [[QUEST00493_Side_Quest_494]]

@@ -164,8 +164,7 @@ Forming expedition to dangerous location
 - Affected by [The Egyptian Pantheon Egyptian Deities Phb]]
 - Influences [[Portrait NPC the Resonance Prophet the Resonance Prophet.svg
 - Compare with [boon-of-recovery-xphb (feats)]]
-- Originates from [[Smuggler's Cove
-- Compare with [Captain Dara Ironwill (D&D_References)]]
+- Originates from [[Captain Dara Ironwill (D&D_References)]]
 - Requires
 - Leads to [[Portrait NPC Lord Magistrate Aldrich Thornwick V2 Lord Magistrate Aldrich Thornwick.svg
 - Influences [Portrait NPC Pressure Angel Benthia V2 Pressure Angel Benthia.svg_1 (Portraits)]]
@@ -178,22 +177,18 @@ Forming expedition to dangerous location
 - Originates from [[Portrait NPC Emperor Abyssal the Deep Sighted V2 Emperor Abyssal the Deep Sighted.svg
 - Requires
 - Compare with [International Trade Agreements 2]]
-- See also: [[Finn Brightwater
-- Leads to [Community Elder Mistweave]]
+- See also: [[Community Elder Mistweave]]
 - Requires [[Abyssos Prime
 - Requires [04_Resources_Assets_Locations_location-city-master-finn-liquidlight-v1-master-finn-liquidlight.svg]]
-- Connects to [[LOC00023_Towns_Location_24
-- Leads to [step_012 (phase_054)]]
+- Connects to [[LOC00023_Towns_Location_24]]
 - Affected by [[step_069 (phase_020)
 - See also: [step_041 (phase_061)]]
 - Influences [[step_001 (phase_015)
 - Requires [Quest1 (01_Adventures)]]
 - Requires [[Parliamentary Archives
 - Affected by [gnome-gelf-darkhearth-mtf (deities)]]
-- Affected by [[step_096 (phase_008)
-- Related: [Template_Planet_Placeholder.png_1 (09_Templates)]]
-- Parallels [[Castellan Ironledger
-- Connects to [Quartermaster Judith Steadyhold (D&D_References)]]
+- Affected by [[Template_Planet_Placeholder.png_1 (09_Templates)]]
+- Parallels [[Quartermaster Judith Steadyhold (D&D_References)]]
 - Originates from [[ITEM00199_Blessed_Dagger_of_Accuracy
 - Originates from [LOC00072_Planes_Location_73]]
 - Influences [[step_100 (phase_066)
@@ -211,9 +206,7 @@ Forming expedition to dangerous location
 - Influences [Assets Locations Location City Regional Courts V1 Regional Courts.svg]]
 - Requires [[Captain Dr. Bloodletting
 - Leads to [Clues_Discovered (02_Worldbuilding)]]
-- Parallels [[step_067 (phase_072)
-- Parallels
-- Requires [Memory Tide Pools (D&D_References)]]
+- Parallels [[Memory Tide Pools (D&D_References)]]
 - Compare with [[step_010 (phase_082)
 - Parallels [LORE00212_History_Entry_213]]
 - Affected by [[Glyph of Warding Xphb
@@ -246,17 +239,13 @@ Forming expedition to dangerous location
 - Leads to [ITEM01066_Greater_Incense_of_Swiftness]]
 - Parallels [[Location City Pearl Sharpedge V1 Pearl Sharpedge.svg
 - Leads to [ENC0081_Random_Encounter_82]]
-- Compare with [[Crystal Festival 2
-- Affected by [Shadowhaven Merchant Marine]]
-- Parallels [[Fire Chief Michael Rescue
-- Connects to [Bubble District 2]]
+- Compare with [[Shadowhaven Merchant Marine]]
+- Parallels [[Fire Chief Michael Rescue]]
 - Compare with
 - Influences [[The Umbral Court
 - Connects to [Pier 7]]
-- See also: [[16 Credits
-- Requires [Quantum Compromise Protocols]]
-- Leads to [[Diplomatic Service (D&D_References)
-- Leads to [QUEST00267_Side_Quest_268]]
+- See also: [[Quantum Compromise Protocols]]
+- Leads to [[Diplomatic Service (D&D_References)]]
 - Parallels [[blessing-of-magic-resistance-xdmg (rewards)
 - Related: [ENC00466_Combat_Encounter_467]]
 - Parallels [[step_025 (phase_023)

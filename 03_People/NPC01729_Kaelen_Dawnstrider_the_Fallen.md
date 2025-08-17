@@ -208,29 +208,24 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [NPC01703_Elric_Goldleaf_the_Swift]]
 - Leads to [[ITEM0045_Forgotten_Gauntlet_of_Power
 - Leads to [Portrait NPC Fence Queen Sticky Fingers Sal V1 Fence Queen Sticky Fingers Sal.svg]]
-- Affected by [[prodigy-xge (feats)
-- Originates from [NPC00378_Malakai_Moonshadow_the_Broken]]
-- Affected by [[Private Arbitration
-- Influences [NPC00462_Fiora_Ironforge_the_Seeker]]
+- Affected by [[NPC00378_Malakai_Moonshadow_the_Broken]]
+- Affected by [[NPC00462_Fiora_Ironforge_the_Seeker]]
 - Influences [[Pressure Terminal (D&D_Statblocks)
 - Leads to
 - Originates from [using-a-published-setting-d-d-settings-xdmg (tables)]]
-- Leads to [[SPELL00063_Nature_Spell_64
-- Affected by [The Great Mother Tree (D&D_References)]]
+- Leads to [[The Great Mother Tree (D&D_References)]]
 - Originates from [[ITEM01030_Pure_Elixir_of_Swiftness
 - Compare with [Pack Saddle]]
 - Related: [[step_014 (phase_058)
 - See also: [ITEM00399_Blazing_Sword_of_Wounding]]
-- Originates from [[Skill List Skills Xphb
-- Related: [Government Seal of Authority]]
+- Originates from [[Government Seal of Authority]]
 - Compare with [[List Spells Feats Magic Initiate Xphb
 - Influences [borrowed-knowledge-scc (spells)]]
 - Influences [[Pressure Politics 2
 - Compare with [step_086 (phase_057)]]
 - Requires [[MON0011_Storm_Reaper
 - Connects to [Transformations]]
-- Parallels [[Keeper of Memories Echo Truthseer (D&D_References)
-- Related: [dungeon-decay-states-of-ruin-xdmg (tables)]]
+- Parallels [[Keeper of Memories Echo Truthseer (D&D_References)]]
 - Leads to [[step_003 (phase_075)
 - Leads to [Portrait NPC Quest the Pretender Quest the Pretender.svg]]
 - Leads to [[Port Meridian Medical Institute
@@ -246,8 +241,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [S-004_Cloud_Canyon]]
 - Connects to [[Quick_Rules_Reference
 - Leads to [dagger-xphb (items)]]
-- Compare with [[ENC00263_Combat_Encounter_264
-- Parallels [DUN00027_Dungeon_28]]
+- Compare with [[ENC00263_Combat_Encounter_264]]
 - Affected by [[04_Resources_Assets_Locations_location-city-harbor-master-nereid-deepcurrent-harbor-master-nereid-deepcurrent.svg
 - Requires [step_099 (phase_059)]]
 - Connects to [[portrait-npc-the-senator-the-senator.svg
@@ -255,8 +249,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[NPC01278_Rhiannon_Goldleaf_the_Fallen
 - Influences
 - Parallels [Assets Locations Location City the Trencher Folk the Trencher Folk.svg]]
-- Leads to [[Hobgoblin Dmg
-- Compare with [Reference Homebrew Races]]
+- Leads to [[Reference Homebrew Races]]
 - Parallels [[The Salt Merchants
 - Parallels [Portrait NPC Duke Alexander Tidecrest V2 Duke Alexander Tidecrest.svg_1 (Portraits)]]
 - Influences [[ITEM00380_Blazing_Axe_of_the_Ancients
@@ -268,42 +261,34 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [Assets Locations Location City Abyssos Prime Docks Abyssos Prime Docks.svg]]
 - Connects to [[ITEM0144_Ancient_Crown_of_Shadows
 - Influences [list-spells-feats-druidic-warrior-xphb (lists)]]
-- Requires [[step_045 (phase_092)
-- Influences [NPC01985_Gavril_Grimholt_the_Strong]]
+- Requires [[NPC01985_Gavril_Grimholt_the_Strong]]
 - Originates from [[Symbol Heraldry Factional Conflicts Factional Conflicts.svg_1 (Symbols)
 - Affected by [step_009 (phase_059)]]
-- Originates from [[Royal Physician Doctor Prism-Heart Matthias
-- Originates from [Anti-Corruption Research Institute 2]]
+- Originates from [[Royal Physician Doctor Prism-Heart Matthias]]
 - See also: [[Clockwork Oaken Bolter Mpmm
 - See also: [QUEST00426_Side_Quest_427]]
-- Leads to [[Archdruid Marina Kelpweaver (D&D_References)
-- Leads to
-- Related: [Sunsword Cos]]
+- Leads to [[Archdruid Marina Kelpweaver (D&D_References)]]
 - Related: [[Secondary Tables Weird Stuff Xge
 - Leads to [Assets Symbols Symbol Heraldry Scream Crystals Scream Crystals.svg]]
 - Leads to [[Scene Scene Cloud Citadel Duel V2 Cloud Citadel Duel.svg
 - Influences
 - Originates from [step_005 (phase_056)]]
-- Affected by [[SPELL00104_Arcane_Spell_105
-- Leads to [The Wind Altar]]
+- Affected by [[SPELL00104_Arcane_Spell_105]]
 - Requires [[step_056 (phase_012)
 - Compare with [step_006 (phase_083)]]
 - Compare with [[Lore_1 (02_Worldbuilding)
 - Influences [Ammunition Varies Ammunition Xphb]]
 - Leads to
 - Compare with
-- See also: [[step_078 (phase_024)
-- See also: [NPC01261_Wynne_Keenblade_the_Wanderer]]
+- See also: [[NPC01261_Wynne_Keenblade_the_Wanderer]]
 - Affected by [[Assets Vehicles Vehicle Ship Hybrid Rift Runner Sloop V2 Hybrid Rift Runner Sloop.png
 - Influences [Transformations - Crystal - Crystal Resonance]]
-- Connects to [[Memory Bank Central (D&D_References)
-- Leads to [Royal Vault (D&D_References)]]
+- Connects to [[Memory Bank Central (D&D_References)]]
 - Originates from [[Gloves of Swimming and Climbing Xdmg
 - Requires [rewards]]
 - See also: [[Assets Locations Location City Tidal Stormcrest V1 Tidal Stormcrest.svg
 - Related: [Artificers' Consortium (D&D_References)]]
-- Requires [[step_079 (phase_041)
-- Connects to [ENC00015_Combat_Encounter_16]]
+- Requires [[ENC00015_Combat_Encounter_16]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

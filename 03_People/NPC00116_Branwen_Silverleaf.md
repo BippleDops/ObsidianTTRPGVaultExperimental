@@ -166,10 +166,8 @@ Needs discrete help with family scandal
 - Connects to
 - Requires [[step_016 (phase_039)
 - Parallels [step_005 (phase_010)]]
-- Leads to [[ITEM01044_Distilled_Powder_of_Fortune
-- Affected by [Treasure Hunter Goldseeker (D&D_References)]]
-- See also: [[INDEX (Icewind_Dale_Rime_of_the_Frostmaiden)
-- Parallels [Adaptive Architecture]]
+- Leads to [[Treasure Hunter Goldseeker (D&D_References)]]
+- See also: [[INDEX (Icewind_Dale_Rime_of_the_Frostmaiden)]]
 - Parallels [[Assets Locations Location City Scholarly Theologians Scholarly Theologians.svg
 - Parallels [list-spells-classes-cleric (lists)]]
 - Compare with [[Location City the Resonance Cathedral V1 the Resonance Cathedral.svg
@@ -177,8 +175,7 @@ Needs discrete help with family scandal
 - Influences [[Secret Vault Beneath Throne
 - Influences [NPC0188_Cormac_Brightblade]]
 - Parallels
-- See also: [[ox-xdmg (items)
-- Parallels [Organizations the Unity Coalition]]
+- See also: [[Organizations the Unity Coalition]]
 - Affected by [[LOC00219_Towns_Location_220
 - See also:
 - Leads to [Elena Recordkeeper (D&D_References)]]
@@ -192,34 +189,29 @@ Needs discrete help with family scandal
 - See also:
 - Requires [[ENC00129_Environmental_Encounter_130
 - Related: [Location City the Hidden Cove of Whispers the Hidden Cove of Whispers.svg]]
-- Compare with [[LOC00251_Planes_Location_252
-- See also: [The Constellation Mystery (D&D_References)]]
+- Compare with [[The Constellation Mystery (D&D_References)]]
 - Related: [[Soul Shepherd Brother Marcus the Willing
 - Related: [Portrait NPC Surface Supremacists V1 Surface Supremacists.svg_1 (Portraits)]]
 - Influences
 - Leads to [[The Consortium of Five
 - Compare with [The Void Seekers 2]]
 - Leads to
-- Originates from [[The Silent Watch
-- Parallels [NPC01094_Fiora_Silverleaf_the_Swift]]
+- Originates from [[NPC01094_Fiora_Silverleaf_the_Swift]]
 - Originates from [[halfling-tables-halfling-personality-traits-mtf
 - Leads to [Portrait NPC Lord Marcus Goldweaver V2 Lord Marcus Goldweaver.svg]]
 - Affected by
 - See also: [[Silverscale Consortium (D&D_References)
 - Connects to
 - Parallels [Location City Pearl Harbor City Pearl Harbor City.svg]]
-- Connects to [[NPC01907_Hilda_Oakenshield_the_Lost
-- Related: [LORE00232_Legends_Entry_233]]
+- Connects to [[NPC01907_Hilda_Oakenshield_the_Lost]]
 - Leads to [[Assets Vehicles Vehicle Ship Hybrid Rift Runner Sloop V1 Hybrid Rift Runner Sloop.png
 - Leads to [Character_Journal_Template]]
 - Requires [[Stone of Controlling Earth Elementals Xdmg
 - Affected by [Shadow Society Hierarchy (D&D_References)]]
-- Parallels [[Sergeant Major Deep Veteranstrike (D&D_References)
-- Compare with [Regional Courts 2]]
+- Parallels [[Sergeant Major Deep Veteranstrike (D&D_References)]]
 - Leads to [[Assets Locations Location City the Sunken Palace the Sunken Palace.svg
 - Related: [New_Journey_Event_Template]]
-- Compare with [[ITEM0091_Divine_Orb_of_the_Dawn
-- Compare with [awakened-shrub-xmm]]
+- Compare with [[ITEM0091_Divine_Orb_of_the_Dawn]]
 - Affected by [[random-tricks-tricks (tables)
 - Requires
 - Requires [step_017 (phase_045)]]
@@ -227,11 +219,9 @@ Needs discrete help with family scandal
 - Leads to [QUEST00275_Personal_Quest_276]]
 - Affected by [[SPELL00127_Divine_Spell_128
 - Parallels [Aberrant Spirit Star Spawn Xphb]]
-- Connects to [[High Priestess Marina Oracleguard
-- Leads to [NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- Connects to [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
 - Requires
-- Leads to [[Aerial Transportation Networks
-- Parallels [step_034 (phase_020)]]
+- Leads to [[Aerial Transportation Networks]]
 - Related: [[step_030 (phase_004)
 - See also: [werebear-xmm (monstrosity)]]
 - Requires [[step_049 (phase_089)
@@ -246,15 +236,13 @@ Needs discrete help with family scandal
 - See also: [Item Artifact Boots of Striding and Springing Xdmg V4 Boots of Striding and Springing Xdmg.png]]
 - Requires [[Cellular Corruption Microscope
 - Requires [Location City Interfaith Cooperation Interfaith Cooperation.svg]]
-- Connects to [[ITEM0095_Hidden_Orb_of_the_Dawn
-- Related: [Monster Personality Xdmg]]
+- Connects to [[ITEM0095_Hidden_Orb_of_the_Dawn]]
 - Compare with [[Professional Training 2
 - Leads to [training-complications-xge (tables)]]
-- Parallels [[Probability Garden 2
-- Connects to [LOC00278_Planes_Location_279]]
+- Parallels [[LOC00278_Planes_Location_279]]
 - Influences [[Location City Liberty Coalition V1 Liberty Coalition.svg
 - Requires [LOC00182_Planes_Location_183]]
-- Originates from [[Deepwatch Guard (Lore)]]
+- Originates from [[Deepwatch Guard]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

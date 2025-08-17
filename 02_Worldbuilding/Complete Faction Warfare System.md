@@ -778,34 +778,21 @@ Achieve equilibrium:
 - Someone is protecting a witness for revenge
 - The authorities needs help delivering before the festival ## Related Notes - [Similar Topic 1]]
 
-- [[Contrasting Approach
-- [Advanced Version]]
+- [[Contrasting Approach]]
 - [[Historical Context ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [Aethermoor_Airships]]
 
-- [[Aquabyssos_Submarines
-- [Depth_Events_Pack_A]]
-- [[Depth_Events_Pack_D
-- [Dynamic NPC Personality Matrix]]
-- [[Dynamic_NPC_Personality_Matrix (D&D_References)
-- [Faction_Network_Tracker]]
-- [[Fleet_Dynamics_Generator
-- [Journey_Event_Permutation_Engine]]
-- [[Mass Combat Evolution
-- [Mass_Combat_Evolution (D&D_References)]]
-- [[Merger_Events_Pack_D
-- [Phase Omega Enhanced Index]]
-- [[Phase_Omega_Enhanced_Index (D&D_References)
-- [Sky_Events_Pack_A]]
-- [[Sky_Events_Pack_D
-- [Vehicle_Core_Rules]]
-- [[Vehicle_Customization_Progression
-- [Vehicles - Aethermoor Airships]]
-- [[Vehicles - Aquabyssos Submarines
-- [Vehicles - Fleet Dynamics Generator]]
-- [[Vehicles - Vehicle Core Rules
-- [Vehicles - Vehicle Customization Progression]]
-- [[Vehicles - Vehicles Index
-- [Vehicles_Index]]
+- [[Aquabyssos_Submarines]]
+- [[Dynamic NPC Personality Matrix]]
+- [[Dynamic_NPC_Personality_Matrix (D&D_References)]]
+- [[Journey_Event_Permutation_Engine]]
+- [[Mass_Combat_Evolution (D&D_References)]]
+- [[Phase Omega Enhanced Index]]
+- [[Phase_Omega_Enhanced_Index (D&D_References)]]
+- [[Vehicle_Core_Rules]]
+- [[Vehicle_Customization_Progression]]
+- [[Vehicles - Fleet Dynamics Generator]]
+- [[Vehicles - Vehicle Customization Progression]]
+- [[Vehicles - Vehicles Index]]
 
 ## Notes
 

@@ -25,5 +25,8 @@
   "alt_text": "Concept art of elder-tempest-mpmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-elder-tempest-mpmm-v3-elder-tempest-mpmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-elder-tempest-mpmm-v3-elder-tempest-mpmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:01:28.817Z",
+  "generationMethod": "ComfyUI"
 }

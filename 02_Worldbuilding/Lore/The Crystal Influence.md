@@ -105,65 +105,11 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[Peoples
-
-### The Golden Era (500 years ago)
-- Economic prosperity
-- Cultural renaissance
-- Expansion of territory
-
-### The Time of Troubles (100 years ago)
-- Civil war
-- Natural disasters
-- Current power structures established
-
-## Economic Structure
-
-### Currency
-- Copper Drops (cp)
-- Silver Streams (sp)
-- Gold Suns (gp)
-- Platinum Crowns (pp)
-
-### Major Exports
-- Refined crystals
-- Exotic textiles
-- Trained beasts
-
-### Wealth Distribution
-- 1% control 60% of wealth
-- 20% middle class
-- 79% working poor
-
-## A Day in the Life
-
-### Nobility
-- 8am: Private tutoring
-- 10am: Court attendance
-- 2pm: Social visits
-- 6pm: Formal dinner
-- 9pm: Entertainment
-
-### Commoner
-- 5am: Morning prayers
-- 6am: Begin labor
-- Noon: Simple meal
-- 6pm: Return home
-- 8pm: Sleep
-
-## References
-
-- [Biomancer Corvus Intestinal]]
-- [[Campaign Epilogues
-- [Eastern Kingdom]]
-- [[Hidden Sanctuary
-- [Biomancer Corvus Intestinal (D&D_References)]]
-- [[Campaign Epilogues (D&D_References)
-- [Eastern Kingdom (D&D_References)]]
-- [[Hidden Sanctuary (D&D_References)
-- [Magic Items]]
-- [[Rewriting the Ritual
-- [Save Both Civilizations]]
-- [[Shattered Isles
-- [Temporal Navigation Hazards]]
+- War with indigenous [[People]]
+- [[Campaign Epilogues]]
+- [[Biomancer Corvus Intestinal (D&D_References)]]
+- [[Campaign Epilogues (D&D_References)]]
+- [[Hidden Sanctuary (D&D_References)]]
+- [[Save Both Civilizations]]
+- [[Temporal Navigation Hazards]]
 - [[The Possessed Queen]]

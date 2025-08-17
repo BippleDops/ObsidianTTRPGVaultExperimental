@@ -51,5 +51,4 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[The Light Preservation Society
-- [The Light Preservation Society (D&D_References)]]
+- [[The Light Preservation Society (D&D_References)]]

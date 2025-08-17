@@ -163,8 +163,7 @@ Caravan needs guards
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -178,10 +177,8 @@ Caravan needs guards
 
 ## Connections
 
-- Compare with [[Eberron the Devourer
-- Requires [ENC00427_Combat_Encounter_428]]
-- Compare with [[Registry Keeper Mordecai Truthbane (D&D_References)
-- Leads to [step_091 (phase_013)]]
+- Compare with [[ENC00427_Combat_Encounter_428]]
+- Compare with [[Registry Keeper Mordecai Truthbane (D&D_References)]]
 - Connects to [[step_001 (phase_017)
 - Connects to [Item_Catalog_Complete.md]]
 - Related: [[Corruption Trackers
@@ -190,8 +187,7 @@ Caravan needs guards
 - Connects to [Bioluminescence 2]]
 - See also: [[Translator Marina Polyglot (D&D_References)
 - Originates from [Location City Inter Realm Diplomacy V1 Inter Realm Diplomacy.svg]]
-- Affected by [[QUEST0067_In_Search_of_Vengeance
-- Originates from [The Architects of Depths (D&D_References)]]
+- Affected by [[The Architects of Depths (D&D_References)]]
 - Requires [[vine-blight-xmm (plant)
 - Compare with
 - Related: [ENC00252_Social_Encounter_253]]
@@ -199,10 +195,8 @@ Caravan needs guards
 - Leads to [step_061 (phase_034)]]
 - Originates from [[Aquabyssos World Overview#Hidden Truths
 - See also: [step_050 (phase_005)]]
-- Parallels [[Marcus Shardbreaker Grimm (D&D_References)
-- Affected by [step_089 (phase_085)]]
-- See also: [[FAC00058_Cults_59
-- Originates from [ENC00192_Environmental_Encounter_193]]
+- Parallels [[Marcus Shardbreaker Grimm (D&D_References)]]
+- See also: [[ENC00192_Environmental_Encounter_193]]
 - Related: [[step_086 (phase_005)
 - Related: [Gold Comb Shaped Like a Dragon with Red Garnets As Eyes Xdmg]]
 - Leads to [[Ambassador Kael Windweaver
@@ -211,10 +205,8 @@ Caravan needs guards
 - Connects to [LORE00307_Prophecies_Entry_308]]
 - Compare with [[LORE00026_History_Entry_27
 - Affected by [chasme-xmm (fiend)]]
-- Influences [[Department of Public Health
-- Requires [step_085 (phase_061)]]
-- Compare with [[step_017 (phase_086)
-- Affected by [Legal Counsel Derek Lawkeeper (D&D_References)]]
+- Influences [[Department of Public Health]]
+- Compare with [[Legal Counsel Derek Lawkeeper (D&D_References)]]
 - Affected by
 - Parallels [[The Sky Academy
 - Connects to [War Machine Engineers 2]]
@@ -247,16 +239,13 @@ Caravan needs guards
 - Related: [Assets Locations Location City Deep Oracle Bathys Deep Oracle Bathys.png]]
 - Originates from [[step_086 (phase_073)
 - Originates from [Location City Seeds of the Past V1 Seeds of the Past.svg]]
-- Originates from [[ITEM01467_Sturdy_Tool_Kit_of_Durability
-- Requires [Elder Whisper-In-The-Dark (D&D_Statblocks)]]
+- Originates from [[Elder Whisper-In-The-Dark (D&D_Statblocks)]]
 - See also: [[Location City the Pearl Markets V1 the Pearl Markets.svg
 - Leads to [step_082 (phase_013)]]
 - Parallels [[QUEST00304_Side_Quest_305
 - Influences [step_015 (phase_053)]]
-- Influences [[fey-spirit-fuming-xphb (fey)
-- Leads to [Pilgrimage Coordinators (D&D_References)]]
-- Parallels [[Wild Magic Zone Xdmg
-- Influences [LOC00038_Dungeons_Location_39]]
+- Influences [[Pilgrimage Coordinators (D&D_References)]]
+- Parallels [[LOC00038_Dungeons_Location_39]]
 - Compare with [[Quest Syndicate Shadows.png
 - Influences
 - Influences

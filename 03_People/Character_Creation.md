@@ -98,8 +98,7 @@ modified: '2025-08-14'
 
 ## Related Content
 - [FINAL_1000_IMPROVEMENTS_SUMMARY]]
-- [[frontmatter_fix_20250814_175706
-- [LEAN_IMPROVEMENT_GLIDE_PATH]]
+- [[LEAN_IMPROVEMENT_GLIDE_PATH]]
 
 ## Game Mechanics
 - **Ability Checks**: See PHB p.174
@@ -121,32 +120,25 @@ modified: '2025-08-14'
 - Related: [Modern_Era_Timeline]]
 - Requires [[step_070 (phase_036)
 - Leads to [Location City the Null Cathedral V1 the Null Cathedral.svg]]
-- Influences [[Rat Xmm
-- Related: [Character Relationship Web - Core NPCs]]
-- Compare with [[Sacred Texts of Transformatio (D&D_References)
-- Related: [The Tidal Shard of Memory 2]]
+- Influences [[Character Relationship Web - Core NPCs]]
+- Compare with [[Sacred Texts of Transformatio (D&D_References)]]
 - See also: [[oil-of-etherealness-xdmg (items)
 - Originates from [distant-spell-xphb (optional-features)]]
-- Parallels [[Biological Enhancement Laboratory
-- See also: [Tidal Harmony 2]]
+- Parallels [[Biological Enhancement Laboratory]]
 - Parallels [[Assets Locations Location City Stormwind Supplies Stormwind Supplies.png
 - Requires [Items - Items]]
 - Requires [[The Dreaming Trench (D&D_References)
 - Requires [Assets Locations Location City Clerk Supreme Marcus Filekeeper V1 Clerk Supreme Marcus Filekeeper.svg]]
 - Leads to [[Living Economy System
 - Parallels [step_035 (phase_085)]]
-- Connects to [[Democratic Technology Development
-- Related: [Resistance Safe Houses]]
+- Connects to [[Democratic Technology Development]]
 - Related: [[step_037 (phase_020)
 - Influences [Portrait NPC Quest the Missing Guards V1 Quest the Missing Guards.svg]]
-- Requires [[NPC01839_Branwen_Frostwhisper_the_Cunning
-- Related: [step_084 (phase_031)]]
+- Requires [[NPC01839_Branwen_Frostwhisper_the_Cunning]]
 - Leads to [[storm-giant-quintessent-mpmm (giant)
 - Leads to [Elemental Gem Xdmg]]
-- Originates from [[Quest - Shadow Medicine 2
-- See also: [Unity Hopecurrent (D&D_References)]]
-- Affected by [[Merrenoloth Mtf
-- Compare with [NPC01591_Ysara_Jadeclaw_the_Lost]]
+- Originates from [[Unity Hopecurrent (D&D_References)]]
+- Affected by [[NPC01591_Ysara_Jadeclaw_the_Lost]]
 - Related: [[LOC00023_Wilderness_Location_24
 - See also: [EVENT00099_Natural_Event_100]]
 - Compare with [[Cellular Corruption Microscope
@@ -156,17 +148,14 @@ modified: '2025-08-14'
 - Connects to [Potion of Psychic Resistance Xdmg]]
 - Leads to [[List Spells Races Tiefling Levistus Mtf
 - Connects to [mummy-lord-xmm (legendary-group)]]
-- Compare with [[Senior Temporal Engineer Chronos Fieldwright
-- Compare with [Greataxe Xphb]]
+- Compare with [[Senior Temporal Engineer Chronos Fieldwright]]
 - See also:
 - Related:
 - Parallels [[step_064 (phase_091)
 - Originates from
 - Affected by [Portrait NPC Lord Aldric Thornwhisper Lord Aldric Thornwhisper.svg]]
-- Leads to [[ENC00157_Combat_Encounter_158
-- Requires [Cargo Master Holdspace (D&D_References)]]
-- Leads to [[collaborative_worldbuilding_methodology
-- Originates from [step_017 (phase_099)]]
+- Leads to [[Cargo Master Holdspace (D&D_References)]]
+- Leads to [[collaborative_worldbuilding_methodology]]
 - Affected by [[SPELL00144_Arcane_Spell_145
 - Parallels [Assets Locations Location City Pressure Guard Steelwall Pressure Guard Steelwall.svg]]
 - Affected by [[Enlarge Reduce Xphb
@@ -174,8 +163,7 @@ modified: '2025-08-14'
 - Influences
 - See also: [[step_036 (phase_010)
 - Connects to [The Azure Ports]]
-- See also: [[NPC01679_Solas_Hawthorne_the_Bold
-- Connects to [Court Mage Apprentices]]
+- See also: [[NPC01679_Solas_Hawthorne_the_Bold]]
 - Requires [[cranium-rat-mpmm (aberration)
 - Compare with [Tests Cosmic Horror Trials]]
 - Parallels [[Item Artifact Weird Tank Pota V1 Weird Tank Pota.png
@@ -190,8 +178,7 @@ modified: '2025-08-14'
 - Requires [solar-xmm (celestial)]]
 - Influences [[Location City Thalassa Lightbringer V1 Thalassa Lightbringer.png
 - Affected by [Warship Xphb]]
-- Connects to [[NPC00493_Lyanna_Proudmore_the_Wanderer
-- Compare with [Demogorgon Mtf]]
+- Connects to [[NPC00493_Lyanna_Proudmore_the_Wanderer]]
 - Leads to [[Translator Polyglot
 - Originates from [ITEM00414_Mithril_Chain_Mail_of_Fortitude]]
 - Originates from [[step_083 (phase_097)
@@ -202,12 +189,10 @@ modified: '2025-08-14'
 - Leads to [Quest The Pressure Cure]]
 - Requires [[04_Resources_Assets_Locations_location-city-guildmaster-harwick-v1-guildmaster-harwick.png
 - Originates from [step_047 (phase_082)]]
-- Compare with [[Consciousness Manipulation Technology
-- Compare with [The Resonance Workshop 2]]
+- Compare with [[Consciousness Manipulation Technology]]
 - Connects to [[step_032 (phase_018)
 - Requires [Dimensional_Travel]]
-- Connects to [[NPC01456_Wynne_Stormwind_the_Wise
-- Parallels [Pressure Angels 2]]
+- Connects to [[NPC01456_Wynne_Stormwind_the_Wise]]
 - Connects to [[The Free Cities 2
 - Leads to [step_056 (phase_019)]]
 - Originates from [[Animated Object Medium or Smaller Xphb

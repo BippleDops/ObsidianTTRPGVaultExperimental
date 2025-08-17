@@ -163,8 +163,7 @@ Being extorted by criminals
 
 ## Connections
 
-- See also: [[Communications Officer Tidecall (D&D_References)
-- Originates from [Trade_Route_Map (02_Worldbuilding)]]
+- See also: [[Communications Officer Tidecall (D&D_References)]]
 - Originates from [[Quaals Feather Token Swan Boat Xdmg
 - Parallels [ENC00014_Combat_Encounter_15]]
 - Requires [[Portrait NPC Investigate the Crystal Plague V2 Investigate the Crystal Plague.svg
@@ -179,12 +178,10 @@ Being extorted by criminals
 - Affected by [step_049 (phase_012)]]
 - See also: [[step_093 (phase_046)
 - Requires [step_026 (phase_030)]]
-- Leads to [[LOC00212_Towns_Location_213
-- Leads to [step_004 (phase_015)]]
+- Leads to [[LOC00212_Towns_Location_213]]
 - Parallels [[Portrait NPC Shadow Guard Units Shadow Guard Units.svg
 - Compare with [The Liminal Trading Company (D&D_References)]]
-- Influences [[Extinction or Depletion
-- Compare with [The Kraken's Harbor (D&D_References)]]
+- Influences [[The Kraken's Harbor (D&D_References)]]
 - Related: [[LORE00142_Legends_Entry_143
 - Requires
 - Originates from [1-DM_Toolkit_DM_Board]]
@@ -198,29 +195,23 @@ Being extorted by criminals
 - Requires [avatar-of-death-dmg (undead)]]
 - Compare with [[wizard-xphb-school-of-transmutation (classes)
 - Related: [step_060 (phase_087)]]
-- Related: [[step_095 (phase_080)
-- Related: [Emergency Coordinator Storm Quickfix]]
+- Related: [[Emergency Coordinator Storm Quickfix]]
 - Connects to [[SHOP00001_Specialty_Shop_2
 - Originates from [step_008 (phase_090)]]
 - See also:
-- Compare with [[Transformation Medicine Techniques
-- Connects to [Abyssal Covenant]]
+- Compare with [[Transformation Medicine Techniques]]
 - Leads to [[step_004 (phase_098)
 - Parallels [Power Word Stun Xphb]]
 - Affected by
 - Requires [[frostbite-xge (spells)
 - Originates from [step_096 (phase_041)]]
-- Related: [[Shadow Energy Addiction 2
-- Parallels [Pressure Networks]]
-- Connects to [[step_032 (phase_018)
-- Leads to
-- Influences [Quest - The Diplomatic Immunity Case]]
+- Related: [[Shadow Energy Addiction 2]]
+- Connects to [[Quest - The Diplomatic Immunity Case]]
 - Connects to [[step_022 (phase_028)
 - Requires [Groff Scc]]
 - Affected by [[galeb-duhr-xmm (elemental)
 - Parallels [LOC00194_Towns_Location_195]]
-- Originates from [[Trade Bars Xdmg
-- Connects to [Tactical Combat Options 2]]
+- Originates from [[Tactical Combat Options 2]]
 - Compare with [[Governments Local Authorities
 - Connects to [Portrait NPC Lord Commander Gareth Steelborn V1 Lord Commander Gareth Steelborn.svg]]
 - Leads to
@@ -228,41 +219,32 @@ Being extorted by criminals
 - See also: [Professor Marina Reefbuilder (D&D_References)]]
 - Influences [[step_034 (phase_099)
 - Originates from [step_020 (phase_097)]]
-- Compare with [[QUEST00022_Personal_Quest_23
-- Originates from [Wizard Xphb]]
+- Compare with [[QUEST00022_Personal_Quest_23]]
 - Leads to [[Quantum Compromise Protocols 2
 - Originates from [Location City Historical Prophetic Analysis V1 Historical Prophetic Analysis.svg]]
-- Leads to [[Crown Fragment
-- Leads to [Abyssal Contracts (D&D_References)]]
+- Leads to [[Abyssal Contracts (D&D_References)]]
 - Leads to [[location-city-stormwatch-keep-stormwatch-keep.svg
 - See also: [Swarm of Insects Xmm]]
-- Parallels [[NPC0132_Magnus_Darkwater_the_Young
-- Originates from [Battle_Map_Descriptions 2 (D&D_References)]]
-- See also: [[Timeline of the Catastrophe
-- Related: [robe-xphb (items)]]
-- See also: [[DUN00117_Dungeon_118
-- Parallels [Sage Nereon (D&D_References)]]
+- Parallels [[Battle_Map_Descriptions 2 (D&D_References)]]
+- See also: [[Timeline of the Catastrophe]]
+- See also: [[Sage Nereon (D&D_References)]]
 - Requires [[04_Resources_Assets_Locations_location-city-beast-master-krell-chainbreaker-v1-beast-master-krell-chainbreaker.svg
 - Requires [Name Etymology Guide]]
 - Influences [[step_028 (phase_090)
 - Connects to [eldritch-mind-xphb (optional-features)]]
 - Influences [[QUEST00148_Main_Quest_149
 - Compare with [Githzerai Psion Xmm]]
-- Influences [[The Free Traders Alliance
-- Requires [step_008 (phase_012)]]
+- Influences [[The Free Traders Alliance]]
 - See also: [[crystal-ball-of-telepathy-xdmg (items)
 - Parallels [SHOP00020_General_Shop_21]]
-- Compare with [[step_100 (phase_089)
-- Requires [LOC00195_Towns_Location_196]]
+- Compare with [[LOC00195_Towns_Location_196]]
 - Connects to [[step_072 (phase_029)
 - Leads to [vegepygmy-mpmm (plant)]]
-- Influences [[Merchant Quarter Districts (D&D_References)
-- Influences [Sister Morwyn Veilkeeper_1]]
-- Parallels [[step_066 (phase_034)
-- Requires [University Philosophy Departments]]
+- Influences [[Merchant Quarter Districts (D&D_References)]]
+- Parallels [[University Philosophy Departments]]
 - Influences [[Creating a Gnoll War Band Gnoll War Band Composition Vgm
 - Requires [D-005 Shadow Bloom Player (Encounters)]]
-- Originates from [[step_074 (phase_055)]]
+- Originates from
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

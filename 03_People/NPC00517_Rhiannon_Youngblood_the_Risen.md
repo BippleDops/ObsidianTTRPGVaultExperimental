@@ -169,20 +169,13 @@ Being extorted by criminals
 - Related: [step_006 (phase_059)]]
 - Leads to [[Signal Whistle Xphb
 - Originates from [step_079 (phase_048)]]
-- Originates from [[Dual Wielder Xphb
-- Leads to [Sage Moonwhisper (D&D_References)]]
-- Compare with [[step_018 (phase_031)
-- Compare with [Temple Coalition (D&D_References)]]
-- Compare with [[The Stellar Confluence 2
-- Influences [LOC00258_Dungeons_Location_259]]
-- Affected by [[Mobile_Dashboard
-- Compare with [NPC00784_Urien_Frostwhisper_the_Mystic]]
-- Requires [[step_095 (phase_011)
-- Affected by [Security Officer Guard Stormwind (D&D_References)]]
-- Related: [[step_063 (phase_075)
-- Requires [LOC00059_Dungeons_Location_60]]
-- Originates from [[The Scales of Fortune (D&D_References)
-- Requires [Trade Bars Xdmg]]
+- Originates from [[Sage Moonwhisper (D&D_References)]]
+- Compare with [[Temple Coalition (D&D_References)]]
+- Compare with [[LOC00258_Dungeons_Location_259]]
+- Affected by [[NPC00784_Urien_Frostwhisper_the_Mystic]]
+- Requires [[Security Officer Guard Stormwind (D&D_References)]]
+- Related: [[LOC00059_Dungeons_Location_60]]
+- Originates from [[The Scales of Fortune (D&D_References)]]
 - Originates from [[step_004 (phase_029)
 - Compare with [step_040 (phase_058)]]
 - Affected by [[Assets Locations Location City Primary Schools V1 Primary Schools.svg
@@ -200,23 +193,19 @@ Being extorted by criminals
 - Leads to [#review-integration-progress]]
 - Parallels [[NPC00423_Xander_Jadeclaw_the_Broken
 - Leads to [Symbol Heraldry Ambassador Marina Tidecaller V1 Ambassador Marina Tidecaller.svg]]
-- Related: [[Phantom Harbor Charter 2
-- See also: [Treasure_Generators (D&D_References)]]
+- Related: [[Treasure_Generators (D&D_References)]]
 - Compare with [[Emergency Life Support Research Foundation 2
 - Influences [Quest - The Prophecy Fulfilled_1 (01_Adventures)]]
 - Originates from
-- Parallels [[Master_Lore_Index
-- See also: [README]]
+- Parallels [[Master_Lore_Index]]
 - Originates from [[Silvered Ammunition
 - Originates from [Location City Transformation Specialist Anemone Flowshift Transformation Specialist Anemone Flowshift.svg]]
 - Parallels [[MON00081_Undead_Creature_82
 - Requires [LOC00283_Dungeons_Location_284]]
-- Parallels [[cheese-wedge-xphb (items)
-- Leads to [Portrait NPC Prie... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Parallels [[Portrait NPC Prie... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Affected by [[step_049 (phase_096)
 - Related: [LORE00138_Prophecies_Entry_139]]
-- Compare with [[ENC00030_Social_Encounter_31
-- Compare with [step_060 (phase_027)]]
+- Compare with [[ENC00030_Social_Encounter_31]]
 - Leads to [[Assets Locations Location City the Noble Quarter Market the Noble Quarter Market.svg
 - Parallels
 - Connects to [Mounts and Vehicles Mounts and Other Animals]]
@@ -228,10 +217,8 @@ Being extorted by criminals
 - Originates from [Planar Defense League]]
 - Influences [[Flail Snail Mpmm
 - Related: [Location City Temporal Harvest Temporal Harvest.svg]]
-- Originates from [[step_044 (phase_088)
-- Requires [NPC00135_Rhiannon_Goldleaf]]
-- Connects to [[step_054 (phase_032)
-- Leads to [Unite the Emperor (D&D_References)]]
+- Originates from [[NPC00135_Rhiannon_Goldleaf]]
+- Connects to [[Unite the Emperor (D&D_References)]]
 - Compare with [[The Deep Dreamers
 - Related: [The Shadowmere_1]]
 - Connects to [[Chrysoberyl Xdmg
@@ -245,8 +232,7 @@ Being extorted by criminals
 - Requires [NPC0020_Ulric_Stormwind]]
 - Compare with [[mighty-fortress-xge (spells)
 - Parallels [sword-of-answering-squelcher (items)]]
-- Affected by [[Campaign Index (D&D_References)
-- Affected by [step_055 (phase_031)]]
+- Affected by [[Campaign Index (D&D_References)]]
 - Parallels [[step_080 (phase_077)
 - Leads to [Engineer Shadowbuil]]
 - Affected by [[step_074 (phase_072)
@@ -255,8 +241,7 @@ Being extorted by criminals
 - Leads to [NPC01438_Hilda_Youngblood_the_Fallen]]
 - Influences [[step_071 (phase_041)
 - Requires [Pressure Cult]]
-- Leads to [[Whisper Archives 2
-- Parallels [SPELL00064_Divine_Spell_65]]
+- Leads to [[SPELL00064_Divine_Spell_65]]
 - Influences [[Location City the Singing Trenches V1 the Singing Trenches.svg
 - Connects to [step_049 (phase_072)]]
 - Related:

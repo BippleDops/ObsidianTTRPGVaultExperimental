@@ -169,8 +169,7 @@ Being extorted by criminals
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -187,8 +186,7 @@ Being extorted by criminals
 
 - Affected by [[ENC00121_Combat_Encounter_122
 - Originates from [Portrait NPC Deep Mother Priestess Sira Deep Mother Priestess Sira.svg]]
-- Related: [[NPC01771_Malakai_Ironwood_the_Redeemed
-- See also: [NPC01258_Gareth_Moonshadow_the_Risen]]
+- Related: [[NPC01771_Malakai_Ironwood_the_Redeemed]]
 - Requires [[ENC00166_Environmental_Encounter_167
 - Compare with
 - Leads to [step_038 (phase_084)]]
@@ -198,15 +196,12 @@ Being extorted by criminals
 - Influences [Lost Archives 2]]
 - Connects to [[Location City Temple Coalition V1 Temple Coalition.svg
 - See also: [Ancient Skyforge]]
-- Leads to [[Gravity Anomaly Mechanics (D&D_References)
-- Leads to [step_078 (phase_078)]]
+- Leads to [[Gravity Anomaly Mechanics (D&D_References)]]
 - Related:
 - Connects to [[Paramedic Supervisor Fastaid
 - Originates from [Layers of the Abyss Xdmg]]
-- Originates from [[step_100 (phase_028)
-- Originates from [LOC00257_Wilderness_Location_258]]
-- Originates from [[The Singer Beyond
-- Related: [The Resoce Forge Hammer]]
+- Originates from [[LOC00257_Wilderness_Location_258]]
+- Originates from [[The Resoce Forge Hammer]]
 - Related: [[step_047 (phase_036)
 - See also: [Control Flames Xge]]
 - Connects to [[The Tidepool Markets (D&D_References)
@@ -215,16 +210,14 @@ Being extorted by criminals
 - Requires [step_049 (phase_042)]]
 - Requires [[Familiars Mm
 - Requires [Druid Xphb Circle of the Shepherd Xge]]
-- Parallels [[INV-006.png (Art)
-- Leads to [Neutral Zone (D&D_References)]]
+- Parallels [[Neutral Zone (D&D_References)]]
 - Related: [[ITEM00754_Divine_Orb_of_Eternity
 - Originates from [Vehicle Ship Coral Frame Diver Tender Coral Frame Diver Tender.svg]]
 - Requires [[Long Jump Xphb
 - Connects to [Human Xphb]]
 - Compare with [[Assets Locations Location City Plague Crisis V1 Plague Crisis.png
 - Related: [step_076 (phase_096)]]
-- Affected by [[Royal Government (D&D_References)
-- Influences [Colonial Administration 2]]
+- Affected by [[Royal Government (D&D_References)]]
 - See also: [[Location City Commander Reef Shadowstrike V1 Commander Reef Shadowstrike.svg
 - Originates from
 - Originates from [step_026 (phase_016)]]
@@ -234,15 +227,13 @@ Being extorted by criminals
 - Requires [FAC00070_Cults_71]]
 - Connects to [[Nightmare Xmm
 - Influences [human-names-celtic-female-xge (tables)]]
-- Related: [[Chaplain Abyssos the Deepseeke 2
-- Compare with [Factions the Tide Singers]]
+- Related: [[Chaplain Abyssos the Deepseeke 2]]
 - Connects to
 - Originates from [[Tavern_Menu
 - Requires [step_060 (phase_094)]]
 - Originates from [[step_068 (phase_089)
 - Leads to [guardian-naga-xmm (celestial)]]
-- Influences [[Brass Dragon
-- See also: [Mechanics Standardization Report (D&D_References)]]
+- Influences [[Mechanics Standardization Report (D&D_References)]]
 - Affected by [[QUEST00143_Side_Quest_144
 - Parallels [Shape the Flowing River]]
 - Related: [[step_083 (phase_004)
@@ -251,8 +242,7 @@ Being extorted by criminals
 - Originates from [Quest - The Betrayers' Truth]]
 - Requires [[Location City Antiquarian Eliza Tidecaller Antiquarian Eliza Tidecaller.svg
 - Influences [step_007 (phase_096)]]
-- Leads to [[The Healing Waters Chalice (D&D_References)
-- Parallels [stage-2-xdmg (tables)]]
+- Leads to [[The Healing Waters Chalice (D&D_References)]]
 - Related: [[Shadow Cultis (Cults_and_Movements)
 - Compare with [In-World_Handouts_Gallery]]
 - Related: [[layers-of-mount-celestia-xdmg (tables)
@@ -276,12 +266,9 @@ Being extorted by criminals
 - Affected by [Quill Precisequote]]
 - Leads to [[Symbol Heraldry Chaplain Abyssos the Deepseeke V1 Chaplain Abyssos the Deepseeke.svg
 - Leads to [step_018 (phase_017)]]
-- Affected by [[LOC00180_Dungeons_Location_181
-- Related: [SPELL00031_Nature_Spell_32]]
-- Requires [[step_039 (phase_047)
-- Originates from [Deep Expeditions (D&D_References)]]
-- See also: [[LOC00296_Towns_Location_297
-- Requires [step_041 (phase_059)]]
+- Affected by [[LOC00180_Dungeons_Location_181]]
+- Requires [[Deep Expeditions (D&D_References)]]
+- See also: [[LOC00296_Towns_Location_297]]
 - Affected by [[Portrait NPC Lady Catherine Mourning V2 Lady Catherine Mourning.svg
 - Related: [Religious Leader Father Ocean Breeze 2]]
 - Originates from [[Quality Inspector Reef Perfectwright]]

@@ -173,8 +173,7 @@ Caravan needs guards
 - Related: [The Memory Crown]]
 - See also: [[04_Resources_Assets_Symbols_symbol-heraldry-regulatory-medical-authorit-regulatory-medical-authorit.svg
 - Compare with [step_012 (phase_087)]]
-- Parallels [[Player_Portal.md
-- Leads to [ENC0077_Random_Encounter_78]]
+- Parallels [[ENC0077_Random_Encounter_78]]
 - Connects to
 - Affected by
 - Parallels [[starting-equipment-at-higher-levels-xphb (tables)
@@ -187,8 +186,7 @@ Caravan needs guards
 - Related:
 - Leads to [Assets Vehicles Vehicle Ship Harbor Guardian Gunboat V2 Harbor Guardian Gunboat.svg]]
 - Originates from
-- Connects to [[LOC00135_Wilderness_Location_136
-- Compare with [step_076 (phase_067)]]
+- Connects to [[LOC00135_Wilderness_Location_136]]
 - Affected by [[Assets Locations Location City Stormwind Supplies Stormwind Supplies.png
 - Connects to [Book of Ancient Secrets]]
 - Related: [[Bomber Bobby Naturals
@@ -197,10 +195,8 @@ Caravan needs guards
 - Connects to [step_038 (phase_040)]]
 - Parallels [[ITEM01001_Lesser_Powder_of_Clarity
 - Originates from [The Weeping Widows]]
-- See also: [[QUEST00129_Personal_Quest_130
-- Leads to [step_084 (phase_059)]]
-- Requires [[Surface-Underwater Trade (D&D_References)
-- Requires [ITEM00349_Blessed_Staff_of_Wounding]]
+- See also: [[QUEST00129_Personal_Quest_130]]
+- Requires [[Surface-Underwater Trade (D&D_References)]]
 - Parallels [[LORE00164_Prophecies_Entry_165
 - See also: [The Void Seekers 2]]
 - Parallels [[The Temporal Observatory 2
@@ -210,13 +206,10 @@ Caravan needs guards
 - Parallels [[Location Name (Lore)
 - Connects to
 - Compare with [Copper Dragon]]
-- Leads to [[Exhaustio
-- Related: [Free Captains Alliance]]
-- Parallels [[Master Conductor Nereus Voidcaller
-- Originates from [Educational Institutions]]
+- Leads to [[Free Captains Alliance]]
+- Parallels [[Master Conductor Nereus Voidcaller]]
 - Influences
-- Requires [[Memory Manipulation Mechanics
-- Parallels [skills#Sleight of Hand]]
+- Requires [[Memory Manipulation Mechanics]]
 - Related: [[Elder Dee (D&D_References)
 - Related: [The False History Crisis 2]]
 - See also:
@@ -227,30 +220,24 @@ Caravan needs guards
 - Requires
 - Originates from [[step_016 (phase_076)
 - Compare with [step_046 (phase_055)]]
-- Influences [[NPC00052_Thalia_Dawnstrider
-- Leads to [The Final Forgetting 2]]
+- Influences [[NPC00052_Thalia_Dawnstrider]]
 - Originates from [[SPELL00058_Arcane_Spell_59
 - Requires [Character_Creation_Extended.md_Quick_Ref]]
 - Affected by [[FAC00061_Orders_62
 - Influences [Signal_Keepers]]
 - Influences [[Bexley (D&D_References)
 - Connects to [REORGANIZATION_COMPLETE]]
-- Leads to [[Parliament of Echoes - Public Gallery (D&D_References)
-- Compare with [velociraptor-mpmm (beast)]]
+- Leads to [[Parliament of Echoes - Public Gallery (D&D_References)]]
 - Affected by [[ITEM00006_Radiant_Axe_of_Speed
 - Compare with [step_078 (phase_079)]]
-- Connects to [[Portable Scrying Mirrors
-- Connects to [Hyena Xmm]]
-- Originates from [[Resonance_Body
-- Affected by [Deep Fortress Network (D&D_References)]]
+- Connects to [[Portable Scrying Mirrors]]
+- Originates from [[Deep Fortress Network (D&D_References)]]
 - Connects to [[Demon Customization Tables Unusual Demon Features Mtf
 - Originates from [Echo-Who-Was-Elena (D&D_References)]]
 - Related: [[QUEST00103_Side_Quest_104
 - Leads to [Royal Bloodline Powers]]
-- Influences [[Marina
-- Compare with [LOC00018_Planes_Location_19]]
-- Connects to [[Diamond Dust Dealer
-- Parallels [Deep Current Flowmaster 2]]
+- Influences [[LOC00018_Planes_Location_19]]
+- Connects to [[Deep Current Flowmaster 2]]
 - Affected by [[The Professional Training Academy
 - Originates from [ENC00332_Combat_Encounter_333]]
 - Affected by [[Portrait NPC Shadow Broker Mist Shadow Broker Mist.svg
@@ -263,12 +250,10 @@ Caravan needs guards
 - Influences [Portrait NPC Aboleth Prime Yoth V2 Aboleth Prime Yoth.svg_1 (Portraits)]]
 - Originates from [[Portrait NPC King Marcus Lumengarde King Marcus Lumengarde.svg
 - Influences [berserker-axe-xdmg (items)]]
-- Originates from [[spell-gem-quartz-oota (items)
-- Leads to [NPC01206_Aldric_Blackstone_the_Bold]]
+- Originates from [[NPC01206_Aldric_Blackstone_the_Bold]]
 - Influences [[Map_Whisper_Island_Docks_Sketc
 - Affected by [Assets Locations Location City Pressure Guard Steelwall V1 Pressure Guard Steelwall.svg]]
-- See also: [[war-room (bastions)
-- Related: [SPELL00103_Divine_Spell_104]]
+- See also: [[SPELL00103_Divine_Spell_104]]
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png

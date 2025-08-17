@@ -59,10 +59,8 @@ specialization: Advanced Magical Items
 political_influence: High
 economic_impact: Major
 connections:
-- '[[Eastern Kingdoms 2'
-- '[Crystal Forest]]'
-- '[[Magic Items'
-- '[Resoce Chamber]]'
+- '[[Eastern Kingdoms 2]]'
+- '[[Resoce Chamber]]'
 - '[[Maestra Luminara Crystalweave]]'
 
 themes:
@@ -242,9 +240,7 @@ Guild innovations can serve as plot devices that create new capabilities, introd
 
 - A corpse reveals the truth about a local noble
 - A document has gone missing and war looms
-- Someone is blackmailing information for love ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Campaign_Relationship_Matrix
-
-- [The Royal Palace (D&D_References)]]
+- Someone is blackmailing information for love ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Royal Palace (D&D_References)]]
 
 ## Notes
 

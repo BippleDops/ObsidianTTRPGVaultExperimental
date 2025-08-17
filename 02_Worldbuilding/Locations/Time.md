@@ -1490,8 +1490,7 @@ Ongoing situations affecting Time:
 - [VAULT_COMPLETION_STATUS]]
 -
 -
-- [[Vehicle Core Rules#2) Piloting & Adaptation Requirements
-- [Vehicle_Core_Rules#10) Crew Roles (Examples)]]
+- [[Vehicle_Core_Rules]]
 - [[Void Breaker Staffs
 - [Void Cult]]
 - [[Void Cultists

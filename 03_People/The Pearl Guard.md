@@ -286,5 +286,4 @@ Mentioned in The Second Prophecy of Shadows
 
 - [[Investigation Procedures
 - [Assets Locations Location City Noble Palatemaster Noble Palatemaster.png]]
-- [[Encounter and Loot Generators
-- [Random_Tables - Encounter_and_Loot_Generators]]
+- [[Random_Tables - Encounter_and_Loot_Generators]]

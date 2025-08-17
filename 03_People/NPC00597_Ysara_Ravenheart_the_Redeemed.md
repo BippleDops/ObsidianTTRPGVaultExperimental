@@ -166,8 +166,7 @@ Family member has gone missing
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -184,20 +183,16 @@ Family member has gone missing
 - Originates from [step_075 (phase_084)]]
 - Related: [[Deep Guard
 - Leads to [Deities of Dragonlance Evil Phb]]
-- Related: [[MON00139_Constructs_Creature_140
-- Influences [Gatekeeper Iron-Lung Boris]]
+- Related: [[MON00139_Constructs_Creature_140]]
 - Related: [[step_095 (phase_049)
 - Leads to [step_020 (phase_052)]]
-- Influences [[Griffon Xmm
-- Parallels [Governmental Legitimacy (D&D_References)]]
+- Influences [[Governmental Legitimacy (D&D_References)]]
 - Originates from [[LORE00042_Legends_Entry_43
 - Related: [step_070 (phase_073)]]
-- Requires [[step_032 (phase_033)
-- See also: [10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- Requires [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
 - Leads to [[Froghemoth Mpmm
 - Leads to [step_010 (phase_060)]]
-- Leads to [[The First Breath Relic
-- Originates from [Constitutional Architect Dr Harmony Lawbright]]
+- Leads to [[Constitutional Architect Dr Harmony Lawbright]]
 - Leads to [[Location City Surface Observation Posts Surface Observation Posts.svg
 - Connects to
 - Compare with [Tide Turner]]
@@ -206,16 +201,13 @@ Family member has gone missing
 - See also: [[step_037 (phase_033)
 - See also:
 - See also: [Fear and Horror]]
-- Compare with [[The Sunken Cities 3 (D&D_References)
-- Influences [forgotten-realms-leira (deities)]]
+- Compare with [[The Sunken Cities 3 (D&D_References)]]
 - Requires [[Medical Research Rules
 - Influences [item-artifact-warhammer-xphb-v4-warhammer-xphb.png]]
-- Requires [[NPC00375_Gareth_Lightbringer_the_Guardian
-- Connects to [Biological Authentication Scanner]]
+- Requires [[NPC00375_Gareth_Lightbringer_the_Guardian]]
 - See also: [[LORE00194_Legends_Entry_195
 - See also: [Cleric Xphb Light Domain Xphb]]
-- Affected by [[NPC01339_Gavril_Moonshadow_the_Mystic
-- Requires [step_049 (phase_013)]]
+- Affected by [[NPC01339_Gavril_Moonshadow_the_Mystic]]
 - Parallels [[ITEM00281_Radiant_Staff_of_Power
 - Influences [step_092 (phase_005)]]
 - Related: [[Void Realm Territories 2
@@ -252,34 +244,24 @@ Family member has gone missing
 - Connects to [[Bottled Breath Pota
 - Related:
 - See also: [Blue Dragon Xmm]]
-- Connects to [[Nonhuman Moradin
-- Parallels [NPC01089_Rhiannon_Nightfall_the_Bold]]
+- Connects to [[NPC01089_Rhiannon_Nightfall_the_Bold]]
 - Leads to [[NPC01739_Hilda_Xendar_the_Cunning
 - Requires [Merchant Princess Seren Goldwave]]
-- Leads to [[step_042 (phase_045)
-- Connects to [Vex Shadowthorn (D&D_References)]]
+- Leads to [[Vex Shadowthorn (D&D_References)]]
 - Compare with [[Feinting Attack Xphb
 - Parallels [Location City Floating Cities V1 Floating Cities.svg]]
-- Originates from [[SPELL00113_Divine_Spell_114
-- Connects to [Modern_Era_Timeline]]
-- Leads to [[NPC00695_Orion_Darkwater_the_Risen
-- Influences [step_070 (phase_051)]]
-- Affected by [[Aquabyssos Faction Web 2
-- Leads to [NPC01900_Orion_Grimholt_the_Broken]]
-- Requires [[Krake (Lore)
-- Parallels [QUEST00312_Side_Quest_313]]
+- Originates from [[SPELL00113_Divine_Spell_114]]
+- Leads to [[NPC00695_Orion_Darkwater_the_Risen]]
+- Affected by [[NPC01900_Orion_Grimholt_the_Broken]]
+- Requires [[QUEST00312_Side_Quest_313]]
 - Originates from [[NPC00261_Gavril_Jadeclaw
 - See also: [step_030 (phase_025)]]
-- Leads to [[step_032 (phase_057)
-- Requires [QUEST00442_Side_Quest_443]]
-- Related: [[step_100 (phase_014)
-- Originates from [Wealthy Goldcurrent (D&D_References)]]
+- Leads to [[QUEST00442_Side_Quest_443]]
+- Related: [[Wealthy Goldcurrent (D&D_References)]]
 - Influences [[MON00072_Undead_Creature_73
 - Parallels [barbed-devil-xmm (fiend)]]
-- Requires [[step_043 (phase_086)
-- Leads to [MON00148_Undead_Creature_149]]
-- Compare with [[NPC00678_Solas_Jadeclaw
-- Leads to [LOC00236_Dungeons_Location_237]]
+- Requires [[MON00148_Undead_Creature_149]]
+- Compare with [[LOC00236_Dungeons_Location_237]]
 
 ## Visual References
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png

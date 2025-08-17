@@ -175,26 +175,20 @@ Needs help with personal quest
 
 - Related: [[Portrait NPC Brother Marcus Steelbane V1 Brother Marcus Steelbane.svg
 - Requires [The Pearl Markets 2]]
-- Requires [[step_009 (phase_027)
-- Leads to [SPELL0028_Shadow_Blessing]]
+- Requires [[SPELL0028_Shadow_Blessing]]
 - Leads to [[step_086 (phase_045)
 - Leads to [LOC0149_Grovehollow]]
 - Affected by [[ENC00247_Combat_Encounter_248
 - Related: [QUEST0021_Destroy_the_Demons]]
-- Requires [[NPC01995_Aeliana_Frostwhisper_the_Strong
-- See also: [Treasure and Rewards System]]
-- Parallels [[02-chapter-1-playing-the-game#Ability Checks
-- Connects to [Location City Elena Recordkeeper Elena Recordkeeper.svg]]
-- Leads to [[LORE00211_Prophecies_Entry_212
-- Requires [The Godhead Ritual (D&D_References)]]
+- Requires [[NPC01995_Aeliana_Frostwhisper_the_Strong]]
+- Parallels [[02-chapter-1-playing-the-game (players-handbook-2024)]]
+- Leads to [[The Godhead Ritual (D&D_References)]]
 - Connects to [[Efreeti Chain Xdmg
 - Parallels [step_065 (phase_081)]]
 - Requires [[The Community Crown
 - Requires [step_041 (phase_069)]]
-- Influences [[The Artisans' Collective of Master Crafters (D&D_References)
-- Parallels [QUEST00071_Side_Quest_72]]
-- Influences [[S-114_Gravity_Well_Rescue
-- Originates from [The Memory Anchor (D&D_References)]]
+- Influences [[The Artisans' Collective of Master Crafters (D&D_References)]]
+- Influences [[The Memory Anchor (D&D_References)]]
 - Affected by
 - Related: [[Giant Slayer Xdmg
 - See also: [step_035 (phase_058)]]
@@ -208,8 +202,7 @@ Needs help with personal quest
 - Parallels [step_050 (phase_087)]]
 - See also: [[Quest Seeds of the Deep
 - Originates from [ENC00007_Social_Encounter_8]]
-- Leads to [[ENC00070_Combat_Encounter_71
-- Leads to [The Depth Herald]]
+- Leads to [[ENC00070_Combat_Encounter_71]]
 - Related: [[04_Resources_Assets_Locations_location-city-keeper-valdris-goldvault-keeper-valdris-goldvault.svg
 - Influences [lorehold-primer-scc (items)]]
 - See also: [[step_091 (phase_079)
@@ -227,15 +220,12 @@ Needs help with personal quest
 - Related: [Shared Campaign Variant Rules Xge]]
 - Originates from [[Forgotten Realms Kelemvor
 - Parallels [LOC00077_Planes_Location_78]]
-- See also: [[Coral Xdmg
-- Leads to [Prince Thalassic 2]]
+- See also: [[Prince Thalassic 2]]
 - Affected by [[Portrait NPC the Pressure King the Pressure King.svg
 - Influences [ITEM00364_Radiant_Crossbow_of_the_Ancients]]
 - Requires
-- Connects to [[Prince Aurelius Lightbringer (D&D_References)
-- Leads to [Memorial Mason Kane]]
-- Leads to [[Pressure Master Current Depthwright
-- Requires [LORE00134_Prophecies_Entry_135]]
+- Connects to [[Prince Aurelius Lightbringer (D&D_References)]]
+- Leads to [[Pressure Master Current Depthwright]]
 - Originates from [[Spike Growth Xphb
 - Compare with [ITEM00707_Time-worn_Chalice_of_Dominion]]
 - Influences [[EVENT00022_Political_Event_23
@@ -251,8 +241,7 @@ Needs help with personal quest
 - Originates from [[Location City the Bathyal Palace the Bathyal Palace.svg
 - Leads to [Whispering Wildlands (D&D_References)]]
 - Affected by
-- Parallels [[ENC00170_Environmental_Encounter_171
-- Affected by [Democratic Erosion 2]]
+- Parallels [[ENC00170_Environmental_Encounter_171]]
 - Connects to [[Commercial Navigation Services
 - Originates from [portrait-npc-the-barnacle-v1-the-barnacle.svg]]
 - Compare with [[Fragment Compass (D&D_References)
@@ -261,8 +250,7 @@ Needs help with personal quest
 - Affected by [Assets Locations Location City Temple Coalition V1 Temple Coalition.svg]]
 - Originates from [[step_060 (phase_012)
 - Compare with [step_023 (phase_019)]]
-- Leads to [[Gamma-Enforcement
-- Related: [ENC00030_Combat_Encounter_31]]
+- Leads to [[ENC00030_Combat_Encounter_31]]
 - Affected by [[04_Resources_Assets_Locations_location-city-beast-master-krell-chainbreaker-v1-beast-master-krell-chainbreaker.svg
 - Leads to [Economic Planning]]
 - See also: [[step_087 (phase_018)
@@ -271,11 +259,7 @@ Needs help with personal quest
 - Compare with [The Mediator 2]]
 - See also: [[alchemists-doom-scc (items)
 - Influences [SPELL00136_Divine_Spell_137]]
-- Related: [[NPC01562_Rhiannon_Proudmore_the_Scholar
-- Parallels
-
-## Visual References
-![02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
+- Related: [[NPC01562_Rhiannon_Proudmore_the_Scholar]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png
 ![02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
 

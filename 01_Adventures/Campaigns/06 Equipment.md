@@ -272,4 +272,4 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [Merrenoloth Mpmm]]
 - Affected by [[Marcus Ironwrigh
 - Connects to [Weather Sage Ancient Tempest 2]]
-- Compare with [[step_013 (phase_013)]]
+- Compare with 

@@ -166,16 +166,12 @@ Being extorted by criminals
 
 - Leads to [[LORE00091_Legends_Entry_92
 - Affected by [QUEST00075_Personal_Quest_76]]
-- Influences [[09-adventuring#Movement#Mounts and Vehicles
-- Compare with
-- Originates from
-- Related: [MON00013_Undead_Creature_14]]
+- Influences [[09-adventuring#Resting]]
 - Compare with [[Sky_Lords_Worship
 - See also: [step_075 (phase_040)]]
 - Related: [[Portrait NPC Captain Valeria V1 Captain Valeria.svg
 - Parallels [step_078 (phase_005)]]
-- Parallels [[step_080 (phase_086)
-- Influences [NPC01295_Kaelen_Keenblade_the_Cunning]]
+- Parallels [[NPC01295_Kaelen_Keenblade_the_Cunning]]
 - Influences [[Enhancement Ethics Advisor (Lore)
 - Leads to [Location City Archdruid Marina Kelpweaver V1 Archdruid Marina Kelpweaver.svg]]
 - Related:
@@ -185,18 +181,14 @@ Being extorted by criminals
 - See also: [Assets Locations Location City Council of Faiths Council of Faiths.svg]]
 - Parallels [[step_027 (phase_034)
 - See also: [step_052 (phase_005)]]
-- Connects to [[The Convergence Laboratory
-- Leads to [cross_realm_mechanics_research]]
+- Connects to [[cross_realm_mechanics_research]]
 - Affected by [[Symbol Heraldry Shadow Conspiracy Investigation V1 Shadow Conspiracy Investigation.png
 - Influences [Protocol Master Elena Etiquette (D&D_References)]]
-- Leads to [[step_089 (phase_086)
-- Parallels [SPELL00062_Arcane_Spell_63]]
+- Leads to [[SPELL00062_Arcane_Spell_63]]
 - Originates from [[step_036 (phase_009)
 - Related: [Nine Lives Stealer Xdmg]]
-- Related: [[Weaponsmith Captain Marcus Sharpedge
-- Parallels [QUEST00300_Side_Quest_301]]
-- Compare with [[The Crossroads Tavern (D&D_References)
-- See also: [Probability Garden (D&D_References)]]
+- Related: [[Weaponsmith Captain Marcus Sharpedge]]
+- Compare with [[The Crossroads Tavern (D&D_References)]]
 - Related: [[staff-of-the-woodlands-xdmg (items)
 - Requires [Seven Shards (Lore)]]
 - Connects to [[Githzerai Anarch Mtf
@@ -207,16 +199,13 @@ Being extorted by criminals
 - Affected by [Deep Trenches]]
 - Connects to [[location-city-royal-ports-v1-royal-ports.svg
 - Affected by [Dust Mephit Xmm]]
-- Parallels [[Layers of the Nine Hells Xdmg
-- Compare with [NPC01382_Aldric_Dawnstrider_the_Bold]]
+- Parallels [[NPC01382_Aldric_Dawnstrider_the_Bold]]
 - Compare with [[ITEM00137_Thunder_Dagger_of_Slaying
 - Requires [step_052 (phase_034)]]
 - Influences [[The Crying Stones 2
 - Connects to [step_086 (phase_092)]]
-- Connects to [[Memory Trading Economy System
-- See also: [drow-1-armor-mm (items)]]
-- Originates from [[Sage Elara
-- Requires [The Spire of Mercy]]
+- Connects to [[Memory Trading Economy System]]
+- Originates from [[The Spire of Mercy]]
 - Affected by [[The Shadow-Crystal Synthesis (Criminal_Organizations)
 - Affected by [MON00090_Undead_Creature_91]]
 - Connects to [[Wanted_Poster
@@ -225,18 +214,15 @@ Being extorted by criminals
 - Affected by [Session 22 Heist Planning]]
 - Influences [[Assets Locations Location City Historical Preservation Society Historical Preservation Society.svg
 - Compare with [Assets Locations Location City Pressure Engineers V1 Pressure Engineers.svg]]
-- Leads to [[Professor Aldric Crystalweaver (D&D_Statblocks)
-- Originates from [Bridge Currentcrosser]]
+- Leads to [[Professor Aldric Crystalweaver (D&D_Statblocks)]]
 - Parallels [[Cult_and_Religious_Guide
 - Influences [portrait-npc-the-barnacle-v2-the-barnacle.svg]]
-- Leads to [[Ironforg
-- Requires [LOC00274_Wilderness_Location_275]]
+- Leads to [[LOC00274_Wilderness_Location_275]]
 - Leads to [[LORE00190_Legends_Entry_191
 - Compare with [step_054 (phase_096)]]
 - Connects to [[Vehicle Ship Aether Sail Testbed V1 Aether Sail Testbed.svg
 - Related: [Location City City Council of Aquabyssos City Council of Aquabyssos.svg]]
-- Influences [[Norse Thor
-- Leads to [QUEST00377_Side_Quest_378]]
+- Influences [[QUEST00377_Side_Quest_378]]
 - See also: [[step_070 (phase_010)
 - Leads to [step_003 (phase_087)]]
 - Affected by [[MON00006_Constructs_Creature_7
@@ -254,8 +240,7 @@ Being extorted by criminals
 - Related: [Deep Oracle Thessaly 2]]
 - Connects to [[Memory Merchant Valeria (Lore)
 - Parallels [INV-009 (D&D_References)]]
-- See also: [[ENC00193_Social_Encounter_194
-- Affected by [Crystal-Enhanced Businesses (D&D_References)]]
+- See also: [[Crystal-Enhanced Businesses (D&D_References)]]
 - Requires [[Location City the Divine Trial the Divine Trial.svg
 - Originates from [Merchant Lord Silas Copperfield 2]]
 - Leads to [[step_086 (phase_096)

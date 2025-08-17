@@ -25,5 +25,8 @@
   "alt_text": "Concept art of angry-sorrowsworn-mpmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-angry-sorrowsworn-mpmm-v2-angry-sorrowsworn-mpmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-angry-sorrowsworn-mpmm-v2-angry-sorrowsworn-mpmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:57:27.208Z",
+  "generationMethod": "ComfyUI"
 }

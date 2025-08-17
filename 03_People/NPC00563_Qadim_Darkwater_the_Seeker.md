@@ -153,12 +153,10 @@ Witnessed a crime
 - Leads to
 - Affected by [[step_058 (phase_066)
 - Connects to [step_047 (phase_006)]]
-- See also: [[Surface Observation Posts (D&D_References)
-- Connects to [School of Deep Resonance]]
+- See also: [[Surface Observation Posts (D&D_References)]]
 - Related: [[location-city-umberlee-v1-umberlee.svg
 - Affected by [step_056 (phase_098)]]
-- Affected by [[Faction_War_Campaign_Act_Structure (D&D_Sourcebooks)
-- Originates from [EVENT00025_Natural_Event_26]]
+- Affected by [[Faction_War_Campaign_Act_Structure (D&D_Sourcebooks)]]
 - Related: [[ENC0061_Random_Encounter_62
 - Affected by [Labor Organizations and Guilds]]
 - Requires [[Assets Locations Location City International Void Treaties International Void Treaties.svg
@@ -178,43 +176,35 @@ Witnessed a crime
 - Connects to [myconid-sprout-xmm]]
 - Requires [[Giant Squid Xmm
 - Related: [Assets Locations Location City the Royal Palace V1 the Royal Palace.svg]]
-- See also: [[11 Rules Glossary
-- Connects to [The Spire of Courage (D&D_References)]]
+- See also: [[The Spire of Courage (D&D_References)]]
 - Related: [[Summon Lesser Demons Xge
 - Originates from [Spymaster Goldwatch]]
 - Compare with [[Assets Locations Location City Chef Gastropod V1 Chef Gastropod.svg
 - Parallels [githyanki-raiding-parties-raiding-party-leader-mtf]]
 - Compare with [[NPC00748_Zephyr_Voidwalker_the_Fallen
 - Compare with [NPC00636_Pyria_Nightfall_the_Mystic]]
-- Originates from [[Keepers of Memory (D&D_References)
-- Related:
-- Connects to [Lich Xmm (undead)]]
+- Originates from [[Keepers of Memory (D&D_References)]]
 - Requires [[Pressure_Altitude_Reference
 - See also:
 - Affected by [Martha Hillbrook 2]]
 - See also: [[Warrior Scarredheart
 - Originates from [The Crystal Concordance]]
-- Connects to [[Dungeon_Map
-- Leads to [SPELL00022_Arcane_Spell_23]]
+- Connects to [[SPELL00022_Arcane_Spell_23]]
 - Connects to [[LORE00214_History_Entry_215
 - Compare with
 - Originates from [Lord Commander Thane Skyward]]
 - Parallels [[Beholder Xmm (legendary-group)
 - See also: [The Crown of Stars (Lore)]]
-- Parallels [[Healing Ministries (D&D_References)
-- Connects to [QUEST00263_Personal_Quest_264]]
+- Parallels [[Healing Ministries (D&D_References)]]
 - Parallels [[Portrait NPC Captain Torrent Freewater V2 Captain Torrent Freewater.svg
 - Related: [step_029 (phase_072)]]
 - Influences [[Portrait NPC Quest the Runaway Golem V1 Quest the Runaway Golem.svg
 - Connects to [LOC00177_Planes_Location_178]]
 - Compare with [[revolver-xdmg (items)
 - Connects to [step_028 (phase_066)]]
-- Requires [[NPC_Reaction_Generator
-- Influences [MON00143_Aberrations_Creature_144]]
-- Affected by [[NPC01117_Lyanna_Stormwind_the_Wise
-- Originates from [Deep-Priest Covenant]]
-- Parallels [[Elder Deep 2
-- Influences [The Healing Waters Chalice 2]]
+- Requires [[MON00143_Aberrations_Creature_144]]
+- Affected by [[NPC01117_Lyanna_Stormwind_the_Wise]]
+- Parallels [[The Healing Waters Chalice 2]]
 - Leads to [[Current Riders Union 2
 - Connects to [step_047 (phase_076)]]
 - See also: [[Assets Locations Location City the Hidden Cove of Whispers V1 the Hidden Cove of Whispers.svg
@@ -242,8 +232,7 @@ Witnessed a crime
 - Related: [Memory Merchant Centers]]
 - Related: [[Assets Item Artifact Spell Gem Lapis Lazuli Oota V1 Spell Gem Lapis Lazuli Oota.png
 - Influences [Condition_Tracker (02_Worldbuilding)]]
-- Connects to [[Abyssal Essence
-- Influences [NPC01943_Xander_Proudmore_the_Fallen]]
+- Connects to [[NPC01943_Xander_Proudmore_the_Fallen]]
 - Related: [[Oil of Slipperiness Xdmg
 - Affected by
 - Parallels [Portrait NPC the Shadow Warren V2 the Shadow Warren.svg_1 (Portraits)]]

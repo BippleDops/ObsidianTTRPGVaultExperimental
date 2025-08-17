@@ -170,32 +170,26 @@ Competitor sabotaging business
 - Originates from [LOC00272_Dungeons_Location_273]]
 - Leads to [[The Shifting Stage
 - Influences [step_095 (phase_016)]]
-- See also: [[Gray Render Mpmm
-- Affected by [Royal Regalia (D&D_References)]]
+- See also: [[Royal Regalia (D&D_References)]]
 - Related: [[step_024 (phase_027)
 - Related: [step_086 (phase_094)]]
-- Connects to [[step_002 (phase_038)
-- Related: [Novice Apprentice Sarah Hopeful]]
+- Connects to [[Novice Apprentice Sarah Hopeful]]
 - Compare with [[Ambush Point
 - Affected by [reincarnate-xphb (spells)]]
-- Originates from [[Mediator Supreme Cora Peaceweaver
-- Affected by [Multiverse (D&D_References)]]
+- Originates from [[Mediator Supreme Cora Peaceweaver]]
 - Compare with [[Portrait NPC Scholar Vivienne the Chronicler V2 Scholar Vivienne the Chronicler.svg
 - See also: [Portrait NPC Captain Nerion Deepward V1 Captain Nerion Deepward.svg]]
 - Connects to [[NPC01177_Thalia_Underhill_the_Fallen
 - Parallels [Umbral Scholar Valentina Depthlore]]
 - Connects to [[LORE00247_Prophecies_Entry_248
 - Compare with [step_007 (phase_098)]]
-- Leads to [[shield-of-expression-xdmg (items)
-- Requires [Narcissus Silverwater (D&D_References)]]
+- Leads to [[Narcissus Silverwater (D&D_References)]]
 - Leads to [[Location City Vault Maintenance Checklist V1 Vault Maintenance Checklist.svg
 - Parallels [Enforcement Authority Charte]]
 - Parallels [[Wand of the War Mage Xdmg
 - Connects to [dolphin-mpmm (beast)]]
-- Influences [[step_029 (phase_097)
-- Influences [Pilgrimage Master Depth Guide Melancholy 2]]
-- Requires [[ITEM01005_Refined_Crystal_of_Fortune
-- Requires [Unified Vault Completion Guide (D&D_References)]]
+- Influences [[Pilgrimage Master Depth Guide Melancholy 2]]
+- Requires [[Unified Vault Completion Guide (D&D_References)]]
 - Influences [[Portrait NPC Surface Supremacists V1 Surface Supremacists.svg
 - Leads to [Assets Locations Location City Abyssos Prime V1 Abyssos Prime.svg]]
 - Leads to [[QUEST00165_Main_Quest_166
@@ -209,28 +203,22 @@ Competitor sabotaging business
 - Influences [[Assets Locations Location City Deep Mother Zealots Deep Mother Zealots.svg
 - Related: [eberron-the-shadow (deities)]]
 - Leads to
-- Parallels [[CLAUDE
-- Influences [NPC01750_Ysara_Hawthorne_the_Redeemed]]
+- Parallels [[NPC01750_Ysara_Hawthorne_the_Redeemed]]
 - Parallels [[Dwarven Roknar Mtf
 - Originates from [Quest - Shadow Confrontation_1 (01_Adventures)]]
-- Parallels [[Communications Master Signal Cryptkeeper 2
-- Connects to [EVENT00066_Natural_Event_67]]
+- Parallels [[Communications Master Signal Cryptkeeper 2]]
 - Parallels [[ITEM00679_Fortified_Shield_of_Resistance
 - Related: [human-names-slavic-male-xge (tables)]]
 - Connects to [[Memory Trading Economy
 - Connects to [step_083 (phase_050)]]
 - Parallels [[Court Herald Titus (D&D_References)
 - Originates from [ENC00095_Social_Encounter_96]]
-- Originates from [[step_004 (phase_036)
-- See also: [imix-pota (legendary-group)]]
+- Originates from [[imix-pota (legendary-group)]]
 - Connects to [[step_068 (phase_028)
 - Affected by [Royal Crystal Laboratory]]
-- See also: [[NPC00747_Hilda_Crystalbrook_the_Broken
-- Parallels [LORE00207_Legends_Entry_208]]
-- See also: [[The Deep Sovereign 3 (D&D_References)
-- Compare with [kuo-toa-xmm (aberration)]]
-- Compare with [[Party_Inventory
-- Originates from [His Eternal Majesty Keeper of the Throne of]]
+- See also: [[NPC00747_Hilda_Crystalbrook_the_Broken]]
+- See also: [[The Deep Sovereign 3 (D&D_References)]]
+- Compare with [[His Eternal Majesty Keeper of the Throne of]]
 - Related: [[LOC00081_Cities_Location_82
 - Originates from
 - Compare with [Assets Locations Location City Guardian Neutralwatch Guardian Neutralwatch.svg]]
@@ -246,22 +234,17 @@ Competitor sabotaging business
 - Requires [The Conductor]]
 - Parallels [[life-events-xge (tables)
 - See also: [Marina Stormwright]]
-- Requires [[The Sundered Peaks (D&D_References)
-- See also: [step_057 (phase_010)]]
+- Requires [[The Sundered Peaks (D&D_References)]]
 - See also:
-- Related: [[Intelligence Services 2
-- Leads to [The Singer Beyond (D&D_References)]]
+- Related: [[The Singer Beyond (D&D_References)]]
 - Parallels [[step_060 (phase_043)
 - Compare with
 - Leads to [Pilgrim_Pass_Prayer_Sli]]
-- Originates from [[LORE0030_History_of_the_Fallen_Star
-- Parallels [Prestidigitation Xphb]]
+- Originates from [[LORE0030_History_of_the_Fallen_Star]]
 - See also: [[step_008 (phase_067)
 - Related: [Assets Portraits Portrait NPC Shadow Binding Sanctum Shadow Binding Sanctum.svg]]
-- Requires [[shapechange-xphb (spells)
-- Related: [ITEM0105_Blessed_Gauntlet_of_the_Dawn]]
-- Originates from [[ENC00147_Environmental_Encounter_148
-- Parallels [step_083 (phase_031)]]
+- Requires [[ITEM0105_Blessed_Gauntlet_of_the_Dawn]]
+- Originates from [[ENC00147_Environmental_Encounter_148]]
 - Affected by [[step_077 (phase_019)
 - Affected by
 - Originates from [step_005 (phase_080)]]

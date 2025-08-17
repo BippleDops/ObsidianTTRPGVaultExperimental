@@ -166,10 +166,8 @@ Family member has gone missing
 
 ## Connections
 
-- Affected by [[The Underground Market
-- See also: [Greek Hercules]]
-- See also: [[Elena Recordkeeper 2
-- Parallels [Wind Songs]]
+- Affected by [[The Underground Market]]
+- See also: [[Elena Recordkeeper 2]]
 - Parallels
 - Affected by [[ITEM01186_Lesser_Herb_of_Swiftness
 - Parallels [step_086 (phase_098)]]
@@ -177,8 +175,7 @@ Family member has gone missing
 - Connects to [QUEST00017_Main_Quest_18]]
 - Connects to [[Temple of Shadows 2
 - Originates from [step_047 (phase_078)]]
-- Affected by [[step_013 (phase_100)
-- Compare with [ENC00200_Combat_Encounter_201]]
+- Affected by [[ENC00200_Combat_Encounter_201]]
 - Originates from
 - Leads to [[Void Early Warning System
 - See also: [step_049 (phase_007)]]
@@ -190,14 +187,11 @@ Family member has gone missing
 - Requires [ITEM00604_Mithril_Helm_of_Resistance]]
 - Affected by [[Shield
 - Influences [Axe Beak Xmm]]
-- Influences [[Depth Guard
-- Compare with [Archive of Depths (D&D_References)]]
-- Connects to [[step_040 (phase_055)
-- Influences [Parliament of Echoes - Public Gallery (D&D_References)]]
+- Influences [[Archive of Depths (D&D_References)]]
+- Connects to [[Parliament of Echoes - Public Gallery (D&D_References)]]
 - Connects to [[QUEST00079_Main_Quest_80
 - Influences [Quest - The Admiral's Gambit]]
-- See also: [[Security Chief Marcus Allguard (D&D_References)
-- See also: [ITEM00705_Celestial_Tome_of_Destiny]]
+- See also: [[Security Chief Marcus Allguard (D&D_References)]]
 - Originates from [[Dungeon Dressing Books Scrolls and Tomes
 - Originates from
 - Related: [QUEST00473_Side_Quest_474]]
@@ -206,38 +200,30 @@ Family member has gone missing
 - Affected by [[QUEST00291_Side_Quest_292
 - Connects to
 - Requires [step_022 (phase_026)]]
-- Leads to [[README 2
-- Parallels [Captain Rodrigo Irochor]]
+- Leads to [[Captain Rodrigo Irochor]]
 - Parallels [[step_010 (phase_091)
 - Connects to
 - Parallels [Underwater_Monastery_Network (02_Worldbuilding)]]
 - Originates from [[Portrait NPC Quest the Runaway Golem V2 Quest the Runaway Golem.svg
 - Affected by [portrait-npc-pressure-lords-pressure-lords.svg]]
-- Related: [[NPC00774_Drusilla_Frostwhisper_the_Risen
-- See also: [Saving Throw Xphb]]
+- Related: [[NPC00774_Drusilla_Frostwhisper_the_Risen]]
 - Requires [[LOC0139_Grovestead
 - See also: [Illumination Crystal]]
-- Leads to [[LOC00177_Planes_Location_178
-- See also: [Inverse Colonie (D&D_References)]]
+- Leads to [[Inverse Colonie (D&D_References)]]
 - Connects to
 - Parallels [[deep-water-xdmg (traps-hazards)
 - Affected by [step_033 (phase_032)]]
 - Originates from
 - Affected by [[Kruthik Hive Lord Mpmm
 - Influences [The Void Seekers]]
-- Influences [[step_064 (phase_071)
-- Compare with
-- Related: [Keeper Luminous Crystalbeam (D&D_References)]]
-- Requires [[The Dimensional Anchor Stone (D&D_References)
-- Connects to [Queen Seraphina's Progression]]
-- Influences [[Portrait NPC Mirr... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Originates from [FAC00098_Guilds_99]]
+- Influences [[Keeper Luminous Crystalbeam (D&D_References)]]
+- Requires [[The Dimensional Anchor Stone (D&D_References)]]
+- Influences [[Portrait NPC Mirr... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Affected by [[The Festival of Rising Tides
 - Connects to [Assets Locations Location City Sacred Historian Coral Deepscribe V1 Sacred Historian Coral Deepscribe.svg]]
 - Connects to [[step_089 (phase_012)
 - Connects to [Assets Locations Location City Void Prophet Nullus the Erased Void Prophet Nullus the Erased.svg]]
-- Originates from [[Find Steed Xphb
-- Affected by [ITEM0022_Glorious_Crown_of_Power]]
+- Originates from [[ITEM0022_Glorious_Crown_of_Power]]
 - Connects to [[NPC0042_Cedric_Ironforge
 - Requires
 - Connects to [ITEM01106_Refined_Oil_of_Clarity]]

@@ -161,8 +161,7 @@ Caravan needs guards
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -176,8 +175,7 @@ Caravan needs guards
 
 ## Connections
 
-- Requires [[Engineer Brass Gearspin (D&D_References)
-- Related: [step_051 (phase_038)]]
+- Requires [[Engineer Brass Gearspin (D&D_References)]]
 - Parallels [[roleplaying-a-giant-giant-personality-traits-vgm
 - Influences [Vampire Umbral Lord Xmm]]
 - Originates from [[ENC00477_Combat_Encounter_478
@@ -188,8 +186,7 @@ Caravan needs guards
 - Leads to [Crystal Ventures Limited]]
 - Related: [[Lord Aurelius Voidcrown
 - Connects to [Crown of Tidal Sovereignty 2]]
-- Compare with [[Warden Marcus Stonehand (D&D_References)
-- Compare with [Depth Enforcers]]
+- Compare with [[Warden Marcus Stonehand (D&D_References)]]
 - Related: [[The Recognition Treaties
 - Originates from [step_047 (phase_093)]]
 - Influences [[SHOP00026_General_Shop_27
@@ -206,8 +203,7 @@ Caravan needs guards
 - Connects to [NPC0115_Katarina_Goldleaf_the_Mad]]
 - Connects to [[Player 7 (Lore)
 - Influences [step_014 (phase_063)]]
-- Parallels [[NPC00961_Hestara_Proudmore_the_Cunning
-- Requires [QUEST0061_Negotiate_with_the_Pirates]]
+- Parallels [[NPC00961_Hestara_Proudmore_the_Cunning]]
 - Originates from
 - Influences [[step_073 (phase_093)
 - Compare with [Portrait NPC Merchant Captain Trade V2 Merchant Captain Trade.svg]]
@@ -221,8 +217,7 @@ Caravan needs guards
 - Related:
 - Affected by [[step_006 (phase_024)
 - Related: [LORE00282_History_Entry_283]]
-- Leads to [[Resonance Cascade Attack 2
-- Compare with [Kobold Vgm]]
+- Leads to [[Resonance Cascade Attack 2]]
 - Parallels [[Bioluminescence
 - Requires [Location City Pearl Harbor City V1 Pearl Harbor City.svg]]
 - Affected by [[Globe of Invulnerability Xphb
@@ -240,8 +235,7 @@ Caravan needs guards
 - Requires [step_015 (phase_011)]]
 - See also: [[EVENT00001_Magical_Event_2
 - Compare with [gnome-baravar-cloakshadow-mtf (deities)]]
-- Originates from [[step_046 (phase_076)
-- Affected by [Merchant Prince Aurelius Goldhand]]
+- Originates from [[Merchant Prince Aurelius Goldhand]]
 - Compare with
 - Related: [[step_016 (phase_060)
 - Parallels [step_060 (phase_012)]]
@@ -256,23 +250,18 @@ Caravan needs guards
 - Requires [step_084 (phase_005)]]
 - Influences [[QUEST00396_Side_Quest_397
 - See also: [step_005 (phase_054)]]
-- Requires [[bugbear-warrior-xmm (fey)
-- Originates from [Communications Master Signal Cryptkeeper 2]]
+- Requires [[Communications Master Signal Cryptkeeper 2]]
 - Compare with [[step_090 (phase_026)
 - Originates from [step_087 (phase_074)]]
 - Parallels
-- Compare with [[step_005 (phase_023)
-- Parallels [SPELL00101_Arcane_Spell_102]]
-- Requires [[NPC00699_Pyria_Darkwater_the_Wise
-- Influences [International Scholars]]
+- Compare with [[SPELL00101_Arcane_Spell_102]]
+- Requires [[NPC00699_Pyria_Darkwater_the_Wise]]
 - Requires [[Portrait NPC Quest the Deep Mother S Truth V2 Quest the Deep Mother S Truth.svg
 - Related: [The Dimensional Barrier]]
 - Influences [[NPC01399_Orion_Ashford_the_Bold
 - Influences [ITEM00783_Time-worn_Scepter_of_Eternity]]
-- Originates from [[MON00108_Aberrations_Creature_109
-- Requires [step_013 (phase_011)]]
-- Connects to [[Corruption Studies Research Institute
-- Requires [Taverner Bubbles McGill]]
+- Originates from [[MON00108_Aberrations_Creature_109]]
+- Connects to [[Corruption Studies Research Institute]]
 - Influences [[step_013 (phase_051)
 - Affected by [ITEM01170_Greater_Salve_of_Fortune]]
 - Originates from [[step_087 (phase_084)

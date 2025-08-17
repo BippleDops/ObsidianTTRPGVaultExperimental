@@ -167,8 +167,7 @@ Competitor sabotaging business
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -184,20 +183,16 @@ Competitor sabotaging business
 
 - Influences [[ITEM00055_Thunder_Spear_of_the_Ancients
 - Related: [Memory Heist 2]]
-- Parallels [[Merfolk
-- Originates from [Communications Officer Tidecall (D&D_References)]]
-- Compare with [[step_039 (phase_080)
-- Affected by [Shadow Magistrate Umbrian Darkwise (D&D_References)]]
+- Parallels [[Communications Officer Tidecall (D&D_References)]]
+- Compare with [[Shadow Magistrate Umbrian Darkwise (D&D_References)]]
 - Leads to [[Cultural Exchange Cente
 - Compare with
 - Originates from [step_001 (phase_060)]]
 - Connects to [[step_098 (phase_052)
 - Requires [portrait-npc-aether-crystal-v2-aether-crystal.svg_1 (Portraits)]]
 - Connects to
-- Affected by [[Troglodyte Xmm
-- Affected by [Underwater Encounters Levels 510 Xge]]
-- Connects to [[step_095 (phase_033)
-- Leads to [The Community Awakening 2]]
+- Affected by [[Underwater Encounters Levels 510 Xge]]
+- Connects to [[The Community Awakening 2]]
 - Affected by [[deck-of-many-things-xdmg (items)
 - Related: [The Depth Oracles]]
 - Requires
@@ -211,8 +206,7 @@ Competitor sabotaging business
 - Requires [Modern Bullets 10]]
 - Compare with [[Portrait NPC the Silhouette Surgeon Prime V1 the Silhouette Surgeon Prime.svg_1 (Portraits)
 - Compare with [tanarukk-mpmm (fiend)]]
-- Parallels [[step_066 (phase_084)
-- Requires [Missing Persons of Port Meridian (D&D_References)]]
+- Parallels [[Missing Persons of Port Meridian (D&D_References)]]
 - Compare with [[Elena Truthscribe
 - Parallels [Enthrall Xphb]]
 - Requires [[LORE00155_Prophecies_Entry_156
@@ -237,46 +231,39 @@ Competitor sabotaging business
 - Parallels [[Unity Shard
 - Influences [location-city-pristine-pearl-pristine-pearl.svg]]
 - See also:
-- Affected by [[The Addicted Nobles (D&D_References)
-- Leads to [Shadow Reflection Sage]]
+- Affected by [[The Addicted Nobles (D&D_References)]]
 - Connects to [[step_029 (phase_030)
 - Requires [step_067 (phase_100)]]
-- See also: [[death-dog-xmm
-- Compare with [Intellectual Freedom Movement]]
+- See also: [[Intellectual Freedom Movement]]
 - Influences [[Cordelia Deepcurrent
 - Connects to [Location City Deep Studycurrent V1 Deep Studycurrent.svg]]
 - Affected by [[four-armed-statue-oota (construct)
 - Originates from [Dr. Void Mindwright]]
-- Related: [[Wight Xmm
-- Originates from [NPC01388_Thalia_Proudmore_the_Swift]]
+- Related: [[NPC01388_Thalia_Proudmore_the_Swift]]
 - Related: [[step_020 (phase_094)
 - Connects to [Location City Risk Assessor Probability V1 Risk Assessor Probability.svg]]
 - Affected by [[Portrait NPC the Pressure Pirates V2 the Pressure Pirates.svg_1 (Portraits)
 - See also: [Gnome Xphb]]
 - See also: [[musician-xphb (feats)
 - Related: [The Void Conspiracy 2]]
-- Leads to [[MON00165_Undead_Creature_166
-- Parallels [step_079 (phase_087)]]
+- Leads to [[MON00165_Undead_Creature_166]]
 - Influences [[Merchant Honor Goldweaver
 - Affected by [step_048 (phase_047)]]
 - Affected by [[ITEM01464_Elegant_Lantern_of_Reliability
 - Parallels [Guards and Wards Xphb]]
 - Connects to [[The Final Confrontation
 - Compare with [Handout Handout Wanted Poster with Reward V3 Wanted Poster with Reward.png]]
-- See also: [[step_063 (phase_010)
-- Compare with [The Crystal Governance Institute 2]]
+- See also: [[The Crystal Governance Institute 2]]
 - See also: [[The Memory Keepers Guild
 - Related: [Elder Whisper-In-The-Dark (People)]]
 - Connects to [[step_062 (phase_093)
 - Influences [Other_Actual_Plays]]
 - Originates from [[Port Sorrow Trading Company 2
 - Related: [Assets Locations Location City Liberty Coalition Liberty Coalition.svg]]
-- Affected by [[Deep Oracle Bathys (D&D_References)
-- Requires [step_010 (phase_092)]]
+- Affected by [[Deep Oracle Bathys (D&D_References)]]
 - Affected by [[step_027 (phase_052)
 - Influences [giant-lizard-xmm (beast)]]
-- Requires [[Duchess Marina Ever-Drowning (D&D_References)
-- Influences [The Professional Standards Authority]]
+- Requires [[Duchess Marina Ever-Drowning (D&D_References)]]
 - Connects to [[SHOP00006_General_Shop_7
 - Requires
 - Influences [otyugh-xmm (aberration)]]

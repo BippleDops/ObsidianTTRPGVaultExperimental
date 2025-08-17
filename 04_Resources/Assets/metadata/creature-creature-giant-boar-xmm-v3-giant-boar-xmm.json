@@ -25,5 +25,8 @@
   "alt_text": "Concept art of giant-boar-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-giant-boar-xmm-v3-giant-boar-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-giant-boar-xmm-v3-giant-boar-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:02:46.583Z",
+  "generationMethod": "ComfyUI"
 }

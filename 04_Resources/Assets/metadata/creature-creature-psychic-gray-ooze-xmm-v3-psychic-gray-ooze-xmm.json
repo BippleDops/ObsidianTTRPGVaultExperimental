@@ -25,5 +25,8 @@
   "alt_text": "Concept art of psychic-gray-ooze-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-psychic-gray-ooze-xmm-v3-psychic-gray-ooze-xmm.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-psychic-gray-ooze-xmm-v3-psychic-gray-ooze-xmm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:07:52.502Z",
+  "generationMethod": "ComfyUI"
 }

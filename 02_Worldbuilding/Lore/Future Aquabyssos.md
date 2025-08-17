@@ -1,7 +1,6 @@
 ---
 
-title: Future [[Aquabyssos
-type: [Lore]]
+title: Future [[Aquabyssos]]
 tags:
 - lore
 - worldbuilding

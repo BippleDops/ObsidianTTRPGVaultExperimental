@@ -289,10 +289,8 @@ improvements: 20
 
 - [[Quest_Dependency_System (01_Adventures)
 - [Item_Catalog_Complete.md (Indexes)]]
-- [[Seven_Shards_Tracker.md
-- [Location_Network_Graph]]
-- [[deployment_report
-- [Master Narrative Web]]
+- [[Location_Network_Graph]]
+- [[Master Narrative Web]]
 - [[Topic Matrix
 - [Topic_Matrix (Indexes)]]
 - [[deep_quality_enhancement_20250814_175143

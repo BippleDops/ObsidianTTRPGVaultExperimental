@@ -170,10 +170,8 @@ Blackmails party into service
 - See also: [[boon-of-undetectability (rewards)
 - Parallels [step_054 (phase_041)]]
 - Requires
-- Affected by [[Heritage Archive (D&D_References)
-- Originates from [step_005 (phase_094)]]
-- Influences [[Crystal-Corruption-Tracking-Sheet (Lore)
-- Affected by [Ambassador Neutral]]
+- Affected by [[Heritage Archive (D&D_References)]]
+- Influences [[Crystal-Corruption-Tracking-Sheet]]
 - Related: [[Trade Networks
 - Related: [Location City the Whispering Caverns the Whispering Caverns.svg]]
 - Connects to [[step_025 (phase_070)
@@ -184,8 +182,7 @@ Blackmails party into service
 - Connects to [Dimensional Security Guards]]
 - Requires [[04_Resources_Assets_Locations_location-city-innkeeper-marina-dreamwhisper-v1-innkeeper-marina-dreamwhisper.svg
 - Related: [QUEST00183_Main_Quest_184]]
-- See also: [[Relationship_Web.canvas (D&D_References)
-- See also: [step_014 (phase_049)]]
+- See also: [[Relationship_Web.canvas (D&D_References)]]
 - Requires [[step_062 (phase_097)
 - Compare with [LOC00128_Towns_Location_129]]
 - Affected by [[step_099 (phase_024)
@@ -199,8 +196,7 @@ Blackmails party into service
 - Compare with [step_016 (phase_082)]]
 - Influences [[The Scholars of Divine Lore 2
 - See also: [Assets Locations Location City Supplier Erikson Tidecaller Supplier Erikson Tidecaller.svg]]
-- Parallels [[Crystal Sentinels (D&D_References)
-- Compare with [step_004 (phase_080)]]
+- Parallels [[Crystal Sentinels (D&D_References)]]
 - See also: [[LOC0026_OldWatch
 - Influences [Blessed Warrior Xphb]]
 - Compare with [[NPC0033_Helena_Stormwind
@@ -208,10 +204,8 @@ Blackmails party into service
 - Parallels [[ITEM00179_Blazing_Staff_of_Wounding
 - Requires
 - Parallels [Location City Diplomatic Service Diplomatic Service.svg]]
-- Compare with [[Commercial District (D&D_References)
-- See also: [Weretiger Xmm]]
-- Connects to [[NPC00422_Aeliana_Thornweave_the_Wise
-- Influences [QUEST00147_Personal_Quest_148]]
+- Compare with [[Commercial District (D&D_References)]]
+- Connects to [[NPC00422_Aeliana_Thornweave_the_Wise]]
 - Originates from [[04_Resources_Assets_Locations_location-city-the-deepmind-v1-the-deepmind.svg
 - Requires [totem]]
 - Leads to [[Location City Diplomatic Immunity V1 Diplomatic Immunity.svg
@@ -222,12 +216,10 @@ Blackmails party into service
 - See also: [Portrait NPC Original Glaucus V2 Original Glaucus.svg_1 (Portraits)]]
 - Compare with [[Pure Weapons Cache
 - Requires [step_099 (phase_040)]]
-- Parallels [[EVENT00057_Natural_Event_58
-- Compare with [Consortium Security Constructs (D&D_References)]]
+- Parallels [[Consortium Security Constructs (D&D_References)]]
 - Requires [[Governments Local Authorities
 - Compare with [Assets Locations Location City Church of the Tidal Throne V1 Church of the Tidal Throne.svg]]
-- Connects to [[Stormwind's Navigation Crystal (D&D_References)
-- Affected by [devastation-orb-pota (items)]]
+- Connects to [[Stormwind's Navigation Crystal (D&D_References)]]
 - Related: [[Location City the Eel Keepers V1 the Eel Keepers.svg
 - Parallels [The Transition Protocols]]
 - Influences [[Portrait NPC High Priestess Marina Oracleguard High Priestess Marina Oracleguard.svg
@@ -240,10 +232,8 @@ Blackmails party into service
 - Influences [Symbol Heraldry Purist Coalition V1 Purist Coalition.svg]]
 - Parallels [[Blade Barrier Xphb
 - Related: [ITEM00332_Blazing_Crossbow_of_Wounding]]
-- Leads to [[step_053 (phase_027)
-- See also: [Temporal Sentinels (D&D_References)]]
-- Connects to [[Generate Quest
-- Compare with [The Restoration of Crystal Grove (D&D_References)]]
+- Leads to [[Temporal Sentinels (D&D_References)]]
+- Connects to [[The Restoration of Crystal Grove (D&D_References)]]
 - Connects to [[cartographers-tools-xphb (items)
 - Compare with [bullywug-warrior-xmm (fey)]]
 - See also: [[Portrait NPC Harbor Master Luna Freedrift V1 Harbor Master Luna Freedrift.svg
@@ -253,13 +243,10 @@ Blackmails party into service
 - Parallels [step_009 (phase_039)]]
 - Leads to [[Damage Threshold Xphb
 - Requires [elemental-spirit-fire-xphb (elemental)]]
-- Requires [[6 Bestiary
-- Compare with [5 Halflings and Gnomes]]
+- Requires [[5 Halflings and Gnomes]]
 - See also:
-- Affected by [[1-introduction (monster-manual-2014)
-- Parallels [Manual of Golems Xdmg]]
-- Compare with [[The Purification Gardens (D&D_References)
-- Connects to [Far Realm]]
+- Affected by [[1-introduction (monster-manual-2014)]]
+- Compare with [[The Purification Gardens (D&D_References)]]
 - Related: [[NPC00089_Solas_Goldleaf
 - Influences [White Dragon Scale Mail Xdmg]]
 - Leads to [[mess-kit (items)
