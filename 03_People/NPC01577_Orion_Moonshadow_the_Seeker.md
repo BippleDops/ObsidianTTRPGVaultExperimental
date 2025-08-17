@@ -161,50 +161,23 @@ Has information about legendary item
 - Special moves
 
 ## See Also
-- [[NPC01041_Thalia_Dawnstrider_the_Lost
-- [NPC00749_Xander_Quicksilver]]
-- [[NPC00949_Nerys_Underhill_the_Wise
-- [NPC00250_Delara_Darkwater_the_Fallen]]
-- [[NPC00920_Malakai_Ravenheart_the_Guardian
-- [NPC00190_Cedric_Silverleaf]]
-- [[NPC01483_Gavril_Zephyrblade_the_Fallen
-- [NPC01252_Jorah_Youngblood_the_Strong]]
-- [[NPC01504_Erasmus_Zephyrblade_the_Strong
-- [NPC00663_Alaric_Dawnstrider_the_Strong]]
-- [[NPC01177_Thalia_Underhill_the_Fallen
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC01498_Gareth_Quicksilver_the_Risen
-- [NPC00739_Gavril_Ashford_the_Bold]]
-- [[NPC00461_Branwen_Proudmore_the_Strong
-- [NPC01126_Malakai_Oakenshield_the_Fallen]]
-- [[NPC00395_Aeliana_Thornweave
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC00707_Fiora_Oakenshield_the_Seeker
-- [NPC01594_Fiora_Proudmore_the_Seeker]]
-- [[NPC00812_Kaelen_Jadeclaw_the_Seeker
-- [Propaganda_Leaflet_Pearl_Guar]]
-- [[Propaganda_Broadsheet_Syndicate.md
-- [NPC01348_Xander_Zephyrblade_the_Wise]]
-- [[11 Spellcasting
-- [NPC00281_Hestara_Nightfall_the_Cunning]]
-- [[Ambassador Nerida Deepcurrent
-- [12 Spells]]
-- [[NPC01695_Ewan_Ashford_the_Fallen
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[NPC00872_Thalia_Ironwood_the_Broken
-- [NPC01290_Pyria_Ashford_the_Broken]]
-- [[MOC_Rules
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[MOC_Rules]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -212,8 +185,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -227,7 +199,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Connections
 
-- Influences [[[Wave Healingbringer 2]]
+- Influences [[Wave Healingbringer 2]]
 - Compare with [[Assassination Plot Frameworks
 - Influences [[[Gateway Keeper Riftwalk]] 2]]
 - Compare with [[dracolich-xmm (legendary-group)
@@ -246,18 +218,16 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [Fire Chief Michael Rescuer]]
 - Requires [[Leviatha
 - Influences [step_016 (phase_049)]]
-- Connects to [[[Port Meridian 2]]
+- Connects to [[Port Meridian 2]]
 - Requires [[Location City [Seeds of the Past V1 Seeds of the Past.svg]]
 - Related: [[QUEST00041_Personal_Quest_42
 - Influences [Portrait NPC High Inquisitor Maltheos V1 High Inquisitor Maltheos.svg]]
-- Parallels [[The Throne Room (D&D_References)
-- Compare with [The First Water]]
+- Parallels [[The Throne Room (D&D_References)]]
 - Related: [[ITEM00785_Void-touched_Amulet_of_Eternity
 - Originates from [[[Harbor Master Captain Dockwise]] 2]]
 - Originates from [[step_068 (phase_069)
-- Requires [[Assets Locations Location City [Historical Research]] Institute V1 [[Historical Research Institute.svg]]
-- Parallels [[step_061 (phase_037)
-- Requires [ENC00469_Combat_Encounter_470]]
+- Requires [[Assets Locations Location City [Historical Research]] Institute V1 [[Historical Research Institute]]
+- Parallels [[ENC00469_Combat_Encounter_470]]
 - Parallels [[15 Credits (dungeon-masters-guide-2014)
 - Requires [Forgery Kit Xphb]]
 - Related: [[step_054 (phase_080)
@@ -266,19 +236,15 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [Lacedon Ghoul Xmm]]
 - See also: [[NPC00067_Caelum_Stormwind
 - Originates from [MON0035_Storm_Guardian]]
-- Compare with [[01-chapter-1-prisoners-of-the-drow (out-of-the-abyss)
-- Compare with [step_003 (phase_010)]]
-- Influences [[[[[Merchant Prince Akula]] (D&D_References)]]
-- Affected by [[step_051 (phase_046)
-- Influences [ENC00216_Combat_Encounter_217]]
+- Compare with [[01-chapter-1-prisoners-of-the-drow (out-of-the-abyss)]]
+- Influences [[Merchant Prince Akula]] (D&D_References)]]
+- Affected by [[ENC00216_Combat_Encounter_217]]
 - Originates from [[Institute of Adaptive Sciences_1 (02_Worldbuilding)
 - See also: [step_065 (phase_028)]]
-- See also: [[Information Broker Whisper Goldtongue
-- Influences [step_042 (phase_053)]]
+- See also: [[Information Broker Whisper Goldtongue]]
 - Influences [[gnome-rill-cleverthrush-mtf (deities)
 - See also: [gold-cup-set-with-emeralds-xdmg (items)]]
-- Compare with [[LOC00127_Dungeons_Location_128
-- Compare with [[[Wealthy Goldcurrent]] (D&D_References)]]
+- Compare with [[LOC00127_Dungeons_Location_128]] (D&D_References)]]
 - Parallels [[step_004 (phase_059)
 - Originates from [ENC0061_Random_Encounter_62]]
 - Requires [[Otilukes Freezing Sphere Xphb
@@ -290,16 +256,14 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[location-city-spymaster-crow-spymaster-crow.svg
 - Originates from [SPELL00052_Arcane_Spell_53]]
 - Connects to
-- Connects to [[Elena Thornwhispe
-- Related: [The Living Spires (D&D_References)]]
+- Connects to [[The Living Spires (D&D_References)]]
 - Originates from [[Object Hit Points
 - See also: [Creating a Gnoll War Band Gnoll War Band]]
 - Affected by [[MON00077_Undead_Creature_78
 - Related: [[Location City [The Memory Storm Fields]] V1 the Memory Storm Fields.svg]]
 - Compare with [[bidirectional_links
 - Leads to [Location City Throne Room Heart of Palace Throne Room Heart of Palace.svg]]
-- Originates from [[Tax Commissioner Merion Goldcount 2
-- Requires [Symbol Heraldry Mas... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Originates from [[Symbol Heraldry Mas... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Originates from [[step_070 (phase_009)
 - Affected by [step_016 (phase_045)]]
 - Affected by
@@ -310,14 +274,12 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [step_026 (phase_050)]]
 - Parallels [[step_004 (phase_091)
 - Compare with [arrows-20-xphb (items)]]
-- Influences [[ENC00153_Social_Encounter_154
-- Connects to [NPC0101_Vera_Goldleaf]]
+- Influences [[ENC00153_Social_Encounter_154]]
 - Requires [[Navigate Fractal Reality
 - Originates from [LOC00051_Cities_Location_52]]
 - Leads to [[step_027 (phase_041)
 - Influences [[Assets Locations Location City [Goldspire Port]] Goldspire Port.svg]]
-- Originates from [[Location_Tracker
-- See also: [Environmental Systems Suppliers]]
+- Originates from [[Environmental Systems Suppliers]]
 - Compare with [[crystal-xphb (items)
 - Requires [[[Artificer]]'s Row 2]]
 - See also: [[SHOP00041_Specialty_Shop_42
@@ -325,8 +287,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels
 - Influences [[Quiver of Ehlonna Xdmg
 - Leads to [SHOP00001_Magical_Shop_2]]
-- Influences [[Crystal Cults (D&D_References)
-- Leads to [step_074 (phase_090)]]
+- Influences [[Crystal Cults (D&D_References)]]
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png

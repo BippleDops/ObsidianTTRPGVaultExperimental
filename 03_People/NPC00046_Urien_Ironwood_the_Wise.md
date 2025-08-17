@@ -156,30 +156,16 @@ Requires champions for trial by combat
 - Special moves
 
 ## See Also
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC01870_Lyanna_Silverleaf_the_Cunning
-- [NPC00385_Qadim_Darkwater_the_Cunning]]
-- [[NPC01841_Malakai_Nightfall_the_Wise
-- [NPC01312_Alaric_Darkwater_the_Fallen]]
-- [[NPC01012_Solas_Darkwater_the_Strong
-- [NPC00351_Corvus_Ironwood]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC00663_Alaric_Dawnstrider_the_Strong]]
-- [[NPC01229_Gavril_Ironwood_the_Scholar
-- [NPC01201_Felicia_Ironwood_the_Bold]]
-- [[NPC00451_Malakai_Ravenheart_the_Broken
-- [NPC00976_Alaric_Quicksilver_the_Strong]]
-- [[NPC00878_Kaelen_Ironwood_the_Strong
-- [Depth_Adapted_Background]]
-- [[NPC01151_Orion_Stormwind_the_Seeker
-- [10 Appendix B Creature Stat Blocks]]
-- [[MOC_Items
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[MOC_Items]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -200,10 +186,8 @@ Requires champions for trial by combat
 - Parallels [summon-lesser-demons-xge (spells)]]
 - See also: [[Giant Owl Xmm
 - Connects to [FAC00018_Guilds_19]]
-- Affected by [[The Treaty of Deepest Waters
-- Requires [step_074 (phase_012)]]
-- Originates from [[Quest - The Service Expansion
-- Affected by [step_032 (phase_098)]]
+- Affected by [[The Treaty of Deepest Waters]]
+- Originates from [[Quest - The Service Expansion]]
 - Affected by
 - Originates from [[step_093 (phase_038)
 - Related: [Location City Secondary Education Secondary Education.svg]]
@@ -220,8 +204,7 @@ Requires champions for trial by combat
 - See also: [Parliament Deep District 2]]
 - See also: [[Location City House Voidwhisper V1 House Voidwhisper.svg
 - Connects to [EVENT00008_Political_Event_9]]
-- Parallels [[Shard_Powers_and_Treasure
-- Leads to [Shadow Broker Mist]]
+- Parallels [[Shard_Powers_and_Treasure]]
 - Leads to [[Session_Recaps
 - Related: [ITEM00597_Warded_Boots_of_Protection]]
 - Affected by [[Darkness Xphb
@@ -248,8 +231,7 @@ Requires champions for trial by combat
 - Requires [[The Kelp Highways
 - Parallels [riding-horse-xmm]]
 - Connects to
-- Leads to [[LOC00220_Cities_Location_221
-- Influences [Golden Ballroom]]
+- Leads to [[LOC00220_Cities_Location_221]]
 - See also: [[step_099 (phase_018)
 - Originates from [Parasite_Boarding_&_Biohazards (02_Worldbuilding)]]
 - Influences [[mariners-armor-xdmg (items)
@@ -261,8 +243,7 @@ Requires champions for trial by combat
 - Originates from [The Threshold Chambers 2]]
 - See also: [[QUEST00388_Side_Quest_389
 - Parallels [The Resonance Cathedral 2]]
-- See also: [[MON00045_Constructs_Creature_46
-- See also: [The Pressure Chambers]]
+- See also: [[MON00045_Constructs_Creature_46]]
 - Originates from [[04_Resources_Assets_Locations_location-city-portal-commander-marina-bridgewright-portal-commander-marina-bridgewright.png
 - Affected by [Quest - The Depth War]]
 - See also: [[step_055 (phase_088)
@@ -278,10 +259,8 @@ Requires champions for trial by combat
 - Parallels [Location City Warehouse District V1 Warehouse District.svg]]
 - Requires [[Portrait NPC Deep Mother Cultist Profiles V2 Deep Mother Cultist Profiles.svg
 - Originates from [Tide Turner (D&D_References)]]
-- Related: [[telepathy-xphb (variant-rules)
-- Influences [step_012 (phase_041)]]
-- Parallels [[Truth-Seeker Cornelius (D&D_References)
-- Leads to [Information Trading System 2]]
+- Related: [[telepathy-xphb (variant-rules)]]
+- Parallels [[Truth-Seeker Cornelius (D&D_References)]]
 - Parallels [[SPELL00005_Nature_Spell_6
 - Parallels [Location City Noble Quarter Council Chambers Noble Quarter Council Chambers.svg]]
 - Affected by [[EVENT00004_Natural_Event_5
@@ -292,8 +271,7 @@ Requires champions for trial by combat
 - Originates from
 - Connects to [[ITEM0095_Hidden_Orb_of_the_Dawn
 - Compare with [Portrait NPC Investigator Supreme Lucian Brightwater Investigator Supreme Lucian Brightwater.svg]]
-- Compare with [[step_086 (phase_087)
-- Leads to [The Shadow Labs (D&D_References)]]
+- Compare with [[The Shadow Labs (D&D_References)]]
 - Influences [[LOC00005_Planes_Location_6
 
 ## Visual References

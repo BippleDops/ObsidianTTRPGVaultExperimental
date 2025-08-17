@@ -169,24 +169,17 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC_Relationship_Web.png_1 (03_People)
-- [NPC01252_Jorah_Youngblood_the_Strong]]
-- [[NPC01682_Vesper_Blackstone_the_Guardian
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[NPC00395_Aeliana_Thornweave
-- [NPC00515_Baelor_Crystalbrook_the_Seeker]]
-- [[Ritual_Timing_Wheel_Convergenc
-- [Archdruid Thornweaver]]
-- [[11 Spellcasting
-- [11 Rules Glossary]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[11 Rules Glossary]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -224,13 +217,10 @@ Modifications:
 - Requires [Assets Portraits Portrait NPC Duke Blackwater S Estate Duke Blackwater S Estate.svg]]
 - Parallels [[Cloud Gardens 2
 - Originates from [Green Dragon Wyrmling Xmm]]
-- Parallels [[Memory Authentication Device
-- Parallels [[[Council of Currents]] (D&D_References)]]
+- Parallels [[Memory Authentication Device]] (D&D_References)]]
 - Affected by [[Assets Locations Location City [Captain Echo V1 Captain Echo.svg]]
-- Influences [[step_031 (phase_046)
-- Parallels [Institute of Recursive Reality Studies]]
-- Originates from [[FAC00088_Cults_89
-- Affected by [Quartermaster Judith Steadfast]]
+- Influences [[Institute of Recursive Reality Studies]]
+- Originates from [[Quartermaster Judith Steadfast]]
 - Requires [[step_014 (phase_027)
 - Affected by
 - Connects to [Angels and Depths]]
@@ -241,8 +231,7 @@ Modifications:
 - Requires [ITEM00690_Warded_Boots_of_Protection]]
 - Leads to [[Iron Pot Xphb
 - Related: [[[Barkeep Salty Sarah]] (D&D_References)]]
-- Compare with [[Whisper Collective
-- Leads to [[[Chorus Master Melodia Depthsong]] (D&D_References)]]
+- Compare with [[Chorus Master Melodia Depthsong]] (D&D_References)]]
 - Leads to [[Princess Lyralei
 - Affected by [Treasurer Goldenshadow]]
 - Related: [[Location City [Emergency Management Emergency Management.svg]]
@@ -262,8 +251,7 @@ Modifications:
 - Requires [step_079 (phase_090)]]
 - Compare with [[SPELL00035_Divine_Spell_36
 - Affected by [03_Mechanics_Underwater_Adaptation_Rules_Quick_Ref]]
-- Requires [[NPC00088_Vesper_Oakenshield
-- Leads to [Bullywug Warrior Xmm]]
+- Requires [[NPC00088_Vesper_Oakenshield]]
 - Requires [[step_006 (phase_056)
 - Compare with [step_010 (phase_008)]]
 - Affected by [[step_089 (phase_046)
@@ -282,8 +270,7 @@ Modifications:
 - Related: [The Overflow]]
 - Requires [[step_087 (phase_064)
 - Related: [leviathan-mpmm (elemental)]]
-- Affected by [[step_080 (phase_048)
-- See also: [MON00066_Aberrations_Creature_67]]
+- Affected by [[MON00066_Aberrations_Creature_67]]
 - Affected by [[potion-of-giant-strength-xdmg (items)
 - Leads to [SHOP00064_Specialty_Shop_65]]
 - Originates from [[ITEM01490_Ornate_Lock_of_Durability

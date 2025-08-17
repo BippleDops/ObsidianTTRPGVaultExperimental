@@ -106,8 +106,7 @@ young-white-dragon-xmm: added reputation Militant-Priest Abyssal: added daily ro
 
 ## Related Content
 - [10K_GENERATION_REPORT]]
-- [[ULTIMATE_VAULT_ACHIEVEMENT
-- [NEXT_LEVEL_IMPROVEMENTS]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -136,8 +135,7 @@ young-white-dragon-xmm: added reputation Militant-Priest Abyssal: added daily ro
 - See also: [ITEM00917_Superior_Powder_of_Vigor]]
 - Requires [[step_048 (phase_082)
 - Influences [step_083]]
-- Compare with [[npc-secrets-xdmg (tables)
-- See also: [QUEST0072_In_Search_of_Knowledge]]
+- Compare with [[QUEST0072_In_Search_of_Knowledge]]
 - Leads to [[04_Resources_Assets_Locations_location-city-weapon-master-dain-sharpedge-v1-weapon-master-dain-sharpedge.svg
 - Compare with [step_085]]
 - Requires [[Lyra Voidweaver 2
@@ -146,18 +144,15 @@ young-white-dragon-xmm: added reputation Militant-Priest Abyssal: added daily ro
 - Requires [step_100]]
 - Requires [[step_037 (phase_099)
 - Influences [step_075]]
-- Compare with [[Mage Hunter Scc
-- Requires [LOC00249_Planes_Location_250]]
+- Compare with [[LOC00249_Planes_Location_250]]
 - Connects to [[README (04_Resources)
 - Connects to [Vehicle_Core_Rules#10) Crew Roles (Examples)]]
-- See also: [[Portrait NPC Marc... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Compare with [location-city-the-last-dance-the-last-dance.svg]]
+- See also: [[Portrait NPC Marc... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Connects to [[Assets Locations Location City Skyship Technology V1 Skyship Technology.svg
 - Connects to [The Spice Road (D&D_References)]]
 - Compare with [[Map Map Sundered Peaks Pass V2 Sundered Peaks Pass.svg
 - Influences [tiefling-names-female-xge (tables)]]
-- Leads to [[Memory Alteration 2
-- Parallels [ENC00018_Social_Encounter_19]]
+- Leads to [[ENC00018_Social_Encounter_19]]
 - Related: [[step_072
 - Compare with [step_012]]
 - Influences [[The Noble Compact (D&D_References)
@@ -170,8 +165,7 @@ young-white-dragon-xmm: added reputation Militant-Priest Abyssal: added daily ro
 - Originates from [Quest - Sky Pirates]]
 - Originates from [[QUEST00089_Side_Quest_90
 - Affected by [LOC00222_Towns_Location_223]]
-- Affected by [[step_085
-- Connects to [NPC00145_Wynne_Underhill_the_Risen]]
+- Affected by [[NPC00145_Wynne_Underhill_the_Risen]]
 - Connects to [[location-city-harbor-district-harbor-district.svg
 - Related: [LOC00042_Wilderness_Location_43]]
 - Connects to [[step_019 (phase_085)
@@ -188,8 +182,7 @@ young-white-dragon-xmm: added reputation Militant-Priest Abyssal: added daily ro
 - Affected by [Assets Symbols Symbol Heraldry the Architects of Depths the Architects of Depths.svg]]
 - See also: [[step_031 (phase_079)
 - Leads to [step_079 (phase_015)]]
-- See also: [[The Hidden Constitution Archive (D&D_References)
-- Originates from [Student NPC Stat Blocks Scc]]
+- See also: [[The Hidden Constitution Archive (D&D_References)]]
 - Parallels [[Assets Locations Location City Thalassa the Deepmother Thalassa the Deepmother.svg
 - Connects to [Assets Portraits Portrait NPC Captain Swift Cloudracer Captain Swift Cloudracer.svg]]
 - Requires [[The Synthesis Wastes
@@ -198,16 +191,13 @@ young-white-dragon-xmm: added reputation Militant-Priest Abyssal: added daily ro
 - Parallels [Symbol Heraldry Elara Crystalline Elara Crystalline.svg]]
 - See also: [[portrait-npc-the-emperor-v2-the-emperor.svg_1 (Portraits)
 - Originates from [World_State]]
-- Influences [[Energy State Conversion
-- Leads to [step_088]]
-- Influences [[Crystal Technology (D&D_References)
-- Related: [Skulk Mpmm]]
+- Influences [[Energy State Conversion]]
+- Influences [[Crystal Technology (D&D_References)]]
 - Originates from [[step_069 (phase_032)
 - See also: [step_099 (phase_035)]]
 - Originates from [[athlete-xphb (feats)
 - Influences [Frequency Weapons]]
-- Parallels [[NPC00760_Solas_Jadeclaw_the_Scholar
-- See also: [The Great Tidal Shrine 2]]
+- Parallels [[NPC00760_Solas_Jadeclaw_the_Scholar]]
 - Leads to [[Assets Locations Location City Harbor Wall Harbor Wall.svg
 - Connects to [The Iteration Collective (D&D_References)]]
 - Requires [[MON00040_Undead_Creature_41
@@ -218,11 +208,9 @@ young-white-dragon-xmm: added reputation Militant-Priest Abyssal: added daily ro
 - Leads to [Portrait NPC the Tidal Council V1 the Tidal Council.svg]]
 - Connects to [[The Singing Trenches_1
 - Originates from [mixing-potions-potion-miscibility-xdmg (tables)]]
-- Originates from [[Inter-Dimensional Artifacts Museum
-- Affected by [QUEST0075_The_Cursed_Alliance]]
+- Originates from [[Inter-Dimensional Artifacts Museum]]
 - See also: [[SPELL00017_Nature_Spell_18
 - Leads to [02_Worldbuilding_Groups_Political_Consulting_Guil]]
-- Influences [[10-combat#Being Prone
-- Requires [LORE00178_Legends_Entry_179]]
+- Influences [[10-combat#Surprise]]
 - Requires [[Locations Hybrid Ecology
 - Leads to [step_002 (phase_049)]]

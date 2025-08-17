@@ -163,28 +163,19 @@ Being extorted by criminals
 - Special moves
 
 ## See Also
-- [[NPC00749_Xander_Quicksilver
-- [NPC00878_Kaelen_Ironwood_the_Strong]]
-- [[NPC01989_Erasmus_Xendar_the_Strong
-- [NPC00388_Ysara_Goldleaf]]
-- [[NPC00317_Pyria_Blackstone_the_Redeemed
-- [NPC01951_Gavril_Xendar_the_Swift]]
-- [[NPC00542_Corvus_Oakenshield_the_Strong
-- [NPC00395_Aeliana_Thornweave]]
-- [[NPC00515_Baelor_Crystalbrook_the_Seeker
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[Propaganda_Leaflet_Pearl_Guar
-- [Quarantine_Notice_Crystal_Plagu]]
-- [[Smuggler_Route_Tally_Shee
-- [NPC00260_Wynne_Underhill_the_Fallen]]
-- [[MOC_Items
-- [09 Adventuring]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[09 Adventuring]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -213,10 +204,8 @@ Being extorted by criminals
 - Affected by [LOC00197_Dungeons_Location_198]]
 - Originates from [[MON00085_Undead_Creature_86
 - Compare with [location-city-scarlet-torrent-scarlet-torrent.svg]]
-- Leads to [[Ecological Balance Protocols 2
-- See also: [arcane-focus-xphb (items)]]
-- Leads to [[step_022 (phase_084)
-- Compare with [University Philosophy Departments 2]]
+- Leads to [[Ecological Balance Protocols 2]]
+- Leads to [[University Philosophy Departments 2]]
 - Leads to
 - Originates from [[QUEST00121_Side_Quest_122
 - Related:
@@ -235,33 +224,26 @@ Being extorted by criminals
 - Influences [[stone-warrior-pota (construct)
 - Connects to
 - Connects to [LOC00140_Dungeons_Location_141]]
-- Connects to [[ENC00474_Combat_Encounter_475
-- Influences [step_095 (phase_063)]]
+- Connects to [[ENC00474_Combat_Encounter_475]]
 - Affected by [[settlement-tables-and-tracker-tavern-names-xdmg
 - Connects to [Captain Henrik Saltbreeze]]
 - Affected by [[Location City Keeper Luminous Crystalbeam Keeper Luminous Crystalbeam.svg
 - Compare with [gelatinous-cube-xmm]]
-- Influences [[step_004 (phase_015)
-- See also: [Surgeon Coral Precisehands 2]]
+- Influences [[Surgeon Coral Precisehands 2]]
 - Requires [[Halfling Tables Halfling Ideals Mtf
 - Influences [ITEM01279_Superior_Elixir_of_Healing]]
 - Compare with [[The Forbidden Archives
 - Leads to
 - Parallels [MOC_Lore]]
-- Originates from [[LOC00082_Dungeons_Location_83
-- Originates from [Whisper Jack 2]]
-- Connects to [[Captain Storm Tideguard (D&D_References)
-- Leads to [Spy-Master Nonentity]]
-- Related: [[Master Harvest Engineer Kelp Deepso
-- Parallels [Greek Athena]]
+- Originates from [[LOC00082_Dungeons_Location_83]]
+- Connects to [[Captain Storm Tideguard (D&D_References)]]
+- Related: [[Master Harvest Engineer Kelp Deepso]]
 - Related: [[SPELL0047_Primal_Wave
 - See also: [Reputation_Tracker]]
-- Leads to [[Quest - The Shadow-Water Accords
-- See also: [Surface Breach Points (D&D_References)]]
+- Leads to [[Surface Breach Points (D&D_References)]]
 - Parallels [[Assets Item Artifact Ruby Xdmg V6 Ruby Xdmg.png
 - Leads to [Assets Portraits Portrait NPC Brother Marcus Steelbane Brother Marcus Steelbane.svg]]
-- See also: [[half-orc (races)
-- Parallels [Lieutenant Shadow Truthseeker]]
+- See also: [[Lieutenant Shadow Truthseeker]]
 - See also: [[Deep Mother Spawning Pools 2
 - Influences [Location City Crystal Powered Vessels Crystal Powered Vessels.svg]]
 - See also: [[step_074 (phase_063)
@@ -273,29 +255,24 @@ Being extorted by criminals
 - Affected by [[Crisis Communication Array
 - Parallels [ability-checks-typical-difficulty-classes-phb (tables)]]
 - Requires
-- Affected by [[Dockworkers Union 2
-- Affected by [Sister Morwyn Veilkeeper (D&D_References)]]
+- Affected by [[Sister Morwyn Veilkeeper (D&D_References)]]
 - Parallels [[LORE0042_Prophecy_of_the_Sundering
 - Affected by [Portrait NPC Tidal Priests Circle Tidal Priests Circle.svg]]
 - Compare with [[illusory-dragon-xge (spells)
 - Connects to [Construct Spirit Xphb]]
-- Influences [[NPC00170_Zephyr_Quicksilver_the_Wise
-- Requires [ENC00124_Combat_Encounter_125]]
+- Influences [[NPC00170_Zephyr_Quicksilver_the_Wise]]
 - Connects to [[chain-lightning-xphb (spells)
 - Compare with
 - Influences [Ancient Skyforge Complex 2]]
 - Affected by [[Portrait NPC Quest Faith and Doubt V1 Quest Faith and Doubt.svg
 - Influences [Shadow Resonance Medical Scanner]]
-- Requires [[MON00082_Undead_Creature_83
-- See also: [Castellan Ironledger]]
+- Requires [[MON00082_Undead_Creature_83]]
 - Originates from [[Keeper Luminous Crystalbeam 2
 - Affected by [Portrait NPC Quest the Crown S Return Quest the Crown S Return.svg]]
-- Originates from [[Hazards Dimensional Collapse
-- Compare with [Cultural Mediatio]]
+- Originates from [[Hazards Dimensional Collapse]]
 - See also: [[Handout Handout Ancient Prophecy Fragment V2 Ancient Prophecy Fragment.png
 - Influences [devourer-mpmm (undead)]]
-- Affected by [[ENC00133_Environmental_Encounter_134
-- Related: [Customs House (Lore)]]
+- Affected by [[ENC00133_Environmental_Encounter_134]]
 - Influences [[step_016 (phase_022)]]
 
 ## Plot Hooks

@@ -170,18 +170,14 @@ Modifications:
 > Important safety or rule information
 
 ## See Also
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [NPC00069_Thalia_Brightblade_the_Guardian]]
-- [[NPC00296_Elric_Jadeclaw_the_Bold
-- [NPC00707_Fiora_Oakenshield_the_Seeker]]
-- [[NPC00307_Dara_Proudmore_the_Seeker
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -212,13 +208,12 @@ Modifications:
 - Connects to [[Assets Locations Location City [Artisan Felix Reefwright Artisan Felix Reefwright.svg]]
 - Connects to [[Caravan Master Dolrim
 - Influences [step_065 (phase_052)]]
-- Leads to [[Field Engineer Stone Installwrigh
-- Requires [The Deep Mother's Garden (D&D_References)]]
+- Leads to [[The Deep Mother's Garden (D&D_References)]]
 - Compare with [[Demon Customization Tables Demon Bonds Mtf
 - Affected by [[Location City [Court Herald Titus]] V1 Court Herald Titus.svg]]
 - Compare with [[step_052 (phase_078)
 - Affected by [step_054 (phase_037)]]
-- See also: [[[The Aether Works (D&D_References)]]
+- See also: [[The Aether Works (D&D_References)]]
 - Influences [[step_096 (phase_100)
 - Requires [step_033 (phase_004)]]
 - Influences [[The Breathing Stone (D&D_References)
@@ -229,8 +224,7 @@ Modifications:
 - Compare with [Faction_Tracker.bas]]
 - Influences [[Portrait NPC Memory Harvester Kythara V2 Memory Harvester Kythara.svg_1 (Portraits)
 - Leads to [[[Wave Soothingtouch]] 2]]
-- Connects to [[star-sapphire-xdmg (items)
-- Parallels [NPC01399_Orion_Ashford_the_Bold]]
+- Connects to [[NPC01399_Orion_Ashford_the_Bold]]
 - Connects to [[ITEM00732_Infernal_Tome_of_Truth
 - Compare with [NPC0137_Rhea_Darkwater_the_Elder]]
 - Leads to [[Creating a Gnoll War Band Shared Physical Trait Vgm
@@ -239,37 +233,33 @@ Modifications:
 - Related: [[Assets Locations Location City [Captain Echo V1 Captain Echo.svg]]
 - Compare with
 - Parallels
-- Affected by [[Temple of Sacred Dreams
-- Originates from [[Down[Time]] Activity Carousing]]
+- Affected by [[Temple of Sacred Dreams]] Activity Carousing]]
 - Parallels [[Assets Locations [[Location City [Education Department V1 Education Department.svg]]]]
 - Influences [[NPC01513_Vesper_Silverleaf_the_Wise
 - Affected by [cloak-of-flies-xge (optional-features)]]
 - Parallels [[random-urban-encounters (tables)
 - Affected by [Layers of Carceri Xdmg]]
-- Related: [[[Keeper Temporal Safehaven (D&D_References)]]
-- Related: [[NPC01458_Aldric_Silverleaf_the_Scholar
-- Connects to [Professor Thane Voidwalker]]
-- Parallels [[ITEM00041_Thunder_Dagger_of_Speed
-- Connects to [Counter-Mirror Safe Houses (D&D_References)]]
+- Related: [[Keeper Temporal Safehaven (D&D_References)]]
+- Related: [[NPC01458_Aldric_Silverleaf_the_Scholar]]
+- Parallels [[Counter-Mirror Safe Houses (D&D_References)]]
 - Related: [[LORE00313_History_Entry_314
 - Compare with [3-dwarves-and-duergar (mordenkainens-tome-of-foes)]]
 - Parallels [[Crystal Exchange Plaza 2
 - Requires [step_048 (phase_027)]]
 - Originates from [[The Void Walkers
 - Affected by [step_052 (phase_020)]]
-- Influences [[[Forge of War (D&D_Statblocks)]]
+- Influences [[Forge of War (D&D_Statblocks)]]
 - Parallels [[step_021 (phase_038)
 - Originates from [step_052 (phase_095)]]
-- Leads to [[[Noble Houses 2]]
+- Leads to [[Noble Houses 2]]
 - Requires [[Assets Locations Location City [Marine Druids V1 Marine Druids.svg]]
 - Related: [[Item Artifact Ioun Stone Greater Absorption Xdmg V2 Ioun Stone Greater Absorption Xdmg.png
 - Requires [LOC00116_Cities_Location_117]]
 - Compare with [[NPC00962_Zephyr_Xendar_the_Lost
 - Affected by [Ambassador Nerida Deepcurrent]]
-- See also: [[NPC01147_Vesper_Blackstone_the_Risen
-- Parallels [GM Resources (Lore)]]
+- See also: [[NPC01147_Vesper_Blackstone_the_Risen]]
 - Affected by [[Portrait NPC Captain Thalia Stormguard V2 Captain Thalia Stormguard.svg
-- Connects to [[Location City the [Free Current]] V1 [[The Free Current.svg]]
+- Connects to [[Location City the [Free Current]] V1 [[The Free Current]]
 - Leads to [[The Pearl Divers Guild (Guilds)
 - Parallels [LOC00082_Wilderness_Location_83]]
 - Leads to
@@ -295,17 +285,13 @@ Modifications:
 - Related: [location-city-marina-swiftfin-marina-swiftfin.svg]]
 - Parallels [[kraken-priest-mpmm (monstrosity)
 - Affected by [step_024 (phase_051)]]
-- Affected by [[NPC00973_Jorah_Jadeclaw_the_Risen
-- Originates from [The Final Gasp]]
-- Related: [[QUEST0062_In_Search_of_Truth
-- Affected by [Autumn Eladrin Mpmm]]
+- Affected by [[NPC00973_Jorah_Jadeclaw_the_Risen]]
+- Related: [[QUEST0062_In_Search_of_Truth]]
 - See also:
 - Leads to [[step_007 (phase_013)
 - Leads to [step_022 (phase_085)]]
-- Affected by [[Stop the Crystal Festival Ritual (D&D_Statblocks)
-- Requires [layers-of-acheron-xdmg (tables)]]
-- Connects to [[Captain Shadowsail (D&D_References)
-- Affected by [ENC00268_Combat_Encounter_269]]
+- Affected by [[Stop the Crystal Festival Ritual (D&D_Statblocks)]]
+- Connects to [[Captain Shadowsail (D&D_References)]]
 - Parallels [[ITEM01170_Greater_Salve_of_Fortune
 - Related: [NPC00439_Thalia_Silverleaf]]
 - See also: [[Location City Master Goldwin Ledgerkeeper V1 Master Goldwin Ledgerkeeper.svg

@@ -11,5 +11,8 @@
     "mysterious",
     "generated"
   ],
-  "created": "2025-08-16T16:58:14.798Z"
+  "created": "2025-08-16T16:58:14.798Z",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:47:29.309Z",
+  "generationMethod": "ComfyUI"
 }

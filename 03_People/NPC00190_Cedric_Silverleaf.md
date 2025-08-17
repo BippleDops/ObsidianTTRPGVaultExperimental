@@ -169,22 +169,16 @@ Seeks bodyguards for dangerous journey
 - Special moves
 
 ## See Also
-- [[NPC01247_Xander_Zephyrblade_the_Risen
-- [Ambassador Nerida Deepcurrent]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [Party_Quests]]
-- [[Faction_Guide.md
-- [NPC00260_Wynne_Underhill_the_Fallen]]
-- [[NPC00129_Gareth_Jadeclaw
-- [11 Rules Glossary]]
-- [[Parliament of Shadows Player Guide.md
-- [NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC00129_Gareth_Jadeclaw]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -197,12 +191,10 @@ Seeks bodyguards for dangerous journey
 
 ## Connections
 
-- Leads to [[items (items)
-- Related: [Captain Threshold (D&D_References)]]
+- Leads to [[Captain Threshold (D&D_References)]]
 - Leads to [[Portrait NPC the Pearl Heist V2 the Pearl Heist.svg
 - Originates from [Theron Justcurrent]]
-- Parallels [[LORE0014_Secret_of_the_Fallen_Star
-- Connects to [Law Enforcement 3]]
+- Parallels [[LORE0014_Secret_of_the_Fallen_Star]]
 - Related: [[human-names-roman-male-xge (tables)
 - Connects to [brass-mug-with-jade-inlay-xdmg (items)]]
 - Originates from [[Quest - The Haunted Depths
@@ -213,29 +205,23 @@ Seeks bodyguards for dangerous journey
 - See also: [dead-xphb (variant-rules)]]
 - Influences [[step_079 (phase_098)
 - See also: [Scene Scene Storm Approaching the Airship V2 Storm Approaching the Airship.png]]
-- Parallels [[High Administrator Cornelius Protocols 2
-- Requires [The Convergence Point 3 (D&D_References)]]
+- Parallels [[High Administrator Cornelius Protocols 2]]
 - Requires [[The Multiverse
 - Influences [Map Map Drowned Cathedral Nave Drowned Cathedral Nave.svg]]
 - Originates from [[berbalang-mpmm (aberration)
 - See also:
 - Originates from [International Trade Routes 2]]
-- Requires [[QUEST00264_Side_Quest_265
-- Influences [MON00022_Aberrations_Creature_23]]
+- Requires [[MON00022_Aberrations_Creature_23]]
 - See also: [[Enspelled Armor Level 4 Xdmg
 - See also: [step_100 (phase_035)]]
-- Requires [[Consequence Chain 1 - Shadow Conspiracy Exposure (D&D_References)
-- Connects to [hunting-trap-xphb (items)]]
-- Parallels [[step_068 (phase_069)
-- Leads to [NPC01439_Erasmus_Silverleaf_the_Seeker]]
-- See also: [[SPELL00151_Arcane_Spell_152
-- Related: [Seventh Shard]]
+- Requires [[Consequence Chain 1 - Shadow Conspiracy Exposure (D&D_References)]]
+- Parallels [[NPC01439_Erasmus_Silverleaf_the_Seeker]]
+- See also: [[SPELL00151_Arcane_Spell_152]]
 - See also: [[ITEM0067_Divine_Blade_of_the_Dawn
 - Requires [Assets Locations Location City Pressure Tubes Pressure Tubes.svg]]
 - See also: [[step_060 (phase_089)
 - Leads to [step_008 (phase_085)]]
-- See also: [[step_055 (phase_099)
-- Influences [International Training Exchanges]]
+- See also: [[International Training Exchanges]]
 - Connects to [[Assets Portraits Portrait NPC Deep Fortress Network Deep Fortress Network.svg
 - Connects to [Dr. Marina Truthsight]]
 - Parallels [[Location City Government Leader Capable Government Leader Capable.svg
@@ -252,8 +238,7 @@ Seeks bodyguards for dangerous journey
 - Related: [MON00044_Undead_Creature_45]]
 - See also: [[The Umbral Nexus
 - Influences [Embroidered Silk and Velvet Mantle Set with Numerous Moonstones Xdmg]]
-- Related: [[ITEM01199_Lesser_Herb_of_Vigor
-- Influences [NPC00426_Baelor_Ashford_the_Fallen]]
+- Related: [[NPC00426_Baelor_Ashford_the_Fallen]]
 - Connects to [[Assets Portraits Portrait NPC Emperor Abyssal the Deep Sighted Emperor Abyssal the Deep Sighted.svg
 - Connects to [List Spells Classes Circle of the Sea Xphb]]
 - Compare with [[Fortress of the Deeps (Lore)
@@ -269,16 +254,14 @@ Seeks bodyguards for dangerous journey
 - Affected by
 - See also: [Tiefling Baalzebul Mtf]]
 - See also:
-- Affected by [[step_060 (phase_030)
-- Requires [Progressive Tide Movement 2]]
+- Affected by [[Progressive Tide Movement 2]]
 - See also: [[step_071 (phase_090)
 - Leads to [step_005 (phase_029)]]
 - Influences [[02_Worldbuilding_People_Senator_Nereon_Tidecaller
 - Related: [Symbol Heraldry Sacred Texts of Transformatio V1 Sacred Texts of Transformatio.svg]]
 - Compare with [[Prince Abyssos
 - Influences [Assets Locations Location City Choir Master Celestine Hymnsinger V1 Choir Master Celestine Hymnsinger.svg]]
-- Originates from [[The Deep Patrol (D&D_References)
-- Requires [Lysandra Tidecaller 2]]
+- Originates from [[The Deep Patrol (D&D_References)]]
 - Leads to [[Establish the New Order (Orders)
 - Influences [Psychic Shields 2]]
 - Connects to [[International Relations
@@ -291,8 +274,7 @@ Seeks bodyguards for dangerous journey
 - Compare with [The Real Marina 3 (D&D_References)]]
 - Parallels [[Keeper Sage Remembrance
 - Leads to [Location City His Eternal Majesty Keeper of the Throne of Bubbles V1 His Eternal Majesty Keeper of the Throne of Bubbles.svg]]
-- Affected by [[Artisan Associations (D&D_References)
-- See also: [step_086 (phase_050)]]
+- Affected by [[Artisan Associations (D&D_References)]]
 - Leads to [[Guildmaster Victoria Silvertongue
 - Affected by [location-city-crystal-speak-crystal-speak.png]]
 - Originates from [[Location City Harbor Pilot Guild Harbor Pilot Guild.svg

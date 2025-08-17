@@ -155,52 +155,27 @@ Witnessed a crime
 - Special moves
 
 ## See Also
-- [[NPC00649_Corvus_Zephyrblade_the_Broken
-- [NPC01979_Fiora_Emberfall_the_Guardian]]
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [NPC01041_Thalia_Dawnstrider_the_Lost]]
-- [[NPC00582_Cedric_Dawnstrider
-- [NPC00820_Thalia_Nightfall_the_Risen]]
-- [[NPC00927_Aldric_Ironwood_the_Wanderer
-- [Ambassador Nerida Deepcurrent]]
-- [[Marcus Shardbreaker Grimm_1
-- [NPC01504_Erasmus_Zephyrblade_the_Strong]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [Pip Goldleaf]]
-- [[NPC00815_Baelor_Thornweave_the_Swift
-- [NPC00469_Delara_Oakenshield_the_Seeker]]
-- [[NPC00860_Gavril_Winterborn_the_Swift
-- [NPC01177_Thalia_Underhill_the_Fallen]]
-- [[NPC00872_Thalia_Ironwood_the_Broken
-- [NPC01429_Zephyr_Keenblade_the_Cunning]]
-- [[NPC00162_Xander_Thornweave
-- [NPC01911_Alaric_Oakenshield_the_Mystic]]
-- [[NPC00057_Malakai_Stormwind_the_Cunning
-- [NPC01831_Alaric_Frostwhisper_the_Scholar]]
-- [[NPC01827_Kaelen_Ironforge_the_Seeker
-- [NPC01841_Malakai_Nightfall_the_Wise]]
-- [[NPC01632_Qadim_Darkwater_the_Guardian
-- [NPC00661_Corvus_Darkwater_the_Broken]]
-- [[NPC00587_Idris_Youngblood_the_Strong
-- [NPC01466_Urien_Nightfall_the_Guardian]]
-- [[NPC00552_Malakai_Stormwind_the_Seeker
-- [NPC00785_Ysara_Grimholt_the_Mystic]]
-- [[NPC00415_Gareth_Winterborn_the_Bold
-- [Ceasefire_Accord_Draft.md]]
-- [[Parliamentary_Voting_Guide
-- [Basic_Rules]]
-- [[Smuggler_Route_Tally_Shee
-- [Session_Recaps]]
-- [[10 Appendix B Creature Stat Blocks
-- [05 Personality and Background]]
-- [[11 Rules Glossary
-- [NPC01367_Lyanna_Xendar_the_Wise]]
-- [[MASTER_MOC
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC01831_Alaric_Frostwhisper_the_Scholar]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[Parliamentary_Voting_Guide]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]
+- [[MASTER_MOC]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -223,8 +198,7 @@ Witnessed a crime
 - Parallels [variant-spell-points-spell-point-cost (tables)]]
 - Connects to [[undead-spirit-skeletal-xphb (undead)
 - Leads to [LOC00250_Dungeons_Location_251]]
-- Parallels [[NPC00093_Branwen_Thornweave
-- Influences [step_038 (phase_044)]]
+- Parallels [[NPC00093_Branwen_Thornweave]]
 - Influences [[QUEST00216_Side_Quest_217
 - Originates from [step_088 (phase_028)]]
 - Leads to [[FAC00032_Cults_33
@@ -237,8 +211,7 @@ Witnessed a crime
 - Parallels [Black Pearl Bank]]
 - Requires [[wizard-xphb-school-of-transmutation (classes)
 - Requires [LOC00288_Planes_Location_289]]
-- Parallels [[Portrait NPC Trad... Related To: Local Political Structure Connected Plots: to Be Developed
-- Parallels [step_098 (phase_067)]]
+- Parallels [[Portrait NPC Trad... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Leads to [[step_065 (phase_083)
 - Originates from [Apprentice Bubbles]]
 - Leads to
@@ -256,8 +229,7 @@ Witnessed a crime
 - See also: [Zelkor's Ferry.png]]
 - Affected by [[The Bridge of Consciousness
 - Compare with [step_037 (phase_018)]]
-- Requires [[MON00030_Constructs_Creature_31
-- Originates from [Martha Hillbrook]]
+- Requires [[MON00030_Constructs_Creature_31]]
 - Related: [[Scene Scene Deep Mother S Tentacles Rising Deep Mother S Tentacles Rising.svg
 - Connects to [Sage Rememberall (D&D_References)]]
 - Related: [[Sword of Vengeance Xdmg
@@ -265,24 +237,20 @@ Witnessed a crime
 - Connects to [[Assets Portraits Portrait NPC Captain Harmony Tidereader Captain Harmony Tidereader.svg
 - Influences
 - Affected by [location-city-the-first-truth-the-first-truth.svg]]
-- Related: [[step_090 (phase_060)
-- Related: [Chief Engineer Brass Voidwright 2]]
+- Related: [[Chief Engineer Brass Voidwright 2]]
 - Leads to [[MON00165_Constructs_Creature_166
 - Originates from [LORE0006_Legend_of_the_Fallen_Star]]
 - Leads to [[QUEST00426_Side_Quest_427
 - Influences [The Contemplation Abyss 2]]
-- Compare with [[step_071 (phase_024)
-- Related: [Shadow Academy Training Ground]]
-- Compare with [[NPC01777_Gavril_Ashford_the_Fallen
-- Related: [LOC00113_Towns_Location_114]]
+- Compare with [[Shadow Academy Training Ground]]
+- Compare with [[NPC01777_Gavril_Ashford_the_Fallen]]
 - Affected by [[Cathedral of Light 2
 - Related: [The Choice Crown]]
 - Related: [[Piwafwi Cloak of Elvenkind Oota
 - Affected by [NPC00581_Brenna_Hawthorne_the_Bold]]
 - Originates from [[step_027 (phase_044)
 - Requires [List Spells Optional Features Breath of]]
-- Influences [[Abyssos Prime Upper Districts
-- Affected by [step_018 (phase_100)]]
+- Influences [[Abyssos Prime Upper Districts]]
 - Compare with [[Shadow Surgery Centers
 - See also: [Armor of Invulnerability Xdmg]]
 - Connects to [[Location City Acolyte Sister Tidal Deepfaith V1 Acolyte Sister Tidal Deepfaith.svg
@@ -296,20 +264,16 @@ Witnessed a crime
 - Parallels [LORE00018_History_Entry_19]]
 - See also: [[location-city-living-stone-v1-living-stone.svg
 - Influences [Temple of Echoing Tides (D&D_References)]]
-- Leads to [[summon-greater-demon-xge (spells)
-- Related: [Investigators Anonymous (D&D_References)]]
-- Parallels [[dwarven-ulaa-mtf (deities)
-- Related: [damage-roll-xphb (variant-rules)]]
+- Leads to [[Investigators Anonymous (D&D_References)]]
+- Parallels [[damage-roll-xphb (variant-rules)]]
 - Parallels [[step_092 (phase_061)
 - Leads to [Quest - Truth Market 2]]
-- Related: [[Diplomat Supreme International (D&D_References)
-- Related: [dwarven-thrower-xdmg (items)]]
+- Related: [[Diplomat Supreme International (D&D_References)]]
 - Parallels [[NPC00354_Caelum_Dawnstrider_the_Risen
 - Related: [Location City Scribe Master Elena Truthkeeper V1 Scribe Master Elena Truthkeeper.svg]]
 - Compare with [[giant-lizard-xmm (beast)
 - Originates from [Mechanics Aerial Combat]]
-- Influences [[SPELL00156_Divine_Spell_157
-- Related: [step_017 (phase_020)]]
+- Influences [[SPELL00156_Divine_Spell_157]]
 - Affected by
 - See also: [[item-types (CLI_Reference)
 - Related: [pyrotechnics-xge (spells)]]

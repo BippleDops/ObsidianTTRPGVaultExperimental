@@ -169,38 +169,17 @@ Modifications:
 
 ## See Also
 - [NPC01789_Vesper_Proudmore_the_Mystic]]
-- [[NPC00949_Nerys_Underhill_the_Wise
-- [NPC01858_Drusilla_Stormwind_the_Cunning]]
-- [[NPC00451_Malakai_Ravenheart_the_Broken
-- [Ambassador Nerida Deepcurrent]]
-- [[NPC01761_Idris_Moonshadow_the_Broken
-- [NPC00917_Brenna_Oakenshield_the_Seeker]]
-- [[NPC01695_Ewan_Ashford_the_Fallen
-- [NPC01599_Gavril_Keenblade_the_Strong]]
-- [[NPC00385_Qadim_Darkwater_the_Cunning
-- [NPC01841_Malakai_Nightfall_the_Wise]]
-- [[NPC00296_Elric_Jadeclaw_the_Bold
-- [NPC01057_Pyria_Quicksilver_the_Scholar]]
-- [[NPC01664_Pyria_Lightbringer_the_Redeemed
-- [NPC00599_Cedric_Lightbringer_the_Wise]]
-- [[NPC00515_Baelor_Crystalbrook_the_Seeker
-- [Measurement_Guide_Depth_and_Pressur]]
-- [[Parliament of Shadows Player Guide.md
-- [Trade_Route_Map_Aquabyssos_to_Aethermoor]]
-- [[Session_Recaps
-- [10 Combat]]
-- [[11 Rules Glossary
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[Session_Recaps]]
+- [[11 Rules Glossary]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -212,8 +191,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -230,20 +208,16 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[The Meridian Amnesia Zone
 - See also: [xvart-mpmm (monstrosity)]]
 - Connects to
-- Influences [[[The Observatory of Depths]]
-- Related: [[Submersible_Schematic_Pressure_Gate_Scou
-- Related: [Marquis Storm Tempest]]
-- Leads to [[Arsenal Keeper Thane Ironwill
-- Affected by [Egyptian Ptah]]
+- Influences [[The Observatory of Depths]]
+- Related: [[Submersible_Schematic_Pressure_Gate_Scou]]
+- Leads to [[Arsenal Keeper Thane Ironwill]]
 - Related: [[Portrait NPC Reflection Captain Vantage V1 Reflection Captain Vantage.svg
 - Influences
 - Related: [NPC01107_Kaelen_Lightbringer_the_Swift]]
 - Affected by [[Crystal Forest
 - Influences [The Chronicle Scribes]]
-- Originates from [[NPC00030_Urien_Winterborn
-- Leads to [step_019 (phase_006)]]
-- Related: [[step_079 (phase_073)
-- Influences [Thalassa the Pathfinder (D&D_References)]]
+- Originates from [[NPC00030_Urien_Winterborn]]
+- Related: [[Thalassa the Pathfinder (D&D_References)]]
 - Compare with [[step_056 (phase_069)
 - Originates from [QUEST00012_Side_Quest_13]]
 - Affected by [[Quest1 (01_Adventures)
@@ -266,8 +240,8 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [step_049 (phase_022)]]
 - Connects to [[Assets Locations Location City [Social Clubs V1 Social Clubs.svg]]
 - Requires [[artisans-tools-xphb (items)
-- Related: [[Location City the [Free Current]] V1 [[The Free Current.svg]]
-- Related: [[[Ancient Historian Memento (D&D_References)]]
+- Related: [[Location City the [Free Current]] V1 [[The Free Current]]
+- Related: [[Ancient Historian Memento (D&D_References)]]
 - Originates from [[Drow 2 Armor Mm
 - Related: [[The [Tethyan Hegemony]] (D&D_References)]]
 - Originates from [[Galley Xphb
@@ -276,8 +250,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [SPELL00073_Nature_Spell_74]]
 - Parallels [[step_088 (phase_044)
 - Parallels [LOC0035_Valestead]]
-- Requires [[ENC00487_Combat_Encounter_488
-- Affected by [step_038 (phase_034)]]
+- Requires [[ENC00487_Combat_Encounter_488]]
 - Connects to [[SPELL0010_Eldritch_Shield
 - See also: [wings-of-flying-xdmg (items)]]
 - Originates from [[Location City [Memory Sharing Techniques V1 Memory Sharing Techniques.svg]]
@@ -299,20 +272,17 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [mass-heal-xphb (spells)]]
 - Connects to [[Kraken (D&D_References)
 - See also: [Assets Portraits Portrait NPC Quest the Brother S Burden Quest the Brother S Burden.svg]]
-- Leads to [[MON00129_Constructs_Creature_130
-- Related: [Soul Cage Xge]]
+- Leads to [[MON00129_Constructs_Creature_130]]
 - Leads to [[unarmed-fighting-xphb (feats)
 - Influences [step_046 (phase_030)]]
 - Related: [[step_059 (phase_010)
 - Originates from [[Location City [Scholar Thalosseus]] V1 Scholar Thalosseus.svg]]
-- See also: [[step_088 (phase_012)
-- See also: [The Umbral Market Plaza (D&D_References)]]
+- See also: [[The Umbral Market Plaza (D&D_References)]]
 - Affected by [[step_070 (phase_069)
 - Requires [step_028 (phase_031)]]
 - Affected by [[Portrait NPC the Parasite Priests V2 the Parasite Priests.svg
 - Compare with [Marcus Goldweaver (D&D_References)]]
-- Related: [[Captain Valeria (D&D_References)
-- Affected by [Shipwreck Cove]]
+- Related: [[Captain Valeria (D&D_References)]]
 - See also: [[LORE00183_Prophecies_Entry_184
 - Parallels [Crystal_Academy (Places)]]
 - See also: [[Mind Flayer Psion Vgm
@@ -321,11 +291,10 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [Quest - Seeds of the Deep]]
 - Originates from [[step_057 (phase_004)
 - Related: [The Unity Shard]]
-- Compare with [[[Battle Priest Cassius Depthshield 2]]
+- Compare with [[Battle Priest Cassius Depthshield 2]]
 - Influences [[Spell Scroll Level 2 Xdmg
 - Originates from [[Location City [Marcus Clausewright]] V1 Marcus Clausewright.svg]]
-- Influences [[The Sorrowmaster (D&D_Statblocks)
-- Requires [step_056 (phase_024)]]
+- Influences [[The Sorrowmaster (D&D_Statblocks)]]
 - Related: [[short-rest-xphb
 
 ## Visual References

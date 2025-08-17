@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:37.135552"
 modified: "2025-08-15T12:24:37.135558"
-aliases: [Session 05 [[Political Intrigue]] Example]
+aliases: [Session 05 [[Political Intrigue Session]] Example]
 ---
 
 # Session 05 [[Political Intrigue Example

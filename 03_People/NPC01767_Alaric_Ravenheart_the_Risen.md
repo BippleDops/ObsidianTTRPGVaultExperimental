@@ -163,42 +163,26 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC01195_Gareth_Keenblade_the_Guardian
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[Ambassador Nerida Deepcurrent
-- [NPC01013_Corvus_Ravenheart_the_Bold]]
-- [[NPC00815_Baelor_Thornweave_the_Swift
-- [NPC01463_Aeliana_Zephyrblade_the_Fallen]]
-- [[NPC00259_Delara_Proudmore
-- [NPC01301_Jorah_Underhill_the_Broken]]
-- [[NPC00174_Aldric_Silverleaf_the_Fallen
-- [NPC01858_Drusilla_Stormwind_the_Cunning]]
-- [[NPC01429_Zephyr_Keenblade_the_Cunning
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[NPC01827_Kaelen_Ironforge_the_Seeker
-- [NPC00385_Qadim_Darkwater_the_Cunning]]
-- [[NPC01989_Erasmus_Xendar_the_Strong
-- [Sage Elara]]
-- [[NPC00237_Vesper_Ashford_the_Bold
-- [NPC01951_Gavril_Xendar_the_Swift]]
-- [[NPC00927_Aldric_Ironwood_the_Wanderer
-- [Measurement_Guide_Depth_and_Pressur]]
-- [[Propaganda_Leaflet_Pearl_Guar
-- [Propaganda_Broadsheet_Syndicate.md]]
-- [[Player_Comfort_Check
-- [Downtime_Activities]]
-- [[NPC00542_Corvus_Oakenshield_the_Strong
-- [NPC00317_Pyria_Blackstone_the_Redeemed]]
-- [[Welcome_to_Aquabyssos.md
-- [NPC00812_Kaelen_Jadeclaw_the_Seeker]]
-- [[11 Rules Glossary
-- [MOC_Rules]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Player_Comfort_Check]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[11 Rules Glossary]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -213,24 +197,20 @@ Modifications:
 
 ## Connections
 
-- Influences [[Seeds of Tomorrow (D&D_References)
-- Requires [[[Merchant]] Thane Goldwhisper]]
+- Influences [[Seeds of Tomorrow (D&D_References)]] Thane Goldwhisper]]
 - Related: [[Assets Locations [[Location City [Coral Lifeshaper V1 Coral Lifeshaper.svg]]]]
 - Affected by [[Portrait NPC Captain Prism Shield Valeria V2 Captain Prism Shield Valeria.svg
 - See also: [step_076 (phase_013)]]
 - See also: [[Location City [The First Failure the First Failure.svg]]
-- Related: [[Reflection Pools (D&D_References)
-- Originates from [[[Aquabyssos]] Trade Seal (Lore)]]
+- Related: [[Reflection Pools (D&D_References)]] Trade Seal (Lore)]]
 - Compare with [[step_031 (phase_068)
 - Compare with [step_007 (phase_006)]]
-- Connects to [[Professor Aldric Crystalweaver (D&D_Statblocks)
-- Connects to [Runaway_Golem_Quest]]
-- Influences [[SPELL00050_Divine_Spell_51
-- Parallels [step_035 (phase_083)]]
+- Connects to [[Professor Aldric Crystalweaver (D&D_Statblocks)]]
+- Influences [[SPELL00050_Divine_Spell_51]]
 - Compare with [[Portrait NPC the Great Trade Routes the Great Trade Routes.svg_1 (Portraits)
 - Leads to [LOC00299_Cities_Location_300]]
 - Leads to
-- Affected by [[[Temple Districts]]
+- Affected by [[Temple Districts]]
 - Affected by [[list-spells-feats-fey-touched-xphb (lists)
 - Requires [Duke Marcus Brightshield]]
 - Affected by [[step_032 (phase_022)
@@ -239,10 +219,8 @@ Modifications:
 - Requires [Assets Portraits Portrait NPC Mirror Breaking Crystals Mirror Breaking Crystals.svg]]
 - Influences [[step_044 (phase_089)
 - Leads to [[Location City [Hybrid Communities Integration]] V1 Hybrid Communities Integration.svg]]
-- Parallels [[02-chapter-1-playing-the-game#Dropping Prone
-- Influences [potion-of-longevity-xdmg (items)]]
-- Influences [[Master of the Gallery Cornelius Publicvoice 2
-- Originates from [LOC00269_Dungeons_Location_270]]
+- Parallels [[02-chapter-1-playing-the-game (players-handbook-2024)]]
+- Influences [[Master of the Gallery Cornelius Publicvoice 2]]
 - Leads to [[storm-giant-quintessent-vgm (legendary-group)
 - Requires [minotaur-skeleton-xmm (undead)]]
 - Parallels [[step_072 (phase_073)
@@ -253,12 +231,10 @@ Modifications:
 - Connects to [[Assets Locations Location City [Trader Compass Rose]] Trader Compass Rose.svg]]
 - Requires [[potion-of-comprehension-xdmg (items)
 - Parallels [Aquabyssos Culture and Society]]
-- Related: [[step_004 (phase_043)
-- See also: [Shadow Contamination Scanners]]
+- Related: [[Shadow Contamination Scanners]]
 - Requires [[step_018 (phase_013)
 - Influences [ITEM01291_Refined_Elixir_of_Fortune]]
-- Affected by [[Wayfarer Xphb
-- Requires [[[Reality Anchoring Technology]] (D&D_References)]]
+- Affected by [[Reality Anchoring Technology]] (D&D_References)]]
 - Related: [[step_023 (phase_034)
 - Related: [step_034 (phase_033)]]
 - Parallels [[step_063 (phase_048)
@@ -280,8 +256,7 @@ Modifications:
 - Leads to [[Location City Maze Heart Crystal Maze Heart Crystal.svg
 - Originates from
 - Requires [step_017_implement_audio_organization]]
-- Requires [[SPELL00007_Nature_Spell_8
-- Requires [Reality Maintenance Department 2]]
+- Requires [[Reality Maintenance Department 2]]
 - Connects to [[myconid-adult-xmm (plant)
 - Connects to [Field Medic Shadowstitch]]
 - Connects to
@@ -306,10 +281,8 @@ Modifications:
 - See also:
 - Requires [[Quest Refugees of the Deep
 - Related: [QUEST00015_Side_Quest_16]]
-- Related: [[step_083 (phase_045)
-- Originates from [Quarantine_Notice_Crystal_Plagu]]
-- Leads to [[Archshadow Daemon Shadowrift
-- Requires [Intelligence Services]]
+- Related: [[Quarantine_Notice_Crystal_Plagu]]
+- Leads to [[Archshadow Daemon Shadowrift]]
 - Originates from [[Rival Merchant Prince Gold
 - Influences [Symbol Heraldry Political Parties of Aquabyssos Political Parties of Aquabyssos.svg]]
 - Influences [[Forgotten Realms Gond

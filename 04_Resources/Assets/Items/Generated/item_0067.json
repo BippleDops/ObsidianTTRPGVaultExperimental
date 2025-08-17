@@ -8,5 +8,8 @@
   ],
   "created": "2025-08-16T16:58:14.631Z",
   "rarity": "legendary",
-  "category": "artifact"
+  "category": "artifact",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:49:44.508Z",
+  "generationMethod": "ComfyUI"
 }

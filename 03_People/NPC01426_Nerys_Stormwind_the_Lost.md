@@ -172,8 +172,7 @@ Knows secret about major threat
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -194,8 +193,7 @@ Knows secret about major threat
 - See also: [step_039 (phase_042)]]
 - Affected by [[Location_Template_1
 - Related: [Assets Locations Location City Quieting the Depths Quieting the Depths.svg]]
-- Leads to [[Temporal Archivist Chronos
-- Connects to [Whisper Archives]]
+- Leads to [[Temporal Archivist Chronos]]
 - Leads to
 - Influences [[one-of-a-kind-objects-hag-objects-vgm (tables)
 - Requires [step_013 (phase_018)]]
@@ -203,14 +201,12 @@ Knows secret about major threat
 - Originates from [NPC01288_Qadim_Oakenshield_the_Wanderer]]
 - Influences [[LORE00050_History_Entry_51
 - Parallels [portrait-npc-captain-rescue-v2-captain-rescue.svg]]
-- Influences [[QUEST00230_Personal_Quest_231
-- Parallels [step_011 (phase_029)]]
+- Influences [[QUEST00230_Personal_Quest_231]]
 - Related: [[random-individual-treasure-xdmg (tables)
 - Parallels [Aquabyssos_Languages]]
 - Parallels [[Location City Pressure Polyps V1 Pressure Polyps.svg
 - Connects to [List Spells Optional Features Book of]]
-- Leads to [[step_085 (phase_089)
-- Connects to [07-chapter-7-escape-from-the-underdark (out-of-the-abyss)]]
+- Leads to [[07-chapter-7-escape-from-the-underdark (out-of-the-abyss)]]
 - Originates from [[Combat Training Facilities
 - Affected by [Assets Portraits Portrait NPC Shadow Binding Sanctum Shadow Binding Sanctum.svg]]
 - Requires [[Audio Gallery
@@ -219,21 +215,17 @@ Knows secret about major threat
 - Compare with [ITEM01008_Refined_Oil_of_Swiftness]]
 - Originates from [[Assets Item Artifact Spell Gem Lapis Lazuli Oota V2 Spell Gem Lapis Lazuli Oota.png
 - Connects to [Crystal-Enhanced Businesses 2]]
-- See also: [[step_020 (phase_040)
-- See also: [War Machine Assembly Halls (D&D_References)]]
+- See also: [[War Machine Assembly Halls (D&D_References)]]
 - Connects to [[rust-monster-xmm (monstrosity)
 - Affected by [step_088 (phase_009)]]
 - Connects to [[ITEM0109_Forgotten_Gauntlet_of_the_Dawn
 - Originates from [Vault Maintenance Checklist (D&D_References)]]
 - Requires
-- Parallels [[ENC00307_Combat_Encounter_308
-- Affected by [step_032 (phase_082)]]
+- Parallels [[ENC00307_Combat_Encounter_308]]
 - Related: [[The Memory Academies
 - Requires [MON0025_Frost_Devourer]]
-- Requires [[Commercial Dispute Resolution Procedures 2
-- Influences [SPELL00024_Arcane_Spell_25]]
-- Connects to [[NPC01531_Pyria_Goldleaf_the_Wise
-- Compare with [step_014 (phase_067)]]
+- Requires [[Commercial Dispute Resolution Procedures 2]]
+- Connects to [[NPC01531_Pyria_Goldleaf_the_Wise]]
 - See also: [[Portable Hole Xdmg
 - Originates from [LOC00240_Towns_Location_241]]
 - Parallels [[Quest - International Crisis
@@ -256,8 +248,7 @@ Knows secret about major threat
 - Related: [Rise or Fall of a Leader or an Era Leader]]
 - Originates from [[NPC00472_Pyria_Ironforge
 - Connects to [Foreign Crystal Traders 2]]
-- Leads to [[sunburst-xphb (spells)
-- Parallels [NPC01307_Jorah_Ironforge_the_Lost]]
+- Leads to [[NPC01307_Jorah_Ironforge_the_Lost]]
 - Compare with [[Assets Portraits Portrait NPC Captain Henrik Proudbanner Captain Henrik Proudbanner.svg
 - Connects to [new-ability-scores-honor-and-sanity (variant-rules)]]
 - Influences [[Ancestor Memorial Spaces 2
@@ -272,8 +263,7 @@ Knows secret about major threat
 - Influences [step_065 (phase_059)]]
 - Originates from [[False Breathers
 - Leads to [saving-throws (tables)]]
-- Leads to [[Prep Note
-- See also: [NPC00087_Jorah_Voidwalker_the_Guardian]]
+- Leads to [[NPC00087_Jorah_Voidwalker_the_Guardian]]
 - Influences [[location-city-temple-clergy-temple-clergy.svg
 - Connects to
 - See also: [step_008 (phase_017)]]

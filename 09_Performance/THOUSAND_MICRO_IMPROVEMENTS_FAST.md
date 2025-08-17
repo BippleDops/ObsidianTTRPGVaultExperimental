@@ -129,18 +129,15 @@ publish: false --- # 1000+ Micro-Improvements Report (Fast Version) ## Executive
 - Influences [step_029]]
 - Parallels [[QUEST00030_Main_Quest_31
 - See also: [spell-scroll-level-4-xdmg (items)]]
-- Influences [[step_062 (phase_080)
-- Affected by [Training Sergeant Major Veteran Teachstrike]]
-- Compare with [[NPC00243_Vesper_Nightfall_the_Redeemed
-- Leads to [NPC00511_Delara_Youngblood_the_Strong]]
+- Influences [[Training Sergeant Major Veteran Teachstrike]]
+- Compare with [[NPC00243_Vesper_Nightfall_the_Redeemed]]
 - Influences [[Portrait NPC Senator Cordelia Deepcurrent V2 Senator Cordelia Deepcurrent.svg_1 (Portraits)
 - See also: [The Thorned Sanctuary]]
 - Influences [[Defense Captain Ironguard
 - Originates from [Location City Mad Prophet Silas the Depth Touched V1 Mad Prophet Silas the Depth Touched.svg]]
 - Leads to [[Assets Locations Location City Crystallium Crystallium.svg
 - Influences [Lamp Xphb]]
-- Leads to [[Environmental Engineer Current Depthwrigh
-- Influences [Thunderclap Xphb]]
+- Leads to [[Environmental Engineer Current Depthwrigh]]
 - Requires [[LOC00043_Wilderness_Location_44
 - Related: [forgotten-realms-waukeen (deities)]]
 - Compare with [[Royal Court of Aethermoor
@@ -159,8 +156,7 @@ publish: false --- # 1000+ Micro-Improvements Report (Fast Version) ## Executive
 - Parallels [step_023 (phase_079)]]
 - Influences [[guards-and-wards-xphb (spells)
 - See also: [Crystal Addiction Victims]]
-- Originates from [[Aethermoor Session 07 the Festival of Transformation
-- Influences [Locate Object Xphb]]
+- Originates from [[Aethermoor Session 07 the Festival of Transformation]]
 - Requires [[Boon of Invincibility
 - Parallels [ITEM00060_Radiant_Hammer_of_Power]]
 - Originates from [[Assets Locations Location City Priest Thomas Messagekeeper Priest Thomas Messagekeeper.svg
@@ -169,26 +165,20 @@ publish: false --- # 1000+ Micro-Improvements Report (Fast Version) ## Executive
 - Related: [step_024]]
 - Influences [[The Liminal Trading Company
 - Connects to [Assets Vehicles Vehicle Ship Harbor Guardian Gunboat V2 Harbor Guardian Gunboat.svg]]
-- Connects to [[Crystal Sanctum
-- Leads to [ENC00124_Combat_Encounter_125]]
-- Parallels [[NPC01973_Faelyn_Keenblade_the_Scholar
-- Requires [step_040 (phase_099)]]
-- Compare with [[step_048 (phase_062)
-- Influences [NPC01904_Kaelen_Thornweave_the_Swift]]
-- See also: [[Beholder Xmm
-- Related: [Adaptation Medical Society]]
+- Connects to [[ENC00124_Combat_Encounter_125]]
+- Parallels [[NPC01973_Faelyn_Keenblade_the_Scholar]]
+- Compare with [[NPC01904_Kaelen_Thornweave_the_Swift]]
+- See also: [[Adaptation Medical Society]]
 - Parallels [[Assets Locations Location City Temple of the Deep Waters Temple of the Deep Waters.svg
 - Compare with [Location City Memorial Current Memorial Current.png]]
 - Compare with [[step_023 (phase_070)
 - Influences [step_018 (phase_066)]]
 - See also: [[spider-xmm (beast)
 - See also: [wretched-sorrowsworn-mpmm (monstrosity)]]
-- Requires [[Wanted_Poster
-- Influences [Academic Institutions 2]]
+- Requires [[Academic Institutions 2]]
 - Influences [[stone-giant-xmm
 - Connects to [Fighter Xphb Psi Warrior Xphb]]
-- Originates from [[Memory Meadows 3 (D&D_References)
-- Compare with [NPC_Interaction_Review]]
+- Originates from [[Memory Meadows 3 (D&D_References)]]
 - Parallels [[step_050 (phase_090)
 - Parallels [step_100]]
 - Influences [[Living Reef
@@ -199,8 +189,7 @@ publish: false --- # 1000+ Micro-Improvements Report (Fast Version) ## Executive
 - Parallels [The Diplomatic Protocol Commission]]
 - Connects to [[step_067
 - Affected by [Family Retainer 2]]
-- See also: [[step_039 (phase_009)
-- Influences [Aethermoor Council (D&D_References)]]
+- See also: [[Aethermoor Council (D&D_References)]]
 - Connects to [[chime-of-opening-xdmg (items)
 - Affected by [LORE00103_Legends_Entry_104]]
 - Influences [[step_093 (phase_048)
@@ -211,14 +200,11 @@ publish: false --- # 1000+ Micro-Improvements Report (Fast Version) ## Executive
 - Compare with [danse-macabre-xge (spells)]]
 - Related: [[The Dimensional Hospital
 - Parallels [Veritas the Drowned]]
-- Leads to [[Art_Brief_Database (Assets)
-- Parallels [step_001 (phase_081)]]
-- Influences [[Downtime Activity Selling a Magic Item Xge
-- Affected by [Yuan Ti Dendar Vgm]]
+- Leads to [[Art_Brief_Database (Assets)]]
+- Influences [[Downtime Activity Selling a Magic Item Xge]]
 - See also: [[Session 30 Campaign Finale
 - Leads to [ITEM00982_Refined_Elixir_of_Clarity]]
-- Affected by [[QUEST0047_In_Search_of_Power
-- Related: [NPC0008_Ivan_Stormwind]]
+- Affected by [[QUEST0047_In_Search_of_Power]]
 - Related: [[War Machine Engineers 2
 - See also: [Quest - The Shattered Memories_1 (01_Adventures)]]
 - Parallels [[ITEM00017_Blessed_Bow_of_Speed

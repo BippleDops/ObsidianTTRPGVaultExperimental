@@ -159,28 +159,19 @@ Needs discrete help with family scandal
 - Special moves
 
 ## See Also
-- [[NPC00285_Xander_Goldleaf_the_Mystic
-- [NPC01013_Corvus_Ravenheart_the_Bold]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC00300_Urien_Zephyrblade]]
-- [[NPC01870_Lyanna_Silverleaf_the_Cunning
-- [NPC00582_Cedric_Dawnstrider]]
-- [[Emergency_Evacuation_Map_Stormglass_Riot
-- [Combat_Encounter_Analysis]]
-- [[NPC01699_Orion_Oakenshield_the_Broken
-- [Reference.md]]
-- [[11 Spellcasting
-- [11 Rules Glossary]]
-- [[MOC_Items
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[11 Rules Glossary]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -205,12 +196,10 @@ Needs discrete help with family scandal
 - See also: [[Location City the Wandering Atoll V1 the Wandering Atoll.svg
 - Originates from [Assets Locations Location City the Sunken Markets V1 the Sunken Markets.svg]]
 - Influences
-- Requires [[step_019 (phase_020)
-- Parallels [Conflict Resolution Division]]
+- Requires [[Conflict Resolution Division]]
 - Influences [[Crystal Jellies
 - Influences [ITEM00736_Void-touched_Amulet_of_Eternity]]
-- Influences [[step_076 (phase_067)
-- Affected by [The Deep Sovereign 3 (D&D_References)]]
+- Influences [[The Deep Sovereign 3 (D&D_References)]]
 - Influences [[Ivan_Fireborn
 - See also: [The Aether Works 2]]
 - Affected by [[The Vault of Values
@@ -224,16 +213,13 @@ Needs discrete help with family scandal
 - Connects to [ITEM00927_Refined_Elixir_of_Vigor]]
 - Parallels [[Foraging_Rules
 - See also: [portrait-npc-the-tidecaller-v1-the-tidecaller.svg_1 (Portraits)]]
-- Related: [[QUEST00040_Personal_Quest_41
-- Influences [Community Resource Sharing (D&D_References)]]
-- See also: [[Warden Marcus Stonehand (D&D_References)
-- Compare with [Justice Shadowin]]
+- Related: [[Community Resource Sharing (D&D_References)]]
+- See also: [[Warden Marcus Stonehand (D&D_References)]]
 - Influences [[LORE00137_Prophecies_Entry_138
 - See also: [Seven Shards (Lore)]]
 - Compare with [[ITEM00581_Warded_Plate_of_Grace
 - Compare with [Assets Locations Location City Diplomatic Service Diplomatic Service.svg]]
-- Parallels [[Maintenance Tech Reef Fixwright (D&D_References)
-- Parallels [SHOP00049_General_Shop_50]]
+- Parallels [[Maintenance Tech Reef Fixwright (D&D_References)]]
 - Affected by [[LOC00289_Towns_Location_290
 - Affected by [LOC00261_Wilderness_Location_262]]
 - Compare with [[QUEST00081_Main_Quest_82
@@ -262,15 +248,11 @@ Needs discrete help with family scandal
 - Originates from [Assets Locations Location City Truth and Madness Truth and Madness.svg]]
 - Originates from [[README (Calculators)
 - See also: [couatl-xmm (celestial)]]
-- Leads to [[Deep Oracle Thessaly (D&D_References)
-- Originates from [ENC00373_Combat_Encounter_374]]
-- Requires [[LOC00193_Dungeons_Location_194
-- See also: [Crystal Academy]]
-- See also: [[Magistrate Justice Lawkeeper
-- Compare with [Symbol Heraldry Tem... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Leads to [[Deep Oracle Thessaly (D&D_References)]]
+- Requires [[LOC00193_Dungeons_Location_194]]
+- See also: [[Symbol Heraldry Tem... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - See also:
-- See also: [[Safe Passage Guild (Guilds)
-- Leads to [NPC01590_Caelum_Winterborn_the_Redeemed]]
+- See also: [[NPC01590_Caelum_Winterborn_the_Redeemed]]
 - See also: [[Gold Idol Xdmg
 - See also: [Rural Resistance]]
 - Leads to
@@ -284,16 +266,13 @@ Needs discrete help with family scandal
 - Leads to [Location City Official Memory Keepers V1 Official Memory Keepers.svg]]
 - Parallels [[step_051 (phase_032)
 - Related: [Assets Locations Location City Maelstrom Palace V1 Maelstrom Palace.svg]]
-- Compare with [[step_002 (phase_008)
-- Influences [NPC01600_Ewan_Zephyrblade_the_Guardian]]
+- Compare with [[NPC01600_Ewan_Zephyrblade_the_Guardian]]
 - Originates from [[duergar-in-the-clan-clans-notable-trait-mtf (tables)
 - Compare with [Location City Abyssos Prime Pressure Terminal V1 Abyssos Prime Pressure Terminal.svg]]
 - Compare with [[Crab Xmm
 - Requires [step_018 (phase_011)]]
-- Influences [[ENC00071_Environmental_Encounter_72
-- Affected by [The Memory Anchor 2]]
-- Originates from [[Bracers of Defense Xdmg
-- Compare with [Banker Titus Goldcurrent (D&D_References)]]
+- Influences [[ENC00071_Environmental_Encounter_72]]
+- Originates from [[Banker Titus Goldcurrent (D&D_References)]]
 - See also: [[QUEST00165_Side_Quest_166
 - Affected by [Implements Uncommon Xdmg]]
 

@@ -176,30 +176,14 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [NPC00095_Fiora_Nightfall]]
-- [[NPC01301_Jorah_Underhill_the_Broken
-- [NPC00174_Aldric_Silverleaf_the_Fallen]]
-- [[NPC00296_Elric_Jadeclaw_the_Bold
-- [NPC01841_Malakai_Nightfall_the_Wise]]
-- [[NPC00395_Aeliana_Thornweave
-- [NPC00552_Malakai_Stormwind_the_Seeker]]
-- [[NPC01476_Qadim_Stormwind_the_Wise
-- [NPC01151_Orion_Stormwind_the_Seeker]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
 - [[Ceasefire_Accord_Draft.md
 - [Session_Recaps]]
-- [[MOC_Rules
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[MOC_Rules]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -208,8 +192,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -228,8 +211,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [Blessing of Magic Resistance Xdmg]]
 - Affected by [[Marina-Red-Tide-Coralheart (People)
 - Compare with [The Order of the Azure Flame]]
-- Connects to [[ENC00253_Combat_Encounter_254
-- Parallels [Elena Starweaver]]
+- Connects to [[ENC00253_Combat_Encounter_254]]
 - Related: [[Brooch of Shielding Xdmg
 - Originates from [step_019 (phase_029)]]
 - See also: [[step_019 (phase_100)
@@ -246,11 +228,10 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [step_087 (phase_010)]]
 - Parallels [[step_077 (phase_081)
 - See also: [List Spells Classes Draconic Sorcery Xphb]]
-- Compare with [[[Memory Thief (D&D_Statblocks)]]
+- Compare with [[Memory Thief (D&D_Statblocks)]]
 - Parallels [[DUN00006_Dungeon_7
 - Affected by [QUEST00292_Side_Quest_293]]
-- See also: [[step_063 (phase_080)
-- Requires [Forest Encounters Levels 510 Xge]]
+- See also: [[Forest Encounters Levels 510 Xge]]
 - Leads to [[Seismic Activity
 - Affected by [LORE00310_Legends_Entry_311]]
 - Affected by [[Item Template
@@ -260,8 +241,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [step_045 (phase_004)]]
 - Compare with [[The Cipher Current
 - Influences [List Spells Classes Oath of the Ancients Xphb]]
-- Parallels [[Pressure Angels (D&D_References)
-- Connects to [SPELL00050_Divine_Spell_51]]
+- Parallels [[Pressure Angels (D&D_References)]]
 - Influences [[Location City [Pressure Wraiths Pressure Wraiths.svg]]
 - Requires [[Assets Locations Location City [Magnus Ledgerkeep V1 Magnus Ledgerkeep.svg]]
 - Parallels
@@ -277,20 +257,15 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [Key_Locations (02_Worldbuilding)]]
 - Related: [[interception-xphb (feats)
 - See also: [Enspelled Staff Level 6 Xdmg]]
-- Compare with [[ENC00082_Environmental_Encounter_83
-- Originates from [Ring of Protection Xdmg]]
-- Related: [[Research Director Aquarius Brightwater
-- Requires [LOC00287_Towns_Location_288]]
-- Compare with [[Ambush Drake Hotdq
-- Leads to [Duchess Marina Ever-Drowning]]
-- Influences [[component-pouch-xphb (items)
-- Parallels [Cultural Liaison Twilight Bridgewalker]]
+- Compare with [[ENC00082_Environmental_Encounter_83]]
+- Related: [[Research Director Aquarius Brightwater]]
+- Compare with [[Duchess Marina Ever-Drowning]]
+- Influences [[Cultural Liaison Twilight Bridgewalker]]
 - Parallels [[step_072 (phase_087)
 - Affected by [absorb-elements-xge (spells)]]
 - Parallels [[step_086 (phase_070)
 - Originates from [#Star_Systems]]
-- Related: [[gazer-mpmm (aberration)
-- Connects to [Master Adapter Fluid Depthshifter]]
+- Related: [[Master Adapter Fluid Depthshifter]]
 - Connects to [[LOC00110_Wilderness_Location_111
 - Leads to [Item Artifact Travelers Clothes Xphb V3 Travelers Clothes Xphb.png]]
 - Parallels
@@ -303,8 +278,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [NPC00154_Dara_Winterborn]]
 - Connects to [[Memory of Heroes
 - Parallels [Round Down Xphb]]
-- Influences [[ITEM0034_Cursed_Tome_of_Power
-- Affected by [step_026 (phase_027)]]
+- Influences [[ITEM0034_Cursed_Tome_of_Power]]
 - Originates from [[LORE00156_Legends_Entry_157
 - Requires [location-city-market-heist-v1-market-heist.svg]]
 - Connects to [[Location City [Keeper Luminous Crystalbeam V1 Keeper Luminous Crystalbeam.svg]]
@@ -320,8 +294,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [Vault Keeper Eternal]]
 - Parallels [[blessing-of-protection-xdmg (rewards)
 - See also: [The Great Shattering 2]]
-- Connects to [[Corrupted Merrow
-- Parallels [ENC00279_Social_Encounter_280]]
+- Connects to [[ENC00279_Social_Encounter_280]]
 - Related: [[Location City Temple Scholar Depth Seer Temple Scholar Depth Seer.svg
 - See also: [LORE00198_Prophecies_Entry_199]]
 

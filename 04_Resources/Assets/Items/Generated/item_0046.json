@@ -8,5 +8,8 @@
   ],
   "created": "2025-08-16T16:58:14.622Z",
   "rarity": "common",
-  "category": "potion"
+  "category": "potion",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:49:39.818Z",
+  "generationMethod": "ComfyUI"
 }

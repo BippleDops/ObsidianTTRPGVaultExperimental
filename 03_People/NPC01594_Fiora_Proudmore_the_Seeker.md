@@ -165,54 +165,32 @@ Knows secret about major threat
 - Special moves
 
 ## See Also
-- [[NPC01229_Gavril_Ironwood_the_Scholar
-- [NPC01113_Solas_Ravenheart_the_Cunning]]
-- [[NPC01831_Alaric_Frostwhisper_the_Scholar
-- [NPC00281_Hestara_Nightfall_the_Cunning]]
-- [[NPC00317_Pyria_Blackstone_the_Redeemed
-- [NPC00761_Aldric_Moonshadow_the_Guardian]]
-- [[NPC01979_Fiora_Emberfall_the_Guardian
-- [NPC00655_Jorah_Darkwater_the_Seeker]]
-- [[NPC00949_Nerys_Underhill_the_Wise
-- [NPC01789_Vesper_Proudmore_the_Mystic]]
-- [[NPC00324_Idris_Hawthorne_the_Strong
-- [NPC01757_Nerys_Silverleaf_the_Strong]]
-- [[NPC01682_Vesper_Blackstone_the_Guardian
-- [NPC01028_Erasmus_Darkwater_the_Strong]]
-- [[NPC01552_Branwen_Lightbringer_the_Swift
-- [NPC01429_Zephyr_Keenblade_the_Cunning]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [NPC01301_Jorah_Underhill_the_Broken]]
-- [[NPC01892_Gareth_Xendar_the_Scholar
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC00707_Fiora_Oakenshield_the_Seeker
-- [Character_Journals]]
-- [[Faction_Relationship_Web
-- [Player_Portal.md]]
-- [[Depth_Adapted_Background.md
-- [Wanted_Poster_Syndicate_Fenc]]
-- [[Welcome to Aquabyssos
-- [NPC00372_Alaric_Grimholt]]
-- [[13 Conditions
-- [World_Primer.md]]
-- [[07 Customization Options
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[12 Spells
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[Depth_Adapted_Background
-- [10 Appendix B Creature Stat Blocks]]
-- [[05 Personality and Background
-- [NPC00259_Delara_Proudmore]]
-- [[MASTER_MOC
-- [NPC01476_Qadim_Stormwind_the_Wise]]
-- [[NPC01699_Orion_Oakenshield_the_Broken
-- [Parliament of Shadows Player Guide.md]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[NPC01831_Alaric_Frostwhisper_the_Scholar]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[Faction_Relationship_Web]]
+- [[Wanted_Poster_Syndicate_Fenc]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[13 Conditions]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[05 Personality and Background]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -226,8 +204,7 @@ Knows secret about major threat
 
 ## Connections
 
-- See also: [[step_097 (phase_026)
-- Originates from [Prophetic Studies (D&D_References)]]
+- See also: [[Prophetic Studies (D&D_References)]]
 - Compare with [[step_006 (phase_099)
 - Parallels [climbers-kit-xphb (items)]]
 - Leads to [[The Vault of Whispers 2
@@ -240,16 +217,14 @@ Knows secret about major threat
 - Compare with [step_069 (phase_045)]]
 - Compare with [[Assets Locations Location City Specimen Careful Lifeguard V1 Specimen Careful Lifeguard.svg
 - Related: [Assets Locations Location City Divine Communication Studies V1 Divine Communication Studies.svg]]
-- Affected by [[LOC00036_Dungeons_Location_37
-- Influences [1 How to Use a Monster]]
+- Affected by [[LOC00036_Dungeons_Location_37]]
 - Leads to [[Box of Turquoise Animal Figurines Xdmg
 - Related: [Block and Tackle Xphb]]
 - Compare with [[step_051 (phase_030)
 - See also: [step_030 (phase_062)]]
 - See also: [[QUEST00119_Side_Quest_120
 - Connects to [enspelled-weapon-level-6-xdmg (items)]]
-- See also: [[Deep Initiation
-- Compare with [The Guild of Reef Builders]]
+- See also: [[The Guild of Reef Builders]]
 - Affected by [[Deep Mother Protocol 2
 - Compare with
 - Related: [Umbros Shadowdrain 2]]
@@ -259,19 +234,15 @@ Knows secret about major threat
 - Compare with [Location City Harbor Pilot Guild V1 Harbor Pilot Guild.svg]]
 - Compare with [[Dark Gift of Norganas the Finger of Oblivion
 - Influences [step_024 (phase_026)]]
-- Compare with [[08-using-ability-scores#Skills
-- Parallels [Shadow Bazaar]]
-- Leads to [[QUEST0082_In_Search_of_Redemption
-- Compare with [step_004 (phase_033)]]
+- Compare with [[08-using-ability-scores#Wisdom]]
+- Leads to [[QUEST0082_In_Search_of_Redemption]]
 - Parallels [[ITEM00911_Lesser_Potion_of_Vigor
 - Leads to
 - Affected by [NPC00106_Gareth_Winterborn]]
 - Related: [[Assets Locations Location City Merchant Guild Headquarters V1 Merchant Guild Headquarters.svg
 - Affected by [Ancient Mining Communities (D&D_References)]]
-- Originates from [[step_038 (phase_095)
-- Leads to [Crystal Forest (D&D_References)]]
-- See also: [[Lumengarde City (D&D_References)
-- Compare with [step_027 (phase_057)]]
+- Originates from [[Crystal Forest (D&D_References)]]
+- See also: [[Lumengarde City (D&D_References)]]
 - See also: [[The Abyss Beneath Aquabyssos (Lore)
 - Related: [50K_ENHANCEMENTS_COMPLETE]]
 - Compare with [[Location City Chief Engineer Marina Crystalwright V1 Chief Engineer Marina Crystalwright.svg
@@ -290,8 +261,7 @@ Knows secret about major threat
 - Originates from [NPC00182_Urien_Emberfall]]
 - Related: [[DUN00037_Dungeon_38
 - Affected by [step_034 (phase_026)]]
-- Compare with [[Great Pressure Shift
-- Related: [Banker Cornelius Goldflow]]
+- Compare with [[Banker Cornelius Goldflow]]
 - Compare with [[Kesh Shadowbrew
 - Requires [FAC00024_Cults_25]]
 - Requires [[Symbol Heraldry Quest the Family Reconciliatio V1 Quest the Family Reconciliatio.svg
@@ -306,8 +276,7 @@ Knows secret about major threat
 - Influences [Tidal Stormcrest]]
 - Influences [[step_072 (phase_067)
 - Originates from [step_034 (phase_021)]]
-- Leads to [[step_028 (phase_066)
-- Leads to [15 the Planes of Existence]]
+- Leads to [[15 the Planes of Existence]]
 - Affected by
 - Originates from [[step_055 (phase_027)
 - Related:
@@ -318,12 +287,10 @@ Knows secret about major threat
 - Parallels [AI_Game_Master_Assistant]]
 - Related: [[step_009 (phase_046)
 - See also: [At Sea Encounters]]
-- Connects to [[NPC00460_Elric_Goldleaf_the_Wanderer
-- Affected by [The People's Movement]]
+- Connects to [[NPC00460_Elric_Goldleaf_the_Wanderer]]
 - Leads to [[magic-item-crafting-time-and-cost-xdmg (tables)
 - Leads to [step_002 (phase_066)]]
-- Leads to [[Arctic Encounters Levels 1720 Xge
-- Leads to [SPELL00130_Arcane_Spell_131]]
+- Leads to [[Arctic Encounters Levels 1720 Xge]]
 - Connects to [[Portrait NPC Captain Torren Stormwright Captain Torren Stormwright.svg
 - Influences [Antitoxin Xphb]]
 

@@ -165,46 +165,28 @@ Modifications:
 > How this works in play
 
 ## See Also
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC01252_Jorah_Youngblood_the_Strong]]
-- [[NPC01568_Lyanna_Winterborn_the_Strong
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC00336_Alaric_Frostwhisper_the_Swift
-- [NPC01360_Ewan_Blackstone_the_Strong]]
-- [[NPC00872_Thalia_Ironwood_the_Broken
-- [NPC00317_Pyria_Blackstone_the_Redeemed]]
-- [[NPC01892_Gareth_Xendar_the_Scholar
-- [NPC00878_Kaelen_Ironwood_the_Strong]]
-- [[NPC01577_Orion_Moonshadow_the_Seeker
-- [NPC01276_Erasmus_Keenblade_the_Wanderer]]
-- [[NPC00542_Corvus_Oakenshield_the_Strong
-- [NPC00761_Aldric_Moonshadow_the_Guardian]]
-- [[NPC01177_Thalia_Underhill_the_Fallen
-- [NPC00917_Brenna_Oakenshield_the_Seeker]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [NPC01858_Drusilla_Stormwind_the_Cunning]]
-- [[NPC00058_Elric_Nightfall
-- [NPC00920_Malakai_Ravenheart_the_Guardian]]
-- [[NPC00283_Kaelen_Zephyrblade_the_Bold
-- [NPC00661_Corvus_Darkwater_the_Broken]]
-- [[NPC00260_Wynne_Underhill_the_Fallen
-- [NPC01761_Idris_Moonshadow_the_Broken]]
-- [[NPC00582_Cedric_Dawnstrider
-- [Calendar_Conversions_Realm_Window]]
-- [[Trade_Route_Map_Aquabyssos_to_Aethermoor
-- [NPC00612_Thalia_Jadeclaw_the_Fallen]]
-- [[15 the Planes of Existence
-- [13 Conditions]]
-- [[Trade_Route_Chart_Port_Meridia
-- [10 Appendix B Creature Stat Blocks]]
-- [[12 Spells
-- [NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[15 the Planes of Existence]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -229,7 +211,7 @@ Modifications:
 
 ## Connections
 
-- Compare with [[[Aethermoor Technical University]]
+- Compare with [[Aethermoor Technical University]]
 - Requires [[step_035 (phase_055)
 - Connects to [[location-city-[Artificer]]-v1-artificer.svg]]
 - Compare with [[NPC00663_Alaric_Dawnstrider_the_Strong
@@ -245,12 +227,10 @@ Modifications:
 - Parallels [NPC00960_Gavril_Hawthorne_the_Guardian]]
 - Influences [[truth-serum-xdmg (items)
 - Parallels [location-city-seven-shards-v1-seven-shards.svg]]
-- Connects to [[NPC00452_Solas_Lightbringer_the_Swift
-- Related: [step_063 (phase_054)]]
+- Connects to [[NPC00452_Solas_Lightbringer_the_Swift]]
 - Affected by [[The Vault of Whispers
 - Related: [[[[Harbormaster [Tidal Stormcrest]]]] 2]]
-- Related: [[LOC00080_Wilderness_Location_81
-- Related: [step_045 (phase_016)]]
+- Related: [[LOC00080_Wilderness_Location_81]]
 - Affected by [[forgotten-realms-eldath (deities)
 - Affected by [half-elf (races)]]
 - Related: [[upper-class-carousing-complications-xge (tables)
@@ -261,22 +241,20 @@ Modifications:
 - Influences [[Justice Shadowin
 - Connects to
 - Connects to [[Location City [The Deep Temple]] V1 the Deep Temple.svg]]
-- See also: [[LOC00298_Planes_Location_299
-- Affected by [[[The Deserter]]'s Tale (D&D_References)]]
+- See also: [[LOC00298_Planes_Location_299]]'s Tale (D&D_References)]]
 - Requires [[ITEM00270_Blessed_Sword_of_Speed
 - Originates from [ITEM00588_Ethereal_Plate_of_Fortitude]]
 - See also: [[Quest - The Refugee Emergency_1 (01_Adventures)
 - See also: [Greataxe Xphb]]
 - See also: [[Pressure Effects
 - Originates from [Portrait NPC Crystal Plague Infected Npcs V1 Crystal Plague Infected Npcs.svg_1 (Portraits)]]
-- Originates from [[Bio-Integration Researcher [Coral Lifeshaper (D&D_References)]]
+- Originates from [[Coral Lifeshaper (D&D_References)]]
 - Related: [[Brother Pelagios Irondeep
 - Parallels [step_023 (phase_020)]]
 - Related:
 - Originates from [[Healer Dawnshad
 - Related: [Gold Comb Shaped Like a Dragon with Red Garnets As Eyes Xdmg]]
-- Affected by [[MON00133_Undead_Creature_134
-- See also: [Main Location]]
+- Affected by [[MON00133_Undead_Creature_134]]
 - Parallels [[Safe Passage Guild (Guilds)
 - Originates from [Portrait NPC Captain Valeria V1 Captain Valeria.svg]]
 - Related: [[Portrait NPC Captain Thorne Darkwater V2 Captain Thorne Darkwater.svg
@@ -287,13 +265,11 @@ Modifications:
 - Connects to
 - See also: [[Forest Communities
 - Connects to [[[Harbor Master's License]] (D&D_References)]]
-- Connects to [[[Royal Academy of Arcane Arts Ruins (Places)]]
-- Connects to [[The Blight Druids (D&D_References)
-- Parallels [The Lady's Garden Society (D&D_References)]]
+- Connects to [[Royal Academy of Arcane Arts Ruin]]
+- Connects to [[The Lady's Garden Society (D&D_References)]]
 - Affected by [[The Scholars of Divine Lore
 - Affected by [[Assets Locations Location City [The Archive Keepers]] the Archive Keepers.svg]]
-- Requires [[step_056 (phase_013)
-- Parallels [The Clockwork Depths (D&D_References)]]
+- Requires [[The Clockwork Depths (D&D_References)]]
 - Parallels [[blowgun-xphb (items)
 - Influences [Master Cultivators Guild (Groups)]]
 - See also: [[Sylvanheart
@@ -312,13 +288,11 @@ Modifications:
 - Related:
 - Connects to [[Assets Locations Location City [Coral Reef Sanctuaries]] Coral Reef Sanctuaries.svg]]
 - Compare with [[Location City [Court Herald Master Proclamation Crownvoice V1 Court Herald Master Proclamation Crownvoice.svg]]
-- Compare with [[[Archivist Methodius Recordkeeper (D&D_References)]]
-- Related: [[Orc Names Orc Male Names Vgm
-- Connects to [NPC00759_Malakai_Ironforge_the_Redeemed]]
+- Compare with [[Archivist Methodius Recordkeeper (D&D_References)]]
+- Related: [[NPC00759_Malakai_Ironforge_the_Redeemed]]
 - Related: [[Sage of Two Worlds 2
 - Affected by [Brass Dragon]]
-- Affected by [[step_050 (phase_078)
-- Parallels [[[The Sunken Cathedral of Perfect Order]] (D&D_References)]]
+- Affected by [[The Sunken Cathedral of Perfect Order]] (D&D_References)]]
 - Affected by [[elven-naralis-analor-mtf (deities)
 - Related: [QUEST00236_Personal_Quest_237]]
 - Requires [[The Drowned Village 2

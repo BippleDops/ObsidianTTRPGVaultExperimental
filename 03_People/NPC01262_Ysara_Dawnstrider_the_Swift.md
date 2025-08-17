@@ -163,50 +163,23 @@ Modifications:
 
 ## See Also
 - [NPC01761_Idris_Moonshadow_the_Broken]]
-- [[NPC01789_Vesper_Proudmore_the_Mystic
-- [NPC01252_Jorah_Youngblood_the_Strong]]
-- [[NPC00285_Xander_Goldleaf_the_Mystic
-- [NPC00259_Delara_Proudmore]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [NPC01943_Xander_Proudmore_the_Fallen]]
-- [[NPC00761_Aldric_Moonshadow_the_Guardian
-- [NPC01599_Gavril_Keenblade_the_Strong]]
-- [[NPC01951_Gavril_Xendar_the_Swift
-- [NPC00351_Corvus_Ironwood]]
-- [[NPC00542_Corvus_Oakenshield_the_Strong
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[NPC00785_Ysara_Grimholt_the_Mystic
-- [NPC00287_Ysara_Underhill_the_Wise]]
-- [[NPC00276_Ysara_Youngblood
-- [NPC00207_Ysara_Ravenheart]]
-- [[NPC00515_Baelor_Crystalbrook_the_Seeker
-- [Parliament of Shadows Player Guide.md]]
-- [[Faction_Guide.md
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
-- [[NPC00124_Delara_Ravenheart_the_Redeemed
-- [07 Customization Options]]
-- [[10 Appendix B Creature Stat Blocks
-- [08 Using Ability Scores]]
-- [[NPC01594_Fiora_Proudmore_the_Seeker
-- [NPC00582_Cedric_Dawnstrider]]
-- [[NPC01177_Thalia_Underhill_the_Fallen
-- [NPC01012_Solas_Darkwater_the_Strong]]
-- [[MOC_Lore
-- [NPC00362_Pyria_Stormwind_the_Wise]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [NPC00174_Aldric_Silverleaf_the_Fallen]]
-- [[NPC01290_Pyria_Ashford_the_Broken
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC01594_Fiora_Proudmore_the_Seeker]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01290_Pyria_Ashford_the_Broken]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -216,8 +189,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -243,30 +215,25 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[Giant Wolf Spider Xmm
 - Affected by [scriptorium]]
 - Parallels
-- Related: [[Polymorph Xphb
-- Related: [Scholars of Divine Lore 2]]
-- Connects to [[DUN00026_Dungeon_27
-- Related: [Session 7 - Connections Revealed]]
+- Related: [[Scholars of Divine Lore 2]]
+- Connects to [[Session 7 - Connections Revealed]]
 - Related: [[step_010 (phase_053)
 - Influences [Quest - Truth Market_1 (01_Adventures)]]
 - Connects to [[level-1-hit-points-by-class-xphb (tables)
 - See also: [Lighthouse Peak Resoce Chamber]]
 - Parallels [[The Current Riders
 - Parallels [step_098 (phase_037)]]
-- Requires [[ENC00450_Combat_Encounter_451
-- Related: [step_064 (phase_052)]]
+- Requires [[ENC00450_Combat_Encounter_451]]
 - Affected by
 - Influences [[The Tide Speakers
 - Compare with [step_043 (phase_017)]]
 - Compare with [[ENC00489_Combat_Encounter_490
 - Originates from [step_074 (phase_099)]]
-- Leads to [[Dr Tidal Depth
-- Influences [Consequence Chain 2 - Crystal Trade Disruption (D&D_References)]]
+- Leads to [[Consequence Chain 2 - Crystal Trade Disruption (D&D_References)]]
 - Compare with [[ITEM00147_Frost_Dagger_of_Wounding
 - Influences [step_033 (phase_093)]]
 - Related:
-- Affected by [[LOC00082_Towns_Location_83
-- Requires [[[The Shadowmere]] (D&D_References)]]
+- Affected by [[LOC00082_Towns_Location_83]] (D&D_References)]]
 - Compare with [[SPELL00162_Divine_Spell_163
 - Requires [[Assets Locations [[Location City [Warehouse District]] V1 Warehouse District.svg]]]]
 - See also: [[step_095 (phase_099)
@@ -279,49 +246,39 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [forest-encounters-levels-510-xge (tables)]]
 - See also: [[SPELL00072_Nature_Spell_73
 - Leads to [portrait-npc-session-4-v2-session-4.svg]]
-- Connects to [[Melody Crystalsong
-- Connects to [Quest - Corruption in the Temple]]
-- Originates from [[Dr. [Marina Deepcurrent]]
+- Connects to [[Quest - Corruption in the Temple]]
+- Originates from [[Marina Deepcurrent]]
 - Connects to [[Assets Portraits Portrait NPC Senator Cordelia Deepcurrent Senator Cordelia Deepcurrent.svg
 - Compare with [Student Engineer Bronze]]
 - Influences [[Crocodile Xmm
 - Affected by [Deep Mother Cultist Profiles (People)]]
 - Connects to [[Privacy Protection Agency 2
 - Originates from [step_009 (phase_067)]]
-- Parallels [[step_001 (phase_022)
-- Related: [NPC01399_Orion_Ashford_the_Bold]]
-- Connects to [[The Observatory
-- Affected by
-- Influences [NPC00879_Felicia_Frostwhisper_the_Swift]]
+- Parallels [[NPC01399_Orion_Ashford_the_Bold]]
+- Connects to [[NPC00879_Felicia_Frostwhisper_the_Swift]]
 - Compare with
 - See also: [[Relentless Hex Xge
 - Leads to [step_050 (phase_071)]]
-- Affected by [[step_076 (phase_007)
-- Requires [SPELL00049_Nature_Spell_50]]
+- Affected by [[SPELL00049_Nature_Spell_50]]
 - Related: [[Portrait NPC Queen Morwyn [Lumengarde V1 Queen Morwyn Lumengarde.svg]]
 - Requires [[vegepygmy-chief-mpmm (plant)
 - Leads to [Creative Visionweaver]]
-- Influences [[Coastal Encounters Levels 14 Xge
-- Affected by [House Deepforge]]
+- Influences [[Coastal Encounters Levels 14 Xge]]
 - Leads to [[location-city-portal-network-portal-network.svg
 - Connects to [step_056 (phase_052)]]
-- Requires [[Lord Flux the Inconsistent (D&D_References)
-- See also: [The Crimson Foundries]]
+- Requires [[Lord Flux the Inconsistent (D&D_References)]]
 - Related: [[NPC00682_Nerys_Ashford_the_Broken
 - Compare with [Portrait NPC Lord Admiral Gaius Windcutter V1 Lord Admiral Gaius Windcutter.svg]]
 - Requires [[Assets Locations [Location City Quest the Missing Fleet Quest the Missing Fleet.svg]]
 - Originates from [[Location City [Divine Communication Studies V1 Divine Communication Studies.svg]]
-- See also: [[Transformation Assistance
-- Connects to [The Healer's Persecution (D&D_References)]]
+- See also: [[The Healer's Persecution (D&D_References)]]
 - See also: [[Memory_Pearls (02_Worldbuilding)
 - See also: [LORE00239_Legends_Entry_240]]
 - Parallels [[Location City [Pressure Guard Steelwall V1 Pressure Guard Steelwall.svg]]
 - Leads to [[02_Worldbuilding_Locations_Archive_of_Echoes
 - Connects to [step_088 (phase_051)]]
-- Connects to [[The Deep Markets
-- Influences [NPC01397_Orion_Emberfall_the_Guardian]]
-- Requires [[Quest - Memory Restoration 2
-- Requires [Elite Wind Rider Captain]]
+- Connects to [[NPC01397_Orion_Emberfall_the_Guardian]]
+- Requires [[Quest - Memory Restoration 2]]
 - Related: [[The Festival Archives
 - Influences
 - Compare with [step_037 (phase_029)]]

@@ -54,7 +54,7 @@ Established generations ago, City_District_Map_Port_Meridian_Harbo has witnessed
 ## Inhabitants
 - **Permanent Residents**: Various individuals who maintain the location
 - **Regular Visitors**: Merchants, travelers, and locals
-- **Notable Figures**: [[Local Leader, [Merchant Representative]]
+- **Notable Figures**: [[Merchant Representative]]
 
 ## Services & Features
 - Basic amenities for travelers
@@ -82,91 +82,51 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 > The villain has agents watching this place
 
 ## See Also
-- [[NPC00321_Aeliana_Zephyrblade_the_Strong
-- [NPC00975_Lyanna_Winterborn_the_Wise]]
-- [[NPC01286_Xander_Proudmore_the_Bold
-- [NPC00625_Kaelen_Brightblade_the_Redeemed]]
-- [[NPC00644_Nerys_Dawnstrider_the_Wanderer
-- [Pilgrim_Pass_Prayer_Sli]]
-- [[NPC00655_Jorah_Darkwater_the_Seeker
-- [NPC01201_Felicia_Ironwood_the_Bold]]
-- [[NPC00250_Delara_Darkwater_the_Fallen
-- [NPC01463_Aeliana_Zephyrblade_the_Fallen]]
-- [[Measurement_Guide_Depth_and_Pressur
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[NPC00644_Nerys_Dawnstrider_the_Wanderer]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
 - [[Archdruid Thornweaver
 - [What You Know - Abyssos Prime.md]]
-- [[NPC00858_Zephyr_Silverleaf_the_Wanderer
-- [NPC01126_Malakai_Oakenshield_the_Fallen]]
-- [[NPC00763_Urien_Brightblade_the_Broken
-- [NPC00939_Thalia_Jadeclaw_the_Swift]]
-- [[NPC01989_Erasmus_Xendar_the_Strong
-- [NPC00821_Zephyr_Voidwalker_the_Cunning]]
-- [[NPC00872_Thalia_Ironwood_the_Broken
-- [NPC01687_Aldric_Youngblood_the_Cunning]]
-- [[NPC00582_Cedric_Dawnstrider
-- [NPC00469_Delara_Oakenshield_the_Seeker]]
-- [[NPC01911_Alaric_Oakenshield_the_Mystic
-- [NPC00820_Thalia_Nightfall_the_Risen]]
-- [[Ship_Schematic_The_Seahawk.md
-- [NPC00670_Xander_Goldleaf_the_Scholar]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC01552_Branwen_Lightbringer_the_Swift]]
-- [[NPC00317_Pyria_Blackstone_the_Redeemed
-- [Downtime_Activities]]
-- [[NPC00207_Ysara_Ravenheart
-- [Welcome_to_Aquabyssos.md]]
-- [[NPC01466_Urien_Nightfall_the_Guardian
-- [Trade_Route_Map_Aquabyssos_to_Aethermoor]]
-- [[NPC01894_Aldric_Lightbringer_the_Bold
-- [05 Personality and Background]]
-- [[NPC00542_Corvus_Oakenshield_the_Strong
-- [NPC01041_Thalia_Dawnstrider_the_Lost]]
-- [[NPC01888_Hestara_Ravenheart_the_Redeemed
-- [11 Rules Glossary]]
-- [[Player_Comfort_Check
-- [NPC01177_Thalia_Underhill_the_Fallen]]
-- [[NPC00601_Vesper_Ironwood_the_Guardian
-- [NPC01290_Pyria_Ashford_the_Broken]]
-- [[Reputation_Tracker
-- [NPC00281_Hestara_Nightfall_the_Cunning]]
-- [[15 the Planes of Existence
-- [NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC00763_Urien_Brightblade_the_Broken]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC00670_Xander_Goldleaf_the_Scholar]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC00207_Ysara_Ravenheart]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00601_Vesper_Ironwood_the_Guardian]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
 - [[Parliament of Shadows Player Guide.md
 - [Basic_Rules]]
-- [[MOC_Quests
-- [NPC00259_Delara_Proudmore]]
-- [[NPC01040_Zephyr_Lightbringer_the_Strong
-- [Session_Recaps]]
-- [[NPC01892_Gareth_Xendar_the_Scholar
-- [Character_Journal_Template]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
 - [[NPC00969_Zephyr_Keenblade_the_Wise
 - [Quest - The Merged Reality_1 (01_Adventures)]]
-- [[02 Step by Step Characters
-- [07 Customization Options]]
-- [[Quarantine_Notice_Crystal_Plagu
-- [11 Spellcasting]]
+- [[02 Step by Step Characters]]
+- [[Quarantine_Notice_Crystal_Plagu]]
 - [[Item_Catalog_Complete.md
 - [Sage Elara]]
-- [[The_Corroded_Crown.png
-- [NPC01429_Zephyr_Keenblade_the_Cunning]]
-- [[NPC01348_Xander_Zephyrblade_the_Wise
-- [NPC01699_Orion_Oakenshield_the_Broken]]
-- [[NPC00057_Malakai_Stormwind_the_Cunning
-- [MASTER_NAVIGATION]]
-- [[MOC_Locations
-- [MASTER_MOC]]
-- [[Master_Narrative_Web.md
-- [NPC01812_Xander_Lightbringer_the_Swift]]
-- [[NPC00501_Orion_Nightfall_the_Broken
-- [Propaganda_Leaflet_Pearl_Guar]]
-- [[NPC00661_Corvus_Darkwater_the_Broken
--
-
-## Related Content
-- [ULTIMATE_VAULT_ACHIEVEMENT]]
-- [[ULTIMATE_SYSTEM_REPORT
-- [SVG_REPLACEMENT_REPORT]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[MOC_Locations]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -191,11 +151,9 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 ## Connections
 
 - Parallels [The Kelp Highway 2]]
-- Influences [[Regional Courts 2
-- Compare with [NPC00419_Malakai_Grimholt_the_Cunning]]
+- Influences [[NPC00419_Malakai_Grimholt_the_Cunning]]
 - See also:
-- See also: [[Oceanic Historical Society
-- See also: [System Cli Spells School Conjuration]]
+- See also: [[System Cli Spells School Conjuration]]
 - See also: [[Silverscale Trade Embassy 2
 - Requires [Portrait NPC the Pressure Pirates the Pressure Pirates.svg]]
 - Connects to [[gunpowder-powder-horn-xdmg (items)
@@ -207,8 +165,7 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 - Influences [Crystal Plague]]
 - See also: [[step_040 (phase_027)
 - Requires [Assets Locations Location City Temple of the Deep Current Temple of the Deep Current.svg]]
-- Parallels [[NPC01634_Erasmus_Frostwhisper_the_Seeker
-- Leads to [NPC0030_Ezra_Stormwind]]
+- Parallels [[NPC01634_Erasmus_Frostwhisper_the_Seeker]]
 - Related: [[ooze
 - Related: [Bexley 2]]
 - Requires [[Singing Coral 2
@@ -217,8 +174,7 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 - See also: [ITEM01350_Practical_Spyglass_of_Durability]]
 - Leads to [[Ability Checks
 - Parallels [location-city-pressure-tubes-pressure-tubes.svg]]
-- Affected by [[Pilgrimage Coordinators (D&D_References)
-- Influences [NPC00792_Felicia_Jadeclaw_the_Redeemed]]
+- Affected by [[Pilgrimage Coordinators (D&D_References)]]
 - Leads to [[step_042 (phase_070)
 - Influences [D-019_Oracle_Whale_Player]]
 - Parallels [[step_014 (phase_016)
@@ -229,13 +185,11 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 - Related: [creating-npcs-from-scratch-npc-features (tables)]]
 - Influences [[step_041 (phase_067)
 - Influences [Deep Ancient Ruins]]
-- Leads to [[healing
-- Affected by [ENC00330_Combat_Encounter_331]]
+- Leads to [[ENC00330_Combat_Encounter_331]]
 - Originates from [[Medical Arsenal
 - See also: [step_022 (phase_030)]]
 - Affected by
-- Influences [[Conductor Morpheus Mindbridge (D&D_References)
-- Connects to [step_005 (phase_011)]]
+- Influences [[Conductor Morpheus Mindbridge (D&D_References)]]
 - Requires [[Daily Routine Nuances and Details
 - Influences [The Depth Lords (D&D_References)]]
 - Connects to [[Ox Xdmg
@@ -248,14 +202,11 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 - Parallels [[step_077 (phase_005)
 - Affected by [passages-passage (tables)]]
 - Parallels
-- Compare with [[Shadow-Touched Mine Foreman Brokk
-- See also: [Aquabyssos_1]]
+- Compare with [[Shadow-Touched Mine Foreman Brokk]]
 - Originates from [[step_009 (phase_017)
 - Affected by [LORE00262_History_Entry_263]]
-- Compare with [[Quest - The Shattered Memories
-- Leads to [step_076 (phase_045)]]
-- Requires [[NPC01792_Rhiannon_Ironwood_the_Scholar
-- Related: [step_005 (phase_074)]]
+- Compare with [[Quest - The Shattered Memories]]
+- Requires [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
 - Connects to [[step_033 (phase_021)
 - Requires [The False History Crisis]]
 - Related: [[portrait-npc-seventh-shard-v1-seventh-shard.svg
@@ -282,8 +233,7 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 - Leads to [Merfolk Wavebender Xmm]]
 - Leads to [[Local Authorities
 - Compare with [Portrait NPC Vex Shadowthorn the Kingpin Vex Shadowthorn the Kingpin.svg]]
-- Compare with [[NPC01138_Brenna_Oakenshield_the_Risen
-- Leads to [Void Watchers 2]]
+- Compare with [[NPC01138_Brenna_Oakenshield_the_Risen]]
 - Parallels
 - Related: [[diseases
 - Influences [LORE00085_Prophecies_Entry_86]]

@@ -190,8 +190,7 @@ Sit back and watch your vault become perfect! 🚀
 - Affected by [NPC00782_Ewan_Underhill_the_Fallen]]
 - Leads to [[FAC00067_Guilds_68
 - Parallels [Vehicle Ship Kelp Weave Patrol Boat V1 Kelp Weave Patrol Boat.svg]]
-- Related: [[Progressive Research Institutions (D&D_References)
-- Related: [Blessed Warrior Xphb]]
+- Related: [[Progressive Research Institutions (D&D_References)]]
 - Connects to [[step_071 (phase_042)
 - Leads to [LORE00116_Prophecies_Entry_117]]
 - Influences [[step_033
@@ -200,16 +199,13 @@ Sit back and watch your vault become perfect! 🚀
 - Influences [LORE00108_Prophecies_Entry_109]]
 - Parallels [[EVENT00085_Magical_Event_86
 - Affected by [Portrait NPC the Depth Blessed Fisherman Captain Sal Deepcurrent the Depth Blessed Fisherman Captain Sal Deepcurrent.svg]]
-- Affected by [[step_028
-- Influences [The Unnatural Legion (D&D_References)]]
+- Affected by [[The Unnatural Legion (D&D_References)]]
 - Originates from [[Temple-Scholar Depth-Seer 2
 - See also: [QUEST00496_Side_Quest_497]]
 - Leads to [[LORE00166_Prophecies_Entry_167
 - Requires [Pressure Safety Authority]]
-- Parallels [[The Primordial Vaults (D&D_References)
-- Compare with [Apprentice Copper]]
-- Related: [[LOC00240_Dungeons_Location_241
-- Connects to [step_032]]
+- Parallels [[The Primordial Vaults (D&D_References)]]
+- Related: [[LOC00240_Dungeons_Location_241]]
 - Leads to [[step_046 (phase_096)
 - Related: [Protection Xphb]]
 - Affected by [[step_054 (phase_056)
@@ -224,16 +220,13 @@ Sit back and watch your vault become perfect! 🚀
 - Related: [step_028 (phase_012)]]
 - Affected by [[create-undead-xphb (spells)
 - Compare with [Trade_Route_Map (02_Worldbuilding)]]
-- Parallels [[step_009
-- Influences [LOC00199_Wilderness_Location_200]]
+- Parallels [[LOC00199_Wilderness_Location_200]]
 - Parallels [[word-of-recall-xphb (spells)
 - Affected by [step_007 (phase_036)]]
-- Compare with [[step_044 (phase_064)
-- Parallels [stable-xphb (variant-rules)]]
+- Compare with [[stable-xphb (variant-rules)]]
 - Related: [[Eberron the Mockery
 - Influences [item-artifact-warhammer-xphb-v4-warhammer-xphb.png]]
-- Leads to [[District Economic Profiles (Lore)
-- Influences [NPC00775_Corvus_Proudmore_the_Cunning]]
+- Leads to [[NPC00775_Corvus_Proudmore_the_Cunning]]
 - See also: [[Assets Portraits Portrait NPC Lord Commander Steelborn Lord Commander Steelborn.svg
 - Originates from [step_036 (phase_075)]]
 - Related: [[step_067 (phase_011)
@@ -252,36 +245,25 @@ Sit back and watch your vault become perfect! 🚀
 - Connects to [Assets Locations Location City the Hadal Depths the Hadal Depths.svg]]
 - Influences [[step_007 (phase_041)
 - Compare with [ITEM00144_Blessed_Axe_of_Speed]]
-- Related: [[step_060
-- Connects to [Scholar Magnus Riddlewright]]
+- Related: [[Scholar Magnus Riddlewright]]
 - Influences [[LORE00032_Legends_Entry_33
 - See also: [Location City Keeper Finn Goodtide Keeper Finn Goodtide.svg]]
-- See also: [[step_088 (phase_050)
-- See also: [Counselor Mindbridge (D&D_References)]]
-- Parallels [[step_072 (phase_017)
-- Leads to [Services Inter Realm Transportation]]
-- Originates from [[falling-xphb (traps-hazards)
-- Affected by [Builder Coral Architect (D&D_References)]]
+- See also: [[Counselor Mindbridge (D&D_References)]]
+- Parallels [[Services Inter Realm Transportation]]
+- Originates from [[Builder Coral Architect (D&D_References)]]
 - Affected by [[Mira Algaebrew
 - Connects to [step_067]]
-- Connects to [[step_016 (phase_040)
-- Influences [NPC01002_Urien_Thornweave_the_Fallen]]
-- Leads to [[Ambassador Lysandra Silvertonge''s Embassy
-- Compare with [DUN00002_Dungeon_3]]
-- See also: [[The Transcended
-- Influences [Countess Argentum Vaultkeeper (D&D_References)]]
+- Connects to [[NPC01002_Urien_Thornweave_the_Fallen]]
+- Leads to [[Ambassador Lysandra Silvertonge''s Embassy]]
+- See also: [[Countess Argentum Vaultkeeper (D&D_References)]]
 - See also: [[Dr Torres Investigation
 - Compare with [step_066 (phase_076)]]
-- Requires [[step_075
-- Leads to [NPC00046_Urien_Ironwood_the_Wise]]
-- Parallels [[Master Navigator Tidal Crosscurren (D&D_References)
-- Compare with [The Crystal Amphitheater]]
+- Requires [[NPC00046_Urien_Ironwood_the_Wise]]
+- Parallels [[Master Navigator Tidal Crosscurren (D&D_References)]]
 - Related: [[step_028 (phase_023)
 - See also: [LORE00162_History_Entry_163]]
-- Affected by [[NPC00901_Felicia_Zephyrblade_the_Mystic
-- Influences [step_042 (phase_100)]]
-- Affected by [[Religious Revival
-- Originates from [ENC00034_Combat_Encounter_35]]
+- Affected by [[NPC00901_Felicia_Zephyrblade_the_Mystic]]
+- Affected by [[ENC00034_Combat_Encounter_35]]
 - Affected by [[Assets Locations Location City Silence Keeper Mute Silence Keeper Mute.svg
 - Leads to [ENC0074_Random_Encounter_75]]
 - Compare with [[EVENT00083_Magical_Event_84

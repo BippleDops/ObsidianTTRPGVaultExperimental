@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:36.337424"
 modified: "2025-08-15T12:24:36.337428"
-aliases: [Session 3 the [[Skyship Heist]]]
+aliases: [Session 3 the [[Session 3 the Skyship Heist]]]
 ---
 
 # Session 3 [[The Skyship Heist
@@ -24,7 +24,7 @@ modified: '2025-01-15'
 - -- # Session 3 the [Skyship Heist]] - -- ## Description
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
-title: Session 3 the [[Skyship Heist]]
+title: Session 3 the [[Session 3 the Skyship Heist]]
 type: Adventure
 tags:
 - adventure
@@ -71,7 +71,7 @@ world: [Aethermoor|Aethermoor]]
 - Personal information about key officers from [[Crown Loyalist connections
 - Communication intercepts and magical surveillance patterns from the shadow contact **[Crew Analysis]]:** **Investigation **DC 15** reveals:**
 - [[First Officer [Commander Marcus]] Bayside (completely loyal to Stormwind)
-- [[Security Chief [Lieutet Helena]] Wardwell (recently assigned, unknown loyalties) - Ship's [[Mage Master [Edwin Crystalweaver]] (brother of [[Professor Aldric, progressive sympathies)
+- [[Security Chief]] Wardwell (recently assigned, unknown loyalties) - Ship's [[Mage Master [Edwin Crystalweaver]] (brother of [[Professor Aldric, progressive sympathies)
 - [Quartermaster Jeremiah]] Moorfield (veteran sailor, traditionalist values)
 - [[Marine Captain [Thaddeus Ironwind]] (puritan sympathies, anti-crystal bias) **[[Security Systems:** **[Arcana|Arcana]] **DC 16** identifies:**
 - **[[Crystal Detection Grid:** Monitors magical auras throughout the ship
@@ -425,7 +425,7 @@ world: [Aethermoor|Aethermoor]]
 - **Investigation **DC 18**:** Cross-reference her claims with evidence already gathered
 - **Arcana **DC 16**:** Verify authenticity of magical evidence and detection methods
 - **History **DC 15**:** Confirm her service record and reputation through independent sources
-- **Perception **DC 17**:** Detect any signs of deception or hidden agendas #### **[[The Immediate Threat** During the alliance negotiation, [Security Chief]] Wardwell arrives with a security team, having detected the unauthorized presence in the Admiral's quarters: **Wardwell's Entrance:** > [[Security Chief [Helena Wardwell]] enters with three armed marines, her expression cold and professional. She moves with the calculated precision of someone accustomed to violence, and her eyes immediately assess the tactical situation. Her hand signals direct the marines to covering positions while she addresses [[Admiral Stormwind with barely concealed authority. **[Her Challenge]]:**
+- **Perception **DC 17**:** Detect any signs of deception or hidden agendas #### **[[The Immediate Threat** During the alliance negotiation, [Security Chief]] Wardwell arrives with a security team, having detected the unauthorized presence in the Admiral's quarters: **Wardwell's Entrance:** > [[Security Chief]] enters with three armed marines, her expression cold and professional. She moves with the calculated precision of someone accustomed to violence, and her eyes immediately assess the tactical situation. Her hand signals direct the marines to covering positions while she addresses [[Admiral Stormwind with barely concealed authority. **[Her Challenge]]:**
 * "Admiral, you should have informed me of visitors to secure areas. Naval regulations require security notification for all unauthorized personnel accessing restricted spaces. I'll need to detain these individuals pending verification of their credentials and investigation of their activities."* #### **[[The Standoff** **[Power Dynamics]]:** - **Admiral's Authority:** Command position gives her ultimate authority over ship operations
 - **[[Security Regulations:** Wardwell has legitimate authority to detain unauthorized personnel
 - **[Political Implications]]:** Both officers risk their careers depending on how the situation resolves
@@ -623,7 +623,7 @@ world: [Aethermoor|Aethermoor]]
 - **[[Naval Intelligence:** Cooperation (+3) or active opposition (-4) depending on evidence handling **[Other Factions]]:**
 - **[[Merchant Princes:** +1 to +2 CIP if extraction assistance was provided
 - **[Wind Rider]] Traditionalists:** +1 to +3 CIP if traditional methods were used successfully
-- **[[Progressive Alliance:** +2 CIP if advanced magical or technical methods proved effective #### **[Personal Relationships]]** **[[Admiral Cassandra Stormwind:** - **[Trusted Ally]]:** Ongoing cooperation, shared intelligence, mutual protection
+- **[[Progressive Alliance:** +2 CIP if advanced magical or technical methods proved effective #### **[Personal Relationships]]** **[[Admiral Cassandra Stormwind]]:** Ongoing cooperation, shared intelligence, mutual protection
 - **[[Professional Respect:** Acknowledgment of competence but limited cooperation
 - **[Cautious Distance]]:** Uncertainty about PC loyalties and objectives
 - **[[Active Opposition:** Views PCs as threats to naval security and personal position **[Security Chief]] [[Helena Wardwell:**
@@ -719,9 +719,8 @@ publish: false --- --------|-------|----|--------------| | Approach fleet undete
 - **Stormwind's**: [STORMWIND-S] ## [[See Also
 - [[Session 05 [Cross Currents]]]]
 - [[Session 06 the [Sky Throne]]
-- [[[Session Planning Toolkit_1 (06_Sessions)]]
-- [[Session 2 Court of Whispers
-- [MOC_Items]]
+- [[Session Planning Toolkit]]
+- [[Session 2 Court of Whispers]]
 - [[Session 3 the Skyship Heist_1 (06_Sessions) - Related content
 - Similar topics
 - Connected elements ## [Alternate Descriptions]] - **[[First Impression**: Initial appearance
@@ -780,7 +779,7 @@ publish: false --- --------|-------|----|--------------| | Approach fleet undete
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

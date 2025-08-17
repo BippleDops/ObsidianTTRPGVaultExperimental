@@ -149,35 +149,19 @@ tags: [combat, lore]
 > Hidden treasure can be found here with a **DC 15** Investigation check
 
 ## See Also
-- [[NPC00058_Elric_Nightfall
-- [NPC01613_Kaelen_Voidwalker_the_Wanderer]]
-- [[NPC01552_Branwen_Lightbringer_the_Swift
-- [NPC00372_Alaric_Grimholt]]
-- [[NPC01789_Vesper_Proudmore_the_Mystic
-- [NPC01931_Thalia_Lightbringer_the_Fallen]]
-- [[NPC01113_Solas_Ravenheart_the_Cunning
-- [NPC00599_Cedric_Lightbringer_the_Wise]]
-- [[NPC00395_Aeliana_Thornweave
-- [Party_Quests]]
-- [[NPC00860_Gavril_Winterborn_the_Swift
-- [NPC01252_Jorah_Youngblood_the_Strong]]
-- [[NPC00812_Kaelen_Jadeclaw_the_Seeker
-- [NPC00707_Fiora_Oakenshield_the_Seeker]]
-- [[Smuggler_Route_Tally_Shee
-- [NPC01041_Thalia_Dawnstrider_the_Lost]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [NPC01951_Gavril_Xendar_the_Swift]]
-- [[Measurement_Guide_Depth_and_Pressur
-- [NPC00461_Branwen_Proudmore_the_Strong]]
-- [[NPC00237_Vesper_Ashford_the_Bold
-- [05 Personality and Background]]
-- [[MOC_Lore
--
-
-## Related Content
-- [audio_fit_report]]
-- [[audio_fit_report_1
-- [SVG_REPLACEMENT_REPORT]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[MOC_Lore]]
+- [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -193,12 +177,10 @@ tags: [combat, lore]
 - Originates from
 - Leads to [[Buying a Magic Item Magic Item Price Xge
 - Connects to [EVENT00005_Political_Event_6]]
-- See also: [[LOC00021_Planes_Location_22
-- Requires [Madame Whisper 2]]
+- See also: [[LOC00021_Planes_Location_22]]
 - See also: [[04_Resources_Assets_Portraits_portrait-npc-master-of-currents-poseidon-master-of-currents-poseidon.svg_Quick_Ref
 - Compare with [Portrait NPC the Emperor S Memories V1 the Emperor S Memories.svg_1 (Portraits)]]
-- Leads to [[location-city-trade-war-trade-war.svg
-- Connects to [Constitutional Scholar Valdris Deepthought 2]]
+- Leads to [[Constitutional Scholar Valdris Deepthought 2]]
 - Connects to [[Combat Medic Nightshift 2
 - Compare with [step_041 (phase_018)]]
 - Influences [[step_077 (phase_048)
@@ -213,22 +195,19 @@ tags: [combat, lore]
 - Influences [portrait-npc-the-party-the-party.svg_1 (Portraits)]]
 - Affected by [[Assets Locations Location City Chief Engineer Nereus Flowstream V1 Chief Engineer Nereus Flowstream.svg
 - Originates from [QUEST00217_Side_Quest_218]]
-- Parallels [[step_026 (phase_093)
-- Parallels [ENC00234_Combat_Encounter_235]]
+- Parallels [[ENC00234_Combat_Encounter_235]]
 - See also: [[step_063 (phase_011)
 - Affected by [Portrait NPC Lady Crystal Heart Miraleth Lady Crystal Heart Miraleth.svg]]
 - Leads to [[Professor_Euclid_Mindmaze.png
 - Parallels [The Shadow Consortium]]
 - Influences [[Coinage Standard Exchange Rates Phb
 - See also: [step_049 (phase_071)]]
-- Connects to [[step_028 (phase_072)
-- Related: [LOC00133_Planes_Location_134]]
+- Connects to [[LOC00133_Planes_Location_134]]
 - See also: [[Dr. Cornelius Cellstudy
 - Affected by [ITEM00715_Celestial_Crown_of_Truth]]
 - Related: [[Colonel Dr Vivisection
 - Originates from [ITEM00633_Enchanted_Leather_of_the_Guardian]]
-- Leads to [[step_051 (phase_071)
-- Leads to [NPC00401_Baelor_Ironwood_the_Lost]]
+- Leads to [[NPC00401_Baelor_Ironwood_the_Lost]]
 - See also: [[step_027 (phase_081)
 - Leads to [Boon of Spell Recall Xphb]]
 - Related: [[dragonlance-zivilyn-phb (deities)
@@ -240,12 +219,10 @@ tags: [combat, lore]
 - Connects to [[Assets Locations Location City Doctor Coral Shapeshift Doctor Coral Shapeshift.svg
 - Parallels
 - Compare with [MON00150_Aberrations_Creature_151]]
-- Connects to [[Temple Clergy (D&D_References)
-- Leads to [step_023 (phase_069)]]
+- Connects to [[Temple Clergy (D&D_References)]]
 - Related: [[QUEST00134_Side_Quest_135
 - Connects to [step_097 (phase_029)]]
-- Related: [[Luxury Goods Market 2
-- Originates from [LOC00246_Wilderness_Location_247]]
+- Related: [[LOC00246_Wilderness_Location_247]]
 - Affected by [[cleric-xphb-knowledge-domain 2 (classes)
 - Compare with
 - Parallels [SHOP00004_General_Shop_5]]
@@ -269,10 +246,8 @@ tags: [combat, lore]
 - Parallels [[Quaals Feather Token Whip Xdmg
 - Leads to
 - Connects to [fomorian-xmm (giant)]]
-- Requires [[NPC01388_Thalia_Proudmore_the_Swift
-- Connects to [Memorial Mason Kane 2]]
-- Connects to [[Keepers of Memory (D&D_References)
-- See also: [ENC00139_Social_Encounter_140]]
+- Requires [[NPC01388_Thalia_Proudmore_the_Swift]]
+- Connects to [[Keepers of Memory (D&D_References)]]
 - Connects to [[Shadowfell Despair
 - Parallels [implements-rare-xdmg (tables)]]
 - Originates from [[Corruption Trackers
@@ -285,8 +260,7 @@ tags: [combat, lore]
 - See also: [Assets Locations Location City Pressure Technology Pressure Technology.svg]]
 - Parallels [[EVENT00034_Natural_Event_35
 - Affected by [QUEST00040_Personal_Quest_41]]
-- Connects to [[The Artisans' Collective of Master Crafters (D&D_References)
-- Affected by [kuo-toa-whip-xmm (aberration)]]
+- Connects to [[The Artisans' Collective of Master Crafters (D&D_References)]]
 - Compare with [[LOC00238_Dungeons_Location_239
 - Connects to [ring-of-resistance-xdmg (items)]]
 - Parallels [[Assets Locations Location City Expedition to the Sunless Depths Expedition to the Sunless Depths.svg

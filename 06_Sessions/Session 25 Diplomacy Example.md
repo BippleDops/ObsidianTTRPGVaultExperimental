@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.390596"
 modified: "2025-08-15T12:24:39.390597"
-aliases: [Session 25 [[Diplomacy Example]]]
+aliases: [Session 25 [[Session 25 Diplomacy Example]]]
 ---
 
 # Session 25 [[Diplomacy Example
@@ -36,8 +36,7 @@ status: complete
 updated: '2025-08-13'
 world: Both
 - -- ### [[Diplomatic Mission **Event:** Emergency peace summit between realms **Location:** Neutral waters at [Convergence Point]] **Stakes:** Prevent war over [[Shadow Conspiracy accusations **[Party Role]]:** Neutral mediators and investigators ### [[The Situation Tensions between Aquabyssos and Aethermoor reached breaking point when each realm accused the other of harboring [Shadow Conspiracy]] leadership. The party, with their cross-realm experience, was asked to mediate and investigate the truth. #### [[Opening Positions **[Aquabyssos Delegation]]:**
-- Led by **[[Chancellor Marina Depthcaller**
-- [Claims Aethermoor]] shelters Shadow operatives
+- Led by **[[Chancellor Marina Depthcaller]] shelters Shadow operatives
 - Demands extradition of suspected conspirators
 - Threatens trade embargo and border closure **[[Aethermoor Delegation:**
 - Led by **Sky-[Marshal Tempest]] Goldwind**
@@ -47,7 +46,7 @@ world: Both
 **Thane's Role:** Served as moral authority and truth-detector through divine insight
 **Marcus's Input:** Provided neutral environmental evidence of Shadow operations
 **Lyralei's Support:** Demonstrated cross-realm magical cooperation possibilities
-**Serafina's Intelligence:** Shared (carefully edited) [[Shadow Conspiracy operational details #### Behind-[Scenes Diplomacy]] (60 minutes) **[[Private Meetings:** Individual conversations with delegation members
+**Serafina's Intelligence:** Shared (carefully edited) [[Shadow Conspiracy]] (60 minutes) **[[Private Meetings:** Individual conversations with delegation members
 **[Information Trading]]:** Careful exchange of sensitive intelligence
 **[[Alliance Building:** Identifying moderate voices in both delegations
 **[Pressure Relief]]:** Providing face-saving options for hardliners #### [[Crisis Management (45 minutes) **Emergency:** News of Shadow attack on both realms simultaneously

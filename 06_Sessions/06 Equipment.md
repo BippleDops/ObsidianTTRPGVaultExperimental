@@ -80,7 +80,7 @@ world: Both
 > **Explorer's Pack (10 gp).** Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
 > **Priest's Pack (19 gp).** Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin.
 > **Scholar's Pack (40 gp).** Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.
-^equipment-packs ## Tools A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the DM might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood. ### Artisan's [Tools These]] special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency. ### [[Disguise Kit This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise. ### [Forgery Kit]] This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document. ### [[Gaming Set This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-[Dragon Ante]]). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency. ### [[Herbalism Kit This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing. ### [Musical Instrument]] Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in Part 3: [[The Rules of Magic, Casting a Spell. Each type of musical instrument requires a separate proficiency. ### Navigator's [Tools This]] set of instruments is used for navigation at sea. Proficiency with [[[Navigators Tools Xphb]] lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea. ### Poisoner's Kit A [[[Poisoners Kit Xphb]] includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons. ### Thieves' [[Tools This]] set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks. ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c59.webp#center) ![[tools-phb (tables) ## Mounts and Vehicles A good mount can help you move more quickly through the wilderness, but its primary purpose is to carry the gear that would otherwise slow you down. [The Mounts]] and [[Other Animals table shows each animal's speed and base carrying capacity. An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, they can add their carrying capacity together. Mounts other than those listed here are available in the worlds of D&D, but they are rare and not normally available for purchase. These include flying mounts (pegasi, griffons, hippogriffs, and similar animals) and even aquatic mounts (giant sea horses, for example). Acquiring such a mount often means securing an egg and raising the creature yourself, making a bargain with a powerful entity, or negotiating with the mount itself. ### [Barding Barding]] is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table in this chapter can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much. ### Saddles A [[military-saddle-xphb (items) braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An [[[Exotic Saddle]] Xphb]] is required for riding any aquatic or flying mount. ### [[Vehicle Proficiency If you have proficiency with a certain kind of vehicle (land or water), you can add your proficiency bonus to any check you make to control that kind of vehicle in difficult circumstances. ### [Rowed Vessels]] Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land. ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c510.webp#center) ![[mounts-and-vehicles-mounts-and-other-animals-phb|Mounts and Vehicles; Mounts and [Other Animals]] ![[Mounts and [[Vehicles Tack Harness and [Drawn Vehicles]] Phb]] ![[mounts-and-vehicles-waterborne-vehicles-phb (tables)]] ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c511.webp#center) ## [[Trade Goods Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest). Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency. [The Trade]] Goods table shows the value of commonly exchanged goods. ![[trade-goods-phb (tables) ## [Expenses When]] not descending into the depths of the earth, exploring ruins for lost treasures, or waging war against the encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustece, and clothing. These things cost money, although some lifestyles cost more than others. ### [[Lifestyle Expenses]] Lifestyle expenses provide you with a simple way to account for the cost of living in a fantasy world. They cover your accommodations, food and drink, and all your other necessities. Furthermore, expenses cover the cost of maintaining your equipment so you can be ready when adventure next calls. At the start of each week or month (your choice), choose a lifestyle from the Expenses table and pay the price to sustain that lifestyle. The prices listed are per day, so if you wish to calculate the cost of your chosen lifestyle over a thirty-day period, multiply the listed price by 30. Your lifestyle might change from one period to the next, based on the funds you have at your disposal, or you might maintain the same lifestyle throughout your character's career. Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle might help you make contacts with the rich and powerful, though you run the risk of attracting thieves. Likewise, living frugally might help you avoid criminals, but you are unlikely to make powerful connections. ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c512.webp#center) ![[lifestyle-expenses-phb (tables) #### [Wretched You]] live in inhumane conditions. With no place to call home, you shelter wherever you can, sneaking into barns, huddling in old crates, and relying on the good graces of people better off than you. A wretched lifestyle presents abundant dangers. Violence, disease, and hunger follow you wherever you go. Other wretched people covet your armor, weapons, and adventuring gear, which represent a fortune by their standards. You are beneath the notice of most people. #### [[Squalid You live in a leaky stable, a mud-floored hut just outside town, or a vermin-infested boarding house in the worst part of town. You have shelter from the elements, but you live in a desperate and often violent environment, in places rife with disease, hunger, and misfortune. You are beneath the notice of most people, and you have few legal protections. Most people at this lifestyle level have suffered some terrible seck. They might be disturbed, marked as exiles, or suffer from disease. #### Poor A poor lifestyle means going without the comforts available in a stable community. Simple food and lodgings, threadbare clothing, and unpredictable conditions result in a sufficient, though probably unpleasant, experience. Your accommodations might be a room in a flophouse or in the common room above a tavern. You benefit from some legal protections, but you still have to contend with violence, crime, and disease. People at this lifestyle level tend to be unskilled laborers, costermongers, peddlers, thieves, mercenaries, and other disreputable types. #### Modest A modest lifestyle keeps you out of the slums and ensures that you can maintain your equipment. You live in an older part of town, renting a room in a boarding house, inn, or temple. You don't go hungry or thirsty, and your living conditions are clean, if simple. Ordinary people living modest lifestyles include soldiers with families, laborers, students, priests, hedge wizards, and the like. #### [Comfortable Choosing]] a comfortable lifestyle means that you can afford nicer clothing and can easily maintain your equipment. You live in a small cottage in a middle-class neighborhood or in a private room at a fine inn. You associate with merchants, skilled tradespeople, and military officers. #### [[Wealthy Choosing a wealthy lifestyle means living a life of luxury, though you might not have achieved the social status associated with the old money of nobility or royalty. You live a lifestyle comparable to that of a highly successful merchant, a favored servant of the royalty, or the owner of a few small businesses. You have respectable lodgings, usually a spacious home in a good part of town or a comfortable suite at a fine inn. You likely have a small staff of servants. #### [Aristocratic You]] live a life of plenty and comfort. You move in circles populated by the most powerful people in the community. You have excellent lodgings, perhaps a townhouse in the nicest part of town or rooms in the finest inn. You dine at the best restaurants, retain the most skilled and fashionable tailor, and have servants attending to your every need. You receive invitations to the social gatherings of the rich and powerful, and spend evenings in the company of politicians, guild leaders, high priests, and nobility. You must also contend with the highest levels of deceit and treachery. The wealthier you are, the greater the chance you will be drawn into political intrigue as a pawn or participant. ### Food, Drink, and [[Lodging The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. These prices are included in your total lifestyle expenses. ![[[Food Drink]] and [[Lodging Phb]] > [!note] Self-Sufficiency
+^equipment-packs ## Tools A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the DM might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood. ### Artisan's [Tools These]] special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency. ### [[Disguise Kit This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise. ### [Forgery Kit]] This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document. ### [[Gaming Set This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-[Dragon Ante]]). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency. ### [[Herbalism Kit This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing. ### [Musical Instrument]] Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in Part 3: [[The Rules of Magic, Casting a Spell. Each type of musical instrument requires a separate proficiency. ### Navigator's [Tools This]] set of instruments is used for navigation at sea. Proficiency with [[[Navigators Tools Xphb]] lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea. ### Poisoner's Kit A [[[Poisoners Kit Xphb]] includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons. ### Thieves' [[Tools This]] set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks. ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c59.webp#center) ![[tools-phb (tables) ## Mounts and Vehicles A good mount can help you move more quickly through the wilderness, but its primary purpose is to carry the gear that would otherwise slow you down. [The Mounts]] and [[Other Animals table shows each animal's speed and base carrying capacity. An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, they can add their carrying capacity together. Mounts other than those listed here are available in the worlds of D&D, but they are rare and not normally available for purchase. These include flying mounts (pegasi, griffons, hippogriffs, and similar animals) and even aquatic mounts (giant sea horses, for example). Acquiring such a mount often means securing an egg and raising the creature yourself, making a bargain with a powerful entity, or negotiating with the mount itself. ### [Barding Barding]] is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table in this chapter can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much. ### Saddles A [[military-saddle-xphb (items) braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An [[[Exotic Saddle]] Xphb]] is required for riding any aquatic or flying mount. ### [[Vehicle Proficiency If you have proficiency with a certain kind of vehicle (land or water), you can add your proficiency bonus to any check you make to control that kind of vehicle in difficult circumstances. ### [Rowed Vessels]] Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land. ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c510.webp#center) ![[mounts-and-vehicles-mounts-and-other-animals-phb|Mounts and Vehicles; Mounts and [Other Animals]] ![[Mounts and [[Vehicles Tack Harness and [Drawn Vehicles]] Phb]] ![[mounts-and-vehicles-waterborne-vehicles-phb (tables)]] ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c511.webp#center) ## [[Trade Goods Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest). Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency. [The Trade]] Goods table shows the value of commonly exchanged goods. ![[trade-goods-phb]] not descending into the depths of the earth, exploring ruins for lost treasures, or waging war against the encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustece, and clothing. These things cost money, although some lifestyles cost more than others. ### [[Lifestyle Expenses]] Lifestyle expenses provide you with a simple way to account for the cost of living in a fantasy world. They cover your accommodations, food and drink, and all your other necessities. Furthermore, expenses cover the cost of maintaining your equipment so you can be ready when adventure next calls. At the start of each week or month (your choice), choose a lifestyle from the Expenses table and pay the price to sustain that lifestyle. The prices listed are per day, so if you wish to calculate the cost of your chosen lifestyle over a thirty-day period, multiply the listed price by 30. Your lifestyle might change from one period to the next, based on the funds you have at your disposal, or you might maintain the same lifestyle throughout your character's career. Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle might help you make contacts with the rich and powerful, though you run the risk of attracting thieves. Likewise, living frugally might help you avoid criminals, but you are unlikely to make powerful connections. ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c512.webp#center) ![[lifestyle-expenses-phb (tables) #### [Wretched You]] live in inhumane conditions. With no place to call home, you shelter wherever you can, sneaking into barns, huddling in old crates, and relying on the good graces of people better off than you. A wretched lifestyle presents abundant dangers. Violence, disease, and hunger follow you wherever you go. Other wretched people covet your armor, weapons, and adventuring gear, which represent a fortune by their standards. You are beneath the notice of most people. #### [[Squalid You live in a leaky stable, a mud-floored hut just outside town, or a vermin-infested boarding house in the worst part of town. You have shelter from the elements, but you live in a desperate and often violent environment, in places rife with disease, hunger, and misfortune. You are beneath the notice of most people, and you have few legal protections. Most people at this lifestyle level have suffered some terrible seck. They might be disturbed, marked as exiles, or suffer from disease. #### Poor A poor lifestyle means going without the comforts available in a stable community. Simple food and lodgings, threadbare clothing, and unpredictable conditions result in a sufficient, though probably unpleasant, experience. Your accommodations might be a room in a flophouse or in the common room above a tavern. You benefit from some legal protections, but you still have to contend with violence, crime, and disease. People at this lifestyle level tend to be unskilled laborers, costermongers, peddlers, thieves, mercenaries, and other disreputable types. #### Modest A modest lifestyle keeps you out of the slums and ensures that you can maintain your equipment. You live in an older part of town, renting a room in a boarding house, inn, or temple. You don't go hungry or thirsty, and your living conditions are clean, if simple. Ordinary people living modest lifestyles include soldiers with families, laborers, students, priests, hedge wizards, and the like. #### [Comfortable Choosing]] a comfortable lifestyle means that you can afford nicer clothing and can easily maintain your equipment. You live in a small cottage in a middle-class neighborhood or in a private room at a fine inn. You associate with merchants, skilled tradespeople, and military officers. #### [[Wealthy Choosing a wealthy lifestyle means living a life of luxury, though you might not have achieved the social status associated with the old money of nobility or royalty. You live a lifestyle comparable to that of a highly successful merchant, a favored servant of the royalty, or the owner of a few small businesses. You have respectable lodgings, usually a spacious home in a good part of town or a comfortable suite at a fine inn. You likely have a small staff of servants. #### [Aristocratic You]] live a life of plenty and comfort. You move in circles populated by the most powerful people in the community. You have excellent lodgings, perhaps a townhouse in the nicest part of town or rooms in the finest inn. You dine at the best restaurants, retain the most skilled and fashionable tailor, and have servants attending to your every need. You receive invitations to the social gatherings of the rich and powerful, and spend evenings in the company of politicians, guild leaders, high priests, and nobility. You must also contend with the highest levels of deceit and treachery. The wealthier you are, the greater the chance you will be drawn into political intrigue as a pawn or participant. ### Food, Drink, and [[Lodging The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. These prices are included in your total lifestyle expenses. ![[[Food Drink]] and [[Lodging Phb]] > [!note] Self-Sufficiency
 
 > The expenses and lifestyles described in this chapter assume that you are spending your time between adventures in town, availing yourself of whatever services you can afford—paying for food and shelter, paying townspeople to sharpen your sword and repair your armor, and so on. Some characters, though, might prefer to spend their time away from civilization, sustaining themselves in the wild by hunting, foraging, and repairing their own gear.
 
@@ -123,59 +123,37 @@ world: Both
 Holds a clue about the ancient prophecy
 
 ## [See Also]]
-- [[[Keeper Elara Mindwell]]
-- [[[Enchanter Valdris Peacewarden]]
-- [[[Madame Rosalind Goldleaf]]
-- [[NPC01979_Fiora_Emberfall_the_Guardian
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[NPC00872_Thalia_Ironwood_the_Broken
-- [NPC01503_Ewan_Dawnstrider_the_Redeemed]]
-- [[03 Races
-- [NPC01745_Felicia_Oakenshield_the_Scholar]]
-- [[NPC01761_Idris_Moonshadow_the_Broken
-- [Reputation_Tracker]]
-- [[NPC01012_Solas_Darkwater_the_Strong
-- [[[Pip Goldleaf]]]]
-- [[NPC01041_Thalia_Dawnstrider_the_Lost
-- [16 Credits]]
-- [[[Archdruid Thornweaver]]
-- [[NPC00272_Rhiannon_Brightblade
-- [Character_Journal_Template]]
+- [[Keeper Elara Mindwell]]
+- [[Enchanter Valdris Peacewarden]]
+- [[Madame Rosalind Goldleaf]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[Archdruid Thornweaver]]
+- [[NPC00272_Rhiannon_Brightblade]]
 - [[08 [Using Ability Scores]]
-- [[Count_Strahd_von_Zarovich
-- [NPC01943_Xander_Proudmore_the_Fallen]]
-- [[NPC00820_Thalia_Nightfall_the_Risen
-- [NPC00599_Cedric_Lightbringer_the_Wise]]
-- [[NPC01312_Alaric_Darkwater_the_Fallen
-- [NPC01870_Lyanna_Silverleaf_the_Cunning]]
-- [[Parliamentary_Voting_Guide
-- [NPC01466_Urien_Nightfall_the_Guardian]]
-- [[NPC00285_Xander_Goldleaf_the_Mystic
-- [Propaganda_Broadsheet_Syndicate.md]]
-- [[NPC00080_Branwen_Proudmore
-- [Wanted_Poster_Syndicate_Fenc]]
-- [[NPC00321_Aeliana_Zephyrblade_the_Strong
-- [NPC00300_Urien_Zephyrblade]]
-- [[Faction_Guide.md
-- [Session_Recaps]]
-- [[NPC01476_Qadim_Stormwind_the_Wise
-- [10 Combat]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[Wanted_Poster_Syndicate_Fenc]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[Session_Recaps]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
 - [[Ship_Schematic_The_Seahawk.md
 - [12 Spells]]
 - [[10 Appendix B [Creature Stat Blocks]]
 - [[11 [Rules Glossary]]
 - [[13 Conditions
 - [[07 [Customization Options]]]]
-- [[NPC01290_Pyria_Ashford_the_Broken
-- [NPC01577_Orion_Moonshadow_the_Seeker]]
-- [[14 Gods of the Multiverse
-- [MOC_Lore]]
-- [[NPC01786_Zephyr_Jadeclaw_the_Mystic
-- [NPC00920_Malakai_Ravenheart_the_Guardian]]
-- [[MOC_Sessions
--
-
-## [Item Rarity]] & Balance
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[14 Gods of the Multiverse]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[MOC_Sessions]] & Balance
 Following magic item guidelines (WWT p.135-136):
 - **Rarity**: Common/Uncommon/Rare/[[Very Rare/Legendary
 - **Attunement**: Required for powerful effects
@@ -192,9 +170,7 @@ Following magic item guidelines (WWT p.135-136):
 - Xanathar's [[Secrets Revealed to Everything (XSR) p.135
 - Volo's [Creature Catalog]] to Monsters (VCC) p.75
 
-## [[Related Content
--
-- [13-conditions (players-handbook-2014)]]
+## [[13-conditions (players-handbook-2014)]]
 
 ## [[Game Mechanics
 - **[Ability Checks]]**: See ACX p.174
@@ -227,45 +203,35 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[ITEM00572_Ethereal_Leather_of_Grace
 - Related: [LOC00155_Wilderness_Location_156]]
 - Connects to
-- Related: [[item properties#Loading
-- Related:
-- Parallels [LOC00087_Dungeons_Location_88]]
+- Related: [[Item Properties]]
 - Originates from [[location-city-shadow-current-shadow-current.svg
 - Related: [lessons-of-the-first-ones-xphb (optional-features)]]
-- Leads to [[[[Location City [Abyssos Prime]] [[Upper Districts V1 [Abyssos Prime]] [[Upper Districts.png]]
-- Affected by [[[Prophecy Translation Center]]
+- Leads to [[Abyssos Prime]] [[Upper Districts V1 [Abyssos Prime]] [[Upper Districts.png]]
+- Affected by [[Prophecy Translation Center]]
 - Connects to [[step_058 (phase_068)
 - Leads to
 - Influences [QUEST00282_Personal_Quest_283]]
 - Originates from [[LOC0082_Watchwick
 - Requires [[[Marquis Benedict]] Riversen (D&D_References)]]
-- Originates from [[LORE00270_History_Entry_271
-- Requires [LOC00031_Wilderness_Location_32]]
-- Compare with [[QUEST0056_Investigate_the_Demons
-- Requires [norse-skadi (deities)]]
-- See also: [[NPC01674_Delara_Dawnstrider_the_Wanderer
-- Originates from [step_056 (phase_077)]]
-- Compare with [[[The Symbiotic Compact]]
+- Originates from [[LOC00031_Wilderness_Location_32]]
+- Compare with [[QUEST0056_Investigate_the_Demons]]
+- See also: [[NPC01674_Delara_Dawnstrider_the_Wanderer]]
+- Compare with [[The Symbiotic Compact]]
 - Connects to [[step_098 (phase_024)
 - Requires [[[Owlin Scc]]]]
 - Related: [[step_093 (phase_079)
 - Connects to [list-spells-classes-oath-of-vengeance-xphb (lists)]]
-- Parallels [[NPC00194_Pyria_Brightblade_the_Broken
-- Compare with [[[Assets Locations]] [[Location City [Marquis Aldwin]] Goldcurrent V1 [[Marquis Aldwin Goldcurrent.svg]]
-- See also: [[4-gith-and-their-endless-war (mordenkainens-tome-of-foes)
-- Leads to [spirit-naga-xmm (fiend)]]
+- Parallels [[NPC00194_Pyria_Brightblade_the_Broken]] [[Location City [Marquis Aldwin]] Goldcurrent V1 [[Marquis Aldwin Goldcurrent]]
+- See also: [[4-gith-and-their-endless-war (mordenkainens-tome-of-foes)]]
 - Originates from [[ITEM00841_Time-worn_Tome_of_Eternity
 - Parallels [[[Pirate Confederacy]] Player]]
 - Influences [[step_072 (phase_080)
 - See also: [[[Captain Rhea]] Blackwater (D&D_References)]]
 - Originates from [[step_098 (phase_017)
-- Requires [[Portrait NPC [Warr]]... [[Connected To: [Regional Politics]] and [[Trade Related Locations: [Nearby Settlements]]]]
-- See also: [[step_024 (phase_073)
-- Compare with [NPC00178_Ewan_Emberfall_the_Cunning]]
-- Connects to [[adult-blue-dragon-xmm (dragon)
-- Parallels [step_015 (phase_088)]]
-- Affected by [[MON00108_Undead_Creature_109
-- Related: [FAC00063_Cults_64]]
+- Requires [[Portrait NPC [Warr]]... [[Regional Politics]] and [[Trade Related Locations: [Nearby Settlements]]]]
+- See also: [[NPC00178_Ewan_Emberfall_the_Cunning]]
+- Connects to [[adult-blue-dragon-xmm (dragon)]]
+- Affected by [[MON00108_Undead_Creature_109]]
 - Connects to [[FAC00085_Guilds_86
 - Parallels [[[Assets Handouts]] [[Handout Handout [Aged Treasure]] [[Map Aged [Treasure Map]].png]]
 - Connects to
@@ -274,23 +240,20 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[step_083 (phase_051)
 - See also: [step_088 (phase_060)]]
 - Requires
-- Leads to [[[[Assets Locations [Location City]] [[Sea Sprite V1 [Sea Sprite]].svg]]
-- Compare with [[`dice: 3d6`
-- Parallels [DUN00161_Dungeon_162]]
+- Leads to [[Assets Locations]] [[Sea Sprite V1 [Sea Sprite]].svg]]
+- Compare with [[DUN00161_Dungeon_162]]
 - Affected by [[Cloak of the [Manta Ray Xdmg]]
 - Compare with [[ENC00223_Combat_Encounter_224
 - Compare with [location-city-divine-magic-v1-divine-magic.svg]]
-- Originates from [[[[Memory Meadows [Black Market]] (D&D_References)]]
-- Compare with [[political_intrigue_mechanics
-- Influences [[[Aethermoor Wind]] [[Rider Traditions (D&D_References)]]
+- Originates from [[Memory Meadows]] (D&D_References)]]
+- Compare with [[political_intrigue_mechanics]] [[Aethermoor Wind Rider Traditions (D&D_References)]]
 - Compare with [[hide-armor-xphb (items)
 - Influences [gnome-sheyanna-flaxenstrand-mtf (deities)]]
-- Parallels [[Portrait NPC [[Captain Finn Crosscurrent V1 [Captain Finn]] Crosscurrent.svg]]
+- Parallels [[Captain Finn Crosscurrent]] Crosscurrent.svg]]
 - Related:
 - Leads to [[Quest - [[The Deep [Mother Awakens]]]]
-- Connects to [[[Supernatural Mysterie (D&D_References)]]
-- Influences [[downtime-revisited-xge (variant-rules)
-- Compare with [Navigation_Challenges]]
+- Connects to [[Supernatural Mysterie (D&D_References)]]
+- Influences [[downtime-revisited-xge (variant-rules)]]
 - Compare with [[LORE00013_History_Entry_14
 - Compare with [QUEST00284_Side_Quest_285]]
 - Compare with [[giant-ape-xmm
@@ -298,29 +261,26 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[[[Biomech Specialist [Tide Metalweaver]]]]
 - Related: [[Portrait NPC [[Quest the Siren S [Price Quest]] the Siren S Price.svg]]
 - Leads to [[Time-[Lost Delegate Chronus]]
-- Affected by [[[The Lighthouse of Storms (D&D_References)]]
-- Parallels [[NPC00994_Urien_Frostwhisper_the_Guardian
-- Affected by [[[Training Simulators]]]]
+- Affected by [[The Lighthouse of Storms (D&D_References)]]
+- Parallels [[NPC00994_Urien_Frostwhisper_the_Guardian]]]]
 - Affected by [[Potion of [[Storm Giant [Strength Xdmg]]]]
-- Parallels [[[The Forbidden Section]]
+- Parallels [[The Forbidden Section]]
 - Affected by [[[[Assets Portraits Portrait NPC [Brother Marcus]] [[Steelbane Brother [Marcus Steelbane]].svg]]
 - Requires
 - Originates from [[SPELL00052_Arcane_Spell_53
 - See also: [[Quest - [Medical Breakthrough]]]]
 - Originates from [[[[Location City the [Spectral Gallery]] V1 the [[Spectral Gallery.svg]]
 - Originates from [[[Sprite Xmm]]
-- Compare with [[[[Assets Locations [Location City]] the [[Synthesis Gardens V1 the [Synthesis Gardens]].svg]]
+- Compare with [[Assets Locations]] the [[Synthesis Gardens V1 the [Synthesis Gardens]].svg]]
 - Affected by [[[Npc Appearance]]
 - Influences [[step_070 (phase_070)
 - Compare with [opal-xdmg (items)]]
-- Compare with [[Embassy of Emptines (D&D_References)
-- Leads to [[[Ambush Xphb]]]]
-- Leads to [[map
-- Leads to [[[Diplomatic Service]] 2]]
-- Originates from [[[[Location City [Merchant Guild]] Headquarters V1 [[Merchant Guild Headquarters.svg]]
-- Related: [[[[Assets Locations [Location City]] the [[Coral Palace Complex the [Coral Palace]] Complex.svg]]
+- Compare with [[Embassy of Emptines (D&D_References)]]]]
+- Leads to [[Diplomatic Service]] 2]]
+- Originates from [[[[Location City [Merchant Guild]] Headquarters V1 [[Merchant Guild Headquarters]]
+- Related: [[Assets Locations]] the [[Coral Palace Complex the [Coral Palace]] Complex.svg]]
 - Influences [[[Merrenoloth Mpmm]]
-- Affected by [[[Marcus Ironwrigh]]
+- Affected by [[Marcus Ironwrigh]]
 - Connects to [[[[Weather Sage [Ancient Tempest]] 2]]
 - Compare with [[step_013 (phase_013)
 ## [Session Summary]]

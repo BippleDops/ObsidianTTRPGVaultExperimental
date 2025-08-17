@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:36.315915"
 modified: "2025-08-15T12:24:36.315918"
-aliases: [Session 07 the [[Convergence Approaches]]]
+aliases: [Session 07 the [[Session 07 the Convergence Approaches]]]
 ---
 
 # Session 07 [[The Convergence Approaches
@@ -20,7 +20,7 @@ modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: Session 07 [[The Convergence]] Approaches.Md
+subcategory: Session 07 [[The Convergence Key]] Approaches.Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -54,7 +54,7 @@ world: Both
 - **[[[[Admiral Marina Stormcrest|[Admiral Marina]] Stormcrest]]** - Military representative
 - **[[[[High Archivist [Pearl Voidmemory]]|[[High Archivist [Pearl Voidmemory]]]]** - Keeper of ancient knowledge **[[Aethermoor Delegation**:
 - **[[[Regent Prism]] Goldwind|[[Regent Prism Goldwind]]** - Acting in [[Queen Seraphina's increasing absence
-- **[[[Wind Marshal]] [[Gale Stormwright|[Wind Marshal]] [[Gale Stormwright]]** - Military commander
+- **[[[Wind Marshal]] [[Gale Stormwright|[Wind Marshal]] [[Wind Marshal Gale Stormwright]]** - Military commander
 - **[[[[Master Artificer [Crystal Brightforge]]|[[Master Artificer [Crystal Brightforge]]]]** - Chief magical advisor ### [[The Revelation Session **[Chancellor Squall]]** presents the crisis: "Our scholars have cross-referenced the ancient texts. [[The Seven Shards aren't just artifacts - they're components of a cosmic lock. [The Deep]] Mother was bound by their power, but each shard claimed weakens the seal." **[[Regent Prism** adds:
 "Our crystal divinations confirm this. But there's more - someone is systematically claiming shards to break the seal deliberately. The question is: for what purpose?" **[Key Information]] Revealed**:
 - **[[The Original Binding**: Created jointly by both realms' greatest mages 3,000 years ago
@@ -73,11 +73,10 @@ world: Both
 - **[Limited Cooperation]]**: Only partial support from each realm
 - **[[Resource Restrictions**: Must work with reduced capabilities
 - **[Political Complications]]**: Some factions oppose cooperation
-- **[[Time Delays**: Bureaucratic obstacles slow response ### [The Sixth]] Shard's [[location|Location **[Master Artificer]] [[Crystal Brightforge** reveals: "Our combined divinations have located the [Sixth Shard]]. It rests in [[[[The Meridian Sanctum|[The Meridian]] Sanctum]], a temple that exists in both realms simultaneously. But reaching it requires navigating [[[[The Convergence Maze|[The Convergence]] Maze]] - a labyrinth where space itself folds between worlds." ### [[Journey Through the [Convergence Maze]] The **[[[[Convergence Maze|[Convergence Maze]]]]** is a region where reality itself has become unstable due to approaching [[Stellar Convergence. ### [Environmental Challenges]] **[[Reality Flux Zones**: - **Gravity shifts** unexpectedly (Acrobatics checks to maintain footing)
+- **[[Time Delays**: Bureaucratic obstacles slow response ### [The Sixth]] Shard's [[location|Location **[Master Artificer]] [[Crystal Brightforge** reveals: "Our combined divinations have located the [Sixth Shard]]. It rests in [[[[The Meridian Sanctum|[The Meridian]] Sanctum]], a temple that exists in both realms simultaneously. But reaching it requires navigating [[[[The Convergence Maze|[The Convergence]] Maze]] - a labyrinth where space itself folds between worlds." ### [[Convergence Maze]] The **[[[[Convergence Maze|[Convergence Maze]]]]** is a region where reality itself has become unstable due to approaching [[Stellar Convergence. ### [Environmental Challenges]] **[[Reality Flux Zones**: - **Gravity shifts** unexpectedly (Acrobatics checks to maintain footing)
 - **Time dilation** effects (some areas age you, others reverse aging)
 - **[elemental|Elemental]] mixing** (water and air exist in same spaces)
-- **Memory echoes** (experience flashbacks from other people's memories) **[[Navigation Challenges**:
-- **[Skill Challenge]]**: [[Maze Navigation (6 successes before 4 failures)
+- **Memory echoes** (experience flashbacks from other people's memories) **[[Navigation_Challenges]]**: [[Maze Navigation (6 successes before 4 failures)
 - **Survival **DC 15****: Follow environmental clues
 - **[Arcana|Arcana]] **DC 17****: Understand magical flux patterns - **Investigation **DC 14****: Spot landmarks between reality shifts
 - **Insight **DC 16****: Distinguish real from false memories #### [[The Lost [Expedition The]] party encounters survivors from a previous expedition: **[[[[Explorer Captain [Twist Realitywalker]]|[[Explorer Captain [Twist Realitywalker]]]]** - Renowned interdimensional explorer, now partially mad from maze exposure. **[[[[Scholar Paradox Timeweave|[Scholar Paradox]] Timeweave]]** - Researcher studying convergence effects, has valuable information but speaks in temporal riddles. **[[Information Gained**: - [The Collector]]'s forces passed through recently
@@ -99,7 +98,7 @@ world: Both
 - **Insight **DC 16****: [Understand Aurelius]]'s true motivations
 - **Intimidation **DC 19****: Show the consequences of his actions
 - **Deception **DC 20****: Pretend to agree while planning opposition
-- **Investigation **DC 17****: Point out flaws in his reasoning **Success**: Aurelius agrees to consider alternatives, potentially becoming an ally **Failure**: Aurelius concludes the party cannot be reasoned with, becomes actively hostile ### [[The Sixth [Shard Decision]] Regardless of negotiation outcome, the party must decide what to accomplish with the **[[[[Sixth Shard of Convergence|[Sixth Shard]] [[Of Convergence]]**: **Option 1: Claim the Shard** - Gain power to influence the Convergence directly
+- **Investigation **DC 17****: Point out flaws in his reasoning **Success**: Aurelius agrees to consider alternatives, potentially becoming an ally **Failure**: Aurelius concludes the party cannot be reasoned with, becomes actively hostile ### [[The Sixth [Shard Decision]] Regardless of negotiation outcome, the party must decide what to accomplish with the **[[[[Sixth Shard of Convergence|[Sixth Shard]] [[Heart of Convergence]]**: **Option 1: Claim the Shard** - Gain power to influence the Convergence directly
 - Risk making the merger uncontrollable
 - Aurelius may ally or oppose based on negotiation **Option 2: Destroy the Shard**
 - Prevent anyone from using it

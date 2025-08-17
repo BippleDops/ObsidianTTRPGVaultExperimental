@@ -137,8 +137,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.267
 
 ## Related Content
-- [[10K_GENERATION_REPORT
-- [ULTIMATE_VAULT_ACHIEVEMENT]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
 - [[NEXT_LEVEL_IMPROVEMENTS
 
 ## Game Mechanics
@@ -169,12 +168,10 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [boots-of-the-winterlands-xdmg (items)]]
 - Connects to [[ITEM01004_Superior_Potion_of_Swiftness
 - Compare with [Cross-Realm Travel Guidelines]]
-- Influences [[gas-spore-fungus-xmm
-- Leads to [LOC00281_Towns_Location_282]]
+- Influences [[LOC00281_Towns_Location_282]]
 - Related: [[ITEM00095_Blazing_Dagger_of_Slaying
 - Requires [2 Character Races]]
-- Influences [[NPC01941_Cedric_Blackstone_the_Redeemed
-- Related: [travel-terrain-xdmg (tables)]]
+- Influences [[NPC01941_Cedric_Blackstone_the_Redeemed]]
 - Influences [[Assets Portraits Portrait NPC Queen Seraphina Lumengarde Queen Seraphina Lumengarde.svg
 - Originates from [Innkeeper Mara Ironlung (D&D_References)]]
 - Leads to [[step_048
@@ -187,36 +184,29 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [ITEM01157_Lesser_Elixir_of_Swiftness]]
 - Compare with [[LOC00225_Towns_Location_226
 - Parallels [Symbol Heraldry the Great Recognition V1 the Great Recognition.svg]]
-- Parallels [[LOC00145_Dungeons_Location_146
-- Influences [Rod of Rulership Xdmg]]
+- Parallels [[LOC00145_Dungeons_Location_146]]
 - Requires [[Session 19 (06_Sessions)
 - Connects to [step_014 (phase_034)]]
 - Compare with [[step_090 (phase_099)
 - Originates from [FAC00090_Orders_91]]
 - Requires [[Dark Gift of Vaund the Evasive Cos
 - Requires [step_041]]
-- Compare with [[Portrait NPC Pres... Related To: Local Political Structure Connected Plots: to Be Developed
-- Related: [Whisper Ward Amulet]]
+- Compare with [[Portrait NPC Pres... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Leads to [[Portrait NPC the Tidal Council V2 the Tidal Council.svg
 - Requires [LOC0067_Peakmoor]]
 - Requires [[step_086 (phase_006)
 - Originates from [Adventure Xphb]]
 - Leads to [[step_010 (phase_013)
 - Connects to [Shadow Marina (Criminal_Organizations)]]
-- Originates from [[EVENT00060_Magical_Event_61
-- Compare with [NPC00692_Thalia_Emberfall_the_Seeker]]
-- Influences [[ENC00040_Combat_Encounter_41
-- Parallels [The Verdant Reach_1]]
+- Originates from [[NPC00692_Thalia_Emberfall_the_Seeker]]
+- Influences [[ENC00040_Combat_Encounter_41]]
 - Leads to [[Survival Codex
 - Requires [step_068 (phase_036)]]
-- Compare with [[Invisible Stalker Xmm
-- Originates from [ITEM0134_Glorious_Blade_of_Shadows]]
+- Compare with [[ITEM0134_Glorious_Blade_of_Shadows]]
 - Related: [[The Memory Halls
 - Affected by [Training Camps]]
-- Requires [[NPC01038_Kaelen_Grimholt_the_Wise
-- Compare with [step_083]]
-- Leads to [[NPC01234_Nerys_Dawnstrider_the_Strong
-- Connects to [item properties#Versatile]]
+- Requires [[NPC01038_Kaelen_Grimholt_the_Wise]]
+- Leads to [[NPC01234_Nerys_Dawnstrider_the_Strong]]
 - Related: [[Doctor Harmony Whisperfall
 - Parallels [QUEST00046_Personal_Quest_47]]
 - Compare with [[step_061 (phase_051)
@@ -227,18 +217,14 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [step_083 (phase_021)]]
 - Affected by [[Memory_Mechanics
 - Leads to [step_017 (phase_061)]]
-- Compare with [[sorcerer-xphb-divine-soul-xge (classes)
-- Compare with [Portrait NPC High... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- Requires [[step_025
-- Leads to [SPELL00057_Arcane_Spell_58]]
-- See also: [[Deep Expeditions
-- Compare with [Cross-Realm Ancestry Rules]]
+- Compare with [[Portrait NPC High... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Requires [[SPELL00057_Arcane_Spell_58]]
+- See also: [[Cross-Realm Ancestry Rules]]
 - See also: [[LORE00254_Prophecies_Entry_255
 - Related: [portrait-npc-syndicate-war-v2-syndicate-war.svg]]
 - Related: [[step_042
 - See also: [Dwarven Vergadain Mtf]]
-- Originates from [[Mirror-Breaking Crystals (D&D_References)
-- Originates from [Random_Encounter_Tables]]
+- Originates from [[Mirror-Breaking Crystals (D&D_References)]]
 - Originates from [[miscellaneous
 - Parallels [Royal Writ]]
 - Compare with [[NPC0068_Cormac_Ironforge
@@ -249,8 +235,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [Adamantine Armor Xdmg]]
 - Originates from [[Location City Merchant Quarter Districts Merchant Quarter Districts.svg
 - Connects to [step_001 (phase_065)]]
-- See also: [[step_047 (phase_020)
-- Influences [LOC00262_Cities_Location_263]]
+- See also: [[LOC00262_Cities_Location_263]]
 - Compare with [[ITEM00312_Radiant_Spear_of_Speed
 - Compare with [step_080 (phase_004)]]
 - Influences [[Portrait NPC Weaponsmith Captain Marcus Sharpedge V2 Weaponsmith Captain Marcus Sharpedge.svg

@@ -158,28 +158,15 @@ Needs discrete help with family scandal
 - Special moves
 
 ## See Also
-- [[NPC01664_Pyria_Lightbringer_the_Redeemed
-- [NPC00307_Dara_Proudmore_the_Seeker]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC01177_Thalia_Underhill_the_Fallen]]
-- [[NPC00939_Thalia_Jadeclaw_the_Swift
-- [Faction_Relationship_Web]]
-- [[Party_Quests
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC01040_Zephyr_Lightbringer_the_Strong
-- [Calendar_Conversions_Realm_Window]]
-- [[Player_Comfort_Check
-- [Reference.md]]
-- [[08 Using Ability Scores
-- [16 Credits]]
-- [[NPC00649_Corvus_Zephyrblade_the_Broken
-- [11 Rules Glossary]]
-- [[MOC_Rules
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[Player_Comfort_Check]]
+- [[08 Using Ability Scores]]
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[MOC_Rules]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -197,19 +184,16 @@ Needs discrete help with family scandal
 - Parallels
 - Connects to [[step_061 (phase_011)
 - Connects to [LOC0077_NewPeak]]
-- Connects to [[lantern-of-revealing-xdmg (items)
-- Related: [NPC00637_Branwen_Stormwind_the_Fallen]]
+- Connects to [[NPC00637_Branwen_Stormwind_the_Fallen]]
 - Leads to [[evasive-footwork-xphb (optional-features)
 - Affected by
 - Related: [step_015 (phase_058)]]
-- Requires [[Faction Interaction Rules
-- Parallels [Phase Shift Devices]]
+- Requires [[Faction Interaction Rules]]
 - Leads to [[ITEM01128_Refined_Elixir_of_Swiftness
 - Related: [Luminary Marcus Healwright]]
 - Influences [[Location City Pressure Engineers V1 Pressure Engineers.svg
 - Leads to [swarm-of-insects-xmm (beast)]]
-- Connects to [[Foreign Merchants (D&D_References)
-- Parallels [step_052 (phase_050)]]
+- Connects to [[Foreign Merchants (D&D_References)]]
 - Originates from [[Portrait NPC High Priestess Nerida Soulcurrent High Priestess Nerida Soulcurrent.svg_1 (Portraits)
 - Requires [Corruption Trackers]]
 - Parallels [[step_096 (phase_027)
@@ -219,18 +203,14 @@ Needs discrete help with family scandal
 - Related:
 - Requires [[The Phantom Current
 - Connects to [04_Resources_Assets_Portraits_portrait-npc-trade-captain-current-trade-captain-current.svg_Quick_Ref]]
-- Affected by [[ENC00358_Combat_Encounter_359
-- Requires [Player_Handout_Aethermoor_Airships (Ships)]]
-- Parallels [[Weather 2 Xdmg
-- Influences [NPC01738_Caelum_Ironwood_the_Fallen]]
+- Affected by [[Player_Handout_Aethermoor_Airships (Ships)]]
+- Parallels [[NPC01738_Caelum_Ironwood_the_Fallen]]
 - Requires [[step_034 (phase_029)
 - Originates from [Assets Art Doctor Silas Voidtouch.png]]
-- Compare with [[step_100 (phase_036)
-- Connects to [NPC01962_Corvus_Underhill_the_Lost]]
+- Compare with [[NPC01962_Corvus_Underhill_the_Lost]]
 - Connects to [[step_079 (phase_093)
 - Originates from [step_070 (phase_008)]]
-- Compare with [[Market Master Cornelius Driftwood 2
-- Compare with [step_019 (phase_010)]]
+- Compare with [[Market Master Cornelius Driftwood 2]]
 - Influences [[chambers-exit-type (tables)
 - Parallels [Screaming Gardens 2]]
 - Related: [[power-level-magic-item-power-by-rarity-xdmg (tables)
@@ -250,12 +230,9 @@ Needs discrete help with family scandal
 - Related: [[QUEST00197_Main_Quest_198
 - Requires
 - Parallels [Location City the Gloom Gardens V1 the Gloom Gardens.svg]]
-- Affected by [[Void Currents (D&D_References)
-- Connects to [NPC00796_Aeliana_Voidwalker_the_Seeker]]
-- Influences [[Diplomatic Immunity
-- Related: [Military Coordinator Strong]]
-- See also: [[NPC01754_Orion_Grimholt_the_Cunning
-- Influences [Biological Enhancement Corps]]
+- Affected by [[NPC00796_Aeliana_Voidwalker_the_Seeker]]
+- Influences [[Military Coordinator Strong]]
+- See also: [[NPC01754_Orion_Grimholt_the_Cunning]]
 - Originates from
 - See also: [[Umbral Exchange (Lore)
 - Originates from [death-ward-xphb (spells)]]
@@ -264,8 +241,7 @@ Needs discrete help with family scandal
 - Leads to
 - See also: [[Progressive Movement Infiltration
 - Influences [Light Therapy Restoration Bed]]
-- Requires [[LORE00237_Legends_Entry_238
-- Parallels [The Love Bridge (D&D_References)]]
+- Requires [[The Love Bridge (D&D_References)]]
 - Requires [[Weather Reader Stormwatch
 - Related: [Libraries (D&D_References)]]
 - Related: [[step_085 (phase_093)
@@ -282,8 +258,7 @@ Needs discrete help with family scandal
 - Leads to [[Assets Locations Location City Professional Organizations Professional Organizations.svg
 - Leads to [step_069 (phase_082)]]
 - Originates from
-- Related: [[Otherworldly Steed Fey Xphb
-- Affected by [NPC01003_Erasmus_Voidwalker_the_Swift]]
+- Related: [[NPC01003_Erasmus_Voidwalker_the_Swift]]
 - Requires [[step_059 (phase_098)
 - Influences [step_092 (phase_031)]]
 - See also: [[shape-the-flowing-river (optional-features)

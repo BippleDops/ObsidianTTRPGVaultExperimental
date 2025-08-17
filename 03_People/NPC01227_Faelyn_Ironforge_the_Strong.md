@@ -201,18 +201,15 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [Reality_Anchor_Syndrome]]
 - Requires [[ITEM01166_Greater_Crystal_of_Vigor
 - Related: [Luna Shimmerleaf 2]]
-- Affected by [[03-chapter-2-creating-a-character (players-handbook-2024)
-- Compare with [blood-spear-cos (items)]]
-- Originates from [[LOC00280_Planes_Location_281
-- Influences [06-chapter-5-feats (players-handbook-2024)]]
+- Affected by [[03-chapter-2-creating-a-character (players-handbook-2024)]]
+- Originates from [[06-chapter-5-feats (players-handbook-2024)]]
 - Parallels
 - See also: [[Services Reality Protection
 - Originates from
 - Leads to [step_083 (phase_042)]]
 - Originates from [[The Pearl Guard (D&D_References)
 - See also: [Portrait NPC Marina Red Tide Coralheart Marina Red Tide Coralheart.svg]]
-- Parallels [[Crystalhaven Envoy Lord Reginald Brightspire (D&D_References)
-- Connects to [otyugh-xmm (aberration)]]
+- Parallels [[Crystalhaven Envoy Lord Reginald Brightspire (D&D_References)]]
 - Affected by [[step_082 (phase_061)
 - Affected by
 - See also: [Mule Xphb]]
@@ -233,16 +230,13 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [Celestial Spirit Defender Xphb]]
 - Requires [[Ghostly Gaze Xge
 - Influences [step_016 (phase_045)]]
-- Originates from [[Archshadow Mortis Voidcut
-- Affected by [Aquamarine Xdmg]]
+- Originates from [[Archshadow Mortis Voidcut]]
 - Leads to [[DUN00147_Dungeon_148
 - Influences [step_003 (phase_017)]]
 - Affected by [[Research Institutes (D&D_References)
 - Parallels [Assets Art Hybrid Abominations.png]]
-- Originates from [[LOC0052_Watchridge
-- Leads to [Cloud Shepherd Guild Customs (D&D_References)]]
-- Influences [[step_075 (phase_035)
-- Related: [Business Card Dungeon - config]]
+- Originates from [[Cloud Shepherd Guild Customs (D&D_References)]]
+- Influences [[Business Card Dungeon - config]]
 - Originates from [[Memory Merchant Kellan Depthseer 2
 - Leads to [Assets Locations Location City Sahuagin V1 Sahuagin.svg]]
 - Originates from [[ITEM01285_Lesser_Oil_of_Healing
@@ -251,18 +245,14 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [LOC00213_Planes_Location_214]]
 - Leads to [[The Six Abilities Ability Descriptions Xphb
 - Parallels [Forgotten Realms Tempus]]
-- See also: [[Portrait NPC Empe... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Parallels [item-properties#Two-Handed]]
-- Connects to [[Memory Merchant Valeria
-- Parallels [QUEST00042_Personal_Quest_43]]
+- See also: [[Portrait NPC Empe... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Connects to [[QUEST00042_Personal_Quest_43]]
 - Connects to [[README
 - Requires [step_006 (phase_069)]]
 - Leads to [[The Forbidden Archives
 - Parallels [The Corrupted Admiralty]]
-- Connects to [[The Bone Palace of Sorrows (D&D_References)
-- Influences [Void Watchers]]
-- Influences [[Insurance Industry (D&D_References)
-- Connects to [LOC00236_Cities_Location_237]]
+- Connects to [[The Bone Palace of Sorrows (D&D_References)]]
+- Influences [[Insurance Industry (D&D_References)]]
 - Related: [[step_030 (phase_004)
 - Connects to [Deities of Dragonlance Evil Phb]]
 - Requires [[step_047 (phase_062)
@@ -275,8 +265,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels
 - Requires [[dragontooth-dagger-rot (items)
 - Related: [step_029 (phase_082)]]
-- Originates from [[QUEST00293_Personal_Quest_294
-- Compare with [step_042 (phase_022)]]
+- Originates from [[QUEST00293_Personal_Quest_294]]
 - Compare with [[Campaign Path (D&D_References)
 - Requires [Location City Quill Precisequote Quill Precisequote.svg]]
 - Connects to [[Master Cultivator Thalia Greenglow_1
@@ -293,8 +282,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [Map_Whisper_Island_Docks_Sketc]]
 - See also: [[NPC00299_Aeliana_Keenblade_the_Bold
 - See also: [mordenkainens-sword-xphb (spells)]]
-- Influences [[Senator's Private Chambers 2
-- Related: [The Corruption Codex]]
+- Influences [[Senator's Private Chambers 2]]
 - Influences [[step_083 (phase_060)
 - Requires [creature-creature-dragon-v4-dragon.png]]
 - Related: [[Environmental Engineering Authority

@@ -161,38 +161,21 @@ Seeks rare merchandise
 - Special moves
 
 ## See Also
-- [[NPC00804_Xander_Frostwhisper_the_Cunning
-- [NPC01113_Solas_Ravenheart_the_Cunning]]
-- [[NPC00307_Dara_Proudmore_the_Seeker
-- [NPC00046_Urien_Ironwood_the_Wise]]
-- [[NPC00324_Idris_Hawthorne_the_Strong
-- [NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[NPC01858_Drusilla_Stormwind_the_Cunning
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[NPC00939_Thalia_Jadeclaw_the_Swift
-- [NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[NPC00058_Elric_Nightfall
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC01877_Hestara_Moonshadow_the_Mystic
-- [NPC00785_Ysara_Grimholt_the_Mystic]]
-- [[NPC01974_Thalia_Zephyrblade_the_Lost
-- [NPC01229_Gavril_Ironwood_the_Scholar]]
-- [[NPC01892_Gareth_Xendar_the_Scholar
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[NPC00976_Alaric_Quicksilver_the_Strong
-- [Measurement_Guide_Depth_and_Pressur]]
-- [[NPC00162_Xander_Thornweave
-- [Faction_Guide.md]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00162_Xander_Thornweave]]
 - [[Parliamentary_Voting_Guide
 - [Parliament of Shadows Player Guide.md]]
-- [[10 Appendix B Creature Stat Blocks
-- [11 Rules Glossary]]
-- [[MOC_Quests
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[MOC_Quests]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -223,8 +206,7 @@ Seeks rare merchandise
 - See also: [Flensing Claws Medium Vgm]]
 - Leads to [[step_030 (phase_049)
 - Originates from [elven-alathrien-druanna-mtf (deities)]]
-- Connects to [[The Senator (D&D_References)
-- Connects to [donkey]]
+- Connects to [[The Senator (D&D_References)]]
 - Originates from [[slaad-tadpole-xmm (aberration)
 - Influences [QUEST00071_Side_Quest_72]]
 - Influences [[Port facilities (D&D_References)
@@ -241,13 +223,9 @@ Seeks rare merchandise
 - Parallels [Advanced Ambush Tactics]]
 - Requires [[step_051 (phase_041)
 - Requires [10-combat#Reactions]]
-- See also: [[step_088 (phase_011)
-- Compare with [QUEST00044_Personal_Quest_45]]
-- Influences [[step_022 (phase_045)
-- Affected by [LOC00070_Wilderness_Location_71]]
-- See also: [[Community Resource Sharing (D&D_References)
-- Requires
-- Compare with [Forest Communities]]
+- See also: [[QUEST00044_Personal_Quest_45]]
+- Influences [[LOC00070_Wilderness_Location_71]]
+- See also: [[Community Resource Sharing (D&D_References)]]
 - Leads to [[Mobile Command Platforms
 - Originates from [Quest - Shadow Integration]]
 - Originates from [[step_052 (phase_033)
@@ -256,8 +234,7 @@ Seeks rare merchandise
 - Compare with [magic-item-table-b (tables)]]
 - Originates from [[Current Innovator (D&D_References)
 - Compare with [ENC00482_Combat_Encounter_483]]
-- Influences [[Dehydration Xphb
-- Compare with [Crystal Addiction Victims 2]]
+- Influences [[Crystal Addiction Victims 2]]
 - Parallels [[step_044 (phase_019)
 - Originates from [Storm Weatherwright]]
 - Compare with [[Memory Gardens 2
@@ -268,14 +245,10 @@ Seeks rare merchandise
 - Originates from [The Scribes' Covenant]]
 - Leads to [[portrait-npc-oracle-v1-oracle.svg_1 (Portraits)
 - Related: [adamantine-armor-xdmg (items)]]
-- Influences [[Portrait NPC King... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Related: [list-spells-classes-illusionist-xphb (lists)]]
-- Leads to [[NPC01266_Lyanna_Oakenshield_the_Scholar
-- Influences [step_028 (phase_069)]]
-- Leads to [[step_018_create_audio_recommendations
-- Related: [Cult of the Endless Voi (Cults_and_Movements)]]
-- See also: [[MON00058_Aberrations_Creature_59
-- See also: [Session_Pacing]]
+- Influences [[Portrait NPC King... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Leads to [[NPC01266_Lyanna_Oakenshield_the_Scholar]]
+- Leads to [[Cult of the Endless Voi (Cults_and_Movements)]]
+- See also: [[MON00058_Aberrations_Creature_59]]
 - Leads to [[step_083 (phase_013)
 - Leads to [Depth Convergence]]
 - Parallels [[step_077 (phase_081)
@@ -286,8 +259,7 @@ Seeks rare merchandise
 - Requires [Desert Encounters Levels 14 Xge]]
 - See also: [[The Pearl Divers Guil (Groups)
 - Requires [Annual Budget (D&D_References)]]
-- Requires [[cow-xdmg (items)
-- See also: [Symbol Heraldry Cry... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Requires [[Symbol Heraldry Cry... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Compare with
 - Leads to [[Portrait NPC Shadow Binding Sanctum V1 Shadow Binding Sanctum.svg
 - Affected by [Current Riders Union 2]]
@@ -305,8 +277,7 @@ Seeks rare merchandise
 - Originates from [Kelp Highway (D&D_References)]]
 - Parallels [[portrait-npc-sire-sire.svg_1 (Portraits)
 - Connects to [04_Resources_Assets_Locations_location-city-spymaster-crow-v1-spymaster-crow.svg]]
-- See also: [[step_082 (phase_035)
-- See also: [Archbishop Matthias Lightbringer]]
+- See also: [[Archbishop Matthias Lightbringer]]
 - See also: [[Conjure Celestial Xphb
 - Connects to [Assets Locations Location City Legal Counsel Derek Lawkeeper V1 Legal Counsel Derek Lawkeeper.svg]]
 

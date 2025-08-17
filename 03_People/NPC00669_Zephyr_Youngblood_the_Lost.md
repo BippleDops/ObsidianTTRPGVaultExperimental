@@ -167,22 +167,16 @@ Modifications:
 
 ## See Also
 - [NPC00885_Kaelen_Xendar_the_Lost]]
-- [[NPC01429_Zephyr_Keenblade_the_Cunning
-- [NPC00858_Zephyr_Silverleaf_the_Wanderer]]
-- [[Archdruid Thornweaver
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
-- [[Player_Comfort_Check
-- [NPC00407_Hestara_Dawnstrider]]
-- [[11 Rules Glossary
-- [NPC00362_Pyria_Stormwind_the_Wise]]
-- [[NPC00625_Kaelen_Brightblade_the_Redeemed
-- [NPC00719_Orion_Hawthorne_the_Cunning]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -206,21 +200,18 @@ Modifications:
 - Leads to [Creature Creature Githyanki Knight Xmm V4 Githyanki Knight Xmm.png]]
 - Related: [[step_029 (phase_032)
 - Related: [Unite or Divide (Lore)]]
-- Originates from [[NPC01111_Ysara_Crystalbrook_the_Strong
-- Influences [step_029 (phase_040)]]
+- Originates from [[NPC01111_Ysara_Crystalbrook_the_Strong]]
 - Affected by [[ITEM00396_Blessed_Staff_of_the_Ancients
 - Affected by
 - Parallels [Hill Giant Xmm]]
 - Influences
-- Connects to [[Imperial Vaults 2
-- Related: [NPC00439_Thalia_Silverleaf]]
+- Connects to [[NPC00439_Thalia_Silverleaf]]
 - Leads to
 - Leads to [[Location City [The Transition Centers V1 the Transition Centers.svg]]
 - Parallels [[Assets Locations Location City [The Purification Temples the Purification Temples.svg]]
 - Connects to [[Portrait NPC Emperor Abyssal the Deep Sighted V2 Emperor Abyssal the Deep Sighted.svg_1 (Portraits)
 - Leads to [[[Memory Crystal Archivist Nautilus Storykeeper]] (D&D_References)]]
-- Requires [[QUEST00257_Side_Quest_258
-- Leads to [08-chapter-7-spells (players-handbook-2024)]]
+- Requires [[08-chapter-7-spells (players-handbook-2024)]]
 - Influences
 - Influences [[The Senator's Office
 - Originates from [[Assets Locations Location City [Undead Services Bureau]] Undead Services Bureau.svg]]
@@ -229,8 +220,7 @@ Modifications:
 - Related: [step_035 (phase_048)]]
 - Related: [[pixie-wonderbringer-xmm (fey)
 - See also: [human-names-celtic-female-xge (tables)]]
-- Compare with [[step_032 (phase_083)
-- Influences [ENC00194_Combat_Encounter_195]]
+- Compare with [[ENC00194_Combat_Encounter_195]]
 - Originates from [[step_051 (phase_020)
 - Related: [improvising-damage (tables)]]
 - Compare with [[step_061 (phase_077)
@@ -256,34 +246,29 @@ Modifications:
 - Originates from [ability-checks-typical-difficulty-classes-phb (tables)]]
 - Related: [[step_091 (phase_018)
 - See also: [step_084 (phase_031)]]
-- Affected by [[divine-word-xphb (spells)
-- Influences [NPC00653_Vesper_Ironwood_the_Seeker]]
+- Affected by [[NPC00653_Vesper_Ironwood_the_Seeker]]
 - See also: [[ENC00222_Social_Encounter_223
 - Influences [[Assets Locations Location City [Great Plague of Ages Past]] V1 Great Plague of Ages Past.svg]]
-- Leads to [[QUEST00069_Personal_Quest_70
-- Influences [NPC00757_Zephyr_Quicksilver_the_Swift]]
+- Leads to [[NPC00757_Zephyr_Quicksilver_the_Swift]]
 - Connects to [[Pressure Networks
 - Related: [Scene Scene Sunken Library Revelation V2 Sunken Library Revelation.svg]]
-- See also: [[Cross-Cultural_Legal_Association
-- See also: [step_007 (phase_067)]]
+- See also: [[Cross-Cultural_Legal_Association]]
 - See also: [[step_034 (phase_046)
 - Connects to [[[The Silent Watcher]] 2]]
-- Connects to [[half-orc (races)
-- Influences [LOC00299_Dungeons_Location_300]]
+- Connects to [[LOC00299_Dungeons_Location_300]]
 - See also: [[FAC00007_Guilds_8
 - Compare with [devastation-orb-pota (items)]]
 - Requires [[Shadow Tide Syndicate
 - Related: [[[The Shattered Sanctum]]_1]]
 - Influences [[SPELL00022_Divine_Spell_23
 - See also: [LOC00226_Towns_Location_227]]
-- Requires [[[The Infinite Garden 2]]
+- Requires [[The Infinite Garden 2]]
 - Influences [[step_066 (phase_066)
 - Leads to [step_050 (phase_026)]]
 - Requires [[step_090 (phase_007)
 - Compare with [MON0010_Fire_Reaper]]
-- Affected by [[[Vote Vaults 2]]
-- Related: [[NPC01337_Elric_Dawnstrider_the_Scholar
-- Requires [The Consciousness Archive Key 2]]
+- Affected by [[Vote Vaults 2]]
+- Related: [[NPC01337_Elric_Dawnstrider_the_Scholar]]
 - Leads to [[dwarves-on-the-move-purpose-of-travel-mtf (tables)
 - Affected by [[Portrait NPC Marina Red Tide Coralheart [Aquabyssos]] V1 Marina Red Tide Coralheart Aquabyssos.svg_1 (Portraits)]]
 - Originates from [[Portrait NPC Senator Glaucus Brain Senator Glaucus Brain.svg_1 (Portraits)
@@ -292,8 +277,7 @@ Modifications:
 - Influences [[Assets Locations Location City Religious [Religious Groups]].svg]]
 - See also: [[Portrait NPC Emperor Pelagic the Last V2 Emperor Pelagic the Last.svg_1 (Portraits)
 - Requires [location-city-scarlet-torrent-scarlet-torrent.svg]]
-- Compare with [[step_050 (phase_005)
-- See also: [LOC00011_Wilderness_Location_12]]
+- Compare with [[LOC00011_Wilderness_Location_12]]
 - Influences [[Chief Temporal Engineer Paradox Timeweaver
 - Requires [Assets Portraits Portrait NPC High King Aurelius Skyborn High King Aurelius Skyborn.svg]]
 - Connects to [[Assets Locations Location City [Titan Foundationbearer V1 Titan Foundationbearer.svg]]

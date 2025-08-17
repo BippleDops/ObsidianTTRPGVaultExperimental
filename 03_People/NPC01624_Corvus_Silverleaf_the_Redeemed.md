@@ -167,24 +167,13 @@ Blackmails party into service
 
 ## See Also
 - [NPC00881_Qadim_Voidwalker_the_Strong]]
-- [[NPC00587_Idris_Youngblood_the_Strong
-- [NPC00276_Ysara_Youngblood]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC00644_Nerys_Dawnstrider_the_Wanderer]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[NPC01447_Baelor_Winterborn_the_Strong
-- [Faction_Guide.md]]
-- [[Player_Comfort_Check
-- [NPC00190_Cedric_Silverleaf]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [09 Adventuring]]
-- [[10 Appendix B Creature Stat Blocks
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC00644_Nerys_Dawnstrider_the_Wanderer]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[10 Appendix B Creature Stat Blocks]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -200,8 +189,7 @@ Blackmails party into service
 ## Connections
 
 - Requires [MON00031_Aberrations_Creature_32]]
-- Originates from [[Private Investigator Rex Coldcase 2
-- Leads to [Viscount Deeper-Still]]
+- Originates from [[Private Investigator Rex Coldcase 2]]
 - Influences [[Memory Trader
 - See also: [The Shadow Nexus]]
 - Compare with [[Wave Traderwind
@@ -214,9 +202,8 @@ Blackmails party into service
 - Influences [LOC00004_Planes_Location_5]]
 - Parallels [[blade-ward-xphb (spells)
 - Leads to [Marine Protection Guild]]
-- Compare with [[The Reality Guards (D&D_References)
-- Requires [item-mastery (CLI_Reference)]]
-- Originates from [[[Surface Tensions 2]]
+- Compare with [[The Reality Guards (D&D_References)]]
+- Originates from [[Surface Tensions 2]]
 - Influences [[step_082 (phase_058)
 - Affected by [winter-wolf-xmm (monstrosity)]]
 - Parallels [[salamander-inferno-master-xmm (elemental)
@@ -224,12 +211,11 @@ Blackmails party into service
 - See also:
 - Influences [[frog-xmm (beast)
 - Related: [LORE00229_Legends_Entry_230]]
-- See also: [[[Lumengarde City]]
+- See also: [[Lumengarde City]]
 - Requires [[step_067 (phase_033)
 - See also: [step_052 (phase_023)]]
 - Parallels
-- Requires [[Training Supervisor Learning Moment (D&D_References)
-- Connects to [MON00017_Constructs_Creature_18]]
+- Requires [[Training Supervisor Learning Moment (D&D_References)]]
 - Affected by [[LOC00012_Planes_Location_13
 - Requires [Symbol Heraldry Resonance Bomb V1 Resonance Bomb.svg]]
 - Leads to [[ITEM00397_Venomous_Staff_of_the_Ancients
@@ -238,11 +224,9 @@ Blackmails party into service
 - Affected by [[step_069 (phase_100)
 - Compare with
 - Influences [The Emperor's Gambit (D&D_References)]]
-- Influences [[Detection Technology Laboratory (D&D_References)
-- Parallels [step_041 (phase_041)]]
+- Influences [[Detection Technology Laboratory (D&D_References)]]
 - Leads to [[Location City [Inquisitor Mordecai Truthseeker Inquisitor Mordecai Truthseeker.svg]]
-- Leads to [[green-copper-ewer-cos (items)
-- Compare with [step_031 (phase_088)]]
+- Leads to [[green-copper-ewer-cos (items)]]
 - Connects to [[Assets Vehicles Vehicle Ship Depth Piercer Research Sub V1 Depth Piercer Research Sub.svg
 - Leads to [NPC00019_Delara_Hawthorne_the_Swift]]
 - Leads to [[secondary-tables-arcane-matters-xge (tables)
@@ -263,8 +247,7 @@ Blackmails party into service
 - Connects to [Lock Xphb]]
 - Compare with [[step_068 (phase_062)
 - Related: [[Location City [Artistic Communities]] Artistic Communities.svg]]
-- Influences [[Commander Vex Shadowthorn
-- Requires [step_050 (phase_018)]]
+- Influences [[Commander Vex Shadowthorn]]
 - Affected by [[Duchess Seraphina Crimsontide
 - Connects to [LOC00264_Towns_Location_265]]
 - Affected by [[step_005 (phase_030)
@@ -274,27 +257,21 @@ Blackmails party into service
 - Compare with [ENC00198_Combat_Encounter_199]]
 - Parallels [[04_Resources_Assets_Portraits_portrait-npc-captain-marina-shieldcurrent-captain-marina-shieldcurrent.svg_Quick_Ref
 - Influences [[Assets Locations Location City [Interfaith Councils]] V1 Interfaith Councils.svg]]
-- Influences [[QUEST0016_Negotiate_with_the_Dragon
-- Related:
-- Originates from [Smuggler's Den]]
+- Influences [[QUEST0016_Negotiate_with_the_Dragon]]
 - Requires [[step_061 (phase_050)
 - Influences [QUEST00357_Side_Quest_358]]
 - See also: [[ITEM01189_Concentrated_Elixir_of_Clarity
 - Affected by [lance-xphb (items)]]
 - Requires [[Choker Mpmm
 - Affected by [INV-007 2]]
-- Related: [[NPC00588_Vesper_Brightblade_the_Wise
-- See also: [step_079 (phase_056)]]
+- Related: [[NPC00588_Vesper_Brightblade_the_Wise]]
 - Leads to [[step_037 (phase_069)
 - Influences [dominate-beast-xphb (spells)]]
-- Connects to [[Public Safety
-- Connects to [Cultural Studies Program]]
-- Parallels [[Inventor Chief Adaptatio (D&D_References)
-- See also: [young-brass-dragon-xmm]]
+- Connects to [[Cultural Studies Program]]
+- Parallels [[Inventor Chief Adaptatio (D&D_References)]]
 - See also:
 - See also:
-- Requires [[level-advancement-without-xp (variant-rules)
-- See also: [step_028 (phase_078)]]
+- Requires [[level-advancement-without-xp (variant-rules)]]
 - Originates from [[Assets Locations Location City [The Threshold Chambers the Threshold Chambers.svg]]
 - Affected by [[Assets Locations Location City [Tribune Cassia V1 Tribune Cassia.svg]]
 - See also: [[location-city-crystal-palace-crystal-palace.svg

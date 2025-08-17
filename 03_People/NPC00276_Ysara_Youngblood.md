@@ -139,66 +139,17 @@ Deception, History, Insight
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- [[Political Alliances
-- Upcoming social events
-
-## Plot Hook
-Wants rivals investigated
-
-## DM Notes
-- Adjust stats based on party level
-- Secrets can drive major plot points
-- Relationships create web of connections
-- Use quirks for memorable roleplay
-
----
-*Generated: 2025-08-15T03:51:03.143Z*
-
-## Voice & Mannerisms
-- Speaking style
-- Common phrases
-
-## Daily Routine
-- Morning activities
-- Evening habits
-
-## Combat Tactics
-- Preferred strategies
-- Special moves
-
-## Combat Stats
-Base: **Commoner** (BC p.345)
-Modifications:
-- HP: 34
-- AC: 14
-- Notable abilities: Varies by individual
-
-## See Also
-- [NPC01177_Thalia_Underhill_the_Fallen]]
-- [[NPC00259_Delara_Proudmore
-- [NPC00881_Qadim_Voidwalker_the_Strong]]
-- [[NPC01012_Solas_Darkwater_the_Strong
-- [NPC00069_Thalia_Brightblade_the_Guardian]]
-- [[NPC01568_Lyanna_Winterborn_the_Strong
-- [NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[NPC00058_Elric_Nightfall
-- [NPC00878_Kaelen_Ironwood_the_Strong]]
-- [[NPC00785_Ysara_Grimholt_the_Mystic
-- [NPC00287_Ysara_Underhill_the_Wise]]
-- [[NPC00515_Baelor_Crystalbrook_the_Seeker
-- [World_Primer.md]]
-- [[NPC01503_Ewan_Dawnstrider_the_Redeemed
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC00300_Urien_Zephyrblade
-- [11 Spellcasting]]
-- [[11 Rules Glossary
-- [MOC_Items]]
-- [[NPC00046_Urien_Ironwood_the_Wise
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[Political Alliances]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[11 Rules Glossary]]
+- [[NPC00046_Urien_Ironwood_the_Wise]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -213,16 +164,14 @@ Modifications:
 ## Connections
 
 - Influences [githyanki-knight-xmm (aberration)]]
-- Connects to [[Pressure-Weighted Representation
-- Parallels [S-105_Star_Anchor_Choir]]
+- Connects to [[Pressure-Weighted Representation]]
 - Connects to [[Pouch Xphb
 - Parallels [Foreign Affairs]]
 - Related: [[step_099 (phase_055)
 - Parallels
 - Connects to [ENC00108_Combat_Encounter_109]]
 - Originates from
-- Connects to [[ITEM0105_Blessed_Gauntlet_of_the_Dawn
-- Connects to [EVENT00090_Political_Event_91]]
+- Connects to [[ITEM0105_Blessed_Gauntlet_of_the_Dawn]]
 - Influences
 - Originates from [[handheld-mirror-set-in-a-painted-wooden-frame-xdmg
 - Compare with [04_Resources]]
@@ -230,49 +179,38 @@ Modifications:
 - Parallels [NPC00319_Zephyr_Blackstone]]
 - Connects to [[Triton
 - Originates from [step_016 (phase_090)]]
-- Related: [[step_009 (phase_053)
-- Related: [NPC00659_Gavril_Ironforge_the_Lost]]
+- Related: [[NPC00659_Gavril_Ironforge_the_Lost]]
 - See also: [[Hidden Sanctuary
 - Parallels [step_082 (phase_042)]]
 - Connects to [[Vehicle Ship Abyssal Scout Submarine V2 Abyssal Scout Submarine.png
 - Affected by [Existence Erosion]]
-- Affected by [[Finn Worldwalker (D&D_References)
-- Compare with [Terrestrial Coalition (D&D_References)]]
-- Originates from [[[INDEX (Waterdeep_Dragon_Heist)]]
-- Requires [[Young Diver Coral Swiftcurrent (D&D_References)
-- Leads to [step_073 (phase_046)]]
-- Related: [[[Memory Sanctity Laws 2]]
-- See also: [[Expedition to the Sunless Depths
-- Related: [The Crystal Express 2]]
+- Affected by [[Terrestrial Coalition (D&D_References)]]
+- Originates from [[INDEX (Waterdeep_Dragon_Heist)]]
+- Requires [[Young Diver Coral Swiftcurrent (D&D_References)]]
+- Related: [[Memory Sanctity Laws 2]]
+- See also: [[Expedition to the Sunless Depths]]
 - Affected by [[vicious-mockery-xphb (spells)
 - Connects to [step_025 (phase_005)]]
-- Connects to [[NPC01194_Malakai_Blackstone_the_Broken
-- Parallels [Propaganda Distribution Networks 2]]
-- Originates from [[step_072 (phase_024)
-- Requires [LOC00076_Wilderness_Location_77]]
+- Connects to [[NPC01194_Malakai_Blackstone_the_Broken]]
+- Originates from [[LOC00076_Wilderness_Location_77]]
 - Compare with [[Roleplaying a Beholder Beholder Ideals Vgm
 - Leads to [NPC_Portraits_Gallery 2]]
 - Connects to
 - Influences [[step_076 (phase_088)
 - Related:
 - Parallels [fire-shield-xphb (spells)]]
-- Influences [[ITEM0093_Forgotten_Orb_of_the_Dawn
-- Connects to [Gnome Urdlen Mtf]]
+- Influences [[ITEM0093_Forgotten_Orb_of_the_Dawn]]
 - Compare with [[incubus-xmm (fiend)
 - Affected by [maximilians-earthen-grasp-xge (spells)]]
 - Affected by [[step_025 (phase_086)
 - Connects to [Enlarge Reduce Xphb]]
-- Connects to [[Community Resource Sharing (D&D_References)
-- Leads to [step_098 (phase_030)]]
+- Connects to [[Community Resource Sharing (D&D_References)]]
 - Influences [[Assets Locations Location City [Diplomatic Dining Protocol V1 Diplomatic Dining Protocol.svg]]
-- Requires [[MON00070_Aberrations_Creature_71
-- Connects to [step_090 (phase_075)]]
-- See also: [[LOC00063_Towns_Location_64
-- Requires [The Memory Weapon Vault (D&D_References)]]
+- Requires [[MON00070_Aberrations_Creature_71]]
+- See also: [[The Memory Weapon Vault (D&D_References)]]
 - See also: [[NPC00130_Aldric_Oakenshield
 - Connects to [[Assets Locations Location City [The Threshold Chambers]] the Threshold Chambers.svg]]
-- Compare with [[supplemental-tables-alignment-xge (tables)
-- Influences [Quantum Compromise Protocols (D&D_References)]]
+- Compare with [[Quantum Compromise Protocols (D&D_References)]]
 - Originates from [[Island of Screams
 - Leads to [SHOP00040_General_Shop_41]]
 - Originates from [[Assets Locations Location City [Harbor Pilot Captain Storm Skyreacher Harbor Pilot Captain Storm Skyreacher.svg]]
@@ -295,13 +233,12 @@ Modifications:
 - Requires [Symbol Heraldry the Echo Succession V1 the Echo Succession.svg]]
 - See also: [[Portrait NPC Ice Kingdom Spirits V1 Ice Kingdom Spirits.svg_1 (Portraits)
 - Originates from [[Down[Time]] Activity Crafting an Item Xge]]
-- Compare with [[step_074 (phase_022)
-- Leads to [Symbol Heraldry Sis... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Compare with [[Symbol Heraldry Sis... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Related: [[step_005 (phase_081)
 - Originates from [Lady Nexus Goldstream]]
 - Leads to [[NPC00169_Aldric_Zephyrblade_the_Wise
 - Leads to [Location City Quest Portal Conspiracy V1 Quest Portal Conspiracy.svg]]
-- Related: [[[Memorial Current 2]]
+- Related: [[Memorial Current 2]]
 - Parallels
 - Affected by [[location-city-sea-sprite-sea-sprite.svg
 - Connects to [Convergence Crisis Scenarios Index]]

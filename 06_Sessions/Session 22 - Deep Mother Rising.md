@@ -19,7 +19,7 @@ tags:
 - session title: Session 22 [Deep Mother]] Rising
 type: session
 updated: 2025-08-14
-- -- # Session 22 - [[Deep Mother Rising ## [Overview This]] document contains important information regarding Session 22 - [[Deep Mother Rising and its role within the greater narrative. ## Description
+- -- # Session 22 - [[Deep Mother]] document contains important information regarding Session 22 - [[Deep Mother Rising and its role within the greater narrative. ## Description
 
 **Details**: Rich sensory elements bring this to life. Session 22 - [Deep Mother]] Rising represents a significant element within the campaign world, offering various opportunities for engagement and d
 *The air carries the scent of [appropriate smell].*evelopment. ## [[Key Information - **[Primary Purpose]]**: Serves specific function within the world

@@ -158,36 +158,19 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC01040_Zephyr_Lightbringer_the_Strong
-- [NPC01789_Vesper_Proudmore_the_Mystic]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC01761_Idris_Moonshadow_the_Broken]]
-- [[NPC00285_Xander_Goldleaf_the_Mystic
-- [NPC01483_Gavril_Zephyrblade_the_Fallen]]
-- [[NPC00162_Xander_Thornweave
-- [NPC01870_Lyanna_Silverleaf_the_Cunning]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC01012_Solas_Darkwater_the_Strong]]
-- [[NPC01757_Nerys_Silverleaf_the_Strong
-- [NPC00785_Ysara_Grimholt_the_Mystic]]
-- [[NPC00395_Aeliana_Thornweave
-- [Party_Quests]]
-- [[Ritual_Timing_Wheel_Convergenc
-- [Welcome_to_Aquabyssos.md]]
-- [[Smuggler_Route_Tally_Shee
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[11 Spellcasting
-- [13 Conditions]]
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [NPC01504_Erasmus_Zephyrblade_the_Strong]]
-- [[Calendar_Conversions_Realm_Window
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[NPC00939_Thalia_Jadeclaw_the_Swift
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[11 Spellcasting]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -203,37 +186,28 @@ Modifications:
 ## Connections
 
 - Parallels [ITEM00854_Void-touched_Crown_of_Dominion]]
-- Leads to [[Business Coalitions
-- Requires [Archcrystallographer Clarity]]
+- Leads to [[Archcrystallographer Clarity]]
 - Leads to [[Assets Locations [[Location City [Shadow Market Canals Shadow Market Canals.svg]]]]
 - Related: [[QUEST00211_Personal_Quest_212
 - Parallels [[Location City [The Spectral Gallery]] V1 the Spectral Gallery.svg]]
 - Requires [[Druid Xphb Circle of the Shepherd Xge
 - Related: [[[Aquabyssos]] Technical University (D&D_References)]]
-- Parallels [[Data Analyst Current Patternweave 2
-- Influences [08-using-ability-scores#Dexterity]]
-- Parallels [[ENC00080_Environmental_Encounter_81
-- Originates from [Fragment Compass]]
-- Affected by [[The Deep Vault 2
-- Compare with [Ships - Player_Handout_Aquabyssos_Submarines]]
-- See also: [[NPC01550_Kaelen_Blackstone_the_Scholar
-- Influences [The Preservation Current (D&D_References)]]
-- Influences [[step_045 (phase_089)
-- Related: [Aquabyssos Shadow Pools (Resources)]]
+- Parallels [[Data Analyst Current Patternweave 2]]
+- Parallels [[ENC00080_Environmental_Encounter_81]]
+- Affected by [[Ships - Player_Handout_Aquabyssos_Submarines]]
+- See also: [[The Preservation Current (D&D_References)]]
+- Influences [[Aquabyssos Shadow Pools (Resources)]]
 - Requires [[High Hierophant Meridius
 - Influences [step_082 (phase_041)]]
-- Compare with [[SPELL00017_Nature_Spell_18
-- Leads to [LOC00149_Dungeons_Location_150]]
+- Compare with [[LOC00149_Dungeons_Location_150]]
 - Originates from [[Reality Bridge
 - Connects to [step_038 (phase_014)]]
 - Related: [[ITEM00201_Cursed_Staff_of_Accuracy
 - Related: [Magic Jar Xphb]]
 - Compare with [[LORE00296_History_Entry_297
 - Parallels [laser-pistol-xdmg (items)]]
-- Related: [[Haven Reef
-- See also: [hostile-attitude-xphb (variant-rules)]]
-- Compare with [[QUEST00217_Personal_Quest_218
-- Related: [Temporal Harvest]]
+- Related: [[attitude-xphb (variant-rules)]]
+- Compare with [[QUEST00217_Personal_Quest_218]]
 - Leads to [[Scene Scene Merged Zone Reality Fracture V1 Merged Zone Reality Fracture.svg
 - See also: [Sundered Steel]]
 - Related: [[EVENT00021_Magical_Event_22
@@ -242,16 +216,14 @@ Modifications:
 - Compare with [[Location City [[Keeper [Finn Goodtide]]]] V1 Keeper Finn Goodtide.svg]]
 - Parallels [[step_062 (phase_038)
 - Influences [step_010 (phase_049)]]
-- Compare with [[[Deep Current Flowmaster (D&D_References)]]
+- Compare with [[Deep Current Flowmaster (D&D_References)]]
 - See also: [[step_089 (phase_046)
 - Originates from [step_065 (phase_083)]]
-- Affected by [[Economic Development Director Carmen Commerc 2
-- Leads to [Message Delivery Missions]]
-- Compare with [[The Citadel of Depths 2
-- Leads to [Coastal Encounters Levels 510 Xge]]
+- Affected by [[Economic Development Director Carmen Commerc 2]]
+- Compare with [[Coastal Encounters Levels 510 Xge]]
 - Connects to [[burnt-othur-fumes-xdmg (items)
 - Leads to [step_007 (phase_048)]]
-- Originates from [[[Gatekeeper Iron-Lung Boris 2]]
+- Originates from [[Gatekeeper Iron-Lung Boris 2]]
 - Related: [[step_012 (phase_014)
 - Compare with [step_091 (phase_066)]]
 - Requires [[lamp-xphb (items)
@@ -275,14 +247,11 @@ Modifications:
 - Parallels [heavy-armor-master-xphb (feats)]]
 - Compare with [[Quest - Succession Crisis
 - Requires [[Innkeeper [Marina Dreamwhisper]] (D&D_References)]]
-- Originates from [[07-chapter-7-treasure (dungeon-masters-guide-2024)
-- Originates from [Talking Doll Xdmg]]
-- Requires [[step_089 (phase_076)
-- Affected by [QUEST00214_Personal_Quest_215]]
+- Originates from [[07-chapter-7-treasure (dungeon-masters-guide-2024)]]
+- Requires [[QUEST00214_Personal_Quest_215]]
 - Leads to [[Sacred Trench of Trials
 - Originates from [Portrait NPC Captain Marina Shieldcurrent Captain Marina Shieldcurrent.svg]]
-- Parallels [[LORE00163_Prophecies_Entry_164
-- Related: [Cross-Dimensional Transit Authority]]
+- Parallels [[Cross-Dimensional Transit Authority]]
 - Related: [[red-dragon-wyrmling-xmm (dragon)
 - Originates from [Time Stream Disruptions]]
 - Compare with [[Assets Locations Location City [Diplomatic Service Diplomatic Service.svg]]

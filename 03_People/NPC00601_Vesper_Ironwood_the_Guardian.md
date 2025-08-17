@@ -163,64 +163,34 @@ Being extorted by criminals
 - Special moves
 
 ## See Also
-- [[NPC01483_Gavril_Zephyrblade_the_Fallen
-- [NPC01113_Solas_Ravenheart_the_Cunning]]
-- [[NPC00615_Lyanna_Moonshadow_the_Lost
-- [NPC00285_Xander_Goldleaf_the_Mystic]]
-- [[NPC00655_Jorah_Darkwater_the_Seeker
-- [NPC01877_Hestara_Moonshadow_the_Mystic]]
-- [[NPC00174_Aldric_Silverleaf_the_Fallen
-- [NPC01252_Jorah_Youngblood_the_Strong]]
-- [[NPC00881_Qadim_Voidwalker_the_Strong
-- [NPC01761_Idris_Moonshadow_the_Broken]]
-- [[NPC00237_Vesper_Ashford_the_Bold
-- [NPC01858_Drusilla_Stormwind_the_Cunning]]
-- [[NPC01017_Vesper_Keenblade_the_Risen
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[NPC01939_Orion_Nightfall_the_Bold
-- [NPC00336_Alaric_Frostwhisper_the_Swift]]
-- [[NPC01229_Gavril_Ironwood_the_Scholar
-- [NPC00878_Kaelen_Ironwood_the_Strong]]
-- [[NPC01201_Felicia_Ironwood_the_Bold
-- [NPC00046_Urien_Ironwood_the_Wise]]
-- [[Submersible_Schematic_Pressure_Gate_Scou
-- [Pilgrim_Pass_Prayer_Sli]]
-- [[Faction_Relationship_Web
-- [Letter_From_the_Pearl_Guard_Captai]]
-- [[Ritual_Timing_Wheel_Convergenc
-- [Quiet_Chapel_Oath_Scrol]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[Letter_From_the_Pearl_Guard_Captai]]
+- [[Ritual_Timing_Wheel_Convergenc]]
 - [[Quick_Start_Guide.md
 - [Dockworker_Union_Flyer.md]]
-- [[09 Appendix a the Multiverse
-- [09 Adventuring]]
-- [[Possession Xphb
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[NPC01892_Gareth_Xendar_the_Scholar
-- [16 Credits]]
-- [[NPC00625_Kaelen_Brightblade_the_Redeemed
-- [NPC01177_Thalia_Underhill_the_Fallen]]
-- [[NPC01429_Zephyr_Keenblade_the_Cunning
-- [02 Step by Step Characters]]
-- [[MOC_Lore
-- [NPC01792_Rhiannon_Ironwood_the_Scholar]]
-- [[NPC01040_Zephyr_Lightbringer_the_Strong
-- [NPC00976_Alaric_Quicksilver_the_Strong]]
-- [[Player_Comfort_Check
-- [NPC01699_Orion_Oakenshield_the_Broken]]
-- [[Sage Elara
-- [NPC01931_Thalia_Lightbringer_the_Fallen]]
-- [[NPC00057_Malakai_Stormwind_the_Cunning
-- [Complete_NPC_Matrix.md]]
-- [[NPC01789_Vesper_Proudmore_the_Mystic
-- [NPC00582_Cedric_Dawnstrider]]
-- [[Quarantine_Notice_Crystal_Plagu
-- [NPC01599_Gavril_Keenblade_the_Strong]]
-- [[NPC00969_Zephyr_Keenblade_the_Wise
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[09 Appendix a the Multiverse]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -242,20 +212,16 @@ Being extorted by criminals
 - Leads to [step_058 (phase_050)]]
 - Related: [[LORE00001_Legends_Entry_2
 - Parallels [step_065 (phase_030)]]
-- Compare with [[Culture Builder (D&D_References)
-- Requires [step_042 (phase_008)]]
+- Compare with [[Culture Builder (D&D_References)]]
 - Influences [[step_063 (phase_079)
 - Related: [step_072 (phase_032)]]
-- Affected by [[ENC00312_Combat_Encounter_313
-- Leads to [The Balance Keeper (D&D_References)]]
+- Affected by [[The Balance Keeper (D&D_References)]]
 - Compare with [[Greek Hermes
 - Compare with [Name Etymology Guide]]
-- Parallels [[Crystallization Process (D&D_References)
-- Related: [step_075 (phase_033)]]
+- Parallels [[Crystallization Process (D&D_References)]]
 - Connects to [[Magic Item Table C
 - Influences [Compelled Duel Xphb]]
-- Related: [[The Godhead Ritual (D&D_References)
-- Connects to [step_008 (phase_018)]]
+- Related: [[The Godhead Ritual (D&D_References)]]
 - Compare with [[03_Mechanics
 - Influences [step_036 (phase_082)]]
 - Compare with [[step_034 (phase_070)
@@ -269,8 +235,7 @@ Being extorted by criminals
 - Requires [Location City Sunlight Crystal Sunlight Crystal.svg]]
 - Influences [[Spy-Master Nonentity 2
 - Requires [step_010 (phase_073)]]
-- Originates from [[Skeleton Dmg
-- Leads to [MON00029_Undead_Creature_30]]
+- Originates from [[MON00029_Undead_Creature_30]]
 - Compare with [[Cauldron of Rebirth Xdmg
 - Compare with [ENC00494_Combat_Encounter_495]]
 - Compare with [[List Spells Classes Horizon Walker Xge
@@ -280,8 +245,7 @@ Being extorted by criminals
 - Parallels [item-artifact-windvane-pota-windvane-pota.png]]
 - Connects to [[step_021 (phase_036)
 - Influences [ITEM01032_Concentrated_Oil_of_Swiftness]]
-- Parallels [[The Void Scholars
-- Requires [NPC00486_Caelum_Stormwind_the_Scholar]]
+- Parallels [[NPC00486_Caelum_Stormwind_the_Scholar]]
 - See also: [[NPC0107_Beatrix_Goldleaf
 - See also: [flame-arrows-xge (spells)]]
 - Influences [[X-103_Leviathan_Mirror_Chase
@@ -294,8 +258,7 @@ Being extorted by criminals
 - Parallels [Architect Temporal Wisdom]]
 - Originates from [[Halls of Eternal Memory (Lore)
 - Related: [step_021 (phase_075)]]
-- Affected by [[NPC00575_Erasmus_Quicksilver_the_Fallen
-- Parallels [Captain Rodrigo Irochor]]
+- Affected by [[NPC00575_Erasmus_Quicksilver_the_Fallen]]
 - Originates from [[SPELL00048_Arcane_Spell_49
 - Affected by [torpor-xdmg (items)]]
 - Related: [[step_070 (phase_097)
@@ -318,8 +281,7 @@ Being extorted by criminals
 - See also:
 - See also: [[LORE00333_Legends_Entry_334
 - Leads to [Professional Terminology 2]]
-- Affected by [[Primordial Ward Xge
-- See also: [Medallion of the Depths (D&D_References)]]
+- Affected by [[Medallion of the Depths (D&D_References)]]
 - Parallels [[Assets Locations Location City Quieting the Depths V1 Quieting the Depths.svg
 - See also: [Carved Wooden Harp With Ivory Inlay and]]
 - Affected by [[portrait-npc-oracle-oracle.svg_1 (Portraits)
@@ -327,10 +289,8 @@ Being extorted by criminals
 - Leads to [[elf-tables-elf-non-drow-adventurer-story-hooks-mtf
 - Leads to
 - Connects to [The Oracle]]
-- Originates from [[LOC00235_Dungeons_Location_236
-- Parallels [Academy Mirror Researchers (Academies)]]
-- Connects to [[QUEST00023_Personal_Quest_24
-- Originates from [Archmage Deflector Windturner (D&D_References)]]
+- Originates from [[Academy Mirror Researchers (Academies)]]
+- Connects to [[Archmage Deflector Windturner (D&D_References)]]
 - See also: [[Assets Portraits Portrait NPC Free Current Safe Houses Free Current Safe Houses.svg
 - See also: [ENC00409_Combat_Encounter_410]]
 - Requires [[Portrait NPC High Priestess Scylla Deepdream High Priestess Scylla Deepdream.svg

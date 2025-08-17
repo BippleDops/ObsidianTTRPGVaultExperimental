@@ -29,22 +29,19 @@ world: Both
 
 - A shipment has gone missing and chaos spreads
 - A document has gone missing and war looms
-- Someone is searching for an heir for power ## [Related Notes]] - [[[Similar Topic 1]]
+- Someone is searching for an heir for power ## [Related Notes]] - [[Similar Topic 1]]
 
-- [[[Contrasting Approach]]
-- [[[Advanced Version]]
-- [[[Historical Context]] ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## 12_Research [Specific Content]] Contextual improvement based on 12_Research
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]] ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## 12_Research [Specific Content]] Contextual improvement based on 12_Research
 
 ## Notes
 
 *Additional notes*
 
-## [[See Also
-- [Reputation_Tracker]]
-- [[12 Spells
-- [Character_Journals]]
-- [[MASTER_MOC
-- [[[Possession Mechanics]]]]
+## [[Reputation_Tracker]]
+- [[Character_Journals]]
+- [[Possession Mechanics]]]]
 - [[10 Appendix B [Creature Stat Blocks]]
 - [[[[Home Embeds [Dvsession Journal]]]]
 
@@ -56,7 +53,7 @@ world: Both
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

@@ -163,48 +163,30 @@ Seeks rare merchandise
 - Special moves
 
 ## See Also
-- [[NPC01789_Vesper_Proudmore_the_Mystic
-- [NPC00372_Alaric_Grimholt]]
-- [[NPC00285_Xander_Goldleaf_the_Mystic
-- [NPC00860_Gavril_Winterborn_the_Swift]]
-- [[NPC00174_Aldric_Silverleaf_the_Fallen
-- [NPC01682_Vesper_Blackstone_the_Guardian]]
-- [[Sage Elara
-- [NPC01252_Jorah_Youngblood_the_Strong]]
-- [[NPC01262_Ysara_Dawnstrider_the_Swift
-- [NPC01552_Branwen_Lightbringer_the_Swift]]
-- [[NPC01812_Xander_Lightbringer_the_Swift
-- [NPC00550_Xander_Stormwind_the_Cunning]]
-- [[Ambassador Nerida Deepcurrent
-- [NPC01012_Solas_Darkwater_the_Strong]]
-- [[NPC01951_Gavril_Xendar_the_Swift
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[NPC01974_Thalia_Zephyrblade_the_Lost
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[NPC00976_Alaric_Quicksilver_the_Strong
-- [NPC00878_Kaelen_Ironwood_the_Strong]]
-- [[NPC00046_Urien_Ironwood_the_Wise
-- [Party_Inventory]]
-- [[Player_Portal.md
-- [Calendar_Conversions_Realm_Window]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00046_Urien_Ironwood_the_Wise]]
+- [[Calendar_Conversions_Realm_Window]]
 - [[Sanity_Quick_Reference.md
 - [Reputation_Tracker]]
-- [[03 Races
-- [14 Gods of the Multiverse]]
-- [[08 Using Ability Scores
-- [16 Credits]]
-- [[11 Rules Glossary
-- [NPC00761_Aldric_Moonshadow_the_Guardian]]
-- [[MOC_Lore
-- [Concept_Map]]
-- [[NPC01599_Gavril_Keenblade_the_Strong
-- [07 Customization Options]]
+- [[14 Gods of the Multiverse]]
+- [[08 Using Ability Scores]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[Concept_Map]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -220,8 +202,7 @@ Seeks rare merchandise
 
 ## Connections
 
-- Leads to [[sea-hag-xmm
-- Leads to [QUEST00051_Side_Quest_52]]
+- Leads to [[QUEST00051_Side_Quest_52]]
 - See also: [[step_001 (phase_022)
 - Influences
 - Related: [step_038 (phase_013)]]
@@ -229,20 +210,16 @@ Seeks rare merchandise
 - Related: [step_055 (phase_035)]]
 - Affected by [[Assets Locations Location City Abyss Currentbinder V1 Abyss Currentbinder.svg
 - See also: [step_042 (phase_088)]]
-- Leads to [[Temporal Anomaly Resolution (D&D_References)
-- Affected by [step_077 (phase_061)]]
+- Leads to [[Temporal Anomaly Resolution (D&D_References)]]
 - Affected by [[QUEST0012_In_Search_of_Power
 - Originates from [Sky Trader Zephyr Windcatcher]]
 - Parallels [[DUN00016_Dungeon_17
 - Connects to [Githyanki Raiding Parties Dragon Chance Mtf]]
-- See also: [[Timeline_Tracker.base (D&D_References)
-- Parallels [step_070 (phase_040)]]
-- See also: [[step_037 (phase_037)
-- Compare with [Archivist Memory Bank (D&D_References)]]
+- See also: [[Timeline_Tracker.base (D&D_References)]]
+- See also: [[Archivist Memory Bank (D&D_References)]]
 - Originates from [[Assets Locations Location City Iron Rapids Fleetcurrent Iron Rapids Fleetcurrent.svg
 - Compare with [NPC00787_Cedric_Voidwalker_the_Scholar]]
-- Leads to [[Shadow Cultis
-- Influences [QUEST00213_Personal_Quest_214]]
+- Leads to [[QUEST00213_Personal_Quest_214]]
 - Requires [[Temple of Perpetual Tides 2
 - Compare with [step_096 (phase_074)]]
 - See also: [[ITEM00479_Mithril_Plate_of_Resistance
@@ -255,12 +232,10 @@ Seeks rare merchandise
 - See also: [step_051 (phase_034)]]
 - Affected by [[eberron-the-mockery (deities)
 - Influences [Temporal Viewing Chambers]]
-- Influences [[NPC00620_Gavril_Ironforge_the_Strong
-- Influences [FAC00094_Guilds_95]]
+- Influences [[NPC00620_Gavril_Ironforge_the_Strong]]
 - Influences [[LORE00007_Legends_Entry_8
 - See also: [Ritual Xphb]]
-- Connects to [[step_097 (phase_089)
-- Connects to [Portal Chambers (D&D_References)]]
+- Connects to [[Portal Chambers (D&D_References)]]
 - Compare with [[05_Rules/Spells
 - See also: [Quest - The Democratic Crisis_1 (01_Adventures)]]
 - See also: [[SPELL00104_Arcane_Spell_105
@@ -273,8 +248,7 @@ Seeks rare merchandise
 - See also: [step_040 (phase_007)]]
 - Related: [[Elder Stormcaller
 - Affected by [Observatory Charm Xdmg]]
-- Parallels [[NPC00687_Brenna_Proudmore_the_Fallen
-- Leads to [Alliance Facilitation]]
+- Parallels [[NPC00687_Brenna_Proudmore_the_Fallen]]
 - Influences [[Assets Locations Location City Abyssal Crystals V1 Abyssal Crystals.svg
 - See also: [Map Map Aethermoor Harbor Skirmish V2 Aethermoor Harbor Skirmish.png]]
 - Originates from [[step_096 (phase_085)
@@ -284,16 +258,12 @@ Seeks rare merchandise
 - Leads to [LOC00013_Wilderness_Location_14]]
 - Influences [[Archive_Optimizers
 - Affected by [step_066 (phase_016)]]
-- Parallels [[list-optfeaturetype-mm#Metamagic
-- Affected by [Scene Scene Shadow Market Under Rain Shadow Market Under Rain.png]]
-- See also: [[Aethermoor_Airships
-- Connects to [orcus-mtf (legendary-group)]]
-- Parallels [[NPC01039_Malakai_Moonshadow_the_Wanderer
-- Parallels [NPC00776_Ysara_Goldleaf_the_Seeker]]
+- Parallels [[list-optfeaturetype-mm#Metamagic]]
+- See also: [[orcus-mtf (legendary-group)]]
+- Parallels [[NPC01039_Malakai_Moonshadow_the_Wanderer]]
 - Parallels [[eberron-the-silver-flame (deities)
 - Originates from [inflict-wounds-xphb (spells)]]
-- Requires [[The Underground
-- See also: [ENC00136_Environmental_Encounter_137]]
+- Requires [[ENC00136_Environmental_Encounter_137]]
 - Parallels [[Discover the Singers Beyond
 - Requires [hold-person-xphb (spells)]]
 - Originates from [[step_013 (phase_031)
@@ -301,18 +271,15 @@ Seeks rare merchandise
 - See also: [[Assets Locations Location City Community Support Networks V1 Community Support Networks.svg
 - Affected by
 - Related: [step_084 (phase_026)]]
-- Affected by [[13 Conditions
-- Affected by [Impossibility Crystals 2]]
+- Affected by [[Impossibility Crystals 2]]
 - Parallels [[LORE00234_Prophecies_Entry_235
 - Related: [The Convergence Cleansing]]
 - Related: [[fiendish-giant-spider-oota (beast)
 - See also: [NPC0096_Quinn_Goldleaf]]
-- Originates from [[The Obsidian Archive 2
-- Related: [The Academy of Fundamental Truths]]
+- Originates from [[The Academy of Fundamental Truths]]
 - See also: [[step_046 (phase_030)
 - Related: [Light-Based Weapons]]
-- Originates from [[awakened-tree-xmm
-- Affected by [Admiral Storm Tidecaller (D&D_References)]]
+- Originates from [[Admiral Storm Tidecaller (D&D_References)]]
 - Leads to [[Tsunami Xphb
 - Influences [step_043 (phase_091)]]
 - Leads to [[step_059 (phase_098)

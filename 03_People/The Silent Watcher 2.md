@@ -17,7 +17,7 @@ notable_npcs:
 - '[[02_Worldbuilding/People/The Silent Watcher Entity|02 Worldbuilding/People/The
   Silent Watcher Entity'
 - '[[02_Worldbuilding/Places/[Echo-Scribe Matthias]]]]'
-- '[[02_Worldbuilding/Places/[Observation Tender Clara]]'
+- '[[Observation Tender Clara]]'
 obsidianUIMode: preview
 parent_location: '[[02_Worldbuilding/Places/[Abyssos Prime]]'
 population: 1
@@ -34,9 +34,8 @@ shadow_density: Minimal
 status: complete
 sub_locations:
 - '[The Observation Sphere]]'
-- '[[02_Worldbuilding/Places/[Memory Recording Chambers]]'
-- '[[The Vigil Gardens'
-- '[Sentinel Archive Vaults]]'
+- '[[Memory Recording Chambers]]'
+- '[[Sentinel Archive Vaults]]'
 - '[[The Watcher''s Throne'
 tags:
 - both
@@ -259,7 +258,7 @@ The Watcher possesses knowledge about the ultimate fate of reality itself, inclu
 ### Information Networks
 - **[[02_Worldbuilding/Places/[The Archive of Unremembered Things]]]]:** Information sharing and comparison
 - **[[02_Worldbuilding/Places/[Whisper-Touched William's Oracle Shrine|02 Worldbuilding/Places/Whisper Touched William's Oracle Shrine]]:** Prophetic consultation exchange
-- **[[02_Worldbuilding/Lore/[Aethermoor Archives]]:** Cross-referencing historical records
+- **[[Aethermoor Archives]]:** Cross-referencing historical records
 
 ### Government Relations
 - **[[02_Worldbuilding/Places/Parliament of Echoes:** Strategic intelligence provision
@@ -267,9 +266,9 @@ The Watcher possesses knowledge about the ultimate fate of reality itself, inclu
 - **[[02_Worldbuilding/Places/[The Eternal Senate]]:** Historical verification services
 
 ### Observation Points
-- **[[02_Worldbuilding/Places/[Observatory Network Nodes]]:** Extended viewing points throughout the deep
-- **[[02_Worldbuilding/Places/[Surface Observation Posts]]:** Hidden monitoring stations in the upper world
-- **[[02_Worldbuilding/Places/[Temporal Viewing Chambers]]:** Specialized facilities for time-based observation
+- **[[Observatory Network Nodes]]:** Extended viewing points throughout the deep
+- **[[Surface Observation Posts]]:** Hidden monitoring stations in the upper world
+- **[[Temporal Viewing Chambers]]:** Specialized facilities for time-based observation
 
 ## Adventure Hooks
 
@@ -381,11 +380,11 @@ The crystalline structures respond to mental and emotional states:
 
 ## Connections
 
-- [[02_Worldbuilding/Places/[Deepmind Conspiracy]]
-- [[02_Worldbuilding/Places/[Secret Vault Beneath Throne]]
-- [[02_Worldbuilding/Places/[Shadow Market Canals]]
-- [[02_Worldbuilding/Places/[The Whispering Depths]]
-- [[02_Worldbuilding/Places/[Vote Vaults]]
+- [[Deepmind Conspiracy]]
+- [[Secret Vault Beneath Throne]]
+- [[Shadow Market Canals]]
+- [[The Whispering Depths]]
+- [[02_Worldbuilding]]
 
 ## Player-Facing Summary
 
@@ -427,18 +426,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Seasonal changes
 
 ## See Also
-- [[Quest - The Missing Fleet
-- [NPC00881_Qadim_Voidwalker_the_Strong]]
-- [[NPC01262_Ysara_Dawnstrider_the_Swift
-- [NPC00388_Ysara_Goldleaf]]
-- [[The Coral Throne 2
-- [NPC00939_Thalia_Jadeclaw_the_Swift]]
-- [[Faction_Relationship_Web
-- [NPC00362_Pyria_Stormwind_the_Wise]]
-- [[The Forgotten Representative
-- [NPC00976_Alaric_Quicksilver_the_Strong]]
-- [[NPC00582_Cedric_Dawnstrider
-- [NPC00281_Hestara_Nightfall_the_Cunning]]
-- [[15 the Planes of Existence
-- [Character_Journal_Template]]
-- [[Master_Narrative_Web.md]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[Character_Journal_Template]]
+- [[Master Narrative Web]]

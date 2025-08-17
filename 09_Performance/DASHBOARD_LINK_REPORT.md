@@ -95,10 +95,8 @@ All required folders and tags have been created for dataview queries to function
 
 - Influences [[Shadow-Silk Weavers Guild (Guilds)
 - Affected by [Portrait NPC Captain Dara Ironwill Captain Dara Ironwill.svg]]
-- Connects to [[Crystal-Enhanced Businesses (D&D_References)
-- Affected by [step_041]]
-- Influences [[Pilgrim Guide Samuel Walkingfaith
-- See also: [step_056 (phase_041)]]
+- Connects to [[Crystal-Enhanced Businesses (D&D_References)]]
+- Influences [[Pilgrim Guide Samuel Walkingfaith]]
 - See also: [[Shadow Resonance Medical Scanner
 - Parallels [Assets Portraits Portrait NPC Captain Sterling Lightshield Captain Sterling Lightshield.svg]]
 - Affected by [[Keeper Stormwall 2
@@ -115,24 +113,17 @@ All required folders and tags have been created for dataview queries to function
 - Influences [Eye Agate Xdmg]]
 - Leads to [[Location City Court Herald Master Proclamation Crownvoice V1 Court Herald Master Proclamation Crownvoice.svg
 - Influences [step_025 (phase_013)]]
-- See also: [[step_049 (phase_093)
-- Leads to [Quest - Identity Crisis 2]]
-- Parallels [[NPC01478_Solas_Voidwalker_the_Strong
-- Connects to [The Twilight Reaches]]
-- Parallels [[step_026
-- Connects to [Assassin (D&D_Statblocks)]]
+- See also: [[Quest - Identity Crisis 2]]
+- Parallels [[NPC01478_Solas_Voidwalker_the_Strong]]
+- Parallels [[Assassin (D&D_Statblocks)]]
 - Connects to [[The Reality Guards 2
 - Influences [Deep Mother Protocol 2]]
-- Influences [[NPC01080_Rhiannon_Oakenshield_the_Lost
-- Leads to [LOC00045_Wilderness_Location_46]]
-- Connects to [[Diver's Rest Tavern
-- Requires [Marcus "The Shade" Blackwood]]
+- Influences [[NPC01080_Rhiannon_Oakenshield_the_Lost]]
+- Connects to [[Marcus "The Shade" Blackwood]]
 - Compare with [[step_020
 - Compare with [Portrait NPC Pearl Empress Lustrous V1 Pearl Empress Lustrous.svg_1 (Portraits)]]
-- Influences [[library
-- Connects to [ITEM0128_Ancient_Blade_of_Shadows]]
-- Affected by [[ENC00142_Combat_Encounter_143
-- Affected by [ENC00012_Environmental_Encounter_13]]
+- Influences [[ITEM0128_Ancient_Blade_of_Shadows]]
+- Affected by [[ENC00012_Environmental_Encounter_13]]
 - Related: [[DUN00005_Dungeon_6
 - Connects to [The Crystal Gardens_1 (02_Worldbuilding)]]
 - Compare with [[NPC01212_Dara_Quicksilver_the_Guardian
@@ -155,34 +146,26 @@ All required folders and tags have been created for dataview queries to function
 - Influences [step_002 (phase_011)]]
 - Affected by [[Location City Archaeological Society V1 Archaeological Society.svg
 - Compare with [Marina Red Tide Coralhear]]
-- Compare with [[step_043 (phase_064)
-- Compare with [Random_Tables - Encounter_and_Loot_Generators]]
-- See also: [[The Hybrid Harbor (D&D_References)
-- Parallels [The Threshold]]
+- Compare with [[Random_Tables - Encounter_and_Loot_Generators]]
+- See also: [[The Hybrid Harbor (D&D_References)]]
 - Connects to [[Retired Captain Bron Saltbeard (D&D_References)
 - Related: [Portrait NPC Gareth Ironforge V2 Gareth Ironforge.svg_1 (Portraits)]]
-- Affected by [[Stone Shape Xphb
-- Affected by [LOC00132_Dungeons_Location_133]]
-- Parallels [[Annual Budget
-- Compare with [MON00033_Aberrations_Creature_34]]
+- Affected by [[LOC00132_Dungeons_Location_133]]
+- Parallels [[MON00033_Aberrations_Creature_34]]
 - See also: [[Assets Locations Location City Free Current Charter Free Current Charter.svg
 - Affected by [step_077 (phase_034)]]
-- Originates from [[QUEST00070_Personal_Quest_71
-- Compare with [Crystal Ball Xdmg]]
+- Originates from [[QUEST00070_Personal_Quest_71]]
 - Requires [[ITEM01140_Superior_Salve_of_Healing
 - See also: [ITEM01166_Greater_Crystal_of_Vigor]]
 - Originates from [[Portrait NPC Duke Lysander Crystalvein V1 Duke Lysander Crystalvein.svg_1 (Portraits)
 - Influences [NPC00728_Caelum_Brightblade_the_Cunning]]
-- Leads to [[Portal Chambers 2
-- Related: [Temple of the Healing Waters]]
-- Leads to [[MON00027_Constructs_Creature_28
-- Related: [Infant Basilisk Oota]]
+- Leads to [[Temple of the Healing Waters]]
+- Leads to [[MON00027_Constructs_Creature_28]]
 - Related: [[step_080 (phase_062)
 - Affected by [step_026]]
 - Connects to [[step_057
 - Related: [divine-favor-xphb (spells)]]
-- Originates from [[ENC00321_Combat_Encounter_322
-- Connects to [Registrar Cornelius Scrollkeeper (D&D_References)]]
+- Originates from [[Registrar Cornelius Scrollkeeper (D&D_References)]]
 - Parallels [[dragonlance-paladine-phb (deities)
 - Related: [The Sacred Pearl Beds 2]]
 - Related: [[Inverse Colonies

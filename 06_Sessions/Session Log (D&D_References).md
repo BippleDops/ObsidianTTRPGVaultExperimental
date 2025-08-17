@@ -18,12 +18,7 @@ publish: false
 
 ---
 
- # [[Session Log ---
-
-## Description
-
-Detailed description pending.
-title: [Session Log]]
+ # [[Session Log]]
 type: Lore
 tags:
 - lore

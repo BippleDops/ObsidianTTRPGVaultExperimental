@@ -51,7 +51,7 @@ updated: '2025-08-13T07:30:00.000000+00:00'
 world: [[Aquabyssos|Aquabyssos
 - -- # Session 4: [The Deep]] [[Mother Stirs * Level 4-5 Characters | 3-4 Hours | Investigation/Horror* ## 🔧 [Deep Evaluation]] Improvements * 20 targeted improvements identified* ### [[Connection Improvements - Add cross-references to related notes ### [Enhancement Improvements]] - Add 12_Research-specific enhancement ## [[Session Overview The party's investigation into the strange memory loss epidemic leads them deeper into Aquabyssos's ancient secrets. As they follow the trail of missing memories, they uncover signs that something vast and terrible is beginning to wake in the deepest trenches of the ocean. [The Fourth]] Shard's influence grows stronger, and the party must confront the reality that their quest may have already set apocalyptic events in motion. ## [[Opening Scene: [The Memory]] [[Harvest The session begins in the **[Depth Archive]]**, where [[[Coral|Coral|Coral]] has been working tirelessly to understand the memory extraction patterns the party discovered. Therefore, ### [[Read Aloud * [The Archive]]'s bioluminescent reading chambers cast an eerie blue-green glow over countless memory pearls floating in preservation tanks. [[Archivist Coral-Mind looks up from her work, her usually steady hands trembling slightly.* * "I've analyzed the memory fragments you recovered," she says, her voice hollow. "The patterns... They're not random. Someone is harvesting specific memories - all related to ancient knowledge about the [Deep Trenches]]. Knowledge that was buried for excellent reason."* ## [[Investigation Phase: Following the [Deep Current]] The party must track the source of the memory extractions through Aquabyssos's underground network. ### Clue 1: [[The Forgotten Ward **[location|Location]]**: [[[[Ancient Memorial District|[Ancient Memorial]] District]] The party discovers that an entire district's worth of protective wards against "deep things" have been systematically dismantled. The ward-stones show signs of being dissolved by some kind of psychic acid. - **Investigation (**DC 15**)**: The dissolution pattern matches the memory extraction technique
 - **History (**DC 18**)**: These wards were placed here after the "[[Silent Century" - a period erased from most historical records
-- **[Arcana|Arcana]] (**DC 20**)**: The wards were specifically designed to contain something that feeds on knowledge itself ### Clue 2: [[The Dreaming Cultists **Location**: [[[Hidden Shrine]] of [[Forgotten Depths|[Hidden Shrine]] [[Of Forgotten Depths]] Following energy traces, the party finds a secret cult dedicated to [[[[The Deep Mother|[The Deep]] Mother]]. The cultists are in a trance state, continuously feeding stolen memories into a massive obsidian pool. **Encounter**: - 1 **[[Deep Oracle** (use Priest stats with psychic abilities)
+- **[Arcana|Arcana]] (**DC 20**)**: The wards were specifically designed to contain something that feeds on knowledge itself ### Clue 2: [[The Dreaming Cultists **Location**: [[[Hidden Shrine]] of [[Forgotten Depths|[Hidden Shrine]] [[Codex of Forgotten Depths]] Following energy traces, the party finds a secret cult dedicated to [[[[The Deep Mother|[The Deep]] Mother]]. The cultists are in a trance state, continuously feeding stolen memories into a massive obsidian pool. **Encounter**: - 1 **[[Deep Oracle** (use Priest stats with psychic abilities)
 - 4 **[Memory Thralls]]** (use Cultist stats, but attacks drain memories temporarily)
 - 2 **[[Void Touched** (use Wraith stats, but incorporeal and feed on thoughts) ### Clue 3: [The Tidal]] Prophecy **Location**: [[[[observatory|Observatory of [Sunken Stars]]|[[Observatory Of [Sunken Stars]]]] The party finds [[[[Prophet Nerida Voidgazer|[Prophet Nerida]] Voidgazer]], one of the few people who remembers the ancient warnings. She's been hiding, knowing that her knowledge makes her a target. ### [[Read Aloud * The old prophet's eyes are milky white with cataracts, but they seem to see through dimensions. When she speaks, her voice echoes as if coming from a great depth.* * "[The Fourth]] Shard you seek... It was not lost, child. It was hidden. Bound. Used as a lock to keep Her sleeping. Every shard you claim weakens that binding. She stirs now, in dreams that shake the ocean floor."* #### [[Prophecy Revealed * "[Seven Shards]] to rule the depths complete, But four awakens what should never meet. [[The Mother dreams of stars again, When memory's thief breaks the chain. In deepest trench where light has died, [The Fourth]] Shard serves to stem the tide."* **[[Key Information**:
 - [The Fourth]] Shard is acting as a binding agent, keeping [[[[The Deep Mother|[The Deep]] Mother]] in dormancy
@@ -108,7 +108,7 @@ world: [[Aquabyssos|Aquabyssos
 ## [See Also]]
 - [[Session 3 the Skyship Heist_1 (06_Sessions)
 - [Session 2 Court of Whispers]]
-- [[Session 2 the [Shadow Surgery]]
+- [[Shadow_Surgery]]
 - [[Session 3 the [Skyship Heist]]
 - [[Quest - [The Missing Fleet]]
 - [[Aethermoor - Session 08 [Between Two Worlds]]
@@ -122,7 +122,7 @@ world: [[Aquabyssos|Aquabyssos
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

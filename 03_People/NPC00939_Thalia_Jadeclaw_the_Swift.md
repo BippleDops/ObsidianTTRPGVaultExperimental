@@ -170,26 +170,18 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC00975_Lyanna_Winterborn_the_Wise]]
-- [[Submersible_Schematic_Pressure_Gate_Scou
-- [04 Classes]]
-- [[11 Rules Glossary
-- [NPC01695_Ewan_Ashford_the_Fallen]]
-- [[14 Gods of the Multiverse
-- [NPC00670_Xander_Goldleaf_the_Scholar]]
-- [[Propaganda_Leaflet_Pearl_Guar
-- [NPC00661_Corvus_Darkwater_the_Broken]]
-- [[Calendar_Conversions_Realm_Window
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[NPC01937_Felicia_Silverleaf_the_Wanderer
-- [Item_Catalog_Complete.md]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC00670_Xander_Goldleaf_the_Scholar]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -209,25 +201,21 @@ Modifications:
 - Connects to [step_005 (phase_096)]]
 - Leads to [[step_075 (phase_085)
 - Influences [Chambers Exit Type]]
-- Requires [[horn-of-valhalla-bronze-xdmg (items)
-- See also: [NPC01207_Orion_Thornweave_the_Wanderer]]
+- Requires [[NPC01207_Orion_Thornweave_the_Wanderer]]
 - Compare with [[Instructor Combat Shadows
 - Parallels
 - Leads to [[[Maritime Security Chief Reef]] 2]]
-- Originates from [[EVENT00031_Natural_Event_32
-- Requires [Diplomatic Event Scenarios (D&D_References)]]
+- Originates from [[Diplomatic Event Scenarios (D&D_References)]]
 - Leads to [[yuan-ti-abomination-xmm
 - Parallels [[Location City [Pressure Terminal]] Pressure Terminal.svg]]
 - Compare with [[Mirror of Life Trapping Xdmg
 - Affected by [[[Foam Deepferment]] 2]]
-- Affected by [[[Councilor Tidal Balancekeeper (D&D_References)]]
-- Leads to [[QUEST00080_Side_Quest_81
-- Parallels [Foreign Trader Captain Hassan al-Rimal (D&D_References)]]
+- Affected by [[Councilor Tidal Balancekeeper (D&D_References)]]
+- Leads to [[Foreign Trader Captain Hassan al-Rimal (D&D_References)]]
 - Affected by [[Location City [Crystal Engineer Reef Sparkwright V1 Crystal Engineer Reef Sparkwright.svg]]
 - Compare with [[Portrait NPC Envoy Blackwater Jr Envoy Blackwater Jr.svg_1 (Portraits)
 - Compare with [[[Bridge Currentcrosser]] 2]]
-- See also: [[Librarian Scholar Reef Documentcurrent
-- Related: [feywild-time-warp-xdmg (tables)]]
+- See also: [[Librarian Scholar Reef Documentcurrent]]
 - Influences [[ENC00021_Combat_Encounter_22
 - See also: [ITEM00671_Ethereal_Helm_of_Protection]]
 - Requires [[step_068 (phase_076)
@@ -249,15 +237,13 @@ Modifications:
 - Compare with [step_031 (phase_049)]]
 - Influences [[figurine-of-wondrous-power-bronze-griffon-xdmg
 - Requires [04_Resources_Assets_Portraits_portrait-npc-high-priestess-scylla-deepdream-high-priestess-scylla-deepdream.svg_Quick_Ref]]
-- Related: [[step_009 (phase_017)
-- Parallels [NPC01543_Delara_Crystalbrook_the_Risen]]
+- Related: [[NPC01543_Delara_Crystalbrook_the_Risen]]
 - Originates from [[step_036 (phase_007)
 - Originates from [List Spells Feats Blessed Warrior Xphb]]
 - See also: [[Symbol Heraldry the Shadow Crystal Synthesis the Shadow Crystal Synthesis.png
 - Requires
 - Leads to [LORE00279_History_Entry_280]]
-- Originates from [[Abandoned Lighthouse of Convergence
-- Influences [LOC00185_Planes_Location_186]]
+- Originates from [[Abandoned Lighthouse of Convergence]]
 - See also: [[step_025 (phase_075)
 - Affected by [LORE00282_History_Entry_283]]
 - Compare with [[Assets Locations Location City [Interfaith Cooperation Interfaith Cooperation.svg]]
@@ -265,8 +251,7 @@ Modifications:
 - Requires [Lorehold Trinket Scc]]
 - Originates from [[step_073 (phase_013)
 - Related: [[[Rare Ingredient Network]] (D&D_References)]]
-- See also: [[LOC00037_Wilderness_Location_38
-- Connects to [Faith Testing Grounds]]
+- See also: [[LOC00037_Wilderness_Location_38]]
 - See also: [[NPC_Name_Generator.png
 - Compare with [MON0047_Blood_Wraith]]
 - Parallels [[Location City [[The [Memory Thief]] V1 the Memory Thief.svg]]
@@ -284,8 +269,7 @@ Modifications:
 - Influences [Portrait NPC High Priestess Nerida Soulcurrent V1 High Priestess Nerida Soulcurrent.svg_1 (Portraits)]]
 - Affected by [[step_097 (phase_055)
 - Requires [step_071 (phase_028)]]
-- Parallels [[MON00163_Aberrations_Creature_164
-- Influences [[[Marina Stormwright]] 2]]
+- Parallels [[MON00163_Aberrations_Creature_164]] 2]]
 - Influences [[Describe Appearance and Personality Constitution Xphb
 - Requires [[[Marina Deepcurrent]] (D&D_References)]]
 - Leads to [[QUEST00242_Personal_Quest_243

@@ -165,40 +165,24 @@ Blackmails party into service
 - Special moves
 
 ## See Also
-- [[NPC00881_Qadim_Voidwalker_the_Strong
-- [NPC00872_Thalia_Ironwood_the_Broken]]
-- [[NPC00820_Thalia_Nightfall_the_Risen
-- [NPC01632_Qadim_Darkwater_the_Guardian]]
-- [[NPC01785_Aldric_Brightblade_the_Redeemed
-- [NPC_Relationship_Web.png_1 (03_People)]]
-- [[NPC00190_Cedric_Silverleaf
-- [NPC00815_Baelor_Thornweave_the_Swift]]
-- [[NPC00469_Delara_Oakenshield_the_Seeker
-- [NPC00599_Cedric_Lightbringer_the_Wise]]
-- [[NPC00057_Malakai_Stormwind_the_Cunning
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[NPC01552_Branwen_Lightbringer_the_Swift
-- [NPC00461_Branwen_Proudmore_the_Strong]]
-- [[NPC01937_Felicia_Silverleaf_the_Wanderer
-- [NPC01841_Malakai_Nightfall_the_Wise]]
-- [[NPC01568_Lyanna_Winterborn_the_Strong
-- [NPC01252_Jorah_Youngblood_the_Strong]]
-- [[NPC00415_Gareth_Winterborn_the_Bold
-- [Party_Inventory]]
-- [[Ceasefire_Accord_Draft.md
-- [NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
 - [[Faction_Guide.md
 - [What You Know - Abyssos Prime.md]]
-- [[Parliamentary_Voting_Guide
-- [NPC00058_Elric_Nightfall]]
-- [[PROGRESS_REPORT_2025-08-10_SESSION3
-- [NPC00162_Xander_Thornweave]]
-- [[10 Appendix B Creature Stat Blocks
-- [16 Credits]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [MOC_Lore]]
-- [[NPC00761_Aldric_Moonshadow_the_Guardian
-- [MOC_Quests]]
+- [[Parliamentary_Voting_Guide]]
+- [[PROGRESS_REPORT_2025-08-10_SESSION3]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
 - [[Master_Narrative_Web.md
 - [Complete_NPC_Matrix.md]]
 -
@@ -237,11 +221,10 @@ Following magic item guidelines (WWT p.135-136):
 ## Connections
 
 - See also: [[Memorial District of [Abyssos Prime]]]]
-- Originates from [[[Tenebrarum Embassy (D&D_References)]]
+- Originates from [[Tenebrarum Embassy (D&D_References)]]
 - Originates from [[step_016 (phase_015)
 - Influences [Business Coalitions]]
-- Compare with [[LORE0014_Secret_of_the_Fallen_Star
-- Parallels [boots-of-speed-xdmg (items)]]
+- Compare with [[LORE0014_Secret_of_the_Fallen_Star]]
 - See also: [[step_022 (phase_015)
 - Leads to [[Location City [Deep Watchfulrest]] V1 Deep Watchfulrest.svg]]
 - Originates from [[Assets Locations Location City [High Chancellor Nerissa Deepcurrent V1 High Chancellor Nerissa Deepcurrent.svg]]
@@ -250,8 +233,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [Holy Symbol Varies Holy Symbols Xphb]]
 - Requires [[Produce Flame Xphb
 - Requires [step_019 (phase_037)]]
-- Affected by [[MON00072_Undead_Creature_73
-- Leads to [step_042 (phase_078)]]
+- Affected by [[MON00072_Undead_Creature_73]]
 - Leads to [[QUEST00304_Side_Quest_305
 - Connects to [step_050 (phase_076)]]
 - Influences [[Location City [Secondary Education V1 Secondary Education.svg]]
@@ -259,15 +241,11 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [Democratic Erosion 2]]
 - Requires [[step_007 (phase_062)
 - Influences [Magister Voidheart]]
-- Originates from [[ENC00141_Combat_Encounter_142
-- See also: [Where To Get Mechanics]]
-- Connects to [[step_024 (phase_012)
-- Affected by [LOC00140_Cities_Location_141]]
+- Originates from [[ENC00141_Combat_Encounter_142]]
+- Connects to [[LOC00140_Cities_Location_141]]
 - Originates from [[enspelled-weapon-level-5-xdmg (items)
 - Requires [Quest - Neural Revolution_1 (01_Adventures)]]
-- Originates from [[Investigation Log INV-000 (D&D_References)
-- Leads to
-- Affected by [House Crimsontiide]]
+- Originates from [[Investigation Log INV-000 (D&D_References)]]
 - Connects to [[Assets Locations Location City [The Aether Works V1 the Aether Works.svg]]
 - Connects to [[FAC00052_Orders_53
 - Requires [step_073 (phase_041)]]
@@ -275,12 +253,10 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [Portrait NPC Emperor Pelagic the Last V1 Emperor Pelagic the Last.svg]]
 - Requires [[step_030 (phase_033)
 - Affected by [Monsters by Habitat Coastal Monsters Xmm]]
-- Connects to [[Crystal Garden (D&D_References)
-- See also: [Session 12 - Crystal Court Conspiracy]]
+- Connects to [[Session 12 - Crystal Court Conspiracy]]
 - Requires [[step_043 (phase_079)
 - Leads to [step_057 (phase_025)]]
-- Parallels [[NPC00601_Vesper_Ironwood_the_Guardian
-- See also: [SPELL00100_Nature_Spell_101]]
+- Parallels [[NPC00601_Vesper_Ironwood_the_Guardian]]
 - Requires
 - See also: [[The Seventh Shard
 - Affected by [Portrait NPC Captain Garrett Stormcutter V1 Captain Garrett Stormcutter.svg]]
@@ -295,8 +271,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[Master_People_[INDEX]]
 - Influences [[portrait-npc-the-emperor-v2-the-emperor.svg_1 (Portraits)
 - See also: [Tide-Speaker Nerida of House Abyssos]]
-- Compare with [[The Shadow Awakening
-- Requires [NPC01835_Xander_Frostwhisper_the_Wise]]
+- Compare with [[NPC01835_Xander_Frostwhisper_the_Wise]]
 - Parallels [[Assets Locations [[Location City [Luminous Hollow V1 Luminous Hollow.svg]]]]
 - Originates from [[Topic Matrix
 - Originates from [War College of Depths (Lore)]]
@@ -312,21 +287,17 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [Shadow Embassy]]
 - Requires [[QUEST00040_Personal_Quest_41
 - Affected by [ENC00037_Social_Encounter_38]]
-- Leads to [[Phase Transition Special Effects 2
-- Compare with [step_083 (phase_077)]]
+- Leads to [[Phase Transition Special Effects 2]]
 - Connects to [[Location City [Memorial Tender Sarah Memorial Tender Sarah.svg]]
-- Related: [[pony-xmm (beast)
-- Influences [LOC00268_Towns_Location_269]]
+- Related: [[LOC00268_Towns_Location_269]]
 - Affected by [[SHOP00006_General_Shop_7
 - Connects to [Spell Scroll Cantrip Xdmg]]
 - Leads to [[map-map-airship-deck-melee-airship-deck-melee.svg
 - Parallels [seeming-xphb (spells)]]
-- Originates from [[birthplace-xge (tables)
-- Compare with [MON00041_Constructs_Creature_42]]
+- Originates from [[MON00041_Constructs_Creature_42]]
 - Originates from [[LOC00145_Cities_Location_146
 - Related: [Symbol Heraldry Witness Protection Protocols V1 Witness Protection Protocols.svg]]
-- Parallels [[The Cosmic Entity
-- Requires [LOC00273_Dungeons_Location_274]]
+- Parallels [[LOC00273_Dungeons_Location_274]]
 - Compare with [[step_030 (phase_031)
 - Requires [Location City Crystal Powered Vessels Crystal Powered Vessels.svg]]
 - Influences [[Assets Locations [[Location City [Crisis Management V1 Crisis Management.svg]]]]

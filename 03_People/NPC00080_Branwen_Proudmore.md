@@ -171,32 +171,21 @@ Wants rivals investigated
 - Special moves
 
 ## See Also
-- [[NPC01789_Vesper_Proudmore_the_Mystic
-- [NPC01943_Xander_Proudmore_the_Fallen]]
-- [[NPC01483_Gavril_Zephyrblade_the_Fallen
-- [NPC00133_Lyanna_Oakenshield_the_Seeker]]
-- [[NPC01247_Xander_Zephyrblade_the_Risen
-- [NPC01504_Erasmus_Zephyrblade_the_Strong]]
-- [[NPC01682_Vesper_Blackstone_the_Guardian
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC01177_Thalia_Underhill_the_Fallen
-- [Archdruid Thornweaver]]
-- [[NPC00542_Corvus_Oakenshield_the_Strong
-- [NPC00200_Faelyn_Winterborn_the_Guardian]]
-- [[Submersible_Schematic_Pressure_Gate_Scou
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
-- [[NPC00949_Nerys_Underhill_the_Wise
-- [Quarantine_Notice_Crystal_Plagu]]
-- [[NPC00582_Cedric_Dawnstrider
-- [10 Appendix B Creature Stat Blocks]]
-- [[Character_Journal_Template
-- [NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -226,8 +215,7 @@ Wants rivals investigated
 - Parallels [LORE00267_Prophecies_Entry_268]]
 - Related: [[Assets Locations Location City Observatory District V1 Observatory District.svg
 - Leads to [Plot_Threads]]
-- Leads to [[Resonance Cascade Attack 2
-- Compare with [Object Xphb]]
+- Leads to [[Resonance Cascade Attack 2]]
 - See also: [[Location City Pilgrimage Coordinators Pilgrimage Coordinators.svg
 - Requires [ITEM01326_Decorated_Tool_Kit_of_Reliability]]
 - Requires [[Luminous Sterling 2
@@ -236,10 +224,8 @@ Wants rivals investigated
 - See also: [ITEM00954_Lesser_Crystal_of_Healing]]
 - Leads to [[Quest - War of Tides_1 (01_Adventures)
 - See also: [Assets Locations Location City Pelagic Cup V1 Pelagic Cup.svg]]
-- Parallels [[Deputy Inspector Pressure-Tide Jonas
-- Leads to [MON00102_Aberrations_Creature_103]]
-- Compare with [[Quest - The Moderate Path
-- Originates from [Cow Vgm]]
+- Parallels [[Deputy Inspector Pressure-Tide Jonas]]
+- Compare with [[Quest - The Moderate Path]]
 - Connects to [[Portrait NPC Watch Captain Roderick Shieldbreaker V2 Watch Captain Roderick Shieldbreaker.svg
 - Originates from [item properties#Loading]]
 - Leads to [[ITEM01349_Ornate_Journal_of_Reliability
@@ -260,12 +246,10 @@ Wants rivals investigated
 - Compare with [The Pearl Guard]]
 - Parallels [[Final Challenge Rating Experience Points by
 - Parallels [Deep-Priest Covenant (D&D_References)]]
-- Related: [[steam-mephit-xmm (elemental)
-- Compare with [ENC00158_Environmental_Encounter_159]]
+- Related: [[ENC00158_Environmental_Encounter_159]]
 - Originates from [[beast-bond-xge (spells)
 - Compare with [step_050 (phase_031)]]
-- Originates from [[Houses_and_Nobility - House Shadowmere
-- Leads to [NPC01325_Pyria_Thornweave_the_Cunning]]
+- Originates from [[Houses_and_Nobility - House Shadowmere]]
 - Compare with [[Location City Historical Preservation Society Historical Preservation Society.svg
 - Connects to [Wise Tide Truthseeker]]
 - Influences [[step_075 (phase_041)
@@ -273,8 +257,7 @@ Wants rivals investigated
 - Connects to
 - Influences [[Portrait NPC Surface Ambassador Lord Seaworthy V1 Surface Ambassador Lord Seaworthy.svg
 - Compare with [Merchant Lord Cornelius Generous]]
-- Related: [[Sundered Peaks
-- Affected by [Opposition Intelligence Center (D&D_References)]]
+- Related: [[Opposition Intelligence Center (D&D_References)]]
 - Leads to [[Location City Quest the Harbor War Quest the Harbor War.svg
 - Originates from [General Radiance Stormwright]]
 - Compare with [[Location City the Hybrid Harbor V1 the Hybrid Harbor.svg
@@ -282,16 +265,12 @@ Wants rivals investigated
 - See also:
 - Compare with [[brass-dragon-scale-mail-xdmg (items)
 - Leads to [step_028 (phase_049)]]
-- Influences [[Session Notes Template_1 (09_Templates)
-- Affected by [ITEM00299_Cursed_Sword_of_Wounding]]
+- Influences [[Session Notes Template_1 (09_Templates)]]
 - Influences [[step_021 (phase_025)
 - Connects to [Faction Symbols & Heraldry]]
-- Affected by [[Healing Spirit Xge
-- Affected by [Senator Marina Tidecaller (D&D_References)]]
-- Affected by [[step_098 (phase_036)
-- Affected by [ENC00139_Environmental_Encounter_140]]
-- Requires [[elemental-bane-xge (spells)
-- Parallels [The Memory Meadows Black Market]]
+- Affected by [[Senator Marina Tidecaller (D&D_References)]]
+- Affected by [[ENC00139_Environmental_Encounter_140]]
+- Requires [[The Memory Meadows Black Market]]
 - Affected by [[Location City Memory Coral Reefs V1 Memory Coral Reefs.svg
 - Related:
 - Connects to [ITEM01403_Ornate_Rope_of_Convenience]]
@@ -303,8 +282,7 @@ Wants rivals investigated
 - Parallels [[ITEM01219_Greater_Salve_of_Swiftness
 - Compare with
 - Affected by [EVENT00012_Natural_Event_13]]
-- Requires [[Duchess Elara Brightwater
-- Parallels [baphomet-mtf (legendary-group)]]
+- Requires [[baphomet-mtf (legendary-group)]]
 - Leads to [[Assets Locations Location City Knowledge Truthseeker Knowledge Truthseeker.svg
 - Parallels [Guardian Isolation Syndrom 2]]
 - Requires [[step_038 (phase_047)

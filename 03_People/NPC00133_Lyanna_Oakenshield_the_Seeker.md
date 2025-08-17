@@ -163,26 +163,14 @@ Requires champions for trial by combat
 - Special moves
 
 ## See Also
-- [[NPC00317_Pyria_Blackstone_the_Redeemed
-- [NPC00927_Aldric_Ironwood_the_Wanderer]]
-- [[NPC01040_Zephyr_Lightbringer_the_Strong
-- [NPC00259_Delara_Proudmore]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [Ceasefire_Accord_Draft.md]]
-- [[Ritual_Timing_Wheel_Convergenc
-- [Parliamentary_Voting_Guide]]
-- [[Combat_Encounter_Analysis
-- [Character_Journals]]
-- [[Reference.md
-- [NPC01841_Malakai_Nightfall_the_Wise]]
-- [[NPC00415_Gareth_Winterborn_the_Bold
-- [10 Combat]]
-- [[Measurement_Guide_Depth_and_Pressur
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Combat_Encounter_Analysis]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[Measurement_Guide_Depth_and_Pressur]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -201,14 +189,12 @@ Requires champions for trial by combat
 - Influences [step_011 (phase_083)]]
 - Influences [[MON00005_Undead_Creature_6
 - Compare with [step_034 (phase_059)]]
-- Related: [[Living Citie
-- Related: [LOC00229_Cities_Location_230]]
+- Related: [[LOC00229_Cities_Location_230]]
 - Influences [[step_013 (phase_044)
 - Parallels [Military Intelligence 2]]
 - Related: [[Portrait NPC Lord Marcus Shadowbane V2 Lord Marcus Shadowbane.svg
 - Influences [NPC00569_Ysara_Emberfall]]
-- Parallels [[automatic-rifle-xdmg (items)
-- Compare with [Umbral Crystal Miners (D&D_References)]]
+- Parallels [[Umbral Crystal Miners (D&D_References)]]
 - Leads to
 - Affected by [[LOC00064_Towns_Location_65
 - Originates from [Portrait NPC Salvage Queen Nerissa Deepfinder V2 Salvage Queen Nerissa Deepfinder.svg_1 (Portraits)]]
@@ -227,9 +213,7 @@ Requires champions for trial by combat
 - Requires [MON00033_Constructs_Creature_34]]
 - Parallels [[sword-of-answering-answerer (items)
 - Compare with [QUEST00250_Personal_Quest_251]]
-- Originates from [[step_064 (phase_087)
-- Related:
-- Affected by [The Void Refineries (D&D_References)]]
+- Originates from [[The Void Refineries (D&D_References)]]
 - See also:
 - Parallels [[greek-pan (deities)
 - Compare with [dust-mephit-xmm]]
@@ -240,18 +224,15 @@ Requires champions for trial by combat
 - Affected by [NPC00142_Cedric_Frostwhisper]]
 - Compare with [[location-city-inverse-palace-v1-inverse-palace.svg
 - Leads to [All-Seeing Mirrors]]
-- Requires [[NPC00057_Malakai_Stormwind_the_Cunning
-- See also: [boneclaw-mpmm (undead)]]
+- Requires [[NPC00057_Malakai_Stormwind_the_Cunning]]
 - Affected by [[Location City Geometric Tidepools V1 Geometric Tidepools.svg
 - Affected by [step_086 (phase_074)]]
 - See also: [[The Shadow Shard (Lore)
 - Connects to [Balta Kaine 2]]
 - Parallels [[creature-creature-allip-mpmm-v4-allip-mpmm.png
 - Connects to [ITEM01335_Elegant_Lantern_of_Reliability]]
-- Connects to [[Memory Court 2
-- Influences [Crysthaven (D&D_References)]]
-- Related: [[NPC00339_Caelum_Moonshadow
-- Related: [library]]
+- Connects to [[Crysthaven (D&D_References)]]
+- Related: [[NPC00339_Caelum_Moonshadow]]
 - See also: [[azurite-xdmg (items)
 - Requires [step_026 (phase_078)]]
 - See also: [[Blind Fighting Xphb
@@ -264,16 +245,12 @@ Requires champions for trial by combat
 - Related: [revolver-xdmg (items)]]
 - Connects to [[SPELL0000_Arcane_Bolt
 - Affected by [Kraken (Places)]]
-- Requires [[NPC01036_Alaric_Grimholt_the_Scholar
-- Connects to [Philosopher-Noble Depth-Crown 2]]
-- Influences [[ENC00009_Environmental_Encounter_10
-- Compare with [step_026 (phase_014)]]
+- Requires [[NPC01036_Alaric_Grimholt_the_Scholar]]
+- Influences [[ENC00009_Environmental_Encounter_10]]
 - Compare with [[hewards-handy-haversack-xdmg (items)
 - Originates from [04_Resources_Assets_Portraits_portrait-npc-captain-steelhart-captain-steelhart.svg_Quick_Ref]]
-- Affected by [[Prince Thalassic
-- Parallels [ENC00229_Social_Encounter_230]]
-- Connects to [[Memory Mirror Master (D&D_References)
-- Connects to [step_028 (phase_090)]]
+- Affected by [[ENC00229_Social_Encounter_230]]
+- Connects to [[Memory Mirror Master (D&D_References)]]
 - Requires [[Travel Xphb
 - Affected by [ITEM01487_Elegant_Tool_Kit_of_Durability]]
 - See also: [[Assets Item Artifact Travelers Clothes Xphb V4 Travelers Clothes Xphb.png
@@ -282,16 +259,13 @@ Requires champions for trial by combat
 - See also: [Proficiency Bonus Xphb]]
 - Leads to [[Sled Xphb
 - See also: [Location City Quest Harbor Security Quest Harbor Security.svg]]
-- Compare with [[step_076 (phase_049)
-- Affected by [NPC01125_Kaelen_Thornweave_the_Lost]]
+- Compare with [[NPC01125_Kaelen_Thornweave_the_Lost]]
 - Compare with [[Bio-Integration Laboratory
 - Parallels [Working Class Routines]]
 - See also: [[Assets Handouts Handout Handout Temple Prayer Sheet V1 Temple Prayer Sheet.png
 - Related: [05 Chapter 5 Creating Campaigns]]
-- Related: [[Luminary Judge Thaddeus Truthseeker
-- Influences [The Lock (D&D_References)]]
-- Affected by [[Bio-Luminescent Threading
-- Requires [Brother Matthias Inkdrinker 2]]
+- Related: [[Luminary Judge Thaddeus Truthseeker]]
+- Affected by [[Brother Matthias Inkdrinker 2]]
 - See also: [[LORE00184_Legends_Entry_185
 - Compare with
 - Related: [NPC00892_Brenna_Oakenshield_the_Mystic]]

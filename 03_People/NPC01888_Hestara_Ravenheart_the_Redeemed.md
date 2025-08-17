@@ -175,48 +175,22 @@ Modifications:
 
 ## See Also
 - [NPC00174_Aldric_Silverleaf_the_Fallen]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC00285_Xander_Goldleaf_the_Mystic]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [NPC01229_Gavril_Ironwood_the_Scholar]]
-- [[NPC01858_Drusilla_Stormwind_the_Cunning
-- [NPC00739_Gavril_Ashford_the_Bold]]
-- [[NPC01687_Aldric_Youngblood_the_Cunning
-- [NPC00124_Delara_Ravenheart_the_Redeemed]]
-- [[NPC00385_Qadim_Darkwater_the_Cunning
-- [NPC01841_Malakai_Nightfall_the_Wise]]
-- [[NPC01660_Thalia_Moonshadow_the_Fallen
-- [NPC00351_Corvus_Ironwood]]
-- [[NPC00407_Hestara_Dawnstrider
-- [NPC01151_Orion_Stormwind_the_Seeker]]
-- [[NPC00812_Kaelen_Jadeclaw_the_Seeker
-- [Depth_Adapted_Background]]
-- [[Player_Portal.md
-- [Combat_Encounter_Analysis]]
-- [[NPC01682_Vesper_Blackstone_the_Guardian
-- [NPC01789_Vesper_Proudmore_the_Mystic]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [Welcome_to_Aquabyssos.md]]
-- [[Reputation_Tracker
-- [12 Spells]]
-- [[NPC01201_Felicia_Ironwood_the_Bold
-- [NPC00872_Thalia_Ironwood_the_Broken]]
-- [[Session_Recaps
-- [NPC00542_Corvus_Oakenshield_the_Strong]]
-- [[11 Rules Glossary
-- [NPC01041_Thalia_Dawnstrider_the_Lost]]
-- [[Character_Journal_Template
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[Combat_Encounter_Analysis]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[Reputation_Tracker]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[Character_Journal_Template]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -224,8 +198,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -254,17 +227,15 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[ITEM00301_Radiant_Hammer_of_Speed
 - Connects to [step_065 (phase_090)]]
 - Affected by [[vegepygmy-mpmm (plant)
-- Compare with [[Location City [Royal Palace]] of Meridian V1 [[Royal Palace of Meridian.svg]]
-- Originates from [[The Convergence Entity 2
-- Requires [Burrow Speed Xphb]]
+- Compare with [[Location City [Royal Palace]] of Meridian V1 [[Royal Palace of Meridian]]
+- Originates from [[The Convergence Entity 2]]
 - Connects to [[The Community Feast Halls (Places)
 - See also: [LOC00134_Towns_Location_135]]
 - Compare with [[Location City [Community Organizations V1 Community Organizations.svg]]
 - Compare with
 - Affected by [[Blood Price Protocol
 - See also: [Wanted_Poster]]
-- Affected by [[Quest - Harbor Security 2
-- Related: [Resonance Bomb (D&D_References)]]
+- Affected by [[Resonance Bomb (D&D_References)]]
 - Related: [[step_070 (phase_056)
 - Originates from [step_078 (phase_068)]]
 - Leads to [[Council of Depths 3 (D&D_References)
@@ -279,17 +250,14 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [Doctor Helena Voidwalker]]
 - Related: [[ITEM01082_Greater_Herb_of_Fortune
 - Leads to [EVENT00023_Natural_Event_24]]
-- See also: [[[The Grove Keepers (D&D_References)]]
-- Influences [[Economic Architect Dr. Prosperity Sharewell
-- Connects to [High Stormcaller Cirrus Cloudweaver]]
-- See also: [[Glaive Xphb
-- See also: [adult-brass-dragon-xmm]]
+- See also: [[The Grove Keepers (D&D_References)]]
+- Influences [[Economic Architect Dr. Prosperity Sharewell]]
+- See also: [[adult-brass-dragon-xmm]]
 - Compare with [[Whip Xphb
 - Leads to [02_Worldbuilding_Factions_The_Order_of_the_Veil]]
 - Leads to [[Tidal Council
 - Leads to [ITEM00799_Celestial_Chalice_of_Destiny]]
-- See also: [[step_002 (phase_062)
-- Leads to [Master of Whispers Shade-Tongue Aldric]]
+- See also: [[Master of Whispers Shade-Tongue Aldric]]
 - Compare with [[The Deep Harvest (D&D_References)
 - Connects to [04_Resources_Assets_Locations_location-city-astrologer-prime-cassandra-starweaver-v1-astrologer-prime-cassandra-starweaver.svg]]
 - Originates from [[portrait-npc-the-king-s-ears-the-king-s-ears.svg
@@ -317,8 +285,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by
 - Requires [[SHOP00003_Magical_Shop_4
 - Parallels [LORE00191_History_Entry_192]]
-- Compare with [[ENC00274_Combat_Encounter_275
-- See also: [NPC00138_Nerys_Ravenheart_the_Risen]]
+- Compare with [[NPC00138_Nerys_Ravenheart_the_Risen]]
 - Parallels [[The Paradox Gardens
 - Affected by [Adamantine Ammunition Xge]]
 - Related: [[Portrait NPC Reflection Captain Vantage Reflection Captain Vantage.svg
@@ -333,8 +300,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[Assets Locations Location City [Noble Titles and Ranks V1 Noble Titles and Ranks.svg]]
 - Connects to [[ITEM00724_Divine_Crown_of_Destiny
 - Leads to [step_088 (phase_053)]]
-- Compare with [[step_056 (phase_080)
-- Related: [Influence Detector (D&D_References)]]
+- Compare with [[Influence Detector (D&D_References)]]
 - Leads to [[NPC01087_Orion_Winterborn_the_Scholar
 - Influences [Ω_System-CLI-spells-school-transmutation (Lore)]]
 - Requires [[Thief of Five Fates]]

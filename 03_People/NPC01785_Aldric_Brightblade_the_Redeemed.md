@@ -32,7 +32,7 @@ type: npc
 **ID**: NPC01785
 
 ## Quick Reference
-- **Location**: [[The Gilded Serpent [Tavern]] in the [[[Merchant Quarter]]
+- **Location**: [[The Gilded Serpent]] in the [[Merchant Quarter]]
 - **Occupation**: Cult leader
 - **Disposition**: Flirts with everyone regardless of interest
 
@@ -165,28 +165,17 @@ Offers deal too good to refuse
 
 ## See Also
 - [NPC00324_Idris_Hawthorne_the_Strong]]
-- [[NPC00878_Kaelen_Ironwood_the_Strong
-- [Marcus Shardbreaker Grimm_1]]
-- [[NPC00372_Alaric_Grimholt
-- [NPC01660_Thalia_Moonshadow_the_Fallen]]
-- [[NPC00587_Idris_Youngblood_the_Strong
-- [NPC01624_Corvus_Silverleaf_the_Redeemed]]
-- [[NPC00872_Thalia_Ironwood_the_Broken
-- [NPC00550_Xander_Stormwind_the_Cunning]]
-- [[NPC01767_Alaric_Ravenheart_the_Risen
-- [NPC01687_Aldric_Youngblood_the_Cunning]]
-- [[NPC01931_Thalia_Lightbringer_the_Fallen
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC00124_Delara_Ravenheart_the_Redeemed
-- [NPC00069_Thalia_Brightblade_the_Guardian]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC01503_Ewan_Dawnstrider_the_Redeemed]]
-- [[NPC01979_Fiora_Emberfall_the_Guardian
-- [Party_Inventory]]
-- [[NPC00785_Ysara_Grimholt_the_Mystic
-- [Trade_Route_Chart_Port_Meridia]]
-- [[NPC01699_Orion_Oakenshield_the_Broken
-- [08 Using Ability Scores]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
 -
 
 ## Item Rarity & Balance
@@ -223,45 +212,38 @@ Following magic item guidelines (WWT p.135-136):
 ## Connections
 
 - Related: [[Assets Locations Location City [Port Meridian]] Port Meridian.svg]]
-- Compare with [[The Resonance Crater (D&D_References)
-- Connects to [step_026 (phase_023)]]
+- Compare with [[The Resonance Crater (D&D_References)]]
 - Affected by [[Pressure Specialist Dr [Marina Deepcurrent]]
 - Originates from [[Location City [Master Elena Preserver Master Elena Preserver.svg]]
 - Compare with [[Item Artifact Spell Gem Lapis Lazuli Oota Spell Gem Lapis Lazuli Oota.png
 - Parallels [QUEST00063_Main_Quest_64]]
-- Related: [[step_037 (phase_024)
-- Compare with [Established Family Communitie (D&D_References)]]
+- Related: [[Established Family Communitie (D&D_References)]]
 - Originates from [[derro-mpmm (aberration)
 - See also: [[Location City [Councilor Tidal Balancekeeper]] Councilor Tidal Balancekeeper.svg]]
 - Connects to [[Memory Trader
 - Influences [adult-copper-dragon-xmm (dragon)]]
 - Influences [[Weather 2 Xdmg
 - Requires [Conjure Woodland Beings Xphb]]
-- Related: [[[Aquabyssos Trade Seal (Lore)]]
+- Related: [[Aquabyssos Trade Seal]]
 - Parallels
 - Compare with [[Location City [The First Failure the First Failure.svg]]
 - Originates from [[New Location
 - Parallels [step_016 (phase_074)]]
-- Requires [[dungeoneers-pack-xphb (items)
-- Compare with [10-chapter-10-descent-into-the-depths (out-of-the-abyss)]]
+- Requires [[10-chapter-10-descent-into-the-depths (out-of-the-abyss)]]
 - Leads to [[step_059 (phase_017)
 - Connects to
 - Originates from [Fear Farms (D&D_References)]]
 - Compare with [[witherbloom-student-scc (backgrounds)
 - Compare with [[Location City [Ambassador Lysandra Silvertonge]] V1 Ambassador Lysandra Silvertonge.svg]]
-- Related: [[ITEM01143_Distilled_Powder_of_Healing
-- Influences [Aquabyssos - Session 04 - High Tide Horror]]
+- Related: [[Aquabyssos - Session 04 - High Tide Horror]]
 - Leads to [[step_002 (phase_064)
 - Influences [yuan-ti-merrshaulk-vgm (deities)]]
-- Compare with [[[Keeper Aquaeous Depth-Scholar 2]]
-- Affected by [[[Royal Palace (D&D_References)]]
-- Influences [[Surface Ambassador Lord Seaworthy
-- See also: [Home Embeds Vault Graph]]
-- Originates from [[[Port Meridian Harbor District (Places)]]
-- Affected by [[Surface Signals
-- Connects to [NPC00816_Thalia_Ravenheart_the_Risen]]
-- Originates from [[LORE00002_History_Entry_3
-- See also: [Aetheric Wind Songs (D&D_References)]]
+- Compare with [[Keeper Aquaeous Depth-Scholar 2]]
+- Affected by [[Royal Palace (D&D_References)]]
+- Influences [[Surface Ambassador Lord Seaworthy]]
+- Originates from [[Port_Meridian_Harbor_District]]
+- Affected by [[NPC00816_Thalia_Ravenheart_the_Risen]]
+- Originates from [[Aetheric Wind Songs (D&D_References)]]
 - Parallels [[Map Map Bioluminescent Forest Ambush V2 Bioluminescent Forest Ambush.png
 - Influences [exploring-the-mine-xdmg (tables)]]
 - Requires [[poison-spray-xphb (spells)
@@ -271,7 +253,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Mobile Command Platforms
 - Connects to [Portrait NPC Quest the Dying Forest V1 Quest the Dying Forest.svg]]
 - Parallels
-- Influences [[[Cultural Districts (D&D_References)]]
+- Influences [[Cultural Districts (D&D_References)]]
 - Influences [[ITEM00540_Enchanted_Chain_Mail_of_the_Guardian
 - Connects to [Chief Marine Engineer Coral Seaforge 2]]
 - Connects to [[Symbol Heraldry the Crimson Fleet the Crimson Fleet.svg
@@ -285,14 +267,11 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[The Nameless Scholar (D&D_References)
 - Requires
 - Connects to [Security Chief Razor Currentstorm 2]]
-- Leads to [[NPC01352_Lyanna_Winterborn_the_Guardian
-- Connects to [lance-xphb (items)]]
-- Originates from [[LOC00115_Dungeons_Location_116
-- Parallels [The Progenitors 2]]
+- Leads to [[NPC01352_Lyanna_Winterborn_the_Guardian]]
+- Originates from [[LOC00115_Dungeons_Location_116]]
 - Related: [[step_065 (phase_072)
 - Leads to [[[Navigator Flux]] 2]]
-- Affected by [[Aquabyssos Trade Seal (D&D_References)
-- Influences [treant-xmm (plant)]]
+- Affected by [[Aquabyssos Trade Seal (D&D_References)]]
 - Compare with [[NPC01347_Xander_Jadeclaw_the_Wise
 - Originates from [LOC00163_Dungeons_Location_164]]
 - Influences

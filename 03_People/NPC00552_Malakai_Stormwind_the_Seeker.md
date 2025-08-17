@@ -168,46 +168,28 @@ Modifications:
 > Important safety or rule information
 
 ## See Also
-- [[NPC01624_Corvus_Silverleaf_the_Redeemed
-- [NPC00587_Idris_Youngblood_the_Strong]]
-- [[NPC01870_Lyanna_Silverleaf_the_Cunning
-- [NPC01262_Ysara_Dawnstrider_the_Swift]]
-- [[NPC01177_Thalia_Underhill_the_Fallen
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [NPC00283_Kaelen_Zephyrblade_the_Bold]]
-- [[NPC00250_Delara_Darkwater_the_Fallen
-- [NPC01931_Thalia_Lightbringer_the_Fallen]]
-- [[NPC00351_Corvus_Ironwood
-- [NPC00174_Aldric_Silverleaf_the_Fallen]]
-- [[NPC00237_Vesper_Ashford_the_Bold
-- [NPC00058_Elric_Nightfall]]
-- [[NPC01503_Ewan_Dawnstrider_the_Redeemed
-- [NPC01371_Xander_Stormwind_the_Guardian]]
-- [[NPC01660_Thalia_Moonshadow_the_Fallen
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC00515_Baelor_Crystalbrook_the_Seeker
-- [NPC00860_Gavril_Winterborn_the_Swift]]
-- [[Depth_Adapted_Background
-- [Faction_Relationship_Web]]
-- [[NPC00599_Cedric_Lightbringer_the_Wise
-- [Party_Quests]]
-- [[Emergency_Evacuation_Map_Stormglass_Riot
-- [NPC00362_Pyria_Stormwind_the_Wise]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [Trade_Route_Map_Aquabyssos_to_Aethermoor]]
-- [[Trade_Route_Chart_Port_Meridia
-- [Reference.md]]
-- [[NPC01057_Pyria_Quicksilver_the_Scholar
-- [NPC01994_Orion_Brightblade_the_Risen]]
-- [[NPC01504_Erasmus_Zephyrblade_the_Strong
-- [Complete_NPC_Matrix.md]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[Faction_Relationship_Web]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -241,19 +223,16 @@ Modifications:
 ## Connections
 
 - Leads to [[Location City [The First Truth V1 the First Truth.svg]]
-- Requires [[Monster Lore Vgm
-- Influences [Matre D' Pelagia Smoothcurrent]]
+- Requires [[Matre D' Pelagia Smoothcurrent]]
 - See also: [[gaming-set-xphb (items)
 - Parallels [[[Reef Shark]] (D&D_References)]]
 - Originates from [[Crystal-Enhanced Democracy
 - Compare with [ITEM01104_Lesser_Potion_of_Swiftness]]
-- Connects to [[Rural Resistance
-- Originates from [MON00091_Aberrations_Creature_92]]
+- Connects to [[MON00091_Aberrations_Creature_92]]
 - Related: [[Portrait NPC the Pressure King the Pressure King.svg
 - Compare with
 - Compare with [Portrait NPC High Cultivist Jasper Lifebinder High Cultivist Jasper Lifebinder.svg]]
-- Influences [[Bio-Magical Integration Laboratory (D&D_References)
-- See also: [Chronarch Supreme]]
+- Influences [[Bio-Magical Integration Laboratory (D&D_References)]]
 - Related: [[step_044 (phase_017)
 - Requires [step_061 (phase_075)]]
 - Connects to [[ITEM00694_Dragon_Scale_Helm_of_Grace
@@ -262,58 +241,47 @@ Modifications:
 - Influences [[Community Mediator Balance Wright
 - Requires
 - Originates from [[[Steel Depthguard]] (D&D_References)]]
-- Connects to [[[Nautilus Threadmender (D&D_References)]]
+- Connects to [[Nautilus Threadmender (D&D_References)]]
 - Influences [[The Cold Houses 2
 - Originates from [ITEM00035_Radiant_Hammer_of_Slaying]]
-- Affected by [[step_003 (phase_092)
-- Originates from [Cell-Based Revolutionary Organization 2]]
+- Affected by [[Cell-Based Revolutionary Organization 2]]
 - Compare with [[step_020 (phase_097)
 - See also:
 - Connects to [step_038 (phase_010)]]
 - Related: [[step_032 (phase_053)
 - Affected by [Dr Elena Mirthorn]]
-- Connects to [[NPC01577_Orion_Moonshadow_the_Seeker
-- Influences [Magic_Items (03_Mechanics)_1]]
-- Compare with [[Location City [[Port Meridian [Harbor District]] V1 [[Port Meridian Harbor District.svg]]
-- Connects to [[Symbols - Faction_Heraldry (D&D_References)
-- Related: [LORE0055_History_of_the_Ancient_Pact]]
+- Connects to [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- Compare with [[Location City [[Port Meridian [Harbor District]] V1 [[Port_Meridian_Harbor_District]]
+- Connects to [[Symbols - Faction_Heraldry (D&D_References)]]
 - Affected by [[Indefinite Madness
 - Requires [[Location City [Marina Clearwater]] Marina Clearwater.svg]]
-- Leads to [[step_074 (phase_091)
-- Parallels [NPC01458_Aldric_Silverleaf_the_Scholar]]
-- Leads to [[LOC00210_Dungeons_Location_211
-- Parallels [step_036 (phase_048)]]
+- Leads to [[NPC01458_Aldric_Silverleaf_the_Scholar]]
+- Leads to [[LOC00210_Dungeons_Location_211]]
 - Influences
 - See also: [[Mind Spike Xphb
 - Affected by [[[World Map]] (D&D_References)]]
 - Connects to [[Assets Locations [[Location City [Liminal Constantinople V1 Liminal Constantinople.svg]]]]
 - Affected by [[Scene Scene Drowned Cathedral Vigil V1 Drowned Cathedral Vigil.png
 - Related: [step_007 (phase_004)]]
-- Related: [[ENC00111_Combat_Encounter_112
-- Affected by [LOC0113_WestBridge]]
+- Related: [[ENC00111_Combat_Encounter_112]]
 - Requires [[step_084 (phase_056)
 - Related: [LORE00235_Legends_Entry_236]]
-- Related: [[Symbol Heraldry Mer... Related To: Local Political Structure Connected Plots: to Be Developed
-- See also: [Goblin Warrior Xmm]]
+- Related: [[Symbol Heraldry Mer... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Leads to [[forgotten-realms-azuth (deities)
 - Affected by [step_017 (phase_043)]]
 - Parallels [[step_025 (phase_092)
 - See also: [step_029 (phase_069)]]
-- Requires [[Intervention Windows
-- Requires [Underground Railroad Leader]]
+- Requires [[Underground Railroad Leader]]
 - Related: [[Assets Locations Location City [Market Mystery V1 Market Mystery.svg]]
 - Connects to
 - Requires [[step_011 (phase_080)
 - Affected by [Cloud of Daggers Xphb]]
-- Connects to [[QUEST0073_The_Frozen_Fortress_Uprising
-- Leads to [step_016 (phase_047)]]
+- Connects to [[QUEST0073_The_Frozen_Fortress_Uprising]]
 - Compare with [[step_037 (phase_018)
 - Related: [trident-xphb (items)]]
 - Connects to [[Assets Locations [[Location City [Seeds of the Past Seeds of the Past.svg]]]]
-- See also: [[High Administrator Cornelius Protocols (D&D_References)
-- Compare with [location-city-sister-morwyn-sister-morwyn.svg]]
-- See also: [[INV 006
-- See also: [SPELL00113_Divine_Spell_114]]
+- See also: [[High Administrator Cornelius Protocols (D&D_References)]]
+- See also: [[SPELL00113_Divine_Spell_114]]
 - Parallels [[The Ascending Spirit
 - Related: [Artisan Felix Reefwright]]
 - Requires [[Session 14 (06_Sessions)
@@ -333,12 +301,10 @@ Modifications:
 - Influences [young-black-dragon-xmm]]
 - Originates from [[Assets Symbols Symbol Heraldry Deputy Archmerchant Scroll Deepmin Deputy Archmerchant Scroll Deepmin.svg
 - See also: [NPC00965_Faelyn_Quicksilver_the_Mystic]]
-- Related: [[Siege Engineers
-- See also: [LOC00156_Planes_Location_157]]
+- Related: [[LOC00156_Planes_Location_157]]
 - Originates from [[QUEST0084_Baron's_Request
 - Requires [Mechanics Custom Classes]]
-- Affected by [[Symbol Heraldry Dep... Related To: Local Political Structure Connected Plots: to Be Developed
-- Influences [step_061 (phase_050)]]
+- Affected by [[Symbol Heraldry Dep... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[Assets Locations [[Location City [Beast Master Krell Chainbreaker Beast Master Krell Chainbreaker.svg]]]]
 
 ## Visual References

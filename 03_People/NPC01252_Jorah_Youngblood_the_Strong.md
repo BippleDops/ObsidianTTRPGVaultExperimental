@@ -166,20 +166,8 @@ Has information about legendary item
 - Special moves
 
 ## See Also
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[Ritual_Timing_Wheel_Convergenc
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[Ritual_Timing_Wheel_Convergenc]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -188,8 +176,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -206,8 +193,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[EVENT00023_Political_Event_24
 - See also: [DUN00129_Dungeon_130]]
 - Originates from [[Assets Locations Location City [Royal Quarters V1 Royal Quarters.svg]]
-- Connects to [[NPC00722_Ysara_Frostwhisper_the_Scholar
-- Parallels [Frost Salamander Mpmm]]
+- Connects to [[NPC00722_Ysara_Frostwhisper_the_Scholar]]
 - Parallels [[portrait-npc-the-tidecaller-the-tidecaller.svg_1 (Portraits)
 - Affected by [cloak-of-the-manta-ray-xdmg (items)]]
 - Compare with [[gift-of-the-ever-living-ones-xge (optional-features)
@@ -216,16 +202,14 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[Beta-Seven
 - Originates from [step_052 (phase_094)]]
 - Related: [[MASTER_[INDEX]]
-- Connects to [[[Victoria Harbormane 2]]
+- Connects to [[Victoria Harbormane 2]]
 - See also: [[Engineer Shadowbuild
 - See also: [SHOP00035_General_Shop_36]]
 - Compare with [[The Deep Trading Halls 2
 - Connects to [step_021 (phase_067)]]
-- Parallels [[Social Architect Luna Newdawn (D&D_References)
-- Influences [Family Matriarch Anvil (D&D_References)]]
+- Parallels [[Social Architect Luna Newdawn (D&D_References)]]
 - Related:
-- Leads to [[Economic Systems and Currency 2
-- Influences [Foraging Dcs]]
+- Leads to [[Economic Systems and Currency 2]]
 - Influences [[Lifestyle Expenses Phb
 - Affected by [Symbol Heraldry Detective Prime Clarity Truthseeke Detective Prime Clarity Truthseeke.svg]]
 - Requires [[LORE00178_Prophecies_Entry_179
@@ -233,21 +217,17 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [poisoned-tempest-xge (traps-hazards)]]
 - Influences [[step_097 (phase_075)
 - Connects to [Assets Symbols Symbol Heraldry Salvage Master Ironwork Salvage Master Ironwork.svg]]
-- Connects to [[step_080 (phase_058)
-- Leads to [Royal Guard (D&D_References)]]
+- Connects to [[Royal Guard (D&D_References)]]
 - Influences
-- Originates from [[Aetheric Wind Songs (D&D_References)
-- Originates from [[[[[Merchant]] Quarter]] (D&D_References)]]
-- Affected by [[Portrait NPC Stor... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Leads to [[Assets Locations Location City [Palace Guardians]] V1 Palace Guardians.svg]]
+- Originates from [[Aetheric Wind Songs (D&D_References)]] Quarter]] (D&D_References)]]
+- Affected by [[Portrait NPC Stor... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]] V1 Palace Guardians.svg]]
 - Originates from
 - Originates from [[Portrait NPC Duke Lysander Crystalvein V2 Duke Lysander Crystalvein.svg
 - Requires [ITEM00081_Frost_Sword_of_Speed]]
 - Connects to [[step_070 (phase_021)
 - Leads to [The Deep Fugitive]]
 - Related: [[Location City [Aquabyssos Government Aquabyssos Government.svg]]
-- Parallels [[step_001 (phase_022)
-- Parallels [NPC00401_Baelor_Ironwood_the_Lost]]
+- Parallels [[NPC00401_Baelor_Ironwood_the_Lost]]
 - Affected by [[Priest Faith Crystalsong
 - Parallels [step_063 (phase_010)]]
 - Originates from [[MON00131_Undead_Creature_132
@@ -256,8 +236,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Portrait NPC [Abyssos Prime]] Government Abyssos Prime Government.svg]]
 - Related: [[Death Tyrant Xmm
 - Parallels [Shadow Dampeners]]
-- Affected by [[NPC01433_Branwen_Moonshadow_the_Mystic
-- Originates from [The Ghost Walker 2]]
+- Affected by [[NPC01433_Branwen_Moonshadow_the_Mystic]]
 - Connects to [[location-city-deep-ones-deep-ones.svg
 - Originates from [[Location City [Builder Coral Architect]] V1 Builder Coral Architect.png]]
 - See also: [[step_091 (phase_028)
@@ -287,8 +266,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [step_004 (phase_067)]]
 - See also: [[02 Chapter 2 Into Darkness
 - Affected by [symbol-heraldry-the-crown-v1-the-crown.svg]]
-- Connects to [[step_008 (phase_004)
-- Influences [MON00128_Constructs_Creature_129]]
+- Connects to [[MON00128_Constructs_Creature_129]]
 - Related:
 - Parallels [[NPC01616_Branwen_Ironwood_the_Wise
 - Related: [ITEM01351_Ornate_Lantern_of_Reliability]]
@@ -296,8 +274,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [potion-of-stone-giant-strength-xdmg (items)]]
 - Parallels [[MON00132_Constructs_Creature_133
 - Compare with [Portrait NPC the Great Trade Routes V2 the Great Trade Routes.svg]]
-- Originates from [[Court Herald Titus
-- Parallels [NPC01734_Kaelen_Hawthorne_the_Seeker]]
+- Originates from [[NPC01734_Kaelen_Hawthorne_the_Seeker]]
 - Affected by [[mighty-fortress-xge (spells)
 - Connects to [Clockwork Oaken Bolter Mpmm]]
 - Affected by [[Party Information

@@ -162,56 +162,29 @@ Modifications:
 > Notable saying or prophecy
 
 ## See Also
-- [[NPC01012_Solas_Darkwater_the_Strong
-- [NPC01785_Aldric_Brightblade_the_Redeemed]]
-- [[NPC00300_Urien_Zephyrblade
-- [NPC00815_Baelor_Thornweave_the_Swift]]
-- [[NPC00057_Malakai_Stormwind_the_Cunning
-- [NPC01757_Nerys_Silverleaf_the_Strong]]
-- [[NPC00623_Dara_Oakenshield_the_Wanderer
-- [NPC00844_Cedric_Blackstone_the_Fallen]]
-- [[NPC00174_Aldric_Silverleaf_the_Fallen
-- [NPC01348_Xander_Zephyrblade_the_Wise]]
-- [[NPC00058_Elric_Nightfall
-- [NPC01687_Aldric_Youngblood_the_Cunning]]
-- [[NPC01466_Urien_Nightfall_the_Guardian
-- [NPC00162_Xander_Thornweave]]
-- [[NPC00661_Corvus_Darkwater_the_Broken
-- [NPC00069_Thalia_Brightblade_the_Guardian]]
-- [[NPC01989_Erasmus_Xendar_the_Strong
-- [NPC01252_Jorah_Youngblood_the_Strong]]
-- [[NPC01229_Gavril_Ironwood_the_Scholar
-- [NPC00324_Idris_Hawthorne_the_Strong]]
-- [[NPC00260_Wynne_Underhill_the_Fallen
-- [NPC00395_Aeliana_Thornweave]]
-- [[NPC00407_Hestara_Dawnstrider
-- [NPC00362_Pyria_Stormwind_the_Wise]]
-- [[NPC00552_Malakai_Stormwind_the_Seeker
-- [NPC01476_Qadim_Stormwind_the_Wise]]
-- [[Faction_Relationship_Web
-- [Guild Seal Document Silverscale Consortiu]]
-- [[Measurement_Guide_Depth_and_Pressur
-- [Depth_Adapted_Background]]
-- [[Trade_Route_Map_Aquabyssos_to_Aethermoor
-- [NPC01502_Urien_Underhill_the_Scholar]]
-- [[Wanted_Poster_Syndicate_Fenc
-- [09 Adventuring]]
-- [[Player_Comfort_Check
-- [10 Appendix B Creature Stat Blocks]]
-- [[NPC01082_Fiora_Ashford_the_Fallen
-- [NPC01827_Kaelen_Ironforge_the_Seeker]]
-- [[05 Personality and Background
-- [NPC01126_Malakai_Oakenshield_the_Fallen]]
-- [[11 Rules Glossary
-- [Count_Strahd_von_Zarovich]]
-- [[03 Races
-- [11 Spellcasting]]
-- [[MASTER_MOC
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[Wanted_Poster_Syndicate_Fenc]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[Count_Strahd_von_Zarovich]]
+- [[11 Spellcasting]]
+- [[MASTER_MOC]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -231,15 +204,13 @@ Modifications:
 - Related: [step_035 (phase_041)]]
 - Compare with [[Entertainers Pack Xphb
 - Related: [[Assets Locations [Location City Whisper Touched William Whisper Touched William.svg]]]]
-- Affected by [[LOC00131_Planes_Location_132
-- Influences [norse-thrym (deities)]]
+- Affected by [[LOC00131_Planes_Location_132]]
 - Parallels [[unoccupied-space-xphb (variant-rules)
 - Connects to
 - Originates from [The Resistance Formation 2]]
 - Related: [[Shadow Legislative Records
 - Affected by [step_028 (phase_070)]]
-- Connects to [[Institute of Recursive Reality Studies (D&D_References)
-- Related: [augury-xphb (spells)]]
+- Connects to [[Institute of Recursive Reality Studies (D&D_References)]]
 - Leads to [[Emanation Area of Effect Xphb
 - Affected by [dragonlance-branchala-phb (deities)]]
 - Connects to [[step_007 (phase_071)
@@ -257,77 +228,64 @@ Modifications:
 - Parallels [ITEM01019_Concentrated_Oil_of_Clarity]]
 - Affected by [[step_037 (phase_100)
 - See also: [step_009 (phase_009)]]
-- Requires [[step_024 (phase_024)
-- Connects to [Ability Score and Modifier Xphb]]
+- Requires [[Ability Score and Modifier Xphb]]
 - Compare with [[step_052 (phase_009)
 - Leads to [The Seasonal Courts]]
-- Originates from [[Professional Divers Association
-- Affected by [Healing Ministries]]
+- Originates from [[Professional Divers Association]]
 - Related: [[step_077 (phase_044)
 - Leads to [The Convergence Point]]
 - Related:
 - Compare with [[Location City [Surgeon Coral Seamender Surgeon Coral Seamender.svg]]
-- Influences [[ENC00373_Combat_Encounter_374
-- Requires [step_037 (phase_014)]]
+- Influences [[ENC00373_Combat_Encounter_374]]
 - Influences [[ITEM01310_Practical_Map_Case_of_Convenience
 - Influences [NPC00934_Jorah_Ravenheart_the_Swift]]
 - See also: [[Luck Spirits Allianc
 - Connects to [QUEST00035_Personal_Quest_36]]
 - Leads to
 - Connects to [[Assets Locations Location City [The Kelp Highway V1 the Kelp Highway.svg]]
-- Leads to [[NPC00763_Urien_Brightblade_the_Broken
-- Influences [[[War Machine Engineers]] (D&D_References)]]
-- Leads to [[[Senator Abyssos Traditionkeeper 2]]
+- Leads to [[NPC00763_Urien_Brightblade_the_Broken]] (D&D_References)]]
+- Leads to [[Senator Abyssos Traditionkeeper 2]]
 - See also: [[Necklace String of Small Pink Pearls Xdmg
 - Influences [step_064 (phase_072)]]
-- Originates from [[step_019 (phase_094)
-- Affected by [Military Families Support Groups]]
+- Originates from [[Military Families Support Groups]]
 - Influences [[Generate Campaign NPCs (Text Generator Templates)
 - Influences [Assets Portraits Portrait NPC High Priest Nereon High Priest Nereon.svg]]
 - Leads to
-- Affected by [[step_049 (phase_083)
-- Related: [Deep Mother Resistance Traits]]
+- Affected by [[Deep Mother Resistance Traits]]
 - See also: [[Location City [Elena Prismweaver Elena Prismweaver.svg]]
 - Leads to [[EVENT00020_Political_Event_21
 - Requires [Celtic Oghma]]
-- Connects to [[[Aethermoor Wind Rider Traditions (Lore)]]
+- Connects to [[Aethermoor Wind Rider Traditions]]
 - Originates from [[Temple of the Deep Waters
 - Influences [delayed-blast-fireball-xphb (spells)]]
-- Affected by [[LOC00021_Wilderness_Location_22
-- Affected by [Multiverse 2]]
+- Affected by [[LOC00021_Wilderness_Location_22]]
 - See also: [[bard-xphb (classes)
 - Compare with [[[Scholar Thomas Precedent]] (D&D_References)]]
 - Compare with [[Police Chief Sarah Lawkeeper
 - See also:
-- Compare with [[Assets Locations Location City [The Crystal Cathedral]] of Pure Light [[The Crystal Cathedral of Pure Light.svg]]
+- Compare with [[Assets Locations Location City [The Crystal Cathedral]] of Pure Light [[The Crystal Cathedral of Pure Light]]
 - Affected by [[10K_GENERATION_REPORT
 - Leads to [step_045 (phase_015)]]
 - Influences [[step_073 (phase_072)
 - Compare with [LOC00052_Planes_Location_53]]
-- Requires [[GM Resource
-- Related: [[[Crystal Cult Temples]] (D&D_References)]]
-- See also: [[Green Slime Xdmg
-- Leads to [The Reunification Faction (D&D_References)]]
+- Requires [[Crystal Cult Temples]] (D&D_References)]]
+- See also: [[The Reunification Faction (D&D_References)]]
 - Leads to [[step_047 (phase_021)
 - See also: [Portrait NPC Commodity Queen Abundance Commodity Queen Abundance.svg_1 (Portraits)]]
 - Leads to [[ITEM01455_Elegant_Compass_of_Reliability
 - Originates from [Captain Elara Shadowshard (D&D_References)]]
 - Parallels [[gith-tables-githzerai-personality-traits-mtf (tables)
 - Affected by [Crystal Jammers]]
-- Originates from [[LOC00268_Cities_Location_269
-- See also: [step_053 (phase_099)]]
+- Originates from [[LOC00268_Cities_Location_269]]
 - Related: [[step_021 (phase_011)
 - Related: [step_042 (phase_004)]]
-- Requires [[Home Embeds#Recently Modifie 2
-- Connects to
-- Requires [step_024 (phase_064)]]
+- Requires [[Home Embeds - DV]]
 - Related: [[Crystal_Observatory
 - Originates from [ITEM01041_Refined_Powder_of_Fortune]]
 - Requires
-- Compare with [[Archmage Deflector Windturner 2
-- Requires [Previous Session]]
+- Compare with [[Archmage Deflector Windturner 2]]
 - Leads to [[Assets Locations [[Location City [Tide Welcomeheart V1 Tide Welcomeheart.svg]]]]
-- Leads to [[[Pressure Symbiont (D&D_References)]]
+- Leads to [[Pressure Symbiont (D&D_References)]]
 
 ## Visual References
 ![[03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png

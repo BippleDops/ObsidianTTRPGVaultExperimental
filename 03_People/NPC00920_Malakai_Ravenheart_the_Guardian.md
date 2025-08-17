@@ -166,26 +166,18 @@ Seeks rare merchandise
 - Special moves
 
 ## See Also
-- [[NPC01943_Xander_Proudmore_the_Fallen
-- [NPC01177_Thalia_Underhill_the_Fallen]]
-- [[Archdruid Thornweaver
-- [NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[NPC01247_Xander_Zephyrblade_the_Risen
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[Faction_Relationship_Web
-- [NPC00124_Delara_Ravenheart_the_Redeemed]]
-- [[Player_Feedback_Form.md
-- [Reference.md]]
-- [[11 Rules Glossary
-- [NPC01290_Pyria_Ashford_the_Broken]]
-- [[NPC01761_Idris_Moonshadow_the_Broken
-- [Reputation_Tracker]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[Player_Feedback_Form]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -199,7 +191,7 @@ Seeks rare merchandise
 
 ## Connections
 
-- Related: [[00_[INDEXes_Quick_Start_Guide]]
+- Related: [[Quick_Start_Guide]]
 - Requires [[Map Map Gloom Gardens Paths Gloom Gardens Paths.svg
 - Leads to [[Location City [Master Cultivator Reef Growstone]] V1 Master Cultivator Reef Growstone.svg]]
 - See also: [[SHOP00047_Magical_Shop_48
@@ -208,7 +200,7 @@ Seeks rare merchandise
 - Compare with [[step_049 (phase_005)
 - Originates from [ITEM00629_Fortified_Helm_of_Resistance]]
 - Connects to [[Assets Locations Location City [Pelagic Cup Pelagic Cup.svg]]
-- See also: [[[Doctor Silas Voidtouch (D&D_References)]]
+- See also: [[Doctor Silas Voidtouch (D&D_References)]]
 - Parallels
 - Connects to [[ENC0061_Random_Encounter_62
 - Originates from [step_069 (phase_036)]]
@@ -220,8 +212,7 @@ Seeks rare merchandise
 - Connects to [Unite the Two Worlds 2]]
 - Requires [[step_094 (phase_094)
 - Connects to [portrait-npc-the-siren-v1-the-siren.svg_1 (Portraits)]]
-- Compare with [[Resonance Equipment
-- Originates from [burrow-speed-xphb (variant-rules)]]
+- Compare with [[burrow-speed-xphb (variant-rules)]]
 - Related: [[step_079 (phase_066)
 - Related: [grease-xphb (spells)]]
 - Influences [[Dwarf Names Clan Xge
@@ -240,14 +231,12 @@ Seeks rare merchandise
 - Requires [Aberrant Spirit Beholderkin Xphb]]
 - Originates from [[hit-points-hit-dice-by-size-mm (tables)
 - See also: [Overmind Depth-Thought Eternal]]
-- Affected by [[Crystal Preservation Society (Groups)
-- Parallels [The Convergence Crisis 3 (D&D_References)]]
+- Affected by [[The Convergence Crisis 3 (D&D_References)]]
 - Connects to [[step_016 (phase_084)
 - Originates from [QUEST00036_Main_Quest_37]]
 - Originates from [[common-wine-bottle-xphb (items)
 - Leads to [MON00050_Constructs_Creature_51]]
-- Affected by [[4 Assorted Beasts
-- Affected by [The Dimensional Bridge (D&D_References)]]
+- Affected by [[The Dimensional Bridge (D&D_References)]]
 - Connects to [[The Corrupted Admiralty
 - Originates from [[[Aquabyssos]] World Overview#The Deep Dreamers]]
 - Parallels [[step_014 (phase_063)
@@ -280,10 +269,8 @@ Seeks rare merchandise
 - See also: [LORE00076_History_Entry_77]]
 - Affected by [[Session Management Session Template
 - Originates from [Quest - The Great Census_1 (01_Adventures)]]
-- Originates from [[Master Resoce Architect Echo Stonewhisper
-- Influences [NPC00204_Drusilla_Jadeclaw]]
-- Leads to [[Deep Water Rescue Service (D&D_References)
-- Affected by [[[Sorceress Luna Prismatic]] 2]]
+- Originates from [[Master Resoce Architect Echo Stonewhisper]]
+- Leads to [[Deep Water Rescue Service (D&D_References)]] 2]]
 - Affected by [[LOC00050_Planes_Location_51
 - See also: [LOC00259_Dungeons_Location_260]]
 - Influences [[Mobile Terror Platform
@@ -291,8 +278,7 @@ Seeks rare merchandise
 - Leads to
 - Parallels [[step_046 (phase_025)
 - Leads to [step_004 (phase_071)]]
-- Leads to [[ITEM0059_Divine_Circlet_of_Power
-- Connects to [SHOP00058_General_Shop_59]]
+- Leads to [[ITEM0059_Divine_Circlet_of_Power]]
 - Affected by [[Location City [Iron Rapids Fleetcurrent V1 Iron Rapids Fleetcurrent.svg]]
 - Originates from [[Portrait NPC High Priestess Celeste Dawnbringer V1 High Priestess Celeste Dawnbringer.svg
 - Affected by [Portrait NPC Doctor Helena Voidwalker V2 Doctor Helena Voidwalker.svg_1 (Portraits)]]

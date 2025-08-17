@@ -171,62 +171,29 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC00129_Gareth_Jadeclaw
-- [NPC01937_Felicia_Silverleaf_the_Wanderer]]
-- [[NPC01017_Vesper_Keenblade_the_Risen
-- [NPC00317_Pyria_Blackstone_the_Redeemed]]
-- [[NPC00324_Idris_Hawthorne_the_Strong
-- [NPC01979_Fiora_Emberfall_the_Guardian]]
-- [[NPC01761_Idris_Moonshadow_the_Broken
-- [NPC01994_Orion_Brightblade_the_Risen]]
-- [[yuan-ti-pit-master-mpmm
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC01552_Branwen_Lightbringer_the_Swift
-- [NPC01943_Xander_Proudmore_the_Fallen]]
-- [[NPC01624_Corvus_Silverleaf_the_Redeemed
-- [NPC01664_Pyria_Lightbringer_the_Redeemed]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC01195_Gareth_Keenblade_the_Guardian]]
-- [[NPC00820_Thalia_Nightfall_the_Risen
-- [NPC00707_Fiora_Oakenshield_the_Seeker]]
-- [[NPC00174_Aldric_Silverleaf_the_Fallen
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC00415_Gareth_Winterborn_the_Bold
-- [Depth_Adapted_Background]]
-- [[NPC00917_Brenna_Oakenshield_the_Seeker
-- [Player_Comfort_Check]]
-- [[Combat_Encounter_Analysis
-- [Player_Feedback_Form.md]]
-- [[NPC01466_Urien_Nightfall_the_Guardian
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [Welcome_to_Aquabyssos.md]]
-- [[NPC01503_Ewan_Dawnstrider_the_Redeemed
-- [14 Gods of the Multiverse]]
-- [[NPC00083_Vesper_Xendar_the_Lost
-- [Parliament of Shadows Player Guide.md]]
-- [[NPC01745_Felicia_Oakenshield_the_Scholar
-- [NPC00661_Corvus_Darkwater_the_Broken]]
-- [[NPC00259_Delara_Proudmore
-- [NPC00272_Rhiannon_Brightblade]]
-- [[Calendar_Conversions_Realm_Window
-- [NPC01229_Gavril_Ironwood_the_Scholar]]
-- [[Master_Narrative_Web.md
-- [NPC01429_Zephyr_Keenblade_the_Cunning]]
-- [[NPC01348_Xander_Zephyrblade_the_Wise
-- [NPC00124_Delara_Ravenheart_the_Redeemed]]
-- [[NPC00200_Faelyn_Winterborn_the_Guardian
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[Combat_Encounter_Analysis]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -235,8 +202,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -259,14 +225,11 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[step_098 (phase_050)
 - Influences [step_037 (phase_017)]]
 - Related: [[step_050 (phase_059)
-- See also: [[Location City Deputy Harbor Master [Marina Stormwright]] V1 [[Deputy Harbor Master Marina Stormwright.svg]]
+- See also: [[Location City Deputy Harbor Master [Marina Stormwright]] V1 [[Deputy Harbor Master Marina Stormwright]]
 - Connects to [[step_035 (phase_040)
 - Affected by [Portrait NPC Captain Dr Bloodletting V1 Captain Dr Bloodletting.svg]]
-- Leads to [[The Growth Gardens
-- See also: [Master of Crystals Prism Multifacet]]
-- Compare with [[step_006 (phase_013)
-- Influences
-- Affected by [Ranger Captain Orin Swiftarrow (D&D_References)]]
+- Leads to [[Master of Crystals Prism Multifacet]]
+- Compare with [[Ranger Captain Orin Swiftarrow (D&D_References)]]
 - Parallels [[step_067 (phase_082)
 - Leads to [World_Primer.md]]
 - Requires [[QUEST00262_Side_Quest_263
@@ -274,11 +237,11 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Current Peaceweaver
 - Parallels
 - Influences [NPC01336_Ewan_Hawthorne_the_Strong]]
-- See also: [[[High-Speed Transportation (D&D_References)]]
+- See also: [[High-Speed Transportation (D&D_References)]]
 - See also: [[ring-of-three-wishes-xdmg (items)
 - Affected by
 - Requires [War Machine Engineers]]
-- Parallels [[[Merchant Family Alliances (D&D_References)]]
+- Parallels [[Merchant Family Alliances (D&D_References)]]
 - See also: [[step_015 (phase_039)
 - Influences [item-mastery (CLI_Reference)]]
 - Parallels [[SPELL00156_Nature_Spell_157
@@ -286,17 +249,14 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[step_065 (phase_006)
 - Leads to
 - Parallels [QUEST00092_Main_Quest_93]]
-- Affected by [[NPC00322_Qadim_Quicksilver_the_Redeemed
-- Parallels [step_019 (phase_014)]]
+- Affected by [[NPC00322_Qadim_Quicksilver_the_Redeemed]]
 - Leads to [[Shadow Currency
 - See also:
 - See also: [LOC00139_Towns_Location_140]]
 - Connects to [[Temple Ward
 - See also: [ITEM00946_Distilled_Potion_of_Healing]]
-- Related: [[step_052 (phase_039)
-- Related: [NPC00702_Fiora_Proudmore_the_Redeemed]]
-- Affected by [[The Unity Shard (D&D_References)
-- Influences [step_025 (phase_059)]]
+- Related: [[NPC00702_Fiora_Proudmore_the_Redeemed]]
+- Affected by [[The Unity Shard (D&D_References)]]
 - Influences [[elven-tarsellis-meunniduin-mtf (deities)
 - Compare with [EVENT00027_Magical_Event_28]]
 - Requires [[portrait-npc-duke-hadal-v1-duke-hadal.svg
@@ -322,10 +282,8 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[EVENT00062_Natural_Event_63
 - Parallels [phantom-warrior-archer-cos (undead)]]
 - See also: [[Assets Locations Location City [Tidal Runner Nerissa V1 Tidal Runner Nerissa.svg]]
-- See also: [[The Great Crystallization 3 (D&D_References)
-- See also: [LORE00268_History_Entry_269]]
-- Requires [[NPC00103_Drusilla_Moonshadow_the_Guardian
-- Related: [The Great Crystal-Shadow Engine]]
+- See also: [[The Great Crystallization 3 (D&D_References)]]
+- Requires [[NPC00103_Drusilla_Moonshadow_the_Guardian]]
 - Influences [[Portrait NPC Marcus the Shade Blackwood Marcus the Shade Blackwood.svg
 - Originates from [step_079 (phase_076)]]
 - Parallels [[step_016 (phase_074)
@@ -336,21 +294,18 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [LOC00207_Wilderness_Location_208]]
 - Compare with [[Symbol Heraldry Merchant Family Tidewalker V1 Merchant Family Tidewalker.svg
 - Requires [The Unity Seekers]]
-- Requires [[ITEM00622_Ethereal_Boots_of_Grace
-- Leads to [Symbiotic Integration Specialists (D&D_References)]]
-- Connects to [[[Mad Prophet Silas the Depth-Touched (D&D_References)]]
+- Requires [[Symbiotic Integration Specialists (D&D_References)]]
+- Connects to [[Mad Prophet Silas the Depth-Touched (D&D_References)]]
 - Connects to [[step_058 (phase_077)
 - Parallels
 - Parallels [LOC00259_Towns_Location_260]]
 - Compare with [[04_Resources_Assets_Symbols_symbol-heraldry-border-fortresses-border-fortresses.svg
 - See also:
 - Compare with [Masons Tools Xphb]]
-- Affected by [[NPC00394_Fiora_Blackstone_the_Fallen
-- Connects to [step_039 (phase_012)]]
+- Affected by [[NPC00394_Fiora_Blackstone_the_Fallen]]
 - Requires [[Symbol Heraldry the Archive of Questions the Archive of Questions.svg
 - See also: [Ship Wright Shadowhull]]
-- See also: [[The Groundling Liberation Movement (D&D_References)
-- Compare with [Harbor Master Nautilus Tideguard 2]]
+- See also: [[The Groundling Liberation Movement (D&D_References)]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

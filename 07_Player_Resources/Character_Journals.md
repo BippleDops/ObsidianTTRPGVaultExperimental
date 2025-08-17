@@ -42,45 +42,24 @@ Divine guidance and healing records
 > How this works in play
 
 ## See Also
-- [[NPC00612_Thalia_Jadeclaw_the_Fallen
-- [NPC01599_Gavril_Keenblade_the_Strong]]
-- [[NPC01699_Orion_Oakenshield_the_Broken
-- [NPC00461_Branwen_Proudmore_the_Strong]]
-- [[NPC01937_Felicia_Silverleaf_the_Wanderer
-- [NPC00317_Pyria_Blackstone_the_Redeemed]]
-- [[NPC01974_Thalia_Zephyrblade_the_Lost
-- [NPC01624_Corvus_Silverleaf_the_Redeemed]]
-- [[NPC01757_Nerys_Silverleaf_the_Strong
-- [NPC01312_Alaric_Darkwater_the_Fallen]]
-- [[NPC00542_Corvus_Oakenshield_the_Strong
-- [NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[NPC01113_Solas_Ravenheart_the_Cunning
-- [NPC00917_Brenna_Oakenshield_the_Seeker]]
-- [[NPC01931_Thalia_Lightbringer_the_Fallen
-- [NPC00207_Ysara_Ravenheart]]
-- [[Depth_Adapted_Background
-- [Player_Portal.md]]
-- [[NPC01687_Aldric_Youngblood_the_Cunning
-- [Ritual_Timing_Wheel_Convergenc]]
-- [[Player_Comfort_Check
-- [NPC01476_Qadim_Stormwind_the_Wise]]
-- [[Smuggler_Route_Tally_Shee
-- [13 Conditions]]
-- [[09 Adventuring
-- [07 Customization Options]]
-- [[Parliamentary_Voting_Guide
-- [Possession Xphb]]
-- [[Session_Recaps
-- [Possession Mechanics]]
-- [[MOC_NPCs
-- [11 Spellcasting]]
-- [[Character_Journal_Template
--
-
-## Related Content
-- [11 Rules Glossary]]
-- [[AUTONOMOUS_SYSTEM_ACTIVE
-- [06 Equipment]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[Depth_Adapted_Background]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[07 Customization Options]]
+- [[Parliamentary_Voting_Guide]]
+- [[Possession Mechanics]]
+- [[11 Spellcasting]]
+- [[Character_Journal_Template]]
+- [[AUTONOMOUS_SYSTEM_ACTIVE]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -107,29 +86,24 @@ Divine guidance and healing records
 
 ## Connections
 
-- Affected by [[QUEST00326_Side_Quest_327
-- See also: [Economic Planning (D&D_References)]]
-- Affected by [[LOC0085_LowerFalls
-- Leads to [The Temple of Eternal Tides]]
+- Affected by [[Economic Planning (D&D_References)]]
+- Affected by [[The Temple of Eternal Tides]]
 - See also: [[Great Silence 2
 - Parallels [Astral Skiff Mtf]]
 - Requires
 - Related: [[QUEST00171_Personal_Quest_172
 - See also: [Goldhorn the Magnificen 2]]
-- Compare with [[Quality Inspector Wave Purewater (D&D_References)
-- Parallels [Sensory_Enhancement_Template]]
+- Compare with [[Quality Inspector Wave Purewater (D&D_References)]]
 - See also: [[step_036 (phase_037)
 - Leads to
 - Connects to [step_005 (phase_027)]]
 - Leads to [[giant-owl-xmm (celestial)
 - Affected by [LOC00092_Cities_Location_93]]
-- Originates from [[Swear Words and Curses
-- See also: [QUEST0013_The_Crystal_Cave_Uprising]]
+- Originates from [[QUEST0013_The_Crystal_Cave_Uprising]]
 - Parallels [[Location City War of the Sunless Depths War of the Sunless Depths.svg
 - Requires
 - Originates from [${chosenPath}]]
-- See also: [[The Grand Bazaar of Echoing Coins 2
-- Related: [step_058 (phase_014)]]
+- See also: [[The Grand Bazaar of Echoing Coins 2]]
 - Parallels
 - Originates from [[Handout Handout Smuggler Ledger Page V1 Smuggler Ledger Page.png
 - Requires [Crisis Management]]
@@ -147,14 +121,11 @@ Divine guidance and healing records
 - Affected by [Kelp Highway]]
 - Compare with [[Assets Locations Location City Apprentice Bubbles V1 Apprentice Bubbles.svg
 - Originates from [location-city-haven-reef-haven-reef.svg]]
-- Parallels [[NPC00571_Branwen_Ironwood_the_Guardian
-- See also: [LORE00238_History_Entry_239]]
-- Compare with [[Vessel_Horror_Intensifier
-- Requires [NPC01575_Xander_Silverleaf_the_Cunning]]
+- Parallels [[NPC00571_Branwen_Ironwood_the_Guardian]]
+- Compare with [[NPC01575_Xander_Silverleaf_the_Cunning]]
 - Affected by [[step_010 (phase_097)
 - Connects to [step_016 (phase_013)]]
-- Compare with [[High Theologian Commander Aurelius
-- Related: [step_041 (phase_036)]]
+- Compare with [[High Theologian Commander Aurelius]]
 - Connects to [[wastrilith-mpmm (fiend)
 - Related: [LOC0014_UpperBridge]]
 - Affected by [[gnome-tables-gnome-ideals-mtf (tables)
@@ -162,10 +133,8 @@ Divine guidance and healing records
 - Parallels [[step_063 (phase_096)
 - Compare with [DUN00037_Dungeon_38]]
 - Affected by
-- Influences [[The Unknown Original (D&D_References)
-- Parallels [Harbor Wall (D&D_References)]]
-- See also: [[step_067 (phase_048)
-- Compare with [Coral Shaper Polyp (D&D_References)]]
+- Influences [[The Unknown Original (D&D_References)]]
+- See also: [[Coral Shaper Polyp (D&D_References)]]
 - Compare with [[DUN00154_Dungeon_155
 - Connects to [level-advancement-character-advancement-xphb (tables)]]
 - Leads to [[step_096 (phase_056)
@@ -205,8 +174,7 @@ Divine guidance and healing records
 - Parallels [ITEM01451_Sturdy_Tool_Kit_of_Quality]]
 - Influences [[Portrait NPC the Golden Fishook Tavern V2 the Golden Fishook Tavern.svg
 - Related: [location-city-noble-quarter-v1-noble-quarter.svg]]
-- Influences [[Contrasting Approach
-- Related: [Sommelier Bacchus Deepbottle]]
+- Influences [[Sommelier Bacchus Deepbottle]]
 
 ## Visual References
 ![[03_People/portrait_character_sheet.png

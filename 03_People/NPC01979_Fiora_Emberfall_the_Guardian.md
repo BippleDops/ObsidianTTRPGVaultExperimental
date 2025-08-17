@@ -168,28 +168,17 @@ Offers deal too good to refuse
 - Special moves
 
 ## See Also
-- [[NPC01943_Xander_Proudmore_the_Fallen
-- [NPC01463_Aeliana_Zephyrblade_the_Fallen]]
-- [[NPC00250_Delara_Darkwater_the_Fallen
-- [NPC00133_Lyanna_Oakenshield_the_Seeker]]
-- [[NPC00324_Idris_Hawthorne_the_Strong
-- [NPC00885_Kaelen_Xendar_the_Lost]]
-- [[NPC00612_Thalia_Jadeclaw_the_Fallen
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[NPC01431_Kaelen_Zephyrblade_the_Guardian
-- [NPC00351_Corvus_Ironwood]]
-- [[NPC01503_Ewan_Dawnstrider_the_Redeemed
-- [NPC00542_Corvus_Oakenshield_the_Strong]]
-- [[NPC01057_Pyria_Quicksilver_the_Scholar
-- [Propaganda_Broadsheet_Syndicate.md]]
-- [[NPC00276_Ysara_Youngblood
-- [Calendar_Conversions_Realm_Window]]
-- [[NPC00174_Aldric_Silverleaf_the_Fallen
-- [Player_Feedback_Form.md]]
-- [[NPC01699_Orion_Oakenshield_the_Broken
-- [NPC01785_Aldric_Brightblade_the_Redeemed]]
-- [[16 Credits
-- [11 Rules Glossary]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[11 Rules Glossary]]
 - [[Master_Narrative_Web.md
 -
 
@@ -211,8 +200,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -252,8 +240,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [Gm Resources]]
 - Parallels [[yuan-ti-malison-type-3-xmm
 - Leads to [Assets Locations Location City Primary Schools Primary Schools.svg]]
-- Parallels [[Young Diver Coral Swiftcurrent (D&D_References)
-- Compare with [ENC00427_Combat_Encounter_428]]
+- Parallels [[Young Diver Coral Swiftcurrent (D&D_References)]]
 - Parallels [[deck-of-many-things-xdmg (decks)
 - See also: [Gm Ultimate GM Screen.md]]
 - Influences [[Port Shadowmere
@@ -270,8 +257,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [Stealth Mobility Systems]]
 - Connects to [[ITEM00428_Dragon_Scale_Cloak_of_Fortitude
 - Connects to [MON00165_Constructs_Creature_166]]
-- Affected by [[Captain Thrace Deeprunner
-- Affected by [Npc Appearance]]
+- Affected by [[Captain Thrace Deeprunner]]
 - Requires [[young-blue-dragon-xmm (dragon)
 - See also: [ITEM01265_Refined_Crystal_of_Fortune]]
 - Parallels [[Ancient Empire
@@ -280,12 +266,10 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [LORE00219_Prophecies_Entry_220]]
 - Affected by [[The Suicide Bridges
 - Related: [step_043 (phase_081)]]
-- Connects to [[Giant Seahorses
-- Requires [The Great Crystal-Shadow Engine]]
+- Connects to [[The Great Crystal-Shadow Engine]]
 - Connects to [[ITEM00972_Refined_Powder_of_Healing
 - Compare with [Handout Handout Embassy Invitation V2 Embassy Invitation.png]]
-- See also: [[Religious Trend Analysis
-- Parallels [NPC01231_Ewan_Voidwalker_the_Swift]]
+- See also: [[NPC01231_Ewan_Voidwalker_the_Swift]]
 - Connects to [[ENC00060_Combat_Encounter_61
 - Influences [sphinx-of-lore-xmm (celestial)]]
 - Influences [[Potion of Poison Resistance Xdmg
@@ -294,8 +278,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [ITEM01431_Decorated_Map_Case_of_Durability]]
 - See also: [[Egyptian Apep
 - Affected by [step_073 (phase_054)]]
-- Originates from [[Chief Medical Officer Dr. Coral Deephealer
-- Leads to [derro-mpmm (aberration)]]
+- Originates from [[Chief Medical Officer Dr. Coral Deephealer]]
 - Influences [[Gith Tables Githzerai Ideals Mtf
 - Influences [04_Resources_Assets_Locations_location-city-noble-palatemaster-v1-noble-palatemaster.png]]
 - Connects to [[step_091 (phase_086)
@@ -310,8 +293,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [Portrait NPC King Marcus Lumengarde V1 King Marcus Lumengarde.svg_1 (Portraits)]]
 - Compare with [[LOC00194_Cities_Location_195
 - Parallels [Void Between Pressures 2]]
-- Compare with [[The Crimson Tide Pirates
-- Requires [Blood Coral (D&D_References)]]
+- Compare with [[Blood Coral (D&D_References)]]
 - Related:
 - Related: [[QUEST00248_Personal_Quest_249
 - Parallels

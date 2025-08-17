@@ -164,46 +164,24 @@ Provides information for a price
 
 ## See Also
 - [NPC01911_Alaric_Oakenshield_the_Mystic]]
-- [[NPC01789_Vesper_Proudmore_the_Mystic
-- [NPC00058_Elric_Nightfall]]
-- [[NPC00612_Thalia_Jadeclaw_the_Fallen
-- [NPC01979_Fiora_Emberfall_the_Guardian]]
-- [[NPC01247_Xander_Zephyrblade_the_Risen
-- [NPC01660_Thalia_Moonshadow_the_Fallen]]
-- [[NPC01682_Vesper_Blackstone_the_Guardian
-- [NPC00949_Nerys_Underhill_the_Wise]]
-- [[NPC01624_Corvus_Silverleaf_the_Redeemed
-- [NPC00739_Gavril_Ashford_the_Bold]]
-- [[NPC00296_Elric_Jadeclaw_the_Bold
-- [NPC00461_Branwen_Proudmore_the_Strong]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC00124_Delara_Ravenheart_the_Redeemed]]
-- [[Archdruid Thornweaver
-- [NPC01466_Urien_Nightfall_the_Guardian]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC01262_Ysara_Dawnstrider_the_Swift
-- [Depth_Adapted_Background]]
-- [[NPC01951_Gavril_Xendar_the_Swift
-- [NPC00385_Qadim_Darkwater_the_Cunning]]
-- [[NPC00300_Urien_Zephyrblade
-- [NPC01177_Thalia_Underhill_the_Fallen]]
-- [[Quarantine_Notice_Crystal_Plagu
-- [Player_Comfort_Check]]
-- [[13 Conditions
-- [11 Rules Glossary]]
-- [[NPC00920_Malakai_Ravenheart_the_Guardian
-- [Propaganda_Broadsheet_Syndicate.md]]
-- [[MOC_Items
-- [NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[NPC00285_Xander_Goldleaf_the_Mystic
-- [04 Classes]]
-- [[Propaganda_Leaflet_Pearl_Guar
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[11 Rules Glossary]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -228,18 +206,14 @@ Provides information for a price
 - Affected by [step_081 (phase_100)]]
 - Requires [[Gnome Rill Cleverthrush Mtf
 - See also: [Leviathan (D&D_References)]]
-- Parallels [[LOC00232_Towns_Location_233
-- Related: [step_043 (phase_041)]]
+- Parallels [[LOC00232_Towns_Location_233]]
 - Leads to
 - Connects to [[Grand Harbor
 - Requires [04_Resources_Assets_Symbols_symbol-heraldry-magical-component-manufacturers-guil-magical-component-manufacturers-guil.svg]]
-- See also: [[Enforcement Authority Charte
-- Related: [step_022 (phase_045)]]
+- See also: [[Enforcement Authority Charte]]
 - Compare with [[Assets Locations [[Location City Scream Saturation V1 [Scream Saturation Rules.svg]]]]
 - Leads to [[Assets Locations [[Location City [The Order of the Shattered Crown the Order of the Shattered Crown.svg]]]]
-- Requires [[Silverscale Trade Embassy (D&D_References)
-- Affected by
-- Leads to [step_044 (phase_042)]]
+- Requires [[Silverscale Trade Embassy (D&D_References)]]
 - Affected by [[Location City [The Observatory V1 the Observatory.svg]]
 - Originates from [[step_041 (phase_064)
 - Leads to [Name Etymology Guide]]
@@ -250,39 +224,30 @@ Provides information for a price
 - Influences [[Assets Locations Location City [Truth and Madness]] Truth and Madness.svg]]
 - Related: [[Siren Maeve Echoborn
 - Originates from [[[Professor Reef Growthseeker]] (D&D_References)]]
-- Parallels [[Possessed Noble Coterie 2
-- Connects to [LOC0020_Havenford]]
-- Related: [[[Ancient Treasury of Tides (D&D_References)]]
+- Parallels [[Possessed Noble Coterie 2]]
+- Related: [[Ancient Treasury of Tides (D&D_References)]]
 - Requires [[linguist
 - Connects to [[Location City [Archaeological Discoveries]] Archaeological Discoveries.svg]]
-- Leads to [[[Merchant Cornelius Daylight]]
+- Leads to [[Merchant Cornelius Daylight]]
 - Requires [[ITEM00192_Blessed_Bow_of_Slaying
 - See also: [LOC00024_Dungeons_Location_25]]
-- Influences [[Conservation Director Ecosystem Protector
-- Originates from [worg-xmm (fey)]]
-- Connects to [[LOC00294_Dungeons_Location_295
-- Related: [step_042 (phase_025)]]
-- Compare with [[step_068 (phase_062)
-- Affected by [NPC00437_Hilda_Stormwind_the_Mystic]]
+- Influences [[Conservation Director Ecosystem Protector]]
+- Connects to [[LOC00294_Dungeons_Location_295]]
+- Compare with [[NPC00437_Hilda_Stormwind_the_Mystic]]
 - Affected by [[step_071 (phase_048)
 - Related: [FAC00093_Cults_94]]
-- Compare with [[LORE00189_Legends_Entry_190
-- Parallels [Continental War 3 (D&D_References)]]
-- Compare with [[Magic User
-- Requires [ENC00057_Combat_Encounter_58]]
+- Compare with [[Continental War 3 (D&D_References)]]
+- Compare with [[ENC00057_Combat_Encounter_58]]
 - Related: [[LOC00046_Wilderness_Location_47
 - Influences [QUEST00224_Personal_Quest_225]]
-- Requires [[[Inverted Ballroom Wing - Party Quarters (D&D_References)]]
-- Related: [[Symbol Heraldry Major Trading Companies V1 Major Trading Companies.svg
-- Affected by [Portrait NPC Gare... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Requires [[Inverted Ballroom Wing - Party Quarters (D&D_References)]]
+- Related: [[Portrait NPC Gare... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Parallels [[Potion of Hill Giant Strength Xdmg
 - Connects to [step_009 (phase_049)]]
 - Influences [[MON00003_Constructs_Creature_4
 - Leads to [nondetection-xphb (spells)]]
-- Related: [[Sage Lysander Deepthought
-- Leads to [step_099 (phase_072)]]
-- Related: [[step_025 (phase_010)
-- Connects to [NPC00545_Elric_Dawnstrider_the_Mystic]]
+- Related: [[Sage Lysander Deepthought]]
+- Related: [[NPC00545_Elric_Dawnstrider_the_Mystic]]
 - Originates from [[LORE00071_Prophecies_Entry_72
 - See also: [Symbol Heraldry Scream Crystals Scream Crystals.svg]]
 - Influences [[Boon of Fate Xphb
@@ -295,8 +260,7 @@ Provides information for a price
 - Affected by [ENC00348_Combat_Encounter_349]]
 - Influences [[Intelligence Communit
 - See also: [Wild Magic Zones]]
-- Originates from [[Portrait NPC Sunk... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Affected by [[Location City [Professional Organizations]] Professional Organizations.svg]]
+- Originates from [[Portrait NPC Sunk... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]] Professional Organizations.svg]]
 - See also: [[Assets Locations [Location City Quest Portal Conspiracy V1 Quest Portal Conspiracy.svg]]
 - Originates from [[Location City [[Deep Harbor Technology [Deep Harbor Technology]].svg]]
 - Leads to [[owning-a-ship-airborne-and-waterborne-vehicles
@@ -309,8 +273,7 @@ Provides information for a price
 - Requires [ENC00375_Combat_Encounter_376]]
 - See also: [[Handout Handout Embassy Invitation Embassy Invitation.png
 - Related: [MON00076_Aberrations_Creature_77]]
-- Related: [[NPC0153_Helena_Darkwater_the_Terrible
-- Affected by [QUEST00193_Main_Quest_194]]
+- Related: [[NPC0153_Helena_Darkwater_the_Terrible]]
 - Originates from [[step_069 (phase_036)
 - Leads to [[Location City [Gateway Keeper Riftwalk]] Gateway Keeper Riftwalk.svg]]
 - Connects to [[burrow-speed-xphb (variant-rules)

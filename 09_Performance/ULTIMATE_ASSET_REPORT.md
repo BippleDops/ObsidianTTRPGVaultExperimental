@@ -89,10 +89,8 @@ publish: false --- # ULTIMATE ASSET REPORT ## Overview ULTIMATE ASSET REPORT rep
 
 ## Related Content
 - [ULTIMATE_VAULT_ACHIEVEMENT]]
-- [[optimization_report_20250814_180706
-- [audio_fit_report]]
-- [[audio_fit_report_1
-- [SVG_REPLACEMENT_REPORT]]
+- [[OPTIMIZATION_REPORT_2025]]
+- [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -114,8 +112,7 @@ publish: false --- # ULTIMATE ASSET REPORT ## Overview ULTIMATE ASSET REPORT rep
 
 - Connects to [[Shawm Xphb
 - Parallels [Comprehend Languages Xphb]]
-- Affected by [[FAC00097_Guilds_98
-- Connects to [The Crimson Shard Guardian (D&D_Statblocks)]]
+- Affected by [[The Crimson Shard Guardian (D&D_Statblocks)]]
 - Requires [[ITEM00869_Divine_Amulet_of_Truth
 - Originates from [Bloom Field Cultivation Guild (Guilds)]]
 - Influences [[step_018
@@ -132,12 +129,10 @@ publish: false --- # ULTIMATE ASSET REPORT ## Overview ULTIMATE ASSET REPORT rep
 - Connects to [Orcish Fury Xge]]
 - Influences [[step_049 (phase_054)
 - Originates from [Salamander Xmm]]
-- Requires [[05 Templates-05 Templates
-- Leads to [step_033 (phase_012)]]
+- Requires [[05 Templates-05 Templates]]
 - Originates from [[Tools_and_Resources
 - Originates from [saddlebags]]
-- Related: [[ENC00120_Combat_Encounter_121
-- Leads to [Junior Administrator Elena Efficient]]
+- Related: [[Junior Administrator Elena Efficient]]
 - Parallels [[exotic-languages-phb (tables)
 - Connects to [step_010 (phase_028)]]
 - Leads to [[Portrait NPC Quest the Deep Cartographer V2 Quest the Deep Cartographer.svg
@@ -146,16 +141,14 @@ publish: false --- # ULTIMATE ASSET REPORT ## Overview ULTIMATE ASSET REPORT rep
 - Compare with [The Adjusters]]
 - Requires [[step_020 (phase_010)
 - Related: [Armor of Lightning Resistance Xdmg]]
-- Originates from [[step_070
-- Affected by [Shadow Broker Maximian Darkmarket 2]]
+- Originates from [[Shadow Broker Maximian Darkmarket 2]]
 - Originates from [[abominable-yeti-xmm
 - Compare with [New Action Breath Weapon Mm]]
 - Compare with [[step_070 (phase_065)
 - Influences [aura-of-life-xphb (spells)]]
 - Affected by [[step_009 (phase_087)
 - Influences [elemental-spirit-xphb (elemental)]]
-- Affected by [[step_036
-- See also: [QUEST00103_Side_Quest_104]]
+- Affected by [[QUEST00103_Side_Quest_104]]
 - Leads to [[giant-venomous-snake-xmm (beast)
 - Originates from [ITEM00420_Fortified_Boots_of_Grace]]
 - Influences [[The Healing Sanctuary
@@ -178,26 +171,22 @@ publish: false --- # ULTIMATE ASSET REPORT ## Overview ULTIMATE ASSET REPORT rep
 - Compare with [Dawn War Zehir Dmg]]
 - Affected by [[Assets Locations Location City Madame Whisper Madame Whisper.svg
 - See also: [MON00017_Constructs_Creature_18]]
-- Influences [[The Northern Kingdoms (D&D_References)
-- Originates from [cure-wounds-xphb (spells)]]
+- Influences [[The Northern Kingdoms (D&D_References)]]
 - Affected by [[step_080 (phase_029)
 - Requires [Duchess Nightshade]]
-- Influences [[Tide Bondkeeper
-- Originates from [MON00107_Aberrations_Creature_108]]
+- Influences [[MON00107_Aberrations_Creature_108]]
 - Connects to [[step_086
 - Connects to [step_052 (phase_013)]]
 - Leads to [[step_050 (phase_073)
 - Related: [LORE00224_Legends_Entry_225]]
 - Leads to [[chimera-xmm (monstrosity)
 - Compare with [Handout Handout Smuggler Ledger Page V2 Smuggler Ledger Page.png]]
-- Leads to [[step_008 (phase_086)
-- Affected by [Memorial District of Abyssos Prime (D&D_References)]]
+- Leads to [[Memorial District of Abyssos Prime (D&D_References)]]
 - Related: [[QUEST00159_Main_Quest_160
 - Parallels [portrait-npc-queen-nerida-v1-queen-nerida.svg_1 (Portraits)]]
 - Connects to [[step_024 (phase_086)
 - Compare with [step_045]]
-- Originates from [[ITEM00962_Concentrated_Oil_of_Healing
-- See also: [Battle_Map_Descriptions 2 (D&D_References)]]
+- Originates from [[Battle_Map_Descriptions 2 (D&D_References)]]
 - Related: [[Assets Locations Location City Duchess Seraphina Crimsontide V1 Duchess Seraphina Crimsontide.svg
 - Related: [Armor of the First Deep King (D&D_References)]]
 - Originates from [[NPC00118_Gavril_Voidwalker

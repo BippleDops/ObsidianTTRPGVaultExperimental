@@ -72,5 +72,8 @@
       "type": "dungeon"
     }
   ],
-  "created": "2025-08-16T16:58:14.738Z"
+  "created": "2025-08-16T16:58:14.738Z",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:51:48.017Z",
+  "generationMethod": "ComfyUI"
 }

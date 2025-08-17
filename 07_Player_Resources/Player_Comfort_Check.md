@@ -194,34 +194,20 @@ Contextual improvement based on 07_Player_Resources
 > Ancient magic still lingers here
 
 ## See Also
-- [[Basic_Rules
-- [Combat_Encounter_Analysis]]
-- [[Trade_Route_Map_Aquabyssos_to_Aethermoor
-- [Party_Inventory]]
-- [[Player_Feedback_Form.md
-- [Propaganda_Leaflet_Pearl_Guar]]
-- [[Calendar_Conversions_Realm_Window
-- [Smuggler_Route_Tally_Shee]]
-- [[NPC00296_Elric_Jadeclaw_the_Bold
-- [NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[NPC01695_Ewan_Ashford_the_Fallen
-- [NPC01781_Urien_Keenblade_the_Cunning]]
-- [[NPC00207_Ysara_Ravenheart
-- [NPC01888_Hestara_Ravenheart_the_Redeemed]]
-- [[NPC01745_Felicia_Oakenshield_the_Scholar
-- [NPC01013_Corvus_Ravenheart_the_Bold]]
-- [[11 Rules Glossary
-- [NPC00083_Vesper_Xendar_the_Lost]]
-- [[Parliament of Shadows Player Guide.md
-- [NPC01699_Orion_Oakenshield_the_Broken]]
-- [[NPC01792_Rhiannon_Ironwood_the_Scholar
-- [NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[NPC00976_Alaric_Quicksilver_the_Strong
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[Master_Narrative_Web.md
-- [NPC01348_Xander_Zephyrblade_the_Wise]]
-- [[Character_Journal_Template
-- [Depth_Adapted_Background.md]]
+- [[Combat_Encounter_Analysis]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[Character_Journal_Template]]
 -
 
 ## Game Mechanics
@@ -241,8 +227,7 @@ Contextual improvement based on 07_Player_Resources
 
 ## Connections
 
-- Originates from [[ITEM00863_Ancient_Ring_of_Dominion
-- Parallels [Deep-Root Caretaker Nereon (D&D_References)]]
+- Originates from [[Deep-Root Caretaker Nereon (D&D_References)]]
 - Connects to [[LORE00149_Prophecies_Entry_150
 - Connects to [Dawn War Erathis Dmg]]
 - Connects to [[The Phantom Current
@@ -253,16 +238,13 @@ Contextual improvement based on 07_Player_Resources
 - See also: [Assets Locations Location City Port Crystalfall V1 Port Crystalfall.svg]]
 - Influences [[Assets Locations Location City the Hybrid Harbor V1 the Hybrid Harbor.svg
 - Requires [QUEST00271_Personal_Quest_272]]
-- Requires [[LOC0085_LowerFalls
-- Originates from [MON00107_Aberrations_Creature_108]]
+- Requires [[MON00107_Aberrations_Creature_108]]
 - Requires [[step_030 (phase_051)
 - Compare with [step_036 (phase_021)]]
-- Affected by [[Oceanic Historical Society 2
-- Connects to [Gold Gp]]
+- Affected by [[Oceanic Historical Society 2]]
 - Connects to [[Coral Silkweaver 2
 - Compare with [step_042 (phase_042)]]
-- Requires [[otyugh-xmm (aberration)
-- Affected by [Acolyte Sister Tidal Deepfaith 2]]
+- Requires [[Acolyte Sister Tidal Deepfaith 2]]
 - Requires [[ITEM01291_Refined_Elixir_of_Fortune
 - Related: [LOC00115_Cities_Location_116]]
 - Leads to [[ITEM01417_Ornate_Compass_of_Reliability
@@ -270,8 +252,7 @@ Contextual improvement based on 07_Player_Resources
 - Originates from [[Future Glimpse Glass
 - Parallels [devastation-orb-of-earth-pota (items)]]
 - Affected by
-- Originates from [[NPC01185_Dara_Grimholt_the_Bold
-- Affected by [Flow Circlemaker 2]]
+- Originates from [[NPC01185_Dara_Grimholt_the_Bold]]
 - Influences
 - Compare with
 - Connects to [[LORE00310_History_Entry_311
@@ -312,18 +293,15 @@ Contextual improvement based on 07_Player_Resources
 - Originates from [LOC00202_Planes_Location_203]]
 - Connects to [[Elven Solonor Thelandira Mtf
 - Affected by [mummy-lord-xmm]]
-- Influences [[step_044 (phase_043)
-- Related: [Player_Handouts (D&D_References)]]
-- Affected by [[Beast Master Krell Chainbreaker (D&D_References)
-- See also: [step_044 (phase_090)]]
+- Influences [[Player_Handouts (D&D_References)]]
+- Affected by [[Beast Master Krell Chainbreaker (D&D_References)]]
 - Originates from [[step_043 (phase_041)
 - Connects to [LORE00042_Prophecies_Entry_43]]
 - Related: [[QUEST00074_Main_Quest_75
 - Parallels [LOC00206_Planes_Location_207]]
 - Compare with [[step_020 (phase_046)
 - See also: [vampiric-touch-xphb (spells)]]
-- Parallels [[LOC00178_Towns_Location_179
-- Influences [City_District_Map_Port_Meridian_Harbo]]
+- Parallels [[City_District_Map_Port_Meridian_Harbo]]
 - Parallels [[Portrait NPC Vespara Nightwhisper Thorne V1 Vespara Nightwhisper Thorne.svg
 - Requires [item-artifact-ruby-xdmg-v5-ruby-xdmg.png]]
 - Related: [[SHOP00042_Specialty_Shop_43

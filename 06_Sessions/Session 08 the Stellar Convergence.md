@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.335242"
 modified: "2025-08-15T12:24:39.335245"
-aliases: [Session 08 the [[Stellar Convergence]]]
+aliases: [Session 08 the [[Session 08 the Stellar Convergence]]]
 ---
 
 # Session 08 [[The Stellar Convergence
@@ -20,7 +20,7 @@ modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: Session 08 [[The Stellar]] Convergence.Md
+subcategory: Session 08 [[The Stellar Confluence]] Convergence.Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -63,7 +63,7 @@ world: Both
 - [[The Deep Mother herself (if awakened)
 - [Queen Seraphina]] (crystalline-transcended)
 - Ancient guardians of cosmic balance
-- [[The Convergence itself as a sentient force ### [The Seventh]] [[Shard Manifests As cosmic forces align, the **[[[Seventh Shard]] of Unity|[[Seventh Shard [Of Unity]]]]** materializes at the convergence point: ### [[Read Aloud * From the swirling chaos of merging realities, a final shard emerges. Unlike the others, this one seems to contain not just power, but potential itself. It shifts between all possible forms - sometimes crystal, sometimes pearl, sometimes pure light. You understand instinctively that this shard represents choice itself - the power to determine what reality becomes when the convergence stabilizes.* ### [Multiple Paths]] [[Forward The party now faces several possible approaches, each leading to different finale structures: #### Path 1: [The Binding]] Ritual **Requirements**: Party controls 4+ shards, allied with realm governments
+- [[The Convergence itself as a sentient force ### [The Seventh]] [[Shard Manifests As cosmic forces align, the **[[[Seventh Shard]] of Unity|[[Seventh Shard]]]]** materializes at the convergence point: ### [[Read Aloud * From the swirling chaos of merging realities, a final shard emerges. Unlike the others, this one seems to contain not just power, but potential itself. It shifts between all possible forms - sometimes crystal, sometimes pearl, sometimes pure light. You understand instinctively that this shard represents choice itself - the power to determine what reality becomes when the convergence stabilizes.* ### [Multiple Paths]] [[Forward The party now faces several possible approaches, each leading to different finale structures: #### Path 1: [The Binding]] Ritual **Requirements**: Party controls 4+ shards, allied with realm governments
 **Goal**: Use the shards to strengthen the original binding on the [[Deep Mother
 **Challenges**: Requires coordinating complex ritual while under attack
 **Outcome**: Realms remain separate, cosmic threats contained #### Path 2: [The Controlled]] Merger **Requirements**: Alliance with Aurelius, understanding of convergence mechanics
@@ -88,7 +88,7 @@ world: Both
 - **Religion **DC 16****: Channel divine/cosmic forces appropriately
 - **Performance **DC 15****: Coordinate with ritual partners across realms
 - **Investigation **DC 17****: Adapt to unexpected magical interactions
-- **Constitution **DC 16****: Maintain focus despite physical/psychic strain ### [[The Deep Mother's [Intervention As]] the ritual progresses, **[[[[The Deep Mother|[The Deep]] Mother]]** manifests directly: ### [[Read Aloud * Reality tears like wet paper as something impossibly vast pushes through from dimensions that predate existence. [The Deep]] Mother is not a creature but a force - gravity given consciousness, the weight of infinite possibility made aware. Her presence doesn't threaten to crush you physically, but metaphysically, as if the concept of 'you' might simply be forgotten by a universe that finds the idea insufficiently important.* * When she speaks, it's not with words but with the authority of physics itself: "Small ones. You seek to bind what should never constraineded. The deep calls to the deep. The heights yearn for the depths. I am inevitability itself."* #### Stats: [[The Deep Mother ([Avatar Form]]) - **AC**: 22 ([[Reality Armor)
+- **Constitution **DC 16****: Maintain focus despite physical/psychic strain ### [[The Deep Mother]] the ritual progresses, **[[[[The Deep Mother|[The Deep]] Mother]]** manifests directly: ### [[Read Aloud * Reality tears like wet paper as something impossibly vast pushes through from dimensions that predate existence. [The Deep]] Mother is not a creature but a force - gravity given consciousness, the weight of infinite possibility made aware. Her presence doesn't threaten to crush you physically, but metaphysically, as if the concept of 'you' might simply be forgotten by a universe that finds the idea insufficiently important.* * When she speaks, it's not with words but with the authority of physics itself: "Small ones. You seek to bind what should never constraineded. The deep calls to the deep. The heights yearn for the depths. I am inevitability itself."* #### Stats: [[The Deep Mother]]) - **AC**: 22 ([[Reality Armor)
 - **HP**: 400 (reduces by 50 each round the binding ritual progresses)
 - **Speed**: 0 ft. (omnipresent within area)
 - **STR**: 28, **DEX**: 1, **CON**: 28, **INT**: 30, **WIS**: 25, **CHA**: 30
@@ -185,7 +185,7 @@ world: Both
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

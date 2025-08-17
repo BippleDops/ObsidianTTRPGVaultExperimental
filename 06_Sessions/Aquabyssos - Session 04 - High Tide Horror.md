@@ -53,8 +53,8 @@ campaign: Aquabyssos - [[The Parliament of Shadows
 danger_level: 9
 date: duration_hours: 4
 encounters:
-- '[[[Shadow Surgeons]] Collective]]'
-- '[[[Hybrid Abominations]]'
+- '[[[The Shadow Surgeons]] Collective]]'
+- '[[Hybrid Abominations]]'
 - '[[[[The Shadow [Duchess Duel]]]]'
 
 gold_gained: 0
@@ -65,14 +65,14 @@ items_gained:
 
 locations_visited:
 - '[theater]]'
-- '[[[Shadow Market Canals]]'
-- '[[[The Convergence Point]]'
-- '[[[Tidal Chambers]]'
+- '[[Shadow Market Canals]]'
+- '[[The Convergence Point]]'
+- '[[Tidal Chambers]]'
 
 npcs_met:
-- '[[[Shadow Duchess Nyx]]'
-- '[[[Shadow Nyx]]'
-- '[[[The Real Marina]]'
+- '[[Shadow Duchess Nyx]]'
+- '[[Shadow Nyx]]'
+- '[[The Real Marina]]'
 - '[[[The Scattered Emperor]] (United)'
 
 obsidian UIMode: preview
@@ -84,11 +84,11 @@ plot_threads:
 - [Two Nyx]] dilemma
 - Continental war threat
 
-primary_location: '[[[The Reflection Pools]]'
+primary_location: '[[The Reflection Pools]]'
 quests_completed: []
 quests_progressed:
-- '[[[The Shadow Conspiracy]]'
-- '[[[Save Marina]]'
+- '[[The Shadow Conspiracy]]'
+- '[[Save Marina]]'
 
 quests_started:
 - '[[Stop the [Shadow Harvest]]'
@@ -108,7 +108,7 @@ High tide triggers the [Shadow Harvest]] as hundreds of shadows converge on the 
 **Time:** The moment of high tide
 **Description:** Water in the [[Reflection Pools turns pitch black as hundreds of shadows converge. The party's own shadows begin pulling away, trying to join the mass gathering. Through the window, they see [Shadow Duchess]] Nyx at the center - but she's fighting AGAINST the ritual, battling her own shadow. **Mechanical:** STR save **DC 15** to hold onto own shadow, failure means it escapes for the scene. #### Event 1: Race to the Pools
 
-**Location:** [[[Shadow Market Canals]]
+**Location:** [[Shadow Market Canals]]
 **Challenge:** Navigate through shadow-possessed citizens
 **Mechanics:**
 - Stealth **DC 14** to avoid detection
@@ -135,7 +135,7 @@ High tide triggers the [Shadow Harvest]] as hundreds of shadows converge on the 
 - Persuasion **DC 18** to propose compromise
 - Combat if negotiations fail #### Event 4: [The Emperor]]'s Gambit
 
-**Location:** [[[Convergence Point]]
+**Location:** [[Convergence Point]]
 **Situation:** [[The Emperor offers to reunite and stop the harvest
 **Cost:** He will die permanently if reunited too long
 **[Decision Tree]]:**
@@ -217,16 +217,11 @@ Whatever path chosen, as dawn approaches (impossible at this depth), a message a
 | Nyx | Fighting | Leading | Resolution pending |
 | [[Captain Lyanna | Unknown | Unknown | Missing | ## [Campaign Continuity]]
 
-- [[Aquabyssos - Session 03 - [The Gallery Conspiracy]] → **[[Current Session** → [[Session 05 - [The Shadow]] War]] --- *"At high tide, shadows rise. At low tide, originals fall. In the depths, the tide never truly turns - it only deepens."* - [[Shadow Parliament Decree ## DM Notes *Private notes for campaign integration:*
+- [[Aquabyssos - Session 03 - [The Gallery Conspiracy]] → **[[Current Session** → [[Session 05 - [The Shadow]] War]] --- *"At high tide, shadows rise. At low tide, originals fall. In the depths, the tide never truly turns - it only deepens."* - [[Shadow Parliament]] - [[Similar Topic 1]]
 
-- Can be adapted to fit current story needs
-- Scalable threat/reward based on party level
-- Multiple entry points for different play styles
-- Connections to overarching campaign themes ## [Related Notes]] - [[[Similar Topic 1]]
-
-- [[[Contrasting Approach]]
-- [[[Advanced Version]]
-- [[[Historical Context]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
 
 ## Notes
 

@@ -31,7 +31,7 @@ type: npc
 **ID**: NPC00525
 
 ## Quick Reference
-- **Location**: [[The Gilded Serpent [Tavern]] in the [[[Merchant Quarter]]
+- **Location**: [[The Gilded Serpent]] in the [[Merchant Quarter]]
 - **Occupation**: Fisher
 - **Disposition**: Always hungry and eating something
 
@@ -172,66 +172,40 @@ Modifications:
 > Useful information for players
 
 ## See Also
-- [[NPC00373_Wynne_Frostwhisper_the_Strong
-- [NPC01483_Gavril_Zephyrblade_the_Fallen]]
-- [[NPC01687_Aldric_Youngblood_the_Cunning
-- [NPC01286_Xander_Proudmore_the_Bold]]
-- [[NPC00821_Zephyr_Voidwalker_the_Cunning
-- [NPC00300_Urien_Zephyrblade]]
-- [[NPC01082_Fiora_Ashford_the_Fallen
-- [NPC00069_Thalia_Brightblade_the_Guardian]]
-- [[NPC00820_Thalia_Nightfall_the_Risen
-- [NPC00860_Gavril_Winterborn_the_Swift]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [NPC01429_Zephyr_Keenblade_the_Cunning]]
-- [[NPC01177_Thalia_Underhill_the_Fallen
-- [NPC01262_Ysara_Dawnstrider_the_Swift]]
-- [[NPC01877_Hestara_Moonshadow_the_Mystic
-- [NPC00858_Zephyr_Silverleaf_the_Wanderer]]
-- [[NPC00644_Nerys_Dawnstrider_the_Wanderer
-- [NPC01937_Felicia_Silverleaf_the_Wanderer]]
-- [[NPC00785_Ysara_Grimholt_the_Mystic
-- [NPC00259_Delara_Proudmore]]
-- [[NPC00307_Dara_Proudmore_the_Seeker
-- [NPC01360_Ewan_Blackstone_the_Strong]]
-- [[NPC01664_Pyria_Lightbringer_the_Redeemed
-- [NPC01613_Kaelen_Voidwalker_the_Wanderer]]
-- [[NPC00200_Faelyn_Winterborn_the_Guardian
-- [yuan-ti-pit-master-mpmm]]
-- [[NPC01247_Xander_Zephyrblade_the_Risen
-- [NPC00351_Corvus_Ironwood]]
-- [[NPC01888_Hestara_Ravenheart_the_Redeemed
-- [NPC01892_Gareth_Xendar_the_Scholar]]
-- [[NPC00461_Branwen_Proudmore_the_Strong
-- [NPC00939_Thalia_Jadeclaw_the_Swift]]
-- [[NPC01503_Ewan_Dawnstrider_the_Redeemed
-- [NPC00453_Idris_Grimholt]]
-- [[NPC01761_Idris_Moonshadow_the_Broken
-- [Marcus Shardbreaker Grimm_1]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
 - [[Assets Portraits Portrait NPC the Waking Prophets the Waking Prophets.svg
 - [NPC00975_Lyanna_Winterborn_the_Wise]]
-- [[NPC01695_Ewan_Ashford_the_Fallen
-- [NPC00407_Hestara_Dawnstrider]]
-- [[NPC01699_Orion_Oakenshield_the_Broken
-- [NPC01476_Qadim_Stormwind_the_Wise]]
-- [[Submersible_Schematic_Pressure_Gate_Scou
-- [Guild Seal Document Silverscale Consortiu]]
-- [[Depth_Adapted_Background.md
-- [Trade_Route_Chart_Port_Meridia]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[Trade_Route_Chart_Port_Meridia]]
 - [[Dockworker_Union_Flyer.md
 - [Reference.md]]
-- [[Reputation_Tracker
-- [13 Conditions]]
-- [[03 Races
-- [01 Introduction Welcome to Adventure]]
-- [[NPC00661_Corvus_Darkwater_the_Broken
-- [The_Corroded_Crown.png]]
+- [[Reputation_Tracker]]
+- [[01 Introduction Welcome to Adventure]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -261,25 +235,22 @@ Modifications:
 - Related: [step_034 (phase_007)]]
 - Compare with [[Minister of Trade Relations
 - Originates from [ice-toad-rot (monstrosity)]]
-- Leads to [[step_063 (phase_076)
-- Affected by [Ecological Balance Protocols]]
+- Leads to [[Ecological Balance Protocols]]
 - See also:
 - Originates from [[potion-of-greater-healing-xdmg (items)
 - Influences [LORE00119_Legends_Entry_120]]
 - Connects to [[Reality Protection
 - Affected by [swarm-of-larvae-xmm (fiend)]]
-- Originates from [[[Parliament of Echoes - Public Gallery 2]]
-- Compare with [[Dr Jasper Memorymend
-- Influences [Deputy Archmerchant Scroll Deepmind (D&D_References)]]
+- Originates from [[Parliament of Echoes - Public Gallery 2]]
+- Compare with [[Deputy Archmerchant Scroll Deepmind (D&D_References)]]
 - Affected by [[Gambling Results Xge
 - Compare with [ITEM00488_Fortified_Boots_of_Resistance]]
-- Parallels [[Assets Art [Martha Hillbrook.png]]
+- Parallels [[Martha Hillbrook]]
 - Affected by [[Location City [Crimson Velocity V1 Crimson Velocity.svg]]
 - Originates from [[Valley of Eternal Mourning
 - Parallels
 - Requires [[Assets Locations [[Location City [Memory Parasite Infection]] Memory Parasite Infection.svg]]]]
-- Related: [[Theater of Impossible Dreams
-- Related: [LOC0116_Marshshire]]
+- Related: [[Theater of Impossible Dreams]]
 - Requires [[ITEM00724_Divine_Crown_of_Destiny
 - Parallels [[[Temple Coalition]] 2]]
 - Parallels [[step_012 (phase_007)
@@ -288,28 +259,23 @@ Modifications:
 - Connects to [Portrait NPC Surface Liaison Captain Reed Bridgewater V1 Surface Liaison Captain Reed Bridgewater.svg]]
 - Connects to [[silver-and-gold-brooch-xdmg (items)
 - See also: [guardian-naga-xmm (celestial)]]
-- Connects to [[SPELL00052_Divine_Spell_53
-- Leads to [Tide-Speaker Nerida of House Abyssos]]
+- Connects to [[Tide-Speaker Nerida of House Abyssos]]
 - Related: [[Inquisitor Thorne
 - Connects to [step_068 (phase_097)]]
-- Connects to [[Trader Cross-Current Jin
-- Affected by [Deep Mother]]
+- Connects to [[Trader Cross-Current Jin]]
 - Connects to
-- Related: [[Duke Lysander Crystalvein (D&D_References)
-- Connects to [FAC00019_Cults_20]]
+- Related: [[Duke Lysander Crystalvein (D&D_References)]]
 - Related: [[cover-xphb (tables)
 - Compare with [step_040 (phase_021)]]
 - Requires [[step_089 (phase_038)
 - Requires [LORE00162_History_Entry_163]]
-- Leads to [[[Harbor Patrol 2]]
+- Leads to [[Harbor Patrol 2]]
 - Influences [[Plot Points
 - Compare with [The Depth Reapers 2]]
 - Leads to [[step_037 (phase_074)
 - Requires [D_005_Shadow_Bloom]]
-- Compare with [[Coral Empress Scarletina (D&D_References)
-- Requires [step_035 (phase_067)]]
-- Compare with [[frost-giant-xmm
-- Requires [NPC00897_Gareth_Hawthorne_the_Mystic]]
+- Compare with [[Coral Empress Scarletina (D&D_References)]]
+- Compare with [[NPC00897_Gareth_Hawthorne_the_Mystic]]
 - Originates from [[step_016 (phase_077)
 - Requires [Assets Portraits Portrait NPC Senator Cordelia Deepcurrent Senator Cordelia Deepcurrent.svg]]
 - Requires [[lucky-xphb (feats)
@@ -317,26 +283,20 @@ Modifications:
 - Parallels [[Assets Locations Location City [Observatory Network Nodes V1 Observatory Network Nodes.svg]]
 - Originates from [[Resonance Roses
 - See also: [step_088 (phase_067)]]
-- Compare with [[The Archcrystal
-- Affected by [Wind Song Linguistic Guide]]
+- Compare with [[Wind Song Linguistic Guide]]
 - Compare with [[step_014 (phase_023)
 - Affected by [Surgeon Shadow-Touched]]
-- Leads to [[ENC00146_Social_Encounter_147
-- Related: [step_021 (phase_021)]]
-- Related: [[Reality_Breach_Event_Compiler (D&D_References)
-- Related: [NPC00779_Lyanna_Lightbringer_the_Redeemed]]
-- Influences [[step_036 (phase_005)
-- See also: [LOC00025_Cities_Location_26]]
-- See also: [[[[Mari[Time Security Chief Reef]] (D&D_References)]]
+- Leads to [[ENC00146_Social_Encounter_147]]
+- Related: [[Reality_Breach_Event_Compiler (D&D_References)]]
+- Influences [[LOC00025_Cities_Location_26]]
+- See also: [[Security Chief]] (D&D_References)]]
 - Requires [[Location City [Navigator Abyssal Truthseeker Navigator Abyssal Truthseeker.svg]]
 - Leads to [[The Crown of Consciousness
 - Compare with [Quest - Parliament Corruption]]
-- Parallels [[step_080 (phase_030)
-- Requires [ENC00249_Combat_Encounter_250]]
+- Parallels [[ENC00249_Combat_Encounter_250]]
 - Leads to [[step_061 (phase_014)
 - Influences [LOC0085_Valewick]]
-- Affected by [[step_040 (phase_056)
-- Requires [Portrait NPC Aria... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Affected by [[Portrait NPC Aria... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Leads to [[The Memory Integration (D&D_References)
 - Influences [Portrait NPC Quest the Failing Magic V2 Quest the Failing Magic.svg]]
 - Originates from [[pair-of-engraved-bone-dice-xdmg (items)
@@ -348,14 +308,11 @@ Modifications:
 - Requires [sack-xphb (items)]]
 - Parallels [[location-city-grand-harbor-v1-grand-harbor.svg
 - Originates from [[Queen Seraphina [Lumengarde]]]]
-- Affected by [[half-elf (races)
-- See also: [The Amnesia Rehabilitation Centers (D&D_References)]]
-- Originates from [[star-rose-quartz-xdmg (items)
-- Compare with [NPC00579_Zephyr_Hawthorne_the_Broken]]
+- Affected by [[The Amnesia Rehabilitation Centers (D&D_References)]]
+- Originates from [[NPC00579_Zephyr_Hawthorne_the_Broken]]
 - Requires [[Brother Marcus Steelbane (People)
 - Affected by [Crisis Exploitation]]
-- Connects to [[LOC0009_PortHaven
-- Influences [#Relationships]]
+- Connects to [[LOC0009_PortHaven]]
 - Connects to [[Symbol Heraldry Doctor Harmony Whisperfall V1 Doctor Harmony Whisperfall.svg
 
 ## Visual References

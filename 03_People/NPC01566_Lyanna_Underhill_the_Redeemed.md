@@ -178,80 +178,45 @@ Modifications:
 > Useful information for players
 
 ## See Also
-- [[NPC00133_Lyanna_Oakenshield_the_Seeker
-- [NPC01367_Lyanna_Xendar_the_Wise]]
-- [[NPC01568_Lyanna_Winterborn_the_Strong
-- [NPC01360_Ewan_Blackstone_the_Strong]]
-- [[NPC01151_Orion_Stormwind_the_Seeker
-- [NPC00922_Wynne_Youngblood_the_Fallen]]
-- [[NPC01040_Zephyr_Lightbringer_the_Strong
-- [NPC00260_Wynne_Underhill_the_Fallen]]
-- [[NPC00190_Cedric_Silverleaf
-- [NPC01504_Erasmus_Zephyrblade_the_Strong]]
-- [[NPC01012_Solas_Darkwater_the_Strong
-- [NPC01664_Pyria_Lightbringer_the_Redeemed]]
-- [[NPC00057_Malakai_Stormwind_the_Cunning
-- [NPC_Name_Generator.png]]
-- [[NPC01827_Kaelen_Ironforge_the_Seeker
-- [NPC01911_Alaric_Oakenshield_the_Mystic]]
-- [[NPC01624_Corvus_Silverleaf_the_Redeemed
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC00881_Qadim_Voidwalker_the_Strong
-- [NPC00812_Kaelen_Jadeclaw_the_Seeker]]
-- [[NPC00259_Delara_Proudmore
-- [NPC00838_Drusilla_Proudmore_the_Risen]]
-- [[NPC01301_Jorah_Underhill_the_Broken
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[NPC00373_Wynne_Frostwhisper_the_Strong
-- [NPC01939_Orion_Nightfall_the_Bold]]
-- [[NPC01602_Dara_Ashford_the_Seeker
-- [NPC00351_Corvus_Ironwood]]
-- [[NPC00858_Zephyr_Silverleaf_the_Wanderer
-- [NPC00860_Gavril_Winterborn_the_Swift]]
-- [[NPC01989_Erasmus_Xendar_the_Strong
-- [NPC00927_Aldric_Ironwood_the_Wanderer]]
-- [[NPC01463_Aeliana_Zephyrblade_the_Fallen
-- [NPC01730_Faelyn_Emberfall_the_Broken]]
-- [[NPC01937_Felicia_Silverleaf_the_Wanderer
-- [NPC00945_Wynne_Voidwalker_the_Seeker]]
-- [[NPC00661_Corvus_Darkwater_the_Broken
-- [NPC00749_Xander_Quicksilver]]
-- [[NPC01994_Orion_Brightblade_the_Risen
-- [NPC00623_Dara_Oakenshield_the_Wanderer]]
-- [[NPC00612_Thalia_Jadeclaw_the_Fallen
-- [NPC01599_Gavril_Keenblade_the_Strong]]
-- [[Character_Journals
-- [Shared_Lore]]
-- [[Propaganda_Leaflet_Pearl_Guar
-- [Party_Inventory]]
-- [[NPC00649_Corvus_Zephyrblade_the_Broken
-- [Quarantine_Notice_Crystal_Plagu]]
-- [[NPC01057_Pyria_Quicksilver_the_Scholar
-- [Ritual_Timing_Wheel_Convergenc]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [Parliamentary_Voting_Guide]]
-- [[NPC00095_Fiora_Nightfall
-- [Player_Feedback_Form.md]]
-- [[NPC00785_Ysara_Grimholt_the_Mystic
-- [13 Conditions]]
-- [[yuan-ti-pit-master-mpmm
-- [15 the Planes of Existence]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00922_Wynne_Youngblood_the_Fallen]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00838_Drusilla_Proudmore_the_Risen]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC01602_Dara_Ashford_the_Seeker]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[Character_Journals]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[15 the Planes of Existence]]
 - [[Dockworker_Union_Flyer.md
 - [11 Rules Glossary]]
-- [[NPC00615_Lyanna_Moonshadow_the_Lost
-- [Submersible_Schematic_Pressure_Gate_Scou]]
-- [[NPC01447_Baelor_Winterborn_the_Strong
-- [NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
 - [[MOC_NPCs
 - [12 Spells]]
-- [[NPC00407_Hestara_Dawnstrider
-- [NPC00663_Alaric_Dawnstrider_the_Strong]]
-- [[NPC00272_Rhiannon_Brightblade
-- [NPC01970_Brenna_Dawnstrider_the_Wise]]
-- [[NPC01177_Thalia_Underhill_the_Fallen
-- [NPC01931_Thalia_Lightbringer_the_Fallen]]
-- [[10 Combat
-- [NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01970_Brenna_Dawnstrider_the_Wise]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
 -
 
 ## Item Rarity & Balance
@@ -312,12 +277,9 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [Faction Tracker]]
 - Leads to [[Portrait NPC Madame Nightwhisper V1 Madame Nightwhisper.svg_1 (Portraits)
 - Parallels [[[Senator's Widow Marcella]] 2]]
-- Requires [[step_070 (phase_012)
-- Originates from [The Shadow Warren (D&D_Statblocks)]]
-- Connects to [[Shadow Traders
-- See also: [short-rest-xphb (variant-rules)]]
-- Requires [[Chronicles_of_Shadows_Campaign_Starter
-- Originates from [[[Korra Mindshield]] (D&D_References)]]
+- Requires [[The Shadow Warren (D&D_Statblocks)]]
+- Connects to [[short-rest-xphb (variant-rules)]]
+- Requires [[Chronicles_of_Shadows_Campaign_Starter]] (D&D_References)]]
 - Connects to [[step_061 (phase_018)
 - Compare with [Silk Vestments With Gold Embroidery Xdmg]]
 - Affected by [[Quest_Tree_System
@@ -328,7 +290,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [The Umbral Court]]
 - See also: [[SHOP00021_General_Shop_22
 - See also: [ITEM00166_Thunder_Spear_of_Wounding]]
-- Compare with [[[Memorial Wall of Names 2]]
+- Compare with [[Memorial Wall of Names 2]]
 - Requires [[High Inquisitor Maltheos
 - Compare with [step_061 (phase_013)]]
 - Connects to [[Deep Priest Covet
@@ -337,18 +299,14 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[Medium Armor Master Xphb
 - Requires [Temple of Divine Order]]
 - Related:
-- Affected by [[Iron Bands of Bilarro Xdmg
-- Influences [Peace of Singing Stones (D&D_References)]]
+- Affected by [[Peace of Singing Stones (D&D_References)]]
 - Related: [[step_005 (phase_097)
 - Connects to
 - Influences [[Assets Locations Location City Religious [Religious Groups]].svg]]
 - Parallels [[step_095 (phase_061)
 - Parallels [ITEM00359_Venomous_Sword_of_Wounding]]
-- Originates from [[Atmospheric Research Society (D&D_References)
-- Connects to
-- Related: [ENC00262_Social_Encounter_263]]
-- Connects to [[step_012 (phase_100)
-- Originates from [Resistance Leader Thane Freeheart 2]]
+- Originates from [[Atmospheric Research Society (D&D_References)]]
+- Connects to [[Resistance Leader Thane Freeheart 2]]
 - Connects to [[Portrait NPC the Throne Pretenders the Throne Pretenders.svg_1 (Portraits)
 - Related: [[[Artisan Associations]] (D&D_References)]]
 - Related: [[step_075 (phase_064)
@@ -374,39 +332,33 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [step_030 (phase_088)]]
 - Connects to [[Orc Shargaas Vgm
 - Requires [ITEM01423_Decorated_Compass_of_Convenience]]
-- Originates from [[MON00112_Constructs_Creature_113
-- Parallels [ENC00020_Social_Encounter_21]]
+- Originates from [[MON00112_Constructs_Creature_113]]
 - Affected by [[treasure-hoard-challenge-04 (tables)
 - Originates from [SPELL0028_Shadow_Blessing]]
 - Requires [[beholder-names-vgm (tables)
 - Parallels [Whispering Wildlands]]
-- Requires [[Drow Lolth Mtf
-- Influences
-- Requires [Guildmaster Victoria Silvertongue]]
+- Requires [[Guildmaster Victoria Silvertongue]]
 - Parallels [[DUN00007_Dungeon_8
 - Requires [step_082 (phase_089)]]
-- Influences [[Crystal Magic Theory
-- Affected by [QUEST00223_Personal_Quest_224]]
+- Influences [[QUEST00223_Personal_Quest_224]]
 - Parallels
 - Compare with [[NPC01925_Elric_Frostwhisper_the_Redeemed
 - Compare with [NPC01444_Pyria_Brightblade_the_Seeker]]
 - Parallels [[poisoners-kit-xphb (items)
 - Connects to [step_052 (phase_055)]]
-- Parallels [[[Healing Temples (D&D_References)]]
+- Parallels [[Healing Temples (D&D_References)]]
 - Parallels [[MON00127_Undead_Creature_128
 - Related: [swamp-encounters-levels-1120-xge (tables)]]
-- Leads to [[[Depth Warden (D&D_References)]]
+- Leads to [[Depth Warden (D&D_References)]]
 - Leads to [[Potion of Supreme Healing Xdmg
 - Influences [Swamp Encounters Levels 510 Xge]]
-- Requires [[Probability Garden
-- Related: [The Memory Fragmented Child Little Luna]]
+- Requires [[The Memory Fragmented Child Little Luna]]
 - See also: [[Kobold Dmg
 - Related: [[Assets Locations [[Location City [Tide Welcomeheart]] V1 Tide Welcomeheart.svg]]]]
 - Parallels [[ITEM00107_Venomous_Bow_of_the_Ancients
 - Compare with [Assets Art Npcs Quest the Pretender.png]]
 - Influences [[Assets Locations [[Location City [The Pressure Conspiracy the Pressure Conspiracy.svg]]]]
-- See also: [[Memory Parasite Infection
-- Requires [Climb Speed Xphb]]
+- See also: [[Memory Parasite Infection]]
 
 ## Visual References
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png

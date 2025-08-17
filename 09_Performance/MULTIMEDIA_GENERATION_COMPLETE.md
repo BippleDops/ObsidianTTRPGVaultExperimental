@@ -84,10 +84,8 @@ publish: false --- # MULTIMEDIA GENERATION COMPLETE ## Overview MULTIMEDIA GENER
 
 ## Related Content
 - [ULTIMATE_VAULT_ACHIEVEMENT]]
-- [[optimization_report_20250814_180706
-- [audio_fit_report]]
-- [[audio_fit_report_1
-- [SVG_REPLACEMENT_REPORT]]
+- [[OPTIMIZATION_REPORT_2025]]
+- [[SVG_REPLACEMENT_REPORT]]
 - [[ULTIMATE_ASSET_REPORT
 
 ## Game Mechanics
@@ -109,10 +107,8 @@ publish: false --- # MULTIMEDIA GENERATION COMPLETE ## Overview MULTIMEDIA GENER
 ## Connections
 
 - See also: [step_026 (phase_048)]]
-- Influences [[mind-blade-vgm (items)
-- Influences [QUEST00235_Personal_Quest_236]]
-- Influences [[step_077 (phase_040)
-- Related: [Working Class Culture and Traditions]]
+- Influences [[QUEST00235_Personal_Quest_236]]
+- Influences [[Working Class Culture and Traditions]]
 - Connects to [[Grappler Xphb
 - Connects to [The Wind-Rider Cultural Center (02_Worldbuilding)]]
 - Requires [[ITEM00805_Time-worn_Ring_of_Destiny
@@ -137,42 +133,32 @@ publish: false --- # MULTIMEDIA GENERATION COMPLETE ## Overview MULTIMEDIA GENER
 - Connects to [step_044]]
 - Leads to [[SPELL00028_Arcane_Spell_29
 - Leads to [Assets Item Artifact Enspelled Armor Level 7 Xdmg V7 Enspelled Armor Level 7 Xdmg.png]]
-- Connects to [[MON00072_Constructs_Creature_73
-- Originates from [green-hag-xmm]]
+- Connects to [[MON00072_Constructs_Creature_73]]
 - Affected by [[Madame Pearl Currentflow
 - Requires [QUEST00376_Side_Quest_377]]
 - See also: [[Assets Locations Location City Councilor Tidal Balancekeeper V1 Councilor Tidal Balancekeeper.svg
 - Leads to [Historical Prophetic Analysis 2]]
-- Connects to [[Crystals & Curiosities
-- Influences [Navigator Abyssal Truthseeker]]
-- Affected by [[Public Works Director Boris Bridgewright
-- Requires [Tiefling Names Virtue Xge]]
-- Influences [[step_013 (phase_074)
-- Leads to [ENC00128_Environmental_Encounter_129]]
-- Connects to [[Palace Guard Captain Ironclad
-- Connects to [step_097 (phase_077)]]
+- Connects to [[Navigator Abyssal Truthseeker]]
+- Affected by [[Public Works Director Boris Bridgewright]]
+- Influences [[ENC00128_Environmental_Encounter_129]]
+- Connects to [[Palace Guard Captain Ironclad]]
 - Parallels [[Elf Random Height and Weight Mtf
 - Requires [Assets Locations Location City Senator Cornelius Depthwalker Senator Cornelius Depthwalker.svg]]
-- Parallels [[step_099 (phase_007)
-- See also: [Ancient Tunnels Beneath Palace 2]]
+- Parallels [[Ancient Tunnels Beneath Palace 2]]
 - Leads to [[LOC00153_Cities_Location_154
 - Originates from [step_022 (phase_011)]]
-- Connects to [[DUN00122_Dungeon_123
-- Requires [Expedition to the Sunless Depths (D&D_References)]]
-- Affected by [[step_066 (phase_030)
-- Requires [03-chapter-2-creating-a-character (players-handbook-2024)]]
+- Connects to [[Expedition to the Sunless Depths (D&D_References)]]
+- Affected by [[03-chapter-2-creating-a-character (players-handbook-2024)]]
 - Leads to [[skills-phb (tables)
 - Leads to [Journey Board 2]]
 - Connects to [[Spider Xmm
 - Influences [Portrait NPC Paladin Commander Sir Radiant Dawnbreaker V1 Paladin Commander Sir Radiant Dawnbreaker.svg_1 (Portraits)]]
 - Influences [[step_091 (phase_055)
 - See also: [Memory Merchant Centers]]
-- See also: [[Transformations
-- Affected by [Symbol Heraldry Ela... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- See also: [[Symbol Heraldry Ela... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Influences [[Royal Intelligence Service
 - Requires [Assets Locations Location City University Philosophy Departments University Philosophy Departments.svg]]
-- Requires [[NPC00812_Kaelen_Jadeclaw_the_Seeker
-- Parallels [Wind Songs]]
+- Requires [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
 - Leads to [[FAC00019_Guilds_20
 - Compare with [ITEM00928_Lesser_Salve_of_Clarity]]
 - Parallels [[earth-elemental-xmm
@@ -185,26 +171,20 @@ publish: false --- # MULTIMEDIA GENERATION COMPLETE ## Overview MULTIMEDIA GENER
 - Originates from [Symbol Heraldry the Anonymous Accords V1 the Anonymous Accords.svg]]
 - Connects to [[step_064 (phase_080)
 - See also: [Portrait NPC God King Aetheron God King Aetheron.svg_1 (Portraits)]]
-- Compare with [[SPELL00073_Divine_Spell_74
-- Requires [Cultural Anthropologist Warden Clearlight]]
-- Parallels [[Active Content
-- Related: [Scepter of Tidal Command]]
-- Affected by [[LOC00021_Cities_Location_22
-- Related: [step_033 (phase_042)]]
+- Compare with [[Cultural Anthropologist Warden Clearlight]]
+- Parallels [[Scepter of Tidal Command]]
+- Affected by [[LOC00021_Cities_Location_22]]
 - Connects to [[Pilgrim Guide Nautilus Pathfinder
 - Originates from [NPC00753_Branwen_Ashford_the_Mystic]]
 - Influences [[Alpha Leader Marina Depthstrike
 - Compare with [stone-giant-dreamwalker-mpmm (giant)]]
-- Connects to [[gnome-urdlen-mtf (deities)
-- See also: [Portrait NPC Deep... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Connects to [[Portrait NPC Deep... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Originates from [[Cross-Realm Travel Guidelines
 - Parallels [Portrait NPC Storm Empress Tempestas Maelstrom V2 Storm Empress Tempestas Maelstrom.svg_1 (Portraits)]]
 - Compare with [[lolths-sting-xdmg (items)
 - Related: [pot-of-awakening-xdmg (items)]]
-- Related: [[step_045 (phase_050)
-- Connects to [The Restoration Movement (D&D_References)]]
-- Originates from [[downtime-activity-practicing-a-profession-phb (variant-rules)
-- Requires [step_090 (phase_026)]]
+- Related: [[The Restoration Movement (D&D_References)]]
+- Originates from [[downtime-activity-practicing-a-profession-phb (variant-rules)]]
 - Requires [[Portrait NPC Deep Anarchists V2 Deep Anarchists.svg
 - Requires [NPC00944_Felicia_Silverleaf_the_Scholar]]
 - Leads to [[step_084]]

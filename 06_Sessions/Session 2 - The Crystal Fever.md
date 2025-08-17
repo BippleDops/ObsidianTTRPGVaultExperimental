@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.398548"
 modified: "2025-08-15T12:24:39.398553"
-aliases: [Session 2 - [[The Crystal]] Fever]
+aliases: [Session 2 - [[The Crystal Eye]] Fever]
 ---
 
 # Session 2   [[The Crystal Fever
@@ -19,7 +19,7 @@ tags:
 - session title: Session 2 [The Crystal]] Fever
 type: session
 updated: 2025-08-14
-- -- # Session 2 - [[The Crystal Fever ## [Overview This]] document contains important information regarding Session 2 - [[The Crystal Fever and its role within the greater narrative. ## Description
+- -- # Session 2 - [[Session 02 the Crystal Fever]] document contains important information regarding Session 2 - [[The Crystal Fever and its role within the greater narrative. ## Description
 
 **Details**: Rich sensory elements bring this to life. Session 2 - [The Crystal]] Fever represents a significant element within the campaign world, offering various opportunities for engagement and dev
 *The air carries the scent of [appropriate smell].*elopment. ## [[Key Information - **[Primary Purpose]]**: Serves specific function within the world
@@ -37,7 +37,7 @@ updated: 2025-08-14
 aliases: ["Session 2 - [The Crystal]] Fever"]
 priority: normal
 category: 06 Sessions
-subcategory: Session 2 - [[The Crystal]] Fever.Md
+subcategory: Session 2 - [[The Crystal Eye]] Fever.Md
 related: []
 cssclass: standard
 publish: false --- -|--------|

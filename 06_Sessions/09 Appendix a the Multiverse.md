@@ -85,24 +85,15 @@ world: Both
 
 ## [[See Also
 - [[[Sage Elara]]]]
-- [[Sanity_Quick_Reference.md
-- [15 the Planes of Existence]]
-- [[NPC01041_Thalia_Dawnstrider_the_Lost
-- [NPC00395_Aeliana_Thornweave]]
-- [[NPC00821_Zephyr_Voidwalker_the_Cunning
-- [NPC00599_Cedric_Lightbringer_the_Wise]]
-- [[NPC01568_Lyanna_Winterborn_the_Strong
-- [Trade_Route_Map_Aquabyssos_to_Aethermoor]]
-- [[NPC00719_Orion_Hawthorne_the_Cunning
-- [NPC00069_Thalia_Brightblade_the_Guardian]]
-- [[Submersible_Schematic_Pressure_Gate_Scou
-- [Depth_Adapted_Background]]
-- [[NPC01348_Xander_Zephyrblade_the_Wise
-- [NPC00058_Elric_Nightfall]]
-- [[Player_Portal.md
-- [NPC01943_Xander_Proudmore_the_Fallen]]
-- [[MOC_Rules
-- [MASTER_MOC]]
+- [[15 the Planes of Existence]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[MASTER_MOC]]
 -
 
 ## [[Game Mechanics
@@ -120,10 +111,9 @@ world: Both
 ## Connections
 
 - Affected by [step_008 (phase_009)]]
-- Leads to [[ENC00167_Environmental_Encounter_168
-- Affected by [[Quest - [The Missing]] Guards_1 (01_Adventures)]]
+- Leads to [[ENC00167_Environmental_Encounter_168]] Guards_1 (01_Adventures)]]
 - Compare with [[[[Beings Non [Reality Consciousnesses]]]]
-- Related: [[[Marcus Goldledger]]
+- Related: [[Marcus Goldledger]]
 - Connects to [[froghemoth-mpmm (monstrosity)
 - Related: [[[Chancellor Squall]] Deepcurrent (D&D_References)]]
 - Compare with [[ITEM01247_Superior_Herb_of_Vigor
@@ -138,16 +128,16 @@ world: Both
 - See also: [[step_096 (phase_014)
 - Compare with [step_048 (phase_009)]]
 - Compare with
-- Related: [[[[Assets Locations [Location City]] [[Quartermaster Sterling [Suppystone Quartermaster]] [[Sterling Suppystone.svg]]
+- Related: [[Assets Locations]] [[Quartermaster Sterling [Suppystone Quartermaster]] [[Sterling Suppystone.svg]]
 - Leads to [[[[Master Artificer [Korvin Gearwright]] (D&D_References)]]
 - Leads to
 - Influences [[[Ettin Xmm]]
 - Related:
-- Compare with [[[[Assets Locations [Location City]] the [[Whispering Depths V1 the [Whispering Depths]].svg]]
-- Influences [[[The Depth Councils]]
-- Originates from [[[The Voting Crypts]]
-- Compare with [[[The Wind Roads 2]]
-- Affected by [[[Deep Mining Consortium]]
+- Compare with [[Assets Locations]] the [[Whispering Depths V1 the [Whispering Depths]].svg]]
+- Influences [[The Depth Councils]]
+- Originates from [[The Voting Crypts]]
+- Compare with [[The Wind Roads 2]]
+- Affected by [[Deep Mining Consortium]]
 - Requires [[[Nonhuman Gruumsh]]
 - Influences [[step_050 (phase_063)
 - See also: [Doctrine_Quick_Reference]]
@@ -155,13 +145,13 @@ world: Both
 - Parallels [greek-hades (deities)]]
 - See also: [[[[Allied Nation [Military Units]] 2]]
 - Connects to
-- Influences [[[Agricultural Provinces]]
+- Influences [[Agricultural Provinces]]
 - Leads to [[step_081 (phase_064)
 - Influences [[[Merchant Guild]] Headquarters (D&D_References)]]
-- Originates from [[[Commander Ironprice 2]]
+- Originates from [[Commander Ironprice 2]]
 - Connects to [[location-city-fire-crystal-v1-fire-crystal.svg
 - Requires [list-spells-races-firbolg-vgm (lists)]]
-- Originates from [[[Temporal Observation Deck]]
+- Originates from [[Temporal Observation Deck]]
 - Compare with [[list-spells-classes-warrior-of-shadow-xphb (lists)
 - Requires [ENC00019_Environmental_Encounter_20]]
 - Leads to [[elf-tables-drow-adventurer-story-hooks-mtf (tables)
@@ -169,7 +159,7 @@ world: Both
 - Parallels
 - Affected by [[LORE00154_Legends_Entry_155
 - See also: [Windwright_Academy (Groups)]]
-- Parallels [[[[Assets Locations [Location City]] [[Shadow Portal Nexus V1 [Shadow Portal]] Nexus.svg]]
+- Parallels [[Assets Locations]] [[Shadow Portal Nexus]] Nexus.svg]]
 - Parallels [[step_079 (phase_031)
 - Influences [[[Princess Celestine]] Lumengarde]]
 - Originates from [[EVENT00024_Magical_Event_25
@@ -177,33 +167,28 @@ world: Both
 - Leads to [[[[Communications Officer [Echo Farspeak]]]]
 - Parallels [[Face_the_Ancient_Threat.png
 - Parallels [[[Artisans Tools]] Xphb]]
-- Originates from [[[[Assets Locations [Location City]] [[Diplomatic Deepcurrent V1 [Diplomatic Deepcurrent]].svg]]
-- Leads to [[step_003 (phase_038)
-- Compare with [NPC01538_Caelum_Moonshadow_the_Seeker]]
+- Originates from [[Assets Locations]] [[Diplomatic Deepcurrent]].svg]]
+- Leads to [[NPC01538_Caelum_Moonshadow_the_Seeker]]
 - Influences
 - Originates from
 - Influences
-- Leads to [[NPC01357_Ysara_Ashford_the_Lost
-- Related: [[[Quantum Compromise]] Protocols 2]]
+- Leads to [[NPC01357_Ysara_Ashford_the_Lost]] Protocols 2]]
 - Requires [[quickened-spell-xphb (optional-features)
 - Compare with [Kraken]]
 - Related: [[Alpha-Prime (D&D_References)
 - Parallels [EVENT00000_Magical_Event_1]]
-- Affected by [[[Temporal Anomaly Zones (D&D_References)]]
+- Affected by [[Temporal Anomaly Zones (D&D_References)]]
 - See also: [[[[Location City [Depth Crystal]] [[Harvest Depth [Crystal Harvest]].svg]]
-- Affected by [[ITEM0106_Cursed_Gauntlet_of_the_Dawn
-- Affected by [step_050 (phase_070)]]
-- Requires [[[Victoria Harbormane]]
+- Affected by [[ITEM0106_Cursed_Gauntlet_of_the_Dawn]]
+- Requires [[Victoria Harbormane]]
 - Originates from [[EVENT00032_Magical_Event_33
 - Related: [deathlock-mastermind-mpmm (undead)]]
-- Related: [[NPC00070_Erasmus_Silverleaf_the_Wise
-- See also: [[[The Crystal]] [[Hive Collective (D&D_References)]]
+- Related: [[NPC00070_Erasmus_Silverleaf_the_Wise]] [[The Crystal Hive Collective (D&D_References)]]
 - Related: [[LORE00131_Legends_Entry_132
 - Influences [EVENT00032_Natural_Event_33]]
 - Leads to [[npc-appearance-xdmg (tables)
 - Requires [[[Shatter Xphb]]]]
-- Originates from [[ENC00238_Combat_Encounter_239
-- Leads to [[[Location City]] [[Futures Master [Economic Sense]] V1 [[Futures Master [Economic Sense]].svg]]
+- Originates from [[ENC00238_Combat_Encounter_239]] [[Futures Master [Economic Sense]] V1 [[Futures Master [Economic Sense]].svg]]
 - Originates from [[QUEST00375_Side_Quest_376
 - Originates from [life-transference-xge (spells)]]
 - Related: [[step_056 (phase_066)
@@ -213,10 +198,9 @@ world: Both
 - See also: [block-and-tackle-xphb (items)]]
 - Requires [[LORE0090_History_of_the_Sundering
 - Connects to [ITEM00995_Distilled_Elixir_of_Fortune]]
-- Related: [[[[Assets Locations [Location City]] [[Historical Analysis [Historical Analysis]].svg]]
-- Influences [[INDEX (Icewind_Dale_Rime_of_the_Frostmaiden)
-- Leads to [[[Assets Locations]] [[Location City [Security Services]] V1 [[Security Services.svg]]
-- Influences [[[[Location City [Stormwind Supplies]] [[Stormwind Supplies.png]]
+- Related: [[Assets Locations]] [[Historical Analysis]].svg]]
+- Influences [[INDEX (Icewind_Dale_Rime_of_the_Frostmaiden)]] [[Security Services]] V1 [[Security Services]]
+- Influences [[Stormwind Supplies]] [[Stormwind Supplies]]
 - Connects to [[step_095 (phase_058)
 - Parallels [step_067 (phase_084)]]
 ## [[Session Summary
@@ -227,7 +211,7 @@ world: Both
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

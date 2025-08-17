@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.400671"
 modified: "2025-08-15T12:24:39.400674"
-aliases: [Session 7 - [[Connections Revealed]]]
+aliases: [Session 7 - [[Session 7 - Connections Revealed]]]
 ---
 
 # Session 7   [[Connections Revealed
@@ -16,7 +16,7 @@ modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: Session 7 - [[Connections Revealed]].Md
+subcategory: Session 7 - [[Session 7 - Connections Revealed]].Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -31,7 +31,7 @@ type: session
 updated: 2025-08-14
 - -- # Session 7 - [Connections Revealed]] ## [[Overview This document contains important information regarding Session 7 - [Connections Revealed]] and its role within the greater narrative. ## Description
 
-**Details**: Rich sensory elements bring this to life. Session 7 - [[Connections Revealed]] represents a significant element within the campaign world, offering various opportunities for engagement and
+**Details**: Rich sensory elements bring this to life. Session 7 - [[Session 7 - Connections Revealed]] represents a significant element within the campaign world, offering various opportunities for engagement and
 *The air carries the scent of [appropriate smell].*development. ## [[Key Information - **[Primary Purpose]]**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details ### [[Background Historical context and development over time. ### [Current State]] Present circumstances and ongoing relevance. ### [[Future Potential Possible developments and plot directions. Additionally, ## Relationships - Connected to various other elements within the vault

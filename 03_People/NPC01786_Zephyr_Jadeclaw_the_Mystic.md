@@ -172,56 +172,31 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC01429_Zephyr_Keenblade_the_Cunning
-- [NPC00858_Zephyr_Silverleaf_the_Wanderer]]
-- [[NPC00969_Zephyr_Keenblade_the_Wise
-- [NPC00599_Cedric_Lightbringer_the_Wise]]
-- [[NPC00373_Wynne_Frostwhisper_the_Strong
-- [NPC01761_Idris_Moonshadow_the_Broken]]
-- [[NPC00385_Qadim_Darkwater_the_Cunning
-- [NPC00133_Lyanna_Oakenshield_the_Seeker]]
-- [[NPC00920_Malakai_Ravenheart_the_Guardian
-- [NPC01841_Malakai_Nightfall_the_Wise]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [NPC00095_Fiora_Nightfall]]
-- [[NPC01664_Pyria_Lightbringer_the_Redeemed
-- [NPC00190_Cedric_Silverleaf]]
-- [[NPC00927_Aldric_Ironwood_the_Wanderer
-- [NPC00285_Xander_Goldleaf_the_Mystic]]
-- [[NPC01195_Gareth_Keenblade_the_Guardian
-- [NPC00259_Delara_Proudmore]]
-- [[NPC00058_Elric_Nightfall
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC01126_Malakai_Oakenshield_the_Fallen]]
-- [[NPC01466_Urien_Nightfall_the_Guardian
-- [NPC01892_Gareth_Xendar_the_Scholar]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [NPC00351_Corvus_Ironwood]]
-- [[NPC01503_Ewan_Dawnstrider_the_Redeemed
-- [Depth_Adapted_Background]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
 - [[Ceasefire_Accord_Draft.md
 - [Ship_Schematic_The_Seahawk.md]]
-- [[What You Know - Abyssos Prime.md
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
 - [[Sanity_Quick_Reference.md
 - [11 Spellcasting]]
-- [[09 Adventuring
-- [Current Session Notes]]
-- [[05 Personality and Background
-- [MOC_Items]]
-- [[MOC_Quests
-- [11 Rules Glossary]]
-- [[NPC01602_Dara_Ashford_the_Seeker
-- [NPC01699_Orion_Oakenshield_the_Broken]]
-- [[NPC00407_Hestara_Dawnstrider
-- [Concept_Map]]
-- [[NPC01017_Vesper_Keenblade_the_Risen
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[Current Session Notes]]
+- [[05 Personality and Background]]
+- [[11 Rules Glossary]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -240,14 +215,11 @@ Modifications:
 - Connects to [DUN00061_Dungeon_62]]
 - Originates from [[Portrait NPC Captain Sky Horizon Captain Sky Horizon.svg
 - See also: [Pilgrim Camps (D&D_References)]]
-- Influences [[Template_StarSystem_Placeholder.png_1 (09_Templates)
-- Connects to [fire-giant-dreadnought-mpmm (giant)]]
+- Influences [[Template_StarSystem_Placeholder.png_1 (09_Templates)]]
 - Affected by [[MON00114_Aberrations_Creature_115
 - Parallels [Artifact Properties Major Beneficial]]
-- Requires [[LOC00074_Dungeons_Location_75
-- Leads to [Vex_Shadowthorn (People)]]
-- Originates from [[Echo of the Mother
-- See also: [LOC00121_Planes_Location_122]]
+- Requires [[LOC00074_Dungeons_Location_75]]
+- Originates from [[LOC00121_Planes_Location_122]]
 - Requires [[cloak-of-the-manta-ray-xdmg (items)
 - Compare with [step_022 (phase_084)]]
 - Originates from [[step_039 (phase_024)
@@ -270,16 +242,13 @@ Modifications:
 - Compare with [step_075 (phase_055)]]
 - Connects to [[step_063 (phase_013)
 - Related: [LORE00080_Prophecies_Entry_81]]
-- Influences [[The Reality Nexus (D&D_References)
-- Requires [[[Community Support Networks]] 2]]
+- Influences [[The Reality Nexus (D&D_References)]] 2]]
 - Affected by [[step_075 (phase_011)
 - See also: [[The [Crystal Gardens]]]]
-- Affected by [[Pilgrim Guide Samuel Walkingfaith (D&D_References)
-- Affected by [[Assets Locations Location City [Legal Profession]] Legal Profession.svg]]
+- Affected by [[Pilgrim Guide Samuel Walkingfaith (D&D_References)]] Legal Profession.svg]]
 - Compare with [[LORE00202_Legends_Entry_203
 - See also: [Portrait NPC Lady Jade Clawgrip V1 Lady Jade Clawgrip.svg]]
-- Influences [[SPELL0033_Divine_Storm
-- Parallels [Bedroll Xphb]]
+- Influences [[SPELL0033_Divine_Storm]]
 - Influences [[Travel Calculator 2
 - Requires [step_018 (phase_030)]]
 - Requires [[young-silver-dragon-xmm (dragon)
@@ -287,13 +256,11 @@ Modifications:
 - Requires [NPC01318_Faelyn_Stormwind_the_Strong]]
 - Affected by [[Portrait NPC the Azure Prophet Nerissa V2 the Azure Prophet Nerissa.svg
 - Requires [[Portrait NPC [Captain Marcus]] Ironwill Captain Marcus Ironwill.svg]]
-- Affected by [[Shadow-touched Communities
-- Related: [Deep Prophecy]]
+- Affected by [[Shadow-touched Communities]]
 - Parallels [[Marine Protection Guil
 - Parallels [LOC00099_Towns_Location_100]]
 - Parallels [[The Shadow [Merchant Prime]]
-- See also: [[Captain Threshold (D&D_References)
-- Leads to [step_070 (phase_042)]]
+- See also: [[Captain Threshold (D&D_References)]]
 - Connects to [[step_004 (phase_038)
 - Related:
 - Leads to [Memory Merchant Zara Mindweave]]
@@ -306,24 +273,21 @@ Modifications:
 - Connects to [Erupting Earth Xge]]
 - Compare with [[ITEM0127_Hidden_Circlet_of_the_Dawn
 - Originates from [Session 3 Underwater Chase_1 (06_Sessions)]]
-- Requires [[step_049 (phase_025)
-- Requires [Archshadow Whisper Truthseer]]
+- Requires [[Archshadow Whisper Truthseer]]
 - Influences [[step_100 (phase_019)
 - See also: [[Assets Locations [[Location City [Banker Cornelius Goldflow]] V1 Banker Cornelius Goldflow.svg]]]]
-- Connects to [[[The Infinite Garden 2]]
+- Connects to [[The Infinite Garden 2]]
 - Influences [[Symbol Heraldry Transformation Techniques V1 Transformation Techniques.svg
 - Requires
 - Leads to [Court Herald Titus]]
-- Leads to [[Engineer Torres Ironbrigh 2
-- Leads to [ochre-jelly-xmm (ooze)]]
+- Leads to [[Engineer Torres Ironbrigh 2]]
 - Leads to [[location-city-depth-wardens-depth-wardens.svg
 - Affected by [step_097 (phase_076)]]
 - Connects to [[step_065 (phase_079)
 - Affected by [step_049 (phase_024)]]
 - Influences [[LORE00270_Prophecies_Entry_271
 - Influences [step_016 (phase_057)]]
-- Requires [[The Tidal Sanctum
-- Parallels [NPC01052_Idris_Brightblade_the_Mystic]]
+- Requires [[NPC01052_Idris_Brightblade_the_Mystic]]
 - Affected by [[QUEST00458_Side_Quest_459
 - Related: [[International [Pressure Technology]] Consortium]]
 - See also: [[04_Resources_Assets_Symbols_symbol-heraldry-acoustic-infection-acoustic-infection.svg
@@ -332,8 +296,7 @@ Modifications:
 - Originates from [portrait-npc-the-party-v2-the-party.svg_1 (Portraits)]]
 - Originates from [[Fence Simon Quickfingers
 - Originates from [step_016 (phase_051)]]
-- Compare with [[Assets
-- Requires [QUEST00205_Personal_Quest_206]]
+- Compare with [[QUEST00205_Personal_Quest_206]]
 - Parallels [[step_065 (phase_094)
 - See also: [npcs]]
 - Leads to [[Portrait NPC Captain [Scarlet Torrent V1 Captain Scarlet Torrent.svg]]

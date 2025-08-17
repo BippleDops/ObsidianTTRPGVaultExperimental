@@ -207,43 +207,25 @@ flowchart LR
  Retry --> Challenge
 ```
 ## See Also
-- [[NPC01841_Malakai_Nightfall_the_Wise
-- [NPC01974_Thalia_Zephyrblade_the_Lost]]
-- [[NPC00920_Malakai_Ravenheart_the_Guardian
-- [NPC01664_Pyria_Lightbringer_the_Redeemed]]
-- [[NPC00749_Xander_Quicksilver
-- [Measurement_Guide_Depth_and_Pressur]]
-- [[NPC00599_Cedric_Lightbringer_the_Wise
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC00395_Aeliana_Thornweave
-- [Player_Comfort_Check]]
-- [[10 Appendix B Creature Stat Blocks
-- [NPC00949_Nerys_Underhill_the_Wise]]
-- [[NPC00162_Xander_Thornweave
-- [07 Customization Options]]
-- [[NPC00317_Pyria_Blackstone_the_Redeemed
-- [NPC01301_Jorah_Underhill_the_Broken]]
-- [[NPC00259_Delara_Proudmore
-- [Faction_Relationship_Web]]
-- [[Keeper Elara Mindwell
-- [NPC01463_Aeliana_Zephyrblade_the_Fallen]]
-- [[05 Personality and Background
-- [NPC00190_Cedric_Silverleaf]]
-- [[NPC01290_Pyria_Ashford_the_Broken
-- [MOC_Items]]
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [03 Races]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[05 Personality and Background]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
 - [[Session Planning Toolkit_1 (06_Sessions)
 - [Session 0 - Aquabyssos]]
 - [[Item_Catalog_Complete.md
 - [11 Spellcasting]]
-- [[MASTER_NAVIGATION
--
-
-## Related Content
-- [10K_GENERATION_REPORT]]
-- [[ULTIMATE_VAULT_ACHIEVEMENT
-- [NEXT_LEVEL_IMPROVEMENTS]]
+- [[MASTER_NAVIGATION]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -276,32 +258,28 @@ flowchart LR
 - Requires [Wings of Flying Xdmg]]
 - Related: [[mordenkainens-sword-xphb (spells)
 - Leads to [ENC0001_Random_Encounter_2]]
-- Affected by [[step_050 (phase_067)
-- Related: [ENC00048_Environmental_Encounter_49]]
+- Affected by [[ENC00048_Environmental_Encounter_49]]
 - Connects to [[Legislative Archive
 - Related: [step_051 (phase_015)]]
 - Requires [[Assets Portraits Portrait NPC the Depth Blessed Fisherman Captain Sal Deepcurrent the Depth Blessed Fisherman Captain Sal Deepcurrent.svg
 - Related: [step_060 (phase_030)]]
 - Leads to [[step_004 (phase_020)
 - Originates from [step_039 (phase_089)]]
-- Compare with [[Social Clubs (D&D_References)
-- See also: [Provincial Governments]]
+- Compare with [[Social Clubs (D&D_References)]]
 - Requires [[Assets Item Artifact Enspelled Armor Level 7 Xdmg V3 Enspelled Armor Level 7 Xdmg.png
 - Affected by [NPC00063_Aeliana_Goldleaf_the_Broken]]
 - Requires [[Fishing Tackle
 - Affected by [Assets Item Artifact Warhammer Xphb Warhammer Xphb.png]]
 - Parallels [[Location City the Screaming Battleground the Screaming Battleground.svg
 - Leads to [step_027 (phase_046)]]
-- Affected by [[Cultural Historian Deepcurrent
-- Influences [Phantom Harbor Charter]]
+- Affected by [[Cultural Historian Deepcurrent]]
 - Leads to [[silk-xdmg (items)
 - Leads to [step_070 (phase_092)]]
 - Connects to [[ITEM00309_Thunder_Hammer_of_Slaying
 - Originates from [step_099 (phase_039)]]
 - Affected by [[step_034 (phase_026)
 - See also: [Map World Layer World Political Boundaries V2 World Political Boundaries.svg]]
-- Originates from [[Session 05 (Shadow_Conspiracy)
-- Compare with [step_053 (phase_087)]]
+- Originates from [[Session 05 (Shadow_Conspiracy)]]
 - Influences [[Protocol Expert Formal 2
 - Related:
 - Connects to [Potion of Acid Resistance Xdmg]]
@@ -310,8 +288,7 @@ flowchart LR
 - Compare with [[Portrait NPC Duchess Marina Ever Drowning V1 Duchess Marina Ever Drowning.svg
 - Parallels
 - Parallels [Depth_Survey_Authority (02_Worldbuilding)]]
-- Requires [[International Academic Exchange (D&D_References)
-- Related: [seeking-spell-xphb (optional-features)]]
+- Requires [[International Academic Exchange (D&D_References)]]
 - Requires [[NPC00068_Nerys_Grimholt
 - Influences [Counter-Mirror Task Force]]
 - Connects to [[fiery-blast-trap-xge (traps-hazards)
@@ -322,28 +299,22 @@ flowchart LR
 - Originates from [ITEM01095_Lesser_Salve_of_Healing]]
 - Influences [[LOC00219_Towns_Location_220
 - Compare with [LOC00220_Wilderness_Location_221]]
-- Affected by [[step_090 (phase_085)
-- Connects to [ITEM0078_Glorious_Shield_of_the_Dawn]]
+- Affected by [[ITEM0078_Glorious_Shield_of_the_Dawn]]
 - See also: [[Infected Experiments (Lore)
 - Related: [step_072 (phase_005)]]
 - Requires [[QUEST00096_Main_Quest_97
 - Compare with [Quartermaster David Simpleton]]
-- See also: [[Family Matriarch Anvil
-- Related: [NPC01716_Gareth_Ashford_the_Fallen]]
-- Compare with [[LOC00201_Towns_Location_202
-- Influences [NPC00323_Aldric_Grimholt_the_Seeker]]
+- See also: [[NPC01716_Gareth_Ashford_the_Fallen]]
+- Compare with [[NPC00323_Aldric_Grimholt_the_Seeker]]
 - Affected by [[Assets Item Artifact Enspelled Armor Level 7 Xdmg V1 Enspelled Armor Level 7 Xdmg.png
 - Originates from [04_Resources_Assets_Portraits_portrait-npc-captain-twin-reality-marsh-captain-twin-reality-marsh.svg_Quick_Ref]]
 - Affected by [[step_082 (phase_099)
 - Affected by [Similar Topic 1]]
-- Parallels [[step_053 (phase_076)
-- See also: [MON00152_Aberrations_Creature_153]]
+- Parallels [[MON00152_Aberrations_Creature_153]]
 - See also: [[flensing-claws-huge-vgm (items)
 - Requires [step_018 (phase_100)]]
-- Compare with [[step_068 (phase_071)
-- Requires [QUEST0042_In_Search_of_Power]]
-- Compare with [[Dwarves in the Clan Clans Status Mtf
-- Connects to [Democratic Technology Development (D&D_References)]]
+- Compare with [[QUEST0042_In_Search_of_Power]]
+- Compare with [[Democratic Technology Development (D&D_References)]]
 - Related: [[step_094 (phase_094)
 - Originates from [Cow Xdmg]]
 - Related: [[step_080 (phase_086)
@@ -356,18 +327,13 @@ flowchart LR
 - Compare with [Symbol Heraldry Purist Coalition Thugs Purist Coalition Thugs.svg]]
 - Leads to [[Assets Locations Location City Wise Counselor Deep V1 Wise Counselor Deep.svg
 - Requires [hew-lmop (items)]]
-- Connects to [[NPC00070_Erasmus_Silverleaf_the_Wise
-- Connects to [Living Reef]]
-- Compare with [[Resoce Chamber
-- Leads to [Void-touched Crew Member]]
-- Leads to [[Hybrid Healing
-- Requires [Sacred Texts of Transformation (D&D_References)]]
-- Connects to [[LOC00149_Planes_Location_150
-- See also: [The Crystal Cult (Cults_and_Movements)]]
+- Connects to [[NPC00070_Erasmus_Silverleaf_the_Wise]]
+- Compare with [[Void-touched Crew Member]]
+- Leads to [[Sacred Texts of Transformation (D&D_References)]]
+- Connects to [[The Crystal Cult (Cults_and_Movements)]]
 - Affected by [[Assets Portraits Portrait NPC the Resonance Prophet the Resonance Prophet.svg
 - Influences [Public Libraries 2]]
-- Influences [[Hidden Pit Xdmg
-- Related: [MON00037_Constructs_Creature_38]]
+- Influences [[MON00037_Constructs_Creature_38]]
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_quartermaster_sterling_suppystone_quartermaster_sterling_suppystone_svg_friendly.png

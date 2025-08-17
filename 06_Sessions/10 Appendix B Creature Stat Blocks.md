@@ -59,14 +59,14 @@ world: Both
 
 --- # Appendix B: [[Creature Stat Blocks
 
-*Source: Adventurer's Codex (2024), p. 346* This appendix provides stat blocks for creatures mentioned elsewhere in the book, particularly in the class, equipment, and spell chapters. See the "rules glossary" for how to read a [stat-block-xphb (variant-rules)]], and see the *[[Bestiary Compendium* for even more creatures. The following stat blocks are presented in alphabetical order. When the [Dungeon Master]] uses a stat block, the DM may change details in it. - [[[Giant Ape Xmm]] - [[giant-badger-xmm (beast) - [[[Giant Bat]] Xmm]] - [[black-bear-xmm - [giant-boar-xmm]] - [[brown-bear-xmm (beast) - [[[Camel Xmm]]]] - [[cat-xmm (beast) - [giant-constrictor-snake-xmm (beast)]] - [[giant-crab-xmm (beast) - [[[Crocodile Xmm]]]] - [[dire-wolf-xmm - [draft-horse-xmm (beast)]] - [[elephant-xmm (beast) - [elk-xmm (beast)]] - [[frog-xmm (beast) - [giant]] - [[giant - [[[Goat Xmm]]]] - [[giant - [giant-spider-xmm (beast)]] - [[giant - [[[Goat Xmm]]]] - [[[Blood Hawk Xmm]] - [[[Imp Xmm]] - [[lion-xmm (beast) - [lizard-xmm (beast)]] - [[[Mastiff Xmm]] - [[mule-xmm (beast) - [[[Giant Octopus]] Xmm]] - [[[Giant Owl Xmm]] - [[[Panther Xmm]] - [[pony-xmm (beast) - [pseudodragon-xmm (dragon)]] - [[quasit-xmm (fiend) - [[[Wererat Xmm]]]] - [[[Raven Xmm]] - [[[Reef Shark Xmm]] - [[riding-horse-xmm - [[[Giant Scorpion]] Xmm]] - [[flaming-skeleton-xmm (undead) - [slaad-tadpole-xmm (aberration)]] - [[sphinx - [phase-spider-xmm (monstrosity)]] - [[sprite-xmm (fey) - [[[Weretiger Xmm]]]] - [[venomous-snake-xmm - [warhorse-xmm (beast)]] - [[giant-weasel-xmm (beast) - [werewolf-xmm (monstrosity)]] - [[[Zombie Xmm]] ## 🔧 [[Deep Evaluation Improvements *20 targeted improvements identified* ### [Connection Improvements]] - Add cross-references to related notes ### [[Enhancement Improvements - Add 12_Research-specific enhancement ## Player-[Facing Summary]] 10 appendix b creature stat blocks is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## [[Lore Details Legends speak of 10 appendix b creature stat blocks as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 10 appendix b creature stat blocks. ## DM [Notes Play]] up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## [[Secret Connections]] *[Hidden from players]* Connected to [[The Veiled Alliance - Manipulate succession ## [Plot Hooks]] - A noble needs help delivering before the new moon
+*Source: Adventurer's Codex (2024), p. 346* This appendix provides stat blocks for creatures mentioned elsewhere in the book, particularly in the class, equipment, and spell chapters. See the "rules glossary" for how to read a [stat-block-xphb (variant-rules)]], and see the *[[Bestiary Compendium* for even more creatures. The following stat blocks are presented in alphabetical order. When the [Dungeon Master]] uses a stat block, the DM may change details in it. - [[[Giant Ape Xmm]] - [[giant-badger-xmm (beast) - [[[Giant Bat]] Xmm]] - [[black-bear-xmm]] - [[brown-bear-xmm (beast) - [[[Camel Xmm]]]] - [[giant-constrictor-snake-xmm]] - [[giant-crab-xmm (beast) - [[[Crocodile Xmm]]]] - [[dire-wolf-xmm - [draft-horse-xmm (beast)]] - [[elephant-xmm (beast) - [elk-xmm (beast)]] - [[frog-xmm (beast) - [giant]] - [[giant - [[[Goat Xmm]]]] - [[giant-spider-xmm]] - [[giant - [[[Goat Xmm]]]] - [[Blood Hawk Xmm]] - [[[Imp Xmm]] - [[lion-xmm (beast) - [lizard-xmm (beast)]] - [[[Mastiff Xmm]] - [[mule-xmm (beast) - [[[Giant Octopus]] Xmm]] - [[Giant Owl Xmm]] - [[[Panther Xmm]] - [[pony-xmm (beast) - [pseudodragon-xmm (dragon)]] - [[quasit-xmm (fiend) - [[[Wererat Xmm]]]] - [[[Raven Xmm]] - [[Reef Shark Xmm]] - [[riding-horse-xmm]] Xmm]] - [[flaming-skeleton-xmm (undead) - [slaad-tadpole-xmm (aberration)]] - [[sphinx - [phase-spider-xmm (monstrosity)]] - [[sprite-xmm (fey) - [[[Weretiger Xmm]]]] - [[venomous-snake-xmm - [warhorse-xmm (beast)]] - [[giant-weasel-xmm (beast) - [werewolf-xmm (monstrosity)]] - [[Zombie Xmm]] ## 🔧 [[Deep Evaluation Improvements *20 targeted improvements identified* ### [Connection Improvements]] - Add cross-references to related notes ### [[Enhancement Improvements - Add 12_Research-specific enhancement ## Player-[Facing Summary]] 10 appendix b creature stat blocks is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## [[Lore Details Legends speak of 10 appendix b creature stat blocks as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 10 appendix b creature stat blocks. ## DM [Notes Play]] up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## [[Secret Connections]] *[Hidden from players]* Connected to [[The Veiled Alliance - Manipulate succession ## [Plot Hooks]] - A noble needs help delivering before the new moon
 
 - Someone is protecting information for power
 - A stranger needs help delivering before winter ## [[Related Notes - [[[Similar Topic]] 1]]
 
-- [[[Contrasting Approach]]
-- [[[Advanced Version]]
-- [[[Historical Context]] ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## 12_Research [Specific Content]] Contextual improvement based on 12_Research
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]] ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## 12_Research [Specific Content]] Contextual improvement based on 12_Research
 
 ## Notes
 
@@ -101,28 +101,20 @@ world: Both
 Former associate of the party's patron
 
 ## [See Also]]
-- [[Character_Journals
-- [[11 [Rules Glossary]]]]
-- [[12 Spells
-- [NPC01894_Aldric_Lightbringer_the_Bold]]
-- [[NPC00317_Pyria_Blackstone_the_Redeemed
-- [[[What You]] Know - [[Abyssos Prime.md]]
-- [[MOC_Items
-- [NPC00385_Qadim_Darkwater_the_Cunning]]
-- [[NPC00661_Corvus_Darkwater_the_Broken
-- [[[Possession Mechanics]]]]
-- [[03 Races
-- [NPC01151_Orion_Stormwind_the_Seeker]]
+- [[Character_Journals]]]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]] Know - [[Abyssos Prime.md]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
 - [[Item_Catalog_Complete.md
 - [11 Spellcasting]]
 - [[MASTER_MOC
 - [[02 Step by [Step Characters]]]]
 -
 
-## [[Related Content
-- [10K_GENERATION_REPORT]]
-- [[ULTIMATE_VAULT_ACHIEVEMENT
-- [NEXT_LEVEL_IMPROVEMENTS]]
+## [[10K_GENERATION_REPORT]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
 
 ## [[Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -145,39 +137,36 @@ Former associate of the party's patron
 ## Connections
 
 - Connects to [[5 [Shared Campaigns]]]]
-- Compare with [[[[Assets Locations [Location City]] [[Chef Amara [Tastecurrent Chef]] [[Amara Tastecurrent.svg]]
+- Compare with [[Assets Locations]] [[Chef Amara [Tastecurrent Chef]] [[Amara Tastecurrent.svg]]
 - Originates from [[Quest - [Economic Development]]
-- Requires [[ITEM0084_Eldritch_Crown_of_the_Dawn
-- Influences [[[Chorus Master]] [[Melodia Depthsong (D&D_References)]]
+- Requires [[ITEM0084_Eldritch_Crown_of_the_Dawn]] [[Chorus Master Melodia Depthsong (D&D_References)]]
 - See also: [[step_088 (phase_021)
 - See also: [ITEM00878_Divine_Amulet_of_Destiny]]
 - Originates from [[04_Resources_Assets_Portraits_portrait-npc-captain-torren-stormwright-captain-torren-stormwright.svg_Quick_Ref
 - Parallels [[[Silver Sword]] Mtf]]
-- Requires [[[Market Heist]]
-- Compare with [[[Reef Tenders (D&D_References)]]
+- Requires [[Market Heist]]
+- Compare with [[Reef Tenders (D&D_References)]]
 - Requires
 - Originates from [[deities-of-dragonlance-neutral-phb (tables)
 - Influences [[[Vampire Nightbringer]] Xmm]]
-- Requires [[[The Surgical Sanctum (D&D_References)]]
+- Requires [[The Surgical Sanctum (D&D_References)]]
 - Affected by [[Crystal_Observatory
 - Related: [[Portrait NPC [Captain Tempest]] [[Eye Marelda V2 [Captain Tempest]] [[Eye Marelda.svg]]
-- Compare with [[[Depth Speak Variations 2]]
+- Compare with [[Depth Speak Variations 2]]
 - Affected by [[[[The Seven [Shard Guardians]] (D&D_References)]]
 - Influences [[ITEM00616_Mithril_Cloak_of_Resistance
 - Affected by [LORE00084_History_Entry_85]]
-- Originates from [[[International Void Treaties 2]]
+- Originates from [[International Void Treaties 2]]
 - Leads to [[LOC00201_Dungeons_Location_202
 - Connects to [neothelid-mpmm (aberration)]]
-- Parallels [[NPC01654_Kaelen_Frostwhisper_the_Scholar
-- Parallels [step_040 (phase_026)]]
-- Requires [[[Determine Aquabyssos (Lore)]]
-- Leads to [[[The Deep Sovereign]]
-- Requires [[[[Assets Locations [Location City]] the [[Perfect Symbiosis the [Perfect Symbiosis]].svg]]
+- Parallels [[NPC01654_Kaelen_Frostwhisper_the_Scholar]]
+- Requires [[Determine Aquabyssos]]
+- Leads to [[The Deep Sovereign]]
+- Requires [[Assets Locations]] the [[Perfect Symbiosis the [Perfect Symbiosis]].svg]]
 - Connects to [[[Giant Vulture Xmm]]
-- Compare with [[[Celestial Gardens]]
-- Related: [[NPC00056_Gavril_Underhill
-- Influences [[Dr. [Memory Lane]]]]
-- Related: [[[The Great Shattering]]
+- Compare with [[Celestial Gardens]]
+- Related: [[NPC00056_Gavril_Underhill]]]]
+- Related: [[The Great Shattering]]
 - See also:
 - See also: [[NPC00232_Hilda_Blackstone
 - Influences
@@ -191,26 +180,22 @@ Former associate of the party's patron
 - See also: [[[Healer Tide]]-Touch 2]]
 - Compare with [[ITEM00447_Fortified_Plate_of_the_Guardian
 - Influences [[Shadow-[Touched Individuals]]]]
-- Connects to [[[[Scene Scene the Party S [First Glimpse]] of [[Abyssos Prime the Party S [First Glimpse]] of [[Abyssos Prime.svg]]
+- Connects to [[[[Scene Scene the Party S [First Glimpse]] of [[Abyssos Prime the Party S [First Glimpse]] of [[Abyssos Prime]]
 - Parallels
 - Leads to
 - Related: [[[Amethyst Xdmg]]
 - Related: [[[[Final Challenge [Rating Experience]] Points by]]
 - Connects to [[[[Location City the [Forgotten One]] the [[Forgotten One.png]]
-- Related: [[[Item Finder]]
-- Leads to [[[Emergency Response Protocol]]
-- Influences [[[The Sorrow Gardens (D&D_References)]]
+- Related: [[Item Finder]]
+- Leads to [[Emergency Response Protocol]]
+- Influences [[The Sorrow Gardens (D&D_References)]]
 - Influences [[[[Physical Variations [Scale Pattern]] Vgm]]
 - Influences [[step_059 (phase_056)
 - Compare with [ITEM01103_Lesser_Crystal_of_Vigor]]
-- Originates from [[white-dragon-wyrmling-xmm (dragon)
-- Leads to [NPC01368_Corvus_Crystalbrook_the_Cunning]]
-- Affected by [[LOC00248_Cities_Location_249
-- Leads to [[[Fire Chief]] [[Michael Rescue]]
-- Affected by [[NPC01183_Fiora_Jadeclaw_the_Mystic
-- Related: [[Session 3 [Underwater Chase]]]]
-- See also: [[NPC00288_Branwen_Ashford_the_Seeker
-- Parallels [step_008 (phase_042)]]
+- Originates from [[NPC01368_Corvus_Crystalbrook_the_Cunning]]
+- Affected by [[LOC00248_Cities_Location_249]] [[Fire Chief Michael Rescue]]
+- Affected by [[NPC01183_Fiora_Jadeclaw_the_Mystic]]]]
+- See also: [[NPC00288_Branwen_Ashford_the_Seeker]]
 - Originates from [[step_062 (phase_079)
 - Leads to [step_046 (phase_060)]]
 - Requires [[flame-tongue-xdmg (items)
@@ -220,29 +205,24 @@ Former associate of the party's patron
 - Related: [[step_011 (phase_029)
 - Leads to [step_094 (phase_095)]]
 - Affected by [[[[Symbol Heraldry the [Great Cacophony]] V1 the [[Great Cacophony.svg]]
-- Compare with [[SPELL00109_Arcane_Spell_110
-- Connects to [[[Natural Order]] Movemen]]
+- Compare with [[SPELL00109_Arcane_Spell_110]] Movemen]]
 - Connects to [[step_049 (phase_096)
 - Affected by [[[Deep Current]] Academy]]
 - Parallels [[Circle of [Power Xphb]]
 - Leads to
-- Related: [[NPC01593_Xander_Ironforge_the_Wanderer
-- Originates from [Clues_by_Location.png]]
-- Compare with [[[Shadow Physiology and Anatomy 2]]
+- Related: [[NPC01593_Xander_Ironforge_the_Wanderer]]
+- Compare with [[Shadow Physiology and Anatomy 2]]
 - Requires [[DM_Advice_Articles
 - Parallels [[[Location City]] the [[Noble Quarter Market V1 the [Noble Quarter]] Market.svg]]
 - Compare with [[[Phase Spider Xmm]]
-- Connects to [[[Finn Worldwalker]]
-- Related: [[step_012 (phase_070)
-- Requires [ENC00042_Environmental_Encounter_43]]
+- Connects to [[Finn Worldwalker]]
+- Related: [[ENC00042_Environmental_Encounter_43]]
 - Parallels [[D-005 [Shadow Bloom Player (Encounters)]]
-- Influences [[LORE00100_History_Entry_101
-- Requires [NPC00320_Malakai_Hawthorne_the_Redeemed]]
+- Influences [[NPC00320_Malakai_Hawthorne_the_Redeemed]]
 - Originates from
-- Related: [[celtic-math-mathonwy (deities)
-- Connects to [NPC01173_Alaric_Voidwalker_the_Broken]]
+- Related: [[NPC01173_Alaric_Voidwalker_the_Broken]]
 - Requires [[[[Gith Random Height and [Weight Mtf]]]]
-- See also: [[[Depth Safety Authorit 2]]
+- See also: [[Depth Safety Authorit 2]]
 - Compare with [[step_095 (phase_099)
 
 ## Statistics

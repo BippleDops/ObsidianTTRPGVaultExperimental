@@ -146,48 +146,27 @@ tags: [combat, lore]
 > Important safety or rule information
 
 ## See Also
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [Ambassador Nerida Deepcurrent]]
-- [[Depth_Adapted_Background
-- [NPC00649_Corvus_Zephyrblade_the_Broken]]
-- [[NPC01360_Ewan_Blackstone_the_Strong
-- [NPC01466_Urien_Nightfall_the_Guardian]]
-- [[NPC01937_Felicia_Silverleaf_the_Wanderer
-- [NPC00285_Xander_Goldleaf_the_Mystic]]
-- [[NPC00281_Hestara_Nightfall_the_Cunning
-- [NPC01789_Vesper_Proudmore_the_Mystic]]
-- [[Sage Elara
-- [NPC00515_Baelor_Crystalbrook_the_Seeker]]
-- [[Pip Goldleaf
-- [NPC01312_Alaric_Darkwater_the_Fallen]]
-- [[Character_Journals
-- [NPC00552_Malakai_Stormwind_the_Seeker]]
-- [[NPC00250_Delara_Darkwater_the_Fallen
-- [NPC01943_Xander_Proudmore_the_Fallen]]
-- [[NPC01931_Thalia_Lightbringer_the_Fallen
-- [Party_Inventory]]
-- [[Parliament of Shadows Player Guide.md
-- [NPC01262_Ysara_Dawnstrider_the_Swift]]
-- [[Faction_Guide.md
-- [NPC00362_Pyria_Stormwind_the_Wise]]
-- [[Ancient_Prophecy_Fragment_Verdan
-- [Trade_Route_Chart_Port_Meridia]]
-- [[NPC00124_Delara_Ravenheart_the_Redeemed
-- [Pilgrim_Pass_Prayer_Sli]]
-- [[Quiet_Chapel_Oath_Scrol
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
-- [[What You Know - Abyssos Prime.md
-- [Currency_Guide_Scrip_and_Shard]]
-- [[Ritual_Timing_Wheel_Convergenc
-- [Welcome_to_Aquabyssos.md]]
-- [[NPC01371_Xander_Stormwind_the_Guardian
-- [MOC_NPCs]]
-- [[09 Appendix a the Multiverse
-- [NPC00761_Aldric_Moonshadow_the_Guardian]]
-- [[NPC01632_Qadim_Darkwater_the_Guardian
-- [MOC_Sessions]]
-- [[Master_Narrative_Web.md
-- [NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[Ancient_Prophecy_Fragment_Verdan]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Currency_Guide_Scrip_and_Shard]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
 -
 
 ## Related Content
@@ -212,10 +191,8 @@ tags: [combat, lore]
 - Requires [Gilded Royal Coach or Funeral Barge Xdmg]]
 - Influences [[Location City Codex of Forgotten Depths Codex of Forgotten Depths.svg
 - Connects to [Sister Miriam of the Scales]]
-- Leads to [[NPC01309_Alaric_Brightblade_the_Wanderer
-- Connects to [MON00030_Aberrations_Creature_31]]
-- Requires [[Kelp Forest Monasteries 2
-- Parallels [The Sunken Markets (D&D_References)]]
+- Leads to [[NPC01309_Alaric_Brightblade_the_Wanderer]]
+- Requires [[The Sunken Markets (D&D_References)]]
 - Requires [[Portrait NPC the Parasite Priests the Parasite Priests.svg_1 (Portraits)
 - Affected by [map-map-sunken-crown-crypt-sunken-crown-crypt.svg]]
 - Related: [[QUEST00261_Personal_Quest_262
@@ -226,24 +203,18 @@ tags: [combat, lore]
 - Affected by [vehicle-ship-maelstrom-tug-v1-maelstrom-tug.svg]]
 - Influences [[LORE00284_Legends_Entry_285
 - Originates from [Assets Locations Location City Trade Regulations Trade Regulations.svg]]
-- See also: [[Template_Galaxy_Placeholder.png_2 (09_Templates)
-- Affected by [step_056 (phase_100)]]
-- Compare with [[Forgotten Realms Myrkul
-- See also: [09-adventuring (players-handbook-2014)]]
+- See also: [[Template_Galaxy_Placeholder.png_2 (09_Templates)]]
+- Compare with [[09-adventuring (players-handbook-2014)]]
 - Leads to [[step_006 (phase_031)
 - Leads to [04_Resources_Handouts_Ships_Player_Handout_Aethermoor_Airships]]
-- Influences [[step_013 (phase_070)
-- Requires [NPC00974_Jorah_Oakenshield_the_Fallen]]
-- Affected by [[MON00091_Aberrations_Creature_92
-- See also: [step_016 (phase_013)]]
+- Influences [[NPC00974_Jorah_Oakenshield_the_Fallen]]
+- Affected by [[MON00091_Aberrations_Creature_92]]
 - Related: [[step_003 (phase_067)
 - Connects to [LOC00091_Towns_Location_92]]
 - Connects to [[Saving Throws Proficiency Bonus by Challenge
 - Leads to [Etheric Currents (D&D_References)]]
-- Connects to [[Memory Merchant Valeria Siltweave
-- Influences [step_032 (phase_080)]]
-- Affected by [[Pit Trap Xge
-- Originates from [ENC00170_Combat_Encounter_171]]
+- Connects to [[Memory Merchant Valeria Siltweave]]
+- Affected by [[ENC00170_Combat_Encounter_171]]
 - See also: [[troll-xmm (giant)
 - Originates from [Location City Abyssos Prime Inverse Palace V1 Abyssos Prime Inverse Palace.svg]]
 - Affected by [[step_087 (phase_086)
@@ -260,14 +231,11 @@ tags: [combat, lore]
 - Leads to [ring-of-feather-falling-xdmg (items)]]
 - Leads to [[DUN00138_Dungeon_139
 - Compare with [LOC00243_Towns_Location_244]]
-- Affected by [[step_024 (phase_067)
-- Originates from [NPC00536_Brenna_Darkwater_the_Redeemed]]
+- Affected by [[NPC00536_Brenna_Darkwater_the_Redeemed]]
 - See also: [[plate-armor-xphb (items)
 - Influences [flame-arrows-xge (spells)]]
-- Compare with [[Emergency Destruction
-- Influences [MON00090_Constructs_Creature_91]]
-- Related: [[Aethermoor to Aquabyssos Transition Guide 3 (D&D_References)
-- Related: [Hadal Depths (D&D_References)]]
+- Compare with [[MON00090_Constructs_Creature_91]]
+- Related: [[Aethermoor to Aquabyssos Transition Guide 3 (D&D_References)]]
 - Affected by [[The Deep Mother
 - Requires [Portrait NPC King Torrhen Lumengarde V2 King Torrhen Lumengarde.svg_1 (Portraits)]]
 - Related: [[FAC00021_Cults_22
@@ -278,14 +246,11 @@ tags: [combat, lore]
 - Affected by [[Aquabyssos World Guide
 - Requires [Assets Locations Location City Count Viktor Pressureborn Count Viktor Pressureborn.svg]]
 - Related:
-- Leads to [[The Pressure Storm Region
-- Parallels [FAC00043_Guilds_44]]
-- Affected by [[Mixing Potions
-- Affected by [Crystal Artillery Player]]
+- Leads to [[The Pressure Storm Region]]
+- Affected by [[Crystal Artillery Player]]
 - Related: [[QUEST0058_The_Shadow_Realm_Conspiracy
 - Connects to [Portrait NPC Abyssos Prime Throne of Bubbles V2 Abyssos Prime Throne of Bubbles.svg_1 (Portraits)]]
-- Originates from [[Stone Giant Dreamwalker Mpmm
-- See also: [Symbol Heraldry Bex... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Originates from [[Symbol Heraldry Bex... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Affected by [[Scholars of Lorehold Lorehold Scholars Scc
 - Connects to [Graveyard Revenant Xmm]]
 - See also: [[Create New Location
@@ -293,19 +258,14 @@ tags: [combat, lore]
 - Connects to [[Colossus Xmm
 - See also: [Location City Crystallium Embassy Crystallium Embassy.svg]]
 - Originates from
-- Related: [[NPC00541_Baelor_Oakenshield_the_Strong
-- Leads to [step_024 (phase_012)]]
+- Related: [[NPC00541_Baelor_Oakenshield_the_Strong]]
 - Originates from [[ITEM00169_Shadow_Bow_of_Power
 - Originates from [step_035 (phase_058)]]
 - Compare with
-- Influences [[Council of Mages 2
-- Related: [Deepcaster]]
-- Connects to [[Pressure Brewing Technology
-- Leads to [Emergency Response Coordinator Time Guardian]]
-- Requires [[step_090 (phase_095)
-- Related: [The Cultural Heritage Center]]
-- See also: [[step_092 (phase_029)
-- Parallels [NPC00568_Thalia_Brightblade_the_Fallen]]
+- Influences [[Council of Mages 2]]
+- Connects to [[Emergency Response Coordinator Time Guardian]]
+- Requires [[The Cultural Heritage Center]]
+- See also: [[NPC00568_Thalia_Brightblade_the_Fallen]]
 - Parallels [[Downtime Activity Researching Phb
 
 ## Visual References

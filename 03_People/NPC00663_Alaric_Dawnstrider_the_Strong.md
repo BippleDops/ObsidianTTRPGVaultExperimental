@@ -163,38 +163,21 @@ Being extorted by criminals
 
 ## See Also
 - [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC00587_Idris_Youngblood_the_Strong
-- [NPC00300_Urien_Zephyrblade]]
-- [[NPC00124_Delara_Ravenheart_the_Redeemed
-- [NPC01841_Malakai_Nightfall_the_Wise]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC00372_Alaric_Grimholt]]
-- [[NPC01911_Alaric_Oakenshield_the_Mystic
-- [NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[NPC00542_Corvus_Oakenshield_the_Strong
-- [NPC00976_Alaric_Quicksilver_the_Strong]]
-- [[NPC01360_Ewan_Blackstone_the_Strong
-- [NPC01201_Felicia_Ironwood_the_Bold]]
-- [[NPC01290_Pyria_Ashford_the_Broken
-- [Ceasefire_Accord_Draft.md]]
-- [[NPC01682_Vesper_Blackstone_the_Guardian
-- [Combat_Encounter_Analysis]]
-- [[NPC01699_Orion_Oakenshield_the_Broken
-- [NPC00058_Elric_Nightfall]]
-- [[NPC01970_Brenna_Dawnstrider_the_Wise
-- [World_Primer.md]]
-- [[Guild Seal Document Silverscale Consortiu
-- [NPC01943_Xander_Proudmore_the_Fallen]]
-- [[NPC01789_Vesper_Proudmore_the_Mystic
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC01970_Brenna_Dawnstrider_the_Wise]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
 - [[MOC_Items
 - [12 Spells]]
-- [[NPC00407_Hestara_Dawnstrider
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00407_Hestara_Dawnstrider]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -214,12 +197,10 @@ Being extorted by criminals
 - Influences [Nonhuman Corellon Larethian]]
 - Leads to [[LOC00289_Dungeons_Location_290
 - Influences [QUEST00330_Side_Quest_331]]
-- Parallels [[step_061 (phase_037)
-- Related: [Medical Officer Dr Siphon Pressurehealer]]
+- Parallels [[Medical Officer Dr Siphon Pressurehealer]]
 - Influences [[ITEM01084_Lesser_Potion_of_Swiftness
 - Compare with [ITEM00036_Thunder_Crossbow_of_Speed]]
-- Compare with [[QUEST0060_The_Cursed_Secret
-- Leads to [Festival Master Elena Brightcrystal]]
+- Compare with [[Festival Master Elena Brightcrystal]]
 - Leads to [[step_055 (phase_100)
 - Leads to [The Recovery Sanctum]]
 - Influences [[Lord Reginald Seaworthy
@@ -245,8 +226,7 @@ Being extorted by criminals
 - See also: [step_065 (phase_042)]]
 - Connects to [[Portrait NPC the Verdant Accord V1 the Verdant Accord.svg
 - See also: [familiars-vgm (variant-rules)]]
-- Compare with [[LOC0051_Bridgeridge
-- Influences [Captain Morgrim Lastvessel (D&D_References)]]
+- Compare with [[Captain Morgrim Lastvessel (D&D_References)]]
 - See also: [[step_043 (phase_052)
 - Connects to
 - Affected by
@@ -255,19 +235,17 @@ Being extorted by criminals
 - See also:
 - Originates from [allosaurus-xmm (beast)]]
 - Requires
-- Affected by [[LOC00170_Planes_Location_171
-- Requires [step_051 (phase_066)]]
+- Affected by [[LOC00170_Planes_Location_171]]
 - Parallels [[LORE00204_Prophecies_Entry_205
 - Parallels [[Location City [Flame Keeper Brother Ignatius]] V1 Flame Keeper Brother Ignatius.svg]]
 - Leads to [[step_070 (phase_006)
 - Affected by [LORE00307_Legends_Entry_308]]
-- Compare with [[step_060 (phase_022)
-- Influences [Vespara Nightwhisper Thorne]]
+- Compare with [[Vespara Nightwhisper Thorne]]
 - Originates from
 - Requires [[step_016 (phase_007)
 - Parallels [DUN00085_Dungeon_86]]
 - Parallels
-- Affected by [[[Floating Cities of Nimbus]]
+- Affected by [[Floating Cities of Nimbus]]
 - Originates from [[LOC00004_Towns_Location_5
 - Parallels [step_008 (phase_061)]]
 - Originates from [[The Shadow Duchess Duel (Criminal_Organizations)
@@ -286,8 +264,7 @@ Being extorted by criminals
 - Requires [[Assets Locations Location City [High Court High Court.svg]]
 - Connects to [[step_047 (phase_073)
 - Leads to [Master_Smith_Coral-Hammer.png]]
-- Requires [[Marquis Benedict Riversen 2
-- Compare with [Greataxe Xphb]]
+- Requires [[Marquis Benedict Riversen 2]]
 - Requires [[chamber-purpose-dungeon-mine (tables)
 - Requires [hill-giant-xmm]]
 - Leads to [[Assets Locations Location City [Community Organizations V1 Community Organizations.svg]]
@@ -296,12 +273,10 @@ Being extorted by criminals
 - See also: [NPC01113_Solas_Ravenheart_the_Cunning]]
 - Influences [[LOC00238_Wilderness_Location_239
 - Requires [Portrait NPC Envoy Blackwater Jr V2 Envoy Blackwater Jr.svg_1 (Portraits)]]
-- Requires [[norse-thor (deities)
-- Related: [Imperial Crown Fragment (D&D_References)]]
+- Requires [[Imperial Crown Fragment (D&D_References)]]
 - Influences [[The Coral Estates
 - Requires [cave-badger-oota (beast)]]
-- Compare with [[Dawn War Lolth Dmg
-- Influences [The Coral Gardens (D&D_References)]]
+- Compare with [[The Coral Gardens (D&D_References)]]
 - Requires [[Symbol Heraldry Major Trading Companies Major Trading Companies.svg
 - Influences [NPC01374_Ewan_Nightfall_the_Broken]]
 - Affected by

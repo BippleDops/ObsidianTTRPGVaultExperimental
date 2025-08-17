@@ -42,7 +42,7 @@ level: 1-5
 updated: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
-- -- # Session 01: [[Sky Realm]] Crisis] * Winds of Rebellion - [[Aethermoor Politics* ## 🔧 [Deep Evaluation]] Improvements * 20 targeted improvements identified* ### [[Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### [Rewards Improvements]] - Create treasure parcels for each major encounter ### [[Structure Improvements - Add three-act structure with rising action ### [Choices Improvements]] - Add meaningful decision points with consequences ### [[Roleplay Improvements - Include ethical challenges without clear answers ### [Accessibility Improvements]] - Include content warnings and safety tools ### [[Props Improvements - List physical props and handouts needed ### Level_Range Improvements - Provide scaling for different level ranges ### [Art Improvements]] - Add AI art prompts for key scenes ### [[Worldbuilding Improvements - Connect to three other adventures in the vault ### [Soundtrack Improvements]] - Suggest music/ambiance for each scene ### [[Backup Improvements - Add 'What if players skip this?' contingency ### [Variants Improvements]] - Add horror, intrigue, and comedy tone variants ## [[Session Overview **Location**: [[Floating City]]/Skyship] ## Description
+- -- # Session 01: [[Sky Realm]] Crisis] * Winds of Rebellion - [[Aethermoor]] Improvements * 20 targeted improvements identified* ### [[Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### [Rewards Improvements]] - Create treasure parcels for each major encounter ### [[Structure Improvements - Add three-act structure with rising action ### [Choices Improvements]] - Add meaningful decision points with consequences ### [[Roleplay Improvements - Include ethical challenges without clear answers ### [Accessibility Improvements]] - Include content warnings and safety tools ### [[Props Improvements - List physical props and handouts needed ### Level_Range Improvements - Provide scaling for different level ranges ### [Art Improvements]] - Add AI art prompts for key scenes ### [[Worldbuilding Improvements - Connect to three other adventures in the vault ### [Soundtrack Improvements]] - Suggest music/ambiance for each scene ### [[Backup Improvements - Add 'What if players skip this?' contingency ### [Variants Improvements]] - Add horror, intrigue, and comedy tone variants ## [[Session Overview **Location**: [[Floating City]]/Skyship] ## Description
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 **Level**: 8th
@@ -54,8 +54,7 @@ improvements: 20
 4. **[Climax Location]]**: Where everything comes together ### [[Primary Hook The main reason parties acquire involved ## DM Notes * Private notes for campaign integration:* - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes ## [Plot Hooks]] - Strange accidents suggest a portal - An heirloom has gone missing and chaos spreads ## [[See Also
-- [Session 1 Shadows in the Senate]] - Related content
+- Connections to overarching campaign themes ## [Plot Hooks]] - Strange accidents suggest a portal - An heirloom has gone missing and chaos spreads ## [[Session 1 Shadows in the Senate]] - Related content
 - Similar topics
 - Connected elements ## [[Alternate Descriptions - **[First Impression]]**: Initial appearance
 - **[[Closer Look**: Detailed examination

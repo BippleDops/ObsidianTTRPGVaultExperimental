@@ -54,19 +54,7 @@ improvements: 20
 
 ### [Diaspora Improvements]]
 
-- Describe how this culture exists in other [[regions
-
-### Oral_Tradition Improvements
-
-- Add folk tales and children's stories
-
-### Material_Culture Improvements
-
-- Detail common objects and their cultural significance
-
-## Overview
-
-06_GM_Resources/Session_Packets/[Aquabyssos Session]] 01 represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+- Describe how this culture exists in other [[region]] 01 represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ### [[Basic Information
 06_GM_Resources/Session_Packets/[Aquabyssos Session]] 01 can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
@@ -78,7 +66,7 @@ improvements: 20
 ### [[Detailed Explanation
 The full nature of 06_GM_Resources/Session_Packets/[Aquabyssos Session]] 01 involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### [[[Historical Context]]
+### [[Historical Context]]
 The origins and development of 06_GM_Resources/Session_Packets/[[Aquabyssos Session 01 trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### [Related Elements]]
@@ -302,7 +290,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

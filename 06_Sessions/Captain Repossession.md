@@ -156,11 +156,11 @@ Legends speak of [[Captain Repossession as a nexus where past and present conver
 
 ## [Plot Hooks]]
 
-1. **[[The Request**: [Captain Repossession]] needs assistance with a delicate matter
+1. **[[Captain Repossession]] needs assistance with a delicate matter
 2. **[[The Opposition**: Someone wants [Captain Repossession]] stopped or removed
 3. **[[The Secret**: Information about [Captain Repossession]]'s past surfaces
 4. **[[The Alliance**: Opportunity to work with or against [Captain Repossession]]
-5. **[[The Crisis**: [Captain Repossession]] is caught in a situation requiring intervention
+5. **[[Captain Repossession]] is caught in a situation requiring intervention
 
 ## [[Notable Quotes
 
@@ -291,7 +291,7 @@ ___
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

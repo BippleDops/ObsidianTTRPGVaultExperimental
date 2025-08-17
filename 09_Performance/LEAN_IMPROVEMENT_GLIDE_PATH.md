@@ -135,44 +135,34 @@ This content explores themes of loyalty, adding narrative depth to your campaign
 - Related: [Dragonlance Solinari Phb]]
 - Influences [[LOC00284_Towns_Location_285
 - Leads to [QUEST00205_Personal_Quest_206]]
-- Leads to [[step_048 (phase_082)
-- See also: [NPC01222_Dara_Quicksilver_the_Risen]]
-- Affected by [[Master Banker Cornelius Coinwrigh
-- Related: [step_024]]
+- Leads to [[NPC01222_Dara_Quicksilver_the_Risen]]
+- Affected by [[Master Banker Cornelius Coinwrigh]]
 - See also: [[efreeti-bottle-xdmg (items)
 - Requires [ENC0051_Random_Encounter_52]]
-- Affected by [[NPC00018_Gareth_Dawnstrider
-- Compare with [Old Valdris]]
-- Influences [[Pilgrimage Routes (D&D_References)
-- Connects to [Syncretist Mediators]]
+- Affected by [[NPC00018_Gareth_Dawnstrider]]
+- Influences [[Pilgrimage Routes (D&D_References)]]
 - Leads to [[Island of Screams 2
 - Affected by [bard-xphb 2 (classes)]]
 - Affected by [[Nilbog Mpmm
 - Related: [step_088]]
 - Originates from [[step_046
 - Related: [lamia-xmm (fiend)]]
-- Influences [[step_056
-- Compare with [QUEST00184_Side_Quest_185]]
+- Influences [[QUEST00184_Side_Quest_185]]
 - Originates from [[QUEST00163_Side_Quest_164
 - Affected by [LOC00024_Dungeons_Location_25]]
 - See also: [[Location City the Kelp Highway the Kelp Highway.svg
 - Affected by [step_030 (phase_039)]]
-- Parallels [[Seasonal Quarters
-- Related: [LOC00041_Planes_Location_42]]
-- Originates from [[step_075 (phase_021)
-- Compare with [MON00111_Aberrations_Creature_112]]
-- Affected by [[Thermal Vent Communities (D&D_References)
-- Requires [step_011 (phase_051)]]
-- Leads to [[House Stormwind (D&D_References)
-- Leads to [knock-xphb (spells)]]
+- Parallels [[LOC00041_Planes_Location_42]]
+- Originates from [[MON00111_Aberrations_Creature_112]]
+- Affected by [[Thermal Vent Communities (D&D_References)]]
+- Leads to [[House Stormwind (D&D_References)]]
 - Related: [[step_047 (phase_098)
 - Affected by [step_066 (phase_044)]]
 - Influences [[step_006 (phase_080)
 - Compare with [SPELL00003_Divine_Spell_4]]
 - Compare with [[MON00055_Undead_Creature_56
 - Connects to [conjure-elemental-xphb (spells)]]
-- Influences [[NPC00537_Jorah_Youngblood_the_Cunning
-- Originates from [MON00056_Undead_Creature_57]]
+- Influences [[NPC00537_Jorah_Youngblood_the_Cunning]]
 - Originates from [[ENC00376_Combat_Encounter_377
 - Originates from [LORE00240_Prophecies_Entry_241]]
 - Compare with [[step_018
@@ -181,16 +171,12 @@ This content explores themes of loyalty, adding narrative depth to your campaign
 - Leads to [step_063 (phase_038)]]
 - Requires [[list-spells-rewards-boon-of-the-stormborn (lists)
 - See also: [step_025]]
-- Requires [[The Identity Wars
-- Connects to [ENC00105_Combat_Encounter_106]]
+- Requires [[ENC00105_Combat_Encounter_106]]
 - Originates from [[Assets Portraits Portrait NPC Master of Currents Poseidon Master of Currents Poseidon.svg
 - Leads to [Demiplane Xphb]]
-- Parallels [[LOC00266_Planes_Location_267
-- Related: [spellbook]]
-- Related: [[Sacred Texts of Transformation (D&D_References)
-- Related: [step_042]]
-- Requires [[step_011
-- Parallels [MON00143_Undead_Creature_144]]
+- Parallels [[LOC00266_Planes_Location_267]]
+- Related: [[Sacred Texts of Transformation (D&D_References)]]
+- Requires [[MON00143_Undead_Creature_144]]
 - Originates from [[LOC00100_Dungeons_Location_101
 - Compare with [ITEM00698_Warded_Boots_of_Protection]]
 - Requires [[undead-spirit-putrid-xphb (undead)
@@ -199,28 +185,22 @@ This content explores themes of loyalty, adding narrative depth to your campaign
 - Affected by [Quartermaster Shadow Supply 2]]
 - Affected by [[ITEM01305_Elegant_Lantern_of_Durability
 - See also: [ENC00117_Environmental_Encounter_118]]
-- See also: [[Depth Raider
-- Related: [Administrator Marcus Protocols]]
+- See also: [[Administrator Marcus Protocols]]
 - Originates from [[Witness Reports (D&D_References)
 - Connects to [LOC00169_Planes_Location_170]]
-- Connects to [[Underground River Systems (D&D_References)
-- Parallels [QUEST00421_Side_Quest_422]]
+- Connects to [[Underground River Systems (D&D_References)]]
 - See also: [[ITEM01099_Pure_Powder_of_Clarity
 - Related: [step_097]]
-- Compare with [[NPC00508_Alaric_Nightfall_the_Guardian
-- Affected by [ENC00203_Combat_Encounter_204]]
+- Compare with [[NPC00508_Alaric_Nightfall_the_Guardian]]
 - Affected by [[step_034 (phase_087)
 - Affected by [LORE00269_History_Entry_270]]
-- Related: [[Security Officer Guard Stormwind (D&D_References)
-- Influences [cone-area-of-effect-xphb (variant-rules)]]
+- Related: [[Security Officer Guard Stormwind (D&D_References)]]
 - Connects to [[Order Of The Drowned Star
 - Affected by [portrait-npc-sirens-v2-sirens.svg_1 (Portraits)]]
 - Compare with [[Backpack Xphb
 - Affected by [NPC00244_Idris_Goldleaf_the_Risen]]
-- Parallels [[step_017
-- Affected by [Shadow Attache Void 2]]
+- Parallels [[Shadow Attache Void 2]]
 - Leads to [[Assets Locations Location City Temple of the Deep Current V1 Temple of the Deep Current.svg
 - See also: [Kelp Maze (D&D_References)]]
-- Leads to [[NPC00509_Caelum_Silverleaf_the_Scholar
-- Related: [step_085 (phase_046)]]
+- Leads to [[NPC00509_Caelum_Silverleaf_the_Scholar]]
 - Related: [[Location City Archivist Stone Memorykeeper Archivist Stone Memorykeeper.svg]]

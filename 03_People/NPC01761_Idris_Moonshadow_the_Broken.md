@@ -158,32 +158,22 @@ Offers deal too good to refuse
 
 ## See Also
 - [NPC00190_Cedric_Silverleaf]]
-- [[NPC00259_Delara_Proudmore
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC00095_Fiora_Nightfall
-- [NPC00372_Alaric_Grimholt]]
-- [[NPC01301_Jorah_Underhill_the_Broken
-- [NPC00461_Branwen_Proudmore_the_Strong]]
-- [[NPC01870_Lyanna_Silverleaf_the_Cunning
-- [NPC00276_Ysara_Youngblood]]
-- [[NPC01989_Erasmus_Xendar_the_Strong
-- [NPC01312_Alaric_Darkwater_the_Fallen]]
-- [[NPC01951_Gavril_Xendar_the_Swift
-- [NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[NPC01290_Pyria_Ashford_the_Broken
-- [NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00095_Fiora_Nightfall]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
 - [[MOC_Lore
 - [MOC_Rules]]
-- [[NPC01699_Orion_Oakenshield_the_Broken
-- [Parliament of Shadows Player Guide.md]]
-- [[NPC01594_Fiora_Proudmore_the_Seeker
-- [NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -199,9 +189,8 @@ Offers deal too good to refuse
 ## Connections
 
 - Originates from
-- Affected by [[[Wandering Prophet Coral Stormrider (D&D_References)]]
-- Leads to [[SPELL00136_Nature_Spell_137
-- Leads to [step_031 (phase_079)]]
+- Affected by [[Wandering Prophet Coral Stormrider (D&D_References)]]
+- Leads to [[SPELL00136_Nature_Spell_137]]
 - Influences [[Doctor_Silas_Voidtouch.png
 - Leads to [portrait-npc-mayor-s-manor-v2-mayor-s-manor.svg_1 (Portraits)]]
 - Originates from [[Border Territories
@@ -227,16 +216,13 @@ Offers deal too good to refuse
 - See also: [[Spiritual Healing
 - Influences [[[Harbor Master's Tower]] 2]]
 - Parallels [[Location City [Sommelier Bacchus Deepbottle Sommelier Bacchus Deepbottle.svg]]
-- Leads to [[step_079 (phase_081)
-- Connects to [NPC01052_Idris_Brightblade_the_Mystic]]
-- Influences [[step_018 (phase_086)
-- Influences [Coastal Encounters Levels 510 Xge]]
+- Leads to [[NPC01052_Idris_Brightblade_the_Mystic]]
+- Influences [[Coastal Encounters Levels 510 Xge]]
 - Parallels
 - Originates from [[Sister Astara the Ever-Watching 2
 - Leads to
 - Connects to [instrument-of-the-bards-xdmg (items)]]
-- Connects to [[Magic Initiate Xphb
-- Compare with [MON00147_Undead_Creature_148]]
+- Connects to [[MON00147_Undead_Creature_148]]
 - Parallels [[NPC0107_Beatrix_Goldleaf
 - Originates from
 - Connects to [Minister Nightpolicy]]
@@ -244,14 +230,11 @@ Offers deal too good to refuse
 - Compare with [[[Lord Reginald Seaworthy]] (D&D_References)]]
 - Related: [[step_037 (phase_033)
 - Compare with [LOC0135_LowerGate]]
-- Influences [[NPC00931_Erasmus_Winterborn_the_Swift
-- Parallels [step_069 (phase_039)]]
+- Influences [[NPC00931_Erasmus_Winterborn_the_Swift]]
 - Influences [[LOC0011_SouthBridge
 - Influences [Elder Kythara]]
-- Compare with [[MON00143_Aberrations_Creature_144
-- See also: [[[The Forgotten One]] 2]]
-- Parallels [[QUEST00145_Personal_Quest_146
-- Influences [Master Smith-Priest Vulcan Depthforge (D&D_References)]]
+- Compare with [[MON00143_Aberrations_Creature_144]] 2]]
+- Parallels [[Master Smith-Priest Vulcan Depthforge (D&D_References)]]
 - Related: [[Wind Songs (D&D_References)
 - Compare with [Roleplaying a Beholder Beholder Bonds Vgm]]
 - Affected by [[LORE00065_History_Entry_66
@@ -260,10 +243,8 @@ Offers deal too good to refuse
 - See also: [hook-horror-spore-servant-oota (plant)]]
 - Leads to [[Calendar_Conversions_Realm_Window
 - Compare with [figuring-out-alien-technology (tables)]]
-- Influences [[NPC Relationship Web 2
-- Originates from [cleaving-through-creatures (variant-rules)]]
-- Compare with [[Surface Syndicate (D&D_References)
-- Compare with [step_092 (phase_055)]]
+- Influences [[cleaving-through-creatures (variant-rules)]]
+- Compare with [[Surface Syndicate (D&D_References)]]
 - See also: [[Animations - Motion_Specs
 - Compare with
 - Leads to [Goristro Xmm]]
@@ -272,20 +253,17 @@ Offers deal too good to refuse
 - Connects to [Memory Whales 2]]
 - See also: [[ITEM00751_Ancient_Mirror_of_Dominion
 - See also: [EVENT00052_Natural_Event_53]]
-- Requires [[NPC00287_Ysara_Underhill_the_Wise
-- Parallels [step_032 (phase_012)]]
+- Requires [[NPC00287_Ysara_Underhill_the_Wise]]
 - Influences [[The Mediator 2
 - Requires [[[Location_Prompts]] - Cities (Assets)]]
 - Influences [[Location City [Pressure Guard Steelwall V1 Pressure Guard Steelwall.svg]]
 - Requires [[List Spells Classes Monk
 - Influences [Enspelled Weapon Level 7 Xdmg]]
-- See also: [[[The Observatory of Celestial Wisdom]]
+- See also: [[The Observatory of Celestial Wisdom]]
 - Leads to [[Regenerating Black Pudding Oota
 - Related: [step_006 (phase_019)]]
-- Affected by [[Medical Director Healing Tidecurrent
-- Requires [step_037 (phase_059)]]
-- Parallels [[Lady Victoria Pennworth (D&D_References)
-- Parallels [Enforcer Chief Mako Ironjaw (D&D_References)]]
+- Affected by [[Medical Director Healing Tidecurrent]]
+- Parallels [[Enforcer Chief Mako Ironjaw (D&D_References)]]
 - Influences [[12_Research_D&D_Statblocks_High_Priestess_Celeste_Dawnbringer
 - See also: [step_092 (phase_042)]]
 - Compare with [[LORE00268_History_Entry_269

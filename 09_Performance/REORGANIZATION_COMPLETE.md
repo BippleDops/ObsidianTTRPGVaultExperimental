@@ -95,8 +95,7 @@ This content explores themes of loyalty, adding narrative depth to your campaign
 
 ## Related Content
 - [10K_GENERATION_REPORT]]
-- [[ULTIMATE_VAULT_ACHIEVEMENT
-- [NEXT_LEVEL_IMPROVEMENTS]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -118,8 +117,7 @@ This content explores themes of loyalty, adding narrative depth to your campaign
 
 ## Connections
 
-- Parallels [[modify-memory-xphb (spells)
-- Parallels [NPC01401_Rhiannon_Ironforge_the_Seeker]]
+- Parallels [[NPC01401_Rhiannon_Ironforge_the_Seeker]]
 - Compare with [[QUEST00263_Personal_Quest_264
 - Influences [Portrait NPC Financial Corruption V1 Financial Corruption.svg_1 (Portraits)]]
 - Requires [[Tower of Echoes 2
@@ -132,8 +130,7 @@ This content explores themes of loyalty, adding narrative depth to your campaign
 - See also: [Location City Religious Religious Groups.svg]]
 - Related: [[QUEST00009_Side_Quest_10
 - Connects to [NPC00259_Delara_Proudmore]]
-- Connects to [[System Cli Spells School Necromancy
-- Related: [step_011 (phase_004)]]
+- Connects to [[System Cli Spells School Necromancy]]
 - Related: [[athlete-xphb (feats)
 - Parallels [feats]]
 - Leads to [[Senator's Widow Marcella
@@ -142,26 +139,21 @@ This content explores themes of loyalty, adding narrative depth to your campaign
 - Compare with [Silverscale Consortium]]
 - Influences [[Skills Phb
 - Originates from [step_004 (phase_041)]]
-- Requires [[Keeper of Failures, Marcus Ashworth
-- See also: [Banker Kess]]
+- Requires [[Keeper of Failures, Marcus Ashworth]]
 - Compare with [[Portrait NPC Master Artificer Korvin Gearwright V2 Master Artificer Korvin Gearwright.svg
 - Compare with [Wind Currents]]
-- Originates from [[NPC00369_Alaric_Goldleaf_the_Wanderer
-- See also: [step_051 (phase_070)]]
-- See also: [[Reality Monitoring Specialists
-- Compare with [Shadow_Parliament.png]]
+- Originates from [[NPC00369_Alaric_Goldleaf_the_Wanderer]]
+- See also: [[Reality Monitoring Specialists]]
 - See also: [[step_002 (phase_078)
 - Compare with [Choose a Class Class Overview Xphb]]
 - See also: [[Existence Erosion
 - Compare with [ITEM00527_Warded_Plate_of_Resistance]]
-- Requires [[step_041 (phase_047)
-- Requires [Mirror Duchess Silviana (D&D_References)]]
+- Requires [[Mirror Duchess Silviana (D&D_References)]]
 - Originates from [[forgotten-realms-cyric (deities)
 - Originates from [LOC00057_Towns_Location_58]]
 - Influences [[ITEM00680_Enchanted_Plate_of_Grace
 - Connects to [NPC0084_Ewan_Goldleaf_the_Strong]]
-- See also: [[Vault Breach (D&D_References)
-- Requires [step_008 (phase_012)]]
+- See also: [[Vault Breach (D&D_References)]]
 - Requires [[Prophetic Dreams
 - Compare with [LOC0061_Bridgemoor]]
 - Leads to [[step_016 (phase_016)
@@ -176,10 +168,8 @@ This content explores themes of loyalty, adding narrative depth to your campaign
 - Connects to [Session Template (06_Sessions)]]
 - Originates from [[QUEST00285_Side_Quest_286
 - Requires [Location City Memory Rights Debate Memory Rights Debate.svg]]
-- Originates from [[step_034 (phase_086)
-- Requires [Parliament of Echoes - Shadow Chamber]]
-- Parallels [[step_076 (phase_009)
-- Related: [The Forgetting Cult (Cults_and_Movements)]]
+- Originates from [[Parliament of Echoes - Shadow Chamber]]
+- Parallels [[The Forgetting Cult (Cults_and_Movements)]]
 - Influences [[step_029 (phase_098)
 - Originates from [step_007 (phase_049)]]
 - Requires [[yochlol-xmm (fiend)
@@ -196,8 +186,7 @@ This content explores themes of loyalty, adding narrative depth to your campaign
 - Originates from [step_052 (phase_013)]]
 - Originates from [[step_017 (phase_033)
 - Requires [Assets Item Artifact Spell Gem Lapis Lazuli Oota V2 Spell Gem Lapis Lazuli Oota.png]]
-- Influences [[solar-xmm (celestial)
-- Connects to [Vault Backup 20250813 073007 06 GM Travel Encounter Sheets M L 05 the Dream Sovereign]]
+- Influences [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets M L 05 the Dream Sovereign]]
 - Connects to [[Portrait NPC Quest the Democratic Balance Quest the Democratic Balance.svg
 - Leads to [Programmed Illusion Xphb]]
 - Connects to [[Scroll of Protection Oozes Xdmg
@@ -206,15 +195,10 @@ This content explores themes of loyalty, adding narrative depth to your campaign
 - Compare with [Cultural Bridges]]
 - Originates from [[step_041 (phase_011)
 - Originates from [owlbear-xmm (monstrosity)]]
-- Requires [[Anti-Smuggling Operations (D&D_References)
-- Connects to [Keeper of the Dead, Sister Morwyn]]
-- Related: [[step_001 (phase_023)
-- See also: [Aquabyssos_Session_10 (D&D_References)]]
-- Parallels [[Bloodtide Brotherhood (D&D_References)
-- Requires [Storm's End Citadel (D&D_References)]]
+- Requires [[Anti-Smuggling Operations (D&D_References)]]
+- Related: [[Aquabyssos_Session_10 (D&D_References)]]
+- Parallels [[Bloodtide Brotherhood (D&D_References)]]
 - Influences [[Assets Locations Location City the Embassy Quarter the Embassy Quarter.svg
 - Affected by [Portrait NPC Enforcer Chief Mako Ironjaw Enforcer Chief Mako Ironjaw.svg_1 (Portraits)]]
-- Leads to [[step_081
-- Influences [QUEST00011_Main_Quest_12]]
-- Influences [[step_087
-- Affected by [Lord Reginald Seaworthy]]
+- Leads to [[QUEST00011_Main_Quest_12]]
+- Influences [[Lord Reginald Seaworthy]]

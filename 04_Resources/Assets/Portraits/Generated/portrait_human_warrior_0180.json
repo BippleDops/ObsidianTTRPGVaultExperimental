@@ -12,5 +12,8 @@
     "warrior",
     "generated"
   ],
-  "created": "2025-08-16T16:58:14.638Z"
+  "created": "2025-08-16T16:58:14.638Z",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:53:08.254Z",
+  "generationMethod": "ComfyUI"
 }

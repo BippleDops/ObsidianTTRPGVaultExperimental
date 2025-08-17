@@ -157,30 +157,20 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC00080_Branwen_Proudmore
-- [Ambassador Nerida Deepcurrent]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [NPC00881_Qadim_Voidwalker_the_Strong]]
-- [[NPC00663_Alaric_Dawnstrider_the_Strong
-- [NPC01781_Urien_Keenblade_the_Cunning]]
-- [[NPC01568_Lyanna_Winterborn_the_Strong
-- [NPC00739_Gavril_Ashford_the_Bold]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC00860_Gavril_Winterborn_the_Swift]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [10 Appendix B Creature Stat Blocks]]
-- [[NPC00259_Delara_Proudmore
-- [MOC_Items]]
-- [[NPC00124_Delara_Ravenheart_the_Redeemed
-- [NPC01792_Rhiannon_Ironwood_the_Scholar]]
-- [[NPC01290_Pyria_Ashford_the_Broken
-- [NPC00083_Vesper_Xendar_the_Lost]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -200,19 +190,16 @@ Modifications:
 - Originates from
 - Compare with [[Portcullises Xdmg
 - Affected by [[Assets Locations [[Location City [Quieting the Depths]] V1 Quieting the Depths.svg]]]]
-- Influences [[NPC01922_Idris_Stormwind_the_Bold
-- Connects to [step_055 (phase_067)]]
+- Influences [[NPC01922_Idris_Stormwind_the_Bold]]
 - Parallels [[Portrait NPC Brother Matthias the Amber Bearer V2 Brother Matthias the Amber Bearer.svg_1 (Portraits)
 - Compare with [QUEST00160_Personal_Quest_161]]
 - Affected by [[Horn of Valhalla Iron Xdmg
 - Connects to [Poverty Survival Strategies]]
-- Requires [[kuo-toa-whip-xmm
-- Related: [QUEST00060_Personal_Quest_61]]
+- Requires [[QUEST00060_Personal_Quest_61]]
 - See also: [[location-city-[Aquabyssos-v1-aquabyssos.svg]]
 - Related: [[Assets Symbols Symbol Heraldry Border Fortresses Border Fortresses.svg
 - Originates from [[[Specimen Careful Lifeguard]] (D&D_References)]]
-- Compare with [[SPELL00041_Nature_Spell_42
-- Leads to [step_098 (phase_068)]]
+- Compare with [[SPELL00041_Nature_Spell_42]]
 - Parallels [[Portrait NPC High Inquisitor Maltheos V1 High Inquisitor Maltheos.svg_1 (Portraits)
 - Compare with [Chain Xphb]]
 - Compare with [[Portrait NPC Unite the Emperor Unite the Emperor.svg
@@ -220,10 +207,8 @@ Modifications:
 - Affected by [[Assets Symbols Symbol Heraldry Purist Coalition Thugs Purist Coalition Thugs.svg
 - Requires [Portrait NPC Harbor Master Luna Freedrift V2 Harbor Master Luna Freedrift.svg]]
 - Related: [[Assets Locations [Location City St Meridian S Cathedral V1 St Meridian S Cathedral.svg]]
-- Related: [[LOC00297_Dungeons_Location_298
-- Related: [NPC01654_Kaelen_Frostwhisper_the_Scholar]]
-- Influences [[New Tethys
-- Affected by [Counselor Mindbridge (D&D_References)]]
+- Related: [[NPC01654_Kaelen_Frostwhisper_the_Scholar]]
+- Influences [[Counselor Mindbridge (D&D_References)]]
 - Influences [[ITEM01072_Superior_Incense_of_Vigor
 - Influences [red-slaad-xmm (aberration)]]
 - Leads to [[Dimension Door Xphb
@@ -233,40 +218,34 @@ Modifications:
 - Influences [Deer Xmm]]
 - Leads to [[figurine-of-wondrous-power-marble-elephant-xdmg
 - Parallels [step_077 (phase_033)]]
-- Connects to [[The Shadowhaven Smugglers Ring
-- Influences [step_046 (phase_039)]]
+- Connects to [[The Shadowhaven Smugglers Ring]]
 - Leads to [[Crystal Weapons
 - Affected by [ITEM00886_Divine_Amulet_of_Truth]]
-- Affected by [[step_021 (phase_075)
-- Compare with [ENC00019_Combat_Encounter_20]]
+- Affected by [[ENC00019_Combat_Encounter_20]]
 - Related:
-- Requires [[[Pearlshell (D&D_References)]]
+- Requires [[Pearlshell (D&D_References)]]
 - Requires [[step_026 (phase_053)
 - Related:
 - Affected by [cast-off-armor-xdmg (items)]]
 - Requires [[NPC00373_Wynne_Frostwhisper_the_Strong
 - Influences [Wealth and Treasure Systems (02_Worldbuilding)]]
 - Parallels
-- See also: [[QUEST00410_Side_Quest_411
-- Related: [step_092 (phase_017)]]
+- See also: [[QUEST00410_Side_Quest_411]]
 - See also: [[step_080 (phase_030)
 - Connects to [step_041 (phase_094)]]
 - Leads to [[Handout Handout Noble Writ with Wax Seal V2 Noble Writ with Wax Seal.png
 - Originates from [step_029 (phase_090)]]
 - Affected by [[02_Worldbuilding_Groups_The_Preservation_Protocol
 - Leads to [wingwear-pota (items)]]
-- Compare with [[step_082 (phase_067)
-- Affected by [ENC00259_Combat_Encounter_260]]
+- Compare with [[ENC00259_Combat_Encounter_260]]
 - Influences [[ITEM01320_Simple_Spyglass_of_Reliability
 - Parallels [portrait-npc-duke-gale-vortex-duke-gale-vortex.svg]]
-- Compare with [[[Kelp-Silk 2]]
+- Compare with [[Kelp-Silk 2]]
 - Requires [[step_048 (phase_023)
 - Affected by [[Portrait NPC Memory [Merchant]]s V1 Memory Merchants.svg]]
-- Connects to [[Deep-Priest Covenant
-- See also: [Dr. Siphon Gillwater (D&D_Statblocks)]]
+- Connects to [[Dr. Siphon Gillwater (D&D_Statblocks)]]
 - Connects to
-- Influences [[Healer Sage Bondseer
-- Requires [Lady Catherine Mourning (D&D_References)]]
+- Influences [[Lady Catherine Mourning (D&D_References)]]
 - Originates from [[divine-smite-xphb (spells)
 - Influences [[[Quartermaster Shadow Supply]] 2]]
 - Connects to
@@ -275,17 +254,15 @@ Modifications:
 - Affected by [[Using a Published Setting D D Settings Xdmg
 - Connects to
 - Connects to [ENC00001_Social_Encounter_2]]
-- Connects to [[[The Perfect Symbiosis 2]]
+- Connects to [[The Perfect Symbiosis 2]]
 - Related:
-- Affected by [[Political Parties of Aquabyssos 2
-- Influences [Pressure Suit Malfunction]]
+- Affected by [[Political Parties of Aquabyssos 2]]
 - Connects to [[location-city-seal-keepers-v1-seal-keepers.svg
 - Affected by [draakhorn-rot (items)]]
 - Compare with [[step_009 (phase_039)
-- Compare with [[Location City [Crystal Palace]] Complex V1 [[Crystal Palace Complex.svg]]
-- Affected by [[[Timeline of the Drowning (Lore)]]
-- Compare with [[Cow Vgm
-- Compare with [The Leviathan Prophets (D&D_References)]]
+- Compare with [[Location City [Crystal Palace]] Complex V1 [[Crystal Palace Complex]]
+- Affected by [[Timeline of the Drowning]]
+- Compare with [[The Leviathan Prophets (D&D_References)]]
 - Affected by [[SPELL00158_Arcane_Spell_159
 - Affected by [Consequence_Chain_Name_2 (02_Worldbuilding)]]
 - Parallels [[Portrait NPC the Crystal Queen Mother the Crystal Queen Mother.svg_1 (Portraits)

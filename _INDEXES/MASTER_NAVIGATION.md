@@ -10,7 +10,7 @@ aliases: [MASTER NAVIGATION]
 - [[#✅ Reorganization Complete|✅ Reorganization Complete
 - [#📊 Statistics|📊 Statistics]]
 - [[#📁 Directory Structure|📁 Directory Structure
-- [[#🎮 [Adventures]]|🎮 [[Adventures]]
+- [[#🎮 [Adventures]]|🎮 [[Side Adventures]]
 - [[#🌍 [[World|🌍 [World]]]]
 - [[#📖 [[Rules|📖 [Rules]]]]
 - [[#🎨 [[Resources|🎨 [Resources]]]]
@@ -223,30 +223,18 @@ FROM "02_Worldbuilding"
 WHERE contains(file.name, "Location") OR contains(tags, "location")
 ```
 ## See Also
-- [[Guild Seal Document Silverscale Consortiu
-- [Archdruid Thornweaver]]
-- [[NPC01082_Fiora_Ashford_the_Fallen
-- [NPC00385_Qadim_Darkwater_the_Cunning]]
-- [[NPC00761_Aldric_Moonshadow_the_Guardian
-- [NPC00129_Gareth_Jadeclaw]]
-- [[NPC01371_Xander_Stormwind_the_Guardian
-- [NPC01504_Erasmus_Zephyrblade_the_Strong]]
-- [[NPC00881_Qadim_Voidwalker_the_Strong
-- [NPC00707_Fiora_Oakenshield_the_Seeker]]
-- [[NPC00878_Kaelen_Ironwood_the_Strong
-- [NPC01931_Thalia_Lightbringer_the_Fallen]]
-- [[NPC01858_Drusilla_Stormwind_the_Cunning
-- [NPC00927_Aldric_Ironwood_the_Wanderer]]
-- [[11 Spellcasting
-- [NPC00162_Xander_Thornweave]]
-- [[Calendar_Conversions_Realm_Window
-- [NPC00587_Idris_Youngblood_the_Strong]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC00812_Kaelen_Jadeclaw_the_Seeker]]
-- [[NPC00395_Aeliana_Thornweave
-- [NPC01438_Hilda_Youngblood_the_Fallen]]
-- [[NPC01789_Vesper_Proudmore_the_Mystic
-- [NPC01699_Orion_Oakenshield_the_Broken]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
 - [[MASTER_MOC
 - [Master_Narrative_Web.md]]
 -
@@ -268,8 +256,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 - [10K_GENERATION_REPORT]]
-- [[ULTIMATE_VAULT_ACHIEVEMENT
-- [NEXT_LEVEL_IMPROVEMENTS]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -298,13 +285,11 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [LOC00215_Dungeons_Location_216]]
 - Requires [[giant-centipede-xmm (beast)
 - Requires [Manacles Xphb]]
-- Influences [[step_082 (phase_018)
-- See also: [ENC00062_Social_Encounter_63]]
+- Influences [[ENC00062_Social_Encounter_63]]
 - Leads to [[Leucrotta Mpmm
 - Connects to
 - Requires [Location City Miranda Hopekeeper Miranda Hopekeeper.svg]]
-- Influences [[NPC0064_Yorick_Ironforge
-- Parallels [Spell_Slots]]
+- Influences [[NPC0064_Yorick_Ironforge]]
 - Compare with [[step_053 (phase_045)
 - Leads to [DUN00170_Dungeon_171]]
 - Affected by [[step_100 (phase_085)
@@ -329,10 +314,8 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [EVENT00027_Magical_Event_28]]
 - Related: [[LORE00155_Legends_Entry_156
 - Originates from [ITEM01306_Elegant_Tool_Kit_of_Durability]]
-- Influences [[Great Reconciliatio 2
-- Influences [Ambassador Marina Depthbridge]]
-- Compare with [[step_094 (phase_096)
-- Requires [Audit Investigator Thomas Truthseeker (D&D_References)]]
+- Influences [[Ambassador Marina Depthbridge]]
+- Compare with [[Audit Investigator Thomas Truthseeker (D&D_References)]]
 - Originates from [[Sphinx of Lore Xmm
 - Parallels [#Membership]]
 - Parallels
@@ -345,14 +328,11 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [04_Resources_Assets_Locations_location-city-archdruid-marina-kelpweaver-archdruid-marina-kelpweaver.svg]]
 - Originates from [[The Bleeding Chambers (D&D_References)
 - Leads to [belt-of-hill-giant-strength-xdmg (items)]]
-- Connects to [[Nightmarket Plaza 2
-- Leads to [CLAUDE]]
-- Parallels [[Temporal Magic Research (D&D_References)
-- Leads to [step_033 (phase_062)]]
+- Connects to [[Nightmarket Plaza 2]]
+- Parallels [[Temporal Magic Research (D&D_References)]]
 - Compare with [[LOC00008_Wilderness_Location_9
 - Connects to [The Parliament of Shadows Campaign]]
-- Requires [[QUEST00077_Personal_Quest_78
-- Requires [step_089 (phase_039)]]
+- Requires [[QUEST00077_Personal_Quest_78]]
 - Compare with [[Location City Archaeological Discoveries Archaeological Discoveries.svg
 - Parallels [step_029 (phase_066)]]
 - Affected by [[Quest - The Family Reunion
@@ -374,23 +354,17 @@ Following magic item guidelines (WWT p.135-136):
 - Related:
 - Parallels [[step_073 (phase_068)
 - Requires [Jet Xdmg]]
-- Originates from [[NPC00085_Pyria_Xendar_the_Seeker
-- Originates from [His Eternal Majesty Keeper of the Throne of]]
-- Compare with [[list-optfeaturetype-fs-b#Fighting%20Style,%20Bard
-- Compare with [step_055 (phase_092)]]
-- Compare with [[giant-crocodile-xmm
-- Leads to [Emergency Life Support Research Foundation 2]]
+- Originates from [[His Eternal Majesty Keeper of the Throne of]]
+- Compare with [[list-optfeaturetype-fs-b#Fighting%20Style,%20Bard]]
+- Compare with [[Emergency Life Support Research Foundation 2]]
 - Affected by [[QUEST00071_Side_Quest_72
 - Connects to
 - Parallels [List Spells Classes Arcane Trickster Xphb]]
 - Parallels [[step_005 (phase_022)
 - Affected by [step_054 (phase_045)]]
-- See also: [[step_042 (phase_085)
-- See also: [Kelp Forest Monasteries (D&D_References)]]
-- Affected by [[Relics Very Rare Xdmg
-- Originates from [MON00023_Aberrations_Creature_24]]
-- Affected by [[ENC00384_Combat_Encounter_385
-- Parallels [QUEST00043_Side_Quest_44]]
+- See also: [[Kelp Forest Monasteries (D&D_References)]]
+- Affected by [[MON00023_Aberrations_Creature_24]]
+- Affected by [[ENC00384_Combat_Encounter_385]]
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_quartermaster_sterling_suppystone_quartermaster_sterling_suppystone_svg_friendly.png

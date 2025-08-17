@@ -17,7 +17,7 @@ created: "2025-08-15T12:34:11.168103"
 - [ ] Player 3
 - [ ] Player 4
 
-## [[Session Summary]]
+## [[Session Summary Template]]
 [Auto-generated summary]
 
 ## [[Key Events

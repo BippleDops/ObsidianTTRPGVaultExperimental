@@ -130,31 +130,20 @@ Contextual improvement based on 07_Player_Resources
 > Hidden treasure can be found here with a **DC 15** Investigation check
 
 ## See Also
-- [[Ritual_Timing_Wheel_Convergenc
-- [NPC01624_Corvus_Silverleaf_the_Redeemed]]
-- [[NPC01989_Erasmus_Xendar_the_Strong
-- [NPC01682_Vesper_Blackstone_the_Guardian]]
-- [[NPC00860_Gavril_Winterborn_the_Swift
-- [NPC00259_Delara_Proudmore]]
-- [[NPC01894_Aldric_Lightbringer_the_Bold
-- [NPC00133_Lyanna_Oakenshield_the_Seeker]]
-- [[Ambassador Nerida Deepcurrent
-- [NPC00615_Lyanna_Moonshadow_the_Lost]]
-- [[NPC00190_Cedric_Silverleaf
-- [Party_Quests]]
-- [[Basic_Rules
-- [Combat_Encounter_Analysis]]
-- [[Player_Feedback_Form.md
-- [Downtime_Activities]]
-- [[NPC01466_Urien_Nightfall_the_Guardian
-- [10 Appendix B Creature Stat Blocks]]
-- [[Character_Journal_Template
-- [Master_Narrative_Web.md]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC00615_Lyanna_Moonshadow_the_Lost]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[Combat_Encounter_Analysis]]
+- [[Player_Feedback_Form]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[Character_Journal_Template]]
 -
 
 ## Related Content
-- [[ULTIMATE_VAULT_ACHIEVEMENT
-- [ULTIMATE_SYSTEM_REPORT]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
 - [[SVG_REPLACEMENT_REPORT
 
 ## Game Mechanics
@@ -174,37 +163,30 @@ Contextual improvement based on 07_Player_Resources
 - Connects to [Entertainers Pack Xphb]]
 - Requires [[human-names-roman-male-xge (tables)
 - Compare with [SHOP00064_Magical_Shop_65]]
-- Connects to [[Guild Organization (Guilds)
-- Connects to [breaking-objects-xphb (variant-rules)]]
+- Connects to [[breaking-objects-xphb (variant-rules)]]
 - Leads to [[lost-sorrowsworn-mpmm (monstrosity)
 - Leads to
 - Parallels
 - Influences [Barlgura Xmm]]
-- Connects to [[Shadowmere
-- Originates from [Memory Meadows Black Market 2]]
+- Connects to [[Memory Meadows Black Market 2]]
 - Originates from [[The Dreaming Trench 2
 - Parallels [FAC00098_Guilds_99]]
 - See also: [[step_068 (phase_018)
 - Affected by [Quantum Message Network]]
 - See also: [[step_094 (phase_091)
 - Connects to [step_041 (phase_019)]]
-- Originates from [[The Listener's Code (D&D_References)
-- Affected by [blight-xphb (spells)]]
+- Originates from [[The Listener's Code (D&D_References)]]
 - Originates from [[step_078 (phase_043)
 - Connects to [QUEST00062_Side_Quest_63]]
-- Connects to [[Imp Xmm
-- Related: [Readme Handouts Export (D&D_References)]]
-- Connects to [[Dwarf Duergar Mtf
-- Parallels [Scholar Wisdom Clearwater 2]]
+- Connects to [[Readme Handouts Export (D&D_References)]]
+- Connects to [[Scholar Wisdom Clearwater 2]]
 - Requires [[step_022 (phase_072)
 - Connects to [Young Bulette Pota]]
 - Compare with [[Portrait NPC Patriarch Valdris Lightbringer V2 Patriarch Valdris Lightbringer.svg
 - Compare with
 - See also: [step_031 (phase_037)]]
-- Parallels [[step_044 (phase_050)
-- Affected by [2-goblin-arrows (lost-mine-of-phandelver)]]
-- Affected by [[Shadow Noble Districts
-- Leads to [Safety Director Storm Shieldvoice 2]]
+- Parallels [[2-goblin-arrows (lost-mine-of-phandelver)]]
+- Affected by [[Safety Director Storm Shieldvoice 2]]
 - Compare with [[ambush-xphb (optional-features)
 - Parallels [step_037 (phase_019)]]
 - Related: [[ITEM01160_Greater_Powder_of_Swiftness
@@ -219,8 +201,7 @@ Contextual improvement based on 07_Player_Resources
 - Originates from [Portrait NPC the Seven Seals V2 the Seven Seals.svg_1 (Portraits)]]
 - Influences [[12-appendix-b-monster-lists (dungeon-masters-guide-2014)
 - Leads to [The First Watcher 3 (D&D_References)]]
-- Affected by [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets D L 03 Deep Mother Dream Tide
-- Influences [Arcane Lock Xphb]]
+- Affected by [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets D L 03 Deep Mother Dream Tide]]
 - Connects to [[NPC01538_Caelum_Moonshadow_the_Seeker
 - Affected by
 - Related: [MON00021_Aberrations_Creature_22]]
@@ -238,24 +219,20 @@ Contextual improvement based on 07_Player_Resources
 - Affected by [step_063 (phase_083)]]
 - Compare with [[Elemental Gem Blue Sapphire Xdmg
 - Compare with [NPC01596_Fiora_Ironforge_the_Mystic]]
-- Related: [[LOC00212_Planes_Location_213
-- See also: [LOC0080_NorthFalls]]
+- Related: [[LOC00212_Planes_Location_213]]
 - Originates from [[LOC00033_Wilderness_Location_34
 - Connects to [LOC00281_Wilderness_Location_282]]
-- Related: [[Infinite Mathematics Divisio (D&D_References)
-- Originates from [Implements Very Rare Xdmg]]
+- Related: [[Infinite Mathematics Divisio (D&D_References)]]
 - Requires [[Fragment War
 - See also: [Assets Locations Location City the Collector V1 the Collector.svg]]
-- Connects to [[MON00138_Aberrations_Creature_139
-- See also: [Memory Court]]
+- Connects to [[MON00138_Aberrations_Creature_139]]
 - Affected by [[Assets Locations Location City Wealthy Goldcurrent V1 Wealthy Goldcurrent.svg
 - Affected by [step_096 (phase_006)]]
 - See also: [[ring-of-protection-xdmg (items)
 - Compare with [The Code Wars 2]]
 - Related: [[mind-flayer-arcanist-xmm
 - Leads to [location-city-tribune-cassia-v1-tribune-cassia.svg]]
-- Originates from [[step_059 (phase_076)
-- See also: [Symbols - Faction_Heraldry (D&D_References)]]
+- Originates from [[Symbols - Faction_Heraldry (D&D_References)]]
 - See also: [[Counselor Mindbridge
 - Parallels [ITEM00631_Ethereal_Plate_of_Protection]]
 - Influences [[Eldritch Secret

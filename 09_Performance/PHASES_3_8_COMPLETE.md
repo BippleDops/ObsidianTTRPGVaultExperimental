@@ -183,20 +183,17 @@ created: 2025-08-15
 ## Connections
 
 - Influences [LORE00154_Legends_Entry_155]]
-- Affected by [[Missing Persons of Port Meridian (D&D_References)
-- Leads to [Dragon Sensing Longsword Pota]]
+- Affected by [[Missing Persons of Port Meridian (D&D_References)]]
 - Related: [[ENC00073_Social_Encounter_74
 - Affected by [Possessed Noble Coterie 2]]
 - Affected by [[step_031
 - Compare with [step_079 (phase_043)]]
-- Related: [[The Crystal Empire (D&D_References)
-- Requires [Dr. Silent Treatment]]
+- Related: [[The Crystal Empire (D&D_References)]]
 - Parallels [[QUEST0069_Captain's_Revenge
 - Compare with [Storm_Soul_Integration]]
 - Connects to [[step_084 (phase_062)
 - Parallels [GM_Improvement_Tracker]]
-- Leads to [[Inter-Community Harmony Council
-- Originates from [Senator Glaucus Brain]]
+- Leads to [[Inter-Community Harmony Council]]
 - Connects to [[step_096 (phase_079)
 - Parallels [Portrait NPC the Lady S Garden Society V1 the Lady S Garden Society.svg]]
 - Parallels [[location-city-the-collector-v1-the-collector.svg
@@ -215,8 +212,7 @@ created: 2025-08-15
 - Parallels [03_People_Brewmaster_Grindstone]]
 - Compare with [[step_095 (phase_064)
 - Requires [Beta-Seven]]
-- Affected by [[Note#Heading
-- Affected by [Creature Creature Violet Fungus Xmm V4 Violet Fungus Xmm.png]]
+- Affected by [[DM_Notes]]
 - Compare with [[Victoria Harbormane 2
 - Parallels [LOC00008_Towns_Location_9]]
 - Connects to [[NPC01741_Zephyr_Hawthorne_the_Wanderer
@@ -241,26 +237,20 @@ created: 2025-08-15
 - Compare with [Location City Marina Stormwright Marina Stormwright.svg]]
 - Related: [[Lock of Trickery Xdmg
 - Influences [step_017 (phase_048)]]
-- Connects to [[step_008 (phase_006)
-- Originates from [QUEST0093_The_Shadow_Realm_Curse]]
-- Requires [[Stormwind Supplies
-- Parallels [Merchant Prince Aldric Goldcurrent 2]]
+- Connects to [[QUEST0093_The_Shadow_Realm_Curse]]
+- Requires [[Merchant Prince Aldric Goldcurrent 2]]
 - Connects to [[The Wind Singers Guild
 - Influences [The Anonymous Protocol]]
 - Related: [[Demilich Xmm
 - See also: [step_060 (phase_064)]]
 - Affected by [[Master_Campaign_Index
 - Compare with [ITEM01294_Superior_Salve_of_Clarity]]
-- Related: [[QUEST00077_Side_Quest_78
-- Affected by [Memory Merchant Centers (D&D_References)]]
-- Leads to [[Foreign Trader Captain Hassan al-Rimal (D&D_References)
-- Leads to [QUEST00101_Main_Quest_102]]
-- Connects to [[step_080 (phase_021)
-- Affected by [Public Safety (D&D_References)]]
+- Related: [[Memory Merchant Centers (D&D_References)]]
+- Leads to [[Foreign Trader Captain Hassan al-Rimal (D&D_References)]]
+- Connects to [[Public Safety (D&D_References)]]
 - Leads to [[step_044 (phase_031)
 - Connects to [eternal-mountain-defense (optional-features)]]
-- Related: [[step_066
-- Related: [NPC01861_Malakai_Darkwater_the_Lost]]
+- Related: [[NPC01861_Malakai_Darkwater_the_Lost]]
 - Affected by [[International Breathing Technology Consortium
 - Requires [04_Resources_Assets_Locations_location-city-cathedral-of-light-cathedral-of-light.png]]
 - See also: [[Assets Locations Location City Political Intrigue of Meridian Political Intrigue of Meridian.svg
@@ -273,10 +263,8 @@ created: 2025-08-15
 - Influences [yuan-ti-malison-type-5-vgm]]
 - Connects to [[step_044 (phase_098)
 - Originates from [step_001 (phase_043)]]
-- Related: [[Aquabyssos - Session 08 - The Fractal Conspiracy
-- Compare with [Foreign Merchants 2]]
-- Originates from [[SPELL00140_Nature_Spell_141
-- Affected by [Brother Marcus the Deepgrown (D&D_References)]]
+- Related: [[Aquabyssos - Session 08 - The Fractal Conspiracy]]
+- Originates from [[Brother Marcus the Deepgrown (D&D_References)]]
 - Originates from [[The Wind Shrine Archipelago (D&D_References)
 - Parallels [Assets Locations Location City the Free Current the Free Current.svg]]
 - Connects to [[Assets Locations Location City the Threshold Chambers V1 the Threshold Chambers.svg

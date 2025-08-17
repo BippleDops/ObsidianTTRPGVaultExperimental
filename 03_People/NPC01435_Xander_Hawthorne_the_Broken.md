@@ -167,8 +167,7 @@ Needs help with personal quest
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -188,13 +187,11 @@ Needs help with personal quest
 - Connects to [LOC00214_Wilderness_Location_215]]
 - Requires [[Technician Dark Arts
 - See also: [blink-dog-xmm]]
-- Connects to [[step_004 (phase_072)
-- Compare with [Seven Shards Campaign Campaign Overview]]
+- Connects to [[Seven Shards Campaign Campaign Overview]]
 - Parallels [[Portrait NPC Archdruid Thornweaver Archdruid Thornweaver.svg_1 (Portraits)
 - Influences
 - See also: [Portrait NPC Sunken Kingdom of Nereon V2 Sunken Kingdom of Nereon.svg]]
-- Connects to [[International Exchange Program 2
-- Related: [step_025 (phase_096)]]
+- Connects to [[International Exchange Program 2]]
 - Influences [[The Ethical Council of Mages
 - See also: [ENC00073_Social_Encounter_74]]
 - Leads to [[The Fortress of the Deeps
@@ -208,12 +205,9 @@ Needs help with personal quest
 - Compare with [pteranodon-xmm (beast)]]
 - See also: [[Hadrian Depthbridge (D&D_References)
 - Influences [firearm-bullets-10-xphb 2 (items)]]
-- Related: [[Cultural Mediator Coral Windweave
-- Requires [NPC00092_Idris_Quicksilver_the_Swift]]
-- Influences [[NPC01801_Faelyn_Nightfall_the_Guardian
-- Related: [step_042 (phase_061)]]
-- Leads to [[step_057 (phase_019)
-- Connects to [LOC00268_Cities_Location_269]]
+- Related: [[NPC00092_Idris_Quicksilver_the_Swift]]
+- Influences [[NPC01801_Faelyn_Nightfall_the_Guardian]]
+- Leads to [[LOC00268_Cities_Location_269]]
 - Compare with
 - Leads to [[step_070 (phase_046)
 - Leads to [step_044 (phase_058)]]
@@ -238,18 +232,15 @@ Needs help with personal quest
 - Requires [QUEST00201_Side_Quest_202]]
 - Requires [[Assets Locations Location City Sage Nereon Sage Nereon.svg
 - Affected by [Quest - Information War]]
-- Originates from [[item mastery#Nick
-- Originates from [portrait-npc-sirens-sirens.svg_1 (Portraits)]]
+- Originates from [[Item Mastery]]
 - Requires [[Pressure Linguistics
 - See also: [Location City Ambassador Mark Exchangekeeper V1 Ambassador Mark Exchangekeeper.svg]]
 - Requires [[symbol-heraldry-the-depth-wars-the-depth-wars.svg
 - See also: [Finn Brightwater 2]]
 - Related: [[Location City the Sunken Library of Thalassius V1 the Sunken Library of Thalassius.svg
 - Connects to [09 Adventuring#movement#climbing, Swimming, and Crawling]]
-- Affected by [[octopus-xmm (beast)
-- Affected by [NPC01136_Nerys_Blackstone_the_Lost]]
-- Originates from [[step_037 (phase_050)
-- Affected by [The Crystalline Citadel (D&D_References)]]
+- Affected by [[NPC01136_Nerys_Blackstone_the_Lost]]
+- Originates from [[The Crystalline Citadel (D&D_References)]]
 - Parallels [[Primordial Aboleth Council
 - Influences [12 Chapter 12 the Tower of Vengeance]]
 - Connects to [[step_032 (phase_074)
@@ -258,29 +249,20 @@ Needs help with personal quest
 - Parallels [Location City Basalt Depthwright Basalt Depthwright.svg]]
 - Related: [[Greyhawk Nerull Xdmg
 - Influences [Border Fortresses 2]]
-- Requires [[The Corroded Crown (D&D_References)
-- Originates from [step_058 (phase_054)]]
-- Originates from [[explosives (variant-rules)
-- Connects to [gray-ooze-xmm]]
-- Originates from [[NPC00850_Dara_Ravenheart_the_Strong
-- Compare with [Minions of Chaos]]
-- Connects to [[SPELL00102_Nature_Spell_103
-- Related: [step_048 (phase_057)]]
-- Influences [[step_070 (phase_007)
-- See also: [Brightforge (D&D_References)]]
+- Requires [[The Corroded Crown (D&D_References)]]
+- Originates from [[explosives (variant-rules)]]
+- Originates from [[NPC00850_Dara_Ravenheart_the_Strong]]
+- Connects to [[SPELL00102_Nature_Spell_103]]
+- Influences [[Brightforge (D&D_References)]]
 - Parallels [[Cosmic Truth
 - Requires [component-pouch-xphb (items)]]
 - Originates from [[Gods of Greyhawk Xdmg
 - Leads to
 - Affected by [Assets Locations Location City Reality Stabilization Centers V1 Reality Stabilization Centers.svg]]
-- Related: [[MOC_Locations
-- Compare with [SPELL00120_Divine_Spell_121]]
-- Affected by [[The Tidal Council (D&D_References)
-- Originates from [step_012 (phase_100)]]
-- Parallels [[Traveling Merchant Finn (D&D_Statblocks)
-- Influences [step_024 (phase_083)]]
-- Affected by [[Master Banker Cornelius Coinwright 2
-- Parallels [step_066 (phase_025)]]
+- Related: [[SPELL00120_Divine_Spell_121]]
+- Affected by [[The Tidal Council (D&D_References)]]
+- Parallels [[Traveling Merchant Finn (D&D_Statblocks)]]
+- Affected by [[Master Banker Cornelius Coinwright 2]]
 - Requires [[step_014 (phase_044)
 
 ## Visual References

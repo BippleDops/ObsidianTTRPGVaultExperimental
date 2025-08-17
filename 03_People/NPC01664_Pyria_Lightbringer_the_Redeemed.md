@@ -169,22 +169,16 @@ Provides information for a price
 - Special moves
 
 ## See Also
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC00707_Fiora_Oakenshield_the_Seeker]]
-- [[NPC01429_Zephyr_Keenblade_the_Cunning
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[NPC00259_Delara_Proudmore
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
-- [[Parliamentary_Voting_Guide
-- [NPC00281_Hestara_Nightfall_the_Cunning]]
-- [[10 Combat
-- [11 Rules Glossary]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[11 Rules Glossary]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -203,8 +197,7 @@ Provides information for a price
 - Requires [[step_026 (phase_070)
 - Parallels [02-chapter-1-playing-the-game#Skill List]]
 - Affected by
-- Affected by [[Trader Cross-Current Jin
-- Compare with [Democratic Technology Development (D&D_References)]]
+- Affected by [[Democratic Technology Development (D&D_References)]]
 - Connects to [[Suffocation Xphb
 - Compare with [step_093 (phase_095)]]
 - Influences [[Archive of Forgotten Depths
@@ -232,32 +225,26 @@ Provides information for a price
 - Related: [[tough-xphb (feats)
 - Affected by
 - See also: [The First Pearl]]
-- Connects to [[Crystal Magic 2
-- Originates from [ENC00049_Combat_Encounter_50]]
+- Connects to [[ENC00049_Combat_Encounter_50]]
 - Requires [[Port Meridian - Market Square (D&D_References)
 - See also: [Location City Antiquarian Eliza Tidecaller V1 Antiquarian Eliza Tidecaller.svg]]
 - Leads to [[burning-hands-xphb (spells)
 - Leads to [FAC00046_Cults_47]]
-- Connects to [[NPC01859_Elric_Winterborn_the_Lost
-- Affected by [gnome-names-male-xge (tables)]]
+- Connects to [[NPC01859_Elric_Winterborn_the_Lost]]
 - Parallels [[Engineer Shadowbuild
 - Requires [step_093 (phase_011)]]
 - Connects to [[ITEM00902_Concentrated_Powder_of_Swiftness
 - See also: [The Chainsaw Brotherhood]]
 - See also: [[ENC00249_Combat_Encounter_250
 - Originates from [Assets Portraits Portrait NPC Captain Shadowsail Captain Shadowsail.svg]]
-- Connects to [[NPC01858_Drusilla_Stormwind_the_Cunning
-- Requires [Suggestion Xphb]]
-- Affected by [[NPC00643_Felicia_Xendar_the_Scholar
-- Requires [step_040 (phase_093)]]
+- Connects to [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- Affected by [[NPC00643_Felicia_Xendar_the_Scholar]]
 - Originates from [[step_096 (phase_032)
 - Affected by [ITEM01073_Refined_Incense_of_Fortune]]
 - Connects to [[ITEM00332_Blazing_Crossbow_of_Wounding
 - Parallels [step_019 (phase_051)]]
-- Influences [[FAC00085_Orders_86
-- Affected by [Forest Encounters Levels 1116 Xge]]
-- Connects to [[The Crystal Cathedral of Pure Light (D&D_References)
-- Influences [NPC00210_Aeliana_Ironwood_the_Wise]]
+- Influences [[Forest Encounters Levels 1116 Xge]]
+- Connects to [[The Crystal Cathedral of Pure Light (D&D_References)]]
 - Compare with [[step_055 (phase_023)
 - Parallels [Platinum Bracelet Set With an Emerald Xdmg]]
 - See also: [[Master Melodist Zephyr Cloudwalker
@@ -266,18 +253,15 @@ Provides information for a price
 - Influences [MON00046_Undead_Creature_47]]
 - Compare with [[step_014 (phase_085)
 - Compare with [LOC00128_Towns_Location_129]]
-- Requires [[Port Meridian - Merchant Quarter (D&D_References)
-- Influences [Citizens' Budget Review 2]]
+- Requires [[Port Meridian - Merchant Quarter (D&D_References)]]
 - See also: [[step_060 (phase_046)
 - Related: [step_004 (phase_038)]]
 - Originates from [[mage-hunter-scc (monstrosity)
 - Related: [LORE00023_Legends_Entry_24]]
-- Influences [[NPC01486_Faelyn_Ironwood_the_Strong
-- Connects to [LORE00024_History_Entry_25]]
+- Influences [[NPC01486_Faelyn_Ironwood_the_Strong]]
 - Leads to [[Consciousness Ward Ring
 - Originates from [crusher-xphb (feats)]]
-- See also: [[Military Moral Quandaries (D&D_References)
-- Compare with [step_078 (phase_080)]]
+- See also: [[Military Moral Quandaries (D&D_References)]]
 - See also: [[NPC01336_Ewan_Hawthorne_the_Strong
 - See also: [Portrait NPC the Corroded Crown V1 the Corroded Crown.svg]]
 - See also: [[Unified Aquabyssos Legal Code 2
@@ -288,14 +272,12 @@ Provides information for a price
 - See also:
 - See also: [[QUEST00372_Side_Quest_373
 - Related: [Elf Deities the Seldarine Mtf]]
-- Leads to [[Proficiency Dice (variant-rules)
-- Requires [Ersatz Eye Xdmg]]
+- Leads to [[Proficiency Dice (variant-rules)]]
 - Influences [[step_094 (phase_046)
 - Leads to [step_050 (phase_006)]]
 - Influences [[Assets Locations Location City Haven Reef Haven Reef.svg
 - Leads to [step_018 (phase_021)]]
-- Requires [[yochlol-xmm (fiend)
-- Requires [ENC0099_Random_Encounter_100]]
+- Requires [[ENC0099_Random_Encounter_100]]
 - Related: [[Blanket Xphb
 - Compare with [Murgaxor Scc]]
 

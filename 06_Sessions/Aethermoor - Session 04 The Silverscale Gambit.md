@@ -52,8 +52,8 @@ corruption_exposure: 3
 danger_level: 7
 date: duration_hours: 4
 encounters:
-- '[[[Crimson Hand]] [[Strike Team]]'
-- '[[[[Vex Shadowthorn [Boss Fight]]]]'
+- '[[[Crimson Hand]] [[Crimson Hand Strike Team]]'
+- '[[Vex Shadowthorn]]]]'
 - '[[[Consortium Security Constructs]]'
 
 gold_gained: 1000
@@ -63,17 +63,16 @@ items_gained:
 - [Crimson Hand]] intelligence reports
 
 locations_visited:
-- '[[[[Port Meridian - [Merchant Quarter]] (D&D_References)]]'
-- '[[[Silverscale Banking House]]'
+- '[[Merchant Quarter]] (D&D_References)]]'
+- '[[Silverscale Banking House]]'
 - '[[Smuggler''s Cove'
 - '[[[Silverscale Emergency]] Bunker]]'
-- '[[[Abandoned Consortium Warehouse]]'
+- '[[Abandoned Consortium Warehouse]]'
 
 npcs_met:
-- '[[[Vex Shadowthorn]]'
-- '[[Marina-Red-Tide-Coralheart'
-- '[[[Director Hadrian]] Silverscale]]'
-- '[[[The Crimson Sage]]'
+- '[[Vex Shadowthorn]]'
+- '[[Marina-Red-Tide-Coralheart]] Silverscale]]'
+- '[[The Crimson Sage]]'
 
 obsidian UIMode: preview
 players: []
@@ -88,11 +87,11 @@ primary_location: '[[[Port Meridian]] - [[Merchant Quarter (D&D_References)]]'
 quests_completed: []
 quests_progressed:
 - '[[[[The Seven [Shards Mystery]]]]'
-- '[[Investigate the [Crystal Plague]]'
+- '[[Crystal Plague]]'
 
 quests_started:
-- '[[[The Silverscale Conspiracy]]'
-- '[[[Race Against the Festival]]'
+- '[[The Silverscale Conspiracy]]'
+- '[[Race Against the Festival]]'
 
 session: Session-04
 updated: '2025-08-13T12:34:17.852501+00:00'
@@ -103,7 +102,7 @@ xp_awarded: 1200
 
 [[The Silverscale Consortium's flagship explodes in the harbor, raining crystallized gold across the merchant quarter. As the party races against the [Crimson Hand]] to secure ancient documents, Marina reveals her true heritage as an Aquabyssos descendant. The confrontation with [[Vex Shadowthorn unveils deeper conspiracies while [Director Silverscale]] offers a devil's bargain. ## [[Strong Start
 
-> *Read aloud:* "The morning sky turns gold—not from sunrise, but from the Silverscale flagship '[Golden Promise]]' exploding in a shower of crystallized wealth. As fragments of transformed gold rain down, you spot [[Vex Shadowthorn directing [Crimson Hand]] operatives with surgical precision. Marina appears at your shoulder, her usual swagger gone: 'That ship was carrying something that wasn't supposed to exist—something from below. We need to talk, NOW.'" ### Location: [[[Silverscale Banking House]]
+> *Read aloud:* "The morning sky turns gold—not from sunrise, but from the Silverscale flagship '[Golden Promise]]' exploding in a shower of crystallized wealth. As fragments of transformed gold rain down, you spot [[Vex Shadowthorn directing [Crimson Hand]] operatives with surgical precision. Marina appears at your shoulder, her usual swagger gone: 'That ship was carrying something that wasn't supposed to exist—something from below. We need to talk, NOW.'" ### Location: [[Silverscale Banking House]]
 
 **[[Read Aloud:** *The banking house's magical security screams warnings as [Crimson Hand]] operatives breach the emergency vault. Crystallized gold from the explosion has somehow disrupted the ward patterns.* ### [[Skill Challenge: [Vault Heist]]
 
@@ -131,7 +130,7 @@ Marina reveals a map showing:
 - 1 [Strike Team]] Leader (Veteran stats + spellcasting)
 - 4 Operatives (CR 3 each)
 - Environmental hazard: Collapsing sea cave
-- Marina reveals water magic abilities ### Location: [[[Silverscale Emergency Bunker]]
+- Marina reveals water magic abilities ### Location: [[Silverscale Emergency Bunker]]
 
 **Security**: Antimagic field, construct guardians, escape tunnel to ships ### [[The Devil's Bargain
 
@@ -139,13 +138,13 @@ Marina reveals a map showing:
 1. **Take the Money**: Gain wealth, lose Marina's trust, Consortium escapes
 2. **Expose the Truth**: Gain allies, make powerful enemies, economic chaos
 3. **[[Negotiate Middle Ground**: Partial disclosure, shared resources, tentative alliance
-4. **[Forceful Takeover]]**: Combat option, seize Consortium resources ### Location: [[[Abandoned Consortium Warehouse]]
+4. **[Forceful Takeover]]**: Combat option, seize Consortium resources ### Location: [[Abandoned Consortium Warehouse]]
 
 **Setup**: Following leads into obvious but irresistible ambush #### Pre-[[Battle Dialogue
 
 **Vex**: "Marcus never understood. The power wasn't in containing the crystals—it's in becoming them. Just as those below became the water, we shall become the crystal. Evolution, not infection." #### [Combat Mechanics]]
 
-**[[Vex Shadowthorn** ([Modified Mage]])
+**[[Vex Shadowthorn]])
 - AC 18 (magical protections)
 - HP 95
 - Speed 30 ft, fly 30 ft (crystalline wings) **[[Legendary Actions** (1/round):
@@ -169,7 +168,7 @@ If party chose to help the city over wealth:
 - [Depth Guard]] token (advantage on one save vs drowning)
 - Teaching of Aquan language basics
 - Warning about shadow separation in depths
-- Contact information for other [[Depth Guard members ### [Conditional Rewards]]
+- Contact information for other [[Depth Guard]]
 
 **[[If Vex Defeated**:
 - Vex's spellbook (contains 6 unique crystal spells)
@@ -217,9 +216,9 @@ This session establishes:
 - A letter reveals a conspiracy about this place
 - A journal reveals a conspiracy about this place ## [[Related Notes - [[[Similar Topic]] 1]]
 
-- [[[Contrasting Approach]]
-- [[[Advanced Version]]
-- [[[Historical Context]] ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## 12_Research [Specific Content]] Contextual improvement based on 12_Research
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]] ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## 12_Research [Specific Content]] Contextual improvement based on 12_Research
 
 ## Notes
 

@@ -167,20 +167,11 @@ Has map to lost treasure
 - Special moves
 
 ## See Also
-- [[NPC01682_Vesper_Blackstone_the_Guardian
-- [NPC00095_Fiora_Nightfall]]
-- [[NPC01870_Lyanna_Silverleaf_the_Cunning
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[NPC00300_Urien_Zephyrblade
-- [Propaganda_Leaflet_Pearl_Guar]]
-- [[Faction_Guide.md
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
-- [[10 Appendix B Creature Stat Blocks
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[10 Appendix B Creature Stat Blocks]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -196,8 +187,7 @@ Has map to lost treasure
 ## Connections
 
 - Leads to [Assets Portraits Portrait NPC Abyssos Prime Throne of Bubbles Abyssos Prime Throne of Bubbles.svg]]
-- Requires [[Mira Stormwind 2
-- Leads to [Guerrilla Currents Player]]
+- Requires [[Guerrilla Currents Player]]
 - Requires [[step_066 (phase_084)
 - See also: [Scholar David Crossref]]
 - Leads to [[LORE00229_Prophecies_Entry_230
@@ -210,8 +200,7 @@ Has map to lost treasure
 - Affected by [LOC0035_Valestead]]
 - See also: [[item-artifact-whelm-xdmg-whelm-xdmg.png
 - Originates from [Quest - Parliamentary Infiltratio]]
-- Influences [[Culinary Critic Marina Tastebud
-- Affected by [QUEST0099_Wizard's_Folly]]
+- Influences [[Culinary Critic Marina Tastebud]]
 - Connects to [[Airship Xphb
 - Connects to
 - Requires [Void Whirlpools]]
@@ -219,8 +208,7 @@ Has map to lost treasure
 - Parallels [ENC0078_Random_Encounter_79]]
 - Connects to [[Location City Vault Maintenance Checklist V1 Vault Maintenance Checklist.svg
 - Compare with [Location City Official Memory Keepers Official Memory Keepers.svg]]
-- Originates from [[DUN00181_Dungeon_182
-- Requires [Deep Compressmaster (D&D_References)]]
+- Originates from [[Deep Compressmaster (D&D_References)]]
 - Compare with [[Location City Artisan Felix Reefwright Artisan Felix Reefwright.svg
 - Requires [Secure Communication Crystals]]
 - Related: [[portrait-npc-the-emperor-v1-the-emperor.svg
@@ -229,49 +217,38 @@ Has map to lost treasure
 - Related: [Scepter of Tidal Command]]
 - See also: [[blessing-of-valhalla-xdmg (rewards)
 - Parallels [sorcerer-xphb-clockwork-sorcery-xphb (classes)]]
-- Connects to [[NPC01589_Qadim_Proudmore_the_Broken
-- See also: [MON0046_Bone_Wraith]]
+- Connects to [[NPC01589_Qadim_Proudmore_the_Broken]]
 - Leads to [[QUEST00099_Personal_Quest_100
 - Affected by [random-buildings-residence (tables)]]
 - Leads to [[fiendish-spirit-devil-xphb (fiend)
 - Parallels [Location City Throne Room Heart of Palace Throne Room Heart of Palace.svg]]
-- Connects to [[NPC01931_Thalia_Lightbringer_the_Fallen
-- Compare with
-- Related: [step_032 (phase_008)]]
+- Connects to [[NPC01931_Thalia_Lightbringer_the_Fallen]]
 - Affected by [[Portrait NPC Pilgrim Guide Samuel Walkingfaith Pilgrim Guide Samuel Walkingfaith.svg
 - Requires [Portrait NPC High Priestess Marina Oracleguard V2 High Priestess Marina Oracleguard.svg_1 (Portraits)]]
-- Connects to [[02-step-by-step-characters (players-handbook-2014)
-- Related: [LOC00160_Planes_Location_161]]
-- Originates from [[potion-of-acid-resistance-xdmg (items)
-- Leads to [Master Archivist Thomas Scrollkeeper (D&D_References)]]
+- Connects to [[02-step-by-step-characters (players-handbook-2014)]]
+- Originates from [[Master Archivist Thomas Scrollkeeper (D&D_References)]]
 - Parallels [[Assets Locations Location City Pressure Wraiths Pressure Wraiths.svg
 - Connects to [Deep Wardens]]
 - Parallels [[ITEM00289_Venomous_Staff_of_Slaying
 - Affected by [step_062 (phase_079)]]
 - Affected by [[ITEM00827_Ancient_Amulet_of_the_Gods
 - Parallels [The Eternal Sentinels]]
-- Requires [[Field Operations Chief Marcus Ironheart (D&D_References)
-- Compare with
-- Leads to [QUEST00004_Side_Quest_5]]
-- See also: [[Deepmind Conspiracy (D&D_References)
-- Compare with [Ice Devil Xmm]]
+- Requires [[Field Operations Chief Marcus Ironheart (D&D_References)]]
+- See also: [[Deepmind Conspiracy (D&D_References)]]
 - Affected by [[Creature Creature Dire Troll Mpmm V1 Dire Troll Mpmm.png
 - Originates from [step_068 (phase_086)]]
 - See also: [[holy-symbol-of-ravenkind-cos (items)
 - Related: [Floating Cities of Nimbus]]
-- See also: [[step_051 (phase_083)
-- See also: [Diplomatic Minister Reef 2]]
+- See also: [[Diplomatic Minister Reef 2]]
 - Originates from [[Location2
 - Compare with
 - Originates from [location-city-regional-courts-regional-courts.svg]]
-- Originates from [[step_040 (phase_069)
-- Leads to [NPC00460_Elric_Goldleaf_the_Wanderer]]
+- Originates from [[NPC00460_Elric_Goldleaf_the_Wanderer]]
 - Influences [[step_015 (phase_015)
 - Requires [Iron Pot Xphb]]
 - Parallels [[step_034 (phase_084)
 - Connects to [NPC00399_Vesper_Nightfall]]
-- Affected by [[The Final Confrontation (D&D_References)
-- See also: [SPELL00086_Divine_Spell_87]]
+- Affected by [[The Final Confrontation (D&D_References)]]
 - Related:
 - Leads to [[Location City Scribe Master Elena Truthkeeper Scribe Master Elena Truthkeeper.svg
 - See also: [Madame Pearl Currentflow]]
@@ -282,8 +259,7 @@ Has map to lost treasure
 - Requires [[skills#Arcana
 - Connects to
 - See also: [FAC00079_Guilds_80]]
-- Affected by [[step_066 (phase_068)
-- Influences [Academy of Crystalline Art (Academies)]]
+- Affected by [[Academy of Crystalline Art (Academies)]]
 - Parallels [[SPELL00138_Arcane_Spell_139
 - Connects to [Enforcement Authority Charte]]
 - See also: [[step_036 (phase_042)

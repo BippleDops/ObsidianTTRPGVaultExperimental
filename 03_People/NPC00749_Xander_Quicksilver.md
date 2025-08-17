@@ -163,24 +163,17 @@ Witnessed a crime
 - Special moves
 
 ## See Also
-- [[NPC00317_Pyria_Blackstone_the_Redeemed
-- [NPC01041_Thalia_Dawnstrider_the_Lost]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC00663_Alaric_Dawnstrider_the_Strong
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[NPC01989_Erasmus_Xendar_the_Strong
-- [Archdruid Thornweaver]]
-- [[NPC00542_Corvus_Oakenshield_the_Strong
-- [NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[NPC00395_Aeliana_Thornweave
-- [Parliamentary_Voting_Guide]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00395_Aeliana_Thornweave]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -201,8 +194,7 @@ Witnessed a crime
 - Influences [step_071 (phase_081)]]
 - Influences [[protection-xphb (feats)
 - Influences [step_063 (phase_027)]]
-- Requires [[Dual Integration Therapy
-- Related: [05-chapter-5-creating-campaigns (dungeon-masters-guide-2024)]]
+- Requires [[05-chapter-5-creating-campaigns (dungeon-masters-guide-2024)]]
 - Requires [[step_002 (phase_043)
 - Compare with [Maritime Commerce]]
 - Connects to [[step_003 (phase_041)
@@ -215,10 +207,8 @@ Witnessed a crime
 - Influences [Assets Locations Location City Crystalhaven V1 Crystalhaven.svg]]
 - Influences [[Pressure Currents
 - Connects to [step_002 (phase_007)]]
-- Originates from [[NPC01204_Gareth_Underhill_the_Lost
-- Affected by [Dr Precision Strike]]
-- Compare with [[QUEST00272_Personal_Quest_273
-- Connects to [NPC01728_Ewan_Jadeclaw_the_Redeemed]]
+- Originates from [[NPC01204_Gareth_Underhill_the_Lost]]
+- Compare with [[NPC01728_Ewan_Jadeclaw_the_Redeemed]]
 - Leads to [[ENC00388_Combat_Encounter_389
 - Connects to [Assets Locations Location City Elder Scribe Marcus the Lost Elder Scribe Marcus the Lost.svg]]
 - Compare with [[QUEST00077_Main_Quest_78
@@ -237,16 +227,13 @@ Witnessed a crime
 - Compare with [LOC00051_Cities_Location_52]]
 - Compare with [[Yew Wand Xphb
 - Originates from [Maps (02_Worldbuilding)]]
-- Leads to [[The Singing Trenches (D&D_References)
-- See also: [step_049 (phase_015)]]
+- Leads to [[The Singing Trenches (D&D_References)]]
 - Influences [[02_Worldbuilding_Lore_Censorship_Magic
 - Leads to [Advocate Lightfight]]
-- Requires [[step_095 (phase_038)
-- Requires [Shadow Network (D&D_References)]]
+- Requires [[Shadow Network (D&D_References)]]
 - Connects to [[Sahuagin Warrior Xmm
 - See also: [Portrait NPC Lord Aldric Thornwhisper Lord Aldric Thornwhisper.svg]]
-- Originates from [[step_092 (phase_026)
-- Compare with [Keeper Maelstrom the Great 2]]
+- Originates from [[Keeper Maelstrom the Great 2]]
 - See also: [[The Umbral Community Center
 - Influences [Location City Reflection Pools Surgical Theater Reflection Pools Surgical Theater.svg]]
 - Requires [[Variant Customizing Ability Scores Ability
@@ -264,33 +251,28 @@ Witnessed a crime
 - Compare with [Ioun Stone Mastery Xdmg]]
 - Requires [[Magic User Associations
 - See also: [Memory Alteration Mirrors]]
-- Influences [[Player_Absence
-- Compare with [QUEST00082_Personal_Quest_83]]
+- Influences [[QUEST00082_Personal_Quest_83]]
 - Requires
 - Originates from [[ENC0043_Random_Encounter_44
 - Affected by [Portrait NPC Quest the Runaway Golem V1 Quest the Runaway Golem.svg]]
-- Originates from [[Community Resource Sharing
-- Leads to [5-halflings-and-gnomes (mordenkainens-tome-of-foes)]]
+- Originates from [[5-halflings-and-gnomes (mordenkainens-tome-of-foes)]]
 - Leads to [[devils-sight-xphb (optional-features)
 - Compare with [MOC_Lore]]
 - Requires [[Mer-Folk Honor Codes
 - Affected by [step_022 (phase_041)]]
-- Connects to [[QUEST00048_Main_Quest_49
-- Leads to [MON00031_Constructs_Creature_32]]
+- Connects to [[MON00031_Constructs_Creature_32]]
 - See also: [[Crystal Laboratory 2
 - Compare with [The Bloom Fields]]
 - Originates from [[Velociraptor Mpmm
 - Originates from [Portrait NPC Fence Queen Sticky Fingers Sal V2 Fence Queen Sticky Fingers Sal.svg]]
-- Parallels [[Church of the Tidal Throne 2
-- Originates from [Captain Marrow Drinker (D&D_References)]]
+- Parallels [[Captain Marrow Drinker (D&D_References)]]
 - Originates from [[Order of the Silver Ancho (Groups)
 - Affected by [The Inter-Realm Marriage Guild (Guilds)]]
 - Affected by [[The Null Cathedral 2
 - See also: [symbol-heraldry-the-archivist-v1-the-archivist.svg]]
 - Originates from [[strixhaven-mascot-scc (feats)
 - Parallels [Pipes of Haunting Xdmg]]
-- Compare with [[Rescue Senator Glaucus (D&D_Statblocks)
-- Leads to [DUN00104_Dungeon_105]]
+- Compare with [[Rescue Senator Glaucus (D&D_Statblocks)]]
 - See also: [[International Trade 2
 - Compare with [list-spells-races-gith-githyanki-mtf (lists)]]
 - Originates from

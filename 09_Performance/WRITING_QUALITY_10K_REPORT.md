@@ -271,8 +271,7 @@ Your TTRPG vault is now not just organized and complete - it's beautifully writt
 
 ## Related Content
 - [10K_GENERATION_REPORT]]
-- [[ULTIMATE_VAULT_ACHIEVEMENT
-- [NEXT_LEVEL_IMPROVEMENTS]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -296,26 +295,21 @@ Your TTRPG vault is now not just organized and complete - it's beautifully writt
 
 ## Connections
 
-- Originates from [[Captain Blackwater's Fate
-- Affected by [MON00025_Aberrations_Creature_26]]
+- Originates from [[MON00025_Aberrations_Creature_26]]
 - Requires [[step_058 (phase_048)
 - Compare with [Beast of the Land Xphb]]
-- Related: [[NPC00859_Idris_Voidwalker_the_Guardian
-- Connects to [step_060 (phase_081)]]
-- Parallels [[Church of the Tidal Throne 2
-- Parallels [DUN00093_Dungeon_94]]
+- Related: [[NPC00859_Idris_Voidwalker_the_Guardian]]
+- Parallels [[Church of the Tidal Throne 2]]
 - Originates from [[step_092 (phase_027)
 - Compare with [#Services]]
 - Parallels [[step_066
 - Requires [Map Map Gloom Gardens Paths Gloom Gardens Paths.svg]]
 - Connects to [[Sacred Depth Sites
 - Originates from [LORE00084_History_Entry_85]]
-- Leads to [[MON00025_Constructs_Creature_26
-- Originates from [step_072 (phase_016)]]
+- Leads to [[MON00025_Constructs_Creature_26]]
 - Connects to [[random-buildings-religious-building (tables)
 - Affected by [skills#Deception]]
-- Compare with [[High Tide Keeper Nautilus Primordial 2
-- Connects to [Session Zero Checklist]]
+- Compare with [[High Tide Keeper Nautilus Primordial 2]]
 - Affected by [[bastion-events-xdmg (tables)
 - Leads to [step_026]]
 - Leads to [[step_026 (phase_048)
@@ -342,16 +336,14 @@ Your TTRPG vault is now not just organized and complete - it's beautifully writt
 - Related: [step_046 (phase_047)]]
 - Requires [[step_048
 - Related: [02_Worldbuilding_Lore_The_Void_Shard]]
-- Affected by [[Merchant Family Tidewalker 2
-- Compare with [NPC01478_Solas_Voidwalker_the_Strong]]
+- Affected by [[NPC01478_Solas_Voidwalker_the_Strong]]
 - Compare with [[step_081 (phase_070)
 - Related: [step_044 (phase_073)]]
 - Requires [[Half Orc
 - Connects to [step_083]]
 - Affected by [[step_072 (phase_085)
 - Influences [step_049 (phase_016)]]
-- See also: [[step_049 (phase_080)
-- Connects to [Reference Quick Reference Dnd5e Sidescreen 2014]]
+- See also: [[Reference Quick Reference Dnd5e Sidescreen 2014]]
 - See also: [[Deep Mother Subsystem
 - Leads to [The Perfect Symbiosis 2]]
 - Parallels [[elven-sehanine-moonbow-mtf (deities)
@@ -360,39 +352,30 @@ Your TTRPG vault is now not just organized and complete - it's beautifully writt
 - Affected by [enspelled-weapon-level-4-xdmg (items)]]
 - Influences [[LORE00123_History_Entry_124
 - Influences [Complete_Pressure_Adaptation_System (D&D_References)]]
-- Influences [[Session 8 - The Stellar Convergence
-- Requires [keg-launcher-xdmg (objects)]]
-- Connects to [[Gravity Anomaly Mechanics 2
-- Related: [ULTIMATE_SYSTEM_REPORT]]
-- Compare with [[alternatives-to-epic-boons (variant-rules)
-- Compare with [yuan-ti-malison-type-2-xmm]]
+- Influences [[Session 8 - The Stellar Convergence]]
+- Connects to [[Gravity Anomaly Mechanics 2]]
+- Compare with [[alternatives-to-epic-boons (variant-rules)]]
 - Originates from [[step_090
 - Requires [Assets Locations Location City Navigator Abyssal Truthseeker V1 Navigator Abyssal Truthseeker.svg]]
 - Requires [[Assets Locations Location City Deep Stone Eaters Deep Stone Eaters.svg
 - Related: [NPC00272_Rhiannon_Brightblade]]
-- Leads to [[The Forbidden Archives
-- Requires [step_041]]
+- Leads to [[The Forbidden Archives]]
 - Related: [[step_047 (phase_032)
 - Originates from [step_033 (phase_014)]]
-- Parallels [[Void-Keeper Null (D&D_References)
-- Compare with [Tlincalli Mpmm]]
+- Parallels [[Void-Keeper Null (D&D_References)]]
 - Originates from [[creature-creature-dragon-v1-dragon.png
 - Leads to [Warforged 2]]
-- Connects to [[step_054
-- Parallels [SPELL00055_Arcane_Spell_56]]
+- Connects to [[SPELL00055_Arcane_Spell_56]]
 - See also: [[ITEM00671_Ethereal_Helm_of_Protection
 - Related: [The Overflow]]
 - Affected by [[step_019 (phase_088)
 - Connects to [step_057 (phase_056)]]
-- Parallels [[step_087 (phase_047)
-- Parallels [NPC00504_Qadim_Darkwater_the_Redeemed]]
+- Parallels [[NPC00504_Qadim_Darkwater_the_Redeemed]]
 - Connects to [[step_077
 - Compare with [Assets Locations Location City Vote Vaults Vote Vaults.svg]]
 - Originates from [[step_082 (phase_050)
 - Leads to [Assets Locations Location City Truth Seeker Cornelius Truth Seeker Cornelius.svg]]
-- Parallels [[MON00003_Aberrations_Creature_4
-- See also: [Downtime Activity Selling a Magic Item Xge]]
+- Parallels [[Downtime Activity Selling a Magic Item Xge]]
 - Connects to [[disarming-attack-xphb (optional-features)
 - Leads to [step_080 (phase_082)]]
-- See also: [[step_043 (phase_016)
-- Leads to [Anti-Corruption Research Institute (D&D_References)]]
+- See also: [[Anti-Corruption Research Institute (D&D_References)]]

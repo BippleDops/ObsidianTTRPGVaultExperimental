@@ -173,44 +173,20 @@ Modifications:
 
 ## See Also
 - [NPC00949_Nerys_Underhill_the_Wise]]
-- [[NPC00812_Kaelen_Jadeclaw_the_Seeker
-- [NPC00872_Thalia_Ironwood_the_Broken]]
-- [[NPC01463_Aeliana_Zephyrblade_the_Fallen
-- [NPC01911_Alaric_Oakenshield_the_Mystic]]
-- [[NPC00250_Delara_Darkwater_the_Fallen
-- [Sage Elara]]
-- [[NPC00707_Fiora_Oakenshield_the_Seeker
-- [NPC01504_Erasmus_Zephyrblade_the_Strong]]
-- [[NPC01858_Drusilla_Stormwind_the_Cunning
-- [NPC01552_Branwen_Lightbringer_the_Swift]]
-- [[NPC00385_Qadim_Darkwater_the_Cunning
-- [NPC00395_Aeliana_Thornweave]]
-- [[NPC01812_Xander_Lightbringer_the_Swift
-- [NPC01931_Thalia_Lightbringer_the_Fallen]]
-- [[Reference.md
-- [NPC01894_Aldric_Lightbringer_the_Bold]]
-- [[NPC00860_Gavril_Winterborn_the_Swift
-- [07 Customization Options]]
-- [[08 Using Ability Scores
-- [NPC00881_Qadim_Voidwalker_the_Strong]]
-- [[NPC_Relationship_Web.png_1 (03_People)
-- [NPC01745_Felicia_Oakenshield_the_Scholar]]
-- [[NPC00174_Aldric_Silverleaf_the_Fallen
-- [MOC_Lore]]
-- [[NPC00321_Aeliana_Zephyrblade_the_Strong
-- [NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[MOC_Rules
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[MOC_Rules]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -219,8 +195,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -237,8 +212,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [13 Chapter 13 the Wormwrithings]]
 - Originates from [[emberhorn-minotaur-pota (monstrosity)
 - Originates from [step_031 (phase_043)]]
-- Requires [[Sunken Kingdom of Nereon (D&D_References)
-- Requires [The Eternal Senate]]
+- Requires [[Sunken Kingdom of Nereon (D&D_References)]]
 - Affected by [[step_037 (phase_026)
 - Connects to [The Contingency Vault]]
 - Originates from [[rod-of-resurrection-xdmg (items)
@@ -246,8 +220,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [Quest - Budget Crisis_1 (01_Adventures)]]
 - Requires [[step_077 (phase_087)
 - Compare with [step_097 (phase_084)]]
-- Connects to [[NPC00778_Hilda_Hawthorne_the_Risen
-- Leads to [bullywug-bog-sage-xmm (fey)]]
+- Connects to [[NPC00778_Hilda_Hawthorne_the_Risen]]
 - Compare with
 - Connects to [[Portrait NPC Lord Commander Gareth Lord Commander Gareth.svg
 - Affected by [step_043 (phase_034)]]
@@ -255,13 +228,11 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [04_Resources_Assets_Locations_location-city-the--cathedral-v1-the--cathedral.svg]]
 - Influences [[portrait-npc-the-siren-v2-the-siren.svg_1 (Portraits)
 - Influences [[Assets Locations [[Location City [Harbor Facilities]] V1 Harbor Facilities.svg]]]]
-- Compare with [[[The Lighthouse Keeper's Ghost 2]]
-- Related: [[List Spells Classes Warlock
-- Requires [NPC00576_Kaelen_Emberfall_the_Redeemed]]
+- Compare with [[The Lighthouse Keeper's Ghost 2]]
+- Related: [[NPC00576_Kaelen_Emberfall_the_Redeemed]]
 - Affected by [[Item Template
 - Influences [ITEM01488_Elegant_Spyglass_of_Quality]]
-- Leads to [[step_001 (phase_006)
-- Requires [Investigative Chronicler Darius Truthseeker]]
+- Leads to [[Investigative Chronicler Darius Truthseeker]]
 - Parallels
 - Affected by [[04-classes (players-handbook-2014)
 - See also: [[Location City [The Recursion Cult]] the Recursion Cult.png]]
@@ -285,8 +256,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[ITEM00987_Distilled_Salve_of_Fortune
 - Affected by [Mariners Armor Xdmg]]
 - Requires [[Location City [Doctor Silas Voidtouch V1 Doctor Silas Voidtouch.svg]]
-- Connects to [[NPC01274_Idris_Lightbringer_the_Cunning
-- Compare with [Coastal Communities 2]]
+- Connects to [[NPC01274_Idris_Lightbringer_the_Cunning]]
 - Connects to [[Homunculus Xmm
 - Leads to [arch-hag-xmm (legendary-group)]]
 - Originates from [[death-slaad-xmm (aberration)
@@ -298,14 +268,11 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[races (races)
 - Influences [step_092 (phase_061)]]
 - Influences
-- Requires [[SPELL00050_Divine_Spell_51
-- Requires [step_050 (phase_059)]]
+- Requires [[SPELL00050_Divine_Spell_51]]
 - Affected by [[step_016 (phase_025)
 - Parallels [step_021 (phase_021)]]
-- See also: [[Community Organizer Current Communalspirit 2
-- Related: [MON00131_Constructs_Creature_132]]
-- Connects to [[Pip Goldleaf (D&D_Statblocks)
-- Connects to [Deep Mother Subsystem (D&D_References)]]
+- See also: [[Community Organizer Current Communalspirit 2]]
+- Connects to [[Deep Mother Subsystem (D&D_References)]]
 - Compare with [[step_093 (phase_097)
 - Leads to [Location City Silence Keeper Mute Silence Keeper Mute.svg]]
 - Originates from [[ITEM00476_Dragon_Scale_Leather_of_Protection
@@ -327,8 +294,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Assets Locations Location City [Temple Coalition]] V1 Temple Coalition.svg]]
 - See also: [[Physical Variations Yuan Ti Snake Body Type
 - Affected by [ITEM01225_Pure_Herb_of_Swiftness]]
-- Leads to [[session_preparation_optimization
-- Leads to [The Exotic Bazaar]]
+- Leads to [[session_preparation_optimization]]
 - Leads to [[Werebear Xmm
 - Requires [Portrait NPC King Torrhen Lumengarde King Torrhen Lumengarde.svg]]
 - Parallels [[LOC00053_Cities_Location_54

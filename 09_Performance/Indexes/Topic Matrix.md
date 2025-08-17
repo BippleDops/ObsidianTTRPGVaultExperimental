@@ -31,17 +31,17 @@ Detailed description pending.
 | Topic | Key Files | Related Systems | Session Ready |
 |-------|-----------|-----------------|---------------|
 | **Pressure Mechanics** | [[Complete Pressure Adaptation System|Complete Pressure Adaptation System, [Pressure_Artifacts]] | Adaptation Points, Depth Limits | ✅ |
-| **Deep Mother Lore** | [[The Deep Mother, [Memory Tide Events]] | Sanity, Memory Trading | ✅ |
-| **Parliament Politics** | [[Parliament of Shadows, [The Tidal Council]] | Faction System | ⚠️ |
+| **Deep Mother Lore** | [[Memory Tide Events]] | Sanity, Memory Trading | ✅ |
+| **Parliament Politics** | [[Parliament of Shadows]] | Faction System | ⚠️ |
 | **Submarine Travel** | [[Aquabyssos_Submarines_Catalog|Aquabyssos Submarines Catalog, [Pressure Tubes]] | Vehicle Combat | ✅ |
-| **Memory Economy** | [[Memory Trading, [Sorrow Pearls Economy]] | Trade System | ⚠️ | ### ☁️ Aethermoor Content
+| **Memory Economy** | [[Sorrow Pearls Economy]] | Trade System | ⚠️ | ### ☁️ Aethermoor Content
 
 | Topic | Key Files | Related Systems | Session Ready |
 |-------|-----------|-----------------|---------------|
 | **Crystal Corruption** | [[The Seven Shards, [Crystal Plague|Crystal Plague]] | Corruption Points | ✅ |
-| **Airship Navigation** | [[Vehicles - Aethermoor Airships, [Wind Currents]] | Vehicle Rules | ✅ |
-| **Royal Politics** | [[Queen Seraphina Lumengarde, [The Crystal Throne]] | Court Intrigue | ✅ |
-| **Shadow Phenomena** | [[Shadow Corruption, [The Shadowmere]] | Horror Framework | ⚠️ |
+| **Airship Navigation** | [[Vehicles - Aethermoor Airships]] | Vehicle Rules | ✅ |
+| **Royal Politics** | [[Queen Seraphina Lumengarde]] | Court Intrigue | ✅ |
+| **Shadow Phenomena** | [[Shadow Corruption]] | Horror Framework | ⚠️ |
 | **Trade Routes** | [[Port Meridian, [Trade Goods Xdmg]] | Economics | ✅ | ### ⚔️ Adventure Modules
 
 | Adventure | Level Range | Sessions | Status | Key Themes |
@@ -54,7 +54,7 @@ Detailed description pending.
 
 | Faction | Key NPCs | Motivation | Threat Level |
 |---------|----------|------------|--------------|
-| **Parliament of Shadows** | [[Senator Glaucus, [Tribune Maelstrom]] | Control | High |
+| **Parliament of Shadows** | [[Tribune Maelstrom]] | Control | High |
 | **Temple of Tides** | [[High Tidecaller Nerissa | Faith | Medium |
 | **Pearl Guard** | [Captain Nerion Pearlshield]] | Order | Low |
 | **Deep Speakers** | [[Whisper-Touched | Knowledge | Variable | #### Aethermoor Factions
@@ -67,20 +67,20 @@ Detailed description pending.
 | **Merchant Princes** | [Lord Goldhand]] | Profit | Medium | ### 🏛️ Locations by Type #### Urban Centers
 
 - **Aquabyssos**: [[Pearl_Harbor_City|Pearl Harbor City, [Abyssos Prime]], [[The Kelp Gardens
-- **Aethermoor**: [Crystalhaven]], [[Port Meridian, [Shadowmere]] #### Dangerous Zones
+- **Aethermoor**: [Crystalhaven]], [[Port Meridian]] #### Dangerous Zones
 
-- **Aquabyssos**: [[The Pressure Maelstroms, [Leviathan Graveyard]], [[Aboleth Territories
-- **Aethermoor**: [The Crystalline Wastes]], [[The Shadowmere, [The Void Breach]] #### Neutral Grounds
+- **Aquabyssos**: [[The Pressure Maelstroms]], [[Aboleth Territories
+- **Aethermoor**: [The Crystalline Wastes]], [[The Void Breach]] #### Neutral Grounds
 
-- **Shared**: [[Convergence Points, [Merger Transit Zones]]
-- **Diplomatic**: [[Neutral Grounds, [Embassy Districts]] ### 📚 Lore Categories | Category | Core Documents | Integration Level |
+- **Shared**: [[Merger Transit Zones]]
+- **Diplomatic**: [[Embassy Districts]] ### 📚 Lore Categories | Category | Core Documents | Integration Level |
 
 |----------|---------------|-------------------|
-| **Creation Myths** | [[The Great Submersion, [The Great Crystallization]] | High |
-| **Ancient History** | [[Ancient Mer-Folk Empire (D&D_References), [Crown of Stars]] | Medium |
-| **Recent Events** | [[Crystal Festival, [Memory Tide Disaster]] | High |
-| **Prophecies** | [[The Seven Shards Prophecy, [Surface Rising]] | Medium |
-| **Lost Knowledge** | [[Void Texts, [Aboleth Memories]] | Low | ### 🎲 Mechanical Systems #### Core Systems
+| **Creation Myths** | [[The Great Crystallization]] | High |
+| **Ancient History** | [[Ancient Mer-Folk Empire (D&D_References)]] | Medium |
+| **Recent Events** | [[Memory Tide Disaster]] | High |
+| **Prophecies** | [[The Seven Shards Prophecy]] | Medium |
+| **Lost Knowledge** | [[Aboleth Memories]] | Low | ### 🎲 Mechanical Systems #### Core Systems
 
 | System | Complexity | Files | Integration |
 |--------|------------|-------|-------------|
@@ -123,8 +123,7 @@ Detailed description pending.
 
 1. [[Campaign_Dashboard
 2. [Complete Pressure Adaptation System|Complete Pressure Adaptation System]]
-3. [[The Seven Shards
-4. [Queen Seraphina Lumengarde]]
+3. [[Queen Seraphina Lumengarde]]
 5. [[Parliament of Shadows ### Recently Updated
 
 - Check`updated: 2025-08-10`tag

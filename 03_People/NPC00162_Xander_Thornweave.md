@@ -130,58 +130,15 @@ Deception, History, Persuasion, Performance
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- [[Political Alliances
-- Upcoming social events
-
-## Plot Hook
-Needs discrete help with family scandal
-
-## DM Notes
-- Adjust stats based on party level
-- Secrets can drive major plot points
-- Relationships create web of connections
-- Use quirks for memorable roleplay
-
----
-*Generated: 2025-08-15T03:51:03.130Z*
-
-## Voice & Mannerisms
-- Speaking style
-- Common phrases
-
-## Daily Routine
-- Morning activities
-- Evening habits
-
-## Combat Tactics
-- Preferred strategies
-- Special moves
-
-## Combat Stats
-Base: **Guard** (BC p.347)
-Modifications:
-- HP: 12
-- AC: 11
-- Notable abilities: Varies by individual
-
-## See Also
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC00250_Delara_Darkwater_the_Fallen
-- [NPC00259_Delara_Proudmore]]
-- [[NPC01761_Idris_Moonshadow_the_Broken
-- [NPC01789_Vesper_Proudmore_the_Mystic]]
-- [[Ambassador Nerida Deepcurrent
-- [NPC00276_Ysara_Youngblood]]
-- [[NPC01466_Urien_Nightfall_the_Guardian
-- [NPC01057_Pyria_Quicksilver_the_Scholar]]
-- [[NPC01974_Thalia_Zephyrblade_the_Lost
-- [Measurement_Guide_Depth_and_Pressur]]
-- [[NPC01247_Xander_Zephyrblade_the_Risen
-- [Party_Quests]]
-- [[Combat_Encounter_Analysis
-- [13 Conditions]]
-- [[16 Credits
-- [10 Combat]]
+- [[Political Alliances]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[Combat_Encounter_Analysis]]
+- [[16 Credits]]
 - [[Master_Narrative_Web.md
 -
 
@@ -216,9 +173,8 @@ Modifications:
 - Connects to [[Embassy Conference Chamber
 - See also:
 - Leads to [entangle-xphb (spells)]]
-- Requires [[[Court Herald Titus (D&D_References)]]
-- Related: [[QUEST00087_Personal_Quest_88
-- Parallels [Commander Darkwater 2]]
+- Requires [[Court Herald Titus (D&D_References)]]
+- Related: [[QUEST00087_Personal_Quest_88]]
 - Influences [[step_077 (phase_092)
 - Affected by [Moon Touched Sword Xdmg]]
 - Related: [[step_042 (phase_014)
@@ -229,9 +185,8 @@ Modifications:
 - Leads to [duergar-raiding-parties-1-mtf (tables)]]
 - Connects to [[Shadow Community Healthcare
 - Related: [Assets Symbols Symbol Heraldry Dockworkers Union Dockworkers Union.svg]]
-- Connects to [[The Gilded Anchor 2
-- Connects to [Emergency Response Procedures 2]]
-- Parallels [[[Memory Keeper Ancient Nerida (D&D_References)]]
+- Connects to [[Emergency Response Procedures 2]]
+- Parallels [[Memory Keeper Ancient Nerida (D&D_References)]]
 - Parallels [[Location City [Harbor District V1 Harbor District.svg]]
 - See also: [[LORE00308_History_Entry_309
 - Connects to
@@ -271,37 +226,31 @@ Modifications:
 - Influences
 - Influences [[step_008 (phase_093)
 - Leads to [[[Interfaith Dialogue]] (D&D_References)]]
-- Connects to [[The Deep Prophets
-- Affected by [ENC00035_Combat_Encounter_36]]
-- Connects to [[[Magical Theory (D&D_References)]]
+- Connects to [[ENC00035_Combat_Encounter_36]]
+- Connects to [[Magical Theory (D&D_References)]]
 - Leads to [[Counter-Mirror Task Force
 - Compare with [Emergency_Navigation_Coordinator_Storm_Guidewright (02_Worldbuilding)]]
-- Related: [[[Depth Plague 2]]
-- Related: [[kuo-toa-monitor-xmm (aberration)
-- See also: [step_036 (phase_062)]]
+- Related: [[Depth Plague 2]]
+- Related: [[kuo-toa-monitor-xmm (aberration)]]
 - Parallels [[Assets Locations Location City [Pressure Guard Steelwall V1 Pressure Guard Steelwall.svg]]
 - Parallels [[step_064 (phase_056)
 - Compare with
 - Compare with [LORE00285_History_Entry_286]]
 - Requires [[step_093 (phase_058)
 - Originates from [step_058 (phase_059)]]
-- See also: [[Omega-Protocol (D&D_References)
-- See also: [LORE00114_History_Entry_115]]
+- See also: [[Omega-Protocol (D&D_References)]]
 - Leads to [[Quest - The Memory Bridge
 - Requires [project-image-xphb (spells)]]
-- Connects to [[[Liberty Coalition 2]]
+- Connects to [[Liberty Coalition 2]]
 - Leads to [[Reality Bridge Construction
 - Affected by [[[Clerk Supreme Marcus Filekeeper]] (D&D_References)]]
-- See also: [[Portrait NPC Ques... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Parallels [Mask of the Dragon Queen Rot]]
-- See also: [[LOC00291_Dungeons_Location_292
-- Affected by [VAULT_CLEAN_STATUS]]
+- See also: [[Portrait NPC Ques... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- See also: [[LOC00291_Dungeons_Location_292]]
 - Leads to [[Produce Flame Xphb
 - See also: [The Void Watchers 2]]
 - Requires
 - Compare with
-- Connects to [[MON00074_Aberrations_Creature_75
-- Leads to [step_027 (phase_034)]]
+- Connects to [[MON00074_Aberrations_Creature_75]]
 
 ## Visual References
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png

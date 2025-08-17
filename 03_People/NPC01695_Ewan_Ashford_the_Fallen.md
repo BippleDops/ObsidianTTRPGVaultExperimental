@@ -34,7 +34,7 @@ type: npc
 **ID**: NPC01695
 
 ## Quick Reference
-- **Location**: [[The Gilded Serpent [Tavern]] in the [[[Merchant Quarter]]
+- **Location**: [[The Gilded Serpent]] in the [[Merchant Quarter]]
 - **Occupation**: Cult leader
 - **Disposition**: Compulsive liar about minor things
 
@@ -169,38 +169,20 @@ Offers deal too good to refuse
 - Special moves
 
 ## See Also
-- [[NPC01301_Jorah_Underhill_the_Broken
-- [NPC01761_Idris_Moonshadow_the_Broken]]
-- [[NPC_Relationship_Web.png_1 (03_People)
-- [NPC01013_Corvus_Ravenheart_the_Bold]]
-- [[NPC00612_Thalia_Jadeclaw_the_Fallen
-- [NPC00095_Fiora_Nightfall]]
-- [[NPC01041_Thalia_Dawnstrider_the_Lost
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[NPC01989_Erasmus_Xendar_the_Strong
-- [NPC00885_Kaelen_Xendar_the_Lost]]
-- [[NPC00739_Gavril_Ashford_the_Bold
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[NPC00975_Lyanna_Winterborn_the_Wise
-- [NPC00385_Qadim_Darkwater_the_Cunning]]
-- [[NPC01745_Felicia_Oakenshield_the_Scholar
-- [Pilgrim_Pass_Prayer_Sli]]
-- [[NPC00317_Pyria_Blackstone_the_Redeemed
-- [Ceasefire_Accord_Draft.md]]
-- [[Faction_Guide.md
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC00281_Hestara_Nightfall_the_Cunning]]
-- [[Ambassador Nerida Deepcurrent
-- [12 Spells]]
-- [[11 Rules Glossary
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[MOC_Items
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[MOC_Items]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -221,10 +203,8 @@ Offers deal too good to refuse
 - Influences [QUEST00239_Personal_Quest_240]]
 - Affected by [[The Abyssal Prophet
 - Originates from [devil-customization-tables (tables)]]
-- Connects to [[ENC00160_Combat_Encounter_161
-- Leads to [[[Museums]] 2]]
-- Compare with [[02-chapter-1-playing-the-game#Difficult Terrain
-- See also: [step_094 (phase_053)]]
+- Connects to [[ENC00160_Combat_Encounter_161]] 2]]
+- Compare with [[02-chapter-1-playing-the-game (players-handbook-2024)]]
 - Compare with [[LORE00092_Prophecies_Entry_93
 - Requires [step_026 (phase_099)]]
 - Parallels [[Location City [The Transition Centers the Transition Centers.svg]]
@@ -244,32 +224,22 @@ Offers deal too good to refuse
 - Leads to [[SHOP00042_General_Shop_43
 - See also: [[[Quartermaster David Simpleton]] 2]]
 - Leads to
-- Originates from [[step_068 (phase_081)
-- Affected by [The Shadow Operating Theater]]
-- Influences [[Otilukes Freezing Sphere Xphb
-- Requires [QUEST0006_Investigate_the_Pirates]]
-- Requires [[Transformations - Crystal - Crystal Bloom
-- Leads to
-- Compare with [Reputation_Tracker]]
+- Originates from [[The Shadow Operating Theater]]
+- Influences [[QUEST0006_Investigate_the_Pirates]]
+- Requires [[Transformations - Crystal - Crystal Bloom]]
 - Related: [[horn-of-valhalla-bronze-xdmg (items)
 - Affected by [Portrait NPC Vex Shadowthorn the Kingpin V2 Vex Shadowthorn the Kingpin.svg]]
-- Connects to [[Marcus Thornwhispe
-- Affected by [LOC00040_Dungeons_Location_41]]
+- Connects to [[LOC00040_Dungeons_Location_41]]
 - Requires [[The Debt Collectors
 - Originates from [[Assets Locations Location City [Temporal Viewing Chambers]] V1 Temporal Viewing Chambers.svg]]
 - Parallels [[creature-creature-sphinx-xmm-v2-sphinx-xmm.png
 - See also: [babau-mpmm (fiend)]]
-- Compare with [[Neural Pattern Recognition System
-- See also: [QUEST00095_Personal_Quest_96]]
-- See also: [[Damage Roll Xphb
-- Related: [LOC00147_Planes_Location_148]]
-- Related: [[MON00105_Undead_Creature_106
-- Related: [Elder Tempest Mpmm]]
-- Parallels [[Emergency Crystal Response Team
-- Related: [Mounted_Combat]]
+- Compare with [[Neural Pattern Recognition System]]
+- See also: [[LOC00147_Planes_Location_148]]
+- Related: [[MON00105_Undead_Creature_106]]
+- Parallels [[Emergency Crystal Response Team]]
 - Leads to
-- Affected by [[creating-a-rival-rival-xge (tables)
-- Requires [Banking Lord Cornelius Coinwright (D&D_References)]]
+- Affected by [[Banking Lord Cornelius Coinwright (D&D_References)]]
 - Compare with [[Memory Adjustment
 - Leads to [Encounter_Tables (02_Worldbuilding)]]
 - Related: [[QUEST00489_Side_Quest_490
@@ -279,19 +249,16 @@ Offers deal too good to refuse
 - Connects to
 - Parallels [[step_053 (phase_044)
 - Affected by [[[Port Meridian]] - Market District 2]]
-- Influences [[Houses_and_Nobility___House_Brightshield
-- Related: [step_070 (phase_084)]]
+- Influences [[Houses_and_Nobility___House_Brightshield]]
 - Influences [[step_001 (phase_039)
 - Connects to [The Sorrow Current]]
 - Parallels
 - Connects to [[Embed
 - Leads to [Armor and Shields Armor Phb]]
-- Connects to [[LOC00215_Cities_Location_216
-- Influences [Royal Treasury 2]]
+- Connects to [[LOC00215_Cities_Location_216]]
 - Requires [[QUEST00191_Side_Quest_192
 - Influences [step_007 (phase_067)]]
-- Parallels [[QUEST00069_Main_Quest_70
-- Leads to [NPC00287_Ysara_Underhill_the_Wise]]
+- Parallels [[NPC00287_Ysara_Underhill_the_Wise]]
 - Leads to [[Linking Adventures Adventure Connections Xdmg
 - See also: [Lightning Arrow Xphb]]
 - Affected by [[Portrait NPC the Leviathan Prophets V1 the Leviathan Prophets.svg_1 (Portraits)
@@ -308,8 +275,7 @@ Offers deal too good to refuse
 - Compare with
 - Requires
 - Compare with [Vargouille Mpmm]]
-- Connects to [[cone-area-of-effect-xphb (variant-rules)
-- Originates from [norse-surtur (deities)]]
+- Connects to [[cone-area-of-effect-xphb (variant-rules)]]
 - Requires [[Location City [Amnesia Gallery V1 Amnesia Gallery.svg]]
 - Related: [[Standard Languages Phb
 - See also:

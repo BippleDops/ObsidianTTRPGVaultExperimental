@@ -210,26 +210,20 @@ publish: false --- # 🏆 ULTIMATE VAULT ACHIEVEMENT: 69,892 Total Improvements 
 ## Connections
 
 - Leads to [Seraph Tidewhisper (D&D_References)]]
-- Influences [[Keeper Truth Seeker
-- Related: [Lady Shadowmere (D&D_References)]]
+- Influences [[Lady Shadowmere (D&D_References)]]
 - Leads to [[portrait-npc-queen-nerida-v1-queen-nerida.svg_1 (Portraits)
 - Requires [Assets Locations Location City Shadow Merchant Riptide Shadow Merchant Riptide.svg]]
-- Leads to [[Arcane Assembly 2
-- See also: [Shadow Magic Integration Practices (D&D_References)]]
-- Requires [[mixing-potions (variant-rules)
-- Related: [step_038 (phase_079)]]
+- Leads to [[Shadow Magic Integration Practices (D&D_References)]]
+- Requires [[mixing-potions (variant-rules)]]
 - Leads to [[step_063 (phase_093)
 - Affected by [Prep Note 2]]
 - Affected by [[actor-xphb (feats)
 - Leads to [step_072 (phase_045)]]
-- Parallels [[step_067 (phase_022)
-- Influences [The Shadowwatch Bastion (D&D_References)]]
+- Parallels [[The Shadowwatch Bastion (D&D_References)]]
 - Related: [[step_100 (phase_029)
 - Parallels [Assets Locations Location City the Memory Palace V1 the Memory Palace.svg]]
-- Related: [[Animated Drow Statue Oota
-- Requires [NPC00284_Thalia_Winterborn_the_Broken]]
-- Requires [[The Abyssal Tavern 2
-- Influences [Determine Aquabyssos (D&D_References)]]
+- Related: [[NPC00284_Thalia_Winterborn_the_Broken]]
+- Requires [[Determine Aquabyssos (D&D_References)]]
 - Related: [[step_049 (phase_066)
 - Affected by [list-spells-classes-cleric (lists)]]
 - Connects to [[04_Resources_Assets_Portraits_portrait-npc-captain-torren-stormwright-captain-torren-stormwright.svg_Quick_Ref
@@ -238,14 +232,11 @@ publish: false --- # 🏆 ULTIMATE VAULT ACHIEVEMENT: 69,892 Total Improvements 
 - See also: [step_048 (phase_069)]]
 - Connects to [[LORE00154_Legends_Entry_155
 - Compare with [Symbol Heraldry Purist Coalition Thugs V1 Purist Coalition Thugs.svg]]
-- Leads to [[NPC01389_Dara_Dawnstrider_the_Broken
-- See also: [Living Cities]]
+- Leads to [[NPC01389_Dara_Dawnstrider_the_Broken]]
 - Related: [[Assets Locations Location City St Meridian S Cathedral St Meridian S Cathedral.svg
 - Originates from [Pure Shadow Crystals]]
-- See also: [[air-elemental-xmm
-- Requires [step_040]]
-- Affected by [[QUEST0047_In_Search_of_Power
-- Connects to [step_022 (phase_021)]]
+- See also: [[air-elemental-xmm]]
+- Affected by [[QUEST0047_In_Search_of_Power]]
 - Influences [[step_070
 - Influences [FAC00007_Orders_8]]
 - See also: [[step_017
@@ -256,8 +247,7 @@ publish: false --- # 🏆 ULTIMATE VAULT ACHIEVEMENT: 69,892 Total Improvements 
 - Affected by [Session 1 the Queens Summons_1 (06_Sessions)]]
 - Parallels [[padded-armor-xphb (items)
 - Related: [ITEM01493_Decorated_Lock_of_Durability]]
-- See also: [[Storm Empress Tempestas Maelstrom (D&D_References)
-- See also: [step_006 (phase_073)]]
+- See also: [[Storm Empress Tempestas Maelstrom (D&D_References)]]
 - Requires [[step_070 (phase_088)
 - Influences [step_083 (phase_040)]]
 - Parallels [[step_054 (phase_090)
@@ -268,32 +258,26 @@ publish: false --- # 🏆 ULTIMATE VAULT ACHIEVEMENT: 69,892 Total Improvements 
 - Affected by [ITEM01216_Superior_Crystal_of_Clarity]]
 - Leads to [[step_097 (phase_094)
 - Affected by [NPC00244_Idris_Goldleaf_the_Risen]]
-- Requires [[Deep Lord Pelagios the Eternal
-- See also: [step_085 (phase_031)]]
-- Related: [[step_012 (phase_082)
-- Requires [Quest - Divine Intervention]]
+- Requires [[Deep Lord Pelagios the Eternal]]
+- Related: [[Quest - Divine Intervention]]
 - Compare with [[Portrait NPC Quest the Ancient Compact V2 Quest the Ancient Compact.svg
 - Compare with [NPC01337_Elric_Dawnstrider_the_Scholar]]
-- Related: [[Armor of Vulnerability Piercing Xdmg
-- Compare with [Trader Cross-Current Jin (D&D_References)]]
+- Related: [[Trader Cross-Current Jin (D&D_References)]]
 - Influences [[Economic_System
 - Affected by [Sacred Trench of Trials]]
 - Influences [[step_009 (phase_030)
 - Influences [04_Resources_Assets_Locations_location-city-hadrian-depthbridge-v1-hadrian-depthbridge.svg]]
 - Compare with [[step_089 (phase_004)
 - Parallels [Settlement Tables and Tracker Random Shops]]
-- Parallels [[mold-earth-xge (spells)
-- Affected by [The Deep Vault (D&D_References)]]
+- Parallels [[The Deep Vault (D&D_References)]]
 - Related: [[step_005 (phase_054)
 - See also: [FAC00057_Guilds_58]]
 - Related: [[step_092
 - See also: [LORE00030_History_Entry_31]]
-- See also: [[stage-2-xdmg (tables)
-- Compare with [Zephyr Goldwhisper (D&D_References)]]
+- See also: [[Zephyr Goldwhisper (D&D_References)]]
 - Influences [[Nerissa Depthsong (D&D_References)
 - Affected by [Assets Locations Location City the Pressure Forges V1 the Pressure Forges.svg]]
-- Related: [[step_005
-- Originates from [Wind Riders Union (D&D_References)]]
+- Related: [[Wind Riders Union (D&D_References)]]
 - Related: [[DUN00183_Dungeon_184
 - Affected by [SPELL00154_Nature_Spell_155]]
 - Affected by [[LOC00025_Cities_Location_26

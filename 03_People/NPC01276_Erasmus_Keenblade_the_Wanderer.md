@@ -157,48 +157,29 @@ Knows secret about major threat
 - Special moves
 
 ## See Also
-- [[NPC00649_Corvus_Zephyrblade_the_Broken
-- [NPC01290_Pyria_Ashford_the_Broken]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC01682_Vesper_Blackstone_the_Guardian]]
-- [[NPC01812_Xander_Lightbringer_the_Swift
-- [Ambassador Nerida Deepcurrent]]
-- [[NPC00599_Cedric_Lightbringer_the_Wise
-- [NPC00739_Gavril_Ashford_the_Bold]]
-- [[NPC01552_Branwen_Lightbringer_the_Swift
-- [NPC00276_Ysara_Youngblood]]
-- [[NPC00661_Corvus_Darkwater_the_Broken
-- [NPC01989_Erasmus_Xendar_the_Strong]]
-- [[NPC01568_Lyanna_Winterborn_the_Strong
-- [NPC00307_Dara_Proudmore_the_Seeker]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC00058_Elric_Nightfall]]
-- [[Submersible_Schematic_Pressure_Gate_Scou
-- [Measurement_Guide_Depth_and_Pressur]]
-- [[Ceasefire_Accord_Draft.md
-- [Propaganda_Leaflet_Pearl_Guar]]
-- [[NPC01664_Pyria_Lightbringer_the_Redeemed
-- [What You Know - Abyssos Prime.md]]
-- [[NPC01438_Hilda_Youngblood_the_Fallen
-- [Ritual_Timing_Wheel_Convergenc]]
-- [[Trade_Route_Chart_Port_Meridia
-- [Wanted_Poster_Syndicate_Fenc]]
-- [[Player_Comfort_Check
-- [Downtime_Activities]]
-- [[07 Customization Options
-- [Pilgrim_Pass_Prayer_Sli]]
-- [[08 Using Ability Scores
-- [11 Rules Glossary]]
-- [[Character_Journal_Template
-- [Count_Strahd_von_Zarovich]]
-- [[NPC00872_Thalia_Ironwood_the_Broken
-- [MOC_NPCs]]
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[Player_Comfort_Check]]
+- [[07 Customization Options]]
+- [[08 Using Ability Scores]]
+- [[Character_Journal_Template]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -213,28 +194,24 @@ Knows secret about major threat
 
 - Influences [[LORE00239_History_Entry_240
 - Leads to [mummy-lord-xmm]]
-- Leads to [[Pressure's End 2
-- Compare with [QUEST00214_Side_Quest_215]]
+- Leads to [[QUEST00214_Side_Quest_215]]
 - Compare with [[Entertainment Industry 2
 - Originates from [step_060 (phase_044)]]
 - Compare with [[centaur-trooper-xmm (fey)
 - See also: [Marquis Storm Tempest]]
 - Compare with [[The Remembrancer General 2
 - Originates from [step_009 (phase_032)]]
-- Connects to [[NPC00451_Malakai_Ravenheart_the_Broken
-- Compare with [bugbear-warrior-xmm (fey)]]
+- Connects to [[NPC00451_Malakai_Ravenheart_the_Broken]]
 - Related: [[LORE00081_Prophecies_Entry_82
 - Requires [Satyr Revelmaster Xmm]]
 - Originates from [[step_087 (phase_062)
 - Parallels [erupting-earth-xge (spells)]]
-- Leads to [[Silent Guardian Marcus 2
-- Leads to [Customer Relations Director Seraphina Calmcurrent (D&D_References)]]
+- Leads to [[Customer Relations Director Seraphina Calmcurrent (D&D_References)]]
 - Related: [[LOC00284_Cities_Location_285
 - Originates from [step_064 (phase_091)]]
 - Influences [[Portrait NPC Jasper Three Eyes Flint V2 Jasper Three Eyes Flint.png_1 (Portraits)
 - Leads to [LOC0148_Fallshollow]]
-- Affected by [[list-spells-races-elf-xphb (lists)
-- Parallels [The Pressure Pirates (D&D_References)]]
+- Affected by [[The Pressure Pirates (D&D_References)]]
 - Related: [[Rod of Resurrection Xdmg
 - Compare with [Assets Locations Location City Crimson Velocity Crimson Velocity.svg]]
 - Influences [[Illyana Glowstream
@@ -247,8 +224,7 @@ Knows secret about major threat
 - Parallels [[Walloping Ammunition Xdmg
 - Leads to
 - Influences [NPC00993_Faelyn_Silverleaf_the_Seeker]]
-- Compare with [[Portrait NPC Deep... Related To: Local Political Structure Connected Plots: to Be Developed
-- See also: [step_061 (phase_022)]]
+- Compare with [[Portrait NPC Deep... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Originates from [[Factions the Order of the Veil
 - Requires [location-city-finn-goodtide-finn-goodtide.svg]]
 - Parallels [[QUEST0001_Escape_the_Assassins
@@ -260,35 +236,28 @@ Knows secret about major threat
 - Influences [[npc-talents (tables)
 - Related: [portrait-npc-shadow-brokers-v1-shadow-brokers.svg]]
 - See also:
-- Compare with [[Hybrid Transformation
-- Connects to [The First Transformation Wave (D&D_References)]]
+- Compare with [[The First Transformation Wave (D&D_References)]]
 - Leads to [[Aquabyssos Noble Houses
 - Influences [Prophetic Dreams 2]]
 - See also: [[step_049 (phase_078)
 - Compare with [Pressure Symbiont]]
 - Requires [[ruin-grinder-scc
 - Affected by [Control Water Xphb]]
-- Leads to [[step_041 (phase_024)
-- Compare with [ENC00404_Combat_Encounter_405]]
+- Leads to [[ENC00404_Combat_Encounter_405]]
 - Compare with [[FAC00071_Cults_72
 - Requires [Campaign_Center]]
-- See also: [[Symphony of the Abyss Recipe 2
-- Leads to [Stormcaller Navy]]
-- Compare with [[step_084 (phase_019)
-- Affected by [2-character-options 2 (xanathars-guide-to-everything)]]
+- See also: [[Symphony of the Abyss Recipe 2]]
+- Compare with [[2-character-options 2 (xanathars-guide-to-everything)]]
 - Parallels [[step_062 (phase_043)
 - Influences [Safe Passage Guild (Guilds)]]
-- Connects to [[The Deep Trading Halls 2
-- See also: [ENC00288_Social_Encounter_289]]
-- Related: [[Market Master Duskwate
-- See also: [LOC00060_Dungeons_Location_61]]
+- Connects to [[ENC00288_Social_Encounter_289]]
+- Related: [[LOC00060_Dungeons_Location_61]]
 - Originates from [[02_Worldbuilding_Lore_GM_Resources
 - Parallels [location-city-memory-thief-memory-thief.svg]]
 - Requires [[Location City Guide Helpfulcurrent Guide Helpfulcurrent.svg
 - Requires
 - Connects to [SPELL0021_Celestial_Curse]]
-- Parallels [[Captain Marcus Ironwill (D&D_References)
-- Connects to [ITEM01168_Refined_Incense_of_Clarity]]
+- Parallels [[Captain Marcus Ironwill (D&D_References)]]
 - Leads to [[Assets Locations Location City Liberty Coalition Liberty Coalition.svg
 - Influences [step_030 (phase_090)]]
 - Requires [[step_027 (phase_094)
@@ -297,14 +266,11 @@ Knows secret about major threat
 - Parallels [step_078 (phase_044)]]
 - Influences [[LORE00091_History_Entry_92
 - Related: [dwarven-sharindlar-mtf (deities)]]
-- See also: [[The Memory Palace (D&D_References)
-- Leads to [immunity-xphb (variant-rules)]]
-- Parallels [[LOC00273_Cities_Location_274
-- Compare with [step_041 (phase_076)]]
+- See also: [[The Memory Palace (D&D_References)]]
+- Parallels [[LOC00273_Cities_Location_274]]
 - Connects to [[Assets Locations Location City Culinary Critic Marina Tastebud Culinary Critic Marina Tastebud.svg
 - See also: [Location City Pearl Harbor City V1 Pearl Harbor City.svg]]
-- Affected by [[step_091 (phase_073)
-- Leads to [Princess Celestine Lumengarde 2]]
+- Affected by [[Princess Celestine Lumengarde 2]]
 - Related: [[step_076 (phase_033)
 - Originates from [Paper Whirlwind Rot]]
 - Influences [[NPC01308_Jorah_Quicksilver_the_Swift

@@ -157,32 +157,21 @@ Has map to lost treasure
 - Special moves
 
 ## See Also
-- [[NPC01247_Xander_Zephyrblade_the_Risen
-- [Ambassador Nerida Deepcurrent]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[NPC01290_Pyria_Ashford_the_Broken
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC00739_Gavril_Ashford_the_Bold
-- [NPC00283_Kaelen_Zephyrblade_the_Bold]]
-- [[NPC01939_Orion_Nightfall_the_Bold
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[NPC00057_Malakai_Stormwind_the_Cunning
-- [NPC01625_Qadim_Lightbringer_the_Swift]]
-- [[NPC00661_Corvus_Darkwater_the_Broken
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[NPC00281_Hestara_Nightfall_the_Cunning
-- [NPC01664_Pyria_Lightbringer_the_Redeemed]]
-- [[NPC01888_Hestara_Ravenheart_the_Redeemed
-- [NPC01745_Felicia_Oakenshield_the_Scholar]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [Complete_NPC_Matrix.md]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -232,14 +221,11 @@ Has map to lost treasure
 - Connects to [LORE00068_History_Entry_69]]
 - Parallels [[invisible-stalker-xmm (elemental)
 - Connects to [step_010 (phase_004)]]
-- Requires [[step_095 (phase_064)
-- Leads to [LOC00230_Towns_Location_231]]
-- Parallels [[step_054 (phase_099)
-- Requires [Merchant Family Alliances (D&D_References)]]
+- Requires [[LOC00230_Towns_Location_231]]
+- Parallels [[Merchant Family Alliances (D&D_References)]]
 - Related: [[Spellcasting Xge
 - Affected by [Bomber Bobby Naturals 2]]
-- Affected by [[The Shadow Shepherds
-- See also: [Conflict Resolution Division]]
+- Affected by [[Conflict Resolution Division]]
 - Originates from [[Modron Duodrone Xmm
 - Leads to [Portrait NPC High Priest Nereon V1 High Priest Nereon.svg_1 (Portraits)]]
 - Connects to [[Captain Rodrigo Ironanchor
@@ -252,16 +238,13 @@ Has map to lost treasure
 - Requires [04_Resources_Assets_Locations_location-city-the-luminous-dawn-cathedral-v1-the-luminous-dawn-cathedral.svg]]
 - Influences [[step_021 (phase_016)
 - Related: [Tidal Harmony]]
-- Requires [[The Bone Colosseum
-- Related: [MON00057_Aberrations_Creature_58]]
-- Connects to [[Ring of Swimming Xdmg
-- Parallels [NPC01920_Cedric_Winterborn_the_Wanderer]]
+- Requires [[MON00057_Aberrations_Creature_58]]
+- Connects to [[NPC01920_Cedric_Winterborn_the_Wanderer]]
 - Originates from [[ITEM01017_Lesser_Herb_of_Vigor
 - Parallels [step_028 (phase_093)]]
 - See also: [[location-city-free-current-free-current.svg
 - Originates from [Giant Badger Xmm]]
-- Parallels [[Chief Manufacturing Engineer Tide Breathwright
-- Compare with [QUEST0080_The_Final_Legacy]]
+- Parallels [[Chief Manufacturing Engineer Tide Breathwright]]
 - Parallels [[Location City Memory Keeper Lament V1 Memory Keeper Lament.svg
 - Originates from [The Anonymous Inquisitor]]
 - Affected by [[Meld Into Stone Xphb
@@ -274,10 +257,8 @@ Has map to lost treasure
 - Influences [step_028 (phase_062)]]
 - See also: [[dehydration-xphb (traps-hazards)
 - Originates from [ENC00424_Combat_Encounter_425]]
-- See also: [[Master Cultivator Polyp Growe
-- Affected by [The Convergence Key 2]]
-- Parallels [[Transformations - Crystal - Crystal Bloom
-- Leads to [The Evolution District (D&D_References)]]
+- See also: [[Master Cultivator Polyp Growe]]
+- Parallels [[Transformations - Crystal - Crystal Bloom]]
 - Requires [[step_021 (phase_085)
 - Influences [EVENT00093_Political_Event_94]]
 - Compare with [[Assets Art Breaking the Deep.png

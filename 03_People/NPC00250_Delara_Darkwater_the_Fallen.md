@@ -160,26 +160,14 @@ Seeks bodyguards for dangerous journey
 - Special moves
 
 ## See Also
-- [[NPC00317_Pyria_Blackstone_the_Redeemed
-- [NPC01041_Thalia_Dawnstrider_the_Lost]]
-- [[NPC00881_Qadim_Voidwalker_the_Strong
-- [NPC01252_Jorah_Youngblood_the_Strong]]
-- [[NPC00095_Fiora_Nightfall
-- [NPC00939_Thalia_Jadeclaw_the_Swift]]
-- [[NPC01632_Qadim_Darkwater_the_Guardian
-- [NPC00661_Corvus_Darkwater_the_Broken]]
-- [[NPC00655_Jorah_Darkwater_the_Seeker
-- [NPC00069_Thalia_Brightblade_the_Guardian]]
-- [[NPC00395_Aeliana_Thornweave
-- [NPC01012_Solas_Darkwater_the_Strong]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [NPC01201_Felicia_Ironwood_the_Bold]]
-- [[NPC01040_Zephyr_Lightbringer_the_Strong
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -206,16 +194,14 @@ Seeks bodyguards for dangerous journey
 - Compare with [MON00000_Undead_Creature_1]]
 - Compare with [[Session 02 the Crystal Fever
 - Related: [Assets Locations Location City the Recursion Cult V1 the Recursion Cult.png]]
-- Parallels [[merrenoloth-mtf (legendary-group)
-- Related: [Prophetic Visions]]
+- Parallels [[merrenoloth-mtf (legendary-group)]]
 - Leads to [[ENC00021_Combat_Encounter_22
 - Parallels [ITEM00119_Blazing_Spear_of_Slaying]]
 - Requires [[gold-bar-5-pound-xdmg (items)
 - Requires [location-city-world-map-v1-world-map.svg]]
 - Affected by [[Location City Keeper Deepcurrent Keeper Deepcurrent.svg
 - Compare with [step_072 (phase_090)]]
-- Leads to [[Key Officer
-- Related: [NPC01396_Delara_Proudmore_the_Risen]]
+- Leads to [[NPC01396_Delara_Proudmore_the_Risen]]
 - Influences
 - Related: [[03_Mechanics_Communication_Systems_Quick_Ref
 - Compare with
@@ -241,17 +227,14 @@ Seeks bodyguards for dangerous journey
 - Related: [step_072 (phase_011)]]
 - Compare with [[Investigate Shadow Surgeons (Criminal_Organizations)
 - Connects to [razorvine-xdmg (traps-hazards)]]
-- Influences [[Policy Analyst Shadowthink
-- Related: [University System (D&D_References)]]
+- Influences [[University System (D&D_References)]]
 - Originates from
 - Affected by [[Assets Locations Location City Palace Security Chief Palace Security Chief.svg
 - Influences [Hand Crossbow Xphb]]
-- Compare with [[LORE00217_History_Entry_218
-- Related: [Duke Alexander Tidecrest (D&D_References)]]
+- Compare with [[Duke Alexander Tidecrest (D&D_References)]]
 - Parallels [[human-names-egyptian-female-xge (tables)
 - Requires [dominate-monster-xphb (spells)]]
-- Originates from [[Rogue Xphb Assassin Xphb
-- Requires [Impossibility Crystals (D&D_References)]]
+- Originates from [[Impossibility Crystals (D&D_References)]]
 - Requires [[Death Tyrant Xmm
 - Related: [giant-strider-mpmm (elemental)]]
 - Influences [[M-102_Time_Skip_Round
@@ -266,11 +249,9 @@ Seeks bodyguards for dangerous journey
 - Originates from [SPELL0030_Infernal_Blessing]]
 - Related: [[step_063 (phase_069)
 - See also: [QUEST00036_Side_Quest_37]]
-- Affected by [[NPC00598_Idris_Brightblade
-- Related: [step_004 (phase_009)]]
+- Affected by [[NPC00598_Idris_Brightblade]]
 - Related:
-- Leads to [[step_057 (phase_054)
-- Connects to [The Gilded Anchor (D&D_References)]]
+- Leads to [[The Gilded Anchor (D&D_References)]]
 - Compare with [[ITEM00273_Shadow_Hammer_of_the_Ancients
 - Influences
 - Originates from [The Free Traders Alliance (D&D_References)]]
@@ -281,8 +262,7 @@ Seeks bodyguards for dangerous journey
 - Related:
 - Originates from [[Armor of Resistance Xdmg
 - Originates from [vehicle-ship-maelstrom-tug-v1-maelstrom-tug.svg]]
-- Affected by [[Reality Bridge Construction
-- Related: [djinni-xmm (elemental)]]
+- Affected by [[Reality Bridge Construction]]
 - Compare with
 - Originates from
 - Affected by [[Assets Locations Location City the Cerulean Trench the Cerulean Trench.svg
@@ -291,8 +271,7 @@ Seeks bodyguards for dangerous journey
 - Requires [Assets Portraits Portrait NPC Pirate Lords of the Spiral Depths Pirate Lords of the Spiral Depths.svg]]
 - Related: [[Object Hit Points
 - Compare with [House Shadowmere (Houses_and_Nobility)]]
-- Leads to [[spinel-xdmg (items)
-- Connects to [MON00083_Constructs_Creature_84]]
+- Leads to [[MON00083_Constructs_Creature_84]]
 - Affected by [[step_070 (phase_095)
 
 ## Visual References

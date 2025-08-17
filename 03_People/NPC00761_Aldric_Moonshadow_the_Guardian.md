@@ -157,24 +157,14 @@ Discovered something valuable
 - Special moves
 
 ## See Also
-- [[NPC01943_Xander_Proudmore_the_Fallen
-- [NPC00920_Malakai_Ravenheart_the_Guardian]]
-- [[NPC00259_Delara_Proudmore
-- [NPC00300_Urien_Zephyrblade]]
-- [[NPC00927_Aldric_Ironwood_the_Wanderer
-- [NPC01687_Aldric_Youngblood_the_Cunning]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [World_Primer.md]]
-- [[NPC_Relationship_Web.png_1 (03_People)
-- [10 Appendix B Creature Stat Blocks]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[10 Appendix B Creature Stat Blocks]]
 - [[MOC_Lore
 - [MOC_Items]]
-- [[09 Appendix a the Multiverse
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[09 Appendix a the Multiverse]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -194,8 +184,7 @@ Discovered something valuable
 - Compare with [Hew Lmop]]
 - See also: [[QUEST0002_In_Search_of_Glory
 - Originates from [Candle of Invocation Xdmg]]
-- Leads to [[Environmental Engineer Current Depthwrigh 2
-- Affected by [ENC00194_Environmental_Encounter_195]]
+- Leads to [[Environmental Engineer Current Depthwrigh 2]]
 - Related: [[step_020 (phase_057)
 - Compare with [step_084 (phase_089)]]
 - Leads to [[LORE00280_Legends_Entry_281
@@ -215,27 +204,21 @@ Discovered something valuable
 - Affected by [Banishing Smite Xphb]]
 - Influences [[wingwear-pota (items)
 - Parallels [Location City the Sunken Senate V1 the Sunken Senate.svg]]
-- Originates from [[Reality Anchor Networks
-- Parallels [Youth Development Facilities]]
+- Originates from [[Youth Development Facilities]]
 - Affected by [[Portrait NPC the Heart of Oceanus V2 the Heart of Oceanus.svg_1 (Portraits)
 - Influences [Sky City Councils]]
-- Requires [[Master Trader Darkmarke
-- Leads to [QUEST00278_Personal_Quest_279]]
+- Requires [[QUEST00278_Personal_Quest_279]]
 - Parallels [[Map Map Aethermoor Harbor Skirmish V2 Aethermoor Harbor Skirmish.png
 - Connects to [step_094 (phase_049)]]
-- Related: [[Pressure-Responsive Fabrics
-- Parallels [Forge of War 2]]
+- Related: [[Pressure-Responsive Fabrics]]
 - Originates from [[step_030 (phase_028)
 - Originates from [Assets Locations Location City Crimson Reef Crimson Reef.svg]]
-- Requires [[Pressure Suit Malfunction 2
-- Leads to [D-102_Silt_Avalanche]]
-- Compare with [[Session 18 Horror Corruption
-- Affected by [step_091 (phase_022)]]
+- Requires [[Pressure Suit Malfunction 2]]
+- Compare with [[Session 18 Horror Corruption]]
 - Compare with
 - See also: [[star-ruby-xdmg (items)
 - Related: [6 Character Names]]
-- Requires [[Tavern Keeper Finn Splitlung (D&D_References)
-- See also: [Echo Truthseer]]
+- Requires [[Tavern Keeper Finn Splitlung (D&D_References)]]
 - Affected by [[Whisper Exposure 2
 - Leads to [ITEM01448_Decorated_Compass_of_Durability]]
 - Affected by [[Location City Abyssos Prime Upper Districts Abyssos Prime Upper Districts.png
@@ -248,8 +231,7 @@ Discovered something valuable
 - Originates from [Ship_Blueprints 2]]
 - Parallels [[ITEM00169_Shadow_Bow_of_Power
 - See also: [potion-of-hill-giant-strength-xdmg (items)]]
-- Related: [[magic-item-table-f (tables)
-- Leads to [downtime-activity-practicing-a-profession-phb (variant-rules)]]
+- Related: [[downtime-activity-practicing-a-profession-phb (variant-rules)]]
 - Affected by [[LOC00113_Dungeons_Location_114
 - Requires [INDEX (The_Wild_Beyond_the_Witchlight)]]
 - Compare with [[step_062 (phase_051)
@@ -262,29 +244,23 @@ Discovered something valuable
 - Leads to [Identify the Partys Goals Wilderness Goals]]
 - Parallels [[Tethyan Basin
 - Originates from [location-city-sage-nereon-v1-sage-nereon.svg]]
-- Connects to [[LOC0048_FortHill
-- Compare with [LOC00023_Wilderness_Location_24]]
+- Connects to [[LOC00023_Wilderness_Location_24]]
 - See also: [[Community Groups
 - Originates from [ITEM00850_Infernal_Mirror_of_Eternity]]
-- Originates from [[Emergency Life Support Research Foundation 2
-- Related: [Dawn War Avandra Dmg]]
+- Originates from [[Emergency Life Support Research Foundation 2]]
 - Affected by [[Assets Locations Location City Traditional Craft Districts V1 Traditional Craft Districts.svg
 - Affected by [step_010 (phase_094)]]
-- Compare with [[Community Health Workers
-- Parallels [Market Heist]]
+- Compare with [[Community Health Workers]]
 - Influences
 - Originates from [[NPC00247_Kaelen_Goldleaf
 - Compare with [ITEM00365_Cursed_Bow_of_the_Ancients]]
 - Related: [[step_039 (phase_060)
 - Affected by [step_026 (phase_056)]]
-- Leads to [[Maritime Emergency Protocols
-- Affected by [step_023 (phase_020)]]
-- Compare with [[Master Finn Liquidlight (D&D_References)
-- Compare with [Quests Quest the Currency War]]
+- Leads to [[Maritime Emergency Protocols]]
+- Compare with [[Master Finn Liquidlight (D&D_References)]]
 - Influences [[Quaals Feather Token Swan Boat Xdmg
 - Compare with [Assets Locations Location City the Time Keeper V1 the Time Keeper.svg]]
-- Parallels [[step_025 (phase_076)
-- Compare with [Forge Master Korax Hammerdeep 2]]
+- Parallels [[Forge Master Korax Hammerdeep 2]]
 - Connects to
 - Requires
 - Requires [[step_069 (phase_045)

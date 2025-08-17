@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:38.600655"
 modified: "2025-08-15T12:24:38.600660"
-aliases: [[Session Planning]] Toolkit]
+aliases: [[Session Planning Guide]] Toolkit]
 ---
 
 # [[Session Planning Toolkit
@@ -20,7 +20,7 @@ modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: [[Session Planning]] Toolkit.Md
+subcategory: [[Session Planning Guide]] Toolkit.Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -32,7 +32,7 @@ modified: '2025-01-15'
 - -- # [Session Planning]] Toolkit - -- ## Description
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
-title: [[Session Planning]] Toolkit
+title: [[Session Planning Guide]] Toolkit
 type: Lore
 tags:
 - lore

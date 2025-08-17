@@ -164,38 +164,17 @@ Has information about legendary item
 - Special moves
 
 ## See Also
-- [[NPC00190_Cedric_Silverleaf
-- [NPC00307_Dara_Proudmore_the_Seeker]]
-- [[NPC01040_Zephyr_Lightbringer_the_Strong
-- [NPC01177_Thalia_Underhill_the_Fallen]]
-- [[NPC00939_Thalia_Jadeclaw_the_Swift
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [NPC01201_Felicia_Ironwood_the_Bold]]
-- [[Party_Quests
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
-- [[NPC00058_Elric_Nightfall
-- [NPC00407_Hestara_Dawnstrider]]
-- [[NPC01041_Thalia_Dawnstrider_the_Lost
-- [10 Combat]]
-- [[NPC01312_Alaric_Darkwater_the_Fallen
-- [Count_Strahd_von_Zarovich]]
-- [[NPC00949_Nerys_Underhill_the_Wise
-- [MOC_Lore]]
-- [[NPC00362_Pyria_Stormwind_the_Wise
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[NPC00174_Aldric_Silverleaf_the_Fallen
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -205,8 +184,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -223,8 +201,7 @@ Following magic item guidelines (WWT p.135-136):
 
 - Requires [[Location City Chief Philosopher Marina Clearpool Chief Philosopher Marina Clearpool.svg
 - Requires [Location City the Depth Market V1 the Depth Market.svg]]
-- Requires [[LOC00176_Dungeons_Location_177
-- Compare with [step_070 (phase_025)]]
+- Requires [[LOC00176_Dungeons_Location_177]]
 - Requires [[SHOP00020_General_Shop_21
 - Compare with [Interfaith Council (Organizations)]]
 - See also: [[Location City Engineer Prisma Depthwright V1 Engineer Prisma Depthwright.svg
@@ -234,22 +211,17 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to
 - Originates from [[keoghtoms-ointment-xdmg (items)
 - See also: [difficulty-class-typical-dcs-xdmg (tables)]]
-- Related: [[Language Evolution Studies
-- Influences [LOC00219_Wilderness_Location_220]]
-- Parallels [[Quest - Seeds of the Deep_1 (01_Adventures)
-- See also: [Inverted Ballroom Wing - Party Quarters (D&D_References)]]
-- Requires [[dulcimer-xphb (items)
-- Affected by [The Shattered Summoning Circle]]
+- Related: [[LOC00219_Wilderness_Location_220]]
+- Parallels [[Inverted Ballroom Wing - Party Quarters (D&D_References)]]
+- Requires [[The Shattered Summoning Circle]]
 - Leads to [[QUEST00053_Main_Quest_54
 - Connects to [Assets Locations Location City the Temporal Convergence Storms the Temporal Convergence Storms.svg]]
-- Originates from [[Quest - The Crystal Refugees
-- Compare with [The Abyssal Sanctum]]
+- Originates from [[Quest - The Crystal Refugees]]
 - Influences [[Living Coral Architecture
 - See also: [step_016 (phase_058)]]
 - Related: [[step_021 (phase_012)
 - Parallels [Gauntlets of Ogre Power Xdmg]]
-- Influences [[The Memory Anchor 2
-- Requires [QUEST0061_Hunt_the_Demons]]
+- Influences [[QUEST0061_Hunt_the_Demons]]
 - Compare with
 - Influences [[Deep Wardens (D&D_References)
 - Originates from [step_026 (phase_034)]]
@@ -259,8 +231,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [Investigator Cassandra Reynolds]]
 - See also: [[Creatures Void Entities
 - Compare with [Void-Touched (D&D_References)]]
-- Parallels [[LOC00261_Wilderness_Location_262
-- Requires [DUN00141_Dungeon_142]]
+- Parallels [[LOC00261_Wilderness_Location_262]]
 - Compare with [[Storm Guard (D&D_References)
 - Requires [Artifact Properties Minor Detrimental]]
 - Leads to
@@ -282,10 +253,8 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[ITEM01348_Masterwork_Lock_of_Convenience
 - Affected by [ENC00126_Combat_Encounter_127]]
 - Affected by
-- Requires [[Eidolon Mpmm
-- Compare with [The Diplomatic Quarter 2]]
-- Parallels [[SPELL00129_Nature_Spell_130
-- Influences [step_066 (phase_060)]]
+- Requires [[The Diplomatic Quarter 2]]
+- Parallels [[SPELL00129_Nature_Spell_130]]
 - Requires [[step_097 (phase_098)
 - Leads to [Symbol Heraldry Treasurer Goldenshadow V1 Treasurer Goldenshadow.svg]]
 - Leads to [[Mechanics Dimensional Travel
@@ -293,9 +262,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences
 - Influences [[step_037 (phase_032)
 - Related: [Dark Gift of Vaund the Evasive Cos]]
-- Requires [[ENC00168_Environmental_Encounter_169
-- Leads to
-- Leads to [step_020 (phase_086)]]
+- Requires [[ENC00168_Environmental_Encounter_169]]
 - Compare with [[Absolute Reality Faction
 - Influences [Assets Portraits Portrait NPC the Depth Blessed Fisherman Captain Sal Deepcurrent the Depth Blessed Fisherman Captain Sal Deepcurrent.svg]]
 - Leads to
@@ -310,8 +277,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [ITEM00886_Divine_Amulet_of_Truth]]
 - Connects to [[ITEM00846_Infernal_Ring_of_the_Gods
 - Compare with [Commander Darkwater (D&D_References)]]
-- Connects to [[Captain Sky Horizon (D&D_References)
-- Related: [The Final Darkening]]
+- Connects to [[Captain Sky Horizon (D&D_References)]]
 - Leads to
 - Related:
 - Parallels [[The Gloom Gardens (D&D_References)

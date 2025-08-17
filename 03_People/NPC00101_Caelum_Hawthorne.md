@@ -156,50 +156,31 @@ Wants rivals investigated
 - Special moves
 
 ## See Also
-- [[NPC00317_Pyria_Blackstone_the_Redeemed
-- [NPC00582_Cedric_Dawnstrider]]
-- [[NPC00285_Xander_Goldleaf_the_Mystic
-- [NPC00058_Elric_Nightfall]]
-- [[NPC01660_Thalia_Moonshadow_the_Fallen
-- [NPC01438_Hilda_Youngblood_the_Fallen]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC00287_Ysara_Underhill_the_Wise]]
-- [[NPC00469_Delara_Oakenshield_the_Seeker
-- [NPC00373_Wynne_Frostwhisper_the_Strong]]
-- [[NPC01262_Ysara_Dawnstrider_the_Swift
-- [NPC01082_Fiora_Ashford_the_Fallen]]
-- [[NPC00939_Thalia_Jadeclaw_the_Swift
-- [NPC00885_Kaelen_Xendar_the_Lost]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [NPC00552_Malakai_Stormwind_the_Seeker]]
-- [[NPC00307_Dara_Proudmore_the_Seeker
-- [NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[NPC01276_Erasmus_Keenblade_the_Wanderer
-- [NPC01057_Pyria_Quicksilver_the_Scholar]]
-- [[NPC00272_Rhiannon_Brightblade
-- [NPC01360_Ewan_Blackstone_the_Strong]]
-- [[NPC00395_Aeliana_Thornweave
-- [NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
 - [[Faction_Relationship_Web
 - [Parliament of Shadows Player Guide.md]]
-- [[Propaganda_Leaflet_Pearl_Guar
-- [Ritual_Timing_Wheel_Convergenc]]
-- [[Calendar_Conversions_Realm_Window
-- [Archdruid Thornweaver]]
-- [[NPC01632_Qadim_Darkwater_the_Guardian
-- [Player_Comfort_Check]]
-- [[Depth_Adapted_Background
-- [NPC01151_Orion_Stormwind_the_Seeker]]
-- [[NPC00046_Urien_Ironwood_the_Wise
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[Downtime_Activities
-- [MOC_Quests]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[Downtime_Activities]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -212,10 +193,8 @@ Wants rivals investigated
 
 ## Connections
 
-- Compare with [[ENC00216_Social_Encounter_217
-- Requires [Introduction-Overview]]
-- See also: [[SPELL00019_Divine_Spell_20
-- Parallels [Dream Currents]]
+- Compare with [[ENC00216_Social_Encounter_217]]
+- See also: [[SPELL00019_Divine_Spell_20]]
 - Related: [[step_042 (phase_098)
 - Requires [Portrait NPC Ambassador Nerida Deepcurrent V2 Ambassador Nerida Deepcurrent.svg_1 (Portraits)]]
 - Compare with [[The Kraken's Wake (D&D_References)
@@ -239,14 +218,12 @@ Wants rivals investigated
 - Compare with [ENC00263_Social_Encounter_264]]
 - Requires [[actions#Ready
 - Leads to [Temporal Diving Equipment (D&D_References)]]
-- Leads to [[step_080 (phase_065)
-- Parallels [NPC00167_Hestara_Winterborn]]
+- Leads to [[NPC00167_Hestara_Winterborn]]
 - Originates from [[step_065 (phase_058)
 - See also: [Training Complications Xge]]
 - Requires [[location-city-sea-witch-v1-sea-witch.svg
 - See also: [Crystal Merchants Guil (Groups)]]
-- Parallels [[Void-touched Crew Member (D&D_References)
-- Leads to [Unite the Two Worlds (Lore)]]
+- Parallels [[Void-touched Crew Member (D&D_References)]]
 - Influences [[The Depth Crown Crisis
 - Requires [lizardfolk-geomancer-xmm (elemental)]]
 - Requires [[step_007 (phase_026)
@@ -255,20 +232,16 @@ Wants rivals investigated
 - Leads to [ITEM00706_Ancient_Mirror_of_the_Gods]]
 - See also: [[Treasure Hoard Challenge 510 (tables)
 - Parallels [LORE00299_Legends_Entry_300]]
-- Leads to [[NPC00296_Elric_Jadeclaw_the_Bold
-- See also: [Create Undead Xphb]]
+- Leads to [[NPC00296_Elric_Jadeclaw_the_Bold]]
 - Leads to [[Location City the Siren S Rest Tavern V1 the Siren S Rest Tavern.svg
 - Influences [step_027 (phase_028)]]
-- Compare with [[step_075 (phase_058)
-- Originates from [NPC00933_Drusilla_Voidwalker_the_Seeker]]
-- Parallels [[QUEST00065_Side_Quest_66
-- Requires [ITEM0080_Ancient_Crown_of_the_Dawn]]
+- Compare with [[NPC00933_Drusilla_Voidwalker_the_Seeker]]
+- Parallels [[ITEM0080_Ancient_Crown_of_the_Dawn]]
 - Requires [[LORE00326_Legends_Entry_327
 - Compare with [step_032 (phase_048)]]
 - Requires [[step_059 (phase_039)
 - Leads to [ITEM00440_Ethereal_Gauntlets_of_Resistance]]
-- Related: [[Navigation_Challenges
-- Affected by [LOC00259_Wilderness_Location_260]]
+- Related: [[LOC00259_Wilderness_Location_260]]
 - Related: [[step_064 (phase_084)
 - Parallels [step_025 (phase_092)]]
 - Related: [[step_008 (phase_094)
@@ -283,8 +256,7 @@ Wants rivals investigated
 - Requires [[list-spells-classes-tempest-domain (lists)
 - See also: [Current Peaceweaver 2]]
 - Requires
-- Related: [[PHASE_1_COMPLETE
-- Requires [MON00124_Undead_Creature_125]]
+- Related: [[MON00124_Undead_Creature_125]]
 - Related: [[Assets Locations Location City Ancient Echo Truthfinder Ancient Echo Truthfinder.svg
 - Affected by [Assets Portraits Portrait NPC Vespara Nightwhisper Thorne V1 Vespara Nightwhisper Thorne.svg]]
 - Originates from [[step_072 (phase_095)
@@ -296,17 +268,13 @@ Wants rivals investigated
 - Compare with [The Maritime Quarter]]
 - Related: [[LOC00179_Cities_Location_180
 - Connects to [Allied Nation Military Units]]
-- Connects to [[02-a-world-of-your-own (dungeon-masters-guide-2014)
-- Leads to [Spellcasting Focus Xphb]]
+- Connects to [[02-a-world-of-your-own (dungeon-masters-guide-2014)]]
 - Affected by [[Assets Locations Location City Public Safety Public Safety.svg
 - Requires [step_071 (phase_050)]]
-- Related: [[MON00055_Constructs_Creature_56
-- Originates from [step_085 (phase_021)]]
+- Related: [[MON00055_Constructs_Creature_56]]
 - Requires [[step_088 (phase_072)
 - See also: [LORE00074_History_Entry_75]]
-- Affected by [[NPC01949_Gavril_Darkwater_the_Strong
-- See also:
-- See also: [The Tide Singers]]
+- Affected by [[NPC01949_Gavril_Darkwater_the_Strong]]
 - Affected by [[The Crystal Renaissance 2
 - Originates from [MON00140_Constructs_Creature_141]]
 - Connects to [[Flame Blade Xphb

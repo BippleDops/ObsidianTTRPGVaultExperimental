@@ -50,11 +50,11 @@ updated:
 *Sounds of [relevant sounds] echo in the distance.*'2025-08-13T12:34:05.213612+00:00'
 world: Both
 
---- ## 🔧 [[Deep Evaluation Improvements *20 targeted improvements identified* ### [Connection Improvements]] - Add cross-references to related notes ### [[Enhancement Improvements - Add 12_Research-specific enhancement ## Player-[Facing Summary]] 04 classes is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## [[Lore Details Legends speak of 04 classes as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 04 classes. ## DM [Notes Play]] up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## [[Secret Connections]] *[Hidden from players]* Connected to [[The Veiled Accord - Manipulate succession ## [Related Notes]] - [[[Similar Topic 1]]
+--- ## 🔧 [[Deep Evaluation Improvements *20 targeted improvements identified* ### [Connection Improvements]] - Add cross-references to related notes ### [[Enhancement Improvements - Add 12_Research-specific enhancement ## Player-[Facing Summary]] 04 classes is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## [[Lore Details Legends speak of 04 classes as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 04 classes. ## DM [Notes Play]] up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## [[Secret Connections]] *[Hidden from players]* Connected to [[The Veiled Accord - Manipulate succession ## [Related Notes]] - [[Similar Topic 1]]
 
-- [[[Contrasting Approach]]
-- [[[Advanced Version]]
-- [[[Historical Context]] ## 12_Research [[Specific Content]] Contextual improvement based on 12_Research
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]] ## 12_Research [[Specific Content]] Contextual improvement based on 12_Research
 
 ## Notes
 
@@ -89,40 +89,24 @@ world: Both
 Knows the location of a key artifact
 
 ## [See Also]]
-- [[NPC00785_Ysara_Grimholt_the_Mystic
-- [NPC01745_Felicia_Oakenshield_the_Scholar]]
-- [[NPC01177_Thalia_Underhill_the_Fallen
-- [NPC01502_Urien_Underhill_the_Scholar]]
-- [[NPC00975_Lyanna_Winterborn_the_Wise
-- [Submersible_Schematic_Pressure_Gate_Scou]]
-- [[NPC01781_Urien_Keenblade_the_Cunning
-- [NPC01888_Hestara_Ravenheart_the_Redeemed]]
-- [[NPC00451_Malakai_Ravenheart_the_Broken
-- [NPC01247_Xander_Zephyrblade_the_Risen]]
-- [[NPC01151_Orion_Stormwind_the_Seeker
-- [NPC00601_Vesper_Ironwood_the_Guardian]]
-- [[NPC00649_Corvus_Zephyrblade_the_Broken
-- [NPC00336_Alaric_Frostwhisper_the_Swift]]
-- [[NPC01195_Gareth_Keenblade_the_Guardian
-- [NPC01041_Thalia_Dawnstrider_the_Lost]]
-- [[Quick_Start_Guide
-- [NPC01979_Fiora_Emberfall_the_Guardian]]
-- [[NPC01831_Alaric_Frostwhisper_the_Scholar
-- [NPC00129_Gareth_Jadeclaw]]
-- [[Portal_Home
-- [15 the Planes of Existence]]
-- [[NPC01290_Pyria_Ashford_the_Broken
-- [[10 Appendix B [Creature Stat]] Blocks]]
-- [[10 Combat
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00601_Vesper_Ironwood_the_Guardian]]
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC01831_Alaric_Frostwhisper_the_Scholar]]
+- [[15 the Planes of Existence]]
+- [[NPC01290_Pyria_Ashford_the_Broken]] Blocks]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
 - [[NPC_Relationship_Web.png_1 (03_People)
 - [06 Equipment]]
-- [[MOC_Items
-- [MOC_Quests]]
-- [[12 Spells
-- [NPC00407_Hestara_Dawnstrider]]
-- [[NPC00663_Alaric_Dawnstrider_the_Strong
-- [NPC01566_Lyanna_Underhill_the_Redeemed]]
+- [[MOC_Quests]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]
 - [[Master_Narrative_Web.md
 - [[[Sage Elara]]]]
 - [[Dockworker_Union_Flyer.md
@@ -166,8 +150,8 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Connections
 
-- Parallels [[[Captain Contraband (D&D_References)]]
-- Originates from [[[Elder Matthias Stoneward (D&D_References)]]
+- Parallels [[Captain Contraband (D&D_References)]]
+- Originates from [[Elder Matthias Stoneward (D&D_References)]]
 - See also: [[step_051 (phase_053)
 - Affected by [portrait-npc-sirens-sirens.svg_1 (Portraits)]]
 - See also: [[LOC00142_Wilderness_Location_143
@@ -178,31 +162,29 @@ Following magic item guidelines (WWT p.135-136):
 - Requires
 - Compare with [[step_036 (phase_094)
 - Connects to [[[Assets Item]] [[Artifact Travelers [Clothes Xphb]] V6 [[Travelers Clothes Xphb.png]]
-- Compare with [[[The Convergence Seekers]]
-- Influences [[SPELL00145_Divine_Spell_146
-- See also: [step_051 (phase_044)]]
+- Compare with [[The Convergence Seekers]]
+- Influences [[SPELL00145_Divine_Spell_146]]
 - See also:
 - Leads to [[[[Location City the [Resonant Hermit]] V1 the [[Resonant Hermit.svg]]
 - Leads to [[portrait-npc-senator-marius-v2-senator-marius.svg_1 (Portraits)
 - Affected by [[[Cultural Exchange]] Cente]]
 - Originates from [[[Mastiff Xmm]]
-- Related: [[[[Assets Locations [Location City]] [[Aquabyssos Government [Aquabyssos Government]].svg]]
-- Leads to [[[Shape Shifting Xphb]]
-- Originates from [[step_068 (phase_007)
-- Leads to [NPC00786_Jorah_Underhill_the_Risen]]
+- Related: [[Assets Locations]] [[Aquabyssos_Government]].svg]]
+- Leads to [[Shape Shifting Xphb]]
+- Originates from [[NPC00786_Jorah_Underhill_the_Risen]]
 - Affected by
-- Requires [[[[Location City [Guardian Neutralwatch]] V1 [[Guardian Neutralwatch.svg]]
+- Requires [[Guardian Neutralwatch]] V1 [[Guardian Neutralwatch]]
 - Related: [[[Shape Water Xge]]
-- Connects to [[[Captain Trawl Netcaster]]
-- Related: [[[Admiral Thalassa Stormcurrent 2]]
+- Connects to [[Captain Trawl Netcaster]]
+- Related: [[Admiral Thalassa Stormcurrent 2]]
 - Affected by [[step_034 (phase_049)
 - Influences [[[Deep Biology]] Institute 2]]
-- See also: [[[[Assets Locations [Location City]] [[Time Lost [Delegate Chronus]] [[Time Lost [Delegate Chronus]].svg]]
+- See also: [[Assets Locations]] [[Time Lost [Delegate Chronus]] [[Time Lost [Delegate Chronus]].svg]]
 - Compare with
 - Requires
 - Parallels [[step_060 (phase_028)
 - Parallels [step_015 (phase_041)]]
-- Affected by [[[The Umbral Exchange]]
+- Affected by [[The Umbral Exchange]]
 - Related: [[beacon-of-hope-xphb (spells)
 - Compare with [step_098 (phase_081)]]
 - Related: [[step_093 (phase_009)
@@ -216,7 +198,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [Alpha-Prime 2]]
 - Leads to [[Underwater_Adaptation_Rules
 - Leads to [QUEST0010_The_Hidden_Alliance]]
-- Compare with [[[Chronomancer Paradox (D&D_References)]]
+- Compare with [[Chronomancer Paradox (D&D_References)]]
 - See also: [[SPELL00034_Nature_Spell_35
 - Parallels [trade-goods-phb (tables)]]
 - Influences [[LOC0005_Valeton
@@ -225,8 +207,8 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [ITEM00607_Warded_Plate_of_Protection]]
 - See also: [[[[Assets Art [Npcs Quest]] the [[Root Network.png]]
 - Leads to [[LOC0130_Havenstead
-- Requires [[[Location City]] [[Temple Coalition [Temple Coalition]].svg]]
-- Affected by [[[Abandoned Consortium Warehouse]]
+- Requires [[[Location City]] [[Temple Coalition]].svg]]
+- Affected by [[Abandoned Consortium Warehouse]]
 - Leads to [[step_016 (phase_017)
 - See also: [[[Dungeon Delver]]]]
 - Affected by [[step_049 (phase_056)
@@ -234,12 +216,12 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[step_037 (phase_045)
 - Requires [step_026 (phase_011)]]
 - Related:
-- Originates from [[[Student Prime Coral]]
+- Originates from [[Student Prime Coral]]
 - See also: [[step_098 (phase_022)
 - Affected by [Ultimate_GM_Screen]]
 - Affected by [[dragonlance-branchala-phb (deities)
 - Influences [[[Military Moral]] Quandaries]]
-- Originates from [[[[Assets Locations [Location City]] [[Clara Truthscale V1 [Clara Truthscale]].svg]]
+- Originates from [[Assets Locations]] [[Clara Truthscale]].svg]]
 - Requires [[portrait-npc-the-senator-the-senator.svg
 - Originates from [[Portrait NPC [Free Current]] [[Safe Houses V1 [Free Current]] [[Safe Houses.svg]]
 - Compare with [[ruby-of-the-war-mage-xdmg (items)
@@ -248,14 +230,12 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [SPELL00046_Arcane_Spell_47]]
 - Connects to
 - Parallels [[Roleplaying a [[Yuan Ti [Yuan Ti]] Personality]]
-- See also: [[SPELL00032_Divine_Spell_33
-- Requires [[[Egyptian Thoth]]]]
+- See also: [[SPELL00032_Divine_Spell_33]]]]
 - Leads to
 - Affected by [[QUEST00058_Side_Quest_59
 - Related: [dragonlance-sargonnas-phb (deities)]]
-- Leads to [[[[Location City [Crystalline Wastes]] V1 [[Crystalline Wastes.svg]]
-- Influences [[step_064 (phase_022)
-- Connects to [NPC00171_Aldric_Winterborn_the_Mystic]]
+- Leads to [[Crystalline Wastes]] V1 [[Crystalline Wastes]]
+- Influences [[NPC00171_Aldric_Winterborn_the_Mystic]]
 - See also:
 - Leads to [[Portrait NPC [[Captain Thaddeus [Blackwater Captain]] [[Thaddeus Blackwater.svg]]
 - Compare with [[step_058 (phase_067)
@@ -263,7 +243,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[[[Gith Tables [Githyanki Personality]] [[Traits Mtf]]
 - Related: [[step_041 (phase_049)
 - Requires [[[Lizardfolk Geomancer]] Xmm]]
-- Leads to [[[[Assets Locations [Location City]] the [[Gloom Gardens the [Gloom Gardens]].svg]]
+- Leads to [[Assets Locations]] the [[Gloom Gardens the [Gloom Gardens]].svg]]
 - Requires [[NPC0072_Gideon_Ironforge
 - Originates from [FAC00092_Cults_93]]
 ## [[Session Summary
@@ -274,7 +254,7 @@ Following magic item guidelines (WWT p.135-136):
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

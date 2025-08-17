@@ -165,54 +165,32 @@ Discovered something valuable
 - Special moves
 
 ## See Also
-- [[NPC00372_Alaric_Grimholt
-- [NPC00655_Jorah_Darkwater_the_Seeker]]
-- [[NPC01757_Nerys_Silverleaf_the_Strong
-- [NPC00949_Nerys_Underhill_the_Wise]]
-- [[NPC00285_Xander_Goldleaf_the_Mystic
-- [NPC00307_Dara_Proudmore_the_Seeker]]
-- [[NPC00200_Faelyn_Winterborn_the_Guardian
-- [NPC00324_Idris_Hawthorne_the_Strong]]
-- [[NPC00821_Zephyr_Voidwalker_the_Cunning
-- [NPC01877_Hestara_Moonshadow_the_Mystic]]
-- [[NPC01785_Aldric_Brightblade_the_Redeemed
-- [NPC01613_Kaelen_Voidwalker_the_Wanderer]]
-- [[NPC00095_Fiora_Nightfall
-- [NPC00599_Cedric_Lightbringer_the_Wise]]
-- [[NPC00388_Ysara_Goldleaf
-- [NPC00858_Zephyr_Silverleaf_the_Wanderer]]
-- [[NPC01057_Pyria_Quicksilver_the_Scholar
-- [NPC00501_Orion_Nightfall_the_Broken]]
-- [[Pip Goldleaf
-- [NPC01504_Erasmus_Zephyrblade_the_Strong]]
-- [[Submersible_Schematic_Pressure_Gate_Scou
-- [World_Primer.md]]
-- [[NPC01687_Aldric_Youngblood_the_Cunning
-- [Wanted_Poster_Syndicate_Fenc]]
-- [[yuan-ti-pit-master-mpmm
-- [Downtime_Activities]]
-- [[Parliamentary_Voting_Guide
-- [11 Spellcasting]]
-- [[NPC00124_Delara_Ravenheart_the_Redeemed
-- [14 Gods of the Multiverse]]
-- [[NPC00881_Qadim_Voidwalker_the_Strong
-- [NPC01745_Felicia_Oakenshield_the_Scholar]]
-- [[NPC01429_Zephyr_Keenblade_the_Cunning
-- [16 Credits]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[Parliamentary_Voting_Guide]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
 - [[NPC_Relationship_Web.png_1 (03_People)
 - [04 Classes]]
-- [[NPC01348_Xander_Zephyrblade_the_Wise
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[NPC01931_Thalia_Lightbringer_the_Fallen
-- [NPC00058_Elric_Nightfall]]
-- [[NPC00373_Wynne_Frostwhisper_the_Strong
-- [MOC_NPCs]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
 - [[Reference.md
 - [MOC_Items]]
-- [[NPC00321_Aeliana_Zephyrblade_the_Strong
-- [NPC01566_Lyanna_Underhill_the_Redeemed]]
-- [[NPC01894_Aldric_Lightbringer_the_Bold
-- [NPC00259_Delara_Proudmore]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
 - [[Master_Narrative_Web.md
 -
 
@@ -249,27 +227,22 @@ Discovered something valuable
 - Affected by [step_031 (phase_056)]]
 - Parallels [[Location City Keeper Deepcurrent V1 Keeper Deepcurrent.svg
 - Leads to [Assets Locations Location City Forge Master Korax Hammerdeep Forge Master Korax Hammerdeep.svg]]
-- Connects to [[Culinary Critic Marina Tastebud 2
-- Leads to [step_020 (phase_093)]]
-- Influences [[step_040 (phase_070)
-- Requires [LOC00253_Planes_Location_254]]
+- Connects to [[Culinary Critic Marina Tastebud 2]]
+- Influences [[LOC00253_Planes_Location_254]]
 - Originates from [[Fire Storm Xphb
 - Influences [Location City Dockworkers Union V1 Dockworkers Union.svg]]
 - Requires [[triceratops-xmm (beast)
 - Leads to [Marina Clearwater]]
-- See also: [[LOC00188_Wilderness_Location_189
-- Originates from [step_019 (phase_011)]]
+- See also: [[LOC00188_Wilderness_Location_189]]
 - See also:
-- Compare with [[LOC00018_Cities_Location_19
-- Parallels [The Whisper Touched]]
+- Compare with [[LOC00018_Cities_Location_19]]
 - Leads to [[Memory Merchant Zephyr Mindweaver
 - Parallels [Quest - The Crystal Refugees_1 (01_Adventures)]]
 - Related: [[Shield Xphb (spells)
 - See also: [ITEM01466_Decorated_Compass_of_Reliability]]
 - Influences [[storm-boomerang-pota (items)
 - Compare with [SPELL00033_Nature_Spell_34]]
-- Originates from [[candle-of-invocation-xdmg (items)
-- Compare with [Weapons Trader Gareth Steelmerchant (D&D_References)]]
+- Originates from [[Weapons Trader Gareth Steelmerchant (D&D_References)]]
 - See also: [[Assets Locations Location City Observatory District Observatory District.svg
 - Originates from [LOC00248_Dungeons_Location_249]]
 - Originates from [[bestial-spirit-xphb (beast)
@@ -277,16 +250,14 @@ Discovered something valuable
 - Connects to [[step_046 (phase_004)
 - Originates from [Assets Locations Location City Sky Trader Zephyr Windcatcher Sky Trader Zephyr Windcatcher.svg]]
 - Requires
-- Influences [[Character_Creation
-- Originates from [ITEM0100_Eldritch_Tome_of_the_Dawn]]
+- Influences [[ITEM0100_Eldritch_Tome_of_the_Dawn]]
 - Influences [[portrait-npc-the-cure-v2-the-cure.svg
 - Requires [step_092 (phase_047)]]
 - Related: [[Tinderstrike Pota
 - Requires [Assets Portraits Portrait NPC Sire Sire.svg]]
 - Related: [[dragonlance-morgion-phb (deities)
 - Affected by [Layers of Hades Xdmg]]
-- Connects to [[Ki Rin Vgm
-- Influences [ability-check-xphb (variant-rules)]]
+- Connects to [[ability-check-xphb (variant-rules)]]
 - Influences [[Level and Lethality Trap Save Dcs and Attack Bonuses Xge
 - See also: [thunder-step-xge (spells)]]
 - Connects to [[QUEST0092_In_Search_of_Glory
@@ -296,8 +267,7 @@ Discovered something valuable
 - Connects to [Local Authorities]]
 - Originates from [[Portrait NPC Shadow Guard Units V2 Shadow Guard Units.svg_1 (Portraits)
 - Connects to [step_066 (phase_074)]]
-- Affected by [[step_081 (phase_066)
-- Leads to [Consequence Chain 3 Reality Merger]]
+- Affected by [[Consequence Chain 3 Reality Merger]]
 - Parallels [[Redirector's Guild
 - Affected by [Abyssal Cyclicalism]]
 - See also: [[Assets Locations Location City Memory Meadows Black Market Memory Meadows Black Market.svg
@@ -305,8 +275,7 @@ Discovered something valuable
 - Related: [NPC00399_Vesper_Nightfall]]
 - Compare with [[Goading Attack Xphb
 - Connects to [step_044 (phase_040)]]
-- Compare with [[step_011 (phase_092)
-- Requires [ENC00141_Combat_Encounter_142]]
+- Compare with [[ENC00141_Combat_Encounter_142]]
 - Affected by [[Public Works Director Boris Bridgewright
 - Compare with [Portrait NPC Lich Queen Morwyn the Deathless Lich Queen Morwyn the Deathless.svg_1 (Portraits)]]
 - Related:
@@ -319,16 +288,13 @@ Discovered something valuable
 - Related: [Crystal Mines (Lore)]]
 - Originates from [[Sunset Bay
 - Leads to [Dwarves on the Move Group Leader Mtf]]
-- Influences [[oni-xmm (fiend)
-- See also: [QUEST0025_The_Stolen_Artifact]]
+- Influences [[QUEST0025_The_Stolen_Artifact]]
 - Influences [[QUEST00209_Side_Quest_210
 - Originates from [step_055 (phase_034)]]
-- Compare with [[MON00164_Aberrations_Creature_165
-- Compare with [09-adventuring#Long Rest]]
+- Compare with [[MON00164_Aberrations_Creature_165]]
 - Compare with [[Boon of Fate Xphb
 - Leads to [step_023 (phase_006)]]
-- Originates from [[QUEST00054_Main_Quest_55
-- Influences [NPC00796_Aeliana_Voidwalker_the_Seeker]]
+- Originates from [[NPC00796_Aeliana_Voidwalker_the_Seeker]]
 - Affected by [[The Shadow Merchant Prim (Groups)
 - Compare with
 - Related: [Aerisi Kalinoth Pota]]

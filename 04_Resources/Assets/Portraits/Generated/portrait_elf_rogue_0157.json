@@ -12,5 +12,8 @@
     "rogue",
     "generated"
   ],
-  "created": "2025-08-16T16:58:14.627Z"
+  "created": "2025-08-16T16:58:14.627Z",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:52:46.933Z",
+  "generationMethod": "ComfyUI"
 }

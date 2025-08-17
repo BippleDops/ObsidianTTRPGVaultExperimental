@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:40.923417"
 modified: "2025-08-15T12:24:40.923420"
-aliases: [Aquabyssos - Session 10 - [[The Shadow]] Finale]
+aliases: [Aquabyssos - Session 10 - [[The Shadowmere]] Finale]
 ---
 
 # Aquabyssos   Session 10   [[The Shadow Finale
@@ -16,7 +16,7 @@ modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: Aquabyssos - Session 10 - [[The Shadow]] Finale.Md
+subcategory: Aquabyssos - Session 10 - [[The Shadowmere]] Finale.Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -27,7 +27,7 @@ tags:
 modified: '2025-01-15'
 - -- # Aquabyssos - Session 10 - [The Shadow]] Finale ## [[Overview This document contains important information regarding Aquabyssos - Session 10 - [The Shadow]] Finale and its role within the greater narrative. ## Description
 
-**Details**: Rich sensory elements bring this to life. Aquabyssos - Session 10 - [[The Shadow]] Finale represents a significant element within the campaign world, offering various opportunities for enga
+**Details**: Rich sensory elements bring this to life. Aquabyssos - Session 10 - [[The Shadowmere]] Finale represents a significant element within the campaign world, offering various opportunities for enga
 *The air carries the scent of [appropriate smell].*gement and development. Moreover, ## [[Key Information - **[Primary Purpose]]**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details ### [[Background Historical context and development over time. ### [Current State]] Present circumstances and ongoing relevance. ### [[Future Potential Possible developments and plot directions. ## Relationships - Connected to various other elements within the vault
@@ -55,7 +55,7 @@ modified: '2025-01-15'
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.340631"
 modified: "2025-08-15T12:24:39.340632"
-aliases: [Session 02 the [[Crystal Fever]]]
+aliases: [Session 02 the [[Crystal Fever Random Tables]]]
 ---
 
 # Session 02 [[The Crystal Fever
@@ -15,7 +15,7 @@ type: session
 tags:
 - session created: '2025-01-15'
 modified: '2025-01-15'
-- -- # Session 02 the [[Crystal Fever ## [Overview This]] document contains important information regarding Session 02 the [[Crystal Fever and its role within the greater narrative. ## Description
+- -- # Session 02 the [[Crystal Fever Random Tables]] document contains important information regarding Session 02 the [[Crystal Fever and its role within the greater narrative. ## Description
 
 **Details**: Rich sensory elements bring this to life. Session 02 the [Crystal Fever]] represents a significant element within the campaign world, offering various opportunities for engagement and deve
 *The [texture] surface feels [description] to the touch.*lopment. ## [[Key Information - **[Primary Purpose]]**: Serves specific function within the world
@@ -33,7 +33,7 @@ modified: '2025-01-15'
 aliases: ["Session 02 the [Crystal Fever]]"]
 priority: normal
 category: 06 Sessions
-subcategory: Session 02 [[The Crystal]] Fever.Md
+subcategory: Session 02 [[The Crystal Eye]] Fever.Md
 related: []
 cssclass: standard
 publish: false --- -|--------|

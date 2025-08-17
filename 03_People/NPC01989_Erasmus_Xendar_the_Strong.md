@@ -202,10 +202,10 @@ Modifications:
 - Affected by [Magic Items Awarded by Rarity Major Xge]]
 - Affected by [[step_002 (phase_046)
 - See also: [Quest The Corruption Cure]]
-- Originates from [[[Depth Raider (D&D_References)]]
+- Originates from [[Depth Raider (D&D_References)]]
 - See also: [[Sister Astara the Ever-Watching 2
 - Requires [[Portrait NPC Weaponsmith [Captain Marcus]] Sharpedge V2 Weaponsmith Captain Marcus Sharpedge.svg]]
-- See also: [[[Palace Courtyard - Crystal Garden (D&D_References)]]
+- See also: [[Palace Courtyard - Crystal Garden (D&D_References)]]
 - Influences
 - Originates from
 - Affected by [[Diamond Xdmg
@@ -214,10 +214,8 @@ Modifications:
 - Connects to [Portrait NPC Defense Captain Ironguard V2 Defense Captain Ironguard.svg]]
 - Related: [[step_071 (phase_081)
 - Originates from [[Master_Quest_[INDEX]]]]
-- Compare with [[Portrait NPC Mili... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Compare with [step_052 (phase_013)]]
-- Requires [[NPC01488_Orion_Keenblade_the_Wise
-- Compare with [step_072 (phase_084)]]
+- Compare with [[Portrait NPC Mili... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Requires [[NPC01488_Orion_Keenblade_the_Wise]]
 - Parallels [[Map Map Sky Whale Back Hunt V2 Sky Whale Back Hunt.svg
 - Connects to [[Location City [Grief Harvester Melancholy]] Grief Harvester Melancholy.svg]]
 - Compare with [[step_090 (phase_062)
@@ -229,8 +227,7 @@ Modifications:
 - Compare with [[item-artifact-ruby-xdmg-ruby-xdmg.png
 - Affected by [Dark Gift of Seriach the Hell Hound]]
 - Related:
-- Requires [[step_099 (phase_047)
-- Leads to [The Memory Weapon Vault 2]]
+- Requires [[The Memory Weapon Vault 2]]
 - Leads to [[step_091 (phase_044)
 - See also: [LORE00261_Prophecies_Entry_262]]
 - See also:
@@ -239,13 +236,11 @@ Modifications:
 - Related: [[step_065 (phase_091)
 - Parallels [step_003 (phase_055)]]
 - Originates from
-- Related: [[[Triton (D&D_References)]]
+- Related: [[Triton (D&D_References)]]
 - Affected by [[step_017 (phase_035)
 - See also: [Kobold Dmg]]
-- Affected by [[02-chapter-1-playing-the-game#Conditions
-- Connects to [High Inquisitor Maltheos]]
-- Parallels [[step_046 (phase_068)
-- Related: [Portrait NPC Ice ... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Affected by [[02-chapter-1-playing-the-game (players-handbook-2024)]]
+- Parallels [[Portrait NPC Ice ... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Connects to [[Potion of Necrotic Resistance Xdmg
 - Parallels [[Location City Master Trader [Abyss Currentbinder]] V1 Master Trader Abyss Currentbinder.svg]]
 - See also: [[step_015 (phase_076)
@@ -254,22 +249,19 @@ Modifications:
 - Influences [[Assets Locations Location City [The Trencher Folk]] the Trencher Folk.svg]]
 - Affected by [[Map World Layer Faction Territories and Influence V2 Faction Territories and Influence.svg
 - Requires [Korred Mpmm]]
-- Requires [[QUEST0003_The_Haunted_Manor_War
-- Affected by [NPC00824_Malakai_Lightbringer_the_Lost]]
+- Requires [[NPC00824_Malakai_Lightbringer_the_Lost]]
 - See also: [[portrait-npc-senator-marius-v1-senator-marius.svg_1 (Portraits)
 - Originates from [Institute of Recursive Reality Studies (D&D_References)]]
-- Leads to [[[[The [Noble Quarter Market]] 2]]
+- Leads to [[Noble Quarter]] 2]]
 - Affected by [[The Floating Market
 - Affected by [step_061 (phase_096)]]
 - Influences [[location-city-sage-nereon-sage-nereon.svg
 - Affected by [Scene Scene Trench Fire Battlefield Aftermath V2 Trench Fire Battlefield Aftermath.svg]]
 - Connects to [[Location City [Amnesia Gallery V1 Amnesia Gallery.svg]]
-- Compare with [[The Mirror Merchants Guild
-- Parallels [Shadow Binding Sanctum (D&D_References)]]
+- Compare with [[Shadow Binding Sanctum (D&D_References)]]
 - Requires [[elf-deities-the-seldarine-mtf (tables)
 - Leads to [Shard-Touched Artifacts]]
-- Influences [[step_069 (phase_093)
-- Connects to [Battle Map Descriptions (Maps)]]
+- Influences [[Battle Map Descriptions (Maps)]]
 - Connects to [[EVENT00006_Magical_Event_7
 - Requires
 - Influences [NPC00038_Kaelen_Nightfall]]
@@ -281,13 +273,11 @@ Modifications:
 - Parallels [Symbol Heraldry the Light Preservation Society the Light Preservation Society.svg]]
 - Affected by [[step_095 (phase_031)
 - Related: [Portrait NPC Sea Spirit Priests V1 Sea Spirit Priests.svg]]
-- Compare with [[Mass_Combat_Evolution (D&D_References)
-- Originates from [Work Wages Xge]]
+- Compare with [[Mass_Combat_Evolution (D&D_References)]]
 - Connects to [[Assets Locations Location City [Transformation Medicine Techniques Transformation Medicine Techniques.svg]]
 - Influences [[LOC00019_Planes_Location_20
 - Related: [ENC00488_Combat_Encounter_489]]
-- Originates from [[step_066 (phase_093)
-- Connects to [Shadow-Touched Mine Foreman Brokk]]
+- Originates from [[Shadow-Touched Mine Foreman Brokk]]
 - Requires [[ENC00013_Social_Encounter_14
 - See also: [mantle-of-spell-resistance-xdmg (items)]]
 - Influences [[Location City Quest the Blackmail Papers Quest the Blackmail Papers.svg

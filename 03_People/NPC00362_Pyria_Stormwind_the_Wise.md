@@ -128,70 +128,19 @@ Deception, History, Insight
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- [[Political Alliances
-- Upcoming social events
-
-## Plot Hook
-Needs discrete help with family scandal
-
-## DM Notes
-- Adjust stats based on party level
-- Secrets can drive major plot points
-- Relationships create web of connections
-- Use quirks for memorable roleplay
-
----
-*Generated: 2025-08-15T03:51:03.153Z*
-
-## Voice & Mannerisms
-- Speaking style
-- Common phrases
-
-## Daily Routine
-- Morning activities
-- Evening habits
-
-## Combat Tactics
-- Preferred strategies
-- Special moves
-
-## Combat Stats
-Base: **Veteran** (BC p.350)
-Modifications:
-- HP: 19
-- AC: 11
-- Notable abilities: Varies by individual
-
-## See Also
-- [NPC00250_Delara_Darkwater_the_Fallen]]
-- [[NPC01552_Branwen_Lightbringer_the_Swift
-- [NPC01463_Aeliana_Zephyrblade_the_Fallen]]
-- [[NPC01812_Xander_Lightbringer_the_Swift
-- [NPC00281_Hestara_Nightfall_the_Cunning]]
-- [[NPC01290_Pyria_Ashford_the_Broken
-- [NPC00046_Urien_Ironwood_the_Wise]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [NPC00881_Qadim_Voidwalker_the_Strong]]
-- [[NPC01483_Gavril_Zephyrblade_the_Fallen
-- [NPC00124_Delara_Ravenheart_the_Redeemed]]
-- [[NPC00133_Lyanna_Oakenshield_the_Seeker
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[NPC00057_Malakai_Stormwind_the_Cunning
-- [NPC00785_Ysara_Grimholt_the_Mystic]]
-- [[NPC01911_Alaric_Oakenshield_the_Mystic
-- [Faction_Guide.md]]
-- [[Emergency_Evacuation_Map_Stormglass_Riot
-- [NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[NPC00552_Malakai_Stormwind_the_Seeker
-- [Player_Comfort_Check]]
-- [[NPC00324_Idris_Hawthorne_the_Strong
-- [09 Adventuring]]
-- [[NPC00200_Faelyn_Winterborn_the_Guardian
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[Political Alliances]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -206,13 +155,11 @@ Modifications:
 ## Connections
 
 - Originates from [Strike Team Communications (D&D_References)]]
-- Influences [[Travel Xphb
-- Requires [Economic Manipulation (D&D_References)]]
+- Influences [[Economic Manipulation (D&D_References)]]
 - Requires [[step_094 (phase_059)
 - Connects to [Roleplaying a Giant Giant Bonds Vgm]]
 - Related:
-- Connects to [[MON00131_Aberrations_Creature_132
-- See also: [step_043 (phase_049)]]
+- Connects to [[MON00131_Aberrations_Creature_132]]
 - Related: [[MON00021_Constructs_Creature_22
 - Influences
 - Requires [Pain-Artist Cruelty Refined]]
@@ -227,10 +174,8 @@ Modifications:
 - Originates from [step_044 (phase_014)]]
 - Compare with
 - See also:
-- Connects to [[NPC00297_Gavril_Stormwind_the_Cunning
-- Related: [Maurezhi Mpmm]]
-- Requires [[Nonhuman Garl Glittergold
-- See also: [NPC01240_Orion_Grimholt_the_Lost]]
+- Connects to [[NPC00297_Gavril_Stormwind_the_Cunning]]
+- Requires [[NPC01240_Orion_Grimholt_the_Lost]]
 - Affected by [[NPC00536_Brenna_Darkwater_the_Redeemed
 - Influences [Portrait NPC Embassy of Eternal Shadows V2 Embassy of Eternal Shadows.svg_1 (Portraits)]]
 - Originates from [[LORE00153_Legends_Entry_154
@@ -252,18 +197,14 @@ Modifications:
 - Originates from [NPC00939_Thalia_Jadeclaw_the_Swift]]
 - Parallels [[greyhawk-pelor-xdmg (deities)
 - See also: [NPC0149_Delilah_Darkwater]]
-- Compare with [[step_038 (phase_059)
-- Leads to [QUEST00116_Side_Quest_117]]
-- Leads to [[Chief Surgeon Dr. Coral Mindsplice
-- Affected by [Philosopher-Reformer Unity Bridgewright (D&D_References)]]
+- Compare with [[QUEST00116_Side_Quest_117]]
+- Leads to [[Philosopher-Reformer Unity Bridgewright (D&D_References)]]
 - Compare with
 - Originates from [[mariners-armor-xdmg (items)
 - Requires [step_074 (phase_054)]]
-- Leads to [[[Surface Signals (D&D_Statblocks)]]
-- Originates from [[step_020 (phase_072)
-- Originates from [ENC00168_Environmental_Encounter_169]]
-- See also: [[The Great Balance
-- Requires [NPC00218_Fiora_Youngblood]]
+- Leads to [[Surface Signals (D&D_Statblocks)]]
+- Originates from [[ENC00168_Environmental_Encounter_169]]
+- See also: [[NPC00218_Fiora_Youngblood]]
 - Leads to [[step_035 (phase_063)
 - Leads to [power-word-pain-xge (spells)]]
 - Leads to
@@ -271,12 +212,10 @@ Modifications:
 - Requires [[gold-dragon-wyrmling-xmm (dragon)
 - Originates from
 - Related: [Sentinel Xphb]]
-- Originates from [[step_018 (phase_007)
-- Affected by [Diplomatic Liaison Cordelia Treatywriter]]
+- Originates from [[Diplomatic Liaison Cordelia Treatywriter]]
 - Affected by [[LORE00323_Prophecies_Entry_324
 - Parallels [step_020 (phase_098)]]
-- Compare with [[Dwarven Dumathoin Mtf
-- Compare with [Commercial Dispute Resolution Procedures]]
+- Compare with [[Commercial Dispute Resolution Procedures]]
 - Related: [[QUEST00170_Side_Quest_171
 - Influences [Symbol Heraldry Witness Protection Protocols Witness Protection Protocols.svg]]
 - See also: [[step_066 (phase_005)
@@ -292,17 +231,13 @@ Modifications:
 - Requires [[Location City [House Pressureborn]] House Pressureborn.svg]]
 - Related: [[Complete Reality Merger System
 - Originates from [LORE00155_Prophecies_Entry_156]]
-- Requires [[The First Dreamer
-- Related: [NPC01380_Brenna_Keenblade_the_Risen]]
+- Requires [[NPC01380_Brenna_Keenblade_the_Risen]]
 - Originates from [[step_062 (phase_057)
 - Influences [Eldritch Spear Xphb]]
 - Connects to
-- Originates from [[QUEST00009_Side_Quest_10
-- Connects to [NPC01891_Wynne_Xendar_the_Seeker]]
-- Compare with [[Game_Design_Articles
-- See also: [ENC00046_Environmental_Encounter_47]]
-- Connects to [[Egyptian Ptah
-- Originates from [M-001 Physics Denial Player]]
+- Originates from [[NPC01891_Wynne_Xendar_the_Seeker]]
+- Compare with [[ENC00046_Environmental_Encounter_47]]
+- Connects to [[M-001 Physics Denial Player]]
 - Leads to [[Investigate Shadow Surgeons (Criminal_Organizations)
 - Related: [step_020 (phase_097)]]
 
@@ -320,7 +255,7 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Capital**: [Skylance Citadel]]
 - **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
 - **Current Conflict**: The Void Incursion, Elemental Convergence
-- **Key Locations**: [[Floating Gardens, [Storm's Eye Tower]]
+- **Key Locations**: [[Floating Gardens]]
 
 The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.

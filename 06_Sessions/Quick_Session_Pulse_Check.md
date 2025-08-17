@@ -59,9 +59,9 @@ _______________________________________ Toughest moment: One thing to improve: #
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes ## [[Related Notes - [[[Similar Topic]] 1]]
 
-- [[[Contrasting Approach]]
-- [[[Advanced Version]]
-- [[[Historical Context]] ## 12_Research [[Specific Content Contextual improvement based on 12_Research
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]] ## 12_Research [[Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

@@ -272,10 +272,8 @@ The system will run indefinitely, making thousands of small improvements daily!
 
 ## Related Content
 - [ULTIMATE_VAULT_ACHIEVEMENT]]
-- [[optimization_report_20250814_180706
-- [audio_fit_report]]
-- [[audio_fit_report_1
-- [SVG_REPLACEMENT_REPORT]]
+- [[OPTIMIZATION_REPORT_2025]]
+- [[SVG_REPLACEMENT_REPORT]]
 - [[ULTIMATE_ASSET_REPORT
 
 ## Game Mechanics
@@ -296,18 +294,14 @@ The system will run indefinitely, making thousands of small improvements daily!
 - Compare with [Bio-Magical Integration Laboratory (D&D_References)]]
 - Connects to [[LOC00113_Planes_Location_114
 - See also: [QUEST00211_Personal_Quest_212]]
-- Originates from [[NPC01363_Elric_Oakenshield_the_Lost
-- Requires [step_021 (phase_056)]]
-- Affected by [[step_099
-- See also: [LORE0033_Myth_of_the_Dragon_Wars]]
+- Originates from [[NPC01363_Elric_Oakenshield_the_Lost]]
+- Affected by [[LORE0033_Myth_of_the_Dragon_Wars]]
 - Related: [[Animal Lord Hunter Xmm
 - Influences [SPELL0013_Celestial_Shield]]
-- See also: [[step_035 (phase_006)
-- Requires [Underwater Encounter Distance]]
+- See also: [[Underwater Encounter Distance]]
 - Connects to [[Spellcasting Multiclass Spellcaster Spell Slots Per Spell Level Phb
 - See also: [step_035]]
-- Originates from [[NPC0065_Zara_Ironforge
-- Parallels [step_034]]
+- Originates from [[NPC0065_Zara_Ironforge]]
 - Affected by [[ENC00107_Social_Encounter_108
 - Related: [Encounter and Loot Generators]]
 - See also: [[Complete_NPC_Matrix (Indexes)
@@ -320,30 +314,22 @@ The system will run indefinitely, making thousands of small improvements daily!
 - Parallels [EVENT00027_Natural_Event_28]]
 - Compare with [[mordenkainens-private-sanctum-xphb (spells)
 - Requires [The Skyborne Merchants]]
-- Compare with [[step_057 (phase_034)
-- Influences [Master Artificer Korvin Gearwright (D&D_References)]]
+- Compare with [[Master Artificer Korvin Gearwright (D&D_References)]]
 - Influences [[Crystal Corruption Cultists (Cults_and_Movements)
 - Related: [The Love Bridge 2]]
-- Requires [[secondary-tables-arcane-matters-xge (tables)
-- Requires [step_002 (phase_094)]]
+- Requires [[secondary-tables-arcane-matters-xge]]
 - Leads to [[City Development Plan 2
 - Affected by [Monk Xphb Way of the Sun Soul Xge]]
-- See also: [[02-chapter-1-playing-the-game#Carrying Objects
-- Leads to [LORE00057_Legends_Entry_58]]
-- Related: [[hammer
-- Originates from [Overmind Depth-Thought Eternal (D&D_References)]]
-- Originates from [[piercer-xphb (feats)
-- Connects to [MON00147_Aberrations_Creature_148]]
-- Originates from [[step_006
-- Parallels [Kraken Spawn (D&D_References)]]
+- See also: [[02-chapter-1-playing-the-game (players-handbook-2024)]]
+- Related: [[Overmind Depth-Thought Eternal (D&D_References)]]
+- Originates from [[MON00147_Aberrations_Creature_148]]
+- Originates from [[Kraken Spawn (D&D_References)]]
 - Connects to [[step_076
 - Influences [LORE00040_Legends_Entry_41]]
-- Influences [[step_054
-- Requires [Police Chief Sarah Lawkeeper (D&D_References)]]
+- Influences [[Police Chief Sarah Lawkeeper (D&D_References)]]
 - Connects to [[step_047 (phase_054)
 - Affected by [step_012]]
-- Related: [[step_051 (phase_034)
-- Affected by [Lord Chancellor Prism Valdrick (D&D_References)]]
+- Related: [[Lord Chancellor Prism Valdrick (D&D_References)]]
 - See also: [[Portrait NPC Captain Marcus Ironwill V2 Captain Marcus Ironwill.svg
 - Originates from [LOC00000_Planes_Location_1]]
 - Parallels [[NPC01187_Gavril_Dawnstrider_the_Wise
@@ -354,34 +340,28 @@ The system will run indefinitely, making thousands of small improvements daily!
 - Related: [Assets Locations Location City Depth Supremacy Movement V1 Depth Supremacy Movement.svg]]
 - Parallels [[MON0045_Crystal_Wraith
 - Related: [step_091 (phase_058)]]
-- Influences [[The Plague Ward (D&D_References)
-- See also: [Sacred Statue Mpmm]]
-- Connects to [[QUEST0016_Investigate_the_Necromancer
-- Affected by [step_056 (phase_019)]]
+- Influences [[The Plague Ward (D&D_References)]]
+- Connects to [[QUEST0016_Investigate_the_Necromancer]]
 - Connects to [[Shadow Legislative Records
 - Leads to [Location City Antiquarian Eliza Tidecaller Antiquarian Eliza Tidecaller.svg]]
 - Related: [[LORE00209_Legends_Entry_210
 - Influences [guildhall]]
-- Affected by [[NPC01031_Faelyn_Youngblood_the_Scholar
-- Connects to [NPC01766_Urien_Moonshadow_the_Wise]]
+- Affected by [[NPC01031_Faelyn_Youngblood_the_Scholar]]
 - Leads to [[cadaver-collector-mpmm (construct)
 - Affected by [ITEM01347_Simple_Lantern_of_Reliability]]
 - Leads to [[Symbol Heraldry the Great Cataloguing V1 the Great Cataloguing.svg
 - Parallels [Rest Variants]]
 - Influences [[Sundered Peaks
 - Compare with [step_011]]
-- Influences [[NPC01234_Nerys_Dawnstrider_the_Strong
-- Requires [step_091]]
+- Influences [[NPC01234_Nerys_Dawnstrider_the_Strong]]
 - Originates from [[The Convergence Crisis 2
 - Connects to [Random_Encounters (02_Worldbuilding)]]
-- Connects to [[The Resistance Formation (D&D_References)
-- Requires [Frequency Weapons]]
+- Connects to [[The Resistance Formation (D&D_References)]]
 - Parallels [[Guardian of Nature Xge
 - Connects to [Quaals Feather Token Fan Xdmg]]
 - Connects to [[ITEM01275_Superior_Potion_of_Swiftness
 - Leads to [NPC00343_Ysara_Thornweave_the_Bold]]
-- Leads to [[step_081 (phase_026)
-- Affected by [NPC01412_Jorah_Zephyrblade_the_Wanderer]]
+- Leads to [[NPC01412_Jorah_Zephyrblade_the_Wanderer]]
 - Compare with [[step_008 (phase_078)
 - Parallels [step_091 (phase_039)]]
 - Related: [[ITEM00161_Radiant_Spear_of_the_Ancients
@@ -390,6 +370,5 @@ The system will run indefinitely, making thousands of small improvements daily!
 - Influences [step_054 (phase_018)]]
 - Related: [[step_020 (phase_066)
 - Related: [Ancient Ocean Magic 2]]
-- Leads to [[Party_Inventory
-- Compare with [LOC00258_Dungeons_Location_259]]
+- Leads to [[LOC00258_Dungeons_Location_259]]
 - Connects to [[Assets Locations Location City Healer Elena Mindmender V1 Healer Elena Mindmender.svg]]

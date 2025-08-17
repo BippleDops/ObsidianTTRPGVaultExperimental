@@ -160,24 +160,17 @@ Seeks bodyguards for dangerous journey
 - Special moves
 
 ## See Also
-- [[NPC00587_Idris_Youngblood_the_Strong
-- [NPC00307_Dara_Proudmore_the_Seeker]]
-- [[NPC00259_Delara_Proudmore
-- [NPC00300_Urien_Zephyrblade]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC00385_Qadim_Darkwater_the_Cunning]]
-- [[NPC01745_Felicia_Oakenshield_the_Scholar
-- [Pilgrim_Pass_Prayer_Sli]]
-- [[Propaganda_Leaflet_Pearl_Guar
-- [11 Rules Glossary]]
-- [[NPC01894_Aldric_Lightbringer_the_Bold
-- [MOC_Rules]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -210,24 +203,18 @@ Seeks bodyguards for dangerous journey
 - Requires [[step_038 (phase_091)
 - Related:
 - Affected by [step_018 (phase_095)]]
-- Originates from [[giant-vulture-xmm
-- Connects to [QUEST00237_Side_Quest_238]]
-- Related: [[Greek Apollo
-- Originates from [NPC01284_Malakai_Winterborn_the_Broken]]
-- See also: [[Reality Monitoring Specialists
-- Connects to [Arcturus Lumenblade 2]]
-- Requires [[step_047 (phase_052)
-- Parallels [MON00024_Aberrations_Creature_25]]
+- Originates from [[QUEST00237_Side_Quest_238]]
+- Related: [[NPC01284_Malakai_Winterborn_the_Broken]]
+- See also: [[Reality Monitoring Specialists]]
+- Requires [[MON00024_Aberrations_Creature_25]]
 - Connects to [[Assets Locations Location City the Royal Palace the Royal Palace.svg
 - Compare with [Ancient Silver Dragon Xmm]]
-- Influences [[Memory Alteration Mirrors
-- Affected by [Leviathan Graveyard (D&D_References)]]
+- Influences [[Leviathan Graveyard (D&D_References)]]
 - Requires [[Pure Shadow Crystals
 - Connects to [The Forbidden Archives]]
 - See also: [[step_036 (phase_040)
 - Parallels [step_029 (phase_061)]]
-- Originates from [[Archshadow Daemon Shadowrift
-- Connects to [step_056 (phase_027)]]
+- Originates from [[Archshadow Daemon Shadowrift]]
 - See also: [[Assets Locations Location City Ancient Echo Truthfinder V1 Ancient Echo Truthfinder.svg
 - Influences [Devils Sight Xphb]]
 - Influences [[The Drowning Truth 2
@@ -241,23 +228,19 @@ Seeks bodyguards for dangerous journey
 - Influences [[Mind Carapace Armor Vgm
 - Originates from
 - Connects to [location-city-trade-union-trade-union.svg]]
-- See also: [[LOC00207_Wilderness_Location_208
-- Connects to [Half Orc Parents Xge]]
-- Originates from [[elemental
-- Compare with [ENC00366_Combat_Encounter_367]]
+- See also: [[LOC00207_Wilderness_Location_208]]
+- Originates from [[ENC00366_Combat_Encounter_367]]
 - Compare with [[SHOP00005_Specialty_Shop_6
 - Originates from [location-city-kelp-forest-v1-kelp-forest.svg]]
 - Compare with [[Portrait NPC Quest the Perfect Purifier V1 Quest the Perfect Purifier.svg
 - Connects to [QUEST00187_Main_Quest_188]]
-- Affected by [[Operations Manager Current Harvestwright
-- Requires [step_091 (phase_054)]]
+- Affected by [[Operations Manager Current Harvestwright]]
 - Influences [[ENC00255_Social_Encounter_256
 - Parallels
 - Compare with [NPC00565_Qadim_Blackstone_the_Redeemed]]
 - Parallels [[NPC Directory.base (People)
 - Compare with [Lieutenant Loyalt 2]]
-- Compare with [[Cultural Exchange Programs
-- Leads to [Priest Faith Crystalsong (D&D_References)]]
+- Compare with [[Priest Faith Crystalsong (D&D_References)]]
 - Leads to [[initial-attitudes-initial-attitude-xdmg (tables)
 - See also: [ox-mpmm (beast)]]
 - Connects to [[Faction_Tracker (D&D_References)
@@ -269,8 +252,7 @@ Seeks bodyguards for dangerous journey
 - Influences [Dimensional Travel Stress]]
 - Compare with [[Assets Item Artifact Mess Kit V3 Mess Kit.png
 - See also: [Quest - The Haunted Depths 2]]
-- Influences [[step_026 (phase_025)
-- Affected by [LOC00036_Dungeons_Location_37]]
+- Influences [[LOC00036_Dungeons_Location_37]]
 - Requires [[step_047 (phase_091)
 - Compare with [step_009 (phase_071)]]
 - Influences [[Location City the Transition Centers V1 the Transition Centers.svg
@@ -278,16 +260,14 @@ Seeks bodyguards for dangerous journey
 - Related: [Information Broker Selan]]
 - See also: [[Creating a Gnoll War Band Gnoll War Band Composition Vgm
 - Affected by [The Siren (D&D_References)]]
-- Influences [[step_045 (phase_069)
-- Related: [Consequence Chain 5 - Marina Identity Revelation (D&D_References)]]
+- Influences [[Consequence Chain 5 - Marina Identity Revelation (D&D_References)]]
 - Compare with
 - Parallels
 - Influences [[Darkquill's Safe House
 - Parallels [The Debt Collectors]]
 - Requires [[NPC4 (People)
 - Affected by [step_084 (phase_039)]]
-- Parallels [[Silverscale Trade Embassy 2
-- Requires [step_009 (phase_031)]]
+- Parallels [[Silverscale Trade Embassy 2]]
 - Connects to [[dwarves-on-the-move-special-allies-mtf (tables)
 - Parallels [step_022 (phase_025)]]
 - Influences [[step_002 (phase_050)

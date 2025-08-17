@@ -174,18 +174,12 @@ Modifications:
 > Notable saying or prophecy
 
 ## See Also
-- [[NPC00321_Aeliana_Zephyrblade_the_Strong
-- [NPC01252_Jorah_Youngblood_the_Strong]]
-- [[NPC01568_Lyanna_Winterborn_the_Strong
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[NPC00259_Delara_Proudmore
-- [Faction_Guide.md]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [Ritual_Timing_Wheel_Convergenc]]
-- [[Player_Comfort_Check
-- [Character_Journals]]
-- [[NPC00296_Elric_Jadeclaw_the_Bold
-- [Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[Player_Comfort_Check]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
 -
 
 ## Item Rarity & Balance
@@ -251,8 +245,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [LORE00062_History_Entry_63]]
 - Requires [[INV-008 2
 - Leads to [step_059 (phase_055)]]
-- Leads to [[LORE00111_History_Entry_112
-- Related: [NPC01424_Urien_Winterborn_the_Broken]]
+- Leads to [[NPC01424_Urien_Winterborn_the_Broken]]
 - Originates from [[Echo Resident Sam
 - Parallels
 - Connects to [step_014 (phase_061)]]
@@ -267,26 +260,20 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [QUEST00110_Side_Quest_111]]
 - Influences [[ENC00007_Environmental_Encounter_8
 - Influences [[[Tymora]] 2]]
-- Affected by [[step_003 (phase_086)
-- Affected by [ENC00468_Combat_Encounter_469]]
-- Requires [[step_054 (phase_004)
-- Originates from [ENC00045_Environmental_Encounter_46]]
-- Leads to [[Provincial Administrative Centers
-- Parallels [Baroness Seraphina Moonweaver (D&D_References)]]
+- Affected by [[ENC00468_Combat_Encounter_469]]
+- Requires [[ENC00045_Environmental_Encounter_46]]
+- Leads to [[Baroness Seraphina Moonweaver (D&D_References)]]
 - See also: [[Symbol Heraldry Ambassador Marina Tidecaller Ambassador Marina Tidecaller.svg
 - Related: [[Location City [Geometric Tidepools]] V1 Geometric Tidepools.svg]]
 - Requires [[potion-of-frost-giant-strength-xdmg (items)
 - Compare with [elven-fenmarel-mestarine-mtf (deities)]]
-- Originates from [[The Unnamed Watcher 2
-- Affected by [ENC00095_Social_Encounter_96]]
+- Originates from [[ENC00095_Social_Encounter_96]]
 - Related: [[Synthesis Healing Pods (Items)
 - Influences [LOC00041_Planes_Location_42]]
-- Originates from [[SPELL00010_Divine_Spell_11
-- Requires [NPC01364_Alaric_Frostwhisper_the_Fallen]]
+- Originates from [[NPC01364_Alaric_Frostwhisper_the_Fallen]]
 - Compare with [[step_001 (phase_033)
 - Originates from [List Spells Optional Features Clench of the North Wind]]
-- Related: [[riding-horse-xphb (items)
-- Compare with [The Consciousness Archive (D&D_References)]]
+- Related: [[The Consciousness Archive (D&D_References)]]
 - Compare with [[Goldweaver Manor
 - Leads to [step_004 (phase_016)]]
 - Parallels [[Portrait NPC High Priest Dagon Deepcaller High Priest Dagon Deepcaller.svg_1 (Portraits)
@@ -302,14 +289,12 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [ITEM00632_Warded_Boots_of_Protection]]
 - Requires [[step_036 (phase_076)
 - Compare with [LOC00038_Towns_Location_39]]
-- Compare with [[Lady Jade Clawgrip (D&D_Statblocks)
-- Affected by [Ambassador Current 2]]
+- Compare with [[Lady Jade Clawgrip (D&D_Statblocks)]]
 - Parallels [[LOC00201_Planes_Location_202
 - Parallels [LOC00196_Dungeons_Location_197]]
 - Connects to [[Faction_Reputation_System
 - Connects to [step_033 (phase_023)]]
-- Leads to [[Seraph Tidewhisper
-- Requires [QUEST00010_Personal_Quest_11]]
+- Leads to [[QUEST00010_Personal_Quest_11]]
 - Affected by [[swarm-of-insects-xmm
 - Compare with [step_069 (phase_036)]]
 - Connects to [[step_045 (phase_100)
@@ -323,8 +308,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [defense-xphb (feats)]]
 - See also: [[step_099 (phase_056)
 - Originates from [step_022 (phase_045)]]
-- See also: [[NPC00966_Thalia_Dawnstrider_the_Guardian
-- Leads to [Storm of Eternal Lightning 2]]
+- See also: [[NPC00966_Thalia_Dawnstrider_the_Guardian]]
 - Requires [[step_075 (phase_058)
 - See also: [DUN00129_Dungeon_130]]
 - Compare with [[Symbol Heraldry the Brotherhood of the Black Anchor the Brotherhood of the Black Anchor.svg
@@ -333,8 +317,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels
 - Originates from [[Chime of Opening Xdmg
 - Parallels [The Prime Reflection]]
-- Related: [[The Unknown Original (D&D_References)
-- Parallels [Session Zero Guide]]
+- Related: [[The Unknown Original (D&D_References)]]
 - Parallels [[Full Official Name
 - Affected by [step_048 (phase_024)]]
 - Requires [[NPC01635_Vesper_Ironforge_the_Cunning

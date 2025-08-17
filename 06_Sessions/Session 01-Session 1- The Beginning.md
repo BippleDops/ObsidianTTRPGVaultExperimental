@@ -13,13 +13,7 @@ Specific information and content.
 
 ## Connections
 -
-- [[00_Indexes/Master_Index
-
-## Notes
-Additional information and references.
-
-## Related
-- [00_Indexes/Home]]
+- [[MASTER_INDEX]]
 
 ## [[Session Summary
 *Brief overview of this session*
@@ -29,7 +23,7 @@ Additional information and references.
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

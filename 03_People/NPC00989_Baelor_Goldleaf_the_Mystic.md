@@ -161,8 +161,7 @@ Seeks rare merchandise
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -191,20 +190,17 @@ Seeks rare merchandise
 - Influences [Assets Item Artifact Travelers Clothes Xphb V4 Travelers Clothes Xphb.png]]
 - Affected by [[portrait-npc-the-tidecaller-v2-the-tidecaller.svg_1 (Portraits)
 - Related: [Bodak Mpmm]]
-- Affected by [[step_098 (phase_031)
-- Originates from [Convergence_Point_Introduction (D&D_Sourcebooks)]]
+- Affected by [[Convergence_Point_Introduction (D&D_Sourcebooks)]]
 - Influences [[Assets Locations Location City Reef Shark Reef Shark.svg
 - Leads to [Searing Smite Xphb]]
-- Leads to [[Regional Coordinator Harbor Watchful
-- Requires [QUEST00386_Side_Quest_387]]
+- Leads to [[Regional Coordinator Harbor Watchful]]
 - See also: [[step_072 (phase_042)
 - Compare with [step_066 (phase_073)]]
 - Influences [[step_021 (phase_055)
 - See also: [Like This]]
 - Influences [[Assets Locations Location City Current Navigation Techniques V1 Current Navigation Techniques.svg
 - See also: [cobblers-tools-xphb (items)]]
-- Requires [[ENC00043_Combat_Encounter_44
-- Connects to [Shattered Coast 2]]
+- Requires [[ENC00043_Combat_Encounter_44]]
 - Connects to
 - Parallels [[Retired Captain Bron Saltbeard 2
 - Connects to [Mediator's Pendant (D&D_References)]]
@@ -214,15 +210,12 @@ Seeks rare merchandise
 - Affected by [Gith Names Githzerai Male Mtf]]
 - Connects to [[step_074 (phase_022)
 - Influences [lorehold-trinket-scc (items)]]
-- Compare with [[LOC00172_Dungeons_Location_173
-- Affected by [step_085 (phase_024)]]
-- Affected by [[NPC00387_Alaric_Voidwalker_the_Guardian
-- Influences [Feast Saltyflavor 2]]
+- Compare with [[LOC00172_Dungeons_Location_173]]
+- Affected by [[NPC00387_Alaric_Voidwalker_the_Guardian]]
 - Originates from
 - Parallels [[Assets Locations Location City the Living Weapon the Living Weapon.svg
 - Originates from [ENC00197_Combat_Encounter_198]]
-- Influences [[Foreign Shadow Syndicate
-- Requires [Memorial Stones 2]]
+- Influences [[Foreign Shadow Syndicate]]
 - See also: [[location-city-trade-union-trade-union.svg
 - Influences [NPC00603_Hilda_Lightbringer_the_Wanderer]]
 - Compare with [[step_073 (phase_061)
@@ -239,33 +232,26 @@ Seeks rare merchandise
 - Compare with [SPELL00064_Divine_Spell_65]]
 - See also: [[Witherbloom Trinket Scc
 - Influences [MON00006_Aberrations_Creature_7]]
-- Requires [[Luminar Brightforge
-- Requires [LOC00187_Cities_Location_188]]
+- Requires [[LOC00187_Cities_Location_188]]
 - Leads to [[step_065 (phase_067)
 - Influences [Location City Treaty of the Depths V1 Treaty of the Depths.svg]]
-- Connects to [[NPC01294_Gareth_Frostwhisper_the_Lost
-- Requires [Crown of Eternal Ice]]
-- Influences [[LOC00029_Dungeons_Location_30
-- Influences [step_039 (phase_039)]]
-- Originates from [[Current Innovator (D&D_References)
-- Leads to [Norse Hermod]]
+- Connects to [[NPC01294_Gareth_Frostwhisper_the_Lost]]
+- Influences [[LOC00029_Dungeons_Location_30]]
+- Originates from [[Current Innovator (D&D_References)]]
 - Leads to [[FAC00037_Orders_38
 - Connects to [Velociraptor Mpmm]]
 - Connects to [[Depth Safety Authorit
 - Compare with
 - Connects to [step_059 (phase_071)]]
-- Requires [[NPC00509_Caelum_Silverleaf_the_Scholar
-- Compare with [step_005 (phase_052)]]
+- Requires [[NPC00509_Caelum_Silverleaf_the_Scholar]]
 - Parallels [[Lost Archives (D&D_References)
 - Requires [Location City Diplomatic Minister Reef V1 Diplomatic Minister Reef.svg]]
 - Compare with [[Cooks Utensils Xphb
 - Requires [step_023 (phase_060)]]
 - Originates from [[step_002 (phase_094)
 - Connects to [step_004 (phase_038)]]
-- Related: [[step_073 (phase_054)
-- Connects to [Chief Engineer Marina Crystalwright 2]]
-- Requires [[NPC00398_Fiora_Voidwalker_the_Risen
-- See also: [adult-kruthik-mpmm (monstrosity)]]
+- Related: [[Chief Engineer Marina Crystalwright 2]]
+- Requires [[NPC00398_Fiora_Voidwalker_the_Risen]]
 - Leads to [[Symbol Heraldry the Shadow Crystal Synthesis V1 the Shadow Crystal Synthesis.png
 - Originates from [ENC00477_Combat_Encounter_478]]
 - Connects to [[step_076 (phase_046)

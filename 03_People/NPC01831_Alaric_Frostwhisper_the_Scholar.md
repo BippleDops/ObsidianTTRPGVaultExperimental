@@ -169,50 +169,24 @@ Is secretly testing the party
 - Special moves
 
 ## See Also
-- [[NPC01911_Alaric_Oakenshield_the_Mystic
-- [NPC00058_Elric_Nightfall]]
-- [[NPC01504_Erasmus_Zephyrblade_the_Strong
-- [NPC00287_Ysara_Underhill_the_Wise]]
-- [[NPC01613_Kaelen_Voidwalker_the_Wanderer
-- [NPC00095_Fiora_Nightfall]]
-- [[NPC00661_Corvus_Darkwater_the_Broken
-- [NPC01937_Felicia_Silverleaf_the_Wanderer]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC01687_Aldric_Youngblood_the_Cunning]]
-- [[NPC00057_Malakai_Stormwind_the_Cunning
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[NPC00552_Malakai_Stormwind_the_Seeker
-- [NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[NPC01057_Pyria_Quicksilver_the_Scholar
-- [NPC01745_Felicia_Oakenshield_the_Scholar]]
-- [[NPC01849_Kaelen_Silverleaf_the_Scholar
-- [NPC01827_Kaelen_Ironforge_the_Seeker]]
-- [[NPC00415_Gareth_Winterborn_the_Bold
-- [NPC01483_Gavril_Zephyrblade_the_Fallen]]
-- [[Depth_Adapted_Background
-- [Faction_Guide.md]]
-- [[NPC01447_Baelor_Winterborn_the_Strong
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
-- [[Trade_Route_Map_Aquabyssos_to_Aethermoor
-- [Downtime_Activities]]
-- [[NPC01979_Fiora_Emberfall_the_Guardian
-- [16 Credits]]
-- [[MOC_Lore
-- [NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[Depth_Adapted_Background]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
 - [[MOC_Items
 - [Master_Narrative_Web.md]]
-- [[Party_Inventory
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[Party_Inventory]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -221,8 +195,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -260,33 +233,28 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Blade Ward Xphb
 - Influences [step_027 (phase_062)]]
 - Parallels
-- Related: [[SPELL00092_Arcane_Spell_93
-- Compare with [10 combat#Dropping_to_0_Hit_Points#Stabilizing_a_Creature]]
+- Related: [[SPELL00092_Arcane_Spell_93]]
 - See also: [[Goldwave Academy
 - Originates from [M-003 Duplicate Crew Player]]
 - Leads to [[step_011 (phase_080)
 - Leads to [Assets Locations Location City Pressure Point Settlement V1 Pressure Point Settlement.svg]]
 - Leads to [[Assets Locations Location City the Pearl Markets V1 the Pearl Markets.svg
 - See also: [QUEST0062_In_Search_of_Peace]]
-- Connects to [[ENC00480_Combat_Encounter_481
-- Influences [trade-goods-phb]]
+- Connects to [[ENC00480_Combat_Encounter_481]]
 - Parallels [[step_005 (phase_033)
 - Originates from [Ecological Balance Protocols 2]]
 - Leads to [[QUEST00027_Main_Quest_28
 - Requires [Portrait NPC the Emerald Sage Willowbark the Emerald Sage Willowbark.svg]]
-- Affected by [[Scholar Temporal Chronos (D&D_References)
-- Parallels [Elder Coral Doomteller]]
+- Affected by [[Scholar Temporal Chronos (D&D_References)]]
 - Compare with [[NPC00595_Wynne_Moonshadow_the_Seeker
 - Requires [Vicious Weapon Xdmg]]
-- See also: [[step_011 (phase_044)
-- Parallels [Memory Extraction Laboratory]]
+- See also: [[Memory Extraction Laboratory]]
 - Leads to [[services-phb (tables)
 - Connects to [LOC00021_Towns_Location_22]]
 - See also: [[NPC00786_Jorah_Underhill_the_Risen
 - See also: [Assets Handouts Handout Handout Cult Text with Marginalia V3 Cult Text with Marginalia.png]]
 - Requires
-- Compare with [[ether-cyclones (tables)
-- See also: [Marina Administration Center]]
+- Compare with [[Marina Administration Center]]
 - Influences [[enspelled-weapon-level-6-xdmg (items)
 - Influences [Religious Purists 2]]
 - Leads to
@@ -294,18 +262,14 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [roleplaying-an-orc-orc-personality-traits-vgm (tables)]]
 - Parallels [[Sacred Historian Coral Deepscribe 2
 - See also: [Assets Locations Location City Commercial District V1 Commercial District.svg]]
-- Requires [[Whisper Jack
-- Influences [MON00041_Constructs_Creature_42]]
+- Requires [[MON00041_Constructs_Creature_42]]
 - Compare with [[LOC00148_Planes_Location_149
 - Leads to [Assets Portraits Portrait NPC the Pearl Heist the Pearl Heist.svg]]
 - Influences [[step_067 (phase_056)
 - Compare with [Ancient White Dragon Xmm]]
-- Requires [[SPELL00122_Nature_Spell_123
-- Related: [The Breathing Stone]]
-- See also: [[Portrait NPC Free... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Originates from [step_065 (phase_055)]]
-- Related: [[cleric-xphb-grave-domain-xge (classes)
-- Leads to [04-chapter-3-dragon-hatchery (hoard-of-the-dragon-queen)]]
+- Requires [[SPELL00122_Nature_Spell_123]]
+- See also: [[Portrait NPC Free... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Related: [[04-chapter-3-dragon-hatchery (hoard-of-the-dragon-queen)]]
 - Requires [[Kelp Extraction Tools
 - Leads to [map_placeholder]]
 - Parallels [[swarm-of-lemures-xmm (fiend)
@@ -321,15 +285,12 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with
 - See also: [[Resonant Starcrystal
 - Parallels [aquamarine-xdmg (items)]]
-- Requires [[High Priest Dagon Deepcaller
-- Influences [Bloodtide Brotherhood (D&D_References)]]
+- Requires [[Bloodtide Brotherhood (D&D_References)]]
 - Connects to [[DUN00011_Dungeon_12
 - Related: [step_075 (phase_017)]]
 - Compare with [[Vehicle Ship Coral Frame Diver Tender Coral Frame Diver Tender.svg
 - Requires [Barlgura Xmm]]
-- Leads to [[Sentinel Constructs (D&D_References)
-- Influences
-- Leads to [step_024 (phase_099)]]
+- Leads to [[Sentinel Constructs (D&D_References)]]
 - Influences [[Location City the Wandering Atoll V1 the Wandering Atoll.svg
 - Compare with [Assets Locations Location City the Great Sky Harbor the Great Sky Harbor.svg]]
 - Requires [[Quest - Hadal Expedition 2

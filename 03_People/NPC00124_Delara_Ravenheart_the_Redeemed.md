@@ -133,58 +133,17 @@ Deception, Animal Handling
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- [[Political Alliances
-- Upcoming social events
-
-## Plot Hook
-Requires champions for trial by combat
-
-## DM Notes
-- Adjust stats based on party level
-- Secrets can drive major plot points
-- Relationships create web of connections
-- Use quirks for memorable roleplay
-
----
-*Generated: 2025-08-15T03:51:03.125Z*
-
-## Voice & Mannerisms
-- Speaking style
-- Common phrases
-
-## Daily Routine
-- Morning activities
-- Evening habits
-
-## Combat Tactics
-- Preferred strategies
-- Special moves
-
-## Combat Stats
-Base: **Noble** (BC p.348)
-Modifications:
-- HP: 18
-- AC: 16
-- Notable abilities: Varies by individual
-
-## See Also
-- [NPC01177_Thalia_Underhill_the_Fallen]]
-- [[NPC00317_Pyria_Blackstone_the_Redeemed
-- [Ambassador Nerida Deepcurrent]]
-- [[NPC01989_Erasmus_Xendar_the_Strong
-- [NPC01483_Gavril_Zephyrblade_the_Fallen]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC00395_Aeliana_Thornweave]]
-- [[Ceasefire_Accord_Draft.md
-- [Propaganda_Leaflet_Pearl_Guar]]
-- [[11 Spellcasting
-- [World_Primer.md]]
+- [[Political Alliances]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[11 Spellcasting]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -203,7 +162,7 @@ Modifications:
 - See also: [[cambion-xmm (fiend)
 - Related: [LOC0134_Hillstead]]
 - Compare with [[step_010 (phase_046)
-- Leads to [[Location City [Royal Palace]] of Meridian [[Royal Palace of Meridian.svg]]
+- Leads to [[Location City [Royal Palace]] of Meridian [[Royal Palace of Meridian]]
 - Affected by [[Quest - Storm Lord's Challenge
 - Influences [[Assets Portraits Portrait NPC Aria [Lumengarde]] Aria Lumengarde.svg]]
 - See also: [[ENC00393_Combat_Encounter_394
@@ -215,12 +174,10 @@ Modifications:
 - Affected by [[[Ambassador Mark Exchangekeeper]] (D&D_References)]]
 - Connects to [[Alexandrite Xdmg
 - Requires [step_001 (phase_060)]]
-- Originates from [[Drill Sergeant Discipline (D&D_References)
-- Compare with [LORE00248_Legends_Entry_249]]
+- Originates from [[Drill Sergeant Discipline (D&D_References)]]
 - Influences [[NPC01038_Kaelen_Grimholt_the_Wise
 - Parallels [Symbol Heraldry Commerce Manager Fairdealin V1 Commerce Manager Fairdealin.svg]]
-- Related: [[Depth Effect Quick Reference
-- Influences [NPC00762_Felicia_Nightfall_the_Seeker]]
+- Related: [[NPC00762_Felicia_Nightfall_the_Seeker]]
 - Related: [[LORE00181_Legends_Entry_182
 - Leads to
 - Compare with [[[Aquabyssos]] Embassy]]
@@ -235,24 +192,21 @@ Modifications:
 - Connects to
 - Leads to [[Fortress Blueprints
 - Affected by [The Royal Palace]]
-- Leads to [[LOC00146_Towns_Location_147
-- Influences [Moonblade Xdmg]]
+- Leads to [[LOC00146_Towns_Location_147]]
 - Related: [[yuan-ti-dendar-vgm (deities)
 - Influences [step_062 (phase_064)]]
-- Parallels [[Locations [Crystal Shadow Storms]]
-- Originates from [[Banker [Merchant]]
+- Parallels [[Crystal Shadow Storms]]
+- Originates from [[Merchant]]
 - Leads to
-- Affected by [[NPC00871_Ysara_Ironwood_the_Scholar
-- Leads to [Dimensional Travel Stress]]
+- Affected by [[NPC00871_Ysara_Ironwood_the_Scholar]]
 - See also: [[special-features-what-quirk-does-it-have (tables)
 - Originates from [[Location City [Security Services]] Security Services.svg]]
 - Compare with [[step_024 (phase_039)
 - Parallels [step_041 (phase_099)]]
 - Parallels [[location-city-twilight-depths-twilight-depths.svg
 - Leads to [Portrait NPC Otherworldly Patron Otherworldly Patron.svg_1 (Portraits)]]
-- Originates from [[QUEST00137_Personal_Quest_138
-- Leads to [Jeeves]]
-- Requires [[[Sage Rememberall (D&D_References)]]
+- Originates from [[QUEST00137_Personal_Quest_138]]
+- Requires [[Sage Rememberall (D&D_References)]]
 - Affected by [[NPC00104_Dara_Darkwater
 - See also: [2 Monsters a to Z]]
 - Requires [[Saving Throws Proficiency Bonus by Challenge
@@ -260,24 +214,19 @@ Modifications:
 - Leads to [Keeper Elara Mindwell 2]]
 - See also: [[LOC00251_Dungeons_Location_252
 - Related: [Councillor Elara Brightwater]]
-- Leads to [[Guild Seal Document Silverscale Consortiu
-- Connects to [SPELL00044_Divine_Spell_45]]
+- Leads to [[Guild Seal Document Silverscale Consortiu]]
 - Parallels
-- Influences [[The Festival Archives
-- Affected by [Deep Sea Environmental Specialist (D&D_References)]]
+- Influences [[Deep Sea Environmental Specialist (D&D_References)]]
 - Influences [[step_085 (phase_041)
 - See also:
 - Requires [sword-of-kas-xdmg (items)]]
 - Compare with [[LOC00161_Dungeons_Location_162
 - Originates from [[Assets Locations [[Location City [Vault Keeper Eternal]] Vault Keeper Eternal.svg]]]]
-- Influences [[SPELL00040_Divine_Spell_41
-- Influences [Location_Generator]]
-- Connects to [[Cross Realm Research Coalition
-- Affected by [Gallery Guide Captain Marina Civicvoice (D&D_References)]]
+- Influences [[SPELL00040_Divine_Spell_41]]
+- Connects to [[Gallery Guide Captain Marina Civicvoice (D&D_References)]]
 - Requires [[Assets Locations [Location City Quest the Blackmail Papers Quest the Blackmail Papers.svg]]
 - Affected by
-- Parallels [[NPC01629_Urien_Brightblade_the_Seeker
-- Influences [[[Professor Reef Growthseeker]] (D&D_References)]]
+- Parallels [[NPC01629_Urien_Brightblade_the_Seeker]] (D&D_References)]]
 - Parallels
 - Parallels [[step_045 (phase_036)
 - Leads to [Phantom Archivist Silent Catalogue]]
@@ -296,8 +245,7 @@ Modifications:
 - Affected by [LOC00108_Cities_Location_109]]
 - Related: [[LOC00261_Towns_Location_262
 - Connects to [step_049 (phase_065)]]
-- Requires [[step_065 (phase_033)
-- Compare with [Elder Willow Moonwhisper (D&D_References)]]
+- Requires [[Elder Willow Moonwhisper (D&D_References)]]
 - Parallels [[04_Resources_Assets_Locations_location-city-merchant-prince-aldric-goldcurrent-merchant-prince-aldric-goldcurrent.svg
 - Originates from [eberron-the-path-of-light (deities)]]
 

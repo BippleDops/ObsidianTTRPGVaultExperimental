@@ -29,7 +29,7 @@ type: npc
 
 ## Quick Reference
 - **Role**: Character in the campaign
-- **Location**: [[02_Worldbuilding/Locations/Main_Hub]]
+- **Location**: [[02_Worldbuilding]]
 - **Faction**: Independent
 
 ## Description
@@ -83,22 +83,12 @@ Archdruid Thornweaver is a character encountered in the campaign world.
 - [[00_[INDEXes/MOCs/NPCs_MOC]]
 
 ## See Also
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[NPC01892_Gareth_Xendar_the_Scholar
-- [NPC00407_Hestara_Dawnstrider]]
-- [[Player_Comfort_Check
-- [Reference.md]]
-- [[NPC01599_Gavril_Keenblade_the_Strong
-- [11 Spellcasting]]
-- [[10 Appendix B Creature Stat Blocks
-- [10 Combat]]
-- [[Depth_Adapted_Background.md
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[Player_Comfort_Check]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[Depth_Adapted_Background]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -108,8 +98,7 @@ Archdruid Thornweaver is a character encountered in the campaign world.
 ## Connections
 
 - Parallels [step_020 (phase_033)]]
-- Requires [[ENC00096_Social_Encounter_97
-- Requires [travel-xphb (tables)]]
+- Requires [[ENC00096_Social_Encounter_97]]
 - Parallels [[Symbol Heraldry Commander Void Tacticia Commander Void Tacticia.svg
 - Influences [[Assets Locations Location City [Vault Breach]] V1 Vault Breach.svg]]
 - Compare with [[The Living Paradox
@@ -170,38 +159,29 @@ Archdruid Thornweaver is a character encountered in the campaign world.
 - Parallels [The Whistleblower (D&D_References)]]
 - Affected by [[step_061 (phase_052)
 - See also: [step_040 (phase_038)]]
-- Affected by [[Bard Xphb College of Glamour Xphb
-- See also: [Deep Biology Institute (D&D_References)]]
-- Requires [[Opposition Intelligence Center (D&D_References)
-- Originates from [Master Smith Vulcan Deepforge]]
-- Parallels [[step_066 (phase_083)
-- Leads to [Mechanics Underwater Combat]]
-- Connects to [[International Crystal Trade Associatio
-- Related: [Dulcimer Xphb]]
-- Originates from [[LOC00138_Planes_Location_139
-- Related: [Temple Coalition]]
+- Affected by [[Deep Biology Institute (D&D_References)]]
+- Requires [[Opposition Intelligence Center (D&D_References)]]
+- Parallels [[Mechanics Underwater Combat]]
+- Connects to [[International Crystal Trade Associatio]]
+- Originates from [[LOC00138_Planes_Location_139]]
 - Influences
-- Compare with [[LOC00056_Towns_Location_57
-- Related: [step_055 (phase_082)]]
+- Compare with [[LOC00056_Towns_Location_57]]
 - Leads to [[step_032 (phase_062)
 - Compare with [[[Archkeeper Nereon]] (D&D_References)]]
 - Originates from [[step_031 (phase_084)
 - Connects to [creature-size-size-categories-phb (tables)]]
-- Leads to [[ENC00130_Social_Encounter_131
-- Influences [Blue Dragon]]
-- Related: [[MON00106_Constructs_Creature_107
-- Parallels [NPC00331_Aldric_Frostwhisper_the_Bold]]
+- Leads to [[ENC00130_Social_Encounter_131]]
+- Related: [[NPC00331_Aldric_Frostwhisper_the_Bold]]
 - Originates from [[ENC00384_Combat_Encounter_385
 - Leads to [ENC00041_Combat_Encounter_42]]
 - See also: [[step_097 (phase_067)
 - Connects to [[Location City [Barkeep Salty Sarah]] V1 Barkeep Salty Sarah.svg]]
 - See also: [[step_064 (phase_096)
 - See also: [Eldritch Mind Xphb]]
-- Influences [[Medallion of the Depths 2
-- Related: [NPC00607_Corvus_Emberfall_the_Wise]]
+- Influences [[NPC00607_Corvus_Emberfall_the_Wise]]
 - Requires [[step_081 (phase_095)
-- Originates from [[Assets Locations [[Location City [Deep Harbor]] Technology V1 [[Deep Harbor Technology.svg]]]]
-- Originates from [[[Surface Loyalist Safe Houses (D&D_References)]]
+- Originates from [[Assets Locations [[Location City [Deep Harbor]] Technology V1 [[Deep Harbor Technology]]]]
+- Originates from [[Surface Loyalist Safe Houses (D&D_References)]]
 - Requires [[Gold Gp
 - Requires [warlock-xphb-celestial-patron-xphb (classes)]]
 - Influences [[ITEM00272_Cursed_Staff_of_the_Ancients

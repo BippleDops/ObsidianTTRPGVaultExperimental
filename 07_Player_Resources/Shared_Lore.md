@@ -44,57 +44,34 @@ created: 2025-08-15T12:34:11.169015
 > Useful information for players
 
 ## See Also
-- [[NPC01858_Drusilla_Stormwind_the_Cunning
-- [NPC00644_Nerys_Dawnstrider_the_Wanderer]]
-- [[NPC01943_Xander_Proudmore_the_Fallen
-- [Guild Seal Document Silverscale Consortiu]]
-- [[NPC01040_Zephyr_Lightbringer_the_Strong
-- [NPC01849_Kaelen_Silverleaf_the_Scholar]]
-- [[NPC01431_Kaelen_Zephyrblade_the_Guardian
-- [Portal_Home]]
-- [[Ceasefire_Accord_Draft.md
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[NPC00501_Orion_Nightfall_the_Broken
-- [NPC_Relationship_Web.png_1 (03_People)]]
-- [[Party_Inventory
-- [NPC00162_Xander_Thornweave]]
-- [[NPC01466_Urien_Nightfall_the_Guardian
-- [NPC01247_Xander_Zephyrblade_the_Risen]]
-- [[NPC01290_Pyria_Ashford_the_Broken
-- [NPC00582_Cedric_Dawnstrider]]
-- [[NPC00812_Kaelen_Jadeclaw_the_Seeker
-- [NPC01041_Thalia_Dawnstrider_the_Lost]]
-- [[NPC00321_Aeliana_Zephyrblade_the_Strong
-- [NPC00625_Kaelen_Brightblade_the_Redeemed]]
-- [[NPC01151_Orion_Stormwind_the_Seeker
-- [NPC01974_Thalia_Zephyrblade_the_Lost]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC00300_Urien_Zephyrblade]]
-- [[Pilgrim_Pass_Prayer_Sli
-- [NPC00324_Idris_Hawthorne_the_Strong]]
-- [[NPC00945_Wynne_Voidwalker_the_Seeker
-- [What You Know - Abyssos Prime.md]]
-- [[Parliamentary_Voting_Guide
-- [NPC00749_Xander_Quicksilver]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC00945_Wynne_Voidwalker_the_Seeker]]
+- [[NPC00749_Xander_Quicksilver]]
 - [[Sanity_Quick_Reference.md
 - [Downtime_Activities]]
-- [[Welcome_to_Aquabyssos.md
-- [15 the Planes of Existence]]
-- [[03 Races
-- [10 Appendix B Creature Stat Blocks]]
-- [[NPC00407_Hestara_Dawnstrider
-- [16 Credits]]
-- [[11 Rules Glossary
-- [MOC_Items]]
+- [[15 the Planes of Existence]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[11 Rules Glossary]]
 -
 
 ## Related Content
-- [[ULTIMATE_VAULT_ACHIEVEMENT
-- [NEXT_LEVEL_IMPROVEMENTS]]
-- [[10 Combat
-- [04 Chapter 3 Character Classes]]
-- [[10K_GENERATION_REPORT
-- [06 Equipment]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
+- [[04 Chapter 3 Character Classes]]
+- [[10K_GENERATION_REPORT]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -182,8 +159,7 @@ created: 2025-08-15T12:34:11.169015
 - Requires [FAC00036_Guilds_37]]
 - Influences
 - Connects to
-- Affected by [[The Reef Communities 2
-- Requires [Technology Time Stream Analyzers]]
+- Affected by [[Technology Time Stream Analyzers]]
 - Parallels [[step_020 (phase_063)
 - See also: [QUEST00009_Main_Quest_10]]
 - Parallels [[Assets Locations Location City Port Meridian Harbor V1 Port Meridian Harbor.svg
@@ -194,10 +170,8 @@ created: 2025-08-15T12:34:11.169015
 - Influences [portrait-npc-the-cure-v2-the-cure.svg]]
 - Connects to [[step_068 (phase_009)
 - Compare with [EVENT00001_Political_Event_2]]
-- Affected by [[Merchant Truth Society (D&D_References)
-- Related: [LORE00002_Prophecies_Entry_3]]
-- Connects to [[The Final Sealing 3 (D&D_References)
-- Parallels [Citizens Breathing Alliance]]
+- Affected by [[Merchant Truth Society (D&D_References)]]
+- Connects to [[The Final Sealing 3 (D&D_References)]]
 - See also: [[step_027 (phase_078)
 - Compare with [Drow Lolth Mtf]]
 - Requires [[02_Worldbuilding_People_Archmaster_Lyralei

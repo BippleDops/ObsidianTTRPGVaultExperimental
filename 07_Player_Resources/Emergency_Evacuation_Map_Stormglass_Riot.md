@@ -125,8 +125,7 @@ tags: [combat, exploration, lore]
 > Notable saying or prophecy
 
 ## See Also
-- [[Parliamentary_Voting_Guide
-- [Combat_Encounter_Analysis]]
+- [[Parliamentary_Voting_Guide]]
 -
 
 ## Related Content
@@ -179,8 +178,7 @@ tags: [combat, exploration, lore]
 - Originates from [Assets Locations Location City the Free Current V1 the Free Current.svg]]
 - Leads to [[LOC00160_Planes_Location_161
 - Compare with [otherworldly-steed-fiend-xphb (fiend)]]
-- Connects to [[Template_Player_Placeholder.png_1 (09_Templates)
-- Connects to [The Consciousness Vault (D&D_References)]]
+- Connects to [[Template_Player_Placeholder.png_1 (09_Templates)]]
 - Requires [[Location City Secular Community Practices V1 Secular Community Practices.svg
 - Related: [Quest - Shadow Confrontation 2]]
 - Parallels [[step_050 (phase_058)
@@ -191,8 +189,7 @@ tags: [combat, exploration, lore]
 - Related: [Location City Exotic Imports Market V1 Exotic Imports Market.svg]]
 - Connects to [[Quandrix Trinket Scc
 - Leads to [step_059 (phase_040)]]
-- Affected by [[QUEST00184_Side_Quest_185
-- Affected by [LOC00035_Wilderness_Location_36]]
+- Affected by [[LOC00035_Wilderness_Location_36]]
 - Leads to [[step_071 (phase_014)
 - Related: [step_077 (phase_063)]]
 - Leads to
@@ -200,24 +197,20 @@ tags: [combat, exploration, lore]
 - See also: [step_056 (phase_061)]]
 - Connects to [[step_020 (phase_086)
 - Compare with [Location City the Noble Quarter Market the Noble Quarter Market.svg]]
-- Compare with [[MON00037_Undead_Creature_38
-- Requires [Session 4 - The Shadow Parliament]]
+- Compare with [[Session 4 - The Shadow Parliament]]
 - Related: [[Dimensional Specialists
 - Parallels [Portal Terminal Central]]
 - See also: [[magic-circle-xphb (spells)
 - Connects to [step_090 (phase_069)]]
 - Requires [[SHOP00029_General_Shop_30
 - Requires [Assets Item Artifact Poisoners Kit Xphb Poisoners Kit Xphb.png]]
-- Connects to [[step_033 (phase_040)
-- Connects to [NPC0198_Nathaniel_Brightblade]]
-- Related: [[LORE00216_Prophecies_Entry_217
-- Parallels [NPC01924_Gavril_Hawthorne_the_Swift]]
+- Connects to [[NPC0198_Nathaniel_Brightblade]]
+- Related: [[NPC01924_Gavril_Hawthorne_the_Swift]]
 - Influences [[Financial Crime Investigatio 2
 - Related: [assign-hit-dice-hit-dice-by-size (tables)]]
 - Requires [[Physical Variations Yuan Ti Scale Pattern Vgm
 - Related: [Sky_Events_Pack_D]]
-- See also: [[Cheese Wedge Xphb
-- Requires [Authenticity Verification]]
+- See also: [[Authenticity Verification]]
 - Parallels [[..
 - Originates from [02_Worldbuilding_Places_The_Twilight_Depths]]
 - Influences [[step_045 (phase_047)
@@ -245,10 +238,8 @@ tags: [combat, exploration, lore]
 - Compare with [step_017 (phase_076)]]
 - Influences [[step_066 (phase_037)
 - Requires [Captain Dimensional]]
-- See also: [[Marina''s Identity Crisis
-- Affected by [Nonhuman Yondalla]]
-- Leads to [[FAC00096_Cults_97
-- Influences [QUEST00275_Side_Quest_276]]
+- See also: [[Marina''s Identity Crisis]]
+- Leads to [[QUEST00275_Side_Quest_276]]
 
 ## Visual References
 ![[02_Worldbuilding/locations/location_the_emergency_response_center_interior.png

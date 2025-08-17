@@ -161,22 +161,16 @@ Requires champions for trial by combat
 - Special moves
 
 ## See Also
-- [[NPC01682_Vesper_Blackstone_the_Guardian
-- [NPC00190_Cedric_Silverleaf]]
-- [[NPC01177_Thalia_Underhill_the_Fallen
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[NPC00296_Elric_Jadeclaw_the_Bold
-- [NPC01870_Lyanna_Silverleaf_the_Cunning]]
-- [[NPC01989_Erasmus_Xendar_the_Strong
-- [Parliamentary_Voting_Guide]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [Character_Journal_Template]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -191,15 +185,14 @@ Requires champions for trial by combat
 
 ## Connections
 
-- Leads to [[NPC00712_Faelyn_Proudmore_the_Fallen
-- Parallels [Wealth_and_Treasure_Systems]]
+- Leads to [[NPC00712_Faelyn_Proudmore_the_Fallen]]
 - Connects to [[Dispel Evil and Good Xphb
 - Influences [secret-doors-xdmg (tables)]]
 - Leads to [[step_006 (phase_018)
 - Connects to [[Location City [Screaming Gardens]] Songwood Grove V1 Screaming Gardens Songwood Grove.svg]]
 - See also: [[step_070 (phase_095)
 - Originates from [swarm-of-lemures-xmm (fiend)]]
-- Compare with [[[[The [Noble Quarter Market]] (D&D_References)]]
+- Compare with [[Noble Quarter]] (D&D_References)]]
 - Leads to [[brass-mug-with-jade-inlay-xdmg (items)
 - Originates from [Harbor Patrol]]
 - See also: [[step_084 (phase_031)
@@ -222,11 +215,9 @@ Requires champions for trial by combat
 - Originates from [[step_067 (phase_085)
 - Affected by [step_050 (phase_012)]]
 - Compare with [[Location City [Gallery of Frozen Waves Gallery of Frozen Waves.svg]]
-- Leads to [[[The Order of the Shattered Crown (D&D_References)]]
-- Affected by [[NPC01090_Orion_Youngblood_the_Guardian
-- Connects to [Quest - The Great Integration]]
-- Requires [[NPC01662_Ewan_Stormwind_the_Strong
-- Leads to [NPC01053_Delara_Dawnstrider_the_Seeker]]
+- Leads to [[The Order of the Shattered Crown (D&D_References)]]
+- Affected by [[NPC01090_Orion_Youngblood_the_Guardian]]
+- Requires [[NPC01053_Delara_Dawnstrider_the_Seeker]]
 - Connects to
 - Related:
 - Parallels [[Crystal Jellies (D&D_References)
@@ -235,14 +226,12 @@ Requires champions for trial by combat
 - See also: [framing-events (tables)]]
 - Leads to [[step_085 (phase_062)
 - Requires [step_009 (phase_080)]]
-- Connects to [[step_059 (phase_037)
-- See also: [NPC00075_Baelor_Winterborn]]
+- Connects to [[NPC00075_Baelor_Winterborn]]
 - Affected by [[Memorial Stones (D&D_References)
 - Originates from [paper-whirlwind-rot (construct)]]
 - Requires [[step_061 (phase_018)
 - Originates from [Portrait NPC Marcus Shardbreaker Grimm V1 Marcus Shardbreaker Grimm.svg]]
-- Influences [[Chancellor Squall Deepcurrent 2
-- Leads to [step_021 (phase_004)]]
+- Influences [[Chancellor Squall Deepcurrent 2]]
 - Parallels [[kitchen
 - Affected by
 - Parallels [step_032 (phase_026)]]
@@ -256,8 +245,7 @@ Requires champions for trial by combat
 - Originates from [step_071 (phase_038)]]
 - Affected by [[DUN00044_Dungeon_45
 - Leads to [Portrait NPC Ambassador Nerida Deepcurrent V1 Ambassador Nerida Deepcurrent.svg]]
-- Connects to [[Financial Officer Golden Calculations
-- Originates from [Planetar Xmm]]
+- Connects to [[Financial Officer Golden Calculations]]
 - Influences [[step_026 (phase_027)
 - Requires [The Deep Territories]]
 - Requires [[ (02_Worldbuilding)
@@ -271,22 +259,17 @@ Requires champions for trial by combat
 - Leads to [[Portrait NPC the [Royal Treasury]] Depths V1 the Royal Treasury Depths.svg_1 (Portraits)]]
 - See also: [[bestial-spirit-xphb (beast)
 - Leads to [SPELL00070_Arcane_Spell_71]]
-- Requires [[Temple of the Sunken Cathedral
-- Compare with [step_001 (phase_023)]]
-- Leads to [[step_033 (phase_092)
-- Leads to [Master of the Gallery Cornelius Publicvoice (D&D_References)]]
+- Requires [[Temple of the Sunken Cathedral]]
+- Leads to [[Master of the Gallery Cornelius Publicvoice (D&D_References)]]
 - Affected by
-- Related: [[Corruption Mystic Serafina Shadowheart 2
-- See also: [step_030 (phase_075)]]
+- Related: [[Corruption Mystic Serafina Shadowheart 2]]
 - Related:
-- See also: [[ITEM0142_Glorious_Shield_of_Shadows
-- Leads to [QUEST0024_Champion's_Gambit]]
+- See also: [[ITEM0142_Glorious_Shield_of_Shadows]]
 - Parallels [[The Unknown Original 2
 - Parallels [The Thornfield District]]
 - See also: [[step_042 (phase_074)
 - Affected by [ITEM00584_Adamantine_Cloak_of_the_Guardian]]
-- Influences [[Kelp Highway Security Forces
-- Originates from [Seven Shards Campaign Campaign Overview]]
+- Influences [[Seven Shards Campaign Campaign Overview]]
 - Affected by [[step_025 (phase_049)
 - Connects to [Next_Session_Goals]]
 - Leads to [[Assets Locations Location City [Surface Traders Surface Traders.svg]]

@@ -155,46 +155,21 @@ Offers deal too good to refuse
 - Special moves
 
 ## See Also
-- [[NPC01831_Alaric_Frostwhisper_the_Scholar
-- [NPC00250_Delara_Darkwater_the_Fallen]]
-- [[Marcus Shardbreaker Grimm_1
-- [NPC00949_Nerys_Underhill_the_Wise]]
-- [[NPC00844_Cedric_Blackstone_the_Fallen
-- [NPC01789_Vesper_Proudmore_the_Mystic]]
-- [[NPC00324_Idris_Hawthorne_the_Strong
-- [NPC00812_Kaelen_Jadeclaw_the_Seeker]]
-- [[NPC00283_Kaelen_Zephyrblade_the_Bold
-- [NPC00095_Fiora_Nightfall]]
-- [[NPC00969_Zephyr_Keenblade_the_Wise
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[NPC01994_Orion_Brightblade_the_Risen
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[NPC01599_Gavril_Keenblade_the_Strong
-- [NPC00388_Ysara_Goldleaf]]
-- [[NPC00451_Malakai_Ravenheart_the_Broken
-- [NPC01786_Zephyr_Jadeclaw_the_Mystic]]
-- [[Submersible_Schematic_Pressure_Gate_Scou
-- [Parliament of Shadows Player Guide.md]]
-- [[Combat_Encounter_Analysis
-- [Reputation_Tracker]]
-- [[03 Races
-- [NPC00804_Xander_Frostwhisper_the_Cunning]]
-- [[Ceasefire_Accord_Draft.md
-- [07 Customization Options]]
-- [[NPC00612_Thalia_Jadeclaw_the_Fallen
-- [Session_Recaps]]
-- [[MOC_Lore
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[NPC01831_Alaric_Frostwhisper_the_Scholar]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC00844_Cedric_Blackstone_the_Fallen]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[Combat_Encounter_Analysis]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[07 Customization Options]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[MOC_Lore]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -205,8 +180,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -222,15 +196,12 @@ Following magic item guidelines (WWT p.135-136):
 
 - Originates from [[Constitutional Monarchy 2
 - Influences [halfling-names-female-xge (tables)]]
-- Related: [[SPELL00082_Divine_Spell_83
-- Leads to [giant-fly-dmg (beast)]]
-- Originates from [[Public Works Director Boris Bridgewright
-- Compare with [The Deep Prophecies 2]]
+- Related: [[SPELL00082_Divine_Spell_83]]
+- Originates from [[Public Works Director Boris Bridgewright]]
 - Compare with [[ENC00177_Social_Encounter_178
 - Leads to
 - See also: [step_085 (phase_072)]]
-- Affected by [[witherbloom-primer-scc (items)
-- Parallels [Template_Species_Placeholder.png_2 (09_Templates)]]
+- Affected by [[Template_Species_Placeholder.png_2 (09_Templates)]]
 - See also: [[Sphere of Crushing Doom Xge
 - Related: [Assets Portraits Portrait NPC Surface Supremacists Surface Supremacists.svg]]
 - Originates from [[Sky Trader Zephyr Windcatcher
@@ -239,8 +210,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [step_052 (phase_012)]]
 - Originates from
 - Connects to
-- Influences [[Safe House Network
-- Affected by [LOC00037_Planes_Location_38]]
+- Influences [[LOC00037_Planes_Location_38]]
 - Leads to [[SPELL00161_Nature_Spell_162
 - See also: [Assets Locations Location City Temple Ward Temple Ward.svg]]
 - Compare with [[Obsidian Xdmg
@@ -252,48 +222,38 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[Portrait NPC the Deepmind Conspiracy V1 the Deepmind Conspiracy.svg_1 (Portraits)
 - Related: [Human Names Spanish Female Xge]]
 - Leads to
-- Originates from [[Lady Penelope Procedure (D&D_References)
-- See also: [Pressure & Weather Events]]
+- Originates from [[Lady Penelope Procedure (D&D_References)]]
 - Connects to [[step_060 (phase_063)
 - Related: [The Great Tidal Shrine]]
-- Leads to [[ENC00440_Combat_Encounter_441
-- Affected by [NPC01303_Aldric_Zephyrblade_the_Guardian]]
+- Leads to [[NPC01303_Aldric_Zephyrblade_the_Guardian]]
 - Related: [[Public Safety
 - Compare with [Portrait NPC High Priestess Marina Oracleguard V2 High Priestess Marina Oracleguard.svg_1 (Portraits)]]
-- Related: [[step_073 (phase_094)
-- Parallels [Surgery Master Dr Marcus Deptblade]]
+- Related: [[Surgery Master Dr Marcus Deptblade]]
 - Affected by [[step_035 (phase_054)
 - Affected by [The Crystal Cathedral]]
 - Connects to
-- Parallels [[Bottled Breath Pota
-- See also: [The Crystal Stock Exchange 2]]
+- Parallels [[The Crystal Stock Exchange 2]]
 - Leads to [[Portrait NPC Queen Morwyn Lumengarde V2 Queen Morwyn Lumengarde.svg
 - See also: [Memory Sharing Techniques (D&D_References)]]
-- Originates from [[Common Goods Market (D&D_References)
-- Requires [Old Tongue 2]]
-- Connects to [[NPC00942_Nerys_Silverleaf_the_Wanderer
-- Leads to [ancient-blue-dragon-xmm (dragon)]]
+- Originates from [[Common Goods Market (D&D_References)]]
+- Connects to [[NPC00942_Nerys_Silverleaf_the_Wanderer]]
 - Connects to [[Gentle Repose Xphb
 - Compare with [signet-ring (items)]]
-- Originates from [[Master Spy Shadows
-- Leads to [#GM Notes]]
+- Originates from [[Master Spy Shadows]]
 - Compare with [[Location City Current Navigation Techniques Current Navigation Techniques.svg
 - See also: [ITEM00158_Venomous_Crossbow_of_Power]]
 - Compare with
 - Related: [[Sorcerer Xphb Storm Sorcery Xge
 - Requires [QUEST00146_Main_Quest_147]]
-- See also: [[NPC00773_Urien_Blackstone_the_Bold
-- Requires [step_051 (phase_068)]]
+- See also: [[NPC00773_Urien_Blackstone_the_Bold]]
 - Leads to [[Truth Verification Magic
 - Connects to [Void Entity Banishment]]
-- Related: [[The Convergence Oracle (D&D_References)
-- Originates from [step_022 (phase_084)]]
+- Related: [[The Convergence Oracle (D&D_References)]]
 - Requires [[crossbow-bolt-case-xphb (items)
 - Originates from [summon-fey-xphb (spells)]]
 - Originates from [[step_049 (phase_028)
 - Related: [DUN00144_Dungeon_145]]
-- Related: [[step_074 (phase_084)
-- Compare with [NPC01832_Qadim_Dawnstrider_the_Wanderer]]
+- Related: [[NPC01832_Qadim_Dawnstrider_the_Wanderer]]
 - Influences [[divine-word-xphb (spells)
 - Connects to [Location City Ambassador Silk Bridgewater Ambassador Silk Bridgewater.svg]]
 - Compare with [[step_063 (phase_057)
@@ -302,22 +262,17 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [Memory Coral Reefs (D&D_References)]]
 - Influences [[The Awakened Grove Council 2
 - Leads to [human-names-polynesian-female-xge (tables)]]
-- Requires [[Keeper of the Dead, Sister Morwyn
-- Requires [DUN00147_Dungeon_148]]
-- Related: [[Corruption Mystic Serafina Shadowheart 2
-- Connects to [Human Names Chinese Male Xge]]
-- Requires [[Stormwind Supplies
-- Related: [Quest - The Merged Reality 2]]
+- Requires [[Keeper of the Dead, Sister Morwyn]]
+- Related: [[Corruption Mystic Serafina Shadowheart 2]]
+- Requires [[Quest - The Merged Reality 2]]
 - Related: [[cleric-xphb-grave-domain-xge (classes)
 - Compare with [Portrait NPC Queen Glacialis V1 Queen Glacialis.svg]]
-- Affected by [[step_007 (phase_051)
-- Connects to [LOC00094_Wilderness_Location_95]]
+- Affected by [[LOC00094_Wilderness_Location_95]]
 - Affected by [[step_044 (phase_040)
 - Originates from [FAC00068_Guilds_69]]
 - Connects to [[Multiverse 2
 - Originates from [Location City Quieting the Depths V1 Quieting the Depths.svg]]
-- Influences [[Triton Vgm
-- Leads to [Portal Mirror Mage 2]]
+- Influences [[Portal Mirror Mage 2]]
 - See also: [[Assets Locations Location City Magnus Ledgerkeep Magnus Ledgerkeep.svg
 - Influences [Crystal-Enhanced Businesses (D&D_References)]]
 

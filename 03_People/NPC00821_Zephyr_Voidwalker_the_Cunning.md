@@ -156,28 +156,19 @@ Seeks rare merchandise
 - Special moves
 
 ## See Also
-- [[NPC00250_Delara_Darkwater_the_Fallen
-- [NPC01483_Gavril_Zephyrblade_the_Fallen]]
-- [[NPC00582_Cedric_Dawnstrider
-- [NPC00174_Aldric_Silverleaf_the_Fallen]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC00388_Ysara_Goldleaf
-- [NPC00276_Ysara_Youngblood]]
-- [[NPC01682_Vesper_Blackstone_the_Guardian
-- [NPC01286_Xander_Proudmore_the_Bold]]
-- [[NPC00515_Baelor_Crystalbrook_the_Seeker
-- [Faction_Relationship_Web]]
-- [[Propaganda_Leaflet_Pearl_Guar
-- [NPC01989_Erasmus_Xendar_the_Strong]]
-- [[11 Spellcasting
-- [MOC_Lore]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[11 Spellcasting]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -195,9 +186,7 @@ Seeks rare merchandise
 
 - Parallels [[pack-saddle (items)
 - Affected by [random-urban-encounters (tables)]]
-- Influences [[step_026 (phase_032)
-- See also:
-- Leads to [The Crystal Hive Collective (D&D_References)]]
+- Influences [[The Crystal Hive Collective (D&D_References)]]
 - Affected by [[Assets Locations Location City the Wandering Atoll V1 the Wandering Atoll.svg
 - Influences [NPC00579_Zephyr_Hawthorne_the_Broken]]
 - Related: [[NPC01365_Vesper_Zephyrblade_the_Redeemed
@@ -211,28 +200,24 @@ Seeks rare merchandise
 - Originates from [location-city-harbor-wall-harbor-wall.svg]]
 - Affected by [[step_091 (phase_100)
 - Connects to [Item Artifact Travelers Clothes Xphb V5 Travelers Clothes Xphb.png]]
-- Parallels [[Quartermaster Judith Steadfast (D&D_References)
-- Originates from [Quest - The Seventh Song_1 (01_Adventures)]]
+- Parallels [[Quartermaster Judith Steadfast (D&D_References)]]
 - Affected by [[List Spells Optional Features Visions of
 - See also: [QUEST00152_Personal_Quest_153]]
-- Leads to [[folk-hero (backgrounds)
-- Related: [ENC00026_Environmental_Encounter_27]]
+- Leads to [[ENC00026_Environmental_Encounter_27]]
 - See also: [[step_069 (phase_081)
 - Influences [Elemental Spirit Fire Xphb]]
 - See also: [[Feats Phb
 - See also: [Location City Quill Precisequote Quill Precisequote.svg]]
 - Influences [[QUEST00154_Personal_Quest_155
 - Parallels [Assets Locations Location City Harbormaster Creedence Tidereader Harbormaster Creedence Tidereader.svg]]
-- Connects to [[Duke Sterling Truecrystal (D&D_References)
-- Influences [ITEM00635_Fortified_Cloak_of_Resistance]]
+- Connects to [[Duke Sterling Truecrystal (D&D_References)]]
 - Requires [[LORE00057_History_Entry_58
 - Leads to [The Transition Protocols]]
 - See also:
 - Connects to [[The Memory Pool
 - Parallels [Abyssal Spires]]
 - Related:
-- Compare with [[Void-warded Cloak (D&D_References)
-- Compare with [step_007 (phase_023)]]
+- Compare with [[Void-warded Cloak (D&D_References)]]
 - Compare with [[step_015 (phase_084)
 - Influences [Portrait NPC Captain Rex Ironhaul Captain Rex Ironhaul.svg]]
 - Requires [[LOC00067_Wilderness_Location_68
@@ -248,14 +233,12 @@ Seeks rare merchandise
 - Requires [[Session 1 the Queens Summons_1 (06_Sessions)
 - Parallels [Spell Gem Ruby Oota]]
 - Parallels
-- Influences [[Synthesis Combat Systems
-- Parallels [ENC00148_Environmental_Encounter_149]]
+- Influences [[ENC00148_Environmental_Encounter_149]]
 - Connects to [[step_045 (phase_051)
 - Connects to [Location City Pilgrimage Master Depth Guide Melancholy V1 Pilgrimage Master Depth Guide Melancholy.svg]]
 - Influences [[step_044 (phase_035)
 - Affected by [Assets Item Artifact Poisoners Kit Xphb V3 Poisoners Kit Xphb.png]]
-- Originates from [[The Hidden Auction House
-- Compare with [Weapons Trader Gareth Steelmerchant (D&D_References)]]
+- Originates from [[Weapons Trader Gareth Steelmerchant (D&D_References)]]
 - Affected by [[Portrait NPC Quest the Shadow Water Accords V2 Quest the Shadow Water Accords.svg
 - Originates from [Telepathy Xphb (variant-rules)]]
 - Requires
@@ -265,8 +248,7 @@ Seeks rare merchandise
 - Originates from [Portrait NPC Tidal Priest Marina Deepcurrent Tidal Priest Marina Deepcurrent.svg_1 (Portraits)]]
 - Parallels [[The Queen (D&D_References)
 - Related: [Location City Magical Engineer Reef Spellbreath Magical Engineer Reef Spellbreath.svg]]
-- Connects to [[Padded Armor Xphb
-- Connects to [QUEST00220_Side_Quest_221]]
+- Connects to [[QUEST00220_Side_Quest_221]]
 - Compare with [[Related Quest
 - Requires [Assets Locations Location City Community Organizations Community Organizations.svg]]
 - Requires [[Shadow-Touched Mine Foreman Brokk
@@ -276,12 +258,10 @@ Seeks rare merchandise
 - Requires [[Portrait NPC Captain Blackwater Captain Blackwater.svg
 - Requires
 - Affected by [Pepper Xdmg]]
-- Requires [[Memory Pearls (D&D_References)
-- Affected by [Chronomancer Paradox]]
+- Requires [[Memory Pearls (D&D_References)]]
 - Influences [[wall-of-sand-xge (spells)
 - Compare with [Map Map Floating Market Barges Floating Market Barges.svg]]
-- Leads to [[NPC01772_Aeliana_Frostwhisper_the_Broken
-- Leads to [QUEST00412_Side_Quest_413]]
+- Leads to [[NPC01772_Aeliana_Frostwhisper_the_Broken]]
 - Related: [[Echo-Who-Was-Elena (D&D_References)
 - Related: [Assets Locations Location City Shadow Market Canals Shadow Market Canals.svg]]
 - Parallels [[step_020 (phase_035)
@@ -290,8 +270,7 @@ Seeks rare merchandise
 - Connects to
 - See also: [NPC00795_Pyria_Emberfall_the_Lost]]
 - Related:
-- Related: [[step_077 (phase_055)
-- Related: [LOC00183_Cities_Location_184]]
+- Related: [[LOC00183_Cities_Location_184]]
 - Connects to [[Weapons Trader Gareth Steelmerchant 2
 
 ## Visual References

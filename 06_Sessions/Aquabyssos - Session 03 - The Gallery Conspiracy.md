@@ -55,7 +55,7 @@ date: depth: 1600
 duration_hours: 4
 encounters:
 - '[[[Memory Farmers]] Combat]]'
-- '[[[Screaming Tree Guardians]]'
+- '[[Screaming Tree Guardians]]'
 - '[[[[Shadow Surgeon [Strike Team]]]]'
 
 gold_gained: 600
@@ -67,16 +67,16 @@ items_gained:
 
 locations_visited:
 - '[[Gallery of [Frozen Waves]]'
-- '[[[Screaming Gardens]]'
-- '[[[The Memory Meadows]]'
-- '[[[Reflection Pools]]'
+- '[[Screaming Gardens]]'
+- '[[The Memory Meadows]]'
+- '[[Reflection Pools]]'
 
 memory_exposure: true
 npcs_met:
-- '[[[The Conductor]]'
-- '[[[Memory Farmer Thane]]'
-- '[[[Reflection Broker Mirrors]]'
-- '[[[Shadow Surgeon Apprentice]]'
+- '[[The Conductor]]'
+- '[[Memory Farmer Thane]]'
+- '[[Reflection Broker Mirrors]]'
+- '[[Shadow Surgeon Apprentice]]'
 
 obsidian UIMode: preview
 players: []
@@ -90,12 +90,12 @@ plot_threads:
 primary_location: '[[Gallery of [Frozen Waves]]]]'
 quests_completed: []
 quests_progressed:
-- '[[[Investigate Shadow Conspiracy]]'
+- '[[Investigate Shadow Conspiracy]]'
 - '[[[[Discover Shadow [Market Location]]]]'
 
 quests_started:
-- '[[[Rescue Senator Glaucus]]'
-- '[[[Investigate Shadow Surgeons]]'
+- '[[Rescue Senator Glaucus]]'
+- '[[Investigate Shadow Surgeons]]'
 
 session: Session 03 Aquabyssos
 shadow_level_change: 1
@@ -163,7 +163,7 @@ Both versions' shadows:
 - Performance **DC 15**: Harmonize with screams for safe passage
 - Constitution **DC 14**: Endure the acoustic assault
 - Investigation **DC 16**: Decode scream patterns for information
-- Failure: [Attract Screaming]] [[Tree Guardians ### Location: [[Gallery of [Frozen Waves]]]]
+- Failure: [Attract Screaming]] [[Screaming Tree Guardians]]]]
 
 **Atmosphere**: Tsunami waves frozen mid-crash, each one a different temporal moment. Time moves differently in each wave. ### [[Temporal Wave Navigation
 
@@ -195,7 +195,7 @@ Both versions' shadows:
 - Can interact with frozen scene
 - [[Senator Glaucus mid-kidnapping
 - Identify his captors (memory farmers)
-- Steal shadow surgeon tools ### Location: [[[Memory Meadows]] [[Black Market]]
+- Steal shadow surgeon tools ### Location: [[[Memory Meadows]] [[Black Market Deal]]
 
 **Atmosphere**: Fields of kelp storing stolen memories, each strand a life's worth of experiences. ### [[Memory Farmer Thane
 

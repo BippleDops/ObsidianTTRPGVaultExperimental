@@ -172,42 +172,24 @@ Caravan needs guards
 - Special moves
 
 ## See Also
-- [[NPC00820_Thalia_Nightfall_the_Risen
-- [NPC00749_Xander_Quicksilver]]
-- [[NPC01290_Pyria_Ashford_the_Broken
-- [NPC00844_Cedric_Blackstone_the_Fallen]]
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [NPC00644_Nerys_Dawnstrider_the_Wanderer]]
-- [[NPC01594_Fiora_Proudmore_the_Seeker
-- [NPC00920_Malakai_Ravenheart_the_Guardian]]
-- [[NPC01577_Orion_Moonshadow_the_Seeker
-- [NPC00272_Rhiannon_Brightblade]]
-- [[NPC01805_Faelyn_Goldleaf_the_Wanderer
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[NPC00276_Ysara_Youngblood
-- [NPC01348_Xander_Zephyrblade_the_Wise]]
-- [[Archdruid Thornweaver
-- [NPC00663_Alaric_Dawnstrider_the_Strong]]
-- [[NPC01502_Urien_Underhill_the_Scholar
-- [NPC00542_Corvus_Oakenshield_the_Strong]]
-- [[NPC00395_Aeliana_Thornweave
-- [NPC00415_Gareth_Winterborn_the_Bold]]
-- [[NPC01994_Orion_Brightblade_the_Risen
-- [NPC01476_Qadim_Stormwind_the_Wise]]
-- [[NPC00259_Delara_Proudmore
-- [Submersible_Schematic_Pressure_Gate_Scou]]
-- [[Ceasefire_Accord_Draft.md
-- [NPC01877_Hestara_Moonshadow_the_Mystic]]
-- [[NPC00739_Gavril_Ashford_the_Bold
-- [What You Know - Abyssos Prime.md]]
-- [[Reputation_Tracker
-- [09 Adventuring]]
-- [[03 Races
-- [07 Customization Options]]
-- [[01 Introduction Welcome to Adventure
-- [11 Rules Glossary]]
-- [[Count_Strahd_von_Zarovich
-- [MASTER_MOC]]
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[NPC00844_Cedric_Blackstone_the_Fallen]]
+- [[NPC00644_Nerys_Dawnstrider_the_Wanderer]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[Reputation_Tracker]]
+- [[07 Customization Options]]
+- [[01 Introduction Welcome to Adventure]]
+- [[Count_Strahd_von_Zarovich]]
 - [[Complete_NPC_Matrix.md
 -
 
@@ -229,29 +211,22 @@ Caravan needs guards
 ## Connections
 
 - Compare with [Location City the Floating Markets of Nereidios the Floating Markets of Nereidios.svg]]
-- Leads to [[step_001 (phase_090)
-- Compare with [NPC01230_Kaelen_Proudmore_the_Fallen]]
-- Compare with [[Captain Marina Truewater (D&D_References)
-- Originates from [ITEM00911_Lesser_Potion_of_Vigor]]
+- Leads to [[NPC01230_Kaelen_Proudmore_the_Fallen]]
+- Compare with [[Captain Marina Truewater (D&D_References)]]
 - Leads to
 - Affected by [[Thugs 2
 - Related: [Location City Historian Lisa Outreach V1 Historian Lisa Outreach.svg]]
 - Originates from [[seeking-spell-xphb (optional-features)
 - Affected by [Constellation Codex (D&D_References)]]
-- Compare with [[ENC0070_Random_Encounter_71
-- Related: [step_073 (phase_015)]]
-- Influences [[Currency_Guide_Scrip_and_Shard
-- Influences [Settlements by Size Xdmg]]
+- Compare with [[ENC0070_Random_Encounter_71]]
+- Influences [[Currency_Guide_Scrip_and_Shard]]
 - Compare with [[step_035 (phase_016)
 - Requires [location-city-umberlee-v1-umberlee.svg]]
-- Leads to [[MON00136_Undead_Creature_137
-- Connects to [Quandrix Student Scc]]
-- Related: [[Deep Current Society
-- Parallels [8 Credits]]
+- Leads to [[MON00136_Undead_Creature_137]]
+- Related: [[Deep Current Society]]
 - Affected by [[step_023 (phase_025)
 - Related: [list-spells-races-gith-githzerai-mtf (lists)]]
-- See also: [[The Deepwater Current 2
-- Requires [Master Investigator Lysander Truthweaver]]
+- See also: [[Master Investigator Lysander Truthweaver]]
 - Requires [[step_010 (phase_071)
 - Influences [Disadvantage Xphb]]
 - Related: [[step_014 (phase_046)
@@ -260,8 +235,7 @@ Caravan needs guards
 - Compare with [step_095 (phase_095)]]
 - Leads to [[LORE00302_History_Entry_303
 - Influences [ITEM01000_Greater_Herb_of_Clarity]]
-- Affected by [[Aquabyssos Depth Caste System
-- Related: [The Navigation Post 2]]
+- Affected by [[Aquabyssos Depth Caste System]]
 - Parallels [[shield-of-the-cavalier-xdmg (items)
 - Requires [Portrait NPC Order of the Shattered Crown Order of the Shattered Crown.svg]]
 - Leads to [[LOC00192_Cities_Location_193
@@ -274,8 +248,7 @@ Caravan needs guards
 - Influences [grasp-of-hadar-xge (optional-features)]]
 - Connects to [[Star Spawn Larva Mage Mpmm
 - Compare with [step_020 (phase_031)]]
-- See also: [[clay-golem-xmm (construct)
-- Compare with [NPC00977_Zephyr_Emberfall_the_Seeker]]
+- See also: [[NPC00977_Zephyr_Emberfall_the_Seeker]]
 - Parallels [[Assets Locations Location City Pressure Brewing Technology V1 Pressure Brewing Technology.svg
 - Originates from [forgotten-realms-ilmater (deities)]]
 - Affected by [[location-city-gem-deepseeker-gem-deepseeker.svg
@@ -284,10 +257,8 @@ Caravan needs guards
 - Compare with [ENC0061_Random_Encounter_62]]
 - Compare with [[Thornwick Hall (D&D_References)
 - Compare with [ENC00262_Social_Encounter_263]]
-- Influences [[Nabassu Mpmm
-- Influences [QUEST00191_Main_Quest_192]]
-- Compare with [[LORE0015_History_of_the_Ancient_Pact
-- Related: [SPELL00117_Arcane_Spell_118]]
+- Influences [[QUEST00191_Main_Quest_192]]
+- Compare with [[LORE0015_History_of_the_Ancient_Pact]]
 - Parallels [[Assets Portraits Portrait NPC Duke Theron Depthguard Duke Theron Depthguard.svg
 - Leads to [Aquabyssos Shadow Pools]]
 - Originates from [[Assets Locations Location City Administrative Wing Administrative Wing.svg
@@ -303,24 +274,20 @@ Caravan needs guards
 - See also: [[gnome-xphb (races)
 - Requires
 - Affected by [Assets Locations Location City the Lost Shipment V1 the Lost Shipment.svg]]
-- Influences [[Aria the Windwhisperer
-- Influences [Quick_NPCs]]
+- Influences [[Aria the Windwhisperer]]
 - See also: [[step_014 (phase_075)
 - Originates from [Quest - The Lost Verse]]
 - Affected by [[Assets Locations Location City Memoriam Keeper Marcus Remembrance V1 Memoriam Keeper Marcus Remembrance.svg
 - Requires [Creature Size and Space Xphb]]
-- Influences [[SPELL00117_Divine_Spell_118
-- See also: [Parliament Loyalists (D&D_References)]]
-- Connects to [[ENC00177_Combat_Encounter_178
-- Requires [LOC0074_UpperPeak]]
+- Influences [[Parliament Loyalists (D&D_References)]]
+- Connects to [[ENC00177_Combat_Encounter_178]]
 - See also: [[step_077 (phase_046)
 - Influences [The Silent Marketplace]]
 - Originates from [[mounts-and-vehicles-mounts-and-other-animals-phb
 - Leads to [step_051 (phase_048)]]
 - Connects to [[step_010 (phase_059)
 - Connects to [ITEM00982_Refined_Elixir_of_Clarity]]
-- Related: [[Item Catalog
-- Affected by [QUEST00337_Side_Quest_338]]
+- Related: [[QUEST00337_Side_Quest_338]]
 - See also: [[S_009_Void_Moan
 - Influences [step_049 (phase_007)]]
 - Compare with [[Lich Xmm (undead)

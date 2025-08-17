@@ -173,18 +173,10 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC01943_Xander_Proudmore_the_Fallen
-- [NPC00285_Xander_Goldleaf_the_Mystic]]
-- [[NPC00300_Urien_Zephyrblade
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[11 Rules Glossary
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[11 Rules Glossary]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -211,26 +203,20 @@ Modifications:
 - Leads to
 - Compare with [[Zircon Xdmg
 - Affected by [Sphinx of Valor Xmm]]
-- Requires [[The Silent Watcher
-- Affected by [LOC00172_Wilderness_Location_173]]
-- Compare with [[Portrait NPC Sir ... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Parallels [arcane-focus-xphb (items)]]
-- Leads to [[step_074 (phase_075)
-- Related: [SPELL00122_Divine_Spell_123]]
+- Requires [[LOC00172_Wilderness_Location_173]]
+- Compare with [[Portrait NPC Sir ... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Leads to [[SPELL00122_Divine_Spell_123]]
 - Compare with [[Portrait NPC Captain Thorne Darkwater Captain Thorne Darkwater.svg
 - Compare with [NPC01669_Solas_Silverleaf_the_Bold]]
-- Connects to [[LORE0078_Myth_of_the_Fallen_Star
-- Leads to [Dancing Sword Xdmg]]
-- Influences [[[The Trencher Folk (D&D_References)]]
+- Connects to [[LORE0078_Myth_of_the_Fallen_Star]]
+- Influences [[The Trencher Folk (D&D_References)]]
 - Parallels [[NPC01876_Malakai_Darkwater_the_Risen
 - Connects to [calligraphers-supplies-xphb (items)]]
-- Affected by [[Sacred Drowning Ritual
-- Influences [Craftmaster Engineer Gearwhispe (D&D_References)]]
+- Affected by [[Craftmaster Engineer Gearwhispe (D&D_References)]]
 - Related: [[step_011 (phase_055)
 - Requires [Hirelings Xphb]]
 - Requires
-- Influences [[step_011 (phase_064)
-- See also: [` to search for existing notes to link]]
+- Influences [[` to search for existing notes to link]]
 - Affected by [[step_047 (phase_051)
 - Leads to [portrait-npc-the-emergence-v1-the-emergence.svg]]
 - Leads to [[Conditions_Reference (02_Worldbuilding)
@@ -242,25 +228,21 @@ Modifications:
 - Requires [Quest - Neural Revolution]]
 - Influences [[Archmage Deflector Windturner
 - Parallels [EVENT00002_Political_Event_3]]
-- Requires [[Weather_And_Seasons (D&D_References)
-- Related: [[[Merchant]] Truth Society (D&D_References)]]
-- See also: [[step_055 (phase_059)
-- Connects to [LORE0082_Prophecy_of_the_Sundering]]
+- Requires [[Weather_And_Seasons (D&D_References)]] Truth Society (D&D_References)]]
+- See also: [[LORE0082_Prophecy_of_the_Sundering]]
 - Related: [[The Audit Tower (D&D_References)
 - Influences
 - Leads to [Theological Seminaries]]
 - Leads to
-- Affected by [[[Timeline of the Drowning]]
+- Affected by [[Timeline of the Drowning]]
 - Compare with [[Religious Communities 2
 - Influences [Item Artifact Poisoners Kit Xphb V7 Poisoners Kit Xphb.png]]
 - Leads to [[Forgotten Realms Chauntea
 - Connects to [Send Message]]
-- Influences [[Sphere of Crushing Doom Xge
-- Affected by [High Chancellor Nerissa Deepcurrent]]
+- Influences [[High Chancellor Nerissa Deepcurrent]]
 - Influences [[12_Research_D&D_Statblocks_The_Nameless_Auditor
 - Compare with [Common Idioms and Sayings]]
-- Originates from [[Book of Exalted Deeds Xdmg
-- Related: [NPC00309_Lyanna_Xendar_the_Cunning]]
+- Originates from [[NPC00309_Lyanna_Xendar_the_Cunning]]
 - Requires [[banderhobb-mpmm (monstrosity)
 - Influences [step_055 (phase_034)]]
 - Connects to [[Portrait NPC Quest the Divine Test V2 Quest the Divine Test.svg
@@ -272,17 +254,14 @@ Modifications:
 - See also: [LORE00213_Prophecies_Entry_214]]
 - Affected by [[The Great Mother Tree 2
 - Leads to [[The [Sunken Palace]]]]
-- Requires [[Risk Assessor Probability
-- Requires [nonplayer-character-xphb (variant-rules)]]
+- Requires [[nonplayer-character-xphb (variant-rules)]]
 - Originates from [[Assign Hit Dice Hit Dice by Size
 - Connects to [[Location City [Chronomancer Paradox]] Chronomancer Paradox.svg]]
 - Influences [[step_030 (phase_060)
 - Related: [Firenewt Warrior Mpmm]]
-- Influences [[Unknown Contact
-- Connects to [Quest - Economic Development 2]]
+- Influences [[Quest - Economic Development 2]]
 - Influences [[Location City [Chronokeeper Tide Timestable V1 Chronokeeper Tide Timestable.svg]]
-- Influences [[archelon-xmm (beast)
-- Leads to [NPC01023_Delara_Stormwind_the_Guardian]]
+- Influences [[NPC01023_Delara_Stormwind_the_Guardian]]
 - Related: [[Assets Handouts Handout Handout Smuggler Ledger Page V3 Smuggler Ledger Page.png
 - Connects to
 - Parallels [step_084 (phase_050)]]
@@ -294,12 +273,10 @@ Modifications:
 - Requires
 - Related: [[Quest - Mother's Mercy
 - Parallels [mirror-of-life-trapping-xdmg (items)]]
-- Affected by [[step_057 (phase_081)
-- Originates from [Voidwhisper Diplomat Seraphina Darkgrace 2]]
+- Affected by [[Voidwhisper Diplomat Seraphina Darkgrace 2]]
 - Parallels [[step_083 (phase_023)
 - Connects to [[[The Last Words]] (D&D_References)]]
-- Compare with [[Financial Institutions
-- Affected by [Crown Fragment (D&D_References)]]
+- Compare with [[Crown Fragment (D&D_References)]]
 - Influences [[step_074 (phase_019)
 
 ## Visual References

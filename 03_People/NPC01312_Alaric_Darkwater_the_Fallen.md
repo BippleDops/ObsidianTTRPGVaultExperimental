@@ -168,24 +168,14 @@ Modifications:
 
 ## See Also
 - [NPC01247_Xander_Zephyrblade_the_Risen]]
-- [[NPC00095_Fiora_Nightfall
-- [NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[Archdruid Thornweaver
-- [NPC01757_Nerys_Silverleaf_the_Strong]]
-- [[Measurement_Guide_Depth_and_Pressur
-- [Parliamentary_Voting_Guide]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[Measurement_Guide_Depth_and_Pressur]]
 - [[Reference.md
 - [10 Combat]]
-- [[11 Rules Glossary
-- [NPC00599_Cedric_Lightbringer_the_Wise]]
-- [[MOC_Rules
-- [NPC01792_Rhiannon_Ironwood_the_Scholar]]
-- [[Combat_Encounter_Analysis
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[Combat_Encounter_Analysis]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -202,10 +192,9 @@ Modifications:
 - Parallels [find-traps-xphb (spells)]]
 - Affected by [[NPC00100_Faelyn_Ravenheart
 - Compare with [The Final Forgetting 2]]
-- See also: [[step_045 (phase_099)
-- Connects to [Crystal Plague Mechanics (D&D_References)]]
-- Compare with [[[The Deepwater Current (D&D_References)]]
-- Originates from [[[The Last Dance 2]]
+- See also: [[Crystal Plague Mechanics (D&D_References)]]
+- Compare with [[The Deepwater Current (D&D_References)]]
+- Originates from [[The Last Dance 2]]
 - Compare with [[step_058 (phase_031)
 - Connects to [Common Wine Bottle Xphb]]
 - Originates from [[ITEM00544_Ethereal_Shield_of_Grace
@@ -217,11 +206,8 @@ Modifications:
 - Compare with [Mace of Smiting Xdmg]]
 - Influences [[Invisibility Cloaks
 - Affected by [Supervisor Voidwharf]]
-- Connects to [[Convergence Engine 2
-- Influences [NPC00676_Qadim_Nightfall_the_Seeker]]
-- Compare with [[step_039 (phase_005)
-- Compare with
-- Requires [Merchant Lord Cornelius Generous (D&D_References)]]
+- Connects to [[NPC00676_Qadim_Nightfall_the_Seeker]]
+- Compare with [[Merchant Lord Cornelius Generous (D&D_References)]]
 - Connects to [[step_028 (phase_039)
 - Influences [[Assets Locations [Location City Pressure Tube System Pressure Tube System.svg]]]]
 - Connects to [[World_Map_Layers 2 (D&D_References)
@@ -237,15 +223,12 @@ Modifications:
 - Leads to [step_066 (phase_083)]]
 - Compare with [[handling-mobs-mob-attacks (tables)
 - Leads to [Carousing Xge]]
-- Leads to [[Hadal-Resistant Equipment
-- Related: [step_018 (phase_079)]]
+- Leads to [[Hadal-Resistant Equipment]]
 - Originates from [[ITEM00518_Mithril_Helm_of_Resistance
 - See also: [EVENT00010_Natural_Event_11]]
-- Influences [[Crystal Architecture Philosophy
-- Related: [[[Innkeeper Marcus Thorne]] (D&D_References)]]
-- Connects to [[LOC00228_Wilderness_Location_229
-- See also: [NPC01715_Kaelen_Stormwind_the_Redeemed]]
-- See also: [[[Aethermoor Social Customs]]
+- Influences [[Crystal Architecture Philosophy]] (D&D_References)]]
+- Connects to [[NPC01715_Kaelen_Stormwind_the_Redeemed]]
+- See also: [[Aethermoor Social Customs]]
 - Parallels [[step_096 (phase_095)
 - Compare with [roleplaying-a-beholder-beholder-bonds-vgm (tables)]]
 - Parallels [[Variant Spell Points Spell Points by Level
@@ -256,15 +239,13 @@ Modifications:
 - See also: [step_037 (phase_039)]]
 - Compare with [[Giant Insect Wasp Xphb
 - See also: [step_056 (phase_050)]]
-- Leads to [[QUEST00195_Personal_Quest_196
-- Influences [flour-xdmg (items)]]
+- Leads to [[QUEST00195_Personal_Quest_196]]
 - Requires [[Master Cartographer Current Deepmap
 - Connects to [[[Retired Captain Bron Saltbeard]] 2]]
 - See also:
 - See also:
 - Leads to [[Determine [Aquabyssos (Lore)]]
-- See also: [[README
-- Related: [[Location City [Reality Anchoring Technology]] V1 Reality Anchoring Technology.svg]]
+- See also: [[Reality Anchoring Technology]] V1 Reality Anchoring Technology.svg]]
 - Connects to [[step_046 (phase_036)
 - Originates from [DUN00145_Dungeon_146]]
 - See also: [[giant-eagle-xmm
@@ -287,18 +268,15 @@ Modifications:
 - Leads to
 - Parallels [[ITEM01122_Concentrated_Crystal_of_Swiftness
 - Parallels [Creature Creature Young Green Dragon Xmm Young Green Dragon Xmm.png]]
-- Leads to [[zaratan-mpmm (elemental)
-- Requires [Arcane Master Voidweav (D&D_References)]]
+- Leads to [[Arcane Master Voidweav (D&D_References)]]
 - Compare with [[forgotten-realms-loviatar (deities)
 - Affected by [QUEST00163_Side_Quest_164]]
 - Leads to [[Marcus Shardbreaker Grimm
 - Related: [[Assets Locations Location City [Ancient Echo Truthfinder]] Ancient Echo Truthfinder.svg]]
-- Connects to [[step_085 (phase_012)
-- See also: [Quest - The Great Census 2]]
+- Connects to [[Quest - The Great Census 2]]
 - Leads to [[gray-ooze-xmm
 - Compare with [list-spells-classes-oath-of-vengeance-xphb (lists)]]
-- Connects to [[Methane Forests
-- Originates from [NPC01303_Aldric_Zephyrblade_the_Guardian]]
+- Connects to [[NPC01303_Aldric_Zephyrblade_the_Guardian]]
 
 ## Visual References
 ![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png

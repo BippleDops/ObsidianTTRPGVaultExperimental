@@ -203,16 +203,13 @@ Following magic item guidelines (WWT p.135-136):
 ## Connections
 
 - Parallels [step_047 (phase_009)]]
-- Parallels [[Goldwave Financial Offices
-- Related: [step_040 (phase_061)]]
+- Parallels [[Goldwave Financial Offices]]
 - See also: [[step_079 (phase_079)
 - Compare with [ITEM01146_Greater_Powder_of_Clarity]]
 - Related: [[Shadow Nullification Field
 - Related: [QUEST00197_Side_Quest_198]]
-- Compare with [[The Phantom Docks
-- Related: [LOC00268_Dungeons_Location_269]]
-- Requires [[QUEST00199_Personal_Quest_200
-- Influences [NPC00946_Fiora_Proudmore_the_Fallen]]
+- Compare with [[LOC00268_Dungeons_Location_269]]
+- Requires [[NPC00946_Fiora_Proudmore_the_Fallen]]
 - Leads to [[The Throne Room (D&D_References)
 - Leads to [ITEM00660_Mithril_Leather_of_Protection]]
 - Parallels [[warlock-xphb-great-old-one-patron-xphb (classes)
@@ -220,8 +217,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[Assets Locations Location City Registry Keeper Mordecai Truthbane Registry Keeper Mordecai Truthbane.svg
 - Affected by [Scene Scene Storm Approaching the Airship Storm Approaching the Airship.png]]
 - Compare with
-- Related: [[Elven Tethrin Veralde Mtf
-- Influences [NPC00671_Cedric_Goldleaf_the_Mystic]]
+- Related: [[NPC00671_Cedric_Goldleaf_the_Mystic]]
 - Influences [[Language Evolution Tracker
 - Connects to
 - Influences [sled-dog-rot (beast)]]
@@ -237,28 +233,22 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [QUEST00168_Side_Quest_169]]
 - See also: [[step_064 (phase_023)
 - Originates from [Portrait NPC Blackwater Estate V2 Blackwater Estate.svg]]
-- Affected by [[step_001 (phase_019)
-- Connects to [The Deep Patrol (D&D_References)]]
-- Related: [[step_076 (phase_069)
-- Originates from [Aquabyssos Medical University 2]]
+- Affected by [[The Deep Patrol (D&D_References)]]
+- Related: [[Aquabyssos Medical University 2]]
 - Affected by [[Scene Scene the Party S First Glimpse of Abyssos Prime V1 the Party S First Glimpse of Abyssos Prime.png
 - Affected by [Assets Locations Location City Pressure Gems Pressure Gems.svg]]
-- Influences [[ENC00438_Combat_Encounter_439
-- See also: [Crystal Caves of Aethermoor (D&D_References)]]
+- Influences [[Crystal Caves of Aethermoor (D&D_References)]]
 - See also: [[giant-toad-xmm
 - Requires [Aboleth Memories]]
 - Parallels [[Assets Locations Location City the Noble Quarter Market the Noble Quarter Market.svg
 - Originates from [step_048 (phase_015)]]
-- Related: [[Master Cartographer Current Deepmap
-- Connects to [ENC00223_Social_Encounter_224]]
-- Related: [[Deep Sea Research Facilities
-- Leads to [Circle of Nature's Balance (D&D_References)]]
+- Related: [[Master Cartographer Current Deepmap]]
+- Related: [[Circle of Nature's Balance (D&D_References)]]
 - Compare with [[Symbol Heraldry the Umbral Exchange the Umbral Exchange.svg
 - Leads to [FAC00035_Guilds_36]]
 - Parallels [[item-properties (CLI_Reference)
 - Related: [step_094 (phase_031)]]
-- See also: [[Chancellor_Octavius.png
-- Originates from [International Crystal Trade Associatio]]
+- See also: [[International Crystal Trade Associatio]]
 - Influences [[egyptian-re-horakhty (deities)
 - Connects to [LOC00226_Cities_Location_227]]
 - Connects to
@@ -270,9 +260,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [thunderwave-xphb (spells)]]
 - Originates from [[step_069 (phase_044)
 - Requires [magma-mephit-xmm (elemental)]]
-- Influences [[step_092 (phase_058)
-- Related:
-- Leads to [downtime-activity-carousing-xge (variant-rules)]]
+- Influences [[downtime-activity-carousing-xge (variant-rules)]]
 - Requires [[Assets Locations Location City Symphony of the Abyss Recipe Symphony of the Abyss Recipe.svg
 - Parallels [Portrait NPC Pirate Captain Blacktide V2 Pirate Captain Blacktide.svg]]
 - Connects to [[Timeline of Crimes (D&D_References)
@@ -292,12 +280,10 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to
 - See also: [[LOC00058_Planes_Location_59
 - Affected by [LORE00219_Legends_Entry_220]]
-- Related: [[Serenity Stillwater (D&D_References)
-- Influences [Leviathan Shrines]]
+- Related: [[Serenity Stillwater (D&D_References)]]
 - See also: [[Conceptual Being #7
 - Connects to [ITEM00696_Warded_Shield_of_the_Guardian]]
-- Leads to [[Quest - Liberation of The Deepmind
-- Affected by [Cleric Xphb Nature Domain]]
+- Leads to [[Quest - Liberation of The Deepmind]]
 - Compare with [[The Shadow Exchange
 - Connects to [False Breather 2]]
 - Influences [[step_068 (phase_048)

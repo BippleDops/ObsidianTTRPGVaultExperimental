@@ -174,60 +174,29 @@ Modifications:
 
 ## See Also
 - [NPC01082_Fiora_Ashford_the_Fallen]]
-- [[NPC00917_Brenna_Oakenshield_the_Seeker
-- [NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[NPC00920_Malakai_Ravenheart_the_Guardian
-- [NPC00129_Gareth_Jadeclaw]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC01632_Qadim_Darkwater_the_Guardian]]
-- [[NPC00307_Dara_Proudmore_the_Seeker
-- [NPC01943_Xander_Proudmore_the_Fallen]]
-- [[NPC00858_Zephyr_Silverleaf_the_Wanderer
-- [NPC00388_Ysara_Goldleaf]]
-- [[NPC00451_Malakai_Ravenheart_the_Broken
-- [NPC01577_Orion_Moonshadow_the_Seeker]]
-- [[NPC00663_Alaric_Dawnstrider_the_Strong
-- [NPC00976_Alaric_Quicksilver_the_Strong]]
-- [[NPC01970_Brenna_Dawnstrider_the_Wise
-- [NPC01745_Felicia_Oakenshield_the_Scholar]]
-- [[NPC01849_Kaelen_Silverleaf_the_Scholar
-- [NPC01831_Alaric_Frostwhisper_the_Scholar]]
-- [[NPC01937_Felicia_Silverleaf_the_Wanderer
-- [NPC01057_Pyria_Quicksilver_the_Scholar]]
-- [[NPC01367_Lyanna_Xendar_the_Wise
-- [NPC00885_Kaelen_Xendar_the_Lost]]
-- [[Depth_Adapted_Background
-- [Party_Inventory]]
-- [[Player_Portal.md
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
-- [[Ritual_Timing_Wheel_Convergenc
-- [Trade_Route_Map_Aquabyssos_to_Aethermoor]]
-- [[Trade_Route_Chart_Port_Meridia
-- [NPC00550_Xander_Stormwind_the_Cunning]]
-- [[Basic_Rules
-- [13 Conditions]]
-- [[World_Primer.md
-- [NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01831_Alaric_Frostwhisper_the_Scholar]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]
+- [[Depth_Adapted_Background]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[13 Conditions]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
 - [[11 Rules Glossary
 - [Welcome_to_Aquabyssos.md]]
-- [[NPC01290_Pyria_Ashford_the_Broken
-- [NPC01012_Solas_Darkwater_the_Strong]]
-- [[MOC_Lore
-- [NPC01201_Felicia_Ironwood_the_Bold]]
-- [[NPC00300_Urien_Zephyrblade
-- [NPC00599_Cedric_Lightbringer_the_Wise]]
-- [[MOC_Quests
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[MOC_Quests]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -237,8 +206,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -267,8 +235,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [Disadvantage Xphb]]
 - See also: [[Gith Tables Githyanki Personality Traits Mtf
 - See also: [[Assets Art Random Encounter Tables [Aethermoor]].png]]
-- Related: [[Entertainers Pack Xphb
-- See also: [LOC00060_Wilderness_Location_61]]
+- Related: [[LOC00060_Wilderness_Location_61]]
 - Parallels [[gauntlets-of-ogre-power-xdmg (items)
 - Connects to [Noble Culture and Etiquette]]
 - Connects to [[Potion of Fire Resistance Xdmg
@@ -281,35 +248,29 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [ioun-stone-leadership-xdmg (items)]]
 - Requires [[FAC00006_Cults_7
 - Originates from [EVENT00066_Magical_Event_67]]
-- Leads to [[NPC01010_Ysara_Frostwhisper_the_Redeemed
-- Connects to
-- See also: [Crystal_Singer_Bard]]
+- Leads to [[NPC01010_Ysara_Frostwhisper_the_Redeemed]]
 - Compare with [[Location City [The Pressure Crown V1 the Pressure Crown.svg]]
-- Originates from [[step_050 (phase_042)
-- Affected by [NPC0085_Fiora_Goldleaf_the_Merciful]]
+- Originates from [[NPC0085_Fiora_Goldleaf_the_Merciful]]
 - Connects to [[arcane-focus-xphb (items)
 - Leads to [[Location City [Crown of Eternal Ice]] Crown of Eternal Ice.svg]]
 - Connects to [[FAC00090_Guilds_91
 - Requires [step_046 (phase_032)]]
-- Parallels [[Cult_and_Religious_Guide
-- Parallels [10 Appendix B Creature Stat Blocks]]
+- Parallels [[10 Appendix B Creature Stat Blocks]]
 - Requires [[EVENT00011_Political_Event_12
 - Requires [ITEM00686_Mithril_Helm_of_Grace]]
-- Influences [[step_012 (phase_038)
-- Compare with [NPC01773_Drusilla_Silverleaf_the_Wanderer]]
+- Influences [[NPC01773_Drusilla_Silverleaf_the_Wanderer]]
 - Compare with [[Trade Union
 - Influences [[Assets Locations Location City [Seeds of the Past]] V1 Seeds of the Past.svg]]
 - Parallels
 - Leads to [[Portrait NPC Marcus Shardbreaker Grimm Marcus Shardbreaker Grimm.svg
 - See also: [Ring of Elemental Command Water Xdmg]]
-- Influences [[Crafter Xphb
-- Parallels [QUEST00169_Personal_Quest_170]]
+- Influences [[QUEST00169_Personal_Quest_170]]
 - Affected by
 - Influences [[step_060 (phase_041)
 - Originates from [Corallion (D&D_References)]]
 - Related: [[Professor Euclid Mindmaze
 - Affected by [figurine-of-wondrous-power-ivory-goats-xdmg (items)]]
-- Compare with [[[Poet Laureate Tidal Wordsmith 2]]
+- Compare with [[Poet Laureate Tidal Wordsmith 2]]
 - Originates from [[The Scholar's Guild
 - Leads to [Difficult Terrain Xphb]]
 - Leads to [[Portrait NPC Free Captains Alliance V1 Free Captains Alliance.svg
@@ -321,8 +282,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [The Forgotten Archive]]
 - Parallels [[sling-bullets-20-xphb (items)
 - Related: [[Location City [The Sundered Vaults]] V1 the Sundered Vaults.svg]]
-- Connects to [[step_079 (phase_044)
-- Influences [SPELL00107_Divine_Spell_108]]
+- Connects to [[SPELL00107_Divine_Spell_108]]
 - Parallels [[Strahd Von Zarovich Cos
 - See also: [step_069 (phase_061)]]
 - Related: [[Gith Names Githyanki Male Mtf
@@ -331,17 +291,15 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [LORE00048_Legends_Entry_49]]
 - Originates from [[Campaign_Timeline_Tracker
 - Influences [step_018 (phase_028)]]
-- Requires [[[Quill Precisequote (D&D_References)]]
-- Connects to [[NPC00697_Jorah_Stormwind_the_Mystic
-- Leads to [Art_Brief_Database (Assets)]]
+- Requires [[Quill Precisequote (D&D_References)]]
+- Connects to [[NPC00697_Jorah_Stormwind_the_Mystic]]
 - Originates from [[carpet-of-flying-3-ft-5-ft-xdmg (items)
 - Leads to [step_022 (phase_087)]]
 - Related: [[Lizardfolk Dmg
 - Connects to [04_Resources_Assets_Portraits_portrait-npc-captain-shadowsail-captain-shadowsail.svg_Quick_Ref]]
 - Leads to [[NPC01442_Baelor_Thornweave_the_Lost
 - Originates from [List Spells Races Tiefling Asmodeus Mtf]]
-- Affected by [[ENC00159_Social_Encounter_160
-- Related: [step_020 (phase_009)]]
+- Affected by [[ENC00159_Social_Encounter_160]]
 - Affected by [[Assets Locations [[Location City [Heritage Keeper Memoryshade V1 Heritage Keeper Memoryshade.svg]]]]
 - See also: [[Symbol Heraldry Chaplain Abyssos the Deepseeke Chaplain Abyssos the Deepseeke.svg
 - Influences [NPC00010_Lyanna_Grimholt]]

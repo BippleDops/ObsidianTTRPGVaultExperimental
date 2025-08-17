@@ -171,30 +171,17 @@ Modifications:
 > Useful information for players
 
 ## See Also
-- [[Ambassador Nerida Deepcurrent
-- [NPC00317_Pyria_Blackstone_the_Redeemed]]
-- [[NPC01937_Felicia_Silverleaf_the_Wanderer
-- [NPC01789_Vesper_Proudmore_the_Mystic]]
-- [[NPC01624_Corvus_Silverleaf_the_Redeemed
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[NPC01660_Thalia_Moonshadow_the_Fallen
-- [NPC01463_Aeliana_Zephyrblade_the_Fallen]]
-- [[NPC00542_Corvus_Oakenshield_the_Strong
-- [NPC00372_Alaric_Grimholt]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC01483_Gavril_Zephyrblade_the_Fallen
-- [Quarantine_Notice_Crystal_Plagu]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
 - [[Reference.md
 - [MOC_Items]]
-- [[NPC01699_Orion_Oakenshield_the_Broken
-- [Parliament of Shadows Player Guide.md]]
-- [[NPC01594_Fiora_Proudmore_the_Seeker
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC01594_Fiora_Proudmore_the_Seeker]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -238,12 +225,10 @@ Modifications:
 - Influences [SPELL00108_Arcane_Spell_109]]
 - Connects to [[Cinematic Sequences
 - See also: [LORE00106_Prophecies_Entry_107]]
-- Originates from [[NPC01649_Ysara_Lightbringer_the_Bold
-- Originates from [Potions of Healing Xdmg]]
+- Originates from [[NPC01649_Ysara_Lightbringer_the_Bold]]
 - Influences [[Engineer Prisma Depthwright
 - Originates from [[Location City [Innkeeper Marcus Thorne]] V1 Innkeeper Marcus Thorne.svg]]
-- See also: [[step_074 (phase_097)
-- Leads to [QUEST00255_Personal_Quest_256]]
+- See also: [[QUEST00255_Personal_Quest_256]]
 - Compare with [[Aboleth Mind Mazes (Lore)
 - Connects to [step_071 (phase_089)]]
 - Influences [[step_028 (phase_058)
@@ -254,8 +239,7 @@ Modifications:
 - Connects to [[Location City [Merchant Guild Headquarters]] V1 Merchant Guild Headquarters.svg]]
 - See also: [[step_073 (phase_034)
 - Requires [Cross-Realm Goods]]
-- See also: [[DUN00129_Dungeon_130
-- Parallels [Memory Instruments (D&D_References)]]
+- See also: [[Memory Instruments (D&D_References)]]
 - See also: [[Instrument of Illusions Xdmg
 - Requires [[Assets Locations Location City [Communications Master Signal Cryptkeeper]] Communications Master Signal Cryptkeeper.svg]]
 - Compare with [[Groups (02_Worldbuilding)
@@ -283,22 +267,16 @@ Modifications:
 - Requires [The Shard Incident]]
 - See also: [[Hat of Wizardry Xdmg
 - Connects to [Identify Xphb]]
-- Compare with [[Emergency Response Stations 2
-- Requires [Elder Matthias Stoneward]]
-- Influences [[NPC00515_Baelor_Crystalbrook_the_Seeker
-- Compare with [[[Lumengarde]] 2]]
+- Compare with [[Emergency Response Stations 2]]
+- Influences [[NPC00515_Baelor_Crystalbrook_the_Seeker]] 2]]
 - Leads to [[QUEST00477_Side_Quest_478
 - Originates from [Vehicle Ship Trench Lantern Surveyor V2 Trench Lantern Surveyor.svg]]
 - Related: [[step_049 (phase_070)
 - Compare with [forgotten-realms-helm (deities)]]
-- Originates from [[Merged Reality Zones
-- Parallels [NPC01657_Dara_Dawnstrider_the_Mystic]]
-- See also: [[SPELL00087_Arcane_Spell_88
-- Parallels [The Children's Grotto (D&D_References)]]
-- Affected by [[item properties#Heavy
-- See also: [bread-loaf-xphb (items)]]
-- Compare with [[Delta Leader Precise Shadowsurgeon 2
-- See also: [Sanity System]]
+- Originates from [[NPC01657_Dara_Dawnstrider_the_Mystic]]
+- See also: [[The Children's Grotto (D&D_References)]]
+- Affected by [[Item Properties]]
+- Compare with [[Delta Leader Precise Shadowsurgeon 2]]
 - See also: [[step_008 (phase_081)
 - Connects to [step_003 (phase_084)]]
 - Connects to [[retriever-mpmm (construct)
@@ -313,15 +291,12 @@ Modifications:
 - Related: [[Assets Locations [[Location City [The Temple of Eternal Tides]] the Temple of Eternal Tides.svg]]]]
 - Affected by [[elf-sea-mtf (races)
 - Influences [Arcturus Lumenblade 2]]
-- Influences [[step_082 (phase_089)
-- Influences [Agent Infiltrator (D&D_References)]]
+- Influences [[Agent Infiltrator (D&D_References)]]
 - Related: [[Symbol Heraldry Lysara Brightshield V1 Lysara Brightshield.svg
 - Compare with [step_003 (phase_058)]]
-- Leads to [[[Family Portrait (D&D_References)]]
-- Requires [[kuo-toa-monitor-xmm (aberration)
-- Influences [White Abishai Mpmm]]
-- See also: [[Pirate Captain Blacktide (D&D_References)
-- Requires [step_027 (phase_011)]]
+- Leads to [[Family Portrait (D&D_References)]]
+- Requires [[kuo-toa-monitor-xmm (aberration)]]
+- See also: [[Pirate Captain Blacktide (D&D_References)]]
 - Compare with [[Monsters by Habitat Any Habitat Monsters Xmm
 - Originates from [[Assets Locations [Location City Depth Merchant S Consortium Depth Merchant S Consortium.svg]]]]
 - Connects to [[ITEM00788_Divine_Amulet_of_Dominion

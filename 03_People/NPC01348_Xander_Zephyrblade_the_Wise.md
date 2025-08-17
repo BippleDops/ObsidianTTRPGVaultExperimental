@@ -163,44 +163,27 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC00124_Delara_Ravenheart_the_Redeemed
-- [NPC00927_Aldric_Ironwood_the_Wanderer]]
-- [[NPC00317_Pyria_Blackstone_the_Redeemed
-- [NPC00385_Qadim_Darkwater_the_Cunning]]
-- [[NPC01262_Ysara_Dawnstrider_the_Swift
-- [NPC00644_Nerys_Dawnstrider_the_Wanderer]]
-- [[NPC01624_Corvus_Silverleaf_the_Redeemed
-- [NPC01632_Qadim_Darkwater_the_Guardian]]
-- [[Archdruid Thornweaver
-- [NPC01552_Branwen_Lightbringer_the_Swift]]
-- [[NPC00515_Baelor_Crystalbrook_the_Seeker
-- [Pilgrim_Pass_Prayer_Sli]]
-- [[Measurement_Guide_Depth_and_Pressur
-- [Party_Quests]]
-- [[NPC00190_Cedric_Silverleaf
-- [NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC00644_Nerys_Dawnstrider_the_Wanderer]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
 - [[Propaganda_Broadsheet_Syndicate.md
 - [Player_Feedback_Form.md]]
-- [[NPC00975_Lyanna_Winterborn_the_Wise
-- [NPC00939_Thalia_Jadeclaw_the_Swift]]
-- [[NPC01937_Felicia_Silverleaf_the_Wanderer
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[16 Credits
-- [11 Rules Glossary]]
-- [[NPC00083_Vesper_Xendar_the_Lost
-- [Parliament of Shadows Player Guide.md]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[11 Rules Glossary]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
 - [[NPC_Relationship_Web.png_1 (03_People)
 - [04 Classes]]
-- [[Submersible_Schematic_Pressure_Gate_Scou
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC01566_Lyanna_Underhill_the_Redeemed
-- [NPC00378_Malakai_Moonshadow_the_Broken]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [Master_Narrative_Web.md]]
-- [[NPC01786_Zephyr_Jadeclaw_the_Mystic
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC01040_Zephyr_Lightbringer_the_Strong
-- [NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
 -
 
 ## Item Rarity & Balance
@@ -252,7 +235,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[[Azure Citadel]] (D&D_References)]]
 - See also: [[tashas-hideous-laughter-xphb (spells)
 - See also: [ENC00217_Combat_Encounter_218]]
-- Affected by [[[Senior Nurse Polyp Tendercurrent (D&D_References)]]
+- Affected by [[Senior Nurse Polyp Tendercurrent (D&D_References)]]
 - Leads to [[minions-of-chaos (optional-features)
 - Requires
 - Influences [Balta Kaine (D&D_References)]]
@@ -264,8 +247,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[step_070 (phase_067)
 - Connects to [ITEM01131_Refined_Elixir_of_Swiftness]]
 - Parallels
-- See also: [[ENC00094_Combat_Encounter_95
-- Connects to [step_017 (phase_006)]]
+- See also: [[ENC00094_Combat_Encounter_95]]
 - Leads to [[step_095 (phase_081)
 - Parallels [exotic-saddle-xphb (items)]]
 - Influences [[step_096 (phase_061)
@@ -277,31 +259,26 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [step_078 (phase_030)]]
 - Parallels [[Rod of the Pact Keeper Xdmg
 - Leads to [Danse Macabre Xge]]
-- Originates from [[ENC00450_Combat_Encounter_451
-- Related: [Depths Alliance 2]]
+- Originates from [[ENC00450_Combat_Encounter_451]]
 - Affected by [[Half Orc Parents Xge
 - Affected by
 - Compare with [Creature Creature Ancient Brass Dragon Xmm V4 Ancient Brass Dragon Xmm.png]]
-- See also: [[[The Memory Palace 2]]
-- See also: [[MON00130_Constructs_Creature_131
-- See also: [Silk Rope 50 Feet]]
+- See also: [[The Memory Palace 2]]
+- See also: [[MON00130_Constructs_Creature_131]]
 - Leads to [[cogwork-archivist-scc (construct)
 - Requires [[Location City [The Synthesis Gardens]] V1 the Synthesis Gardens.svg]]
-- Leads to [[[Temporal Navigation Hazards]]
+- Leads to [[Temporal Navigation Hazards]]
 - Leads to [[NPC00918_Erasmus_Dawnstrider_the_Broken
 - Originates from [[Assets Locations [[Location City [Councilor Tidal Balancekeeper]] Councilor Tidal Balancekeeper.svg]]]]
 - Related: [[README (Maps)
 - Affected by [Location Prompts (Assets)]]
-- Affected by [[Unified Aquabyssos Legal Code (D&D_References)
-- Influences [[[The Great Sky Harbor]] (D&D_References)]]
+- Affected by [[Unified Aquabyssos Legal Code (D&D_References)]] (D&D_References)]]
 - Related: [[Faction_Relationship_Web
 - Influences [ITEM00549_Fortified_Chain_Mail_of_Grace]]
 - Leads to [[step_073 (phase_076)
 - Parallels [step_032 (phase_088)]]
-- Influences [[adventure-xphb (variant-rules)
-- Affected by [Medusa Xmm]]
-- See also: [[NPC00162_Xander_Thornweave
-- Originates from [Shadow Storms]]
+- Influences [[adventure-xphb (variant-rules)]]
+- See also: [[NPC00162_Xander_Thornweave]]
 - Affected by [[Assets Locations Location City [Senator Bartholomew Bonewright Senator Bartholomew Bonewright.svg]]
 - Originates from [[Assets Locations Location City [Planning Director Victor Visionkeeper V1 Planning Director Victor Visionkeeper.svg]]
 - Requires [[04_Resources_Assets_Locations_location-city-lady-vivienne-the-unfrozen-lady-vivienne-the-unfrozen.svg
@@ -321,13 +298,11 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[SHOP00038_General_Shop_39
 - Requires [ITEM01343_Simple_Tool_Kit_of_Reliability]]
 - Influences [[Location City [Twilight Depths V1 Twilight Depths.svg]]
-- See also: [[Parliament Loyalists (D&D_References)
-- Affected by [NPC00067_Caelum_Stormwind]]
-- Leads to [[Community Demonstration Sites 2
-- See also: [[[War Machine Engineers]] (D&D_References)]]
+- See also: [[Parliament Loyalists (D&D_References)]]
+- Leads to [[Community Demonstration Sites 2]] (D&D_References)]]
 - Leads to [[Portrait NPC the [[Free Current Movement V2 [The Free Current]] Movement.svg]]
 - Influences
-- Parallels [[[Noble Houses]]
+- Parallels [[Noble Houses]]
 - Originates from [[portrait-comfy-latest.png
 - Connects to [Session 04 (Crystal_Plague)]]
 - Parallels [[Torch Xphb

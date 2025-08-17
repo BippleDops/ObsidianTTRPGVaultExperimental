@@ -161,44 +161,28 @@ Forming expedition to dangerous location
 - Special moves
 
 ## See Also
-- [[NPC00582_Cedric_Dawnstrider
-- [Marcus Shardbreaker Grimm_1]]
-- [[NPC_Relationship_Web.png_1 (03_People)
-- [NPC00820_Thalia_Nightfall_the_Risen]]
-- [[NPC00133_Lyanna_Oakenshield_the_Seeker
-- [NPC01911_Alaric_Oakenshield_the_Mystic]]
-- [[NPC01877_Hestara_Moonshadow_the_Mystic
-- [NPC00174_Aldric_Silverleaf_the_Fallen]]
-- [[NPC00451_Malakai_Ravenheart_the_Broken
-- [NPC01504_Erasmus_Zephyrblade_the_Strong]]
-- [[NPC00815_Baelor_Thornweave_the_Swift
-- [NPC01552_Branwen_Lightbringer_the_Swift]]
-- [[NPC01599_Gavril_Keenblade_the_Strong
-- [NPC01841_Malakai_Nightfall_the_Wise]]
-- [[NPC01312_Alaric_Darkwater_the_Fallen
-- [NPC01126_Malakai_Oakenshield_the_Fallen]]
-- [[NPC00351_Corvus_Ironwood
-- [NPC01687_Aldric_Youngblood_the_Cunning]]
-- [[NPC01503_Ewan_Dawnstrider_the_Redeemed
-- [NPC01367_Lyanna_Xendar_the_Wise]]
-- [[NPC01476_Qadim_Stormwind_the_Wise
-- [Depth_Adapted_Background]]
-- [[Party_Quests
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
 - [[Faction_Guide.md
 - [Reference.md]]
-- [[NPC00661_Corvus_Darkwater_the_Broken
-- [NPC01937_Felicia_Silverleaf_the_Wanderer]]
-- [[NPC00525_Fiora_Proudmore_the_Wanderer
-- [Basic_Rules]]
-- [[NPC00272_Rhiannon_Brightblade
-- [Calendar_Conversions_Realm_Window]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]
+- [[Calendar_Conversions_Realm_Window]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -215,17 +199,14 @@ Forming expedition to dangerous location
 - Connects to [step_062 (phase_047)]]
 - See also: [[step_098 (phase_041)
 - Influences [Enervation Xge]]
-- Leads to [[step_100 (phase_075)
-- Leads to [Tenebrarum (D&D_References)]]
+- Leads to [[Tenebrarum (D&D_References)]]
 - Leads to [[eberron-dol-arrah (deities)
 - Leads to [QUEST00043_Personal_Quest_44]]
 - Parallels
-- Influences [[Magnus Ledgerkeep (D&D_References)
-- Affected by [dire-worg-xmm (fey)]]
+- Influences [[Magnus Ledgerkeep (D&D_References)]]
 - Compare with [[Captain Twin-Reality Marsh
 - Affected by [Location City Archivist Vera Glowmind Archivist Vera Glowmind.png]]
-- Originates from [[NPC01036_Alaric_Grimholt_the_Scholar
-- Affected by [Symbol Heraldry Reg... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Originates from [[Symbol Heraldry Reg... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Compare with [[MON00154_Constructs_Creature_155
 - See also:
 - See also:
@@ -237,8 +218,7 @@ Forming expedition to dangerous location
 - Leads to [[step_015 (phase_096)
 - Originates from [arcana-uncommon-xdmg (tables)]]
 - Influences
-- Affected by [[vulnerability-xphb (variant-rules)
-- Related: [Creature Size and Space Xdmg]]
+- Affected by [[vulnerability-xphb (variant-rules)]]
 - Compare with [[QUEST00380_Side_Quest_381
 - Originates from [Sequester Xphb]]
 - Affected by [[Portrait NPC the Soul Market V1 the Soul Market.svg
@@ -250,12 +230,10 @@ Forming expedition to dangerous location
 - Related: [[Duergar Deep Duerra Mtf
 - Influences [ITEM00996_Pure_Herb_of_Swiftness]]
 - Connects to
-- Compare with [[Ships - Player_Handout_Aethermoor_Airships
-- Parallels [step_031 (phase_050)]]
+- Compare with [[Ships - Player_Handout_Aethermoor_Airships]]
 - Requires [[step_095 (phase_098)
 - Related: [Elven Angharradh Mtf]]
-- Originates from [[NPC01898_Gavril_Grimholt_the_Bold
-- Requires [The Neutral Zones]]
+- Originates from [[NPC01898_Gavril_Grimholt_the_Bold]]
 - Compare with [[step_037 (phase_006)
 - Related: [Deep Guard 2]]
 - See also: [[Heavy Armor Master Xphb
@@ -271,20 +249,16 @@ Forming expedition to dangerous location
 - Compare with [sending-xphb (spells)]]
 - Influences [[LORE00054_History_Entry_55
 - Compare with [dark-shard-amulet-xdmg]]
-- Compare with [[step_086 (phase_021)
-- Affected by [Surgery Master Dr. Marcus Deptblade]]
+- Compare with [[Surgery Master Dr. Marcus Deptblade]]
 - See also: [[Siren Maeve Echoborn
 - Related: [devourer-mpmm (undead)]]
 - Requires [[Monsters
 - See also: [Potion of Poison Xdmg]]
-- Parallels [[LOC00131_Planes_Location_132
-- See also: [Myconid Sovereign Xmm]]
+- Parallels [[LOC00131_Planes_Location_132]]
 - Influences [[Portrait NPC Quest the Tide War V1 Quest the Tide War.svg
 - Affected by [Druid Xphb Circle of the Land Xphb]]
-- Affected by [[MON00137_Constructs_Creature_138
-- Compare with [Brother Marcus the Deepgrown (D&D_References)]]
-- Requires [[DUN00163_Dungeon_164
-- See also: [Port Shadowmere (D&D_References)]]
+- Affected by [[Brother Marcus the Deepgrown (D&D_References)]]
+- Requires [[Port Shadowmere (D&D_References)]]
 - Requires [[step_092 (phase_081)
 - Affected by [senses]]
 - Compare with [[Noble Houses of Aethermoor
@@ -292,21 +266,17 @@ Forming expedition to dangerous location
 - Leads to [[Location City Banker Cornelius Goldflow Banker Cornelius Goldflow.svg
 - Parallels
 - Related: [The Crown Eternal]]
-- Requires [[Giant Seahorses (D&D_References)
-- Related: [hat-of-wizardry-xdmg (items)]]
-- Compare with [[Secret Vault Beneath Throne 2
-- Leads to [step_003 (phase_077)]]
+- Requires [[Giant Seahorses (D&D_References)]]
+- Compare with [[Secret Vault Beneath Throne 2]]
 - Parallels [[fire-storm-xphb (spells)
 - Affected by
 - Parallels [Shadow Attache Void 2]]
-- Originates from [[step_006 (phase_047)
-- Influences [LOC00153_Planes_Location_154]]
+- Originates from [[LOC00153_Planes_Location_154]]
 - Leads to [[step_021 (phase_081)
 - Compare with [Umberlee (D&D_References)]]
 - Parallels [[gelatinous-cube-xmm (ooze)
 - Originates from [symbol-heraldry-resonance-bomb-resonance-bomb.svg]]
-- Compare with [[The Love Token
-- Requires [The Sorrowmaster (D&D_Statblocks)]]
+- Compare with [[The Sorrowmaster (D&D_Statblocks)]]
 - Originates from
 - Originates from [[QUEST00168_Side_Quest_169
 - Affected by [LORE00227_Prophecies_Entry_228]]

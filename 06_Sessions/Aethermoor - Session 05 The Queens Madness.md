@@ -53,9 +53,9 @@ corruption_exposure: 4
 danger_level: 8
 date: duration_hours: 4
 encounters:
-- '[[[The Crystal]] [[Guard Elite]] [[Guard Elite]]'
-- '[[[Possessed Noble Coterie]]'
-- '[[[Throne Room - Heart of Palace (D&D_References)]]'
+- '[[[The Crystal]] [[The Crystal Guard Elite]] [[The Crystal Guard Elite]]'
+- '[[Possessed Noble Coterie]]'
+- '[[Throne Room - Heart of Palace (D&D_References)]]'
 
 gold_gained: 0
 items_gained:
@@ -67,22 +67,22 @@ items_gained:
 
 locations_visited:
 - '[[[Ancient Siege]] Tunnels]]'
-- '[[[Crystal Garden]]'
-- '[[[Throne Room]]'
-- '[[[Royal Vault]]'
+- '[[Crystal Garden]]'
+- '[[Throne Room]]'
+- '[[Royal Vault]]'
 
 npcs_met:
-- '[[[Queen Seraphina Lumengarde]]'
-- '[[[Captain Lyanna Brightshield]]'
-- '[[[High Inquisitor Maltheos]]'
-- '[[[The Crimson Sage]]'
-- '[[[Princess Celestia]] (revealed)'
+- '[[Queen Seraphina Lumengarde]]'
+- '[[Captain Lyanna Brightshield]]'
+- '[[High Inquisitor Maltheos]]'
+- '[[The Crimson Sage]]'
+- '[[Princess Celestia]] (revealed)'
 
 obsidian UIMode: preview
 players: []
 plot_threads:
 - Queen fighting possession intermittently
-- [[Crimson Sage is [Princess Celestia]]
+- [[Princess Celestia]]
 - Palace foundation contains underwater gate
 - [[High Inquisitor's son is key to shard
 - One party member carries the bloodline
@@ -91,11 +91,11 @@ primary_location: '[[[Royal Palace]] of Meridian]]'
 quests_completed: []
 quests_progressed:
 - '[[[[The Seven [Shards Mystery]]]]'
-- '[[[Race Against the Festival]]'
+- '[[Race Against the Festival]]'
 
 quests_started:
-- '[[[Save Queen Seraphina]]'
-- '[[Stop the [Crystal Festival Ritual]]'
+- '[[Save Queen Seraphina]]'
+- '[[Crystal Festival]]'
 
 session: Session-05
 updated: '2025-08-13T12:34:17.841744+00:00'
@@ -104,9 +104,9 @@ xp_awarded: 1500
 
 --- ## 🔧 [[Deep Evaluation Improvements *20 targeted improvements identified* ### [Connection Improvements]] - Add cross-references to related notes ### [[Enhancement Improvements - Add 12_Research-specific enhancement ## [Session Summary]]
 
-[[Captain Lyanna Brightshield crashes through the party's hideout window, begging for help to save the possessed Queen. The party must navigate the transformed palace, witness the Queen's struggle against an ancient Aquabyssos consciousness, and learn the shocking truth about the [Crimson Sage]]'s identity while racing against time before the [[Crystal Festival. ## [Strong Start]]
+[[Captain Lyanna Brightshield crashes through the party's hideout window, begging for help to save the possessed Queen. The party must navigate the transformed palace, witness the Queen's struggle against an ancient Aquabyssos consciousness, and learn the shocking truth about the [Crimson Sage]]'s identity while racing against time before the [[Crystal Festival]]
 
-> *Read aloud:* "Glass explodes inward as [[Captain Lyanna Brightshield crashes through your window, her armor cracked, blood seeping from crystal wounds that spread like frost across her skin. She collapses, gasping: '[The Queen]]... She's fighting it... Something ancient speaks through her, but she's still in there!' She grabs you desperately. 'The palace is a trap, but the old siege tunnels... From the War of [[Three Crowns... She showed them to me once, when she still...' Her eyes fill with tears. 'Please. I know what she's done looks like madness, but there are moments when she breaks through. Help me save her. We have less than 72 hours.'" ### Location: [[[Ancient Tunnels]] [[Beneath Palace]]
+> *Read aloud:* "Glass explodes inward as [[Captain Lyanna Brightshield crashes through your window, her armor cracked, blood seeping from crystal wounds that spread like frost across her skin. She collapses, gasping: '[The Queen]]... She's fighting it... Something ancient speaks through her, but she's still in there!' She grabs you desperately. 'The palace is a trap, but the old siege tunnels... From the War of [[Three Crowns... She showed them to me once, when she still...' Her eyes fill with tears. 'Please. I know what she's done looks like madness, but there are moments when she breaks through. Help me save her. We have less than 72 hours.'" ### Location: [[[Ancient Tunnels]] [[Ancient Tunnels Beneath Palace]]
 
 **Atmosphere**: Darkness older than the city, walls carved with pre-Meridian symbols, dripping water that whispers in Aquan. ### Lyanna's Guidance
 
@@ -146,7 +146,7 @@ Center of garden:
 - Shows viewers as fully crystallized
 - Queen's reflection sometimes shows her true self
 - Touching water: CON save **DC 16** or gain `dice: 1d3` corruption
-- Hidden beneath: Royal signet ring (bypasses throne room wards) ### Location: [[[Throne Room]] - Heart of Palace (D&D_References)]]
+- Hidden beneath: Royal signet ring (bypasses throne room wards) ### Location: [[Throne Room]] - Heart of Palace (D&D_References)]]
 
 **Transformation**: Massive crystal growing from throne, reality fractures showing glimpses of Aquabyssos. ### Witnessing the Pre-Ritual
 

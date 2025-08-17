@@ -170,42 +170,24 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC00804_Xander_Frostwhisper_the_Cunning
-- [NPC00174_Aldric_Silverleaf_the_Fallen]]
-- [[NPC00587_Idris_Youngblood_the_Strong
-- [NPC00378_Malakai_Moonshadow_the_Broken]]
-- [[NPC01660_Thalia_Moonshadow_the_Fallen
-- [NPC00501_Orion_Nightfall_the_Broken]]
-- [[NPC01028_Erasmus_Darkwater_the_Strong
-- [NPC01301_Jorah_Underhill_the_Broken]]
-- [[NPC00451_Malakai_Ravenheart_the_Broken
-- [NPC01682_Vesper_Blackstone_the_Guardian]]
-- [[NPC01594_Fiora_Proudmore_the_Seeker
-- [NPC00095_Fiora_Nightfall]]
-- [[NPC00812_Kaelen_Jadeclaw_the_Seeker
-- [NPC01888_Hestara_Ravenheart_the_Redeemed]]
-- [[NPC01858_Drusilla_Stormwind_the_Cunning
-- [NPC01870_Lyanna_Silverleaf_the_Cunning]]
-- [[NPC01841_Malakai_Nightfall_the_Wise
-- [NPC00739_Gavril_Ashford_the_Bold]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC01466_Urien_Nightfall_the_Guardian]]
-- [[NPC01892_Gareth_Xendar_the_Scholar
-- [NPC00351_Corvus_Ironwood]]
-- [[NPC00542_Corvus_Oakenshield_the_Strong
-- [NPC01113_Solas_Ravenheart_the_Cunning]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC00407_Hestara_Dawnstrider
-- [Depth_Adapted_Background]]
-- [[NPC00917_Brenna_Oakenshield_the_Seeker
-- [NPC01699_Orion_Oakenshield_the_Broken]]
-- [[NPC00552_Malakai_Stormwind_the_Seeker
-- [Letter_From_the_Pearl_Guard_Captai]]
-- [[Party_Inventory
-- [05 Personality and Background]]
-- [[Character_Journal_Template
-- [Count_Strahd_von_Zarovich]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC00378_Malakai_Moonshadow_the_Broken]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01594_Fiora_Proudmore_the_Seeker]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[05 Personality and Background]]
+- [[Character_Journal_Template]]
 -
 
 ## Item Rarity & Balance
@@ -246,8 +228,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[down[Time]]-activity-research-xge (variant-rules)]]
 - Related: [[Assets Portraits Portrait NPC High Chamberlain Nautilus Deepcurrent High Chamberlain Nautilus Deepcurrent.svg
 - See also: [[Assets Locations Location City [[Keeper of Sorrows [Tidal Memento]]]] Keeper of Sorrows Tidal Memento.svg]]
-- Compare with [[DUN00080_Dungeon_81
-- Influences [Captain Tempest-Eye Marelda (D&D_References)]]
+- Compare with [[Captain Tempest-Eye Marelda (D&D_References)]]
 - Parallels [[NIGHT_WORK_COMPREHENSIVE_LINKING
 - Influences [Assets Item Artifact Ruby Xdmg V7 Ruby Xdmg.png]]
 - Leads to [[Assets Locations Location City [The Dreamwhisper Inn the Dreamwhisper Inn.svg]]
@@ -259,20 +240,17 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [windvane-pota (items)]]
 - Compare with [[step_086 (phase_070)
 - Leads to [Portrait NPC High Cultivist Jasper Lifebinder High Cultivist Jasper Lifebinder.svg]]
-- See also: [[MON00091_Aberrations_Creature_92
-- See also: [[[Transportation Guild]] Masters]]
-- Requires [[Temporal Echo
-- Influences [Lysandra Tidecaller (D&D_References)]]
+- See also: [[MON00091_Aberrations_Creature_92]] Masters]]
+- Requires [[Lysandra Tidecaller (D&D_References)]]
 - Influences
 - Requires [[The Unity Protocols
 - Originates from [[[Crystal-Powered Vessels]] 2]]
 - Related: [[revenant-xmm (undead)
 - Originates from [QUEST00355_Side_Quest_356]]
-- Affected by [[Cross-Realm Cooperation Authority
-- Affected by [Faerunian Gond Scag]]
+- Affected by [[Cross-Realm Cooperation Authority]]
 - Requires [[step_066 (phase_097)
 - Parallels [step_020 (phase_024)]]
-- Compare with [[[Portal Commander Marina Bridgewright (D&D_References)]]
+- Compare with [[Portal Commander Marina Bridgewright (D&D_References)]]
 - Compare with [[mind-blank-xphb (spells)
 - Influences [[Assets Locations Location City [Anchor Stronghaul]] Anchor Stronghaul.svg]]
 - Compare with [[The Crystal Forge Guild
@@ -286,25 +264,20 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Bio-Integration Researcher [Coral Lifeshaper]]]]
 - Leads to [[step_005 (phase_080)
 - Affected by [chef-xphb (feats)]]
-- Connects to [[[Artificer's Row 2]]
+- Connects to [[Artificer's Row 2]]
 - Originates from [[Portrait NPC Quest the Crown S Return Quest the Crown S Return.svg
 - See also: [step_023 (phase_036)]]
-- Influences [[NPC00781_Aeliana_Hawthorne_the_Seeker
-- Compare with [[[Temporal Harvest]] (D&D_References)]]
+- Influences [[NPC00781_Aeliana_Hawthorne_the_Seeker]] (D&D_References)]]
 - Affected by [[Vehicle Ship Void Skimmer Cutter Void Skimmer Cutter.svg
 - Connects to [ENC00119_Social_Encounter_120]]
 - Affected by [[Location City [Count Viktor Pressureborn V1 Count Viktor Pressureborn.svg]]
-- Compare with [[step_032 (phase_097)
-- Related: [NPC01390_Aeliana_Ironwood_the_Bold]]
+- Compare with [[NPC01390_Aeliana_Ironwood_the_Bold]]
 - Affected by [[Memoriam
 - See also: [step_094 (phase_040)]]
-- Leads to [[Pilgrimage Coordinators
-- Related: [LOC00264_Cities_Location_265]]
-- See also: [[Prismatic Falls
-- Parallels [Deep Adaptation Processes (D&D_References)]]
+- Leads to [[LOC00264_Cities_Location_265]]
+- See also: [[Deep Adaptation Processes (D&D_References)]]
 - Parallels
-- Compare with [[LORE00075_Legends_Entry_76
-- Requires [ENC00173_Environmental_Encounter_174]]
+- Compare with [[ENC00173_Environmental_Encounter_174]]
 - Related: [[Voidmist Essence
 - Originates from
 - Leads to [step_087 (phase_093)]]
@@ -322,19 +295,16 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [NPC00430_Ewan_Proudmore_the_Wise]]
 - Compare with [[Quest - Memory War 2
 - Leads to [LOC0116_OldBridge]]
-- Related: [[LORE00151_Prophecies_Entry_152
-- Leads to [Session 05 (The_Sunken_Conspiracy)]]
+- Related: [[Session 05 (The_Sunken_Conspiracy)]]
 - Affected by [[Maddening Darkness Xge
 - Requires [Shadow Script]]
 - Leads to [[figurine-of-wondrous-power-golden-lions-xdmg (items)
 - Requires [LOC00284_Wilderness_Location_285]]
 - Originates from
-- Connects to [[Portrait NPC Warr... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Compare with [location-city-the-tidecaller-v1-the-tidecaller.svg]]
+- Connects to [[Portrait NPC Warr... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Connects to [[ENC00284_Social_Encounter_285
 - Related: [Portrait NPC the Silhouette Surgeon Prime the Silhouette Surgeon Prime.svg_1 (Portraits)]]
-- See also: [[step_023 (phase_062)
-- Influences [ENC00016_Combat_Encounter_17]]
+- See also: [[ENC00016_Combat_Encounter_17]]
 - Connects to [[galeb-duhr-xmm (elemental)
 - Compare with
 - Connects to [QUEST00260_Personal_Quest_261]]

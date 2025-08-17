@@ -102,7 +102,7 @@ This content can be adapted and expanded based on specific campaign needs. ## [P
 
 - *[Information sources]* ## Locations
 
-*[Important places in this adventure]* ### [[Starting Location]]
+*[Important places in this adventure]* ### [[location]]
 
 - *[Where adventure begins]* ### [[Key Sites]]
 
@@ -110,9 +110,9 @@ This content can be adapted and expanded based on specific campaign needs. ## [P
 
 - *[Side locations]* ## Rewards
 
-**[[Experience Points]]**: 500 XP per character
+**[[Experience Points Xphb]]**: 500 XP per character
 
-*[What PCs gain from completing this adventure]* ### [[Experience Points]]
+*[What PCs gain from completing this adventure]* ### [[Experience Points Xphb]]
 
 - *[XP awards]* ### Treasure
 

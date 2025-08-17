@@ -85,17 +85,17 @@ The party boards the [Dream Rails]] to Tenebrarum, but mid-journey, the train st
 **Location**: Entry to [[Tenebrarum - [The Penumbral]] Gates **Situation**: All visitors must register their shadows **Conflict**: Party's shadows are flagged as "persons of interest" **Discoveries**:
 - Shadows are considered separate legal entities here
 - A shadow court has issued warrants for the party
-- [[[Shadow Duchess Nyx]] has immunity but won't extend it
+- [[Shadow Duchess Nyx]] has immunity but won't extend it
 - The checkpoint has holding cells full of separated shadows **[[Roleplay Challenge**:
 - Negotiate with shadows directly
 - Each PC's shadow has different demands
 - Shadows know things PCs don't remember ### Scene 3: [The Umbral]] Exchange
 
-**Location**: [[[The Shadow Markets]] - [[Central Trading Floor **Situation**: Infiltrate the shadow auction **Conflict**: Party's shadows are put up for bidding **Discoveries**:
+**Location**: [[The Shadow Markets]] - [[Central Trading Floor **Situation**: Infiltrate the shadow auction **Conflict**: Party's shadows are put up for bidding **Discoveries**:
 - Child shadows being illegally harvested
-- [[[The Silhouette]] [[Surgeon Prime]] run a shadow breeding program
+- [[[The Silhouette]] [[The Silhouette Surgeon Prime]] run a shadow breeding program
 - Shadows can be modified like genetics
-- Someone's been buying all shadows from [[[Abyssos Prime]] **Combat/Heist**:
+- Someone's been buying all shadows from [[Abyssos Prime]] **Combat/Heist**:
 - **Option A**: Steal back shadows (stealth mission)
 - **Option B**: Win shadows at auction (resource management)
 - **Option C**: Expose illegal operations (social combat) ### Scene 4: [[The Surgeon's Invitation
@@ -110,12 +110,12 @@ The party boards the [Dream Rails]] to Tenebrarum, but mid-journey, the train st
 - Negotiate alternative (skill challenge) ## 🔍 Secrets & Clues
 
 1. [The Shadow]] Harvest has already begun in minor settlements
-2. [[[Shadow Duchess Nyx]] is hunting her original shadow
+2. [[Shadow Duchess Nyx]] is hunting her original shadow
 3. The surgeons have been creating hybrid beings for years
 4. [[Marina-Red-Tide-Coralheart shadow is actually the original Marina
 5. The [Parliament of Echoes]] has a shadow duplicate parliament
 6. Someone in the party has been marked for priority harvest
-7. The [[[Fear Farms]] are producing weapons-grade nightmares
+7. The [[Fear Farms]] are producing weapons-grade nightmares
 8. [[Crystallium is broadcasting shadow control frequencies
 9. [The Dream]] Rails connect to [[Memoriam but nobody remembers
 10. The next [Memory Tide]] will carry shadow transformation virus ## 🎪 [[Cliffhanger Ending

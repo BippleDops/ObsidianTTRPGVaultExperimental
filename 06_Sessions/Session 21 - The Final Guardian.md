@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:36.170034"
 modified: "2025-08-15T12:24:36.170036"
-aliases: [Session 21 - [[The Final]] Guardian]
+aliases: [Session 21 - [[The Final Gasp]] Guardian]
 ---
 
 # Session 21   [[The Final Guardian
@@ -19,7 +19,7 @@ tags:
 - session title: Session 21 [The Final]] Guardian
 type: session
 updated: 2025-08-14
-- -- # Session 21 - [[The Final Guardian ## [Overview This]] document contains important information regarding Session 21 - [[The Final Guardian and its role within the greater narrative. ## Description
+- -- # Session 21 - [[Session 21 - The Final Guardian]] document contains important information regarding Session 21 - [[The Final Guardian and its role within the greater narrative. ## Description
 
 **Details**: Rich sensory elements bring this to life. Session 21 - [The Final]] Guardian represents a significant element within the campaign world, offering various opportunities for engagement and d
 *The air carries the scent of [appropriate smell].*evelopment. ## [[Key Information - **[Primary Purpose]]**: Serves specific function within the world
@@ -38,7 +38,7 @@ updated: 2025-08-14
 aliases: ["Session 21 - [The Final]] Guardian"]
 priority: normal
 category: 06 Sessions
-subcategory: Session 21 - [[The Final]] Guardian.Md
+subcategory: Session 21 - [[The Final Gasp]] Guardian.Md
 related: []
 cssclass: standard
 publish: false --- -|--------|
@@ -69,7 +69,7 @@ This content explores themes of identity, adding narrative depth to your campaig
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

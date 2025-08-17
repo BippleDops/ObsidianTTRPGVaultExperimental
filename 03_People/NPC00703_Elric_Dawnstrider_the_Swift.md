@@ -172,20 +172,11 @@ Modifications:
 
 ## See Also
 - [NPC00885_Kaelen_Xendar_the_Lost]]
-- [[NPC00612_Thalia_Jadeclaw_the_Fallen
-- [NPC01951_Gavril_Xendar_the_Swift]]
-- [[NPC00860_Gavril_Winterborn_the_Swift
-- [Ritual_Timing_Wheel_Convergenc]]
-- [[NPC00661_Corvus_Darkwater_the_Broken
-- [NPC00321_Aeliana_Zephyrblade_the_Strong]]
-- [[NPC00259_Delara_Proudmore
-- [NPC01937_Felicia_Silverleaf_the_Wanderer]]
-- [[Calendar_Conversions_Realm_Window
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[Calendar_Conversions_Realm_Window]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -202,22 +193,17 @@ Modifications:
 ## Connections
 
 - Influences [extended-spell-xphb (optional-features)]]
-- Parallels [[NPC00370_Drusilla_Hawthorne_the_Mystic
-- Originates from [LOC00285_Cities_Location_286]]
+- Parallels [[NPC00370_Drusilla_Hawthorne_the_Mystic]]
 - Originates from
 - Affected by
-- Compare with [[step_058 (phase_027)
-- Influences [[[Transformation Medicine Techniques]] 2]]
+- Compare with [[Transformation Medicine Techniques]] 2]]
 - Connects to [[The Succession Crisis 2
 - Related: [Portrait NPC Captain Steelhart V1 Captain Steelhart.svg]]
 - Compare with [[Painters Supplies Xphb
 - Influences [step_002 (phase_013)]]
-- Compare with [[Consequence Chain 3 - Reality Merger Diplomatic Crisis 2
-- Affected by [The Convergence Laboratory]]
-- Affected by [[Merrenoloth Mtf
-- Affected by
-- Parallels [Cross-Realm Navigation Cooperation]]
-- Compare with [[[Depth Cardinal Justice Currentkeeper (D&D_References)]]
+- Compare with [[Consequence Chain 3 - Reality Merger Diplomatic Crisis 2]]
+- Affected by [[Cross-Realm Navigation Cooperation]]
+- Compare with [[Depth Cardinal Justice Currentkeeper (D&D_References)]]
 - Influences [[Assets Locations [Location City Silence Keeper Mute V1 Silence Keeper Mute.svg]]
 - Parallels [[LOC00090_Dungeons_Location_91
 - Parallels [location-city-port-authority-v1-port-authority.svg]]
@@ -231,37 +217,32 @@ Modifications:
 - Parallels [Independent Merchan 2]]
 - Leads to [[step_071 (phase_015)
 - Leads to [step_043 (phase_096)]]
-- Affected by [[Financial Officer Golden Calculations
-- Related: [Memory Parasite Infection]]
+- Affected by [[Financial Officer Golden Calculations]]
 - Connects to
 - See also: [[The Abyssal Court
 - Parallels [LORE00329_Legends_Entry_330]]
 - Related: [[Portrait NPC the Resonance Prophet V2 the Resonance Prophet.svg
 - Affected by [LORE00136_Prophecies_Entry_137]]
-- Originates from [[Vehicles - [Aquabyssos Submarines]]
-- Affected by [[TEN_THOUSAND_IMPROVEMENTS
-- Parallels [Identity Preservation Crystal 2]]
+- Originates from [[Aquabyssos_Submarines]]
+- Affected by [[Identity Preservation Crystal 2]]
 - Related:
 - Related: [[swarm-of-insects-xmm
 - Compare with [step_073 (phase_094)]]
 - Influences [[The [Crystal Gardens_1 (02_Worldbuilding)]]
 - Compare with [[Antipathy Sympathy Xphb
 - Connects to [ITEM00334_Thunder_Crossbow_of_Slaying]]
-- Influences [[Pact of the Tome Xphb
-- Connects to [ENC00427_Combat_Encounter_428]]
-- See also: [[step_030 (phase_098)
-- See also: [Palace Courtyard - Crystal Garden]]
+- Influences [[ENC00427_Combat_Encounter_428]]
+- See also: [[Palace Courtyard - Crystal Garden]]
 - Connects to [[Sword of Wounding Xdmg
 - Leads to [cordon-of-arrows-xphb (spells)]]
-- Parallels [[NPC01944_Xander_Stormwind_the_Redeemed
-- Affected by [step_057 (phase_088)]]
+- Parallels [[NPC01944_Xander_Stormwind_the_Redeemed]]
 - Affected by [[The Great Recognition
 - Connects to [Local Militia]]
 - Requires [[The Great Tidal Shrine 2
 - Requires [step_001 (phase_012)]]
 - Originates from [[step_058 (phase_047)
 - Originates from [ITEM00147_Frost_Dagger_of_Wounding]]
-- Leads to [[[Biological Enhancement Procedures (D&D_References)]]
+- Leads to [[Biological Enhancement Procedures (D&D_References)]]
 - Influences [[Classical_Era_Timeline
 - Originates from [[Location City [Wise Tide Truthseeker]] V1 Wise Tide Truthseeker.svg]]
 - See also: [[Sterling Goldbalance 2
@@ -280,14 +261,11 @@ Modifications:
 - Influences [[Location City [Wave Friendlyserve]] V1 Wave Friendlyserve.svg]]
 - Affected by [[Dragonlance Lunitari Phb
 - Affected by [step_086 (phase_024)]]
-- Affected by [[NPC01009_Jorah_Ravenheart_the_Mystic
-- Influences [Adventure Xphb]]
+- Affected by [[NPC01009_Jorah_Ravenheart_the_Mystic]]
 - Compare with [[Location City Maze Heart Crystal Maze Heart Crystal.svg
 - Related: [Portrait NPC Captain Thalia Stormguard V1 Captain Thalia Stormguard.svg]]
-- Requires [[step_071 (phase_087)
-- Compare with [NPC01613_Kaelen_Voidwalker_the_Wanderer]]
-- Originates from [[firbolg-vgm (races)
-- Related: [The Bridge of Consciousness]]
+- Requires [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- Originates from [[The Bridge of Consciousness]]
 - Requires [[LOC00293_Wilderness_Location_294
 - Compare with [The Groundling Liberation Movement]]
 - Parallels [[List Spells Races Yuan Ti Pureblood Vgm

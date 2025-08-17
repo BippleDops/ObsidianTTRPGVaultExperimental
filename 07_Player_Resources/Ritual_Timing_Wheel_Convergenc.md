@@ -120,10 +120,8 @@ tags: [combat, lore]
 > This location connects to the main plot
 
 ## See Also
-- [[Sanity Quick Reference
-- [Quiet_Chapel_Oath_Scrol]]
-- [[Emergency_Evacuation_Map_Stormglass_Riot
-- [Currency_Guide_Scrip_and_Shard]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
 - [[Sanity_Quick_Reference.md
 - [11 Rules Glossary]]
 - [[Item_Catalog_Complete.md
@@ -131,8 +129,7 @@ tags: [combat, lore]
 
 ## Related Content
 - [audio_fit_report]]
-- [[audio_fit_report_1
-- [SVG_REPLACEMENT_REPORT]]
+- [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -162,28 +159,21 @@ tags: [combat, lore]
 - Originates from [04_Resources_Assets_Locations_location-city-the-harbormaster-s-office-v1-the-harbormaster-s-office.svg]]
 - Originates from [[step_034 (phase_082)
 - Parallels [location-city-memory-heist-memory-heist.svg]]
-- Connects to [[step_065 (phase_058)
-- Related: [NPC01979_Fiora_Emberfall_the_Guardian]]
+- Connects to [[NPC01979_Fiora_Emberfall_the_Guardian]]
 - Compare with [[step_071 (phase_036)
 - Requires [step_030 (phase_029)]]
-- Compare with [[Seraph Tidewhisper
-- See also: [LOC00214_Towns_Location_215]]
-- Leads to [[step_052 (phase_084)
-- Originates from [QUEST0033_The_Frozen_Fortress_Plague]]
+- Compare with [[LOC00214_Towns_Location_215]]
+- Leads to [[QUEST0033_The_Frozen_Fortress_Plague]]
 - Compare with [[step_073 (phase_083)
 - Originates from [Portrait NPC Captain Marcus Ironwill Captain Marcus Ironwill.svg]]
 - Originates from [[Location City Deep Compressmaster Deep Compressmaster.svg
 - Influences [ITEM01067_Pure_Powder_of_Clarity]]
 - Related: [[step_007 (phase_048)
 - See also: [step_056 (phase_051)]]
-- See also: [[bugbear-warrior-xmm (fey)
-- Connects to [Vault Backup 20250813 073007 07 Player Character Options Depth Adapted Background]]
-- See also: [[Environmental Engineer Wave Atmospherist
-- Compare with [step_019 (phase_018)]]
-- Affected by [[QUEST0088_The_Sunken_Temple_Disappearances
-- See also: [NPC00436_Malakai_Youngblood_the_Broken]]
-- Originates from [[Cliffside Manors (D&D_References)
-- Leads to [Mad Bell-Ringer Thomas]]
+- See also: [[Vault Backup 20250813 073007 07 Player Character Options Depth Adapted Background]]
+- See also: [[Environmental Engineer Wave Atmospherist]]
+- Affected by [[QUEST0088_The_Sunken_Temple_Disappearances]]
+- Originates from [[Cliffside Manors (D&D_References)]]
 - Requires [[Sommelier Bacchus Deepbottle
 - Originates from [step_027 (phase_021)]]
 - Influences [[Shadow Society Hierarchy (D&D_References)
@@ -191,10 +181,8 @@ tags: [combat, lore]
 - See also: [Assets Locations Location City Quality Inspector Reef Perfectwright Quality Inspector Reef Perfectwright.svg]]
 - Leads to [[elemental-weapon-xphb (spells)
 - Connects to [eberron-the-fury (deities)]]
-- Requires [[Spy-Master Nonentity 2
-- Affected by [ENC00051_Environmental_Encounter_52]]
-- Requires [[Great Preparatio (D&D_References)
-- Parallels [Merfolk Skirmisher Xmm]]
+- Requires [[ENC00051_Environmental_Encounter_52]]
+- Requires [[Great Preparatio (D&D_References)]]
 - Requires [[SPELL00066_Nature_Spell_67
 - Requires [forgotten-realms-cyric (deities)]]
 - Compare with [[Pelagic the Current-Walker
@@ -205,8 +193,7 @@ tags: [combat, lore]
 - Parallels [step_011 (phase_011)]]
 - Connects to [[The Strangling Vine
 - Compare with [ITEM00797_Infernal_Ring_of_the_Gods]]
-- See also: [[step_032 (phase_019)
-- See also: [ITEM0045_Forgotten_Gauntlet_of_Power]]
+- See also: [[ITEM0045_Forgotten_Gauntlet_of_Power]]
 - Originates from
 - Affected by [[SPELL00116_Arcane_Spell_117
 - Connects to [The Golden Promenade]]
@@ -231,20 +218,17 @@ tags: [combat, lore]
 - Related: [[step_047 (phase_080)
 - Parallels
 - Related: [The Anonymous Protocol]]
-- Related: [[NPC00804_Xander_Frostwhisper_the_Cunning
-- Parallels [QUEST00118_Main_Quest_119]]
+- Related: [[NPC00804_Xander_Frostwhisper_the_Cunning]]
 - Leads to [[Location City Keeper Aquaeous Depth Scholar Keeper Aquaeous Depth Scholar.svg
 - See also: [The Void Touched Depths 2]]
-- See also: [[Detection Specialist Gleam Corruptwatch
-- Requires [Elven Hanali Celanil Mtf]]
+- See also: [[Detection Specialist Gleam Corruptwatch]]
 - Influences [[Portrait NPC Marina Red Tide Coralheart Aquabyssos Marina Red Tide Coralheart Aquabyssos.svg_1 (Portraits)
 - See also: [Resonance Peaks (D&D_References)]]
 - See also: [[Location City Undead Rights Organization Hq V1 Undead Rights Organization Hq.svg
 - See also: [ENC00068_Combat_Encounter_69]]
 - Influences [[step_013 (phase_074)
 - Compare with [crossbow-expert-xphb (feats)]]
-- Parallels [[Harbor Master's License 2
-- Compare with [10 Appendix B Creature Stat Blocks]]
+- Parallels [[10 Appendix B Creature Stat Blocks]]
 - Parallels [[step_050 (phase_065)
 
 ## Visual References

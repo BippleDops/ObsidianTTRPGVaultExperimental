@@ -81,16 +81,16 @@ Date: [Date] | Duration: [[Expected Length]]] | Realm: [[Primary Realm]]] OPENIN
 - Key NPCs: [Characters with motivations]
 - Locations: [Places with atmosphere notes]
 - [[Potential Developments]]: [3 likely directions] ENCOUNTERS READY:
-- Social: [NPC [[interaction]] challenges]
+- Social: [NPC [[NPC_Interaction_Review]] challenges]
 - Exploration: [Discovery/investigation elements] - Combat: [If anticipated, stat blocks ready]
 - Problem-Solving: [Puzzles/obstacles] IMPROVISATION KIT:
-- Names: [List of available NPC [[names]]]
+- Names: [List of available NPC [[Names]]]
 - Stats: [Generic stat blocks]
 - Details: [Random tables for quick content] ADVANCEMENT:
 - [[Plot Threads]]: [Which stories advance]
 - [[Character Arcs]]: [Personal development opportunities]
 - [[World Changes]]: [How world state might shift] SESSION END:
-- [[Potential Cliffhangers]]: [Exciting stopping points]
+- [[Cliffhangers]]: [Exciting stopping points]
 - [[Next Session]] Setup: [How to transition] ### [[Preparation Time Management **[Weekly Preparation]] Schedule** (Total: 90 minutes):
 
 - **Monday**: Review previous session notes (10 minutes)

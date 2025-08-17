@@ -18,12 +18,7 @@ publish: false
 
 ---
 
- # [[Political Intrigue Session ---
-
-## Description
-
-Detailed description pending.
-title: [Political Intrigue]] Session
+ # [[Political Intrigue Session]] Session
 type: Lore
 tags:
 - lore
@@ -41,21 +36,7 @@ world: Both
 
 - A letter reveals ancient history about the cult ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## 12_Research [Specific Content]] Contextual improvement based on 12_Research ## References - [[[[Complete Faction [Warfare System]]]]
 
-- [[Complete_Faction_Warfare_System (D&D_References)
-
-## Notes
-
-*Additional notes*
-
-#mechanics/system
-#story/plot
-#story/story
-#story/lore
-#world/world
-#world/setting
-#gameplay/session
-#meta/reference
-## [Session Summary]]
+- [[Complete_Faction_Warfare_System (D&D_References)_List]]
 *Brief overview of this session*
 
 ## [[Key Events

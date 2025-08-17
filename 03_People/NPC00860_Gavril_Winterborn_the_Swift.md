@@ -163,28 +163,19 @@ Has map to lost treasure
 - Special moves
 
 ## See Also
-- [[NPC01247_Xander_Zephyrblade_the_Risen
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC00881_Qadim_Voidwalker_the_Strong
-- [NPC00276_Ysara_Youngblood]]
-- [[NPC01951_Gavril_Xendar_the_Swift
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [11 Spellcasting]]
-- [[NPC00670_Xander_Goldleaf_the_Scholar
-- [NPC01792_Rhiannon_Ironwood_the_Scholar]]
-- [[11 Rules Glossary
-- [NPC00083_Vesper_Xendar_the_Lost]]
-- [[NPC00259_Delara_Proudmore
-- [MOC_Rules]]
-- [[NPC01786_Zephyr_Jadeclaw_the_Mystic
-- [NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -208,8 +199,7 @@ Has map to lost treasure
 - Compare with
 - Connects to [[Exploring the Mine Xdmg
 - See also: [Assets Handouts Handout Handout Smuggler Ledger Page V1 Smuggler Ledger Page.png]]
-- Related: [[Investigative Chronicler Darius Truthseeker
-- Affected by [The Seahawk (Lore)]]
+- Related: [[Investigative Chronicler Darius Truthseeker]]
 - See also: [[step_006 (phase_055)
 - Originates from [12_Research_D&D_Statblocks_The_Synthesis_Gardens]]
 - Affected by [[Chancellor Marcus Provinces
@@ -256,10 +246,8 @@ Has map to lost treasure
 - Connects to [[LOC00003_Wilderness_Location_4
 - See also:
 - Requires [step_070 (phase_061)]]
-- Parallels [[NPC01311_Zephyr_Xendar_the_Wanderer
-- Requires [step_003 (phase_025)]]
-- Compare with [[Instrument of the Bards Canaith Mandolin Xdmg
-- Related: [Portrait NPC Amba... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Parallels [[NPC01311_Zephyr_Xendar_the_Wanderer]]
+- Compare with [[Portrait NPC Amba... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Requires [[step_081 (phase_009)
 - Affected by [Glossary Conventions Xphb]]
 - Compare with [[Portrait NPC Captain Sarah Ironheart V1 Captain Sarah Ironheart.svg
@@ -271,8 +259,7 @@ Has map to lost treasure
 - Related: [Portrait NPC Admiral Thorne Blackwater V2 Admiral Thorne Blackwater.svg_1 (Portraits)]]
 - Compare with [[Location City Sommelier Bacchus Deepbottle Sommelier Bacchus Deepbottle.svg
 - See also: [NPC00245_Delara_Dawnstrider_the_Cunning]]
-- Related: [[Witness Protection Protocol (D&D_References)
-- Related: [NPC01577_Orion_Moonshadow_the_Seeker]]
+- Related: [[Witness Protection Protocol (D&D_References)]]
 - Affected by [[Location City Public Libraries V1 Public Libraries.svg
 - Related: [MASTER_VAULT_DASHBOARD]]
 - See also: [[Portrait NPC Vex Shadowthorn V1 Vex Shadowthorn.svg_1 (Portraits)
@@ -284,21 +271,18 @@ Has map to lost treasure
 - Parallels [dungeon-dressing-container-contents (tables)]]
 - Related: [[Location City Shadow Market Canals Shadow Market Canals.svg
 - Influences [step_078 (phase_075)]]
-- Connects to [[Portrait NPC Ques... Related To: Local Political Structure Connected Plots: to Be Developed
-- Parallels [deities-of-dragonlance-good-phb (tables)]]
+- Connects to [[Portrait NPC Ques... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Related:
 - Compare with [[ITEM00828_Void-touched_Mirror_of_the_Gods
 - Originates from [Captain Storm Tideguard]]
 - Related: [[Project Mindbridge (D&D_References)
 - Parallels [Location City Commercial District Commercial District.svg]]
 - Connects to
-- Leads to [[Aethermoor - Session 03 Council of Shadows
-- Requires [Community Mediator Balance Wright (D&D_References)]]
+- Leads to [[Community Mediator Balance Wright (D&D_References)]]
 - Originates from [[scarecrow-xmm (construct)
 - Requires
 - Related: [step_004 (phase_094)]]
-- Parallels [[action-xphb (variant-rules)
-- Compare with [Archivist Reef Bookkeeper (D&D_References)]]
+- Parallels [[Archivist Reef Bookkeeper (D&D_References)]]
 - Originates from [[step_029 (phase_050)
 
 ## Visual References

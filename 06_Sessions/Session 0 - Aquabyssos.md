@@ -48,11 +48,11 @@ updated: '2025-08-11T00:00:00+00:00'
 - [[Aethermoor - Session 08 [Between Two Worlds]]
 - [[Session 05 [Cross Currents]]
 - [[Session 04 the [Deep Mother Stirs]]
-- [[[Session Planning Toolkit_1 (06_Sessions)]] - Related content
+- [[Session Planning Toolkit]] - Related content
 - Similar topics
 - Connected elements ## [[Alternate Descriptions - **[First Impression]]**: Initial appearance
 - **[[Closer Look**: Detailed examination
-- **[Hidden Details]]**: Secret aspects ## [[Random Table]] | d6 | Result |
+- **[Hidden Details]]**: Secret aspects ## [[Random_Tables]] | d6 | Result |
 | aliases: ["Session 0 - Aquabyssos"]
 priority: normal
 category: 06 Sessions

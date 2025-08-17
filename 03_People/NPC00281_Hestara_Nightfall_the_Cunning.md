@@ -162,32 +162,21 @@ Needs discrete help with family scandal
 - Special moves
 
 ## See Also
-- [[NPC00317_Pyria_Blackstone_the_Redeemed
-- [Marcus Shardbreaker Grimm_1]]
-- [[NPC00307_Dara_Proudmore_the_Seeker
-- [Ambassador Nerida Deepcurrent]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC01695_Ewan_Ashford_the_Fallen]]
-- [[NPC01888_Hestara_Ravenheart_the_Redeemed
-- [NPC00461_Branwen_Proudmore_the_Strong]]
-- [[NPC01568_Lyanna_Winterborn_the_Strong
-- [Keeper Elara Mindwell]]
-- [[Propaganda_Leaflet_Pearl_Guar
-- [Party_Quests]]
-- [[Player_Comfort_Check
-- [Player_Feedback_Form.md]]
-- [[NPC00860_Gavril_Winterborn_the_Swift
-- [NPC00285_Xander_Goldleaf_the_Mystic]]
-- [[Session_Recaps
-- [10 Appendix B Creature Stat Blocks]]
-- [[NPC01290_Pyria_Ashford_the_Broken
-- [Reputation_Tracker]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Player_Comfort_Check]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -200,12 +189,9 @@ Needs discrete help with family scandal
 
 ## Connections
 
-- Influences [[Counselor Marcus Publicvoice 2
-- Requires [Wild Magic Surge Phb]]
-- See also: [[Water Breathing Xphb
-- See also: [Level Advancement Without Xp]]
-- Affected by [[LOC00214_Planes_Location_215
-- Influences [step_066 (phase_053)]]
+- Influences [[Counselor Marcus Publicvoice 2]]
+- See also: [[Level Advancement Without Xp]]
+- Affected by [[LOC00214_Planes_Location_215]]
 - Requires [[SPELL00145_Arcane_Spell_146
 - Requires [ENC00042_Social_Encounter_43]]
 - Influences [[The Deep Mother
@@ -220,10 +206,8 @@ Needs discrete help with family scandal
 - Connects to [location-city-tidal-memento-tidal-memento.svg]]
 - Leads to [[Portrait NPC the Corroded Crown V1 the Corroded Crown.svg
 - Influences [list-spells-feats-wood-elf-magic-xge (lists)]]
-- See also: [[NPC01375_Xander_Moonshadow_the_Lost
-- Compare with [step_091 (phase_031)]]
-- Connects to [[NPC01448_Idris_Dawnstrider_the_Bold
-- Parallels [step_073 (phase_097)]]
+- See also: [[NPC01375_Xander_Moonshadow_the_Lost]]
+- Connects to [[NPC01448_Idris_Dawnstrider_the_Bold]]
 - Leads to [[Keen Mind Xphb
 - Parallels [Layers of Ysgard Xdmg]]
 - Requires [[Marcus Goldlea
@@ -247,17 +231,13 @@ Needs discrete help with family scandal
 - See also: [ITEM00207_Blessed_Staff_of_the_Ancients]]
 - Affected by [[Combat Encounter Difficulty Xp Thresholds by
 - Compare with [Creature Creature Young Green Dragon Xmm V2 Young Green Dragon Xmm.png]]
-- Leads to [[step_087 (phase_030)
-- Influences [LOC00113_Planes_Location_114]]
-- Influences [[LOC00202_Planes_Location_203
-- Affected by [step_094 (phase_055)]]
+- Leads to [[LOC00113_Planes_Location_114]]
+- Influences [[LOC00202_Planes_Location_203]]
 - Influences [[Information Broker Selan
 - Parallels
 - Influences [Traveling Merchant Finn]]
-- Requires [[The Dimensional Adaptation Recovery of Captain Pressure Storm
-- Influences [NPC01346_Hilda_Xendar_the_Broken]]
-- See also: [[Archivist Vera Glowmind 2
-- Connects to [NPC01955_Elric_Goldleaf_the_Wise]]
+- Requires [[The Dimensional Adaptation Recovery of Captain Pressure Storm]]
+- See also: [[NPC01955_Elric_Goldleaf_the_Wise]]
 - Connects to [[step_054 (phase_005)
 - Affected by [Archivist Supreme Indexa]]
 - Requires
@@ -269,37 +249,31 @@ Needs discrete help with family scandal
 - Requires
 - Originates from
 - Originates from [The Vigil Gardens]]
-- Connects to [[The Great Convergence Prophecies (D&D_References)
-- Leads to [The Phantom Docks]]
+- Connects to [[The Great Convergence Prophecies (D&D_References)]]
 - Originates from [[Otilukes Freezing Sphere Xphb
 - Originates from [Shadow-Silk Weavers Guild]]
 - Connects to [[The Paradox Constitution 2
 - Influences [step_051 (phase_060)]]
 - See also: [[Location City Pressure Guard Steelwall Pressure Guard Steelwall.svg
 - Requires [The Silent Watcher Entity]]
-- Requires [[step_065 (phase_004)
-- Related: [LOC00237_Towns_Location_238]]
+- Requires [[LOC00237_Towns_Location_238]]
 - Requires [[The Underground Market
 - Affected by
 - Connects to [bane-xphb (spells)]]
-- Related: [[NPC00398_Fiora_Voidwalker_the_Risen
-- Requires [step_020 (phase_012)]]
-- See also: [[Translator Polyglot Petra
-- Originates from [Surface Coalition 3 (D&D_References)]]
+- Related: [[NPC00398_Fiora_Voidwalker_the_Risen]]
+- See also: [[Surface Coalition 3 (D&D_References)]]
 - Compare with [[Location Network Graph (Indexes)
 - Influences [step_078 (phase_042)]]
 - Compare with [[Assets Vehicles Vehicle Ship Trench Lantern Surveyor Trench Lantern Surveyor.svg
 - Originates from [Whisper-Witch Naia Softcurrent 2]]
-- Compare with [[The Convergence Entity 2
-- Leads to [The Shadowmere Territories 2]]
+- Compare with [[The Shadowmere Territories 2]]
 - See also: [[scholars-of-prismari-prismari-scholars-scc (tables)
 - Parallels [salt-xdmg (items)]]
 - Parallels [[Engineer Shadowbuild
 - Affected by
 - Affected by [MON00034_Constructs_Creature_35]]
 - Parallels
-- Compare with [[Mage Hand Xphb
-- Originates from [Aquabyssos Government (D&D_References)]]
+- Compare with [[Aquabyssos Government (D&D_References)]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

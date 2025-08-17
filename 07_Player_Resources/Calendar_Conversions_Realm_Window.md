@@ -116,26 +116,17 @@ tags: [combat, magic, lore]
 > This location connects to the main plot
 
 ## See Also
-- [[NPC00388_Ysara_Goldleaf
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[NPC01660_Thalia_Moonshadow_the_Fallen
-- [NPC01252_Jorah_Youngblood_the_Strong]]
-- [[NPC00296_Elric_Jadeclaw_the_Bold
-- [NPC01028_Erasmus_Darkwater_the_Strong]]
-- [[NPC00276_Ysara_Youngblood
-- [NPC00761_Aldric_Moonshadow_the_Guardian]]
-- [[NPC01841_Malakai_Nightfall_the_Wise
-- [NPC00307_Dara_Proudmore_the_Seeker]]
-- [[NPC00582_Cedric_Dawnstrider
-- [Ceasefire_Accord_Draft.md]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC00582_Cedric_Dawnstrider]]
 - [[Combat_Encounter_Analysis
 - [Parliament of Shadows Player Guide.md]]
-- [[Propaganda_Leaflet_Pearl_Guar
-- [07 Customization Options]]
-- [[NPC00272_Rhiannon_Brightblade
-- [Master_Narrative_Web.md]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC00272_Rhiannon_Brightblade]]
 -
 
 ## Related Content
@@ -159,15 +150,13 @@ tags: [combat, magic, lore]
 ## Connections
 
 - Connects to [step_069 (phase_076)]]
-- Influences [[QUEST00470_Side_Quest_471
-- Leads to [Rothe Vgm]]
+- Influences [[QUEST00470_Side_Quest_471]]
 - Originates from
 - See also: [[NPC00060_Gareth_Ironforge
 - Requires [Portrait NPC the Ancient Nobility the Ancient Nobility.svg_1 (Portraits)]]
 - Connects to [[Handaxe Xphb
 - Related: [Deep Mining Guild]]
-- Influences [[LOC0009_Groveton
-- Affected by [Portrait NPC Pres... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Influences [[Portrait NPC Pres... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Related: [[Location City Temple of the Eternal Flame V1 Temple of the Eternal Flame.svg
 - Related: [The Clockwork Depths (D&D_References)]]
 - Influences [[Assets Locations Location City Ancient Treasury of Tides Ancient Treasury of Tides.svg
@@ -178,10 +167,8 @@ tags: [combat, magic, lore]
 - Originates from [Ancient Artifacts System]]
 - Leads to [[Inquisitor Thorn
 - Influences [Deep Expeditions]]
-- Related: [[Silverscale Crystal Warehouses (D&D_References)
-- Leads to [NPC00072_Alaric_Winterborn_the_Redeemed]]
-- Parallels [[Candle of Invocation Xdmg
-- Leads to [ENC00236_Combat_Encounter_237]]
+- Related: [[Silverscale Crystal Warehouses (D&D_References)]]
+- Parallels [[ENC00236_Combat_Encounter_237]]
 - Affected by [[step_053 (phase_058)
 - Requires [05_Rules/Spells]]
 - Parallels
@@ -201,35 +188,28 @@ tags: [combat, magic, lore]
 - Leads to [stone-golem-xmm]]
 - Connects to [[Assets Locations Location City Madame Rosalind Goldleaf Madame Rosalind Goldleaf.svg
 - Connects to [Nonhuman Deep Sashelas]]
-- Compare with [[Whisper Jack (Lore)
-- Leads to [LOC00066_Wilderness_Location_67]]
+- Compare with [[LOC00066_Wilderness_Location_67]]
 - Connects to
-- Leads to [[step_052 (phase_094)
-- Leads to [Conductor Morpheus Mindbridge 2]]
+- Leads to [[Conductor Morpheus Mindbridge 2]]
 - Compare with [[step_052 (phase_087)
 - Originates from [Free Captains Alliance]]
 - Influences [[star-spawn-hulk-mpmm (aberration)
 - Connects to [FAC00068_Cults_69]]
 - Related: [[ITEM01448_Decorated_Compass_of_Durability
 - Compare with [The Bone Palace of Sorrows (D&D_References)]]
-- Related: [[Prophet Sarah Naturalborn
-- Connects to [Annual Budget]]
-- See also: [[09-adventuring#Movement#Activity While Traveling
-- Leads to [step_029 (phase_086)]]
+- Related: [[Prophet Sarah Naturalborn]]
+- See also: [[09-adventuring#Resting]]
 - Affected by [[location-city-pelagic-cup-pelagic-cup.svg
 - Connects to [Depth's Embrace]]
-- Connects to [[List Spells School Evocation
-- See also: [The Crystal Amphitheater (D&D_References)]]
+- Connects to [[The Crystal Amphitheater (D&D_References)]]
 - Related: [[assault-or-invasion-invading-forces (tables)
 - Related: [SPELL00125_Divine_Spell_126]]
 - Originates from [[Gold Dragon
 - Connects to [step_018 (phase_081)]]
-- Leads to [[Goldspire Confederacy (D&D_Statblocks)
-- Parallels [LOC00116_Towns_Location_117]]
+- Leads to [[Goldspire Confederacy (D&D_Statblocks)]]
 - Related: [[step_059 (phase_025)
 - Originates from [Assets Locations Location City Registry Keeper Mordecai Truthbane Registry Keeper Mordecai Truthbane.svg]]
-- Influences [[Afflictions Existence Erosion
-- Parallels [Dr Torres Investigation]]
+- Influences [[Afflictions Existence Erosion]]
 - Leads to [[list-spells-races-tiefling-mammon-mtf (lists)
 - Connects to [Flow Circlemaker]]
 - Connects to [[Assets Vehicles Vehicle Ship Kelp Weave Patrol Boat V1 Kelp Weave Patrol Boat.svg
@@ -238,25 +218,20 @@ tags: [combat, magic, lore]
 - Affected by [step_051 (phase_084)]]
 - Parallels [[step_045 (phase_010)
 - Compare with [Portrait NPC Ambassador Nerida Deepcurrent V2 Ambassador Nerida Deepcurrent.svg_1 (Portraits)]]
-- Influences [[NPC01962_Corvus_Underhill_the_Lost
-- See also: [Control Flames Xge]]
+- Influences [[NPC01962_Corvus_Underhill_the_Lost]]
 - Leads to
-- Affected by [[ENC00269_Combat_Encounter_270
-- Requires [Project Mindbridge 2]]
+- Affected by [[ENC00269_Combat_Encounter_270]]
 - Parallels [[step_031 (phase_022)
 - Influences [fire-casting-statue-xdmg (traps-hazards)]]
-- Connects to [[Memoriam Keeper Marcus Remembrance
-- See also: [step_010 (phase_088)]]
+- Connects to [[Memoriam Keeper Marcus Remembrance]]
 - Compare with [[Old Tongue
 - Compare with [step_099 (phase_060)]]
 - Influences [[step_006 (phase_078)
 - Influences [dwarf-names-duergar-clan-xge (tables)]]
-- Connects to [[Treasurer Goldenshadow (D&D_References)
-- Compare with [Master Cultivator Luminos Deepglow]]
+- Connects to [[Treasurer Goldenshadow (D&D_References)]]
 - Parallels [[ITEM00334_Thunder_Crossbow_of_Slaying
 - See also: [Portrait NPC Lady Elena the Eternal V1 Lady Elena the Eternal.svg]]
-- Connects to [[step_047 (phase_038)
-- Requires [Voidwhisper Diplomat Seraphina Darkgrace 2]]
+- Connects to [[Voidwhisper Diplomat Seraphina Darkgrace 2]]
 - Leads to [[Medical Cover Operations Center 2
 
 ## Visual References

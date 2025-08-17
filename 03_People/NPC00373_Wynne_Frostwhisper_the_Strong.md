@@ -135,70 +135,23 @@ History, Insight, Perception
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- [[Political Alliances
-- Upcoming social events
-
-## Plot Hook
-Seeks bodyguards for dangerous journey
-
-## DM Notes
-- Adjust stats based on party level
-- Secrets can drive major plot points
-- Relationships create web of connections
-- Use quirks for memorable roleplay
-
----
-*Generated: 2025-08-15T03:51:03.155Z*
-
-## Voice & Mannerisms
-- Speaking style
-- Common phrases
-
-## Daily Routine
-- Morning activities
-- Evening habits
-
-## Combat Tactics
-- Preferred strategies
-- Special moves
-
-## Combat Stats
-Base: **Commoner** (BC p.345)
-Modifications:
-- HP: 34
-- AC: 13
-- Notable abilities: Varies by individual
-
-## See Also
-- [NPC01013_Corvus_Ravenheart_the_Bold]]
-- [[NPC00599_Cedric_Lightbringer_the_Wise
-- [Sage Elara]]
-- [[NPC00190_Cedric_Silverleaf
-- [NPC00317_Pyria_Blackstone_the_Redeemed]]
-- [[NPC00612_Thalia_Jadeclaw_the_Fallen
-- [NPC00057_Malakai_Stormwind_the_Cunning]]
-- [[NPC01870_Lyanna_Silverleaf_the_Cunning
-- [NPC00385_Qadim_Darkwater_the_Cunning]]
-- [[NPC00250_Delara_Darkwater_the_Fallen
-- [NPC00542_Corvus_Oakenshield_the_Strong]]
-- [[NPC_Name_Generator.png
-- [NPC01827_Kaelen_Ironforge_the_Seeker]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [Depth_Adapted_Background]]
-- [[Faction_Relationship_Web
-- [NPC00860_Gavril_Winterborn_the_Swift]]
-- [[Trade_Route_Map_Aquabyssos_to_Aethermoor
-- [13 Conditions]]
-- [[08 Using Ability Scores
-- [11 Rules Glossary]]
-- [[MOC_Lore
-- [NPC00058_Elric_Nightfall]]
+- [[Political Alliances]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[08 Using Ability Scores]]
+- [[NPC00058_Elric_Nightfall]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -215,7 +168,7 @@ Modifications:
 
 - Compare with [[LOC00052_Cities_Location_53
 - See also: [location-city-trade-union-trade-union.svg]]
-- Requires [[[Harbor Pilot Captain Storm Skyreacher 2]]
+- Requires [[Harbor Pilot Captain Storm Skyreacher 2]]
 - Influences [[step_019 (phase_046)
 - Influences [The Prophecy of Tides]]
 - Connects to [[step_040 (phase_048)
@@ -234,8 +187,7 @@ Modifications:
 - Influences [step_034 (phase_019)]]
 - Originates from [[Portrait NPC Unite the Emperor Unite the Emperor.svg_1 (Portraits)
 - Connects to [QUEST00128_Personal_Quest_129]]
-- Parallels [[QUEST00259_Personal_Quest_260
-- Leads to [LOC0080_NorthFalls]]
+- Parallels [[QUEST00259_Personal_Quest_260]]
 - Compare with [[step_028 (phase_014)
 - Leads to [Assets Symbols Symbol Heraldry Border Checkpoints Border Checkpoints.svg]]
 - Originates from [[step_086 (phase_015)
@@ -244,16 +196,14 @@ Modifications:
 - Affected by [Deep Adaptation Processes]]
 - Compare with [[Nonhuman Grolantor
 - Influences [Guild of Cross-Realm Navigators (02_Worldbuilding)]]
-- Related: [[Duke Blackwater's Estate
-- Related: [S-004_Cloud_Canyon]]
+- Related: [[Duke Blackwater's Estate]]
 - Requires [[Interfaith Dialogue
 - Requires [[[Tide Risktaker]] (D&D_References)]]
 - Parallels [[Communication_Systems
 - Originates from [Master_Resots]]
 - Related: [[SHOP00044_General_Shop_45
 - Affected by [ITEM01302_Simple_Lock_of_Durability]]
-- Related: [[Smuggler Captain Marina Darkwater
-- See also: [ENC00216_Social_Encounter_217]]
+- Related: [[Smuggler Captain Marina Darkwater]]
 - Leads to [[Wizard Xphb School of Necromancy
 - Compare with [[Assets Locations [[Location City [Memoriam]] the Forgotten Continent Memoriam the Forgotten Continent.svg]]]]
 - Originates from [[step_007 (phase_089)
@@ -264,23 +214,20 @@ Modifications:
 - Affected by [Aether Crystal (D&D_References)]]
 - Leads to [[step_014 (phase_015)
 - Related: [step_033 (phase_047)]]
-- Affected by [[10-combat#Shoving a Creature
-- Requires [NPC01396_Delara_Proudmore_the_Risen]]
+- Affected by [[10-combat#Surprise]]
 - Originates from [[step_056 (phase_014)
 - Affected by [Information Exchanges 2]]
 - Requires
 - Related: [[Assets Locations [[Location City [Sage Currentknow V1 Sage Currentknow.svg]]]]
 - See also: [[step_025 (phase_031)
 - Requires [LORE00150_History_Entry_151]]
-- Related: [[Light Gardener
-- Originates from [Technology Dimensional Sensors]]
+- Related: [[Technology Dimensional Sensors]]
 - Originates from [[step_067 (phase_075)
 - Leads to [LORE00111_Prophecies_Entry_112]]
 - Requires [[List Spells Races Tiefling Mammon Mtf
 - Affected by [NPC01196_Brenna_Underhill_the_Wise]]
-- Connects to [[The [Depth Plague (D&D_References)]]
-- Influences [[Advanced Combat Training Methods (D&D_References)
-- Connects to [[Portrait NPC Queen Seraphina [Lumengarde]] Queen Seraphina Lumengarde.svg_1 (Portraits)]]
+- Connects to [[Depth Plague (D&D_References)]]
+- Influences [[Advanced Combat Training Methods (D&D_References)]] Queen Seraphina Lumengarde.svg_1 (Portraits)]]
 - Related: [[step_030 (phase_088)
 - Requires [[Assets Locations Location City [Fresh Cleanwave]] V1 Fresh Cleanwave.svg]]
 - Leads to [[sacred-flame-xphb (spells)
@@ -293,20 +240,16 @@ Modifications:
 - Affected by [[potions-of-healing-xdmg (items)
 - Originates from [[Assets Locations Location City [Constitutional Monarchy]] Constitutional Monarchy.svg]]
 - Connects to [[Assets Locations Location City Religious [Religious Groups.svg]]
-- See also: [[locations
-- Related: [LOC0040_NorthHill]]
-- Affected by [[SPELL00118_Arcane_Spell_119
-- Connects to [NPC01819_Brenna_Moonshadow_the_Mystic]]
+- See also: [[LOC0040_NorthHill]]
+- Affected by [[NPC01819_Brenna_Moonshadow_the_Mystic]]
 - Connects to [[The Grand Trade Routes
 - Leads to [Symbol Heraldry Sister Benthos Scrollheart V1 Sister Benthos Scrollheart.svg]]
-- Requires [[NPC00673_Lyanna_Xendar_the_Broken
-- Requires [step_044 (phase_072)]]
+- Requires [[NPC00673_Lyanna_Xendar_the_Broken]]
 - Requires
 - See also: [[Northgate
 - Connects to [step_007 (phase_014)]]
 - Connects to
-- Affected by [[step_034 (phase_065)
-- Compare with [gold-dragon (legendary-group)]]
+- Affected by [[gold-dragon (legendary-group)]]
 - Affected by [[Current_Scene (02_Worldbuilding)
 - See also: [fangs-of-the-fire-snake (optional-features)]]
 - Influences [[candle-of-invocation-xdmg (items)

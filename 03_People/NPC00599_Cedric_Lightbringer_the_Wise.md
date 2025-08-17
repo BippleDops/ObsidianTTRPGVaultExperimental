@@ -168,32 +168,22 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC01483_Gavril_Zephyrblade_the_Fallen
-- [NPC00812_Kaelen_Jadeclaw_the_Seeker]]
-- [[NPC01040_Zephyr_Lightbringer_the_Strong
-- [NPC00317_Pyria_Blackstone_the_Redeemed]]
-- [[Ambassador Nerida Deepcurrent
-- [NPC00461_Branwen_Proudmore_the_Strong]]
-- [[NPC01371_Xander_Stormwind_the_Guardian
-- [NPC01498_Gareth_Quicksilver_the_Risen]]
-- [[NPC00501_Orion_Nightfall_the_Broken
-- [NPC00885_Kaelen_Xendar_the_Lost]]
-- [[NPC01870_Lyanna_Silverleaf_the_Cunning
-- [NPC00307_Dara_Proudmore_the_Seeker]]
-- [[NPC01012_Solas_Darkwater_the_Strong
-- [NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
 - [[Faction_Relationship_Web
 - [NPC_Relationship_Web.png_1 (03_People)]]
-- [[Faction_Guide.md
-- [11 Rules Glossary]]
-- [[NPC01201_Felicia_Ironwood_the_Bold
-- [NPC00300_Urien_Zephyrblade]]
+- [[11 Rules Glossary]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -210,23 +200,19 @@ Modifications:
 
 - Connects to [[dwarven-sharindlar-mtf (deities)
 - Influences [[Assets Locations Location City [Archivist Stone Memorykeeper]] V1 Archivist Stone Memorykeeper.svg]]
-- See also: [[NPC01530_Cedric_Oakenshield_the_Lost
-- Affected by [[[The Threshold Chambers]] 2]]
-- Affected by [[[Shadow Wells (D&D_References)]]
+- See also: [[NPC01530_Cedric_Oakenshield_the_Lost]] 2]]
+- Affected by [[Shadow Wells (D&D_References)]]
 - Related: [[FAC00088_Cults_89
 - Connects to [Portrait NPC Brother Marcus Steelbane V1 Brother Marcus Steelbane.svg_1 (Portraits)]]
 - Affected by
-- Compare with [[The [Depth Plague]]
+- Compare with [[Depth Plague]]
 - Originates from [[Location City [Inverted Ballroom Wing Inverted Ballroom Wing.svg]]
 - Compare with [[Victoria Harbormane
 - Connects to [step_016 (phase_051)]]
-- Affected by [[[Breaking the Deep (D&D_References)]]
-- Compare with [[Seven_Shards_Epic_Conclusion
-- Leads to [[down[Time]]-activity-scribing-a-spell-scroll-xge (variant-rules)]]
-- Affected by [[QUEST00096_Main_Quest_97
-- Leads to [ENC00255_Social_Encounter_256]]
-- Connects to [[Silverscale Emergency Bunker 3 (D&D_References)
-- Originates from [step_057 (phase_096)]]
+- Affected by [[Breaking the Deep (D&D_References)]]
+- Compare with [[Seven_Shards_Epic_Conclusion]]-activity-scribing-a-spell-scroll-xge (variant-rules)]]
+- Affected by [[ENC00255_Social_Encounter_256]]
+- Connects to [[Silverscale Emergency Bunker 3 (D&D_References)]]
 - Related: [[Character Sheet Xphb
 - Affected by
 - Parallels [cloak-of-displacement-xdmg (items)]]
@@ -236,20 +222,15 @@ Modifications:
 - Originates from [Coral Vortextrader]]
 - Related: [[Quaals Feather Token Whip Xdmg
 - Requires [SETUP_GUIDE]]
-- See also: [[Canal Master Typhoon Currentwise 2
-- Affected by [Umbral Crystal Miners]]
-- See also: [[Thunderwave Xphb
-- Related:
-- Related: [QUEST0073_The_Frozen_Fortress_Uprising]]
-- Parallels [[Counter-Surveillance
-- Requires [NPC01137_Urien_Frostwhisper_the_Lost]]
-- Compare with [[Chasme Xmm
-- Affected by [Captain Zara Stormwind (D&D_References)]]
+- See also: [[Canal Master Typhoon Currentwise 2]]
+- See also: [[QUEST0073_The_Frozen_Fortress_Uprising]]
+- Parallels [[NPC01137_Urien_Frostwhisper_the_Lost]]
+- Compare with [[Captain Zara Stormwind (D&D_References)]]
 - Leads to [[Kraken Spaw
 - Parallels
 - Connects to [DUN00099_Dungeon_100]]
 - Related:
-- Connects to [[[Comparative Religion (D&D_References)]]
+- Connects to [[Comparative Religion (D&D_References)]]
 - Parallels [[Portrait NPC the Shadow Singer Naia V1 the Shadow Singer Naia.svg
 - Affected by [[Assets Locations [Location City Pressure Responsive Fabrics Pressure Responsive Fabrics.svg]]]]
 - Affected by [[EVENT00076_Political_Event_77
@@ -257,8 +238,7 @@ Modifications:
 - Requires [[Jumping Xphb
 - Related: [step_087 (phase_018)]]
 - Connects to
-- Parallels [[ENC00401_Combat_Encounter_402
-- Requires [[[Aquabyssos]] Contact Agent Coral]]
+- Parallels [[ENC00401_Combat_Encounter_402]] Contact Agent Coral]]
 - Connects to
 - See also:
 - Influences [[Scholar Dr. Vera Theological
@@ -272,8 +252,7 @@ Modifications:
 - Influences [The Crushing Sanctuary]]
 - Compare with [[Maritime Technolog 2
 - See also: [step_036 (phase_067)]]
-- Requires [[NPC01773_Drusilla_Silverleaf_the_Wanderer
-- Related: [Bridge Currentcrosser]]
+- Requires [[NPC01773_Drusilla_Silverleaf_the_Wanderer]]
 - Originates from [[step_003 (phase_015)
 - Compare with [step_040 (phase_091)]]
 - Leads to [[Update Weather
@@ -286,8 +265,7 @@ Modifications:
 - Leads to [pact-of-the-blade-xphb (optional-features)]]
 - Related: [[step_026 (phase_039)
 - Affected by [ITEM01052_Superior_Oil_of_Fortune]]
-- Originates from [[Prince Thalassic (D&D_References)
-- Requires [Rogue Xphb Inquisitive Xge]]
+- Originates from [[Prince Thalassic (D&D_References)]]
 - Affected by [[The Amnesia Rehabilitation Centers
 - Connects to [ITEM01071_Distilled_Crystal_of_Vigor]]
 - Leads to [[step_072 (phase_036)
@@ -306,8 +284,7 @@ Modifications:
 - See also: [step_082 (phase_056)]]
 - See also: [[aquatic-troll-rot (giant)
 - Compare with [step_016 (phase_097)]]
-- Related: [[ITEM00917_Superior_Powder_of_Vigor
-- Requires [NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- Related: [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
 
 ## Visual References
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png

@@ -164,34 +164,19 @@ Modifications:
 
 ## See Also
 - [NPC01017_Vesper_Keenblade_the_Risen]]
-- [[NPC01877_Hestara_Moonshadow_the_Mystic
-- [NPC00663_Alaric_Dawnstrider_the_Strong]]
-- [[NPC01931_Thalia_Lightbringer_the_Fallen
-- [NPC01937_Felicia_Silverleaf_the_Wanderer]]
-- [[NPC01040_Zephyr_Lightbringer_the_Strong
-- [NPC01195_Gareth_Keenblade_the_Guardian]]
-- [[NPC01113_Solas_Ravenheart_the_Cunning
-- [Sage Elara]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [NPC00388_Ysara_Goldleaf]]
-- [[NPC01429_Zephyr_Keenblade_the_Cunning
-- [NPC00739_Gavril_Ashford_the_Bold]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [NPC01695_Ewan_Ashford_the_Fallen]]
-- [[NPC01447_Baelor_Winterborn_the_Strong
-- [NPC00515_Baelor_Crystalbrook_the_Seeker]]
-- [[NPC00351_Corvus_Ironwood
-- [Party_Quests]]
-- [[NPC01664_Pyria_Lightbringer_the_Redeemed
-- [Archdruid Thornweaver]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
 - [[What You Know - Abyssos Prime.md
 - [Faction_Guide.md_1 (07_Player_Resources)]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -209,17 +194,14 @@ Modifications:
 ## Connections
 
 - Originates from [location-city-the-deepmind-v1-the-deepmind.svg]]
-- Parallels [[Bexley [Port Authority]]
+- Parallels [[Port Authority]]
 - Compare with [[step_068 (phase_098)
 - Parallels [step_035 (phase_008)]]
 - Requires [[02_Worldbuilding_Lore_The_Memory_Trade
 - Compare with [[Location City [Stormwind Supplies]] Stormwind Supplies.png]]
-- Related: [[NPC01956_Zephyr_Thornweave_the_Guardian
-- Originates from [Depth Moss 2]]
-- Influences [[Crisis Response Centers 2
-- Related: [step_058 (phase_069)]]
-- Influences [[ITEM0042_Cursed_Gauntlet_of_Power
-- See also: [NPC1 (People)]]
+- Related: [[NPC01956_Zephyr_Thornweave_the_Guardian]]
+- Influences [[Crisis Response Centers 2]]
+- Influences [[ITEM0042_Cursed_Gauntlet_of_Power]]
 - Compare with [[Symbol Heraldry Silverscale Consortium V1 Silverscale Consortium.svg
 - See also: [[Assets Locations Location City [Depth Merchants]] Depth Merchants.svg]]
 - Connects to [[baboon-xmm (beast)
@@ -250,8 +232,7 @@ Modifications:
 - See also: [[step_021 (phase_100)
 - Related: [Detailed Life Sized Dragonborn Skull Cast in Electrum Xdmg]]
 - See also: [[Assets Locations [Location City Madame Rosalind Goldleaf Madame Rosalind Goldleaf.svg]]
-- Influences [[Quest - The Failing Magic
-- Compare with [The Addicted Nobles (D&D_References)]]
+- Influences [[The Addicted Nobles (D&D_References)]]
 - Compare with [[Institute_of_Adaptive_Sciences (02_Worldbuilding)
 - Related: [step_027 (phase_069)]]
 - Affected by [[Brother Matthias the Amber Bearer (People)
@@ -277,13 +258,11 @@ Modifications:
 - Connects to [[[Aquabyssos]] Depth Caste System (D&D_References)]]
 - Related: [[step_003 (phase_069)
 - Requires [07 Chapter 6 Equipment]]
-- See also: [[QUEST00107_Side_Quest_108
-- Influences [Celestial Heights]]
+- See also: [[QUEST00107_Side_Quest_108]]
 - Compare with
 - Connects to [[LORE00072_History_Entry_73
 - Related: [step_051 (phase_042)]]
-- See also: [[The Grand Trade Routes (D&D_References)
-- Parallels [step_009 (phase_004)]]
+- See also: [[The Grand Trade Routes (D&D_References)]]
 - Compare with [[step_009 (phase_086)
 - Related: [LORE00271_History_Entry_272]]
 - Leads to [[Vegepygmy Chief Mpmm
@@ -292,13 +271,11 @@ Modifications:
 - Originates from [step_008 (phase_047)]]
 - Related: [[Quest - Shadow Medicine
 - Affected by [giant-badger-xmm]]
-- Connects to [[[Time's Mercy]]
+- Connects to [[Time's Mercy]]
 - Parallels [[Armor of Vulnerability Bludgeoning Xdmg
 - Related: [ENC00050_Environmental_Encounter_51]]
-- Influences [[QUEST00246_Personal_Quest_247
-- Parallels [step_065 (phase_042)]]
-- Affected by [[Conservation Director Ecosystem Protector
-- Related: [Forgotten Realms Auril]]
+- Influences [[QUEST00246_Personal_Quest_247]]
+- Affected by [[Conservation Director Ecosystem Protector]]
 - Leads to [[Portrait NPC Lady Shadowmere V1 Lady Shadowmere.svg
 - Requires [step_047 (phase_065)]]
 - Requires [[LOC00166_Wilderness_Location_167

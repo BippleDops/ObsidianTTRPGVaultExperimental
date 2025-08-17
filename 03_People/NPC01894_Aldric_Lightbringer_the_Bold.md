@@ -161,70 +161,38 @@ Offers deal too good to refuse
 - Special moves
 
 ## See Also
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [NPC01276_Erasmus_Keenblade_the_Wanderer]]
-- [[NPC01301_Jorah_Underhill_the_Broken
-- [NPC01943_Xander_Proudmore_the_Fallen]]
-- [[NPC00655_Jorah_Darkwater_the_Seeker
-- [NPC00820_Thalia_Nightfall_the_Risen]]
-- [[NPC00133_Lyanna_Oakenshield_the_Seeker
-- [NPC00582_Cedric_Dawnstrider]]
-- [[NPC00821_Zephyr_Voidwalker_the_Cunning
-- [NPC01247_Xander_Zephyrblade_the_Risen]]
-- [[NPC01911_Alaric_Oakenshield_the_Mystic
-- [NPC01504_Erasmus_Zephyrblade_the_Strong]]
-- [[NPC01624_Corvus_Silverleaf_the_Redeemed
-- [NPC00872_Thalia_Ironwood_the_Broken]]
-- [[NPC01438_Hilda_Youngblood_the_Fallen
-- [NPC01613_Kaelen_Voidwalker_the_Wanderer]]
-- [[NPC00095_Fiora_Nightfall
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[NPC00661_Corvus_Darkwater_the_Broken
-- [NPC00373_Wynne_Frostwhisper_the_Strong]]
-- [[NPC00927_Aldric_Ironwood_the_Wanderer
-- [NPC01687_Aldric_Youngblood_the_Cunning]]
-- [[NPC00761_Aldric_Moonshadow_the_Guardian
-- [NPC01599_Gavril_Keenblade_the_Strong]]
-- [[NPC00388_Ysara_Goldleaf
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[Sage Elara
-- [NPC01761_Idris_Moonshadow_the_Broken]]
-- [[NPC00976_Alaric_Quicksilver_the_Strong
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[NPC00542_Corvus_Oakenshield_the_Strong
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[NPC01625_Qadim_Lightbringer_the_Swift
-- [Parliament of Shadows Player Guide.md]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]
 - [[Player_Portal.md
 - [Propaganda_Broadsheet_Syndicate.md]]
-- [[NPC01767_Alaric_Ravenheart_the_Risen
-- [Player_Comfort_Check]]
-- [[Trade_Route_Chart_Port_Meridia
-- [NPC01502_Urien_Underhill_the_Scholar]]
-- [[Player_Feedback_Form.md
-- [Player_Dashboard]]
-- [[Faction_Relationship_Web
-- [Dockworker_Union_Flyer.md]]
-- [[Reference.md
-- [NPC01466_Urien_Nightfall_the_Guardian]]
-- [[Trade_Route_Map_Aquabyssos_to_Aethermoor
-- [11 Spellcasting]]
-- [[NPC01786_Zephyr_Jadeclaw_the_Mystic
-- [09 Appendix a the Multiverse]]
-- [[NPC01201_Felicia_Ironwood_the_Bold
-- [14 Gods of the Multiverse]]
-- [[NPC01937_Felicia_Silverleaf_the_Wanderer
-- [04 Classes]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[Player_Feedback_Form]]
+- [[Faction_Relationship_Web]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
 - [[NPC_Relationship_Web.png_1 (03_People)
 - [NPC00272_Rhiannon_Brightblade]]
-- [[NPC00321_Aeliana_Zephyrblade_the_Strong
-- [MASTER_MOC]]
-- [[NPC01566_Lyanna_Underhill_the_Redeemed
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -256,10 +224,8 @@ Offers deal too good to refuse
 - Affected by [tiefling-mammon-mtf (races)]]
 - Leads to [[step_018 (phase_089)
 - See also: [step_045 (phase_042)]]
-- Leads to [[Free Current Charter (D&D_References)
-- Affected by [The_Academy_of_Resoce]]
-- Related: [[LOC00056_Dungeons_Location_57
-- Originates from [Glass Bottle Xphb]]
+- Leads to [[Free Current Charter (D&D_References)]]
+- Related: [[LOC00056_Dungeons_Location_57]]
 - Influences [[step_039 (phase_024)
 - Compare with [LORE00057_History_Entry_58]]
 - Requires [[Location City Pilgrimage Master Depth Guide Melancholy V1 Pilgrimage Master Depth Guide Melancholy.svg
@@ -296,8 +262,7 @@ Offers deal too good to refuse
 - Related: [Portrait NPC Deep Priest Covenant Deep Priest Covenant.svg_1 (Portraits)]]
 - Parallels [[Bomber Bobby Naturals 2
 - See also: [MON00005_Constructs_Creature_6]]
-- Leads to [[experience-points-xphb (variant-rules)
-- Originates from [Cathedral of Light]]
+- Leads to [[experience-points-xphb (variant-rules)]]
 - Affected by [[Myconid Adult Xmm
 - Parallels [Portrait NPC the Throne Chamber of Eternal Bubbles the Throne Chamber of Eternal Bubbles.svg]]
 - Affected by [[12-appendix-b-monster-lists (dungeon-masters-guide-2014)
@@ -330,8 +295,7 @@ Offers deal too good to refuse
 - Originates from
 - Requires [[vampire-spawn-xmm (undead)
 - See also: [step_074 (phase_023)]]
-- See also: [[Customer Relations Director Seraphina Calmcurrent (D&D_References)
-- Influences [ITEM01302_Simple_Lock_of_Durability]]
+- See also: [[Customer Relations Director Seraphina Calmcurrent (D&D_References)]]
 - Connects to
 - Leads to [[ULTIMATE_SYSTEM_REPORT
 - Compare with [Merger_Vessels_Catalog]]

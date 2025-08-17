@@ -66,7 +66,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[02_Worldbuilding/Places/[[Abyssos Prime - [Inverse Palace]]]]
-- [[02_Worldbuilding/Places/[Royal Palace]]
+- [[02_Worldbuilding]]
 
 ## Atmosphere
 - Mood and feeling

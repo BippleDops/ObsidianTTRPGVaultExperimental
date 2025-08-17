@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.301735"
 modified: "2025-08-15T12:24:39.301737"
-aliases: [Session 16 - [[The Hidden]] Guardian]
+aliases: [Session 16 - [[The Hidden Archive]] Guardian]
 ---
 
 # Session 16   [[The Hidden Guardian
@@ -16,7 +16,7 @@ modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: Session 16 - [[The Hidden]] Guardian.Md
+subcategory: Session 16 - [[The Hidden Archive]] Guardian.Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -31,7 +31,7 @@ type: session
 updated: 2025-08-14
 - -- # Session 16 - [The Hidden]] Guardian ## [[Overview This document contains important information regarding Session 16 - [The Hidden]] Guardian and its role within the greater narrative. ## Description
 
-**Details**: Rich sensory elements bring this to life. Session 16 - [[The Hidden]] Guardian represents a significant element within the campaign world, offering various opportunities for engagement and
+**Details**: Rich sensory elements bring this to life. Session 16 - [[The Hidden Archive]] Guardian represents a significant element within the campaign world, offering various opportunities for engagement and
 *Sounds of [relevant sounds] echo in the distance.*development. ## [[Key Information - **[Primary Purpose]]**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details ### [[Background Historical context and development over time. ### [Current State]] Present circumstances and ongoing relevance. However, ### [[Future Potential Possible developments and plot directions. ## Relationships - Connected to various other elements within the vault

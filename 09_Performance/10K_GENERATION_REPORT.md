@@ -140,8 +140,7 @@ publish: false --- # 10,000 Asset Generation Report Generated: 2025-08-15T03:51:
 - See also: [step_007 (phase_097)]]
 - Requires [[LORE00248_Prophecies_Entry_249
 - Connects to [Council President Diana Democratic]]
-- See also: [[Sorrow Pearls Economy
-- Originates from [Alternative-Path-Fled-City (D&D_References)]]
+- See also: [[Alternative-Path-Fled-City (D&D_References)]]
 - Originates from [[step_008
 - Requires [step_073]]
 - Related: [[step_100 (phase_039)
@@ -156,30 +155,23 @@ publish: false --- # 10,000 Asset Generation Report Generated: 2025-08-15T03:51:
 - Compare with [step_030 (phase_064)]]
 - See also: [[Location City Keeper of Sorrows Tidal Memento Keeper of Sorrows Tidal Memento.svg
 - Requires [Void Storms]]
-- Affected by [[Commander Eastwind Stormbreak (D&D_References)
-- Requires [step_094 (phase_038)]]
+- Affected by [[Commander Eastwind Stormbreak (D&D_References)]]
 - Connects to [[ITEM00785_Void-touched_Amulet_of_Eternity
 - Connects to [Dr. Silent Treatment]]
 - Connects to [[step_082 (phase_021)
 - Requires [Ancient Imperial Cities]]
-- Related: [[ITEM0014_Glorious_Shield_of_Power
-- Parallels [Transformations - Crystal - Crystal Resonanc]]
-- Requires [[LOC00093_Wilderness_Location_94
-- See also: [SPELL00017_Arcane_Spell_18]]
+- Related: [[Transformations - Crystal - Crystal Resonanc]]
+- Requires [[LOC00093_Wilderness_Location_94]]
 - Leads to [[LOC00240_Wilderness_Location_241
 - Influences [Portrait NPC Captain Nautilus the Deep Wanderer Captain Nautilus the Deep Wanderer.svg]]
 - Related: [[step_064 (phase_057)
 - Parallels [step_047 (phase_094)]]
 - Related: [[Thorny Vegepygmy Mpmm
 - Related: [step_075 (phase_022)]]
-- Related: [[University Research Division
-- Affected by [The Sunken Palace (D&D_References)]]
-- Leads to [[Voidwhisper Diplomat Seraphina Darkgrace (D&D_References)
-- Leads to [2-monsters-a-to-z (monster-manual-2025)]]
-- Influences [[NPC01880_Ewan_Brightblade_the_Wise
-- Originates from [The First Drowning]]
-- See also: [[step_057
-- Parallels [ENC00141_Environmental_Encounter_142]]
+- Related: [[The Sunken Palace (D&D_References)]]
+- Leads to [[Voidwhisper Diplomat Seraphina Darkgrace (D&D_References)]]
+- Influences [[NPC01880_Ewan_Brightblade_the_Wise]]
+- See also: [[ENC00141_Environmental_Encounter_142]]
 - Leads to [[QUEST00054_Main_Quest_55
 - Compare with [The Phosphor Markets 2]]
 - Requires [[vampiric-ixitxachitl-oota (aberration)
@@ -202,14 +194,12 @@ publish: false --- # 10,000 Asset Generation Report Generated: 2025-08-15T03:51:
 - See also: [Assets Locations Location City Merchant Quarter Districts Merchant Quarter Districts.svg]]
 - Requires [[Deep Mother 3 (D&D_References)
 - Originates from [step_042 (phase_082)]]
-- Related: [[MON00107_Constructs_Creature_108
-- Affected by [Drider Xmm]]
+- Related: [[MON00107_Constructs_Creature_108]]
 - Related: [[LORE00120_Prophecies_Entry_121
 - Compare with [Portrait NPC Emperor Pelagic the Last V1 Emperor Pelagic the Last.svg]]
 - Leads to [[Assets Locations Location City Navigator Abyssal Truthseeker Navigator Abyssal Truthseeker.svg
 - Originates from [NPC00612_Thalia_Jadeclaw_the_Fallen]]
-- Affected by [[initiative-variants (variant-rules)
-- Connects to [Stench Kow Mpmm]]
+- Affected by [[initiative-variants (variant-rules)]]
 - Requires [[Supplemental Tables Status Xge
 - Compare with [FAC00092_Cults_93]]
 - Connects to [[LORE00082_Prophecies_Entry_83
@@ -218,20 +208,15 @@ publish: false --- # 10,000 Asset Generation Report Generated: 2025-08-15T03:51:
 - Compare with [step_001 (phase_039)]]
 - Influences [[Wild Magic Surge Xphb
 - Requires [The Last Guardian]]
-- Related: [[step_058 (phase_063)
-- Requires [System Cli Spells School Enchantment]]
+- Related: [[System Cli Spells School Enchantment]]
 - Compare with [[cleric-xphb-war-domain-xphb (classes)
 - Compare with [ITEM00442_Warded_Gauntlets_of_Fortitude]]
 - See also: [[step_022 (phase_073)
 - Leads to [villains-villains-methods (tables)]]
-- Related: [[NPC01500_Brenna_Blackstone_the_Guardian
-- Leads to [step_099]]
-- Affected by [[step_086
-- Connects to [QUEST00121_Main_Quest_122]]
-- Related: [[NPC00422_Aeliana_Thornweave_the_Wise
-- Connects to [Historian Lisa Outreach (D&D_References)]]
-- Related: [[S L-11 Platform Unmooring Player
-- Compare with [step_051]]
+- Related: [[NPC01500_Brenna_Blackstone_the_Guardian]]
+- Affected by [[QUEST00121_Main_Quest_122]]
+- Related: [[Historian Lisa Outreach (D&D_References)]]
+- Related: [[S L-11 Platform Unmooring Player]]
 - Parallels [[Target_Name (02_Worldbuilding)
 - Compare with [step_088 (phase_078)]]
 - Influences [[step_064 (phase_048)]]

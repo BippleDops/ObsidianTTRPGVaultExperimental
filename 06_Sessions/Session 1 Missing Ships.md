@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.460206"
 modified: "2025-08-15T12:24:39.460208"
-aliases: [Session 1 [[Missing Ships]]]
+aliases: [Session 1 [[Session 1 Missing Ships]]]
 ---
 
 # Session 1 [[Missing Ships
@@ -16,7 +16,7 @@ modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: Session 1 [[Missing Ships]].Md
+subcategory: Session 1 [[Session 1 Missing Ships]].Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -27,7 +27,7 @@ tags:
 modified: '2025-01-15'
 - -- # Session 1 [Missing Ships]] ## [[Overview This document contains important information regarding Session 1 [Missing Ships]] and its role within the greater narrative. ## Description
 
-**Details**: Rich sensory elements bring this to life. Session 1 [[Missing Ships]] represents a significant element within the campaign world, offering various opportunities for engagement and developme
+**Details**: Rich sensory elements bring this to life. Session 1 [[Session 1 Missing Ships]] represents a significant element within the campaign world, offering various opportunities for engagement and developme
 *The [texture] surface feels [description] to the touch.*nt. Consequently, ## [[Key Information - **[Primary Purpose]]**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details ### [[Background Historical context and development over time. ### [Current State]] Present circumstances and ongoing relevance. ### [[Future Potential Possible developments and plot directions. ## Relationships - Connected to various other elements within the vault
@@ -59,7 +59,7 @@ modified: '2025-01-15'
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

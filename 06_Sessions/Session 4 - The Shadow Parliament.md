@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.474647"
 modified: "2025-08-15T12:24:39.474648"
-aliases: [Session 4 - [[The Shadow]] Parliament]
+aliases: [Session 4 - [[The Shadowmere]] Parliament]
 ---
 
 # Session 4   [[The Shadow Parliament
@@ -37,7 +37,7 @@ updated: 2025-08-14
 aliases: ["Session 4 - [The Shadow]] Parliament"]
 priority: normal
 category: 06 Sessions
-subcategory: Session 4 - [[The Shadow]] Parliament.Md
+subcategory: Session 4 - [[The Shadowmere]] Parliament.Md
 related: []
 cssclass: standard
 publish: false --- -|--------|
@@ -72,7 +72,7 @@ publish: false --- -|--------|
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

@@ -163,12 +163,7 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC01951_Gavril_Xendar_the_Swift
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -190,10 +185,8 @@ Modifications:
 - Affected by [NPC01387_Xander_Zephyrblade_the_Redeemed]]
 - Leads to [[step_057 (phase_031)
 - See also: [Portrait NPC Lady Crystal Heart Miraleth V1 Lady Crystal Heart Miraleth.svg]]
-- Related: [[SPELL00077_Arcane_Spell_78
-- Influences [#Planets]]
-- Parallels [[ITEM00155_Shadow_Crossbow_of_Power
-- See also: [The Scribes' Covenant (D&D_References)]]
+- Related: [[SPELL00077_Arcane_Spell_78]]
+- Parallels [[The Scribes' Covenant (D&D_References)]]
 - Originates from [[Assets Locations Location City [Religious Leaders V1 Religious Leaders.svg]]
 - Influences [[ITEM01212_Pure_Herb_of_Clarity
 - Affected by
@@ -219,8 +212,7 @@ Modifications:
 - Leads to [step_059 (phase_039)]]
 - Requires [[University of Deepcurrent
 - Leads to [silver-chalice-set-with-moonstones-xdmg (items)]]
-- Leads to [[step_013 (phase_046)
-- Connects to [multiclassing-xphb (variant-rules)]]
+- Leads to [[multiclassing-xphb (variant-rules)]]
 - Affected by [[Magic Schools and Academies
 - Affected by [step_087 (phase_043)]]
 - Originates from [[step_053 (phase_082)
@@ -235,24 +227,20 @@ Modifications:
 - Originates from [[QUEST00036_Personal_Quest_37
 - Leads to
 - Affected by [Forgotten Realms Eldath]]
-- Related: [[suffocation-xphb (traps-hazards)
-- Originates from [Downtime Activity Buying a Magic Item Xge]]
+- Related: [[Downtime Activity Buying a Magic Item Xge]]
 - Connects to [[Portrait NPC Sister Thalassa the Depth Touched V2 Sister Thalassa the Depth Touched.svg
 - Leads to [[Location City [Elder Matthias Stoneward]] V1 Elder Matthias Stoneward.svg]]
 - Leads to [[LORE00035_Prophecies_Entry_36
 - Leads to [step_076 (phase_087)]]
-- Compare with [[Interrogation Techniques (D&D_References)
-- Requires [Market Charte 2]]
-- Influences [[prophets-gambit-cos (variant-rules)
-- Compare with [step_041 (phase_035)]]
+- Compare with [[Interrogation Techniques (D&D_References)]]
+- Influences [[prophets-gambit-cos (variant-rules)]]
 - Affected by [[step_009 (phase_090)
 - Leads to [Artist Voidbrush 2]]
 - Related: [[Location City [Education Department Education Department.svg]]
 - Parallels [[Dawn War Torog Dmg
 - Parallels
 - Leads to [Citizens' Budget Review]]
-- See also: [[Guardian Isolation Syndrom 2
-- See also: [Portrait NPC Aria... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- See also: [[Portrait NPC Aria... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Leads to [[Automatic Success
 - Influences [Cultural Studies Program]]
 - Leads to
@@ -264,19 +252,15 @@ Modifications:
 - Influences [ITEM00114_Thunder_Staff_of_Accuracy]]
 - Connects to [[1 DM Toolkit Home Embeds Dv
 - Leads to [Portrait NPC Captain Torrent Swiftcurrent V2 Captain Torrent Swiftcurrent.svg]]
-- Leads to [[Investigation Mechanics
-- Connects to [Continental War 3 (D&D_References)]]
+- Leads to [[Continental War 3 (D&D_References)]]
 - Related: [[pale-tincture-xdmg (items)
 - Related: [[[Archivist Elena Sorrowkeeper]] 2]]
 - Leads to [[List Spells Optional Features Bewitching
 - Influences [step_002 (phase_078)]]
 - See also:
-- Leads to [[step_069 (phase_035)
-- See also: [[[Expedition to the Sunless Depths]] 2]]
-- Related: [[The Final Forgetting (D&D_References)
-- Related: [Crystal_Corruption (03_Mechanics)]]
-- Parallels [[The Crystal Integration Festival 2
-- Leads to [step_090 (phase_099)]]
+- Leads to [[Expedition to the Sunless Depths]] 2]]
+- Related: [[The Final Forgetting (D&D_References)]]
+- Parallels [[The Crystal Integration Festival 2]]
 - Leads to [[Student Researcher Brightwater (D&D_References)
 - Leads to [[Assets Locations [[Location City [Pressure Brewing Technology]] V1 Pressure Brewing Technology.svg]]]]
 - Leads to [[Major Surgeon Nightfall

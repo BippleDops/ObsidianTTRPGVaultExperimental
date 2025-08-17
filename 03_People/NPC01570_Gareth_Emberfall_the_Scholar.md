@@ -214,8 +214,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to
 - Parallels [[Interrogation Techniques
 - Affected by [ITEM00478_Dragon_Scale_Boots_of_Protection]]
-- Influences [[05-chapter-5-neverlight-grove (out-of-the-abyss)
-- Parallels [The Forgotten Archive (D&D_Statblocks)]]
+- Influences [[05-chapter-5-neverlight-grove (out-of-the-abyss)]]
 - Parallels [[Chambers Exit Type
 - Leads to [Marina Mindwell]]
 - Related: [[Great Drowning (D&D_References)
@@ -226,32 +225,27 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [Portrait NPC Captain Steelhart V2 Captain Steelhart.svg]]
 - Compare with [[Market Prophet
 - Compare with [Senator Glaucus Brain]]
-- Influences [[step_008 (phase_068)
-- Related: [Quests Quest the Sacred Flame]]
+- Influences [[Quests Quest the Sacred Flame]]
 - Affected by [[Location City Wisdom Futureseer Wisdom Futureseer.svg
 - Affected by [ITEM00059_Cursed_Hammer_of_Slaying]]
 - Affected by [[The Last Acorn 2
 - See also:
 - Requires [step_087 (phase_083)]]
 - Connects to
-- Influences [[step_025 (phase_076)
-- Leads to [SPELL0026_Eldritch_Blessing]]
+- Influences [[SPELL0026_Eldritch_Blessing]]
 - Originates from [[Amnesia Gallery
 - Originates from [step_099 (phase_006)]]
 - Originates from [[Quest - Hearts and Minds
 - See also: [Location City Harbormaster Creedence Tidereader V1 Harbormaster Creedence Tidereader.svg]]
-- Leads to [[Whip of Whispers
-- Requires [NPC00095_Fiora_Nightfall]]
-- Leads to [[ITEM00303_Frost_Axe_of_Accuracy
-- Requires [Cultural Liaison Twilight Bridgewalker]]
+- Leads to [[NPC00095_Fiora_Nightfall]]
+- Leads to [[Cultural Liaison Twilight Bridgewalker]]
 - See also: [[Portrait NPC Quest the Shadow Water Accords V2 Quest the Shadow Water Accords.svg
 - Requires [Portrait NPC Duke Aldric Blackwater V1 Duke Aldric Blackwater.svg]]
 - Compare with [[Void Cultists
 - Related: [step_034 (phase_093)]]
 - Related: [[Assets Symbols Symbol Heraldry Aquabyssos Faction Web Aquabyssos Faction Web.svg
 - Requires [Motion_Specs (D&D_References)]]
-- Connects to [[Cambion Xmm
-- Connects to [NPC01521_Malakai_Proudmore_the_Bold]]
+- Connects to [[NPC01521_Malakai_Proudmore_the_Bold]]
 - Connects to [[Marianas Abys 2
 - Requires [ITEM00782_Infernal_Mirror_of_the_Gods]]
 - Parallels [[LOC00199_Towns_Location_200
@@ -264,10 +258,8 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels
 - Connects to [[Archivist Spectrum Memorykeeper
 - Parallels [ENC00037_Combat_Encounter_38]]
-- Related: [[step_088 (phase_039)
-- Affected by [Maritime Technolog (D&D_References)]]
-- Compare with [[step_007 (phase_032)
-- Originates from [MON00118_Constructs_Creature_119]]
+- Related: [[Maritime Technolog (D&D_References)]]
+- Compare with [[MON00118_Constructs_Creature_119]]
 - See also: [[The Corruption Saint Marina
 - See also: [ITEM01233_Refined_Oil_of_Clarity]]
 - Affected by [[prismatic-spray-xphb (spells)
@@ -275,8 +267,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences
 - Compare with [[The_Wind-Rider_Cultural_Society
 - See also: [ITEM00250_Radiant_Dagger_of_Power]]
-- Related: [[storage
-- Requires [LOC00218_Cities_Location_219]]
+- Related: [[LOC00218_Cities_Location_219]]
 - Influences [[fighter-xphb-psi-warrior-xphb (classes)
 - Related: [Aquabyssos Royal Navy (D&D_References)]]
 - Requires [[Monster Xphb
@@ -284,8 +275,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [Location City Coral Vortextrader Coral Vortextrader.svg]]
 - Related: [[step_022 (phase_039)
 - Leads to [LORE00175_Legends_Entry_176]]
-- Related: [[step_020 (phase_028)
-- Influences [NPC01573_Aeliana_Zephyrblade_the_Guardian]]
+- Related: [[NPC01573_Aeliana_Zephyrblade_the_Guardian]]
 - Leads to [[Bard Xphb College of Swords Xge
 - See also: [Master Engineer Coral Pressureforge (People)]]
 - Related: [[creating-npcs-from-scratch-npc-features (tables)
@@ -294,15 +284,11 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [Shadow Broker Maximian Darkmarket (D&D_References)]]
 - Requires [[Captain Twin-Reality Marsh
 - Requires [Prophet Sarah Naturalborn]]
-- Compare with [[NPC01340_Alaric_Ironwood_the_Bold
-- Requires [23 Credits]]
-- Leads to [[NPC01710_Orion_Ashford_the_Broken
-- Related: [QUEST0077_In_Search_of_Justice]]
-- Connects to [[Comprehensive-World-Connection-Guide (D&D_References)
-- See also: [Quest - The Corruption Cleansing_1 (01_Adventures)]]
+- Compare with [[NPC01340_Alaric_Ironwood_the_Bold]]
+- Leads to [[NPC01710_Orion_Ashford_the_Broken]]
+- Connects to [[Comprehensive-World-Connection-Guide (D&D_References)]]
 - Related:
-- Connects to [[Shadow Behavior Guidelines
-- Connects to [LOC00299_Wilderness_Location_300]]
+- Connects to [[LOC00299_Wilderness_Location_300]]
 - See also: [[step_052 (phase_080)
 - Requires [Symbol Heraldry Economic Intelligence Economic Intelligence.svg]]
 - Influences [[steel-wind-strike-xphb (spells)

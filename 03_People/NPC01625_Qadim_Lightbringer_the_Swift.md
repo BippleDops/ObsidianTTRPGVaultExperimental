@@ -166,50 +166,23 @@ Modifications:
 > Notable saying or prophecy
 
 ## See Also
-- [[NPC01664_Pyria_Lightbringer_the_Redeemed
-- [NPC00599_Cedric_Lightbringer_the_Wise]]
-- [[NPC01552_Branwen_Lightbringer_the_Swift
-- [NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[NPC00858_Zephyr_Silverleaf_the_Wanderer
-- [NPC01767_Alaric_Ravenheart_the_Risen]]
-- [[NPC00927_Aldric_Ironwood_the_Wanderer
-- [NPC01695_Ewan_Ashford_the_Fallen]]
-- [[NPC00612_Thalia_Jadeclaw_the_Fallen
-- [NPC00300_Urien_Zephyrblade]]
-- [[NPC01858_Drusilla_Stormwind_the_Cunning
-- [NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[NPC01761_Idris_Moonshadow_the_Broken
-- [NPC01789_Vesper_Proudmore_the_Mystic]]
-- [[NPC01577_Orion_Moonshadow_the_Seeker
-- [NPC01951_Gavril_Xendar_the_Swift]]
-- [[NPC01483_Gavril_Zephyrblade_the_Fallen
-- [yuan-ti-pit-master-mpmm]]
-- [[NPC01599_Gavril_Keenblade_the_Strong
-- [NPC01195_Gareth_Keenblade_the_Guardian]]
-- [[NPC01463_Aeliana_Zephyrblade_the_Fallen
-- [NPC00069_Thalia_Brightblade_the_Guardian]]
-- [[NPC00057_Malakai_Stormwind_the_Cunning
-- [Ambassador Nerida Deepcurrent]]
-- [[NPC00395_Aeliana_Thornweave
-- [NPC01367_Lyanna_Xendar_the_Wise]]
-- [[Party_Inventory
-- [Quarantine_Notice_Crystal_Plagu]]
-- [[Quiet_Chapel_Oath_Scrol
-- [Basic_Rules]]
-- [[NPC01911_Alaric_Oakenshield_the_Mystic
-- [Smuggler_Route_Tally_Shee]]
-- [[05 Personality and Background
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[05 Personality and Background]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -220,8 +193,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -252,8 +224,7 @@ Following magic item guidelines (WWT p.135-136):
 
 - Related: [[Aboleth Prime Yoth
 - Connects to [step_062 (phase_085)]]
-- Parallels [[High Judge Moira Truthseeke (D&D_References)
-- Related: [[[Adventure Boldexplorer]] (D&D_Sourcebooks)]]
+- Parallels [[High Judge Moira Truthseeke (D&D_References)]] (D&D_Sourcebooks)]]
 - Influences
 - Affected by [[Depth's End Cathedral
 - Originates from [location-city-pressure-polyps-pressure-polyps.svg]]
@@ -261,20 +232,17 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [Master Resonants (D&D_References)]]
 - Influences [[Academic Centers (D&D_References)
 - Related: [[Assets Locations [Location City Master Smith Coral Hammer V1 Master Smith Coral Hammer.svg]]]]
-- Connects to [[Session 01-Session 1- The Beginning
-- Compare with [step_025 (phase_007)]]
+- Connects to [[Session 01-Session 1- The Beginning]]
 - Connects to [[ITEM00114_Thunder_Staff_of_Accuracy
 - Influences [step_075 (phase_076)]]
 - Parallels [[Skyforge (D&D_References)
 - Leads to [List Spells Optional Features Otherworldly]]
 - Requires [[LORE00110_History_Entry_111
 - Connects to [Symbol Heraldry Craftmaster Engineer Gearwhispe Craftmaster Engineer Gearwhispe.svg]]
-- See also: [[NPC00669_Zephyr_Youngblood_the_Lost
-- Originates from [[Quest - Mari[Time]] Mystery]]
+- See also: [[NPC00669_Zephyr_Youngblood_the_Lost]] Mystery]]
 - See also: [[Brother Ossian
 - Parallels [Black Dragon Wyrmling Xmm]]
-- Requires [[MON00039_Constructs_Creature_40
-- Affected by [LOC0033_Gatestead]]
+- Requires [[MON00039_Constructs_Creature_40]]
 - See also: [[step_043 (phase_070)
 - Related: [[Assets Locations Location City [Harbor Pilot Guild]] Harbor Pilot Guild.svg]]
 - Connects to [[step_030 (phase_010)
@@ -292,9 +260,8 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[Portrait NPC Economic Manipulation V1 Economic Manipulation.svg_1 (Portraits)
 - Originates from [Cosmic Awareness (D&D_References)]]
 - Influences
-- Originates from [[QUEST00145_Personal_Quest_146
-- Connects to [step_029 (phase_007)]]
-- Affected by [[Locations [Sunken Palace]]
+- Originates from [[QUEST00145_Personal_Quest_146]]
+- Affected by [[Sunken Palace]]
 - Requires [[step_001 (phase_097)
 - Related: [list-spells-classes-arcane-trickster-xphb (lists)]]
 - Compare with [[step_013 (phase_073)
@@ -309,15 +276,14 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [Chef Gastropod]]
 - Leads to [[LOC00054_Planes_Location_55
 - Originates from [Building Your Own Traps Building a Trap Xdmg]]
-- Related: [[[Diplomatic Protocol Center (D&D_References)]]
+- Related: [[Diplomatic Protocol Center (D&D_References)]]
 - Connects to [[step_051 (phase_099)
 - Compare with [ITEM00115_Radiant_Axe_of_Slaying]]
 - Parallels
 - Requires [[location-city-golden-coral-golden-coral.svg
 - Related: [Lizardfolk Sovereign Xmm]]
-- Compare with [[[[[Memoriam Keeper Marcus Remembrance]] 2]]
-- Influences [[Reference Homebrew Items Harbor Master's Compass
-- Related: [list-spells-feats-shadow-touched-xphb (lists)]]
+- Compare with [[Memoriam Keeper Marcus Remembrance]] 2]]
+- Influences [[Reference Homebrew Items Harbor Master's Compass]]
 - Parallels [[Assets Art the Remembrancer General.png
 - See also: [Dr Nereus Thoughtweaver]]
 - Originates from [[QUEST00252_Personal_Quest_253
@@ -326,8 +292,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [step_021 (phase_008)]]
 - Influences [[food-drink-and-lodging-xphb (tables)
 - Compare with [QUEST00134_Main_Quest_135]]
-- Requires [[step_019 (phase_064)
-- Requires [ENC0096_Random_Encounter_97]]
+- Requires [[ENC0096_Random_Encounter_97]]
 - Affected by [[Conditions (Quick_References)
 - Influences [[Assets Locations [Location City Alternative Path Fled City V1 Alternative Path Fled City.svg]]]]
 - See also: [[step_033 (phase_097)
@@ -336,12 +301,10 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [04_Resources_Assets_Locations_location-city-the-harbormaster-s-office-the-harbormaster-s-office.svg]]
 - Leads to [[step_017 (phase_087)
 - Originates from [step_059 (phase_057)]]
-- Influences [[Scholar Emperor Thalassius the Wise (D&D_References)
-- Requires [The Emergence (D&D_References)]]
+- Influences [[Scholar Emperor Thalassius the Wise (D&D_References)]]
 - Connects to [[High Council
 - Parallels [Assets Portraits Portrait NPC the Speaking Stones the Speaking Stones.svg]]
-- Related: [[shield-master-xphb (feats)
-- Related: [NPC00494_Lyanna_Hawthorne_the_Guardian]]
+- Related: [[NPC00494_Lyanna_Hawthorne_the_Guardian]]
 - Leads to [[summon-construct-xphb (spells)
 - Leads to [Tidal Engineering]]
 - Compare with [[Portrait NPC Captain Henrik Proudbanner V1 Captain Henrik Proudbanner.svg

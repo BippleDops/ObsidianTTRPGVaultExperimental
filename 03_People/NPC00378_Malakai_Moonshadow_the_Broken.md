@@ -144,77 +144,30 @@ Deception, History
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- [[Political Alliances
-- Upcoming social events
-
-## Plot Hook
-Seeks bodyguards for dangerous journey
-
-## DM Notes
-- Adjust stats based on party level
-- Secrets can drive major plot points
-- Relationships create web of connections
-- Use quirks for memorable roleplay
-
----
-*Generated: 2025-08-15T03:51:03.155Z*
-
-## Voice & Mannerisms
-- Speaking style
-- Common phrases
-
-## Daily Routine
-- Morning activities
-- Evening habits
-
-## Combat Tactics
-- Preferred strategies
-- Special moves
-
-## See Also
-- [NPC00644_Nerys_Dawnstrider_the_Wanderer]]
-- [[Sage Elara
-- [NPC00612_Thalia_Jadeclaw_the_Fallen]]
-- [[NPC01979_Fiora_Emberfall_the_Guardian
-- [NPC01849_Kaelen_Silverleaf_the_Scholar]]
-- [[NPC01664_Pyria_Lightbringer_the_Redeemed
-- [NPC01113_Solas_Ravenheart_the_Cunning]]
-- [[NPC00174_Aldric_Silverleaf_the_Fallen
-- [NPC01028_Erasmus_Darkwater_the_Strong]]
-- [[NPC00272_Rhiannon_Brightblade
-- [NPC01195_Gareth_Keenblade_the_Guardian]]
-- [[NPC01937_Felicia_Silverleaf_the_Wanderer
-- [NPC01767_Alaric_Ravenheart_the_Risen]]
-- [[NPC00623_Dara_Oakenshield_the_Wanderer
-- [NPC00336_Alaric_Frostwhisper_the_Swift]]
-- [[NPC01126_Malakai_Oakenshield_the_Fallen
-- [NPC01943_Xander_Proudmore_the_Fallen]]
-- [[NPC01502_Urien_Underhill_the_Scholar
-- [NPC01892_Gareth_Xendar_the_Scholar]]
-- [[NPC00552_Malakai_Stormwind_the_Seeker
-- [NPC00321_Aeliana_Zephyrblade_the_Strong]]
-- [[NPC00260_Wynne_Underhill_the_Fallen
-- [NPC00124_Delara_Ravenheart_the_Redeemed]]
-- [[Depth_Adapted_Background
-- [Party_Quests]]
-- [[Trade_Route_Chart_Port_Meridia
-- [NPC00285_Xander_Goldleaf_the_Mystic]]
-- [[08 Using Ability Scores
-- [11 Rules Glossary]]
-- [[NPC01177_Thalia_Underhill_the_Fallen
-- [Count_Strahd_von_Zarovich]]
-- [[14 Gods of the Multiverse
-- [Submersible_Schematic_Pressure_Gate_Scou]]
-- [[NPC01447_Baelor_Winterborn_the_Strong
-- [NPC01566_Lyanna_Underhill_the_Redeemed]]
-- [[NPC01290_Pyria_Ashford_the_Broken
-- [Marcus Shardbreaker Grimm_1]]
+- [[Political Alliances]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[Depth_Adapted_Background]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[08 Using Ability Scores]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -227,10 +180,9 @@ Seeks bodyguards for dangerous journey
 
 ## Connections
 
-- Connects to [[step_050 (phase_097)
-- Requires [Crystal-Enhanced Democracy]]
+- Connects to [[Crystal-Enhanced Democracy]]
 - Originates from [[Assets Locations [[Location City [Coral Lifeshaper Coral Lifeshaper.svg]]]]
-- Connects to [[Location [INDEX]]
+- Connects to [[location]]
 - Leads to [[LORE00312_History_Entry_313
 - Affected by
 - Affected by [LOC00069_Planes_Location_70]]
@@ -242,15 +194,13 @@ Seeks bodyguards for dangerous journey
 - Influences [[Assets Locations Location City [Victoria Harbormane]] V1 Victoria Harbormane.svg]]
 - Originates from [[step_015 (phase_082)
 - Originates from [Hag Vgm]]
-- Affected by [[The Depth-Mad Priest, Curator Deep-Voice Thren
-- Originates from [blue-spinel-xdmg (items)]]
+- Affected by [[The Depth-Mad Priest, Curator Deep-Voice Thren]]
 - Compare with [[MON00047_Constructs_Creature_48
 - Originates from
 - Related: [centaur-trooper-xmm]]
 - Originates from [[location-city-sister-mourne-sister-mourne.svg
 - Influences [Portrait NPC the Shadow Singer Naia the Shadow Singer Naia.svg]]
-- Originates from [[Mira Shadowtouched
-- Requires [Underwater Medical Society]]
+- Originates from [[Underwater Medical Society]]
 - Related: [[Cult of the Endless Voi
 - Leads to [Symbol Heraldry Divine Transformation Theolog Divine Transformation Theolog.svg]]
 - See also:
@@ -261,19 +211,17 @@ Seeks bodyguards for dangerous journey
 - Connects to [Treasure Hoard Challenge 17 (tables)]]
 - Connects to [[Mixed_Events_Pack_D
 - Affected by [The First Pearl]]
-- Compare with [[Manufacturing Chief Gearwright
-- Connects to [step_081 (phase_051)]]
+- Compare with [[Manufacturing Chief Gearwright]]
 - Compare with [[detect-evil-and-good-xphb (spells)
 - Leads to [[[Tidal Runner Nerissa]] (D&D_References)]]
 - Influences [[ghast-gravecaller-xmm (undead)
 - Requires [Noble Leisure Schedules]]
 - Originates from [[ITEM01313_Practical_Tool_Kit_of_Reliability
 - See also: [SPELL00074_Nature_Spell_75]]
-- Originates from [[Bestiary - [Aquabyssos Creature Compendium]]
+- Originates from [[Aquabyssos Creature Compendium]]
 - Compare with [[bard-xphb-college-of-whispers-xge 2 (classes)
 - Originates from [Layers of Bytopia Xdmg]]
-- Connects to [[Minotaur of Baphomet Xmm
-- Parallels [LOC00276_Dungeons_Location_277]]
+- Connects to [[LOC00276_Dungeons_Location_277]]
 - Compare with [[Young Gold Dragon Xmm
 - Affected by [Portrait NPC Fence Queen Sticky Fingers Sal V2 Fence Queen Sticky Fingers Sal.svg_1 (Portraits)]]
 - Leads to [[step_064 (phase_012)
@@ -295,26 +243,21 @@ Seeks bodyguards for dangerous journey
 - See also: [Cranium Rat Mpmm]]
 - Originates from [[Spare the Dying Xphb
 - Originates from [Marcus Ledgerbor]]
-- See also: [[NPC00467_Vesper_Grimholt_the_Lost
-- Related: [troll-limb-xmm (giant)]]
+- See also: [[NPC00467_Vesper_Grimholt_the_Lost]]
 - Parallels [[List Spells Optional Features Eldritch Sight
 - Related: [location-city-new-tethys-new-tethys.svg]]
 - Leads to [[step_050 (phase_051)
 - Originates from [[Location City [Temple Coalition]] V1 Temple Coalition.svg]]
-- Leads to [[ENC00200_Combat_Encounter_201
-- Originates from [Barrel Xphb]]
+- Leads to [[ENC00200_Combat_Encounter_201]]
 - Affected by [[whip-xphb (items)
 - Parallels [portrait-npc-neutral-zone-v2-neutral-zone.svg]]
-- Originates from [[NPC00367_Jorah_Brightblade_the_Fallen
-- Related: [step_003 (phase_074)]]
+- Originates from [[NPC00367_Jorah_Brightblade_the_Fallen]]
 - Influences [[ITEM00641_Warded_Gauntlets_of_Grace
 - Compare with
 - Connects to
 - Affected by [Celestial Crystals]]
-- Connects to [[Probabilities Sylvan Forest Encounters
-- Originates from [step_023 (phase_084)]]
-- Influences [[step_043 (phase_053)
-- Influences [Maître d' Pelagia Smoothcurrent]]
+- Connects to [[Probabilities Sylvan Forest Encounters]]
+- Influences [[Maître d' Pelagia Smoothcurrent]]
 - Connects to [[QUEST00386_Side_Quest_387
 - Affected by [Sinking Phenomenon Research 2]]
 - Compare with [[Assets Symbols Symbol Heraldry Aquabyssos Faction Web Aquabyssos Faction Web.svg

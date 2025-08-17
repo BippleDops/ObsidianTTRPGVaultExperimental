@@ -99,8 +99,7 @@ See `04_Resources/Assets/TAG_CATALOG.md` for complete tag index
 
 ## Related Content
 - [ULTIMATE_VAULT_ACHIEVEMENT]]
-- [[ULTIMATE_SYSTEM_REPORT
-- [SVG_REPLACEMENT_REPORT]]
+- [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -123,20 +122,17 @@ See `04_Resources/Assets/TAG_CATALOG.md` for complete tag index
 
 ## Connections
 
-- Requires [[LORE0040_History_of_the_First_King
-- Requires [NPC0149_Delilah_Darkwater]]
+- Requires [[LORE0040_History_of_the_First_King]]
 - Requires [[step_038 (phase_017)
 - Connects to [devastation-orb-of-water-pota (items)]]
 - Connects to [[Session Feedback Form
 - Compare with [step_043 (phase_094)]]
 - Affected by [[portrait-npc-azure-shard-v1-azure-shard.svg_1 (Portraits)
 - Related: [Mirror of Life Trapping Xdmg]]
-- Influences [[M-001_Physics_Denial
-- See also: [Scatter Xge]]
+- Influences [[M-001_Physics_Denial]]
 - Connects to [[Grandmother Nightcomfor (D&D_References)
 - Connects to [Gold Comb Shaped Like a Dragon with Red Garnets As Eyes Xdmg]]
-- See also: [[The Deep Mother 3 (D&D_References)
-- Originates from [step_026 (phase_047)]]
+- See also: [[The Deep Mother 3 (D&D_References)]]
 - Affected by [[FAC00096_Cults_97
 - Affected by [Location City Comparative Religion Comparative Religion.svg]]
 - Originates from [[Investigation Log INV-000 2
@@ -151,30 +147,24 @@ See `04_Resources/Assets/TAG_CATALOG.md` for complete tag index
 - Compare with [location-city-sister-morwyn-v1-sister-morwyn.svg]]
 - Requires [[step_016
 - Influences [Aboleth Servants]]
-- Related: [[NPC0079_Ophelia_Ironforge_the_Young
-- See also: [INDEX (Curse_of_Strahd)]]
-- Requires [[Master Respiratory Engineer Marina Gillwright
-- Connects to [skill-empowerment-xge (spells)]]
-- Leads to [[QUEST0013_The_Shadow_Realm_Mystery
-- Leads to [Tiefling Mephistopheles Mtf]]
+- Related: [[NPC0079_Ophelia_Ironforge_the_Young]]
+- Requires [[Master Respiratory Engineer Marina Gillwright]]
+- Leads to [[QUEST0013_The_Shadow_Realm_Mystery]]
 - Parallels [[Assets Locations Location City International Trade Agreements International Trade Agreements.svg
 - Requires [VAULT_ORGANIZATION_STATUS]]
 - Influences [[step_091
 - Requires [step_085]]
 - Leads to [[Padded Armor Xphb
 - Leads to [step_096 (phase_065)]]
-- Originates from [[11-appendix-a-random-dungeons (dungeon-masters-guide-2014)
-- Leads to [Map Map Pressure Dome Bazaar V2 Pressure Dome Bazaar.svg]]
+- Originates from [[11-appendix-a-random-dungeons (dungeon-masters-guide-2014)]]
 - Related: [[Portrait NPC House Guard Captains V1 House Guard Captains.svg
 - Connects to [Assets Locations Location City His Eternal Majesty Keeper of the Throne of Bubbles V1 His Eternal Majesty Keeper of the Throne of Bubbles.svg]]
-- Connects to [[NPC00845_Drusilla_Ironforge_the_Bold
-- See also: [Pixie Xmm]]
+- Connects to [[NPC00845_Drusilla_Ironforge_the_Bold]]
 - Leads to [[The Royal Awakened Corps 2
 - Influences [step_096 (phase_015)]]
 - Affected by [[Portrait NPC Banker Titus Goldcurrent V2 Banker Titus Goldcurrent.svg
 - Related: [Security Checkpoints]]
-- Leads to [[Continuity Protocol
-- Requires [Malice Xdmg]]
+- Leads to [[Continuity Protocol]]
 - Influences [[Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png
 - Influences [step_094 (phase_079)]]
 - Connects to [[amulet-of-the-planes-xdmg (items)
@@ -189,14 +179,10 @@ See `04_Resources/Assets/TAG_CATALOG.md` for complete tag index
 - Connects to [Pushing Attack Xphb]]
 - Connects to [[Safety Inspector Pearl Cautionwave
 - Compare with [Portrait NPC the Tidal Council V2 the Tidal Council.svg]]
-- Related: [[Crystal Resonance Theory
-- Parallels [step_004]]
-- Leads to [[painted-gold-war-mask-xdmg (items)
-- Connects to [Witness Protection Network (D&D_References)]]
-- Connects to [[step_089
-- Requires [Commercial Hubs and Markets]]
-- Requires [[step_031 (phase_030)
-- Parallels [ENC00237_Combat_Encounter_238]]
+- Related: [[Crystal Resonance Theory]]
+- Leads to [[Witness Protection Network (D&D_References)]]
+- Connects to [[Commercial Hubs and Markets]]
+- Requires [[ENC00237_Combat_Encounter_238]]
 - Connects to [[LOC0145_LowerHill
 - Originates from [Marine Protection Guil]]
 - Requires [[Location City Phantom Harbor Charter Phantom Harbor Charter.svg
@@ -213,16 +199,14 @@ See `04_Resources/Assets/TAG_CATALOG.md` for complete tag index
 - Originates from [Memory Merchant]]
 - See also: [[step_068 (phase_051)
 - Originates from [SHOP00056_Magical_Shop_57]]
-- Influences [[NPC01406_Fiora_Lightbringer_the_Wise
-- Affected by [step_081 (phase_063)]]
+- Influences [[NPC01406_Fiora_Lightbringer_the_Wise]]
 - See also: [[step_006 (phase_015)
 - Related: [Location City Hadrian Depthbridge V1 Hadrian Depthbridge.svg]]
 - Compare with [[step_009 (phase_035)
 - Related: [Assets Item Artifact Poisoners Kit Xphb V4 Poisoners Kit Xphb.png]]
 - See also: [[Dwarven Mya Mtf
 - See also: [step_018 (phase_024)]]
-- Requires [[step_046 (phase_045)
-- Leads to [NPC00422_Aeliana_Thornweave_the_Wise]]
+- Requires [[NPC00422_Aeliana_Thornweave_the_Wise]]
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_professor_marina_reefbuilder_professor_marina_reefbuilder_svg_standard.png

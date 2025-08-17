@@ -164,48 +164,28 @@ Modifications:
 
 ## See Also
 - [NPC01789_Vesper_Proudmore_the_Mystic]]
-- [[NPC00949_Nerys_Underhill_the_Wise
-- [NPC00927_Aldric_Ironwood_the_Wanderer]]
-- [[NPC00469_Delara_Oakenshield_the_Seeker
-- [NPC00317_Pyria_Blackstone_the_Redeemed]]
-- [[NPC00324_Idris_Hawthorne_the_Strong
-- [NPC01632_Qadim_Darkwater_the_Guardian]]
-- [[NPC01858_Drusilla_Stormwind_the_Cunning
-- [NPC00920_Malakai_Ravenheart_the_Guardian]]
-- [[NPC00281_Hestara_Nightfall_the_Cunning
-- [NPC01695_Ewan_Ashford_the_Fallen]]
-- [[NPC01552_Branwen_Lightbringer_the_Swift
-- [NPC01177_Thalia_Underhill_the_Fallen]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [NPC00587_Idris_Youngblood_the_Strong]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [NPC01624_Corvus_Silverleaf_the_Redeemed]]
-- [[NPC00976_Alaric_Quicksilver_the_Strong
-- [NPC00415_Gareth_Winterborn_the_Bold]]
-- [[NPC01301_Jorah_Underhill_the_Broken
-- [NPC00749_Xander_Quicksilver]]
-- [[NPC00815_Baelor_Thornweave_the_Swift
-- [Party_Inventory]]
-- [[Propaganda_Broadsheet_Syndicate.md
-- [NPC01911_Alaric_Oakenshield_the_Mystic]]
-- [[Calendar_Conversions_Realm_Window
-- [Trade_Route_Chart_Port_Meridia]]
-- [[NPC00582_Cedric_Dawnstrider
-- [NPC00080_Branwen_Proudmore]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC00582_Cedric_Dawnstrider]]
 - [[Sanity_Quick_Reference.md
 - [Downtime_Activities]]
-- [[14 Gods of the Multiverse
-- [10 Appendix B Creature Stat Blocks]]
-- [[yuan-ti-pit-master-mpmm
-- [08 Using Ability Scores]]
-- [[16 Credits
-- [NPC00649_Corvus_Zephyrblade_the_Broken]]
-- [[NPC00372_Alaric_Grimholt
-- [11 Rules Glossary]]
-- [[NPC00395_Aeliana_Thornweave
-- [Character_Journal_Template]]
-- [[Faction_Relationship_Web
-- [MASTER_MOC]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[Faction_Relationship_Web]]
 - [[Master_Narrative_Web.md
 -
 
@@ -230,7 +210,7 @@ Modifications:
 - Connects to [magic-item-purchase-complications-xge (tables)]]
 - Parallels [[LORE00143_Prophecies_Entry_144
 - Originates from [[[Community Organizations]] (D&D_References)]]
-- Related: [[The [Tethyan Hegemony]]
+- Related: [[Tethyan Hegemony]]
 - Leads to [[QUEST00120_Side_Quest_121
 - Compare with
 - Influences [[Assets Locations Location City [Void Prophet Nullus the Erased]] V1 Void Prophet Nullus the Erased.svg]]
@@ -240,22 +220,17 @@ Modifications:
 - Affected by
 - Leads to [step_072 (phase_058)]]
 - Compare with [[Assets Locations [[Location City [Grief Overwhelming Syndrome Grief Overwhelming Syndrome.svg]]]]
-- Parallels [[The First King's Diary (D&D_References)
-- See also: [Treaty of the Depths]]
+- Parallels [[The First King's Diary (D&D_References)]]
 - Connects to [[Obsidian Statuette With Gold Fittings and
 - Compare with [Examples of Faction Ranks]]
 - Originates from [[step_066 (phase_046)
 - Connects to [[[Ancient Historian Memento]] (D&D_References)]]
 - Compare with [[step_033 (phase_075)
 - See also: [Deep Mining Guild]]
-- Leads to [[Information Storage Crystals
-- Influences [step_084 (phase_059)]]
-- Connects to [[Navigation Master Course (D&D_References)
-- Compare with [NPC01315_Cedric_Jadeclaw_the_Seeker]]
-- Influences [[Strike Team Communications 2
-- Leads to [obsidian-xdmg (items)]]
-- Affected by [[NPC01611_Gavril_Ironwood_the_Wise
-- Leads to [ENC00008_Social_Encounter_9]]
+- Leads to [[Information Storage Crystals]]
+- Connects to [[Navigation Master Course (D&D_References)]]
+- Influences [[Strike Team Communications 2]]
+- Affected by [[NPC01611_Gavril_Ironwood_the_Wise]]
 - Requires [[Location City [Professional Associations Professional Associations.svg]]
 - Compare with [[copper-chalice-with-silver-filigree-xdmg (items)
 - Parallels [step_060 (phase_014)]]
@@ -272,12 +247,9 @@ Modifications:
 - Influences [Quest - Memory War_1 (01_Adventures)]]
 - Compare with [[ITEM00436_Ethereal_Chain_Mail_of_Fortitude
 - See also: [step_009 (phase_037)]]
-- Originates from [[ITEM0084_Eldritch_Crown_of_the_Dawn
-- See also: [frostbite-xge (spells)]]
-- Requires [[Submersible_Schematic_Pressure_Gate_Scou
-- Connects to [step_094 (phase_039)]]
-- Leads to [[NPC01016_Malakai_Ravenheart_the_Redeemed
-- See also: [step_080 (phase_013)]]
+- Originates from [[ITEM0084_Eldritch_Crown_of_the_Dawn]]
+- Requires [[Submersible_Schematic_Pressure_Gate_Scou]]
+- Leads to [[NPC01016_Malakai_Ravenheart_the_Redeemed]]
 - Leads to [[step_070 (phase_091)
 - Related: [Quest - Harbor Expansion_1 (01_Adventures)]]
 - Requires [[Parliament Building Maps
@@ -298,12 +270,9 @@ Modifications:
 - Connects to [Greyhawk Syrul Xdmg]]
 - Parallels [[04_Resources_Assets_Portraits_portrait-npc-lady-celestine-windborne-lady-celestine-windborne.svg_Quick_Ref
 - Requires [Cloud of Daggers Xphb]]
-- Requires [[ITEM01238_Pure_Oil_of_Swiftness
-- Leads to [[[Customer Relations Director Seraphina Calmcurrent]] (D&D_References)]]
-- Originates from [[Reference Quick Reference Dnd5e DM Screen 2014
-- Connects to [step_064 (phase_046)]]
-- Requires [[Scholar-Priest Tidal-Memory (D&D_References)
-- Requires [vampire]]
+- Requires [[Customer Relations Director Seraphina Calmcurrent]] (D&D_References)]]
+- Originates from [[Reference Quick Reference Dnd5e DM Screen 2014]]
+- Requires [[Scholar-Priest Tidal-Memory (D&D_References)]]
 - See also: [[silk-xdmg (items)
 - Compare with [Traditional Spy Networks]]
 - Connects to
@@ -325,8 +294,7 @@ Modifications:
 - Connects to [[Location City [The Spiral Sanctum the Spiral Sanctum.svg]]
 - Originates from [[Session 02 (06_Sessions)
 - Leads to [step_008 (phase_097)]]
-- Affected by [[Marcus the Jus
-- Related: [The Brotherhood of the Black Anchor 2]]
+- Affected by [[The Brotherhood of the Black Anchor 2]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

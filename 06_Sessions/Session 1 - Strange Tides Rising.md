@@ -19,7 +19,7 @@ tags:
 - session title: Session 1 [Strange Tides]] Rising
 type: session
 updated: 2025-08-14
-- -- # Session 1 - [[Strange Tides Rising ## [Overview This]] document contains important information regarding Session 1 - [[Strange Tides Rising and its role within the greater narrative. ## Description
+- -- # Session 1 - [[Session 01 Strange Tides Rising]] document contains important information regarding Session 1 - [[Strange Tides Rising and its role within the greater narrative. ## Description
 
 **Details**: Rich sensory elements bring this to life. Session 1 - [Strange Tides]] Rising represents a significant element within the campaign world, offering various opportunities for engagement and
 *The air carries the scent of [appropriate smell].*development. ## [[Key Information - **[Primary Purpose]]**: Serves specific function within the world

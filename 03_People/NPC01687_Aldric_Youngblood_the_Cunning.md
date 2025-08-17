@@ -167,26 +167,17 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC01664_Pyria_Lightbringer_the_Redeemed
-- [NPC00927_Aldric_Ironwood_the_Wanderer]]
-- [[NPC00317_Pyria_Blackstone_the_Redeemed
-- [NPC00372_Alaric_Grimholt]]
-- [[NPC00949_Nerys_Underhill_the_Wise
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC01599_Gavril_Keenblade_the_Strong
-- [NPC01951_Gavril_Xendar_the_Swift]]
-- [[NPC01262_Ysara_Dawnstrider_the_Swift
-- [NPC00351_Corvus_Ironwood]]
-- [[Keeper Elara Mindwell
-- [NPC01483_Gavril_Zephyrblade_the_Fallen]]
-- [[NPC00174_Aldric_Silverleaf_the_Fallen
-- [World_Primer.md]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
 - [[Faction_Guide.md
 - [Player_Portal.md]]
-- [[Emergency_Evacuation_Map_Stormglass_Riot
-- [NPC00190_Cedric_Silverleaf]]
-- [[Ritual_Timing_Wheel_Convergenc
-- [Count_Strahd_von_Zarovich]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Ritual_Timing_Wheel_Convergenc]]
 - [[Complete_NPC_Matrix.md
 -
 
@@ -215,9 +206,8 @@ Modifications:
 - Leads to [Portrait NPC Emperor Abyssal the Deep Sighted Emperor Abyssal the Deep Sighted.svg]]
 - Compare with [[The Coral Estates 2
 - Affected by [sling-xphb (items)]]
-- Affected by [[[The Memory Keepers Guild 2]]
-- Influences [[Customer Relations Director Seraphina Calmcurrent
-- Requires [step_072 (phase_071)]]
+- Affected by [[The Memory Keepers Guild 2]]
+- Influences [[Customer Relations Director Seraphina Calmcurrent]]
 - Influences [[Queen Current Monarch
 - Influences [[[The Shadowmere]] Territories 2]]
 - Connects to [[Portrait NPC Agent Whisper Voidheart V2 Agent Whisper Voidheart.svg
@@ -228,25 +218,22 @@ Modifications:
 - Influences [step_095 (phase_034)]]
 - Originates from [[LORE00062_Prophecies_Entry_63
 - Compare with [trident-of-fish-command-xdmg (items)]]
-- Influences [[[Commercial District 2]]
+- Influences [[Commercial District 2]]
 - Leads to
 - Compare with [[Boar Xmm
 - Related: [interactions-with-others-npc-interaction-traits]]
 - Affected by [[Infiltrate Surgical Facilities
 - Requires [MON00074_Undead_Creature_75]]
 - Affected by [[Location City [Keeper Thundercall V1 Keeper Thundercall.svg]]
-- Affected by [[Crowbar Xphb
-- Related: [Portrait NPC Hous... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- Parallels [[LOC00247_Wilderness_Location_248
-- Connects to [step_084 (phase_051)]]
+- Affected by [[Portrait NPC Hous... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Parallels [[LOC00247_Wilderness_Location_248]]
 - Requires
 - Related: [[ITEM01466_Decorated_Compass_of_Reliability
 - Related: [ENC00448_Combat_Encounter_449]]
-- Compare with [[Session 15 Exploration Discovery
-- Affected by [The Integration Institute]]
+- Compare with [[Session 15 Exploration Discovery]]
 - Affected by [[transmute-rock-xge (spells)
 - Related: [vampire-xmm (undead)]]
-- Leads to [[[[Keeper [Finn Goodtide]] (D&D_References)]]
+- Leads to [[Finn Goodtide]] (D&D_References)]]
 - See also: [[The Living Weapon
 - Affected by [step_043 (phase_098)]]
 - Connects to [[Scroll of Protection Undead Xdmg
@@ -256,16 +243,14 @@ Modifications:
 - Connects to [step_053 (phase_027)]]
 - Related: [[step_100 (phase_036)
 - Leads to [Silver Dragon Scale Mail Xdmg]]
-- Originates from [[NPC01900_Orion_Grimholt_the_Broken
-- Influences [[location-city-[Merchant]]-merchant.svg]]
+- Originates from [[NPC01900_Orion_Grimholt_the_Broken]]-merchant.svg]]
 - Requires [[step_003 (phase_019)
 - Compare with [The World Tree]]
 - Originates from [[Military Saddle Xphb
 - See also: [LORE00306_History_Entry_307]]
 - Originates from
-- Compare with [[[Market Master Cornelius Driftwood (D&D_References)]]
-- Related: [[step_027 (phase_007)
-- Requires [NPC01408_Malakai_Winterborn_the_Mystic]]
+- Compare with [[Market Master Cornelius Driftwood (D&D_References)]]
+- Related: [[NPC01408_Malakai_Winterborn_the_Mystic]]
 - Influences [[Eastern Kingdom (Lore)
 - Originates from [Manes Vaporspawn Xmm]]
 - Affected by [[ITEM01352_Masterwork_Tool_Kit_of_Convenience
@@ -283,7 +268,7 @@ Modifications:
 - Compare with [step_056 (phase_061)]]
 - Influences [[Tome of Strahd Cos
 - Affected by [step_037 (phase_100)]]
-- Originates from [[[Deepsteel 2]]
+- Originates from [[Deepsteel 2]]
 - Originates from [[belt-of-fire-giant-strength-xdmg (items)
 - Influences [step_092 (phase_037)]]
 - Parallels [[step_083 (phase_049)
@@ -295,12 +280,10 @@ Modifications:
 - Influences [step_029 (phase_060)]]
 - Leads to [[step_034 (phase_083)
 - Leads to [unbreakable-arrow-xge (items)]]
-- Connects to [[Player_Handout_[Aethermoor_Airships]]
+- Connects to [[Aethermoor_Airships]]
 - Affected by
-- Compare with [[step_008 (phase_051)
-- Compare with [QUEST00158_Personal_Quest_159]]
-- Affected by [[Crisis Exploitation
-- See also: [LOC00091_Wilderness_Location_92]]
+- Compare with [[QUEST00158_Personal_Quest_159]]
+- Affected by [[LOC00091_Wilderness_Location_92]]
 - Compare with [[12-spells (players-handbook-2014)
 - Connects to [ENC00266_Social_Encounter_267]]
 - Leads to [[QUEST00495_Side_Quest_496

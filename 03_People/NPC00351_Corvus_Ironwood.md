@@ -163,26 +163,14 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC01827_Kaelen_Ironforge_the_Seeker
-- [NPC00949_Nerys_Underhill_the_Wise]]
-- [[NPC00285_Xander_Goldleaf_the_Mystic
-- [NPC01177_Thalia_Underhill_the_Fallen]]
-- [[NPC01195_Gareth_Keenblade_the_Guardian
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[NPC01695_Ewan_Ashford_the_Fallen
-- [NPC01252_Jorah_Youngblood_the_Strong]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC00812_Kaelen_Jadeclaw_the_Seeker]]
-- [[Quarantine_Notice_Crystal_Plagu
-- [Welcome_to_Aquabyssos.md]]
-- [[Reputation_Tracker
-- [05 Personality and Background]]
-- [[MOC_Items
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[05 Personality and Background]]
+- [[MOC_Items]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -212,21 +200,18 @@ Modifications:
 - Requires [Session 09 (06_Sessions)]]
 - Requires [[step_084 (phase_032)
 - Related: [Portrait NPC Captain Thrace Deeprunner Captain Thrace Deeprunner.svg]]
-- Connects to [[Mediator's Pendant (D&D_References)
-- Originates from [step_062 (phase_011)]]
+- Connects to [[Mediator's Pendant (D&D_References)]]
 - Affected by [[armory
 - Requires [Symbol Heraldry Welfare Director Caretake V1 Welfare Director Caretake.svg]]
 - Leads to [[ITEM00724_Divine_Crown_of_Destiny
 - Leads to [QUEST00221_Side_Quest_222]]
 - Influences [[list-spells-feats-magic-initiate-xphb (lists)
 - Parallels [[Location City [Trader Compass Rose]] V1 Trader Compass Rose.svg]]
-- Influences [[Home Embeds#Recently Modifie (D&D_References)
-- Related: [LORE00178_Prophecies_Entry_179]]
+- Influences [[Home Embeds - DV]]
 - Influences [[ITEM00845_Celestial_Scepter_of_the_Gods
 - Affected by
 - Leads to [dynamite-stick-xdmg (items)]]
-- Compare with [[M-103_Retroactive_Map_Draw
-- Requires [step_029 (phase_055)]]
+- Compare with [[M-103_Retroactive_Map_Draw]]
 - Affected by [[Location City [Memorial Wall of Names V1 Memorial Wall of Names.png]]
 - Originates from [[step_035 (phase_064)
 - Requires [step_001 (phase_039)]]
@@ -235,15 +220,13 @@ Modifications:
 - Requires [[[Crimson Reef]] (D&D_References)]]
 - Affected by
 - See also: [[The [Crystal Gardens (D&D_References)]]
-- Originates from [[QUEST0031_Negotiate_with_the_Dragon
-- Originates from [DUN00024_Dungeon_25]]
-- Leads to [[[Democratic Technology Development (D&D_References)]]
-- Influences [[step_083 (phase_061)
-- Parallels [MON00102_Undead_Creature_103]]
+- Originates from [[QUEST0031_Negotiate_with_the_Dragon]]
+- Leads to [[Democratic Technology Development (D&D_References)]]
+- Influences [[MON00102_Undead_Creature_103]]
 - Influences [[LORE00204_Legends_Entry_205
 - Requires [[[[Shadow [Noble District]]s]] (D&D_References)]]
 - Parallels [[Quest - The Kingpin's Fall
-- Connects to [[Location City the [Depth Plague]] V1 [[The Depth Plague.svg]]
+- Connects to [[Location City the [Depth Plague]] V1 [[The Depth Plague]]
 - Related: [[ENC00088_Environmental_Encounter_89
 - See also: [Assets Portraits Portrait NPC Captain Redbeard Captain Redbeard.svg]]
 - Leads to [[LORE00142_History_Entry_143
@@ -256,14 +239,12 @@ Modifications:
 - Related:
 - Requires [[portrait-npc-lord-bathysmal-v1-lord-bathysmal.svg
 - Related: [ITEM00371_Shadow_Axe_of_Accuracy]]
-- Affected by [[[Abyssos Prime - Throne of Bubbles]]
+- Affected by [[Abyssos Prime - Throne of Bubbles]]
 - Affected by [[LORE00207_Legends_Entry_208
 - Influences [step_052 (phase_079)]]
 - Influences [[Location City [The Pearl Markets V1 the Pearl Markets.svg]]
-- Parallels [[Supernatural Mysteries (D&D_References)
-- Affected by [telepathy-xphb (variant-rules)]]
-- Leads to [[Readme Future Work (D&D_References)
-- Affected by [Royal Crystal Gardens]]
+- Parallels [[Supernatural Mysteries (D&D_References)]]
+- Leads to [[Readme Future Work (D&D_References)]]
 - Influences [[Medium Armor Master Xphb
 - Leads to [weavers-tools-xphb (items)]]
 - Leads to [[ITEM00882_Ancient_Scepter_of_Dominion
@@ -283,11 +264,10 @@ Modifications:
 - Related: [[melfs-acid-arrow-xphb (spells)
 - Originates from
 - Leads to [LOC00244_Planes_Location_245]]
-- Parallels [[[Merchant Thane Goldwhisper (D&D_References)]]
+- Parallels [[Merchant Thane Goldwhisper (D&D_References)]]
 - Affected by [[step_091 (phase_079)
 - See also: [step_086 (phase_013)]]
-- Leads to [[step_037 (phase_074)
-- Parallels [NPC00667_Felicia_Goldleaf_the_Strong]]
+- Leads to [[NPC00667_Felicia_Goldleaf_the_Strong]]
 - Parallels [[Assets Locations [Location City Mad Prophet Silas the Depth Touched Mad Prophet Silas the Depth Touched.svg]]
 - Connects to [[step_014 (phase_010)
 - Affected by [Naia Deepcurrent 2]]

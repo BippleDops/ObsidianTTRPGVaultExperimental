@@ -12,5 +12,8 @@
     "mage",
     "generated"
   ],
-  "created": "2025-08-16T16:58:14.641Z"
+  "created": "2025-08-16T16:58:14.641Z",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:52:39.915Z",
+  "generationMethod": "ComfyUI"
 }

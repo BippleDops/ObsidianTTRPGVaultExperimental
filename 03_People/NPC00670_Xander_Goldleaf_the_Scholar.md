@@ -169,66 +169,34 @@ Being extorted by criminals
 - Special moves
 
 ## See Also
-- [[NPC_Name_Generator.png
-- [NPC00644_Nerys_Dawnstrider_the_Wanderer]]
-- [[NPC00878_Kaelen_Ironwood_the_Strong
-- [NPC01113_Solas_Ravenheart_the_Cunning]]
-- [[NPC00250_Delara_Darkwater_the_Fallen
-- [NPC01664_Pyria_Lightbringer_the_Redeemed]]
-- [[NPC00133_Lyanna_Oakenshield_the_Seeker
-- [NPC01745_Felicia_Oakenshield_the_Scholar]]
-- [[NPC01682_Vesper_Blackstone_the_Guardian
-- [NPC01888_Hestara_Ravenheart_the_Redeemed]]
-- [[NPC01017_Vesper_Keenblade_the_Risen
-- [NPC00739_Gavril_Ashford_the_Bold]]
-- [[NPC01767_Alaric_Ravenheart_the_Risen
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC00461_Branwen_Proudmore_the_Strong
-- [NPC00388_Ysara_Goldleaf]]
-- [[NPC00661_Corvus_Darkwater_the_Broken
-- [NPC01812_Xander_Lightbringer_the_Swift]]
-- [[NPC00550_Xander_Stormwind_the_Cunning
-- [NPC00804_Xander_Frostwhisper_the_Cunning]]
-- [[NPC01348_Xander_Zephyrblade_the_Wise
-- [NPC01312_Alaric_Darkwater_the_Fallen]]
-- [[NPC01849_Kaelen_Silverleaf_the_Scholar
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[NPC01126_Malakai_Oakenshield_the_Fallen
-- [NPC00542_Corvus_Oakenshield_the_Strong]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [NPC01660_Thalia_Moonshadow_the_Fallen]]
-- [[NPC01201_Felicia_Ironwood_the_Bold
-- [NPC01290_Pyria_Ashford_the_Broken]]
-- [[NPC00663_Alaric_Dawnstrider_the_Strong
-- [NPC00872_Thalia_Ironwood_the_Broken]]
-- [[Faction_Relationship_Web
-- [NPC00920_Malakai_Ravenheart_the_Guardian]]
-- [[World_Primer.md
-- [Propaganda_Leaflet_Pearl_Guar]]
-- [[NPC01939_Orion_Nightfall_the_Bold
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
-- [[Quarantine_Notice_Crystal_Plagu
-- [NPC01057_Pyria_Quicksilver_the_Scholar]]
-- [[Quick_Start_Guide.md
-- [NPC01594_Fiora_Proudmore_the_Seeker]]
-- [[NPC00582_Cedric_Dawnstrider
-- [NPC01262_Ysara_Dawnstrider_the_Swift]]
-- [[Session_Recaps
-- [01 Introduction Welcome to Adventure]]
-- [[NPC01761_Idris_Moonshadow_the_Broken
-- [NPC01082_Fiora_Ashford_the_Fallen]]
-- [[MOC_Rules
-- [11 Rules Glossary]]
-- [[NPC01602_Dara_Ashford_the_Seeker
-- [NPC01786_Zephyr_Jadeclaw_the_Mystic]]
-- [[Dockworker_Union_Flyer.md
-- [NPC01613_Kaelen_Voidwalker_the_Wanderer]]
-- [[Concept_Map
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00644_Nerys_Dawnstrider_the_Wanderer]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01594_Fiora_Proudmore_the_Seeker]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[01 Introduction Welcome to Adventure]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[11 Rules Glossary]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[Concept_Map]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -257,16 +225,14 @@ Being extorted by criminals
 - See also: [Great Silence (D&D_References)]]
 - Related: [[step_082 (phase_059)
 - Related: [Location City Temple of Sacred Dreams V1 Temple of Sacred Dreams.svg]]
-- See also: [[NPC00346_Gareth_Voidwalker_the_Wise
-- Affected by [spell-gem-topaz-oota (items)]]
+- See also: [[NPC00346_Gareth_Voidwalker_the_Wise]]
 - Affected by [[Creature Creature Young Green Dragon Xmm Young Green Dragon Xmm.png
 - Originates from [step_014 (phase_084)]]
 - Requires [[LOC0114_Hillshire
 - See also: [step_067 (phase_047)]]
 - See also: [[NPC00464_Ewan_Thornweave
 - Affected by [Sage Rememberall]]
-- Originates from [[ITEM0044_Eldritch_Gauntlet_of_Power
-- Related: [step_056 (phase_088)]]
+- Originates from [[ITEM0044_Eldritch_Gauntlet_of_Power]]
 - Influences [[DUN00026_Dungeon_27
 - Leads to [Assets Locations Location City World Map V1 World Map.svg]]
 - Related: [[Session Planning Guide 3
@@ -275,16 +241,13 @@ Being extorted by criminals
 - Connects to [Philosophy of Truth]]
 - Originates from
 - See also:
-- Originates from [[Session_Logger_1
-- Parallels [Crystal Master Prism Lightweaver]]
+- Originates from [[Crystal Master Prism Lightweaver]]
 - Compare with [[step_067 (phase_080)
 - Affected by [Dungeon_Map]]
 - Requires [[Pressure's End (D&D_References)
 - Affected by [location-city-port-authority-v1-port-authority.svg]]
-- Requires [[djinni-xmm (elemental)
-- Requires [ENC00374_Combat_Encounter_375]]
-- Compare with [[Session 20 - Reality Fractures
-- Requires [Portrait NPC Weap... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Requires [[ENC00374_Combat_Encounter_375]]
+- Compare with [[Portrait NPC Weap... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[archelon-xmm (beast)
 - Connects to [Memory Coherence Analyzer]]
 - Requires
@@ -293,8 +256,7 @@ Being extorted by criminals
 - Originates from [[step_060 (phase_007)
 - Originates from
 - Parallels [Memorial Stones 2]]
-- Leads to [[NPC01323_Pyria_Thornweave_the_Lost
-- Affected by [Doctor Coral Shapeshift]]
+- Leads to [[NPC01323_Pyria_Thornweave_the_Lost]]
 - Affected by [[step_030 (phase_049)
 - Compare with [Mobile Terror Platform]]
 - Compare with [[step_022 (phase_093)
@@ -308,14 +270,11 @@ Being extorted by criminals
 - Related:
 - Originates from [[Assets Locations Location City Kelp Silk Kelp Silk.svg
 - Connects to [Abyssal Trenches (D&D_References)]]
-- Related: [[NPC01859_Elric_Winterborn_the_Lost
-- Compare with [NPC Name Generator 2]]
+- Related: [[NPC01859_Elric_Winterborn_the_Lost]]
 - Leads to [[step_028 (phase_084)
 - Leads to [Location City Navigator Depthseer Navigator Depthseer.svg]]
-- Requires [[step_039 (phase_091)
-- Parallels [ENC00339_Combat_Encounter_340]]
-- Affected by [[Ambassador Marina Tidecaller
-- Parallels [cleaving-through-creatures (variant-rules)]]
+- Requires [[ENC00339_Combat_Encounter_340]]
+- Affected by [[cleaving-through-creatures (variant-rules)]]
 - See also:
 - Related: [[step_039 (phase_086)
 - See also: [ankheg-xmm (monstrosity)]]
@@ -326,10 +285,8 @@ Being extorted by criminals
 - Related: [[step_076 (phase_032)
 - Influences [Dead Xphb]]
 - See also:
-- Leads to [[power-word-stun-xphb (spells)
-- Related: [Link_Integrity_Report (D&D_References)]]
-- Influences [[step_081 (phase_091)
-- Related: [LOC00193_Wilderness_Location_194]]
+- Leads to [[Link_Integrity_Report (D&D_References)]]
+- Influences [[LOC00193_Wilderness_Location_194]]
 - Related: [[magic-missile-xphb (spells)
 - Connects to [LOC00099_Planes_Location_100]]
 - Related: [[Balta Kaine 2
@@ -339,8 +296,7 @@ Being extorted by criminals
 - Leads to [QUEST00019_Side_Quest_20]]
 - See also: [[..
 - Originates from [step_030 (phase_024)]]
-- Requires [[Queen Glacialis (D&D_References)
-- Connects to [Singing Coral 2]]
+- Requires [[Queen Glacialis (D&D_References)]]
 - Related: [[LOC0149_PortHill
 - Leads to [step_069 (phase_030)]]
 

@@ -160,24 +160,13 @@ Competitor sabotaging business
 - Special moves
 
 ## See Also
-- [[NPC01301_Jorah_Underhill_the_Broken
-- [NPC01789_Vesper_Proudmore_the_Mystic]]
-- [[Ambassador Nerida Deepcurrent
-- [NPC01660_Thalia_Moonshadow_the_Fallen]]
-- [[NPC00663_Alaric_Dawnstrider_the_Strong
-- [Pip Goldleaf]]
-- [[NPC00461_Branwen_Proudmore_the_Strong
-- [NPC01827_Kaelen_Ironforge_the_Seeker]]
-- [[NPC01082_Fiora_Ashford_the_Fallen
-- [Depth_Adapted_Background]]
-- [[Propaganda_Leaflet_Pearl_Guar
-- [Quarantine_Notice_Crystal_Plagu]]
-- [[Player_Comfort_Check
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Player_Comfort_Check]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -194,8 +183,7 @@ Competitor sabotaging business
 
 - Affected by [tricksters-escape-xge (optional-features)]]
 - Originates from
-- See also: [[The Coral Estates
-- Connects to [The Meridian Amnesia Zone]]
+- See also: [[The Meridian Amnesia Zone]]
 - Requires [[Identity_Crisis_Resolution.png
 - Leads to [Indigo Deepdye (D&D_References)]]
 - Connects to [[step_085 (phase_011)
@@ -204,22 +192,17 @@ Competitor sabotaging business
 - See also: [Timeline_Tracker]]
 - Connects to [[Red Abishai Mpmm
 - Affected by [step_035 (phase_006)]]
-- Parallels [[Current Deepvoice (D&D_References)
-- Requires [Quest The Dying Forest]]
+- Parallels [[Current Deepvoice (D&D_References)]]
 - Related: [[LORE00310_History_Entry_311
 - Affected by [Assets Locations Location City the Floating Markets of Nereidios the Floating Markets of Nereidios.svg]]
 - Leads to [[step_067 (phase_053)
 - Requires [giant-owl-xmm (celestial)]]
-- Compare with [[ENC00270_Social_Encounter_271
-- Related: [The Exchange Point (D&D_References)]]
-- Parallels [[Corrupted Clients (D&D_References)
-- Requires [driftglobe-xdmg (items)]]
-- Connects to [[Crisis Command Center 2
-- Parallels [Progressive Research Institutions 2]]
+- Compare with [[The Exchange Point (D&D_References)]]
+- Parallels [[Corrupted Clients (D&D_References)]]
+- Connects to [[Progressive Research Institutions 2]]
 - See also: [[EVENT00060_Political_Event_61
 - Compare with [Teacher-Administrator Shadowlearn]]
-- Affected by [[EVENT00017_Political_Event_18
-- Affected by [NPC00366_Faelyn_Ashford_the_Mystic]]
+- Affected by [[NPC00366_Faelyn_Ashford_the_Mystic]]
 - Compare with [[Quandrix Primer Scc
 - Originates from [The Pressure Forges]]
 - Leads to [[carpet-of-flying-3-ft-5-ft-xdmg (items)
@@ -236,8 +219,7 @@ Competitor sabotaging business
 - Connects to [step_020 (phase_061)]]
 - Affected by [[Inter-Species_Relations_Division (02_Worldbuilding)
 - Compare with [LOC00132_Dungeons_Location_133]]
-- Related: [[The Windswept Heights
-- Connects to [NPC01200_Alaric_Lightbringer_the_Broken]]
+- Related: [[NPC01200_Alaric_Lightbringer_the_Broken]]
 - Requires [[ENC00190_Environmental_Encounter_191
 - Requires
 - Affected by [Confront the Possessed Queen (D&D_References)]]
@@ -257,33 +239,26 @@ Competitor sabotaging business
 - Influences [step_090 (phase_077)]]
 - Originates from [[Assets Portraits Portrait NPC Captain Lyanna Brightshield Captain Lyanna Brightshield.svg
 - Originates from [Deputy Harbor Master Marina Stormwright 2]]
-- Affected by [[Umbral Scholar Valentina Depthlore 2
-- Requires [Political_System_Rules]]
+- Affected by [[Umbral Scholar Valentina Depthlore 2]]
 - Requires [[Assets Item Artifact Explorers Pack Xphb V1 Explorers Pack Xphb.png
 - Related: [step_015 (phase_072)]]
 - Leads to [[Archive of Forgotten Depths (D&D_References)
 - Compare with [QUEST0038_The_Frozen_Fortress_Disappearances]]
-- Related: [[The Unremembered Parliament (D&D_References)
-- Originates from
-- Compare with [Fashion Guild (Guilds)]]
-- Leads to [[Professor Aldwin Cleartext 2
-- Affected by [FAC00079_Cults_80]]
+- Related: [[The Unremembered Parliament (D&D_References)]]
+- Leads to [[Professor Aldwin Cleartext 2]]
 - Related: [[Healer Sage Bondseer 2
 - Compare with [NPC00109_Xander_Ravenheart]]
 - See also: [[Link
 - Compare with [Twilight Depths]]
-- Affected by [[NPC00251_Fiora_Voidwalker
-- Leads to [Vespara "Nightwhisper" Thorne]]
-- Leads to [[deer-xmm (beast)
-- Requires [Shadow Independence Levels]]
+- Affected by [[Vespara "Nightwhisper" Thorne]]
+- Leads to [[Shadow Independence Levels]]
 - Requires [[step_073 (phase_100)
 - Related: [forgotten-realms-sune (deities)]]
 - Influences [[ITEM00661_Ethereal_Shield_of_Fortitude
 - Influences [Ioun Stone Regeneration Xdmg]]
 - See also: [[list-spells-classes-death-domain-dmg (lists)
 - Compare with [step_056 (phase_095)]]
-- Compare with [[ENC00164_Environmental_Encounter_165
-- Requires [Purification Chambers 2]]
+- Compare with [[ENC00164_Environmental_Encounter_165]]
 - Compare with [[Wall of Thorns Xphb
 - Originates from [step_080 (phase_078)]]
 - Compare with [[step_100 (phase_084)

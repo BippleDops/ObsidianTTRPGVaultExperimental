@@ -167,36 +167,21 @@ Modifications:
 > Useful information for players
 
 ## See Also
-- [[NPC01498_Gareth_Quicksilver_the_Risen
-- [NPC01195_Gareth_Keenblade_the_Guardian]]
-- [[NPC01892_Gareth_Xendar_the_Scholar
-- [NPC00129_Gareth_Jadeclaw]]
-- [[NPC01012_Solas_Darkwater_the_Strong
-- [NPC01858_Drusilla_Stormwind_the_Cunning]]
-- [[NPC01447_Baelor_Winterborn_the_Strong
-- [NPC01827_Kaelen_Ironforge_the_Seeker]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [NPC01943_Xander_Proudmore_the_Fallen]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC00939_Thalia_Jadeclaw_the_Swift]]
-- [[NPC00058_Elric_Nightfall
-- [NPC01276_Erasmus_Keenblade_the_Wanderer]]
-- [[NPC00542_Corvus_Oakenshield_the_Strong
-- [NPC00407_Hestara_Dawnstrider]]
-- [[NPC01476_Qadim_Stormwind_the_Wise
-- [Madame Rosalind Goldleaf]]
-- [[Quarantine_Notice_Crystal_Plagu
-- [NPC00612_Thalia_Jadeclaw_the_Fallen]]
-- [[Combat_Encounter_Analysis
-- [Downtime_Activities]]
-- [[Reference.md
-- [NPC01841_Malakai_Nightfall_the_Wise]]
-- [[09 Adventuring
-- [05 Personality and Background]]
-- [[11 Rules Glossary
-- [NPC01594_Fiora_Proudmore_the_Seeker]]
-- [[NPC00307_Dara_Proudmore_the_Seeker
-- [NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01892_Gareth_Xendar_the_Scholar]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[Combat_Encounter_Analysis]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[05 Personality and Background]]
+- [[NPC01594_Fiora_Proudmore_the_Seeker]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
 - [[Complete_NPC_Matrix.md
 -
 
@@ -240,21 +225,17 @@ Modifications:
 - See also:
 - Requires [[step_050 (phase_088)
 - Requires [Succession Planning]]
-- Originates from [[Weather Warden Storm Wisdom
-- Related: [step_096 (phase_078)]]
+- Originates from [[Weather Warden Storm Wisdom]]
 - Parallels [[Vehicle Ship Depth Piercer Research Sub V1 Depth Piercer Research Sub.svg
 - Connects to [step_058 (phase_078)]]
 - Influences [[QUEST00399_Side_Quest_400
 - Originates from [step_061 (phase_016)]]
-- Compare with [[NPC01161_Hestara_Zephyrblade_the_Lost
-- Leads to [chitine-mpmm (monstrosity)]]
+- Compare with [[NPC01161_Hestara_Zephyrblade_the_Lost]]
 - Parallels [[ITEM01204_Lesser_Oil_of_Swiftness
 - Related: [balloon-pack-pota (items)]]
 - Affected by [[Location City [Apprentice Bubbles Apprentice Bubbles.svg]]
-- Affected by [[Emergency Technology Development Foundation
-- See also: [step_038 (phase_038)]]
-- Connects to [[LOC00185_Planes_Location_186
-- Affected by [Compulsion Xphb]]
+- Affected by [[Emergency Technology Development Foundation]]
+- Connects to [[LOC00185_Planes_Location_186]]
 - Leads to [[Assets Locations [[Location City [Deep Studycurrent Deep Studycurrent.svg]]]]
 - Originates from [[dungeoneers-pack-xphb
 - Leads to
@@ -263,11 +244,9 @@ Modifications:
 - Related: [[Lord Vexton Shadowmere
 - Leads to [step_004 (phase_092)]]
 - Requires [[Assets Locations [[Location City [The Whispering Peaks the Whispering Peaks.svg]]]]
-- See also: [[Manifestation Chambers 2
-- Originates from [vampire]]
+- See also: [[Manifestation Chambers 2]]
 - Requires [[Location City [The Seven Shards Mystery V1 the Seven Shards Mystery.svg]]
-- Originates from [[Sergeant Crystal-Heart Elena
-- Compare with [Dockworkers Union]]
+- Originates from [[Sergeant Crystal-Heart Elena]]
 - Influences [[Portrait NPC the Crimson Pearl the Crimson Pearl.svg_1 (Portraits)
 - Leads to [step_008 (phase_017)]]
 - Influences [[ITEM00002_Frost_Sword_of_Slaying
@@ -287,15 +266,13 @@ Modifications:
 - Related: [step_082 (phase_005)]]
 - Compare with [[ENC00087_Combat_Encounter_88
 - Leads to [Safe Passage Guild (Guilds)]]
-- Parallels [[M-003 Duplicate Crew Player
-- Leads to [The Abyssal Prophet 2]]
+- Parallels [[M-003 Duplicate Crew Player]]
 - Connects to [[MON0000_Shadow_Stalker
 - Connects to [step_100 (phase_012)]]
 - Related:
 - Leads to [[Player Notes (02_Worldbuilding)
 - Connects to [[Assets Locations Location City [The Frozen Throne]] V1 the Frozen Throne.svg]]
-- Compare with [[step_056 (phase_060)
-- Related: [QUEST00074_Personal_Quest_75]]
+- Compare with [[QUEST00074_Personal_Quest_75]]
 - Affected by [[step_017 (phase_049)
 - Influences [eberron-aureon (deities)]]
 - Requires [[Princess Celestia 2
@@ -310,8 +287,7 @@ Modifications:
 - Originates from [LORE00320_Legends_Entry_321]]
 - Parallels [[step_046 (phase_011)
 - Requires [Demon Customization Tables Unusual Demon]]
-- Related: [[Spike Growth Xphb
-- Connects to [Services Inter Realm Transportation]]
+- Related: [[Services Inter Realm Transportation]]
 - Originates from [[forgotten-realms-milil (deities)
 - Related: [ITEM01456_Elegant_Spyglass_of_Durability]]
 - Affected by [[step_013 (phase_014)
@@ -327,10 +303,8 @@ Modifications:
 - Connects to [[step_023 (phase_089)
 - See also: [The Great Forgetting]]
 - Connects to
-- See also: [[Private Arbitration
-- Originates from [[[The Archive of Unremembered Things]] (D&D_References)]]
-- See also: [[ENC00162_Social_Encounter_163
-- Connects to [Economic Planning]]
+- See also: [[The Archive of Unremembered Things]] (D&D_References)]]
+- See also: [[ENC00162_Social_Encounter_163]]
 - Connects to [[Assets Locations [[Location City [Reality Anchoring Technology V1 Reality Anchoring Technology.svg]]]]
 
 ## Visual References

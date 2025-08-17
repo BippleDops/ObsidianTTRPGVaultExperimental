@@ -98,45 +98,24 @@ publish: false --- -|--------|
 > Ancient magic still lingers here
 
 ## See Also
-- [[NPC00321_Aeliana_Zephyrblade_the_Strong
-- [Parliament of Shadows Player Guide.md]]
-- [[NPC00200_Faelyn_Winterborn_the_Guardian
-- [NPC00976_Alaric_Quicksilver_the_Strong]]
-- [[NPC01429_Zephyr_Keenblade_the_Cunning
-- [NPC00815_Baelor_Thornweave_the_Swift]]
-- [[Propaganda_Broadsheet_Syndicate.md
-- [NPC00385_Qadim_Darkwater_the_Cunning]]
-- [[Faction_Relationship_Web
-- [NPC01979_Fiora_Emberfall_the_Guardian]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [Wanted_Poster_Syndicate_Fenc]]
-- [[NPC00250_Delara_Darkwater_the_Fallen
-- [NPC01438_Hilda_Youngblood_the_Fallen]]
-- [[NPC00858_Zephyr_Silverleaf_the_Wanderer
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[NPC00515_Baelor_Crystalbrook_the_Seeker
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[NPC00655_Jorah_Darkwater_the_Seeker
-- [NPC01360_Ewan_Blackstone_the_Strong]]
-- [[NPC00388_Ysara_Goldleaf
-- [Party_Quests]]
-- [[Marcus Shardbreaker Grimm_1
-- [NPC00542_Corvus_Oakenshield_the_Strong]]
-- [[Player_Portal.md
-- [NPC00599_Cedric_Lightbringer_the_Wise]]
-- [[09 Appendix a the Multiverse
-- [03 Races]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [Session_Recaps]]
-- [[11 Rules Glossary
-- [NPC01012_Solas_Darkwater_the_Strong]]
-- [[MASTER_NAVIGATION
--
-
-## Related Content
-- [audio_fit_report]]
-- [[audio_fit_report_1
-- [SVG_REPLACEMENT_REPORT]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[09 Appendix a the Multiverse]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[MASTER_NAVIGATION]]
+- [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -173,8 +152,7 @@ publish: false --- -|--------|
 - Originates from [swarm-of-piranhas-xmm (beast)]]
 - See also: [[Assets Locations Location City Merchant Merchant.svg
 - Originates from [ITEM01166_Greater_Crystal_of_Vigor]]
-- Affected by [[LOC00094_Planes_Location_95
-- Requires [Craftmaster Engineer Gearwhispe (D&D_References)]]
+- Affected by [[Craftmaster Engineer Gearwhispe (D&D_References)]]
 - Originates from [[List Spells Optional Features Tricksters Escape Xge
 - Influences [The Meditation Spheres]]
 - Requires [[Symbol Heraldry the Forsaken Consortium Collective V1 the Forsaken Consortium Collective.svg
@@ -182,8 +160,7 @@ publish: false --- -|--------|
 - Compare with [[Project Seven Laboratory (D&D_References)
 - Connects to
 - Leads to [Mediator Supreme Cora Peaceweaver]]
-- Parallels [[Acolyte Sister Tidal Deepfaith (D&D_References)
-- Connects to [Assets Art the Divine Trial.png]]
+- Parallels [[Acolyte Sister Tidal Deepfaith (D&D_References)]]
 - Leads to [[step_075 (phase_047)
 - Compare with
 - Requires [Shadow Surgery Network]]
@@ -204,8 +181,7 @@ publish: false --- -|--------|
 - Influences [ITEM00099_Thunder_Dagger_of_Power]]
 - Leads to [[forgotten-realms-umberlee (deities)
 - Compare with [Victoria Harbormane]]
-- Affected by [[The Grand Trade Routes (D&D_References)
-- Compare with [LOC00143_Cities_Location_144]]
+- Affected by [[The Grand Trade Routes (D&D_References)]]
 - Related: [[LORE00197_History_Entry_198
 - Related: [Prophetic Visions]]
 - Originates from [[Admiral Marina Stormcrest 2
@@ -213,20 +189,16 @@ publish: false --- -|--------|
 - Requires [Void-warded Cloak 2]]
 - Affected by [[step_059 (phase_067)
 - Requires [step_063 (phase_047)]]
-- Requires [[ENC00271_Social_Encounter_272
-- Originates from [LOC0058_FortVale]]
+- Requires [[ENC00271_Social_Encounter_272]]
 - Requires [[darkness-xphb (variant-rules)
 - Requires [Symbol Heraldry Inventor Chief Adaptatio V1 Inventor Chief Adaptatio.svg]]
 - Related: [[Void Magic 2
 - Affected by [Port Shadowmere]]
 - Affected by [[mighty-fortress-xge (spells)
 - Related: [creating-a-monster-stat-block-monster-features]]
-- Requires [[EVENT00086_Natural_Event_87
-- Requires [MON00114_Constructs_Creature_115]]
-- Parallels [[step_012 (phase_048)
-- Requires [NPC01106_Jorah_Thornweave_the_Guardian]]
-- Originates from [[step_019 (phase_031)
-- See also: [Illumination Crysta (D&D_References)]]
+- Requires [[MON00114_Constructs_Creature_115]]
+- Parallels [[NPC01106_Jorah_Thornweave_the_Guardian]]
+- Originates from [[Illumination Crysta (D&D_References)]]
 - Connects to [[Assets Locations Location City Entertainment Industry Entertainment Industry.svg
 - Influences [School of Deep Resonance]]
 - Parallels [[#Threads
@@ -251,8 +223,7 @@ publish: false --- -|--------|
 - Originates from
 - Related: [[Character_Creation_Flowchart_Quick_Ref
 - Leads to [step_054 (phase_045)]]
-- Affected by [[Memory Trading Economy System
-- Connects to [Great Preparatio 2]]
+- Affected by [[Memory Trading Economy System]]
 - Related: [[hobgoblin-warrior-xmm (fey)
 - Affected by [step_006 (phase_084)]]
 - Affected by [[Location City the Drowned Embassy V1 the Drowned Embassy.svg

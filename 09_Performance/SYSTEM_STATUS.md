@@ -185,8 +185,7 @@ Following magic item guidelines (WWT p.135-136):
 - Volo's Creature Catalog to Monsters (VCC) p.183
 
 ## Related Content
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -215,26 +214,22 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Connections
 
-- Leads to [[SPELL0004_Shadow_Bolt
-- Related: [QUEST0090_The_Ancient_Treasure]]
+- Leads to [[QUEST0090_The_Ancient_Treasure]]
 - Originates from [[step_018
 - Related: [step_041 (phase_100)]]
-- See also: [[Armor Training Xphb
-- Connects to [MON00126_Aberrations_Creature_127]]
+- See also: [[MON00126_Aberrations_Creature_127]]
 - Parallels [[step_022
 - Leads to [hammer]]
 - Originates from [[SPELL00152_Nature_Spell_153
 - Compare with [ITEM00651_Mithril_Gauntlets_of_the_Guardian]]
-- Influences [[QUEST00453_Side_Quest_454
-- Requires [Sunken Kingdom of Nereon (D&D_References)]]
+- Influences [[Sunken Kingdom of Nereon (D&D_References)]]
 - Parallels [[ITEM00704_Void-touched_Scepter_of_the_Gods
 - See also: [Anti-Corruption Research Institute 2]]
 - Parallels [[step_029 (phase_057)
 - Requires [step_096]]
 - Parallels [[Memory Merchant Centers 2
 - Related: [Portrait NPC Pirate Lords of the Spiral Depths V1 Pirate Lords of the Spiral Depths.svg]]
-- Compare with [[Unknown Rival
-- Requires [NPC0045_Fiora_Ironforge]]
+- Compare with [[NPC0045_Fiora_Ironforge]]
 - Affected by [[fire-elemental-xmm (elemental)
 - Originates from [LOC00253_Towns_Location_254]]
 - Related: [[Symbol Heraldry Crystal Wardens V1 Crystal Wardens.svg
@@ -249,36 +244,29 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png]]
 - Leads to [[ENC00115_Social_Encounter_116
 - Leads to [Assets Locations Location City Captain Marlowe Tidecrest Captain Marlowe Tidecrest.svg]]
-- Leads to [[step_001 (phase_020)
-- See also: [Magnus Ledgerkeep (D&D_References)]]
+- Leads to [[Magnus Ledgerkeep (D&D_References)]]
 - Originates from [[Economic_Warfare_Simulator (D&D_References)
 - Requires [Symbol Heraldry the Schism and Reconciliation the Schism and Reconciliation.svg]]
-- Related: [[Sacred Texts of Transformation (D&D_References)
-- Connects to [LORE00020_History_Entry_21]]
+- Related: [[Sacred Texts of Transformation (D&D_References)]]
 - See also: [[The Neutral Tavern
 - Leads to [Portrait NPC Emperor Pelagic the Last Emperor Pelagic the Last.svg_1 (Portraits)]]
 - Compare with [[Seeking Spell Xphb
 - Affected by [step_040]]
 - Compare with [[step_082 (phase_077)
 - Parallels [scholars-of-prismari-prismari-scholars-scc (tables)]]
-- Requires [[LOC00290_Planes_Location_291
-- Affected by [NPC00405_Urien_Ironforge_the_Mystic]]
+- Requires [[NPC00405_Urien_Ironforge_the_Mystic]]
 - Related: [[dungeon-delver (feats)
 - Related: [Chamber Purpose Dungeon Mine]]
-- Compare with [[step_019 (phase_058)
-- See also: [Corrupt Crystalline Guard (D&D_References)]]
-- Leads to [[NPC01099_Felicia_Proudmore_the_Seeker
-- See also: [NPC00659_Gavril_Ironforge_the_Lost]]
-- See also: [[step_066 (phase_060)
-- See also: [SPELL00096_Arcane_Spell_97]]
+- Compare with [[Corrupt Crystalline Guard (D&D_References)]]
+- Leads to [[NPC01099_Felicia_Proudmore_the_Seeker]]
+- See also: [[SPELL00096_Arcane_Spell_97]]
 - See also: [[War of the Sunless Depths
 - See also: [physical-variations-yuan-ti-snake-body-type-vgm]]
 - Compare with [[step_077
 - Requires [location-city-trade-war-v1-trade-war.svg]]
 - See also: [[Assets Portraits Portrait NPC Captain Henrik Saltbreeze Captain Henrik Saltbreeze.svg
 - Related: [Citizens' Budget Review 2]]
-- Connects to [[step_024 (phase_017)
-- Requires [LOC00256_Dungeons_Location_257]]
+- Connects to [[LOC00256_Dungeons_Location_257]]
 - Leads to [[step_010 (phase_047)
 - Affected by [step_057 (phase_076)]]
 - Leads to [[LORE00143_History_Entry_144
@@ -289,12 +277,10 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [FAC00029_Orders_30]]
 - Parallels [[step_004
 - Originates from [psychic-scream-xge (spells)]]
-- Originates from [[Counter-Mirror Task Force (D&D_References)
-- Leads to [step_051 (phase_050)]]
+- Originates from [[Counter-Mirror Task Force (D&D_References)]]
 - Leads to [[The Warden Guilds
 - Influences [step_044 (phase_017)]]
-- Leads to [[step_017 (phase_083)
-- Compare with [Aethermoor Rangers (D&D_References)]]
+- Leads to [[Aethermoor Rangers (D&D_References)]]
 - Leads to [[Location City Archkeeper Nereon V1 Archkeeper Nereon.svg
 - Parallels [step_094 (phase_054)]]
 - Leads to [[Tobias Quillwright (D&D_References)
@@ -307,10 +293,8 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [FAC00057_Orders_58]]
 - Parallels [[Portrait NPC Investigator Supreme Lucian Brightwater Investigator Supreme Lucian Brightwater.svg_1 (Portraits)
 - Compare with [Assets Locations Location City Chef Amara Tastecurrent V1 Chef Amara Tastecurrent.svg]]
-- Parallels [[LOC00062_Dungeons_Location_63
-- Parallels [MON00158_Aberrations_Creature_159]]
-- Connects to [[Underground Distribution Networks (D&D_References)
-- Affected by [ITEM01362_Decorated_Lantern_of_Quality]]
+- Parallels [[MON00158_Aberrations_Creature_159]]
+- Connects to [[Underground Distribution Networks (D&D_References)]]
 - Influences [[The Null Sanctum
 - Parallels [step_026 (phase_027)]]
 - Related: [[SPELL00164_Divine_Spell_165

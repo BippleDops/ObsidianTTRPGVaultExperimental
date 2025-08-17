@@ -65,9 +65,8 @@ world: Both
 #gameplay/session
 #meta/reference
 
-## [[See Also
-- [NPC00601_Vesper_Ironwood_the_Guardian]]
-- [[[Possession Xphb]]
+## [[NPC00601_Vesper_Ironwood_the_Guardian]]
+- [[Possession Xphb]]
 
 ## [[Session Summary
 *Brief overview of this session*
@@ -77,7 +76,7 @@ world: Both
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

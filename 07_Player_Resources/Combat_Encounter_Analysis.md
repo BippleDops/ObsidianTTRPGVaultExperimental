@@ -223,10 +223,8 @@ Contextual improvement based on 07_Player_Resources
 > This location connects to the main plot
 
 ## See Also
-- [[Basic_Rules
-- [Reference.md]]
-- [[10 Combat
-- [NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[Basic_Rules]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
 -
 
 ## Game Mechanics
@@ -259,13 +257,10 @@ Contextual improvement based on 07_Player_Resources
 - Originates from [LOC00294_Towns_Location_295]]
 - Requires [[ITEM00050_Shadow_Hammer_of_the_Ancients
 - Influences [LOC00006_Dungeons_Location_7]]
-- Parallels [[LOC0109_Groveton
-- Requires [Arcane Master Voidweav 2]]
+- Parallels [[Arcane Master Voidweav 2]]
 - Leads to
-- Compare with [[Floating Cities (D&D_References)
-- Connects to [step_064 (phase_053)]]
-- Related: [[NPC00014_Alaric_Lightbringer
-- Parallels [Portrait NPC Pres... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Compare with [[Floating Cities (D&D_References)]]
+- Related: [[Portrait NPC Pres... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Affected by [[kuo-toa-xmm
 - Affected by [step_099 (phase_057)]]
 - Originates from [[Portal Terminal Central
@@ -283,39 +278,31 @@ Contextual improvement based on 07_Player_Resources
 - Compare with [Governmental Authority]]
 - Influences [[Location City Noble Palatemaster Noble Palatemaster.png
 - Parallels [pearl-of-power-xdmg (items)]]
-- Requires [[NPC01926_Thalia_Dawnstrider_the_Strong
-- Related: [ITEM00095_Blazing_Dagger_of_Slaying]]
+- Requires [[NPC01926_Thalia_Dawnstrider_the_Strong]]
 - Influences [[Marianas Abyss
 - Related: [step_073 (phase_018)]]
 - Leads to [[FAC00083_Guilds_84
 - Influences [Human Names Spanish Female Xge]]
-- Originates from [[NPC01113_Solas_Ravenheart_the_Cunning
-- Compare with [README]]
+- Originates from [[NPC01113_Solas_Ravenheart_the_Cunning]]
 - Affected by [[step_087 (phase_100)
 - Originates from [#Underground & Aquatic Locations]]
 - See also: [[Security Chief Corwin Ironshell 2
 - Influences [Gith Tables Githzerai Flaws Mtf]]
 - Leads to [[Shadow Mastiff Alpha Mpmm
 - Influences [step_088 (phase_037)]]
-- Related: [[LOC00141_Wilderness_Location_142
-- Requires [step_050 (phase_084)]]
-- Leads to [[Troglodyte Xmm
-- Influences [LOC00289_Dungeons_Location_290]]
+- Related: [[LOC00141_Wilderness_Location_142]]
+- Leads to [[LOC00289_Dungeons_Location_290]]
 - Affected by [[step_017 (phase_093)
 - Influences [Mourning Depths 2]]
 - Compare with [[step_005 (phase_046)
 - Compare with [QUEST00007_Side_Quest_8]]
 - Compare with [[The Negotiation Void 2
 - Affected by [ITEM00429_Enchanted_Leather_of_Fortitude]]
-- Compare with [[ENC00032_Combat_Encounter_33
-- Related: [DUN00083_Dungeon_84]]
-- Influences [[The Drowning Truth (D&D_Statblocks)
-- Related: [Symbiotic Integration Specialists (D&D_References)]]
+- Compare with [[ENC00032_Combat_Encounter_33]]
+- Influences [[Symbiotic Integration Specialists (D&D_References)]]
 - Connects to [[Wizard Xphb School of Transmutation
 - Influences [step_046 (phase_088)]]
-- Originates from [[Windvane Pota
-- Influences
-- See also: [Archbishop Mordecai Stormwright (D&D_References)]]
+- Originates from [[Archbishop Mordecai Stormwright (D&D_References)]]
 - Requires [[Customs House 2
 - Originates from [Illusory Dragon Xge]]
 - Affected by [[step_067 (phase_029)
@@ -345,12 +332,10 @@ Contextual improvement based on 07_Player_Resources
 - Influences [step_009 (phase_068)]]
 - Related: [[EVENT00091_Natural_Event_92
 - Influences [Purify Food and Drink Xphb]]
-- Affected by [[step_059 (phase_058)
-- Affected by [ENC00236_Social_Encounter_237]]
+- Affected by [[ENC00236_Social_Encounter_237]]
 - Compare with [[physical-characteristics-beholder-skin-color-vgm
 - Influences [NPC0015_Petra_Stormwind]]
-- Compare with [[Dock Worker Tomás
-- Originates from [Master Cartographer Current Deepmap]]
+- Compare with [[Master Cartographer Current Deepmap]]
 - Leads to [[12_Research_D&D_Statblocks_The_Emerald_Sage_Willowbark
 
 ## Visual References

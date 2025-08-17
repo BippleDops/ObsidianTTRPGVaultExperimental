@@ -18,12 +18,7 @@ publish: false
 
 ---
 
- # Aquabyssos - Session 01 - [[The Drowning Welcome ---
-
-## Description
-
-Detailed description pending.
-title: [The Drowning]] Welcome
+ # Aquabyssos - Session 01 - [[The Drowning Welcome]] Welcome
 type: Lore
 tags:
 - lore
@@ -61,13 +56,12 @@ items_gained:
 - Palace safe zones map
 
 locations_visited:
-- '[[[Abyssos Prime]]]]'
-- '[[Throne of Bubbles'
-- '[Parliament of Echoes]]'
-- '[[[Inverted Ballroom Wing]]'
+- '[[Abyssos Prime]]]]'
+- '[[Parliament of Echoes]]'
+- '[[Inverted Ballroom Wing]]'
 
 npcs_met:
-- '[[[Senator Glaucus]]'
+- '[[Senator Glaucus]]'
 - '[[[The Scattered Emperor]]'
 - '[[[[Marina Red [Tide Coralheart]] - Aquabyssos (D&D_References)]]'
 - '[[[[Pressure Tube [Operator Krill]]]]'
@@ -84,7 +78,7 @@ primary_location: '[[[[Abyssos Prime - [Inverse Palace]] (D&D_Statblocks)]]'
 quests_completed: []
 quests_progressed: []
 quests_started:
-- '[[[Investigate Shadow Conspiracy]]'
+- '[[Investigate Shadow Conspiracy]]'
 - '[[[[Discover Shadow [Market Location]]]]'
 
 session: Session 01 Aquabyssos
@@ -95,7 +89,7 @@ xp_awarded: --- ## 🔧 [[Deep Evaluation Improvements *20 targeted improvements
 
 The party arrives in Aquabyssos via [[Pressure Tube, experiencing molecular liquification and reconstitution. Upon arrival at the [Inverse Palace]], they witness [[Senator Hadrian dissolve into living shadow during a Parliament session. Their own shadows begin showing signs of independence as they settle into their inverted quarters. ### [Opening Scene]]
 
-**Location:** [[[Abyssos Prime]]
+**Location:** [[Abyssos Prime]]
 **Time:** Midday (though sunlight doesn't reach here)
 **Description:** The party materializes from liquid form in the [[Pressure Terminal's reconstitution chambers. One member's shadow reforms a second late, moving independently for just a moment. Terminal guards check "molecular integrity" while making notes about shadow irregularities. Graffiti in Aquabyssos script on the walls reads: "[The Harvest]] Comes." > **[[Read Aloud:** "Your consciousness snaps back like a rubber band as your body reconstitutes from liquid. The sensation is wrong—like being poured into a mold that doesn't quite fit. As you solidify, you notice your shadow on the curved glass wall. For just a moment, it waves while your hand remains still." #### Event 1: [The Emperor]]'s Court
 
@@ -115,7 +109,7 @@ The party arrives in Aquabyssos via [[Pressure Tube, experiencing molecular liqu
 - Eel 6: "—shadows." #### Event 2: [[The Dissolution
 
 **Location:** [[Parliament of Echoes - [Public Gallery]]]]
-**NPCs:** [[[Senator Glaucus]], dissolving [[Senator Hadrian
+**NPCs:** [[Senator Glaucus]], dissolving [[Senator Hadrian
 **[Witness Horror]]:** **DC 13** WIS save or frightened for 1 minute
 **Outcome:**
 - [[Senator Hadrian screams and melts into living shadow
@@ -138,7 +132,7 @@ The party arrives in Aquabyssos via [[Pressure Tube, experiencing molecular liqu
 - Evidence someone entered rooms before arrival
 - Waterfalls flow upward into ceiling pools ### [Closing Scene]]
 
-**Location:** [[[[Inverted Ballroom Wing - [Party Quarters]]]]
+**Location:** [[Inverted Ballroom Wing]]]]
 **Time:** Night cycle (artificial darkness)
 **Cliffhanger:** Party members wake to find their shadows standing at the foot of their beds, perfectly still, watching them. One shadow holds a knife. Marina bursts in: "Don't move. Don't even breathe. If you acknowledge them, they become real." Through the window, dozens of shadows dance in the [[Inverted Ballroom without their owners. ### [Environmental Challenges]]
 
@@ -204,11 +198,11 @@ Each character gains:
 
 - Strange accidents suggest a conspiracy
 - Someone is searching for information for power
-- Strange sightings suggest a curse ## 12_Research [Specific Content]] Contextual improvement based on 12_Research ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## References - [[[Senator Glaucus]]]]
+- Strange sightings suggest a curse ## 12_Research [Specific Content]] Contextual improvement based on 12_Research ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## References - [[Senator Glaucus]]]]
 
 - [[[The Scattered Emperor]]
-- [[[Senator Glaucus (D&D_References)]]
-- [[[The Scattered Emperor (D&D_References)]]
+- [[Senator Glaucus (D&D_References)]]
+- [[The Scattered Emperor (D&D_References)]]
 
 ## Notes
 

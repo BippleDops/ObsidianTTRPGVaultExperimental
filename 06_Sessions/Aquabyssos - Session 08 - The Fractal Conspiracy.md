@@ -53,8 +53,7 @@ date_played: [My Category]]: Unknown
 depth: Variable ([Reality Layers]])
 estimated_time: 4 hours
 npcs_featured:
-- - - [[Lord Flux the Inconsistent
-- - - [The Sorrowmaster]]
+- - - [[Lord Flux the Inconsistent]]
 - - - 02_Worldbuilding/Lore/Marina's Echo|Marina's Echo
 - - - [[The Parliament of Nobody
 
@@ -87,9 +86,7 @@ The party enters the [[Fractal Forests to find themselves in multiple realities 
 - 6-10: Twisted timeline (role reversals)
 - 11-15: Canon timeline (current reality)
 - 16-19: Optimal timeline (everything better)
-- 20: Observer mode (see all timelines) ### Scene 2: [[The Parliament of Nobody
-
-**Location**: [Memoriam]] [[Recursion Layer **Situation**: Meet the forgotten government **Conflict**: They don't exist but make decisions **Discoveries**:
+- 20: Observer mode (see all timelines) ### Scene 2: [[The Parliament of Nobody]] [[Recursion Layer **Situation**: Meet the forgotten government **Conflict**: They don't exist but make decisions **Discoveries**:
 - They've been fighting Singers for centuries
 - Nobody remembers because they erase themselves
 - They have the [Grief Bomb]] blueprints
@@ -109,7 +106,7 @@ The party enters the [[Fractal Forests to find themselves in multiple realities 
 - Wrong choice collapses several timelines
 - Right choice requires sacrifice from all ### Scene 4: [The Sorrowmaster]]'s Depths
 
-**Location**: [[[The Mourning Depths]] - All recursions **Situation**: Retrieve the [[Grief Bomb **Conflict**: Must generate enough sorrow to power it **Discoveries**:
+**Location**: [[The Mourning Depths]] - All recursions **Situation**: Retrieve the [[Grief Bomb **Conflict**: Must generate enough sorrow to power it **Discoveries**:
 - The bomb is made from crystallized suffering
 - It doesn't destroy—it makes things too sad to exist
 - [The Sorrowmaster]] is dying from joy (paradox)

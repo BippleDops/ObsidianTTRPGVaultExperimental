@@ -40,7 +40,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-location: '[[[Crystal Festival Grounds]]'
+location: '[[Crystal Festival Grounds]]'
 level: 5
 session_number: 7
 date_played: [[My Category: Unknown
@@ -48,10 +48,10 @@ date_played: [[My Category: Unknown
 [My Container]]: None
 estimated_time: 4 hours
 npcs_featured:
-- '[[[Queen Seraphina Lumengarde]]'
-- '[[[Vex Shadowthorn]]'
-- '[[[Captain Lyanna Brightshield]]'
-- '[[[Brother Marcus Steelbane]]'
+- '[[Queen Seraphina Lumengarde]]'
+- '[[Vex Shadowthorn]]'
+- '[[Captain Lyanna Brightshield]]'
+- '[[Brother Marcus]]'
 - '[[Citizens of Meridian'
 
 obsidian UIMode: preview
@@ -67,13 +67,13 @@ world: Aethermoor
 
 2. Citizens in the outer rings can still be saved
 3. [The Queen]]'s consciousness is strongest near her sister's artifacts
-4. [[[Vex Shadowthorn]] has been promised rulership of the new world
+4. [[Vex Shadowthorn]] has been promised rulership of the new world
 5. The entity needs willing participation from the bloodline
 6. Festival decorations hide ancient protective wards
-7. [[[Captain Lyanna Brightshield]] has the Queen's true crown
+7. [[Captain Lyanna Brightshield]] has the Queen's true crown
 8. The transformation can be reversed within the first hour
 9. Breaking three anchor points destabilizes everything
-10. [[[The Crimson Sage]] prepared a contingency inside the bloodline carrier ## 🎭 [[Cliffhanger Ending As the bloodline carrier makes their choice, the ritual reaches critical mass. The sky shatters completely, revealing [Aquabyssos]] descending from above like an inverted city. Water doesn't fall - it hangs in massive spheres. The entity's true form begins manifesting: a colossal crystalline figure made of thousands of absorbed souls. [[[The Crimson Sage]] appears, burning with silver fire: "Now! While the barriers are weak! We can rewrite reality itself, but someone must anchor the new world order. Someone must become the seal." The bloodline carrier feels their body beginning to resonate with all seven shards. ## 📝 DM Notes```[[Critical Choices:
+10. [[The Crimson Sage]] prepared a contingency inside the bloodline carrier ## 🎭 [[Cliffhanger Ending As the bloodline carrier makes their choice, the ritual reaches critical mass. The sky shatters completely, revealing [Aquabyssos]] descending from above like an inverted city. Water doesn't fall - it hangs in massive spheres. The entity's true form begins manifesting: a colossal crystalline figure made of thousands of absorbed souls. [[The Crimson Sage]] appears, burning with silver fire: "Now! While the barriers are weak! We can rewrite reality itself, but someone must anchor the new world order. Someone must become the seal." The bloodline carrier feels their body beginning to resonate with all seven shards. ## 📝 DM Notes```[[Critical Choices:
 
 - Ritual redirection vs complete stop
 - Saving citizens vs stopping entity
@@ -108,7 +108,7 @@ world: Aethermoor
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

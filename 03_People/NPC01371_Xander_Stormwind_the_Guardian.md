@@ -175,40 +175,18 @@ Modifications:
 ## See Also
 - [[NPC00162_Xander_Thornweave
 - [NPC_Relationship_Web.png_1 (03_People)]]
-- [[NPC00612_Thalia_Jadeclaw_the_Fallen
-- [NPC00285_Xander_Goldleaf_the_Mystic]]
-- [[NPC01858_Drusilla_Stormwind_the_Cunning
-- [NPC00461_Branwen_Proudmore_the_Strong]]
-- [[NPC00385_Qadim_Darkwater_the_Cunning
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[NPC01951_Gavril_Xendar_the_Swift
-- [NPC01503_Ewan_Dawnstrider_the_Redeemed]]
-- [[NPC01447_Baelor_Winterborn_the_Strong
-- [NPC00415_Gareth_Winterborn_the_Bold]]
-- [[NPC00739_Gavril_Ashford_the_Bold
-- [Propaganda_Leaflet_Pearl_Guar]]
-- [[Emergency_Evacuation_Map_Stormglass_Riot
-- [Calendar_Conversions_Realm_Window]]
-- [[NPC00133_Lyanna_Oakenshield_the_Seeker
-- [Trade_Route_Map_Aquabyssos_to_Aethermoor]]
-- [[NPC00124_Delara_Ravenheart_the_Redeemed
-- [Letter_From_the_Pearl_Guard_Captai]]
-- [[13 Conditions
-- [08 Using Ability Scores]]
-- [[NPC01695_Ewan_Ashford_the_Fallen
-- [MOC_Lore]]
-- [[MOC_Items
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[08 Using Ability Scores]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[MOC_Items]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -219,8 +197,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -233,13 +210,11 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Connections
 
-- Connects to [[LOC00245_Dungeons_Location_246
-- Requires [NPC00700_Corvus_Hawthorne_the_Broken]]
+- Connects to [[NPC00700_Corvus_Hawthorne_the_Broken]]
 - Affected by [[Temporary Hit Points Xphb
 - Affected by [Ambush Drake Hotdq]]
-- See also: [[NPC01744_Idris_Xendar_the_Mystic
-- See also: [Pact of the Chain Xphb]]
-- Originates from [[[Electric Eel 2]]
+- See also: [[NPC01744_Idris_Xendar_the_Mystic]]
+- Originates from [[Electric Eel 2]]
 - Affected by [[Goldhorn the Magnificent
 - Originates from [Chaos Bolt Xge]]
 - Related: [[The Pressure Wars 2
@@ -248,37 +223,29 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Location City [The Crystal Hive Collective]] the Crystal Hive Collective.svg]]
 - See also: [[step_079 (phase_094)
 - Originates from [Portrait NPC Agent Whisper Voidheart Agent Whisper Voidheart.svg_1 (Portraits)]]
-- Related: [[Deep Prophecy (D&D_References)
-- Affected by [NPC01247_Xander_Zephyrblade_the_Risen]]
-- Connects to [[step_044 (phase_061)
-- Related:
-- See also: [Royal Bloodline Codex (D&D_References)]]
+- Related: [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- Connects to [[Royal Bloodline Codex (D&D_References)]]
 - Related: [[LORE00052_Prophecies_Entry_53
 - Compare with [step_031 (phase_077)]]
 - Leads to [[ITEM01303_Sturdy_Map_Case_of_Reliability
 - Requires [X-003 Anchor Storm Player]]
 - Affected by [[step_012 (phase_027)
 - Compare with [Enforcer Chief Mako Ironjaw]]
-- Compare with [[The_Festival_Council
-- Leads to [Northern Principalities (D&D_References)]]
+- Compare with [[Northern Principalities (D&D_References)]]
 - See also: [[CORDELIA_VAULT_USER_MANUAL
 - Compare with [ENC00087_Combat_Encounter_88]]
 - Connects to [[The Crimson Calculator 2
 - Connects to [Symbol Heraldry Harmonic Mind Contro V1 Harmonic Mind Contro.svg]]
-- Originates from [[Architect Coral Builder (D&D_References)
-- Originates from [step_018 (phase_047)]]
-- Parallels [[staff-of-thunder-and-lightning-xdmg (items)
-- Parallels [more-difficult-identification (variant-rules)]]
+- Originates from [[Architect Coral Builder (D&D_References)]]
+- Parallels [[more-difficult-identification (variant-rules)]]
 - Related: [[step_082 (phase_033)
 - Requires [Gith Tables Githzerai Names Female Mtf]]
 - Related: [[Location City Harbor Master S Tower Harbor Master S Tower.png
 - Affected by [SPELL00004_Divine_Spell_5]]
 - Requires [[step_065 (phase_010)
 - Affected by [step_044 (phase_092)]]
-- Affected by [[Earl Demersal
-- Compare with [[[Specimen Careful Lifeguard]] (D&D_References)]]
-- Requires [[LOC0015_Valeshire
-- Parallels [Campaign Calendar (D&D_References)]]
+- Affected by [[Specimen Careful Lifeguard]] (D&D_References)]]
+- Requires [[Campaign Calendar (D&D_References)]]
 - See also: [[Commander Tidal Strongcurrent 2
 - Influences [The Deepwater Trading Consortium]]
 - Requires [[step_087 (phase_026)
@@ -289,18 +256,16 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[Assets Locations [Location City Alternative Path Fled City Alternative Path Fled City.svg]]
 - Requires [[EVENT00000_Natural_Event_1
 - Connects to [The Lighthouse of Storms.md]]
-- Connects to [[Etheric Currents (D&D_References)
-- Connects to [step_036 (phase_099)]]
+- Connects to [[Etheric Currents (D&D_References)]]
 - Affected by [[LOC00171_Towns_Location_172
 - Parallels [Fighter Xphb Psi Warrior Xphb]]
 - Influences [[Assets Locations Location City [The Void Tears the Void Tears.png]]
 - See also:
 - Originates from [[README
 - See also: [ITEM00267_Radiant_Crossbow_of_Speed]]
-- Affected by [[Concepts Cosmic Truth
-- Related: [NPC00113_Aeliana_Ironforge]]
+- Affected by [[NPC00113_Aeliana_Ironforge]]
 - Compare with [[The Growth Gardens (D&D_References)
-- Originates from [[Location City [Port Meridian]] [[[Merchant Quarter]] V1 Port Meridian Merchant Quarter.svg]]
+- Originates from [[Location City [Port Meridian]] [[Merchant Quarter]] V1 Port Meridian Merchant Quarter.svg]]
 - Originates from [[enspelled-staff-level-8-xdmg (items)
 - Connects to [step_070 (phase_084)]]
 - Parallels [[Temporal Control (D&D_References)
@@ -314,11 +279,9 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [QUEST00497_Side_Quest_498]]
 - Originates from [[LORE00111_History_Entry_112
 - Connects to [Old Tongue]]
-- Related: [[Portrait NPC Orac... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Originates from [Political Intrigue of Meridian]]
+- Related: [[Portrait NPC Orac... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Influences
-- Influences [[The Crying Stones (D&D_References)
-- Leads to [step_074 (phase_017)]]
+- Influences [[The Crying Stones (D&D_References)]]
 - See also: [[NPC_Voices_Quick_Ref
 - Requires [Throne Room (Lore)]]
 - Leads to [[Barkskin Xphb
@@ -327,8 +290,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences
 - Requires [[LOC00153_Dungeons_Location_154
 - Affected by [EVENT00053_Political_Event_54]]
-- Compare with [[Princess Lyralei (D&D_References)
-- Connects to [Counter-Surveillance]]
+- Compare with [[Princess Lyralei (D&D_References)]]
 - Parallels [[step_100 (phase_086)
 - Originates from [Random Tricks Tricks]]
 - Parallels [[step_081 (phase_032)

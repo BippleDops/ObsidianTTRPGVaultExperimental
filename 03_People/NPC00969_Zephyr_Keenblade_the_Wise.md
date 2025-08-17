@@ -160,68 +160,37 @@ Has map to lost treasure
 
 ## See Also
 - [NPC00761_Aldric_Moonshadow_the_Guardian]]
-- [[NPC01664_Pyria_Lightbringer_the_Redeemed
-- [NPC00872_Thalia_Ironwood_the_Broken]]
-- [[NPC01483_Gavril_Zephyrblade_the_Fallen
-- [Sage Elara]]
-- [[NPC00663_Alaric_Dawnstrider_the_Strong
-- [NPC00373_Wynne_Frostwhisper_the_Strong]]
-- [[NPC00296_Elric_Jadeclaw_the_Bold
-- [NPC00124_Delara_Ravenheart_the_Redeemed]]
-- [[NPC01498_Gareth_Quicksilver_the_Risen
-- [NPC00461_Branwen_Proudmore_the_Strong]]
-- [[NPC00739_Gavril_Ashford_the_Bold
-- [NPC01577_Orion_Moonshadow_the_Seeker]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC00858_Zephyr_Silverleaf_the_Wanderer]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [The Forgotten Representative]]
-- [[NPC00542_Corvus_Oakenshield_the_Strong
-- [NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
 - [[Assets Portraits Portrait NPC the Waking Prophets the Waking Prophets.svg
 - [Assets Portraits Portrait NPC Neutral Zone Neutral Zone.svg]]
 - [[Assets Portraits Portrait NPC Duke Blackwater S Estate Duke Blackwater S Estate.svg
 - [NPC01177_Thalia_Underhill_the_Fallen]]
-- [[Measurement_Guide_Depth_and_Pressur
-- [Player_Portal.md]]
-- [[Emergency_Evacuation_Map_Stormglass_Riot
-- [NPC00351_Corvus_Ironwood]]
-- [[Ambassador Nerida Deepcurrent
-- [Reputation_Tracker]]
-- [[NPC00378_Malakai_Moonshadow_the_Broken
-- [NPC01348_Xander_Zephyrblade_the_Wise]]
-- [[NPC00976_Alaric_Quicksilver_the_Strong
-- [10 Combat]]
-- [[NPC01552_Branwen_Lightbringer_the_Swift
-- [NPC01792_Rhiannon_Ironwood_the_Scholar]]
-- [[NPC00860_Gavril_Winterborn_the_Swift
-- [11 Rules Glossary]]
-- [[NPC00321_Aeliana_Zephyrblade_the_Strong
-- [NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[NPC01429_Zephyr_Keenblade_the_Cunning
-- [MOC_Quests]]
-- [[NPC_Relationship_Web.png_1 (03_People)
-- [NPC01894_Aldric_Lightbringer_the_Bold]]
-- [[NPC00200_Faelyn_Winterborn_the_Guardian
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[MASTER_MOC
-- [11 Spellcasting]]
-- [[Character_Journal_Template
-- [NPC01613_Kaelen_Voidwalker_the_Wanderer]]
-- [[NPC00670_Xander_Goldleaf_the_Scholar
-- [Complete_NPC_Matrix.md]]
-- [[NPC01789_Vesper_Proudmore_the_Mystic
-- [Concept_Map]]
-- [[07 Customization Options
-- [NPC00804_Xander_Frostwhisper_the_Cunning]]
-- [[NPC00582_Cedric_Dawnstrider
-- [Quarantine_Notice_Crystal_Plagu]]
-- [[NPC01599_Gavril_Keenblade_the_Strong
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC00378_Malakai_Moonshadow_the_Broken]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[11 Spellcasting]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00670_Xander_Goldleaf_the_Scholar]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -245,33 +214,27 @@ Has map to lost treasure
 - Parallels [[Location City the [[Depth Plague [The Depth Plague]].svg]]
 - Originates from [[ability-score-point-costs-xphb (tables)
 - Related: [mislead-xphb (spells)]]
-- Parallels [[[Sage Rememberall (D&D_References)]]
+- Parallels [[Sage Rememberall (D&D_References)]]
 - Compare with [[ITEM00089_Blazing_Bow_of_the_Ancients
 - Influences [step_026 (phase_051)]]
-- Compare with [[The_Forgotten_Crypt_of_Despair
-- Affected by [Coral Reef Sanctuaries]]
-- Parallels [[NPC01951_Gavril_Xendar_the_Swift
-- Related: [step_065 (phase_069)]]
+- Compare with [[The_Forgotten_Crypt_of_Despair]]
+- Parallels [[NPC01951_Gavril_Xendar_the_Swift]]
 - See also: [[Location City [Master Engineer Cordelia Pressurewright V1 Master Engineer Cordelia Pressurewright.svg]]
-- Leads to [[Independent Settlements
-- Parallels [ENC00013_Combat_Encounter_14]]
+- Leads to [[ENC00013_Combat_Encounter_14]]
 - Influences [[step_035 (phase_046)
 - Requires [roleplaying-a-yuan-ti-yuan-ti-ideals-vgm (tables)]]
 - Compare with
 - Connects to
-- Affected by [[step_080 (phase_025)
-- Compare with [ITEM0081_Blessed_Crown_of_the_Dawn]]
-- Leads to [[Temporal Engineering Guil 2
-- Affected by [Fireball Xphb]]
+- Affected by [[ITEM0081_Blessed_Crown_of_the_Dawn]]
+- Leads to [[Temporal Engineering Guil 2]]
 - Requires
 - Affected by [[The Concordat Seal
 - Originates from [LORE00023_Legends_Entry_24]]
-- Related: [[[Artificers' Consortium (D&D_References)]]
+- Related: [[Artificers' Consortium (D&D_References)]]
 - Leads to [[EVENT00067_Natural_Event_68
 - Influences [Portrait NPC Archdruid Thornweaver V1 Archdruid Thornweaver.svg]]
-- Leads to [[[The Living Quarters (D&D_References)]]
-- Originates from [[step_089 (phase_048)
-- Requires [Investigator Supreme Lucian Brightwater]]
+- Leads to [[The Living Quarters (D&D_References)]]
+- Originates from [[Investigator Supreme Lucian Brightwater]]
 - Affected by [[step_089 (phase_066)
 - Parallels
 - Originates from [Dwarven Thrower Xdmg]]
@@ -279,7 +242,7 @@ Has map to lost treasure
 - See also: [04_Resources_Assets_Locations_location-city-professor-reef-growthseeker-v1-professor-reef-growthseeker.svg]]
 - Leads to [[List Spells Rewards Boon of the Stormborn
 - See also: [step_031 (phase_076)]]
-- Compare with [[[[Shadow [Noble Districts]] 2]]
+- Compare with [[Noble District]] 2]]
 - Parallels [[Codex of Forgotten Depths
 - Parallels [thrown-weapon-fighting-xphb (feats)]]
 - Affected by [[step_068 (phase_056)
@@ -292,30 +255,21 @@ Has map to lost treasure
 - Parallels [Brother Thomas the Illuminated]]
 - Requires [[Portrait NPC Salvage Queen Nerissa Deepfinder Salvage Queen Nerissa Deepfinder.svg
 - Originates from [step_094 (phase_036)]]
-- Influences [[step_067 (phase_097)
-- Parallels [SPELL00135_Arcane_Spell_136]]
-- Parallels [[Keeper Elara Mindwell (D&D_Statblocks)
-- Leads to [The Neural Clusters]]
-- Related: [[step_040 (phase_096)
-- Parallels [Crystal_Corruption_Cultists]]
-- See also: [[step_092 (phase_090)
-- Parallels [Shadow Integration Policy (D&D_References)]]
-- Connects to [[Pressure Polyps
-- Compare with [Crystal_Corruption_Stages]]
+- Influences [[SPELL00135_Arcane_Spell_136]]
+- Parallels [[Keeper Elara Mindwell (D&D_Statblocks)]]
+- Related: [[Crystal_Corruption_Cultists]]
+- See also: [[Shadow Integration Policy (D&D_References)]]
+- Connects to [[Crystal_Corruption_Stages]]
 - Related: [[Assets Locations Location City [Siren Maeve Echoborn Siren Maeve Echoborn.svg]]
 - Originates from [[Location City [Insurance Industry V1 Insurance Industry.svg]]
 - Compare with [[step_037 (phase_096)
 - Originates from [step_033 (phase_040)]]
 - Originates from [[Character_Bonds_Quick_Ref
 - See also: [location-city-amnesia-gallery-amnesia-gallery.svg]]
-- Parallels [[Tiefling Mammon Mtf
-- See also: [Quest - The Deep Mother's Truth]]
-- Originates from [[Anti-Corruption Research Institute
-- Leads to [step_025 (phase_031)]]
+- Parallels [[Quest - The Deep Mother's Truth]]
+- Originates from [[Anti-Corruption Research Institute]]
 - Related:
-- Influences [[step_048 (phase_064)
-- Influences
-- Leads to [NPC00444_Elric_Oakenshield_the_Scholar]]
+- Influences [[NPC00444_Elric_Oakenshield_the_Scholar]]
 - Connects to [[random-buildings-shop (tables)
 - Leads to [firearm-bullet-xphb (items)]]
 - Influences
@@ -332,8 +286,7 @@ Has map to lost treasure
 - Connects to [Portrait NPC Quest the Seventh Song Quest the Seventh Song.svg]]
 - Requires [[Symbol Heraldry Arcane Master Voidweav Arcane Master Voidweav.svg
 - Compare with [QUEST0063_The_Sunken_Temple_War]]
-- Related: [[step_035 (phase_021)
-- Leads to [QUEST0065_The_Hidden_Treasure]]
+- Related: [[QUEST0065_The_Hidden_Treasure]]
 - Connects to [[NPC01152_Urien_Ashford_the_Wanderer
 - Requires [Location City Kelp Based Brewing Kelp Based Brewing.svg]]
 

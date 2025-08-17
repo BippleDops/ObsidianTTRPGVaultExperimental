@@ -34,7 +34,7 @@ type: npc
 **ID**: NPC00300
 
 ## Quick Reference
-- **Location**: [[The Gilded Serpent [Tavern]] in the [[[Merchant Quarter]]
+- **Location**: [[The Gilded Serpent]] in the [[Merchant Quarter]]
 - **Occupation**: Diplomat
 - **Disposition**: Always speaks in metaphors and riddles
 
@@ -175,24 +175,18 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC01951_Gavril_Xendar_the_Swift
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
 - [[Assets Portraits Portrait NPC the Waking Prophets the Waking Prophets.svg
 - [NPC00975_Lyanna_Winterborn_the_Wise]]
-- [[NPC01695_Ewan_Ashford_the_Fallen
-- [NPC01699_Orion_Oakenshield_the_Broken]]
-- [[NPC01476_Qadim_Stormwind_the_Wise
-- [NPC00525_Fiora_Proudmore_the_Wanderer]]
-- [[Parliamentary_Voting_Guide
-- [Quick_Start_Guide.md]]
-- [[MOC_Sessions
-- [NPC01201_Felicia_Ironwood_the_Bold]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]
+- [[Parliamentary_Voting_Guide]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -211,8 +205,7 @@ Modifications:
 - Affected by [[Assets Locations [[Location City [The Phantom Current]] the Phantom Current.svg]]]]
 - See also: [[Wind Songs 2
 - Affected by [mounts-and-vehicles-waterborne-vehicles-phb (tables)]]
-- Connects to [[Archive of Depths (D&D_References)
-- Compare with [step_055 (phase_051)]]
+- Connects to [[Archive of Depths (D&D_References)]]
 - Influences [[portrait-npc-sire-v1-sire.svg_1 (Portraits)
 - See also: [Infiltrate_Surgical_Facilities.png]]
 - Related: [[meazel-mpmm (monstrosity)
@@ -222,8 +215,7 @@ Modifications:
 - Compare with [egyptian-bast (deities)]]
 - Requires [[step_008 (phase_087)
 - Compare with [step_011 (phase_013)]]
-- Affected by [[step_098 (phase_030)
-- See also: [MON00061_Aberrations_Creature_62]]
+- Affected by [[MON00061_Aberrations_Creature_62]]
 - Originates from [[Portrait NPC Admiral Thorne Blackwater V1 Admiral Thorne Blackwater.svg_1 (Portraits)
 - Originates from [Ring of Elemental Command Air Xdmg]]
 - Related: [[Heroism Xphb
@@ -234,7 +226,7 @@ Modifications:
 - Parallels
 - Originates from [step_019 (phase_092)]]
 - Related:
-- Compare with [[[Diplomat Supreme International (D&D_References)]]
+- Compare with [[Diplomat Supreme International (D&D_References)]]
 - Related: [[step_096 (phase_069)
 - Compare with [Conditions_Reference]]
 - Parallels [[ENC00014_Social_Encounter_15
@@ -276,9 +268,7 @@ Modifications:
 - Leads to
 - Requires [[LOC0070_Havendale
 - Influences [Portrait NPC Keeper of the Shattered Crown Marcus Crystalvein V2 Keeper of the Shattered Crown Marcus Crystalvein.svg]]
-- See also: [[Cultural Exchange Cente (Groups)
-- Parallels
-- Related: [Elf Eladrin Mtf]]
+- See also: [[Cultural Exchange Cente (Groups)]]
 - Compare with [[02_Worldbuilding_Procedures_Biological_Authentication
 - Related: [Purifier Marcus Steelbane 2]]
 - Parallels [[Common Idioms and Sayings
@@ -294,12 +284,10 @@ Modifications:
 - Connects to [[Location City [Wave Soothingtouch]] Wave Soothingtouch.svg]]
 - Connects to [[step_019 (phase_082)
 - See also: [ITEM00319_Shadow_Dagger_of_Speed]]
-- Influences [[Faction-Quick-Reference
-- Requires [The Dream Shard]]
+- Influences [[Faction-Quick-Reference]]
 - Affected by [[LOC0028_Fallsford
 - Leads to [step_062 (phase_015)]]
-- Requires [[Grinding_Workshop
-- Connects to [NPC00157_Branwen_Goldleaf_the_Redeemed]]
+- Requires [[NPC00157_Branwen_Goldleaf_the_Redeemed]]
 - Connects to [[Major Trading Companies 2
 - Originates from [star-rose-quartz-xdmg (items)]]
 - Originates from [[Roleplaying a Beholder Beholder Personality

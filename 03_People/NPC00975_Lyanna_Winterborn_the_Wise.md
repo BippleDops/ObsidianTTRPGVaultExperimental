@@ -31,7 +31,7 @@ type: npc
 **ID**: NPC00975
 
 ## Quick Reference
-- **Location**: [The Gilded Serpent]] [[Tavern in the [Merchant Quarter]]
+- **Location**: [The Gilded Serpent]] [[Merchant Quarter]]
 - **Occupation**: Weapons dealer
 - **Disposition**: Compulsive liar about minor things
 
@@ -167,38 +167,20 @@ Modifications:
 
 ## See Also
 - [NPC00494_Lyanna_Hawthorne_the_Guardian]]
-- [[NPC01599_Gavril_Keenblade_the_Strong
-- [NPC01463_Aeliana_Zephyrblade_the_Fallen]]
-- [[NPC00250_Delara_Darkwater_the_Fallen
-- [NPC00373_Wynne_Frostwhisper_the_Strong]]
-- [[NPC00739_Gavril_Ashford_the_Bold
-- [NPC00336_Alaric_Frostwhisper_the_Swift]]
-- [[NPC00451_Malakai_Ravenheart_the_Broken
-- [NPC00838_Drusilla_Proudmore_the_Risen]]
-- [[NPC01660_Thalia_Moonshadow_the_Fallen
-- [Archdruid Thornweaver]]
-- [[NPC01849_Kaelen_Silverleaf_the_Scholar
-- [NPC00885_Kaelen_Xendar_the_Lost]]
-- [[NPC00945_Wynne_Voidwalker_the_Seeker
-- [NPC01892_Gareth_Xendar_the_Scholar]]
-- [[NPC01568_Lyanna_Winterborn_the_Strong
-- [NPC00927_Aldric_Ironwood_the_Wanderer]]
-- [[NPC01360_Ewan_Blackstone_the_Strong
-- [Pilgrim_Pass_Prayer_Sli]]
-- [[Party_Inventory
-- [NPC01502_Urien_Underhill_the_Scholar]]
-- [[Player_Comfort_Check
-- [05 Personality and Background]]
-- [[NPC01937_Felicia_Silverleaf_the_Wanderer
-- [01 Introduction Welcome to Adventure]]
-- [[NPC01789_Vesper_Proudmore_the_Mystic
-- [MASTER_NAVIGATION]]
-- [[MOC_Quests
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC00945_Wynne_Voidwalker_the_Seeker]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[05 Personality and Background]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[MOC_Quests]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -224,7 +206,7 @@ Modifications:
 - See also: [ITEM00084_Blessed_Bow_of_Wounding]]
 - Affected by [[Ring of the Ram Xdmg
 - Affected by [Embassy District]]
-- Leads to [[[Port Meridian - Market District 2]]
+- Leads to [[Port Meridian - Market District 2]]
 - Compare with [[Assets Locations Location City [Artistic Communities V1 Artistic Communities.svg]]
 - Influences
 - Leads to
@@ -235,9 +217,8 @@ Modifications:
 - Affected by
 - Connects to [[ENC00077_Social_Encounter_78
 - Affected by
-- Leads to [[Location City the [Whisper Island]] Mystery V1 [[The Whisper Island Mystery.png]]
-- Compare with [[11-appendix-a-random-dungeons (dungeon-masters-guide-2014)
-- Originates from [Engineer Shadowbuild 2]]
+- Leads to [[Location City the [Whisper Island]] Mystery V1 [[The Whisper Island Mystery]]
+- Compare with [[11-appendix-a-random-dungeons (dungeon-masters-guide-2014)]]
 - Originates from [[human-names-norse-female-xge 2 (tables)
 - Originates from
 - See also: [scarab-of-protection-xdmg (items)]]
@@ -250,33 +231,24 @@ Modifications:
 - Requires
 - Connects to [[Count Harmony Celestine
 - Parallels [step_063 (phase_017)]]
-- Compare with [[LOC00215_Dungeons_Location_216
-- Originates from [INV-002.png]]
-- Parallels [[Deep Initiation 2
-- Requires [QUEST00207_Personal_Quest_208]]
-- See also: [[1 DM Toolkit Home Dv
-- Leads to [Greek Athena]]
+- Compare with [[LOC00215_Dungeons_Location_216]]
+- Parallels [[QUEST00207_Personal_Quest_208]]
+- See also: [[1 DM Toolkit Home Dv]]
 - See also: [[step_028 (phase_089)
 - Affected by [step_064 (phase_088)]]
 - Compare with [[ITEM00589_Enchanted_Shield_of_Protection
 - Leads to [Confusion Xphb]]
-- See also: [[LOC00156_Wilderness_Location_157
-- Requires [step_056 (phase_020)]]
+- See also: [[LOC00156_Wilderness_Location_157]]
 - Influences [[dawn-war-ioun-dmg (deities)
 - Connects to [LORE00085_Prophecies_Entry_86]]
-- Originates from [[Inverse Colonies 2
-- Connects to [NPC0132_Magnus_Darkwater_the_Young]]
-- Parallels [[Kelp Highway 2
-- Influences [ENC00187_Combat_Encounter_188]]
-- Compare with [[Cities
-- Leads to [list-spells-school-abjuration (lists)]]
-- Parallels [[[Shadow Chancellor (D&D_References)]]
-- See also: [[ENC00413_Combat_Encounter_414
-- Influences [step_078 (phase_054)]]
+- Originates from [[NPC0132_Magnus_Darkwater_the_Young]]
+- Parallels [[ENC00187_Combat_Encounter_188]]
+- Compare with [[list-spells-school-abjuration]]
+- Parallels [[Shadow Chancellor (D&D_References)]]
+- See also: [[ENC00413_Combat_Encounter_414]]
 - Influences [[step_093 (phase_036)
 - Related: [The Evolution Catalyst]]
-- Compare with [[LOC00243_Cities_Location_244
-- Connects to [step_001 (phase_036)]]
+- Compare with [[LOC00243_Cities_Location_244]]
 - Influences [[Location City [Reflection Broker Mirrors V1 Reflection Broker Mirrors.svg]]
 - See also: [[04_Resources_Assets_Locations_location-city-grief-overwhelming-syndrome-grief-overwhelming-syndrome.svg
 - Parallels [The Cloud Shepherd Guild]]
@@ -289,27 +261,23 @@ Modifications:
 - See also: [100_PERCENT_COMPLETE]]
 - See also: [[nolzurs-marvelous-pigments-xdmg (items)
 - Influences [QUEST00050_Side_Quest_51]]
-- See also: [[DUN00122_Dungeon_123
-- See also:
-- Parallels [Treaty of Neutral Commerce (D&D_References)]]
+- See also: [[Treaty of Neutral Commerce (D&D_References)]]
 - See also: [[step_064 (phase_092)
 - Influences [step_038 (phase_083)]]
-- See also: [[ring-mail-xphb (items)
-- Parallels [NPC01396_Delara_Proudmore_the_Risen]]
+- See also: [[NPC01396_Delara_Proudmore_the_Risen]]
 - Compare with [[Dr. Marina Voidseeker
 - Parallels [step_067 (phase_060)]]
-- Influences [[[Living Coral Architecture 2]]
+- Influences [[Living Coral Architecture 2]]
 - Requires [[death-dog-xmm (monstrosity)
 - Originates from [SPELL00012_Divine_Spell_13]]
 - Compare with [[Portrait NPC Nerissa Deepcurrent Nerissa Deepcurrent.svg_1 (Portraits)
 - Leads to
 - Compare with [Ambush Point]]
-- Originates from [[[Port Meridian Council Chamber (D&D_References)]]
-- Related: [[[[[[Abyssos Prime - [Pressure Terminal]]]] 2]]
+- Originates from [[Port Meridian Council Chamber (D&D_References)]]
+- Related: [[Pressure Terminal]]]] 2]]
 - Leads to
-- Affected by [[step_048 (phase_025)
-- Requires [SPELL00161_Arcane_Spell_162]]
-- Compare with [[Locations [The Cosmic Library]]
+- Affected by [[SPELL00161_Arcane_Spell_162]]
+- Compare with [[The Cosmic Library]]
 - See also: [[Portrait NPC Priest Faith Crystalsong V2 Priest Faith Crystalsong.svg_1 (Portraits)
 - Compare with [step_037 (phase_084)]]
 - Leads to

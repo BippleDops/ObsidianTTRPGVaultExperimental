@@ -8,5 +8,8 @@
   ],
   "created": "2025-08-16T16:58:14.623Z",
   "rarity": "legendary",
-  "category": "armor"
+  "category": "armor",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:49:39.816Z",
+  "generationMethod": "ComfyUI"
 }

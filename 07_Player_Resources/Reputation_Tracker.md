@@ -51,43 +51,26 @@ created: 2025-08-15T14:13:16.708784
 > The villain has agents watching this place
 
 ## See Also
-- [[Faction_Guide.md
-- [NPC00587_Idris_Youngblood_the_Strong]]
-- [[Ambassador Nerida Deepcurrent
-- [NPC01682_Vesper_Blackstone_the_Guardian]]
-- [[NPC00612_Thalia_Jadeclaw_the_Fallen
-- [NPC00407_Hestara_Dawnstrider]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [NPC01041_Thalia_Dawnstrider_the_Lost]]
-- [[NPC01827_Kaelen_Ironforge_the_Seeker
-- [NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[Downtime_Activities
-- [Smuggler_Route_Tally_Shee]]
-- [[NPC00260_Wynne_Underhill_the_Fallen
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[NPC01730_Faelyn_Emberfall_the_Broken
-- [NPC00250_Delara_Darkwater_the_Fallen]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC01483_Gavril_Zephyrblade_the_Fallen]]
-- [[NPC01466_Urien_Nightfall_the_Guardian
-- [Trade_Route_Map_Aquabyssos_to_Aethermoor]]
-- [[NPC01894_Aldric_Lightbringer_the_Bold
-- [13 Conditions]]
-- [[Possession Mechanics
-- [10 Appendix B Creature Stat Blocks]]
-- [[Home Embeds Dvsession Journal
-- [10 Combat]]
-- [[Character_Journal_Template
-- [Character_Journals]]
-- [[NPC01761_Idris_Moonshadow_the_Broken
-- [NPC01290_Pyria_Ashford_the_Broken]]
-- [[README
-- [World_Primer.md]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01730_Faelyn_Emberfall_the_Broken]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[Home Embeds Dvsession Journal]]
+- [[Character_Journal_Template]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[World_Primer]]
 -
 
 ## Related Content
-- [[ULTIMATE_VAULT_ACHIEVEMENT
-- [ULTIMATE_SYSTEM_REPORT]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
 - [[SVG_REPLACEMENT_REPORT
 
 ## Game Mechanics
@@ -102,23 +85,18 @@ created: 2025-08-15T14:13:16.708784
 ## Connections
 
 - Related: [Assets Locations Location City Shadow Chancellor V1 Shadow Chancellor.svg]]
-- Influences [[NPC00779_Lyanna_Lightbringer_the_Redeemed
-- Leads to [LOC00000_Towns_Location_1]]
+- Influences [[NPC00779_Lyanna_Lightbringer_the_Redeemed]]
 - Requires [[QUEST00108_Side_Quest_109
 - Influences [step_096 (phase_090)]]
-- Connects to [[09-running-the-game (dungeon-masters-guide-2014)
-- Related: [ITEM00806_Time-worn_Orb_of_Destiny]]
+- Connects to [[09-running-the-game (dungeon-masters-guide-2014)]]
 - Related: [[step_012 (phase_079)
 - Affected by [Belt of Frost Giant Strength Xdmg]]
-- Parallels [[disguise-kit-xphb (items)
-- Parallels [NPC01885_Vesper_Xendar_the_Mystic]]
+- Parallels [[NPC01885_Vesper_Xendar_the_Mystic]]
 - Related: [[helm-of-brilliance-xdmg (items)
 - Originates from
 - Requires [ENC0028_Random_Encounter_29]]
-- Leads to [[Transformation Specialist Doctor Prism-Current
-- Originates from [step_090 (phase_026)]]
-- Related: [[step_030 (phase_096)
-- Compare with [MON00113_Constructs_Creature_114]]
+- Leads to [[Transformation Specialist Doctor Prism-Current]]
+- Related: [[MON00113_Constructs_Creature_114]]
 - See also: [[Location City Pressure Suit Malfunction Pressure Suit Malfunction.svg
 - Connects to [QUEST00382_Side_Quest_383]]
 - Influences
@@ -140,12 +118,10 @@ created: 2025-08-15T14:13:16.708784
 - Originates from [Assets Locations Location City Abyssos Prime Upper Districts V1 Abyssos Prime Upper Districts.png]]
 - Parallels [[Bexley Port Authority
 - Influences [step_056 (phase_034)]]
-- Compare with [[Shadow Magistrate Umbrian Darkwise 2
-- Influences [step_096 (phase_008)]]
+- Compare with [[Shadow Magistrate Umbrian Darkwise 2]]
 - Influences [[step_025 (phase_014)
 - Affected by [scroll-of-protection-beasts-xdmg (items)]]
-- Compare with [[Archivist Supreme Indexa (D&D_References)
-- Compare with [step_021 (phase_051)]]
+- Compare with [[Archivist Supreme Indexa (D&D_References)]]
 - Affected by [[LOC00153_Cities_Location_154
 - Related: [Charm of Animal Conjuring Xdmg]]
 - Affected by [[Location City Scholar Merchant Remembrance Tidekeep Scholar Merchant Remembrance Tidekeep.svg
@@ -161,20 +137,17 @@ created: 2025-08-15T14:13:16.708784
 - Compare with [ITEM01460_Elegant_Compass_of_Durability]]
 - See also: [[Master Artificer Korvin
 - Connects to [step_024 (phase_011)]]
-- Compare with [[Deep Current Society 2
-- Requires [Session 01 (Seven_Shards_Campaign)]]
+- Compare with [[Session 01 (Seven_Shards_Campaign)]]
 - Influences [[step_042 (phase_037)
 - Compare with [True Strike Xphb]]
-- See also: [[LOC00282_Planes_Location_283
-- Leads to [step_002 (phase_061)]]
+- See also: [[LOC00282_Planes_Location_283]]
 - Related: [[step_048 (phase_091)
 - See also: [step_082 (phase_081)]]
 - Affected by
 - Leads to [[location-city-gem-deepseeker-gem-deepseeker.svg
 - Compare with
 - Leads to [Professor Depth Biologist]]
-- Compare with [[NPC01698_Elric_Thornweave_the_Lost
-- Requires [battleaxe-xphb (items)]]
+- Compare with [[NPC01698_Elric_Thornweave_the_Lost]]
 - Parallels [[SPELL00117_Nature_Spell_118
 - Requires [Shadow Separation Mechanics]]
 - Requires [[Quest - The Defector
@@ -188,18 +161,15 @@ created: 2025-08-15T14:13:16.708784
 - Leads to [Green Dragon Xmm]]
 - Influences [[Location City Vault Keeper Aurelia Crownguard Vault Keeper Aurelia Crownguard.svg
 - Related: [fly-xphb (spells)]]
-- Compare with [[NPC Dialogue Generator
-- Parallels [Diplomatic Tides (D&D_Statblocks)]]
+- Compare with [[Diplomatic Tides (D&D_Statblocks)]]
 - Originates from [[Reality Anchor Ring 2
 - Originates from [Assets Locations Location City Ambassador Marina Bridgewater V1 Ambassador Marina Bridgewater.svg]]
 - Influences [[S-018 Choir Pirates Player
 - Compare with [Portrait NPC Quest the Seventh Song Quest the Seventh Song.svg]]
-- Connects to [[SPELL0013_Celestial_Shield
-- Parallels [step_099 (phase_009)]]
+- Connects to [[SPELL0013_Celestial_Shield]]
 - Parallels [[Bone Architect Ossuary
 - Influences [ITEM00882_Ancient_Scepter_of_Dominion]]
-- Parallels [[Cultural Integration
-- Affected by [Crystal Communication Center 2]]
+- Parallels [[Crystal Communication Center 2]]
 - Related: [[Quest - Military Innovation 2
 
 ## Visual References

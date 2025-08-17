@@ -181,8 +181,7 @@ Your TTRPG vault is now equipped with one of the most comprehensive asset system
 
 ## Related Content
 - [ULTIMATE_VAULT_ACHIEVEMENT]]
-- [[ULTIMATE_SYSTEM_REPORT
-- [SVG_REPLACEMENT_REPORT]]
+- [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -211,10 +210,8 @@ Your TTRPG vault is now equipped with one of the most comprehensive asset system
 - See also: [step_059 (phase_044)]]
 - Compare with [[Portrait NPC Marina Red Tide Coralheart Aquabyssos V2 Marina Red Tide Coralheart Aquabyssos.svg_1 (Portraits)
 - Affected by [Portrait NPC Duke Cyrus Reefheart V1 Duke Cyrus Reefheart.svg_1 (Portraits)]]
-- Affected by [[step_064
-- Requires [Captain Steelhart]]
-- Connects to [[step_078 (phase_076)
-- Parallels [Vote Engineer Abyssal Cog (D&D_References)]]
+- Affected by [[Captain Steelhart]]
+- Connects to [[Vote Engineer Abyssal Cog (D&D_References)]]
 - Related: [[Assets Locations Location City Constitutional Monarchy Constitutional Monarchy.svg
 - Connects to [Prince Aurelius Lightbringer (D&D_References)]]
 - Parallels [[LOC00258_Planes_Location_259
@@ -233,34 +230,27 @@ Your TTRPG vault is now equipped with one of the most comprehensive asset system
 - See also: [gust-xge (spells)]]
 - Requires [[Quest - The Crown's Return
 - Connects to [The Crystal Council]]
-- Originates from [[The Shadow Singer Naia (D&D_Statblocks)
-- See also: [step_056 (phase_098)]]
+- Originates from [[The Shadow Singer Naia (D&D_Statblocks)]]
 - Requires [[step_007 (phase_042)
 - Affected by [flind-mpmm (fiend)]]
 - Influences [[explorers-pack-xphb (items)
 - Related: [The Convergence Points]]
-- Influences [[MON00070_Aberrations_Creature_71
-- Connects to [giant-centipede-xmm]]
+- Influences [[MON00070_Aberrations_Creature_71]]
 - Leads to [[QUEST00154_Personal_Quest_155
 - See also: [Carved Bone Statuette Xdmg]]
-- Influences [[The Exchange Point
-- Related: [ENC00167_Social_Encounter_168]]
+- Influences [[ENC00167_Social_Encounter_168]]
 - Affected by [[ITEM0076_Eldritch_Shield_of_the_Dawn
 - Affected by [Assets Symbols Symbol Heraldry Temporal Engineering Guil Temporal Engineering Guil.svg]]
-- Leads to [[Identity Trader Masquerad (D&D_References)
-- Originates from [The Coral Courts (D&D_References)]]
+- Leads to [[Identity Trader Masquerad (D&D_References)]]
 - See also: [[step_023 (phase_033)
 - Influences [step_091 (phase_045)]]
-- See also: [[12-credits (players-handbook-2024)
-- See also: [step_054 (phase_027)]]
+- See also: [[12-credits (players-handbook-2024)]]
 - Leads to [[step_062 (phase_004)
 - Leads to [Location City Silent Guardian Marcus Silent Guardian Marcus.svg]]
-- Originates from [[LOC00160_Dungeons_Location_161
-- Related: [step_081 (phase_065)]]
+- Originates from [[LOC00160_Dungeons_Location_161]]
 - Connects to [[Prophetic Weather Charts 2
 - Compare with [step_066 (phase_050)]]
-- See also: [[step_049 (phase_033)
-- Related: [LOC00106_Cities_Location_107]]
+- See also: [[LOC00106_Cities_Location_107]]
 - Parallels [[LOC00155_Planes_Location_156
 - Originates from [Supernatural Mysteries 2]]
 - Related: [[step_016 (phase_012)
@@ -283,18 +273,13 @@ Your TTRPG vault is now equipped with one of the most comprehensive asset system
 - See also: [Secondary Tables Tragedies Xge]]
 - Related: [[dungeon-decay-states-of-ruin-xdmg (tables)
 - Related: [04_Resources_Assets_Symbols_symbol-heraldry-navigation-geography-navigation-geography.svg]]
-- Related: [[LOC00179_Planes_Location_180
-- Related: [step_041 (phase_020)]]
-- Parallels [[Lady Venetia Silkwind (D&D_References)
-- Requires [step_021 (phase_029)]]
-- Influences [[NPC00484_Zephyr_Underhill_the_Redeemed
-- See also: [Torpor Xdmg]]
-- Requires [[Temple Coalition (D&D_References)
-- Leads to [NPC01647_Zephyr_Crystalbrook_the_Bold]]
+- Related: [[LOC00179_Planes_Location_180]]
+- Parallels [[Lady Venetia Silkwind (D&D_References)]]
+- Influences [[NPC00484_Zephyr_Underhill_the_Redeemed]]
+- Requires [[NPC01647_Zephyr_Crystalbrook_the_Bold]]
 - Affected by [[step_098
 - Affected by [step_060]]
-- Compare with [[step_026
-- Affected by [NPC00580_Fiora_Ravenheart_the_Seeker]]
+- Compare with [[NPC00580_Fiora_Ravenheart_the_Seeker]]
 - Influences [[Beholder Xmm
 - Related: [step_099 (phase_098)]]
 - See also: [[step_009 (phase_031)

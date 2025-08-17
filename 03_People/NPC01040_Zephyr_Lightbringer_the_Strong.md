@@ -161,36 +161,24 @@ Seeks rare merchandise
 - Special moves
 
 ## See Also
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC00881_Qadim_Voidwalker_the_Strong]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [NPC00388_Ysara_Goldleaf]]
-- [[NPC01989_Erasmus_Xendar_the_Strong
-- [Combat_Encounter_Analysis]]
-- [[NPC01937_Felicia_Silverleaf_the_Wanderer
-- [NPC01229_Gavril_Ironwood_the_Scholar]]
-- [[04 Classes
-- [NPC01894_Aldric_Lightbringer_the_Bold]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[10 Combat
-- [NPC01792_Rhiannon_Ironwood_the_Scholar]]
-- [[NPC00259_Delara_Proudmore
-- [11 Rules Glossary]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[NPC00259_Delara_Proudmore]]
 - [[NPC_Relationship_Web.png_1 (03_People)
 - [Smuggler_Route_Tally_Shee]]
-- [[Concept_Map
-- [NPC00670_Xander_Goldleaf_the_Scholar]]
-- [[NPC00321_Aeliana_Zephyrblade_the_Strong
-- [NPC01290_Pyria_Ashford_the_Broken]]
-- [[Marcus Shardbreaker Grimm_1
-- [NPC00378_Malakai_Moonshadow_the_Broken]]
+- [[NPC00670_Xander_Goldleaf_the_Scholar]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00378_Malakai_Moonshadow_the_Broken]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -214,34 +202,31 @@ Seeks rare merchandise
 - Influences [[Template_Lore_Placeholder.png
 - Requires
 - See also: [dragon-hide-xge (feats)]]
-- Requires [[The Overflow 2
-- Originates from [NPC00697_Jorah_Stormwind_the_Mystic]]
-- Requires [[[Ancient Treasury of Tides 2]]
+- Requires [[NPC00697_Jorah_Stormwind_the_Mystic]]
+- Requires [[Ancient Treasury of Tides 2]]
 - Originates from
 - Affected by [[healers-kit-xphb (items)
 - Leads to [Timeline Trackerbase]]
 - Affected by [[step_006 (phase_012)
 - Connects to [step_084 (phase_058)]]
-- Requires [[Location City [[[Noble Quarter Council Chambers]] V1 Noble Quarter Council Chambers.svg]]
+- Requires [[Noble Quarter Council Chambers]] V1 Noble Quarter Council Chambers.svg]]
 - Connects to [[Blessed Mother Thalassa the Transformed
 - Requires
 - Originates from [[[Archivist Reef Bookkeeper]] 2]]
-- Leads to [[step_060 (phase_020)
-- Originates from [NPC01444_Pyria_Brightblade_the_Seeker]]
+- Leads to [[NPC01444_Pyria_Brightblade_the_Seeker]]
 - Leads to
 - Originates from [[Portrait NPC Golden Scale Transformation V1 Golden Scale Transformation.svg_1 (Portraits)
 - See also:
 - Related: [04_Resources_Assets_Symbols_symbol-heraldry-faction-intelligence-faction-intelligence.svg]]
 - Affected by [[ITEM00557_Mithril_Cloak_of_Resistance
 - See also: [Citizens Breathing Alliance]]
-- See also: [[step_059 (phase_062)
-- Related: [NPC01962_Corvus_Underhill_the_Lost]]
+- See also: [[NPC01962_Corvus_Underhill_the_Lost]]
 - Parallels [[QUEST00053_Main_Quest_54
 - See also: [[Master_Quest_[INDEX]]]]
 - Connects to
 - See also: [[Symbol Heraldry the Silence Experiments the Silence Experiments.svg
 - Requires [location-city-memory-thief-v1-memory-thief.svg]]
-- Related: [[[Memory Parasite Infection 2]]
+- Related: [[Memory Parasite Infection 2]]
 - Originates from [[Void Storm
 - Affected by [04_Resources_Assets_Locations_location-city-transportation-guild-masters-v1-transportation-guild-masters.svg]]
 - Leads to [[NPC00172_Urien_Zephyrblade_the_Lost
@@ -249,15 +234,13 @@ Seeks rare merchandise
 - See also: [[ability-score-point-costs-xphb (tables)
 - Connects to [MON00009_Aberrations_Creature_10]]
 - Affected by
-- See also: [[City Development Plan (D&D_References)
-- Affected by [Light Therapy Restoration Bed]]
+- See also: [[City Development Plan (D&D_References)]]
 - Connects to [[step_022 (phase_049)
 - Influences [LORE00061_Legends_Entry_62]]
 - Originates from [[step_033 (phase_026)
 - Leads to [[Assets Locations Location City [Twilight Depths]] V1 Twilight Depths.svg]]
 - Requires [[Assets Locations Location City [Stormwind Supplies Stormwind Supplies.png]]
-- Requires [[Kelp Highway (D&D_References)
-- Related: [Master Cultivators Guild]]
+- Requires [[Kelp Highway (D&D_References)]]
 - Compare with
 - Related: [[step_028 (phase_090)
 - Affected by [Quest - Mother's Mercy]]
@@ -277,16 +260,13 @@ Seeks rare merchandise
 - Requires [[Navigator Slyph Currentwhisper
 - See also: [MON00035_Aberrations_Creature_36]]
 - Related: [[Assets Locations [[Location City [The Missing Diplomat the Missing Diplomat.svg]]]]
-- Leads to [[conditions#prone
-- Influences [step_008 (phase_069)]]
-- Influences [[Vote Engineer Abyssal Cog (D&D_References)
-- Requires [Quest - The Crimson Tide_1 (01_Adventures)]]
+- Leads to [[Conditions]]
+- Influences [[Vote Engineer Abyssal Cog (D&D_References)]]
 - Originates from [[NPC01690_Pyria_Dawnstrider_the_Fallen
 - Compare with
 - Originates from [The Deep Trading Halls]]
 - Originates from
-- Compare with [[Master_Spell_Compendium
-- Related: [City Watch]]
+- Compare with [[Master_Spell_Compendium]]
 - See also:
 - Compare with [[Location City [Chief Engineer Vera Steamheart Chief Engineer Vera Steamheart.svg]]
 - Originates from [[Assets Locations [[Location City [Harbor Facilities V1 Harbor Facilities.svg]]]]
@@ -296,8 +276,7 @@ Seeks rare merchandise
 - Related: [step_037 (phase_048)]]
 - Compare with [[Item Artifact Boots of Striding and Springing Xdmg V4 Boots of Striding and Springing Xdmg.png
 - Parallels [Silvered Weapon Xdmg]]
-- Parallels [[step_070 (phase_088)
-- Requires [NPC00550_Xander_Stormwind_the_Cunning]]
+- Parallels [[NPC00550_Xander_Stormwind_the_Cunning]]
 - See also: [[silvered-ammunition (items)
 - Influences
 - Requires

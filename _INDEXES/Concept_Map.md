@@ -63,8 +63,7 @@ All homebrew content connects to these core concepts:
 - See also:
 - Connects to [[step_083 (phase_090)
 - Connects to [Determine the Villains Actions Event Based Villain Actions]]
-- Leads to [[step_094 (phase_064)
-- See also: [SPELL00090_Nature_Spell_91]]
+- Leads to [[SPELL00090_Nature_Spell_91]]
 - Parallels
 - Parallels
 - Affected by [[Symbol Heraldry Quest the Family Reunion Quest the Family Reunion.svg
@@ -74,28 +73,23 @@ All homebrew content connects to these core concepts:
 - Parallels [NPC00516_Gavril_Lightbringer_the_Scholar]]
 - Originates from [[Assets Locations Location City Coral Vortextrader V1 Coral Vortextrader.svg
 - Compare with [Kraken Territories 2]]
-- Affected by [[Captain Truth Ironwill (D&D_References)
-- Originates from [Pressure Gate.md (Places)]]
-- Parallels [[step_088 (phase_086)
-- See also: [Captain Tempest-Eye Marelda (D&D_References)]]
+- Affected by [[Captain Truth Ironwill (D&D_References)]]
+- Parallels [[Captain Tempest-Eye Marelda (D&D_References)]]
 - Connects to [[Quest - Medical Conspiracy
 - Connects to [SPELL00038_Arcane_Spell_39]]
 - Requires [[shadow-dragon-xmm (legendary-group)
 - Leads to [Crystalhaven Royal Palace]]
 - Originates from [[Portrait NPC Pirate Captain Blacktide Pirate Captain Blacktide.svg
 - Affected by [Thalassius the Wise 3 (D&D_References)]]
-- Leads to [[step_080 (phase_035)
-- Compare with [Comparative Mythology (D&D_References)]]
+- Leads to [[Comparative Mythology (D&D_References)]]
 - Compare with [[Faction Intelligence
 - Affected by [step_069 (phase_087)]]
-- Connects to [[step_001 (phase_011)
-- Influences [The Ethical Council of Mages]]
+- Connects to [[The Ethical Council of Mages]]
 - Connects to [[step_045 (phase_045)
 - See also: [Location City Memorial Tender Sarah Memorial Tender Sarah.svg]]
 - Originates from [[step_007 (phase_035)
 - Related: [LORE00137_History_Entry_138]]
-- Parallels [[NPC01646_Hestara_Voidwalker_the_Seeker
-- Leads to [step_075 (phase_064)]]
+- Parallels [[NPC01646_Hestara_Voidwalker_the_Seeker]]
 - Influences [[The Shadowmere (D&D_References)
 - Parallels
 - Related: [location-city-the-last-dance-v1-the-last-dance.svg]]
@@ -106,8 +100,7 @@ All homebrew content connects to these core concepts:
 - Parallels [QUEST0052_In_Search_of_Knowledge]]
 - Originates from [[Dungeon Dressing General Furnishings and Appointments
 - Influences [step_047 (phase_026)]]
-- Leads to [[Shadow Honor System
-- Requires [NPC00944_Felicia_Silverleaf_the_Scholar]]
+- Leads to [[NPC00944_Felicia_Silverleaf_the_Scholar]]
 - Parallels [[step_055 (phase_048)
 - See also: [Dungeon Creator]]
 - Leads to [[Queen Current Monarch
@@ -129,8 +122,7 @@ All homebrew content connects to these core concepts:
 - Connects to [Maintenance Supervisor Tide Fixwright]]
 - Compare with [[deep-water-xdmg (traps-hazards)
 - Connects to [Royal Court 2]]
-- Influences [[Shadow Market Canals (D&D_References)
-- Connects to [Reflection Thief]]
+- Influences [[Shadow Market Canals (D&D_References)]]
 - Leads to [[Portrait NPC Coral Empress Scarletina V2 Coral Empress Scarletina.svg
 - Influences [Portrait NPC the Bloodline Awakens the Bloodline Awakens.svg_1 (Portraits)]]
 - Affected by [[step_027 (phase_018)
@@ -139,62 +131,39 @@ All homebrew content connects to these core concepts:
 - Connects to [Template Session Enhanced]]
 - See also: [[random-buildings-tavern (tables)
 - Leads to [step_069 (phase_065)]]
-- Connects to [[MON00162_Undead_Creature_163
-- Leads to [step_036 (phase_027)]]
+- Connects to [[MON00162_Undead_Creature_163]]
 - See also: [[Cosmic Truth Seekers
 - Compare with [step_028 (phase_009)]]
-- Related: [[NPC01812_Xander_Lightbringer_the_Swift
-- Related: [SPELL00129_Nature_Spell_130]]
+- Related: [[NPC01812_Xander_Lightbringer_the_Swift]]
 - Leads to [[Hybrid Communities Integration (D&D_References)
 - See also:
 - Related:
 - Affected by [Prince Caelum Stormwright 2]]
-- See also: [[step_083 (phase_024)
-- Related: [Downtime Activity Gaining Renown]]
-- Originates from [[Defense Captain Ironguard
-- Related: [Death Tyrant]]
+- See also: [[Downtime Activity Gaining Renown]]
+- Originates from [[Defense Captain Ironguard]]
 - Influences [[astral-dreadnought-mpmm (monstrosity)
 - Originates from [The Shattered Peaks]]
 - Leads to [[human-names-celtic-female-xge (tables)
 
 ## See Also
 - [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[NPC00129_Gareth_Jadeclaw
-- [NPC01504_Erasmus_Zephyrblade_the_Strong]]
-- [[NPC00815_Baelor_Thornweave_the_Swift
-- [01 Introduction Welcome to Adventure]]
-- [[NPC01695_Ewan_Ashford_the_Fallen
-- [03 Races]]
-- [[NPC01730_Faelyn_Emberfall_the_Broken
-- [NPC01290_Pyria_Ashford_the_Broken]]
-- [[NPC00881_Qadim_Voidwalker_the_Strong
-- [NPC01781_Urien_Keenblade_the_Cunning]]
-- [[NPC00124_Delara_Ravenheart_the_Redeemed
-- [NPC00550_Xander_Stormwind_the_Cunning]]
-- [[NPC01286_Xander_Proudmore_the_Bold
-- [NPC00582_Cedric_Dawnstrider]]
-- [[NPC01789_Vesper_Proudmore_the_Mystic
-- [Downtime_Activities]]
-- [[NPC00860_Gavril_Winterborn_the_Swift
-- [NPC00057_Malakai_Stormwind_the_Cunning]]
-- [[Shared_Lore
-- [NPC01687_Aldric_Youngblood_the_Cunning]]
-- [[Quiet_Chapel_Oath_Scrol
-- [NPC00763_Urien_Brightblade_the_Broken]]
-- [[NPC00707_Fiora_Oakenshield_the_Seeker
-- [NPC01566_Lyanna_Underhill_the_Redeemed]]
-- [[NPC00644_Nerys_Dawnstrider_the_Wanderer
-- [NPC00250_Delara_Darkwater_the_Fallen]]
-- [[NPC01498_Gareth_Quicksilver_the_Risen
-- [Quick_Start_Guide]]
-- [[NPC01463_Aeliana_Zephyrblade_the_Fallen
-- [README]]
-- [[MOC_NPCs
-- [Quarantine_Notice_Crystal_Plagu]]
-- [[Party_Inventory
-- [NPC01831_Alaric_Frostwhisper_the_Scholar]]
-- [[NPC01979_Fiora_Emberfall_the_Guardian
-- [NPC01017_Vesper_Keenblade_the_Risen]]
-- [[NPC01699_Orion_Oakenshield_the_Broken
-- [NPC00407_Hestara_Dawnstrider]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[01 Introduction Welcome to Adventure]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC01730_Faelyn_Emberfall_the_Broken]]
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01286_Xander_Proudmore_the_Bold]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC00763_Urien_Brightblade_the_Broken]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]
+- [[NPC00644_Nerys_Dawnstrider_the_Wanderer]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[NPC01831_Alaric_Frostwhisper_the_Scholar]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
 - [[MOC_Rules]]

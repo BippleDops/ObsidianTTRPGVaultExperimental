@@ -12,5 +12,8 @@
     "cleric",
     "generated"
   ],
-  "created": "2025-08-16T16:58:14.679Z"
+  "created": "2025-08-16T16:58:14.679Z",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:52:56.448Z",
+  "generationMethod": "ComfyUI"
 }

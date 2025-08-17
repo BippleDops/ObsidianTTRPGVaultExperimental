@@ -44,40 +44,15 @@ Following rumors of cult activity, the party descended...
 > This character is not who they seem
 
 ## See Also
-- [[Player_Comfort_Check
-- [NPC00285_Xander_Goldleaf_the_Mystic]]
-- [[Sanity_Quick_Reference.md
-- [Quiet_Chapel_Oath_Scrol]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC01177_Thalia_Underhill_the_Fallen]]
-- [[NPC00083_Vesper_Xendar_the_Lost
-- [NPC00860_Gavril_Winterborn_the_Swift]]
-- [[Faction_Guide.md
-- [NPC01781_Urien_Keenblade_the_Cunning]]
-- [[MOC_Items
-- [NPC00321_Aeliana_Zephyrblade_the_Strong]]
-- [[NPC00259_Delara_Proudmore
-- [NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[NPC01682_Vesper_Blackstone_the_Guardian
-- [Character_Journal_Template]]
-- [[11 Spellcasting
--
-
-## Game Mechanics
-- **Combat**: See ACX p.189-198
-
-## D&D 5e References
-
-*(Combat rules: ACX p.189-198)*
-*(Attack rolls: ACX p.194)*
-*(Damage & Healing: ACX p.196-197)*
-*(Character creation: ACX p.11-15)*
-*(Ability scores: ACX p.12-13)*
-*(Backgrounds: ACX p.125-141)*
-
-## Connections
-
-- Related: [Tiger Xmm]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[11 Spellcasting]]
 - Leads to [[step_005 (phase_077)
 - Originates from [Monster Personality Xdmg]]
 - Affected by [[Session Planning Workflow
@@ -86,16 +61,13 @@ Following rumors of cult activity, the party descended...
 - Originates from [Elena Starweaver]]
 - Leads to [[portrait-npc-the-biomancers-the-biomancers.svg_1 (Portraits)
 - Influences [Navigator Sage Driftwood (D&D_References)]]
-- Requires [[Royal Academy of Magical Science (Academies)
-- Influences [step_034 (phase_066)]]
+- Requires [[Royal Academy of Magical Science (Academies)]]
 - Compare with [[merfolk-dmg (races)
 - Requires [warlock-xphb-the-hexblade-xge (classes)]]
 - Parallels [[step_076 (phase_075)
 - Parallels [step_075 (phase_038)]]
-- Leads to [[Grief Counseling (D&D_References)
-- Influences [Luminar's Radiant Emporium]]
-- Influences [[Crystal Wardens (People)
-- Compare with [Bestiary - Aquabyssos Creature Compendium]]
+- Leads to [[Grief Counseling (D&D_References)]]
+- Influences [[Bestiary - Aquabyssos Creature Compendium]]
 - Influences [[proficiency-dice (tables)
 - Requires [step_046 (phase_045)]]
 - Related: [[step_074 (phase_042)
@@ -109,8 +81,7 @@ Following rumors of cult activity, the party descended...
 - Parallels [[Quest - The Siren's Price_1 (01_Adventures)
 - Requires [The Singing Trenches]]
 - Compare with
-- Influences [[guardian-of-faith-xphb (spells)
-- Parallels [NPC01734_Kaelen_Hawthorne_the_Seeker]]
+- Influences [[NPC01734_Kaelen_Hawthorne_the_Seeker]]
 - Compare with [[ITEM00021_Frost_Staff_of_Slaying
 - Connects to [Deep Current Network 2]]
 - See also: [[Portrait NPC the Current Merchants the Current Merchants.svg_1 (Portraits)
@@ -120,8 +91,7 @@ Following rumors of cult activity, the party descended...
 - Compare with
 - Affected by [step_011 (phase_097)]]
 - See also:
-- Compare with [[The Puppet Master
-- Originates from [NPC01724_Fiora_Lightbringer_the_Swift]]
+- Compare with [[NPC01724_Fiora_Lightbringer_the_Swift]]
 - Influences [[QUEST00056_Main_Quest_57
 - Parallels [step_100 (phase_046)]]
 - Parallels [[Street Urchin Gang
@@ -137,43 +107,33 @@ Following rumors of cult activity, the party descended...
 - See also: [Shadow Surgery Centers]]
 - Requires [[Phoenix Mpmm
 - Affected by [step_019 (phase_076)]]
-- Originates from [[Conditions (03_Mechanics)
-- Related: [step_045 (phase_028)]]
+- Originates from [[Conditions (03_Mechanics)]]
 - Compare with [[LORE0029_Secret_of_the_Hero's_Sacrifice
 - Influences [Location City Palace Staff Guild V1 Palace Staff Guild.svg]]
-- Originates from [[NPC01717_Faelyn_Frostwhisper_the_Lost
-- Originates from [LOC00000_Cities_Location_1]]
+- Originates from [[NPC01717_Faelyn_Frostwhisper_the_Lost]]
 - Compare with [[ITEM01094_Distilled_Herb_of_Clarity
 - Originates from
 - Influences [The Forgotten Collective]]
-- Requires [[The Authentication Crisis
-- Connects to [LOC00289_Wilderness_Location_290]]
-- See also: [[Locations the Memory Halls
-- Compare with [Prism_Soul]]
+- Requires [[LOC00289_Wilderness_Location_290]]
+- See also: [[Locations the Memory Halls]]
 - See also: [[ale-gallon (items)
 - Leads to [step_062 (phase_096)]]
 - Parallels [[War Room
 - Leads to [Exotic Saddle Xphb]]
 - Affected by [[enspelled-staff-level-1-xdmg (items)
 - Affected by [SPELL00039_Divine_Spell_40]]
-- Related: [[Pressure & Weather Events
-- Connects to [Archmage Lyralei Stormwind (D&D_References)]]
+- Related: [[Archmage Lyralei Stormwind (D&D_References)]]
 - Parallels [[Location City Harbormaster Tidal Stormcrest V1 Harbormaster Tidal Stormcrest.svg
 - Originates from [LOC00209_Cities_Location_210]]
 - Influences [[Great Preparatio 2
 - Compare with [step_004 (phase_028)]]
-- See also: [[step_053 (phase_015)
-- See also: [Environmental Combat Rules]]
-- Related: [[step_034 (phase_052)
-- Leads to [Sundered Steel (D&D_References)]]
-- See also: [[FAC00073_Guilds_74
-- Compare with [Master Artist Pear (D&D_References)]]
+- See also: [[Environmental Combat Rules]]
+- Related: [[Sundered Steel (D&D_References)]]
+- See also: [[Master Artist Pear (D&D_References)]]
 - Originates from [[Portrait NPC the Crystal Queen Mother V2 the Crystal Queen Mother.svg_1 (Portraits)
 - See also: [Aquabyssos Government (D&D_References)]]
-- Requires [[Community Support Networks 2
-- Requires [Mind Flayer Psion Vgm]]
-- Leads to [[enspelled-armor-cantrip-xdmg (items)
-- Affected by [NPC00920_Malakai_Ravenheart_the_Guardian]]
+- Requires [[Community Support Networks 2]]
+- Leads to [[NPC00920_Malakai_Ravenheart_the_Guardian]]
 - Connects to [[npc-bonds (tables)
 - Related: [Assets Locations Location City Pearl Sharpedge V1 Pearl Sharpedge.svg]]
 - Related: [[Consequence Chain 3 Reality Merger Diplomatic Crisis (D&D_References)

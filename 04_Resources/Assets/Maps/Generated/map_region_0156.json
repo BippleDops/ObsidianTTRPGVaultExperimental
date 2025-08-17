@@ -42,5 +42,8 @@
       "type": "landmark"
     }
   ],
-  "created": "2025-08-16T16:58:14.627Z"
+  "created": "2025-08-16T16:58:14.627Z",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:51:12.366Z",
+  "generationMethod": "ComfyUI"
 }

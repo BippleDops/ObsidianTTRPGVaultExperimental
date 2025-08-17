@@ -22,7 +22,7 @@ The full nature of Session_10_New_Horizons involves several interconnected compo
 
 ## Context & Connections
 
-### [[[Historical Context]]
+### [[Historical Context]]
 The origins and development of Session_10_New_Horizons trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### [[Related Elements

@@ -165,48 +165,25 @@ Modifications:
 
 ## See Also
 - [NPC01664_Pyria_Lightbringer_the_Redeemed]]
-- [[NPC01613_Kaelen_Voidwalker_the_Wanderer
-- [NPC00283_Kaelen_Zephyrblade_the_Bold]]
-- [[NPC00190_Cedric_Silverleaf
-- [NPC01301_Jorah_Underhill_the_Broken]]
-- [[NPC01761_Idris_Moonshadow_the_Broken
-- [NPC00838_Drusilla_Proudmore_the_Risen]]
-- [[NPC01577_Orion_Moonshadow_the_Seeker
-- [NPC01757_Nerys_Silverleaf_the_Strong]]
-- [[NPC01028_Erasmus_Darkwater_the_Strong
-- [NPC00300_Urien_Zephyrblade]]
-- [[NPC00815_Baelor_Thornweave_the_Swift
-- [NPC01017_Vesper_Keenblade_the_Risen]]
-- [[NPC00601_Vesper_Ironwood_the_Guardian
-- [NPC00550_Xander_Stormwind_the_Cunning]]
-- [[NPC01082_Fiora_Ashford_the_Fallen
-- [NPC01841_Malakai_Nightfall_the_Wise]]
-- [[NPC01348_Xander_Zephyrblade_the_Wise
-- [NPC01502_Urien_Underhill_the_Scholar]]
-- [[NPC01951_Gavril_Xendar_the_Swift
-- [NPC00237_Vesper_Ashford_the_Bold]]
-- [[NPC00321_Aeliana_Zephyrblade_the_Strong
-- [NPC00260_Wynne_Underhill_the_Fallen]]
-- [[NPC00395_Aeliana_Thornweave
-- [NPC00415_Gareth_Winterborn_the_Bold]]
-- [[Propaganda_Leaflet_Pearl_Guar
-- [NPC00124_Delara_Ravenheart_the_Redeemed]]
-- [[Propaganda_Broadsheet_Syndicate.md
-- [Calendar_Conversions_Realm_Window]]
-- [[NPC01939_Orion_Nightfall_the_Bold
-- [13 Conditions]]
-- [[10 Appendix B Creature Stat Blocks
-- [16 Credits]]
-- [[01 Introduction Welcome to Adventure
-- [Character_Journal_Template]]
-- [[MOC_Lore
-- [Player_Comfort_Check]]
-- [[MASTER_MOC
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC00838_Drusilla_Proudmore_the_Risen]]
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC01939_Orion_Nightfall_the_Bold]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[01 Introduction Welcome to Adventure]]
+- [[Player_Comfort_Check]]
+- [[MASTER_MOC]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -228,7 +205,7 @@ Modifications:
 - Connects to [sentient-special-purpose (tables)]]
 - Compare with [[Tiefling Dispater Mtf
 - Originates from [step_089 (phase_024)]]
-- Leads to [[[Temporal Anomaly Zones 2]]
+- Leads to [[Temporal Anomaly Zones 2]]
 - See also: [[step_079 (phase_079)
 - Related: [bucket-xphb (items)]]
 - Leads to [[LOC00171_Cities_Location_172
@@ -240,9 +217,8 @@ Modifications:
 - Leads to [Scroll of Titan Summoning Colossus Xdmg]]
 - Originates from [[Conditions_Reference
 - Originates from [Trade Union]]
-- Connects to [[Professor Euclid Mindmaze 2
-- Compare with [The Tide Turners]]
-- Leads to [[[Grief Counseling 2]]
+- Connects to [[Professor Euclid Mindmaze 2]]
+- Leads to [[Grief Counseling 2]]
 - Requires [[Location City [Surface Loyalist Safe Houses Surface Loyalist Safe Houses.svg]]
 - Affected by [[step_083 (phase_027)
 - Parallels
@@ -252,27 +228,20 @@ Modifications:
 - Leads to [animated-broom-xmm (construct)]]
 - Compare with [[Shadow Essences
 - Parallels [[[Constellation Codex]] (D&D_References)]]
-- Requires [[Pressure Angel Benthia (D&D_Statblocks)
-- Leads to [ioun-stone-intellect-xdmg (items)]]
-- See also: [[Depth [Merchants]]
-- Connects to [[giant
-- Leads to [Keeper Elara Mindwell 2]]
-- Originates from [[step_047 (phase_007)
-- Requires [LOC00290_Wilderness_Location_291]]
-- Compare with [[LOC00178_Dungeons_Location_179
-- Influences [Verdant Shard (People)]]
-- See also: [[QUEST00094_Personal_Quest_95
-- Influences [step_081 (phase_073)]]
+- Requires [[Pressure Angel Benthia (D&D_Statblocks)]]
+- See also: [[Merchant]]
+- Connects to [[Keeper Elara Mindwell 2]]
+- Originates from [[LOC00290_Wilderness_Location_291]]
+- Compare with [[LOC00178_Dungeons_Location_179]]
+- See also: [[QUEST00094_Personal_Quest_95]]
 - Influences [[ITEM00202_Cursed_Staff_of_Wounding
 - Influences [The Abyssal Prophet (D&D_References)]]
 - See also: [[crossbow-bolt-case-xphb (items)
 - Related: [wand-of-conducting-xdmg (items)]]
 - Related:
-- Originates from [[step_051 (phase_013)
-- Connects to [ENC00042_Combat_Encounter_43]]
-- Compare with [[ENC00070_Environmental_Encounter_71
-- Parallels [Parliament-of-Shadows-Campaign]]
-- Compare with [[[Aquabyssos World Guide (D&D_References)]]
+- Originates from [[ENC00042_Combat_Encounter_43]]
+- Compare with [[ENC00070_Environmental_Encounter_71]]
+- Compare with [[Aquabyssos World Guide (D&D_References)]]
 - Related: [[step_010 (phase_059)
 - Leads to [SHOP00042_Magical_Shop_43]]
 - Affected by [[ENC00044_Combat_Encounter_45
@@ -289,8 +258,7 @@ Modifications:
 - Requires [[Assets Locations Location City [Shadowport]] V1 Shadowport.svg]]
 - Connects to [[Eberron Dol Dorn
 - Influences [location-city-pressure-tubes-v1-pressure-tubes.svg]]
-- Compare with [[Garden of Whispered Names
-- Influences [Atoll Research Team (D&D_References)]]
+- Compare with [[Atoll Research Team (D&D_References)]]
 - Related: [[step_081 (phase_030)
 - Related: [step_087 (phase_094)]]
 - Requires [[Item Artifact Ioun Stone Greater Absorption Xdmg Ioun Stone Greater Absorption Xdmg.png
@@ -311,15 +279,11 @@ Modifications:
 - Connects to [[The Phantom Tide
 - Connects to [Portrait NPC the Azure Prophet Nerissa V2 the Azure Prophet Nerissa.svg_1 (Portraits)]]
 - Parallels
-- See also: [[02-chapter-1-playing-the-game#Skill List
-- Originates from
-- Requires [[Assets Locations Location City [The Frozen Throne]] V1 the Frozen Throne.svg]]
+- See also: [[02-chapter-1-playing-the-game (players-handbook-2024)]] V1 the Frozen Throne.svg]]
 - Affected by [[The Seven Shard Guardians 2
 - Compare with [supplemental-tables-absent-parent-xge (tables)]]
 - Compare with [[Location City [Restorative Justice Restorative Justice.svg]]
-- Originates from [[NPC00523_Branwen_Brightblade_the_Seeker
-- Parallels
-- Compare with [step_094 (phase_065)]]
+- Originates from [[NPC00523_Branwen_Brightblade_the_Seeker]]
 - Compare with
 
 ## Plot Hooks

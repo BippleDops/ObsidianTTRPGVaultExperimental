@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.462090"
 modified: "2025-08-15T12:24:39.462092"
-aliases: [[Session Zero]] Checklist]
+aliases: [[Session Zero Guide]] Checklist]
 ---
 
 # [[Session Zero Checklist
@@ -20,7 +20,7 @@ modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: [[Session Zero]] Checklist.Md
+subcategory: [[Session Zero Guide]] Checklist.Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -32,7 +32,7 @@ modified: '2025-01-15'
 - -- # [Session Zero]] Checklist - -- ## Description
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
-title: [[Session Zero]] Checklist
+title: [[Session Zero Guide]] Checklist
 type: Lore
 tags:
 - lore
@@ -70,7 +70,7 @@ world: Both
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

@@ -172,54 +172,33 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC01247_Xander_Zephyrblade_the_Risen
-- [NPC01849_Kaelen_Silverleaf_the_Scholar]]
-- [[NPC00945_Wynne_Voidwalker_the_Seeker
-- [NPC00949_Nerys_Underhill_the_Wise]]
-- [[NPC01229_Gavril_Ironwood_the_Scholar
-- [NPC00272_Rhiannon_Brightblade]]
-- [[NPC01858_Drusilla_Stormwind_the_Cunning
-- [NPC00162_Xander_Thornweave]]
-- [[NPC00300_Urien_Zephyrblade
-- [NPC00663_Alaric_Dawnstrider_the_Strong]]
-- [[NPC00453_Idris_Grimholt
-- [NPC00844_Cedric_Blackstone_the_Fallen]]
-- [[NPC01082_Fiora_Ashford_the_Fallen
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC01870_Lyanna_Silverleaf_the_Cunning
-- [NPC01498_Gareth_Quicksilver_the_Risen]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [NPC00739_Gavril_Ashford_the_Bold]]
-- [[NPC01841_Malakai_Nightfall_the_Wise
-- [NPC00129_Gareth_Jadeclaw]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC01360_Ewan_Blackstone_the_Strong]]
-- [[NPC00785_Ysara_Grimholt_the_Mystic
-- [NPC00395_Aeliana_Thornweave]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [Ship_Schematic_The_Seahawk.md]]
-- [[NPC01017_Vesper_Keenblade_the_Risen
-- [Player_Feedback_Form.md]]
-- [[15 the Planes of Existence
-- [NPC00058_Elric_Nightfall]]
-- [[09 Appendix a the Multiverse
-- [13 Conditions]]
-- [[11 Rules Glossary
-- [NPC01552_Branwen_Lightbringer_the_Swift]]
-- [[Character_Journal_Template
-- [MOC_Quests]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC00945_Wynne_Voidwalker_the_Seeker]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00844_Cedric_Blackstone_the_Fallen]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[15 the Planes of Existence]]
+- [[09 Appendix a the Multiverse]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[Character_Journal_Template]]
 - [[NPC_Relationship_Web.png_1 (03_People)
 - [MASTER_MOC]]
-- [[NPC00260_Wynne_Underhill_the_Fallen
-- [NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -238,8 +217,7 @@ Modifications:
 - Parallels [[yan-c-bin-pota (legendary-group)
 - See also: [Assets Symbols Symbol Heraldry Deep Sea Agricultural Research Institut Deep Sea Agricultural Research Institut.svg]]
 - Affected by [[Mirror [Merchant Marina 2]]
-- Related: [[Memory Trader Kellian (D&D_References)
-- Connects to [step_050 (phase_038)]]
+- Related: [[Memory Trader Kellian (D&D_References)]]
 - Compare with [[Biological Authentication
 - Requires
 - Parallels
@@ -255,10 +233,8 @@ Modifications:
 - Related: [[04_Resources_Assets_Portraits_portrait-npc-captain-twin-reality-marsh-captain-twin-reality-marsh.svg_Quick_Ref
 - Originates from [Quest - Criminal Alliance_1 (01_Adventures)]]
 - Affected by [[Location City [High Tide Keeper Nautilus Primordial V1 High Tide Keeper Nautilus Primordial.svg]]
-- Parallels [[Lord Aldric Thornwhisper (D&D_References)
-- Compare with [step_056 (phase_040)]]
-- Leads to [[NPC_Template
-- Compare with [QUEST00172_Main_Quest_173]]
+- Parallels [[Lord Aldric Thornwhisper (D&D_References)]]
+- Leads to [[QUEST00172_Main_Quest_173]]
 - See also: [[Assets Item Artifact Warhammer Xphb V5 Warhammer Xphb.png
 - See also: [Crystal Markets]]
 - Requires [[House Brightshield
@@ -271,12 +247,10 @@ Modifications:
 - Requires [EVENT00077_Political_Event_78]]
 - Affected by [[QUEST00132_Side_Quest_133
 - See also: [ITEM00920_Superior_Powder_of_Healing]]
-- Connects to [[ENC00385_Combat_Encounter_386
-- Affected by [NPC01766_Urien_Moonshadow_the_Wise]]
+- Connects to [[NPC01766_Urien_Moonshadow_the_Wise]]
 - Leads to [[Umbros Shadowdrain
 - See also: [step_042 (phase_014)]]
-- Leads to [[LOC00264_Cities_Location_265
-- Affected by [step_032 (phase_004)]]
+- Leads to [[LOC00264_Cities_Location_265]]
 - Related:
 - Compare with [[Tenebrarum (D&D_References)
 - See also: [Harbor Master Captain Dockwise]]
@@ -287,21 +261,18 @@ Modifications:
 - Connects to
 - Connects to [dawn-war-zehir-dmg (deities)]]
 - Originates from [[step_091 (phase_027)
-- Parallels [[Location City Teacher [Miranda Hopekeeper]] V1 [[Teacher Miranda Hopekeeper.svg]]
-- See also: [[[Countess Marina Stormcrest (D&D_References)]]
+- Parallels [[Location City Teacher [Miranda Hopekeeper]] V1 [[Teacher Miranda Hopekeeper]]
+- See also: [[Countess Marina Stormcrest (D&D_References)]]
 - Connects to [[down[Time-activity-building-a-stronghold (variant-rules)]]
 - Originates from [[Allied Special Forces
 - Affected by [Celestial Spirit Avenger Xphb]]
 - Related: [[Crystal Technology 3 (D&D_References)
 - Leads to [[Assets Locations [[Location City [Truth Verification Magic]] Truth Verification Magic.svg]]]]
-- Parallels [[Communications Manager Jessica Spokesperson
-- Compare with [NPC01535_Wynne_Winterborn_the_Wanderer]]
-- Originates from [[NPC01374_Ewan_Nightfall_the_Broken
-- Requires [[The [Depth Warden]]s (D&D_References)]]
+- Parallels [[Communications Manager Jessica Spokesperson]]
+- Originates from [[NPC01374_Ewan_Nightfall_the_Broken]]s (D&D_References)]]
 - Influences [[Information Systems Alliance 2
 - Influences [Portrait NPC Empress Tethys the Ever Drowning V1 Empress Tethys the Ever Drowning.svg_1 (Portraits)]]
-- Affected by [[The Healing Waters Chalice 2
-- Influences [step_062 (phase_034)]]
+- Affected by [[The Healing Waters Chalice 2]]
 - Originates from [[step_082 (phase_010)
 - Originates from [LOC00103_Dungeons_Location_104]]
 - Connects to [[The Convergence Garden Festival
@@ -313,8 +284,7 @@ Modifications:
 - Leads to [[Emperor Thalassius
 - Connects to [Memory Tides]]
 - See also: [[Location City [Silent Guardian Marcus V1 Silent Guardian Marcus.svg]]
-- Leads to [[step_040 (phase_098)
-- Parallels [Ancestor Memorial Spaces 2]]
+- Leads to [[Ancestor Memorial Spaces 2]]
 - See also:
 - Compare with
 - Related: [[step_082 (phase_028)
@@ -323,12 +293,10 @@ Modifications:
 - Parallels [[gith-tables-githyanki-bonds-mtf (tables)
 - Influences
 - See also: [NPC01345_Pyria_Oakenshield_the_Wise]]
-- Originates from [[LOC00202_Dungeons_Location_203
-- Leads to [step_015 (phase_094)]]
+- Originates from [[LOC00202_Dungeons_Location_203]]
 - Leads to [[step_027 (phase_089)
 - Connects to [LORE00288_Legends_Entry_289]]
-- Leads to [[LOC00253_Wilderness_Location_254
-- Related: [Duergar Laduguer Mtf]]
+- Leads to [[LOC00253_Wilderness_Location_254]]
 - Leads to [[Silverscale_Banking_House.png
 - Requires [step_016 (phase_068)]]
 - Compare with [[Creature Creature Nightwalker Mpmm V3 Nightwalker Mpmm.png

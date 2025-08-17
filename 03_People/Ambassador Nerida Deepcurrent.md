@@ -32,7 +32,7 @@ type: npc
 
 ## Quick Reference
 - **Role**: Character in the campaign
-- **Location**: [[02_Worldbuilding/Locations/Main_Hub]]
+- **Location**: [[02_Worldbuilding]]
 - **Faction**: Independent
 
 ## Description
@@ -87,14 +87,10 @@ Ambassador Nerida Deepcurrent is a character encountered in the campaign world.
 - [[00_[INDEXes/MOCs/NPCs_MOC]]
 
 ## See Also
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [NPC00920_Malakai_Ravenheart_the_Guardian]]
-- [[Archdruid Thornweaver
-- [Parliamentary_Voting_Guide]]
-- [[Player_Feedback_Form.md
-- [NPC00281_Hestara_Nightfall_the_Cunning]]
-- [[10 Appendix B Creature Stat Blocks
-- [Seven_Shards_Tracker.md]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[Parliamentary_Voting_Guide]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[10 Appendix B Creature Stat Blocks]]
 - [[Item_Catalog_Complete.md (Indexes)
 -
 
@@ -119,21 +115,17 @@ Ambassador Nerida Deepcurrent is a character encountered in the campaign world.
 - Related: [[Location City [Feast Saltyflavor Feast Saltyflavor.svg]]
 - Compare with [[Lord Vex
 - Parallels [[Location City [Guide Helpfulcurrent]] Guide Helpfulcurrent.svg]]
-- Parallels [[Forgotten Realms Savras
-- Affected by [NPC00867_Felicia_Quicksilver_the_Wanderer]]
+- Parallels [[NPC00867_Felicia_Quicksilver_the_Wanderer]]
 - See also: [[Otilukes Freezing Sphere Xphb
 - Connects to [Market Charter]]
 - Connects to [[Portrait NPC Memory [Merchant Valeria Siltweave V1 Memory Merchant Valeria Siltweave.svg]]
-- Compare with [[SPELL00104_Nature_Spell_105
-- Leads to [list-optfeaturetype-mm#Metamagic]]
-- Influences [[step_044 (phase_010)
-- See also: [NPC01107_Kaelen_Lightbringer_the_Swift]]
+- Compare with [[SPELL00104_Nature_Spell_105]]
+- Influences [[NPC01107_Kaelen_Lightbringer_the_Swift]]
 - Requires [[ITEM00350_Frost_Crossbow_of_Speed
 - Leads to [step_086 (phase_099)]]
 - Compare with [[QUEST00057_Side_Quest_58
 - Parallels [LOC00297_Planes_Location_298]]
-- Related: [[step_031 (phase_038)
-- Influences [ENC00215_Social_Encounter_216]]
+- Related: [[ENC00215_Social_Encounter_216]]
 - See also: [[step_088 (phase_050)
 - Leads to [step_065 (phase_100)]]
 - Connects to [[Assets Locations Location City [Terminal Director Admiral Current Swiftflow V1 Terminal Director Admiral Current Swiftflow.svg]]
@@ -141,11 +133,9 @@ Ambassador Nerida Deepcurrent is a character encountered in the campaign world.
 - Connects to [tiefling-parents-xge (tables)]]
 - Influences [[step_063 (phase_048)
 - Parallels [[[Void-Keeper Null]] 2]]
-- Compare with [[Memory_Trading_Economy (D&D_References)
-- See also: [[[Navigator Sage Driftwood]] (D&D_References)]]
-- Leads to [[[Aquabyssos Medical Council (D&D_References)]]
-- Compare with [[Find the Shadow Cure
-- Parallels [Level Advancement Without Xp]]
+- Compare with [[Memory_Trading_Economy (D&D_References)]] (D&D_References)]]
+- Leads to [[Aquabyssos Medical Council (D&D_References)]]
+- Compare with [[Level Advancement Without Xp]]
 - Related: [[ENC00003_Combat_Encounter_4
 - Parallels [Depth's End Cathedral]]
 - Requires [[step_079 (phase_087)
@@ -171,8 +161,7 @@ Ambassador Nerida Deepcurrent is a character encountered in the campaign world.
 - Affected by [QUEST00250_Side_Quest_251]]
 - Affected by [[Founding Nation
 - Affected by [Ether Cyclones]]
-- Affected by [[The Integration Institute 2
-- Requires [Create New Location]]
+- Affected by [[The Integration Institute 2]]
 - Parallels [[step_022 (phase_090)
 - Related: [step_031 (phase_037)]]
 - Related: [[Creature Creature Hobgoblin Devastator Mpmm V4 Hobgoblin Devastator Mpmm.png
@@ -202,9 +191,7 @@ Ambassador Nerida Deepcurrent is a character encountered in the campaign world.
 - See also: [Location City Symphony of the Abyss Recipe V1 Symphony of the Abyss Recipe.svg]]
 - Requires [[step_027 (phase_011)
 - Related: [ITEM01425_Sturdy_Lock_of_Durability]]
-- Related: [[Nycaloth Xmm
-- Connects to [ENC00160_Combat_Encounter_161]]
-- Leads to [[LOC00206_Wilderness_Location_207
-- Affected by [panther-xmm (beast)]]
+- Related: [[ENC00160_Combat_Encounter_161]]
+- Leads to [[LOC00206_Wilderness_Location_207]]
 - Parallels [[human-names-celtic-male-xge (tables)
 - Affected by [[Assets Locations [Location City Commander Drake Pressureborn V1 Commander Drake Pressureborn.svg]]]]

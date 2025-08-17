@@ -170,8 +170,7 @@ Family member has gone missing
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -186,12 +185,10 @@ Family member has gone missing
 
 ## Connections
 
-- Compare with [[step_074 (phase_042)
-- Influences [LOC00117_Dungeons_Location_118]]
+- Compare with [[LOC00117_Dungeons_Location_118]]
 - Parallels [[actions#Study
 - Related: [MON00119_Undead_Creature_120]]
-- Affected by [[NPC00573_Rhiannon_Dawnstrider_the_Seeker
-- Affected by [lyre-xphb (items)]]
+- Affected by [[NPC00573_Rhiannon_Dawnstrider_the_Seeker]]
 - Connects to [[SPELL00096_Divine_Spell_97
 - Leads to [QUEST00073_Side_Quest_74]]
 - See also: [[step_086 (phase_058)
@@ -204,18 +201,14 @@ Family member has gone missing
 - Requires [ITEM01480_Decorated_Map_Case_of_Durability]]
 - Requires [[step_075 (phase_074)
 - Affected by [Location City Artificers Consortium Artificers Consortium.svg]]
-- Related: [[The Crystal Cathedral 2
-- Related: [LOC00081_Wilderness_Location_82]]
+- Related: [[LOC00081_Wilderness_Location_82]]
 - Connects to [[Dock Mistress Marina Saltwind
 - Connects to [LOC00239_Towns_Location_240]]
 - Leads to [[physical-characteristics-beholder-iris-shape-vgm
 - Leads to [Provincial Nobility (D&D_References)]]
-- Affected by [[Tinkers Tools Xphb
-- Leads to [Session Planning Workflow]]
-- See also: [[Tides_of_Destiny_Introduction (D&D_Sourcebooks)
-- Parallels [ENC00372_Combat_Encounter_373]]
-- Connects to [[Lady Venetia Silkwind (D&D_References)
-- Parallels [Investigation Laboratories]]
+- Affected by [[Session Planning Workflow]]
+- See also: [[Tides_of_Destiny_Introduction (D&D_Sourcebooks)]]
+- Connects to [[Lady Venetia Silkwind (D&D_References)]]
 - Parallels [[creature-creature-sphinx-xmm-v2-sphinx-xmm.png
 - Leads to [step_063 (phase_094)]]
 - Compare with [[04_Resources_Assets_Symbols_symbol-heraldry-witness-protection-protocols-v1-witness-protection-protocols.svg
@@ -229,8 +222,7 @@ Family member has gone missing
 - Requires
 - Parallels [[DUN00143_Dungeon_144
 - Compare with [ITEM00700_Primordial_Chalice_of_Eternity]]
-- Leads to [[Mounted Combatant Xphb
-- See also: [ENC00265_Social_Encounter_266]]
+- Leads to [[ENC00265_Social_Encounter_266]]
 - Requires [[Law Enforcement (02_Worldbuilding)
 - Requires [Bone Architect Ossuary]]
 - Affected by [[Assets Portraits Portrait NPC Aria Lumengarde Aria Lumengarde.svg
@@ -248,35 +240,28 @@ Family member has gone missing
 - Connects to [[Nilbog Mpmm
 - Influences
 - Connects to [step_063 (phase_033)]]
-- Parallels [[Professional Terminology 2
-- Originates from [Teacher-Administrator Shadowlearn (D&D_References)]]
-- Affected by [[coastal-encounters-levels-510-xge (tables)
-- See also: [Portrait NPC Agen... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Parallels [[Teacher-Administrator Shadowlearn (D&D_References)]]
+- Affected by [[Portrait NPC Agen... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Originates from [[List Spells Classes Path of the Wild Heart
 - Compare with [step_039 (phase_023)]]
 - Parallels [[step_029 (phase_059)
 - See also:
 - Affected by [Location City Syncretist Mediators V1 Syncretist Mediators.svg]]
-- Related: [[Throne Room - Heart of Palace (D&D_References)
-- Leads to [QUEST00311_Side_Quest_312]]
+- Related: [[Throne Room - Heart of Palace (D&D_References)]]
 - Influences [[Portrait NPC Abyssos Prime Throne of Bubbles V2 Abyssos Prime Throne of Bubbles.svg
 - Affected by [Location City Master Goldwin Ledgerkeeper V1 Master Goldwin Ledgerkeeper.svg]]
-- Affected by [[step_076 (phase_098)
-- Requires [SPELL00106_Nature_Spell_107]]
-- Affected by [[Echo-Who-Was-Elena 2
-- Compare with [Chief Engineer Brass Voidwright 2]]
+- Affected by [[SPELL00106_Nature_Spell_107]]
+- Affected by [[Chief Engineer Brass Voidwright 2]]
 - Related: [[SHOP00012_Magical_Shop_13
 - Influences [Basilisk Xmm]]
-- Compare with [[Surface Trade Ports (D&D_References)
-- Parallels [FAC00000_Cults_1]]
+- Compare with [[Surface Trade Ports (D&D_References)]]
 - Related: [[Assets Locations Location City Primary Schools Primary Schools.svg
 - Requires [Banker Titus Goldcurrent (People)]]
 - Parallels [[step_035 (phase_009)
 - Requires
 - Related: [Assets Locations Location City Circle of Mourners Circle of Mourners.svg]]
 - Related:
-- See also: [[Harbor Facilities (D&D_References)
-- Connects to [The Scholar's Guild (Guilds)]]
+- See also: [[Harbor Facilities (D&D_References)]]
 - Related: [[The Deep Sovereign (D&D_References)
 - Affected by
 - Originates from [NPC_Portraits_Gallery 2]]
@@ -284,8 +269,7 @@ Family member has gone missing
 - Requires [Merged Reality Zones (Lore)]]
 - Originates from [[Professor Aldwin Cleartext 2
 - Affected by [LORE00050_Prophecies_Entry_51]]
-- Influences [[step_070 (phase_087)
-- Connects to [NPC00302_Rhiannon_Lightbringer_the_Broken]]
+- Influences [[NPC00302_Rhiannon_Lightbringer_the_Broken]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

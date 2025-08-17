@@ -66,22 +66,17 @@ This content can be adapted and expanded based on specific campaign needs. ## [P
 > This NPC [[knows more than they let on
 
 ## [See Also]]
-- [[Smuggler_Route_Tally_Shee
-- [NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
 - [[10 Appendix B [Creature Stat Blocks]]
 - [[11 [Rules Glossary]]
-- [[06 Equipment
-- [04 Classes]]
+- [[06 Equipment]]
 - [[MOC_NPCs
 - [03 Races]]
-- [[Item_Catalog_Complete.md
-- [Character_Journal_Template]]
+- [[Character_Journal_Template]]
 -
 
-## [[Related Content
-- [10K_GENERATION_REPORT]]
-- [[ULTIMATE_VAULT_ACHIEVEMENT
-- [NEXT_LEVEL_IMPROVEMENTS]]
+## [[10K_GENERATION_REPORT]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
 
 ## [[Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -108,21 +103,20 @@ This content can be adapted and expanded based on specific campaign needs. ## [P
 - Affected by [[[Giant Vulture]] Xmm]]
 - Influences [[step_025 (phase_071)
 - Parallels [step_070 (phase_078)]]
-- Leads to [[NPC0146_Alistair_Darkwater
-- Compare with [[[Location City]] [[Pressure Polyps V1 [Pressure Polyps]].svg]]
-- Leads to [[[[Assets Locations [Location City]] [[Port Meridian [Port Meridian]].svg]]
+- Leads to [[NPC0146_Alistair_Darkwater]] [[Pressure Polyps V1 [Pressure Polyps]].svg]]
+- Leads to [[Assets Locations]] [[Port Meridian]].svg]]
 - Compare with [[[[Creature Creature [Animated Flying]] [[Sword Xmm [Animated Flying]] [[Sword Xmm.png]]
-- Related: [[[[Location City [Bubble District]] V1 [[Bubble District.svg]]
+- Related: [[Bubble District]] V1 [[Bubble District]]
 - Originates from [[step_038 (phase_074)
 - Originates from [[[The Silent]] Watcher (D&D_References)]]
 - Influences [[[[Assets Portraits Portrait NPC [Priest Faith]] [[Crystalsong Priest [Faith Crystalsong]].svg]]
-- Affected by [[Portrait NPC [[Tidal Priest [Marina Deepcurrent]] V2 [[Tidal Priest [Marina Deepcurrent]].svg_1 (Portraits)]]
+- Affected by [[Portrait NPC [[Marina Deepcurrent]] V2 [[Marina Deepcurrent]].svg_1 (Portraits)]]
 - Influences [[[[Pit Fighting [Complications Xge]]]]
 - Influences [[step_025 (phase_048)
 - Related: [pistol-xphb (items)]]
 - Requires [[MON00099_Constructs_Creature_100
 - Originates from [LOC00013_Towns_Location_14]]
-- Compare with [[[Depth Speak Variations (D&D_References)]]
+- Compare with [[Depth Speak Variations (D&D_References)]]
 - Affected by [[[[Speak With [Animals Xphb]]]]
 - Compare with
 - Related: [[Omega-Protocol
@@ -131,36 +125,34 @@ This content can be adapted and expanded based on specific campaign needs. ## [P
 - Related: [[[[The Wind [Shrine Archipelago]] (D&D_References)]]
 - See also: [[Evidence of [Crystal Harm]]
 - Affected by [[[[The Memory [Research Institute]]]]
-- Parallels [[[Master Artificer Thymallos 2]]
+- Parallels [[Master Artificer Thymallos 2]]
 - Leads to [[[Goading Attack Xphb]]
 - Related: [[[Dulcimer Xphb]]
 - Compare with [[Detective-[Prime Clarity Truthseeke]]
 - Influences [[giant-octopus-xmm (beast)
 - Compare with [[Portrait NPC [the]] [[Nameless Auditor the [Nameless Auditor]].svg_1 (Portraits)]]
-- Parallels [[[Void Between Pressures (D&D_References)]]
+- Parallels [[Void Between Pressures (D&D_References)]]
 - Influences
 - Leads to [[step_055 (phase_025)
 - Requires [[[Assets Locations]] [[Location City [Coral Gardens]] [[District Coral [Gardens District]].svg]]
-- Related: [[step_082 (phase_051)
-- Related: [saving-throw-xphb (variant-rules)]]
+- Related: [[saving-throw-xphb (variant-rules)]]
 - Influences [[step_079 (phase_048)
 - Compare with [step_027 (phase_100)]]
 - Affected by [[step_034 (phase_097)
 - Compare with [LORE00005_Prophecies_Entry_6]]
-- Parallels [[[The Lost Shipment (D&D_References)]]
+- Parallels [[The Lost Shipment (D&D_References)]]
 - Related:
 - Originates from [[injuries
 - Influences [[Portrait NPC [the]] Smuggler S Den V1 the Smuggler S Den.svg_1 (Portraits)]]
-- Requires [[NPC00869_Alaric_Jadeclaw_the_Broken
-- Leads to [[[Community Mediator]] [[Balance Wright (D&D_References)]]
+- Requires [[NPC00869_Alaric_Jadeclaw_the_Broken]] [[Community Mediator Balance Wright (D&D_References)]]
 - Leads to [[step_057 (phase_100)
 - Parallels [Questions_for_DM]]
-- See also: [[[Coral Throne Syndicate]]
+- See also: [[Coral Throne Syndicate]]
 - Compare with [[[Watery Sphere Xge]]
 - Affected by [[[[Item Artifact [Poisoners Kit]] [[Xphb Poisoners [Kit Xphb]].png]]
 - Parallels [[step_082 (phase_042)
 - Influences [[[Location City]] [[Environmental Monitor [Reef Ecowatch]] V1 [[Environmental Monitor [Reef Ecowatch]].svg]]
-- Affected by [[[District Economic Profiles (Lore)]]
+- Affected by [[District Economic Profiles]]
 - Compare with
 - Connects to [[Portrait NPC [[Emperor Thalassius [Emperor Thalassius]].svg]]
 - Requires [[step_004 (phase_037)
@@ -171,9 +163,9 @@ This content can be adapted and expanded based on specific campaign needs. ## [P
 - Requires
 - Originates from [[FAC00055_Cults_56
 - Parallels [dwarven-plate-xdmg (items)]]
-- Leads to [[[[Assets Locations [Location City]] the [[Harbor Guild the [Harbor Guild]].svg]]
+- Leads to [[Assets Locations]] the [[Harbor Guild the [Harbor Guild]].svg]]
 - Parallels [[[[Location City the [Whispering Depths]] the [[Whispering Depths.svg]]
-- Requires [[[The Transformation Sanctuary]]
+- Requires [[The Transformation Sanctuary]]
 - Originates from [[step_039 (phase_024)
 - Affected by [[[Courier Ripplestone]]]]
 - Parallels [[step_028 (phase_085)
@@ -183,22 +175,22 @@ This content can be adapted and expanded based on specific campaign needs. ## [P
 - Influences [[[Memory Pearls]]]]
 - Leads to [[step_039 (phase_065)
 - Compare with [[[Luminous Hollow]] 2]]
-- Influences [[[Political Intrigue of Meridian (D&D_References)]]
+- Influences [[Political Intrigue of Meridian (D&D_References)]]
 - Leads to [[ENC0044_Random_Encounter_45
 - Influences [[Portrait NPC [Lich Queen]] Morwyn the Deathless V1 [[Lich Queen Morwyn the Deathless.svg]]
-- Compare with [[[The Glass Twins 2]]
-- Influences [[[Unified Mechanics Guide (D&D_References)]]
+- Compare with [[The Glass Twins 2]]
+- Influences [[Unified Mechanics Guide (D&D_References)]]
 - Leads to [[LOC00145_Towns_Location_146
 - Compare with [blindness-deafness-xphb (spells)]]
 - Affected by [[step_005 (phase_049)
 - Affected by [LORE00309_Legends_Entry_310]]
-- Related: [[[Ancient Skyforge Complex]]
+- Related: [[Ancient Skyforge Complex]]
 - Related: [[EVENT00093_Magical_Event_94
 - Requires [location-city-harbor-wall-harbor-wall.svg]]
-- Compare with [[[Azure Shard]]
+- Compare with [[Azure Shard]]
 - Related: [[[[Symbol Heraldry Ech... [Related To]]: [[Local Political [Structure Connected]] Plots: to [[Be Developed]]
 - Parallels [[[[Assets Symbols [Symbol Heraldry]] [[Financial Crime [Investigatio Financial]] [[Crime Investigatio.svg]]
-- Related: [[[The Null Chamber]]
+- Related: [[The Null Chamber]]
 - Compare with [[vampire-umbral-lord-xmm (undead)
 - Parallels [step_075 (phase_097)]]
 - Connects to [[step_041 (phase_096)
@@ -211,7 +203,7 @@ This content can be adapted and expanded based on specific campaign needs. ## [P
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

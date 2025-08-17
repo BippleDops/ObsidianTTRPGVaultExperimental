@@ -121,22 +121,18 @@ With subdirectories for each type:
 - Compare with [QUEST00475_Side_Quest_476]]
 - Parallels [[Location City Courier Ripplestone Courier Ripplestone.svg
 - Related: [step_040]]
-- Leads to [[Forbidden Tomes of Deep Mother
-- Requires [step_088]]
+- Leads to [[Forbidden Tomes of Deep Mother]]
 - See also: [[step_068 (phase_048)
 - Influences [Assets Item Artifact Mess Kit V5 Mess Kit.png]]
 - Influences [[LOC00191_Towns_Location_192
 - Originates from [Enterprise Director Duskwork]]
-- Requires [[LOC00047_Planes_Location_48
-- Related: [young-blue-dragon-xmm]]
+- Requires [[LOC00047_Planes_Location_48]]
 - Connects to [[Unarmed Strike Xphb
 - Requires [step_005 (phase_022)]]
-- Requires [[step_010 (phase_035)
-- Related: [NPC00860_Gavril_Winterborn_the_Swift]]
+- Requires [[NPC00860_Gavril_Winterborn_the_Swift]]
 - Affected by [[Tinderbox Xphb
 - Influences [ITEM00425_Fortified_Plate_of_Fortitude]]
-- Parallels [[Chronicle Keeper Sage Deepmemory (D&D_References)
-- See also: [extreme-cold-xdmg (traps-hazards)]]
+- Parallels [[Chronicle Keeper Sage Deepmemory (D&D_References)]]
 - Parallels [[step_048 (phase_092)
 - See also: [final_link_repair_20250814_175237]]
 - Requires [[portrait-npc-pressure-lords-v2-pressure-lords.svg
@@ -145,28 +141,21 @@ With subdirectories for each type:
 - Requires [step_001 (phase_096)]]
 - Affected by [[Symbol Heraldry Chaplain Abyssos the Deepseeke Chaplain Abyssos the Deepseeke.svg
 - Leads to [step_003]]
-- Requires [[racial-feats-xge (tables)
-- Influences [Progress Through Power Faction 2]]
+- Requires [[Progress Through Power Faction 2]]
 - Connects to [[Shield
 - Affected by [Assets Locations Location City the Gloom Gardens V1 the Gloom Gardens.svg]]
 - Compare with [[Animal Lord Hunter Xmm
 - See also: [step_084 (phase_004)]]
-- Related: [[step_011 (phase_059)
-- Leads to [downtime-activity-carousing-xge (variant-rules)]]
-- Parallels [[S_018_Choir_Pirates
-- Requires [ENC00153_Social_Encounter_154]]
-- Affected by [[status-symbols-vgm (tables)
-- Requires [NPC00986_Lyanna_Emberfall_the_Redeemed]]
+- Related: [[downtime-activity-carousing-xge (variant-rules)]]
+- Parallels [[ENC00153_Social_Encounter_154]]
+- Affected by [[NPC00986_Lyanna_Emberfall_the_Redeemed]]
 - Originates from [[Resonant Crystals
 - Requires [The Singer Beyond]]
 - Affected by [[step_048 (phase_048)
 - Requires [step_099 (phase_023)]]
-- See also: [[LORE00056_Legends_Entry_57
-- See also: [NPC00159_Delara_Keenblade_the_Wanderer]]
-- Compare with [[Sustainable Commerce Guidelines
-- Originates from [Healer Elena Mindmender (D&D_References)]]
-- Requires [[step_034
-- Affected by [NPC01619_Hilda_Ashford_the_Mystic]]
+- See also: [[NPC00159_Delara_Keenblade_the_Wanderer]]
+- Compare with [[Healer Elena Mindmender (D&D_References)]]
+- Requires [[NPC01619_Hilda_Ashford_the_Mystic]]
 - Requires [[QUEST00234_Personal_Quest_235
 - Connects to [jeweled-anklet-xdmg (items)]]
 - Parallels [[prestidigitation-xphb (spells)
@@ -175,8 +164,7 @@ With subdirectories for each type:
 - Originates from [step_086]]
 - Originates from [[Magic Item Sale Complications Xge
 - Affected by [step_010 (phase_068)]]
-- Compare with [[Communications Officer Tidecall (D&D_References)
-- Parallels [Echo-Translator Vera]]
+- Compare with [[Communications Officer Tidecall (D&D_References)]]
 - Leads to [[QUEST00127_Personal_Quest_128
 - Compare with [The Whispering Expanse]]
 - Parallels [[modron-pentadrone-xmm (construct)
@@ -193,16 +181,14 @@ With subdirectories for each type:
 - Originates from [Silk Rope 50 Feet]]
 - Connects to [[keoghtoms-ointment-xdmg (items)
 - Requires [LORE00166_Legends_Entry_167]]
-- Requires [[The Drowning Welcome
-- Connects to [step_065]]
+- Requires [[The Drowning Welcome]]
 - Influences [[list-spells-feats-magic-initiate-xphb (lists)
 - Related: [step_020 (phase_083)]]
 - Affected by [[step_031 (phase_086)
 - Influences [Location City Abyssos Prime Docks V1 Abyssos Prime Docks.svg]]
 - Originates from [[Assets Locations Location City Abyssos Prime Abyssos Prime.svg
 - Originates from [The__Cathedral]]
-- Compare with [[NPC01950_Baelor_Grimholt_the_Broken
-- Compare with [NPC0021_Vera_Stormwind]]
+- Compare with [[NPC01950_Baelor_Grimholt_the_Broken]]
 - See also: [[QUEST00005_Main_Quest_6
 
 ## Visual References

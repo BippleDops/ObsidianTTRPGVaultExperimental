@@ -8,5 +8,8 @@
   ],
   "created": "2025-08-16T16:58:14.606Z",
   "rarity": "common",
-  "category": "weapon"
+  "category": "weapon",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:49:32.750Z",
+  "generationMethod": "ComfyUI"
 }

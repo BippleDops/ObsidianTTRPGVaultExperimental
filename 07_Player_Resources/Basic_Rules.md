@@ -85,59 +85,28 @@ Contextual improvement based on 07_Player_Resources
 > The villain has agents watching this place
 
 ## See Also
-- [[NPC00821_Zephyr_Voidwalker_the_Cunning
-- [NPC00351_Corvus_Ironwood]]
-- [[NPC00785_Ysara_Grimholt_the_Mystic
-- [NPC00307_Dara_Proudmore_the_Seeker]]
-- [[NPC00858_Zephyr_Silverleaf_the_Wanderer
-- [NPC00469_Delara_Oakenshield_the_Seeker]]
-- [[NPC00296_Elric_Jadeclaw_the_Bold
-- [NPC00276_Ysara_Youngblood]]
-- [[NPC01888_Hestara_Ravenheart_the_Redeemed
-- [NPC00395_Aeliana_Thornweave]]
-- [[Ambassador Nerida Deepcurrent
-- [NPC00300_Urien_Zephyrblade]]
-- [[Sanity_Quick_Reference.md
-- [NPC01301_Jorah_Underhill_the_Broken]]
-- [[NPC01877_Hestara_Moonshadow_the_Mystic
-- [NPC00749_Xander_Quicksilver]]
-- [[NPC00550_Xander_Stormwind_the_Cunning
-- [NPC01682_Vesper_Blackstone_the_Guardian]]
-- [[yuan-ti-pit-master-mpmm
-- [Sage Elara]]
-- [[Party_Quests
-- [Trade_Route_Map_Aquabyssos_to_Aethermoor]]
-- [[Player_Feedback_Form.md
-- [NPC01943_Xander_Proudmore_the_Fallen]]
-- [[Parliament of Shadows Player Guide.md
-- [MOC_Rules]]
-- [[NPC00525_Fiora_Proudmore_the_Wanderer
--
-
-## Game Mechanics
-- **Combat**: See ACX p.189-198
-
-## D&D 5e References
-
-*(Combat rules: ACX p.189-198)*
-*(Attack rolls: ACX p.194)*
-*(Damage & Healing: ACX p.196-197)*
-
-## Connections
-
-- Leads to [03 People]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[Parliament of Shadows]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]
 - Connects to [[Assets Locations Location City Surface Loyalist Safe Houses V1 Surface Loyalist Safe Houses.svg
 - Compare with [Portrait NPC the Deep Trade Routes V2 the Deep Trade Routes.svg_1 (Portraits)]]
-- Related: [[kobold-dmg (races)
-- Parallels [The Temporal Observatory 2]]
-- Influences [[NPC01825_Solas_Dawnstrider_the_Strong
-- Leads to [step_067 (phase_072)]]
+- Related: [[The Temporal Observatory 2]]
+- Influences [[NPC01825_Solas_Dawnstrider_the_Strong]]
 - Affected by [[Benthic Commune 2
 - See also: [step_048 (phase_073)]]
-- Parallels [[LORE00293_Legends_Entry_294
-- Requires [Community Services Director Helen Helpinghand]]
-- See also: [[Noble Culture and Etiquette
-- See also: [Artist Wave Creator (D&D_References)]]
+- Parallels [[Community Services Director Helen Helpinghand]]
+- See also: [[Artist Wave Creator (D&D_References)]]
 - Connects to [[step_024 (phase_015)
 - Affected by [International Trade]]
 - Leads to [[Ability Modifier Ability Check Examples Xphb
@@ -149,10 +118,8 @@ Contextual improvement based on 07_Player_Resources
 - Compare with [ITEM00548_Mithril_Boots_of_Resistance]]
 - Leads to [[Wild Magic Zones
 - Connects to [Find the Grief Bomb]]
-- Compare with [[Character_Creation_Guide
-- Affected by [High Oracle Serenity Deepcall 2]]
-- Originates from [[NPC01997_Aeliana_Frostwhisper_the_Fallen
-- Requires [Timeline Fractures]]
+- Compare with [[High Oracle Serenity Deepcall 2]]
+- Originates from [[NPC01997_Aeliana_Frostwhisper_the_Fallen]]
 - Requires [[Military Coordinator Strong 2
 - Affected by [NPC00021_Jorah_Hawthorne]]
 - Parallels [[The Void Scanner
@@ -161,33 +128,27 @@ Contextual improvement based on 07_Player_Resources
 - See also: [barding]]
 - Originates from [[Historian Lisa Outreach
 - Compare with [step_010 (phase_074)]]
-- Compare with [[ENC00026_Combat_Encounter_27
-- Parallels [step_018 (phase_050)]]
-- Affected by [[Communications Director Whisper (D&D_References)
-- Related: [LOC00054_Planes_Location_55]]
+- Compare with [[ENC00026_Combat_Encounter_27]]
+- Affected by [[Communications Director Whisper (D&D_References)]]
 - Affected by [[LOC00235_Towns_Location_236
 - See also: [Halfling Cyrrollalee Mtf]]
 - See also: [[step_055 (phase_039)
 - Affected by [step_015 (phase_065)]]
 - Related: [[The Godhead Ritual 2
 - Affected by [Assets Locations Location City Flame Keeper Brother Ignatius V1 Flame Keeper Brother Ignatius.svg]]
-- Requires [[step_033 (phase_022)
-- Leads to [QUEST00250_Side_Quest_251]]
+- Requires [[QUEST00250_Side_Quest_251]]
 - Connects to [[step_064 (phase_079)
 - Influences [Quick_NPC_Generator]]
-- Parallels [[smoke-mephit-xmm (elemental)
-- Leads to [Dimensional Communication Arrays]]
+- Parallels [[Dimensional Communication Arrays]]
 - Originates from [[Port Authority (D&D_References)
 - Connects to [Scene Scene Pressure Dome Festival Night V1 Pressure Dome Festival Night.png]]
 - Originates from [[ITEM00679_Fortified_Shield_of_Resistance
 - Originates from [step_032 (phase_050)]]
-- Connects to [[EVENT00075_Natural_Event_76
-- Affected by [Courier Chief Swift Currentrider (D&D_References)]]
+- Connects to [[Courier Chief Swift Currentrider (D&D_References)]]
 - Affected by [[Prismatic Plankton
 - Leads to
 - Parallels [find-the-ideal-introduction-adventure-introduction]]
-- Requires [[Pressure Terminal (D&D_Statblocks)
-- Leads to [step_083 (phase_083)]]
+- Requires [[Pressure Terminal (D&D_Statblocks)]]
 - Connects to [[QUEST00180_Side_Quest_181
 - Compare with [LOC00170_Dungeons_Location_171]]
 - Related: [[Friends Xphb
@@ -201,10 +162,8 @@ Contextual improvement based on 07_Player_Resources
 - Originates from [[Wisdom of the Avatars
 - Requires
 - Related: [druid-xphb-circle-of-the-moon-xphb (classes)]]
-- Related: [[NPC01890_Branwen_Frostwhisper_the_Wanderer
-- Leads to [step_080 (phase_083)]]
-- Requires [[Elder Kythara the Wise
-- Parallels [Energy Bow Xdmg]]
+- Related: [[NPC01890_Branwen_Frostwhisper_the_Wanderer]]
+- Requires [[Elder Kythara the Wise]]
 - Related: [[SHOP00062_General_Shop_63
 - Compare with [ITEM00485_Ethereal_Cloak_of_Fortitude]]
 - Connects to [[Assets Handouts Handout Handout Guild License Certificate V3 Guild License Certificate.png
@@ -219,8 +178,7 @@ Contextual improvement based on 07_Player_Resources
 - Originates from [Location City the First Truth V1 the First Truth.svg]]
 - Compare with [[Memory Heist (D&D_References)
 - Requires [Creature Creature Nightmare Xmm V2 Nightmare Xmm.png]]
-- Connects to [[Rope of Entanglement Xdmg
-- Leads to [Supernatural Mysteries (D&D_References)]]
+- Connects to [[Supernatural Mysteries (D&D_References)]]
 - Parallels [[LOC00067_Wilderness_Location_68
 - Affected by [QUEST00247_Personal_Quest_248]]
 - Influences [[ITEM00484_Fortified_Boots_of_Protection

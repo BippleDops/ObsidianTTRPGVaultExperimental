@@ -166,36 +166,25 @@ Discovered something valuable
 - Special moves
 
 ## See Also
-- [[NPC_Relationship_Web.png_1 (03_People)
-- [NPC00844_Cedric_Blackstone_the_Fallen]]
-- [[NPC00307_Dara_Proudmore_the_Seeker
-- [NPC00200_Faelyn_Winterborn_the_Guardian]]
-- [[NPC00287_Ysara_Underhill_the_Wise
-- [NPC01761_Idris_Moonshadow_the_Broken]]
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [NPC01695_Ewan_Ashford_the_Fallen]]
-- [[NPC00815_Baelor_Thornweave_the_Swift
-- [NPC01371_Xander_Stormwind_the_Guardian]]
-- [[NPC01126_Malakai_Oakenshield_the_Fallen
-- [NPC00749_Xander_Quicksilver]]
-- [[NPC00785_Ysara_Grimholt_the_Mystic
-- [NPC00395_Aeliana_Thornweave]]
+- [[NPC00844_Cedric_Blackstone_the_Fallen]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
 - [[Faction_Guide.md
 - [Shared_Lore]]
-- [[Propaganda_Leaflet_Pearl_Guar
-- [Party_Inventory]]
-- [[Emergency_Evacuation_Map_Stormglass_Riot
-- [Ancient_Prophecy_Fragment_Verdan]]
-- [[Reputation_Tracker
-- [08 Using Ability Scores]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[08 Using Ability Scores]]
 - [[16 Credits
 - [MASTER_MOC]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -219,10 +208,8 @@ Discovered something valuable
 - Parallels [ring-of-elemental-command-fire-xdmg (items)]]
 - Compare with [[step_070 (phase_100)
 - Requires [Portrait NPC Abyssos Prime Throne of Bubbles V2 Abyssos Prime Throne of Bubbles.svg_1 (Portraits)]]
-- Affected by [[Portal Network
-- Leads to [ITEM0070_Glorious_Blade_of_the_Dawn]]
-- Originates from [[QUEST00048_Main_Quest_49
-- Related: [NPC01700_Pyria_Xendar_the_Fallen]]
+- Affected by [[ITEM0070_Glorious_Blade_of_the_Dawn]]
+- Originates from [[NPC01700_Pyria_Xendar_the_Fallen]]
 - See also: [[SHOP00051_Specialty_Shop_52
 - Parallels [Portrait NPC Lord Marcus Shadowbane V1 Lord Marcus Shadowbane.svg]]
 - Requires [[Assets Portraits Portrait NPC Gallery Guide Captain Marina Civicvoice Gallery Guide Captain Marina Civicvoice.svg
@@ -234,8 +221,7 @@ Discovered something valuable
 - Connects to [gold-bracelet-xdmg (items)]]
 - Influences [[the-six-abilities-ability-descriptions-xphb (tables)
 - Influences [Royal Chaplain Magnus Goldcurrent]]
-- Leads to [[The Anonymous Accords (D&D_References)
-- See also: [Mechanics Vehicles]]
+- Leads to [[The Anonymous Accords (D&D_References)]]
 - Influences [[armor-of-poison-resistance-xdmg (items)
 - Affected by [NPC00474_Qadim_Ironforge_the_Seeker]]
 - Influences [[Princess Celestine Lumengarde 2
@@ -243,14 +229,11 @@ Discovered something valuable
 - Originates from [[step_055 (phase_061)
 - Parallels [Cube of Summoning Xdmg]]
 - Connects to
-- Affected by [[SPELL00026_Divine_Spell_27
-- See also: [step_010 (phase_069)]]
-- Parallels [[Session 08 the Stellar Convergence
-- Influences [step_079 (phase_081)]]
+- Affected by [[SPELL00026_Divine_Spell_27]]
+- Parallels [[Session 08 the Stellar Convergence]]
 - Leads to [[The Pressure Crown (D&D_References)
 - See also: [Portrait NPC Quest the Dying Forest Quest the Dying Forest.svg]]
-- Leads to [[Transformations - Crystal - Crystal Bloom
-- Originates from [step_090 (phase_100)]]
+- Leads to [[Transformations - Crystal - Crystal Bloom]]
 - Requires [[The Abandoned Embassy 2
 - Affected by [Location City Causality Shadow V1 Causality Shadow.png]]
 - Parallels [[Thermal Vent Communities
@@ -260,26 +243,22 @@ Discovered something valuable
 - Originates from [[Oil of Etherealness Xdmg
 - Requires
 - Leads to [Bone Naga Xmm]]
-- Leads to [[downtime-activity-carousing-xge (variant-rules)
-- Influences [Lords of the Nine Layers and Rulers of the]]
+- Leads to [[downtime-activity-carousing-xge (variant-rules)]]
 - Requires [[mind-carapace-armor-vgm (items)
 - Requires
 - Connects to [Political Immunity Privileges]]
 - Leads to [[location-city-the-deep-patrol-the-deep-patrol.svg
 - Affected by [step_059 (phase_075)]]
-- Originates from [[step_079 (phase_093)
-- Affected by [Echo Leader Scout Informationtide]]
+- Originates from [[Echo Leader Scout Informationtide]]
 - Compare with [[Assets Locations Location City Magical Theory Schools V1 Magical Theory Schools.svg
 - See also: [Storm Giant Quintessent Vgm]]
 - Compare with [[Portrait NPC Trade Captain Sterling V2 Trade Captain Sterling.svg
 - See also:
 - Affected by [Drow Lolth Mtf]]
-- Connects to [[Shadow Saints 2
-- Related: [11 Appendix a Random Dungeons]]
+- Connects to [[11 Appendix a Random Dungeons]]
 - Related: [[step_030 (phase_096)
 - Affected by [Mummy Lord Xmm]]
-- Compare with [[Befuddlement Xphb
-- See also: [Campaigns Aquabyssos Investigations the Shadow Parliament Conspiracy]]
+- Compare with [[Campaigns Aquabyssos Investigations the Shadow Parliament Conspiracy]]
 - Originates from [[Pearl Harbor City
 - Affected by [step_098 (phase_060)]]
 - Requires [[MON00032_Undead_Creature_33
@@ -287,25 +266,21 @@ Discovered something valuable
 - Affected by [[Assets Art Unite the Recursions.png
 - Related:
 - Originates from [Criminal Organizations (D&D_References)]]
-- Related: [[08-using-ability-scores#Dexterity
-- Leads to [QUEST00400_Side_Quest_401]]
+- Related: [[08-using-ability-scores#Wisdom]]
 - See also: [[Assets Locations Location City the Deepmost Current the Deepmost Current.svg
 - Influences
 - Parallels [hellfire-engine-mpmm (construct)]]
 - Requires [[NPC01386_Brenna_Thornweave_the_Lost
 - Influences
 - Compare with [eye-agate-xdmg (items)]]
-- Compare with [[step_047 (phase_025)
-- Requires [04_Places_The_Outfitters_Shop]]
+- Compare with [[04_Places_The_Outfitters_Shop]]
 - Connects to [[Elder Tempest Mpmm
 - Leads to [Item Artifact Explorers Pack Xphb V3 Explorers Pack Xphb.png]]
-- Affected by [[NPC01621_Gavril_Darkwater_the_Broken
-- Parallels [Random_Loot (02_Worldbuilding)]]
+- Affected by [[NPC01621_Gavril_Darkwater_the_Broken]]
 - Leads to [[MON00117_Constructs_Creature_118
 - Influences
 - Parallels [step_055 (phase_053)]]
-- Affected by [[The Pressure Wars 2
-- Compare with [The Drowning 3 (D&D_References)]]
+- Affected by [[The Drowning 3 (D&D_References)]]
 - Leads to
 - Affected by [[5-halflings-and-gnomes (mordenkainens-tome-of-foes)]]
 

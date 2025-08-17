@@ -163,28 +163,16 @@ Witnessed a crime
 - Special moves
 
 ## See Also
-- [[NPC00761_Aldric_Moonshadow_the_Guardian
-- [NPC00587_Idris_Youngblood_the_Strong]]
-- [[Ambassador Nerida Deepcurrent
-- [NPC00317_Pyria_Blackstone_the_Redeemed]]
-- [[NPC01870_Lyanna_Silverleaf_the_Cunning
-- [NPC00885_Kaelen_Xendar_the_Lost]]
-- [[Archdruid Thornweaver
-- [NPC00542_Corvus_Oakenshield_the_Strong]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [Ritual_Timing_Wheel_Convergenc]]
-- [[Combat_Encounter_Analysis
-- [Reference.md]]
-- [[10 Appendix B Creature Stat Blocks
-- [11 Rules Glossary]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[Combat_Encounter_Analysis]]
+- [[10 Appendix B Creature Stat Blocks]]
 - [[MOC_Lore
 - [MOC_Items]]
-- [[NPC00058_Elric_Nightfall
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00058_Elric_Nightfall]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -208,8 +196,7 @@ Witnessed a crime
 - Affected by [ITEM01138_Lesser_Salve_of_Healing]]
 - Originates from [[location-city-goldspire-port-goldspire-port.svg
 - Originates from [step_002 (phase_061)]]
-- Affected by [[Shotgun Xdmg
-- Originates from [NPC01966_Hestara_Crystalbrook_the_Wise]]
+- Affected by [[NPC01966_Hestara_Crystalbrook_the_Wise]]
 - Related: [[actions#Utilize
 - Parallels [Portrait NPC Captain Threshold Captain Threshold.svg]]
 - Leads to [[ability-score-improvement-xphb (feats)
@@ -227,8 +214,7 @@ Witnessed a crime
 - Requires [04_Resources_Assets_Portraits_portrait-npc-captain-torren-stormwright-captain-torren-stormwright.svg_Quick_Ref]]
 - Influences [[NPC01013_Corvus_Ravenheart_the_Bold
 - Related: [List Spells Classes Illusionist Xphb]]
-- Related: [[playing-cards-xphb (items)
-- See also: [NPC00140_Brenna_Youngblood_the_Scholar]]
+- Related: [[NPC00140_Brenna_Youngblood_the_Scholar]]
 - Parallels
 - Originates from [[Portrait NPC the Shadow Warren V1 the Shadow Warren.svg
 - See also: [Devils Sight Xphb]]
@@ -253,10 +239,8 @@ Witnessed a crime
 - Originates from [NPC00383_Elric_Jadeclaw_the_Seeker]]
 - Compare with [[character-sheet-xphb (variant-rules)
 - Originates from [Assets Locations Location City Shadow Merchant Riptide V1 Shadow Merchant Riptide.svg]]
-- Parallels [[Identity Storage Vaul (D&D_References)
-- Compare with [ITEM0091_Divine_Orb_of_the_Dawn]]
-- Leads to [[LOC00074_Planes_Location_75
-- Compare with [Journey Board]]
+- Parallels [[Identity Storage Vaul (D&D_References)]]
+- Leads to [[LOC00074_Planes_Location_75]]
 - Influences [[The Aether Works 2
 - Parallels [step_046 (phase_086)]]
 - Parallels [[step_068 (phase_081)
@@ -269,16 +253,14 @@ Witnessed a crime
 - Leads to
 - Compare with [[step_005 (phase_072)
 - Requires [step_082 (phase_033)]]
-- Leads to [[Deep Stone Eaters
-- See also: [ENC00427_Combat_Encounter_428]]
+- Leads to [[ENC00427_Combat_Encounter_428]]
 - Affected by [[step_072 (phase_085)
 - Influences [04_Resources_Assets_Locations_location-city-master-elena-preserver-v1-master-elena-preserver.svg]]
 - Requires [[Location City Wave Traderwind V1 Wave Traderwind.svg
 - Influences [High Priest Nereon (D&D_References)]]
 - Originates from [[The Scales of Fortune
 - Affected by [forcecage-xphb (spells)]]
-- Parallels [[Session 07 (The_Sunken_Conspiracy)
-- Influences [NPC01414_Rhiannon_Ironwood_the_Guardian]]
+- Parallels [[NPC01414_Rhiannon_Ironwood_the_Guardian]]
 - Affected by [[ITEM01067_Pure_Powder_of_Clarity
 - Originates from [horned-devil-xmm (fiend)]]
 - Related: [[Master Facilitator Neutral
@@ -289,10 +271,8 @@ Witnessed a crime
 - Originates from
 - Leads to [[Location City Adult Education Programs Adult Education Programs.svg
 - Connects to [The Mirror of Succession 2]]
-- Related: [[Session 04 the Deep Mother Stirs
-- Requires [Halfling Brandobaris Mtf]]
-- Influences [[stone-golem-xmm (construct)
-- Requires [Cultural Advisor Coral Bridgebuilde]]
+- Related: [[Session 04 the Deep Mother Stirs]]
+- Influences [[Cultural Advisor Coral Bridgebuilde]]
 - Requires [[Sanctuary Safeharbor
 - Originates from [Quest - Military Innovation 2]]
 - Requires [[Portrait NPC Captain Threshold V1 Captain Threshold.svg

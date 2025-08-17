@@ -176,58 +176,31 @@ Modifications:
 
 ## See Also
 - [NPC01695_Ewan_Ashford_the_Fallen]]
-- [[NPC00362_Pyria_Stormwind_the_Wise
-- [NPC00317_Pyria_Blackstone_the_Redeemed]]
-- [[NPC01812_Xander_Lightbringer_the_Swift
-- [NPC01552_Branwen_Lightbringer_the_Swift]]
-- [[NPC00451_Malakai_Ravenheart_the_Broken
-- [NPC01831_Alaric_Frostwhisper_the_Scholar]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [NPC00838_Drusilla_Proudmore_the_Risen]]
-- [[NPC01937_Felicia_Silverleaf_the_Wanderer
-- [NPC00820_Thalia_Nightfall_the_Risen]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC00550_Xander_Stormwind_the_Cunning]]
-- [[NPC00307_Dara_Proudmore_the_Seeker
-- [NPC00237_Vesper_Ashford_the_Bold]]
-- [[NPC01429_Zephyr_Keenblade_the_Cunning
-- [NPC01041_Thalia_Dawnstrider_the_Lost]]
-- [[NPC_Relationship_Web.png_1 (03_People)
-- [NPC01594_Fiora_Proudmore_the_Seeker]]
-- [[NPC01682_Vesper_Blackstone_the_Guardian
-- [NPC00821_Zephyr_Voidwalker_the_Cunning]]
-- [[NPC01951_Gavril_Xendar_the_Swift
-- [NPC01283_Corvus_Hawthorne_the_Fallen]]
-- [[NPC00296_Elric_Jadeclaw_the_Bold
-- [NPC00057_Malakai_Stormwind_the_Cunning]]
-- [[NPC01892_Gareth_Xendar_the_Scholar
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[NPC01624_Corvus_Silverleaf_the_Redeemed
-- [NPC00601_Vesper_Ironwood_the_Guardian]]
-- [[NPC00260_Wynne_Underhill_the_Fallen
-- [NPC00395_Aeliana_Thornweave]]
-- [[NPC01761_Idris_Moonshadow_the_Broken
-- [Pilgrim_Pass_Prayer_Sli]]
-- [[Party_Inventory
-- [Faction_Guide.md]]
-- [[What You Know - Abyssos Prime.md
-- [NPC01730_Faelyn_Emberfall_the_Broken]]
-- [[Player_Comfort_Check
-- [NPC00372_Alaric_Grimholt]]
-- [[Combat_Encounter_Analysis
-- [Downtime_Activities]]
-- [[Player_Dashboard
-- [Reference.md]]
-- [[09 Appendix a the Multiverse
-- [03 Races]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01831_Alaric_Frostwhisper_the_Scholar]]
+- [[NPC00838_Drusilla_Proudmore_the_Risen]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC01594_Fiora_Proudmore_the_Seeker]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01283_Corvus_Hawthorne_the_Fallen]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[Party_Inventory]]
+- [[NPC01730_Faelyn_Emberfall_the_Broken]]
+- [[NPC00372_Alaric_Grimholt]]
+- [[Combat_Encounter_Analysis]]
+- [[Player_Dashboard]]
+- [[09 Appendix a the Multiverse]]
 - [[11 Rules Glossary
 - [The_Corroded_Crown.png]]
-- [[MOC_Rules
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[MOC_Rules]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -244,8 +217,7 @@ Modifications:
 ## Connections
 
 - Compare with [Master Banker Cornelius Coinwright]]
-- Leads to [[Brother Thaddeus the Rememberer
-- Parallels [Location Tracker 2]]
+- Leads to [[Brother Thaddeus the Rememberer]]
 - Parallels [[The Phantom Current
 - Originates from [Marcus Aurelius Shimmerstone]]
 - Parallels [[The_Crown''s_Burden (02_Worldbuilding)
@@ -270,7 +242,7 @@ Modifications:
 - Related: [Captain Sky Horizon]]
 - Related: [[feinting-attack-xphb (optional-features)
 - Originates from [step_074 (phase_050)]]
-- Affected by [[[Port Quarter 2]]
+- Affected by [[Port Quarter 2]]
 - Influences
 - Related: [[step_084 (phase_016)
 - Influences [step_047 (phase_072)]]
@@ -287,57 +259,45 @@ Modifications:
 - Compare with [[step_071 (phase_085)
 - Leads to [lesser-restoration-xphb (spells)]]
 - Originates from [[Assets Locations Location City [Elena Prismweaver Elena Prismweaver.svg]]
-- Connects to [[Continental Connections Map
-- See also: [step_063 (phase_024)]]
+- Connects to [[Continental Connections Map]]
 - See also: [[Assets Locations Location City [The Deepmost Current V1 the Deepmost Current.svg]]
 - Compare with [[Assets Locations Location City [Poseidon V1 Poseidon.svg]]
-- Leads to [[X L-12 the Deep Mothers Bridge of Dreams (Encounters)
-- Requires [NPC0183_Xara_Brightblade]]
+- Leads to [[X L-12 the Deep Mothers Bridge of Dreams (Encounters)]]
 - Leads to [[QUEST00014_Main_Quest_15
 - Originates from [Nolzurs Marvelous Pigments Xdmg]]
 - Compare with [[step_025 (phase_023)
 - See also:
 - Affected by [Roleplaying a Beholder Beholder Bonds Vgm]]
 - Originates from [[Location City [Temporal Viewing Chambers Temporal Viewing Chambers.svg]]
-- Parallels [[step_001 (phase_090)
-- Influences [NPC00566_Dara_Darkwater_the_Wanderer]]
+- Parallels [[NPC00566_Dara_Darkwater_the_Wanderer]]
 - Affected by [[step_037 (phase_052)
 - Leads to
 - Related: [step_056 (phase_054)]]
-- Parallels [[ENC00222_Combat_Encounter_223
-- Leads to [Nightmare Protection]]
-- Connects to [[NPC01792_Rhiannon_Ironwood_the_Scholar
-- Requires [ITEM01142_Superior_Elixir_of_Fortune]]
+- Parallels [[ENC00222_Combat_Encounter_223]]
+- Connects to [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
 - Compare with [[Location City [Adult Education Programs Adult Education Programs.svg]]
-- Related: [[Network Coordinator Wave Linkmaster
-- Influences [step_081 (phase_028)]]
-- Leads to [[step_060 (phase_080)
-- Influences [The Depth Speaker (D&D_References)]]
+- Related: [[Network Coordinator Wave Linkmaster]]
+- Leads to [[The Depth Speaker (D&D_References)]]
 - Leads to [[The Soul Forge 2
-- Affected by [[Location City the [Mourning Depths]] [[The Mourning Depths.svg]]
+- Affected by [[Location City the [Mourning Depths]] [[The Mourning Depths]]
 - Originates from [[LORE00185_Prophecies_Entry_186
 - Related: [Cleric Xphb Death Domain Dmg]]
-- Requires [[Ecological Balance Protocols 2
-- Requires [THIRTY_THOUSAND_IMPROVEMENTS_ACHIEVED]]
+- Requires [[THIRTY_THOUSAND_IMPROVEMENTS_ACHIEVED]]
 - Compare with [[step_051 (phase_016)
 - Requires [Titan Foundationbearer]]
-- See also: [[06-chapter-6-blingdenstone (out-of-the-abyss)
-- See also: [step_024 (phase_083)]]
+- See also: [[06-chapter-6-blingdenstone (out-of-the-abyss)]]
 - Affected by [[step_042 (phase_041)
 - Influences [Portrait NPC Duke Lysander Crystalvein V1 Duke Lysander Crystalvein.svg_1 (Portraits)]]
-- Originates from [[SPELL00073_Nature_Spell_74
-- Leads to [Sunlight Crystal]]
+- Originates from [[SPELL00073_Nature_Spell_74]]
 - Affected by [[Assets Locations Location City [Memory Preservation Technology Memory Preservation Technology.svg]]
 - Requires [[QUEST00182_Personal_Quest_183
 - Connects to [[Assets Locations [[Location City [Void Touched Pilgrims]] V1 Void Touched Pilgrims.svg]]]]
-- Originates from [[The Forbidden Archives
-- Influences [Beast Bond Xge]]
+- Originates from [[The Forbidden Archives]]
 - Related: [[Portrait NPC Embassy of Eternal Shadows V2 Embassy of Eternal Shadows.svg_1 (Portraits)
 - Compare with [LORE00252_Prophecies_Entry_253]]
 - Requires
 - Originates from [[[[Merchant Council of [Port Meridian]]]]
-- Originates from [[step_098 (phase_018)
-- See also: [NPC00170_Zephyr_Quicksilver_the_Wise]]
+- Originates from [[NPC00170_Zephyr_Quicksilver_the_Wise]]
 - Connects to
 - Influences [[Inspector Helena Truthseeker
 - Influences [LOC00142_Towns_Location_143]]

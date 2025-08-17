@@ -158,42 +158,27 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC01247_Xander_Zephyrblade_the_Risen
-- [NPC01664_Pyria_Lightbringer_the_Redeemed]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[NPC01552_Branwen_Lightbringer_the_Swift
-- [NPC01994_Orion_Brightblade_the_Risen]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC01498_Gareth_Quicksilver_the_Risen
-- [NPC00461_Branwen_Proudmore_the_Strong]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [NPC01841_Malakai_Nightfall_the_Wise]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [NPC00351_Corvus_Ironwood]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC01057_Pyria_Quicksilver_the_Scholar]]
-- [[NPC00162_Xander_Thornweave
-- [NPC00415_Gareth_Winterborn_the_Bold]]
-- [[Depth_Adapted_Background
-- [NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
 - [[Parliament of Shadows Player Guide.md
 - [Faction_Guide.md]]
-- [[NPC01877_Hestara_Moonshadow_the_Mystic
-- [Calendar_Conversions_Realm_Window]]
-- [[Combat_Encounter_Analysis
-- [13 Conditions]]
-- [[07 Customization Options
-- [10 Appendix B Creature Stat Blocks]]
-- [[11 Rules Glossary
-- [Count_Strahd_von_Zarovich]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[Combat_Encounter_Analysis]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[Count_Strahd_von_Zarovich]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -209,28 +194,24 @@ Modifications:
 
 - Connects to [[step_096 (phase_018)
 - Influences [Giant Shark Xmm]]
-- Leads to [[[Portal Network (D&D_References)]]
-- See also: [[NPC01551_Hilda_Emberfall_the_Swift
-- Influences [step_007 (phase_095)]]
-- Affected by [[Staff of Withering Xdmg
-- Related: [Geology Specialist Stone Soundshape]]
+- Leads to [[Portal Network (D&D_References)]]
+- See also: [[NPC01551_Hilda_Emberfall_the_Swift]]
+- Affected by [[Geology Specialist Stone Soundshape]]
 - See also: [[step_066 (phase_097)
 - Connects to
 - Related: [ENC00252_Social_Encounter_253]]
-- Parallels [[NPC01887_Rhiannon_Stormwind_the_Cunning
-- Connects to [The Memory Walls]]
+- Parallels [[NPC01887_Rhiannon_Stormwind_the_Cunning]]
 - Compare with [[book-of-exalted-deeds-xdmg (items)
 - Related: [bonus-action-xphb (variant-rules)]]
 - See also: [[step_052 (phase_074)
 - Requires [[[Artificer]] Magnus Weightless]]
-- Requires [[[Ancient Treasury of Tides 2]]
+- Requires [[Ancient Treasury of Tides 2]]
 - Originates from [[Symbol Heraldry [Merchant S Covenant V1 Merchant S Covenant.svg]]
 - Compare with [[Artifact_of_the_Ancients
 - Connects to [[[Keeper Thundercall]] 2]]
-- See also: [[[Ancient Historian Memento (D&D_References)]]
+- See also: [[Ancient Historian Memento (D&D_References)]]
 - Connects to
-- Influences [[Communications Manager Jessica Spokesperson
-- Leads to [step_052 (phase_027)]]
+- Influences [[Communications Manager Jessica Spokesperson]]
 - Requires [[Boon of Spell Mastery
 - Parallels [Trade Captain Sterling]]
 - Originates from [[step_081 (phase_032)
@@ -246,19 +227,17 @@ Modifications:
 - Requires [Roleplaying a Beholder Beholder Flaws Vgm]]
 - Compare with [[ITEM00558_Warded_Leather_of_Fortitude
 - Requires [LORE00055_History_Entry_56]]
-- Originates from [[Crystal Plague Progression
-- Requires [Weapons Xphb]]
+- Originates from [[Crystal Plague Progression]]
 - Related: [[ITEM00527_Warded_Plate_of_Resistance
 - Originates from [LOC00136_Cities_Location_137]]
 - Affected by [[Portrait NPC Unite the Emperor V1 Unite the Emperor.svg
 - Affected by [[[Time]]''s Mercy]]
-- Compare with [[Master of Whispers Shade-Tongue Aldric
-- Influences [Enspelled Armor Level 7 Xdmg]]
+- Compare with [[Master of Whispers Shade-Tongue Aldric]]
 - Connects to [[Sailing Ship Xphb
 - Compare with [Crystal_Bloom]]
 - Compare with [[step_066 (phase_062)
 - Requires [Rogue Xphb Scout Xge]]
-- See also: [[[Aethermoor - Session 04 The Silverscale Gambit]]
+- See also: [[Aethermoor - Session 04 The Silverscale Gambit]]
 - Requires [[step_089 (phase_061)
 - Affected by [step_081 (phase_036)]]
 - Related: [[Portrait NPC Quest Into the Wastes V2 Quest Into the Wastes.svg
@@ -270,13 +249,12 @@ Modifications:
 - Leads to [step_089 (phase_075)]]
 - Related: [[step_005 (phase_085)
 - Related: [step_006 (phase_024)]]
-- Requires [[Location City [[[The Memory Meadows Black Market]] V1 the [[Memory Meadows Black Market.svg]]
+- Requires [[The Memory Meadows Black Market]] V1 the [[Memory Meadows Black Market]]
 - Compare with [[step_092 (phase_018)
 - See also: [step_078 (phase_047)]]
 - Requires [[Cross-Realm Commerce Laws
 - Compare with [step_097 (phase_063)]]
-- Parallels [[foresight-xphb (spells)
-- Leads to [Currency_Guide_Scrip_and_Shard]]
+- Parallels [[Currency_Guide_Scrip_and_Shard]]
 - Affected by
 - Connects to [[Circlet of Blasting Xdmg
 - Compare with [step_019 (phase_004)]]
@@ -288,18 +266,13 @@ Modifications:
 - Connects to [eberron-aureon (deities)]]
 - Affected by [[SPELL00057_Arcane_Spell_58
 - Influences [[Location City [High Hierophant Meridius]] High Hierophant Meridius.svg]]
-- Connects to [[NPC00288_Branwen_Ashford_the_Seeker
-- Leads to [step_007 (phase_031)]]
-- Originates from [[step_090 (phase_008)
-- Related: [LORE0084_Secret_of_the_Dark_Times]]
+- Connects to [[NPC00288_Branwen_Ashford_the_Seeker]]
+- Originates from [[LORE0084_Secret_of_the_Dark_Times]]
 - See also: [[Portrait NPC Lord Aldric Thornwhisper V2 Lord Aldric Thornwhisper.svg
 - See also: [Captain Marina Tidecrest]]
-- Parallels [[Vampire Xmm (undead)
-- Leads to [kuo-toa-monitor-xmm (aberration)]]
-- Parallels [[Portrait NPC Weap... Related To: Local Political Structure Connected Plots: to Be Developed
-- Compare with [ENC00293_Social_Encounter_294]]
-- Affected by [[Bronze Dragon Wyrmling Xmm
-- Influences [ENC00179_Environmental_Encounter_180]]
+- Parallels [[kuo-toa-monitor-xmm (aberration)]]
+- Parallels [[Portrait NPC Weap... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Affected by [[ENC00179_Environmental_Encounter_180]]
 - See also: [[Location City [Theological Seminaries Theological Seminaries.svg]]
 - Influences [[Animated Halberd Cos
 - Related: [step_058 (phase_007)]]

@@ -123,40 +123,24 @@ tags: [combat, lore]
 > Additional context or lore
 
 ## See Also
-- [[NPC00372_Alaric_Grimholt
-- [NPC01057_Pyria_Quicksilver_the_Scholar]]
-- [[NPC01827_Kaelen_Ironforge_the_Seeker
-- [NPC00860_Gavril_Winterborn_the_Swift]]
-- [[NPC01504_Erasmus_Zephyrblade_the_Strong
-- [Archdruid Thornweaver]]
-- [[NPC01312_Alaric_Darkwater_the_Fallen
-- [NPC01247_Xander_Zephyrblade_the_Risen]]
-- [[NPC00324_Idris_Hawthorne_the_Strong
-- [NPC00388_Ysara_Goldleaf]]
-- [[NPC00976_Alaric_Quicksilver_the_Strong
-- [NPC01979_Fiora_Emberfall_the_Guardian]]
-- [[NPC01664_Pyria_Lightbringer_the_Redeemed
-- [NPC00761_Aldric_Moonshadow_the_Guardian]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC00174_Aldric_Silverleaf_the_Fallen]]
-- [[NPC00200_Faelyn_Winterborn_the_Guardian
-- [NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
 - [[World_Primer.md
 - [Parliament of Shadows Player Guide.md]]
-- [[NPC00739_Gavril_Ashford_the_Bold
-- [Faction_Guide.md]]
-- [[Marcus Shardbreaker Grimm_1
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
-- [[Sanity_Quick_Reference.md
-- [Player_Feedback_Form.md]]
-- [[11 Spellcasting
-- [13 Conditions]]
-- [[NPC00975_Lyanna_Winterborn_the_Wise
-- [NPC01632_Qadim_Darkwater_the_Guardian]]
-- [[Session_Recaps
-- [10 Appendix B Creature Stat Blocks]]
-- [[11 Rules Glossary
-- [Party_Inventory]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Player_Feedback_Form]]
+- [[11 Spellcasting]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[11 Rules Glossary]]
 -
 
 ## Related Content
@@ -192,10 +176,8 @@ tags: [combat, lore]
 - Parallels [[starting-at-higher-level-starting-equipment (tables)
 - Parallels
 - Affected by [ENC00399_Combat_Encounter_400]]
-- Parallels [[NPC00210_Aeliana_Ironwood_the_Wise
-- Connects to [step_020 (phase_045)]]
-- Influences [[Location Tracker (D&D_References)
-- Connects to [LORE00308_Legends_Entry_309]]
+- Parallels [[NPC00210_Aeliana_Ironwood_the_Wise]]
+- Influences [[Location Tracker (D&D_References)]]
 - Originates from
 - See also: [[LOC00020_Wilderness_Location_21
 - Originates from [ENC00106_Environmental_Encounter_107]]
@@ -203,23 +185,19 @@ tags: [combat, lore]
 - Influences [wizard-xphb (classes)]]
 - Connects to [[step_079 (phase_031)
 - Connects to [Assets Locations Location City Pressure Crystals Pressure Crystals.svg]]
-- Affected by [[INDEX (Baldur's_Gate_Descent_into_Avernus)
-- Affected by [step_043 (phase_032)]]
-- Parallels [[step_059 (phase_078)
-- Originates from [Commander Ironprice 3 (D&D_References)]]
+- Affected by [[INDEX (Baldur's_Gate_Descent_into_Avernus)]]
+- Parallels [[Commander Ironprice 3 (D&D_References)]]
 - Originates from [[step_005 (phase_007)
 - Parallels [Deep Studycurrent 2]]
 - Originates from [[skills#Sleight%20of%20Hand
 - Connects to [Dangerous Goods Storage]]
 - Influences [[juiblex-mtf (legendary-group)
 - Related: [Assets Locations Location City Memoriam Keeper Marcus Remembrance V1 Memoriam Keeper Marcus Remembrance.svg]]
-- Affected by [[Medical Ethics in Plague Crisis
-- Originates from [Giant Goat Xmm]]
+- Affected by [[Medical Ethics in Plague Crisis]]
 - Related:
 - Parallels [[step_074 (phase_075)
 - Connects to [FAC00019_Cults_20]]
-- Requires [[Chancellor Octavius 2
-- Parallels [Perception and Encounters Audible Distance]]
+- Requires [[Perception and Encounters Audible Distance]]
 - See also: [[Pressure Conspiracy
 - See also: [Location City Senator Marina Tidecaller V1 Senator Marina Tidecaller.svg]]
 - Compare with [[Locations the Memory Halls
@@ -234,26 +212,20 @@ tags: [combat, lore]
 - Originates from [[LOC00158_Wilderness_Location_159
 - Parallels
 - Originates from [step_066 (phase_083)]]
-- Related: [[step_032 (phase_091)
-- See also: [LOC00025_Wilderness_Location_26]]
-- Connects to [[Void Integration Research (D&D_References)
-- Compare with [Banderhobb Mpmm]]
+- Related: [[LOC00025_Wilderness_Location_26]]
+- Connects to [[Void Integration Research (D&D_References)]]
 - Influences [[Crystal Resonance Detector
 - Parallels [LOC00233_Planes_Location_234]]
-- Affected by [[Stormwind's Navigation Crystal 2
-- Affected by [International Trade Routes (D&D_References)]]
+- Affected by [[International Trade Routes (D&D_References)]]
 - Compare with [[Shield Xphb (spells)
 - Leads to
 - Compare with [Market Prophets (D&D_References)]]
 - Originates from [[Fragment Territories
 - Compare with [ITEM00214_Thunder_Sword_of_Power]]
-- Originates from [[elephant-xmm (beast)
-- Related:
-- Requires [International Exchange Program (D&D_References)]]
+- Originates from [[International Exchange Program (D&D_References)]]
 - Requires [[step_060 (phase_092)
 - See also: [deities-of-dragonlance-good-phb (tables)]]
-- Compare with [[NPC01688_Hestara_Ashford_the_Broken
-- Parallels [Royal Guard 2]]
+- Compare with [[NPC01688_Hestara_Ashford_the_Broken]]
 - Parallels [[Seeking Spell Xphb
 - Connects to [Dawn War Sehanine Dmg]]
 - Related: [[Elder Matthias Stoneward
@@ -264,16 +236,14 @@ tags: [combat, lore]
 - Influences [MON00041_Aberrations_Creature_42]]
 - Requires [[Quest - The Shadow Wa_1 (01_Adventures)
 - Parallels [The Pressure Pirates (D&D_References)]]
-- Connects to [[Encounter_Builder (D&D_References)
-- Connects to [QUEST00016_Main_Quest_17]]
+- Connects to [[Encounter_Builder (D&D_References)]]
 - See also:
 - Originates from [[Circlet of Blasting Xdmg
 - Influences
 - Originates from [Keras Stormwind]]
 - Leads to [[LOC00213_Towns_Location_214
 - Related: [Cosmic_Truth_Seekers (02_Worldbuilding)]]
-- Compare with [[LOC00001_Cities_Location_2
-- Connects to [Foreign Merchants (D&D_References)]]
+- Compare with [[Foreign Merchants (D&D_References)]]
 - Leads to [[LOC00190_Planes_Location_191
 
 ## Visual References

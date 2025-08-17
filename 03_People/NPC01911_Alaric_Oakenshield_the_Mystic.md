@@ -170,30 +170,19 @@ Is secretly testing the party
 - Special moves
 
 ## See Also
-- [[NPC_Relationship_Web.png_1 (03_People)
-- [NPC00587_Idris_Youngblood_the_Strong]]
-- [[NPC00133_Lyanna_Oakenshield_the_Seeker
-- [NPC00917_Brenna_Oakenshield_the_Seeker]]
-- [[NPC01247_Xander_Zephyrblade_the_Risen
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC00162_Xander_Thornweave
-- [NPC00124_Delara_Ravenheart_the_Redeemed]]
-- [[NPC00461_Branwen_Proudmore_the_Strong
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC01870_Lyanna_Silverleaf_the_Cunning
-- [NPC00385_Qadim_Darkwater_the_Cunning]]
-- [[Archdruid Thornweaver
-- [NPC01012_Solas_Darkwater_the_Strong]]
-- [[NPC00372_Alaric_Grimholt
-- [NPC00976_Alaric_Quicksilver_the_Strong]]
-- [[NPC00655_Jorah_Darkwater_the_Seeker
-- [World_Primer.md]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
 - [[Propaganda_Broadsheet_Syndicate.md
 - [Player_Feedback_Form.md]]
-- [[NPC00881_Qadim_Voidwalker_the_Strong
-- [11 Rules Glossary]]
-- [[NPC00388_Ysara_Goldleaf
-- [NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
 - [[Complete_NPC_Matrix.md
 -
 
@@ -221,20 +210,15 @@ Is secretly testing the party
 - Connects to [Portrait NPC Gallery Guide Captain Marina Civicvoice V1 Gallery Guide Captain Marina Civicvoice.svg]]
 - Related: [[step_093 (phase_090)
 - Related: [The Crystal Gardens_1 (02_Worldbuilding)]]
-- Requires [[NPC01512_Aldric_Silverleaf_the_Bold
-- Related: [Reference Homebrew Races]]
+- Requires [[NPC01512_Aldric_Silverleaf_the_Bold]]
 - Requires [[step_084 (phase_066)
 - Affected by [FAC00086_Guilds_87]]
-- See also: [[step_044 (phase_045)
-- Requires [Agent Viktor Cleanslate 2]]
-- Requires [[Lord_Lady_Chamberlain_Court_Manager
-- Requires [LOC00062_Planes_Location_63]]
+- See also: [[Agent Viktor Cleanslate 2]]
+- Requires [[Lord_Lady_Chamberlain_Court_Manager]]
 - Connects to [[NPC0044_Ewan_Ironforge
 - Parallels [The Verdant Vision]]
-- Influences [[Order of Sacred Winds (Organizations)
-- Requires [The Screaming Battleground (D&D_References)]]
-- Influences [[NPC00833_Dara_Nightfall_the_Bold
-- Leads to [SPELL00018_Divine_Spell_19]]
+- Influences [[The Screaming Battleground (D&D_References)]]
+- Influences [[NPC00833_Dara_Nightfall_the_Bold]]
 - Leads to [[Inter-Species_Relations_Division (02_Worldbuilding)
 - Affected by [step_046 (phase_028)]]
 - Parallels [[at-sea-encounters (tables)
@@ -248,33 +232,27 @@ Is secretly testing the party
 - Connects to [ITEM00987_Distilled_Salve_of_Fortune]]
 - Connects to [[step_055 (phase_013)
 - Connects to [Bullywug Warrior Xmm]]
-- Originates from [[experience-points-xphb (variant-rules)
-- Parallels [step_040 (phase_089)]]
+- Originates from [[experience-points-xphb (variant-rules)]]
 - Influences [[Master Cloud Shepherd Zephyr Stormcalle (D&D_References)
 - Parallels [Assets Locations Location City the Porters Union V1 the Porters Union.svg]]
 - Leads to [[NPC00561_Felicia_Youngblood_the_Swift
 - Parallels [Map World Layer Magical Phenomena and Storm Tracks V1 Magical Phenomena and Storm Tracks.svg]]
 - Influences [[Assets Locations Location City Temple District V1 Temple District.svg
 - Affected by [step_078 (phase_051)]]
-- Leads to [[Healing Two Worlds 3 (D&D_References)
-- Connects to [step_054 (phase_082)]]
+- Leads to [[Healing Two Worlds 3 (D&D_References)]]
 - Connects to [[Wind Fan Xdmg
 - Compare with [List Optfeaturetype Ed]]
 - Connects to [[Zuggtmoy Mtf
 - Parallels [clockwork-bronze-scout-mpmm (construct)]]
-- Affected by [[LOC00131_Towns_Location_132
-- See also: [Deep Script 2]]
+- Affected by [[LOC00131_Towns_Location_132]]
 - Compare with
 - Connects to [[Shard Resoce Tracking
 - Leads to [step_001 (phase_025)]]
-- Parallels [[INV 003
-- Leads to [SPELL00134_Nature_Spell_135]]
+- Parallels [[SPELL00134_Nature_Spell_135]]
 - Related: [[Ammunition 2 Xdmg
 - Affected by [step_082 (phase_069)]]
-- Requires [[Tide Risktaker
-- Requires [Template_Player_Placeholder.png_2 (09_Templates)]]
-- Originates from [[FAC00033_Cults_34
-- See also: [The Memory-Fragmented Child, Little Luna Patchwork]]
+- Requires [[Template_Player_Placeholder.png_2 (09_Templates)]]
+- Originates from [[The Memory-Fragmented Child, Little Luna Patchwork]]
 - Parallels
 - Connects to [[ITEM00226_Venomous_Spear_of_the_Ancients
 - Connects to [ITEM00352_Cursed_Sword_of_Slaying]]
@@ -282,17 +260,14 @@ Is secretly testing the party
 - Originates from [Assets Locations Location City the Lost Shipment the Lost Shipment.svg]]
 - Affected by [[ray-of-enfeeblement-xphb (spells)
 - See also: [LORE00016_History_Entry_17]]
-- Related: [[Elena Brightmemory
-- Parallels [MON00085_Constructs_Creature_86]]
+- Related: [[MON00085_Constructs_Creature_86]]
 - Related: [[NPC00278_Urien_Hawthorne_the_Risen
 - Affected by [NPC01036_Alaric_Grimholt_the_Scholar]]
-- Connects to [[ULTIMATE_ENHANCEMENT_REPORT
-- Requires [The Deserter]]
+- Connects to [[ULTIMATE_ENHANCEMENT_REPORT]]
 - Connects to
 - Influences [[Medallion of the Depths 2
 - Parallels [NPC_Template_1 (09_Templates)]]
-- Compare with [[LOC00298_Cities_Location_299
-- Parallels [Deep Ancient Ruins]]
+- Compare with [[LOC00298_Cities_Location_299]]
 - Influences [[Confront_the_Possessed_Queen.png
 - Compare with [step_016 (phase_006)]]
 - Influences [[Barbarian Xphb Path of the Storm Herald Xge
@@ -311,8 +286,7 @@ Is secretly testing the party
 - Related: [Assets Locations Location City Twilight Depths Twilight Depths.svg]]
 - See also: [[Portrait NPC Lord Marcus Goldweaver V1 Lord Marcus Goldweaver.svg
 - Affected by [Shadow Surgery Training Hospitals]]
-- Originates from [[EVENT00002_Political_Event_3
-- Leads to [NPC01668_Elric_Keenblade_the_Strong]]
+- Originates from [[NPC01668_Elric_Keenblade_the_Strong]]
 - Affected by [[step_054 (phase_038)
 - Originates from [fey-touched-xphb (feats)]]
 

@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.346174"
 modified: "2025-08-15T12:24:39.346175"
-aliases: [[Session Feedback]] Form]
+aliases: [[Session Feedback Form]] Form]
 ---
 
 # [[Session Feedback Form
@@ -20,7 +20,7 @@ modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: [[Session Feedback]] Form.Md
+subcategory: [[Session Feedback Form]] Form.Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -140,7 +140,7 @@ __________________________________________ ROLEPLAY OPPORTUNITIES: ★☆☆☆�
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

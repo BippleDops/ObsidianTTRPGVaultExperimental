@@ -160,48 +160,29 @@ Requires champions for trial by combat
 - Special moves
 
 ## See Also
-- [[NPC01301_Jorah_Underhill_the_Broken
-- [NPC00749_Xander_Quicksilver]]
-- [[NPC00804_Xander_Frostwhisper_the_Cunning
-- [NPC00844_Cedric_Blackstone_the_Fallen]]
-- [[NPC00821_Zephyr_Voidwalker_the_Cunning
-- [NPC01785_Aldric_Brightblade_the_Redeemed]]
-- [[NPC01438_Hilda_Youngblood_the_Fallen
-- [yuan-ti-pit-master-mpmm]]
-- [[NPC00124_Delara_Ravenheart_the_Redeemed
-- [NPC00927_Aldric_Ironwood_the_Wanderer]]
-- [[NPC01348_Xander_Zephyrblade_the_Wise
-- [NPC01786_Zephyr_Jadeclaw_the_Mystic]]
-- [[NPC00494_Lyanna_Hawthorne_the_Guardian
-- [NPC01892_Gareth_Xendar_the_Scholar]]
-- [[NPC00785_Ysara_Grimholt_the_Mystic
-- [NPC00287_Ysara_Underhill_the_Wise]]
-- [[NPC00276_Ysara_Youngblood
-- [Pilgrim_Pass_Prayer_Sli]]
-- [[Guild Seal Document Silverscale Consortiu
-- [World_Primer.md]]
-- [[Sage Elara
-- [Quarantine_Notice_Crystal_Plagu]]
-- [[Sanity_Quick_Reference.md
-- [Smuggler_Route_Tally_Shee]]
-- [[Wanted_Poster_Syndicate_Fenc
-- [Downtime_Activities]]
-- [[NPC01040_Zephyr_Lightbringer_the_Strong
-- [10 Appendix B Creature Stat Blocks]]
-- [[NPC00939_Thalia_Jadeclaw_the_Swift
-- [08 Using Ability Scores]]
-- [[Quiet_Chapel_Oath_Scrol
-- [MASTER_NAVIGATION]]
-- [[Complete_NPC_Matrix.md
-- [NPC01757_Nerys_Silverleaf_the_Strong]]
-- [[NPC01660_Thalia_Moonshadow_the_Fallen
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC00494_Lyanna_Hawthorne_the_Guardian]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[Wanted_Poster_Syndicate_Fenc]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -218,27 +199,20 @@ Requires champions for trial by combat
 - Influences [dwarven-tharmekhul-mtf (deities)]]
 - Parallels [[Assets Locations Location City Syndicate Enforcers V1 Syndicate Enforcers.svg
 - Requires [distant-spell-xphb (optional-features)]]
-- Affected by [[step_099 (phase_023)
-- Leads to [ENC00388_Combat_Encounter_389]]
-- Originates from [[Sorrow Pearls Economy
-- See also: [Memory Coral]]
+- Affected by [[ENC00388_Combat_Encounter_389]]
+- Originates from [[Sorrow Pearls Economy]]
 - Related: [[Councillor Elara Brightwater
 - Originates from [book-of-ancient-secrets (optional-features)]]
-- Leads to [[The Memory Vaults (D&D_References)
-- Compare with [Sphinx of Lore Xmm]]
+- Leads to [[The Memory Vaults (D&D_References)]]
 - Connects to [[Reliquary Charm Xdmg
 - Compare with [EVENT00062_Magical_Event_63]]
 - Connects to [[Location City Harbor District Customs House V1 Harbor District Customs House.svg
 - Affected by [The Transformed Citizens (D&D_References)]]
-- Related: [[Greyhawk Incabulos Xdmg
-- Requires [NPC00761_Aldric_Moonshadow_the_Guardian]]
+- Related: [[NPC00761_Aldric_Moonshadow_the_Guardian]]
 - Connects to
-- Originates from [[step_090 (phase_007)
-- See also: [QUEST00152_Personal_Quest_153]]
-- Compare with [[step_029 (phase_024)
-- Compare with [Aquabyssos - Session 04 - High Tide Horror]]
-- Originates from [[LOC00218_Dungeons_Location_219
-- Parallels [Magical Engineer Reef Spellbreath (D&D_References)]]
+- Originates from [[QUEST00152_Personal_Quest_153]]
+- Compare with [[Aquabyssos - Session 04 - High Tide Horror]]
+- Originates from [[Magical Engineer Reef Spellbreath (D&D_References)]]
 - Originates from [[Assets Locations Location City the Plague Ward V1 the Plague Ward.svg
 - Compare with [Magical Authentication]]
 - Requires [[potion-of-supreme-healing-xdmg (items)
@@ -251,8 +225,7 @@ Requires champions for trial by combat
 - Requires [Tools Dual State Sensors]]
 - Originates from [[Manual of Iron Golems Xdmg
 - Requires [Club Xphb]]
-- Compare with [[Sensory_Enhancement_Template
-- See also: [High Counci]]
+- Compare with [[Sensory_Enhancement_Template]]
 - Compare with [[LOC00138_Towns_Location_139
 - Originates from [NPC00135_Rhiannon_Goldleaf]]
 - See also: [[Communications Center 2
@@ -267,11 +240,9 @@ Requires champions for trial by combat
 - Requires [ITEM00582_Mithril_Shield_of_Protection]]
 - Related: [[ITEM00616_Mithril_Cloak_of_Resistance
 - See also: [step_092 (phase_088)]]
-- Compare with [[MON00062_Aberrations_Creature_63
-- Affected by [QUEST00050_Main_Quest_51]]
+- Compare with [[MON00062_Aberrations_Creature_63]]
 - Parallels
-- Connects to [[Governmental Legitimacy
-- Leads to [ink-xphb (items)]]
+- Connects to [[Governmental Legitimacy]]
 - Parallels [[Assets Locations Location City Culinary Dreamweaver Sage Gentlespice V1 Culinary Dreamweaver Sage Gentlespice.svg
 - Influences [Assets Locations Location City Vault Keeper Eternal Vault Keeper Eternal.svg]]
 - See also: [[item-artifact-windvane-pota-v6-windvane-pota.png
@@ -280,14 +251,12 @@ Requires champions for trial by combat
 - Requires [Artifact Properties Major Detrimental Properties Xdmg]]
 - Parallels [[step_018 (phase_034)
 - Affected by [Portrait NPC Patriarch Valdris Lightbringer Patriarch Valdris Lightbringer.png]]
-- Compare with [[The Deserter's Tale 2
-- Affected by [The Drowning Welcome (D&D_References)]]
+- Compare with [[The Drowning Welcome (D&D_References)]]
 - See also: [[step_007 (phase_060)
 - Connects to [Assets Locations Location City Pressure Point Settlement Pressure Point Settlement.svg]]
 - Parallels [[Assets Item Artifact Dagger of Venom Xdmg V5 Dagger of Venom Xdmg.png
 - Requires [Locations the Temporal Scars]]
-- Compare with [[Wind Engineering and Sky Architecture
-- Compare with [gnoll-hunter-mpmm (monstrosity)]]
+- Compare with [[Wind Engineering and Sky Architecture]]
 - Connects to [[step_083 (phase_089)
 - Affected by [Elemental Court 2]]
 - Parallels [[halfling-names-clan-xge (tables)
@@ -297,21 +266,16 @@ Requires champions for trial by combat
 - Compare with
 - Compare with [[step_027 (phase_099)
 - Connects to [Dominate Person Xphb]]
-- Influences [[Foreign Affairs 2
-- Affected by
-- See also: [Oracle Nerida the Tidereader (D&D_References)]]
-- Originates from [[LOC00016_Planes_Location_17
-- Compare with [Locations Gallery]]
+- Influences [[Oracle Nerida the Tidereader (D&D_References)]]
+- Originates from [[LOC00016_Planes_Location_17]]
 - Influences [[Assets Locations Location City Commander Reef Shadowstrike Commander Reef Shadowstrike.svg
 - Requires [NPC01318_Faelyn_Stormwind_the_Strong]]
 - Leads to
 - Requires [[step_076 (phase_016)
 - Leads to
 - Influences [Location City Giant Sea Horse V1 Giant Sea Horse.svg]]
-- Parallels [[step_038 (phase_013)
-- Parallels [LOC00145_Planes_Location_146]]
-- Leads to [[step_047 (phase_096)
-- Connects to [Grand Master Tempest Windvoic]]
+- Parallels [[LOC00145_Planes_Location_146]]
+- Leads to [[Grand Master Tempest Windvoic]]
 - Requires [[creature-creature-allip-mpmm-v1-allip-mpmm.png
 - Compare with [Assets Locations Location City Theological Seminaries V1 Theological Seminaries.svg]]
 

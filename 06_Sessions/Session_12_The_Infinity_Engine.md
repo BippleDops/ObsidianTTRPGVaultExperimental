@@ -22,7 +22,7 @@ The full nature of Session_12_The_Infinity_Engine involves several interconnecte
 
 ## Context & Connections
 
-### [[[Historical Context]]
+### [[Historical Context]]
 The origins and development of Session_12_The_Infinity_Engine trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### [[Related Elements

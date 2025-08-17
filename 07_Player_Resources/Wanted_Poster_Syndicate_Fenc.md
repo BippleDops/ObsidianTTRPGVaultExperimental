@@ -75,43 +75,27 @@ This content can be adapted and expanded based on specific campaign needs.
 > The villain has agents watching this place
 
 ## See Also
-- [[NPC00372_Alaric_Grimholt
-- [Submersible_Schematic_Pressure_Gate_Scou]]
-- [[NPC00451_Malakai_Ravenheart_the_Broken
-- [NPC00058_Elric_Nightfall]]
-- [[NPC00663_Alaric_Dawnstrider_the_Strong
-- [NPC00881_Qadim_Voidwalker_the_Strong]]
-- [[NPC01911_Alaric_Oakenshield_the_Mystic
-- [NPC00300_Urien_Zephyrblade]]
-- [[What You Know - Abyssos Prime.md
-- [NPC00860_Gavril_Winterborn_the_Swift]]
-- [[NPC00281_Hestara_Nightfall_the_Cunning
-- [NPC01745_Felicia_Oakenshield_the_Scholar]]
-- [[NPC01040_Zephyr_Lightbringer_the_Strong
-- [NPC01989_Erasmus_Xendar_the_Strong]]
-- [[NPC00749_Xander_Quicksilver
-- [NPC00515_Baelor_Crystalbrook_the_Seeker]]
-- [[NPC00804_Xander_Frostwhisper_the_Cunning
-- [Ship_Schematic_The_Seahawk.md]]
-- [[NPC01699_Orion_Oakenshield_the_Broken
-- [NPC01785_Aldric_Brightblade_the_Redeemed]]
-- [[NPC01979_Fiora_Emberfall_the_Guardian
-- [NPC00362_Pyria_Stormwind_the_Wise]]
-- [[NPC00276_Ysara_Youngblood
-- [NPC01247_Xander_Zephyrblade_the_Risen]]
-- [[Welcome_to_Aquabyssos.md
-- [NPC00080_Branwen_Proudmore]]
-- [[NPC01599_Gavril_Keenblade_the_Strong
-- [Guild Seal Document Silverscale Consortiu]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00080_Branwen_Proudmore]]
+- [[Guild Seal Document Silverscale Consortiu]]
 - [[Master_Narrative_Web.md
 -
 
 ## Related Content
 - [ULTIMATE_VAULT_ACHIEVEMENT]]
-- [[optimization_report_20250814_180706
-- [audio_fit_report]]
-- [[audio_fit_report_1
-- [SVG_REPLACEMENT_REPORT]]
+- [[OPTIMIZATION_REPORT_2025]]
+- [[SVG_REPLACEMENT_REPORT]]
 - [[ULTIMATE_ASSET_REPORT
 
 ## Game Mechanics
@@ -127,8 +111,7 @@ This content can be adapted and expanded based on specific campaign needs.
 
 - Requires
 - Influences [ITEM01336_Ornate_Rope_of_Durability]]
-- Parallels [[step_033 (phase_032)
-- Requires [The Last Resort Procedures]]
+- Parallels [[The Last Resort Procedures]]
 - Connects to [[step_025 (phase_086)
 - Leads to
 - Related:
@@ -159,10 +142,8 @@ This content can be adapted and expanded based on specific campaign needs.
 - Requires
 - Compare with [LORE00124_History_Entry_125]]
 - Connects to
-- Affected by [[step_026 (phase_041)
-- See also: [LOC00146_Cities_Location_147]]
-- Connects to [[kraken-priest-mpmm (monstrosity)
-- Influences [Church of the Tidal Throne (D&D_References)]]
+- Affected by [[LOC00146_Cities_Location_147]]
+- Connects to [[Church of the Tidal Throne (D&D_References)]]
 - Affected by [[Crystal Merchants Guild (Guilds)
 - Compare with [Faction_Tracker.bas]]
 - Parallels [[step_002 (phase_043)
@@ -174,12 +155,9 @@ This content can be adapted and expanded based on specific campaign needs.
 - Originates from [npc-talents (tables)]]
 - Influences [[step_033 (phase_066)
 - See also: [Community Feast Halls]]
-- Compare with [[The Depth Compass
-- Originates from [NPC00592_Elric_Winterborn_the_Broken]]
-- Affected by [[Archmerchant Codex Goldstrea
-- Requires [Inverse Colonies (D&D_References)]]
-- See also: [[Abyssos Prime - Pressure Terminal (D&D_References)
-- Requires [location-city-sacred-grottos-sacred-grottos.svg]]
+- Compare with [[NPC00592_Elric_Winterborn_the_Broken]]
+- Affected by [[Inverse Colonies (D&D_References)]]
+- See also: [[Abyssos Prime - Pressure Terminal (D&D_References)]]
 - Leads to [[SPELL00118_Nature_Spell_119
 - Connects to [Assets Locations Location City the Observatory the Observatory.svg]]
 - Influences [[Sky_Events_Pack_C
@@ -188,8 +166,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - Connects to [LOC00008_Planes_Location_9]]
 - Originates from [[list-spells-feats-wood-elf-magic-xge (lists)
 - Affected by [Jackal Xmm]]
-- Related: [[Arctic Encounters Levels 1720 Xge
-- Leads to [The Neutral Ground (D&D_References)]]
+- Related: [[The Neutral Ground (D&D_References)]]
 - Leads to [[Existence Erosion
 - Compare with [animal-lord-forager-xmm (celestial)]]
 - Leads to [[SHOP00037_General_Shop_38
@@ -207,24 +184,18 @@ This content can be adapted and expanded based on specific campaign needs.
 - Originates from [QUEST00087_Main_Quest_88]]
 - Connects to [[step_090 (phase_090)
 - Affected by [step_093 (phase_062)]]
-- Parallels [[Pressure Cult (Cults_and_Movements)
-- Leads to [08 Treasure]]
-- Compare with [[Captain Elara Shadowshard (D&D_References)
-- Requires [step_061 (phase_087)]]
+- Parallels [[Pressure Cult (Cults_and_Movements)]]
+- Compare with [[Captain Elara Shadowshard (D&D_References)]]
 - Compare with [[ENC00124_Combat_Encounter_125
 - Parallels [inspiring-leader-xphb (feats)]]
-- Parallels [[NPC00740_Fiora_Xendar_the_Strong
-- Related: [step_056 (phase_023)]]
-- Requires [[stairs
-- Leads to [LOC00020_Wilderness_Location_21]]
-- Leads to [[step_026 (phase_004)
-- See also: [ENC00295_Social_Encounter_296]]
+- Parallels [[NPC00740_Fiora_Xendar_the_Strong]]
+- Requires [[LOC00020_Wilderness_Location_21]]
+- Leads to [[ENC00295_Social_Encounter_296]]
 - Leads to [[MON0011_Storm_Reaper
 - Originates from [LORE00077_Prophecies_Entry_78]]
 - Originates from [[portrait-npc-the-wake-v1-the-wake.svg
 - Influences [Illumination Crystals]]
-- Requires [[Crystal Resonance
-- See also: [Crystal Command Cores (D&D_References)]]
+- Requires [[Crystal Command Cores (D&D_References)]]
 
 ## Visual References
 ![[04_Resources/Assets/Handouts/handout-handout-wanted-poster-with-reward-wanted-poster-with-reward.png

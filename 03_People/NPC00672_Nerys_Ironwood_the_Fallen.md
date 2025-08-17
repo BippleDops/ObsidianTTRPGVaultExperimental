@@ -164,8 +164,7 @@ Discovered something valuable
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -199,30 +198,25 @@ Discovered something valuable
 - Affected by [SPELL00110_Nature_Spell_111]]
 - Originates from [[spell-gem-bloodstone-oota (items)
 - Compare with [step_064 (phase_077)]]
-- Affected by [[Session 8 - The Stellar Convergence
-- Compare with [step_009 (phase_022)]]
+- Affected by [[Session 8 - The Stellar Convergence]]
 - Influences [[step_028 (phase_073)
 - Influences [Vehicles - Ship Blueprints]]
 - Compare with [[Location City Chief Engineer Vera Steamheart Chief Engineer Vera Steamheart.svg
 - Requires [Cloudkill Xphb]]
-- Affected by [[Alliance Facilitation
-- Connects to [Lady Penelope Procedure (D&D_References)]]
+- Affected by [[Lady Penelope Procedure (D&D_References)]]
 - Requires [[Common Idioms and Sayings
 - Originates from [step_032 (phase_093)]]
 - Affected by [[LORE00214_Prophecies_Entry_215
 - Affected by [step_031 (phase_008)]]
 - Originates from [[item-artifact-warhammer-xphb-v2-warhammer-xphb.png
 - Influences [Illumination Crystal 2]]
-- Influences [[The Spiral Sanctum
-- Compare with [The Original Target (D&D_References)]]
+- Influences [[The Original Target (D&D_References)]]
 - Affected by [[Field Worker Communities
 - Compare with [bidirectional_links]]
-- Affected by [[Infiltrate Surgical Facilities 2
-- Requires [The Restoration Movement (D&D_References)]]
+- Affected by [[The Restoration Movement (D&D_References)]]
 - See also: [[step_002 (phase_038)
 - Requires [step_067 (phase_099)]]
-- Influences [[The Memory Garden (D&D_References)
-- See also: [SPELL00135_Nature_Spell_136]]
+- Influences [[The Memory Garden (D&D_References)]]
 - Leads to [[Druidic Warrior Xphb
 - Leads to [Assets Locations Location City Clara Truthscale V1 Clara Truthscale.svg]]
 - Parallels [[Magical Theory Schools
@@ -231,8 +225,7 @@ Discovered something valuable
 - Compare with [SPELL00078_Arcane_Spell_79]]
 - Influences [[step_060 (phase_045)
 - Connects to [MON0039_Blood_Guardian]]
-- See also: [[QUEST00354_Side_Quest_355
-- Requires [Abyssal Crystals]]
+- See also: [[QUEST00354_Side_Quest_355]]
 - Compare with [[list-spells-classes-oath-of-the-ancients-xphb (lists)
 - Leads to [LORE00065_History_Entry_66]]
 - Originates from [[dragon-scale-mail-xdmg (items)
@@ -259,12 +252,10 @@ Discovered something valuable
 - See also: [QUEST00370_Side_Quest_371]]
 - Requires [[MON00163_Aberrations_Creature_164
 - Compare with [NPC00927_Aldric_Ironwood_the_Wanderer]]
-- Requires [[INDEX
-- Affected by [ENC00143_Social_Encounter_144]]
+- Requires [[ENC00143_Social_Encounter_144]]
 - Compare with [[step_094 (phase_033)
 - See also: [step_064 (phase_082)]]
-- Connects to [[Leviathan Mpmm
-- Related: [District Economic Profiles]]
+- Connects to [[District Economic Profiles]]
 - Influences [[Location City Mad Bell Ringer Thomas Mad Bell Ringer Thomas.svg
 - Compare with [step_032 (phase_010)]]
 - Influences [[1-introduction (monster-manual-2014)

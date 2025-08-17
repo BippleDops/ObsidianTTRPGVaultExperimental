@@ -51,10 +51,10 @@ date_played: [[My Category: Unknown
 [My Container]]: None
 estimated_time: 4-5 hours
 npcs_featured:
-- '[[[The Deep Mother]]'
+- '[[The Deep Mother]]'
 - '[[[[United Councils of [Both Worlds]]]]'
-- '[[[The Crimson Sage]] (Echo)'
-- '[[[Eastern Kingdom Fleet]]'
+- '[[The Crimson Sage]] (Echo)'
+- '[[Eastern Kingdom Fleet]]'
 
 obsidian UIMode: preview
 quests_advanced:
@@ -74,7 +74,7 @@ world: Aethermoor
 6. Union of surface and depth magic can create life
 7. [The Deep]] Mother's tears created the first oceans
 8. Void and reality can coexist if balanced
-9. [[[The Crimson Sage]] became part of the world's magic
+9. [[The Crimson Sage]] became part of the world's magic
 10. This cycle has repeated across ages ### [[Victory Through Unity
 
 If the party successfully unites both worlds and communes with the [Deep Mother]], she agrees to slumber peacefully, her loneliness eased by the dream of merged civilizations. The bloodline carrier becomes the eternal bridge between realms, transformed but retaining their consciousness. [[New Meridian becomes a beacon of cooperation, with floating districts of [Aquabyssos]] creating a vertical city of wonder. [[The Eastern Kingdoms establish embassies, and a new age of magical renaissance begins. ### [Pyrrhic Victory]]

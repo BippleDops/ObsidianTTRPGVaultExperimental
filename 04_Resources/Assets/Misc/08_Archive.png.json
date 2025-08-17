@@ -11,5 +11,8 @@
     "magical"
   ],
   "location": "04_Resources/Assets/Misc/08_Archive.png.json",
-  "reorganized": "2025-08-15T18:33:04.003Z"
+  "reorganized": "2025-08-15T18:33:04.003Z",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:51:52.705Z",
+  "generationMethod": "ComfyUI"
 }

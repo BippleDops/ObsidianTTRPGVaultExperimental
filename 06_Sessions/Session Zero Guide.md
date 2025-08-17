@@ -29,7 +29,7 @@ This document contains important information regarding [Session Zero]] Guide and
 
 **Details**: Rich sensory elements bring this to life.
 
-[[Session Zero]] Guide represents a significant element within the campaign world, offering various opportunities for engagement and development.
+[[Session Zero Guide]] Guide represents a significant element within the campaign world, offering various opportunities for engagement and development.
 *The air carries the scent of [appropriate smell].*## [[Key Information
 
 - **[Primary Purpose]]**: Serves specific function within the world

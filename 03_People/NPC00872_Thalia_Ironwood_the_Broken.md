@@ -159,40 +159,25 @@ Competitor sabotaging business
 - Special moves
 
 ## See Also
-- [[NPC00812_Kaelen_Jadeclaw_the_Seeker
-- [NPC00927_Aldric_Ironwood_the_Wanderer]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[NPC01503_Ewan_Dawnstrider_the_Redeemed
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC01290_Pyria_Ashford_the_Broken
-- [NPC00663_Alaric_Dawnstrider_the_Strong]]
-- [[NPC01660_Thalia_Moonshadow_the_Fallen
-- [NPC01041_Thalia_Dawnstrider_the_Lost]]
-- [[NPC01177_Thalia_Underhill_the_Fallen
-- [Faction_Relationship_Web]]
-- [[Ceasefire_Accord_Draft.md
-- [Trade_Route_Map_Aquabyssos_to_Aethermoor]]
-- [[Trade_Route_Chart_Port_Meridia
-- [NPC00552_Malakai_Stormwind_the_Seeker]]
-- [[NPC01682_Vesper_Blackstone_the_Guardian
-- [NPC01789_Vesper_Proudmore_the_Mystic]]
-- [[12 Spells
-- [NPC01201_Felicia_Ironwood_the_Bold]]
-- [[Session_Recaps
-- [NPC01312_Alaric_Darkwater_the_Fallen]]
-- [[08 Using Ability Scores
-- [NPC00307_Dara_Proudmore_the_Seeker]]
-- [[Character_Journal_Template
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01201_Felicia_Ironwood_the_Bold]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -214,23 +199,19 @@ Competitor sabotaging business
 - Affected by
 - Compare with
 - Parallels [Vehicle Ship Depth Piercer Research Sub Depth Piercer Research Sub.svg]]
-- Requires [[The Loyal Shadows
-- Influences [NPC01481_Hestara_Ravenheart_the_Wise]]
+- Requires [[NPC01481_Hestara_Ravenheart_the_Wise]]
 - Affected by
 - Requires [[NPC00137_Rhiannon_Ravenheart
 - Originates from [portrait-npc-aether-crystal-aether-crystal.svg_1 (Portraits)]]
-- Affected by [[NPC01427_Vesper_Dawnstrider_the_Lost
-- Influences [LORE00063_Prophecies_Entry_64]]
+- Affected by [[NPC01427_Vesper_Dawnstrider_the_Lost]]
 - Requires [[Egyptian Nephthys
 - See also: [Portrait NPC Queen Lyralei Stormheart Queen Lyralei Stormheart.svg_1 (Portraits)]]
 - Originates from [[Guardian [Captain Marcus Shieldwall (D&D_References)]]
-- Parallels [[Treasurer Elena Goldflow
-- See also: [Information Systems Alliance (D&D_References)]]
+- Parallels [[Information Systems Alliance (D&D_References)]]
 - Related: [[Location City [Sage Prism Lightweaver Sage Prism Lightweaver.svg]]
 - Leads to [[step_055 (phase_041)
 - Requires [The Spiral Sanctum]]
-- Connects to [[step_097 (phase_041)
-- Influences [MON00093_Undead_Creature_94]]
+- Connects to [[MON00093_Undead_Creature_94]]
 - Leads to [[step_051 (phase_047)
 - See also: [dwarven-haela-brightaxe-mtf (deities)]]
 - Requires [[step_048 (phase_039)
@@ -244,20 +225,17 @@ Competitor sabotaging business
 - Influences [Portrait NPC Deep Fortress Network V1 Deep Fortress Network.svg_1 (Portraits)]]
 - Related: [[SPELL00141_Arcane_Spell_142
 - Originates from [red-dragon-xmm (legendary-group)]]
-- Parallels [[[Crystals & Curiosities 2]]
+- Parallels [[Crystals & Curiosities 2]]
 - Originates from [[Location City [The Memory Storm Fields V1 the Memory Storm Fields.svg]]
-- Leads to [[Sage Analytical Mindweaver (D&D_References)
-- Originates from [ITEM00025_Frost_Bow_of_Slaying]]
+- Leads to [[Sage Analytical Mindweaver (D&D_References)]]
 - Compare with [[ENC00070_Combat_Encounter_71
 - Parallels [LORE00261_Legends_Entry_262]]
-- Affected by [[Nightmarket Plaza
-- Originates from [LOC00162_Planes_Location_163]]
+- Affected by [[LOC00162_Planes_Location_163]]
 - Compare with [[Paper Whirlwind Rot
 - Influences [Marcus Ledgerbor 2]]
 - Originates from [[The Seven Shards Mystery
 - Parallels [[Location City [Keeper of Contracts Minerva Bindingword]] V1 Keeper of Contracts Minerva Bindingword.svg]]
-- Connects to [[11-chapter-11-gravenhollow (out-of-the-abyss)
-- Compare with [[[Forge Master Korax Hammerdeep]] 2]]
+- Connects to [[11-chapter-11-gravenhollow (out-of-the-abyss)]] 2]]
 - Compare with [[Size Categories Mm
 - Connects to [step_068 (phase_072)]]
 - Connects to [[dragonlance-zeboim-phb (deities)
@@ -270,14 +248,12 @@ Competitor sabotaging business
 - Requires [[Portrait NPC Lord General Harrison [Ironhold]] V1 Lord General Harrison Ironhold.svg]]
 - Influences [[Githzerai Groups Githzerai Group Leader Mtf
 - Compare with [Master Cultivators Guild (Groups)]]
-- Requires [[[Deep Mother Spawning Pools (D&D_References)]]
-- See also: [[[The First Failure 2]]
-- Originates from [[step_012 (phase_021)
-- Connects to [Public Works Director Boris Bridgewright (D&D_References)]]
+- Requires [[Deep Mother Spawning Pools (D&D_References)]]
+- See also: [[The First Failure 2]]
+- Originates from [[Public Works Director Boris Bridgewright (D&D_References)]]
 - Affected by [[step_082 (phase_077)
 - Parallels [dragongleam-hotdq (items)]]
-- Compare with [[Truth Serum Xdmg
-- Affected by [Economic Systems and Currency (D&D_References)]]
+- Compare with [[Economic Systems and Currency (D&D_References)]]
 - Leads to [[Groundling (D&D_References)
 - Originates from [ITEM01094_Distilled_Herb_of_Clarity]]
 - Influences [[chaos-bolt-xge (spells)
@@ -288,22 +264,18 @@ Competitor sabotaging business
 - Compare with [[Blue Dragon Wyrmling Xmm
 - Connects to
 - Connects to [ITEM0103_Hidden_Tome_of_the_Dawn]]
-- See also: [[step_039 (phase_099)
-- Affected by [NPC01130_Vesper_Oakenshield_the_Mystic]]
+- See also: [[NPC01130_Vesper_Oakenshield_the_Mystic]]
 - Requires [[Elven Rellavar Danuvien Mtf
 - Affected by [Assets Art Save Transform Reality.png]]
 - Influences [[step_001 (phase_073)
 - Originates from [art-elemental-mascot-scc]]
 - Parallels [[Symbol Heraldry Border Patrol Unit Border Patrol Unit.svg
 - Compare with [Shadow Transformation Psychology]]
-- Compare with [[step_010 (phase_009)
-- Requires [QUEST00255_Side_Quest_256]]
-- Influences [[step_092 (phase_061)
-- Influences [ENC00091_Social_Encounter_92]]
+- Compare with [[QUEST00255_Side_Quest_256]]
+- Influences [[ENC00091_Social_Encounter_92]]
 - Connects to [[young-green-dragon-xmm (dragon)
 - Originates from [step_040 (phase_096)]]
-- Affected by [[Detection Technology Laboratory
-- Originates from [Symbols - Faction_Heraldry (D&D_References)]]
+- Affected by [[Symbols - Faction_Heraldry (D&D_References)]]
 - Affected by [[passages-passage (tables)
 - See also:
 - Affected by [Keeper Luminous Truehart]]

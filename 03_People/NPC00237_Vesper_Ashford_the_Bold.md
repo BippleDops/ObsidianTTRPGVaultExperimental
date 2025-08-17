@@ -124,65 +124,21 @@ Deception, History, Athletics
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- [[Political Alliances
-- Upcoming social events
-
-## Plot Hook
-Wants rivals investigated
-
-## DM Notes
-- Adjust stats based on party level
-- Secrets can drive major plot points
-- Relationships create web of connections
-- Use quirks for memorable roleplay
-
----
-*Generated: 2025-08-15T03:51:03.139Z*
-
-## Voice & Mannerisms
-- Speaking style
-- Common phrases
-
-## Daily Routine
-- Morning activities
-- Evening habits
-
-## Combat Tactics
-- Preferred strategies
-- Special moves
-
-## See Also
-- [NPC00881_Qadim_Voidwalker_the_Strong]]
-- [[NPC01301_Jorah_Underhill_the_Broken
-- [NPC00812_Kaelen_Jadeclaw_the_Seeker]]
-- [[NPC01943_Xander_Proudmore_the_Fallen
-- [NPC00804_Xander_Frostwhisper_the_Cunning]]
-- [[NPC00821_Zephyr_Voidwalker_the_Cunning
-- [NPC01195_Gareth_Keenblade_the_Guardian]]
-- [[NPC01429_Zephyr_Keenblade_the_Cunning
-- [NPC01599_Gavril_Keenblade_the_Strong]]
-- [[NPC00939_Thalia_Jadeclaw_the_Swift
-- [NPC00820_Thalia_Nightfall_the_Risen]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [Player_Portal.md]]
-- [[NPC00969_Zephyr_Keenblade_the_Wise
-- [Parliamentary_Voting_Guide]]
+- [[Political Alliances]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
 - [[Sanity_Quick_Reference.md
 - [Reference.md]]
-- [[NPC00587_Idris_Youngblood_the_Strong
-- [Reputation_Tracker]]
-- [[Session_Recaps
-- [05 Personality and Background]]
-- [[NPC01041_Thalia_Dawnstrider_the_Lost
-- [08 Using Ability Scores]]
-- [[16 Credits
-- [NPC01348_Xander_Zephyrblade_the_Wise]]
-- [[11 Rules Glossary
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[05 Personality and Background]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[11 Rules Glossary]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -214,31 +170,25 @@ Wants rivals investigated
 - Requires [ITEM00671_Ethereal_Helm_of_Protection]]
 - See also: [[step_075 (phase_080)
 - Connects to [The Outer Planes]]
-- Related: [[Void-warded Cloak (D&D_References)
-- Related: [QUEST0075_The_Cursed_Alliance]]
+- Related: [[Void-warded Cloak (D&D_References)]]
 - See also:
 - Related: [[catapult-munition-scc (items)
 - See also: [Memory Reconstruction Headset]]
 - Affected by [[EVENT00044_Magical_Event_45
 - Influences [step_032 (phase_029)]]
-- Leads to [[step_099 (phase_009)
-- Requires [NPC00767_Felicia_Grimholt_the_Wise]]
+- Leads to [[NPC00767_Felicia_Grimholt_the_Wise]]
 - Leads to [[NPC00007_Lyanna_Voidwalker
 - Affected by [step_097 (phase_029)]]
 - Compare with
 - Related: [[Npc Low Abilities
 - Leads to [04_Resources_Assets_Locations_location-city-professor-reef-growthseeker-v1-professor-reef-growthseeker.svg]]
-- See also: [[QUEST0028_The_Haunted_Manor_Uprising
-- Originates from [Adult Red Dragon Xmm]]
+- See also: [[QUEST0028_The_Haunted_Manor_Uprising]]
 - Leads to [[step_076 (phase_013)
 - Connects to [[[Pressure Terminal]] (D&D_Statblocks)]]
 - Connects to
-- Compare with [[life-events-xge (tables)
-- Compare with [NPC00620_Gavril_Ironforge_the_Strong]]
-- Affected by [[step_032 (phase_082)
-- Requires [Culture Builder (D&D_References)]]
-- Compare with [[Sundered Steel (D&D_References)
-- Affected by [[[Captain Echo]] (D&D_References)]]
+- Compare with [[NPC00620_Gavril_Ironforge_the_Strong]]
+- Affected by [[Culture Builder (D&D_References)]]
+- Compare with [[Sundered Steel (D&D_References)]] (D&D_References)]]
 - Parallels
 - Leads to [[step_063 (phase_098)
 - Related: [The Counting House]]
@@ -248,16 +198,13 @@ Wants rivals investigated
 - Originates from [[Quest The Failing Magic
 - See also: [wand-of-web-xdmg (items)]]
 - Originates from [[Assets Locations Location City [[Fire Crystals V1 [Fire Crystals]].svg]]
-- See also: [[Cross-Cultural Adaptation Technique
-- Requires
-- Leads to [step_025 (phase_023)]]
+- See also: [[Cross-Cultural Adaptation Technique]]
 - Connects to [[step_044 (phase_018)
 - Requires
 - Compare with [Kuo Toa Whip Xmm]]
-- Parallels [[City of Screams (D&D_References)
-- Affected by [step_087 (phase_014)]]
-- Related: [[[Merchants Guild.md]]
-- Compare with [[Shadow Corruption [Timeline]]
+- Parallels [[City of Screams (D&D_References)]]
+- Related: [[Merchants Guild]]
+- Compare with [[Shadow Corruption]]
 - Requires [[carved-ivory-statuette-xdmg (items)
 - See also: [step_033 (phase_053)]]
 - Requires [[Truth Reflection
@@ -269,15 +216,11 @@ Wants rivals investigated
 - See also: [[Assets Locations Location City [Innkeeper Marcus Thorne]] Innkeeper Marcus Thorne.svg]]
 - Leads to [[Prophetic Weather Charts (D&D_References)
 - Related: [[Assets Locations Location City [Withered Court]] Withered Court.svg]]
-- Parallels [[alter-self-xphb (spells)
-- Originates from [NPC00266_Urien_Stormwind_the_Fallen]]
+- Parallels [[NPC00266_Urien_Stormwind_the_Fallen]]
 - Related:
-- See also: [[The Abyssal Prophet (D&D_References)
-- Connects to [Elder Deep (D&D_References)]]
-- Related: [[NPC01862_Aeliana_Ironforge_the_Seeker
-- Influences [NPC00259_Delara_Proudmore]]
-- Originates from [[Oil of Slipperiness Xdmg
-- Influences [NPC01957_Urien_Darkwater_the_Bold]]
+- See also: [[The Abyssal Prophet (D&D_References)]]
+- Related: [[NPC01862_Aeliana_Ironforge_the_Seeker]]
+- Originates from [[NPC01957_Urien_Darkwater_the_Bold]]
 - Connects to [[ENC00147_Social_Encounter_148
 - Connects to [[Assets Locations Location City [Syncretist Mediators]] Syncretist Mediators.svg]]
 - Connects to

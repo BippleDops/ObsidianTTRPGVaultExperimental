@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.328621"
 modified: "2025-08-15T12:24:39.328623"
-aliases: [Session 4 [[Smuggler Base]]]
+aliases: [Session 4 [[Smuggler]]]
 ---
 
 # Session 4 [[Smuggler Base
@@ -318,7 +318,7 @@ publish: false --- ----|----------|-------------------|---------|
 - 2 subjects: Catastrophic neural integration failure RECOBCENDATIONS: 1. Immediate evacuation to advanced medical facility
 2. Establish rehabilitation center with specialized staff
 3. Research collaboration with ancient memory systems
-4. Psychological support for recovery subjects and families The modified subjects represent both our greatest success and our heaviest burden. Every person we save is a victory against the conspiracy, but every person we cannot save is a reminder of the price of our failure to stop this horror sooner. [CONFIDENTIAL MEDICAL DOCUMENT] - -- * In the crushing depths where ancient wisdom sleeps and modern ambition schemes, the party discovers that some knowledge comes at too high a price, and some victories are measured not in enemies defeated but in innocents saved. As they emerge from the abyss with the weight of terrible truths, they must prepare for a final confrontation that will determine the future of two worlds.* ## Player-[[Facing Summary Session 4 [Smuggler Base]] is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## [[Lore Details Legends speak of Session 4 [Smuggler Base]] as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Session 4 [[Smuggler Base. ## DM [Notes Play]] up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## [[Related Notes - [[[Similar Topic]] 1|[[Similar Topic 1]] - [[[[Contrasting Approach|[Contrasting Approach]]]]
+4. Psychological support for recovery subjects and families The modified subjects represent both our greatest success and our heaviest burden. Every person we save is a victory against the conspiracy, but every person we cannot save is a reminder of the price of our failure to stop this horror sooner. [CONFIDENTIAL MEDICAL DOCUMENT] - -- * In the crushing depths where ancient wisdom sleeps and modern ambition schemes, the party discovers that some knowledge comes at too high a price, and some victories are measured not in enemies defeated but in innocents saved. As they emerge from the abyss with the weight of terrible truths, they must prepare for a final confrontation that will determine the future of two worlds.* ## Player-[[Facing Summary Session 4 [Smuggler Base]] is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## [[Lore Details Legends speak of Session 4 [Smuggler Base]] as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Session 4 [[Smuggler]] up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## [[Related Notes - [[[Similar Topic]] 1|[[Similar Topic 1]] - [[[[Contrasting Approach|[Contrasting Approach]]]]
 - [[[[Advanced Version|[Advanced Version]]]]
 - [[[[Historical Context|[Historical Context]]]] ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## [Alternate Descriptions]] - **[[First Impression**: Initial appearance
 - **[Closer Look]]**: Detailed examination
@@ -356,7 +356,7 @@ publish: false --- ----|----------|-------------------|---------|
 *Adventure awaits those brave enough to seek it.*
 
 ## [See Also]]
-- [[Session 2 the [Shadow Surgery]]
+- [[Shadow_Surgery]]
 - [[Session 30 [Campaign Finale]]
 - [[Session 06 the [Sky Throne]]
 - [[Quest - Redemption's Price

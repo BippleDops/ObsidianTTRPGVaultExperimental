@@ -51,7 +51,7 @@ npcs_featured:
 - '[[[[Queen Seraphina Lumengarde|[Queen Seraphina]] Lumengarde]]'
 - '[[[[Ancient Aquabyssos Rulers|[Ancient Aquabyssos]] Rulers]]' obsidian UIMode: preview
 quests_advanced:
-- '[[Rewrite the [[World Order|[Rewrite The]] [[World Order]]'
+- '[[Rewrite the [[World Order|[Rewrite The]] [[Rewrite the World Order]]'
 - '[[[[The Final Sealing|[The Final]] Sealing]]'
 - '[[[[Save Both Civilizations|[Save Both]] Civilizations]]' updated: '2025-08-13T12:34:17.853929+00:00'
 world: Aethermoor
@@ -123,7 +123,7 @@ publish: false --- -|--------|
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

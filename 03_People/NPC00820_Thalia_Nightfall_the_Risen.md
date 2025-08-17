@@ -168,42 +168,23 @@ Has map to lost treasure
 - Special moves
 
 ## See Also
-- [[NPC00582_Cedric_Dawnstrider
-- [NPC00761_Aldric_Moonshadow_the_Guardian]]
-- [[NPC01504_Erasmus_Zephyrblade_the_Strong
-- [NPC01624_Corvus_Silverleaf_the_Redeemed]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC01252_Jorah_Youngblood_the_Strong]]
-- [[NPC01812_Xander_Lightbringer_the_Swift
-- [NPC00259_Delara_Proudmore]]
-- [[NPC01888_Hestara_Ravenheart_the_Redeemed
-- [NPC00300_Urien_Zephyrblade]]
-- [[NPC00739_Gavril_Ashford_the_Bold
-- [NPC01262_Ysara_Dawnstrider_the_Swift]]
-- [[NPC00296_Elric_Jadeclaw_the_Bold
-- [NPC00362_Pyria_Stormwind_the_Wise]]
-- [[NPC00976_Alaric_Quicksilver_the_Strong
-- [Depth_Adapted_Background]]
-- [[NPC00385_Qadim_Darkwater_the_Cunning
-- [What You Know - Abyssos Prime.md]]
-- [[NPC01877_Hestara_Moonshadow_the_Mystic
-- [Basic_Rules]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
 - [[03 Races
 - [Faction_Guide.md_1 (07_Player_Resources)]]
-- [[10 Appendix B Creature Stat Blocks
-- [NPC00812_Kaelen_Jadeclaw_the_Seeker]]
-- [[08 Using Ability Scores
-- [NPC00949_Nerys_Underhill_the_Wise]]
-- [[16 Credits
-- [10 Combat]]
-- [[NPC01943_Xander_Proudmore_the_Fallen
-- [NPC01911_Alaric_Oakenshield_the_Mystic]]
-- [[Quarantine_Notice_Crystal_Plagu
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[16 Credits]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[Quarantine_Notice_Crystal_Plagu]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -219,8 +200,7 @@ Has map to lost treasure
 ## Connections
 
 - See also: [Artifact_of_the_Ancients]]
-- See also: [[step_060 (phase_095)
-- Leads to [The Weather Wardens Council]]
+- See also: [[The Weather Wardens Council]]
 - Leads to [[QUEST00472_Side_Quest_473
 - Parallels [Location City Archivist Vera Glowmind Archivist Vera Glowmind.png]]
 - See also: [[Portrait NPC the Siren S Mask V1 the Siren S Mask.svg
@@ -241,8 +221,7 @@ Has map to lost treasure
 - Originates from [Human Names Norse Female Xge]]
 - Leads to [[The Whisper Syndicate
 - Compare with [step_068 (phase_022)]]
-- Affected by [[4-gith-and-their-endless-war (mordenkainens-tome-of-foes)
-- Related: [step_040 (phase_039)]]
+- Affected by [[4-gith-and-their-endless-war (mordenkainens-tome-of-foes)]]
 - Compare with [[Witness Protection Protocols
 - Affected by [QUEST00094_Side_Quest_95]]
 - Parallels [[QUEST00314_Side_Quest_315
@@ -257,8 +236,7 @@ Has map to lost treasure
 - Compare with [Dancing Lights Xphb]]
 - Affected by [[The_Last_Dance.png
 - Compare with [The Silent Marketplace]]
-- Leads to [[Wild Magic Zones
-- Related: [The Healer's Persecution]]
+- Leads to [[The Healer's Persecution]]
 - Compare with [[Spymaster Crow
 - Connects to [Aquamarine Xdmg]]
 - See also: [[Intel Master Raven Shadowsigh
@@ -275,8 +253,7 @@ Has map to lost treasure
 - Related: [Dwarves in the World Dwarf Quirks Mtf]]
 - Connects to [[The Shadow Conspiracy (Criminal_Organizations)
 - See also: [object-armor-class (tables)]]
-- Related: [[INV-007 2
-- Connects to [ENC00050_Social_Encounter_51]]
+- Related: [[ENC00050_Social_Encounter_51]]
 - Influences [[Mirror Embassy
 - Related: [step_060 (phase_087)]]
 - See also: [[D-019_Oracle_Whale_Player
@@ -295,14 +272,10 @@ Has map to lost treasure
 - Originates from [The Heart of Convergence]]
 - Connects to [[Location3 (Places)
 - See also: [step_043 (phase_014)]]
-- See also: [[Midas Goldcurrent
-- Compare with [QUEST00196_Personal_Quest_197]]
-- Requires [[step_036 (phase_087)
-- Influences [LOC00113_Towns_Location_114]]
-- See also: [[step_100 (phase_028)
-- Requires [Quest - The Shadow Conspiracy Investigatio_1 (01_Adventures)]]
-- Related: [[QUEST00083_Personal_Quest_84
-- Related: [Grimlock Dmg]]
+- See also: [[QUEST00196_Personal_Quest_197]]
+- Requires [[LOC00113_Towns_Location_114]]
+- See also: [[Quest - The Shadow Conspiracy Investigatio]]
+- Related: [[QUEST00083_Personal_Quest_84]]
 - Leads to [[step_056 (phase_047)
 - Connects to [Portrait NPC Captain Lyanna Brightshield Captain Lyanna Brightshield.svg]]
 - Originates from [[Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png
@@ -314,8 +287,7 @@ Has map to lost treasure
 - Connects to [FAC00086_Guilds_87]]
 - Originates from [[step_009 (phase_092)
 - Affected by [Crystal Guard]]
-- Connects to [[Countess Marina Stormcrest (D&D_References)
-- Compare with [step_062 (phase_015)]]
+- Connects to [[Countess Marina Stormcrest (D&D_References)]]
 - Influences [[Theological Warfare
 - Originates from [The Void Conspiracy]]
 

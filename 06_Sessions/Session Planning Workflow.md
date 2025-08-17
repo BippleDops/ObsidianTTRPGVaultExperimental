@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:37.125611"
 modified: "2025-08-15T12:24:37.125616"
-aliases: [[Session Planning]] Workflow]
+aliases: [[Session Planning Guide]] Workflow]
 ---
 
 # [[Session Planning Workflow
@@ -16,7 +16,7 @@ modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: [[Session Planning]] Workflow.Md
+subcategory: [[Session Planning Guide]] Workflow.Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -31,7 +31,7 @@ type: session
 updated: 2025-08-14
 - -- # [Session Planning]] Workflow ## [[Overview This document contains important information regarding [Session Planning]] Workflow and its role within the greater narrative. ## Description
 
-**Details**: Rich sensory elements bring this to life. [[Session Planning]] Workflow represents a significant element within the campaign world, offering various opportunities for engagement and develop
+**Details**: Rich sensory elements bring this to life. [[Session Planning Guide]] Workflow represents a significant element within the campaign world, offering various opportunities for engagement and develop
 *The [texture] surface feels [description] to the touch.*ment. ## [[Key Information - **[Primary Purpose]]**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details ### [[Background Historical context and development over time. Subsequently, ### [Current State]] Present circumstances and ongoing relevance. ### [[Future Potential Possible developments and plot directions. ## [RELATIONSHIPS|Relationships]] - Connected to various other elements within the vault
@@ -59,7 +59,7 @@ updated: 2025-08-14
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

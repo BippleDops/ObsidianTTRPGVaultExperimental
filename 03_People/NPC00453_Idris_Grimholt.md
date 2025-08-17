@@ -163,46 +163,24 @@ Modifications:
 
 ## See Also
 - [NPC00582_Cedric_Dawnstrider]]
-- [[NPC00174_Aldric_Silverleaf_the_Fallen
-- [NPC00207_Ysara_Ravenheart]]
-- [[NPC00804_Xander_Frostwhisper_the_Cunning
-- [NPC00881_Qadim_Voidwalker_the_Strong]]
-- [[NPC01040_Zephyr_Lightbringer_the_Strong
-- [NPC00287_Ysara_Underhill_the_Wise]]
-- [[NPC00237_Vesper_Ashford_the_Bold
-- [NPC00057_Malakai_Stormwind_the_Cunning]]
-- [[NPC00307_Dara_Proudmore_the_Seeker
-- [NPC01931_Thalia_Lightbringer_the_Fallen]]
-- [[NPC01785_Aldric_Brightblade_the_Redeemed
-- [NPC01687_Aldric_Youngblood_the_Cunning]]
-- [[NPC01599_Gavril_Keenblade_the_Strong
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC00388_Ysara_Goldleaf
-- [NPC01312_Alaric_Darkwater_the_Fallen]]
-- [[NPC00494_Lyanna_Hawthorne_the_Guardian
-- [Archdruid Thornweaver]]
-- [[NPC00542_Corvus_Oakenshield_the_Strong
-- [yuan-ti-pit-master-mpmm]]
-- [[NPC01625_Qadim_Lightbringer_the_Swift
-- [NPC01503_Ewan_Dawnstrider_the_Redeemed]]
-- [[Pilgrim_Pass_Prayer_Sli
-- [Ceasefire_Accord_Draft.md]]
-- [[Ritual_Timing_Wheel_Convergenc
-- [Sanity Quick Reference]]
-- [[NPC01028_Erasmus_Darkwater_the_Strong
-- [03 Races]]
-- [[NPC00623_Dara_Oakenshield_the_Wanderer
-- [Parliament of Shadows Player Guide.md]]
-- [[NPC00878_Kaelen_Ironwood_the_Strong
-- [10 Combat]]
-- [[11 Rules Glossary
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
-- [[MOC_NPCs
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC00494_Lyanna_Hawthorne_the_Guardian]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[Pilgrim_Pass_Prayer_Sli]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[MOC_NPCs]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -219,31 +197,25 @@ Modifications:
 ## Connections
 
 - Leads to [FAC00036_Cults_37]]
-- Leads to [[[The Crystal Caves 2]]
+- Leads to [[The Crystal Caves 2]]
 - Affected by [[LOC00215_Planes_Location_216
 - Connects to [Portrait NPC Captain Voidguard V1 Captain Voidguard.svg]]
 - See also: [[step_049 (phase_085)
 - Related: [orc-shargaas-vgm (deities)]]
-- Originates from [[Shadow Attache Void
-- Compare with [skills#Acrobatics]]
+- Originates from [[Shadow Attache Void]]
 - Connects to [[portrait-npc-shadow-embassy-shadow-embassy.svg
 - Related: [Lord Commander Gareth (D&D_References)]]
 - Related: [[Location City [Forge Master Petra Hammerdeep V1 Forge Master Petra Hammerdeep.svg]]
 - Requires
-- Related: [[Unknown Contact
-- Related: [QUEST00294_Personal_Quest_295]]
-- Affected by [[Shoosuva Mpmm
-- Parallels [NPC01291_Xander_Thornweave_the_Risen]]
+- Related: [[QUEST00294_Personal_Quest_295]]
+- Affected by [[NPC01291_Xander_Thornweave_the_Risen]]
 - Connects to [[Lightning Cannon Xdmg
 - See also: [Net Xphb]]
-- Influences [[Crystal Research Facilities (D&D_References)
-- See also: [ENC00155_Combat_Encounter_156]]
+- Influences [[Crystal Research Facilities (D&D_References)]]
 - Requires [[Size Xphb
 - Affected by [[Location City [Living Coral Architecture]] V1 Living Coral Architecture.svg]]
-- Related: [[Lord Magistrate Aldrich Thornwick (D&D_References)
-- Influences [step_072 (phase_008)]]
-- Requires [[Order of the Shattered Crown (D&D_Statblocks)
-- Requires [Merger_Transit_Complications]]
+- Related: [[Lord Magistrate Aldrich Thornwick (D&D_References)]]
+- Requires [[Order of the Shattered Crown (D&D_Statblocks)]]
 - Leads to [[choose-languages-standard-languages-xphb (tables)
 - Connects to [Identity Storage Vaul]]
 - Related: [[Player 7 (Lore)
@@ -255,22 +227,19 @@ Modifications:
 - Connects to [SPELL00161_Divine_Spell_162]]
 - Leads to [[ITEM01358_Simple_Rope_of_Reliability
 - Connects to [NPC00108_Aeliana_Ironforge_the_Wanderer]]
-- Affected by [[FAC00037_Cults_38
-- Related: [[Location City [Emergency Life Support Research Foundation]] Emergency Life Support Research Foundation.svg]]
+- Affected by [[Emergency Life Support Research Foundation]] Emergency Life Support Research Foundation.svg]]
 - Affected by [[norse-freya (deities)
 - Affected by [Foreign Governments]]
 - Affected by [[The Parasite Priests (People)
 - See also: [[Assets Locations Location City [Fire Crystal]] Fire Crystal.svg]]
 - Affected by [[step_060 (phase_074)
 - Related: [Symbol Heraldry Financial Crime Investigatio Financial Crime Investigatio.svg]]
-- See also: [[World_Map_Layers 2 (D&D_References)
-- Requires [chasme-xmm (fiend)]]
+- See also: [[World_Map_Layers 2 (D&D_References)]]
 - Parallels [[ruby-xdmg (items)
 - Originates from [[Assets Locations [Location City the Forgotten Representative the Forgotten Representative.svg]]]]
 - Originates from [[ITEM00507_Fortified_Helm_of_Protection
 - Compare with [[[Sea Witch]] (D&D_References)]]
-- Requires [[NPC01514_Pyria_Ironforge_the_Fallen
-- Related: [step_062 (phase_013)]]
+- Requires [[NPC01514_Pyria_Ironforge_the_Fallen]]
 - Connects to [[ITEM00195_Frost_Staff_of_Accuracy
 - Influences [step_096 (phase_084)]]
 - Compare with [[LOC00271_Dungeons_Location_272
@@ -279,7 +248,7 @@ Modifications:
 - Connects to
 - Originates from [Deep Oracle (D&D_References)]]
 - Leads to [[Assets Locations [Location City Truth Seeker Cornelius V1 Truth Seeker Cornelius.svg]]
-- Connects to [[[Memory Parasite Infection (D&D_References)]]
+- Connects to [[Memory Parasite Infection (D&D_References)]]
 - Requires [[Diplomatic Minister Reef
 - Parallels [step_080 (phase_061)]]
 - Related: [[Smokescale the Smuggler
@@ -294,25 +263,20 @@ Modifications:
 - Compare with [[step_014 (phase_031)
 - Originates from
 - Related: [Spirit Naga Xmm]]
-- Related: [[Dock Boss Marina Irongrip
-- Related: [step_086 (phase_005)]]
+- Related: [[Dock Boss Marina Irongrip]]
 - Compare with [[ITEM01337_Elegant_Spyglass_of_Durability
 - Leads to [Groundbreaker's Hamme]]
-- See also: [[The Southern Trading Companies (D&D_References)
-- Parallels [LOC00138_Towns_Location_139]]
+- See also: [[The Southern Trading Companies (D&D_References)]]
 - Related: [[NPC00812_Kaelen_Jadeclaw_the_Seeker
 - Requires [Find the Grief Bomb (D&D_Statblocks)]]
-- Influences [[Spell Sniper Xphb
-- Requires [Blackwater Estate (D&D_References)]]
+- Influences [[Blackwater Estate (D&D_References)]]
 - Requires
-- Originates from [[[Warrior Scarredheart 2]]
+- Originates from [[Warrior Scarredheart 2]]
 - Related: [[step_095 (phase_046)
 - Leads to [step_001 (phase_100)]]
-- Influences [[QUEST00392_Side_Quest_393
-- Requires [step_075 (phase_092)]]
+- Influences [[QUEST00392_Side_Quest_393]]
 - Compare with
-- Connects to [[MON00111_Undead_Creature_112
-- Leads to [Brother Ossian]]
+- Connects to [[MON00111_Undead_Creature_112]]
 - Influences [[Relationship_Web
 - Requires [FAC00092_Orders_93]]
 - See also: [[step_063 (phase_091)

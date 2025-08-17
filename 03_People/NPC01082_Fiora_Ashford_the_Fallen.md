@@ -177,44 +177,24 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC00300_Urien_Zephyrblade
-- [NPC01463_Aeliana_Zephyrblade_the_Fallen]]
-- [[NPC01113_Solas_Ravenheart_the_Cunning
-- [NPC00844_Cedric_Blackstone_the_Fallen]]
-- [[NPC01262_Ysara_Dawnstrider_the_Swift
-- [NPC00317_Pyria_Blackstone_the_Redeemed]]
-- [[NPC01624_Corvus_Silverleaf_the_Redeemed
-- [NPC00129_Gareth_Jadeclaw]]
-- [[NPC01552_Branwen_Lightbringer_the_Swift
-- [NPC01745_Felicia_Oakenshield_the_Scholar]]
-- [[NPC00812_Kaelen_Jadeclaw_the_Seeker
-- [NPC00057_Malakai_Stormwind_the_Cunning]]
-- [[NPC01785_Aldric_Brightblade_the_Redeemed
-- [NPC01812_Xander_Lightbringer_the_Swift]]
-- [[NPC00237_Vesper_Ashford_the_Bold
-- [NPC00917_Brenna_Oakenshield_the_Seeker]]
-- [[NPC01870_Lyanna_Silverleaf_the_Cunning
-- [NPC00362_Pyria_Stormwind_the_Wise]]
-- [[NPC01503_Ewan_Dawnstrider_the_Redeemed
-- [NPC01057_Pyria_Quicksilver_the_Scholar]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [NPC00250_Delara_Darkwater_the_Fallen]]
-- [[Depth_Adapted_Background
-- [Faction_Guide.md]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC00844_Cedric_Blackstone_the_Fallen]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[Depth_Adapted_Background]]
 - [[What You Know - Abyssos Prime.md
 - [Downtime_Activities]]
-- [[Party_Inventory
-- [10 Appendix B Creature Stat Blocks]]
-- [[10 Combat
-- [Count_Strahd_von_Zarovich]]
-- [[NPC00976_Alaric_Quicksilver_the_Strong
-- [MOC_Rules]]
-- [[NPC01761_Idris_Moonshadow_the_Broken
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[Count_Strahd_von_Zarovich]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -237,8 +217,7 @@ Modifications:
 - Connects to [Assets Portraits Portrait NPC Captain Swift Cloudracer Captain Swift Cloudracer.svg]]
 - Affected by [[holy-weapon-xge (spells)
 - Leads to [step_071 (phase_058)]]
-- Parallels [[step_046 (phase_054)
-- Connects to [Shadow Academy Training Grounds]]
+- Parallels [[Shadow Academy Training Grounds]]
 - Compare with [[step_087 (phase_014)
 - Influences [Quest Campaign Tracker]]
 - Connects to [[step_005 (phase_083)
@@ -247,27 +226,21 @@ Modifications:
 - Compare with
 - Influences [Doctor Silas Voidtouch]]
 - Related: [[Assets Locations Location City [The Sundered Vaults the Sundered Vaults.svg]]
-- Leads to [[lemure-xmm (fiend)
-- Influences [QUEST00116_Side_Quest_117]]
-- Compare with [[ENC00185_Social_Encounter_186
-- Parallels [NPC01601_Branwen_Thornweave_the_Lost]]
-- Compare with [[NPC00979_Pyria_Nightfall_the_Seeker
-- Leads to [step_060 (phase_100)]]
-- Originates from [[MOC_Combat
-- Connects to [[[Political Leader Reef-Crown]] (D&D_References)]]
+- Leads to [[QUEST00116_Side_Quest_117]]
+- Compare with [[NPC01601_Branwen_Thornweave_the_Lost]]
+- Compare with [[NPC00979_Pyria_Nightfall_the_Seeker]]
+- Originates from [[Political Leader Reef-Crown]] (D&D_References)]]
 - Connects to [[compulsion-xphb (spells)
 - Leads to [Portrait NPC the Tidal Council V1 the Tidal Council.svg]]
-- Requires [[[Royal Palace of Meridian (D&D_References)]]
-- Originates from [[NPC01035_Aeliana_Nightfall_the_Bold
-- Compare with [Void Realm Territories]]
+- Requires [[Royal Palace of Meridian (D&D_References)]]
+- Originates from [[NPC01035_Aeliana_Nightfall_the_Bold]]
 - Parallels [[Dark Gift of Yog the Invincible Cos
 - Connects to [Filter_Exchange_Quest]]
 - See also: [[Crystal_Observatory
 - Influences [audio_fit_report (09_Performance)]]
 - Originates from [[Assets Portraits Portrait NPC Memory Merchants Memory Merchants.svg
 - Compare with [NPC0051_Lyra_Ironforge]]
-- Influences [[step_018 (phase_092)
-- Requires [LOC00107_Planes_Location_108]]
+- Influences [[LOC00107_Planes_Location_108]]
 - Originates from [[Vehicle Ship Cloud Anchor Freighter V2 Cloud Anchor Freighter.svg
 - See also: [[[Keeper of Secrets Whisper Darkhold]] (D&D_References)]]
 - Influences [[blink-dog-xmm
@@ -278,13 +251,10 @@ Modifications:
 - Originates from [step_079 (phase_056)]]
 - Requires [[blue-dragon-wyrmling-xmm (dragon)
 - Requires [SHOP00005_Specialty_Shop_6]]
-- Requires [[QUEST00106_Personal_Quest_107
-- See also: [Meridian Trading Company]]
-- Requires [[ENC00151_Combat_Encounter_152
-- Originates from [cleaving-through-creatures (variant-rules)]]
+- Requires [[QUEST00106_Personal_Quest_107]]
+- Requires [[cleaving-through-creatures (variant-rules)]]
 - Influences
-- Leads to [[Ancient Crystaldeep (D&D_References)
-- Compare with [Emperor Thalassius]]
+- Leads to [[Ancient Crystaldeep (D&D_References)]]
 - See also: [[Assets Locations Location City [[The [Noble Quarter Market]] the Noble Quarter Market.svg]]
 - Influences
 - Connects to [[Assets Locations Location City [Choir Master Celestine Hymnsinger Choir Master Celestine Hymnsinger.svg]]
@@ -292,12 +262,10 @@ Modifications:
 - Related: [myconid-spore-servant-xmm]]
 - Compare with [[step_005 (phase_022)
 - Originates from [[Assets Locations Location City [Chief Engineer Marina Crystalwright]] Chief Engineer Marina Crystalwright.svg]]
-- Connects to [[QUEST00342_Side_Quest_343
-- Requires [MON00073_Aberrations_Creature_74]]
+- Connects to [[MON00073_Aberrations_Creature_74]]
 - Requires [[gold-gp (items)
 - Requires [step_059 (phase_028)]]
-- Originates from [[NPC00891_Jorah_Lightbringer_the_Risen
-- Compare with [giant-strider-mpmm (elemental)]]
+- Originates from [[NPC00891_Jorah_Lightbringer_the_Risen]]
 - Compare with [[Dr. Marina Biolume
 - Originates from [Academic Lineages]]
 - Parallels [[downtime-activity-training-phb (variant-rules)
@@ -309,26 +277,21 @@ Modifications:
 - Compare with [Void Contamination]]
 - Leads to [[ITEM00875_Ancient_Tome_of_Eternity
 - Requires [step_009 (phase_095)]]
-- Parallels [[NPC01953_Rhiannon_Xendar_the_Redeemed
-- Leads to [NPC00299_Aeliana_Keenblade_the_Bold]]
+- Parallels [[NPC01953_Rhiannon_Xendar_the_Redeemed]]
 - Originates from [[04_Resources_Assets_Portraits_portrait-npc-captain-henrik-proudbanner-captain-henrik-proudbanner.svg_Quick_Ref
 - Influences [Pirates 2]]
 - See also: [[Assets Portraits Portrait NPC Shadow Guard Units Shadow Guard Units.svg
 - Compare with [yellow-sapphire-xdmg (items)]]
-- Leads to [[The Dream Shard
-- Requires [ENC00272_Social_Encounter_273]]
+- Leads to [[ENC00272_Social_Encounter_273]]
 - Leads to
-- Compare with [[Princess Celestine [Lumengarde (D&D_References)]]
+- Compare with [[Lumengarde (D&D_References)]]
 - Related: [[Treasure Xdmg
 - Originates from [LOC0129_Groveford]]
-- Parallels [[NPC00281_Hestara_Nightfall_the_Cunning
-- Parallels [step_030 (phase_089)]]
-- Parallels [[Memory Merchants (D&D_References)
-- Originates from [Cloud Gardens 2]]
+- Parallels [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- Parallels [[Memory Merchants (D&D_References)]]
 - Requires [[ITEM00152_Radiant_Axe_of_Power
 - See also: [ENC00213_Social_Encounter_214]]
-- Influences [[Survival Instructor Wild Depthteacher
-- Compare with [step_008 (phase_057)]]
+- Influences [[Survival Instructor Wild Depthteacher]]
 - Parallels [[step_055 (phase_042)
 - See also: [carpet-of-flying-3-ft-5-ft-xdmg (items)]]
 

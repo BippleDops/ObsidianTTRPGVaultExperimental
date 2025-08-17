@@ -163,16 +163,9 @@ Seeks bodyguards for dangerous journey
 - Special moves
 
 ## See Also
-- [[NPC01247_Xander_Zephyrblade_the_Risen
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[Combat_Encounter_Analysis
-- [10 Appendix B Creature Stat Blocks]]
-- [[NPC01594_Fiora_Proudmore_the_Seeker
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[NPC01594_Fiora_Proudmore_the_Seeker]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -191,10 +184,8 @@ Seeks bodyguards for dangerous journey
 
 - Leads to [Portrait NPC King... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Affected by
-- See also: [[step_066 (phase_091)
-- Related: [Pressure-Responsive Fabrics 2]]
-- Compare with [[Master Narrative Web
-- Related: [LOC00062_Dungeons_Location_63]]
+- See also: [[Pressure-Responsive Fabrics 2]]
+- Compare with [[LOC00062_Dungeons_Location_63]]
 - Connects to [[step_012 (phase_075)
 - Related: [Outer Planes Xdmg]]
 - Originates from [[Keeper Temporal Safehaven 2
@@ -206,8 +197,7 @@ Seeks bodyguards for dangerous journey
 - Leads to
 - Parallels [[step_040 (phase_021)
 - Connects to [step_031 (phase_020)]]
-- Originates from [[Master of Currents Zephyr
-- See also: [economic_warfare_simulation_theory]]
+- Originates from [[economic_warfare_simulation_theory]]
 - See also: [[LORE00275_History_Entry_276
 - Originates from [SPELL00022_Divine_Spell_23]]
 - Leads to [[ITEM00900_Refined_Herb_of_Healing
@@ -229,18 +219,15 @@ Seeks bodyguards for dangerous journey
 - See also: [ENC00275_Combat_Encounter_276]]
 - Leads to [[Location City Conservatory of Memory V1 Conservatory of Memory.svg
 - Affected by [LOC0061_SouthMarsh]]
-- Parallels [[downtime-activity-research-xge (variant-rules)
-- Originates from [Elf Sea Mtf]]
+- Parallels [[downtime-activity-research-xge (variant-rules)]]
 - See also: [[list-spells-classes-arcane-archer-xge (lists)
 - Influences [Portal Network]]
-- Affected by [[ENC00110_Environmental_Encounter_111
-- Related: [Memory Keeper Lament (D&D_References)]]
+- Affected by [[Memory Keeper Lament (D&D_References)]]
 - Influences [[portrait-npc-the-senator-v1-the-senator.svg_1 (Portraits)
 - Connects to [LOC00137_Cities_Location_138]]
 - Affected by [[step_017 (phase_028)
 - Influences [Hat of Disguise Xdmg]]
-- Requires [[Crystal Keepers
-- Affected by [LOC00152_Dungeons_Location_153]]
+- Requires [[LOC00152_Dungeons_Location_153]]
 - Parallels [[NPC01148_Ysara_Grimholt_the_Bold
 - Originates from [NPC01926_Thalia_Dawnstrider_the_Strong]]
 - Requires [[handout-handout-docking-permit-docking-permit.png
@@ -250,19 +237,15 @@ Seeks bodyguards for dangerous journey
 - Leads to [[step_051 (phase_017)
 - Influences [step_100 (phase_064)]]
 - See also:
-- Originates from [[Burnt Othur Fumes Xdmg
-- Related:
-- Parallels [Captain Guard Peacehold (D&D_References)]]
-- Affected by [[NPC0132_Magnus_Darkwater
-- See also: [NPC01003_Erasmus_Voidwalker_the_Swift]]
+- Originates from [[Captain Guard Peacehold (D&D_References)]]
+- Affected by [[NPC01003_Erasmus_Voidwalker_the_Swift]]
 - Related: [[step_040 (phase_026)
 - Leads to [Balance Stones 2]]
 - Originates from [[Assets Locations Location City Artificer S Row V1 Artificer S Row.svg
 - Leads to [ITEM00771_Celestial_Mirror_of_Truth]]
 - Compare with [[The Memory Vaults
 - Originates from [step_077 (phase_085)]]
-- Leads to [[Blue Slaad Xmm
-- Connects to [ENC00011_Combat_Encounter_12]]
+- Leads to [[ENC00011_Combat_Encounter_12]]
 - Leads to [[step_089 (phase_018)
 - Connects to [Deinonychus Mpmm]]
 - Requires [[Symbol Heraldry the Cipher Current V1 the Cipher Current.svg
@@ -270,8 +253,7 @@ Seeks bodyguards for dangerous journey
 - Connects to [[warship-xphb (items)
 - Affected by [Swarm of Ravens Xmm]]
 - Requires
-- Requires [[step_025 (phase_055)
-- Requires [NPC01773_Drusilla_Silverleaf_the_Wanderer]]
+- Requires [[NPC01773_Drusilla_Silverleaf_the_Wanderer]]
 - Parallels [[Identity Storage Vaul
 - Affected by [step_022 (phase_077)]]
 - Influences [[Fragment Compass 2
@@ -280,15 +262,11 @@ Seeks bodyguards for dangerous journey
 - See also: [LORE00044_History_Entry_45]]
 - Leads to [[step_005 (phase_012)
 - Compare with [EVENT00098_Natural_Event_99]]
-- Connects to [[The Real Marina (D&D_References)
-- Influences [Real Name]]
+- Connects to [[The Real Marina (D&D_References)]]
 - Compare with
-- Influences [[NPC00363_Kaelen_Underhill_the_Strong
-- Compare with [Caravan Master Dolrim]]
+- Influences [[NPC00363_Kaelen_Underhill_the_Strong]]
 - Connects to
-- Parallels [[Victoria Harbormane (D&D_References)
-- Leads to
-- Compare with [Bag of Beans Xdmg]]
+- Parallels [[Victoria Harbormane (D&D_References)]]
 
 ## Visual References
 ![[03_People/portrait_captain_dara_ironwill_friendly.png

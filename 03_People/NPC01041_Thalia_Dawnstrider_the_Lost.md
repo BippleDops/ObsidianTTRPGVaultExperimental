@@ -165,28 +165,15 @@ Seeks rare merchandise
 - Special moves
 
 ## See Also
-- [[NPC01664_Pyria_Lightbringer_the_Redeemed
-- [NPC01177_Thalia_Underhill_the_Fallen]]
-- [[NPC01577_Orion_Moonshadow_the_Seeker
-- [NPC00885_Kaelen_Xendar_the_Lost]]
-- [[NPC01660_Thalia_Moonshadow_the_Fallen
-- [NPC00812_Kaelen_Jadeclaw_the_Seeker]]
-- [[Parliamentary_Voting_Guide
-- [NPC00407_Hestara_Dawnstrider]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [09 Adventuring]]
-- [[Combat_Encounter_Analysis
-- [Sanity_Quick_Reference.md]]
-- [[Quiet_Chapel_Oath_Scrol
-- [Session_Recaps]]
-- [[NPC00542_Corvus_Oakenshield_the_Strong
-- [11 Rules Glossary]]
-- [[MOC_Items
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00407_Hestara_Dawnstrider]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[Combat_Encounter_Analysis]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[MOC_Items]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -210,14 +197,12 @@ Seeks rare merchandise
 - Related: [Giant Lizard Xmm]]
 - See also: [[Portrait NPC the Siren S Mask V2 the Siren S Mask.svg
 - Affected by [Ogre Howdah Mpmm]]
-- Parallels [[LOC00291_Planes_Location_292
-- Leads to [step_023 (phase_032)]]
+- Parallels [[LOC00291_Planes_Location_292]]
 - Requires [[faerie-fire-xphb (spells)
 - Originates from [QUEST00375_Side_Quest_376]]
 - Parallels [[The Community Feast Halls_1 (02_Worldbuilding)
 - Leads to [Environmental Systems Suppliers]]
-- Parallels [[Brazen Gorgon Xmm
-- Related: [The Memory Bridge (D&D_References)]]
+- Parallels [[The Memory Bridge (D&D_References)]]
 - Originates from [[Arcana Uncommon Xdmg
 - Leads to [Depth Spirituality]]
 - Parallels [[Portrait NPC Memory Commerce V1 Memory Commerce.svg_1 (Portraits)
@@ -226,16 +211,13 @@ Seeks rare merchandise
 - Originates from
 - Originates from
 - Requires [Random Encounter Tables - Aquabyssos]]
-- Requires [[Unified Aquabyssos Legal Code 2
-- Requires [Russet Mold Vgm]]
+- Requires [[Unified Aquabyssos Legal Code 2]]
 - Influences [[LOC00051_Cities_Location_52
 - Originates from [NARRATIVE_DEEPENING_MASTER_PROMPT]]
 - Connects to [[step_033 (phase_024)
 - Leads to [Noble House Genealogies]]
-- Leads to [[step_076 (phase_047)
-- Influences [LOC00046_Dungeons_Location_47]]
-- Connects to [[NPC00681_Zephyr_Xendar_the_Seeker
-- Connects to [Representative Coral]]
+- Leads to [[LOC00046_Dungeons_Location_47]]
+- Connects to [[NPC00681_Zephyr_Xendar_the_Seeker]]
 - Connects to [[Location City Sentinel Constructs Sentinel Constructs.svg
 - Originates from [step_078 (phase_052)]]
 - Parallels [[Parliament of Echoes - Public Gallery 2
@@ -245,25 +227,21 @@ Seeks rare merchandise
 - Compare with [step_070 (phase_075)]]
 - Originates from [[Location City Truth Seeker Cornelius V1 Truth Seeker Cornelius.svg
 - Affected by [02_Worldbuilding_Items_Lightstone_Scanners]]
-- Connects to [[step_031 (phase_061)
-- Originates from [Portrait NPC Aeth... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Connects to [[Portrait NPC Aeth... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Influences [[MON00164_Undead_Creature_165
 - Affected by [Quest - Mother's Mercy_1 (01_Adventures)]]
 - Parallels [[aurochs-mpmm (beast)
 - Compare with
 - Connects to
 - Parallels [Portrait NPC Otherworldly Pacts V2 Otherworldly Pacts.svg]]
-- Connects to [[gulthias-blight-xmm (plant)
-- Affected by [Research Chief Helena Datapoint (D&D_References)]]
-- Connects to [[step_029 (phase_097)
-- See also: [Supply Master Cargo Deephaul]]
+- Connects to [[Research Chief Helena Datapoint (D&D_References)]]
+- Connects to [[Supply Master Cargo Deephaul]]
 - Influences
 - Originates from [[portrait-npc-captain-rescue-v2-captain-rescue.svg
 - Influences [The Past Warden (D&D_References)]]
 - Leads to [[Professor Diana Shadowbane 2
 - Related: [Banker Kess (D&D_References)]]
-- Leads to [[step_083 (phase_051)
-- See also: [NPC01747_Zephyr_Goldleaf_the_Swift]]
+- Leads to [[NPC01747_Zephyr_Goldleaf_the_Swift]]
 - Compare with [[LORE00051_Prophecies_Entry_52
 - Compare with [DUN00109_Dungeon_110]]
 - See also: [[Conjure Fey Xphb
@@ -274,8 +252,7 @@ Seeks rare merchandise
 - Requires [creature-size-and-space-xdmg (tables)]]
 - Affected by [[Assets Locations Location City Pool of Sacred Drowning Pool of Sacred Drowning.svg
 - Affected by [Portrait NPC Umbral Crystal Miners V2 Umbral Crystal Miners.svg_1 (Portraits)]]
-- Parallels [[Economic Intelligence (D&D_References)
-- Related: [Dr. Siphon Gillwater]]
+- Parallels [[Economic Intelligence (D&D_References)]]
 - Connects to [[EVENT00091_Natural_Event_92
 - Requires [step_086 (phase_048)]]
 - See also: [[step_054 (phase_067)
@@ -284,8 +261,7 @@ Seeks rare merchandise
 - Connects to [Quest - Legitimacy Campaign]]
 - Originates from [[Maestro Finn Whirlstep
 - See also: [ale-gallon (items)]]
-- Related: [[QUEST00185_Personal_Quest_186
-- Requires [NPC01913_Fiora_Grimholt_the_Broken]]
+- Related: [[NPC01913_Fiora_Grimholt_the_Broken]]
 - Connects to [[Portrait NPC Captain Nerida Stormcrest V1 Captain Nerida Stormcrest.svg
 - Requires [04_Resources_Assets_Symbols_symbol-heraldry-family-retaine-family-retaine.svg]]
 - Affected by [[step_015 (phase_041)
@@ -294,8 +270,7 @@ Seeks rare merchandise
 - Influences [Portrait NPC Quest the Failing Magic Quest the Failing Magic.svg]]
 - Compare with [[Location City Memory Keeper Ancient Nerida Memory Keeper Ancient Nerida.svg
 - Affected by [Captain Blackwater's Fate]]
-- Related: [[3 Animals
-- Originates from [SPELL00070_Divine_Spell_71]]
+- Related: [[SPELL00070_Divine_Spell_71]]
 - Affected by [[message-xphb (spells)
 - Influences [09_Performance]]
 - Influences [[ENC00380_Combat_Encounter_381

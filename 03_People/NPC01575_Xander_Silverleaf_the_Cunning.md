@@ -168,8 +168,7 @@ Knows secret about major threat
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -182,8 +181,7 @@ Knows secret about major threat
 
 ## Connections
 
-- Connects to [[ENC00335_Combat_Encounter_336
-- Influences [step_032 (phase_068)]]
+- Connects to [[ENC00335_Combat_Encounter_336]]
 - Requires [[step_071 (phase_020)
 - Affected by [step_070 (phase_075)]]
 - Connects to [[NPC01710_Orion_Ashford_the_Broken
@@ -205,19 +203,16 @@ Knows secret about major threat
 - Related: [step_022 (phase_042)]]
 - Parallels [[The Shadowthorn Combat System
 - Originates from [The Shadow Trade Network]]
-- Parallels [[Dynamite Stick Xdmg
-- Parallels [Culinary Critic Marina Tastebud (D&D_References)]]
+- Parallels [[Culinary Critic Marina Tastebud (D&D_References)]]
 - Affected by [[Handout Handout Guild License Certificate Guild License Certificate.png
 - Parallels [NPC00819_Lyanna_Proudmore_the_Fallen]]
 - Parallels [[Ships - Player_Handout_Aethermoor_Airships
 - Originates from [Location City Captain Marlowe Tidecrest V1 Captain Marlowe Tidecrest.svg]]
-- Leads to [[NPC00585_Brenna_Crystalbrook
-- Compare with [Forge Master Thorne]]
+- Leads to [[NPC00585_Brenna_Crystalbrook]]
 - Related:
 - Connects to [[word-of-radiance-xphb (spells)
 - Influences [ITEM00452_Mithril_Boots_of_Grace]]
-- Influences [[NPC01293_Aldric_Youngblood_the_Guardian
-- Affected by [Thornwick Hall (D&D_References)]]
+- Influences [[NPC01293_Aldric_Youngblood_the_Guardian]]
 - See also: [[step_048 (phase_037)
 - Connects to [09 Templates]]
 - Influences [[NPC00460_Elric_Goldleaf_the_Wanderer
@@ -251,8 +246,7 @@ Knows secret about major threat
 - Influences [Portrait NPC Quest the Pretender V1 Quest the Pretender.svg]]
 - Influences [[Dr Identity Crisis
 - Requires [step_091 (phase_071)]]
-- Requires [[Academic Contact
-- Requires [LOC00010_Planes_Location_11]]
+- Requires [[LOC00010_Planes_Location_11]]
 - Requires [[Forcecage Xphb
 - Compare with [FAC00022_Orders_23]]
 - Requires [[step_012 (phase_087)
@@ -261,25 +255,19 @@ Knows secret about major threat
 - Related: [Portrait NPC the Crimson Pearl V1 the Crimson Pearl.svg]]
 - See also: [[remove-curse-xphb (spells)
 - Connects to [Security Chief Voidguard]]
-- Requires [[step_091 (phase_016)
-- Influences [Crystal Storm Barriers (D&D_References)]]
+- Requires [[Crystal Storm Barriers (D&D_References)]]
 - Connects to [[step_089 (phase_018)
 - See also: [LORE00122_History_Entry_123]]
 - Affected by [[NPC01377_Malakai_Dawnstrider_the_Strong
 - See also: [Assets Symbols Symbol Heraldry Navigation Geograph Navigation Geograph.svg]]
 - Influences [[step_014 (phase_058)
 - Compare with [LOC0004_UpperHaven]]
-- Affected by [[The Void Watchers (D&D_References)
-- Related: [Gnome Gelf Darkhearth Mtf]]
-- Parallels [[Amber Xdmg
-- Influences [Captain Blackwater (D&D_Statblocks)]]
-- Leads to [[10-combat#Ranged Attacks in Close Combat
-- Influences
-- Influences [Sending Stone]]
+- Affected by [[The Void Watchers (D&D_References)]]
+- Parallels [[Captain Blackwater (D&D_Statblocks)]]
+- Leads to [[10-combat#Surprise]]
 - Requires [[War College of Depths 2
 - Influences [Location City Reality Stabilization Centers Reality Stabilization Centers.svg]]
-- Affected by [[Chief Philosopher Marina Clearpool (D&D_References)
-- Connects to [ITEM00287_Radiant_Staff_of_the_Ancients]]
+- Affected by [[Chief Philosopher Marina Clearpool (D&D_References)]]
 - Originates from
 - Originates from [[Physical Characteristics Beholder Eyestalk Shape Vgm
 

@@ -67,10 +67,8 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 > Useful information for players
 
 ## See Also
-- [[NPC_Relationship_Web.png_1 (03_People)
-- [NPC01699_Orion_Oakenshield_the_Broken]]
-- [[NPC00259_Delara_Proudmore
-- [NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
 -
 
 ## Game Mechanics
@@ -84,33 +82,26 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 
 ## Connections
 
-- See also: [[NPC01436_Zephyr_Moonshadow_the_Mystic
-- Related: [DUN00084_Dungeon_85]]
+- See also: [[NPC01436_Zephyr_Moonshadow_the_Mystic]]
 - See also: [[location-city-withered-court-v1-withered-court.svg
 - Influences [step_078 (phase_097)]]
 - Compare with [[ITEM00645_Ethereal_Leather_of_the_Guardian
 - Originates from [black-pearl-xdmg (items)]]
 - Leads to [[Creature Creature Githyanki Knight Xmm V3 Githyanki Knight Xmm.png
 - Leads to [step_075 (phase_044)]]
-- Influences [[Embassy Districts
-- Originates from [Master Illusion Kyrian Mindweaver]]
-- Influences [[MON00095_Constructs_Creature_96
-- Parallels [ITEM0102_Glorious_Tome_of_the_Dawn]]
-- Compare with [[blue-abishai-mpmm (fiend)
-- Related: [Merchant Prince Goldwind Crysalborn (D&D_References)]]
+- Influences [[Master Illusion Kyrian Mindweaver]]
+- Influences [[ITEM0102_Glorious_Tome_of_the_Dawn]]
+- Compare with [[Merchant Prince Goldwind Crysalborn (D&D_References)]]
 - See also: [[Assets Portraits Portrait NPC Quest the Sanctuary S Secret Quest the Sanctuary S Secret.svg
 - Influences [Memory of Heroes]]
 - Influences [[LOC00107_Cities_Location_108
 - Compare with [Krake (D&D_References)]]
 - Originates from [[step_013 (phase_063)
 - See also: [Assets Portraits Portrait NPC Quest the Kingpin S Fall Quest the Kingpin S Fall.svg]]
-- See also: [[LOC00044_Planes_Location_45
-- Influences [Stone Giant Xmm]]
+- See also: [[LOC00044_Planes_Location_45]]
 - Originates from
 - Leads to
-- Affected by [[step_056 (phase_089)
-- Related:
-- Connects to [Drill Commander Titanius Ironcrystal 2]]
+- Affected by [[Drill Commander Titanius Ironcrystal 2]]
 - Originates from [[step_094 (phase_050)
 - See also:
 - Leads to [step_008 (phase_009)]]
@@ -119,16 +110,14 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - See also: [[step_056 (phase_068)
 - Leads to
 - Compare with [Quest - Succession Crisis 2]]
-- Connects to [[ITEM00286_Venomous_Axe_of_Wounding
-- Compare with [Dynamic_NPC_Personality_Matrix (D&D_References)]]
+- Connects to [[Dynamic_NPC_Personality_Matrix (D&D_References)]]
 - See also: [[Memory Restoration Devices
 - Connects to [step_019 (phase_098)]]
 - Affected by [[Rapier Xphb
 - Influences [Scene Scene Shadow Market Under Rain V1 Shadow Market Under Rain.svg]]
 - Influences [[Wind Rider Orders (Organizations)
 - Requires [Crystal Resonance (Lore)]]
-- Influences [[fishing-tackle (items)
-- Connects to [Chaplain Father Blessing Hopekeeper (D&D_References)]]
+- Influences [[Chaplain Father Blessing Hopekeeper (D&D_References)]]
 - Parallels [[Location City Barkeep Mira Algaebrew V1 Barkeep Mira Algaebrew.svg
 - Parallels [Assets Locations Location City the Living Weapon the Living Weapon.svg]]
 - Influences [[ITEM01006_Distilled_Oil_of_Healing
@@ -147,16 +136,14 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Related: [Royal_Academy_of_Arcane_Arts (Places)]]
 - Influences [[Assets Locations Location City Temple of Justice Temple of Justice.svg
 - Compare with [Assets Handouts Handout Handout Smuggler Ledger Page V1 Smuggler Ledger Page.png]]
-- Requires [[Memoriam Keeper Marcus Remembrance 2
-- Parallels [Political Intrigue of Meridian 2]]
+- Requires [[Memoriam Keeper Marcus Remembrance 2]]
 - Originates from [[FAC00050_Cults_51
 - Connects to [Platinum Pp]]
 - Originates from [[step_042 (phase_005)
 - Affected by [Border Territories]]
 - Connects to [[step_089 (phase_064)
 - Leads to [Random Buildings Religious Building]]
-- Connects to [[Runaway_Golem_Quest
-- Connects to [Quest - The Blackmail Papers]]
+- Connects to [[Quest - The Blackmail Papers]]
 - Affected by [[SHOP00039_General_Shop_40
 - Connects to [ENC00216_Combat_Encounter_217]]
 - Leads to
@@ -164,8 +151,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - See also: [step_075 (phase_091)]]
 - Originates from [[step_042 (phase_085)
 - Influences [Quest - Rescue the Originals_1 (01_Adventures)]]
-- See also: [[NPC01265_Fiora_Hawthorne_the_Mystic
-- Originates from [weasel-xmm (beast)]]
+- See also: [[NPC01265_Fiora_Hawthorne_the_Mystic]]
 - See also: [[Assets Locations Location City New Tethys V1 New Tethys.svg
 - Parallels [QUEST00152_Side_Quest_153]]
 - Related: [[Deck of Many Things 13 Cards Xdmg
@@ -180,10 +166,8 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Parallels [Shadow's End]]
 - Influences [[step_097 (phase_022)
 - Affected by [EVENT00027_Magical_Event_28]]
-- Influences [[Aethermoor - Session 05 The Queens Madness
-- See also: [Session 07 (06_Sessions)]]
-- Leads to [[NPC01715_Kaelen_Stormwind_the_Redeemed
-- Connects to [greatsword-xphb (items)]]
+- Influences [[Aethermoor - Session 05 The Queens Madness]]
+- Leads to [[NPC01715_Kaelen_Stormwind_the_Redeemed]]
 
 ## Visual References
 ![[02_Worldbuilding/locations/location_scream_saturation_rules_night.png

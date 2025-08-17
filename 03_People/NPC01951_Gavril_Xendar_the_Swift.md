@@ -221,8 +221,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels
 - Connects to [[Void Realm Territories 2
 - Leads to [the-norse-pantheon-norse-deities-phb (tables)]]
-- Influences [[Deepmind Conspiracy
-- Originates from [NPC01423_Baelor_Grimholt_the_Bold]]
+- Influences [[NPC01423_Baelor_Grimholt_the_Bold]]
 - See also: [[step_097 (phase_099)
 - Related:
 - Influences [Etheric Currents]]
@@ -231,11 +230,9 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[Assets Locations Location City [Age of Wonders V1 Age of Wonders.svg]]
 - Influences [[Memory Bank Central 2
 - Affected by [Quest - The Deep Alliance_1 (01_Adventures)]]
-- Parallels [[QUEST00130_Side_Quest_131
-- Requires [step_065 (phase_088)]]
+- Parallels [[QUEST00130_Side_Quest_131]]
 - Parallels [[Assets Locations Location City [Deep Mother Spawning Pools Deep Mother Spawning Pools.svg]]
-- See also: [[step_043 (phase_057)
-- Requires [Player_Handout_Merger_Vessels (Ships)]]
+- See also: [[Player_Handout_Merger_Vessels (Ships)]]
 - Requires [[step_063 (phase_067)
 - See also: [[Assets Locations Location City [Keepers of Memory]] V1 Keepers of Memory.svg]]
 - Related: [[Boots of False Tracks Xdmg
@@ -245,18 +242,16 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [portrait-npc-knight-knight.svg_1 (Portraits)]]
 - Affected by [[step_010 (phase_022)
 - Influences [[[Wealthy Goldstream]] (D&D_References)]]
-- Requires [[Crystal Singing (D&D_References)
-- Leads to [step_043 (phase_070)]]
+- Requires [[Crystal Singing (D&D_References)]]
 - Parallels [[step_089 (phase_091)
 - Originates from [LOC00108_Planes_Location_109]]
-- Originates from [[[The Shadowmere 2]]
+- Originates from [[The Shadowmere 2]]
 - Compare with [[QUEST00234_Side_Quest_235
 - Originates from [LOC00258_Planes_Location_259]]
 - See also: [[04_Resources_Assets_Locations_location-city-hadrian-depthbridge-v1-hadrian-depthbridge.svg
 - Leads to [ITEM00628_Adamantine_Shield_of_Resistance]]
-- Connects to [[[Treaty of the Depths 2]]
-- Requires [[Border Territories 2
-- Requires [Quest - Original Liberation]]
+- Connects to [[Treaty of the Depths 2]]
+- Requires [[Quest - Original Liberation]]
 - Requires [[FAC00017_Guilds_18
 - Leads to [supplemental-tables-childhood-memories-xge (tables)]]
 - Originates from [[quaals-feather-token-anchor-xdmg (items)
@@ -273,24 +268,20 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to
 - Requires [[step_004 (phase_051)
 - Leads to [Portrait NPC Embassy of Eternal Shadows Embassy of Eternal Shadows.svg_1 (Portraits)]]
-- Affected by [[Portrait NPC Curr... Related To: Local Political Structure Connected Plots: to Be Developed
-- Related: [Void Magic (D&D_References)]]
+- Affected by [[Portrait NPC Curr... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Originates from [[step_078 (phase_005)
 - Leads to [step_076 (phase_066)]]
 - Related: [[mind-spike-xphb (spells)
 - Affected by [[[Merchant]]s Guild.md (Groups)]]
 - Compare with [[Biomancer Corvus Intestinal (D&D_References)
 - Influences [[Assets Locations Location City [Novelist Current Stories]] V1 Novelist Current Stories.svg]]
-- Requires [[Religious Service Xge
-- Originates from [Arctic Encounters Levels 510 Xge]]
+- Requires [[Arctic Encounters Levels 510 Xge]]
 - Related: [[Assets Item Artifact Whelm Xdmg V5 Whelm Xdmg.png
 - Compare with [step_035 (phase_083)]]
-- Influences [[Disguise Kit Xphb
-- Affected by [Chancellor's Advisory Council]]
+- Influences [[Chancellor's Advisory Council]]
 - Influences [[location-city-port-quarter-v1-port-quarter.svg
 - Connects to [step_059 (phase_061)]]
-- Connects to [[NPC00195_Rhiannon_Blackstone
-- Requires [step_051 (phase_008)]]
+- Connects to [[NPC00195_Rhiannon_Blackstone]]
 - Compare with [[witherbloom-trinket-scc (items)
 - Parallels [The_Festival_Council]]
 - Influences [[Master [Artificer Crystal Brightforge]]
@@ -300,8 +291,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [SHOP00038_Magical_Shop_39]]
 - Connects to [[Derro Mpmm
 - Influences [04_Resources_Assets_Locations_location-city-choir-master-celestine-hymnsinger-v1-choir-master-celestine-hymnsinger.svg]]
-- See also: [[step_011 (phase_018)
-- Originates from [ENC00162_Environmental_Encounter_163]]
+- See also: [[ENC00162_Environmental_Encounter_163]]
 - Influences [[Deep Mystic Aurelius Glowseeker (D&D_References)
 - Originates from [Portrait NPC Intelligence Services V2 Intelligence Services.svg_1 (Portraits)]]
 

@@ -127,71 +127,28 @@ History, Sleight of Hand, Perception
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- [[Political Alliances
-- Upcoming social events
-
-## Plot Hook
-Wants rivals investigated
-
-## DM Notes
-- Adjust stats based on party level
-- Secrets can drive major plot points
-- Relationships create web of connections
-- Use quirks for memorable roleplay
-
----
-*Generated: 2025-08-15T03:51:03.131Z*
-
-## Voice & Mannerisms
-- Speaking style
-- Common phrases
-
-## Daily Routine
-- Morning activities
-- Evening habits
-
-## Combat Tactics
-- Preferred strategies
-- Special moves
-
-## See Also
-- [NPC00582_Cedric_Dawnstrider]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[NPC00739_Gavril_Ashford_the_Bold
-- [NPC01877_Hestara_Moonshadow_the_Mystic]]
-- [[NPC00927_Aldric_Ironwood_the_Wanderer
-- [NPC01687_Aldric_Youngblood_the_Cunning]]
-- [[NPC00761_Aldric_Moonshadow_the_Guardian
-- [NPC01894_Aldric_Lightbringer_the_Bold]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [NPC01624_Corvus_Silverleaf_the_Redeemed]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [NPC00388_Ysara_Goldleaf]]
+- [[Political Alliances]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
 - [[NPC00283_Kaelen_Zephyrblade_the_Bold
 - [Assets Portraits Portrait NPC the Waking Prophets the Waking Prophets.svg]]
-- [[NPC01699_Orion_Oakenshield_the_Broken
-- [NPC01476_Qadim_Stormwind_the_Wise]]
-- [[NPC00525_Fiora_Proudmore_the_Wanderer
-- [NPC00300_Urien_Zephyrblade]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [Propaganda_Leaflet_Pearl_Guar]]
-- [[NPC00461_Branwen_Proudmore_the_Strong
-- [Party_Quests]]
-- [[NPC00815_Baelor_Thornweave_the_Swift
-- [NPC00276_Ysara_Youngblood]]
-- [[Calendar_Conversions_Realm_Window
-- [NPC00395_Aeliana_Thornweave]]
-- [[Player_Feedback_Form.md
-- [11 Rules Glossary]]
-- [[NPC00362_Pyria_Stormwind_the_Wise
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC00525_Fiora_Proudmore_the_Wanderer]]
+- [[NPC00885_Kaelen_Xendar_the_Lost]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[Player_Feedback_Form]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -208,24 +165,18 @@ Wants rivals investigated
 
 - Connects to [[The Shadowwatch Bastion
 - See also: [step_038 (phase_090)]]
-- Related: [[LOC00194_Cities_Location_195
-- Requires [Commercial District]]
-- Affected by [[NPC01474_Hilda_Brightblade_the_Broken
-- See also: [step_053 (phase_077)]]
-- Requires [[Professor Abyssal Deepthought
-- Compare with [The Republican Coalition (D&D_References)]]
+- Related: [[LOC00194_Cities_Location_195]]
+- Affected by [[NPC01474_Hilda_Brightblade_the_Broken]]
+- Requires [[The Republican Coalition (D&D_References)]]
 - Influences [[Portrait NPC Duke Cyrus Reefheart Duke Cyrus Reefheart.svg
 - Compare with [step_021 (phase_047)]]
 - Related: [[Enterprise Director Duskwork
 - See also: [SPELL00095_Arcane_Spell_96]]
-- Connects to [[[Ancient Treasury of Tides (D&D_References)]]
-- Parallels [[NPC01807_Cedric_Underhill_the_Seeker
-- Parallels [Plate Armor Xphb]]
+- Connects to [[Ancient Treasury of Tides (D&D_References)]]
+- Parallels [[NPC01807_Cedric_Underhill_the_Seeker]]
 - Affected by
-- Originates from [[[Archaeological Discoveries (D&D_References)]]
-- Connects to [[Empress Tethys the Ever-Drowning (D&D_References)
-- Related:
-- Related: [[[Insurance Industry]] (D&D_References)]]
+- Originates from [[Archaeological Discoveries (D&D_References)]]
+- Connects to [[Empress Tethys the Ever-Drowning (D&D_References)]] (D&D_References)]]
 - See also: [[Location City Scream Saturation [Scream Saturation Rules.svg]]
 - See also: [[step_041 (phase_069)
 - Connects to [Session 5 Conspiracy Revealed_1 (06_Sessions)]]
@@ -235,28 +186,23 @@ Wants rivals investigated
 - Affected by [[Assets Locations Location City Kelp Silk V1 Kelp Silk.svg
 - Compare with
 - Requires [[[Shadow Surgery Network]] 2]]
-- Connects to [[SPELL00050_Divine_Spell_51
-- Originates from [Services Emergency Protocol Certification]]
+- Connects to [[Services Emergency Protocol Certification]]
 - Affected by [[Observatory Charm Xdmg
 - Requires [step_032 (phase_053)]]
-- Requires [[NPC00370_Drusilla_Hawthorne_the_Mystic
-- Influences [NPC00862_Xander_Grimholt]]
-- Compare with [[rod-of-lordly-might-xdmg (items)
-- Connects to [Young Diver Coral Swiftcurrent (D&D_References)]]
+- Requires [[NPC00370_Drusilla_Hawthorne_the_Mystic]]
+- Compare with [[Young Diver Coral Swiftcurrent (D&D_References)]]
 - Requires [[Aurelius Goldwave (Lore)
 - Affected by [portrait-npc-duke-hadal-duke-hadal.svg]]
 - Parallels [[alchemists-doom-scc (items)
 - Affected by [Quest - The Deep Incursion_1 (01_Adventures)]]
-- Parallels [[[Syndicate Enforcers (D&D_References)]]
+- Parallels [[Syndicate Enforcers (D&D_References)]]
 - Compare with [[7-credits (xanathars-guide-to-everything)
 - Influences [NPC01811_Dara_Grimholt_the_Fallen]]
 - Affected by [[SPELL00113_Nature_Spell_114
 - Connects to [SPELL00128_Nature_Spell_129]]
-- Parallels [[LOC00098_Dungeons_Location_99
-- Connects to [step_079 (phase_100)]]
-- See also: [[ITEM0076_Eldritch_Shield_of_the_Dawn
-- See also: [Shadow Operations Base (D&D_References)]]
-- Requires [[[Warrior Scarredheart 2]]
+- Parallels [[LOC00098_Dungeons_Location_99]]
+- See also: [[Shadow Operations Base (D&D_References)]]
+- Requires [[Warrior Scarredheart 2]]
 - Parallels [[Ambassador Reed Treatymaker
 - Affected by [step_010 (phase_048)]]
 - Leads to [[MON00045_Undead_Creature_46
@@ -265,15 +211,12 @@ Wants rivals investigated
 - Affected by [dark-gift-of-seriach-the-hell-hound-whisperer-cos]]
 - Related: [[step_006 (phase_071)
 - Originates from [LOC00225_Dungeons_Location_226]]
-- Connects to [[The Neural Clusters (D&D_References)
-- Requires [step_076 (phase_034)]]
+- Connects to [[The Neural Clusters (D&D_References)]]
 - Parallels [[04_Resources_Assets_Art_Places_[Brother_Matthias_Inkdrinker.png]]
-- Affected by [[step_010 (phase_075)
-- See also: [Session 05 (The_Sunken_Conspiracy)]]
+- Affected by [[Session 05 (The_Sunken_Conspiracy)]]
 - Related: [[step_046 (phase_037)
 - Leads to [massive-damage-system-shock (tables)]]
-- Leads to [[LOC00045_Wilderness_Location_46
-- Parallels [Location Name 2 (Places)]]
+- Leads to [[LOC00045_Wilderness_Location_46]]
 - Affected by [[Culinary Dreamweaver [Sage Gentlespice]]
 - Connects to [[LOC00118_Dungeons_Location_119
 - Influences [laser-pistol-xdmg (items)]]
@@ -284,14 +227,13 @@ Wants rivals investigated
 - Parallels [[Assets Locations Location City [The Threshold Chambers the Threshold Chambers.svg]]
 - Originates from [[Crystal Caves of Luminar 2
 - Compare with [FAC00098_Orders_99]]
-- Compare with [[step_094 (phase_057)
-- See also: [ENC00243_Combat_Encounter_244]]
+- Compare with [[ENC00243_Combat_Encounter_244]]
 - Related: [[Border Castles
 - Connects to [step_028 (phase_032)]]
 - Originates from [[Tiefling Asmodeus Mtf
 - Connects to [[Assets Locations [Location City the Lighthouse Keeper S Ghost the Lighthouse Keeper S Ghost.png]]]]
 - Requires
-- Influences [[[[Keeper [Finn Goodtide]] (D&D_References)]]
+- Influences [[Finn Goodtide]] (D&D_References)]]
 - Requires [[step_096 (phase_067)
 - Compare with [step_097 (phase_078)]]
 - Requires [[wild-magic-zone-xdmg (traps-hazards)
@@ -301,7 +243,7 @@ Wants rivals investigated
 - Compare with [[step_093 (phase_067)
 - Compare with
 - Parallels [[[Ambassador Silk Bridgewater]] (D&D_References)]]
-- Affected by [[[Merchant Delilah Currentrunner]]
+- Affected by [[Merchant Delilah Currentrunner]]
 - Affected by [[step_007 (phase_005)
 - Affected by [[Location City [Ancient Echo Truthfinder]] Ancient Echo Truthfinder.svg]]
 - Connects to [[The Pressure Maelstroms

@@ -54,7 +54,7 @@ corruption_exposure: 2
 danger_level: 5
 date: duration_hours: 4
 encounters:
-- '[[[Crystal Cult]] [[Initiates Ambush]]'
+- '[[[Crystal Cult]] [[Crystal Cult Initiates Ambush]]'
 
 gold_gained: 150
 items_gained:
@@ -63,17 +63,16 @@ items_gained:
 - Letter of introduction from Marina
 
 locations_visited:
-- '[[[Harbor District]]'
+- '[[Harbor District]]'
 - '[[Pier 7'
-- '[[[The Siren]]''s [[Rest Tavern]]'
-- '[[[[Harbor District [Customs House]]]]'
-- '[[[Lamplight Alley]]'
+- '[[[The Siren]]''s [[Diver's Rest Tavern]]'
+- '[[Harbor District]]]]'
+- '[[Lamplight Alley]]'
 
 npcs_met:
-- '[[[Captain Lyanna Brightshield]]'
-- '[[Marina-Red-Tide-Coralheart'
-- "[02_Worldbuilding]]"
-- '[[[Brother Marcus Steelbane]]'
+- '[[Captain Lyanna Brightshield]]'
+- '[[Marina-Red-Tide-Coralheart]]"
+- '[[Brother Marcus]]'
 
 obsidian UIMode: preview
 players: []
@@ -83,11 +82,11 @@ plot_threads:
 - Singing crystals near [Forgotten Isles]]
 - Nightmares of drowning in crystal caves
 
-primary_location: '[[[Harbor District]]'
+primary_location: '[[Harbor District]]'
 quests_completed: []
 quests_progressed: []
 quests_started:
-- '[[Investigate the [Crystal Plague]]'
+- '[[Crystal Plague]]'
 - '[[[[Missing Persons of [Port Meridian]]]]'
 
 session: Session-01
@@ -104,13 +103,13 @@ The party witnesses a crystallized corpse being pulled from [[Port Meridian's ha
 **Description:** The party arrives at the harbor as dock workers use hooks to pull something from the water. It's a crystallized corpse - a sailor whose body has transformed into purple crystal. As the workers lift it onto the pier, the corpse suddenly shatters with a sound like breaking glass. A pulse of violet energy erupts outward. **Mechanical:** Everyone within 10 feet makes **DC 12** Constitution save or gains 1 level of crystal exposure. #### Event 1: [The Shattered]] [[Sailor Investigation
 
 **Location:** [Pier 7]]
-**NPCs:** [[[Captain Lyanna Brightshield]], [[[Dock Worker Tomás]]
+**NPCs:** [[Captain Lyanna Brightshield]], [[Dock Worker Tomás]]
 **Outcome:** - Party learns corpse wore [[Meridian Navy uniform
 - Sailor identified as missing for 3 weeks
 - [Captain Brightshield]] recruits party to investigate
-- [[Purist Coalition blames [Crimson Hand]] for "magical terrorism" #### Event 2: [[Information Gathering at the Siren's Rest
+- [[Purist Coalition]] for "magical terrorism" #### Event 2: [[Information Gathering at the Siren's Rest
 
-**Location:** [[[The Siren]]'s [[Rest Tavern]]
+**Location:** [[[The Siren]]'s [[Diver's Rest Tavern]]
 **NPCs:** [[Marina-Red-Tide-Coralheart, various smugglers
 **Outcome:**
 - Marina trades information for favors
@@ -118,15 +117,15 @@ The party witnesses a crystallized corpse being pulled from [[Port Meridian's ha
 - Learn about "singing crystals" near [Forgotten Isles]]
 - Marina provides map fragment if impressed #### Event 3: [[The Quarantine Ward
 
-**Location:** [[[Harbor District]] [[Customs House]]
-**NPCs:** [[[Brother Marcus Steelbane]], plague victims
+**Location:** [[Harbor District]] [[Customs House]]
+**NPCs:** [[Brother Marcus]], plague victims
 **Outcome:**
 - Witness overwhelmed medical facilities
 - Learn all victims share nightmares of drowning
 - [[Brother Marcus hints at transmutation experiments
 - Families demand access, creating moral dilemma #### Event 4: [Night Ambush]]
 
-**Location:** [[[Lamplight Alley]]
+**Location:** [[Lamplight Alley]]
 **NPCs:** [[Crystal Cult Initiates (4)
 **Outcome:**
 - Cultists attempt to kidnap/silence party
@@ -135,17 +134,17 @@ The party witnesses a crystallized corpse being pulled from [[Port Meridian's ha
 - Find coded message about meeting location ### [Closing Scene]]
 
 **Location:** Party's lodgings
-**Cliffhanger:** Investigation reveals all clues point to the abandoned [[Lighthouse_of_Storms|Lighthouse of Storms on [[[Whisper Island]]]]. As night falls, a pillar of violet light erupts from the lighthouse, visible across the entire harbor. The light pulses three times, and every plague victim in the city screams simultaneously. ### Combat
+**Cliffhanger:** Investigation reveals all clues point to the abandoned [[Lighthouse_of_Storms|Lighthouse of Storms on [[Whisper Island]]]]. As night falls, a pillar of violet light erupts from the lighthouse, visible across the entire harbor. The light pulses three times, and every plague victim in the city screams simultaneously. ### Combat
 
 | Encounter | Location | Difficulty | Outcome |
 |-----------|----------|------------|---------|
-| [[[[Crystal Cult [Initiates Ambush]]]] | [[[Lamplight Alley]] | Medium | 4 cultists with crystalline daggers | ### Social
+| [[[[Crystal Cult [Initiates Ambush]]]] | [[Lamplight Alley]] | Medium | 4 cultists with crystalline daggers | ### Social
 
 | NPC | Location | Purpose | Outcome |
 |-----|----------|---------|---------|
-| [[[Captain Lyanna Brightshield]] | [[Pier 7 | Quest giver | Investigate plague |
+| [[Captain Lyanna Brightshield]] | [[Pier 7 | Quest giver | Investigate plague |
 | [Marina-Red-Tide-Coralheart]] | [[[[The Siren's [Rest Tavern]]]] | Information | Map and connections |
-| [[[Brother Marcus Steelbane]] | [[[Customs House]] | Medical aid | Plague insights | ### Advanced
+| [[Brother Marcus]] | [[Customs House]] | Medical aid | Plague insights | ### Advanced
 
 None this session ### Completed ### Items
 
@@ -154,7 +153,7 @@ None this session ### Completed ### Items
 | Vial of purple liquid | Cult initiates | Party | Magical reagent |
 | Map fragment | [[Marina-Red-Tide-Coralheart | Party | Shows shipping routes |
 | Letter of introduction | [Marina-Red-Tide-Coralheart]] | Party | Social tool |
-| 2 potions of lesser restoration | [[[Brother Marcus Steelbane]] | Party | 100gp each | ### Gold
+| 2 potions of lesser restoration | [[Brother Marcus]] | Party | 100gp each | ### Gold
 
 Total: 150gp from cultists
 
@@ -170,7 +169,7 @@ Total XP: 750
 
 Track each character's exposure level (0-6 scale) ## Hooks for [Next Session]]
 
-1. Journey to [[[Whisper Island]] to investigate lighthouse
+1. Journey to [[Whisper Island]] to investigate lighthouse
 2. Violet light pillar suggests major ritual or summoning
 3. Synchronized screaming implies psychic connection
 4. [[Captain Blackwater's ship might be at the island ### [Exposure Levels]]
@@ -191,9 +190,9 @@ Track each character's exposure level (0-6 scale) ## Hooks for [Next Session]]
 - Someone is hunting information for money
 - Strange dreams suggest ancient magic ## [[Related Notes - [[[Similar Topic]] 1]]
 
-- [[[Contrasting Approach]]
-- [[[Advanced Version]]
-- [[[Historical Context]] ## 12_Research [[Specific Content]] Contextual improvement based on 12_Research
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]] ## 12_Research [[Specific Content]] Contextual improvement based on 12_Research
 
 ## Notes
 

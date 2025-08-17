@@ -42,7 +42,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: draft
-location: '[[[Port Meridian]] - [[Noble Quarter'
+location: '[[Port Meridian]] - [[Noble Quarter'
 level: 3
 session_number: 3
 date_played: [My Category]]: Unknown
@@ -51,23 +51,23 @@ date_played: [My Category]]: Unknown
 estimated_time: 3-4 hours
 npcs_featured:
 - '[[[Lord Aurelius]] Goldwave]]'
-- '[[[High Inquisitor Maltheos]]'
-- '[[[Captain Lyanna Brightshield]]'
-- '[[[Brother Marcus Steelbane]]'
-- '[[[Silver Mask]]'
+- '[[High Inquisitor Maltheos]]'
+- '[[Captain Lyanna Brightshield]]'
+- '[[Brother Marcus]]'
+- '[[Silver Mask]]'
 
 obsidian UIMode: preview
 quests_advanced:
-- '[[[Political Intrigue of Meridian]]'
+- '[[Political Intrigue of Meridian]]'
 - '[[[[The Seven [Shards Mystery]]]]'
-- '[[Investigate the [Crystal Plague]]'
+- '[[Crystal Plague]]'
 
 updated: '2025-08-13T12:34:17.834831+00:00'
 world: Aethermoor
 
 --- # Session 3: Council of Shadows > *"In politics, the deadliest shadows are cast by those claiming to bring light."* ## 🔧 [[Deep Evaluation Improvements *20 targeted improvements identified* ### [Connection Improvements]] - Add cross-references to related notes ### [[Enhancement Improvements - Add 12_Research-specific enhancement ## 🎭 [Strong Start]]
 
-The party is summoned to an emergency council, but arrives to find [[[Lord Aurelius Goldwave]] murdered in his study, his body partially crystallized. A [[Purist Coalition pin is clutched in his dead hand, but the crystal pattern suggests magical assassination. City guards are already trying to arrest a [Crimson Hand]] suspect. ### Scene 1: [[The Murder Scene
+The party is summoned to an emergency council, but arrives to find [[Aurelius Goldwave]] murdered in his study, his body partially crystallized. A [[Purist Coalition pin is clutched in his dead hand, but the crystal pattern suggests magical assassination. City guards are already trying to arrest a [Crimson Hand]] suspect. ### Scene 1: [[The Murder Scene
 
 **Location**: [[[Goldwave Manor]]]] study
 **Situation**: Investigating the lord's death before guards contaminate evidence
@@ -77,14 +77,14 @@ The party is summoned to an emergency council, but arrives to find [[[Lord Aurel
 - Purist pin was placed post-mortem (no grip marks)
 - Hidden safe contains documents about plague origin
 - Window lock broken from inside, not outside
-- Traces of rare arcane component (only sold at [[[Shadow Bazaar]]]]) **[[Skill Challenges**:
+- Traces of rare arcane component (only sold at [[Shadow Bazaar]]]]) **[[Skill Challenges**:
 - Investigation **DC 14**: Find hidden safe
 - Medicine **DC 15**: Determine true cause of death
 - Arcana **DC 13**: Identify magical assassination method
 - Persuasion **DC 16**: Convince guards to delay arrest **Discovery**: [Lord Goldwave]] was about to reveal evidence about the plague's origin ### Scene 2: [[The Secret Council
 
 **Location**: Hidden chamber beneath [Cathedral of Light]]
-**Situation**: [[[High Inquisitor Maltheos]] chairs emergency faction meeting
+**Situation**: [[High Inquisitor Maltheos]] chairs emergency faction meeting
 **Conflict**: Accusations fly between all factions #### [[Faction Representatives
 
 - **[Crimson Hand]]**: Defensive, claims frame-up
@@ -108,7 +108,7 @@ The party is summoned to an emergency council, but arrives to find [[[Lord Aurel
 - Report findings only to [Silver Mask]]
 - Accept magical geas (Zone of Truth compulsion) **Discovery**: [[Queen Seraphina hasn't been seen publicly in two weeks ### Scene 4: [The Midnight]] Market
 
-**Location**: [[[Shadow Bazaar]] (illegal magical market)
+**Location**: [[Shadow Bazaar]] (illegal magical market)
 **Situation**: Following leads to crystal plague cure sellers
 **Conflict**: Ambush by corrupted city watch #### [[Market Investigation
 
@@ -128,7 +128,7 @@ The party is summoned to an emergency council, but arrives to find [[[Lord Aurel
 9. Seven noble houses have identical locked vaults dated from 200 years ago
 10. [The Cathedral]]'s foundation stones are actually ancient crystal formations ## 🎬 [[Cliffhanger Ending
 
-During the midnight market raid, [[[Brother Marcus]] Steelbane]] arrives frantically. He's made a breakthrough—the plague isn't a disease, it's a transformation preparing hosts for something. As he explains, crystalline veins suddenly spread across his face. He gasps: "[[The Queen... At the [Crystal Festival]]... Seven shards unite... [[The Drowned God..." before collapsing into crystal stasis. [The Festival]] is in one week. ## 🎲 [[Quick Adjustments
+During the midnight market raid, [[[Brother Marcus]] Steelbane]] arrives frantically. He's made a breakthrough—the plague isn't a disease, it's a transformation preparing hosts for something. As he explains, crystalline veins suddenly spread across his face. He gasps: "[[Crystal Festival]]... Seven shards unite... [[The Drowned God..." before collapsing into crystal stasis. [The Festival]] is in one week. ## 🎲 [[Quick Adjustments
 
 **[If Running]] Short on Time**: - Skip the midnight market
 - [[Have Marcus arrive during council **[If Party]] [[Needs More Direction**:
@@ -170,7 +170,7 @@ During the midnight market raid, [[[Brother Marcus]] Steelbane]] arrives frantic
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

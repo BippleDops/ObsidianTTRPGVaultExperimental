@@ -28,7 +28,7 @@
 - One folder per purpose
 
 ### 4. ❌ NEVER create files from broken links
-- Broken [[links]] should be FIXED not CREATED
+- Broken [[Link]] should be FIXED not CREATED
 - Don't generate .md files for missing targets
 - Don't create step_XXX or phase_XXX files
 - Don't create .png.md or .json.md files

@@ -7,16 +7,13 @@ tags:
 created: '2025-01-15'
 ---
 
-# Session 1 the [[Queens Summons 1
-
-## Overview
-This topic is referenced in [[[Deep Compressmaster]]]] and other parts of the campaign.
+# Session 1 the [[Session 1 the Queens Summons 1]]]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[[Deep Compressmaster]]
+- Referenced by: [[Deep Compressmaster]]
 - Related topics in the same category
 
 ## Details
@@ -32,7 +29,7 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[[[Assets Locations [Location City]] [[Deep Compressmaster [Deep Compressmaster]].svg]]
+- [[Assets Locations]] [[Deep Compressmaster]].svg]]
 
 ## [[Session Summary
 *Brief overview of this session*
@@ -42,7 +39,7 @@ Further information about this topic will be developed as the campaign progresse
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

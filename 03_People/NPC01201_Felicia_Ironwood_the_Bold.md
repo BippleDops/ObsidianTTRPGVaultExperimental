@@ -164,40 +164,23 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [NPC01805_Faelyn_Goldleaf_the_Wanderer]]
-- [[NPC01761_Idris_Moonshadow_the_Broken
-- [NPC01431_Kaelen_Zephyrblade_the_Guardian]]
-- [[NPC01994_Orion_Brightblade_the_Risen
-- [NPC01858_Drusilla_Stormwind_the_Cunning]]
-- [[NPC00372_Alaric_Grimholt
-- [NPC01498_Gareth_Quicksilver_the_Risen]]
-- [[NPC01348_Xander_Zephyrblade_the_Wise
-- [NPC01594_Fiora_Proudmore_the_Seeker]]
-- [[NPC00707_Fiora_Oakenshield_the_Seeker
-- [NPC00129_Gareth_Jadeclaw]]
-- [[NPC00858_Zephyr_Silverleaf_the_Wanderer
-- [NPC00661_Corvus_Darkwater_the_Broken]]
-- [[NPC01126_Malakai_Oakenshield_the_Fallen
-- [NPC00260_Wynne_Underhill_the_Fallen]]
-- [[NPC01229_Gavril_Ironwood_the_Scholar
-- [NPC00878_Kaelen_Ironwood_the_Strong]]
-- [[Submersible_Schematic_Pressure_Gate_Scou
-- [NPC01276_Erasmus_Keenblade_the_Wanderer]]
-- [[Depth_Adapted_Background
-- [NPC00501_Orion_Nightfall_the_Broken]]
-- [[Party_Inventory
-- [NPC01682_Vesper_Blackstone_the_Guardian]]
-- [[Trade_Route_Map_Aquabyssos_to_Aethermoor
-- [Trade_Route_Chart_Port_Meridia]]
-- [[NPC00552_Malakai_Stormwind_the_Seeker
-- [NPC00885_Kaelen_Xendar_the_Lost]]
-- [[Reputation_Tracker
-- [12 Spells]]
-- [[08 Using Ability Scores
-- [Character_Journal_Template]]
-- [[MOC_Rules
-- [NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[Reputation_Tracker]]
+- [[Character_Journal_Template]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
 -
 
 ## Item Rarity & Balance
@@ -234,8 +217,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [ITEM00645_Ethereal_Leather_of_the_Guardian]]
 - Leads to [[Royal Bunker
 - Originates from [step_057 (phase_070)]]
-- Affected by [[Cross-Realm Conspiracy
-- Leads to [Marcus "The Shade" Blackwood]]
+- Affected by [[Marcus "The Shade" Blackwood]]
 - Originates from [[Admiral Cordelia Tidewright (D&D_References)
 - Leads to [Portrait NPC High Priest Dagon Deepcaller V1 High Priest Dagon Deepcaller.svg]]
 - Leads to [[extreme-heat-xdmg (traps-hazards)
@@ -246,36 +228,30 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [tankard]]
 - Leads to [[FAC00006_Guilds_7
 - Requires [ITEM00321_Radiant_Bow_of_Slaying]]
-- Compare with [[Midnight Trenches
-- Influences [ENC00142_Social_Encounter_143]]
+- Compare with [[ENC00142_Social_Encounter_143]]
 - Connects to [[painted-gold-war-mask-xdmg (items)
 - Leads to [step_035 (phase_027)]]
 - Affected by [[list-spells-classes-college-of-glamour-xphb (lists)
 - Parallels [ITEM01388_Decorated_Journal_of_Quality]]
 - Connects to [[step_061 (phase_035)
 - Affected by [Secondary Tables Weird Stuff Xge]]
-- Originates from [[Underground Network
-- Requires [Location (D&D_References)]]
+- Originates from [[Location (D&D_References)]]
 - Influences [[Eye of Vecna Xdmg
 - Requires [Syndicate War]]
 - Related: [[Dimensional Security Guards
 - Parallels
 - Connects to [EVENT00008_Magical_Event_9]]
-- Connects to [[ITEM0019_Divine_Crown_of_Power
-- Compare with [rowboat-xphb (items)]]
+- Connects to [[ITEM0019_Divine_Crown_of_Power]]
 - Originates from [[QUEST00208_Side_Quest_209
 - Parallels [Resonance Peaks (Lore)]]
-- See also: [[Electoral Strategist Marcus Votepower
-- Related: [[[The Memory Palace]] (D&D_References)]]
-- See also: [[Symbols - Faction_Heraldry (D&D_References)
-- Influences [step_072 (phase_045)]]
+- See also: [[Electoral Strategist Marcus Votepower]] (D&D_References)]]
+- See also: [[Symbols - Faction_Heraldry (D&D_References)]]
 - See also: [[Order of the Silver Anchor
 - Affected by [MON00115_Undead_Creature_116]]
 - Originates from
 - Affected by [[QUEST00355_Side_Quest_356
 - Connects to [step_050 (phase_087)]]
-- Requires [[Transformation Specialist Doctor Prism-Current
-- Affected by [gold-bar-5-pound-xdmg (items)]]
+- Requires [[Transformation Specialist Doctor Prism-Current]]
 - See also: [[step_009 (phase_082)
 - Originates from [ITEM00794_Divine_Amulet_of_Truth]]
 - Related: [[Young [Merchant Guild]]
@@ -283,27 +259,22 @@ Following magic item guidelines (WWT p.135-136):
 - Influences
 - Leads to
 - Originates from [The Depth Accords (D&D_References)]]
-- Parallels [[MON00138_Aberrations_Creature_139
-- Requires [Bulette Pup Xmm]]
-- Related: [[Parry Xphb
-- See also: [NPC01882_Cedric_Ironforge_the_Swift]]
+- Parallels [[MON00138_Aberrations_Creature_139]]
+- Related: [[NPC01882_Cedric_Ironforge_the_Swift]]
 - Requires [[Scene Scene Cloud Citadel Duel Cloud Citadel Duel.svg
 - Compare with [[Location City [Miranda Hopekeeper]] Miranda Hopekeeper.svg]]
 - Leads to [[List Spells Classes Shadow Magic Xge
 - Parallels [The Information Exchange]]
 - Influences [[staff-of-the-magi-xdmg (items)
 - Compare with [spike-growth-xphb (spells)]]
-- Connects to [[Healing Ministries 2
-- Leads to [Guild of Cross Realm Navigators]]
+- Connects to [[Guild of Cross Realm Navigators]]
 - Leads to
-- Originates from [[Kenku Xmm
-- Parallels [Dr. Coral Mindmend]]
+- Originates from [[Dr. Coral Mindmend]]
 - Influences [[Portrait NPC Parliament Loyalists V1 Parliament Loyalists.svg_1 (Portraits)
 - Connects to [SPELL00037_Nature_Spell_38]]
 - Leads to [[LOC00161_Cities_Location_162
 - Compare with [swarm-of-insects-xmm (beast)]]
-- Parallels [[ITEM0113_Blessed_Pendant_of_the_Dawn
-- Parallels [step_090 (phase_071)]]
+- Parallels [[ITEM0113_Blessed_Pendant_of_the_Dawn]]
 - Influences [[Snare Xge
 - Leads to
 - Compare with [02_Worldbuilding_Procedures_Shadow_Resoce_Scanning]]
@@ -324,9 +295,8 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Market Analysis
 - Parallels
 - Requires [step_031 (phase_079)]]
-- Affected by [[NPC00498_Fiora_Ironwood_the_Guardian
-- Influences [Doctor_Silas_Voidtouch.png]]
-- Originates from [[[Religious Leaders (D&D_References)]]
+- Affected by [[NPC00498_Fiora_Ironwood_the_Guardian]]
+- Originates from [[Religious Leaders (D&D_References)]]
 - Originates from [[Portrait NPC Corrupted Clients V1 Corrupted Clients.svg_1 (Portraits)
 - Leads to
 - Affected by [Event_Log]]

@@ -39,13 +39,13 @@ tags:
 - research created: '2025-08-
 *The air carries the scent of [appropriate smell].*14'
 modified: '2025-08-14'
-- -- ### Session 3: [[The Parliament of Shadows **[Core Objective]]**: Expose the [[Shadow Chamber's parliamentary infiltration
+- -- ### Session 3: [[Parliament of Shadows]]**: Expose the [[Shadow Chamber's parliamentary infiltration
 **Duration**: 4-5 hours
 **[Player Level]]**: 7-8 #### Act 1: [[Parliamentary Investigation (90 minutes) **[Encounter Progression]]**:
 1. **[[Social Investigation** (**DC 15** Insight/Investigation) - Discover voting pattern anomalies - Identify shadow-touched parliamentarians - Uncover meeting schedules in restricted areas 2. **[Stealth Infiltration]]** (**DC 18** Stealth/Sleight of Hand) - Access secured parliamentary records - Plant surveillance devices - [[Avoid Consortium [Security Constructs]] 3. **[[Shadow Surgeon Encounter** (CR 8) - **Creatures**: 1 [Shadow Surgeon]] + 2 [[Shadow Apprentices - **Tactics**: Mind manipulation, shadow binding - **Environment**: Parliamentary archives with pressure tubes #### Act 2: [The Hidden]] Chamber (60 minutes) **Location**: Secret meeting room beneath Parliament
 **[[Key Discovery**: [The Shadow]] Parliament mirror structure
 **Major NPCs**:
-- **[[Lord Vexton Shadowmere** ([Shadow Chamber]] Leader)
+- **[[Lord Vexton Shadowmere]] Leader)
 - **[[The Shadow [Duchess Nyx]]** ([[Puppet Master) **[Encounter Sequence]]**: 1. **Puzzle**: Pressure lock requiring dual-realm knowledge
 2. Subsequently, **Trap**: Shadow-crystal surveillance grid
 3. **[[Boss Fight**: [Shadow Chamber]] [[Guard Captain (CR 9) #### Act 3: [The Choice]] (45 minutes) **[[Moral Dilemma**: Expose publicly vs. Work from shadows
@@ -62,8 +62,7 @@ modified: '2025-08-14'
 **[[Player Level**: 8 #### Act 1: [Memory Market]] Investigation (75 minutes) **[[Encounter Progression**:
 1. **[Social Infiltration]]** (Deception/Persuasion challenges) - Pose as memory buyers/sellers - Gather intelligence on high-value memory trades - [[Identify Shadow Conspiracy memory suppliers 2. **[Memory Examination]]** (Arcana/Investigation) - View purchased memories safely - Decode encrypted memory fragments - Trace memory origins through resoce patterns 3. **[[Chase Sequence** (Acrobatics/Athletics) - Memory thieves attempt escape - Multi-level pursuit through market levels - Environmental hazards: pressure shifts, market crowds #### Act 2: [The Memory]] Vault (90 minutes) **Location**: Hidden vault beneath [[Memory Meadows
 **Discovery**: Systematic memory harvesting from government officials **[Encounter Sequence]]**:
-1. **[[Memory Harvester Kythara** (CR 8 Boss) - **Abilities**: Memory drain, mental domination, illusion mastery - **Tactics**: Create false memories, turn party against each other - **Minions**: 4 [Memory Wraiths]] (CR 4 each) 2. **[[Vault Security System** - Pressure-based locks requiring coordinated team action - Memory trap chambers showing distorted historical events - Automated memory extraction apparatus #### Act 3: [The Source]] (30 minutes) **Revelation**: Memory harvesting targets include [[Queen Seraphina
-**[Major Discovery]]**: Crystal corruption affects memory formation
+1. **[[Memory Harvester Kythara** (CR 8 Boss) - **Abilities**: Memory drain, mental domination, illusion mastery - **Tactics**: Create false memories, turn party against each other - **Minions**: 4 [Memory Wraiths]] (CR 4 each) 2. **[[Vault Security System** - Pressure-based locks requiring coordinated team action - Memory trap chambers showing distorted historical events - Automated memory extraction apparatus #### Act 3: [The Source]] (30 minutes) **Revelation**: Memory harvesting targets include [[Queen Seraphina]]**: Crystal corruption affects memory formation
 **Connection**: [[Deep Mother influence through crystal-memory synthesis **[Final Choice]]**:
 - Destroy memory vault (lose intelligence, save victims)
 - Preserve vault for investigation (maintain intel, ongoing suffering) #### [[Session Outcomes & Hooks **[Immediate Results]]**:
@@ -145,7 +144,7 @@ modified: '2025-08-14'
 - **[[Seven Shards**: Ancient knowledge keeper role **[Queen Seraphina]] Trajectory**:
 - **[[Corruption Level 0-3**: Fully functional ruler
 - **[Corruption Level]] 4-6**: Declining capabilities, delegation required - **[[Corruption Level 7-9**: Severe impairment, succession crisis
-- **[Corruption Level]] 10+**: Complete transformation, replacement necessary - -- This framework provides the foundation for 200+ detailed session planning steps. Each session includes multiple encounter variations, consequence tracking, and integration points with other campaigns. **[[Planning Steps Completed**: 47/200 for [Session Design]] Framework **[[Next Priority**: [Crystal Plague]] encounter progressions and [[Seven Shards conclusion planning. ## 🔧 [Deep Evaluation]] Improvements * 20 targeted improvements identified* ### [[Connection Improvements - Add cross-references to related notes ### [Enhancement Improvements]] - Add 12_Research-specific enhancement ## Related * Links to related content will be added here.* ## DM Notes * Private notes for campaign integration:* - Can be adapted to fit current story needs
+- **[Corruption Level]] 10+**: Complete transformation, replacement necessary - -- This framework provides the foundation for 200+ detailed session planning steps. Each session includes multiple encounter variations, consequence tracking, and integration points with other campaigns. **[[Planning Steps Completed**: 47/200 for [Session Design]] Framework **[[Crystal Plague]] encounter progressions and [[Seven Shards conclusion planning. ## 🔧 [Deep Evaluation]] Improvements * 20 targeted improvements identified* ### [[Connection Improvements - Add cross-references to related notes ### [Enhancement Improvements]] - Add 12_Research-specific enhancement ## Related * Links to related content will be added here.* ## DM Notes * Private notes for campaign integration:* - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes ## [[Related Notes - [[[Similar Topic]] 1|[[Similar Topic 1]] - [[[[Contrasting Approach|[Contrasting Approach]]]]

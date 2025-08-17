@@ -18,12 +18,7 @@ publish: false
 
 ---
 
- # [[Captain Repossession ---
-
-## Description
-
-Detailed description pending.
-title: [Captain Repossession]]
+ # [[Captain Repossession]]
 type: NPC
 tags:
 - aethermoor
@@ -63,7 +58,7 @@ updated: '2025-08-13T01:18:36.973106+00:00'
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

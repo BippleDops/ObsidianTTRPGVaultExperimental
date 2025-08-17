@@ -176,20 +176,13 @@ Modifications:
 
 ## See Also
 - [NPC00949_Nerys_Underhill_the_Wise]]
-- [[NPC01870_Lyanna_Silverleaf_the_Cunning
-- [NPC00372_Alaric_Grimholt]]
-- [[NPC00587_Idris_Youngblood_the_Strong
-- [NPC00317_Pyria_Blackstone_the_Redeemed]]
-- [[NPC01012_Solas_Darkwater_the_Strong
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC00917_Brenna_Oakenshield_the_Seeker]]
-- [[Depth_Adapted_Background
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC00615_Lyanna_Moonshadow_the_Lost
-- [Reference.md]]
-- [[NPC01017_Vesper_Keenblade_the_Risen
-- [05 Personality and Background]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00615_Lyanna_Moonshadow_the_Lost]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
 -
 
 ## Item Rarity & Balance
@@ -235,8 +228,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [step_047 (phase_073)]]
 - Influences [[ITEM00391_Thunder_Spear_of_the_Ancients
 - Leads to [Truth-Shielding Illusions]]
-- Compare with [[LOC0033_WestGate
-- Compare with [NPC00930_Thalia_Darkwater_the_Wanderer]]
+- Compare with [[NPC00930_Thalia_Darkwater_the_Wanderer]]
 - Compare with [[SPELL00011_Arcane_Spell_12
 - Leads to [[Location City [Artisan Associations]] V1 Artisan Associations.svg]]
 - Related: [[Biological Authentication
@@ -250,10 +242,8 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[Create Food and Water Xphb
 - Leads to [dust-mephit-xmm]]
 - Originates from
-- Affected by [[The Silverscale Conspiracy (D&D_References)
-- Originates from [Tiefling Glasya Mtf]]
-- Originates from [[step_020 (phase_064)
-- Connects to [The Order of the Silent Vigil (Orders)]]
+- Affected by [[The Silverscale Conspiracy (D&D_References)]]
+- Originates from [[The Order of the Silent Vigil (Orders)]]
 - Originates from [[Ancient_Prophecy_Fragment_Verdan
 - Connects to [Great Dyin (D&D_References)]]
 - Related: [[Ring of Protection Xdmg
@@ -265,14 +255,12 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[step_005 (phase_052)
 - Requires [Loot Generator]]
 - Connects to [[Map Map [Aethermoor Harbor Skirmish V1 Aethermoor Harbor Skirmish.png]]
-- Related: [[Unified Vault Completion Guide (D&D_References)
-- Affected by [[Assets Art [Forge Master Petra Hammerdeep]].png]]
+- Related: [[Unified Vault Completion Guide (D&D_References)]].png]]
 - Originates from [[EVENT00025_Political_Event_26
 - Requires [[Assets Locations Location City [The Coral Throne]] the Coral Throne.svg]]
 - Influences [[Reality Distortion Mechanics
 - Originates from [step_008 (phase_030)]]
-- Originates from [[ENC00454_Combat_Encounter_455
-- See also: [[[Surface Portal Alpha]] (D&D_References)]]
+- Originates from [[ENC00454_Combat_Encounter_455]] (D&D_References)]]
 - Leads to [[04_Resources_Assets_Locations_location-city-marina-dreamwhisper-marina-dreamwhisper.svg
 - Requires
 - Affected by [Skyforge]]
@@ -284,9 +272,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related:
 - Influences [[ENC00317_Combat_Encounter_318
 - Originates from [step_042 (phase_007)]]
-- See also: [[LOC00138_Cities_Location_139
-- Leads to
-- Leads to [Races]]
+- See also: [[LOC00138_Cities_Location_139]]
 - Compare with [[Assets Item Artifact Travelers Clothes Xphb V2 Travelers Clothes Xphb.png
 - Compare with [Portrait NPC Lord Commander Steelborn Lord Commander Steelborn.svg]]
 - Affected by [[step_032 (phase_017)
@@ -305,21 +291,17 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[Biological Enhancement Corps
 - Originates from [NPC00582_Cedric_Dawnstrider]]
 - Affected by
-- Leads to [[MON00029_Aberrations_Creature_30
-- Compare with [Baroness Seraphina Moonweaver (D&D_References)]]
+- Leads to [[Baroness Seraphina Moonweaver (D&D_References)]]
 - Related: [[List Spells Optional Features Mire the Mind
 - See also: [step_079 (phase_091)]]
-- Leads to [[[Barkeep Salty Sarah (D&D_References)]]
+- Leads to [[Barkeep Salty Sarah (D&D_References)]]
 - Affected by [[step_099 (phase_015)
 - Requires [step_088 (phase_044)]]
-- Requires [[High Judge Moira Truthseeke
-- See also: [step_054 (phase_093)]]
-- Affected by [[Anti-Establishment Groups
-- Connects to [Living Reef]]
+- Requires [[High Judge Moira Truthseeke]]
+- Affected by [[Anti-Establishment Groups]]
 - Related: [[identify-important-npcs-adventure-allies (tables)
 - Related: [QUEST00213_Side_Quest_214]]
-- Related: [[NPC_Name_Generator
-- Affected by [#At the Table]]
+- Related: [[NPC_Name_Generator]]
 - Compare with [[Scene Scene Deep Mother S Tentacles Rising Deep Mother S Tentacles Rising.svg
 - Leads to [[Location City [Keeper Brinescale]] Keeper Brinescale.svg]]
 - Leads to [[Infant Basilisk Oota

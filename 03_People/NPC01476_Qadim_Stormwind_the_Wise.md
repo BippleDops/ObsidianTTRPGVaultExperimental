@@ -171,40 +171,21 @@ Modifications:
 > Notable saying or prophecy
 
 ## See Also
-- [[NPC01012_Solas_Darkwater_the_Strong
-- [NPC01827_Kaelen_Ironforge_the_Seeker]]
-- [[NPC01126_Malakai_Oakenshield_the_Fallen
-- [Keeper Elara Mindwell]]
-- [[NPC00812_Kaelen_Jadeclaw_the_Seeker
-- [NPC01699_Orion_Oakenshield_the_Broken]]
-- [[NPC01877_Hestara_Moonshadow_the_Mystic
-- [NPC01371_Xander_Stormwind_the_Guardian]]
-- [[NPC01247_Xander_Zephyrblade_the_Risen
-- [NPC01177_Thalia_Underhill_the_Fallen]]
-- [[NPC00287_Ysara_Underhill_the_Wise
-- [NPC00885_Kaelen_Xendar_the_Lost]]
-- [[NPC01789_Vesper_Proudmore_the_Mystic
-- [NPC01870_Lyanna_Silverleaf_the_Cunning]]
-- [[NPC01812_Xander_Lightbringer_the_Swift
-- [NPC01931_Thalia_Lightbringer_the_Fallen]]
-- [[NPC01429_Zephyr_Keenblade_the_Cunning
-- [NPC01348_Xander_Zephyrblade_the_Wise]]
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [NPC01301_Jorah_Underhill_the_Broken]]
-- [[NPC00820_Thalia_Nightfall_the_Risen
-- [NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[NPC00552_Malakai_Stormwind_the_Seeker
-- [NPC00362_Pyria_Stormwind_the_Wise]]
-- [[NPC01937_Felicia_Silverleaf_the_Wanderer
-- [10 Appendix B Creature Stat Blocks]]
-- [[MOC_Items
-- [NPC00259_Delara_Proudmore]]
-- [[MASTER_MOC
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00287_Ysara_Underhill_the_Wise]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00259_Delara_Proudmore]]
+- [[MASTER_MOC]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -249,8 +230,7 @@ Modifications:
 - Related: [NPC00555_Gavril_Goldleaf_the_Bold]]
 - Leads to [[turquoise-xdmg (items)
 - Originates from [step_079 (phase_004)]]
-- Requires [[Creature Creature Ancient Brass Dragon Xmm V4 Ancient Brass Dragon Xmm.png
-- Compare with [Symbol Heraldry Reg... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Requires [[Symbol Heraldry Reg... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - See also: [[Location City the Forgotten Representative the Forgotten Representative.svg
 - See also: [[Portrait NPC King Marcus [Lumengarde]] V2 King Marcus Lumengarde.svg]]
 - Affected by [[LORE00007_History_Entry_8
@@ -259,8 +239,7 @@ Modifications:
 - Related: [[[Quieting the Depths]] (D&D_References)]]
 - Compare with [[gith-names-githzerai-female-mtf (tables)
 - Affected by [QUEST00044_Side_Quest_45]]
-- Leads to [[04-chapter-3-character-classes (players-handbook-2024)
-- Originates from [step_072 (phase_010)]]
+- Leads to [[04-chapter-3-character-classes (players-handbook-2024)]]
 - Influences [[Handout Handout Temple Prayer Sheet V2 Temple Prayer Sheet.png
 - Influences [[[Cultural Advisor Sarah Bridgekeeper]] 2]]
 - Connects to [[ITEM00942_Pure_Salve_of_Healing
@@ -272,7 +251,7 @@ Modifications:
 - Connects to [[Location City [Port Shadowmere V1 Port Shadowmere.svg]]
 - Leads to [[Elena Truelight
 - Influences [step_025 (phase_020)]]
-- Parallels [[[Crystal Keepers 2]]
+- Parallels [[Crystal Keepers 2]]
 - Influences [[Assets Item Artifact Ruby Xdmg Ruby Xdmg.png
 - Compare with [LOC0067_Peakmoor]]
 - Affected by
@@ -285,8 +264,7 @@ Modifications:
 - Compare with [[Location City [The Crystal Hive Collective]] V1 the Crystal Hive Collective.svg]]
 - Parallels [[Demon Customization Tables Unusual Demon Features Mtf
 - Originates from [[[Captain Trawl Netcaster]] (D&D_References)]]
-- Originates from [[step_091 (phase_048)
-- Requires [Market Manipulation Strategies]]
+- Originates from [[Market Manipulation Strategies]]
 - Originates from [[Astral Skiff Mtf
 - Related: [[Location City [Current Navigation Techniques]] Current Navigation Techniques.svg]]
 - Affected by [[step_009 (phase_049)
@@ -295,9 +273,8 @@ Modifications:
 - Influences [[Location City [Constellation Codex]] V1 Constellation Codex.svg]]
 - See also: [[coral-xdmg (items)
 - Compare with [02-chapter-1-playing-the-game#Instant Death]]
-- Influences [[[Merchant Prince Aldric Goldcurrent]]
-- Originates from [[LOC00143_Wilderness_Location_144
-- See also: [ENC00018_Social_Encounter_19]]
+- Influences [[Merchant Prince Aldric Goldcurrent]]
+- Originates from [[LOC00143_Wilderness_Location_144]]
 - Related: [[step_034 (phase_026)
 - Requires [King Consort Meridian]]
 - Parallels [[step_035 (phase_040)
@@ -307,29 +284,25 @@ Modifications:
 - Influences [Seeking Arrow Xge]]
 - See also: [[location-city-compass-quest-compass-quest.svg
 - Related: [Organization]]
-- Compare with [[Scorpion Xmm
-- Leads to [Corruption Purification Systems]]
+- Compare with [[Corruption Purification Systems]]
 - Related: [[ITEM01271_Refined_Elixir_of_Healing
 - Originates from [M-201 Event Horizon Shear Player]]
 - Leads to [[Quest - Hostage Rescue 2
 - Originates from [04_Resources_Assets_Locations_location-city-master-archivist-thomas-scrollkeeper-master-archivist-thomas-scrollkeeper.png]]
-- Compare with [[[Shadow Trackhound 2]]
+- Compare with [[Shadow Trackhound 2]]
 - See also: [[Quest - Breaking the Scales
 - Requires
 - Connects to [Scene Scene Deep Mother S Tentacles Rising V1 Deep Mother S Tentacles Rising.svg]]
-- Related: [[[[[Comparative Religion Experts]] (D&D_References)]]
-- See also: [[step_079 (phase_019)
-- Compare with [Master Archivist Valdric Stonewhisper]]
+- Related: [[Comparative Religion Experts]] (D&D_References)]]
+- See also: [[Master Archivist Valdric Stonewhisper]]
 - Affected by [[step_020 (phase_010)
 - Connects to [step_099 (phase_011)]]
 - Connects to [[Quality Inspector Wave Purewater (D&D_References)
 - Connects to [04_Resources_Assets_Locations_location-city-cathedral-of-light-v1-cathedral-of-light.png]]
 - Parallels [[step_082 (phase_034)
 - Requires [[[Great Crystal Lens]] 2]]
-- See also: [[Witness Protection Network (D&D_References)
-- Originates from [Eberron Arawai]]
-- Influences [[step_058 (phase_084)
-- Influences [ENC0024_Random_Encounter_25]]
+- See also: [[Witness Protection Network (D&D_References)]]
+- Influences [[ENC0024_Random_Encounter_25]]
 - Related: [[Assets Portraits Portrait NPC Captain Torren Stormwright Captain Torren Stormwright.svg
 - Requires [MON00033_Aberrations_Creature_34]]
 - Compare with

@@ -16,7 +16,7 @@ This topic is referenced in [[Shadow_Surgery|Session 2 the [[[Shadow Surgery]]]]
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Session 2 the [Shadow Surgery]]
+- Referenced by: [[Shadow_Surgery]]
 - Related topics in the same category
 
 ## Details
@@ -29,7 +29,7 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[Session 2 the [Shadow Surgery]]]]
+- [[Shadow_Surgery]]]]
 
 ## [[Session Summary
 *Brief overview of this session*
@@ -39,7 +39,7 @@ Further information about this topic will be developed as the campaign progresse
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

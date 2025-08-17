@@ -159,8 +159,7 @@ Witnessed a crime
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -179,14 +178,12 @@ Witnessed a crime
 - Originates from [[mass-heal-xphb (spells)
 - Compare with
 - See also: [step_076 (phase_041)]]
-- Connects to [[step_084 (phase_051)
-- Affected by [Aquabyssos Survival Mechanics (D&D_References)]]
+- Connects to [[Aquabyssos Survival Mechanics (D&D_References)]]
 - Compare with [[Scholar Thomas Precedent
 - Compare with [glabrezu-xmm (fiend)]]
 - Affected by [[portrait-npc-tenebrarum-tenebrarum.svg_1 (Portraits)
 - Parallels [Abyssos Prime - Pressure Terminal]]
-- Connects to [[Memoriam - The Forgotten Continent
-- Connects to [step_023 (phase_011)]]
+- Connects to [[Memoriam - The Forgotten Continent]]
 - Affected by [[Golden Ballroom 2
 - Connects to [Gnoll Names Vgm]]
 - Parallels [[Portrait NPC Quest the Succession Crisis V1 Quest the Succession Crisis.svg
@@ -206,8 +203,7 @@ Witnessed a crime
 - Requires
 - Affected by [[ITEM00236_Cursed_Axe_of_Accuracy
 - Requires [Investigator Prima Truthseeker]]
-- Parallels [[LOC00263_Wilderness_Location_264
-- Requires [QUEST00116_Side_Quest_117]]
+- Parallels [[LOC00263_Wilderness_Location_264]]
 - Affected by [[Assets Locations Location City Archivist Methodius Recordkeeper V1 Archivist Methodius Recordkeeper.svg
 - Connects to [The Prophecy of Tides]]
 - See also: [[Assets Locations Location City the Unremembered Parliament the Unremembered Parliament.svg
@@ -216,17 +212,14 @@ Witnessed a crime
 - Originates from [Portrait NPC Deep Lord Pelagios the Eternal V1 Deep Lord Pelagios the Eternal.svg]]
 - Compare with [[Captain Rodrigo Ironanchor 2
 - Originates from [NPC01320_Ysara_Quicksilver_the_Risen]]
-- Compare with [[Temporal Viewing Chambers
-- See also: [LOC00266_Wilderness_Location_267]]
-- Related: [[Giant Constrictor Snake Xmm
-- Influences [NPC01496_Brenna_Youngblood_the_Strong]]
+- Compare with [[LOC00266_Wilderness_Location_267]]
+- Related: [[NPC01496_Brenna_Youngblood_the_Strong]]
 - Connects to [[cleric-xphb-war-domain-xphb (classes)
 - Influences [NPC01017_Vesper_Keenblade_the_Risen]]
 - See also: [[Assets Locations Location City Memory Tide Pools V1 Memory Tide Pools.svg
 - Influences [QUEST00236_Personal_Quest_237]]
 - Originates from
-- Requires [[NPC00147_Nerys_Blackstone_the_Bold
-- Leads to [SPELL00105_Divine_Spell_106]]
+- Requires [[NPC00147_Nerys_Blackstone_the_Bold]]
 - Related: [[Surface Portal Alpha
 - Parallels [04_Resources_Assets_Locations_location-city-enchanter-valdris-peacewarden-v1-enchanter-valdris-peacewarden.svg]]
 - Originates from [[LOC00083_Towns_Location_84
@@ -236,14 +229,11 @@ Witnessed a crime
 - Originates from [ENC00218_Social_Encounter_219]]
 - Parallels [[NPC01740_Nerys_Blackstone_the_Risen
 - See also: [NPC0033_Helena_Stormwind_the_Strong]]
-- Requires [[step_053 (phase_004)
-- Parallels [Keeper of Secrets Whisper Darkhold]]
+- Requires [[Keeper of Secrets Whisper Darkhold]]
 - Connects to [[Shadow Admiral Vex
 - Leads to [ITEM01248_Distilled_Elixir_of_Healing]]
-- Influences [[NPC00292_Jorah_Youngblood_the_Broken
-- Compare with [step_022 (phase_018)]]
-- Compare with [[LOC00169_Wilderness_Location_170
-- Parallels [step_022 (phase_032)]]
+- Influences [[NPC00292_Jorah_Youngblood_the_Broken]]
+- Compare with [[LOC00169_Wilderness_Location_170]]
 - Originates from [[Session 09 the Shard Convergence
 - Influences
 - Leads to [Sensory Signature Guides]]
@@ -251,19 +241,15 @@ Witnessed a crime
 - Affected by [Neutrality Laws 2]]
 - Leads to [[NPC01092_Gavril_Voidwalker_the_Broken
 - Connects to [Assets Locations Location City Resonance Roses V1 Resonance Roses.svg]]
-- Parallels [[NPC00816_Thalia_Ravenheart_the_Risen
-- Influences [Crystal Corruption Taboos]]
-- Parallels [[Mechanics Standardization Report (D&D_References)
-- See also: [LOC00026_Dungeons_Location_27]]
+- Parallels [[NPC00816_Thalia_Ravenheart_the_Risen]]
+- Parallels [[Mechanics Standardization Report (D&D_References)]]
 - See also:
 - Related: [[greyhawk-pelor-xdmg (deities)
 - Connects to [Assets Portraits Portrait NPC Sage Lysander Deepthought Sage Lysander Deepthought.svg]]
 - Leads to [[Loot Generator
 - Originates from [Location City Senator Marina Tidecaller V1 Senator Marina Tidecaller.svg]]
-- Requires [[Quest - Truth Market
-- Requires [Groundling 2]]
-- Connects to [[step_048 (phase_033)
-- Requires [Breaking the Deep (D&D_References)]]
+- Requires [[Quest - Truth Market]]
+- Connects to [[Breaking the Deep (D&D_References)]]
 - Connects to [[step_084 (phase_054)
 - Influences [step_037 (phase_100)]]
 - Connects to [[Democratic Erosion (D&D_References)

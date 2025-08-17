@@ -175,66 +175,31 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC01301_Jorah_Underhill_the_Broken
-- [NPC01761_Idris_Moonshadow_the_Broken]]
-- [[NPC01858_Drusilla_Stormwind_the_Cunning
-- [NPC00949_Nerys_Underhill_the_Wise]]
-- [[NPC00300_Urien_Zephyrblade
-- [NPC00927_Aldric_Ironwood_the_Wanderer]]
-- [[NPC_Relationship_Web.png_1 (03_People)
-- [NPC00860_Gavril_Winterborn_the_Swift]]
-- [[NPC00124_Delara_Ravenheart_the_Redeemed
-- [NPC01012_Solas_Darkwater_the_Strong]]
-- [[NPC00461_Branwen_Proudmore_the_Strong
-- [NPC00321_Aeliana_Zephyrblade_the_Strong]]
-- [[NPC01447_Baelor_Winterborn_the_Strong
-- [NPC00542_Corvus_Oakenshield_the_Strong]]
-- [[NPC00976_Alaric_Quicksilver_the_Strong
-- [NPC00663_Alaric_Dawnstrider_the_Strong]]
-- [[NPC00612_Thalia_Jadeclaw_the_Fallen
-- [Party_Quests]]
-- [[Faction_Guide.md
-- [Player_Feedback_Form.md]]
-- [[Reference.md
-- [NPC01937_Felicia_Silverleaf_the_Wanderer]]
-- [[NPC01229_Gavril_Ironwood_the_Scholar
-- [NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[NPC01888_Hestara_Ravenheart_the_Redeemed
-- [NPC01745_Felicia_Oakenshield_the_Scholar]]
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [Player_Comfort_Check]]
-- [[Character_Journal_Template
-- [NPC01195_Gareth_Keenblade_the_Guardian]]
-- [[NPC00285_Xander_Goldleaf_the_Mystic
-- [NPC01877_Hestara_Moonshadow_the_Mystic]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [NPC01613_Kaelen_Voidwalker_the_Wanderer]]
-- [[NPC00670_Xander_Goldleaf_the_Scholar
-- [NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[NPC00858_Zephyr_Silverleaf_the_Wanderer
-- [NPC00058_Elric_Nightfall]]
-- [[Propaganda_Leaflet_Pearl_Guar
-- [NPC01757_Nerys_Silverleaf_the_Strong]]
-- [[NPC01660_Thalia_Moonshadow_the_Fallen
-- [NPC00207_Ysara_Ravenheart]]
-- [[NPC01781_Urien_Keenblade_the_Cunning
-- [NPC01360_Ewan_Blackstone_the_Strong]]
-- [[02 Step by Step Characters
-- [NPC01789_Vesper_Proudmore_the_Mystic]]
-- [[Concept_Map
-- [NPC00582_Cedric_Dawnstrider]]
-- [[Quarantine_Notice_Crystal_Plagu
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[Player_Feedback_Form]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC00670_Xander_Goldleaf_the_Scholar]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[Quarantine_Notice_Crystal_Plagu]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -245,8 +210,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -263,13 +227,12 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Assets Locations [[Location City [Tide Bondkeeper]] V1 Tide Bondkeeper.svg]]]]
 - Parallels [[Reality Anchor Points 2
 - Related: [deck-of-many-things#Star]]
-- Compare with [[[Captain Marcus Voidward]]
+- Compare with [[Captain Marcus Voidward]]
 - Compare with [[NPC00504_Qadim_Darkwater_the_Redeemed
 - Parallels [[Location City [Warrior Thane Visionward]] V1 Warrior Thane Visionward.svg]]
 - Affected by [[Finn Brightwater 2
 - Originates from [[[Memorial Tender Sarah]] 2]]
-- Compare with [[step_015 (phase_085)
-- Requires [The Seven Betrayers (D&D_References)]]
+- Compare with [[The Seven Betrayers (D&D_References)]]
 - Requires [[Portrait NPC High Priest Nereon V1 High Priest Nereon.svg_1 (Portraits)
 - Parallels [step_094 (phase_097)]]
 - Requires
@@ -288,23 +251,19 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [Kingdom of Luminal Peaks]]
 - Requires [[Zealot Crusade Player
 - Requires [SHOP00059_General_Shop_60]]
-- See also: [[[The Crystal Caves (D&D_References)]]
+- See also: [[The Crystal Caves (D&D_References)]]
 - Parallels [[Corruption Detectors
 - Parallels [Iron Bands of Bilarro Xdmg]]
-- Leads to [[NPC00732_Felicia_Stormwind_the_Wanderer
-- See also: [minotaur-of-baphomet-xmm]]
+- Leads to [[NPC00732_Felicia_Stormwind_the_Wanderer]]
 - Leads to
 - Related: [[Drow 2 Armor Mm
 - Connects to [step_085 (phase_041)]]
-- Influences [[Npc Abilities
-- Influences [Deep Lord Pelagios the Eternal (D&D_References)]]
+- Influences [[Deep Lord Pelagios the Eternal (D&D_References)]]
 - Related: [[Portrait NPC Underground Testing Facility Underground Testing Facility.svg_1 (Portraits)
 - Influences [step_095 (phase_054)]]
-- Requires [[Pure Essence Crystals (D&D_References)
-- Leads to [Potions for Sale Xge]]
+- Requires [[Pure Essence Crystals (D&D_References)]]
 - Requires
-- Related: [[Abyssal Pearls (D&D_References)
-- Compare with [The Order of the Veil]]
+- Related: [[Abyssal Pearls (D&D_References)]]
 - Influences [[Fortress Blueprints
 - Leads to [Crystal Merchants Guild (Guilds)]]
 - Parallels [[step_043 (phase_031)
@@ -315,8 +274,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [step_065 (phase_025)]]
 - Connects to [[Create New NPC
 - Parallels [The Final Choice]]
-- Connects to [[Oracle (D&D_Statblocks)
-- Parallels [High Warden Solarius Brightforge]]
+- Connects to [[High Warden Solarius Brightforge]]
 - Influences [[Quest - The Crystal Black Market_1 (01_Adventures)
 - Leads to [Map Map Void Fractured Plaza Void Fractured Plaza.svg]]
 - Influences [[step_001 (phase_055)
@@ -331,7 +289,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [Assets Vehicles Vehicle Ship Arc Engine Prototype V1 Arc Engine Prototype.svg]]
 - Leads to [[step_009 (phase_083)
 - Leads to [step_032 (phase_045)]]
-- See also: [[[The Harbor Depths (D&D_References)]]
+- See also: [[The Harbor Depths (D&D_References)]]
 - Leads to [[ring-of-jumping-xdmg (items)
 - See also:
 - Leads to [Sleet Storm Xphb]]
@@ -349,7 +307,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [step_044 (phase_063)]]
 - Connects to [[Portrait NPC Madame Crystal Eye V1 Madame Crystal Eye.svg_1 (Portraits)
 - See also: [[[The Null Cathedral]] 2]]
-- Originates from [[[The Forgotten One (D&D_References)]]
+- Originates from [[The Forgotten One (D&D_References)]]
 - Leads to
 - Influences [[ENC00084_Environmental_Encounter_85
 - Affected by [Order of Preserved Knowledge (Orders)]]

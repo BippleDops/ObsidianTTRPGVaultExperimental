@@ -164,40 +164,25 @@ Blackmails party into service
 
 ## See Also
 - [NPC01483_Gavril_Zephyrblade_the_Fallen]]
-- [[NPC01041_Thalia_Dawnstrider_the_Lost
-- [NPC01624_Corvus_Silverleaf_the_Redeemed]]
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [NPC01858_Drusilla_Stormwind_the_Cunning]]
-- [[NPC00300_Urien_Zephyrblade
-- [NPC00550_Xander_Stormwind_the_Cunning]]
-- [[The Forgotten Representative
-- [Enchanter Valdris Peacewarden]]
-- [[NPC00351_Corvus_Ironwood
-- [NPC00785_Ysara_Grimholt_the_Mystic]]
-- [[NPC00395_Aeliana_Thornweave
-- [Ambassador Nerida Deepcurrent]]
-- [[Faction_Relationship_Web
-- [Measurement_Guide_Depth_and_Pressur]]
-- [[Faction_Guide.md
-- [NPC00739_Gavril_Ashford_the_Bold]]
-- [[Combat_Encounter_Analysis
-- [Player_Feedback_Form.md]]
-- [[16 Credits
-- [11 Rules Glossary]]
-- [[NPC01552_Branwen_Lightbringer_the_Swift
-- [MOC_Rules]]
-- [[NPC01594_Fiora_Proudmore_the_Seeker
-- [NPC00307_Dara_Proudmore_the_Seeker]]
-- [[Item_Catalog_Complete.md
-- [Ritual_Timing_Wheel_Convergenc]]
-- [[What You Know - Abyssos Prime.md
-- [Trade_Route_Chart_Port_Meridia]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[Enchanter Valdris Peacewarden]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[Combat_Encounter_Analysis]]
+- [[11 Rules Glossary]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC01594_Fiora_Proudmore_the_Seeker]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Trade_Route_Chart_Port_Meridia]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -212,12 +197,10 @@ Blackmails party into service
 
 ## Connections
 
-- Related: [[Work Complications Xge
-- Parallels [The Wind Shrine Archipelago 2]]
+- Related: [[The Wind Shrine Archipelago 2]]
 - See also: [[step_020 (phase_018)
 - Affected by [step_060 (phase_095)]]
-- Originates from [[NPC01597_Gavril_Nightfall_the_Swift
-- Connects to [thaumaturgy-xphb (spells)]]
+- Originates from [[NPC01597_Gavril_Nightfall_the_Swift]]
 - See also: [[Tomb of Levistus Xge
 - Affected by [construct-spirit-xphb (construct)]]
 - Compare with [[step_039 (phase_009)
@@ -244,7 +227,7 @@ Blackmails party into service
 - Affected by [MON00146_Undead_Creature_147]]
 - Parallels [[SHOP00044_Specialty_Shop_45
 - Compare with [Rod of Resurrection Xdmg]]
-- Influences [[[The Evolution District (D&D_References)]]
+- Influences [[The Evolution District (D&D_References)]]
 - Originates from [[Location City [The Cerulean Archipelago V1 the Cerulean Archipelago.svg]]
 - Compare with [[EVENT00018_Natural_Event_19
 - Requires [The Unnamed Knowledge]]
@@ -252,8 +235,7 @@ Blackmails party into service
 - Affected by [Sunlight Crystal]]
 - See also: [[step_088 (phase_070)
 - Influences [Northern Principalities 2]]
-- Connects to [[NPC00817_Malakai_Silverleaf_the_Wanderer
-- Influences [Sanctuary Emergency Systems]]
+- Connects to [[NPC00817_Malakai_Silverleaf_the_Wanderer]]
 - Requires [[Winds of Rebellion
 - See also: [step_090 (phase_008)]]
 - Requires [[step_033 (phase_035)
@@ -264,11 +246,10 @@ Blackmails party into service
 - Requires [step_034 (phase_010)]]
 - See also: [[Location City [Foreign Intelligence Foreign Intelligence.svg]]
 - Influences
-- Affected by [[[Surface Tensions 2]]
+- Affected by [[Surface Tensions 2]]
 - Related: [[LOC0049_Grovehollow
 - Compare with [[Assets Locations [Location City Quest Harbor Security Quest Harbor Security.svg]]]]
-- Requires [[Motion_Specs (D&D_References)
-- Leads to [Travel Terrain Xdmg]]
+- Requires [[Motion_Specs (D&D_References)]]
 - Originates from [[Location City [Angels and Depths V1 Angels and Depths.svg]]
 - Requires [[LOC00054_Dungeons_Location_55
 - Leads to [Portrait NPC Ice Kingdom Spirits V2 Ice Kingdom Spirits.svg_1 (Portraits)]]
@@ -280,17 +261,14 @@ Blackmails party into service
 - Affected by [LOC00199_Dungeons_Location_200]]
 - Related: [[stone-cursed-mpmm (construct)
 - Compare with [step_071 (phase_100)]]
-- Requires [[Death Hunters Guild
-- See also: [5-wave-echo-cave (lost-mine-of-phandelver)]]
+- Requires [[5-wave-echo-cave (lost-mine-of-phandelver)]]
 - Influences [[step_056 (phase_015)
 - Parallels [List Spells School Abjuration]]
 - Connects to
-- Affected by [[Coral
-- Requires [Commercial Dispute Resolution Procedures]]
+- Affected by [[Commercial Dispute Resolution Procedures]]
 - Affected by [[Doctor Silas Voidtouch
 - Affected by [step_055 (phase_036)]]
-- Parallels [[Independent Contractor
-- Related: [mind-flayer-xmm]]
+- Parallels [[Independent Contractor]]
 - Connects to
 - Compare with [[banishing-arrow-xge (optional-features)
 - Influences [ITEM01148_Superior_Elixir_of_Swiftness]]
@@ -306,12 +284,10 @@ Blackmails party into service
 - See also: [[EVENT00038_Political_Event_39
 - Compare with [The Free Traders Alliance]]
 - Originates from
-- See also: [[step_095 (phase_071)
-- Parallels [The Oracle of Bathyal Palace]]
+- See also: [[The Oracle of Bathyal Palace]]
 - Compare with [[Portrait NPC King Marcus [Lumengarde King Marcus Lumengarde.svg_1 (Portraits)]]
 - Leads to [[Location City [Abyssal Crystals Abyssal Crystals.svg]]
-- Affected by [[step_032 (phase_051)
-- Parallels [NPC01393_Erasmus_Winterborn_the_Broken]]
+- Affected by [[NPC01393_Erasmus_Winterborn_the_Broken]]
 
 ## Visual References
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png

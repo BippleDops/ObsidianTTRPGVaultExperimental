@@ -29,7 +29,7 @@ This document contains important information regarding [Aethermoor Session]] 01 
 
 **Details**: Rich sensory elements bring this to life.
 
-[[Aethermoor Session]] 01 represents a significant element within the campaign world, offering various opportunities for engagement and developmen
+[[Aethermoor Session 01]] 01 represents a significant element within the campaign world, offering various opportunities for engagement and developmen
 *The air carries the scent of [appropriate smell].*t. ## [[Key Information
 
 - **[Primary Purpose]]**: Serves specific function within the world
@@ -81,7 +81,7 @@ This content can be adapted and expanded based on specific campaign needs. ## [P
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

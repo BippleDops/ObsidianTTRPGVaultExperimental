@@ -171,44 +171,27 @@ Is secretly testing the party
 - Special moves
 
 ## See Also
-- [[NPC01463_Aeliana_Zephyrblade_the_Fallen
-- [NPC01911_Alaric_Oakenshield_the_Mystic]]
-- [[NPC00207_Ysara_Ravenheart
-- [NPC00949_Nerys_Underhill_the_Wise]]
-- [[NPC00860_Gavril_Winterborn_the_Swift
-- [NPC01660_Thalia_Moonshadow_the_Fallen]]
-- [[NPC00259_Delara_Proudmore
-- [NPC00095_Fiora_Nightfall]]
-- [[NPC00237_Vesper_Ashford_the_Bold
-- [NPC00815_Baelor_Thornweave_the_Swift]]
-- [[NPC00373_Wynne_Frostwhisper_the_Strong
-- [NPC01994_Orion_Brightblade_the_Risen]]
-- [[NPC00124_Delara_Ravenheart_the_Redeemed
-- [NPC00461_Branwen_Proudmore_the_Strong]]
-- [[NPC01827_Kaelen_Ironforge_the_Seeker
-- [NPC01312_Alaric_Darkwater_the_Fallen]]
-- [[NPC01502_Urien_Underhill_the_Scholar
-- [NPC01057_Pyria_Quicksilver_the_Scholar]]
-- [[NPC01745_Felicia_Oakenshield_the_Scholar
-- [Depth_Adapted_Background]]
-- [[Player_Portal.md
-- [Ancient_Prophecy_Fragment_Verdan]]
-- [[Downtime_Activities
-- [NPC00582_Cedric_Dawnstrider]]
-- [[07 Customization Options
-- [Session_Recaps]]
-- [[05 Personality and Background
-- [08 Using Ability Scores]]
-- [[16 Credits
-- [10 Combat]]
-- [[Character_Journal_Template
-- [13 Conditions]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC00949_Nerys_Underhill_the_Wise]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC00373_Wynne_Frostwhisper_the_Strong]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[Ancient_Prophecy_Fragment_Verdan]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[07 Customization Options]]
+- [[05 Personality and Background]]
+- [[16 Credits]]
+- [[Character_Journal_Template]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -229,14 +212,12 @@ Is secretly testing the party
 - Related: [step_033 (phase_051)]]
 - Originates from [[pit-fighting-complications-xge (tables)
 - Influences [orc-yurtrus-vgm (deities)]]
-- Influences [[LORE00095_Legends_Entry_96
-- Affected by [Portal Technician Voidwalk (D&D_References)]]
+- Influences [[Portal Technician Voidwalk (D&D_References)]]
 - Connects to [[Surface Contacts 2
 - Compare with [Future Glimpse]]
 - Compare with [[step_044 (phase_024)
 - See also: [Embassy District]]
-- Influences [[NPC01717_Faelyn_Frostwhisper_the_Lost
-- Compare with [LOC00089_Towns_Location_90]]
+- Influences [[NPC01717_Faelyn_Frostwhisper_the_Lost]]
 - Influences [[kitchen
 - Requires [Vehicle Ship Pressure Lifter Barge V1 Pressure Lifter Barge.svg]]
 - Leads to [[Assets Portraits Portrait NPC Lady Shadowmere Lady Shadowmere.svg
@@ -262,8 +243,7 @@ Is secretly testing the party
 - Affected by [carousing-xge (tables)]]
 - Compare with [[spell-scroll-level-3-xdmg (items)
 - Influences [Portrait NPC Unite the Emperor Unite the Emperor.svg_1 (Portraits)]]
-- Influences [[Quick Start Guide (D&D_References)
-- Leads to [Temple of the Deep Waters (D&D_References)]]
+- Influences [[Temple of the Deep Waters (D&D_References)]]
 - Related: [[location-city-merchant-merchant.svg
 - Related: [Assets Locations Location City Cora Peaceweaver V1 Cora Peaceweaver.svg]]
 - Requires [[NPC01353_Drusilla_Ironwood_the_Fallen
@@ -278,30 +258,24 @@ Is secretly testing the party
 - Affected by [Assets Locations Location City Archive Kelpmere V1 Archive Kelpmere.svg]]
 - Compare with [[elemental-gem-yellow-diamond-xdmg (items)
 - Compare with [QUEST00007_Personal_Quest_8]]
-- Originates from [[MON00126_Undead_Creature_127
-- Related: [step_100 (phase_090)]]
-- See also: [[Artifact Properties Major Detrimental
-- Connects to [War Machine Assembly Halls (D&D_References)]]
+- Originates from [[MON00126_Undead_Creature_127]]
+- See also: [[War Machine Assembly Halls (D&D_References)]]
 - Compare with [[Assets Locations Location City Interfaith Cooperation Interfaith Cooperation.svg
 - Related: [Coastal Encounters Levels 1720 Xge]]
 - Affected by [[QUEST00004_Side_Quest_5
 - Requires [step_006 (phase_088)]]
-- Affected by [[step_062 (phase_033)
-- Influences [The Catastrophe: Hour by Hour]]
+- Affected by [[The Catastrophe: Hour by Hour]]
 - Parallels [[Portrait NPC Captain Nerion Deepward V2 Captain Nerion Deepward.svg
 - Originates from [Branching Campaign Paths]]
 - Originates from
-- Compare with [[step_050 (phase_082)
-- See also: [ENC00294_Social_Encounter_295]]
+- Compare with [[ENC00294_Social_Encounter_295]]
 - Influences [[Seven_Shards_Publishing_Package
 - Requires [Aethermoor-Aquabyssos Treaties]]
-- Compare with [[Cloak of the Manta Ray Xdmg
-- Leads to [Elder Scribe Marcus the Lost (D&D_References)]]
+- Compare with [[Elder Scribe Marcus the Lost (D&D_References)]]
 - Influences [[step_072 (phase_070)
 - Connects to
 - Leads to [Portrait NPC the Current Merchants the Current Merchants.svg_1 (Portraits)]]
-- Related: [[conditions#frightened
-- Connects to [step_024 (phase_044)]]
+- Related: [[Conditions]]
 - Influences [[NPC00127_Thalia_Quicksilver
 - Requires [Creature Creature Young Green Dragon Xmm Young Green Dragon Xmm.png]]
 - Requires [[Assets Locations Location City Representative Coral Youngcurrent Representative Coral Youngcurrent.svg
@@ -313,8 +287,7 @@ Is secretly testing the party
 - Compare with [[LORE00108_History_Entry_109
 - Compare with
 - See also: [portrait-npc-the-seven-seals-the-seven-seals.svg_1 (Portraits)]]
-- Requires [[warhorse-skeleton-xmm (undead)
-- Related: [Skyship Technology (D&D_References)]]
+- Requires [[Skyship Technology (D&D_References)]]
 - Compare with [[step_050 (phase_043)
 - Leads to
 - Influences [Marcus the Jus]]

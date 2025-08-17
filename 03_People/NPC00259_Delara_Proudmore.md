@@ -166,26 +166,14 @@ Seeks bodyguards for dangerous journey
 - Special moves
 
 ## See Also
-- [[NPC00812_Kaelen_Jadeclaw_the_Seeker
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [NPC00058_Elric_Nightfall]]
-- [[NPC00501_Orion_Nightfall_the_Broken
-- [NPC00124_Delara_Ravenheart_the_Redeemed]]
-- [[NPC00378_Malakai_Moonshadow_the_Broken
-- [NPC00321_Aeliana_Zephyrblade_the_Strong]]
-- [[11 Rules Glossary
-- [NPC00083_Vesper_Xendar_the_Lost]]
-- [[NPC00860_Gavril_Winterborn_the_Swift
-- [NPC01745_Felicia_Oakenshield_the_Scholar]]
-- [[NPC00661_Corvus_Darkwater_the_Broken
-- [NPC01566_Lyanna_Underhill_the_Redeemed]]
-- [[NPC01894_Aldric_Lightbringer_the_Bold
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00083_Vesper_Xendar_the_Lost]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -202,19 +190,16 @@ Seeks bodyguards for dangerous journey
 - Requires [Portrait NPC Parliament Loyalists V1 Parliament Loyalists.svg]]
 - See also: [[step_028 (phase_011)
 - Parallels [step_009 (phase_062)]]
-- Affected by [[The Cargo Inspection Station (D&D_References)
-- Originates from [Bio-Integration Laboratory]]
+- Affected by [[The Cargo Inspection Station (D&D_References)]]
 - Leads to
 - See also:
 - Connects to [[LORE00162_History_Entry_163
 - Compare with [ENC00249_Combat_Encounter_250]]
 - Requires [[step_005 (phase_059)
 - See also: [[Location City [Reef Guard Captain Torrent Shellborn]] Reef Guard Captain Torrent Shellborn.svg]]
-- Parallels [[Senior Temporal Engineer Chronos Fieldwright
-- Connects to [[[Kelp Forest]] Rangers]]
+- Parallels [[Senior Temporal Engineer Chronos Fieldwright]] Rangers]]
 - Originates from
-- Influences [[step_093 (phase_026)
-- Affected by [ENC00156_Social_Encounter_157]]
+- Influences [[ENC00156_Social_Encounter_157]]
 - Requires [[Assets Locations Location City [Representative Coral Youngcurrent V1 Representative Coral Youngcurrent.svg]]
 - Affected by [[Assets Locations Location City [Scarlet Torrent V1 Scarlet Torrent.svg]]
 - Related: [[FAC00054_Guilds_55
@@ -233,10 +218,8 @@ Seeks bodyguards for dangerous journey
 - Influences
 - Influences [[Surface Traders
 - Compare with [step_003 (phase_026)]]
-- Related: [[NPC01434_Baelor_Winterborn_the_Guardian
-- Leads to [SPELL00111_Divine_Spell_112]]
-- Compare with [[step_075 (phase_077)
-- Related: [Services Reality Stabilization]]
+- Related: [[NPC01434_Baelor_Winterborn_the_Guardian]]
+- Compare with [[Services Reality Stabilization]]
 - Affected by [[step_034 (phase_026)
 - Related: [step_080 (phase_020)]]
 - Requires [[Assets Locations [[Location City [The Contract Archive the Contract Archive.svg]]]]
@@ -253,23 +236,20 @@ Seeks bodyguards for dangerous journey
 - Affected by [[Royal Guard (Lore)
 - Connects to
 - Requires [step_028 (phase_054)]]
-- Influences [[QUEST00221_Personal_Quest_222
-- Related: [NPC01936_Urien_Youngblood_the_Scholar]]
+- Influences [[NPC01936_Urien_Youngblood_the_Scholar]]
 - Connects to [[step_033 (phase_005)
 - Affected by [FAC00060_Cults_61]]
 - Requires [[Deputy Arch[Merchant Scroll Deepmin 2]]
 - Requires [[portrait-npc-shadow-brokers-shadow-brokers.svg_1 (Portraits)
 - Leads to [List Optfeaturetype Ei]]
-- Originates from [[Items - New Item
-- Connects to [attack-roll-xphb (variant-rules)]]
+- Originates from [[attack-roll-xphb (variant-rules)]]
 - See also: [[Shadow Reflection Sage
 - Connects to [step_061 (phase_009)]]
 - Parallels [[step_087 (phase_007)
 - Parallels [step_099 (phase_089)]]
 - Influences [[LOC00030_Planes_Location_31
 - Originates from [[Assets Locations [Location City the Pressure Forges V1 the Pressure Forges.svg]]]]
-- See also: [[step_066 (phase_034)
-- Leads to [NPC00931_Erasmus_Winterborn_the_Swift]]
+- See also: [[NPC00931_Erasmus_Winterborn_the_Swift]]
 - Affected by [[NPC_Portraits_Gallery
 - See also: [02_Worldbuilding_Groups_The_Shadow_Merchant_Prim]]
 - Related: [[Campaign_Direction_Survey
@@ -287,8 +267,7 @@ Seeks bodyguards for dangerous journey
 - See also: [[Location City [Geometric Tidepools V1 Geometric Tidepools.svg]]
 - Influences [[step_075 (phase_011)
 - Compare with [Deep Adaptation Processes 2]]
-- Connects to [[Banker Kess
-- Connects to [Wind Song Traditions (D&D_References)]]
+- Connects to [[Wind Song Traditions (D&D_References)]]
 - Parallels [[LORE00012_Legends_Entry_13
 - Influences [Finn Goodtide]]
 - Parallels [[ranger-xphb-gloom-stalker-xphb (classes)

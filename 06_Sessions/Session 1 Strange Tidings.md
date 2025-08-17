@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.470654"
 modified: "2025-08-15T12:24:39.470655"
-aliases: [Session 1 [[Strange Tidings]]]
+aliases: [Session 1 [[Session 1 Strange Tidings]]]
 ---
 
 # Session 1 [[Strange Tidings
@@ -19,7 +19,7 @@ tags:
 - session title: Session 1 [Strange Tidings]]
 type: session
 updated: 2025-08-14
-- -- # Session 1 [[Strange Tidings ## [Overview This]] document contains important information regarding Session 1 [[Strange Tidings and its role within the greater narrative. ## Description
+- -- # Session 1 [[Session 1 Strange Tidings]] document contains important information regarding Session 1 [[Strange Tidings and its role within the greater narrative. ## Description
 
 **Details**: Rich sensory elements bring this to life. Session 1 [Strange Tidings]] represents a significant element within the campaign world, offering various opportunities for engagement and develop
 *The [texture] surface feels [description] to the touch.*ment. Subsequently, ## [[Key Information - **[Primary Purpose]]**: Serves specific function within the world
@@ -37,7 +37,7 @@ updated: 2025-08-14
 aliases: ["Session 1 [Strange Tidings]]"]
 priority: normal
 category: 06 Sessions
-subcategory: Session 1 [[Strange Tidings]].Md
+subcategory: Session 1 [[Session 1 Strange Tidings]].Md
 related: []
 cssclass: standard
 publish: false --- -|--------|

@@ -8,5 +8,8 @@
   ],
   "created": "2025-08-16T16:58:14.706Z",
   "tokenSize": "1x1",
-  "border": "none"
+  "border": "none",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:54:24.260Z",
+  "generationMethod": "ComfyUI"
 }

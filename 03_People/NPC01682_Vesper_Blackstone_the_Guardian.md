@@ -160,26 +160,11 @@ Is secretly testing the party
 
 ## See Also
 - [NPC00939_Thalia_Jadeclaw_the_Swift]]
-- [[NPC01431_Kaelen_Zephyrblade_the_Guardian
-- [NPC01979_Fiora_Emberfall_the_Guardian]]
-- [[NPC01466_Urien_Nightfall_the_Guardian
-- [NPC00200_Faelyn_Winterborn_the_Guardian]]
-- [[NPC00407_Hestara_Dawnstrider
-- [NPC01151_Orion_Stormwind_the_Seeker]]
-- [[Emergency_Evacuation_Map_Stormglass_Riot
-- [Combat_Encounter_Analysis]]
-- [[11 Spellcasting
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[11 Spellcasting]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -189,8 +174,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -210,8 +194,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[Assets Locations Location City [[[Merchant]] Viktor Geargrind]] Merchant Viktor Geargrind.svg]]
 - Connects to [[roleplaying-a-giant-giant-ideals-vgm (tables)
 - Affected by [ITEM00276_Cursed_Sword_of_Wounding]]
-- Connects to [[System Cli Items Armor and Shields
-- Compare with [LORE00050_History_Entry_51]]
+- Connects to [[System Cli Items Armor and Shields]]
 - Connects to [[LOC00289_Dungeons_Location_290
 - Influences [slippers-of-spider-climbing-xdmg (items)]]
 - Requires
@@ -219,14 +202,12 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [ITEM00211_Venomous_Hammer_of_Slaying]]
 - Compare with [[step_025 (phase_075)
 - Compare with [step_028 (phase_083)]]
-- Compare with [[step_087 (phase_053)
-- Affected by [Enforcement Authority Charte]]
+- Compare with [[Enforcement Authority Charte]]
 - Parallels [[Dragonchess Set Xphb
 - Requires [Illyana Glowstream]]
 - Parallels [[step_024 (phase_010)
 - See also: [npc-bonds (tables)]]
-- Originates from [[LOC00087_Towns_Location_88
-- Originates from [[[Aquabyssos]]_Content (02_Worldbuilding)]]
+- Originates from [[LOC00087_Towns_Location_88]]_Content (02_Worldbuilding)]]
 - Related: [[secondary-tables-crime-xge (tables)
 - Affected by [step_072 (phase_027)]]
 - Influences [[step_018 (phase_044)
@@ -234,14 +215,12 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[step_015 (phase_009)
 - Connects to
 - Influences [Symbol Heraldry Minister Truth Darknes V1 Minister Truth Darknes.svg]]
-- Originates from [[DUN00194_Dungeon_195
-- Affected by [QUEST00066_Personal_Quest_67]]
+- Originates from [[QUEST00066_Personal_Quest_67]]
 - Connects to [[Portrait NPC High Cultivist Jasper Lifebinder V2 High Cultivist Jasper Lifebinder.svg
 - Influences [ITEM00615_Dragon_Scale_Boots_of_Resistance]]
 - Leads to [[step_079 (phase_042)
 - Connects to [Portrait NPC Deep Mother Priestess Sira V2 Deep Mother Priestess Sira.svg]]
-- Connects to [[Whisper Collective
-- Parallels [Professor Depth Biologist]]
+- Connects to [[Professor Depth Biologist]]
 - Connects to [[04_Resources_Assets_Symbols_symbol-heraldry-port-sorrow-trading-company-port-sorrow-trading-company.svg
 - Requires [step_070 (phase_079)]]
 - Parallels [[Assets Locations Location City [World Map V1 World Map.svg]]
@@ -250,10 +229,8 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Adamantine Armor Xdmg
 - Connects to [[Assets Locations [[Location City [Pilgrimage Coordinators]] V1 Pilgrimage Coordinators.svg]]]]
 - Related: [[Assets Locations [[Location City [Council of Faiths Council of Faiths.svg]]]]
-- Parallels [[step_030 (phase_050)
-- Influences [M-008 Door Opens Elsewhere Player]]
-- Leads to [[LOC00124_Cities_Location_125
-- Connects to [step_080 (phase_070)]]
+- Parallels [[M-008 Door Opens Elsewhere Player]]
+- Leads to [[LOC00124_Cities_Location_125]]
 - Parallels
 - Affected by
 - Requires [[Figurine of Wondrous Power Onyx Dog Xdmg
@@ -267,12 +244,10 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[step_064 (phase_039)
 - Requires [Explosives Xdmg]]
 - Affected by [[Missing Persons of [Port Meridian]]
-- Requires [[Scholar-Merchant Remembrance Tidekeep
-- Related: [EVENT00059_Political_Event_60]]
+- Requires [[Scholar-Merchant Remembrance Tidekeep]]
 - See also: [[MON00138_Aberrations_Creature_139
 - Requires [[Location City [Undead Services Bureau]] Undead Services Bureau.svg]]
-- Connects to [[The Kraken's Wake
-- Connects to [International Temporal Safety Counci]]
+- Connects to [[International Temporal Safety Counci]]
 - Connects to [[step_094 (phase_069)
 - See also: [borrowed-knowledge-scc (spells)]]
 - Influences
@@ -281,8 +256,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[The Living Quarters
 - Influences [Crimson Tide Pirates]]
 - Related: [[Location City [Sage Iris Crystalbloom V1 Sage Iris Crystalbloom.svg]]
-- Leads to [[Drow High Magic Xge
-- Parallels [The Senator's Voting Record]]
+- Leads to [[The Senator's Voting Record]]
 - Influences [[QUEST00144_Side_Quest_145
 - Connects to [Earth Elemental Myrmidon Mpmm]]
 - Influences [[seeker-dart-pota (items)
@@ -293,12 +267,10 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[step_091 (phase_011)
 - Affected by [QUEST00303_Side_Quest_304]]
 - Compare with
-- See also: [[[Royal Bloodline Powers (D&D_References)]]
-- Influences [[LOC00280_Cities_Location_281
-- Related: [The Silverscale Consortium 3 (D&D_References)]]
-- Leads to [[LORE00115_Legends_Entry_116
-- Leads to [LOC00145_Wilderness_Location_146]]
-- Parallels [[[Aethermoor Academy of Mystical Science]]
+- See also: [[Royal Bloodline Powers (D&D_References)]]
+- Influences [[The Silverscale Consortium 3 (D&D_References)]]
+- Leads to [[LOC00145_Wilderness_Location_146]]
+- Parallels [[Aethermoor Academy of Mystical Science]]
 - Influences
 - Related: [[Assets Locations Location City [Port Authority Port Authority.svg]]
 - Connects to

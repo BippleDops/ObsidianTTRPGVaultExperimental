@@ -179,7 +179,7 @@ This content explores themes of redemption, adding narrative depth to your campa
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

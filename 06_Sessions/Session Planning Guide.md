@@ -16,23 +16,15 @@ This topic is referenced in [Comprehensive-World-Connection-Guide (D&D_Reference
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Comprehensive-World-Connection-Guide (D&D_References)
-- Related topics in the same category
-
-## Details
-Further information about this topic will be developed as the campaign progresses.
-
-## [Plot Hooks]]
+- Referenced by: [[Comprehensive-World-Connection-Guide (D&D_References)]]
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
 
 ## References
 
-- [[Comprehensive-World-Connection-Guide
-- [[[Session Planning]] Guide (02_Worldbuilding)]]
-- [[Comprehensive-World-Connection-Guide (D&D_References)
-- [Comprehensive-World-Connection-Guide 3 (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide]] Guide (02_Worldbuilding)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
 
 ## [[Session Summary
 *Brief overview of this session*
@@ -42,7 +34,7 @@ Further information about this topic will be developed as the campaign progresse
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

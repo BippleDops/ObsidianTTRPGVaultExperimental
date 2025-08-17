@@ -159,14 +159,10 @@ Forming expedition to dangerous location
 - Special moves
 
 ## See Also
-- [[NPC00582_Cedric_Dawnstrider
-- [NPC00587_Idris_Youngblood_the_Strong]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC01013_Corvus_Ravenheart_the_Bold]]
-- [[Player_Feedback_Form.md
-- [MOC_Rules]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[Player_Feedback_Form]]
 -
 
 ## Item Rarity & Balance
@@ -217,12 +213,10 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [Bioluminescence]]
 - See also: [[roper-xmm (aberration)
 - Affected by [Location City Tenebrarum Embassy V1 Tenebrarum Embassy.svg]]
-- Leads to [[LORE00254_Prophecies_Entry_255
-- Related: [NPC00710_Corvus_Quicksilver_the_Scholar]]
+- Leads to [[NPC00710_Corvus_Quicksilver_the_Scholar]]
 - Compare with [[Assets Locations Location City Sorceress Luna Prismatic V1 Sorceress Luna Prismatic.svg
 - Compare with [Cross-Cultural_Legal_Association]]
-- Affected by [[step_011 (phase_024)
-- Influences [Resistance Xphb (variant-rules)]]
+- Affected by [[Resistance Xphb (variant-rules)]]
 - Affected by [[ITEM00027_Radiant_Axe_of_Power
 - Requires
 - Requires [Scholars Pack Xphb]]
@@ -230,8 +224,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [Location City University Philosophy Departments University Philosophy Departments.svg]]
 - Influences [[sailing-ship-xphb (items)
 - Influences [step_035 (phase_019)]]
-- Parallels [[SHOP00046_Magical_Shop_47
-- Affected by [The Crystal Integration Festival (D&D_References)]]
+- Parallels [[The Crystal Integration Festival (D&D_References)]]
 - See also: [[Tree Blight Xmm
 - Parallels [step_066 (phase_096)]]
 - Affected by [[squat-nimbleness-xge (feats)
@@ -264,21 +257,18 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [INV-006.png (Art)]]
 - Requires [[Quest The Shadow Fleet
 - Leads to [Tinderbox Xphb]]
-- Influences [[ENC00084_Environmental_Encounter_85
-- Connects to [Lady Willow Greenbough (D&D_References)]]
+- Influences [[Lady Willow Greenbough (D&D_References)]]
 - Connects to [[Swarm of Rot Grubs Mpmm
 - See also: [Portrait NPC Castellan Ironledger Iii Castellan Ironledger Iii.svg]]
 - Compare with [[Secular Community Practices 2
 - Connects to [Leviathan Prophet Thalassa]]
-- Influences [[step_069 (phase_024)
-- Requires [QUEST00051_Personal_Quest_52]]
+- Influences [[QUEST00051_Personal_Quest_52]]
 - Leads to [[EVENT00093_Political_Event_94
 - Compare with [step_063 (phase_082)]]
 - Related: [[DUN00041_Dungeon_42
 - Requires
 - Originates from [saddlebags]]
-- Affected by [[step_090 (phase_021)
-- See also: [LOC00127_Planes_Location_128]]
+- Affected by [[LOC00127_Planes_Location_128]]
 - Originates from [[Location City Harbormaster Creedence Tidereader V1 Harbormaster Creedence Tidereader.svg
 - Related: [NPC0012_Magnus_Stormwind]]
 - Originates from [[ITEM00478_Dragon_Scale_Boots_of_Protection
@@ -288,16 +278,13 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[component-pouch-xphb (items)
 - Affected by
 - Related: [Skywrite Xge]]
-- Connects to [[Atmospheric Research Society (D&D_References)
-- See also: [LORE00304_Prophecies_Entry_305]]
+- Connects to [[Atmospheric Research Society (D&D_References)]]
 - Affected by [[spell-scroll-level-8-xdmg (items)
 - Leads to [Downtime Activity Relaxation Xge]]
-- Compare with [[The First King's Diary (D&D_References)
-- Compare with [EVENT00028_Magical_Event_29]]
+- Compare with [[The First King's Diary (D&D_References)]]
 - Affected by
 - Leads to
-- Compare with [[Order of the Silver Anchor (Orders)
-- Parallels [ENC00256_Social_Encounter_257]]
+- Compare with [[Order of the Silver Anchor (Orders)]]
 - Related: [[LOC00223_Cities_Location_224
 - Influences [LORE00326_Prophecies_Entry_327]]
 - Parallels [[Harbor Master Captain Dockwise 2]]

@@ -167,28 +167,19 @@ Needs help with personal quest
 - Special moves
 
 ## See Also
-- [[NPC00250_Delara_Darkwater_the_Fallen
-- [NPC00133_Lyanna_Oakenshield_the_Seeker]]
-- [[NPC00812_Kaelen_Jadeclaw_the_Seeker
-- [NPC00663_Alaric_Dawnstrider_the_Strong]]
-- [[NPC00599_Cedric_Lightbringer_the_Wise
-- [NPC01177_Thalia_Underhill_the_Fallen]]
-- [[NPC00461_Branwen_Proudmore_the_Strong
-- [NPC01951_Gavril_Xendar_the_Swift]]
-- [[NPC01195_Gareth_Keenblade_the_Guardian
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC00395_Aeliana_Thornweave
-- [World_Primer.md]]
-- [[Parliamentary_Voting_Guide
-- [09 Adventuring]]
-- [[10 Combat
-- [11 Rules Glossary]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[Parliamentary_Voting_Guide]]
+- [[11 Rules Glossary]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -208,26 +199,21 @@ Needs help with personal quest
 - Affected by [NPC01867_Hilda_Hawthorne_the_Fallen]]
 - Originates from [[list-spells-races-aasimar-xphb (lists)
 - Affected by [NPC01664_Pyria_Lightbringer_the_Redeemed]]
-- Requires [[LOC00269_Dungeons_Location_270
-- Related: [step_067 (phase_060)]]
+- Requires [[LOC00269_Dungeons_Location_270]]
 - Influences [[step_079 (phase_082)
 - Influences [Portrait NPC Militant Priest Abyssal V1 Militant Priest Abyssal.svg]]
 - Compare with [[QUEST00039_Main_Quest_40
 - Requires [INV-008 (D&D_References)]]
-- Influences [[NPC01823_Xander_Quicksilver_the_Broken
-- Affected by [LOC00032_Wilderness_Location_33]]
-- Originates from [[LORE00311_Prophecies_Entry_312
-- Related: [The Remembrancer General (D&D_References)]]
+- Influences [[NPC01823_Xander_Quicksilver_the_Broken]]
+- Originates from [[The Remembrancer General (D&D_References)]]
 - Related: [[Hex Xphb
 - Affected by [Creature Creature Storm Giant Quintessent Mpmm V4 Storm Giant Quintessent Mpmm.png]]
-- See also: [[The Rumor Mill 2
-- Leads to [LOC00157_Towns_Location_158]]
+- See also: [[LOC00157_Towns_Location_158]]
 - Related: [[Assets Locations Location City Bubble District Bubble District.svg
 - Parallels [ENC00060_Social_Encounter_61]]
 - See also: [[step_082 (phase_056)
 - Connects to [Marid Xmm]]
-- Connects to [[Rational Philosophy Framework (D&D_References)
-- Parallels [step_040 (phase_052)]]
+- Connects to [[Rational Philosophy Framework (D&D_References)]]
 - Originates from [[Chamber Purpose Dungeon Mine
 - Connects to [LORE00155_Prophecies_Entry_156]]
 - See also: [[ITEM00904_Greater_Potion_of_Fortune
@@ -241,17 +227,14 @@ Needs help with personal quest
 - Originates from [step_055 (phase_056)]]
 - Originates from [[step_011 (phase_056)
 - Related: [LORE00110_History_Entry_111]]
-- See also: [[Template-Location
-- Compare with [LOC00276_Planes_Location_277]]
-- Originates from [[Kraken Territories 2
-- Leads to [NPC01133_Hestara_Xendar_the_Broken]]
+- See also: [[LOC00276_Planes_Location_277]]
+- Originates from [[NPC01133_Hestara_Xendar_the_Broken]]
 - Leads to [[The Memory Wardens 2
 - Originates from [LOC00205_Dungeons_Location_206]]
 - Related:
 - Affected by [[Location City Basalt Depthwright V1 Basalt Depthwright.svg
 - Compare with [Deep Threat Assessment Bureau (D&D_References)]]
-- Requires [[Noble Quarter Salons 2
-- Affected by [climb-speed-xphb (variant-rules)]]
+- Requires [[climb-speed-xphb (variant-rules)]]
 - Influences [[Location City Judge Tidal Fairweather V1 Judge Tidal Fairweather.svg
 - Influences [MON00017_Undead_Creature_18]]
 - Affected by [[Quest - The Deepmind Weapon
@@ -261,18 +244,14 @@ Needs help with personal quest
 - Requires [LOC00233_Towns_Location_234]]
 - Originates from [[QUEST00362_Side_Quest_363
 - Affected by [illusions-xphb (variant-rules)]]
-- Affected by [[step_022 (phase_065)
-- Leads to [Divine Magic (D&D_References)]]
-- Requires [[ITEM0096_Ancient_Tome_of_the_Dawn
-- Connects to [Pegasus Xmm]]
+- Affected by [[Divine Magic (D&D_References)]]
+- Requires [[ITEM0096_Ancient_Tome_of_the_Dawn]]
 - Parallels [[larva-xmm (fiend)
 - See also: [ENC00007_Combat_Encounter_8]]
-- Affected by [[NPC01231_Ewan_Voidwalker_the_Swift
-- Related: [Construct Spirit Xphb]]
+- Affected by [[NPC01231_Ewan_Voidwalker_the_Swift]]
 - Leads to [[Captain Lyanna Brightshield
 - Leads to [Quest - The Iron Loyalty]]
-- Influences [[step_100 (phase_090)
-- Affected by [LOC00240_Cities_Location_241]]
+- Influences [[LOC00240_Cities_Location_241]]
 - Compare with [[Assets Locations Location City the Sinking Atoll V1 the Sinking Atoll.svg
 - See also: [Portrait NPC Guardian Captain Marcus Shieldwall V2 Guardian Captain Marcus Shieldwall.svg]]
 - Requires [[The Reef Communities (D&D_References)

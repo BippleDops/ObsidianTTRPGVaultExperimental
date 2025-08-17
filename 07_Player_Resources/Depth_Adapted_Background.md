@@ -60,7 +60,7 @@ Born into modest circumstances, Depth_Adapted_Background rose through dedication
 - **Equipment**: Various tools of their trade
 
 ## Relationships
-- **Allies**: [[The Merchant's Guild, [City Watch]]
+- **Allies**: [[The Merchant's Guild]]
 - **Rivals**: [[Shadow Conspiracy]]
 - **Contacts**: Network of informants throughout the city
 
@@ -99,29 +99,16 @@ Actively involved in current events, pursuing their own agenda while maintaining
 > Important safety or rule information
 
 ## See Also
-- [[NPC01483_Gavril_Zephyrblade_the_Fallen
-- [NPC00515_Baelor_Crystalbrook_the_Seeker]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[NPC00250_Delara_Darkwater_the_Fallen
-- [NPC01943_Xander_Proudmore_the_Fallen]]
-- [[NPC00285_Xander_Goldleaf_the_Mystic
-- [Measurement_Guide_Depth_and_Pressur]]
-- [[World_Primer.md
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[12 Spells
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[05 Personality and Background
-- [MOC_Lore]]
-- [[Count_Strahd_von_Zarovich
--
-
-## Related Content
-- [ULTIMATE_VAULT_ACHIEVEMENT]]
-- [[optimization_report_20250814_180706
-- [audio_fit_report]]
-- [[audio_fit_report_1
-- [SVG_REPLACEMENT_REPORT]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[05 Personality and Background]]
+- [[Count_Strahd_von_Zarovich]]
+- [[OPTIMIZATION_REPORT_2025]]
+- [[SVG_REPLACEMENT_REPORT]]
 - [[ULTIMATE_ASSET_REPORT
 
 ## Game Mechanics
@@ -156,8 +143,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - See also: [[step_079 (phase_088)
 - Requires
 - Parallels [bronze-dragon (legendary-group)]]
-- Influences [[ENC00022_Social_Encounter_23
-- Influences [Merchants Scale]]
+- Influences [[ENC00022_Social_Encounter_23]]
 - Parallels [[Assets Locations Location City Magical Services Magical Services.svg
 - Leads to [ITEM00551_Adamantine_Plate_of_Fortitude]]
 - Compare with [[Assets Locations Location City Kelp Based Brewing Kelp Based Brewing.svg
@@ -179,16 +165,14 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Related: [Session 02 the Crystal Fever]]
 - Influences [[Order of Azure Flame (Orders)
 - Influences [step_075 (phase_086)]]
-- Related: [[The Grand Crystal Exchange 2
-- See also: [step_090 (phase_045)]]
+- Related: [[The Grand Crystal Exchange 2]]
 - Connects to [[LORE00141_History_Entry_142
 - Parallels [Session Planning Toolkit]]
 - Related: [[Temporal Sentinels
 - Related: [step_051 (phase_056)]]
 - Leads to [[#lore Location Connection Matrix
 - Affected by [dawn-war-tharizdun-dmg (deities)]]
-- Requires [[Faction Standing System
-- Related: [MON00035_Constructs_Creature_36]]
+- Requires [[MON00035_Constructs_Creature_36]]
 - See also:
 - Originates from [[Deep Energy Consortium (D&D_References)
 - Affected by [Vehicle Ship Harbor Guardian Gunboat V1 Harbor Guardian Gunboat.svg]]
@@ -198,44 +182,36 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Originates from [ENC00293_Social_Encounter_294]]
 - Parallels [[step_095 (phase_066)
 - Leads to [step_089 (phase_053)]]
-- Influences [[Teleport Xphb
-- Influences [Cross-Dimensional Research Consortium]]
+- Influences [[Cross-Dimensional Research Consortium]]
 - Influences [[Location City Crystals Curiosities Crystals Curiosities.svg
 - Leads to [QUEST0062_In_Search_of_Truth]]
-- Connects to [[LOC00153_Planes_Location_154
-- Requires [Captain Hadal Voidwright]]
+- Connects to [[LOC00153_Planes_Location_154]]
 - Leads to [[Treasure Hoard Challenge 17 (tables)
 - Compare with [step_088 (phase_014)]]
 - See also: [[Reality_Manipulation (Lore)
 - Related: [LOC00049_Dungeons_Location_50]]
 - Leads to [[Shadow Network
 - Connects to [Portrait NPC High Priestess Celeste V2 High Priestess Celeste.svg]]
-- Affected by [[Underwater Diplomatic Complex
-- Related: [step_025 (phase_082)]]
+- Affected by [[Underwater Diplomatic Complex]]
 - Parallels [[Graveyard Revenant Xmm
 - Parallels [step_064 (phase_086)]]
-- Influences [[Dimensional Security Guards
-- Influences [step_079 (phase_008)]]
+- Influences [[Dimensional Security Guards]]
 - Parallels [[step_008 (phase_064)
 - Connects to [step_025 (phase_059)]]
 - Requires [[LOC00227_Cities_Location_228
 - Affected by [ITEM00586_Enchanted_Leather_of_Grace]]
 - Influences [[step_031 (phase_051)
 - Parallels [Ω_System-CLI-spells-school-transmutation (Lore)]]
-- Influences [[QUEST00128_Personal_Quest_129
-- Originates from [The Grand Crystal Exchange (D&D_References)]]
+- Influences [[The Grand Crystal Exchange (D&D_References)]]
 - Requires [[step_029 (phase_045)
 - Compare with
 - Connects to [QUEST00142_Main_Quest_143]]
-- Connects to [[Parliamentary Infiltration List
-- Influences [Mule Xphb]]
-- Related: [[fiendish-cults-cult-goals-mtf (tables)
-- Compare with [Silverscale Trade Embassy (D&D_References)]]
+- Connects to [[Parliamentary Infiltration List]]
+- Related: [[Silverscale Trade Embassy (D&D_References)]]
 - Related:
 - Leads to [[location-city-fire-crystals-fire-crystals.svg
 - Connects to [Ankheg Xmm]]
-- Related: [[The Iteration Collective (D&D_References)
-- Leads to [step_031 (phase_047)]]
+- Related: [[The Iteration Collective (D&D_References)]]
 - Requires [[step_077 (phase_043)
 - Compare with [step_027 (phase_059)]]
 - See also:

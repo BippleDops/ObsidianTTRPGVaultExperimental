@@ -18,9 +18,7 @@ publish: false
 
 ---
 
- # Aquabyssos - Session 02 - [[The Parliament's Paradox ## Overview
-
-This document contains important information regarding Aquabyssos - Session 02 - [The Parliament]]'s Paradox and its role within the greater narrative. ## Description
+ # Aquabyssos - Session 02 - [[Aquabyssos - Session 02 - The Parliament's Paradox]]'s Paradox and its role within the greater narrative. ## Description
 
 Aquabyssos - Session 02 - [[The Parliament's Paradox represents a significant element within the campaign world, offering various opportunities for engagement and development. ## [Key Information]]
 

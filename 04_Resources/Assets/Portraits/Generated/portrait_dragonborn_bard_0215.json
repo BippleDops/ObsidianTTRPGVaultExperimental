@@ -12,5 +12,8 @@
     "bard",
     "generated"
   ],
-  "created": "2025-08-16T16:58:14.654Z"
+  "created": "2025-08-16T16:58:14.654Z",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:51:52.707Z",
+  "generationMethod": "ComfyUI"
 }

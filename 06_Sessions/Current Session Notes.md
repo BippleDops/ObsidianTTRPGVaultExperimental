@@ -1,7 +1,6 @@
 ---
 
-title: [[Current Session Notes
-type: [Lore]]
+title: [[Current Session Notes]]
 tags:
 - lore
 - worldbuilding
@@ -46,17 +45,7 @@ improvements: 20
 
 ### [Diaspora Improvements]]
 
-- Describe how this culture exists in other [[regions
-
-### Material_Culture Improvements
-
-- Detail common objects and their cultural significance
-
-### Oral_Tradition Improvements
-
-- Add folk tales and children's stories
-
-### [Sensory Improvements]]
+- Describe how this culture exists in other [[region]]
 
 - Add smells, sounds, and textures unique to this culture
 
@@ -135,10 +124,10 @@ improvements: 20
 - [[Current_Session_Notes (02_Worldbuilding)
 
 ## [See Also]]
-- [[[Enchanter Valdris Peacewarden]]
-- [[[Pip Goldleaf]]
-- [[[The Forgotten Representative]]
-- [[[Madame Rosalind Goldleaf]]
+- [[Enchanter Valdris Peacewarden]]
+- [[Pip Goldleaf]]
+- [[The Forgotten Representative]]
+- [[Madame Rosalind Goldleaf]]
 
 ## [[Session Summary
 *Brief overview of this session*
@@ -148,7 +137,7 @@ improvements: 20
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

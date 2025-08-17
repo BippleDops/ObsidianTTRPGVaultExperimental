@@ -174,18 +174,14 @@ Modifications:
 > Important safety or rule information
 
 ## See Also
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [NPC01951_Gavril_Xendar_the_Swift]]
-- [[Propaganda_Leaflet_Pearl_Guar
-- [Parliamentary_Voting_Guide]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [11 Rules Glossary]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -215,23 +211,20 @@ Modifications:
 
 ## Connections
 
-- Connects to [[NPC00762_Felicia_Nightfall_the_Seeker
-- Requires [step_004 (phase_015)]]
+- Connects to [[NPC00762_Felicia_Nightfall_the_Seeker]]
 - See also: [[Gnome Callarduran Smoothhands Mtf
 - See also: [LOC00230_Wilderness_Location_231]]
 - Parallels
-- Influences [[[Dock Boss Marina Irongrip (D&D_References)]]
+- Influences [[Dock Boss Marina Irongrip (D&D_References)]]
 - See also: [[Session 08 (Shadow_Conspiracy)
 - Requires [[Settlement Tables and Tracker [Tavern]] Names]]
-- Originates from [[DUN00001_Dungeon_2
-- Leads to [[[Diplomatic Protocol Center]] (D&D_References)]]
-- See also: [[Ability Score and Modifier Xphb
-- See also: [Manacles Xphb]]
+- Originates from [[Diplomatic Protocol Center]] (D&D_References)]]
+- See also: [[Ability Score and Modifier Xphb]]
 - Compare with [[FAC00098_Orders_99
 - Requires [broom-of-animated-attack-cos (construct)]]
 - Requires [[Brown Bear Xmm
 - Affected by [[[Port Quarter]] 2]]
-- Compare with [[[Senator Marina Tidecaller 2]]
+- Compare with [[Senator Marina Tidecaller 2]]
 - Affected by [[Seismic Activity
 - Parallels [Enspelled Armor Level 5 Xdmg]]
 - See also: [[step_047 (phase_027)
@@ -249,33 +242,27 @@ Modifications:
 - Requires [[step_047 (phase_071)
 - Originates from [ENC00211_Combat_Encounter_212]]
 - Connects to
-- Influences [[Navigation Master Course (D&D_References)
-- Connects to [step_043 (phase_045)]]
-- Influences [[[Banker Cornelius Goldflow (D&D_References)]]
+- Influences [[Navigation Master Course (D&D_References)]]
+- Influences [[Banker Cornelius Goldflow (D&D_References)]]
 - Originates from [[npc-appearance-xdmg (tables)
 - Influences [step_087 (phase_065)]]
-- Compare with [[[Pressure Crystals 2]]
+- Compare with [[Pressure Crystals 2]]
 - Originates from [[eberron-onatar (deities)
 - Influences [platinum-bracelet-set-with-an-emerald-xdmg (items)]]
-- Requires [[Krake 2
-- Originates from [Quest - Storm Lord's Challenge]]
+- Requires [[Quest - Storm Lord's Challenge]]
 - Influences [[Ending a Chase Escape Factors Xdmg
 - Originates from [LORE00225_Legends_Entry_226]]
 - Connects to [[Void-Touched
 - Related: [[Location City [Security Services]] Security Services.svg]]
-- Connects to [[NPC01386_Brenna_Thornweave_the_Lost
-- Parallels [Rogue Xphb Mastermind Xge]]
+- Connects to [[NPC01386_Brenna_Thornweave_the_Lost]]
 - Affected by [[Location City [Coral Lifeshaper V1 Coral Lifeshaper.svg]]
 - See also: [[Roleplaying a Mind Flayer Mind Flayer Flaws
 - Originates from [DUN00059_Dungeon_60]]
-- See also: [[step_018 (phase_005)
-- Requires [Oracle Nerida the Tidereader]]
+- See also: [[Oracle Nerida the Tidereader]]
 - Related: [[sledgehammer
 - See also: [step_077 (phase_022)]]
-- Originates from [[Assets Portraits Portrait NPC the Smuggler S Den the Smuggler S Den.svg
-- Connects to [Symbol Heraldry The... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- Affected by [[step_070 (phase_009)
-- Requires [ENC00314_Combat_Encounter_315]]
+- Originates from [[Symbol Heraldry The... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Affected by [[ENC00314_Combat_Encounter_315]]
 - Leads to [[ITEM00440_Ethereal_Gauntlets_of_Resistance
 - Influences [Mountain Holds]]
 - Influences [[MON00104_Aberrations_Creature_105
@@ -286,19 +273,16 @@ Modifications:
 - Requires [Far Realms (D&D_References)]]
 - See also: [[The Deep Dreamers
 - Influences [step_005 (phase_093)]]
-- Leads to [[Assets Art [Retired Captain Bron Saltbeard.png]]
+- Leads to [[Retired Captain Bron Saltbeard]]
 - Parallels [[cleric-xphb-knowledge-domain 2 (classes)
 - Affected by [step_021 (phase_085)]]
 - Influences [[Mirror [Merchant Marina (D&D_References)]]
-- Connects to [[8 Credits
-- Requires [Jeeve (D&D_References)]]
+- Connects to [[Jeeve (D&D_References)]]
 - Compare with [[step_003 (phase_041)
 - Influences [step_040 (phase_053)]]
-- Related: [[celtic-silvanus (deities)
-- Requires [MON00016_Constructs_Creature_17]]
+- Related: [[MON00016_Constructs_Creature_17]]
 - Compare with
-- Related: [[SPELL00061_Nature_Spell_62
-- Leads to [Deepmind Conspiracy]]
+- Related: [[SPELL00061_Nature_Spell_62]]
 - Leads to [[Location City Silence Keeper Mute Silence Keeper Mute.svg
 - Affected by [LOC00101_Wilderness_Location_102]]
 - Connects to [[Wraps of Unarmed Power Xdmg
@@ -311,9 +295,8 @@ Modifications:
 - Connects to [[location-city-[Umberlee]]-umberlee.svg]]
 - Parallels [[step_062 (phase_016)
 - Compare with [Deep Mother Lore]]
-- See also: [[Deep Sciences Research Institute
-- Connects to [step_090 (phase_055)]]
-- Related: [[[The Boundary Accords (D&D_References)]]
+- See also: [[Deep Sciences Research Institute]]
+- Related: [[The Boundary Accords (D&D_References)]]
 - Parallels
 
 ## Visual References

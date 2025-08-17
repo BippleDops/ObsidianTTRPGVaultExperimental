@@ -170,50 +170,24 @@ Modifications:
 > Important safety or rule information
 
 ## See Also
-- [[NPC01082_Fiora_Ashford_the_Fallen
-- [NPC01028_Erasmus_Darkwater_the_Strong]]
-- [[NPC01687_Aldric_Youngblood_the_Cunning
-- [NPC00190_Cedric_Silverleaf]]
-- [[NPC01660_Thalia_Moonshadow_the_Fallen
-- [NPC01888_Hestara_Ravenheart_the_Redeemed]]
-- [[NPC01730_Faelyn_Emberfall_the_Broken
-- [NPC01599_Gavril_Keenblade_the_Strong]]
-- [[NPC00272_Rhiannon_Brightblade
-- [Sage Elara]]
-- [[NPC01483_Gavril_Zephyrblade_the_Fallen
-- [NPC00321_Aeliana_Zephyrblade_the_Strong]]
-- [[NPC01447_Baelor_Winterborn_the_Strong
-- [NPC00542_Corvus_Oakenshield_the_Strong]]
-- [[NPC00976_Alaric_Quicksilver_the_Strong
-- [NPC01476_Qadim_Stormwind_the_Wise]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00272_Rhiannon_Brightblade]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
 - [[Ceasefire_Accord_Draft.md
 - [Party_Quests]]
-- [[Player_Portal.md
-- [Trade_Route_Chart_Port_Meridia]]
-- [[NPC01858_Drusilla_Stormwind_the_Cunning
-- [Quiet_Chapel_Oath_Scrol]]
-- [[09 Adventuring
-- [Party_Inventory]]
-- [[Submersible_Schematic_Pressure_Gate_Scou
-- [NPC00601_Vesper_Ironwood_the_Guardian]]
-- [[NPC01745_Felicia_Oakenshield_the_Scholar
-- [NPC00661_Corvus_Darkwater_the_Broken]]
-- [[NPC00259_Delara_Proudmore
-- [NPC01699_Orion_Oakenshield_the_Broken]]
-- [[NPC01040_Zephyr_Lightbringer_the_Strong
-- [NPC01348_Xander_Zephyrblade_the_Wise]]
-- [[10 Combat
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[Trade_Route_Chart_Port_Meridia]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[Party_Inventory]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[10 Combat]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -223,8 +197,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -256,19 +229,14 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Connections
 
-- Compare with [[Black Market Price Guide
-- Influences [11-appendix-a-random-dungeons (dungeon-masters-guide-2014)]]
+- Compare with [[11-appendix-a-random-dungeons (dungeon-masters-guide-2014)]]
 - Affected by [[step_063 (phase_022)
 - Connects to [brontosaurus-mpmm (beast)]]
 - Originates from [[Handout Handout Wanted Poster with Reward V1 Wanted Poster with Reward.png
 - Influences [potion-of-greater-invisibility-xdmg (items)]]
-- Compare with [[Duke Lysander Crystalvein (D&D_References)
-- Influences [LORE00019_Legends_Entry_20]]
-- Leads to [[NPC01763_Kaelen_Ironforge_the_Bold
-- See also:
-- See also: [Elena Truelight]]
-- Related: [[NPC01806_Felicia_Moonshadow_the_Broken
-- Requires [Deep Spies]]
+- Compare with [[Duke Lysander Crystalvein (D&D_References)]]
+- Leads to [[NPC01763_Kaelen_Ironforge_the_Bold]]
+- Related: [[NPC01806_Felicia_Moonshadow_the_Broken]]
 - Parallels [[Crysthaven
 - Influences [bestial-spirit-water-xphb (beast)]]
 - Parallels [[gnome-tables-gnome-bonds-mtf (tables)
@@ -276,30 +244,25 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [step_035 (phase_023)]]
 - Compare with [[02_Worldbuilding_Hazards_Crystal_Plague
 - Originates from [step_033 (phase_044)]]
-- Leads to [[The Final Forgetting
-- Leads to [[[Aquabyssos]] Navy 2]]
+- Leads to [[The Final Forgetting]] Navy 2]]
 - Originates from [[LOC00205_Planes_Location_206
 - Leads to [ITEM01220_Pure_Crystal_of_Swiftness]]
 - Requires [[step_084 (phase_004)
 - Affected by [step_094 (phase_041)]]
-- Compare with [[ENC00095_Combat_Encounter_96
-- See also: [Duke Theron Depthguard]]
+- Compare with [[ENC00095_Combat_Encounter_96]]
 - Related: [[step_032 (phase_045)
 - Originates from [Assets Art Princess Celestia.png]]
 - Influences [[QUEST00146_Personal_Quest_147
-- Affected by [[Location City Teacher [Miranda Hopekeeper]] V1 [[Teacher Miranda Hopekeeper.svg]]
+- Affected by [[Location City Teacher [Miranda Hopekeeper]] V1 [[Teacher Miranda Hopekeeper]]
 - Affected by [[catoblepas-mpmm (monstrosity)
 - Related: [Session Logbase]]
 - Leads to [[ITEM00596_Dragon_Scale_Leather_of_Fortitude
 - Originates from
 - Originates from [Solution Seekers]]
 - Leads to [[Assets Locations [[Location City [The Pressure Conspiracy V1 the Pressure Conspiracy.svg]]]]
-- Affected by [[step_073 (phase_022)
-- See also: [grappling-xphb (variant-rules)]]
-- Leads to [[NPC01071_Xander_Hawthorne_the_Redeemed
-- Compare with [Emergency Exits]]
-- Related: [[LOC00158_Dungeons_Location_159
-- Compare with [iron-pot-xphb (items)]]
+- Affected by [[grappling-xphb (variant-rules)]]
+- Leads to [[NPC01071_Xander_Hawthorne_the_Redeemed]]
+- Related: [[LOC00158_Dungeons_Location_159]]
 - Compare with [[doors-door-type (tables)
 - Connects to [list-spells-optional-features-fiendish-vigor-xphb]]
 - Affected by [[Symbol Heraldry the Forsaken Consortium Collective V1 the Forsaken Consortium Collective.svg
@@ -307,8 +270,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[LORE0002_Prophecy_of_the_Sundering
 - Affected by [list-spells-feats-strixhaven-initiate-scc (lists)]]
 - See also: [[Assets Locations [[Location City [Diplomatic Minister Reef V1 Diplomatic Minister Reef.svg]]]]
-- Connects to [[step_053 (phase_041)
-- Related: [NPC00829_Orion_Emberfall_the_Bold]]
+- Connects to [[NPC00829_Orion_Emberfall_the_Bold]]
 - Related: [[NPC00138_Nerys_Ravenheart_the_Risen
 - Influences [ITEM00759_Celestial_Mirror_of_the_Gods]]
 - Connects to [[LOC00196_Planes_Location_197
@@ -318,11 +280,9 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[Assets Locations Location City [Coral Reef Sanctuaries]] V1 Coral Reef Sanctuaries.svg]]
 - Leads to [[rogue-xphb-arcane-trickster-xphb (classes)
 - See also: [Combat_Lookup]]
-- Parallels [[step_080 (phase_053)
-- See also: [X-103_Leviathan_Mirror_Chase]]
+- Parallels [[X-103_Leviathan_Mirror_Chase]]
 - Influences
-- Compare with [[Festival Calendar Complete
-- See also: [step_004 (phase_060)]]
+- Compare with [[Festival Calendar Complete]]
 - Parallels [[gem-of-brightness-xdmg (items)
 - Leads to [step_003 (phase_039)]]
 - Compare with [[Crystal Artillery Player
@@ -341,8 +301,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[Elven Erevan Ilesere Mtf
 - Requires [Symbol Heraldry Scream Crystals V1 Scream Crystals.svg]]
 - Parallels [[The Crystal [Merchant]]
-- Influences [[The Forgetting Bomb 2
-- Requires [NPC00891_Jorah_Lightbringer_the_Risen]]
+- Influences [[NPC00891_Jorah_Lightbringer_the_Risen]]
 - Compare with [[MON00002_Aberrations_Creature_3
 - Parallels [[Assets Locations Location City [Astrologer Prime Cassandra Starweaver]] Astrologer Prime Cassandra Starweaver.svg]]
 - Influences [[step_030 (phase_034)
@@ -350,10 +309,8 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[Assets Locations Location City [Bartender Marina Dualborn V1 Bartender Marina Dualborn.svg]]
 - Parallels [[MON00005_Aberrations_Creature_6
 - Related: [[Location City [Marina Dreamwhisper]] Marina Dreamwhisper.svg]]
-- Originates from [[oblex-spawn-mpmm (ooze)
-- Connects to [Abyssal Steel (D&D_References)]]
-- Leads to [[NPC Reactions (D&D_References)
-- Leads to [step_028 (phase_019)]]
+- Originates from [[Abyssal Steel (D&D_References)]]
+- Leads to [[NPC Reactions (D&D_References)]]
 - Affected by [[githyanki-raiding-parties-raiding-party-leader-mtf
 - Parallels [NPC00028_Pyria_Dawnstrider]]
 

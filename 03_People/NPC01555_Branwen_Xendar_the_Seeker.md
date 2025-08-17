@@ -159,18 +159,10 @@ Has information about legendary item
 
 ## See Also
 - [NPC00300_Urien_Zephyrblade]]
-- [[Smuggler_Route_Tally_Shee
-- [04 Classes]]
-- [[NPC01894_Aldric_Lightbringer_the_Bold
-- [NPC01943_Xander_Proudmore_the_Fallen]]
-- [[NPC00860_Gavril_Winterborn_the_Swift
-- [NPC01937_Felicia_Silverleaf_the_Wanderer]]
-- [[NPC01786_Zephyr_Jadeclaw_the_Mystic
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -190,42 +182,35 @@ Has information about legendary item
 - Influences [[ENC00051_Social_Encounter_52
 - Originates from
 - Connects to [step_022 (phase_030)]]
-- Influences [[[Professor Marina Reefbuilder (D&D_References)]]
+- Influences [[Professor Marina Reefbuilder (D&D_References)]]
 - Related: [[tinderstrike-pota (items)
 - Influences [LOC00180_Planes_Location_181]]
-- Connects to [[twists
-- Leads to [QUEST00043_Side_Quest_44]]
+- Connects to [[QUEST00043_Side_Quest_44]]
 - Requires [[Artificer
 - Originates from [step_082 (phase_055)]]
 - Requires
-- Requires [[SPELL00151_Arcane_Spell_152
-- Influences [step_081 (phase_037)]]
+- Requires [[SPELL00151_Arcane_Spell_152]]
 - Compare with [[Faction-Quick-Reference
 - Affected by [Scene Scene Merged Zone Reality Fracture V2 Merged Zone Reality Fracture.svg]]
 - See also: [[celtic-brigantia (deities)
 - Connects to [ENC00448_Combat_Encounter_449]]
 - Compare with [[Border Patrol Units
 - Affected by [Campaign_Dashboard]]
-- Related: [[step_002 (phase_047)
-- See also: [Foreman Prime Salvage Maste (D&D_References)]]
+- Related: [[Foreman Prime Salvage Maste (D&D_References)]]
 - Compare with [[Artisan Felix Reefwright
 - Related: [step_072 (phase_033)]]
 - Originates from [[NPC01962_Corvus_Underhill_the_Lost
 - Connects to [gift-of-the-ever-living-ones-xge (optional-features)]]
-- Compare with [[Head of Memory Integration Dr. Nautilus Depthcaller (People)
-- Compare with [improvised-damage-xdmg]]
+- Compare with [[Head of Memory Integration Dr. Nautilus Depthcaller]]
 - Parallels [[Banded Agate Xdmg
 - Influences [step_079 (phase_096)]]
-- Parallels [[Surgeon Shadow-Touched 2
-- Compare with [LOC00077_Wilderness_Location_78]]
-- Parallels [[ITEM01364_Elegant_Journal_of_Quality
-- Requires [Lord Commander Thane Skyward (D&D_References)]]
+- Parallels [[LOC00077_Wilderness_Location_78]]
+- Parallels [[Lord Commander Thane Skyward (D&D_References)]]
 - Requires [[star-spawn-seer-mpmm (aberration)
 - Leads to [World_Building_Input]]
 - Parallels [[Location City [Senior Nurse Polyp Tendercurrent V1 Senior Nurse Polyp Tendercurrent.svg]]
 - Requires
-- Originates from [[INV 003
-- Leads to [Vex Shadowthorn (D&D_References)]]
+- Originates from [[Vex Shadowthorn (D&D_References)]]
 - Originates from [[Biomancer Corvus Intestinal 2
 - Leads to [[Weapons Trader Gareth Steel[Merchant]]]]
 - Originates from [[step_048 (phase_085)
@@ -234,11 +219,9 @@ Has information about legendary item
 - Connects to
 - Compare with [[Archshadow Mind Voidwright
 - Related: [[[Harbor Master's Tower]] 2]]
-- Parallels [[NPC00360_Drusilla_Hawthorne
-- Originates from [Template_StarSystem_Placeholder.png (09_Templates)]]
-- Requires [[[Maelstrom Palace 2]]
-- Leads to [[ENC00022_Combat_Encounter_23
-- Related: [Fiendish Spirit Xphb]]
+- Parallels [[Template_StarSystem_Placeholder.png (09_Templates)]]
+- Requires [[Maelstrom Palace 2]]
+- Leads to [[ENC00022_Combat_Encounter_23]]
 - Requires [[Scene Scene Storm Approaching the Airship V1 Storm Approaching the Airship.png
 - Requires [Fiendish Cults Cult Goals Mtf]]
 - Requires [[step_006 (phase_094)
@@ -250,13 +233,12 @@ Has information about legendary item
 - Requires
 - Originates from [[Throne of Bubbles (D&D_Statblocks)
 - Compare with [NPC01497_Malakai_Crystalbrook_the_Lost]]
-- Influences [[[Reef Truescale (D&D_References)]]
+- Influences [[Reef Truescale (D&D_References)]]
 - Requires [[step_055 (phase_092)
 - Leads to [step_090 (phase_023)]]
 - Leads to [[Resonance Cascade Attack 2
 - Connects to [Session 1 the Queens Summons 1]]
-- Parallels [[LOC00291_Dungeons_Location_292
-- Affected by [Races]]
+- Parallels [[LOC00291_Dungeons_Location_292]]
 - Related: [[Venom Troll Mpmm
 - Originates from [Exotic Languages Phb]]
 - See also: [[step_016 (phase_020)
@@ -266,16 +248,14 @@ Has information about legendary item
 - See also:
 - Parallels [[step_065 (phase_064)
 - Influences [ITEM00197_Thunder_Axe_of_Speed]]
-- Originates from [[Current Democratic Party
-- Related: [[[Aquabyssos]] Depth Caste System]]
+- Originates from [[Current Democratic Party]] Depth Caste System]]
 - Affected by [[04_Resources_Assets_Portraits_portrait-npc-captain-lyanna-brightshield-captain-lyanna-brightshield.svg_Quick_Ref
 - See also: [Portrait NPC Quest the Royal Treatment V2 Quest the Royal Treatment.svg]]
 - Related: [[NPC01634_Erasmus_Frostwhisper_the_Seeker
 - Connects to [Portrait NPC Duchess Marina Ever Drowning Duchess Marina Ever Drowning.svg_1 (Portraits)]]
 - Leads to
-- Affected by [[[Poet Laureate Tidal Wordsmith 2]]
-- Originates from [[Evidence Types Guide (D&D_References)
-- Influences [The Ethical Committee]]
+- Affected by [[Poet Laureate Tidal Wordsmith 2]]
+- Originates from [[Evidence Types Guide (D&D_References)]]
 - Parallels [[step_071 (phase_050)
 - Requires [damage-types (CLI_Reference)]]
 - Parallels [[Portrait NPC Quest the Blackmail Papers V1 Quest the Blackmail Papers.svg

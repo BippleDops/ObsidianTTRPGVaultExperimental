@@ -173,18 +173,14 @@ Modifications:
 > Useful information for players
 
 ## See Also
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC00133_Lyanna_Oakenshield_the_Seeker]]
-- [[NPC01367_Lyanna_Xendar_the_Wise
-- [Reference.md]]
-- [[NPC00296_Elric_Jadeclaw_the_Bold
-- [12 Spells]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -243,31 +239,26 @@ Modifications:
 - Originates from
 - See also: [[Technology Transfer
 - Related: [Dust of Sneezing and Choking Xdmg]]
-- Originates from [[NPC01224_Idris_Winterborn_the_Fallen
-- Compare with [ENC00275_Social_Encounter_276]]
+- Originates from [[NPC01224_Idris_Winterborn_the_Fallen]]
 - Parallels [[QUEST00008_Personal_Quest_9
 - Originates from [[[Victoria Harbormane]] (D&D_References)]]
 - Connects to [[Portrait NPC Watch Captain Roderick Shieldbreaker V1 Watch Captain Roderick Shieldbreaker.svg
 - Requires
 - Affected by [SPELL00150_Arcane_Spell_151]]
-- See also: [[step_091 (phase_005)
-- Influences [Anti-Corruption Task Force (D&D_References)]]
+- See also: [[Anti-Corruption Task Force (D&D_References)]]
 - Requires [[The Tidal Sanctum
 - Leads to [[Location City [Palace Staff Guild]] V1 Palace Staff Guild.svg]]
-- Requires [[maurezhi-mpmm (fiend)
-- Parallels [Planning Director Strategy Deepthink]]
+- Requires [[Planning Director Strategy Deepthink]]
 - Affected by [[The Cerulean Trench
 - Connects to [Parliamentary_Voting_Guide]]
 - Originates from
 - Parallels
 - See also: [[Portrait NPC the Resonance Prophet V1 the Resonance Prophet.svg_1 (Portraits)
 - Compare with [The Great Resonance (D&D_References)]]
-- Related: [[Current Innovator
-- Originates from [Research Chief Helena Datapoint]]
+- Related: [[Research Chief Helena Datapoint]]
 - Requires [[step_099 (phase_093)
 - Requires [Assets Item Artifact Enspelled Armor Level 7 Xdmg V5 Enspelled Armor Level 7 Xdmg.png]]
-- Parallels [[crusaders-shortsword-cos (items)
-- Compare with [Symbol Heraldry Tem... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Parallels [[Symbol Heraldry Tem... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Requires [[Assets Locations Location City [Legal Education Legal Education.svg]]
 - Compare with [[LOC0036_OldGate
 - Influences [LORE00065_Prophecies_Entry_66]]
@@ -275,22 +266,18 @@ Modifications:
 - Leads to [[Sky Marshal Windstrider
 - Leads to [[Location City [Courier Ripplestone]] V1 Courier Ripplestone.svg]]
 - Related: [[Assets Locations Location City [Tribune Cassia V1 Tribune Cassia.svg]]
-- Parallels [[The Neutral Current [Tavern 2]]
+- Parallels [[The Neutral Current]]
 - Parallels
-- Originates from [[NPC01357_Ysara_Ashford_the_Lost
-- Leads to [Sacred Memory Gardens]]
-- Compare with [[NPC_Reactions_Quick_Ref
-- Parallels [Crystal Singers (D&D_References)]]
+- Originates from [[NPC01357_Ysara_Ashford_the_Lost]]
+- Compare with [[Crystal Singers (D&D_References)]]
 - Originates from [[Assets Locations [Location City Crystals Curiosities V1 Crystals Curiosities.svg]]
 - Leads to
-- Parallels [[step_049 (phase_040)
-- Related: [NPC01790_Zephyr_Lightbringer_the_Scholar]]
+- Parallels [[NPC01790_Zephyr_Lightbringer_the_Scholar]]
 - Requires [[step_011 (phase_030)
 - See also: [Map Map Singing Trenches Rift V2 Singing Trenches Rift.svg]]
 - Connects to [[NPC00776_Ysara_Goldleaf_the_Seeker
 - Leads to [02_Worldbuilding_Lore_GM_Resources]]
-- Connects to [[Border Fortresses 2
-- See also: [[MUL[Time]]DIA_GENERATION_COMPLETE]]
+- Connects to [[Border Fortresses 2]]DIA_GENERATION_COMPLETE]]
 - See also: [[purple-worm-xmm
 - Compare with [orcish-fury-xge (feats)]]
 - Originates from [[LORE00032_History_Entry_33
@@ -304,17 +291,13 @@ Modifications:
 - Parallels [[Prismatic Wall Xphb
 - Influences [Royal Guard of Shadows]]
 - Affected by
-- Requires [[Reality Merge Zones (D&D_References)
-- See also: [knocking-out-a-creature-xphb (variant-rules)]]
-- See also: [[QUEST00186_Main_Quest_187
-- Leads to [[[The Twin Prophets]] 2]]
-- Leads to [[House Mercurial
-- Requires [Truth and Reconciliation Depths Commission]]
+- Requires [[knocking-out-a-creature-xphb (variant-rules)]]
+- See also: [[QUEST00186_Main_Quest_187]] 2]]
+- Leads to [[Truth and Reconciliation Depths Commission]]
 - Originates from [[elemental-adept-xphb (feats)
 - Affected by
 - Affected by [Shadow Community Political Power]]
-- Leads to [[SPELL00140_Divine_Spell_141
-- Requires [Truth Serum Xdmg]]
+- Leads to [[SPELL00140_Divine_Spell_141]]
 
 ## Visual References
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png

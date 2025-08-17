@@ -23,7 +23,7 @@
 - ✅ ALWAYS work with existing directories
 
 ### 4. **NEVER CREATE FILES FROM BROKEN LINKS**
-- ❌ NEVER create .md files for broken [[links]]
+- ❌ NEVER create .md files for broken [[Link]]
 - ❌ NEVER create files like "step_001 (phase_092).md"
 - ❌ NEVER create files with path patterns in names
 - ❌ NEVER create .png.md or .svg.md files

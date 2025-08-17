@@ -160,42 +160,27 @@ Being extorted by criminals
 - Special moves
 
 ## See Also
-- [[NPC00372_Alaric_Grimholt
-- [NPC00844_Cedric_Blackstone_the_Fallen]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC00872_Thalia_Ironwood_the_Broken]]
-- [[NPC00259_Delara_Proudmore
-- [NPC00300_Urien_Zephyrblade]]
-- [[NPC00057_Malakai_Stormwind_the_Cunning
-- [NPC00069_Thalia_Brightblade_the_Guardian]]
-- [[NPC00739_Gavril_Ashford_the_Bold
-- [NPC00351_Corvus_Ironwood]]
-- [[NPC01476_Qadim_Stormwind_the_Wise
-- [NPC01360_Ewan_Blackstone_the_Strong]]
-- [[NPC00133_Lyanna_Oakenshield_the_Seeker
-- [NPC01367_Lyanna_Xendar_the_Wise]]
-- [[NPC01568_Lyanna_Winterborn_the_Strong
-- [NPC01463_Aeliana_Zephyrblade_the_Fallen]]
-- [[Faction_Guide.md
-- [NPC00200_Faelyn_Winterborn_the_Guardian]]
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [Ship_Schematic_The_Seahawk.md]]
-- [[Propaganda_Broadsheet_Syndicate.md
-- [Ritual_Timing_Wheel_Convergenc]]
-- [[Sanity Quick Reference
-- [Downtime_Activities]]
+- [[NPC00844_Cedric_Blackstone_the_Fallen]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Sanity Quick Reference]]
 - [[Welcome_to_Aquabyssos.md
 - [09 Adventuring]]
-- [[07 Customization Options
-- [11 Rules Glossary]]
-- [[Count_Strahd_von_Zarovich
-- [MOC_Rules]]
+- [[07 Customization Options]]
+- [[Count_Strahd_von_Zarovich]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -222,12 +207,9 @@ Being extorted by criminals
 - Affected by [Illumination Crystal 2]]
 - Influences [[step_018 (phase_073)
 - Requires [step_007 (phase_092)]]
-- Originates from [[NPC00501_Orion_Nightfall_the_Broken
-- Requires [Marine Corp]]
-- Related: [[LOC00088_Wilderness_Location_89
-- Connects to [step_089 (phase_075)]]
-- Affected by [[NPC01503_Ewan_Dawnstrider_the_Redeemed
-- Parallels [step_042 (phase_056)]]
+- Originates from [[NPC00501_Orion_Nightfall_the_Broken]]
+- Related: [[LOC00088_Wilderness_Location_89]]
+- Affected by [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
 - Connects to [[moderately-armored-xphb (feats)
 - Originates from
 - Originates from [step_057 (phase_039)]]
@@ -235,38 +217,30 @@ Being extorted by criminals
 - Compare with [The Reflection Chamber 2]]
 - Requires [[Assets Locations Location City Port Authority V1 Port Authority.svg
 - Parallels [Frequency Manipulatio 2]]
-- Requires [[conditions#Invisible
-- Connects to [ITEM01156_Refined_Herb_of_Fortune]]
+- Requires [[Conditions]]
 - Requires [[FAC00098_Guilds_99
 - Affected by [Pressure Wraiths]]
-- See also: [[ENC00242_Combat_Encounter_243
-- Related: [Heart of Convergence]]
+- See also: [[ENC00242_Combat_Encounter_243]]
 - Related: [[Egyptian Nephthys
 - Originates from [step_043 (phase_024)]]
 - Influences [[Assets Locations Location City the Crystal Caves the Crystal Caves.svg
 - Connects to [ITEM01233_Refined_Oil_of_Clarity]]
-- Connects to [[DUN00094_Dungeon_95
-- Connects to [LORE0067_Prophecy_of_the_Lost_City]]
-- Compare with [[Archive of Depths (D&D_References)
-- Influences [QUEST00168_Personal_Quest_169]]
+- Connects to [[LORE0067_Prophecy_of_the_Lost_City]]
+- Compare with [[Archive of Depths (D&D_References)]]
 - See also: [[Creating Quick Monster Stats Monster
 - Originates from [Assets Item Artifact Poisoners Kit Xphb V5 Poisoners Kit Xphb.png]]
 - Compare with [[gith-tables-githzerai-names-female-mtf (tables)
 - Connects to [location-city-sahuagin-sahuagin.svg]]
 - Parallels [[LORE00001_Legends_Entry_2
 - Requires [LOC00229_Towns_Location_230]]
-- Parallels [[bolt-xphb (items)
-- Influences [Master Wind Rider Zephyr Stormcaller]]
-- Originates from [[Security Chief Marcus Allguard 2
-- See also: [Law Enforcement 2 (Places)]]
+- Parallels [[Master Wind Rider Zephyr Stormcaller]]
+- Originates from [[Security Chief Marcus Allguard 2]]
 - Related: [[Location_Prompts - Cities 2
 - Related: [giant-slayer-xdmg (items)]]
-- Requires [[QUEST00236_Side_Quest_237
-- Requires [DM_Notes]]
+- Requires [[QUEST00236_Side_Quest_237]]
 - Compare with [[step_078 (phase_059)
 - Connects to [DUN00058_Dungeon_59]]
-- Leads to [[Environmental Protection Authorit (D&D_References)
-- Leads to [LOC00172_Towns_Location_173]]
+- Leads to [[Environmental Protection Authorit (D&D_References)]]
 - Parallels [[Portrait NPC Captain Shadowsail Captain Shadowsail.svg
 - Related: [step_079 (phase_012)]]
 - Related:
@@ -276,8 +250,7 @@ Being extorted by criminals
 - Parallels [step_010 (phase_013)]]
 - Influences [[Battle_Maps.md
 - Parallels [Remove Curse Xphb]]
-- Requires [[step_056 (phase_057)
-- Affected by [NPC00660_Elric_Keenblade_the_Risen]]
+- Requires [[NPC00660_Elric_Keenblade_the_Risen]]
 - Parallels [[Gold Jewelry Box With Platinum Filigree Xdmg
 - Connects to [Azure Citadel]]
 - Parallels [[Treaty Mediation
@@ -286,25 +259,20 @@ Being extorted by criminals
 - See also: [[Elena Truelight
 - Compare with
 - Related: [QUEST00015_Personal_Quest_16]]
-- Originates from [[Time-Lost Delegate Chronus
-- Leads to [Embassy Districts]]
+- Originates from [[Time-Lost Delegate Chronus]]
 - Influences
 - Connects to [[10 Combat#dropping to 0 Hit Points#monsters and Death
 - Influences [Quest - The Final Performance 2]]
-- Affected by [[Climb Speed Xphb
-- Affected by [SPELL00138_Nature_Spell_139]]
+- Affected by [[SPELL00138_Nature_Spell_139]]
 - Originates from [[FAC00078_Guilds_79
 - Compare with [step_054 (phase_093)]]
-- Leads to [[LOC00087_Cities_Location_88
-- Leads to [Memory Traders]]
+- Leads to [[LOC00087_Cities_Location_88]]
 - See also: [[step_100 (phase_076)
 - Related: [Armaments Legendary Xdmg]]
 - Affected by [[Location City Observatory Network Nodes Observatory Network Nodes.svg
 - Leads to [QUEST00197_Main_Quest_198]]
-- Leads to [[step_059 (phase_021)
-- Parallels [skill-xphb (variant-rules)]]
-- Originates from [[SPELL00071_Nature_Spell_72
-- Influences [NPC01936_Urien_Youngblood_the_Scholar]]
+- Leads to [[skill-xphb (variant-rules)]]
+- Originates from [[NPC01936_Urien_Youngblood_the_Scholar]]
 - Influences [[step_093 (phase_053)
 - Connects to [step_054 (phase_025)]]
 - Influences [[QUEST0088_The_Sunken_Temple_Disappearances

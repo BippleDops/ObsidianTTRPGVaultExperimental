@@ -171,16 +171,9 @@ Is secretly testing the party
 - Special moves
 
 ## See Also
-- [[NPC01989_Erasmus_Xendar_the_Strong
-- [NPC00307_Dara_Proudmore_the_Seeker]]
-- [[07 Customization Options
-- [Guild Seal Document Silverscale Consortiu]]
-- [[NPC01786_Zephyr_Jadeclaw_the_Mystic
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -200,8 +193,7 @@ Is secretly testing the party
 - Parallels [[step_034 (phase_060)
 - Affected by [Portrait NPC Lady Willow Greenbough V1 Lady Willow Greenbough.svg]]
 - Requires
-- Compare with [[4-gith-and-their-endless-war (mordenkainens-tome-of-foes)
-- Compare with [location-city-pressure-tubes-pressure-tubes.svg]]
+- Compare with [[4-gith-and-their-endless-war (mordenkainens-tome-of-foes)]]
 - Related: [[Groundbreaker's Hamme 2
 - Affected by [Location City Keeper of Secrets Whisper Darkhold Keeper of Secrets Whisper Darkhold.svg]]
 - Connects to [[Assets Portraits Portrait NPC Quest the Symbiotic Sacrament Quest the Symbiotic Sacrament.svg
@@ -212,13 +204,11 @@ Is secretly testing the party
 - Influences [ENC0036_Random_Encounter_37]]
 - Connects to [[step_069 (phase_037)
 - Leads to [step_074 (phase_099)]]
-- Influences [[step_041 (phase_021)
-- Influences [Voluntary Taxation (D&D_References)]]
+- Influences [[Voluntary Taxation (D&D_References)]]
 - Connects to [[02_Worldbuilding_Locations_Abyssal_Forges
 - Compare with [emergent_storytelling_systems]]
 - Compare with
-- Leads to [[step_008 (phase_072)
-- Influences [LOC00291_Wilderness_Location_292]]
+- Leads to [[LOC00291_Wilderness_Location_292]]
 - Compare with [[LOC00159_Planes_Location_160
 - Leads to [Assets Locations Location City Harbor Wall V1 Harbor Wall.svg]]
 - Related: [[Portrait NPC Emperor Thalassius the Wise V1 Emperor Thalassius the Wise.svg_1 (Portraits)
@@ -228,8 +218,7 @@ Is secretly testing the party
 - Related: [[ITEM01496_Sturdy_Lantern_of_Quality
 - Requires [ITEM01246_Lesser_Potion_of_Vigor]]
 - Requires
-- Parallels [[Marcus "The Shade" Blackwood (D&D_References)
-- Compare with [antimagic-field-xphb (spells)]]
+- Parallels [[Marcus "The Shade" Blackwood (D&D_References)]]
 - Originates from [[step_043 (phase_076)
 - Requires [LOC0091_Bridgethorpe]]
 - See also: [[Refugee Community Leaders
@@ -238,8 +227,7 @@ Is secretly testing the party
 - Influences [Assets Locations Location City Gateway Keeper Riftwalk V1 Gateway Keeper Riftwalk.svg]]
 - Requires [[Portrait NPC Crystal Wardens V2 Crystal Wardens.svg_1 (Portraits)
 - Leads to [Portrait NPC Sir Ruben Redtape V1 Sir Ruben Redtape.svg]]
-- Requires [[aberration
-- Influences [Underdark Encounters Levels 1720 Xge]]
+- Requires [[Underdark Encounters Levels 1720 Xge]]
 - Related: [[step_046 (phase_097)
 - See also: [Assets Locations Location City Observation Tender Clara Observation Tender Clara.svg]]
 - Influences [[LOC00251_Cities_Location_252
@@ -248,38 +236,28 @@ Is secretly testing the party
 - Leads to [Location City Underwater Religious Practices Underwater Religious Practices.svg]]
 - Originates from [[step_077 (phase_060)
 - Influences [The Symbiotic Sanctuaries]]
-- Originates from [[step_079 (phase_088)
-- Influences [Crystal Caves of Luminar (D&D_References)]]
-- Leads to [[Cargo Master Holdspace (D&D_References)
-- Leads to [Lord Vexton Shadowmere]]
+- Originates from [[Crystal Caves of Luminar (D&D_References)]]
+- Leads to [[Cargo Master Holdspace (D&D_References)]]
 - Influences
-- Parallels [[Community Investment Fund (D&D_References)
-- Influences [Manual of Gainful Exercise Xdmg]]
-- Requires [[step_098 (phase_076)
-- Originates from [Trade Arbitrator Marina Fairwave]]
+- Parallels [[Community Investment Fund (D&D_References)]]
+- Requires [[Trade Arbitrator Marina Fairwave]]
 - See also: [[Location City Heritage Keeper Memoryshade Heritage Keeper Memoryshade.svg
 - Influences [elder-brain-vgm (legendary-group)]]
-- See also: [[familiars-mm (variant-rules)
-- Leads to [step_015 (phase_065)]]
-- Leads to [[QUEST00278_Personal_Quest_279
-- Compare with [step_049 (phase_099)]]
-- Parallels [[NPC0190_Ezra_Brightblade
-- Affected by [Bless]]
+- See also: [[familiars-mm (variant-rules)]]
+- Leads to [[QUEST00278_Personal_Quest_279]]
+- Parallels [[NPC0190_Ezra_Brightblade]]
 - Influences [[Ettin Xmm
 - Connects to [step_019 (phase_077)]]
-- Connects to [[NPC01614_Felicia_Lightbringer_the_Mystic
-- See also: [SPELL00144_Nature_Spell_145]]
+- Connects to [[NPC01614_Felicia_Lightbringer_the_Mystic]]
 - Originates from [[ENC00198_Environmental_Encounter_199
 - Leads to [The Memorial Garden (D&D_References)]]
-- Leads to [[The Sky Knight Orders (Orders)
-- See also: [Order of the Sunken Crown]]
+- Leads to [[The Sky Knight Orders (Orders)]]
 - Originates from [[Finger of Death Xphb
 - Parallels
 - Affected by [maddening-darkness-xge (spells)]]
 - Connects to [[The Kraken's Harbor 2
 - Related: [step_054 (phase_070)]]
-- Influences [[Death Speaker Marina Depthkeeper (D&D_References)
-- Affected by [Blue Slaad Xmm]]
+- Influences [[Death Speaker Marina Depthkeeper (D&D_References)]]
 - Requires [[Implements Legendary Xdmg
 - Influences [step_093 (phase_085)]]
 - Influences [[Assets Locations Location City Shadow Current V1 Shadow Current.svg
@@ -289,8 +267,7 @@ Is secretly testing the party
 - Compare with [ENC00217_Social_Encounter_218]]
 - Connects to [[Location City Portal Technician Voidwalk Portal Technician Voidwalk.svg
 - See also: [Courier Pelagic]]
-- Influences [[SPELL00156_Nature_Spell_157
-- Influences [step_011 (phase_089)]]
+- Influences [[SPELL00156_Nature_Spell_157]]
 - See also: [[The Original Senators
 - Influences [Session 05 - The Shadow War]]
 - Compare with [[ENC00277_Combat_Encounter_278

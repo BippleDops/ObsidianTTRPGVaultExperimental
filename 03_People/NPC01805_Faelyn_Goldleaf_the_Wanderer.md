@@ -170,42 +170,27 @@ Modifications:
 
 ## See Also
 - [NPC01028_Erasmus_Darkwater_the_Strong]]
-- [[NPC00095_Fiora_Nightfall
-- [NPC00661_Corvus_Darkwater_the_Broken]]
-- [[NPC00372_Alaric_Grimholt
-- [NPC01438_Hilda_Youngblood_the_Fallen]]
-- [[NPC01877_Hestara_Moonshadow_the_Mystic
-- [NPC01504_Erasmus_Zephyrblade_the_Strong]]
-- [[NPC00749_Xander_Quicksilver
-- [NPC01730_Faelyn_Emberfall_the_Broken]]
-- [[NPC00300_Urien_Zephyrblade
-- [NPC01262_Ysara_Dawnstrider_the_Swift]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [NPC01989_Erasmus_Xendar_the_Strong]]
-- [[NPC01937_Felicia_Silverleaf_the_Wanderer
-- [NPC00362_Pyria_Stormwind_the_Wise]]
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [NPC00069_Thalia_Brightblade_the_Guardian]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC01974_Thalia_Zephyrblade_the_Lost]]
-- [[NPC00250_Delara_Darkwater_the_Fallen
-- [Letter_From_the_Pearl_Guard_Captai]]
-- [[Guild Seal Document Silverscale Consortiu
-- [NPC00612_Thalia_Jadeclaw_the_Fallen]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01730_Faelyn_Emberfall_the_Broken]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[Guild Seal Document Silverscale Consortiu]]
 - [[Propaganda_Broadsheet_Syndicate.md
 - [NPC00080_Branwen_Proudmore]]
-- [[Smuggler_Route_Tally_Shee
-- [07 Customization Options]]
-- [[NPC01195_Gareth_Keenblade_the_Guardian
-- [Character_Journal_Template]]
-- [[MOC_Combat
-- [MOC_Rules]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[MOC_Combat]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -234,15 +219,13 @@ Modifications:
 - Parallels
 - Related: [[Quest_Template
 - Requires [step_053 (phase_025)]]
-- Related: [[[Quartermaster Shadow Supply (D&D_References)]]
+- Related: [[Quartermaster Shadow Supply (D&D_References)]]
 - Related: [[step_050 (phase_031)
 - Parallels [Summon Fiend Xphb]]
 - Leads to [[step_038 (phase_053)
 - Compare with [[Portrait NPC [Merchant]] Lord Cornelius Generous V2 Merchant Lord Cornelius Generous.svg]]
-- Influences [[Order of the Drowned Star (Orders)
-- See also: [NPC01793_Lyanna_Youngblood_the_Seeker]]
-- Connects to [[step_044 (phase_066)
-- Connects to [ENC00407_Combat_Encounter_408]]
+- Influences [[NPC01793_Lyanna_Youngblood_the_Seeker]]
+- Connects to [[ENC00407_Combat_Encounter_408]]
 - Influences [[winged-kobold-xmm (dragon)
 - Affected by
 - Parallels [ixitxachitl-cleric-oota (aberration)]]
@@ -250,18 +233,14 @@ Modifications:
 - Parallels [Portrait NPC Quest the Pretender V2 Quest the Pretender.svg]]
 - Influences [[QUEST00273_Side_Quest_274
 - Influences [step_026 (phase_080)]]
-- Affected by [[step_010 (phase_071)
-- Parallels [MON00076_Aberrations_Creature_77]]
-- Influences [[QUEST00029_Main_Quest_30
-- Related: [Shadow-Touched Individuals 2]]
+- Affected by [[MON00076_Aberrations_Creature_77]]
+- Influences [[Shadow-Touched Individuals 2]]
 - Leads to [[Quest - The Crimson Tide
 - See also: [cloak-of-protection-xdmg (items)]]
 - See also: [[The Great Archive
 - Compare with [step_074 (phase_028)]]
-- Connects to [[Botanist_Rose_Sundrinker.png
-- Related: [The Sunken Bazaar (D&D_References)]]
-- Connects to [[ENC00103_Environmental_Encounter_104
-- Related: [CR_Calculator (Calculators)]]
+- Connects to [[The Sunken Bazaar (D&D_References)]]
+- Connects to [[ENC00103_Environmental_Encounter_104]]
 - Related: [[conjure-minor-elementals-xphb (spells)
 - Connects to [location-city-withered-court-v1-withered-court.svg]]
 - Connects to [[LOC00187_Dungeons_Location_188
@@ -270,8 +249,7 @@ Modifications:
 - Compare with [[Assets Locations Location City [Reality Breach Locations]] V1 Reality Breach Locations.svg]]
 - Related: [[Portrait NPC Weaponsmith [Captain Marcus Sharpedge V2 Weaponsmith Captain Marcus Sharpedge.svg]]
 - See also:
-- Originates from [[chunk-of-meat (items)
-- Originates from [ENC00163_Environmental_Encounter_164]]
+- Originates from [[ENC00163_Environmental_Encounter_164]]
 - Compare with [[step_003 (phase_009)
 - Leads to [greyhawk-rao-xdmg (deities)]]
 - Parallels [[list-spells-classes-sorcerer (lists)
@@ -283,8 +261,7 @@ Modifications:
 - Related: [NPC00878_Kaelen_Ironwood_the_Strong]]
 - Parallels [[Swarm of Crawling Claws Xmm
 - Affected by [Councillor Void]]
-- Related: [[NPC00325_Brenna_Proudmore
-- Related: [step_018 (phase_078)]]
+- Related: [[NPC00325_Brenna_Proudmore]]
 - See also: [[Brewing Potions of Healing Potion of Healing Creation Xge
 - Requires [QUEST00206_Personal_Quest_207]]
 - Originates from [[Portrait NPC Agent Whisper Voidheart V2 Agent Whisper Voidheart.svg_1 (Portraits)
@@ -296,8 +273,7 @@ Modifications:
 - Originates from [Cultural Bridge Alliance]]
 - Parallels [[LORE00023_History_Entry_24
 - See also: [LORE00329_History_Entry_330]]
-- Related: [[ENC00083_Social_Encounter_84
-- Parallels [step_060 (phase_018)]]
+- Related: [[ENC00083_Social_Encounter_84]]
 - Connects to [[Assets Locations Location City [Sacred Historian Coral Deepscribe Sacred Historian Coral Deepscribe.svg]]
 - Parallels [[LORE00292_Prophecies_Entry_293
 - Compare with [[The [Free Current]] 2]]
@@ -312,8 +288,7 @@ Modifications:
 - Compare with [List Spells Classes Circle of the Stars Xphb]]
 - Leads to [[step_009 (phase_077)
 - Parallels [supplemental-tables-family-xge (tables)]]
-- Parallels [[Constitutional Architect Dr. Harmony Lawbright
-- Related: [NPC01840_Aldric_Nightfall_the_Risen]]
+- Parallels [[Constitutional Architect Dr. Harmony Lawbright]]
 - Related: [[portrait-npc-syndicate-war-syndicate-war.svg
 - Parallels [step_005 (phase_032)]]
 - Related: [[SHOP00002_General_Shop_3

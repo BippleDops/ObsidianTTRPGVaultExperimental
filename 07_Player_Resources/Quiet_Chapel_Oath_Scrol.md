@@ -147,42 +147,25 @@ tags: [combat, magic, exploration, lore]
 > This NPC knows more than they let on
 
 ## See Also
-- [[NPC00515_Baelor_Crystalbrook_the_Seeker
-- [Trade_Route_Map_Aquabyssos_to_Aethermoor]]
-- [[NPC00046_Urien_Ironwood_the_Wise
-- [NPC00283_Kaelen_Zephyrblade_the_Bold]]
-- [[Party_Quests
-- [NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[NPC01911_Alaric_Oakenshield_the_Mystic
-- [Faction_Relationship_Web]]
-- [[NPC01858_Drusilla_Stormwind_the_Cunning
-- [NPC_Relationship_Web.png_1 (03_People)]]
-- [[NPC01812_Xander_Lightbringer_the_Swift
-- [Propaganda_Broadsheet_Syndicate.md]]
-- [[NPC00124_Delara_Ravenheart_the_Redeemed
-- [NPC01113_Solas_Ravenheart_the_Cunning]]
-- [[NPC00812_Kaelen_Jadeclaw_the_Seeker
-- [NPC01252_Jorah_Youngblood_the_Strong]]
-- [[Ceasefire_Accord_Draft.md
-- [NPC01664_Pyria_Lightbringer_the_Redeemed]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
 - [[Assets Portraits Portrait NPC Elder Whisper in the Dark Elder Whisper in the Dark.svg
 - [Basic_Rules]]
-- [[Sanity Quick Reference
-- [Combat_Encounter_Analysis]]
-- [[Player_Feedback_Form.md
-- [NPC00920_Malakai_Ravenheart_the_Guardian]]
-- [[Pilgrim_Pass_Prayer_Sli
-- [11 Spellcasting]]
-- [[09 Adventuring
-- [Guild Seal Document Silverscale Consortiu]]
-- [[07 Customization Options
-- [NPC01699_Orion_Oakenshield_the_Broken]]
-- [[Sanity_Quick_Reference.md
-- [08 Using Ability Scores]]
-- [[11 Rules Glossary
-- [MOC_Quests]]
+- [[Combat_Encounter_Analysis]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[Pilgrim_Pass_Prayer_Sli]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[08 Using Ability Scores]]
+- [[11 Rules Glossary]]
 -
 
 ## Related Content
@@ -211,18 +194,14 @@ tags: [combat, magic, exploration, lore]
 - Connects to [NPC00014_Alaric_Lightbringer]]
 - Compare with [[step_065 (phase_089)
 - Originates from [Quest - Rescue Senator Glaucus]]
-- Related: [[Memorial Tender Sarah
-- Connects to [Void-Echo Silence Deafmake 2]]
-- Requires [[NPC01050_Lyanna_Quicksilver_the_Strong
-- Influences [Royal Palace of Meridian 2]]
-- Connects to [[Neutrality Laws (D&D_References)
-- Connects to [step_030 (phase_010)]]
+- Related: [[Void-Echo Silence Deafmake 2]]
+- Requires [[NPC01050_Lyanna_Quicksilver_the_Strong]]
+- Connects to [[Neutrality Laws (D&D_References)]]
 - Parallels [[Elder Whisper-In-The-Dark (Places)
 - Requires [sacred-statue-mpmm (construct)]]
 - Requires [[Vehicle_Core_Rules#10) Crew Roles (Examples)
 - See also: [step_079 (phase_073)]]
-- See also: [[step_002 (phase_087)
-- Related: [Refugee Leader Maria Dispossessed]]
+- See also: [[Refugee Leader Maria Dispossessed]]
 - Parallels [[LORE00074_Legends_Entry_75
 - Related: [04_Resources_Assets_Locations_location-city-dock-master-anchor-holdfast-v1-dock-master-anchor-holdfast.svg]]
 - Leads to [[step_022 (phase_026)
@@ -232,21 +211,18 @@ tags: [combat, magic, exploration, lore]
 - See also: [[LOC00277_Wilderness_Location_278
 - Affected by
 - Connects to [QUEST00287_Personal_Quest_288]]
-- Requires [[step_082 (phase_022)
-- Requires [SPELL00126_Arcane_Spell_127]]
+- Requires [[SPELL00126_Arcane_Spell_127]]
 - Connects to [[The Community Awakening
 - See also: [Quest - The Debtor's Revolt]]
 - Related: [[Shadowfell Despair Xdmg
 - See also: [QUEST00372_Side_Quest_373]]
-- Parallels [[NPC01897_Aldric_Darkwater_the_Broken
-- Parallels [step_088 (phase_010)]]
+- Parallels [[NPC01897_Aldric_Darkwater_the_Broken]]
 - Connects to
 - Compare with
 - Compare with [[step_088 (phase_006)
 - Influences
 - Originates from [Planar Raider Mtf]]
-- See also: [[The Ancient Compact (D&D_References)
-- Affected by [immolation-xge (spells)]]
+- See also: [[The Ancient Compact (D&D_References)]]
 - Parallels [[Assets Locations Location City Surface Expert Grainwise Surface Expert Grainwise.svg
 - Compare with [The Lost Shipment]]
 - Leads to [[Clockwork Oaken Bolter Mpmm
@@ -254,24 +230,20 @@ tags: [combat, magic, exploration, lore]
 - Affected by
 - Parallels [[simulacrum-xphb (spells)
 - Requires [russet-mold-vgm (traps-hazards)]]
-- Originates from [[Template_Planet_Placeholder.png_1 (09_Templates)
-- Leads to [step_066 (phase_100)]]
+- Originates from [[Template_Planet_Placeholder.png_1 (09_Templates)]]
 - Affected by [[Portrait NPC High Priestess Scylla Deepdream High Priestess Scylla Deepdream.svg
 - Leads to [Location City the First Truth V1 the First Truth.svg]]
-- Connects to [[S-L-08_Gravity_Inversion_Storm
-- Affected by [NPC00871_Ysara_Ironwood_the_Scholar]]
+- Connects to [[NPC00871_Ysara_Ironwood_the_Scholar]]
 - Compare with [[List Spells Optional Features Fiendish Vigor
 - Parallels [step_057 (phase_093)]]
 - Leads to [[EVENT00029_Political_Event_30
 - Requires [Thorn Whip Xphb]]
-- Affected by [[stone-cursed-mpmm (construct)
-- Leads to [NPC01054_Orion_Proudmore_the_Bold]]
+- Affected by [[NPC01054_Orion_Proudmore_the_Bold]]
 - Related: [[step_068 (phase_060)
 - See also: [step_001 (phase_083)]]
 - Related: [[Assets Locations Location City Symphony of the Abyss Recipe V1 Symphony of the Abyss Recipe.svg
 - Connects to [step_001 (phase_075)]]
-- Compare with [[Sixth Shard of Convergence
-- See also: [NPC00976_Alaric_Quicksilver_the_Strong]]
+- Compare with [[NPC00976_Alaric_Quicksilver_the_Strong]]
 - Related: [[step_075 (phase_040)
 - Requires [FAC00052_Guilds_53]]
 - Connects to [[Senator's Private Chambers
@@ -281,12 +253,10 @@ tags: [combat, magic, exploration, lore]
 - Compare with [step_047 (phase_026)]]
 - Leads to [[ITEM00669_Mithril_Boots_of_the_Guardian
 - Originates from [yuan-ti-pureblood-vgm (races)]]
-- Influences [[Trade Council Representative Nerissa Pearlsong
-- Originates from [LORE0018_Myth_of_the_Sundering]]
+- Influences [[Trade Council Representative Nerissa Pearlsong]]
 - Compare with [[step_023 (phase_049)
 - Connects to [Elven Erevan Ilesere Mtf]]
-- Connects to [[Weaponsmith Captain Marcus Sharpedge
-- See also: [ale-gallon (items)]]
+- Connects to [[Weaponsmith Captain Marcus Sharpedge]]
 - Related: [[The Lighthouse Keepers (D&D_References)
 - Influences [Map World Layer Magical Phenomena and Storm Tracks V1 Magical Phenomena and Storm Tracks.svg]]
 - Connects to
@@ -294,20 +264,15 @@ tags: [combat, magic, exploration, lore]
 - Compare with [step_023 (phase_061)]]
 - See also: [[Communications Center 2
 - Originates from [QUEST00397_Side_Quest_398]]
-- Parallels [[LOC00053_Wilderness_Location_54
-- Influences [Crystal Goverce Model]]
+- Parallels [[LOC00053_Wilderness_Location_54]]
 - Compare with [[Assets Art Shadow Chancellor.png
 - Parallels [Portrait NPC Archon Meredith Saltweaver Archon Meredith Saltweaver.svg_1 (Portraits)]]
 - Originates from
-- Affected by [[strahd-zombie-cos (undead)
-- Leads to [MON00045_Constructs_Creature_46]]
-- Requires [[NPC01596_Fiora_Ironforge_the_Mystic
-- Parallels
-- See also: [step_087 (phase_015)]]
+- Affected by [[MON00045_Constructs_Creature_46]]
+- Requires [[NPC01596_Fiora_Ironforge_the_Mystic]]
 - See also: [[Plugin_Integration_and_Tools
 - Requires [Location City Tavern Keep Lucky Jack Goldpouch Tavern Keep Lucky Jack Goldpouch.svg]]
-- See also: [[Crystal Refineries
-- See also: [Mid-Echo Shriek Nerveshatter]]
+- See also: [[Mid-Echo Shriek Nerveshatter]]
 
 ## Visual References
 ![[02_Worldbuilding/locations/location_quieting_the_depths_rain.png

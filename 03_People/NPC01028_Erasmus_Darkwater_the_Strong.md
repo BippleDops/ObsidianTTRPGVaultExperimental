@@ -157,46 +157,25 @@ Seeks rare merchandise
 
 ## See Also
 - [NPC00860_Gavril_Winterborn_the_Swift]]
-- [[NPC00174_Aldric_Silverleaf_the_Fallen
-- [NPC00844_Cedric_Blackstone_the_Fallen]]
-- [[NPC00080_Branwen_Proudmore
-- [NPC00625_Kaelen_Brightblade_the_Redeemed]]
-- [[NPC00283_Kaelen_Zephyrblade_the_Bold
-- [NPC00095_Fiora_Nightfall]]
-- [[NPC00661_Corvus_Darkwater_the_Broken
-- [NPC01931_Thalia_Lightbringer_the_Fallen]]
-- [[NPC01017_Vesper_Keenblade_the_Risen
-- [NPC01552_Branwen_Lightbringer_the_Swift]]
-- [[NPC00501_Orion_Nightfall_the_Broken
-- [NPC00388_Ysara_Goldleaf]]
-- [[NPC01113_Solas_Ravenheart_the_Cunning
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[NPC01989_Erasmus_Xendar_the_Strong
-- [NPC01276_Erasmus_Keenblade_the_Wanderer]]
-- [[NPC01504_Erasmus_Zephyrblade_the_Strong
-- [NPC00494_Lyanna_Hawthorne_the_Guardian]]
-- [[NPC00872_Thalia_Ironwood_the_Broken
-- [NPC00976_Alaric_Quicksilver_the_Strong]]
-- [[NPC01892_Gareth_Xendar_the_Scholar
-- [NPC00552_Malakai_Stormwind_the_Seeker]]
-- [[NPC01503_Ewan_Dawnstrider_the_Redeemed
-- [NPC01974_Thalia_Zephyrblade_the_Lost]]
-- [[NPC01476_Qadim_Stormwind_the_Wise
-- [Parliament of Shadows Player Guide.md]]
-- [[NPC01301_Jorah_Underhill_the_Broken
-- [Player_Portal.md]]
-- [[Emergency_Evacuation_Map_Stormglass_Riot
-- [NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC01113_Solas_Ravenheart_the_Cunning]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
 - [[What You Know - Abyssos Prime.md
 - [09 Adventuring]]
-- [[NPC00858_Zephyr_Silverleaf_the_Wanderer
-- [10 Appendix B Creature Stat Blocks]]
-- [[MASTER_NAVIGATION
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[MASTER_NAVIGATION]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -216,8 +195,7 @@ Seeks rare merchandise
 - Requires [Voluntary Taxation]]
 - Requires [[Courage Ale 2
 - Leads to [ITEM01479_Ornate_Journal_of_Durability]]
-- Related: [[Bugbear Vgm
-- Requires [NPC0059_Tara_Ironforge_the_Swift]]
+- Related: [[NPC0059_Tara_Ironforge_the_Swift]]
 - Affected by [[Ancient Ruins 2
 - See also: [Spiritual Weapon Xphb]]
 - Leads to [[swift-quiver-xphb (spells)
@@ -234,8 +212,7 @@ Seeks rare merchandise
 - See also: [[step_032 (phase_007)
 - Originates from [Call Lightning Xphb]]
 - Influences [[The Abyssal [Tavern (D&D_References)]]
-- Connects to [[Pressure Damage
-- Affected by [The Bleeding Chambers (D&D_References)]]
+- Connects to [[The Bleeding Chambers (D&D_References)]]
 - Connects to [[ITEM00576_Enchanted_Plate_of_Protection
 - Requires [[[Artisan Glow-Finger Nerida]] (D&D_References)]]
 - Connects to [[Cheese Wedge Xphb
@@ -244,8 +221,7 @@ Seeks rare merchandise
 - Affected by [04_Resources_Assets_Locations_location-city-the-crystalline-foundry-v1-the-crystalline-foundry.svg]]
 - Influences [[The Purification Order
 - Compare with [The Hopekeeper Academy]]
-- Connects to [[Sphinx of Valor Xmm
-- Related: [QUEST00163_Main_Quest_164]]
+- Connects to [[QUEST00163_Main_Quest_164]]
 - Influences [[LOC00280_Towns_Location_281
 - Affected by [LOC00248_Dungeons_Location_249]]
 - Connects to [[heal-xphb (spells)
@@ -260,18 +236,13 @@ Seeks rare merchandise
 - Connects to
 - Originates from [[Arcana Legendary Xdmg
 - Affected by [shapechange-xphb (spells)]]
-- See also: [[NPC01090_Orion_Youngblood_the_Guardian
-- Leads to
-- Parallels [[[Bubble District]] (D&D_References)]]
-- Requires [[Assets Locations Location City [[[International Trade Routes]] V1 International Trade Routes.svg]]
+- See also: [[NPC01090_Orion_Youngblood_the_Guardian]] (D&D_References)]]
+- Requires [[International Trade Routes]] V1 International Trade Routes.svg]]
 - Compare with [[LORE00171_History_Entry_172
 - Connects to [step_042 (phase_089)]]
-- Compare with [[[Progressive Tide Movement (D&D_References)]]
-- See also: [[NPC01956_Zephyr_Thornweave_the_Guardian
-- Influences
-- Leads to [Galley Xphb]]
-- Originates from [[Eastern Kingdom (D&D_References)
-- Compare with [step_039 (phase_085)]]
+- Compare with [[Progressive Tide Movement (D&D_References)]]
+- See also: [[NPC01956_Zephyr_Thornweave_the_Guardian]]
+- Originates from [[Eastern Kingdom (D&D_References)]]
 - Influences [[SHOP00006_Magical_Shop_7
 - Parallels [[Guardian [Captain Marcus]] Shieldwall]]
 - See also: [[Manticore Xmm
@@ -279,27 +250,21 @@ Seeks rare merchandise
 - Requires [[Portrait NPC Senator Glaucus V2 Senator Glaucus.svg
 - Related: [The Windcatchers Guild]]
 - Requires [[Assets Locations Location City [Memory Sharing Techniques V1 Memory Sharing Techniques.svg]]
-- Connects to [[Quest - The Cure for Madness
-- Connects to [[[Surface Trade Ports]] (D&D_References)]]
-- Requires [[LOC00118_Dungeons_Location_119
-- Affected by [step_077 (phase_033)]]
+- Connects to [[Quest - The Cure for Madness]] (D&D_References)]]
+- Requires [[LOC00118_Dungeons_Location_119]]
 - See also: [[Planar Entities (D&D_References)
 - Affected by [Portrait NPC Defense Captain Ironguard Defense Captain Ironguard.svg]]
 - See also: [[gift-of-the-depths-xphb (optional-features)
 - Influences [Banishing Arrow Xge]]
-- Affected by [[Information Systems Alliance (D&D_References)
-- See also: [step_059 (phase_084)]]
-- Connects to [[step_036 (phase_097)
-- Leads to [NPC01840_Aldric_Nightfall_the_Risen]]
+- Affected by [[Information Systems Alliance (D&D_References)]]
+- Connects to [[NPC01840_Aldric_Nightfall_the_Risen]]
 - Compare with [[The Pressure King (D&D_References)
 - Originates from [Opposition Intelligence Center 2]]
-- Compare with [[[Secondary Education (D&D_References)]]
-- Connects to [[QUEST00392_Side_Quest_393
-- Connects to [[[The Cleaner]] (D&D_References)]]
+- Compare with [[Secondary Education (D&D_References)]]
+- Connects to [[QUEST00392_Side_Quest_393]] (D&D_References)]]
 - Originates from [[Assets Locations Location City [Tide Welcomeheart Tide Welcomeheart.svg]]
 - Affected by
-- Leads to [[Coral Craftsman
-- Requires [[[The Void Touched Depths]] 2]]
+- Leads to [[The Void Touched Depths]] 2]]
 - Requires [[preparing-spells-spell-preparation-by-class-xphb
 - Parallels
 - Parallels
@@ -307,8 +272,7 @@ Seeks rare merchandise
 - Influences [LOC00264_Cities_Location_265]]
 - See also: [[Creating Npcs From Scratch NPC Features
 - Originates from [Captain Steelhart (D&D_References)]]
-- Requires [[M-201 Event Horizon Shear Player
-- Related: [Giant Spider Xmm]]
+- Requires [[M-201 Event Horizon Shear Player]]
 - Influences [[Treasure Hoard Challenge 1116 (tables)
 - Requires [Symbol Heraldry Chaplain Abyssos the Deepseeke V1 Chaplain Abyssos the Deepseeke.svg]]
 

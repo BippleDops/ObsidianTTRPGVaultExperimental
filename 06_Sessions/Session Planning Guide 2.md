@@ -49,10 +49,8 @@ Essential reference for dungeon masters running dual-realm campaigns.
 
 - [[Campaign World
 - [02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
-- [[Current Pc Lead
-- [Party Information]]
-- [[Random Encounter Tables
-- [Templater Advanced]]
+- [[Party Information]]
+- [[Random_Encounter_Tables]]
 
 ## Player-[[Facing Summary
 
@@ -60,17 +58,7 @@ Essential reference for dungeon masters running dual-realm campaigns.
 
 ## [[Lore Details
 
-Legends speak of [Session Planning]] Guide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around [[Session Planning Guide.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
-## Cross-References
-
-- [00_Indexes/Master_Lore_Index]]
+Legends speak of [Session Planning]] Guide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around [[Session Planning Guide]]
 
 ## [[Session Summary
 *Brief overview of this session*
@@ -80,7 +68,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

@@ -119,59 +119,32 @@ tags: [combat, lore]
 > This location connects to the main plot
 
 ## See Also
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC00285_Xander_Goldleaf_the_Mystic]]
-- [[NPC00587_Idris_Youngblood_the_Strong
-- [NPC01951_Gavril_Xendar_the_Swift]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [Faction_Guide.md]]
-- [[NPC00300_Urien_Zephyrblade
-- [NPC01247_Xander_Zephyrblade_the_Risen]]
-- [[Sanity Quick Reference
-- [Downtime_Activities]]
-- [[Ancient_Prophecy_Fragment_Verdan
-- [Currency_Guide_Scrip_and_Shard]]
-- [[Pilgrim_Pass_Prayer_Sli
-- [Quiet_Chapel_Oath_Scrol]]
-- [[Letter_From_the_Pearl_Guard_Captai
-- [Sanity_Quick_Reference.md]]
-- [[Ritual_Timing_Wheel_Convergenc
-- [Welcome_to_Aquabyssos.md]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[Sanity Quick Reference]]
+- [[Ancient_Prophecy_Fragment_Verdan]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[Letter_From_the_Pearl_Guard_Captai]]
+- [[Ritual_Timing_Wheel_Convergenc]]
 - [[What You Know - Abyssos Prime.md
 - [Parliament of Shadows Player Guide.md]]
-- [[Propaganda_Leaflet_Pearl_Guar
-- [Calendar_Conversions_Realm_Window]]
-- [[Smuggler_Route_Tally_Shee
-- [Player_Comfort_Check]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [09 Adventuring]]
-- [[NPC00259_Delara_Proudmore
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[NPC01177_Thalia_Underhill_the_Fallen
-- [NPC01937_Felicia_Silverleaf_the_Wanderer]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [NPC01348_Xander_Zephyrblade_the_Wise]]
-- [[02 Step by Step Characters
-- [NPC01483_Gavril_Zephyrblade_the_Fallen]]
-- [[NPC00719_Orion_Hawthorne_the_Cunning
-- [11 Rules Glossary]]
-- [[NPC01911_Alaric_Oakenshield_the_Mystic
-- [MOC_Lore]]
-- [[MOC_Items
-- [NPC00385_Qadim_Darkwater_the_Cunning]]
-- [[NPC00661_Corvus_Darkwater_the_Broken
-- [10 Appendix B Creature Stat Blocks]]
-- [[NPC_Relationship_Web.png_1 (03_People)
-- [NPC01894_Aldric_Lightbringer_the_Bold]]
-- [[NPC00200_Faelyn_Winterborn_the_Guardian
-- [Master_Narrative_Web.md]]
-- [[NPC00582_Cedric_Dawnstrider
--
-
-## Related Content
-- [audio_fit_report]]
-- [[audio_fit_report_1
-- [SVG_REPLACEMENT_REPORT]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00719_Orion_Hawthorne_the_Cunning]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -195,28 +168,24 @@ tags: [combat, lore]
 - Requires [Sage Moonwhisper]]
 - Originates from [[step_078 (phase_089)
 - Compare with [EVENT00068_Natural_Event_69]]
-- Compare with [[The Academy of Investigative Arts
-- Connects to ["$python_version" < "3.9"]]
+- Compare with [[The Academy of Investigative Arts]]
 - See also: [[step_081 (phase_011)
 - See also: [ITEM01210_Refined_Salve_of_Vigor]]
-- Affected by [[NPC00347_Ysara_Dawnstrider
-- Leads to [step_011 (phase_013)]]
+- Affected by [[NPC00347_Ysara_Dawnstrider]]
 - See also: [[LORE00190_Prophecies_Entry_191
 - See also: [FAC00029_Orders_30]]
 - Compare with [[The Crystal Temple
 - Compare with [Location City the Lighthouse Keepers the Lighthouse Keepers.svg]]
 - Parallels [[Dragonlance Shinare Phb
 - Leads to [QUEST00145_Side_Quest_146]]
-- Affected by [[The Green Apocalypse
-- See also: [NPC00516_Gavril_Lightbringer_the_Scholar]]
+- Affected by [[NPC00516_Gavril_Lightbringer_the_Scholar]]
 - Parallels [[21 Appendix D Demon Lords
 - Connects to [Treasurer Darkfunds]]
 - Affected by [[ITEM00872_Divine_Scepter_of_Truth
 - Compare with [Larva Xmm]]
 - See also: [[step_018 (phase_042)
 - Leads to [Wall of Thorns Xphb]]
-- See also: [[step_037 (phase_016)
-- Related: [The Great Tidal Amphitheater 2]]
+- See also: [[The Great Tidal Amphitheater 2]]
 - Leads to [[MASTER_NAVIGATION
 - See also: [Variant Customizing Ability Scores Ability Scores and Modifiers Phb]]
 - See also: [[Emergency Technology Development Foundation
@@ -229,20 +198,16 @@ tags: [combat, lore]
 - Influences
 - See also: [[Celestial Gardens
 - Leads to [talisman-of-the-sphere-xdmg (items)]]
-- Influences [[LOC00161_Planes_Location_162
-- Related: [step_005 (phase_089)]]
-- Affected by [[Lord Chancellor Prism Valdrick (D&D_References)
-- Originates from [Shadow Surgeon Thorn]]
+- Influences [[LOC00161_Planes_Location_162]]
+- Affected by [[Lord Chancellor Prism Valdrick (D&D_References)]]
 - Parallels [[Assets Locations Location City Knowledge Truthseeker Knowledge Truthseeker.svg
 - Originates from [QUEST00114_Personal_Quest_115]]
 - Leads to [[Assets Locations Location City Crystals Curiosities Crystals Curiosities.svg
 - See also: [step_028 (phase_084)]]
 - See also: [[devastation-orb-pota (items)
 - Originates from [Location City Mediator Cardinal Harmony Mediator Cardinal Harmony.svg]]
-- Related: [[NPC00761_Aldric_Moonshadow_the_Guardian
-- Requires [ITEM00464_Mithril_Cloak_of_Protection]]
-- Compare with [[LOC00263_Dungeons_Location_264
-- Requires [step_036 (phase_092)]]
+- Related: [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- Compare with [[LOC00263_Dungeons_Location_264]]
 - See also: [[Location City Dock Boss Marina Irongrip Dock Boss Marina Irongrip.svg
 - Compare with [Pirates 2]]
 - Affected by [[astral-dreadnought-mpmm (monstrosity)
@@ -257,19 +222,15 @@ tags: [combat, lore]
 - Compare with [human-names-indian-female-xge (tables)]]
 - Connects to [[Symbol Heraldry Factional Conflicts V1 Factional Conflicts.svg_1 (Symbols)
 - Related: [Portrait NPC Merchant Captain Tobias Stormwind V2 Merchant Captain Tobias Stormwind.svg]]
-- Leads to [[step_083 (phase_020)
-- Compare with [Captain Henrik Proudbanner (D&D_References)]]
-- Requires [[Trident of Accord
-- Leads to [QUEST00455_Side_Quest_456]]
+- Leads to [[Captain Henrik Proudbanner (D&D_References)]]
+- Requires [[QUEST00455_Side_Quest_456]]
 - Influences [[ITEM00577_Mithril_Chain_Mail_of_Fortitude
 - Related:
 - Influences [step_098 (phase_068)]]
-- Requires [[Master Cultivator Polyp Growe (Cults_and_Movements)
-- Parallels [QUEST00319_Side_Quest_320]]
+- Requires [[Master Cultivator Polyp Growe (Cults_and_Movements)]]
 - Influences [[Location City Aquabyssos Government Aquabyssos Government.svg
 - Related: [SPELL0047_Primal_Wave]]
-- Influences [[MAP_INDEX
-- Parallels [Abyssos Prime - Pressure Terminal 2]]
+- Influences [[Abyssos Prime - Pressure Terminal 2]]
 - Originates from [[NPC01880_Ewan_Brightblade_the_Wise
 - Influences [Bubble District (D&D_References)]]
 - Affected by [[Location City Wealthy Goldcurrent Wealthy Goldcurrent.svg
@@ -277,10 +238,8 @@ tags: [combat, lore]
 - Connects to [[step_042 (phase_052)
 - Compare with
 - Parallels [Electric Eel (D&D_References)]]
-- Parallels [[Quest - Construct Liberation
-- Requires [step_039 (phase_100)]]
-- Related: [[The Crystal Metropolis
-- Parallels [Handouts Ships Player Handout Aquabyssos Submarines]]
+- Parallels [[Quest - Construct Liberation]]
+- Related: [[Handouts Ships Player Handout Aquabyssos Submarines]]
 - See also: [[step_001 (phase_097)
 - Originates from [Vulture Xmm]]
 - See also: [[LOC00267_Towns_Location_268

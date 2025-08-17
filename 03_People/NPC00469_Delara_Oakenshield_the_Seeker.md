@@ -167,44 +167,28 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC01483_Gavril_Zephyrblade_the_Fallen
-- [NPC00190_Cedric_Silverleaf]]
-- [[NPC00283_Kaelen_Zephyrblade_the_Bold
-- [NPC01013_Corvus_Ravenheart_the_Bold]]
-- [[NPC01504_Erasmus_Zephyrblade_the_Strong
-- [Ambassador Nerida Deepcurrent]]
-- [[NPC01195_Gareth_Keenblade_the_Guardian
-- [NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
 - [[NPC00162_Xander_Thornweave
 - [NPC_Relationship_Web.png_1 (03_People)]]
-- [[NPC01371_Xander_Stormwind_the_Guardian
-- [NPC00388_Ysara_Goldleaf]]
-- [[NPC01827_Kaelen_Ironforge_the_Seeker
-- [NPC01841_Malakai_Nightfall_the_Wise]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC01348_Xander_Zephyrblade_the_Wise]]
-- [[NPC01552_Branwen_Lightbringer_the_Swift
-- [NPC00362_Pyria_Stormwind_the_Wise]]
-- [[Archdruid Thornweaver
-- [NPC00351_Corvus_Ironwood]]
-- [[NPC00785_Ysara_Grimholt_the_Mystic
-- [NPC00515_Baelor_Crystalbrook_the_Seeker]]
-- [[NPC01262_Ysara_Dawnstrider_the_Swift
-- [Ceasefire_Accord_Draft.md]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC00582_Cedric_Dawnstrider]]
-- [[Player_Comfort_Check
-- [Reference.md]]
-- [[07 Customization Options
-- [11 Rules Glossary]]
-- [[Character_Journal_Template
-- [MOC_Items]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00351_Corvus_Ironwood]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[Player_Comfort_Check]]
+- [[07 Customization Options]]
+- [[Character_Journal_Template]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -218,7 +202,7 @@ Modifications:
 
 ## Connections
 
-- Connects to [[[The Shrinking Sanctuary 2]]
+- Connects to [[The Shrinking Sanctuary 2]]
 - See also: [[potion-of-invisibility-xdmg (items)
 - Affected by [Describe Appearance and Personality Wisdom]]
 - Compare with [[MON00008_Constructs_Creature_9
@@ -229,10 +213,8 @@ Modifications:
 - Affected by [[Location City [Infrastructure Development]] V1 Infrastructure Development.svg]]
 - Connects to [[QUEST00070_Personal_Quest_71
 - Influences [Chamber Purpose Dungeon Planar Gate]]
-- Originates from [[Symbol Heraldry Aco... Related To: Local Political Structure Connected Plots: to Be Developed
-- Originates from [Memory Harvester Kythara (D&D_Statblocks)]]
-- Originates from [[Corrupted Government Reflections
-- Affected by [Heart Crystal 2]]
+- Originates from [[Symbol Heraldry Aco... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Originates from [[Corrupted Government Reflections]]
 - Connects to
 - Influences [[Elder Kythara the Wise
 - Leads to [Potion of Animal Friendship Xdmg]]
@@ -254,10 +236,8 @@ Modifications:
 - Compare with [[The Resistance Network 2
 - Parallels [[[Screaming Gardens]] - Songwood Grove 2]]
 - Influences
-- Affected by [[friendly-attitude-xphb (variant-rules)
-- Affected by [[[Aquabyssos]] World Overview#The Preservation Current]]
-- See also: [[Shadow Replacements
-- Affected by [spell-points (variant-rules)]]
+- Affected by [[friendly-attitude-xphb (variant-rules)]] World Overview#The Preservation Current]]
+- See also: [[spell-points (variant-rules)]]
 - Requires [[skill-expert-xphb (feats)
 - Connects to [step_021 (phase_030)]]
 - Related: [[Portrait NPC Deep Fortress Network V2 Deep Fortress Network.svg
@@ -285,10 +265,8 @@ Modifications:
 - Leads to [cleric-xphb-grave-domain-xge 2 (classes)]]
 - Affected by [[NPC01399_Orion_Ashford_the_Bold
 - Originates from [LOC00120_Planes_Location_121]]
-- See also: [[QUEST00199_Main_Quest_200
-- Originates from [Deep-Root Caretaker Nereon (D&D_References)]]
-- See also: [[step_021 (phase_065)
-- Related: [QUEST0080_The_Final_Legacy]]
+- See also: [[Deep-Root Caretaker Nereon (D&D_References)]]
+- See also: [[QUEST0080_The_Final_Legacy]]
 - Connects to [[step_050 (phase_093)
 - Originates from [Establish New World Order (Orders)]]
 - Related: [[Council President Diana Democratic
@@ -298,14 +276,12 @@ Modifications:
 - See also: [[LORE00268_Legends_Entry_269
 - Influences [Symbol Heraldry the Liminal Trading Company the Liminal Trading Company.svg]]
 - Compare with [[Location City [The Synthesis Gardens the Synthesis Gardens.svg]]
-- Requires [[NPC01463_Aeliana_Zephyrblade_the_Fallen
-- Affected by [MON00129_Aberrations_Creature_130]]
+- Requires [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
 - See also: [[LOC0130_NorthGate
 - Influences [step_003 (phase_079)]]
 - See also: [[LORE00165_Prophecies_Entry_166
 - Parallels [gnome-baravar-cloakshadow-mtf (deities)]]
-- Leads to [[step_050 (phase_047)
-- Originates from [LOC00135_Wilderness_Location_136]]
+- Leads to [[LOC00135_Wilderness_Location_136]]
 - Leads to [[Tyrannosaurus Rex Xmm
 - Influences [LOC00273_Towns_Location_274]]
 - Compare with [[The Sundered Vaults

@@ -8,5 +8,8 @@
   ],
   "created": "2025-08-16T16:58:14.651Z",
   "cr": 8,
-  "size": "huge"
+  "size": "huge",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:48:45.313Z",
+  "generationMethod": "ComfyUI"
 }

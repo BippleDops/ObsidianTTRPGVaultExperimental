@@ -176,46 +176,25 @@ Modifications:
 > Notable saying or prophecy
 
 ## See Also
-- [[NPC01599_Gavril_Keenblade_the_Strong
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[NPC00451_Malakai_Ravenheart_the_Broken
-- [NPC00939_Thalia_Jadeclaw_the_Swift]]
-- [[NPC01113_Solas_Ravenheart_the_Cunning
-- [NPC00281_Hestara_Nightfall_the_Cunning]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [NPC00300_Urien_Zephyrblade]]
-- [[NPC00749_Xander_Quicksilver
-- [NPC01994_Orion_Brightblade_the_Risen]]
-- [[NPC00250_Delara_Darkwater_the_Fallen
-- [NPC01126_Malakai_Oakenshield_the_Fallen]]
-- [[NPC00707_Fiora_Oakenshield_the_Seeker
-- [NPC00283_Kaelen_Zephyrblade_the_Bold]]
-- [[NPC00601_Vesper_Ironwood_the_Guardian
-- [NPC00661_Corvus_Darkwater_the_Broken]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC00395_Aeliana_Thornweave
-- [NPC01730_Faelyn_Emberfall_the_Broken]]
-- [[NPC00550_Xander_Stormwind_the_Cunning
-- [NPC01017_Vesper_Keenblade_the_Risen]]
-- [[NPC01367_Lyanna_Xendar_the_Wise
-- [Party_Inventory]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC00601_Vesper_Ironwood_the_Guardian]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC01730_Faelyn_Emberfall_the_Broken]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC01367_Lyanna_Xendar_the_Wise]]
 - [[Faction_Guide.md
 - [Ship_Schematic_The_Seahawk.md]]
-- [[Basic_Rules
-- [Smuggler_Route_Tally_Shee]]
-- [[15 the Planes of Existence
-- [10 Appendix B Creature Stat Blocks]]
-- [[16 Credits
-- [10 Combat]]
-- [[NPC00838_Drusilla_Proudmore_the_Risen
-- [MASTER_MOC]]
-- [[NPC01781_Urien_Keenblade_the_Cunning
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[16 Credits]]
+- [[NPC00838_Drusilla_Proudmore_the_Risen]]
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -251,10 +230,8 @@ Modifications:
 ## Connections
 
 - Influences [Seeds of Tomorrow]]
-- Affected by [[NPC00056_Gavril_Underhill
-- Leads to [Spell Compendium 2]]
-- Requires [[step_061 (phase_095)
-- Related: [QUEST0053_The_Frozen_Fortress_Plague]]
+- Affected by [[NPC00056_Gavril_Underhill]]
+- Requires [[QUEST0053_The_Frozen_Fortress_Plague]]
 - Compare with [[Portrait NPC Commodity Queen Abundance V2 Commodity Queen Abundance.svg_1 (Portraits)
 - Compare with [ENC00137_Environmental_Encounter_138]]
 - Connects to [[Portrait NPC Character Relationship Web Core Npcs V1 Character Relationship Web Core Npcs.svg
@@ -268,19 +245,15 @@ Modifications:
 - Compare with [Embroidered Silk and Velvet Mantle Set with Numerous Moonstones Xdmg]]
 - Connects to [[Arcane Destroyer Tidal Stormcaller
 - See also: [Mounts and Vehicles Waterborne Vehicles Phb]]
-- Parallels [[NPC01997_Aeliana_Frostwhisper_the_Fallen
-- See also: [step_057 (phase_015)]]
+- Parallels [[NPC01997_Aeliana_Frostwhisper_the_Fallen]]
 - Compare with [[web-xphb (spells)
 - Compare with [step_091 (phase_039)]]
 - Leads to [[Location City the Neutral Current [[Tavern [The Neutral Current Tavern]].svg]]
-- Influences [[Consequence Chain 5 - Marina Identity Revelation
-- Leads to
-- Affected by [Eldritch Smite Xphb]]
+- Influences [[Consequence Chain 5 - Marina Identity Revelation]]
 - Connects to
 - Related: [[Kelp Highway (Lore)
 - Requires [Ray of Frost Xphb]]
-- Requires [[Subjects Crystal Engineering
-- Affected by [Enemies Abound Xge]]
+- Requires [[Subjects Crystal Engineering]]
 - Affected by [[ENC00093_Social_Encounter_94
 - See also: [Hewards Handy Spice Pouch Xdmg]]
 - Compare with [[crystal-ball-of-true-seeing-xdmg (items)
@@ -294,12 +267,10 @@ Modifications:
 - Parallels [[step_074 (phase_055)
 - Parallels [DUN00007_Dungeon_8]]
 - Parallels
-- Requires [[Dimensional Researchers (D&D_References)
-- Affected by [LOC00017_Towns_Location_18]]
+- Requires [[Dimensional Researchers (D&D_References)]]
 - Compare with [[Portrait NPC Master Smith Priest Vulcan Depthforge V1 Master Smith Priest Vulcan Depthforge.svg
 - Requires [ITEM01485_Elegant_Tool_Kit_of_Convenience]]
-- Parallels [[NPC00634_Gareth_Silverleaf_the_Scholar
-- Originates from [Ball Bearings Xphb]]
+- Parallels [[NPC00634_Gareth_Silverleaf_the_Scholar]]
 - Affected by [[step_035 (phase_027)
 - Connects to [stone-giant-xmm (giant)]]
 - Compare with [[NPC00534_Xander_Ironwood
@@ -308,10 +279,8 @@ Modifications:
 - Requires [[Assets Locations Location City [The Kelp Highway]] V1 the Kelp Highway.svg]]
 - See also: [[Deep Current Society (D&D_References)
 - Requires [Portrait NPC Quest the Deep Mother S Truth V1 Quest the Deep Mother S Truth.svg]]
-- See also: [[02-chapter-1-playing-the-game#Ability Checks
-- Affected by [Abi Dalzims Horrid Wilting Xge]]
-- Originates from [[Velociraptor Mpmm
-- See also: [MON00061_Aberrations_Creature_62]]
+- See also: [[02-chapter-1-playing-the-game (players-handbook-2024)]]
+- Originates from [[MON00061_Aberrations_Creature_62]]
 - Affected by [[Lyra Voidweaver 2
 - See also:
 - See also: [Community Health Centers]]
@@ -331,20 +300,17 @@ Modifications:
 - Related: [[Assets Locations Location City [Portal Network V1 Portal Network.svg]]
 - Related: [[Construct Spirit Xphb
 - Compare with [Handout Handout Ancient Prophecy Fragment V2 Ancient Prophecy Fragment.png]]
-- Connects to [[The Crimson Sage_1
-- See also: [Portrait NPC Vesp... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Connects to [[Portrait NPC Vesp... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Leads to [[The Shadowhaven Smugglers Ring
 - Originates from [Royal Academy of Arcane Arts - Ruins]]
 - Affected by [[Random_Encounter_Tables
 - Leads to [step_042 (phase_006)]]
-- Parallels [[Deep Sciences Research Institute
-- Compare with [The Crystal Influence 3 (D&D_References)]]
+- Parallels [[The Crystal Influence 3 (D&D_References)]]
 - Affected by [[NPC00597_Ysara_Ravenheart_the_Redeemed
 - Compare with [[Location City [Warrior Thane Visionward]] V1 Warrior Thane Visionward.svg]]
 - Connects to [[Quest_-_The_Filter_Exchange
 - Connects to [Quandrix Student Scc]]
-- Compare with [[NPC00316_Caelum_Frostwhisper
-- Compare with [skills#History]]
+- Compare with [[NPC00316_Caelum_Frostwhisper]]
 - Leads to [[LORE00100_Prophecies_Entry_101
 - Affected by [young-green-dragon-xmm]]
 - Related: [[sword-of-vengeance-xdmg (items)

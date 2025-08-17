@@ -164,20 +164,11 @@ Modifications:
 
 ## See Also
 - [NPC01013_Corvus_Ravenheart_the_Bold]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC01841_Malakai_Nightfall_the_Wise]]
-- [[NPC01312_Alaric_Darkwater_the_Fallen
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC01498_Gareth_Quicksilver_the_Risen
-- [Faction_Relationship_Web]]
-- [[Character_Journal_Template
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC01498_Gareth_Quicksilver_the_Risen]]
+- [[Character_Journal_Template]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -208,13 +199,11 @@ Modifications:
 - See also: [[NPC00160_Aldric_Ironforge_the_Swift
 - Affected by
 - Leads to [duergar-hammerer-mpmm (construct)]]
-- Compare with [[The Divine Seekers
-- Leads to [Crystal Architecture Philosophy]]
-- Related: [[[Void Prophet Nullus the Erased 2]]
+- Compare with [[Crystal Architecture Philosophy]]
+- Related: [[Void Prophet Nullus the Erased 2]]
 - Compare with [[step_039 (phase_061)
 - See also: [Portrait NPC Lord Commander Steelborn Lord Commander Steelborn.svg]]
-- Compare with [[The Loop Breakers
-- Originates from [Ambassador-Warden Luna Peacegem]]
+- Compare with [[Ambassador-Warden Luna Peacegem]]
 - Related: [[Trader Cross-Current Jin (D&D_References)
 - Affected by [Portrait NPC Envoy Blackwater Jr V1 Envoy Blackwater Jr.svg_1 (Portraits)]]
 - Connects to [[power-word-fortify-xphb (spells)
@@ -232,39 +221,33 @@ Modifications:
 - Affected by [The Shadow Shepherds]]
 - Parallels [[Location City Pressure Weighted Representation V1 Pressure Weighted Representation.svg
 - Compare with [shillelagh-xphb (spells)]]
-- Influences [[[Pressure Palace (D&D_References)]]
+- Influences [[Pressure Palace (D&D_References)]]
 - Affected by [[Quest - The Kingpin's Fall
 - Related: [LORE00108_Legends_Entry_109]]
 - Originates from [[Half Orc
 - See also: [Portrait NPC Quest Storm Lord S Challenge V2 Quest Storm Lord S Challenge.svg]]
 - Leads to [[Assets Locations Location City [Coral Vortextrader Coral Vortextrader.svg]]
-- Related: [[[The Memory Meadows_1]]
+- Related: [[The Memory Meadows]]
 - Parallels [[gareth-default.png
 - Influences [[[The Memorial Archives]] 2]]
-- Affected by [[Regulatory Medical Authorit 2
-- Influences [FAC00013_Cults_14]]
+- Affected by [[Regulatory Medical Authorit 2]]
 - Requires [[Portrait NPC Captain Repossession V1 Captain Repossession.svg
 - Compare with [elf-names-family-xge (tables)]]
 - See also: [[The Norse Pantheon Norse Deities Phb
 - Leads to [ox-xdmg (items)]]
-- Compare with [[The Festival of Rising Tides (D&D_References)
-- See also: [SPELL00140_Divine_Spell_141]]
+- Compare with [[The Festival of Rising Tides (D&D_References)]]
 - See also: [[gnoll-fang-of-yeenoghu-xmm (fiend)
 - Related: [Npc Low Abilities]]
-- Compare with [[step_006 (phase_039)
-- Requires [Shadow Medical Training Methods 2]]
-- Related: [[step_033 (phase_014)
-- Connects to [MON00048_Constructs_Creature_49]]
+- Compare with [[Shadow Medical Training Methods 2]]
+- Related: [[MON00048_Constructs_Creature_49]]
 - Affected by [[Tiny Servant Xge
 - Leads to [[[The Whispering Depths]] (D&D_References)]]
 - Originates from [[Portrait NPC [Captain Marcus Voidward V2 Captain Marcus Voidward.svg]]
 - Connects to [[High Judge Moira Truthseeker
 - Requires [Deep Water Rescue Service]]
-- Requires [[NPC01635_Vesper_Ironforge_the_Cunning
-- Leads to [MON00165_Aberrations_Creature_166]]
-- Related: [[[Memory Recording Chambers (D&D_References)]]
-- Compare with [[deck-of-many-things#Euryale
-- Affected by [QUEST00270_Side_Quest_271]]
+- Requires [[NPC01635_Vesper_Ironforge_the_Cunning]]
+- Related: [[Memory Recording Chambers (D&D_References)]]
+- Compare with [[deck-of-many-things#Key]]
 - Affected by [[drow-2-armor-mm (items)
 - Originates from [The Cloud Shepherd Guild (Groups)]]
 - Connects to [[Manufacturing Chief Gearwright
@@ -278,20 +261,14 @@ Modifications:
 - Parallels [[Location City [Ancient Treasury of Tides]] V1 Ancient Treasury of Tides.svg]]
 - See also: [[Session 2 The Shadow Surgery (Shadow_Conspiracy)
 - Parallels [DUN00127_Dungeon_128]]
-- See also: [[Magic Item Table I
-- Requires [NPC00361_Kaelen_Dawnstrider_the_Cunning]]
+- See also: [[NPC00361_Kaelen_Dawnstrider_the_Cunning]]
 - See also: [[half-plate-armor-xphb (items)
 - Originates from [SPELL00154_Divine_Spell_155]]
-- See also: [[QUEST00427_Side_Quest_428
-- Connects to [Deep Wardens 2]]
-- Leads to [[LOC00144_Towns_Location_145
-- Compare with [NPC00123_Lyanna_Thornweave_the_Mystic]]
-- Affected by [[step_030 (phase_006)
-- Parallels [QUEST00245_Personal_Quest_246]]
-- Related: [[ITEM0121_Blessed_Circlet_of_the_Dawn
-- Related: [The Silence Experiments]]
-- Requires [[Community Temple Network
-- Related: [NPC01793_Lyanna_Youngblood_the_Seeker]]
+- See also: [[QUEST00427_Side_Quest_428]]
+- Leads to [[NPC00123_Lyanna_Thornweave_the_Mystic]]
+- Affected by [[QUEST00245_Personal_Quest_246]]
+- Related: [[ITEM0121_Blessed_Circlet_of_the_Dawn]]
+- Requires [[NPC01793_Lyanna_Youngblood_the_Seeker]]
 - Requires [[Assets Locations [Location City Ancient Treasury of Tides V1 Ancient Treasury of Tides.svg]]
 
 ## Visual References

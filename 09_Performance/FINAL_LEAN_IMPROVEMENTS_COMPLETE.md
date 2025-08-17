@@ -148,68 +148,54 @@ publish: false --- # 🎉 Complete Lean Improvements Report Generated: ${new Dat
 - Leads to [D_019_Oracle_Whale]]
 - Originates from [[step_024
 - Requires [ITEM00028_Blessed_Crossbow_of_Wounding]]
-- Requires [[step_015 (phase_072)
-- Connects to [LOC00134_Dungeons_Location_135]]
-- See also: [[QUEST0022_In_Search_of_Justice
-- Influences [step_100 (phase_066)]]
-- Originates from [[Harbor Pilot Guild
-- Connects to [SPELL00066_Nature_Spell_67]]
-- See also: [[step_075 (phase_029)
-- Related: [Community Support Progra... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Requires [[LOC00134_Dungeons_Location_135]]
+- See also: [[QUEST0022_In_Search_of_Justice]]
+- Originates from [[SPELL00066_Nature_Spell_67]]
+- See also: [[Community Support Progra... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Connects to [[EVENT00058_Political_Event_59
 - Related: [Player Notes (02_Worldbuilding)]]
 - See also: [[Quest - The Siren's Price_1 (01_Adventures)
 - Originates from [QUEST00121_Side_Quest_122]]
 - Leads to [[Transformation Facilities
 - Originates from [step_011 (phase_011)]]
-- Affected by [[Prince Caelum Stormwright
-- See also: [step_048]]
+- Affected by [[Prince Caelum Stormwright]]
 - Requires [[Symbol Heraldry the Deepwatch Guard V1 the Deepwatch Guard.svg
 - Influences [ENC00033_Combat_Encounter_34]]
-- Leads to [[ENC00251_Social_Encounter_252
-- Connects to [FAC00034_Cults_35]]
-- Requires [[step_068 (phase_006)
-- Connects to [MON00166_Undead_Creature_167]]
+- Leads to [[ENC00251_Social_Encounter_252]]
+- Requires [[MON00166_Undead_Creature_167]]
 - Related: [[step_032 (phase_025)
 - Originates from [step_035]]
 - Influences [[Ring of Force Resistance Xdmg
 - Parallels [step_071 (phase_023)]]
 - Affected by [[Skyfall Observatory 2
 - Requires [Elemental Attunement]]
-- Originates from [[System Operator Tide Watchwright (D&D_References)
-- Originates from [step_093]]
+- Originates from [[System Operator Tide Watchwright (D&D_References)]]
 - Originates from [[QUEST00133_Main_Quest_134
 - Parallels [QUEST00103_Main_Quest_104]]
 - Compare with [[step_069 (phase_090)
 - Leads to [step_099 (phase_078)]]
-- Connects to [[Environmental Protection Specialist
-- Influences [step_028]]
+- Connects to [[Environmental Protection Specialist]]
 - Affected by [[List Spells Classes Horizon Walker Xge
 - See also: [Scene Scene Frozen Throne Coronation V2 Frozen Throne Coronation.svg]]
 - Connects to [[Portal Terminal Central
 - Influences [twinned-spell-xphb (optional-features)]]
-- Affected by [[magma-mephit-xmm
-- Leads to [Information Broker Whisper Goldtongue]]
+- Affected by [[Information Broker Whisper Goldtongue]]
 - Influences [[step_081 (phase_016)
 - Compare with [Assets Locations Location City Tide Risktaker Tide Risktaker.svg]]
-- Originates from [[Social Architect Luna Newdawn
-- Affected by [step_023]]
+- Originates from [[Social Architect Luna Newdawn]]
 - Connects to [[Scholar Temporal Chronos 2
 - Parallels [Portrait NPC Parliament Loyalists V1 Parliament Loyalists.svg]]
 - Related: [[step_021
 - Connects to [step_095 (phase_062)]]
-- Compare with [[NPC00188_Hilda_Grimholt
-- Affected by [step_092]]
+- Compare with [[NPC00188_Hilda_Grimholt]]
 - Related: [[step_015
 - See also: [EVENT00095_Political_Event_96]]
 - Parallels [[ITEM00304_Blessed_Staff_of_Accuracy
 - Affected by [Quest - The Silver Revolution_1 (01_Adventures)]]
-- Related: [[EVENT00092_Political_Event_93
-- Affected by [Tide Welcomeheart (D&D_References)]]
+- Related: [[Tide Welcomeheart (D&D_References)]]
 - Leads to [[Location City Courier Ripplestone V1 Courier Ripplestone.svg
 - Requires [LOC00213_Towns_Location_214]]
-- Parallels [[step_048 (phase_100)
-- Affected by [ENC00182_Environmental_Encounter_183]]
+- Parallels [[ENC00182_Environmental_Encounter_183]]
 - Compare with [[Well Made Tapestry That Is 10 Feet by 10
 - Leads to [NPC00255_Caelum_Jadeclaw]]
 - Leads to [[Revenant Xmm
@@ -236,8 +222,7 @@ publish: false --- # 🎉 Complete Lean Improvements Report Generated: ${new Dat
 - Originates from [ITEM01111_Lesser_Salve_of_Vigor]]
 - Influences [[Scepter of Winter's Command 2
 - Requires [ITEM01005_Refined_Crystal_of_Fortune]]
-- Compare with [[Goristro Xmm
-- Compare with [Master Craftsman Hydros]]
+- Compare with [[Master Craftsman Hydros]]
 - See also: [[War Machine Assembly Halls
 - Related: [ITEM00313_Frost_Crossbow_of_Power]]
 - Requires [[step_083 (phase_009)]]

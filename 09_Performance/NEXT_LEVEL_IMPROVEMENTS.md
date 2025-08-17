@@ -157,8 +157,7 @@ Following magic item guidelines (WWT p.135-136):
 ## Connections
 
 - Originates from [Assets Locations Location City the Porters Union the Porters Union.svg]]
-- Parallels [[layers-of-pandemonium-xdmg (tables)
-- Leads to [Economic Development Director Carmen Commerc]]
+- Parallels [[Economic Development Director Carmen Commerc]]
 - Compare with [[Assets Locations Location City Stormwatch Keep V1 Stormwatch Keep.svg
 - Parallels [Character_Creation]]
 - Compare with [[Professor Aldwin Cleartext
@@ -169,8 +168,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [teleportation-circle (bastions)]]
 - Parallels [[Technology Time Stream Analyzers
 - Originates from [The Ancient Nobility (D&D_References)]]
-- See also: [[Identity Storage Vault (D&D_References)
-- Related: [10-combat#Two-Weapon Fighting]]
+- See also: [[Identity Storage Vault (D&D_References)]]
 - Related: [[Spare the Dying Xphb
 - Influences [goblin-vgm (races)]]
 - Leads to [[step_093 (phase_019)
@@ -179,10 +177,8 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [Truth Serums]]
 - Compare with [[Control Weather Xphb
 - Requires [Assets Locations Location City Shadow Merchant Riptide V1 Shadow Merchant Riptide.svg]]
-- Leads to [[MON00098_Constructs_Creature_99
-- Connects to [NPC01079_Faelyn_Oakenshield_the_Broken]]
-- Requires [[Merrenoloth Mpmm
-- Parallels [silver-dragon (legendary-group)]]
+- Leads to [[NPC01079_Faelyn_Oakenshield_the_Broken]]
+- Requires [[silver-dragon (legendary-group)]]
 - Affected by [[NPC00368_Vesper_Thornweave_the_Cunning
 - Compare with [human-names-english-female-xge (tables)]]
 - Related: [[Dagger of Venom Xdmg
@@ -199,22 +195,18 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [Wand of Binding Xdmg]]
 - See also: [[Regional Training Outposts
 - Parallels [Creature Creature Violet Fungus Xmm V1 Violet Fungus Xmm.png]]
-- Affected by [[step_038
-- Requires [The Depth-Mad Priest, Curator Deep-Voice Thren]]
+- Affected by [[The Depth-Mad Priest, Curator Deep-Voice Thren]]
 - Parallels [[norse-heimdall (deities)
 - Affected by [The Primordial Vaults]]
 - Connects to [[Races (Homebrew)
 - Compare with [Gray Render Mpmm]]
-- Parallels [[kuo-toa-monitor-xmm
-- Compare with [Duke Aldric Blackwater (D&D_References)]]
-- Compare with [[Abyssal Steel
-- Requires [Secret Vault Beneath Throne (D&D_References)]]
+- Parallels [[Duke Aldric Blackwater (D&D_References)]]
+- Compare with [[Secret Vault Beneath Throne (D&D_References)]]
 - Related: [[Reality Protection
 - Compare with [step_028 (phase_052)]]
 - Parallels [[Location City the Pressure Forges V1 the Pressure Forges.svg
 - See also: [Dragonlance Paladine Phb]]
-- Compare with [[LORE0011_Legend_of_the_Lost_City
-- Affected by [The Eternal Flame]]
+- Compare with [[LORE0011_Legend_of_the_Lost_City]]
 - Compare with [[Portrait NPC Admiral Lady Cassandra Stormwind V1 Admiral Lady Cassandra Stormwind.svg
 - Originates from [step_085]]
 - Affected by [[heavy-armor-master-xphb (feats)
@@ -229,12 +221,10 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [Assets Locations Location City the Last Words V1 the Last Words.svg]]
 - Leads to [[step_009
 - See also: [ITEM00414_Mithril_Chain_Mail_of_Fortitude]]
-- Originates from [[Shadow Separation Mechanics
-- Related: [MON00111_Constructs_Creature_112]]
+- Originates from [[MON00111_Constructs_Creature_112]]
 - Compare with [[SHOP00060_Specialty_Shop_61
 - Affected by [Aquabyssos World Overview#The Void Touched]]
-- Related: [[The Umbral Council
-- Connects to [Random Encounter Tables - Aquabyssos (Lore)]]
+- Related: [[Random Encounter Tables - Aquabyssos (Lore)]]
 - Leads to [[step_065 (phase_066)
 - Leads to [flail-snail-mpmm (elemental)]]
 - Affected by [[Giant Fly Xdmg
@@ -243,16 +233,13 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [step_076 (phase_083)]]
 - Affected by [[step_045 (phase_016)
 - Influences [The Whispering Expanse.md]]
-- Related: [[step_082 (phase_092)
-- Influences [NPC01788_Gavril_Underhill_the_Mystic]]
+- Related: [[NPC01788_Gavril_Underhill_the_Mystic]]
 - Compare with [[ITEM00897_Void-touched_Tome_of_Eternity
 - Connects to [LOC00134_Wilderness_Location_135]]
-- See also: [[Crystal Cleansing Brotherhood (D&D_References)
-- Compare with [Ceremony Xge]]
+- See also: [[Crystal Cleansing Brotherhood (D&D_References)]]
 - Requires [[Assets Locations Location City Temple District V1 Temple District.svg
 - Connects to [step_032 (phase_080)]]
-- See also: [[step_029
-- Compare with [NPC01919_Corvus_Youngblood_the_Swift]]
+- See also: [[NPC01919_Corvus_Youngblood_the_Swift]]
 - Originates from [[Rally Xphb
 - Leads to [Bestial Spirit Xphb]]
 - Parallels [[step_088 (phase_047)]]

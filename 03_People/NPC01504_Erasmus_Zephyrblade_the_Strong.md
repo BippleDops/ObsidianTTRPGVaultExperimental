@@ -161,38 +161,25 @@ Knows secret about major threat
 - Special moves
 
 ## See Also
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC00920_Malakai_Ravenheart_the_Guardian]]
-- [[NPC01041_Thalia_Dawnstrider_the_Lost
-- [NPC01247_Xander_Zephyrblade_the_Risen]]
-- [[NPC00133_Lyanna_Oakenshield_the_Seeker
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[NPC00749_Xander_Quicksilver
-- [NPC01761_Idris_Moonshadow_the_Broken]]
-- [[NPC00162_Xander_Thornweave
-- [NPC00739_Gavril_Ashford_the_Bold]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [NPC01989_Erasmus_Xendar_the_Strong]]
-- [[NPC01276_Erasmus_Keenblade_the_Wanderer
-- [NPC00069_Thalia_Brightblade_the_Guardian]]
-- [[NPC00515_Baelor_Crystalbrook_the_Seeker
-- [NPC00415_Gareth_Winterborn_the_Bold]]
-- [[NPC00190_Cedric_Silverleaf
-- [NPC00815_Baelor_Thornweave_the_Swift]]
-- [[Party_Inventory
-- [NPC01994_Orion_Brightblade_the_Risen]]
-- [[Quarantine_Notice_Crystal_Plagu
-- [13 Conditions]]
-- [[Submersible_Schematic_Pressure_Gate_Scou
-- [09 Adventuring]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC00739_Gavril_Ashford_the_Bold]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
 - [[11 Rules Glossary
 - [Parliament of Shadows Player Guide.md]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -205,8 +192,7 @@ Knows secret about major threat
 
 ## Connections
 
-- Parallels [[Guildmaster Victoria Silvertongue
-- Influences [step_025 (phase_072)]]
+- Parallels [[Guildmaster Victoria Silvertongue]]
 - Affected by [[step_024 (phase_046)
 - See also: [Deep Oracle (Lore)]]
 - Related: [[ENC00146_Environmental_Encounter_147
@@ -218,38 +204,31 @@ Knows secret about major threat
 - Requires [Portrait NPC Lord Aldric Thornwhisper Lord Aldric Thornwhisper.svg]]
 - Connects to [[ITEM00201_Cursed_Staff_of_Accuracy
 - Originates from [Ioun Stone Awareness Xdmg]]
-- Originates from [[[Pressure Guard Steelwall 2]]
-- Parallels [[[Temporal Rescue 2]]
+- Originates from [[Pressure Guard Steelwall 2]]
+- Parallels [[Temporal Rescue 2]]
 - See also: [[step_009 (phase_070)
 - Requires [devourer-mpmm (undead)]]
-- See also: [[The Eternal Senate
-- See also: [ENC00050_Social_Encounter_51]]
+- See also: [[ENC00050_Social_Encounter_51]]
 - Leads to
 - Leads to [[Deep Metals Consortium
 - Related: [Shield Xphb (spells)]]
 - Influences [[step_069 (phase_020)
 - See also: [step_002 (phase_096)]]
-- Leads to [[[Amnesia Gallery 2]]
-- Leads to [[Vehicle_Customization_Progression
-- Influences [step_013 (phase_044)]]
-- Affected by [[NPC00741_Alaric_Dawnstrider_the_Redeemed
-- Affected by [NPC01022_Faelyn_Darkwater_the_Mystic]]
+- Leads to [[Amnesia Gallery 2]]
+- Leads to [[Vehicle_Customization_Progression]]
+- Affected by [[NPC00741_Alaric_Dawnstrider_the_Redeemed]]
 - Affected by [[step_045 (phase_094)
 - Compare with [Order of the Silent Depths]]
-- Compare with [[NPC01786_Zephyr_Jadeclaw_the_Mystic
-- Leads to [Dawn War Sehanine Dmg]]
+- Compare with [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
 - Leads to [[Quest - The Moderate Path
 - Originates from [The Depth Chart]]
 - Parallels [[ITEM00594_Enchanted_Leather_of_Resistance
 - Requires [ENC00214_Social_Encounter_215]]
-- Related: [[Darkquill's Rare Books (D&D_References)
-- See also: [chunk-of-meat (items)]]
+- Related: [[Darkquill's Rare Books (D&D_References)]]
 - Compare with [[Create_New_Session.png
 - Related: [monsters-by-habitat-any-habitat-monsters-xmm (tables)]]
-- Compare with [[Dr. Melissa Healwright
-- Influences [CLAUDE]]
-- Compare with [[step_002 (phase_041)
-- Leads to [SPELL00072_Arcane_Spell_73]]
+- Compare with [[Dr. Melissa Healwright]]
+- Compare with [[SPELL00072_Arcane_Spell_73]]
 - Related:
 - See also: [[Justice Shadowing
 - Parallels [Grasp of Hadar Xge]]
@@ -281,13 +260,11 @@ Knows secret about major threat
 - Compare with
 - See also: [[portrait-npc-the-biomancers-the-biomancers.svg
 - Related: [Mind Surgeon Dr. Forget-Me-Always]]
-- See also: [[Shadow Citizenship Act (D&D_References)
-- Influences [Chef Xphb]]
+- See also: [[Shadow Citizenship Act (D&D_References)]]
 - Leads to [[step_031 (phase_097)
 - See also: [step_091 (phase_075)]]
-- Affected by [[[Wandering Prophet Coral Stormrider (D&D_References)]]
-- Related: [[The Contemplation Abyss 2
-- Affected by [FAC00049_Cults_50]]
+- Affected by [[Wandering Prophet Coral Stormrider (D&D_References)]]
+- Related: [[The Contemplation Abyss 2]]
 - Influences [[step_096 (phase_020)
 - Compare with [[Assets Locations Location City [Divine Magic]] Divine Magic.svg]]
 - Leads to [[Colonial Administration 2
@@ -295,12 +272,11 @@ Knows secret about major threat
 - Requires
 - Affected by [[step_075 (phase_017)
 - Affected by [LORE00313_History_Entry_314]]
-- Originates from [[[[[Merchant Quarter]] Guildhalls]]
+- Originates from [[Merchant Quarter]] Guildhalls]]
 - Requires [[step_042 (phase_099)
 - Influences [Defense Captain Ironguard]]
 - Connects to
-- Parallels [[Admiral Cassandra Stormwind (D&D_References)
-- Connects to [step_002 (phase_023)]]
+- Parallels [[Admiral Cassandra Stormwind (D&D_References)]]
 - Related: [[04_Resources_Assets_Locations_location-city-grief-overwhelming-syndrome-v1-grief-overwhelming-syndrome.svg
 - Influences
 - Parallels [[02_Worldbuilding_Places_[Aquabyssos]]_Prime]]

@@ -163,30 +163,21 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC01195_Gareth_Keenblade_the_Guardian
-- [NPC00307_Dara_Proudmore_the_Seeker]]
-- [[NPC01695_Ewan_Ashford_the_Fallen
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [NPC00461_Branwen_Proudmore_the_Strong]]
-- [[NPC01989_Erasmus_Xendar_the_Strong
-- [Archdruid Thornweaver]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [NPC00644_Nerys_Dawnstrider_the_Wanderer]]
-- [[Player_Comfort_Check
-- [Combat_Encounter_Analysis]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[Combat_Encounter_Analysis]]
 - [[05 Personality and Background
 - [NPC_Relationship_Web.png_1 (03_People)]]
-- [[NPC00501_Orion_Nightfall_the_Broken
-- [NPC01786_Zephyr_Jadeclaw_the_Mystic]]
-- [[NPC01943_Xander_Proudmore_the_Fallen
-- [NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -203,22 +194,17 @@ Modifications:
 - Compare with [[NPC01838_Cedric_Brightblade_the_Swift
 - See also:
 - Requires [Marcus Depthwar (D&D_References)]]
-- Related: [[Captain Storm Tideguard (D&D_References)
-- See also: [Revenant Xmm]]
-- Requires [[Seventh Shard of Unity
-- Originates from [Aid Xphb]]
+- Related: [[Captain Storm Tideguard (D&D_References)]]
+- Requires [[Seventh Shard of Unity]]
 - Affected by [[Campaign_Path.png_1 (01_Adventures)
 - Leads to [ENC00028_Environmental_Encounter_29]]
 - Affected by [[step_045 (phase_023)
 - See also: [ITEM01173_Pure_Crystal_of_Fortune]]
-- Parallels [[Master Harvest Engineer Kelp Deepso
-- See also: [step_095 (phase_032)]]
-- Connects to [[step_090 (phase_034)
-- Compare with [High Oracle Serenity Deepcall]]
+- Parallels [[Master Harvest Engineer Kelp Deepso]]
+- Connects to [[High Oracle Serenity Deepcall]]
 - Influences [[LOC00005_Dungeons_Location_6
 - Originates from [allosaurus]]
-- See also: [[Template_StarSystem_Placeholder.png_2 (09_Templates)
-- Originates from [LOC00114_Dungeons_Location_115]]
+- See also: [[Template_StarSystem_Placeholder.png_2 (09_Templates)]]
 - Parallels
 - Related:
 - Requires [[step_043 (phase_054)
@@ -235,8 +221,7 @@ Modifications:
 - See also: [[Assets Locations Location City [Whisper Translation]] V1 Whisper Translation.svg]]
 - Affected by [[shrieker-fungus-xmm
 - Leads to [Relics Common Xdmg]]
-- Related: [[Symbol Heraldry Tha... Related To: Local Political Structure Connected Plots: to Be Developed
-- See also: [Mace of Terror Xdmg]]
+- Related: [[Symbol Heraldry Tha... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Parallels [[step_007 (phase_047)
 - Leads to [sanctum]]
 - See also: [[Portrait NPC Quest the Symbiotic Sacrament Quest the Symbiotic Sacrament.svg
@@ -247,8 +232,7 @@ Modifications:
 - Originates from [step_060 (phase_034)]]
 - Affected by [[step_051 (phase_042)
 - Influences [step_014 (phase_080)]]
-- Requires [[step_068 (phase_051)
-- Parallels [Lady Pelagic (D&D_References)]]
+- Requires [[Lady Pelagic (D&D_References)]]
 - Influences [[Session Planning Guide (02_Worldbuilding)
 - Related: [Weather_And_Season (D&D_References)]]
 - Related: [[nonhuman-maglubiyet (deities)
@@ -263,8 +247,7 @@ Modifications:
 - Influences
 - Parallels [List Spells Races Gnome Deep Dmg]]
 - See also: [[Location City [Temporal Viewing Chambers Temporal Viewing Chambers.svg]]
-- Parallels [[step_063 (phase_096)
-- Leads to [SPELL00102_Divine_Spell_103]]
+- Parallels [[SPELL00102_Divine_Spell_103]]
 - Leads to [[Dangerous Waters
 - Requires [The Final Sealing]]
 - See also: [[Lady Serena Goldwave
@@ -282,8 +265,7 @@ Modifications:
 - Affected by [[Location City [Deep Watchfulrest Deep Watchfulrest.svg]]
 - Related: [[Physical Variations Yuan Ti Eye Color Vgm
 - Parallels [Border Patrol Unit]]
-- Influences [[Quest_Tree_System
-- Originates from [Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- Influences [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
 - Related: [[step_100 (phase_022)
 - Parallels [Dungeon Dressing General Furnishings and]]
 - Affected by
@@ -294,12 +276,10 @@ Modifications:
 - Connects to [[Location City [Goldspire Confederacy]] Goldspire Confederacy.svg]]
 - See also: [[cape-of-the-mountebank-xdmg (items)
 - Requires [The Void Conspiracy (D&D_References)]]
-- Parallels [[celestial
-- Influences [LOC00235_Cities_Location_236]]
+- Parallels [[LOC00235_Cities_Location_236]]
 - Requires
 - Parallels [[Portrait NPC Weaponsmith [Captain Marcus Sharpedge V1 Weaponsmith Captain Marcus Sharpedge.svg]]
-- Requires [[LOC00205_Wilderness_Location_206
-- See also: [Brass Dragon Xmm]]
+- Requires [[LOC00205_Wilderness_Location_206]]
 
 ## Visual References
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png

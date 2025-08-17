@@ -79,7 +79,7 @@ The party arrives at [[Crystallium to find the entire continent vibrating at a f
 - Everyone in Crystallium shares thoughts when harmonized
 - The frequency is actually a language
 - It's not calling shadows—it's calling their creators
-- [[[The Conductor]] is here, orchestrating the resoce **[[Resoce Mechanics**:
+- [[The Conductor]] is here, orchestrating the resoce **[[Resoce Mechanics**:
 - **WIS Save **DC 15**** each hour or begin harmonizing
 - Harmonized characters share all thoughts
 - Speaking lies causes `dice: 1d6` psychic damage
@@ -116,12 +116,12 @@ The party arrives at [[Crystallium to find the entire continent vibrating at a f
 - **Harmonize**: Join the collective to fight from within ## 🔍 Secrets & Clues
 
 1. [The Singers]] Beyond have consumed twelve realities already
-2. [[[Shadow Duchess Nyx]] knew about Singers all along
+2. [[Shadow Duchess Nyx]] knew about Singers all along
 3. The [[[The Scattered Emperor]] fragmented to avoid Singer detection
 4. Every shadow is a survival instinct made manifest
-5. [[The Crystal Festival in [Aethermoor]] was Singer reconnaissance
+5. [[The Crystal Festival]] was Singer reconnaissance
 6. Children born post-Cataclysm can't be seen by Singers
-7. The [[[Deep Mother]] is the last Singer trapped in this reality
+7. The [[Deep Mother]] is the last Singer trapped in this reality
 8. Harmonization is irreversible after 24 hours
 9. The harvest was always about survival, not conquest
 10. There's a way to hide reality itself from Singers ### Marina's Fate
@@ -134,16 +134,16 @@ Regardless of which Marina survived:
 
 **Summary**: 🎪 [Cliffhanger Ending]] - Key information at a glance.
 
-As the party makes their choice about the resoce, reality cracks. Through the fissures, they see them—the [[Singers Beyond. Incomprehensible entities of living sound that exist in spaces between spaces. One turns its attention to Aquabyssos. [The Prophet]] gasps: "It sees us. The camouflage has failed. We have minutes, not hours." Suddenly, every shadow in Aquabyssos screams in unison—not in fear, but in recognition. [[[Shadow Duchess Nyx]] materializes: "The shadows remember. They were here before. They fought the Singers once and lost. But this time..." She turns to the party. "This time we have something we didn't before. We have humans who can think like shadows and shadows who can feel like humans. The harvest isn't our doom—it's our weapon." The ocean above begins to boil as something massive descends through dimensions toward them. Marina (whichever version) steps forward: "I know what I have to do. I'm sorry I didn't tell you sooner. I'm not from here. I'm from the last reality the Singers consumed. I arrived at warn you, but I fell in love with this world. With all of you." She begins to resonate at a frequency that makes reality blur: "Get to the [[[Mourning Depths]]. [[The Sorrowmaster has the weapon. Tell them the Refugee sends her regards. Tell them it's time for the [Grief Bomb]]." --- ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
+As the party makes their choice about the resoce, reality cracks. Through the fissures, they see them—the [[Singers Beyond. Incomprehensible entities of living sound that exist in spaces between spaces. One turns its attention to Aquabyssos. [The Prophet]] gasps: "It sees us. The camouflage has failed. We have minutes, not hours." Suddenly, every shadow in Aquabyssos screams in unison—not in fear, but in recognition. [[Shadow Duchess Nyx]] materializes: "The shadows remember. They were here before. They fought the Singers once and lost. But this time..." She turns to the party. "This time we have something we didn't before. We have humans who can think like shadows and shadows who can feel like humans. The harvest isn't our doom—it's our weapon." The ocean above begins to boil as something massive descends through dimensions toward them. Marina (whichever version) steps forward: "I know what I have to do. I'm sorry I didn't tell you sooner. I'm not from here. I'm from the last reality the Singers consumed. I arrived at warn you, but I fell in love with this world. With all of you." She begins to resonate at a frequency that makes reality blur: "Get to the [[Mourning Depths]]. [[The Sorrowmaster has the weapon. Tell them the Refugee sends her regards. Tell them it's time for the [Grief Bomb]]." --- ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
 
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes ## [[Related Notes - [[[Similar Topic]] 1]]
 
-- [[[Contrasting Approach]]
-- [[[Advanced Version]]
-- [[[Historical Context]] ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## 12_Research [Specific Content]] Contextual improvement based on 12_Research ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## References - [[[The Resoce]] Prophet]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]] ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## 12_Research [Specific Content]] Contextual improvement based on 12_Research ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## References - [[[The Resoce]] Prophet]]
 
 ## Notes
 
@@ -170,7 +170,7 @@ As the party makes their choice about the resoce, reality cracks. Through the fi
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

@@ -73,7 +73,7 @@ world: Aquabyssos
 
 --- ## 🔧 [Deep Evaluation]] Improvements *20 targeted improvements identified* ### [[Connection Improvements - Add cross-references to related notes ### [Enhancement Improvements]] - Add 12_Research-specific enhancement ## Into the Heart of Sorrow > *"In the deepest depths, sorrow becomes power, power becomes purpose, and purpose becomes sacrifice."* ## 🎬 [[Strong Start
 
-The party descends into [[[The Mourning]] Depths]] to find it transformed—instead of a city of sorrow, it's erupting with impossible joy. Citizens laugh while crying blood, dance while their bodies decay, celebrate while reality collapses. The [[[The Sorrowmaster]] floats above, glowing with paradoxical happiness: "I've discovered the ultimate sorrow—the grief of never being able to grieve again. Help me. Kill my joy before it destroys everything." ### Scene 1: [[The Cathedral of [Sighs Inverted]]
+The party descends into [[[The Mourning]] Depths]] to find it transformed—instead of a city of sorrow, it's erupting with impossible joy. Citizens laugh while crying blood, dance while their bodies decay, celebrate while reality collapses. The [[The Sorrowmaster]] floats above, glowing with paradoxical happiness: "I've discovered the ultimate sorrow—the grief of never being able to grieve again. Help me. Kill my joy before it destroys everything." ### Scene 1: [[The Cathedral of [Sighs Inverted]]
 
 **Location**: Cathedral transformed into [[Laughing Halls **Situation**: Navigate through forced joy plague **Conflict**: Happiness is literally deadly here **Discoveries**:
 - Joy and sorrow are two sides of Singer digestion
@@ -179,7 +179,7 @@ Each faction must sacrifice something:
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

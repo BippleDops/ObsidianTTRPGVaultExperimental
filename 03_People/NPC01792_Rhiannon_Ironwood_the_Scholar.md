@@ -180,50 +180,23 @@ Modifications:
 > Additional context or lore
 
 ## See Also
-- [[NPC00917_Brenna_Oakenshield_the_Seeker
-- [NPC00174_Aldric_Silverleaf_the_Fallen]]
-- [[NPC01687_Aldric_Youngblood_the_Cunning
-- [NPC00300_Urien_Zephyrblade]]
-- [[NPC01841_Malakai_Nightfall_the_Wise
-- [NPC00058_Elric_Nightfall]]
-- [[NPC01028_Erasmus_Darkwater_the_Strong
-- [NPC01367_Lyanna_Xendar_the_Wise]]
-- [[NPC01017_Vesper_Keenblade_the_Risen
-- [NPC01682_Vesper_Blackstone_the_Guardian]]
-- [[NPC01858_Drusilla_Stormwind_the_Cunning
-- [NPC01624_Corvus_Silverleaf_the_Redeemed]]
-- [[NPC00260_Wynne_Underhill_the_Fallen
-- [Ambassador Nerida Deepcurrent]]
-- [[NPC00207_Ysara_Ravenheart
-- [NPC01911_Alaric_Oakenshield_the_Mystic]]
-- [[NPC00362_Pyria_Stormwind_the_Wise
-- [NPC01974_Thalia_Zephyrblade_the_Lost]]
-- [[NPC00250_Delara_Darkwater_the_Fallen
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[NPC01789_Vesper_Proudmore_the_Mystic
-- [NPC00515_Baelor_Crystalbrook_the_Seeker]]
-- [[NPC01994_Orion_Brightblade_the_Risen
-- [NPC00860_Gavril_Winterborn_the_Swift]]
-- [[NPC00552_Malakai_Stormwind_the_Seeker
-- [NPC01301_Jorah_Underhill_the_Broken]]
-- [[NPC01247_Xander_Zephyrblade_the_Risen
-- [Player_Portal.md]]
-- [[Parliamentary_Voting_Guide
-- [Player_Feedback_Form.md]]
-- [[NPC00670_Xander_Goldleaf_the_Scholar
-- [MOC_Items]]
-- [[NPC00124_Delara_Ravenheart_the_Redeemed
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[Parliamentary_Voting_Guide]]
+- [[NPC00670_Xander_Goldleaf_the_Scholar]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -232,8 +205,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -268,14 +240,11 @@ Following magic item guidelines (WWT p.135-136):
 
 - Compare with [[EVENT00082_Natural_Event_83
 - Requires [LORE00326_Prophecies_Entry_327]]
-- Affected by [[NPC01577_Orion_Moonshadow_the_Seeker
-- Compare with [New_Ship_Template]]
-- Originates from [[The First King's Diary (D&D_References)
-- See also: [step_057 (phase_053)]]
+- Affected by [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- Originates from [[The First King's Diary (D&D_References)]]
 - Requires [[LOC00164_Dungeons_Location_165
 - Compare with [Armor of the First Deep King]]
-- Influences [[step_097 (phase_074)
-- Compare with [NPC00973_Jorah_Jadeclaw_the_Risen]]
+- Influences [[NPC00973_Jorah_Jadeclaw_the_Risen]]
 - Originates from [[Portrait NPC Captain Morgrim Lastvessel V2 Captain Morgrim Lastvessel.svg
 - See also: [step_043 (phase_016)]]
 - Related: [[LOC00253_Cities_Location_254
@@ -289,8 +258,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [Creature Creature Undead Spirit Xphb V2 Undead Spirit Xphb.png]]
 - Requires [[ITEM00740_Infernal_Orb_of_the_Gods
 - Influences [QUEST0096_Investigate_the_Cult]]
-- Requires [[Memory Tides 2
-- Parallels [LOC00131_Towns_Location_132]]
+- Requires [[LOC00131_Towns_Location_132]]
 - Requires [[LOC00218_Dungeons_Location_219
 - Connects to [LORE00098_Prophecies_Entry_99]]
 - Influences [[gith-tables-githyanki-names-male-mtf (tables)
@@ -305,32 +273,24 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [sphere-of-annihilation-xdmg (items)]]
 - Originates from [[Swarm of Venomous Snakes Xmm
 - Leads to [SPELL0020_Shadow_Curse]]
-- Compare with [[Emergency Response Stations (D&D_References)
-- Connects to [lifedrinker-xphb (optional-features)]]
+- Compare with [[Emergency Response Stations (D&D_References)]]
 - Affected by [[Quest - Elite Selection
 - Parallels [Ring of Animal Influence Xdmg]]
-- Leads to [[step_045 (phase_080)
-- Parallels [SPELL00060_Divine_Spell_61]]
-- Affected by [[NPC00286_Zephyr_Zephyrblade
-- Related: [Potion of Heroism Xdmg]]
+- Leads to [[SPELL00060_Divine_Spell_61]]
+- Affected by [[NPC00286_Zephyr_Zephyrblade]]
 - Parallels [[step_093 (phase_047)
 - Affected by [walloping-ammunition-xdmg (items)]]
 - Parallels
-- Related: [[NPC01015_Gareth_Brightblade_the_Guardian
-- Influences [step_091 (phase_015)]]
+- Related: [[NPC01015_Gareth_Brightblade_the_Guardian]]
 - Compare with [[The Ghost Walker
 - Influences [[Assets Locations [[Location City [Archaeological Discoveries]] Archaeological Discoveries.svg]]]]
 - Originates from [[potion-of-cloud-giant-strength-xdmg (items)
 - Related: [ITEM00323_Blazing_Spear_of_the_Ancients]]
 - Leads to
-- Originates from [[Duchess Cordelia Pearlheart
-- See also: [step_019 (phase_029)]]
-- See also: [[Concentration
-- See also: [Economic_Systems (D&D_References)]]
-- Connects to [[DUN00194_Dungeon_195
-- Compare with [Shadow Faction Representative 2]]
-- Influences [[EVENT00093_Natural_Event_94
-- Originates from [Faction_War_Campaign_Act_Structure (D&D_Sourcebooks)]]
+- Originates from [[Duchess Cordelia Pearlheart]]
+- See also: [[Economic_Systems (D&D_References)]]
+- Connects to [[Shadow Faction Representative 2]]
+- Influences [[Faction_War_Campaign_Act_Structure (D&D_Sourcebooks)]]
 - Leads to [[Shadow Senate Leaders 2
 - Related:
 - Affected by [The People's Movement 2]]
@@ -343,15 +303,13 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [04_Resources_Assets_Portraits_portrait-npc-captain-marina-saltborn-captain-marina-saltborn.svg_Quick_Ref]]
 - See also: [[step_086 (phase_051)
 - Influences [Portal Terminals]]
-- Leads to [[QUEST00219_Personal_Quest_220
-- Originates from [NPC01742_Cedric_Youngblood_the_Guardian]]
+- Leads to [[NPC01742_Cedric_Youngblood_the_Guardian]]
 - Connects to [[step_026 (phase_029)
 - Related: [step_067 (phase_100)]]
-- Requires [[[Surface Trade Ports (D&D_References)]]
+- Requires [[Surface Trade Ports (D&D_References)]]
 - Parallels [[QUEST00072_Main_Quest_73
 - Affected by [Scene Scene Crystal Trench Aurora V2 Crystal Trench Aurora.png]]
-- See also: [[README
-- Requires [annis-hag-vgm (legendary-group)]]
+- See also: [[annis-hag-vgm (legendary-group)]]
 - Requires [[INV-002 2
 - Influences
 - Influences [[Location City [Palace Guard Captain Neutralis]] Palace Guard Captain Neutralis.png]]
@@ -359,10 +317,9 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [SPELL00159_Arcane_Spell_160]]
 - Originates from [[Thalassius the Wise 2
 - Affected by [QUEST00315_Side_Quest_316]]
-- Influences [[Location City [[[Kelp Forest Constituencies]] Kelp Forest Constituencies.svg]]
-- Compare with [[[[Keeper [Finn Goodtide]] 2]]
-- See also: [[NPC01033_Rhiannon_Voidwalker_the_Seeker
-- Related: [Shadow Independence Levels]]
+- Influences [[Kelp Forest Constituencies]] Kelp Forest Constituencies.svg]]
+- Compare with [[Finn Goodtide]] 2]]
+- See also: [[NPC01033_Rhiannon_Voidwalker_the_Seeker]]
 - Parallels [[step_063 (phase_051)
 - Leads to
 - Related: [[Quest - [The Lost Expedition]]_1 (01_Adventures)]]

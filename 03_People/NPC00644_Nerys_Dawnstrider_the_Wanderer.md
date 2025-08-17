@@ -153,46 +153,27 @@ Discovered something valuable
 - Special moves
 
 ## See Also
-- [[NPC01757_Nerys_Silverleaf_the_Strong
-- [NPC_Name_Generator.png]]
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [NPC00655_Jorah_Darkwater_the_Seeker]]
-- [[NPC01849_Kaelen_Silverleaf_the_Scholar
-- [NPC00307_Dara_Proudmore_the_Seeker]]
-- [[NPC01290_Pyria_Ashford_the_Broken
-- [NPC00821_Zephyr_Voidwalker_the_Cunning]]
-- [[NPC00812_Kaelen_Jadeclaw_the_Seeker
-- [NPC00283_Kaelen_Zephyrblade_the_Bold]]
-- [[NPC01301_Jorah_Underhill_the_Broken
-- [Sage Elara]]
-- [[NPC00469_Delara_Oakenshield_the_Seeker
-- [NPC01767_Alaric_Ravenheart_the_Risen]]
-- [[NPC00623_Dara_Oakenshield_the_Wanderer
-- [NPC01687_Aldric_Youngblood_the_Cunning]]
-- [[NPC01994_Orion_Brightblade_the_Risen
-- [NPC01870_Lyanna_Silverleaf_the_Cunning]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [NPC01312_Alaric_Darkwater_the_Fallen]]
-- [[NPC01126_Malakai_Oakenshield_the_Fallen
-- [NPC01502_Urien_Underhill_the_Scholar]]
-- [[NPC01012_Solas_Darkwater_the_Strong
-- [NPC01911_Alaric_Oakenshield_the_Mystic]]
-- [[NPC00785_Ysara_Grimholt_the_Mystic
-- [NPC00515_Baelor_Crystalbrook_the_Seeker]]
-- [[Measurement_Guide_Depth_and_Pressur
-- [Calendar_Conversions_Realm_Window]]
-- [[NPC00133_Lyanna_Oakenshield_the_Seeker
-- [NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
 - [[Trade_Route_Chart_Port_Meridia
 - [Faction_Guide.md_1 (07_Player_Resources)]]
-- [[Welcome to Aquabyssos
-- [13 Conditions]]
-- [[Reputation_Tracker
-- [NPC00804_Xander_Frostwhisper_the_Cunning]]
-- [[11 Rules Glossary
-- [NPC00625_Kaelen_Brightblade_the_Redeemed]]
-- [[NPC00719_Orion_Hawthorne_the_Cunning
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[Welcome to Aquabyssos]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[NPC00719_Orion_Hawthorne_the_Cunning]]
 - [[Player_Portal.md
 -
 
@@ -217,57 +198,42 @@ Discovered something valuable
 - Influences [ITEM0008_Ancient_Shield_of_Power]]
 - Connects to [[step_064 (phase_019)
 - Compare with [Crystal Resonance Points]]
-- Requires [[Bexley
-- Leads to [The Integration Temple]]
+- Requires [[The Integration Temple]]
 - Influences [[LOC0061_SouthMarsh
 - Requires [Holy Avenger Xdmg]]
 - Leads to [[Chronomancer Paradox
 - Requires [ITEM01162_Distilled_Herb_of_Swiftness]]
 - Compare with [[Red Dragon Wyrmling Xmm
 - Connects to [step_076 (phase_057)]]
-- Parallels [[SPELL00099_Nature_Spell_100
-- Leads to [QUEST0098_The_Crystal_Cave_Invasion]]
-- Originates from [[NPC01946_Corvus_Dawnstrider_the_Scholar
-- See also: [Harmonic Defense Grid]]
-- Compare with [[Bio-Integration Researcher Coral Lifeshaper
-- Leads to [Constellation Codex (D&D_References)]]
-- Compare with [[LOC0056_OldVale
-- Leads to [Hidden Sanctuary (D&D_References)]]
+- Parallels [[QUEST0098_The_Crystal_Cave_Invasion]]
+- Originates from [[NPC01946_Corvus_Dawnstrider_the_Scholar]]
+- Compare with [[Bio-Integration Researcher Coral Lifeshaper]]
+- Compare with [[Hidden Sanctuary (D&D_References)]]
 - Originates from [[step_099 (phase_036)
 - Parallels [QUEST00256_Side_Quest_257]]
-- Related: [[Portrait NPC Duke... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Leads to [vampire-xmm (undead)]]
+- Related: [[Portrait NPC Duke... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Related: [[NPC00845_Drusilla_Ironforge_the_Bold
 - Originates from [Assets Locations Location City the Foundation Depths the Foundation Depths.svg]]
-- Connects to [[Lieutenant Loyalt
-- Affected by [03 Chapter 2 Creating a Character]]
+- Connects to [[03 Chapter 2 Creating a Character]]
 - Requires [[step_022 (phase_018)
 - Originates from [Armaments Common Xdmg]]
-- Compare with [[Religious Communities
-- Influences [NPC00310_Caelum_Goldleaf_the_Guardian]]
+- Compare with [[NPC00310_Caelum_Goldleaf_the_Guardian]]
 - Originates from [[ENC00078_Social_Encounter_79
 - Requires [Potion of Stone Giant Strength Xdmg]]
-- See also: [[D-201 Abyss Mirror Lake Player (Encounters)
-- See also: [Surface Contacts 2]]
-- Originates from [[step_100 (phase_097)
-- See also: [Reality Maintenance Department 2]]
+- See also: [[D-201 Abyss Mirror Lake Player (Encounters)]]
+- Originates from [[Reality Maintenance Department 2]]
 - Originates from [[Merfolk Wavebender Xmm
 - Affected by [step_093 (phase_012)]]
-- Related: [[Staff of the Magi Xdmg
-- Leads to [Dr. Siphon Gillwater (D&D_Statblocks)]]
-- Parallels [[ENC00217_Combat_Encounter_218
-- Requires [Regent Prism Goldwind]]
-- Affected by [[Philosopher-Noble Depth-Crown
-- See also: [Tide Risktaker]]
+- Related: [[Dr. Siphon Gillwater (D&D_Statblocks)]]
+- Parallels [[ENC00217_Combat_Encounter_218]]
+- Affected by [[Philosopher-Noble Depth-Crown]]
 - Influences
-- Originates from [[Plot Points
-- Connects to [Whisper-Touched William (D&D_References)]]
+- Originates from [[Whisper-Touched William (D&D_References)]]
 - Compare with [[Master Navigator Tide Storywright
 - Influences [potion-of-giant-strength-xdmg (items)]]
 - Requires [[step_011 (phase_032)
 - Requires [step_090 (phase_026)]]
-- Requires [[ENC00099_Environmental_Encounter_100
-- Connects to [step_032 (phase_041)]]
+- Requires [[ENC00099_Environmental_Encounter_100]]
 - Parallels [[step_023 (phase_023)
 - Leads to [Talisman of the Sphere Xdmg]]
 - Parallels [[step_026 (phase_095)
@@ -281,8 +247,7 @@ Discovered something valuable
 - Connects to
 - Compare with [[Demilich Xmm
 - Affected by [Portrait NPC Admiral Lady Cassandra Stormwind V2 Admiral Lady Cassandra Stormwind.svg]]
-- Affected by [[LORE00054_Prophecies_Entry_55
-- Compare with [Commerce Manager Fairdealin (D&D_References)]]
+- Affected by [[Commerce Manager Fairdealin (D&D_References)]]
 - Affected by [[ankheg-xmm (monstrosity)
 - Requires [step_095 (phase_060)]]
 - Related:
@@ -292,8 +257,7 @@ Discovered something valuable
 - Originates from [DUN00191_Dungeon_192]]
 - See also: [[Portrait NPC Quest the Siren S Price V1 Quest the Siren S Price.svg
 - Leads to [The Kelp Highways (D&D_References)]]
-- See also: [[Leviathan Prophet Thalassa
-- Requires [Chief Engineer Brass Voidwright 2]]
+- See also: [[Chief Engineer Brass Voidwright 2]]
 - See also: [[Depth's Embrace
 - Parallels [The Grand Archive]]
 - Requires [[Garden of Shadows
@@ -304,8 +268,7 @@ Discovered something valuable
 - Related: [location-city-temporal-rescue-temporal-rescue.svg]]
 - See also: [[heightened-spell-xphb (optional-features)
 - Influences [step_005 (phase_063)]]
-- Affected by [[ENC00363_Combat_Encounter_364
-- Affected by [Authenticity Verification (D&D_References)]]
+- Affected by [[Authenticity Verification (D&D_References)]]
 - Requires [[The Tempest Faithful
 - Compare with [portrait-npc-azure-shard-v2-azure-shard.svg]]
 - Connects to [[MON00093_Constructs_Creature_94

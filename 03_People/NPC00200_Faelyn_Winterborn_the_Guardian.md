@@ -154,54 +154,34 @@ Needs discrete help with family scandal
 - Special moves
 
 ## See Also
-- [[NPC00451_Malakai_Ravenheart_the_Broken
-- [NPC01301_Jorah_Underhill_the_Broken]]
-- [[NPC01483_Gavril_Zephyrblade_the_Fallen
-- [NPC00587_Idris_Youngblood_the_Strong]]
-- [[NPC00307_Dara_Proudmore_the_Seeker
-- [NPC00927_Aldric_Ironwood_the_Wanderer]]
-- [[NPC00174_Aldric_Silverleaf_the_Fallen
-- [NPC01695_Ewan_Ashford_the_Fallen]]
-- [[NPC01229_Gavril_Ironwood_the_Scholar
-- [NPC01888_Hestara_Ravenheart_the_Redeemed]]
-- [[NPC00162_Xander_Thornweave
-- [NPC00939_Thalia_Jadeclaw_the_Swift]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [NPC01012_Solas_Darkwater_the_Strong]]
-- [[NPC01431_Kaelen_Zephyrblade_the_Guardian
-- [NPC01979_Fiora_Emberfall_the_Guardian]]
-- [[NPC01466_Urien_Nightfall_the_Guardian
-- [NPC00749_Xander_Quicksilver]]
-- [[NPC00649_Corvus_Zephyrblade_the_Broken
-- [NPC00542_Corvus_Oakenshield_the_Strong]]
-- [[Faction_Relationship_Web
-- [NPC00881_Qadim_Voidwalker_the_Strong]]
-- [[Propaganda_Leaflet_Pearl_Guar
-- [NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
 - [[Faction_Guide.md
 - [Propaganda_Broadsheet_Syndicate.md]]
-- [[Pilgrim_Pass_Prayer_Sli
-- [NPC01613_Kaelen_Voidwalker_the_Wanderer]]
-- [[Ancient_Prophecy_Fragment_Verdan
-- [Reference.md]]
-- [[NPC00058_Elric_Nightfall
-- [NPC00321_Aeliana_Zephyrblade_the_Strong]]
-- [[NPC00582_Cedric_Dawnstrider
-- [09 Adventuring]]
-- [[07 Customization Options
-- [11 Rules Glossary]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[Ancient_Prophecy_Fragment_Verdan]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00582_Cedric_Dawnstrider]]
+- [[07 Customization Options]]
 - [[Keeper Elara Mindwell
 - [NPC_Relationship_Web.png_1 (03_People)]]
-- [[NPC01894_Aldric_Lightbringer_the_Bold
-- [Complete_NPC_Matrix.md]]
-- [[World_Primer.md
-- [NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -219,16 +199,13 @@ Needs discrete help with family scandal
 - Connects to [[The_Perfect_Symbiosis.png
 - Influences
 - Requires [Quest - The Shadow Constitution]]
-- Requires [[step_026 (phase_057)
-- Originates from [MON00163_Aberrations_Creature_164]]
+- Requires [[MON00163_Aberrations_Creature_164]]
 - Requires [[step_025 (phase_037)
 - Originates from [step_022 (phase_082)]]
 - Leads to [[EVENT00098_Natural_Event_99
 - Related: [Weather Sage Ancient Tempest]]
-- Affected by [[NPC00983_Cedric_Moonshadow_the_Cunning
-- Parallels [step_071 (phase_093)]]
-- Influences [[ENC00063_Combat_Encounter_64
-- Connects to [step_077 (phase_092)]]
+- Affected by [[NPC00983_Cedric_Moonshadow_the_Cunning]]
+- Influences [[ENC00063_Combat_Encounter_64]]
 - See also: [[Symbol Heraldry the Divine Revelation the Divine Revelation.svg
 - Connects to [Department of Defense]]
 - Related: [[Portrait NPC Corrupted Clients V2 Corrupted Clients.svg_1 (Portraits)
@@ -237,10 +214,8 @@ Needs discrete help with family scandal
 - Connects to [LOC00020_Cities_Location_21]]
 - Leads to [[Portrait NPC Trade Captain Sterling V2 Trade Captain Sterling.svg
 - Parallels [SPELL00111_Nature_Spell_112]]
-- Related: [[Senator Bartholomew Bonewright 2
-- Influences [QUEST00048_Main_Quest_49]]
-- Influences [[step_082 (phase_053)
-- Related: [MON00161_Undead_Creature_162]]
+- Related: [[Senator Bartholomew Bonewright 2]]
+- Influences [[MON00161_Undead_Creature_162]]
 - Compare with [[Portrait NPC Surface Liaison Captain Reed Bridgewater V1 Surface Liaison Captain Reed Bridgewater.svg
 - Parallels [Human Names Arabic Female Xge]]
 - Affected by [[Forgotten Realms Mask
@@ -257,13 +232,11 @@ Needs discrete help with family scandal
 - Parallels [step_024 (phase_035)]]
 - Connects to [[location-city-the-conductor-v1-the-conductor.png
 - Influences [Portrait NPC Captain Navigator V1 Captain Navigator.svg]]
-- Compare with [[QUEST00040_Personal_Quest_41
-- Related: [Mixed_Events_Pack_C]]
+- Compare with [[QUEST00040_Personal_Quest_41]]
 - Related:
 - Affected by [[step_061 (phase_036)
 - Parallels [step_080 (phase_079)]]
-- See also: [[step_074 (phase_072)
-- Parallels [QUEST00168_Personal_Quest_169]]
+- See also: [[QUEST00168_Personal_Quest_169]]
 - Related: [[step_047 (phase_029)
 - Leads to [Aethermoor_Sky_Fleet (02_Worldbuilding)]]
 - Connects to [[Portrait NPC Shadow Guard Units V2 Shadow Guard Units.svg_1 (Portraits)
@@ -272,8 +245,7 @@ Needs discrete help with family scandal
 - Parallels [halfling-tables-halfling-bonds-mtf (tables)]]
 - Affected by [[LORE0025_History_of_the_Dragon_Wars
 - Connects to [Assets Portraits Portrait NPC Duke Hadal Duke Hadal.svg]]
-- Affected by [[Border Patrol Unit 2
-- Parallels [The Harmony Collective (D&D_References)]]
+- Affected by [[The Harmony Collective (D&D_References)]]
 - Originates from [[portrait-npc-the-king-s-ears-the-king-s-ears.svg_1 (Portraits)
 - Affected by [Chamber Purpose Dungeon Maze]]
 - Leads to [[ITEM01100_Concentrated_Powder_of_Clarity
@@ -281,12 +253,9 @@ Needs discrete help with family scandal
 - Parallels
 - Influences [[NPC00955_Malakai_Hawthorne_the_Cunning
 - Affected by [Portrait NPC High Priestess Nerida Deepcurrent V2 High Priestess Nerida Deepcurrent.svg]]
-- Related: [[Aetheric Wind Songs
-- See also: [The Wandering Atoll (D&D_References)]]
-- Requires [[step_098 (phase_010)
-- Parallels [ENC00239_Social_Encounter_240]]
-- See also: [[Cultural Preservation
-- Related: [The Shadow-Touched Farmer, Blight-Heart Maddox]]
+- Related: [[The Wandering Atoll (D&D_References)]]
+- Requires [[ENC00239_Social_Encounter_240]]
+- See also: [[The Shadow-Touched Farmer, Blight-Heart Maddox]]
 - Influences [[Session 10 - New Horizons
 - Leads to [LOC00224_Towns_Location_225]]
 - Influences [[NPC01892_Gareth_Xendar_the_Scholar
@@ -299,16 +268,13 @@ Needs discrete help with family scandal
 - Compare with [The Senator's Office 2]]
 - Parallels [[Feedback_Form
 - Influences [step_053 (phase_077)]]
-- Influences [[Leviathan Prophet Thalassa (D&D_References)
-- Influences [elemental-bane-xge (spells)]]
-- Requires [[LORE00242_History_Entry_243
-- Compare with [NPC01553_Corvus_Brightblade_the_Lost]]
+- Influences [[Leviathan Prophet Thalassa (D&D_References)]]
+- Requires [[NPC01553_Corvus_Brightblade_the_Lost]]
 - Related: [[location-city-seal-keepers-v1-seal-keepers.svg
 - See also: [ITEM00515_Dragon_Scale_Plate_of_Fortitude]]
 - Parallels [[Location City Echo Translator Vera Echo Translator Vera.svg
 - See also: [portrait-npc-the-schooling-the-schooling.svg_1 (Portraits)]]
-- Connects to [[step_023 (phase_074)
-- Requires [Weapon Master Dain Sharpedge (D&D_References)]]
+- Connects to [[Weapon Master Dain Sharpedge (D&D_References)]]
 - Compare with [[Location City Historical Prophetic Analysis V1 Historical Prophetic Analysis.svg
 - Compare with [ENC00133_Environmental_Encounter_134]]
 - Originates from [[Assets Locations Location City Ancient Treasury of Tides V1 Ancient Treasury of Tides.svg

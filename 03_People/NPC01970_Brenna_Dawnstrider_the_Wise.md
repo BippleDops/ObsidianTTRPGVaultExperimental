@@ -170,46 +170,26 @@ Blackmails party into service
 - Special moves
 
 ## See Also
-- [[NPC_Name_Generator.png
-- [Marcus Shardbreaker Grimm_1]]
-- [[NPC01632_Qadim_Darkwater_the_Guardian
-- [NPC00860_Gavril_Winterborn_the_Swift]]
-- [[NPC00372_Alaric_Grimholt
-- [NPC00821_Zephyr_Voidwalker_the_Cunning]]
-- [[NPC00920_Malakai_Ravenheart_the_Guardian
-- [NPC00663_Alaric_Dawnstrider_the_Strong]]
-- [[NPC01028_Erasmus_Darkwater_the_Strong
-- [yuan-ti-pit-master-mpmm]]
-- [[NPC00080_Branwen_Proudmore
-- [NPC00057_Malakai_Stormwind_the_Cunning]]
-- [[NPC01994_Orion_Brightblade_the_Risen
-- [NPC00124_Delara_Ravenheart_the_Redeemed]]
-- [[NPC00385_Qadim_Darkwater_the_Cunning
-- [NPC00949_Nerys_Underhill_the_Wise]]
-- [[NPC01841_Malakai_Nightfall_the_Wise
-- [NPC01745_Felicia_Oakenshield_the_Scholar]]
-- [[NPC01849_Kaelen_Silverleaf_the_Scholar
-- [NPC01831_Alaric_Frostwhisper_the_Scholar]]
-- [[NPC01360_Ewan_Blackstone_the_Strong
-- [NPC00415_Gareth_Winterborn_the_Bold]]
-- [[NPC01974_Thalia_Zephyrblade_the_Lost
-- [World_Primer.md]]
-- [[Quarantine_Notice_Crystal_Plagu
-- [Trade_Route_Chart_Port_Meridia]]
-- [[Player_Feedback_Form.md
-- [Basic_Rules]]
-- [[Reference.md
-- [NPC01894_Aldric_Lightbringer_the_Bold]]
-- [[NPC01429_Zephyr_Keenblade_the_Cunning
-- [15 the Planes of Existence]]
-- [[NPC01012_Solas_Darkwater_the_Strong
-- [16 Credits]]
-- [[10 Combat
-- [NPC01463_Aeliana_Zephyrblade_the_Fallen]]
-- [[11 Rules Glossary
-- [MOC_Lore]]
-- [[NPC01301_Jorah_Underhill_the_Broken
-- [Master_Narrative_Web.md]]
+- [[Marcus Shardbreaker Grimm]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01028_Erasmus_Darkwater_the_Strong]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01831_Alaric_Frostwhisper_the_Scholar]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Player_Feedback_Form]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[11 Rules Glossary]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
 - [[Complete_NPC_Matrix.md
 -
 
@@ -230,8 +210,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -252,8 +231,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [ITEM00984_Distilled_Elixir_of_Swiftness]]
 - See also: [[Assets Locations Location City Memory Keeper Ancient Nerida Memory Keeper Ancient Nerida.svg
 - Originates from [The Crystal Empire 2]]
-- Compare with [[Random_Location_Generator (D&D_References)
-- See also: [step_003 (phase_098)]]
+- Compare with [[Random_Location_Generator (D&D_References)]]
 - See also: [[Weather_Generator
 - Influences [ITEM01188_Lesser_Incense_of_Clarity]]
 - Requires [[NPC01419_Ewan_Moonshadow_the_Strong
@@ -262,10 +240,8 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [NPC01467_Hestara_Blackstone_the_Cunning]]
 - Originates from [[LOC00076_Dungeons_Location_77
 - Originates from [LOC00179_Planes_Location_180]]
-- Parallels [[mummy-xmm (undead)
-- Requires [LOC00015_Cities_Location_16]]
-- Requires [[Private Arbitration
-- Affected by [QUEST00187_Personal_Quest_188]]
+- Parallels [[LOC00015_Cities_Location_16]]
+- Requires [[QUEST00187_Personal_Quest_188]]
 - Leads to [[Crisis Containment
 - Parallels [MON00002_Aberrations_Creature_3]]
 - Influences [[Silverquill Primer Scc
@@ -277,8 +253,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also:
 - Influences [[step_007 (phase_080)
 - Originates from [Portrait NPC Parliament Loyalists V2 Parliament Loyalists.svg]]
-- Influences [[Myconid Adult Xmm
-- Parallels [QUEST00129_Main_Quest_130]]
+- Influences [[QUEST00129_Main_Quest_130]]
 - Parallels [[Portrait NPC Captain Sarah Ironheart V1 Captain Sarah Ironheart.svg
 - See also: [Assets Art Master Smith Coral Hammer.png]]
 - Connects to [[QUEST00247_Side_Quest_248
@@ -294,16 +269,14 @@ Following magic item guidelines (WWT p.135-136):
 - See also:
 - Originates from
 - Compare with [NPC01254_Faelyn_Voidwalker_the_Risen]]
-- Requires [[step_067 (phase_051)
-- Influences [ENC00033_Social_Encounter_34]]
+- Requires [[ENC00033_Social_Encounter_34]]
 - See also: [[Assets Locations Location City Magnus Ledgerkeep V1 Magnus Ledgerkeep.svg
 - Affected by [Location City Port Crystalfall Port Crystalfall.svg]]
 - Compare with [[Plot_Threads
 - Parallels [Locked Door Lock Quality Xdmg]]
 - Affected by [[Alignment Xphb
 - Influences [LORE00046_Prophecies_Entry_47]]
-- Connects to [[step_089 (phase_013)
-- Parallels [Faction Reputation (D&D_References)]]
+- Connects to [[Faction Reputation (D&D_References)]]
 - Requires [[location-city-tide-risktaker-tide-risktaker.svg
 - Related: [Portrait NPC Memory Merchant Valeria Siltweave V2 Memory Merchant Valeria Siltweave.svg]]
 - Originates from [[ITEM01069_Refined_Incense_of_Clarity
@@ -318,29 +291,23 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [copper-chalice-with-silver-filigree-xdmg (items)]]
 - See also: [[Assets Locations Location City Surface Traders V1 Surface Traders.svg
 - Originates from [Assets Symbols Symbol Heraldry the Void Watchers the Void Watchers.svg]]
-- Requires [[NPC01825_Solas_Dawnstrider_the_Strong
-- Related: [ITEM01179_Refined_Incense_of_Healing]]
+- Requires [[NPC01825_Solas_Dawnstrider_the_Strong]]
 - Requires [[QUEST0052_In_Search_of_Power
 - Connects to [Chamber Purpose Dungeon Tomb]]
 - See also: [[yuan-ti-dendar-vgm (deities)
 - Originates from [The Missing Diplomat]]
-- Parallels [[step_007 (phase_023)
-- Requires [Malachar the Mindweave (D&D_References)]]
+- Parallels [[Malachar the Mindweave (D&D_References)]]
 - Connects to [[Warehouse District
 - Connects to [The Drowning Spires]]
 - Affected by [[Entertainer Xphb
 - Affected by [step_083 (phase_064)]]
 - Affected by [[salamander-xmm (elemental)
 - Parallels [ITEM00248_Frost_Staff_of_Accuracy]]
-- Connects to [[step_069 (phase_024)
-- Compare with [Intervention Windows (D&D_References)]]
-- Parallels [[Master Jeweler Sapphire Delicatehand
-- Related: [step_020 (phase_021)]]
-- Influences [[ENC00153_Environmental_Encounter_154
-- Leads to [step_077 (phase_049)]]
+- Connects to [[Intervention Windows (D&D_References)]]
+- Parallels [[Master Jeweler Sapphire Delicatehand]]
+- Influences [[ENC00153_Environmental_Encounter_154]]
 - See also:
-- Requires [[QUEST00114_Personal_Quest_115
-- See also: [step_011 (phase_010)]]
+- Requires [[QUEST00114_Personal_Quest_115]]
 - See also: [[warding-wind-xge (spells)
 - Affected by
 - Leads to [Cultural Specialists]]

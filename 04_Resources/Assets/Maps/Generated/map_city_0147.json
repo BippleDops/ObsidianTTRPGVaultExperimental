@@ -42,5 +42,8 @@
       "type": "city"
     }
   ],
-  "created": "2025-08-16T16:58:14.623Z"
+  "created": "2025-08-16T16:58:14.623Z",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:50:24.923Z",
+  "generationMethod": "ComfyUI"
 }

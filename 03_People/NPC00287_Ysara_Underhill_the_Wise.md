@@ -130,71 +130,23 @@ History, Arcana, Sleight of Hand
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- [[Political Alliances
-- Upcoming social events
-
-## Plot Hook
-Seeks bodyguards for dangerous journey
-
-## DM Notes
-- Adjust stats based on party level
-- Secrets can drive major plot points
-- Relationships create web of connections
-- Use quirks for memorable roleplay
-
----
-*Generated: 2025-08-15T03:51:03.144Z*
-
-## Voice & Mannerisms
-- Speaking style
-- Common phrases
-
-## Daily Routine
-- Morning activities
-- Evening habits
-
-## Combat Tactics
-- Preferred strategies
-- Special moves
-
-## See Also
-- [NPC00285_Xander_Goldleaf_the_Mystic]]
-- [[NPC00804_Xander_Frostwhisper_the_Cunning
-- [NPC00969_Zephyr_Keenblade_the_Wise]]
-- [[NPC00174_Aldric_Silverleaf_the_Fallen
-- [NPC00821_Zephyr_Voidwalker_the_Cunning]]
-- [[NPC00917_Brenna_Oakenshield_the_Seeker
-- [NPC01660_Thalia_Moonshadow_the_Fallen]]
-- [[NPC00324_Idris_Hawthorne_the_Strong
-- [NPC01504_Erasmus_Zephyrblade_the_Strong]]
-- [[NPC00707_Fiora_Oakenshield_the_Seeker
-- [NPC01695_Ewan_Ashford_the_Fallen]]
-- [[NPC01937_Felicia_Silverleaf_the_Wanderer
-- [NPC01687_Aldric_Youngblood_the_Cunning]]
-- [[NPC00296_Elric_Jadeclaw_the_Bold
-- [NPC01989_Erasmus_Xendar_the_Strong]]
-- [[NPC01041_Thalia_Dawnstrider_the_Lost
-- [NPC00494_Lyanna_Hawthorne_the_Guardian]]
-- [[NPC00362_Pyria_Stormwind_the_Wise
-- [NPC01502_Urien_Underhill_the_Scholar]]
-- [[NPC01466_Urien_Nightfall_the_Guardian
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC01841_Malakai_Nightfall_the_Wise
-- [NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[NPC00785_Ysara_Grimholt_the_Mystic
-- [Depth_Adapted_Background]]
-- [[Quiet_Chapel_Oath_Scrol
-- [Sanity Quick Reference]]
-- [[Combat_Encounter_Analysis
-- [NPC00162_Xander_Thornweave]]
-- [[03 Races
-- [NPC01476_Qadim_Stormwind_the_Wise]]
-- [[MOC_Quests
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[Political Alliances]]
+- [[NPC00804_Xander_Frostwhisper_the_Cunning]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC00494_Lyanna_Hawthorne_the_Guardian]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[MOC_Quests]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -212,12 +164,10 @@ Seeks bodyguards for dangerous journey
 ## Connections
 
 - Connects to [[Location City [Duchess Cordelia Pearlheart]] Duchess Cordelia Pearlheart.svg]]
-- Connects to [[step_024 (phase_017)
-- Requires [High Priestess Nerida Deepcurrent]]
+- Connects to [[High Priestess Nerida Deepcurrent]]
 - Connects to [[Assets Locations Location City [Noble District Noble District.png]]
-- See also: [[QUEST0069_Captain's_Revenge
-- See also: [Poisonous Gas Xdmg]]
-- Parallels [[[Merchants Scale]]
+- See also: [[QUEST0069_Captain's_Revenge]]
+- Parallels [[Merchant]]
 - Influences [[Symbol Heraldry the Sunken Observatory V1 the Sunken Observatory.svg
 - Leads to [Deep Oracle (D&D_References)]]
 - Requires [[step_089 (phase_053)
@@ -242,13 +192,12 @@ Seeks bodyguards for dangerous journey
 - Parallels [Races]]
 - Affected by [[LOC00090_Planes_Location_91
 - Connects to [step_076 (phase_073)]]
-- Requires [[[Temple of the Eternal Flame 2]]
+- Requires [[Temple of the Eternal Flame 2]]
 - Originates from [[step_047 (phase_043)
 - Connects to [ITEM01056_Lesser_Powder_of_Healing]]
 - Compare with [[LORE00135_Legends_Entry_136
 - See also: [step_015 (phase_043)]]
-- Leads to [[ITEM0001_Blessed_Blade_of_Power
-- Affected by [Strahd Von Zarovich Cos]]
+- Leads to [[ITEM0001_Blessed_Blade_of_Power]]
 - Influences [[tanarukk-mpmm (fiend)
 - Influences [step_047 (phase_025)]]
 - Leads to [[Sphere of Annihilation Xdmg
@@ -258,16 +207,14 @@ Seeks bodyguards for dangerous journey
 - Requires [[Portrait NPC Scholar Priest Tidal Memory V2 Scholar Priest Tidal Memory.svg_1 (Portraits)
 - Influences
 - See also: [SHOP00065_General_Shop_66]]
-- Requires [[Egyptian Anubis
-- Originates from [LOC00073_Cities_Location_74]]
+- Requires [[LOC00073_Cities_Location_74]]
 - Originates from [[Academic Centers 2
 - See also: [Book of Ancient Secrets]]
 - Influences [[step_004 (phase_085)
 - Compare with [Moderately Armored Xphb]]
 - Leads to [[step_038 (phase_022)
 - Affected by [cleric-xphb-death-domain-dmg (classes)]]
-- Leads to [[Umbros Shadowdrain (D&D_References)
-- Originates from [Eastern Kingdom Fleet Admiral (D&D_References)]]
+- Leads to [[Eastern Kingdom Fleet Admiral (D&D_References)]]
 - Leads to [[LORE00157_Legends_Entry_158
 - Originates from [[Assets Locations Location City [Blood Coral]] V1 Blood Coral.svg]]
 - Compare with [[disguise-self-xphb (spells)
@@ -276,17 +223,15 @@ Seeks bodyguards for dangerous journey
 - Compare with [Location City Void Keeper Null Void Keeper Null.svg]]
 - Originates from [[LOC00040_Planes_Location_41
 - Leads to [LORE00235_History_Entry_236]]
-- Parallels [[sanctum
-- Affected by [LOC00286_Planes_Location_287]]
+- Parallels [[LOC00286_Planes_Location_287]]
 - Connects to [[Random Buildings [Tavern]]
-- Compare with [[[Surface Signals (D&D_Statblocks)]]
+- Compare with [[Surface Signals (D&D_Statblocks)]]
 - Related: [[FAC00081_Orders_82
 - Parallels [Portrait NPC Salvage Queen Nerissa Deepfinder Salvage Queen Nerissa Deepfinder.svg]]
 - Affected by [[General Truthseeker Vale 2
 - Parallels
 - Requires [[Location City [Quieting the Depths]] V1 Quieting the Depths.svg]]
-- See also: [[Portrait NPC Mili... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Related: [[Assets Portraits Portrait NPC Tidal Priest [Marina Deepcurrent]] Tidal Priest Marina Deepcurrent.svg]]
+- See also: [[Portrait NPC Mili... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]] Tidal Priest Marina Deepcurrent.svg]]
 - Affected by [[LORE0095_History_of_the_Ancient_Pact
 - Connects to [[Location City [Keeper Thundercall]] Keeper Thundercall.svg]]
 - Related: [[Void Cultists
@@ -298,16 +243,13 @@ Seeks bodyguards for dangerous journey
 - Influences [[ITEM00786_Celestial_Ring_of_Destiny
 - Originates from
 - Connects to [04-creating-adventures (dungeon-masters-guide-2014)]]
-- Affected by [[LOC00247_Cities_Location_248
-- Connects to [step_037 (phase_037)]]
+- Affected by [[LOC00247_Cities_Location_248]]
 - Connects to [[Yellow Sapphire Xdmg
 - See also: [Magic Item Table B]]
 - Originates from [[Assets Symbols Symbol Heraldry Factional Conflicts Factional Conflicts.svg
 - Requires [Truth Seekers Guild]]
-- Influences [[NPC00691_Felicia_Oakenshield
-- Compare with [step_048 (phase_093)]]
-- Influences [[Greek Dionysus
-- Leads to [[[Ancient Tunnels Beneath Palace]] 2]]
+- Influences [[NPC00691_Felicia_Oakenshield]]
+- Influences [[Ancient Tunnels Beneath Palace]] 2]]
 - Requires [[Human Xphb
 - Originates from [Animal Friendship Xphb]]
 - See also: [[step_079 (phase_018)

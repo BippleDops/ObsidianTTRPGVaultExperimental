@@ -163,32 +163,14 @@ Forming expedition to dangerous location
 - Special moves
 
 ## See Also
-- [[NPC00324_Idris_Hawthorne_the_Strong
-- [NPC00881_Qadim_Voidwalker_the_Strong]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC00663_Alaric_Dawnstrider_the_Strong]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC00351_Corvus_Ironwood]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [Measurement_Guide_Depth_and_Pressur]]
-- [[Ritual_Timing_Wheel_Convergenc
-- [10 Combat]]
-- [[Archdruid Thornweaver
-- [11 Rules Glossary]]
-- [[NPC01745_Felicia_Oakenshield_the_Scholar
-- [NPC01664_Pyria_Lightbringer_the_Redeemed]]
-- [[Count_Strahd_von_Zarovich
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Archdruid Thornweaver]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[Count_Strahd_von_Zarovich]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -199,8 +181,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -225,29 +206,23 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [The Negotiation Void]]
 - Connects to [[Assets Symbols Symbol Heraldry Navigation Geography Navigation Geography.svg
 - Affected by [Weather Sage Ancient Tempest]]
-- Leads to [[MON00077_Aberrations_Creature_78
-- Influences [Faction1]]
+- Leads to [[MON00077_Aberrations_Creature_78]]
 - See also: [[Portrait NPC Lady Celestine Windborne V2 Lady Celestine Windborne.svg
 - Originates from [LOC00239_Planes_Location_240]]
-- Parallels [[LOC00242_Planes_Location_243
-- Originates from [Technical Quarter]]
+- Parallels [[LOC00242_Planes_Location_243]]
 - Compare with [[Portrait NPC Aria Lumengarde V2 Aria Lumengarde.svg_1 (Portraits)
 - Influences [Location City Council of Faiths Council of Faiths.svg]]
 - Related: [[step_015 (phase_075)
 - Compare with [step_065 (phase_099)]]
-- Requires [[step_008 (phase_020)
-- Influences [Senator Abyssos Traditionkeeper (D&D_References)]]
-- Influences [[Heritage Keeper Memoryshade
-- Requires [step_001 (phase_014)]]
+- Requires [[Senator Abyssos Traditionkeeper (D&D_References)]]
+- Influences [[Heritage Keeper Memoryshade]]
 - Leads to [[brontosaurus-mpmm (beast)
 - Influences
 - Leads to [Mule Xphb]]
 - Affected by [[Location City Tavern Keep Lucky Jack Goldpouch V1 Tavern Keep Lucky Jack Goldpouch.svg
 - Requires [list-spells-classes-draconic-sorcery-xphb (lists)]]
-- Parallels [[Throne of Bubbles
-- Parallels [Merchant Council of Port Meridian]]
-- Related: [[Captain Marcus (D&D_References)
-- Affected by [step_042 (phase_068)]]
+- Parallels [[Merchant Council of Port Meridian]]
+- Related: [[Captain Marcus (D&D_References)]]
 - Influences [[ITEM00806_Time-worn_Orb_of_Destiny
 - Influences [SPELL00116_Arcane_Spell_117]]
 - Influences [[step_013 (phase_092)
@@ -260,14 +235,11 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [Great Preparation]]
 - Compare with [[Shadow Blade Networks
 - Parallels [Crisis Exploitation]]
-- Related: [[chariot-xphb (items)
-- Influences [QUEST00208_Personal_Quest_209]]
-- Originates from [[Equipment_Inventory
-- Compare with [Magical Engineer Reef Spellbreath]]
+- Related: [[QUEST00208_Personal_Quest_209]]
+- Originates from [[Magical Engineer Reef Spellbreath]]
 - Originates from [[Prince Caspian's Folly
 - Related: [Reality Shepherd Nexus]]
-- Influences [[Data Analyst Current Patternweave 2
-- Leads to [step_066 (phase_098)]]
+- Influences [[Data Analyst Current Patternweave 2]]
 - See also: [[step_059 (phase_087)
 - Leads to
 - Influences [armaments-legendary-xdmg (tables)]]
@@ -279,8 +251,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [step_017 (phase_038)]]
 - See also: [[11-appendix-c-tracking-sheets (dungeon-masters-guide-2024)
 - Connects to [Crystal Laboratory (D&D_References)]]
-- Leads to [[step_059 (phase_033)
-- Connects to [LOC00176_Wilderness_Location_177]]
+- Leads to [[LOC00176_Wilderness_Location_177]]
 - Connects to [[Location City Coral Vortextrader Coral Vortextrader.svg
 - Leads to [step_070 (phase_093)]]
 - Leads to [[NPC0031_Freya_Stormwind
@@ -293,26 +264,22 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [Portrait NPC High Chamberlain Nautilus Deepcurrent V2 High Chamberlain Nautilus Deepcurrent.svg]]
 - Originates from [[The Crown
 - Leads to [step_097 (phase_096)]]
-- See also: [[SPELL00063_Arcane_Spell_64
-- Requires [pixie-xmm (fey)]]
+- See also: [[SPELL00063_Arcane_Spell_64]]
 - Connects to [[step_048 (phase_091)
 - Requires [EVENT00067_Natural_Event_68]]
-- Affected by [[NPC01393_Erasmus_Winterborn_the_Broken
-- Leads to [SHOP00052_Magical_Shop_53]]
+- Affected by [[NPC01393_Erasmus_Winterborn_the_Broken]]
 - Originates from [[step_097 (phase_080)
 - Originates from [step_059 (phase_064)]]
 - Related:
 - Connects to [[LORE00178_Prophecies_Entry_179
 - Influences
 - Requires [The Reality Storm Crisis (D&D_References)]]
-- Influences [[LORE00165_Prophecies_Entry_166
-- Originates from [Crystal Agricultural Research Institute]]
+- Influences [[Crystal Agricultural Research Institute]]
 - Influences [[LOC00019_Cities_Location_20
 - Affected by [MON00046_Undead_Creature_47]]
 - Affected by [[Surface Portal Alpha 2
 - Connects to [npc-low-abilities (tables)]]
-- Requires [[PROGRESS_REPORT_2025-08-10_SESSION3
-- See also: [Medallion of the Depths (D&D_References)]]
+- Requires [[Medallion of the Depths (D&D_References)]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -164,18 +164,14 @@ Modifications:
 > Useful information for players
 
 ## See Also
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC00307_Dara_Proudmore_the_Seeker]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [NPC00739_Gavril_Ashford_the_Bold]]
-- [[NPC00395_Aeliana_Thornweave
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -213,61 +209,51 @@ Modifications:
 - Originates from [sledgehammer]]
 - See also: [[step_068 (phase_036)
 - Affected by [Swear Words and Curses]]
-- Originates from [[step_056 (phase_016)
-- Related: [Community Resource Sharing (D&D_References)]]
+- Originates from [[Community Resource Sharing (D&D_References)]]
 - Related: [[EVENT00021_Natural_Event_22
 - Connects to [[[Time]]line]]
 - Affected by [[Template-Quest.md
 - Requires [windvane-pota (items)]]
 - Influences [[step_050 (phase_073)
 - Compare with [step_053 (phase_025)]]
-- Connects to [[Advanced Shadow Detection
-- Related: [Mer-Folk Honor Codes]]
+- Connects to [[Advanced Shadow Detection]]
 - See also: [[Location City [The Crystal Stock Exchange V1 the Crystal Stock Exchange.svg]]
-- Compare with [[The Whispering Chambers (D&D_References)
-- Related: [step_021 (phase_088)]]
+- Compare with [[The Whispering Chambers (D&D_References)]]
 - Affected by [[NPC00544_Jorah_Goldleaf_the_Strong
 - Originates from [LORE00229_Legends_Entry_230]]
 - Originates from [[Downtime Activity Buying a Magic Item Xge
 - Affected by [roleplaying-a-beholder-beholder-bonds-vgm (tables)]]
-- Influences [[ENC00366_Combat_Encounter_367
-- Influences [Elena Goldleaf]]
-- Originates from [[step_031 (phase_027)
-- Parallels [MON00055_Constructs_Creature_56]]
+- Influences [[ENC00366_Combat_Encounter_367]]
+- Originates from [[MON00055_Constructs_Creature_56]]
 - Parallels [[Quest - The Admiral's Gambit
 - Requires [QUEST00304_Side_Quest_305]]
-- Connects to [[NPC0079_Ophelia_Ironforge
-- Leads to [Memory Trader Kellian (D&D_References)]]
+- Connects to [[Memory Trader Kellian (D&D_References)]]
 - Compare with [[trident-xphb (items)
 - Leads to [Academic Centers 2]]
 - Compare with [[Pre-Drowning History
 - Originates from [Portrait NPC Emperor Pelagic the Last V1 Emperor Pelagic the Last.svg_1 (Portraits)]]
 - Requires [[ITEM00654_Dragon_Scale_Shield_of_Protection
 - Affected by [Shadow Admiral Vex]]
-- Requires [[[Infrastructure Development (D&D_References)]]
-- Related: [[QUEST00270_Side_Quest_271
-- Related: [NPC00441_Pyria_Ironforge_the_Strong]]
+- Requires [[Infrastructure Development (D&D_References)]]
+- Related: [[NPC00441_Pyria_Ironforge_the_Strong]]
 - See also: [[Layers of Mount Celestia Xdmg
 - Leads to [Methane Forests]]
 - Leads to [[Gnome Flandal Steelskin Mtf
 - See also: [Unite All Factions]]
 - See also: [[step_022 (phase_098)
 - Connects to [The_Seven_Seals.png]]
-- Leads to [[High Priest Nereon (D&D_References)
-- Connects to [[[Healer Sage Bondseer]] (D&D_References)]]
+- Leads to [[High Priest Nereon (D&D_References)]] (D&D_References)]]
 - Connects to [[shield-master-xphb (feats)
 - Related: [agonizing-blast-xphb (optional-features)]]
 - Related: [[step_084 (phase_076)
 - Originates from [step_085 (phase_047)]]
 - Connects to [[gnome-segojan-earthcaller-mtf (deities)
 - Leads to [Lamplight Alley]]
-- Originates from [[The Void Refineries (D&D_References)
-- Affected by [Carpet of Flying 4 Ft 6 Ft Xdmg]]
+- Originates from [[The Void Refineries (D&D_References)]]
 - Parallels
 - Affected by [[doppelganger-xmm (monstrosity)
 - Connects to [Tide Turner]]
-- Influences [[NPC01669_Solas_Silverleaf_the_Bold
-- Influences [Gnoll Names Vgm]]
+- Influences [[NPC01669_Solas_Silverleaf_the_Bold]]
 - See also: [[step_094 (phase_085)
 - Requires [SHOP00007_General_Shop_8]]
 - Requires [[Assets Portraits Portrait NPC Captain Redbeard Captain Redbeard.svg
@@ -276,10 +262,8 @@ Modifications:
 - Compare with [Crystal Festival]]
 - Parallels [[SPELL00126_Arcane_Spell_127
 - Connects to [Quest - Legislative Control 2]]
-- Requires [[deck-of-many-things#Knight
-- Compare with [Wizard Xphb School of Enchantment]]
-- Compare with [[LOC00284_Wilderness_Location_285
-- Related: [SVG_REPLACEMENT_REPORT]]
+- Requires [[deck-of-many-things#Key]]
+- Compare with [[LOC00284_Wilderness_Location_285]]
 - Requires [[The First Breath Relic
 - Originates from [step_036 (phase_071)]]
 - Leads to [[LORE00063_History_Entry_64
@@ -290,9 +274,8 @@ Modifications:
 - Affected by [[[Dream Rails]] 2]]
 - Related: [[LOC00175_Dungeons_Location_176
 - Leads to [dragonlance-lunitari-phb (deities)]]
-- Compare with [[[Port Meridian - Market Square 2]]
-- Related: [[Races
-- Originates from [NPC00767_Felicia_Grimholt_the_Wise]]
+- Compare with [[Port Meridian - Market Square 2]]
+- Related: [[NPC00767_Felicia_Grimholt_the_Wise]]
 - Related: [[step_072 (phase_039)
 - Requires [step_041 (phase_020)]]
 - Influences [[The Shadow Duchess Duel (Criminal_Organizations)
@@ -301,10 +284,8 @@ Modifications:
 - Originates from [merrenoloth-mpmm (fiend)]]
 - Compare with [[The Crystal Academies
 - Related: [iron-golem-xmm (construct)]]
-- Originates from [[The Schooling (D&D_References)
-- Parallels [step_095 (phase_091)]]
-- Compare with [[Temple Clergy
-- Related: [Emperor Abyssal the Deep-Sighted (D&D_References)]]
+- Originates from [[The Schooling (D&D_References)]]
+- Compare with [[Emperor Abyssal the Deep-Sighted (D&D_References)]]
 - Originates from
 
 ## Visual References
@@ -321,7 +302,7 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Capital**: [Skylance Citadel]]
 - **Primary Magic**: Wind magic, storm sorcery, gravity manipulation
 - **Current Conflict**: The Void Incursion, Elemental Convergence
-- **Key Locations**: [[Floating Gardens, [Storm's Eye Tower]]
+- **Key Locations**: [[Floating Gardens]]
 
 The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.

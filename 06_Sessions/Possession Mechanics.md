@@ -18,12 +18,7 @@ publish: false
 
 ---
 
- # [[Possession Mechanics ---
-
-## Description
-
-Detailed description pending.
-title: [Possession Mechanics]]
+ # [[Possession Mechanics]]
 type: Mechanics
 tags:
 - status/complete
@@ -44,11 +39,11 @@ world: Aethermoor
 
 --- ## 🔧 [[Deep Evaluation Improvements *20 targeted improvements identified* ### [Connection Improvements]] - Add cross-references to related notes ### [[Enhancement Improvements - Add 12_Research-specific enhancement ## Summary
 
-Practical, table-ready rules for [Possession Mechanics]] across Aquabyssos and Aethermoor. ## Player-[[Facing Summary [Possession Mechanics]] is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. Meanwhile, ## [[Lore Details Legends speak of [Possession Mechanics]] as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around [[Possession Mechanics. ## DM [Notes Play]] up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## [[Related Notes - [[[Similar Topic]] 1]]
+Practical, table-ready rules for [Possession Mechanics]] across Aquabyssos and Aethermoor. ## Player-[[Possession Mechanics]] is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. Meanwhile, ## [[Lore Details Legends speak of [Possession Mechanics]] as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around [[Possession Mechanics]] up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## [[Related Notes - [[[Similar Topic]] 1]]
 
-- [[[Contrasting Approach]]
-- [[[Advanced Version]]
-- [[[Historical Context]] ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## 12_Research [Specific Content]] Contextual improvement based on 12_Research ## 12_Research [[Specific Content Contextual improvement based on 12_Research
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]] ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## 12_Research [Specific Content]] Contextual improvement based on 12_Research ## 12_Research [[Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 
@@ -64,8 +59,7 @@ Practical, table-ready rules for [Possession Mechanics]] across Aquabyssos and A
 #meta/reference
 
 ## [See Also]]
-- [[12 Spells
-- [MASTER_MOC]]
+- [[MASTER_MOC]]
 
 ## [[Session Summary
 *Brief overview of this session*
@@ -75,7 +69,7 @@ Practical, table-ready rules for [Possession Mechanics]] across Aquabyssos and A
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

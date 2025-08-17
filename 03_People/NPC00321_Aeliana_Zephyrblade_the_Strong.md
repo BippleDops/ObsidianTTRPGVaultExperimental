@@ -179,54 +179,29 @@ Modifications:
 > Important safety or rule information
 
 ## See Also
-- [[yuan-ti-pit-master-mpmm
-- [Archdruid Thornweaver]]
-- [[NPC01877_Hestara_Moonshadow_the_Mystic
-- [NPC00969_Zephyr_Keenblade_the_Wise]]
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [NPC00080_Branwen_Proudmore]]
-- [[NPC01082_Fiora_Ashford_the_Fallen
-- [NPC00469_Delara_Oakenshield_the_Seeker]]
-- [[NPC00237_Vesper_Ashford_the_Bold
-- [Ambassador Nerida Deepcurrent]]
-- [[NPC01276_Erasmus_Keenblade_the_Wanderer
-- [NPC01252_Jorah_Youngblood_the_Strong]]
-- [[NPC01757_Nerys_Silverleaf_the_Strong
-- [NPC01858_Drusilla_Stormwind_the_Cunning]]
-- [[NPC00307_Dara_Proudmore_the_Seeker
-- [NPC00623_Dara_Oakenshield_the_Wanderer]]
-- [[NPC01568_Lyanna_Winterborn_the_Strong
-- [NPC00129_Gareth_Jadeclaw]]
-- [[NPC01979_Fiora_Emberfall_the_Guardian
-- [NPC00336_Alaric_Frostwhisper_the_Swift]]
-- [[NPC00655_Jorah_Darkwater_the_Seeker
-- [NPC01911_Alaric_Oakenshield_the_Mystic]]
-- [[NPC00749_Xander_Quicksilver
-- [NPC00494_Lyanna_Hawthorne_the_Guardian]]
-- [[NPC01057_Pyria_Quicksilver_the_Scholar
-- [NPC01126_Malakai_Oakenshield_the_Fallen]]
-- [[NPC01625_Qadim_Lightbringer_the_Swift
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC00124_Delara_Ravenheart_the_Redeemed
-- [NPC00378_Malakai_Moonshadow_the_Broken]]
-- [[NPC01476_Qadim_Stormwind_the_Wise
-- [Ship_Schematic_The_Seahawk.md]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC00494_Lyanna_Hawthorne_the_Guardian]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
 - [[What You Know - Abyssos Prime.md
 - [NPC00058_Elric_Nightfall]]
-- [[Welcome_to_Aquabyssos.md
-- [NPC01781_Urien_Keenblade_the_Cunning]]
-- [[NPC00707_Fiora_Oakenshield_the_Seeker
-- [NPC00272_Rhiannon_Brightblade]]
-- [[NPC01566_Lyanna_Underhill_the_Redeemed
-- [Reference.md]]
-- [[MOC_Items
-- [Concept_Map]]
-- [[NPC00670_Xander_Goldleaf_the_Scholar
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01781_Urien_Keenblade_the_Cunning]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01566_Lyanna_Underhill_the_Redeemed]]
+- [[Concept_Map]]
+- [[NPC00670_Xander_Goldleaf_the_Scholar]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -265,20 +240,16 @@ Modifications:
 - Affected by [[Portrait NPC Pressure Angel Benthia V1 Pressure Angel Benthia.png_1 (Portraits)
 - Connects to
 - Affected by [Location City Reflection Pools Surgical Theater Reflection Pools Surgical Theater.svg]]
-- Originates from [[The Deep Mother (D&D_References)
-- Affected by [Ammunition 2 Xdmg]]
-- Originates from [[step_099 (phase_022)
-- Influences [Peasant Villages (D&D_References)]]
+- Originates from [[The Deep Mother (D&D_References)]]
+- Originates from [[Peasant Villages (D&D_References)]]
 - Related: [[Portrait NPC Lord Aldric Thornwhisper V1 Lord Aldric Thornwhisper.svg
 - Parallels [Currency Valuation]]
-- Leads to [[[The Crystalline Foundry (D&D_Statblocks)]]
+- Leads to [[The Crystalline Foundry (D&D_Statblocks)]]
 - Parallels [[SPELL00122_Arcane_Spell_123
 - Related: [LORE00246_History_Entry_247]]
-- Connects to [[[The Floating Market (D&D_References)]]
-- Influences [[LOC00064_Planes_Location_65
-- Influences [The Reality Purists]]
-- Compare with [[MON00140_Aberrations_Creature_141
-- Leads to [step_086 (phase_009)]]
+- Connects to [[The Floating Market (D&D_References)]]
+- Influences [[LOC00064_Planes_Location_65]]
+- Compare with [[MON00140_Aberrations_Creature_141]]
 - Connects to [[Assets Locations Location City [The Deep Temple the Deep Temple.svg]]
 - Connects to [[location-city-spy-games-spy-games.svg
 - Related: [hezrou-xmm (fiend)]]
@@ -288,8 +259,7 @@ Modifications:
 - See also: [LORE00175_History_Entry_176]]
 - Leads to [[list-spells-classes-shadow-magic-xge (lists)
 - See also: [Ring of Lightning Resistance Xdmg]]
-- Leads to [[Academic Centers (D&D_References)
-- Leads to [QUEST00067_Main_Quest_68]]
+- Leads to [[Academic Centers (D&D_References)]]
 - Connects to [[spirit-guardians-xphb (spells)
 - Compare with
 - Affected by [ENC00180_Social_Encounter_181]]
@@ -304,12 +274,10 @@ Modifications:
 - Connects to [[alchemists-supplies-xphb (items)
 - Requires
 - Related: [step_057 (phase_024)]]
-- Leads to [[Weather and Seasons
-- Parallels [LOC00115_Towns_Location_116]]
+- Leads to [[LOC00115_Towns_Location_116]]
 - Affected by [[bountiful-luck-xge (feats)
 - Related: [[Assets Locations Location City [Conservatory of Memory]] V1 Conservatory of Memory.svg]]
-- Influences [[MON00153_Aberrations_Creature_154
-- Affected by [LOC00287_Towns_Location_288]]
+- Influences [[MON00153_Aberrations_Creature_154]]
 - Leads to [[Location_Template_1
 - Influences [step_048 (phase_049)]]
 - Connects to [[step_058 (phase_037)
@@ -326,16 +294,13 @@ Modifications:
 - Influences [[Professional Associations
 - See also: [Shadow Ability Ethics]]
 - Originates from [[Services Phb
-- Originates from [[Assets Locations [[Location City [Coral Throne Syndicate]] Hq V1 [[Coral Throne Syndicate HQ.svg]]]]
+- Originates from [[Assets Locations [[Location City [Coral Throne Syndicate]] Hq V1 [[Coral Throne Syndicate HQ]]]]
 - Related:
-- Leads to [[The Bloodline Carrier (D&D_Statblocks)
-- Requires [step_009 (phase_032)]]
-- Influences [[MON00033_Aberrations_Creature_34
-- Related: [[[Pressure Technology]] 2]]
+- Leads to [[The Bloodline Carrier (D&D_Statblocks)]]
+- Influences [[MON00033_Aberrations_Creature_34]] 2]]
 - Influences [[Derro Madness Mtf
 - Related: [[Shadow [Merchant]]s Guild]]
-- Influences [[step_089 (phase_041)
-- Related: [The Abyssal Prophet (D&D_References)]]
+- Influences [[The Abyssal Prophet (D&D_References)]]
 - Leads to [[portrait-npc-oracle-v2-oracle.svg
 - Originates from
 - Parallels [NPC0077_Minerva_Ironforge]]
@@ -355,8 +320,7 @@ Modifications:
 - Related: [[Location City [Commercial Hubs and Markets]] Commercial Hubs and Markets.svg]]
 - Requires [[QUEST00291_Personal_Quest_292
 - Affected by [XP_Thresholds (02_Worldbuilding)]]
-- Parallels [[Time Storm Shelters
-- Influences [International Training Exchange]]
+- Parallels [[International Training Exchange]]
 - Affected by [[step_003 (phase_032)
 - Related:
 - Originates from [Screaming Tree Guardians]]

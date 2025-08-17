@@ -89,10 +89,8 @@ publish: false --- # ASSET EXPANSION COMPLETE ## Overview ASSET EXPANSION COMPLE
 
 ## Related Content
 - [ULTIMATE_VAULT_ACHIEVEMENT]]
-- [[optimization_report_20250814_180706
-- [audio_fit_report]]
-- [[audio_fit_report_1
-- [SVG_REPLACEMENT_REPORT]]
+- [[OPTIMIZATION_REPORT_2025]]
+- [[SVG_REPLACEMENT_REPORT]]
 - [[ULTIMATE_ASSET_REPORT
 
 ## Game Mechanics
@@ -114,8 +112,7 @@ publish: false --- # ASSET EXPANSION COMPLETE ## Overview ASSET EXPANSION COMPLE
 ## Connections
 
 - Requires [ITEM00458_Warded_Leather_of_Resistance]]
-- Related: [[step_046 (phase_072)
-- See also: [Master Artificer Korvin Gearwright_1]]
+- Related: [[Master Artificer Korvin Gearwright]]
 - Leads to [[Aurelius Goldwave 2
 - Affected by [The Siren_1]]
 - Related: [[step_028 (phase_083)
@@ -128,16 +125,13 @@ publish: false --- # ASSET EXPANSION COMPLETE ## Overview ASSET EXPANSION COMPLE
 - Related: [Location City the Trade Quarter the Trade Quarter.svg]]
 - Compare with [[step_089 (phase_056)
 - Related: [Weather 2 Xdmg]]
-- Leads to [[Harbor District Medical Corps
-- Parallels [step_092 (phase_061)]]
+- Leads to [[Harbor District Medical Corps]]
 - See also: [[step_093 (phase_011)
 - Parallels [SHOP00009_Magical_Shop_10]]
 - See also: [[step_010 (phase_056)
 - Leads to [list-spells-optional-features-dreadful-word (lists)]]
-- Related: [[Scepter of Tidal Command 2
-- Related: [step_048 (phase_014)]]
-- See also: [[Quest - The Iron Loyalty
-- Requires [The Wind Roads]]
+- Related: [[Scepter of Tidal Command 2]]
+- See also: [[Quest - The Iron Loyalty]]
 - Affected by [[Item Artifact Poisoners Kit Xphb Poisoners Kit Xphb.png
 - Parallels [Fort Nautilus]]
 - Parallels [[Assets Locations Location City Pressure Suit Malfunction Pressure Suit Malfunction.svg
@@ -160,28 +154,20 @@ publish: false --- # ASSET EXPANSION COMPLETE ## Overview ASSET EXPANSION COMPLE
 - Related: [dragonlance-sargonnas-phb (deities)]]
 - Related: [[DUN00085_Dungeon_86
 - Leads to [Forgotten Realms Lathander]]
-- Connects to [[Mass_Combat_Evolution (D&D_References)
-- Originates from [The Crown]]
-- Compare with [[Dock Worker Toma\u0301s
-- Connects to [Update Portal]]
-- Influences [[Environmental Engineer Current Depthwrigh (D&D_References)
-- Affected by [LOC00157_Towns_Location_158]]
-- Parallels [[The Hidden Cove of Whispers (D&D_References)
-- Related: [command-xphb (spells)]]
-- See also: [[Captain Trawl Netcaster (D&D_References)
-- Affected by [step_010]]
+- Connects to [[Mass_Combat_Evolution (D&D_References)]]
+- Compare with [[Dock Worker Toma\u0301s]]
+- Influences [[Environmental Engineer Current Depthwrigh (D&D_References)]]
+- Parallels [[The Hidden Cove of Whispers (D&D_References)]]
+- See also: [[Captain Trawl Netcaster (D&D_References)]]
 - Connects to [[Portrait NPC Prince Caspian Duskwater V2 Prince Caspian Duskwater.svg
 - Leads to [SHOP00011_Magical_Shop_12]]
-- Compare with [[Observation Tender Clara (D&D_References)
-- Affected by [Boon of Quick Casting]]
+- Compare with [[Observation Tender Clara (D&D_References)]]
 - Leads to [[Assets Locations Location City Keeper Finn Goodtide V1 Keeper Finn Goodtide.svg
 - Leads to [QUEST00275_Personal_Quest_276]]
 - Leads to [[Assets Locations Location City Inverted Ballroom Wing Inverted Ballroom Wing.svg
 - See also: [Location City Temple District V1 Temple District.svg]]
-- Compare with [[Master Harvest Engineer Kelp Deepso (D&D_References)
-- Influences [The Forgotten Collective (D&D_References)]]
-- Connects to [[Oceanic Historical Society 2
-- Requires [step_050 (phase_009)]]
+- Compare with [[Master Harvest Engineer Kelp Deepso (D&D_References)]]
+- Connects to [[Oceanic Historical Society 2]]
 - Affected by [[step_059 (phase_026)
 - Affected by [step_062]]
 - See also: [[sheep-xdmg (items)
@@ -192,8 +178,7 @@ publish: false --- # ASSET EXPANSION COMPLETE ## Overview ASSET EXPANSION COMPLE
 - Influences [ITEM01349_Ornate_Journal_of_Reliability]]
 - Influences [[step_077 (phase_069)
 - Compare with [step_050]]
-- Connects to [[Introduction (D&D_Sourcebooks)
-- Compare with [step_056]]
+- Connects to [[Introduction (D&D_Sourcebooks)]]
 - Requires [[DUN00151_Dungeon_152
 - Compare with [Truth Reflection]]
 - Related: [[item-artifact-windvane-pota-v4-windvane-pota.png
@@ -206,10 +191,8 @@ publish: false --- # ASSET EXPANSION COMPLETE ## Overview ASSET EXPANSION COMPLE
 - Requires [Symbol Heraldry the Archive of Questions the Archive of Questions.svg]]
 - Parallels [[Navigator Sage Driftwood 2
 - Originates from [dwarf-names-male-xge (tables)]]
-- Requires [[step_004 (phase_042)
-- Compare with [Ambassador Lysandra Silvertonge''s Embassy]]
-- Parallels [[The Shadow Merchants
-- Affected by [The Void Breach Introduction]]
+- Requires [[Ambassador Lysandra Silvertonge''s Embassy]]
+- Parallels [[The Void Breach Introduction]]
 - Leads to [[The Vote Vault Mystery 2
 - Influences [Portrait NPC Master of Currents Poseidon V2 Master of Currents Poseidon.svg]]
 - See also: [[Quest - The Shadow Conspiracy 2]]

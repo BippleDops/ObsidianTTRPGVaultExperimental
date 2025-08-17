@@ -163,22 +163,16 @@ Modifications:
 > Important safety or rule information
 
 ## See Also
-- [[NPC00917_Brenna_Oakenshield_the_Seeker
-- [NPC01841_Malakai_Nightfall_the_Wise]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [Ambassador Nerida Deepcurrent]]
-- [[NPC01057_Pyria_Quicksilver_the_Scholar
-- [NPC01012_Solas_Darkwater_the_Strong]]
-- [[NPC00250_Delara_Darkwater_the_Fallen
-- [NPC00812_Kaelen_Jadeclaw_the_Seeker]]
-- [[NPC01431_Kaelen_Zephyrblade_the_Guardian
-- [MOC_Rules]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -216,8 +210,7 @@ Modifications:
 - Connects to
 - Connects to [[#People
 - Compare with [LOC00212_Wilderness_Location_213]]
-- See also: [[Investigation Procedures (D&D_References)
-- Originates from [Free Current]]
+- See also: [[Investigation Procedures (D&D_References)]]
 - Related: [[Foreign Crime Syndicate
 - Connects to [The Deepwatch Guard 2]]
 - Originates from [[SPELL0035_Mystic_Storm
@@ -228,16 +221,14 @@ Modifications:
 - See also: [[Medical College of [Aquabyssos]]
 - Requires [[Create Homunculus Xge
 - Compare with [carved-bone-statuette-xdmg (items)]]
-- See also: [[NPC01195_Gareth_Keenblade_the_Guardian
-- Parallels [step_091 (phase_043)]]
+- See also: [[NPC01195_Gareth_Keenblade_the_Guardian]]
 - Related: [[LOC0039_PortGate
 - Parallels [Quest Name]]
 - Originates from [[MON00037_Aberrations_Creature_38
 - Connects to [[Location City [Calm Soothingwave]] V1 Calm Soothingwave.svg]]
 - Parallels [[myconid-sovereign-xmm (plant)
 - Related: [Initiative_Tracker]]
-- Related: [[step_028 (phase_012)
-- Leads to [Temporal Anomaly Resolution (D&D_References)]]
+- Related: [[Temporal Anomaly Resolution (D&D_References)]]
 - Requires [[step_002 (phase_006)
 - Connects to [Location City Quest the Truth Unveiled Quest the Truth Unveiled.svg]]
 - Requires [[Assets Locations [[Location City [The Bone Colosseum V1 the Bone Colosseum.svg]]]]
@@ -258,8 +249,7 @@ Modifications:
 - Related: [[Map Map Cloud Dock Boarding Action Cloud Dock Boarding Action.svg
 - Affected by
 - Leads to [Create_New_Session.png_1 (Art)]]
-- See also: [[NPC00703_Elric_Dawnstrider_the_Swift
-- Originates from [step_045 (phase_041)]]
+- See also: [[NPC00703_Elric_Dawnstrider_the_Swift]]
 - Leads to [[LOC00267_Wilderness_Location_268
 - Parallels [trap-effects-damage-severity-by-level (tables)]]
 - Originates from [[Symbol Heraldry Chaplain Abyssos the Deepseeke V1 Chaplain Abyssos the Deepseeke.svg
@@ -271,14 +261,12 @@ Modifications:
 - Influences [[QUEST0096_Investigate_the_Cult
 - Parallels [LORE00182_Prophecies_Entry_183]]
 - Connects to [[Location City [Representative Coral Youngcurrent Representative Coral Youngcurrent.svg]]
-- See also: [[LORE00106_Prophecies_Entry_107
-- Leads to [NPC00922_Wynne_Youngblood_the_Fallen]]
+- See also: [[NPC00922_Wynne_Youngblood_the_Fallen]]
 - Parallels [[ENC00204_Social_Encounter_205
 - Requires [[Location City [Feast Saltyflavor]] V1 Feast Saltyflavor.svg]]
 - Requires [[step_056 (phase_004)
 - Compare with [step_026 (phase_072)]]
-- Requires [[Session Feedback Form
-- Leads to [Crafting_Transcendence (D&D_References)]]
+- Requires [[Crafting_Transcendence (D&D_References)]]
 - Related: [[Location City [Education Department V1 Education Department.svg]]
 - Requires [[LOC0071_SouthPeak
 - See also: [greataxe-xphb (items)]]
@@ -290,20 +278,17 @@ Modifications:
 - Leads to [step_056 (phase_007)]]
 - Requires [[Location City the Pressure Forges the Pressure Forges.svg
 - Influences [step_040 (phase_029)]]
-- Parallels [[LOC00049_Cities_Location_50
-- Leads to [step_096 (phase_023)]]
+- Parallels [[LOC00049_Cities_Location_50]]
 - Connects to [[Matriarch Cloudweaver
 - Requires [Magnus Fairweigh]]
 - Related: [[Quest - The Crimson Tide
 - Related: [step_060 (phase_097)]]
-- Connects to [[Underground Railroad Leader 2
-- Parallels [FAC00033_Guilds_34]]
+- Connects to [[Underground Railroad Leader 2]]
 - Requires [[QUEST00181_Side_Quest_182
 - Influences [MON00001_Aberrations_Creature_2]]
 - Leads to [[Scroll of Protection Constructs Xdmg
 - See also: [step_064 (phase_074)]]
-- Originates from [[The River Spirits (D&D_References)
-- Leads to [[[Mira Algaebrew]] (D&D_References)]]
+- Originates from [[The River Spirits (D&D_References)]] (D&D_References)]]
 - Related: [[The Anonymous Protocol 2
 - Requires [step_027 (phase_040)]]
 - Originates from

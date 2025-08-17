@@ -273,9 +273,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### [[The Age of Founding (1000 years ago)
 - [The First]] Settlement
 - Discovery of magical crystals
-- War with indigenous [[Peoples
-
-### [The Golden]] Era (500 years ago)
+- War with indigenous [[People]] Era (500 years ago)
 - Economic prosperity
 - Cultural renaissance
 - Expansion of territory
@@ -335,7 +333,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

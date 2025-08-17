@@ -157,40 +157,22 @@ Being extorted by criminals
 - Special moves
 
 ## See Also
-- [[NPC01483_Gavril_Zephyrblade_the_Fallen
-- [NPC01989_Erasmus_Xendar_the_Strong]]
-- [[NPC01951_Gavril_Xendar_the_Swift
-- [NPC00300_Urien_Zephyrblade]]
-- [[Session 3 the Duplicate Crisis
-- [QUEST00258_Side_Quest_259]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[Session 3 the Duplicate Crisis]]
 - [[QUEST00441_Side_Quest_442
 - [Faction_Guide.md]]
-- [[NPC00260_Wynne_Underhill_the_Fallen
-- [NPC00129_Gareth_Jadeclaw]]
-- [[NPC00190_Cedric_Silverleaf
-- [NPC00362_Pyria_Stormwind_the_Wise]]
-- [[The Forgotten Representative
-- [NPC00976_Alaric_Quicksilver_the_Strong]]
-- [[Ritual_Timing_Wheel_Convergenc
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[Parliamentary_Voting_Guide
-- [Combat_Encounter_Analysis]]
-- [[Player_Feedback_Form.md
-- [Reference.md]]
-- [[NPC00058_Elric_Nightfall
-- [NPC00321_Aeliana_Zephyrblade_the_Strong]]
-- [[NPC00200_Faelyn_Winterborn_the_Guardian
-- [NPC01594_Fiora_Proudmore_the_Seeker]]
-- [[NPC00625_Kaelen_Brightblade_the_Redeemed
-- [02 Step by Step Characters]]
-- [[04 Classes
-- [Propaganda_Leaflet_Pearl_Guar]]
-- [[NPC01877_Hestara_Moonshadow_the_Mystic
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[Parliamentary_Voting_Guide]]
+- [[Player_Feedback_Form]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -209,53 +191,43 @@ Being extorted by criminals
 - Compare with [FAC00089_Guilds_90]]
 - Leads to [[Aquabyssos
 - See also: [step_051 (phase_012)]]
-- Compare with [[Teacher-Administrator Shadowlearn (D&D_References)
-- See also: [LOC00143_Dungeons_Location_144]]
+- Compare with [[Teacher-Administrator Shadowlearn (D&D_References)]]
 - See also: [[Embroidered Silk and Velvet Mantle Set with Numerous Moonstones Xdmg
 - Affected by [Forgotten Realms Kelemvor]]
-- Originates from [[NPC00862_Xander_Grimholt
-- Leads to [Law Enforcement 2]]
+- Originates from [[NPC00862_Xander_Grimholt]]
 - Connects to [[Symbol Heraldry the Light Preservation Society the Light Preservation Society.svg
 - Compare with [List Spells Races Tiefling Fierna Mtf]]
 - Influences [[Assets Locations Location City Barkeep Mira Algaebrew Barkeep Mira Algaebrew.svg
 - Leads to [High Tidecaller Nerissa Deepcurrent]]
-- Requires [[LOC00279_Wilderness_Location_280
-- Requires [Quick Start Guide (D&D_References)]]
+- Requires [[Quick Start Guide (D&D_References)]]
 - Requires [[ITEM00954_Lesser_Crystal_of_Healing
 - Related: [silver-dragon-xmm (legendary-group)]]
 - Connects to [[Pier 8 (D&D_References)
 - Influences [Sister Benthos Scrollheart]]
-- Affected by [[LORE0088_Myth_of_the_First_King
-- Related: [Bracers of Defense Xdmg]]
+- Affected by [[LORE0088_Myth_of_the_First_King]]
 - Connects to [[Merged Reality Zones 2
 - Connects to [unicorn-xmm (legendary-group)]]
-- Leads to [[tyrannosaurus-rex-xmm (beast)
-- Leads to [Captain Prism-Shield Valeria (D&D_References)]]
+- Leads to [[Captain Prism-Shield Valeria (D&D_References)]]
 - Influences [[The Mourning Bells
 - Requires [Guide Helpfulcurrent]]
 - Leads to [[The Identity Stabilizer
 - Parallels [Void Resistance Training]]
-- Compare with [[step_058 (phase_082)
-- See also: [Community-Based Restorative Justice]]
-- Related: [[Lady Willow Greenbough (D&D_References)
-- Requires [step_003 (phase_075)]]
+- Compare with [[Community-Based Restorative Justice]]
+- Related: [[Lady Willow Greenbough (D&D_References)]]
 - Originates from [[The Clockwork Depths (D&D_References)
 - Affected by [04_Resources_Assets_Locations_location-city-surge-mixmaster-surge-mixmaster.png]]
 - Requires [[Old Sally Seasprayer
 - Influences [step_069 (phase_059)]]
 - Originates from [[The Shipwright Guilds (Guilds)
 - Connects to [LORE0081_Legend_of_the_Dragon_Wars]]
-- Compare with [[step_094 (phase_011)
-- Originates from [NPC01631_Fiora_Ironwood_the_Mystic]]
+- Compare with [[NPC01631_Fiora_Ironwood_the_Mystic]]
 - See also: [[QUEST0001_Hunt_the_Assassins
 - Parallels [Assets Locations Location City Surgeon Coral Seamender V1 Surgeon Coral Seamender.svg]]
 - Originates from [[LORE00322_Legends_Entry_323
 - Leads to [The Singer Beyond (Lore)]]
-- Influences [[NPC00511_Delara_Youngblood_the_Strong
-- Affected by [Potion of Poison Xdmg]]
+- Influences [[NPC00511_Delara_Youngblood_the_Strong]]
 - Parallels
-- Related: [[1 the Blood War
-- Influences [SPELL00068_Nature_Spell_69]]
+- Related: [[SPELL00068_Nature_Spell_69]]
 - Parallels [[NPC00289_Idris_Darkwater
 - Parallels [Improvised Weapons Xphb]]
 - Affected by
@@ -269,22 +241,18 @@ Being extorted by criminals
 - Related: [Location City Pearl Sharpedge V1 Pearl Sharpedge.svg]]
 - Affected by [[Royal Court 2
 - Leads to [Senator Glaucus Brain (Lore)]]
-- Influences [[Entities Crystal Power Nodes
-- Related: [FAC00092_Orders_93]]
+- Influences [[Entities Crystal Power Nodes]]
 - Parallels [[The Deepwater Terminal (D&D_References)
 - Related: [The Great Convergence Prophecies (Lore)]]
-- Affected by [[step_058 (phase_064)
-- Related: [Enchanter Valdris Peacewarden (D&D_References)]]
+- Affected by [[Enchanter Valdris Peacewarden (D&D_References)]]
 - Requires [[fire-giant-xmm (giant)
 - Originates from [The Crystal Spires]]
 - Affected by [[step_022 (phase_030)
 - Connects to [portrait-npc-senator-marius-senator-marius.svg]]
 - Originates from [[Security Services
 - Influences [Location City Taverner Bubbles Mcgill Taverner Bubbles Mcgill.svg]]
-- Originates from [[Quest - Patient Zero 2
-- Affected by [ITEM0080_Ancient_Crown_of_the_Dawn]]
-- Compare with [[step_022 (phase_023)
-- Influences [Depth Effect Quick Reference 2]]
+- Originates from [[ITEM0080_Ancient_Crown_of_the_Dawn]]
+- Compare with [[Depth Effect Quick Reference 2]]
 - Originates from [[step_090 (phase_011)
 - See also: [Map Map Bioluminescent Forest Ambush Bioluminescent Forest Ambush.png]]
 - See also: [[step_084 (phase_049)
@@ -294,8 +262,7 @@ Being extorted by criminals
 - Affected by [Roleplaying a Beholder Beholder Personality]]
 - Related: [[Portrait NPC Brother Matthias the Amber Bearer V1 Brother Matthias the Amber Bearer.svg_1 (Portraits)
 - Requires [LORE00057_History_Entry_58]]
-- Compare with [[Ancient Guardian Thalassios the Eternal
-- Requires [Pirates]]
+- Compare with [[Ancient Guardian Thalassios the Eternal]]
 - Requires [[portrait-npc-the-siren-the-siren.svg_1 (Portraits)
 - Influences [04_Resources_Assets_Locations_location-city-scout-captain-vera-deepwatch-scout-captain-vera-deepwatch.svg]]
 - Connects to [[step_088 (phase_077)

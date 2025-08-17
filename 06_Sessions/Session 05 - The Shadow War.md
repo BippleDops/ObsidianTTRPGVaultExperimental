@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:40.907889"
 modified: "2025-08-15T12:24:40.907893"
-aliases: [Session 05 - [[The Shadow]] War]
+aliases: [Session 05 - [[The Shadowmere]] War]
 ---
 
 # Session 05   [[The Shadow War
@@ -16,13 +16,13 @@ aliases: [Session 05 - [[The Shadow]] War]
 
 Comprehensive overview of this content.
 
---- aliases: ["Session 05 - [[The Shadow]] War"]
+--- aliases: ["Session 05 - [[The Shadowmere]] War"]
 created: 2025-08-15
 modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: Session 05 - [[The Shadow]] War.Md
+subcategory: Session 05 - [[The Shadowmere]] War.Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -34,7 +34,7 @@ modified: '2025-01-15'
 - -- # Session 05 - [The Shadow]] War - -- ## Description
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
-title: Session 05 [[The Shadow]] War
+title: Session 05 [[The Shadowmere]] War
 type: Lore
 tags:
 - lore

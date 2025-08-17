@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.343390"
 modified: "2025-08-15T12:24:39.343392"
-aliases: [Session 18 [[Horror Corruption]]]
+aliases: [Session 18 [[Session 18 Horror Corruption]]]
 ---
 
 # Session 18 [[Horror Corruption
@@ -16,13 +16,13 @@ aliases: [Session 18 [[Horror Corruption]]]
 
 Comprehensive overview of this content.
 
---- aliases: ["Session 18 [[Horror Corruption]]"]
+--- aliases: ["Session 18 [[Session 18 Horror Corruption]]"]
 created: 2025-08-15
 modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: Session 18 [[Horror Corruption]].Md
+subcategory: Session 18 [[Session 18 Horror Corruption]].Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -33,7 +33,7 @@ tags:
 modified: '2025-01-15'
 - -- # Session_18_Horror_Corruption - -- ## Description {#description} Detailed description pending.
 title: Session 18 [Horror Corruption]]
-type: [[Session Summary]]
+type: [[Session Summary Template]]
 tags:
 - player/session-summary
 - campaign/example

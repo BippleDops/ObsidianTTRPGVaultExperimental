@@ -6,5 +6,8 @@
     "visual",
     "generated"
   ],
-  "created": "2025-08-16T16:58:14.741Z"
+  "created": "2025-08-16T16:58:14.741Z",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:49:08.857Z",
+  "generationMethod": "ComfyUI"
 }

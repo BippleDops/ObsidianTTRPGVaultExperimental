@@ -166,50 +166,30 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[Sage Elara
-- [NPC00761_Aldric_Moonshadow_the_Guardian]]
-- [[NPC01660_Thalia_Moonshadow_the_Fallen
-- [NPC00046_Urien_Ironwood_the_Wise]]
-- [[NPC00451_Malakai_Ravenheart_the_Broken
-- [Marcus Shardbreaker Grimm_1]]
-- [[NPC00461_Branwen_Proudmore_the_Strong
-- [NPC00057_Malakai_Stormwind_the_Cunning]]
-- [[NPC01371_Xander_Stormwind_the_Guardian
-- [NPC01812_Xander_Lightbringer_the_Swift]]
-- [[NPC00582_Cedric_Dawnstrider
-- [NPC00324_Idris_Hawthorne_the_Strong]]
-- [[NPC00707_Fiora_Oakenshield_the_Seeker
-- [NPC00515_Baelor_Crystalbrook_the_Seeker]]
-- [[NPC01498_Gareth_Quicksilver_the_Risen
-- [NPC01195_Gareth_Keenblade_the_Guardian]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[Pilgrim_Pass_Prayer_Sli
-- [Faction_Relationship_Web]]
-- [[Ship_Schematic_The_Seahawk.md
-- [NPC01057_Pyria_Quicksilver_the_Scholar]]
-- [[Propaganda_Broadsheet_Syndicate.md
-- [NPC01931_Thalia_Lightbringer_the_Fallen]]
-- [[NPC01827_Kaelen_Ironforge_the_Seeker
-- [07 Customization Options]]
-- [[04 Classes
-- [NPC01894_Aldric_Lightbringer_the_Bold]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[11 Rules Glossary
-- [Character_Journal_Template]]
-- [[NPC00501_Orion_Nightfall_the_Broken
-- [Propaganda_Leaflet_Pearl_Guar]]
-- [[NPC00259_Delara_Proudmore
-- [Session_Recaps]]
-- [[NPC01040_Zephyr_Lightbringer_the_Strong
-- [NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[Faction_Relationship_Web]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[Character_Journal_Template]]
+- [[NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC00259_Delara_Proudmore]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -227,15 +207,13 @@ Modifications:
 - Connects to [[Meditation Chamber
 - Connects to [rally-xphb (optional-features)]]
 - Originates from
-- Related: [[Lost Archive
-- Parallels [LOC00009_Planes_Location_10]]
+- Related: [[LOC00009_Planes_Location_10]]
 - Connects to [[Assets Locations Location City [Emergency Protocols Emergency Protocols.svg]]
 - Originates from [[Location City [Hadrian Depthbridge V1 Hadrian Depthbridge.svg]]
-- Affected by [[[The Aether Works (D&D_References)]]
+- Affected by [[The Aether Works (D&D_References)]]
 - Parallels [[ITEM01409_Practical_Lock_of_Convenience
 - Connects to [Temporal Magic Research]]
-- See also: [[ITEM0131_Divine_Blade_of_Shadows
-- Connects to [Forest Communities]]
+- See also: [[ITEM0131_Divine_Blade_of_Shadows]]
 - Affected by [[NPCs (Portrait_Prompts)
 - Leads to [portrait-npc-emperor-v2-emperor.svg_1 (Portraits)]]
 - Parallels [[Assets Handouts Handout Handout Council Summons Notice V3 Council Summons Notice.png
@@ -243,13 +221,11 @@ Modifications:
 - Influences [[rogue-xphb-scout-xge (classes)
 - Requires [Market Squar 2]]
 - Related:
-- Related: [[NPC00335_Ewan_Voidwalker
-- Related: [Temporal Protection (D&D_References)]]
+- Related: [[Temporal Protection (D&D_References)]]
 - Requires
 - Related: [[Central Territories
 - Influences [Current Manipulation]]
-- Parallels [[step_051 (phase_035)
-- Leads to [QUEST0021_Destroy_the_Pirates]]
+- Parallels [[QUEST0021_Destroy_the_Pirates]]
 - Leads to [[FINAL_1000_IMPROVEMENTS_SUBCARY
 - Parallels [[[Electric Eel]] (D&D_References)]]
 - See also:
@@ -265,13 +241,10 @@ Modifications:
 - Related: [Surface Coalition 2]]
 - Influences [[QUEST00473_Side_Quest_474
 - Affected by [ENC00199_Social_Encounter_200]]
-- Affected by [[Information Exchange
-- Affected by [QUEST0007_In_Search_of_Justice]]
+- Affected by [[QUEST0007_In_Search_of_Justice]]
 - See also: [[Portrait NPC [Abyssos Prime Throne of Bubbles Abyssos Prime Throne of Bubbles.svg]]
-- Compare with [[Valley of Eternal Mourning
-- Related: [UNIFIED_VAULT_COMPLETION_GUIDE]]
-- Compare with [[Regional Coordinator Crystal Truthseer
-- Compare with [The Tidal Sanctum 2]]
+- Compare with [[UNIFIED_VAULT_COMPLETION_GUIDE]]
+- Compare with [[Regional Coordinator Crystal Truthseer]]
 - Leads to [[Symbol Heraldry Quest the Family Reconciliatio V1 Quest the Family Reconciliatio.svg
 - Related: [step_065 (phase_067)]]
 - Parallels [[step_047 (phase_054)
@@ -280,8 +253,7 @@ Modifications:
 - Influences [step_081 (phase_019)]]
 - Affected by [[portrait-npc-the-crimson-sage-the-crimson-sage.svg
 - Compare with [[Location City [Ancient Historian Memento]] Ancient Historian Memento.svg]]
-- Influences [[NPC00738_Dara_Lightbringer_the_Bold
-- Originates from [The Oracle]]
+- Influences [[NPC00738_Dara_Lightbringer_the_Bold]]
 - See also: [[adult-gold-dragon-xmm
 - Influences [SPELL00108_Divine_Spell_109]]
 - Originates from
@@ -296,15 +268,13 @@ Modifications:
 - Connects to [NPC00457_Corvus_Ashford_the_Bold]]
 - Influences [[ENC00222_Combat_Encounter_223
 - Compare with [egyptian-re-horakhty (deities)]]
-- Leads to [[Magical Component Manufacturers Guil
-- Related: [step_065 (phase_063)]]
+- Leads to [[Magical Component Manufacturers Guil]]
 - Requires [[step_014 (phase_044)
 - Connects to [Portrait NPC the Resonance Prophet V2 the Resonance Prophet.svg_1 (Portraits)]]
 - Related: [[step_015 (phase_049)
 - Related: [Psychic Gray Ooze Xmm]]
 - Influences
-- Parallels [[High Oracle Serenity Deepcall (D&D_References)
-- Originates from [hunting-rifle-xdmg (items)]]
+- Parallels [[High Oracle Serenity Deepcall (D&D_References)]]
 - Leads to [[step_008 (phase_081)
 - Connects to [ghast-gravecaller-xmm (undead)]]
 - Compare with [[04_Resources_Assets_Locations_location-city-portal-commander-marina-bridgewright-portal-commander-marina-bridgewright.png
@@ -313,8 +283,7 @@ Modifications:
 - Compare with [step_004 (phase_023)]]
 - See also: [[step_087 (phase_091)
 - Influences [step_092 (phase_084)]]
-- See also: [[Club Xphb
-- Affected by [Shadowblade Marshal Darian Nightstrike]]
+- See also: [[Shadowblade Marshal Darian Nightstrike]]
 - Parallels [[Set of Gold Nesting Dolls Xdmg
 - See also: [eyebite-xphb (spells)]]
 - See also: [[DUN00174_Dungeon_175

@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.373935"
 modified: "2025-08-15T12:24:39.373936"
-aliases: [Session 5 [[Conspiracy Revealed]]]
+aliases: [Session 5 [[Session 5 Conspiracy Revealed]]]
 ---
 
 # Session 5 [[Conspiracy Revealed
@@ -22,7 +22,7 @@ modified: '2025-01-15'
 - -- # Session 5 [[Conspiracy Revealed - -- ## Description
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
-title: '[The Sunken]] Conspiracy - Session 5: [[Conspiracy Revealed]]'
+title: '[The Sunken]] Conspiracy - Session 5: [[Session 5 Conspiracy Revealed]]'
 type: Adventure
 tags:
 - aquabyssos
@@ -46,7 +46,7 @@ duration: 4-5 hours
 level_range: 3-4
 updated: '2025-08-13T12:34:17.826031+00:00'
 world: Aquabyssos
-- -- # Session 5: [Conspiracy Revealed]] * [[The Sunken Conspiracy - [Final Confrontation]] and Revelations* ## 🔧 [[Deep Evaluation Improvements * 20 targeted improvements identified* ### [Connection Improvements]] - Add cross-references to related notes ### [[Enhancement Improvements - Add 12_Research-specific enhancement ## [Session Overview]] **[[Expected Duration**: 4-5 hours **[Party Level]]**: 3rd-4th level **[[Adventure Type**: [Climactic Finale]], [[Diplomatic Crisis, [Multiple Endings]] **[[Key Themes**: Moral choices with lasting consequences, preventing war, balancing justice with mercy, shaping the future ### 18 [Hours Until]] Invasion **[[The Emergency [Parliament Session]]**: > [[Port Meridian buzzes with desperate activity as Aquabyssos prepares for the unthinkable—war with the surface world. In the great Parliament chambers, hastily repaired after the recent attack, representatives from every corner of the underwater realm debate frantically. Some call for immediate mobilization, others for diplomatic solutions, while a few whisper of ancient powers that could end the threat forever. **[Current Situation]] Assessment**:
+- -- # Session 5: [Conspiracy Revealed]] * [[The Sunken Conspiracy]] and Revelations* ## 🔧 [[Deep Evaluation Improvements * 20 targeted improvements identified* ### [Connection Improvements]] - Add cross-references to related notes ### [[Enhancement Improvements - Add 12_Research-specific enhancement ## [Session Overview]] **[[Expected Duration**: 4-5 hours **[Party Level]]**: 3rd-4th level **[[Adventure Type**: [Climactic Finale]], [[Diplomatic Crisis, [Multiple Endings]] **[[Key Themes**: Moral choices with lasting consequences, preventing war, balancing justice with mercy, shaping the future ### 18 [Hours Until]] Invasion **[[The Emergency [Parliament Session]]**: > [[Port Meridian buzzes with desperate activity as Aquabyssos prepares for the unthinkable—war with the surface world. In the great Parliament chambers, hastily repaired after the recent attack, representatives from every corner of the underwater realm debate frantically. Some call for immediate mobilization, others for diplomatic solutions, while a few whisper of ancient powers that could end the threat forever. **[Current Situation]] Assessment**:
 - **[[Surface Fleet**: 12 warships approaching, ETA 18 hours
 - **[Parliament Status]]**: Divided between military and diplomatic responses
 - **[[Ancient Technology**: Various levels of access depending on party's Session 4 choices
@@ -331,7 +331,7 @@ world: Aquabyssos
 - [[[[Historical Context|[Historical Context]]]] ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## [Alternate Descriptions]] - **[[First Impression**: Initial appearance
 - **[Closer Look]]**: Detailed examination
 - **[[Hidden Details**: Secret aspects ## [Random Table]] | d6 | Result |
-| aliases: ["Session 5 [[Conspiracy Revealed]]"]
+| aliases: ["Session 5 [[Session 5 Conspiracy Revealed]]"]
 priority: normal
 category: 06 Sessions
 subcategory: Session 5 [[Conspiracy Revealed.Md

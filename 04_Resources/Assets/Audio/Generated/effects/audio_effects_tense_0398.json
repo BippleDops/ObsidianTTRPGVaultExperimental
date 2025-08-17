@@ -11,5 +11,8 @@
     "tense",
     "generated"
   ],
-  "created": "2025-08-16T16:58:14.761Z"
+  "created": "2025-08-16T16:58:14.761Z",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:47:41.201Z",
+  "generationMethod": "ComfyUI"
 }

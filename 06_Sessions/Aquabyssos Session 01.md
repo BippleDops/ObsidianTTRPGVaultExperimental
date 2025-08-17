@@ -29,7 +29,7 @@ This document contains important information regarding [Aquabyssos Session]] 01 
 
 **Details**: Rich sensory elements bring this to life.
 
-[[Aquabyssos Session]] 01 represents a significant element within the campaign world, offering various opportunities for engagement and developmen
+[[Aquabyssos Session 01]] 01 represents a significant element within the campaign world, offering various opportunities for engagement and developmen
 *The [texture] surface feels [description] to the touch.*t. Additionally, ## [[Key Information
 
 - **[Primary Purpose]]**: Serves specific function within the world
@@ -81,7 +81,7 @@ This content can be adapted and expanded based on specific campaign needs. ## [P
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

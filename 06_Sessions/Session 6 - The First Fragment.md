@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:40.921466"
 modified: "2025-08-15T12:24:40.921470"
-aliases: [Session 6 - [[The First]] Fragment]
+aliases: [Session 6 - [[The First Water]] Fragment]
 ---
 
 # Session 6   [[The First Fragment
@@ -19,7 +19,7 @@ tags:
 - session title: Session 6 [The First]] Fragment
 type: session
 updated: 2025-08-14
-- -- # Session 6 - [[The First Fragment ## [Overview This]] document contains important information regarding Session 6 - [[The First Fragment and its role within the greater narrative. ## Description
+- -- # Session 6 - [[Session 6 - The First Fragment]] document contains important information regarding Session 6 - [[The First Fragment and its role within the greater narrative. ## Description
 
 **Details**: Rich sensory elements bring this to life. Session 6 - [The First]] Fragment represents a significant element within the campaign world, offering various opportunities for engagement and de
 *The air carries the scent of [appropriate smell].*velopment. Moreover, ## [[Key Information - **[Primary Purpose]]**: Serves specific function within the world
@@ -37,7 +37,7 @@ updated: 2025-08-14
 aliases: ["Session 6 - [The First]] Fragment"]
 priority: normal
 category: 06 Sessions
-subcategory: Session 6 - [[The First]] Fragment.Md
+subcategory: Session 6 - [[The First Water]] Fragment.Md
 related: []
 cssclass: standard
 publish: false --- -|--------|

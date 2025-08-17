@@ -162,8 +162,7 @@ Family member has gone missing
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -176,17 +175,13 @@ Family member has gone missing
 
 ## Connections
 
-- Connects to [[NPC01336_Ewan_Hawthorne_the_Strong
-- Requires [step_085 (phase_034)]]
-- Affected by [[The Divine Revelation 2
-- Affected by [NPC01374_Ewan_Nightfall_the_Broken]]
+- Connects to [[NPC01336_Ewan_Hawthorne_the_Strong]]
+- Affected by [[NPC01374_Ewan_Nightfall_the_Broken]]
 - Leads to [[step_026 (phase_049)
 - Requires [Quest - Harbor Expansion]]
 - Connects to
-- Influences [[larva-xmm (fiend)
-- Related: [LOC00221_Towns_Location_222]]
-- Originates from [[NPC00623_Dara_Oakenshield_the_Wanderer
-- Requires [Quest - The Symbiotic Sacrament]]
+- Influences [[LOC00221_Towns_Location_222]]
+- Originates from [[NPC00623_Dara_Oakenshield_the_Wanderer]]
 - Leads to [[Assets Locations Location City Harbor Pilot Captain Storm Skyreacher Harbor Pilot Captain Storm Skyreacher.svg
 - Compare with [QUEST00151_Side_Quest_152]]
 - See also: [[Shield
@@ -216,8 +211,7 @@ Family member has gone missing
 - Connects to [The Crystal Throne]]
 - Parallels [[step_060 (phase_043)
 - Related: [Location City Garden of Shadows Garden of Shadows.svg]]
-- Leads to [[ITEM01333_Practical_Tool_Kit_of_Convenience
-- Affected by [Captain Sterling Lightshield (D&D_References)]]
+- Leads to [[Captain Sterling Lightshield (D&D_References)]]
 - Connects to [[LORE00126_Legends_Entry_127
 - Connects to [step_025 (phase_094)]]
 - Parallels [[Marianas Abys (D&D_References)
@@ -228,16 +222,14 @@ Family member has gone missing
 - Influences [Assets Locations Location City Gallery of Echoing Truths Gallery of Echoing Truths.svg]]
 - Compare with [[Berbalang Mpmm
 - Connects to [step_064 (phase_053)]]
-- Connects to [[Windweaver Spire
-- Connects to [Lady Catherine Mourning (D&D_References)]]
+- Connects to [[Lady Catherine Mourning (D&D_References)]]
 - Connects to [[step_053 (phase_021)
 - Parallels [step_025 (phase_075)]]
 - Originates from [[Scarlet Torrent
 - Parallels [Location City Memory Meadows Black Market V1 Memory Meadows Black Market.svg]]
 - Originates from [[Update Indexes (D&D_References)
 - Compare with [MON00057_Undead_Creature_58]]
-- Requires [[QUEST00138_Main_Quest_139
-- Related: [step_055 (phase_095)]]
+- Requires [[QUEST00138_Main_Quest_139]]
 - Leads to [[step_050 (phase_099)
 - Related: [Noble District 2]]
 - See also: [[04_Resources_Assets_Locations_location-city-temple-guardian-marcus-the-drowned-temple-guardian-marcus-the-drowned.svg
@@ -251,28 +243,22 @@ Family member has gone missing
 - Requires [Red Dragon Scale Mail Xdmg]]
 - Connects to [[step_082 (phase_065)
 - See also: [forgotten-realms-sune (deities)]]
-- Leads to [[Identity Verification Mirrors
-- See also: [step_083 (phase_044)]]
-- Affected by [[The Memorial Garden (D&D_References)
-- Originates from [EVENT00081_Magical_Event_82]]
-- Parallels [[step_014 (phase_064)
-- Connects to [QUEST0058_The_Haunted_Manor_Conspiracy]]
-- Parallels [[step_081 (phase_100)
-- Related: [ITEM0011_Divine_Shield_of_Power]]
+- Leads to [[Identity Verification Mirrors]]
+- Affected by [[The Memorial Garden (D&D_References)]]
+- Parallels [[QUEST0058_The_Haunted_Manor_Conspiracy]]
+- Parallels [[ITEM0011_Divine_Shield_of_Power]]
 - Leads to [[list-spells-classes-ranger (lists)
 - Related: [Trader Compass Rose 2]]
 - Parallels [[portrait-npc-memory-merchants-memory-merchants.svg_1 (Portraits)
 - Originates from [step_004 (phase_080)]]
-- Requires [[Safety Director Storm Shieldvoice 2
-- Influences [Frontier Settlement 2]]
+- Requires [[Safety Director Storm Shieldvoice 2]]
 - Requires [[Salty Anchor Tavern
 - Parallels [layers-of-ysgard-xdmg (tables)]]
 - Affected by [[Location City Abyssos Prime Pressure Terminal V1 Abyssos Prime Pressure Terminal.svg
 - Parallels [MON00147_Aberrations_Creature_148]]
 - Originates from [[portrait-npc-senator-v2-senator.svg_1 (Portraits)
 - See also: [Assets Locations Location City Bathyal Succession V1 Bathyal Succession.svg]]
-- Affected by [[Corrupt Crystalline Guard (D&D_References)
-- Requires [step_052 (phase_078)]]
+- Affected by [[Corrupt Crystalline Guard (D&D_References)]]
 - Leads to [[Portrait NPC Sage Lysander Deepthought V2 Sage Lysander Deepthought.svg
 - Leads to [LOC00195_Dungeons_Location_196]]
 - Influences [[Bloom Field Cultivation Guild

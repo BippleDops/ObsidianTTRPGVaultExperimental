@@ -81,8 +81,7 @@ publish: false --- # Smart Lean Improvements Report Generated: 2025-08-15T04:51:
 
 ## Related Content
 - [audio_fit_report]]
-- [[audio_fit_report_1
-- [SVG_REPLACEMENT_REPORT]]
+- [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -106,30 +105,22 @@ publish: false --- # Smart Lean Improvements Report Generated: 2025-08-15T04:51:
 - Affected by [Reality Anchor Network (D&D_References)]]
 - Connects to [[Location City Commander Drake Pressureborn V1 Commander Drake Pressureborn.svg
 - Originates from [Portrait NPC Quest the Succession Crisis V1 Quest the Succession Crisis.svg]]
-- Originates from [[The Authentication Crisis 2
-- Leads to [step_085 (phase_004)]]
-- Affected by [[step_057
-- Influences [Oracle Mistweaver 2]]
+- Originates from [[The Authentication Crisis 2]]
+- Affected by [[Oracle Mistweaver 2]]
 - Compare with [[step_087 (phase_078)
 - Leads to [step_076]]
 - Affected by [[step_060 (phase_094)
 - Affected by [step_056 (phase_025)]]
-- Compare with [[DUN00017_Dungeon_18
-- See also: [ENC00341_Combat_Encounter_342]]
-- Originates from [[Corrupted Government Reflections
-- Influences [step_055]]
+- Compare with [[ENC00341_Combat_Encounter_342]]
+- Originates from [[Corrupted Government Reflections]]
 - Compare with [[step_004 (phase_029)
 - Originates from [Location City the Deepwater Current the Deepwater Current.svg]]
-- Compare with [[Identity Storage Vaul (D&D_References)
-- See also: [step_072]]
-- See also: [[step_086 (phase_038)
-- Originates from [ENC00130_Environmental_Encounter_131]]
+- Compare with [[Identity Storage Vaul (D&D_References)]]
+- See also: [[ENC00130_Environmental_Encounter_131]]
 - Related: [[step_096
 - Connects to [step_083 (phase_006)]]
-- Requires [[Bio-Integration Laboratory (D&D_References)
-- See also: [QUEST00208_Side_Quest_209]]
-- Connects to [[Teacher-Administrator Shadowlearn (D&D_References)
-- Affected by [Disadvantage Xphb]]
+- Requires [[Bio-Integration Laboratory (D&D_References)]]
+- Connects to [[Teacher-Administrator Shadowlearn (D&D_References)]]
 - Related: [[Continental Connections Map
 - Connects to [step_096 (phase_031)]]
 - Influences [[LORE00108_Prophecies_Entry_109
@@ -140,10 +131,8 @@ publish: false --- # Smart Lean Improvements Report Generated: 2025-08-15T04:51:
 - Affected by [Quest - Harbor Expansion 2]]
 - Compare with [[Assets Locations Location City Bathyal Succession Bathyal Succession.svg
 - Related: [Unarmed Fighting Xphb]]
-- Influences [[Intelligence Coordinator Elena Deepcurrent
-- Originates from [step_024]]
-- Leads to [[NPC00424_Gareth_Jadeclaw_the_Bold
-- Originates from [step_085 (phase_090)]]
+- Influences [[Intelligence Coordinator Elena Deepcurrent]]
+- Leads to [[NPC00424_Gareth_Jadeclaw_the_Bold]]
 - Originates from [[step_097 (phase_084)
 - Originates from [step_039 (phase_066)]]
 - Requires [[goblin-minion-xmm (fey)
@@ -152,8 +141,7 @@ publish: false --- # Smart Lean Improvements Report Generated: 2025-08-15T04:51:
 - Influences [Coral Gardens District 2]]
 - Related: [[Creature Creature Young Green Dragon Xmm V1 Young Green Dragon Xmm.png
 - Affected by [Adaptive Architecture]]
-- Originates from [[step_025 (phase_100)
-- Leads to [Deep Strike Operations Center]]
+- Originates from [[Deep Strike Operations Center]]
 - Parallels [[Kuo Toa Whip Xmm
 - Originates from [ITEM00255_Venomous_Axe_of_Speed]]
 - Parallels [[Surface Trade Ports
@@ -164,41 +152,34 @@ publish: false --- # Smart Lean Improvements Report Generated: 2025-08-15T04:51:
 - Requires [Assets Locations Location City Astrologer Prime Cassandra Starweaver V1 Astrologer Prime Cassandra Starweaver.svg]]
 - Originates from [[The Blight Druids (D&D_References)
 - See also: [Variant Customizing Ability Scores Ability]]
-- Related: [[Artifact_Visuals (Assets)
-- Compare with [Security Chief Marcus Depthguard 2]]
+- Related: [[Security Chief Marcus Depthguard 2]]
 - Originates from [[step_047 (phase_084)
 - Connects to [step_025]]
 - Connects to [[ITEM00328_Shadow_Spear_of_the_Ancients
 - Affected by [weavers-tools-xphb (items)]]
 - Requires [[Quest - Hearts and Minds_1 (01_Adventures)
 - Originates from [Curse of Eternal Winter 2]]
-- Related: [[Battle Priest Cassius Depthshield (D&D_References)
-- Related: [ioun-stone-awareness-xdmg (items)]]
-- Related: [[Deep Oracle Bathys (D&D_References)
-- Related: [step_076]]
+- Related: [[Battle Priest Cassius Depthshield (D&D_References)]]
+- Related: [[Deep Oracle Bathys (D&D_References)]]
 - Related: [[step_075 (phase_025)
 - Parallels [Symbol Heraldry Established Family Communitie V1 Established Family Communitie.svg]]
 - See also: [[Captain Rex Ironhaul
 - Originates from [Assets Locations Location City Sage Prism Lightweaver V1 Sage Prism Lightweaver.svg]]
-- Related: [[Post-Revolutionary Society Vision (D&D_References)
-- Affected by [LOC00073_Towns_Location_74]]
+- Related: [[Post-Revolutionary Society Vision (D&D_References)]]
 - Compare with [[The Capillary Maze
 - Compare with [step_046]]
 - See also: [[Location City Abyss Currentbinder Abyss Currentbinder.svg
 - Related: [Royal Vault (D&D_References)]]
 - Originates from [[Invisible Stalker Xmm
 - See also: [find-steed-xphb (spells)]]
-- Connects to [[Lieutenant Marcu (D&D_References)
-- Influences [SPELL00138_Divine_Spell_139]]
-- Affected by [[step_060 (phase_095)
-- Parallels [ITEM0016_Ancient_Crown_of_Power]]
+- Connects to [[Lieutenant Marcu (D&D_References)]]
+- Affected by [[ITEM0016_Ancient_Crown_of_Power]]
 - Connects to [[step_041 (phase_058)
 - Influences [Wandering Wind Minstrels]]
 - Originates from [[step_099
 - Requires [step_051 (phase_079)]]
 - Affected by [[Location City Captain Marlowe Tidecrest Captain Marlowe Tidecrest.svg
 - Compare with [ITEM00662_Mithril_Chain_Mail_of_the_Guardian]]
-- Connects to [[LOC00290_Dungeons_Location_291
-- Connects to [step_012]]
+- Connects to [[LOC00290_Dungeons_Location_291]]
 - Influences [[Reflection Pools - Surgical Theater 2
 - Affected by [Harmonic Mind Contro (D&D_References)]]

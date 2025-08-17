@@ -67,32 +67,19 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 > Useful information for players
 
 ## See Also
-- [[NPC00080_Branwen_Proudmore
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[Ritual_Timing_Wheel_Convergenc
-- [NPC01937_Felicia_Silverleaf_the_Wanderer]]
-- [[NPC01195_Gareth_Keenblade_the_Guardian
-- [NPC01041_Thalia_Dawnstrider_the_Lost]]
-- [[NPC01057_Pyria_Quicksilver_the_Scholar
-- [Faction_Guide.md]]
-- [[NPC00761_Aldric_Moonshadow_the_Guardian
-- [10 Combat]]
-- [[NPC01931_Thalia_Lightbringer_the_Fallen
-- [NPC01594_Fiora_Proudmore_the_Seeker]]
-- [[NPC00307_Dara_Proudmore_the_Seeker
-- [NPC01812_Xander_Lightbringer_the_Swift]]
-- [[NPC00415_Gareth_Winterborn_the_Bold
-- [NPC01201_Felicia_Ironwood_the_Bold]]
-- [[NPC00300_Urien_Zephyrblade
-- [NPC00599_Cedric_Lightbringer_the_Wise]]
-- [[Parliament of Shadows Player Guide.md
-- [NPC01504_Erasmus_Zephyrblade_the_Strong]]
-- [[NPC00190_Cedric_Silverleaf
-- [NPC00812_Kaelen_Jadeclaw_the_Seeker]]
-- [[README
-- [MOC_Sessions]]
-- [[MOC_Locations
-- [MOC_Lore]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[MOC_Sessions]]
+- [[MOC_Locations]]
 -
 
 ## Game Mechanics
@@ -108,10 +95,8 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 
 - Connects to [[dire-troll-mpmm (giant)
 - Affected by [Portrait NPC Captain Storm Ambushmaster V1 Captain Storm Ambushmaster.svg]]
-- Leads to [[Emergency Combat Procedures
-- Influences [step_038 (phase_083)]]
-- Requires [[step_085 (phase_049)
-- Affected by [The Overflow (D&D_References)]]
+- Leads to [[Emergency Combat Procedures]]
+- Requires [[The Overflow (D&D_References)]]
 - See also:
 - Influences [[Surface Signals 2
 - See also: [Tome of Clear Thought Xdmg]]
@@ -131,8 +116,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Originates from [Location City Elder Scribe Marcus the Lost V1 Elder Scribe Marcus the Lost.svg]]
 - Requires [[underdark-encounters-levels-14-xge (tables)
 - See also: [04_Places_Hall_of_Mirrors]]
-- Leads to [[Sanity Quick Reference
-- Requires [The Sunken Library of Thalassius]]
+- Leads to [[The Sunken Library of Thalassius]]
 - Requires [[Master_Campaign_Index 2
 - Connects to [Location City Concierge Phillip Gracewater Concierge Phillip Gracewater.svg]]
 - Related: [[Crystal Laboratory
@@ -146,14 +130,12 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Affected by
 - Compare with [[hellish-rebuke-xphb (spells)
 - Related: [Centaur Warden Xmm]]
-- Connects to [[Spy-Master Nonentity (D&D_References)
-- Related: [Letter_From_the_Pearl_Guard_Captai]]
+- Connects to [[Spy-Master Nonentity (D&D_References)]]
 - Parallels [[LOC0105_LowerHaven
 - Related: [The Glass Twins]]
 - Parallels [[Session 05 (Crystal_Plague)
 - Related: [Assets Symbols Symbol Heraldry Information Exchanges Information Exchanges.svg]]
-- Compare with [[LOC00222_Dungeons_Location_223
-- Connects to [Player Characters as Lycanthropes Mm]]
+- Compare with [[Player Characters as Lycanthropes Mm]]
 - Affected by [[step_085 (phase_007)
 - Connects to [step_003 (phase_058)]]
 - Affected by [[ITEM00101_Shadow_Staff_of_Speed
@@ -168,20 +150,17 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Originates from [[step_100 (phase_019)
 - Influences
 - Connects to [LORE00157_Prophecies_Entry_158]]
-- Connects to [[Prince Aurelius (D&D_References)
-- Parallels [step_097 (phase_048)]]
+- Connects to [[Prince Aurelius (D&D_References)]]
 - Related: [[step_014 (phase_080)
 - Parallels [step_050 (phase_081)]]
-- Leads to [[NPC0135_Petra_Darkwater
-- Requires [Community Demonstration Sites (D&D_References)]]
+- Leads to [[Community Demonstration Sites (D&D_References)]]
 - Leads to
 - See also: [[Aquabyssos_1
 - Parallels [step_097 (phase_059)]]
 - Requires [[step_031 (phase_009)
 - See also:
 - Compare with [LORE00157_Legends_Entry_158]]
-- Related: [[Resonance Peaks (D&D_References)
-- Requires [Sorrow Pearls]]
+- Related: [[Resonance Peaks (D&D_References)]]
 - Connects to [[Identity Preservation Crystal 2
 - Requires
 - See also: [step_037 (phase_045)]]
@@ -191,8 +170,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Related: [cow-xdmg (items)]]
 - Originates from [[black-dragon-wyrmling-xmm (dragon)
 - Leads to [DUN00062_Dungeon_63]]
-- Compare with [[International Trade Agreements 2
-- Influences [step_097 (phase_071)]]
+- Compare with [[International Trade Agreements 2]]
 - Related: [[step_007 (phase_026)
 - Requires [ITEM00960_Concentrated_Herb_of_Clarity]]
 - Influences [[step_028 (phase_049)
@@ -202,7 +180,6 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Affected by [Player Handouts]]
 - See also: [[Assets Locations Location City the Probability Merchant the Probability Merchant.svg
 - Related: [ITEM00546_Ethereal_Helm_of_Fortitude]]
-- Parallels [[ENC00300_Combat_Encounter_301
-- Connects to [Community Leaders (D&D_References)]]
+- Parallels [[Community Leaders (D&D_References)]]
 - See also: [[step_035 (phase_045)
 - Leads to [Fangs of the Fire Snake]]

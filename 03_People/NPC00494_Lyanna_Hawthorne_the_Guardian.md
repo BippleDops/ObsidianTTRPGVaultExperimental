@@ -160,46 +160,28 @@ Modifications:
 
 ## See Also
 - [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[NPC01041_Thalia_Dawnstrider_the_Lost
-- [NPC00821_Zephyr_Voidwalker_the_Cunning]]
-- [[NPC00927_Aldric_Ironwood_the_Wanderer
-- [Marcus Shardbreaker Grimm_1]]
-- [[NPC01247_Xander_Zephyrblade_the_Risen
-- [NPC00812_Kaelen_Jadeclaw_the_Seeker]]
-- [[NPC01695_Ewan_Ashford_the_Fallen
-- [NPC00300_Urien_Zephyrblade]]
-- [[NPC01438_Hilda_Youngblood_the_Fallen
-- [NPC00858_Zephyr_Silverleaf_the_Wanderer]]
-- [[NPC00237_Vesper_Ashford_the_Bold
-- [NPC01767_Alaric_Ravenheart_the_Risen]]
-- [[NPC00372_Alaric_Grimholt
-- [NPC01552_Branwen_Lightbringer_the_Swift]]
-- [[NPC00860_Gavril_Winterborn_the_Swift
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC01502_Urien_Underhill_the_Scholar
-- [NPC00785_Ysara_Grimholt_the_Mystic]]
-- [[NPC00469_Delara_Oakenshield_the_Seeker
-- [NPC00395_Aeliana_Thornweave]]
-- [[Depth_Adapted_Background
-- [World_Primer.md]]
-- [[Party_Quests
-- [Player_Comfort_Check]]
-- [[Sanity Quick Reference
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[Downtime_Activities
-- [Reference.md]]
-- [[NPC01682_Vesper_Blackstone_the_Guardian
-- [Reputation_Tracker]]
-- [[09 Adventuring
-- [14 Gods of the Multiverse]]
-- [[11 Rules Glossary
-- [NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC00927_Aldric_Ironwood_the_Wanderer]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[Depth_Adapted_Background]]
+- [[Player_Comfort_Check]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[Downtime_Activities]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[14 Gods of the Multiverse]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -249,24 +231,21 @@ Modifications:
 - See also: [LORE00178_Legends_Entry_179]]
 - See also: [[Portrait NPC Senator Cordelia Deepcurrent V1 Senator Cordelia Deepcurrent.svg
 - Connects to [Portrait NPC the Crimson Pearl V2 the Crimson Pearl.svg_1 (Portraits)]]
-- Leads to [[Naval Search and Rescue
-- Connects to [Telepathy Xphb]]
+- Leads to [[Naval Search and Rescue]]
 - Related: [[step_015 (phase_061)
 - See also: [The First Drowning]]
 - Compare with [[Star Rose Quartz Xdmg
 - Requires [[Location City [The Bone Colosseum]] the Bone Colosseum.svg]]
-- Connects to [[FAC00037_Cults_38
-- See also: [QUEST00378_Side_Quest_379]]
+- Connects to [[QUEST00378_Side_Quest_379]]
 - See also: [[step_052 (phase_036)
 - See also: [List Spells Feats Magic Initiate Xphb]]
 - Compare with [[gith-names-githyanki-male-mtf (tables)
 - See also: [Arcane-Depth Void]]
 - Connects to [[Assets Locations Location City [Memorial Wall of Names Memorial Wall of Names.png]]
-- Compare with [[[Screaming Gardens 2]]
+- Compare with [[Screaming Gardens 2]]
 - Originates from [[step_087 (phase_073)
 - See also: [step_095 (phase_051)]]
-- Related: [[The Archives
-- Originates from [Representative Coral Youngcurrent]]
+- Related: [[Representative Coral Youngcurrent]]
 - Compare with [[ENC00425_Combat_Encounter_426
 - Parallels [Professor Depth Biologist]]
 - Connects to [[SPELL00098_Nature_Spell_99
@@ -289,30 +268,25 @@ Modifications:
 - Compare with [[step_020 (phase_078)
 - Affected by [Damage Types]]
 - Leads to [[ITEM00551_Adamantine_Plate_of_Fortitude
-- Affected by [[Assets Locations [[Location City [Tavern]]er Bubbles Mcgill [[Taverner Bubbles McGill.svg]]]]
+- Affected by [[Assets Locations [[Location City [Tavern]]er Bubbles Mcgill [[Taverner Bubbles McGill]]]]
 - Connects to [[NPC01413_Alaric_Winterborn_the_Guardian
 - Leads to [rise-or-fall-of-a-leader-or-an-era-leader-types]]
 - Leads to [[Sea Elves 2
 - Affected by [step_078 (phase_021)]]
-- Originates from [[Telepathy Xphb (variant-rules)
-- Leads to [QUEST00112_Side_Quest_113]]
-- Connects to [[NPC00087_Jorah_Voidwalker_the_Guardian
-- Influences [step_023 (phase_043)]]
+- Originates from [[Telepathy Xphb (variant-rules)]]
+- Connects to [[NPC00087_Jorah_Voidwalker_the_Guardian]]
 - Parallels [[Assets Locations Location City [Portal Technician Voidwalk V1 Portal Technician Voidwalk.svg]]
-- Parallels [[step_012 (phase_095)
-- Compare with [NPC01525_Rhiannon_Emberfall_the_Scholar]]
-- Requires [[Regulatory Medical Authorit (D&D_References)
-- See also: [step_008 (phase_087)]]
-- Originates from [[ENC00067_Combat_Encounter_68
-- Connects to [step_022 (phase_019)]]
+- Parallels [[NPC01525_Rhiannon_Emberfall_the_Scholar]]
+- Requires [[Regulatory Medical Authorit (D&D_References)]]
+- Originates from [[ENC00067_Combat_Encounter_68]]
 - Originates from [[Portrait NPC Pressure Angel Benthia V1 Pressure Angel Benthia.png_1 (Portraits)
 - Related: [Battle Priest Cassius Depthshield]]
-- Originates from [[[Poet Laureate Tidal Wordsmith 2]]
+- Originates from [[Poet Laureate Tidal Wordsmith 2]]
 - Parallels [[step_086 (phase_048)
 - Requires [Potion of Radiant Resistance Xdmg]]
 - Connects to [[dungeon-dressing-odor (tables)
 - Originates from [Deep-Priest Covenant]]
-- Compare with [[[Seal Keepers (D&D_References)]]
+- Compare with [[Seal Keepers (D&D_References)]]
 - Leads to [[General Truthseeker Vale 2
 
 ## Visual References

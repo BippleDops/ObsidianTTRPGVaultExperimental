@@ -86,7 +86,7 @@ The party infiltrates the [[Surgical Sanctum to find hundreds of bodies suspende
 - Marina finds THREE versions of herself ### Scene 2: [The Operating]] Theater
 
 **Location**: [[Central Surgical Amphitheater **Situation**: Witness mass shadow transplant surgery **Conflict**: Interrupt procedure without killing patients **Discoveries**:
-- [[[The Silhouette]] [[Surgeon Prime]] is actually multiple shadows in one body
+- [[[The Silhouette]] [[The Silhouette Surgeon Prime]] is actually multiple shadows in one body
 - Surgeries are creating agents for continental infiltration
 - [[Jasper "Three-Eyes" Flint is here—as a willing surgeon
 - The procedures are reversible for exactly 3 hours **[Skill Challenge]] - Stop the Surgery**:
@@ -127,7 +127,7 @@ Special mechanics for Marina confrontation:
 4. The surgical facilities extend across all continents
 5. Shadow evolution is inevitable, not stoppable
 6. The [Parliament of Echoes]] approved the surgeries
-7. [[[Queen Seraphina Lumengarde]] has a prototype in [[Aethermoor
+7. [[Queen Seraphina Lumengarde]] has a prototype in [[Aethermoor
 8. [The Memory]] Tides are carrying surgical instructions
 9. Children adapt to shadow fusion better than adults
 10. The real threat isn't shadows—it's what they're fleeing from ## 🎪 [[Cliffhanger Ending
@@ -141,11 +141,11 @@ Regardless of choices made, as the party escapes the facility, every shadow in T
 
 - Strange accidents suggest a curse
 - Strange accidents suggest a conspiracy
-- Someone is protecting information for revenge ## [Related Notes]] - [[[Similar Topic 1]]
+- Someone is protecting information for revenge ## [Related Notes]] - [[Similar Topic 1]]
 
-- [[[Contrasting Approach]]
-- [[[Advanced Version]]
-- [[[Historical Context]] ## 12_Research [[Specific Content Contextual improvement based on 12_Research
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]] ## 12_Research [[Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

@@ -77,37 +77,20 @@ This content can be adapted and expanded based on specific campaign needs.
 > Important safety or rule information
 
 ## See Also
-- [[NPC01951_Gavril_Xendar_the_Swift
-- [NPC01082_Fiora_Ashford_the_Fallen]]
-- [[NPC00976_Alaric_Quicksilver_the_Strong
-- [NPC01767_Alaric_Ravenheart_the_Risen]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[NPC01438_Hilda_Youngblood_the_Fallen
-- [NPC00599_Cedric_Lightbringer_the_Wise]]
-- [[NPC00927_Aldric_Ironwood_the_Wanderer
-- [Submersible_Schematic_Pressure_Gate_Scou]]
-- [[NPC01931_Thalia_Lightbringer_the_Fallen
-- [NPC00739_Gavril_Ashford_the_Bold]]
-- [[NPC01371_Xander_Stormwind_the_Guardian
-- [Archdruid Thornweaver]]
-- [[NPC01504_Erasmus_Zephyrblade_the_Strong
-- [NPC01624_Corvus_Silverleaf_the_Redeemed]]
-- [[NPC00920_Malakai_Ravenheart_the_Guardian
-- [09 Adventuring]]
-- [[Character_Journal_Template
-- [Count_Strahd_von_Zarovich]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [Complete_NPC_Matrix.md]]
-- [[NPC00969_Zephyr_Keenblade_the_Wise
--
-
-## Related Content
-- [ULTIMATE_VAULT_ACHIEVEMENT]]
-- [[optimization_report_20250814_180706
-- [audio_fit_report]]
-- [[audio_fit_report_1
-- [SVG_REPLACEMENT_REPORT]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[Character_Journal_Template]]
+- [[NPC01555_Branwen_Xendar_the_Seeker]]
+- [[NPC00969_Zephyr_Keenblade_the_Wise]]
+- [[OPTIMIZATION_REPORT_2025]]
+- [[SVG_REPLACEMENT_REPORT]]
 - [[ULTIMATE_ASSET_REPORT
 
 ## Game Mechanics
@@ -122,35 +105,28 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Connections
 
 - Compare with [Assets Locations Location City Council of Currents Council of Currents.svg]]
-- Parallels [[Aquabyssos Technical University (D&D_References)
-- See also:
-- Originates from [ENC00337_Combat_Encounter_338]]
+- Parallels [[Aquabyssos Technical University (D&D_References)]]
 - Compare with [[Location City Senator Morticia Graveheart V1 Senator Morticia Graveheart.svg
 - Influences [Portrait NPC Marcus the Shade Blackwood Marcus the Shade Blackwood.svg_1 (Portraits)]]
 - Leads to [[Scholars of Silverquill Silverquill Scholars
 - Connects to [step_079 (phase_066)]]
 - Originates from [[Flesh Golem Xmm
 - Related: [step_027 (phase_091)]]
-- Affected by [[Symbol Heraldry Div... Related To: Local Political Structure Connected Plots: to Be Developed
-- See also: [Prince Caelum Stormwright]]
+- Affected by [[Symbol Heraldry Div... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[Duke Sterling Truecrystal
 - Originates from [SHOP00024_Specialty_Shop_25]]
 - Influences [[Portrait NPC Mirror Breaking Crystals V2 Mirror Breaking Crystals.svg
 - See also: [LOC0011_Bridgeshire]]
 - Originates from [[ENC00146_Social_Encounter_147
 - Parallels [Assets Locations Location City the Recursion Cult the Recursion Cult.png]]
-- Originates from [[Combat Encounter Difficulty XP Thresholds by Character Level
-- Connects to [portrait-npc-syndicate-war-syndicate-war.svg]]
+- Originates from [[Combat Encounter Difficulty XP Thresholds by Character Level]]
 - Related: [[Assets Locations Location City the Tidecaller the Tidecaller.svg
 - Originates from [ring-of-invisibility-xdmg (items)]]
-- Requires [[Master Environmental Specialist Tidal Convergenc
-- Requires [The Counting House 2]]
+- Requires [[Master Environmental Specialist Tidal Convergenc]]
 - Influences [[location-city-crystal-palace-crystal-palace.svg
 - Connects to [step_011 (phase_052)]]
-- Originates from [[Vampiric Mist Mpmm
-- Affected by [LOC00066_Planes_Location_67]]
-- Requires [[Locations Abyssal Spires
-- See also: [Long Rest Xphb]]
+- Originates from [[LOC00066_Planes_Location_67]]
+- Requires [[Locations Abyssal Spires]]
 - Related: [[The Anchor of Being 2
 - See also: [FAC00066_Cults_67]]
 - Compare with [[The Convergence Maze
@@ -164,17 +140,14 @@ This content can be adapted and expanded based on specific campaign needs.
 - Originates from [yuan-ti-names-vgm (tables)]]
 - See also: [[Banderhobb Mpmm
 - See also: [Location City Religious V1 Religious Groups.svg]]
-- Connects to [[Crystal Jammers
-- See also: [NPC01260_Urien_Ravenheart_the_Mystic]]
+- Connects to [[NPC01260_Urien_Ravenheart_the_Mystic]]
 - Related: [[step_055 (phase_029)
 - See also: [Locations_Gallery]]
 - Influences
 - Related: [[LOC00099_Cities_Location_100
 - See also: [Location City Dock Master Anchor Holdfast Dock Master Anchor Holdfast.svg]]
-- Influences [[QUEST00043_Side_Quest_44
-- Compare with [Update Weather]]
-- Related: [[Historical Analysis (D&D_References)
-- Parallels [Passages Passage]]
+- Influences [[QUEST00043_Side_Quest_44]]
+- Related: [[Historical Analysis (D&D_References)]]
 - Related: [[improvised-damage-xdmg
 - Originates from [ITEM01422_Decorated_Lantern_of_Quality]]
 - Affected by [[The Memory Keepers
@@ -186,20 +159,17 @@ This content can be adapted and expanded based on specific campaign needs.
 - Affected by [random-buildings-shop (tables)]]
 - Connects to [[Portrait NPC Quest the Ancient Compact V2 Quest the Ancient Compact.svg
 - See also: [Assets Locations Location City Senator Cornelius Depthwalker Senator Cornelius Depthwalker.svg]]
-- Parallels [[cow-vgm (beast)
-- Connects to [NPC00017_Hilda_Silverleaf]]
+- Parallels [[NPC00017_Hilda_Silverleaf]]
 - Connects to [[Settlement Tables and Tracker Random Shops
 - Connects to [Cultural Mediator Coral Windweave]]
 - Compare with [[step_064 (phase_059)
 - Leads to [Location City Memorial Mason Kane Memorial Mason Kane.svg]]
 - Influences [[boon-of-the-stormborn (rewards)
 - Influences [Desert Encounters Levels 1720 Xge]]
-- Influences [[SPELL00007_Nature_Spell_8
-- Leads to [Vehicles - Transportation Infrastructure]]
+- Influences [[Vehicles - Transportation Infrastructure]]
 - Originates from [[step_029 (phase_005)
 - Leads to [Character_Creation_Extended.md_1 (03_People)]]
-- Requires [[Aethermoor - Session 09 The Price of Unity
-- Connects to [step_043 (phase_086)]]
+- Requires [[Aethermoor - Session 09 The Price of Unity]]
 - Connects to [[step_013 (phase_009)
 - See also:
 - Requires [step_076 (phase_016)]]
@@ -210,8 +180,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - Requires [Variant Customizing Ability Scores Ability Score Point Cost Phb]]
 - Compare with [[step_029 (phase_099)
 - Connects to [SPELL0002_Eldritch_Bolt]]
-- Parallels [[The First Queen's Shade (D&D_References)
-- Requires [Resonance Roses (D&D_References)]]
+- Parallels [[The First Queen's Shade (D&D_References)]]
 - Compare with [[young-remorhaz-xmm
 - Compare with [Foreign Trade Guilds]]
 - Requires [[step_005 (phase_083)

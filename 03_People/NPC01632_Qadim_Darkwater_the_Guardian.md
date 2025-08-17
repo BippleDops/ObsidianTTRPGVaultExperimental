@@ -155,42 +155,23 @@ Is secretly testing the party
 - Special moves
 
 ## See Also
-- [[NPC00285_Xander_Goldleaf_the_Mystic
-- [NPC00582_Cedric_Dawnstrider]]
-- [[NPC00860_Gavril_Winterborn_the_Swift
-- [NPC01664_Pyria_Lightbringer_the_Redeemed]]
-- [[NPC01290_Pyria_Ashford_the_Broken
-- [NPC00812_Kaelen_Jadeclaw_the_Seeker]]
-- [[NPC01789_Vesper_Proudmore_the_Mystic
-- [NPC01262_Ysara_Dawnstrider_the_Swift]]
-- [[NPC01602_Dara_Ashford_the_Seeker
-- [NPC00276_Ysara_Youngblood]]
-- [[NPC01761_Idris_Moonshadow_the_Broken
-- [NPC00976_Alaric_Quicksilver_the_Strong]]
-- [[NPC01943_Xander_Proudmore_the_Fallen
-- [Depth_Adapted_Background]]
-- [[World_Primer.md
-- [Propaganda_Leaflet_Pearl_Guar]]
-- [[NPC01552_Branwen_Lightbringer_the_Swift
-- [Ship_Schematic_The_Seahawk.md]]
-- [[Archdruid Thornweaver
-- [Reference.md]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- [[NPC01262_Ysara_Dawnstrider_the_Swift]]
+- [[NPC01602_Dara_Ashford_the_Seeker]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[Archdruid Thornweaver]]
 - [[Welcome_to_Aquabyssos.md
 - [Reputation_Tracker]]
-- [[09 Adventuring
-- [Session_Recaps]]
-- [[10 Combat
-- [NPC00190_Cedric_Silverleaf]]
-- [[Character_Journal_Template
-- [NPC00069_Thalia_Brightblade_the_Guardian]]
-- [[MOC_Lore
-- [09 Appendix a the Multiverse]]
-- [[NPC00761_Aldric_Moonshadow_the_Guardian
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[Session_Recaps]]
+- [[NPC00190_Cedric_Silverleaf]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[09 Appendix a the Multiverse]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -208,8 +189,7 @@ Is secretly testing the party
 - Related:
 - Leads to [[Leviathan Shrines
 - Influences [Mass Cure Wounds Xphb]]
-- Affected by [[Blessing of Wound Closure Xdmg
-- Related: [Progressive Policy Portfolio (D&D_References)]]
+- Affected by [[Progressive Policy Portfolio (D&D_References)]]
 - Affected by [[Quiet Haven 2
 - Parallels [step_001 (phase_071)]]
 - Requires [[Soul Cage Xge
@@ -219,20 +199,17 @@ Is secretly testing the party
 - Originates from [[Assets Locations Location City Captain Marlowe Tidecrest Captain Marlowe Tidecrest.svg
 - Connects to [Community Education]]
 - Connects to
-- Influences [[Quality Inspector Reef Perfectwright
-- Parallels [item properties#Burst%20Fire]]
+- Influences [[Quality Inspector Reef Perfectwright]]
 - Influences [[Assets Locations Location City Transformation Medicine Techniques V1 Transformation Medicine Techniques.svg
 - Parallels [step_085 (phase_084)]]
-- Influences [[Friendly Attitude Xphb
-- Requires [The Healer's Persecution (D&D_References)]]
+- Influences [[The Healer's Persecution (D&D_References)]]
 - Requires [[LOC00232_Cities_Location_233
 - Compare with [Locations the Memory Halls]]
 - Influences [[Professor Euclid Mindmaze
 - See also: [Portrait NPC Scholar Vivienne the Chronicler V1 Scholar Vivienne the Chronicler.svg_1 (Portraits)]]
 - Leads to [[wither-and-bloom-scc (spells)
 - See also: [ITEM01452_Elegant_Tool_Kit_of_Quality]]
-- Parallels [[NPC01268_Erasmus_Youngblood_the_Scholar
-- Influences [Countess Argentum Vaultkeeper 2]]
+- Parallels [[NPC01268_Erasmus_Youngblood_the_Scholar]]
 - Requires [[Assets Locations Location City Ancient Echo Truthfinder Ancient Echo Truthfinder.svg
 - Affected by [Unknown Rival]]
 - Affected by [[Assets Portraits Portrait NPC Vespara Nightwhisper Thorne V1 Vespara Nightwhisper Thorne.svg
@@ -244,10 +221,8 @@ Is secretly testing the party
 - Connects to [Underwater Breathing (D&D_References)]]
 - See also: [[NPC01817_Kaelen_Zephyrblade_the_Swift
 - Requires [Assets Locations Location City Coral Shaper Polyp V1 Coral Shaper Polyp.svg]]
-- Originates from [[Lysandra Tidecaller 2
-- Requires [ENC00252_Combat_Encounter_253]]
-- See also: [[NPC00030_Urien_Winterborn
-- Influences [LOC0012_EastBridge]]
+- Originates from [[ENC00252_Combat_Encounter_253]]
+- See also: [[NPC00030_Urien_Winterborn]]
 - See also: [[step_094 (phase_073)
 - Parallels [The Hall of Records]]
 - Related:
@@ -261,10 +236,8 @@ Is secretly testing the party
 - See also: [step_079 (phase_088)]]
 - Affected by [[step_098 (phase_094)
 - Compare with [Quest - The Missing Fleet]]
-- Connects to [[Pest Mascot Scc
-- Leads to [Cult of the Endless Void]]
-- Related: [[skills-phb (tables)
-- Related: [Salvage Master Ironwork 2]]
+- Connects to [[Cult of the Endless Void]]
+- Related: [[Salvage Master Ironwork 2]]
 - Affected by [[Assets Vehicles Vehicle Ship Harbor Guardian Gunboat Harbor Guardian Gunboat.svg
 - Leads to [Captain Garrett Stormcutter (D&D_References)]]
 - Parallels [[Maintenance Stations
@@ -274,8 +247,7 @@ Is secretly testing the party
 - Leads to [[step_063 (phase_028)
 - Compare with [LOC00128_Towns_Location_129]]
 - Related:
-- Originates from [[step_081 (phase_017)
-- Related: [Shadow Liberation Front (D&D_References)]]
+- Originates from [[Shadow Liberation Front (D&D_References)]]
 - Compare with [[undead-spirit-skeletal-xphb (undead)
 - Related: [Quick_NPC_Search]]
 - Compare with [[step_025 (phase_061)

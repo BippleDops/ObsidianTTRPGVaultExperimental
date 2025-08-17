@@ -157,36 +157,23 @@ Competitor sabotaging business
 
 ## See Also
 - [NPC00095_Fiora_Nightfall]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [NPC00881_Qadim_Voidwalker_the_Strong]]
-- [[NPC01989_Erasmus_Xendar_the_Strong
-- [NPC00885_Kaelen_Xendar_the_Lost]]
-- [[NPC01247_Xander_Zephyrblade_the_Risen
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC00707_Fiora_Oakenshield_the_Seeker
-- [NPC01594_Fiora_Proudmore_the_Seeker]]
-- [[NPC00407_Hestara_Dawnstrider
-- [NPC01151_Orion_Stormwind_the_Seeker]]
-- [[NPC01682_Vesper_Blackstone_the_Guardian
-- [NPC00939_Thalia_Jadeclaw_the_Swift]]
-- [[NPC00296_Elric_Jadeclaw_the_Bold
-- [NPC00276_Ysara_Youngblood]]
-- [[Basic_Rules
-- [NPC01252_Jorah_Youngblood_the_Strong]]
-- [[10 Appendix B Creature Stat Blocks
-- [10 Combat]]
-- [[11 Rules Glossary
-- [Count_Strahd_von_Zarovich]]
-- [[Parliament of Shadows Player Guide.md
-- [NPC01504_Erasmus_Zephyrblade_the_Strong]]
-- [[NPC00190_Cedric_Silverleaf
-- [11 Spellcasting]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01989_Erasmus_Xendar_the_Strong]]
+- [[NPC01247_Xander_Zephyrblade_the_Risen]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[Count_Strahd_von_Zarovich]]
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC00190_Cedric_Silverleaf]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -202,8 +189,7 @@ Competitor sabotaging business
 
 ## Connections
 
-- Affected by [[step_056 (phase_071)
-- Parallels [Cross-Realm Cooperation Authority]]
+- Affected by [[Cross-Realm Cooperation Authority]]
 - Related: [[ITEM01328_Masterwork_Lock_of_Reliability
 - Connects to [Water Weird Xmm]]
 - Originates from [[step_071 (phase_054)
@@ -212,17 +198,15 @@ Competitor sabotaging business
 - Connects to [Gold Xdmg]]
 - Influences [[ITEM01418_Decorated_Lantern_of_Reliability
 - Requires [Keeper Luminous Truehart]]
-- Connects to [[Pressure Networks
-- Influences [MON00116_Undead_Creature_117]]
+- Connects to [[MON00116_Undead_Creature_117]]
 - Requires [[Quest - The Corruption Files
 - Parallels [[Assets Locations [[Location City [Underwater Religious Practices]] Underwater Religious Practices.svg]]]]
-- See also: [[QUEST00130_Personal_Quest_131
-- Influences [step_063 (phase_028)]]
+- See also: [[QUEST00130_Personal_Quest_131]]
 - Related: [[Assets Item Artifact Whelm Xdmg V6 Whelm Xdmg.png
 - Requires [Umbral Crystal Miners]]
 - See also: [[step_073 (phase_086)
 - Leads to [staff-of-birdcalls-xdmg (items)]]
-- Requires [[[Palace Courtyard - Crystal Garden (D&D_References)]]
+- Requires [[Palace Courtyard - Crystal Garden (D&D_References)]]
 - Leads to [[step_012 (phase_100)
 - Influences [ITEM00962_Concentrated_Oil_of_Healing]]
 - Related: [[Captain Azure Windcaller
@@ -236,11 +220,10 @@ Competitor sabotaging business
 - Originates from
 - Compare with [[Death Saving Throw Xphb
 - Parallels [[Assets Locations [Location City Pressure Weighted Representation V1 Pressure Weighted Representation.svg]]]]
-- Related: [[[Aethermoor Wind Rider Traditions (D&D_References)]]
+- Related: [[Aethermoor Wind Rider Traditions (D&D_References)]]
 - Originates from [[Tiefling Baalzebul Mtf
 - Influences [Memory Pearls]]
-- Originates from [[Pearl Merchant Tidal Goldflow (D&D_References)
-- Originates from [step_011 (phase_075)]]
+- Originates from [[Pearl Merchant Tidal Goldflow (D&D_References)]]
 - Affected by [[NPC00401_Baelor_Ironwood_the_Lost
 - See also: [guard-drake-blue-mpmm (dragon)]]
 - Originates from [[step_060 (phase_087)
@@ -253,14 +236,12 @@ Competitor sabotaging business
 - Originates from [Portrait NPC Vespara Nightwhisper Thorne V2 Vespara Nightwhisper Thorne.svg]]
 - Requires [[step_031 (phase_098)
 - See also: [[[Embassy Quarter]] 2]]
-- Parallels [[step_099 (phase_087)
-- Requires [ENC00125_Social_Encounter_126]]
+- Parallels [[ENC00125_Social_Encounter_126]]
 - Influences [[Sahuagin
 - Related: [EVENT00047_Political_Event_48]]
 - Originates from [[step_039 (phase_042)
 - Compare with [step_053 (phase_094)]]
-- Leads to [[ITEM00558_Warded_Leather_of_Fortitude
-- Requires [Template_Planet_Placeholder.png_1 (09_Templates)]]
+- Leads to [[Template_Planet_Placeholder.png_1 (09_Templates)]]
 - Affected by [[04_Resources_Assets_Portraits_portrait-npc-captain-henrik-proudbanner-captain-henrik-proudbanner.svg_Quick_Ref
 - Requires [QUEST00020_Side_Quest_21]]
 - Connects to [[audio_fit_report (09_Performance)

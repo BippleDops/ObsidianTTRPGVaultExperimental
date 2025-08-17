@@ -165,44 +165,24 @@ Seeks bodyguards for dangerous journey
 - Special moves
 
 ## See Also
-- [[NPC00582_Cedric_Dawnstrider
-- [NPC01911_Alaric_Oakenshield_the_Mystic]]
-- [[NPC00372_Alaric_Grimholt
-- [NPC01943_Xander_Proudmore_the_Fallen]]
-- [[NPC00860_Gavril_Winterborn_the_Swift
-- [NPC01632_Qadim_Darkwater_the_Guardian]]
-- [[NPC00820_Thalia_Nightfall_the_Risen
-- [NPC00133_Lyanna_Oakenshield_the_Seeker]]
-- [[NPC01660_Thalia_Moonshadow_the_Fallen
-- [NPC01113_Solas_Ravenheart_the_Cunning]]
-- [[NPC01761_Idris_Moonshadow_the_Broken
-- [NPC01177_Thalia_Underhill_the_Fallen]]
-- [[NPC00388_Ysara_Goldleaf
-- [NPC01841_Malakai_Nightfall_the_Wise]]
-- [[NPC01568_Lyanna_Winterborn_the_Strong
-- [NPC01498_Gareth_Quicksilver_the_Risen]]
-- [[NPC01195_Gareth_Keenblade_the_Guardian
-- [NPC01892_Gareth_Xendar_the_Scholar]]
-- [[NPC00415_Gareth_Winterborn_the_Bold
-- [NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
 - [[Ceasefire_Accord_Draft.md
 - [Faction_Guide.md]]
-- [[NPC00260_Wynne_Underhill_the_Fallen
-- [Sanity Quick Reference]]
-- [[Combat_Encounter_Analysis
-- [Calendar_Conversions_Realm_Window]]
-- [[NPC01812_Xander_Lightbringer_the_Swift
-- [09 Adventuring]]
-- [[Propaganda_Leaflet_Pearl_Guar
-- [08 Using Ability Scores]]
-- [[Count_Strahd_von_Zarovich
-- [Complete_NPC_Matrix.md]]
-- [[NPC00669_Zephyr_Youngblood_the_Lost
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00260_Wynne_Underhill_the_Fallen]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Count_Strahd_von_Zarovich]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -220,16 +200,13 @@ Seeks bodyguards for dangerous journey
 - Leads to [[QUEST00411_Side_Quest_412
 - Influences [fire-elemental-myrmidon-mpmm (elemental)]]
 - Leads to
-- Affected by [[ENC00087_Combat_Encounter_88
-- Requires [`dice: `dice: 4d6``kl1]]
+- Affected by [[ENC00087_Combat_Encounter_88]]
 - Leads to [[Location City the Resonant Hermit V1 the Resonant Hermit.svg
 - Requires [step_049 (phase_004)]]
-- Related: [[NPC00793_Qadim_Underhill_the_Risen
-- Parallels [step_074 (phase_071)]]
+- Related: [[NPC00793_Qadim_Underhill_the_Risen]]
 - Compare with [[step_100 (phase_005)
 - Requires [step_059 (phase_072)]]
-- Requires [[Portrait NPC Pres... Related To: Local Political Structure Connected Plots: to Be Developed
-- Connects to [step_082 (phase_024)]]
+- Requires [[Portrait NPC Pres... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[Symbol Heraldry the Archive of Questions the Archive of Questions.svg
 - Connects to
 - Leads to [list-spells-rewards-boon-of-the-stormborn (lists)]]
@@ -252,32 +229,22 @@ Seeks bodyguards for dangerous journey
 - Parallels [step_007 (phase_045)]]
 - Related: [[Information Systems Alliance
 - Requires [QUEST0034_Princess's_Revenge]]
-- Influences [[LOC00188_Planes_Location_189
-- Connects to [step_090 (phase_089)]]
-- Leads to [[NPC00777_Qadim_Winterborn_the_Bold
-- Requires [step_032 (phase_073)]]
-- See also: [[QUEST0001_Hunt_the_Assassins
-- Compare with [NPC01614_Felicia_Lightbringer_the_Mystic]]
+- Influences [[LOC00188_Planes_Location_189]]
+- Leads to [[NPC00777_Qadim_Winterborn_the_Bold]]
+- See also: [[NPC01614_Felicia_Lightbringer_the_Mystic]]
 - Related: [[step_088 (phase_073)
 - Originates from [Biological Authentication]]
 - Originates from [[human-names-celtic-female-xge (tables)
 - Originates from [step_026 (phase_014)]]
-- Originates from [[LOC00028_Dungeons_Location_29
-- Influences [step_025 (phase_096)]]
-- Related: [[LOC00062_Planes_Location_63
-- Leads to [Youth Crystal Education Program]]
-- Requires [[FAC00060_Orders_61
-- Connects to [ENC00180_Social_Encounter_181]]
-- Originates from [[Surface-Underwater Trade 2
-- Influences [Junior Administrator Elena Efficient]]
-- Parallels [[NPC01116_Malakai_Hawthorne_the_Strong
-- Connects to [The Final Sealing (Lore)]]
-- Leads to [[Succubus Xmm
-- Parallels [Ritual_Timing_Wheel_Convergenc]]
+- Originates from [[LOC00028_Dungeons_Location_29]]
+- Related: [[Youth Crystal Education Program]]
+- Requires [[ENC00180_Social_Encounter_181]]
+- Originates from [[Junior Administrator Elena Efficient]]
+- Parallels [[NPC01116_Malakai_Hawthorne_the_Strong]]
+- Leads to [[Ritual_Timing_Wheel_Convergenc]]
 - Influences [[SHOP00037_Specialty_Shop_38
 - Leads to [NPC0097_Rhea_Goldleaf]]
-- Related: [[Cross-Realm Conspiracy
-- See also: [LOC00064_Wilderness_Location_65]]
+- Related: [[LOC00064_Wilderness_Location_65]]
 - Compare with [[Embroidered Silk and Velvet Mantle Set with Numerous Moonstones Xdmg
 - See also: [Special Facilities Special Facility Acquisition Xdmg]]
 - Affected by [[SHOP00007_Specialty_Shop_8
@@ -294,14 +261,12 @@ Seeks bodyguards for dangerous journey
 - Compare with [LORE00262_Legends_Entry_263]]
 - Compare with [[LOC00035_Towns_Location_36
 - Originates from [ring-of-force-resistance-xdmg (items)]]
-- Affected by [[MON00079_Aberrations_Creature_80
-- Parallels [Arcturus Lumenblade]]
+- Affected by [[MON00079_Aberrations_Creature_80]]
 - Connects to [[grassland-encounters-levels-1116-xge (tables)
 - Affected by [step_016 (phase_036)]]
 - Requires [[Healing Two Worlds
 - Originates from [step_022 (phase_063)]]
-- Connects to [[The Ironlung Tavern 3 (D&D_References)
-- Influences [step_082 (phase_006)]]
+- Connects to [[The Ironlung Tavern 3 (D&D_References)]]
 - Requires [[step_040 (phase_051)
 - Originates from [Portrait NPC Mirror Breaking Crystals Mirror Breaking Crystals.svg_1 (Portraits)]]
 - Leads to

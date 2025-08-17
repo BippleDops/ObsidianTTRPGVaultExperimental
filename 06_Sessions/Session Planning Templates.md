@@ -47,7 +47,7 @@ This content can be adapted and expanded based on specific campaign needs. ## [P
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

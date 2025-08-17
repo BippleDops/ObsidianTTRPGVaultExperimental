@@ -176,40 +176,25 @@ Modifications:
 > Important safety or rule information
 
 ## See Also
-- [[NPC01429_Zephyr_Keenblade_the_Cunning
-- [NPC00785_Ysara_Grimholt_the_Mystic]]
-- [[NPC00283_Kaelen_Zephyrblade_the_Bold
-- [NPC00324_Idris_Hawthorne_the_Strong]]
-- [[Marcus Shardbreaker Grimm_1
-- [NPC00878_Kaelen_Ironwood_the_Strong]]
-- [[NPC01745_Felicia_Oakenshield_the_Scholar
-- [NPC01126_Malakai_Oakenshield_the_Fallen]]
-- [[NPC01660_Thalia_Moonshadow_the_Fallen
-- [NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[NPC00612_Thalia_Jadeclaw_the_Fallen
-- [NPC00550_Xander_Stormwind_the_Cunning]]
-- [[NPC01017_Vesper_Keenblade_the_Risen
-- [NPC00395_Aeliana_Thornweave]]
-- [[NPC01812_Xander_Lightbringer_the_Swift
-- [NPC00815_Baelor_Thornweave_the_Swift]]
-- [[NPC01476_Qadim_Stormwind_the_Wise
-- [NPC00133_Lyanna_Oakenshield_the_Seeker]]
-- [[Party_Quests
-- [NPC00976_Alaric_Quicksilver_the_Strong]]
-- [[Quarantine_Notice_Crystal_Plagu
-- [Parliamentary_Voting_Guide]]
-- [[Sanity Quick Reference
-- [Welcome_to_Aquabyssos.md]]
-- [[09 Appendix a the Multiverse
-- [NPC01937_Felicia_Silverleaf_the_Wanderer]]
-- [[10 Combat
-- [11 Rules Glossary]]
+- [[NPC01429_Zephyr_Keenblade_the_Cunning]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01660_Thalia_Moonshadow_the_Fallen]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC01017_Vesper_Keenblade_the_Risen]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Sanity Quick Reference]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[11 Rules Glossary]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -242,8 +227,7 @@ Modifications:
 
 ## Connections
 
-- Parallels [[Treasure_System - Pressure_Artifacts (D&D_References)
-- Parallels [step_091 (phase_047)]]
+- Parallels [[Treasure_System - Pressure_Artifacts (D&D_References)]]
 - Compare with [[NPC00546_Wynne_Lightbringer_the_Seeker
 - Parallels
 - Affected by [Enspelled Armor Level 1 Xdmg]]
@@ -253,8 +237,7 @@ Modifications:
 - Leads to [[Location City [Interfaith Cooperation]] V1 Interfaith Cooperation.svg]]
 - Leads to [[EVENT00044_Natural_Event_45
 - Originates from [Blood Spear Cos]]
-- Requires [[damage-roll-xphb (variant-rules)
-- Leads to [Neural Reconstruction]]
+- Requires [[damage-roll-xphb (variant-rules)]]
 - Requires [[Vehicle Ship Trench Lantern Surveyor V1 Trench Lantern Surveyor.svg
 - Related: [Sorcerer Xphb Aberrant Sorcery Xphb]]
 - Affected by [[step_045 (phase_043)
@@ -268,12 +251,10 @@ Modifications:
 - Originates from [Giant Seahorse Xmm]]
 - Leads to [[List Spells School Abjuration
 - Compare with [EVENT00046_Magical_Event_47]]
-- Influences [[The Kelp Territories 2
-- Influences [NPC01027_Ysara_Keenblade_the_Mystic]]
-- Connects to [[NPC01077_Rhiannon_Zephyrblade_the_Guardian
-- Requires [step_049 (phase_023)]]
+- Influences [[NPC01027_Ysara_Keenblade_the_Mystic]]
+- Connects to [[NPC01077_Rhiannon_Zephyrblade_the_Guardian]]
 - Compare with [[Location City Futures Master Economic Sense V1 Futures Master Economic Sense.svg
-- Affected by [[Location City the Neutral Current [Tavern]] [[The Neutral Current Tavern.svg]]
+- Affected by [[Location City the Neutral Current [Tavern]] [[The Neutral Current Tavern]]
 - Affected by [[LORE0059_Secret_of_the_Lost_City
 - Affected by [Wizard Xphb School of Enchantment]]
 - Requires [[Rush of the Gale Spirits
@@ -290,10 +271,8 @@ Modifications:
 - Affected by [Complete Faction Warfare System]]
 - Parallels [[Reality Maintenance Department (D&D_References)
 - Leads to [Portrait NPC Otherworldly Patron V2 Otherworldly Patron.svg_1 (Portraits)]]
-- Influences [[step_054 (phase_097)
-- Related: [SPELL00099_Arcane_Spell_100]]
-- Affected by [[step_065 (phase_038)
-- Leads to [Tide-Speaker Nerida of House Abyssos (D&D_References)]]
+- Influences [[SPELL00099_Arcane_Spell_100]]
+- Affected by [[Tide-Speaker Nerida of House Abyssos (D&D_References)]]
 - Related: [[Session 2 - The Crystal Fever
 - Influences
 - Parallels [QUEST00107_Personal_Quest_108]]
@@ -305,19 +284,15 @@ Modifications:
 - Parallels [Aid Xphb]]
 - Connects to [[Symbol Heraldry the Void Watchers the Void Watchers.svg
 - See also: [NPC00952_Brenna_Ashford_the_Lost]]
-- Parallels [[House Stormwind (D&D_References)
-- Originates from [celtic-oghma (deities)]]
-- Related: [[Sessions Session Packet Template
-- Influences [step_092 (phase_041)]]
+- Parallels [[House Stormwind (D&D_References)]]
+- Related: [[Sessions Session Packet Template]]
 - Leads to [[silent-image-xphb (spells)
 - Related: [pushing-attack-xphb]]
 - Connects to [[Portrait NPC Quest the Pretender Quest the Pretender.svg
 - Requires [Shadow Resonance Scanning]]
 - Influences [[Location City [The Coral Palace Complex V1 the Coral Palace Complex.svg]]
-- Originates from [[Ancient Crystal Technology (D&D_References)
-- Influences [Speedy Xphb]]
-- Related: [[Lieutenant Marcu (D&D_References)
-- Connects to [Undead Spirit Putrid Xphb]]
+- Originates from [[Ancient Crystal Technology (D&D_References)]]
+- Related: [[Lieutenant Marcu (D&D_References)]]
 - Affected by [[Diplomat Cross-Current Thane
 - Parallels
 - Connects to [ITEM00395_Frost_Dagger_of_Speed]]
@@ -334,12 +309,10 @@ Modifications:
 - Leads to [Bolts 20 Xphb]]
 - Connects to [[location-city-abyssos-prime-abyssos-prime.svg
 - Parallels [traps-hazards (traps-hazards)]]
-- Requires [[The Love Token
-- Related: [LOC00095_Dungeons_Location_96]]
+- Requires [[LOC00095_Dungeons_Location_96]]
 - Influences [[Assets Locations [Location City Pressure Responsive Fabrics V1 Pressure Responsive Fabrics.svg]]
 - See also: [[Location City [Doctor Silas Voidtouch V1 Doctor Silas Voidtouch.svg]]
-- Connects to [[The Paradox Constitution (D&D_References)
-- Connects to [Ethics Review Board Chairman]]
+- Connects to [[The Paradox Constitution (D&D_References)]]
 - Connects to [[giant-wasp-xmm (beast)
 - See also: [step_087 (phase_034)]]
 

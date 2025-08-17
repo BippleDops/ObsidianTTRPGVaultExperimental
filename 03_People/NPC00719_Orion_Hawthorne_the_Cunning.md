@@ -156,44 +156,24 @@ Witnessed a crime
 - Special moves
 
 ## See Also
-- [[NPC01979_Fiora_Emberfall_the_Guardian
-- [Marcus Shardbreaker Grimm_1]]
-- [[NPC01632_Qadim_Darkwater_the_Guardian
-- [NPC01789_Vesper_Proudmore_the_Mystic]]
-- [[NPC00917_Brenna_Oakenshield_the_Seeker
-- [NPC00324_Idris_Hawthorne_the_Strong]]
-- [[Ambassador Nerida Deepcurrent
-- [NPC00881_Qadim_Voidwalker_the_Strong]]
-- [[NPC00174_Aldric_Silverleaf_the_Fallen
-- [NPC01761_Idris_Moonshadow_the_Broken]]
-- [[NPC00272_Rhiannon_Brightblade
-- [NPC01805_Faelyn_Goldleaf_the_Wanderer]]
-- [[NPC00451_Malakai_Ravenheart_the_Broken
-- [NPC01017_Vesper_Keenblade_the_Risen]]
-- [[NPC01312_Alaric_Darkwater_the_Fallen
-- [NPC00321_Aeliana_Zephyrblade_the_Strong]]
-- [[NPC01625_Qadim_Lightbringer_the_Swift
-- [NPC00785_Ysara_Grimholt_the_Mystic]]
-- [[Measurement_Guide_Depth_and_Pressur
-- [NPC00162_Xander_Thornweave]]
-- [[NPC00878_Kaelen_Ironwood_the_Strong
-- [11 Spellcasting]]
-- [[NPC00276_Ysara_Youngblood
-- [NPC_Name_Generator.png]]
-- [[14 Gods of the Multiverse
-- [Session_Recaps]]
-- [[NPC01939_Orion_Nightfall_the_Bold
-- [05 Personality and Background]]
-- [[NPC01483_Gavril_Zephyrblade_the_Fallen
-- [11 Rules Glossary]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC01625_Qadim_Lightbringer_the_Swift]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC00878_Kaelen_Ironwood_the_Strong]]
+- [[NPC00276_Ysara_Youngblood]]
+- [[14 Gods of the Multiverse]]
+- [[NPC01939_Orion_Nightfall_the_Bold]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
 - [[MOC_Lore
 - [MOC_Rules]]
-- [[NPC00625_Kaelen_Brightblade_the_Redeemed
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -210,15 +190,12 @@ Witnessed a crime
 ## Connections
 
 - See also: [Lamia Xmm]]
-- Originates from [[far-step-xge (spells)
-- Influences [Crimson Velocity (D&D_References)]]
+- Originates from [[Crimson Velocity (D&D_References)]]
 - See also:
 - See also: [[Pirates 2
 - Compare with [bag-of-tricks-gray-xdmg (items)]]
-- See also: [[step_014 (phase_011)
-- Requires [ENC00024_Environmental_Encounter_25]]
-- Connects to [[NPC00249_Branwen_Blackstone
-- Related: [LOC00264_Wilderness_Location_265]]
+- See also: [[ENC00024_Environmental_Encounter_25]]
+- Connects to [[LOC00264_Wilderness_Location_265]]
 - Parallels [[manual-of-iron-golems-xdmg (items)
 - Affected by [step_003 (phase_038)]]
 - Originates from [[candle-xphb (items)
@@ -227,25 +204,20 @@ Witnessed a crime
 - See also: [step_082 (phase_042)]]
 - Compare with [[Assets Locations Location City Free Current Charter Free Current Charter.svg
 - Related: [step_009 (phase_012)]]
-- Requires [[SPELL0048_Arcane_Binding
-- Leads to [Conceptual Being 7 (D&D_References)]]
-- Related: [[MON00160_Constructs_Creature_161
-- Requires [Tentacle of Yoth]]
+- Requires [[Conceptual Being 7 (D&D_References)]]
+- Related: [[MON00160_Constructs_Creature_161]]
 - Connects to [[Quest - The Queen's Secret_1 (01_Adventures)
 - Related: [Location City Brother Matthias Inkdrinker Brother Matthias Inkdrinker.svg]]
 - Influences [[Black Sapphire Xdmg
 - Compare with [Portrait NPC the Nameless Auditor V2 the Nameless Auditor.svg]]
 - Leads to [[step_089 (phase_086)
 - Leads to [Location Name]]
-- Connects to [[NPC00175_Solas_Silverleaf_the_Scholar
-- Connects to [step_092 (phase_016)]]
+- Connects to [[NPC00175_Solas_Silverleaf_the_Scholar]]
 - See also: [[step_019 (phase_084)
 - Originates from
 - Parallels [Location City Commander Reef Shadowstrike V1 Commander Reef Shadowstrike.svg]]
-- Influences [[Merchant_Guild_Membership_Benefits
-- Influences [step_008 (phase_093)]]
-- Connects to [[Archive Index
-- Originates from [Symbol Heraldry Mob... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Influences [[Merchant_Guild_Membership_Benefits]]
+- Connects to [[Symbol Heraldry Mob... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[Assets Locations Location City Tenebrarum Embassy Tenebrarum Embassy.svg
 - Compare with
 - Connects to [The Great Tidal Amphitheater]]
@@ -253,18 +225,15 @@ Witnessed a crime
 - See also: [step_061 (phase_073)]]
 - Affected by [[Assets Locations Location City the Lock V1 the Lock.svg
 - Compare with [Mad Oracle Thessaly 2]]
-- Related: [[Toxin Specialist Venom Reef 2
-- See also: [Drow Ghaunadaur Mtf]]
+- Related: [[Toxin Specialist Venom Reef 2]]
 - See also: [[step_091 (phase_029)
 - Related: [Maze Heart Crystal]]
 - Leads to [[step_079 (phase_035)
 - Affected by [Assets Locations Location City Crystal Storm Barriers V1 Crystal Storm Barriers.svg]]
-- Related: [[Royal Intelligence (D&D_References)
-- See also: [Environmental Monitor Reef Ecowatch (D&D_References)]]
+- Related: [[Environmental Monitor Reef Ecowatch (D&D_References)]]
 - Related: [[Scene Scene Void Tear Over Harbor V2 Void Tear Over Harbor.svg
 - Originates from [regenerate-xphb (spells)]]
-- See also: [[step_006 (phase_071)
-- Leads to [NPC01499_Pyria_Darkwater_the_Lost]]
+- See also: [[NPC01499_Pyria_Darkwater_the_Lost]]
 - Connects to [[04_Resources_Assets_Locations_location-city-the-crystal-cathedral-of-pure-light-the-crystal-cathedral-of-pure-light.svg
 - Leads to [The Healing Waters Chalice]]
 - Compare with [[Lieutenant Shadow Truthseeker
@@ -275,8 +244,7 @@ Witnessed a crime
 - Originates from [step_078 (phase_088)]]
 - Requires [[step_041 (phase_073)
 - Connects to [step_037 (phase_033)]]
-- Affected by [[Order of the Sunken Crown (D&D_References)
-- Parallels [Null-Field Generators (Items)]]
+- Affected by [[Order of the Sunken Crown (D&D_References)]]
 - See also: [[Portrait NPC the Crystal Queen Mother V2 the Crystal Queen Mother.svg_1 (Portraits)
 - Leads to [NPC01602_Dara_Ashford_the_Seeker]]
 - Influences [[Deep Mother Influence (D&D_References)
@@ -286,9 +254,7 @@ Witnessed a crime
 - See also: [chamber-purpose-dungeon-death-trap (tables)]]
 - Parallels [[LOC00065_Cities_Location_66
 - Originates from [list-spells-feats-drow-high-magic-xge (lists)]]
-- Compare with [[step_005 (phase_066)
-- Affected by
-- Requires [emanation-area-of-effect-xphb (variant-rules)]]
+- Compare with [[emanation-area-of-effect-xphb (variant-rules)]]
 - Related: [[The Stability Zones
 - See also:
 - Originates from [step_009 (phase_077)]]
@@ -296,9 +262,7 @@ Witnessed a crime
 - Originates from [QUEST0056_Rescue_the_Cult]]
 - Originates from [[Princess Aria
 - See also: [step_050 (phase_024)]]
-- See also: [[NPC01818_Cedric_Darkwater_the_Seeker
-- See also:
-- Related: [Noble House Politics]]
+- See also: [[NPC01818_Cedric_Darkwater_the_Seeker]]
 - Compare with [[SPELL00122_Arcane_Spell_123
 - Related: [Portrait NPC Ancient King Pelagios V2 Ancient King Pelagios.svg_1 (Portraits)]]
 - Influences [[celtic-manannan-mac-lir (deities)

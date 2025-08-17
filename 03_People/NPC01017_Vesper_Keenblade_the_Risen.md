@@ -163,46 +163,29 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[NPC01943_Xander_Proudmore_the_Fallen
-- [NPC00821_Zephyr_Voidwalker_the_Cunning]]
-- [[NPC01931_Thalia_Lightbringer_the_Fallen
-- [Ambassador Nerida Deepcurrent]]
-- [[NPC01785_Aldric_Brightblade_the_Redeemed
-- [NPC01812_Xander_Lightbringer_the_Swift]]
-- [[NPC00878_Kaelen_Ironwood_the_Strong
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[NPC00881_Qadim_Voidwalker_the_Strong
-- [NPC01195_Gareth_Keenblade_the_Guardian]]
-- [[NPC00739_Gavril_Ashford_the_Bold
-- [NPC01767_Alaric_Ravenheart_the_Risen]]
-- [[NPC00276_Ysara_Youngblood
-- [NPC00162_Xander_Thornweave]]
-- [[NPC01841_Malakai_Nightfall_the_Wise
-- [NPC01466_Urien_Nightfall_the_Guardian]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [NPC01504_Erasmus_Zephyrblade_the_Strong]]
-- [[NPC01682_Vesper_Blackstone_the_Guardian
-- [NPC00976_Alaric_Quicksilver_the_Strong]]
-- [[NPC01892_Gareth_Xendar_the_Scholar
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC01974_Thalia_Zephyrblade_the_Lost
-- [Depth_Adapted_Background]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01767_Alaric_Ravenheart_the_Risen]]
+- [[NPC00162_Xander_Thornweave]]
+- [[NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
 - [[Ship_Schematic_The_Seahawk.md
 - [Welcome_to_Aquabyssos.md]]
-- [[11 Spellcasting
-- [05 Personality and Background]]
-- [[NPC01858_Drusilla_Stormwind_the_Cunning
-- [NPC00707_Fiora_Oakenshield_the_Seeker]]
-- [[NPC01979_Fiora_Emberfall_the_Guardian
-- [NPC01699_Orion_Oakenshield_the_Broken]]
-- [[NPC00407_Hestara_Dawnstrider
-- [Concept_Map]]
+- [[05 Personality and Background]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC00407_Hestara_Dawnstrider]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -222,7 +205,7 @@ Modifications:
 - Influences [step_043 (phase_005)]]
 - Influences [[Established Family Communities 2
 - Related: [fiendish-cults-cult-goals-mtf (tables)]]
-- Originates from [[Assets Locations [[Location City [[[Memoriam Keeper Marcus Remembrance]] V1 Memoriam Keeper Marcus Remembrance.svg]]]]
+- Originates from [[Memoriam Keeper Marcus Remembrance]] V1 Memoriam Keeper Marcus Remembrance.svg]]]]
 - Leads to [[ITEM01123_Concentrated_Oil_of_Swiftness
 - Leads to [step_082 (phase_083)]]
 - Originates from [[Location City the Neutral Current [[Tavern [The Neutral Current Tavern]].svg]]
@@ -230,18 +213,16 @@ Modifications:
 - See also: [physical-variations-yuan-ti-snake-body-type-vgm]]
 - Connects to [[LORE00175_Prophecies_Entry_176
 - Connects to [entangle-xphb (spells)]]
-- Affected by [[white-abishai-mpmm (fiend)
-- Connects to [Environmental Hazards (D&D_References)]]
+- Affected by [[Environmental Hazards (D&D_References)]]
 - Requires [[layers-of-arcadia-xdmg (tables)
 - Leads to [glamoured-studded-leather-xdmg (items)]]
-- Influences [[ENC00045_Environmental_Encounter_46
-- See also: [Grief Harvester Melancholy]]
+- Influences [[ENC00045_Environmental_Encounter_46]]
 - Compare with
 - Affected by [[SHOP00032_Specialty_Shop_33
 - Leads to [step_042 (phase_033)]]
 - Influences [[armaments-very-rare-xdmg (tables)
 - Influences [step_036 (phase_097)]]
-- Originates from [[[Chief Engineer Vera Steamheart (D&D_References)]]
+- Originates from [[Chief Engineer Vera Steamheart (D&D_References)]]
 - Related: [[giant-owl-xmm
 - Related: [step_008 (phase_039)]]
 - Leads to [[MON00026_Aberrations_Creature_27
@@ -251,14 +232,10 @@ Modifications:
 - Connects to [step_098 (phase_026)]]
 - Leads to [[World Overview
 - Compare with [step_058 (phase_020)]]
-- Connects to [[ITEM00287_Radiant_Staff_of_the_Ancients
-- Related:
-- Influences [" + join(map(slice(rows, 0, 3), (row) => row.file.name), "]]
+- Connects to [[" + join(map(slice(rows, 0, 3), (row) => row.file.name), "]]
 - Requires [[Location City [Calm Soothingwave Calm Soothingwave.svg]]
-- Parallels [[Progressive Research Institutions (D&D_References)
-- Influences [[Assets Locations Location City [Golden Coral]] Golden Coral.svg]]
-- Related: [[step_039 (phase_084)
-- See also: [NPC00431_Caelum_Dawnstrider_the_Cunning]]
+- Parallels [[Progressive Research Institutions (D&D_References)]] Golden Coral.svg]]
+- Related: [[NPC00431_Caelum_Dawnstrider_the_Cunning]]
 - Connects to [[Icon of Ravenloft Cos
 - Connects to [training-complications-xge (tables)]]
 - Compare with [[The Null Chamber
@@ -285,14 +262,12 @@ Modifications:
 - Influences [[[Aquabyssos]] - Session 07 - The Resonance Revelation]]
 - Compare with [[step_037 (phase_079)
 - Connects to [step_099 (phase_015)]]
-- Leads to [[Voices from Below
-- Affected by [LOC00138_Cities_Location_139]]
+- Leads to [[LOC00138_Cities_Location_139]]
 - Connects to [[LORE00296_Prophecies_Entry_297
 - Connects to [ITEM00796_Time-worn_Crown_of_Truth]]
 - See also: [[LORE00257_History_Entry_258
 - Influences [[[Navigator Sage Driftwood]] 2]]
-- Requires [[ENC00098_Combat_Encounter_99
-- Compare with [Frequency Weapons]]
+- Requires [[ENC00098_Combat_Encounter_99]]
 - Affected by [[step_001 (phase_017)
 - Requires [Boon of Spell Mastery]]
 - Influences [[step_097 (phase_010)
@@ -309,13 +284,11 @@ Modifications:
 - Influences [War of Burning Skies]]
 - Leads to [[Portrait NPC Duke Gale Vortex V2 Duke Gale Vortex.svg
 - Originates from [Multiverse (D&D_References)]]
-- Requires [[step_028 (phase_063)
-- Related: [SPELL00064_Nature_Spell_65]]
-- Compare with [[[Harbor Facilities 2]]
+- Requires [[SPELL00064_Nature_Spell_65]]
+- Compare with [[Harbor Facilities 2]]
 - Influences [[Diplomatic Corps
 - Affected by [Portrait NPC Captain Swift Cloudracer V1 Captain Swift Cloudracer.svg]]
-- See also: [[young-green-dragon-xmm
-- Affected by [The Sky Knight Orders (Orders)]]
+- See also: [[The Sky Knight Orders (Orders)]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

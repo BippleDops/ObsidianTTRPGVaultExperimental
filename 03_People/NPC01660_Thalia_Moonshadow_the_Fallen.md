@@ -159,32 +159,17 @@ Is secretly testing the party
 - Special moves
 
 ## See Also
-- [[NPC00949_Nerys_Underhill_the_Wise
-- [NPC01483_Gavril_Zephyrblade_the_Fallen]]
-- [[NPC00920_Malakai_Ravenheart_the_Guardian
-- [NPC00190_Cedric_Silverleaf]]
-- [[NPC01624_Corvus_Silverleaf_the_Redeemed
-- [NPC01555_Branwen_Xendar_the_Seeker]]
-- [[NPC00259_Delara_Proudmore
-- [NPC00300_Urien_Zephyrblade]]
-- [[NPC01301_Jorah_Underhill_the_Broken
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC01012_Solas_Darkwater_the_Strong
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [NPC00515_Baelor_Crystalbrook_the_Seeker]]
-- [[Party_Quests
-- [Quarantine_Notice_Crystal_Plagu]]
-- [[12 Spells
-- [Measurement_Guide_Depth_and_Pressur]]
-- [[NPC01757_Nerys_Silverleaf_the_Strong
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00300_Urien_Zephyrblade]]
+- [[NPC01301_Jorah_Underhill_the_Broken]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC01757_Nerys_Silverleaf_the_Strong]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -206,8 +191,7 @@ Is secretly testing the party
 - Leads to [[Assets Locations [[Location City the [[Whisper Island Mystery [The Whisper Island Mystery]].png]]]]
 - Originates from [[step_056 (phase_096)
 - Requires [Pact of the Blade Xphb]]
-- Requires [[LOC00270_Towns_Location_271
-- Compare with [ENC00034_Environmental_Encounter_35]]
+- Requires [[ENC00034_Environmental_Encounter_35]]
 - Leads to [[Ioun Stone Regeneration Xdmg
 - Influences
 - Requires [ITEM00542_Ethereal_Cloak_of_Fortitude]]
@@ -223,30 +207,26 @@ Is secretly testing the party
 - Affected by [Assets Portraits Portrait NPC Emperor Abyssal the Deep Sighted Emperor Abyssal the Deep Sighted.svg]]
 - Influences [[Portrait NPC Doctor Helena Voidwalker V2 Doctor Helena Voidwalker.svg_1 (Portraits)
 - Connects to [step_082 (phase_008)]]
-- Parallels [[Mind Surgeon Dr Forget Me Always
-- Originates from [The Green Apocalypse]]
+- Parallels [[Mind Surgeon Dr Forget Me Always]]
 - Related: [[The Whispering Tower
 - Related:
 - Related: [[[[[Harbor District]] Customs House]] 2]]
 - Connects to [[Location City [Military Command Military Command.svg]]
 - Influences [[human-names-niger-congo-male-xge (tables)
 - See also: [step_046 (phase_064)]]
-- Influences [[Create Undead Xphb
-- Originates from [The Great Resonance (D&D_References)]]
+- Influences [[The Great Resonance (D&D_References)]]
 - Parallels [[Portrait NPC Brother Matthias the Amber Bearer Brother Matthias the Amber Bearer.svg
 - Requires
 - Related: [QUEST00290_Side_Quest_291]]
 - Connects to [[step_066 (phase_044)
 - Compare with [[Location City [The Observatory]] V1 the Observatory.svg]]
-- Parallels [[NPC01073_Zephyr_Ironwood_the_Strong
-- See also: [QUEST00418_Side_Quest_419]]
+- Parallels [[NPC01073_Zephyr_Ironwood_the_Strong]]
 - Affected by [[Myconid Sprout Xmm
 - Connects to [step_026 (phase_023)]]
-- Leads to [[trident-xphb (items)
-- Leads to [Chief Medic Coral Battlehealer]]
+- Leads to [[Chief Medic Coral Battlehealer]]
 - See also: [[LOC00041_Cities_Location_42
 - Requires [Consequence_Chain_Name_2 (02_Worldbuilding)]]
-- Leads to [[[Echo-Keeper Selin (D&D_References)]]
+- Leads to [[Echo-Keeper Selin (D&D_References)]]
 - Connects to [[Welfare Director Caretake 2
 - Affected by [The Zone Map Codex 2]]
 - Influences [[step_070 (phase_027)
@@ -254,15 +234,13 @@ Is secretly testing the party
 - Leads to [[Assets Locations Location City [Expedition to the Sunless Depths Expedition to the Sunless Depths.svg]]
 - Related: [[step_087 (phase_093)
 - See also: [[Assets Locations [[Location City [The Twilight Gardens]] V1 the Twilight Gardens.svg]]]]
-- Requires [[[The Divine Trial 2]]
-- Leads to [[MON00090_Undead_Creature_91
-- Related: [Aarakocra Dmg]]
+- Requires [[The Divine Trial 2]]
+- Leads to [[MON00090_Undead_Creature_91]]
 - See also: [[step_061 (phase_060)
 - Connects to [step_092 (phase_027)]]
 - Parallels [[Cyclops Oracle Xmm
 - Related: [step_090 (phase_080)]]
-- Requires [[SPELL00157_Nature_Spell_158
-- See also: [Depth Plague]]
+- Requires [[SPELL00157_Nature_Spell_158]]
 - See also:
 - Leads to [[Animal Lord Xmm
 - Compare with
@@ -284,8 +262,7 @@ Is secretly testing the party
 - Parallels
 - Connects to [[high-altitude-xdmg (traps-hazards)
 - Requires [Grease Xphb]]
-- Influences [[QUEST00381_Side_Quest_382
-- Related: [step_003 (phase_070)]]
+- Influences [[QUEST00381_Side_Quest_382]]
 - Connects to [[NPC0031_Freya_Stormwind
 - Originates from [[[The Crystal Stock Exchange]] 2]]
 - Connects to [[ITEM00692_Warded_Helm_of_Fortitude
@@ -293,10 +270,8 @@ Is secretly testing the party
 - Originates from [[Location City [Void Prophet Nullus the Erased Void Prophet Nullus the Erased.svg]]
 - Affected by [[wheat-xdmg (items)
 - Related: [List Spells School Evocation]]
-- Affected by [[Control Winds Xge
-- Parallels [ENC00238_Social_Encounter_239]]
-- See also: [[History the Origin War
-- Connects to [ENC00084_Environmental_Encounter_85]]
+- Affected by [[ENC00238_Social_Encounter_239]]
+- See also: [[ENC00084_Environmental_Encounter_85]]
 - Originates from [[Secure Communication Crystals
 
 ## Visual References

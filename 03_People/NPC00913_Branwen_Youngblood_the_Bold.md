@@ -158,8 +158,7 @@ Competitor sabotaging business
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -176,26 +175,21 @@ Competitor sabotaging business
 - Affected by [[Keeper Light Archive
 - Influences [step_070 (phase_092)]]
 - Originates from
-- Influences [[step_048 (phase_053)
-- See also: [Weaponsmith Captain Marcus Sharpedge]]
+- Influences [[Weaponsmith Captain Marcus Sharpedge]]
 - Affected by [[Meld Into Stone Xphb
 - Originates from [The Deep Sanctum]]
 - Compare with [[Brother Thomas the Illuminated
 - Compare with [mind-flayer-psion-vgm (aberration)]]
-- Requires [[Ancestor Memorial Spaces (D&D_References)
-- Originates from [NPC01554_Fiora_Grimholt_the_Fallen]]
+- Requires [[Ancestor Memorial Spaces (D&D_References)]]
 - Connects to [[Master Artificer Thymallos
 - See also: [NPC0153_Helena_Darkwater]]
 - Related: [[Location City Surface Portal Alpha V1 Surface Portal Alpha.svg
 - See also: [Safety Coordinator Reef Safeguard]]
 - Leads to [[dragonlance-chislev-phb (deities)
 - Parallels [ITEM01132_Distilled_Incense_of_Swiftness]]
-- Requires [[Enforcer Chief Mako Ironjaw (D&D_References)
-- Leads to [The Stellar Confluence 2]]
-- Parallels [[NPC00260_Wynne_Underhill_the_Fallen
-- Compare with [tiefling-asmodeus-mtf (races)]]
-- Compare with [[step_057 (phase_062)
-- Parallels [NPC00461_Branwen_Proudmore_the_Strong]]
+- Requires [[Enforcer Chief Mako Ironjaw (D&D_References)]]
+- Parallels [[NPC00260_Wynne_Underhill_the_Fallen]]
+- Compare with [[NPC00461_Branwen_Proudmore_the_Strong]]
 - Connects to [[step_021 (phase_020)
 - Requires [step_002 (phase_009)]]
 - Leads to [[crystal-xphb (items)
@@ -205,8 +199,7 @@ Competitor sabotaging business
 - Originates from [giant-crocodile-xmm]]
 - Affected by [[Harmonic Mind Contro
 - Compare with [SHOP00007_General_Shop_8]]
-- Related: [[Security Chief Commander Marina Tideguard
-- Affected by [step_063 (phase_007)]]
+- Related: [[Security Chief Commander Marina Tideguard]]
 - Compare with
 - Connects to
 - See also: [[Symbol Heraldry the Sunken Observatory V1 the Sunken Observatory.svg
@@ -218,8 +211,7 @@ Competitor sabotaging business
 - Leads to [portrait-npc-the-barnacle-the-barnacle.svg]]
 - Originates from [[LOC0052_Watchridge
 - Compare with [step_011 (phase_096)]]
-- Requires [[Passages Passage Width
-- Influences [LOC00243_Wilderness_Location_244]]
+- Requires [[LOC00243_Wilderness_Location_244]]
 - See also: [[The Crystal Sovereign 2
 - Influences [ITEM00668_Warded_Gauntlets_of_Resistance]]
 - Compare with [[grazzt-mtf (legendary-group)
@@ -230,23 +222,19 @@ Competitor sabotaging business
 - See also: [SPELL00017_Arcane_Spell_18]]
 - Connects to [[beast-sense-xphb (spells)
 - Connects to [step_037 (phase_069)]]
-- Affected by [[LOC00173_Dungeons_Location_174
-- Leads to [step_077 (phase_090)]]
+- Affected by [[LOC00173_Dungeons_Location_174]]
 - Originates from [[step_080 (phase_035)
 - Related: [step_005 (phase_014)]]
 - Affected by [[Political Hardliner
 - See also: [DUN00081_Dungeon_82]]
-- Influences [[NPC00052_Thalia_Dawnstrider
-- Leads to [The Merchant's Covenant 3 (D&D_References)]]
+- Influences [[The Merchant's Covenant 3 (D&D_References)]]
 - See also: [[remorhaz-xmm (monstrosity)
 - Connects to [Figurine of Wondrous Power Obsidian Steed]]
-- Compare with [[Interfaith Dialogue (D&D_References)
-- Affected by [step_064 (phase_061)]]
+- Compare with [[Interfaith Dialogue (D&D_References)]]
 - Parallels
 - Originates from [[List Spells Optional Features Otherworldly
 - Parallels [Session Management Plot Threads]]
-- See also: [[Professional Training (D&D_References)
-- Compare with [Truth and Madness 2]]
+- See also: [[Professional Training (D&D_References)]]
 - See also: [[Paper Xphb
 - Related: [Wind Monks]]
 - Leads to [[stable
@@ -259,12 +247,10 @@ Competitor sabotaging business
 - Compare with [Copper Dragon Wyrmling Xmm]]
 - Affected by [[DUN00179_Dungeon_180
 - Connects to [Assets Locations Location City Priest Thomas Messagekeeper Priest Thomas Messagekeeper.svg]]
-- Leads to [[githzerai-groups-githzerai-group-leader-mtf
-- See also: [orthon-mpmm (fiend)]]
+- Leads to [[githzerai-groups-githzerai-group-leader-mtf]]
 - Parallels [[ITEM01478_Simple_Lantern_of_Convenience
 - Related: [supplemental-tables-absent-parent-xge (tables)]]
-- Parallels [[EVENT00084_Political_Event_85
-- Leads to [Portrait NPC Abys... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Parallels [[Portrait NPC Abys... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Connects to
 - Influences [[SPELL00008_Nature_Spell_9
 - Compare with [step_069 (phase_063)]]

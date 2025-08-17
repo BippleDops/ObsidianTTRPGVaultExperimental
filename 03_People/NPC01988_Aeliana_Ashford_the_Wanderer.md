@@ -206,29 +206,23 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[LORE00302_Prophecies_Entry_303
 - Requires [Assets Locations Location City Free Current Charter Free Current Charter.svg]]
 - Related:
-- Parallels [[Community Coordinator Kelp Bondweaver
-- Influences [Royal Seal]]
-- Leads to [[Palace Guard Captain Neutralis 2
-- Compare with [The Crystal Forest]]
+- Parallels [[Community Coordinator Kelp Bondweaver]]
+- Leads to [[Palace Guard Captain Neutralis 2]]
 - Parallels [[LORE00320_Legends_Entry_321
 - Leads to [step_064 (phase_061)]]
 - Influences [[The Sunken Markets_1
 - Affected by [Emergency Protocols 2 (Places)]]
 - Influences [[individual-treasure-challenge-1116 (tables)
 - See also: [ITEM00410_Fortified_Boots_of_Resistance]]
-- Compare with [[step_065 (phase_075)
-- Influences [Healing Ministries (D&D_References)]]
+- Compare with [[Healing Ministries (D&D_References)]]
 - Connects to [[step_077 (phase_090)
 - Influences
 - Requires [step_049 (phase_023)]]
-- Leads to [[ENC00169_Social_Encounter_170
-- See also: [step_041 (phase_071)]]
+- Leads to [[ENC00169_Social_Encounter_170]]
 - Originates from [[step_018 (phase_011)
 - Parallels [Treasure Hoard Challenge 17 (tables)]]
-- Affected by [[Kelp Cultivator Threnody
-- See also: [New Ability Scores Honor and Sanity]]
-- Leads to [[ENC00390_Combat_Encounter_391
-- Compare with [Security Sweepers]]
+- Affected by [[New Ability Scores Honor and Sanity]]
+- Leads to [[ENC00390_Combat_Encounter_391]]
 - See also: [[The Opposition Leader 2
 - Related:
 - Compare with [NPC00319_Zephyr_Blackstone]]
@@ -239,27 +233,22 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels
 - Parallels [[derro-madness-mtf (tables)
 - Requires [Portrait NPC Deep Priest Covenant Deep Priest Covenant.svg]]
-- Parallels [[The Deep Harvest (D&D_References)
-- Originates from [Pressure Tube Terminal]]
-- Connects to [[Lord Vex
-- Influences [NPC00329_Solas_Thornweave_the_Seeker]]
-- Affected by [[step_087 (phase_076)
-- Requires [Portrait NPC King... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Parallels [[The Deep Harvest (D&D_References)]]
+- Connects to [[NPC00329_Solas_Thornweave_the_Seeker]]
+- Affected by [[Portrait NPC King... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Affected by [[step_019 (phase_019)
 - Related: [step_047 (phase_090)]]
 - Compare with [[ENC00055_Combat_Encounter_56
 - See also: [ability-modifier-saving-throw-examples-xphb (tables)]]
 - Originates from [[step_011 (phase_015)
 - Affected by [Fence Simon Quickfingers]]
-- Leads to [[Meta Bind Examples (D&D_References)
-- See also: [step_003 (phase_032)]]
+- Leads to [[Meta Bind Examples (D&D_References)]]
 - Influences
 - Compare with [[Pressure Court
 - Leads to [step_073 (phase_058)]]
 - Connects to [[Depth Crystal Harvest (D&D_References)
 - Leads to [Location City Doctor Silas Voidtouch V1 Doctor Silas Voidtouch.svg]]
-- Leads to [[MON00122_Undead_Creature_123
-- Related: [Umbral Exchange (D&D_References)]]
+- Leads to [[Umbral Exchange (D&D_References)]]
 - Requires
 - Parallels [[supplemental-tables-family-lifestyle-xge (tables)
 - Leads to [staff-of-frost-xdmg (items)]]
@@ -276,18 +265,15 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[Portrait NPC the Deep Trade Routes V1 the Deep Trade Routes.svg
 - Originates from [Inter-Realm Transportation]]
 - Related:
-- See also: [[audio_fit_report
-- Connects to [The Archive of Questions (D&D_References)]]
+- See also: [[The Archive of Questions (D&D_References)]]
 - Related: [[portrait-npc-siren-siren.svg_1 (Portraits)
 - Related: [Location City Aquabyssos Government V1 Aquabyssos Government.svg]]
 - Parallels
 - Connects to [[ITEM00996_Pure_Herb_of_Swiftness
 - Influences [false-life-xphb (spells)]]
 - Parallels
-- Originates from [[ITEM00744_Divine_Mirror_of_Destiny
-- Affected by [System Operator Tide Watchwright (D&D_References)]]
-- Parallels [[NPC01252_Jorah_Youngblood_the_Strong
-- See also: [The Unremembered Parliament 2]]
+- Originates from [[System Operator Tide Watchwright (D&D_References)]]
+- Parallels [[NPC01252_Jorah_Youngblood_the_Strong]]
 - Influences [[ITEM00790_Infernal_Scepter_of_Destiny
 - Leads to
 - Affected by [step_100 (phase_062)]]

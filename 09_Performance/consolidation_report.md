@@ -86,8 +86,7 @@ Special Directories (keep these):
 ## Connections
 
 - See also: [Blessing of Understanding Xdmg]]
-- Requires [[04-chapter-4-gracklstugh (out-of-the-abyss)
-- Compare with [QUEST00248_Personal_Quest_249]]
+- Requires [[04-chapter-4-gracklstugh (out-of-the-abyss)]]
 - Compare with [[step_001 (phase_092)
 - See also: [Human Names Niger Congo Male Xge]]
 - Requires [[step_076 (phase_098)
@@ -104,8 +103,7 @@ Special Directories (keep these):
 - Influences [LOC00119_Wilderness_Location_120]]
 - Leads to [[Assets Locations Location City Pressure Suit Malfunction V1 Pressure Suit Malfunction.svg
 - Leads to [04_Resources_Assets_Portraits_portrait-npc-captain-shadowsail-captain-shadowsail.svg_Quick_Ref]]
-- Affected by [[Quest - The Dark Harvest 2
-- Affected by [step_036]]
+- Affected by [[Quest - The Dark Harvest 2]]
 - Requires [[M-106_Identity_Court
 - Leads to [step_071 (phase_023)]]
 - Related: [[Location City Master Cultivator Reef Growstone Master Cultivator Reef Growstone.svg
@@ -118,44 +116,35 @@ Special Directories (keep these):
 - See also: [Baba Yagas Dancing Broom Xdmg]]
 - Related: [[step_094
 - Related: [egyptian-apep (deities)]]
-- Connects to [[Quarantine Enforcement (D&D_References)
-- Influences [SPELL00106_Arcane_Spell_107]]
+- Connects to [[Quarantine Enforcement (D&D_References)]]
 - Compare with [[Assets Locations Location City Inter Realm Diplomacy Inter Realm Diplomacy.svg
 - Parallels [savage-attacker-xphb (feats)]]
-- Affected by [[LORE00216_Prophecies_Entry_217
-- Compare with [NPC01291_Xander_Thornweave_the_Risen]]
-- Affected by [[step_015
-- Requires [Quest - Crystal Truth]]
+- Affected by [[NPC01291_Xander_Thornweave_the_Risen]]
+- Affected by [[Quest - Crystal Truth]]
 - Influences [[figurine-of-wondrous-power-bronze-griffon-xdmg
 - Related: [Synthesis Consciousness Transfer]]
 - Related: [[step_065 (phase_043)
 - Compare with [QUEST00122_Side_Quest_123]]
 - Leads to [[Locations Abyssal Forges
 - Compare with [ITEM00096_Radiant_Staff_of_Slaying]]
-- See also: [[Diplomat Cross-Current Thane
-- Connects to [Veteran]]
+- See also: [[Diplomat Cross-Current Thane]]
 - Connects to [[step_019
 - Influences [Drow 3 Weapon Mm]]
-- Leads to [[step_005
-- Requires [SPELL00119_Divine_Spell_120]]
-- See also: [[NPC01453_Delara_Frostwhisper_the_Swift
-- Requires [The First Dreamer 2]]
+- Leads to [[SPELL00119_Divine_Spell_120]]
+- See also: [[NPC01453_Delara_Frostwhisper_the_Swift]]
 - Originates from [[Knocking Out a Creature Xphb
 - Leads to [Vehicle Ship Altitude Tuned Skiff V1 Altitude Tuned Skiff.svg]]
 - Requires [[ottos-irresistible-dance-xphb (spells)
 - Requires [Abyssal Trenches]]
-- Affected by [[Symphony of the Abyss Recipe
-- Parallels [step_036 (phase_092)]]
-- Leads to [[NPC01768_Elric_Jadeclaw_the_Wanderer
-- Influences [Monkey's Paw (D&D_References)]]
+- Affected by [[Symphony of the Abyss Recipe]]
+- Leads to [[NPC01768_Elric_Jadeclaw_the_Wanderer]]
 - Leads to [[NPC00265_Kaelen_Stormwind_the_Risen
 - Connects to [Assets Locations Location City Knowledge Truthseeker V1 Knowledge Truthseeker.svg]]
 - Influences [[step_031 (phase_060)
 - See also: [ITEM00887_Void-touched_Mirror_of_Eternity]]
 - Influences [[Faction2 (02_Worldbuilding)
 - See also: [ENC00117_Social_Encounter_118]]
-- Connects to [[step_079 (phase_099)
-- Requires [LOC00063_Planes_Location_64]]
+- Connects to [[LOC00063_Planes_Location_64]]
 - Requires [[step_007 (phase_092)
 - Leads to [step_092 (phase_030)]]
 - See also: [[Master_Campaign_Index 2
@@ -176,14 +165,11 @@ Special Directories (keep these):
 - Compare with [step_088 (phase_021)]]
 - See also: [[Economic Systems
 - Parallels [Memorial Guardians]]
-- Requires [[Cross-Dimensional Research Consortium
-- See also: [LOC00033_Planes_Location_34]]
-- Connects to [[The Gloom Gardens (D&D_References)
-- Affected by [step_056]]
+- Requires [[Cross-Dimensional Research Consortium]]
+- Connects to [[The Gloom Gardens (D&D_References)]]
 - Requires [[NPC Directory.base (People)
 - See also: [step_088]]
-- See also: [[The Wandering Atoll (D&D_References)
-- Parallels [QUEST00192_Personal_Quest_193]]
+- See also: [[The Wandering Atoll (D&D_References)]]
 - Leads to [[NPC01234_Nerys_Dawnstrider_the_Strong
 
 ## Visual References

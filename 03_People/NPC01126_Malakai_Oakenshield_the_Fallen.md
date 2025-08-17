@@ -171,34 +171,22 @@ Modifications:
 
 ## See Also
 - [NPC01870_Lyanna_Silverleaf_the_Cunning]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [NPC01877_Hestara_Moonshadow_the_Mystic]]
-- [[NPC00296_Elric_Jadeclaw_the_Bold
-- [NPC00707_Fiora_Oakenshield_the_Seeker]]
-- [[NPC01858_Drusilla_Stormwind_the_Cunning
-- [NPC01911_Alaric_Oakenshield_the_Mystic]]
-- [[NPC01632_Qadim_Darkwater_the_Guardian
-- [NPC00872_Thalia_Ironwood_the_Broken]]
-- [[NPC01695_Ewan_Ashford_the_Fallen
-- [NPC01057_Pyria_Quicksilver_the_Scholar]]
-- [[NPC00395_Aeliana_Thornweave
-- [NPC01974_Thalia_Zephyrblade_the_Lost]]
-- [[Faction_Guide.md
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
-- [[Combat_Encounter_Analysis
-- [NPC01812_Xander_Lightbringer_the_Swift]]
-- [[NPC00283_Kaelen_Zephyrblade_the_Bold
-- [NPC00881_Qadim_Voidwalker_the_Strong]]
-- [[Welcome_to_Aquabyssos.md
-- [NPC01827_Kaelen_Ironforge_the_Seeker]]
-- [[05 Personality and Background
-- [11 Rules Glossary]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01827_Kaelen_Ironforge_the_Seeker]]
+- [[05 Personality and Background]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -216,12 +204,10 @@ Modifications:
 - Originates from [[Assets Locations [[Location City [The Cerulean Trench the Cerulean Trench.svg]]]]
 - Originates from [[QUEST00135_Personal_Quest_136
 - Related: [step_055 (phase_061)]]
-- Affected by [[Community Education
-- See also: [ENC00065_Environmental_Encounter_66]]
+- Affected by [[ENC00065_Environmental_Encounter_66]]
 - Affected by [[Heart Grove
 - Influences [Carnelian Xdmg]]
-- Influences [[The Memory-Fragmented Child, Little Luna Patchwork
-- Parallels [step_033 (phase_021)]]
+- Influences [[The Memory-Fragmented Child, Little Luna Patchwork]]
 - Related: [[step_005 (phase_009)
 - See also: [step_059 (phase_058)]]
 - Requires [[ENC00256_Combat_Encounter_257
@@ -236,8 +222,7 @@ Modifications:
 - Leads to [amulet-of-the-planes-xdmg (items)]]
 - Parallels [[MON00002_Undead_Creature_3
 - Originates from [step_065 (phase_076)]]
-- Originates from [[MON00115_Constructs_Creature_116
-- Leads to [International Pressur]]
+- Originates from [[MON00115_Constructs_Creature_116]]
 - Compare with [[Harpy Xmm
 - Originates from
 - Related: [step_079 (phase_014)]]
@@ -246,15 +231,14 @@ Modifications:
 - Compare with [NPC00154_Dara_Winterborn]]
 - Requires [[Charter of Rights
 - Leads to [04_Resources_Assets_Locations_location-city-reef-guard-captain-torrent-shellborn-v1-reef-guard-captain-torrent-shellborn.svg]]
-- Connects to [[LORE0049_Secret_of_the_Dragon_Wars
-- Related: [LORE00183_Legends_Entry_184]]
+- Connects to [[LORE0049_Secret_of_the_Dragon_Wars]]
 - Leads to [[ENC00157_Environmental_Encounter_158
 - Parallels [Portrait NPC the Lady S Garden Society the Lady S Garden Society.svg]]
 - See also: [[The Deep Mother (D&D_References)
 - See also: [Portrait NPC Embassy of Eternal Shadows V2 Embassy of Eternal Shadows.svg]]
 - See also: [[LORE00147_Legends_Entry_148
 - Affected by [step_073 (phase_063)]]
-- Requires [[[The Reflection Pools 2]]
+- Requires [[The Reflection Pools 2]]
 - Compare with [[ITEM00282_Blessed_Staff_of_Slaying
 - Leads to [[[Deep Compressmaster]] (D&D_References)]]
 - Compare with [[step_036 (phase_041)
@@ -263,13 +247,12 @@ Modifications:
 - Originates from [Items - Artifact Visuals]]
 - Leads to [[NPC00809_Caelum_Xendar_the_Wanderer
 - Influences [Describe Appearance and Personality]]
-- Connects to [[[Artistic Communities 2]]
+- Connects to [[Artistic Communities 2]]
 - Parallels [[DUN00061_Dungeon_62
 - Connects to [[[Void Krakens]] (D&D_References)]]
 - Parallels [[step_012 (phase_060)
 - Related: [[Assets Locations Location City [Chronomancer Paradox]] V1 Chronomancer Paradox.svg]]
-- Influences [[ENC00130_Environmental_Encounter_131
-- Compare with [step_014 (phase_038)]]
+- Influences [[ENC00130_Environmental_Encounter_131]]
 - Influences [[Convergence Maze
 - Influences [Monk Xphb Way of the Sun Soul Xge]]
 - Connects to [[The Depth Blessed Fisherman Captain Sal
@@ -279,20 +262,16 @@ Modifications:
 - Related:
 - Connects to [[NPC00101_Caelum_Hawthorne
 - Affected by [Symbol Heraldry Witness Protection Network V1 Witness Protection Network.svg]]
-- Connects to [[Lady Vivienne Thornwhisper (D&D_References)
-- Compare with [[[Port Meridian]] - Market Square]]
+- Connects to [[Lady Vivienne Thornwhisper (D&D_References)]] - Market Square]]
 - Influences [[Marina''s Identity Crisis
 - Parallels [hat-of-disguise-xdmg (items)]]
-- Leads to [[Harmonic Defense Grid
-- Requires [SPELL00037_Nature_Spell_38]]
+- Leads to [[SPELL00037_Nature_Spell_38]]
 - Affected by [[step_049 (phase_083)
 - Parallels [location-city-port-authority-v1-port-authority.svg]]
-- Related: [[The Memory Walls (D&D_References)
-- Affected by [Emergency Signal Mirrors]]
+- Related: [[The Memory Walls (D&D_References)]]
 - Originates from [[Market Prophet 2
 - Compare with [step_049 (phase_058)]]
-- Requires [[NPC00634_Gareth_Silverleaf_the_Scholar
-- Related: [step_066 (phase_054)]]
+- Requires [[NPC00634_Gareth_Silverleaf_the_Scholar]]
 - Requires [[location-city-vote-vaults-v1-vote-vaults.svg
 - Affected by [Sealing Wax]]
 - Originates from [[step_086 (phase_083)
@@ -310,8 +289,7 @@ Modifications:
 - Related: [04_Resources_Assets_Locations_location-city-master-archivist-thomas-scrollkeeper-master-archivist-thomas-scrollkeeper.png]]
 - Originates from [[The Great Circuit
 - Compare with [deities-of-eberron (tables)]]
-- Influences [[DUN00021_Dungeon_22
-- Leads to [Deepwater Trading Consortium]]
+- Influences [[Deepwater Trading Consortium]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

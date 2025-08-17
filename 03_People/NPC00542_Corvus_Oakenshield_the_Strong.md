@@ -166,30 +166,16 @@ Modifications:
 > How this works in play
 
 ## See Also
-- [[NPC00669_Zephyr_Youngblood_the_Lost
-- [NPC00259_Delara_Proudmore]]
-- [[NPC00749_Xander_Quicksilver
-- [NPC00649_Corvus_Zephyrblade_the_Broken]]
-- [[NPC00388_Ysara_Goldleaf
-- [Archdruid Thornweaver]]
-- [[NPC01041_Thalia_Dawnstrider_the_Lost
-- [NPC01989_Erasmus_Xendar_the_Strong]]
-- [[NPC00095_Fiora_Nightfall
-- [NPC01858_Drusilla_Stormwind_the_Cunning]]
-- [[NPC00321_Aeliana_Zephyrblade_the_Strong
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC00058_Elric_Nightfall
-- [NPC01276_Erasmus_Keenblade_the_Wanderer]]
-- [[Downtime_Activities
-- [10 Appendix B Creature Stat Blocks]]
-- [[05 Personality and Background
-- [Count_Strahd_von_Zarovich]]
-- [[Character_Journal_Template
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00669_Zephyr_Youngblood_the_Lost]]
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[NPC00388_Ysara_Goldleaf]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[05 Personality and Background]]
+- [[Character_Journal_Template]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -208,8 +194,7 @@ Modifications:
 - Related: [Consortium Security Constructs 2]]
 - Influences [[Memory [Merchant Valeria]]
 - Connects to [[Assets Locations Location City [Keeper Temporal Safehaven V1 Keeper Temporal Safehaven.svg]]
-- Compare with [[imp-xmm (fiend)
-- Requires [NPC01291_Xander_Thornweave_the_Risen]]
+- Compare with [[NPC01291_Xander_Thornweave_the_Risen]]
 - Affected by [[step_080 (phase_039)
 - Compare with [Political Prison Complexes]]
 - Related: [[step_067 (phase_097)
@@ -218,12 +203,10 @@ Modifications:
 - Related: [NPC01708_Corvus_Ravenheart_the_Strong]]
 - Influences [[Assets Item Artifact Poisoners Kit Xphb V1 Poisoners Kit Xphb.png
 - Influences [step_008 (phase_035)]]
-- Connects to [[The Ledger Hall
-- Compare with [visibility-underwater-underwater-encounter-distance-xdmg]]
-- Leads to [[Locations [The Temporal Scars]]
+- Connects to [[visibility-underwater-underwater-encounter-distance-xdmg]]
+- Leads to [[The Temporal Scars]]
 - Affected by
-- See also: [[Nonhuman Semuanya
-- Influences [Underdark Encounters Levels 14 Xge]]
+- See also: [[Underdark Encounters Levels 14 Xge]]
 - See also: [[Deck of Many Things 13 Cards
 - Requires [yuan-ti-malison-type-2-xmm]]
 - Affected by [[Wizard_Journal
@@ -233,29 +216,23 @@ Modifications:
 - Affected by [Deep Mother Influence (Lore)]]
 - Originates from [[rank-status-and-title-vgm (tables)
 - Leads to [Prismatic Falls]]
-- Originates from [[The Cosmic Library
-- Parallels [Nerissa Depthsong (D&D_References)]]
-- Requires [[Bone Scribes (D&D_References)
-- Related: [[[[The [Noble Quarter]] Market]] (D&D_References)]]
+- Originates from [[Nerissa Depthsong (D&D_References)]]
+- Requires [[Bone Scribes (D&D_References)]] Market]] (D&D_References)]]
 - Affected by
 - Compare with [[Dr. Siphon Gillwater
 - Connects to [step_001 (phase_078)]]
 - Leads to [[Creature Creature Goblin Hexer Xmm V4 Goblin Hexer Xmm.png
 - Requires [LORE00129_Prophecies_Entry_130]]
-- See also: [[QUEST00168_Main_Quest_169
-- Originates from [Hawk Xmm]]
-- Related: [[The Original Palace
-- Connects to [[[Harbor Pilot Captain Storm Skyreacher]] 2]]
+- See also: [[QUEST00168_Main_Quest_169]]
+- Related: [[Harbor Pilot Captain Storm Skyreacher]] 2]]
 - Originates from [[step_095 (phase_026)
 - Requires [[Assets Locations Location City [[Memorial District of [Abyssos Prime]]]] V1 Memorial District of Abyssos Prime.svg]]
 - Parallels [[Location City [Keeper Valdris Goldvault Keeper Valdris Goldvault.svg]]
 - Affected by [[Portrait NPC House Guard Captains V2 House Guard Captains.svg
 - Affected by
 - Influences [Gold Locket With a Painted Portrait Inside]]
-- Parallels [[MON00153_Constructs_Creature_154
-- Compare with [The Whispering Chambers]]
-- Compare with [[X-001_Trench_to_Cloud_Transfer
-- Leads to [step_026 (phase_075)]]
+- Parallels [[MON00153_Constructs_Creature_154]]
+- Compare with [[X-001_Trench_to_Cloud_Transfer]]
 - Influences [[Portrait NPC Prophet Nerida Voidgazer V1 Prophet Nerida Voidgazer.svg
 - Compare with [Royal Advisor Wise Counselor]]
 - Influences [[human-names-chinese-male-xge (tables)
@@ -281,18 +258,13 @@ Modifications:
 - Compare with [[Assets Locations Location City [Thalassa the Deepmother]] V1 Thalassa the Deepmother.svg]]
 - Originates from [[QUEST00048_Main_Quest_49
 - Influences [step_039 (phase_039)]]
-- See also: [[Trader Cross-Current Jin 2
-- Related: [ITEM0029_Forgotten_Orb_of_Power]]
-- Originates from [[ale-mug-xphb (items)
-- Affected by [MON00043_Constructs_Creature_44]]
-- Parallels [[ENC0094_Random_Encounter_95
-- Compare with [NPC01655_Orion_Underhill_the_Risen]]
-- Related: [[Market Prophet (D&D_References)
-- Compare with [step_066 (phase_081)]]
+- See also: [[ITEM0029_Forgotten_Orb_of_Power]]
+- Originates from [[MON00043_Constructs_Creature_44]]
+- Parallels [[NPC01655_Orion_Underhill_the_Risen]]
+- Related: [[Market Prophet (D&D_References)]]
 - Affected by [[Template-Lore
 - Compare with [ITEM01219_Greater_Salve_of_Swiftness]]
-- Influences [[NPC01350_Hestara_Lightbringer_the_Seeker
-- Affected by [step_066 (phase_085)]]
+- Influences [[NPC01350_Hestara_Lightbringer_the_Seeker]]
 - Compare with [[SHOP00056_Magical_Shop_57
 - Compare with [step_003 (phase_045)]]
 - Parallels [[Merchants Guild (Guilds)

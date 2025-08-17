@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:40.905383"
 modified: "2025-08-15T12:24:40.905388"
-aliases: [Session 13 - [[The Void]] Between]
+aliases: [Session 13 - [[The Void Seals]] Between]
 ---
 
 # Session 13   [[The Void Between
@@ -16,7 +16,7 @@ modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: Session 13 - [[The Void]] Between.Md
+subcategory: Session 13 - [[The Void Seals]] Between.Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -31,7 +31,7 @@ type: session
 updated: 2025-08-14
 - -- # Session 13 - [The Void]] Between ## [[Overview This document contains important information regarding Session 13 - [The Void]] Between and its role within the greater narrative. ## Description
 
-**Details**: Rich sensory elements bring this to life. Session 13 - [[The Void]] Between represents a significant element within the campaign world, offering various opportunities for engagement and dev
+**Details**: Rich sensory elements bring this to life. Session 13 - [[The Void Seals]] Between represents a significant element within the campaign world, offering various opportunities for engagement and dev
 *Sounds of [relevant sounds] echo in the distance.*elopment. ## [[Key Information - **[Primary Purpose]]**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details ### [[Background Historical context and development over time. Nevertheless, ### [Current State]] Present circumstances and ongoing relevance. ### [[Future Potential Possible developments and plot directions. ## Relationships - Connected to various other elements within the vault

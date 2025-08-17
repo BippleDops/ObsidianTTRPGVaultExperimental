@@ -162,53 +162,29 @@ tags: [combat, magic, exploration, lore]
 > Ancient magic still lingers here
 
 ## See Also
-- [[Pilgrim_Pass_Prayer_Sli
-- [Measurement_Guide_Depth_and_Pressur]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC00939_Thalia_Jadeclaw_the_Swift]]
-- [[NPC01745_Felicia_Oakenshield_the_Scholar
-- [NPC01502_Urien_Underhill_the_Scholar]]
-- [[NPC00283_Kaelen_Zephyrblade_the_Bold
-- [NPC00324_Idris_Hawthorne_the_Strong]]
-- [[NPC01831_Alaric_Frostwhisper_the_Scholar
-- [NPC00615_Lyanna_Moonshadow_the_Lost]]
-- [[NPC00707_Fiora_Oakenshield_the_Seeker
-- [NPC01979_Fiora_Emberfall_the_Guardian]]
-- [[NPC00276_Ysara_Youngblood
-- [NPC01290_Pyria_Ashford_the_Broken]]
-- [[NPC00599_Cedric_Lightbringer_the_Wise
-- [Shared_Lore]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC01888_Hestara_Ravenheart_the_Redeemed]]
-- [[NPC00612_Thalia_Jadeclaw_the_Fallen
-- [NPC01789_Vesper_Proudmore_the_Mystic]]
-- [[NPC01602_Dara_Ashford_the_Seeker
-- [NPC01931_Thalia_Lightbringer_the_Fallen]]
-- [[Faction_Relationship_Web
-- [NPC00281_Hestara_Nightfall_the_Cunning]]
-- [[Combat_Encounter_Analysis
-- [NPC00133_Lyanna_Oakenshield_the_Seeker]]
-- [[Ancient_Prophecy_Fragment_Verdan
-- [Reference.md]]
-- [[NPC01057_Pyria_Quicksilver_the_Scholar
-- [NPC00552_Malakai_Stormwind_the_Seeker]]
-- [[Emergency_Evacuation_Map_Stormglass_Riot
-- [Reputation_Tracker]]
-- [[15 the Planes of Existence
-- [09 Adventuring]]
-- [[NPC00307_Dara_Proudmore_the_Seeker
-- [03 Races]]
-- [[07 Customization Options
-- [Calendar_Conversions_Realm_Window]]
+- [[Measurement_Guide_Depth_and_Pressur]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC01831_Alaric_Frostwhisper_the_Scholar]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[Ancient_Prophecy_Fragment_Verdan]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[15 the Planes of Existence]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[Calendar_Conversions_Realm_Window]]
 - [[Propaganda_Broadsheet_Syndicate.md
 - [06 Equipment]]
-- [[NPC00821_Zephyr_Voidwalker_the_Cunning
--
-
-## Related Content
-- [audio_fit_report]]
-- [[audio_fit_report_1
-- [SVG_REPLACEMENT_REPORT]]
+- [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
+- [[SVG_REPLACEMENT_REPORT]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -243,8 +219,7 @@ tags: [combat, magic, exploration, lore]
 - See also: [step_039 (phase_079)]]
 - Originates from [[04_Resources_Assets_Portraits_portrait-npc-lord-commander-gareth-steelborn-lord-commander-gareth-steelborn.svg_Quick_Ref
 - Originates from [Birthplace Xge]]
-- Leads to [[SPELL00088_Arcane_Spell_89
-- Influences [Midnight Tears Xdmg]]
+- Leads to [[SPELL00088_Arcane_Spell_89]]
 - Related: [[step_062 (phase_044)
 - Parallels [Earthquake Xphb]]
 - Originates from [[step_021 (phase_054)
@@ -252,10 +227,8 @@ tags: [combat, magic, exploration, lore]
 - Requires
 - Requires [[Target Name
 - See also: [LORE00190_History_Entry_191]]
-- Leads to [[Bio-Integration Laboratory (D&D_References)
-- Related: [LOC00179_Dungeons_Location_180]]
-- Compare with [[step_095 (phase_039)
-- Related: [NPC00229_Dara_Zephyrblade]]
+- Leads to [[Bio-Integration Laboratory (D&D_References)]]
+- Compare with [[NPC00229_Dara_Zephyrblade]]
 - Influences [[Surface Raiders
 - Parallels [Assets Vehicles Vehicle Ship Kelp Weave Patrol Boat Kelp Weave Patrol Boat.svg]]
 - Leads to [[Portrait NPC Deep Priest Covenant Deep Priest Covenant.svg
@@ -264,8 +237,7 @@ tags: [combat, magic, exploration, lore]
 - Originates from [ITEM00510_Warded_Boots_of_Grace]]
 - Compare with [[SHOP00023_Specialty_Shop_24
 - See also: [LOC00071_Towns_Location_72]]
-- Compare with [[Cloud Gardens
-- Connects to [QUEST00478_Side_Quest_479]]
+- Compare with [[QUEST00478_Side_Quest_479]]
 - Compare with [[Cultural Markets
 - Connects to [Portrait NPC Watch Captain Roderick Shieldbreaker Watch Captain Roderick Shieldbreaker.svg]]
 - Originates from [[S-105_Star_Anchor_Choir
@@ -276,20 +248,16 @@ tags: [combat, magic, exploration, lore]
 - Requires [cleric-xphb-nature-domain 2 (classes)]]
 - Influences [[Assets Locations Location City Captain Marcus V1 Captain Marcus.svg
 - Connects to [NPC00339_Caelum_Moonshadow]]
-- Related: [[Prince Aurelius Lightbringer (D&D_References)
-- Originates from [LOC00260_Planes_Location_261]]
+- Related: [[Prince Aurelius Lightbringer (D&D_References)]]
 - Connects to [[ITEM01104_Lesser_Potion_of_Swiftness
 - See also: [The Arterial Highways 2]]
 - Originates from [[Portrait NPC Brother Marcus Steelbane Brother Marcus Steelbane.svg
 - Leads to [ENC00115_Social_Encounter_116]]
-- Connects to [[New Ability Scores Honor and Sanity
-- Compare with [step_015 (phase_052)]]
+- Connects to [[New Ability Scores Honor and Sanity]]
 - Parallels [[ITEM00100_Thunder_Bow_of_Slaying
 - Related: [step_037 (phase_030)]]
-- Originates from [[Dawn-Echo Sentinel
-- Influences [Political Intrigue Master Index (D&D_References)]]
-- See also: [[The Neutral Zones (D&D_References)
-- Related: [NPC00875_Zephyr_Proudmore_the_Fallen]]
+- Originates from [[Political Intrigue Master Index (D&D_References)]]
+- See also: [[NPC00875_Zephyr_Proudmore_the_Fallen]]
 - Leads to [[Queen Seraphina
 - Compare with [Template Galaxy Placeholder.png]]
 - See also:
@@ -306,10 +274,8 @@ tags: [combat, magic, exploration, lore]
 - Influences [step_040 (phase_045)]]
 - See also: [[Elemental Spirit Air Xphb
 - Connects to [step_064 (phase_066)]]
-- Related: [[Truth Verification Magic (D&D_References)
-- Influences [NPC01377_Malakai_Dawnstrider_the_Strong]]
-- Parallels [[Memory Meadows Black Market (D&D_References)
-- Affected by [QUEST00294_Side_Quest_295]]
+- Related: [[Truth Verification Magic (D&D_References)]]
+- Parallels [[Memory Meadows Black Market (D&D_References)]]
 - Requires [[Marcus Thornwhisper
 - Related: [04_Resources_Assets_Portraits_portrait-npc-lord-general-harrison-ironhold-lord-general-harrison-ironhold.svg_Quick_Ref]]
 - Related:
@@ -325,8 +291,7 @@ tags: [combat, magic, exploration, lore]
 - See also: [The Observatory of Depths]]
 - Connects to [[Portrait NPC Emperor Abyssal the Deep Sighted Emperor Abyssal the Deep Sighted.svg_1 (Portraits)
 - See also: [System Cli Spells School Evocation]]
-- Parallels [[The Void Touched Oracle (D&D_References)
-- Influences [The Schism Bridges]]
+- Parallels [[The Void Touched Oracle (D&D_References)]]
 - Connects to [[Greyhawk Beory Xdmg
 
 ## Visual References

@@ -169,24 +169,17 @@ Witnessed a crime
 - Special moves
 
 ## See Also
-- [[NPC00949_Nerys_Underhill_the_Wise
-- [NPC00860_Gavril_Winterborn_the_Swift]]
-- [[NPC01483_Gavril_Zephyrblade_the_Fallen
-- [NPC00095_Fiora_Nightfall]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC01870_Lyanna_Silverleaf_the_Cunning
-- [NPC00515_Baelor_Crystalbrook_the_Seeker]]
-- [[NPC00285_Xander_Goldleaf_the_Mystic
-- [Propaganda_Leaflet_Pearl_Guar]]
-- [[NPC00881_Qadim_Voidwalker_the_Strong
-- [MOC_Rules]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -206,10 +199,8 @@ Witnessed a crime
 - Affected by [LOC00156_Planes_Location_157]]
 - Compare with [[Portrait NPC Intelligence Services Intelligence Services.svg_1 (Portraits)
 - Parallels [NPC01053_Delara_Dawnstrider_the_Seeker]]
-- Requires [[Abstract Cosmic Forces
-- Leads to [Professional Training (D&D_References)]]
-- Affected by [[Feast Saltyflavor (D&D_References)
-- Affected by [step_068 (phase_019)]]
+- Requires [[Professional Training (D&D_References)]]
+- Affected by [[Feast Saltyflavor (D&D_References)]]
 - Connects to [[step_011 (phase_073)
 - Affected by [EVENT00042_Political_Event_43]]
 - Related: [[step_096 (phase_092)
@@ -219,8 +210,7 @@ Witnessed a crime
 - Requires [step_014 (phase_018)]]
 - Parallels [[Assign Ability Scores Standard Array by
 - Compare with [MON00019_Undead_Creature_20]]
-- Connects to [[Aquabyssos World Guide (D&D_References)
-- Parallels [step_099 (phase_009)]]
+- Connects to [[Aquabyssos World Guide (D&D_References)]]
 - Compare with [[Location City Official Memory Keepers Official Memory Keepers.svg
 - See also: [locked-door-lock-quality-xdmg (tables)]]
 - See also: [[QUEST00344_Side_Quest_345
@@ -239,8 +229,7 @@ Witnessed a crime
 - Requires [boots-of-elvenkind-xdmg (items)]]
 - Connects to [[Demon Customization Tables Demon Bonds Mtf
 - Leads to [Chief Engineer Marina Crystalwright 2]]
-- Influences [[Player Handout Aquabyssos Submarines (D&D_References)
-- Originates from [dust-devil-xge (spells)]]
+- Influences [[Player Handout Aquabyssos Submarines (D&D_References)]]
 - Affected by [[step_070 (phase_020)
 - Compare with [audio_fit_report]]
 - See also: [[Palace Courtyard - Crystal Garden
@@ -262,8 +251,7 @@ Witnessed a crime
 - Originates from
 - Influences [[Assets Locations Location City International Void Treaties V1 International Void Treaties.svg
 - Affected by [Assets Locations Location City the Banker Fish V1 the Banker Fish.svg]]
-- Requires [[First Officer Marina Depthcurrent (D&D_References)
-- Requires [step_045 (phase_013)]]
+- Requires [[First Officer Marina Depthcurrent (D&D_References)]]
 - Influences [[ITEM00645_Ethereal_Leather_of_the_Guardian
 - Parallels [Shadow Conspiracy Investigation]]
 - See also: [[QUEST00328_Side_Quest_329
@@ -271,8 +259,7 @@ Witnessed a crime
 - Affected by [ENC00165_Social_Encounter_166]]
 - Originates from [[downtime-activity-selling-magic-items (variant-rules)
 - Parallels [Assets Locations Location City the Harbor Guild V1 the Harbor Guild.svg]]
-- Affected by [[NPC00430_Ewan_Proudmore_the_Wise
-- Requires [NPC00395_Aeliana_Thornweave]]
+- Affected by [[NPC00430_Ewan_Proudmore_the_Wise]]
 - Leads to [[Location City Elder Matthias Stoneward Elder Matthias Stoneward.svg
 - Affected by [Weather Sage Ancient Tempest]]
 - Leads to [[Improvising Damage Damage Severity and Level
@@ -280,8 +267,7 @@ Witnessed a crime
 - Originates from
 - Leads to [[greyhawk-erythnul-xdmg (deities)
 - Related: [list-spells-classes-psi-warrior-xphb (lists)]]
-- Compare with [[LOC00203_Towns_Location_204
-- Related: [Aethermoor Rangers]]
+- Compare with [[LOC00203_Towns_Location_204]]
 - Leads to [[Order of the Silver Anchor (Orders)
 - Connects to [Diplomatic Corps (D&D_References)]]
 - Compare with [[ITEM00852_Time-worn_Orb_of_Eternity

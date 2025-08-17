@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:36.309756"
 modified: "2025-08-15T12:24:36.309761"
-aliases: [Session 05 [[Cross Currents]]]
+aliases: [Session 05 [[Session 05 Cross Currents]]]
 ---
 
 # Session 05 [[Cross Currents
@@ -16,13 +16,13 @@ aliases: [Session 05 [[Cross Currents]]]
 
 Comprehensive overview of this content.
 
---- aliases: ["Session 05 [[Cross Currents]]"]
+--- aliases: ["Session 05 [[Session 05 Cross Currents]]"]
 created: 2025-08-15
 modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: Session 05 [[Cross Currents]].Md
+subcategory: Session 05 [[Session 05 Cross Currents]].Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -53,7 +53,7 @@ world: Both
 - "Your actions at the [[Leviathan Graveyard have been... Noticed. By both realms."
 - "Aethermoor's [Crystal Queen]] has sent envoys to discuss the 'mutual threat' your shard-seeking represents."
 - "There are others seeking the [[Seven Shards - with very different intentions than yours."
-- "We've arranged a meeting with Aethermoor representatives, but you should know: they believe you're working for [[[The Deep]] Mother|[[The Deep Mother]]." ### [[The Diplomatic [Challenge The]] party must convince the Aethermoor delegation that they're not agents of cosmic evil, while also learning what Aethermoor knows about the [[Seven Shards. ### [The Aethermoor]] Delegation **[[[[Captain Azure Windcaller|[Captain Azure]] Windcaller]]** - [[Lead Aethermoor diplomat, a wind-rider with crystal-enhanced armor and deep suspicions about Aquabyssos. **[[[Artificer Prism]] Lightweaver|[[Artificer Prism Lightweaver]]** - Crystal technician who has been monitoring dimensional disturbances caused by shard activations. **[[[[Storm Warden [Gale Farwatch]]|[[Storm Warden [Gale Farwatch]]]]** - Military advisor convinced that Aquabyssos is preparing for war. ### [[The Negotiation Scene **[Skill Challenge]]**: [[Diplomatic Relations (6 successes before 3 failures) - **Persuasion **DC 15****: Appeal to shared interests
+- "We've arranged a meeting with Aethermoor representatives, but you should know: they believe you're working for [[[The Deep]] Mother|[[The Deep Mother]]." ### [[The Diplomatic [Challenge The]] party must convince the Aethermoor delegation that they're not agents of cosmic evil, while also learning what Aethermoor knows about the [[Seven Shards]] Delegation **[[[[Captain Azure Windcaller|[Captain Azure]] Windcaller]]** - [[Lead Aethermoor diplomat, a wind-rider with crystal-enhanced armor and deep suspicions about Aquabyssos. **[[[Artificer Prism]] Lightweaver|[[Artificer Prism Lightweaver]]** - Crystal technician who has been monitoring dimensional disturbances caused by shard activations. **[[[[Storm Warden [Gale Farwatch]]|[[Storm Warden [Gale Farwatch]]]]** - Military advisor convinced that Aquabyssos is preparing for war. ### [[The Negotiation Scene **[Skill Challenge]]**: [[Diplomatic Relations (6 successes before 3 failures) - **Persuasion **DC 15****: Appeal to shared interests
 - **Insight **DC 12****: Read the delegation's true concerns
 - **History **DC 18****: Reference ancient cooperation between realms
 - **[Arcana|Arcana]] **DC 16****: Demonstrate understanding of the magical threats
@@ -69,9 +69,9 @@ world: Both
 - **[[Restricted Movement**: Cannot freely travel to Aethermoor
 - **[Information Blackout]]**: Must find alternative sources
 - **[[Increased Suspicion**: Both realms' authorities become wary
-- **[Underground Routes]]**: Must work with smugglers and criminals ## [[Investigation Phase: [The Shadow]] [[Merchants Regardless of diplomatic outcome, the party learns about mysterious merchants who have been secretly facilitating the search for shards. ### Clue 1: [The Twilight]] Market **[[location|Location**: [[[Border Nexus]] [[Trading Post|[Border Nexus]] [[Trading Post]] A hidden market that exists in the spaces between realms, accessible only during certain tidal and wind conditions. **Key NPCs**:
+- **[Underground Routes]]**: Must work with smugglers and criminals ## [[Investigation Phase: [The Shadow]] [[Merchants Regardless of diplomatic outcome, the party learns about mysterious merchants who have been secretly facilitating the search for shards. ### Clue 1: [The Twilight]] Market **[[location|Location**: [[[Border Nexus]] [[Trading Post|[Border Nexus]] [[Neutral Trading Posts]] A hidden market that exists in the spaces between realms, accessible only during certain tidal and wind conditions. **Key NPCs**:
 - **[[[[Merchant Shade Voidbargain|[Merchant Shade]] Voidbargain]]**: A mysterious figure whose face is never clearly visible, deals in "impossible things"
-- **[[[[Information Broker [Whisper Goldtongue]]|[[Information Broker [Whisper Goldtongue]]]]**: Traffics in secrets between the realms
+- **[[Whisper Goldtongue]]|[[Whisper Goldtongue]]]]**: Traffics in secrets between the realms
 - **[[[[Smuggler Captain [Marina Darkwater]]|[[Smuggler Captain [Marina Darkwater]]]]**: Runs goods and people across realm boundaries ### Encounter: [[Market Infiltration The party must infiltrate the [Twilight Market]] to learn about the [[Shadow Merchants' activities. **[Skill Challenge]]**: [[Market Infiltration (4 successes before 2 failures) - **Stealth **DC 14****: Move through market unnoticed
 - **Deception **DC 16****: Pose as interested buyers
 - **Investigation **DC 15****: Gather information from vendors
@@ -79,7 +79,7 @@ world: Both
 - **Insight **DC 13****: Identify which merchants are working together ### Clue 2: [[The Corrupted [Courier The]] party encounters **[[[[Courier Swift Current|[Courier Swift]] Current]]**, an Aquabyssos messenger who was corrupted while carrying messages between [[The Collector's agents. **Encounter**: - **[Swift Current]]** (use Scout stats, but with psychic corruption abilities) - 2 **[[Shadow Touched** (use Shadow stats, but they're trying to help Swift by feeding on her corruption)
 - Environmental hazard: The corruption creates unstable reality patches ### Intelligence from [Swift Current]] If saved/helped:
 - **[[The Collector's Identity**: A high-ranking noble from Aethermoor named [[[Lord Aurelius]] Voidcrown|[[Lord Aurelius Voidcrown]]
-- **[[The Plan**: [The Collector]] wants to use the [[Seven Shards to merge the realms permanently
+- **[[The Collector]] wants to use the [[Seven Shards to merge the realms permanently
 - **[The Deadline]]**: Must be completed before the "[[Stellar Convergence" in three months
 - **[The Fifth]] Shard**: Located in the floating city of [[[[Nimbus Sanctum|[Nimbus Sanctum]]]], heavily guarded ### [[The Stellar [Convergence Discovery]] Through investigation, the party learns about an astronomical event that occurs once every thousand years, when the cosmic forces that separate the realms are at their weakest. **[[[[Oracle Temporal Wisdom|[Oracle Temporal]] Wisdom]]** at the **Cross-[[Realm Observatory** explains: - [The Seven]] Shards aren't just powerful artifacts - they're keys to fundamental forces
 - During the [[Stellar Convergence, the shards can be used to permanently alter reality
@@ -124,8 +124,7 @@ world: Both
 
 ## [[See Also
 - [[Session 06 the [Sky Throne]]]]
-- [[Session 2 Court of Whispers
-- [[[Session Planning]] Toolkit_1 (06_Sessions)]]
+- [[Session 2 Court of Whispers]] Toolkit_1 (06_Sessions)]]
 - [[Aethermoor - Session 08 [Between Two Worlds]]
 
 ## [[Session Summary
@@ -136,7 +135,7 @@ world: Both
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

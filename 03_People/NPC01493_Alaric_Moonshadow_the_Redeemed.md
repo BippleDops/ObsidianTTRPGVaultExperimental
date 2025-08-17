@@ -191,21 +191,17 @@ Following magic item guidelines (WWT p.135-136):
 ## Connections
 
 - Affected by [The Reality Guards 2]]
-- Related: [[Aethermoor_1
-- Compare with [LOC00255_Planes_Location_256]]
+- Related: [[LOC00255_Planes_Location_256]]
 - Affected by [[step_036 (phase_045)
 - Leads to [step_015 (phase_013)]]
-- Connects to [[step_018 (phase_080)
-- Parallels [NPC00804_Xander_Frostwhisper_the_Cunning]]
+- Connects to [[NPC00804_Xander_Frostwhisper_the_Cunning]]
 - Compare with [[vanifer-pota (legendary-group)
 - Affected by [ITEM00657_Warded_Plate_of_Fortitude]]
 - Parallels [[Assets Locations Location City Palace Artificers V1 Palace Artificers.svg
 - Related: [Lord Magnus Goldspire (D&D_References)]]
 - Compare with
-- Leads to [[step_057 (phase_077)
-- Originates from [Scenes - Atmospheric_Art (D&D_References)]]
-- Requires [[The Storm of Convergence
-- Requires [NPC01871_Nerys_Underhill_the_Lost]]
+- Leads to [[Scenes - Atmospheric_Art (D&D_References)]]
+- Requires [[NPC01871_Nerys_Underhill_the_Lost]]
 - Parallels [[Assets Locations Location City Undead Services Bureau Undead Services Bureau.svg
 - Parallels [The Embassy Quarter]]
 - Related:
@@ -232,18 +228,15 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[The Hybrid Settlements (D&D_References)
 - Influences
 - Related: [NPC00793_Qadim_Underhill_the_Risen]]
-- Connects to [[Underground Training Facilities (D&D_References)
-- Originates from [step_082 (phase_033)]]
+- Connects to [[Underground Training Facilities (D&D_References)]]
 - See also: [[Symbol Heraldry Information Trading System V1 Information Trading System.svg
 - Connects to [Golden Scale Transformation]]
 - Leads to [[step_008 (phase_085)
 - Related: [Market Security Force]]
-- Leads to [[step_014 (phase_098)
-- Connects to [QUEST0052_In_Search_of_Power]]
+- Leads to [[QUEST0052_In_Search_of_Power]]
 - See also: [[step_066 (phase_091)
 - Connects to [LOC00097_Cities_Location_98]]
-- See also: [[step_053 (phase_027)
-- Leads to [SPELL00136_Nature_Spell_137]]
+- See also: [[SPELL00136_Nature_Spell_137]]
 - Related: [[04_Resources_Assets_Portraits_portrait-npc-lord-aldric-blackwater-lord-aldric-blackwater.svg_Quick_Ref
 - Related: [demilich-xmm (legendary-group)]]
 - Connects to [[NPC00651_Pyria_Winterborn_the_Risen
@@ -252,16 +245,13 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [The Deep Temple 2]]
 - Related: [[Rogue Xphb Scout Xge
 - Originates from [wand-of-paralysis-xdmg (items)]]
-- Connects to [[step_080 (phase_085)
-- Affected by [NPC00283_Kaelen_Zephyrblade_the_Bold]]
-- Requires [[ITEM01052_Superior_Oil_of_Fortune
-- Originates from [Infiltrate Surgical Facilities (D&D_References)]]
+- Connects to [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- Requires [[Infiltrate Surgical Facilities (D&D_References)]]
 - Leads to [[ITEM00549_Fortified_Chain_Mail_of_Grace
 - Requires [Transformations]]
 - Affected by [[step_031 (phase_059)
 - Affected by [step_059 (phase_077)]]
-- Requires [[White Dragon Wyrmling Xmm
-- Parallels [Border Territories (D&D_References)]]
+- Requires [[Border Territories (D&D_References)]]
 - Affected by [[ITEM00995_Distilled_Elixir_of_Fortune
 - See also: [Foreign Trade Guilds]]
 - Originates from [[Assets Locations Location City Keeper Temporal Safehaven Keeper Temporal Safehaven.svg
@@ -272,8 +262,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [Baroness Hope Starlight]]
 - Related: [[Belt of Storm Giant Strength Xdmg
 - See also: [Pip Goldleaf (D&D_Statblocks)]]
-- Connects to [[LORE00283_History_Entry_284
-- Influences [NPC01388_Thalia_Proudmore_the_Swift]]
+- Connects to [[NPC01388_Thalia_Proudmore_the_Swift]]
 - Originates from [[Location City the Archive of Unremembered Things V1 the Archive of Unremembered Things.svg
 - Leads to [ITEM00584_Adamantine_Cloak_of_the_Guardian]]
 - See also: [[The Arterial Highways
@@ -286,8 +275,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [The Depth Crown Crisis]]
 - Affected by [[Food and Water Needs
 - Parallels [step_082 (phase_052)]]
-- Influences [[QUEST00454_Side_Quest_455
-- Parallels [The Gloom Gardens (D&D_References)]]
+- Influences [[The Gloom Gardens (D&D_References)]]
 - Related: [[Assets Portraits Portrait NPC Master of Currents Poseidon Master of Currents Poseidon.svg
 - See also: [Assets Locations Location City House Pressureborn House Pressureborn.svg]]
 

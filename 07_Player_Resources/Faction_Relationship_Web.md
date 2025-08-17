@@ -217,24 +217,17 @@ Contextual improvement based on 07_Player_Resources
 > Additional context or lore
 
 ## See Also
-- [[NPC00939_Thalia_Jadeclaw_the_Swift
-- [NPC00582_Cedric_Dawnstrider]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [Propaganda_Leaflet_Pearl_Guar]]
-- [[Faction_Guide.md
-- [Combat_Encounter_Analysis]]
-- [[Trade_Route_Map_Aquabyssos_to_Aethermoor
-- [Party_Inventory]]
-- [[Player_Comfort_Check
-- [NPC01252_Jorah_Youngblood_the_Strong]]
-- [[10 Appendix B Creature Stat Blocks
-- [Character_Journal_Template]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[Combat_Encounter_Analysis]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC01252_Jorah_Youngblood_the_Strong]]
+- [[10 Appendix B Creature Stat Blocks]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -264,24 +257,19 @@ Contextual improvement based on 07_Player_Resources
 - Connects to [Sword of Answering Scather]]
 - Influences [[SHOP00045_Magical_Shop_46
 - Related: [infernal-constitution-xge (feats)]]
-- Related: [[The Groundling Liberation Movement
-- Compare with [step_028 (phase_066)]]
+- Related: [[The Groundling Liberation Movement]]
 - Leads to [[Master Koralith (D&D_References)
 - Requires [Tribune Cassia (D&D_References)]]
-- Affected by [[The Harvest (D&D_References)
-- Parallels [The Memorial Garden]]
-- Related: [[LOC00077_Planes_Location_78
-- Influences [The Abandoned Embassy (D&D_References)]]
+- Affected by [[The Harvest (D&D_References)]]
+- Related: [[The Abandoned Embassy (D&D_References)]]
 - Related: [[Mobile Terror Platform
 - Leads to [Assets Locations Location City Void Touched Pilgrims V1 Void Touched Pilgrims.svg]]
-- Compare with [[step_046 (phase_021)
-- See also: [Clues by Location (D&D_References)]]
+- Compare with [[Clues by Location (D&D_References)]]
 - Compare with [[QUEST00346_Side_Quest_347
 - Compare with [chuul-xmm (aberration)]]
 - Affected by [[jeweled-gold-crown-xdmg (items)
 - See also: [NPC_Portraits_Gallery (03_People)_Quick_Ref]]
-- Affected by [[Weaponsmith Captain Marcus Sharpedge
-- Leads to [10-combat#Unseen Attackers and Targets]]
+- Affected by [[Weaponsmith Captain Marcus Sharpedge]]
 - Leads to [[step_048 (phase_014)
 - Requires [02_Worldbuilding_Items_Truth_Crystals]]
 - Parallels [[Tomb of Levistus Xge
@@ -298,21 +286,17 @@ Contextual improvement based on 07_Player_Resources
 - Compare with [ITEM01169_Concentrated_Salve_of_Fortune]]
 - Leads to [[step_004 (phase_032)
 - Affected by [Archshadow Mortis Voidcut]]
-- Requires [[step_084 (phase_070)
-- Parallels [LOC00163_Planes_Location_164]]
-- Affected by [[12 Appendix B Monster Lists
-- See also: [NPC00500_Wynne_Ashford_the_Wise]]
+- Requires [[LOC00163_Planes_Location_164]]
+- Affected by [[NPC00500_Wynne_Ashford_the_Wise]]
 - Affected by [[Infernal Tack Mtf
 - Affected by
 - Connects to [portrait-npc-the-schooling-v1-the-schooling.svg_1 (Portraits)]]
 - Related: [[apparatus-of-kwalish-xdmg (vehicles)
 - Leads to [List Spells Optional Features Visions of Distant Realms Xphb]]
-- Influences [[Marcus Ledgerbor 2
-- Connects to [QUEST00031_Personal_Quest_32]]
+- Influences [[QUEST00031_Personal_Quest_32]]
 - Affected by [[QUEST0073_The_Frozen_Fortress_Uprising
 - Connects to [Portrait NPC Vespara Nightwhisper Thorne V1 Vespara Nightwhisper Thorne.svg_1 (Portraits)]]
-- Requires [[Remorhaz Xmm
-- Originates from [NPC00008_Gavril_Quicksilver]]
+- Requires [[NPC00008_Gavril_Quicksilver]]
 - Influences [[Reality Distortion 2
 - Requires [step_083 (phase_018)]]
 - Parallels [[LOC00206_Dungeons_Location_207
@@ -327,8 +311,7 @@ Contextual improvement based on 07_Player_Resources
 - Compare with [The Crystal Council]]
 - See also: [[mighty-fortress-xge (spells)
 - Related: [Fear Effects Sample Fear Dcs Xdmg]]
-- Compare with [[Captain Torrent Freewater (D&D_References)
-- Related: [LOC00149_Wilderness_Location_150]]
+- Compare with [[Captain Torrent Freewater (D&D_References)]]
 - Affected by [[Assets Locations Location City Institute for Reality Studies Researchers Institute for Reality Studies Researchers.svg
 - Compare with
 - Compare with [elven-sehanine-moonbow-mtf (deities)]]
@@ -336,27 +319,22 @@ Contextual improvement based on 07_Player_Resources
 - Originates from [step_027 (phase_067)]]
 - Leads to [[location-city-middle-harbor-middle-harbor.svg
 - See also: [Spell Scrolls Spell Scroll]]
-- Related: [[LOC00211_Wilderness_Location_212
-- Connects to [The Deep Intelligence Agency Director]]
+- Related: [[The Deep Intelligence Agency Director]]
 - Originates from [[Crown of Seven Shards
 - See also: [step_056 (phase_053)]]
-- Influences [[The_Seven_Shards_Campaign_Act_Structure (D&D_Sourcebooks)
-- Connects to [step_036 (phase_045)]]
+- Influences [[The_Seven_Shards_Campaign_Act_Structure (D&D_Sourcebooks)]]
 - Connects to [[Silver Ewer Xdmg
 - Compare with
 - Parallels [NPC_Generator_Quick_Ref]]
-- See also: [[The Crystal Cult (Cults_and_Movements)
-- Connects to [Elven Chain Xdmg]]
+- See also: [[The Crystal Cult (Cults_and_Movements)]]
 - Compare with [[The Observation Sphere
 - Requires [silk-xdmg (items)]]
-- Affected by [[The_Academy_of_Resoce
-- Compare with [NPC01782_Hilda_Grimholt_the_Cunning]]
+- Affected by [[NPC01782_Hilda_Grimholt_the_Cunning]]
 - Related: [[The Convergence Crown 2
 - Affected by [Treasurer Elena Goldflow]]
 - Originates from [[Portrait NPC Otherworldly Pacts V1 Otherworldly Pacts.svg_1 (Portraits)
 - Connects to [step_066 (phase_031)]]
-- Influences [[NPC01365_Vesper_Zephyrblade_the_Redeemed
-- Originates from [actions#Magic]]
+- Influences [[NPC01365_Vesper_Zephyrblade_the_Redeemed]]
 - Compare with [[ITEM01103_Lesser_Crystal_of_Vigor
 
 ## Visual References

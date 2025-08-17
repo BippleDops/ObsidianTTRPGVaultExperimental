@@ -124,22 +124,14 @@ tags: [combat, lore]
 > Notable saying or prophecy
 
 ## See Also
-- [[NPC00881_Qadim_Voidwalker_the_Strong
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [NPC00259_Delara_Proudmore]]
-- [[Shared_Lore
-- [Character_Journal_Template]]
-- [[NPC01943_Xander_Proudmore_the_Fallen
-- [Parliament of Shadows Player Guide.md]]
-- [[Basic_Rules
-- [NPC00670_Xander_Goldleaf_the_Scholar]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC00858_Zephyr_Silverleaf_the_Wanderer]]
-- [[NPC00058_Elric_Nightfall
-- [04 Classes]]
-- [[NPC01812_Xander_Lightbringer_the_Swift
-- [NPC00501_Orion_Nightfall_the_Broken]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[Character_Journal_Template]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00670_Xander_Goldleaf_the_Scholar]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC00058_Elric_Nightfall]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
 -
 
 ## Related Content
@@ -173,16 +165,14 @@ tags: [combat, lore]
 - Originates from [Resonance Peaks]]
 - Requires [[Location City Sage Lyralei Starweaver V1 Sage Lyralei Starweaver.svg
 - Related: [Field Worker Communities]]
-- Connects to [[The Great Crystallization 2
-- See also: [Pressure Suit of the Depths (D&D_References)]]
+- Connects to [[Pressure Suit of the Depths (D&D_References)]]
 - Compare with [[Location City Abyss Currentbinder Abyss Currentbinder.svg
 - Influences [Tempest Peak]]
 - Parallels [[Assets Locations Location City Family Portrait V1 Family Portrait.svg
 - See also: [Assets Locations Location City Archivist Stone Memorykeeper V1 Archivist Stone Memorykeeper.svg]]
 - Leads to [[NPC01873_Baelor_Stormwind_the_Broken
 - Connects to [Symbiotic Integration Specialists 2]]
-- Leads to [[Prince Caspian Duskwater
-- Parallels [Aethermoor Navigation Crystal (D&D_References)]]
+- Leads to [[Aethermoor Navigation Crystal (D&D_References)]]
 - Requires [[step_084 (phase_020)
 - Leads to [Scimitar Xphb]]
 - Parallels [[The Groundling Liberation Movement
@@ -193,15 +183,12 @@ tags: [combat, lore]
 - Affected by [step_053 (phase_091)]]
 - Requires [[step_076 (phase_043)
 - Affected by [ITEM01105_Refined_Crystal_of_Healing]]
-- Originates from [[Survival Codex 2
-- Affected by [Serenity Stillwater (D&D_References)]]
+- Originates from [[Serenity Stillwater (D&D_References)]]
 - Requires [[DUN00196_Dungeon_197
 - Requires
 - Parallels [LOC00204_Wilderness_Location_205]]
-- Compare with [[Drow Lolth Mtf
-- Leads to [Depth Supremacy Movement]]
-- Originates from [[The Resoce Forge Hammer
-- Influences [elemental]]
+- Compare with [[Depth Supremacy Movement]]
+- Originates from [[The Resoce Forge Hammer]]
 - Influences [[step_002 (phase_060)
 - Originates from [Elk Xmm]]
 - Compare with [[Assets Locations Location City Sage Lyralei Starweaver V1 Sage Lyralei Starweaver.svg
@@ -218,16 +205,12 @@ tags: [combat, lore]
 - Parallels [Faction Reputation]]
 - Leads to [[Ω_System-CLI-spells-school-necromancy
 - Related: [step_088 (phase_072)]]
-- Connects to [[Royal Treasury
-- Leads to [QUEST00196_Side_Quest_197]]
+- Connects to [[QUEST00196_Side_Quest_197]]
 - Requires [[Moral Quandaries
 - See also: [step_008 (phase_059)]]
-- Parallels [[step_023 (phase_060)
-- Leads to [QUEST00228_Side_Quest_229]]
-- Originates from [[Random Encounter Tables - Aquabyssos (Lore)
-- See also: [Session 4 (06_Sessions)]]
-- Originates from [[step_069 (phase_038)
-- Related: [NPC01346_Hilda_Xendar_the_Broken]]
+- Parallels [[QUEST00228_Side_Quest_229]]
+- Originates from [[Random Encounter Tables - Aquabyssos (Lore)]]
+- Originates from [[NPC01346_Hilda_Xendar_the_Broken]]
 - Requires [[Portrait NPC Jasper Three Eyes Flint Jasper Three Eyes Flint.png_1 (Portraits)
 - Leads to [Location City Tide Bondkeeper V1 Tide Bondkeeper.svg]]
 - Connects to [[QUEST0037_In_Search_of_Justice
@@ -237,8 +220,7 @@ tags: [combat, lore]
 - Affected by [step_079 (phase_100)]]
 - Connects to [[goblin-hexer-xmm (fey)
 - Parallels [half-orc (races)]]
-- Leads to [[Marine Druids 2
-- Related: [ENC00221_Social_Encounter_222]]
+- Leads to [[ENC00221_Social_Encounter_222]]
 - Influences
 - Influences [[step_078 (phase_027)
 - Requires [Keeper Elara Mindwell 2]]
@@ -246,19 +228,16 @@ tags: [combat, lore]
 - Parallels [Portrait NPC Pressure Angel Benthia Pressure Angel Benthia.png_1 (Portraits)]]
 - Affected by [[NPC0134_Osric_Darkwater
 - See also: [EVENT00056_Political_Event_57]]
-- See also: [[Crown Reunification Protocols
-- Connects to [The Memory Nexus]]
+- See also: [[Crown Reunification Protocols]]
 - Originates from [[Githyanki Raiding Parties Githyanki Purpose
 - Influences [Assets Locations Location City Harbor Facilities V1 Harbor Facilities.svg]]
-- See also: [[Treaty of the Depths (D&D_References)
-- Originates from [step_062 (phase_043)]]
+- See also: [[Treaty of the Depths (D&D_References)]]
 - Compare with [[step_037 (phase_035)
 - Related:
 - Originates from [Crisis Command Center 2]]
 - Originates from [[Faction_Information
 - Related: [Assets Locations Location City Portal Technician Voidwalk V1 Portal Technician Voidwalk.svg]]
-- Compare with [[Internal Affairs Divisio (D&D_References)
-- Compare with [Armor of Psychic Resistance Xdmg]]
+- Compare with [[Internal Affairs Divisio (D&D_References)]]
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_master_curator_pearl_artflow_master_curator_pearl_artflow_svg_friendly.png

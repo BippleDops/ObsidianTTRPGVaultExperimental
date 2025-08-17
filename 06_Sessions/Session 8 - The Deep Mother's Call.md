@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:40.948518"
 modified: "2025-08-15T12:24:40.948522"
-aliases: [Session 8 - [[The Deep]] Mother's Call]
+aliases: [Session 8 - [[The Deepmind]] Mother's Call]
 ---
 
 # Session 8   [[The Deep Mother'S Call
@@ -16,7 +16,7 @@ modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: Session 8 - [[The Deep]] Mother'S Call.Md
+subcategory: Session 8 - [[The Deepmind]] Mother'S Call.Md
 related: []
 cssclass: standard
 publish: false --- --- title: Session 8 - [[The Deep Mother's Call
@@ -77,7 +77,7 @@ improvements: 20
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

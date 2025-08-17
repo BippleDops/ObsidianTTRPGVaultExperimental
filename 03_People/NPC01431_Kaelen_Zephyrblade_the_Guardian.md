@@ -164,50 +164,23 @@ Knows secret about major threat
 - Special moves
 
 ## See Also
-- [[NPC01577_Orion_Moonshadow_the_Seeker
-- [NPC01504_Erasmus_Zephyrblade_the_Strong]]
-- [[NPC01812_Xander_Lightbringer_the_Swift
-- [NPC01682_Vesper_Blackstone_the_Guardian]]
-- [[NPC00095_Fiora_Nightfall
-- [NPC00237_Vesper_Ashford_the_Bold]]
-- [[NPC00272_Rhiannon_Brightblade
-- [NPC00815_Baelor_Thornweave_the_Swift]]
-- [[NPC01195_Gareth_Keenblade_the_Guardian
-- [NPC00162_Xander_Thornweave]]
-- [[NPC00336_Alaric_Frostwhisper_the_Swift
-- [NPC00885_Kaelen_Xendar_the_Lost]]
-- [[NPC01301_Jorah_Underhill_the_Broken
-- [NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [NPC01503_Ewan_Dawnstrider_the_Redeemed]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC01057_Pyria_Quicksilver_the_Scholar]]
-- [[NPC00395_Aeliana_Thornweave
-- [NPC01761_Idris_Moonshadow_the_Broken]]
-- [[NPC00407_Hestara_Dawnstrider
-- [Submersible_Schematic_Pressure_Gate_Scou]]
-- [[Faction_Relationship_Web
-- [NPC01624_Corvus_Silverleaf_the_Redeemed]]
-- [[Guild Seal Document Silverscale Consortiu
-- [Parliament of Shadows Player Guide.md]]
-- [[Emergency_Evacuation_Map_Stormglass_Riot
-- [Downtime_Activities]]
-- [[Trade_Route_Map_Aquabyssos_to_Aethermoor
-- [Reputation_Tracker]]
-- [[11 Spellcasting
-- [16 Credits]]
-- [[10 Combat
--
-
-## Item Rarity & Balance
-Following magic item guidelines (WWT p.135-136):
-- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
-- **Attunement**: Required for powerful effects
-- **Charges**: Limited uses per day (WWT p.141)
-- **Curse**: Optional drawback (WWT p.138-139)
-
-### Comparable Official Items
-- Power level similar to [Flame Tongue]] (WWT p.170)
+- [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
+- [[NPC01682_Vesper_Blackstone_the_Guardian]]
+- [[NPC00237_Vesper_Ashford_the_Bold]]
+- [[NPC00815_Baelor_Thornweave_the_Swift]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[Guild Seal Document Silverscale Consortiu]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[11 Spellcasting]]
+- [[10 Combat]] (WWT p.170)
 - Utility comparable to [[Bag of Holding (WWT p.153)
 - Activation like [Wand of Magic Missiles]] (WWT p.211)
 
@@ -215,8 +188,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -233,8 +205,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [lost-sorrowsworn-mpmm (monstrosity)]]
 - Originates from [[LOC00298_Dungeons_Location_299
 - Related: [[Weaponsmith [Captain Marcus]] Sharpedge (D&D_References)]]
-- Affected by [[LOC00202_Towns_Location_203
-- Requires [step_006 (phase_076)]]
+- Affected by [[LOC00202_Towns_Location_203]]
 - Compare with [[LORE00114_History_Entry_115
 - Compare with [life-events-xge (tables)]]
 - Requires [[NPC01592_Ysara_Hawthorne_the_Broken
@@ -262,13 +233,12 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [LORE00002_Prophecies_Entry_3]]
 - Influences [[LOC00153_Cities_Location_154
 - Requires [Deep Water Rescue Service]]
-- Parallels [[[Choir Master Celestine Hymnsinger 2]]
+- Parallels [[Choir Master Celestine Hymnsinger 2]]
 - Originates from [[ENC00114_Environmental_Encounter_115
 - Originates from [QUEST00031_Personal_Quest_32]]
 - See also: [[Quiver of Ehlonna Xdmg
 - Parallels [[Assets Locations Location City [The Last Seeds]] the Last Seeds.svg]]
-- Connects to [[LOC00204_Cities_Location_205
-- Influences [step_099 (phase_046)]]
+- Connects to [[LOC00204_Cities_Location_205]]
 - See also: [[INV-006.png (Art)
 - See also: [step_055 (phase_076)]]
 - Connects to [[Portrait NPC Crown Dome Conspiracy Crown Dome Conspiracy.svg
@@ -278,29 +248,23 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[step_092 (phase_086)
 - Parallels [LORE00171_Prophecies_Entry_172]]
 - Affected by [[Assets Locations [[Location City [Historian Lisa Outreach V1 Historian Lisa Outreach.svg]]]]
-- Requires [[LORE0080_History_of_the_First_King
-- Requires [[[Theological Warfare]] 2]]
+- Requires [[LORE0080_History_of_the_First_King]] 2]]
 - Influences [[location-city-[Artificer-artificer.svg]]
 - Requires [[forgotten-realms-helm (deities)
 - Originates from [Dominate Monster Xphb]]
-- See also: [[[Historical Preservation Society (D&D_References)]]
-- Connects to [[Exhaustio
-- See also: [LOC00299_Planes_Location_300]]
-- See also: [[step_062 (phase_076)
-- Leads to [NPC00211_Brenna_Proudmore_the_Guardian]]
+- See also: [[Historical Preservation Society (D&D_References)]]
+- Connects to [[LOC00299_Planes_Location_300]]
+- See also: [[NPC00211_Brenna_Proudmore_the_Guardian]]
 - Influences
 - Parallels [[ENC00157_Social_Encounter_158
 - Requires [ITEM00304_Blessed_Staff_of_Accuracy]]
 - Leads to [[Engineer Brass Gearspin
 - Related: [[Assets Locations Location City [Current Navigation Techniques]] Current Navigation Techniques.svg]]
-- Connects to [[NPC00746_Gavril_Winterborn_the_Risen
-- Originates from [step_066 (phase_065)]]
-- Requires [[step_087 (phase_048)
-- Affected by [spell-attack-xphb (variant-rules)]]
+- Connects to [[NPC00746_Gavril_Winterborn_the_Risen]]
+- Requires [[spell-attack-xphb (variant-rules)]]
 - Leads to [[Propaganda_Broadsheet_Syndicate.md
 - Requires [[Assets Locations Location City [Memory Crystal Archivist Nautilus Storykeeper]] Memory Crystal Archivist Nautilus Storykeeper.svg]]
-- Compare with [[Head of Memory Integration Dr. Nautilus Depthc... Related To: Local Political Structure Connected Plots: to Be Developed
-- Affected by [Enspelled Weapon Level 1 Xdmg]]
+- Compare with [[Head of Memory Integration Dr. Nautilus Depthc... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Requires [[Assets Locations [[Location City [Clara Truthscale Clara Truthscale.svg]]]]
 - Parallels [[Market Analysis
 - Leads to [step_039 (phase_009)]]
@@ -308,8 +272,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [ENC00039_Social_Encounter_40]]
 - Influences [[ITEM0037_Forgotten_Tome_of_Power
 - Parallels [ITEM00779_Ancient_Crown_of_Eternity]]
-- See also: [[Chief Engineer Vera Steamheart
-- See also: [Greyhawk Iuz Xdmg]]
+- See also: [[Chief Engineer Vera Steamheart]]
 - Leads to [[dawn-war-bane-dmg (deities)
 - See also:
 - See also: [Keeper of Contracts Minerva Bindingword]]
@@ -325,8 +288,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [NPC00000_Drusilla_Brightblade]]
 - Leads to [[SPELL00084_Divine_Spell_85
 - Leads to [quetzalcoatlus-mpmm (beast)]]
-- Originates from [[LOC0117_NewBridge
-- Parallels [NPC00318_Thalia_Voidwalker]]
+- Originates from [[NPC00318_Thalia_Voidwalker]]
 - Connects to [[Portrait NPC High Priestess Celeste Dawnbringer High Priestess Celeste Dawnbringer.svg
 - Affected by [[[Tavern]] Keeper Finn Splitlung (D&D_References)]]
 

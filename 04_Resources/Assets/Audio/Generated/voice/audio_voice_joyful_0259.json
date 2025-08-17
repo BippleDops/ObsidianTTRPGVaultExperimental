@@ -11,5 +11,8 @@
     "joyful",
     "generated"
   ],
-  "created": "2025-08-16T16:58:14.690Z"
+  "created": "2025-08-16T16:58:14.690Z",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:48:21.606Z",
+  "generationMethod": "ComfyUI"
 }

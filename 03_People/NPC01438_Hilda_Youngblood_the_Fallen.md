@@ -170,42 +170,23 @@ Needs help with personal quest
 
 ## See Also
 - [NPC00133_Lyanna_Oakenshield_the_Seeker]]
-- [[NPC00881_Qadim_Voidwalker_the_Strong
-- [NPC00080_Branwen_Proudmore]]
-- [[NPC01247_Xander_Zephyrblade_the_Risen
-- [NPC01463_Aeliana_Zephyrblade_the_Fallen]]
-- [[NPC01577_Orion_Moonshadow_the_Seeker
-- [NPC01761_Idris_Moonshadow_the_Broken]]
-- [[NPC00815_Baelor_Thornweave_the_Swift
-- [NPC01195_Gareth_Keenblade_the_Guardian]]
-- [[NPC00469_Delara_Oakenshield_the_Seeker
-- [NPC01687_Aldric_Youngblood_the_Cunning]]
-- [[NPC01348_Xander_Zephyrblade_the_Wise
-- [NPC00300_Urien_Zephyrblade]]
-- [[Keeper Elara Mindwell
-- [NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00881_Qadim_Voidwalker_the_Strong]]
+- [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
 - [[Depth_Adapted_Background
 - [What You Know - Abyssos Prime.md]]
-- [[Player_Feedback_Form.md
-- [NPC00250_Delara_Darkwater_the_Fallen]]
-- [[Reference.md
-- [11 Spellcasting]]
-- [[03 Races
-- [10 Appendix B Creature Stat Blocks]]
-- [[11 Rules Glossary
-- [Party_Quests]]
-- [[NPC01911_Alaric_Oakenshield_the_Mystic
-- [Quarantine_Notice_Crystal_Plagu]]
-- [[NPC00820_Thalia_Nightfall_the_Risen
-- [The_Corroded_Crown.png]]
-- [[NPC01664_Pyria_Lightbringer_the_Redeemed
-- [MOC_Lore]]
-- [[MOC_Rules
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00250_Delara_Darkwater_the_Fallen]]
+- [[11 Spellcasting]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[11 Rules Glossary]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC00820_Thalia_Nightfall_the_Risen]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[MOC_Rules]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -248,29 +229,23 @@ Needs help with personal quest
 - Compare with [step_088 (phase_022)]]
 - See also: [[Silver Sword Mtf
 - Compare with [Crystal Workers Union]]
-- Affected by [[Druid Oakshadow
-- Parallels [The Convergence Prophecies]]
+- Affected by [[The Convergence Prophecies]]
 - Compare with [[Marina Mindwell
 - Influences [step_020 (phase_083)]]
-- Requires [[The Coral Architecture Philosophy 2
-- See also: [[[[[[[Merchant]] Quarter]] Guildhalls]] 2]]
+- Requires [[The Coral Architecture Philosophy 2]] Quarter]] Guildhalls]] 2]]
 - See also: [[Assets Locations [[Location City [Duchess Seraphina Crimsontide V1 Duchess Seraphina Crimsontide.svg]]]]
-- Connects to [[MON00134_Aberrations_Creature_135
-- Requires [Symbol Heraldry Mas... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Connects to [[Symbol Heraldry Mas... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[Initiative Xphb
 - Requires [The Original Target]]
-- Related: [[NPC01804_Xander_Ravenheart_the_Scholar
-- Influences [step_016 (phase_027)]]
+- Related: [[NPC01804_Xander_Ravenheart_the_Scholar]]
 - Influences [[Assets Locations [[Location City [The Deepwater Current the Deepwater Current.svg]]]]
 - Related: [[step_032 (phase_012)
 - Leads to [Portrait NPC Quest the Corruption Cure Quest the Corruption Cure.svg]]
-- Parallels [[The Memory Keepers
-- Compare with [NPC00167_Hestara_Winterborn]]
+- Parallels [[NPC00167_Hestara_Winterborn]]
 - Originates from [[Research Investment Funds
 - See also: [Portrait NPC Tenebrarum Ambassadors V1 Tenebrarum Ambassadors.svg_1 (Portraits)]]
 - Related:
-- Requires [[Shadow Reflection Sage (D&D_References)
-- See also: [[[The Phosphor Markets]] (D&D_References)]]
+- Requires [[Shadow Reflection Sage (D&D_References)]] (D&D_References)]]
 - Compare with [[data
 - Requires [step_064 (phase_049)]]
 - Connects to [[Melfs Acid Arrow Xphb
@@ -285,10 +260,8 @@ Needs help with personal quest
 - Compare with [step_048 (phase_063)]]
 - Connects to [[brass-dragon-xmm (legendary-group)
 - Leads to [[Symbol Heraldry [Aquabyssos]] Faction Web V1 Aquabyssos Faction Web.svg_1 (Symbols)]]
-- Requires [[Quest - War of Tides_1 (01_Adventures)
-- See also: [The Anonymous Inquisitor (D&D_References)]]
-- See also: [[armor-class-xphb (variant-rules)
-- Related: [The Pressure Forges (Places)]]
+- Requires [[The Anonymous Inquisitor (D&D_References)]]
+- See also: [[armor-class-xphb (variant-rules)]]
 - Parallels [[Devourer Mpmm
 - Related: [Ability Scores Xphb]]
 - Leads to [[MON00095_Constructs_Creature_96
@@ -309,12 +282,9 @@ Needs help with personal quest
 - Influences [[Location City [The Bone Colosseum V1 the Bone Colosseum.svg]]
 - Connects to [[Symbol Heraldry the Great Recognition V1 the Great Recognition.svg
 - Leads to [Figurine of Wondrous Power Xdmg]]
-- Affected by [[[Fresh Cleanwave 2]]
-- Requires [[step_042 (phase_057)
-- See also:
-- Affected by [NPC00843_Vesper_Thornweave_the_Redeemed]]
-- Affected by [[ENC00428_Combat_Encounter_429
-- Leads to [The Memory Meadows]]
+- Affected by [[Fresh Cleanwave 2]]
+- Requires [[NPC00843_Vesper_Thornweave_the_Redeemed]]
+- Affected by [[ENC00428_Combat_Encounter_429]]
 - Parallels [[QUEST00389_Side_Quest_390
 - Parallels [NPC00427_Urien_Xendar]]
 - Affected by [[giant-centipede-xmm (beast)

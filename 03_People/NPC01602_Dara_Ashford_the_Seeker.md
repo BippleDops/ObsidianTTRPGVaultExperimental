@@ -168,52 +168,31 @@ Blackmails party into service
 - Special moves
 
 ## See Also
-- [[NPC01229_Gavril_Ironwood_the_Scholar
-- [NPC00250_Delara_Darkwater_the_Fallen]]
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [NPC00761_Aldric_Moonshadow_the_Guardian]]
-- [[NPC00860_Gavril_Winterborn_the_Swift
-- [NPC00612_Thalia_Jadeclaw_the_Fallen]]
-- [[NPC00200_Faelyn_Winterborn_the_Guardian
-- [NPC00920_Malakai_Ravenheart_the_Guardian]]
-- [[NPC01785_Aldric_Brightblade_the_Redeemed
-- [NPC01624_Corvus_Silverleaf_the_Redeemed]]
-- [[NPC00259_Delara_Proudmore
-- [NPC01805_Faelyn_Goldleaf_the_Wanderer]]
-- [[NPC00307_Dara_Proudmore_the_Seeker
-- [NPC00623_Dara_Oakenshield_the_Wanderer]]
-- [[NPC01552_Branwen_Lightbringer_the_Swift
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[NPC00080_Branwen_Proudmore
-- [NPC00550_Xander_Stormwind_the_Cunning]]
-- [[NPC00057_Malakai_Stormwind_the_Cunning
-- [NPC01466_Urien_Nightfall_the_Guardian]]
-- [[NPC01151_Orion_Stormwind_the_Seeker
-- [NPC01276_Erasmus_Keenblade_the_Wanderer]]
-- [[NPC00321_Aeliana_Zephyrblade_the_Strong
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC00785_Ysara_Grimholt_the_Mystic
-- [NPC01476_Qadim_Stormwind_the_Wise]]
-- [[NPC01939_Orion_Nightfall_the_Bold
-- [NPC00655_Jorah_Darkwater_the_Seeker]]
-- [[Pilgrim_Pass_Prayer_Sli
-- [Depth_Adapted_Background]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[Quarantine_Notice_Crystal_Plagu
-- [Quick_Start_Guide.md]]
-- [[Wanted_Poster_Syndicate_Fenc
-- [NPC01290_Pyria_Ashford_the_Broken]]
-- [[NPC01012_Solas_Darkwater_the_Strong
-- [MOC_Lore]]
-- [[NPC01502_Urien_Underhill_the_Scholar
-- [11 Rules Glossary]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC00623_Dara_Oakenshield_the_Wanderer]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00550_Xander_Stormwind_the_Cunning]]
+- [[NPC00057_Malakai_Stormwind_the_Cunning]]
+- [[NPC01276_Erasmus_Keenblade_the_Wanderer]]
+- [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[Depth_Adapted_Background]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -230,14 +209,12 @@ Blackmails party into service
 
 - Requires [[step_060 (phase_055)
 - Parallels [step_098 (phase_068)]]
-- Compare with [[Cow Vgm
-- Requires [NPC00006_Pyria_Winterborn_the_Broken]]
+- Compare with [[NPC00006_Pyria_Winterborn_the_Broken]]
 - Leads to [[EVENT00079_Magical_Event_80
 - Parallels [step_008 (phase_077)]]
 - Requires [[step_079 (phase_071)
 - Related: [Location City Senator S Widow Marcella Senator S Widow Marcella.svg]]
-- Connects to [[The Succession Crisis (D&D_References)
-- Parallels [Heart Crysta (D&D_References)]]
+- Connects to [[The Succession Crisis (D&D_References)]]
 - Leads to [[To Be Determined
 - Affected by [Symbol Heraldry Consortium Security Constructs V1 Consortium Security Constructs.svg]]
 - Parallels [[Portrait NPC Throne of Bubbles Throne of Bubbles.svg
@@ -248,10 +225,8 @@ Blackmails party into service
 - Requires [Assets Handouts Handout Handout Docking Permit V3 Docking Permit.png]]
 - Affected by [[Comprehensive-World-Connection-Guide 2
 - Parallels [Assets Handouts Handout Handout Temple Prayer Sheet V3 Temple Prayer Sheet.png]]
-- Leads to [[step_059 (phase_080)
-- See also: [The Last Resort Procedures 2]]
-- Affected by [[Shadow Legislative Records
-- Related: [step_095 (phase_077)]]
+- Leads to [[The Last Resort Procedures 2]]
+- Affected by [[Shadow Legislative Records]]
 - Compare with [[01-introduction-welcome-to-adventure (players-handbook-2024)
 - Requires [Location City Ancient Treasury of Tides V1 Ancient Treasury of Tides.svg]]
 - Leads to [[ENC00121_Social_Encounter_122
@@ -261,33 +236,27 @@ Blackmails party into service
 - See also: [[ENC00076_Social_Encounter_77
 - See also:
 - Influences [NPC00875_Zephyr_Proudmore_the_Fallen]]
-- Originates from [[Shadow Tide Syndicate
-- Leads to [Pressure Suit Malfunction 2]]
+- Originates from [[Pressure Suit Malfunction 2]]
 - Originates from [[ITEM00918_Distilled_Crystal_of_Clarity
 - Originates from [step_004 (phase_030)]]
 - Requires [[staff-of-charming-xdmg (items)
 - Requires [Surface Traders]]
-- Related: [[Embassy of Emptines (D&D_References)
-- Requires [step_057 (phase_065)]]
+- Related: [[Embassy of Emptines (D&D_References)]]
 - See also: [[step_081 (phase_009)
 - See also: [Symbol Heraldry Ambassador Blacktrade V1 Ambassador Blacktrade.svg]]
 - Related: [[Original Survivor Network
 - Connects to [step_016 (phase_070)]]
 - See also: [[LORE00217_History_Entry_218
 - Compare with [LORE00082_Legends_Entry_83]]
-- Influences [[The Silver Order (Groups)
-- Parallels [Eastern Kingdoms 2]]
+- Influences [[The Silver Order (Groups)]]
 - Leads to [[Symbol Heraldry the Schism and Reconciliation V1 the Schism and Reconciliation.svg
 - Connects to [step_084 (phase_044)]]
-- See also: [[step_009 (phase_032)
-- Requires [Judge-Militant Adamant Truestone (D&D_References)]]
+- See also: [[Judge-Militant Adamant Truestone (D&D_References)]]
 - Compare with [[step_075 (phase_086)
 - Leads to [step_004 (phase_016)]]
-- Influences [[The Sunken Cathedral of Stars (D&D_References)
-- Requires [Shadow Surgery Manual]]
+- Influences [[The Sunken Cathedral of Stars (D&D_References)]]
 - Parallels
-- Originates from [[Stormwind Estate 2
-- See also: [Wave Soothingtouch (D&D_References)]]
+- Originates from [[Wave Soothingtouch (D&D_References)]]
 - See also: [[The Spire of Healing
 - Related: [step_075 (phase_063)]]
 - Parallels
@@ -305,15 +274,13 @@ Blackmails party into service
 - Requires [item-artifact-mess-kit-v3-mess-kit.png]]
 - Connects to [[Chamber Purpose Dungeon Maze
 - Connects to [Magistrate Elena Greywind]]
-- Compare with [[Shadow Wells (D&D_References)
-- Requires [step_093 (phase_026)]]
+- Compare with [[Shadow Wells (D&D_References)]]
 - Parallels [[SPELL00092_Nature_Spell_93
 - Compare with [Echo-Prime Cacophony Voidlungs]]
 - Originates from [[step_005 (phase_058)
 - Compare with [Assets Locations Location City Maestro Finn Whirlstep V1 Maestro Finn Whirlstep.svg]]
 - See also:
-- Parallels [[Dimensional Sensors
-- Parallels [The Dimensional Hospital (D&D_References)]]
+- Parallels [[The Dimensional Hospital (D&D_References)]]
 - Affected by [[step_062 (phase_009)
 - Originates from [Location City Culinary Critic Marina Tastebud V1 Culinary Critic Marina Tastebud.svg]]
 - Leads to [[Location City Banker Cornelius Goldflow Banker Cornelius Goldflow.svg
@@ -321,12 +288,10 @@ Blackmails party into service
 - Related:
 - Leads to [[LORE00278_Legends_Entry_279
 - Leads to [step_021 (phase_054)]]
-- Parallels [[Seeds of the Past 2
-- Requires [SPELL00106_Nature_Spell_107]]
+- Parallels [[SPELL00106_Nature_Spell_107]]
 - Related: [[Location City Brother Matthias Inkdrinker Brother Matthias Inkdrinker.svg
 - Influences [Assets Art the Vote Vault Mystery.png]]
-- Parallels [[LOC00278_Planes_Location_279
-- Parallels [step_020 (phase_091)]]
+- Parallels [[LOC00278_Planes_Location_279]]
 - Leads to [[LORE00124_History_Entry_125
 
 ## Visual References

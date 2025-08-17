@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:36.252479"
 modified: "2025-08-15T12:24:36.252480"
-aliases: [Session 01 the [[Convergence Mystery]]]
+aliases: [Session 01 the [[Session 01 the Convergence Mystery]]]
 ---
 
 # Session 01 [[The Convergence Mystery
@@ -20,7 +20,7 @@ modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: Session 01 [[The Convergence]] Mystery.Md
+subcategory: Session 01 [[The Convergence Key]] Mystery.Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -33,7 +33,7 @@ modified: '2025-01-15'
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 title: Session 01 [The Convergence]] Mystery
-type: [[Session Summary]]
+type: [[Session Summary Template]]
 tags:
 - player/session-summary
 - c

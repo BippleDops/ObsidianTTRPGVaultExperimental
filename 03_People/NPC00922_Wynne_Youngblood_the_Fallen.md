@@ -157,56 +157,32 @@ Has map to lost treasure
 
 ## See Also
 - [NPC00761_Aldric_Moonshadow_the_Guardian]]
-- [[NPC00046_Urien_Ironwood_the_Wise
-- [NPC01624_Corvus_Silverleaf_the_Redeemed]]
-- [[NPC00615_Lyanna_Moonshadow_the_Lost
-- [NPC01911_Alaric_Oakenshield_the_Mystic]]
-- [[NPC01789_Vesper_Proudmore_the_Mystic
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[NPC_Relationship_Web.png_1 (03_People)
-- [NPC01613_Kaelen_Voidwalker_the_Wanderer]]
-- [[NPC00259_Delara_Proudmore
-- [NPC01849_Kaelen_Silverleaf_the_Scholar]]
-- [[NPC00707_Fiora_Oakenshield_the_Seeker
-- [NPC00582_Cedric_Dawnstrider]]
-- [[NPC00469_Delara_Oakenshield_the_Seeker
-- [NPC01177_Thalia_Underhill_the_Fallen]]
-- [[NPC01805_Faelyn_Goldleaf_the_Wanderer
-- [NPC01017_Vesper_Keenblade_the_Risen]]
-- [[NPC01040_Zephyr_Lightbringer_the_Strong
-- [NPC00858_Zephyr_Silverleaf_the_Wanderer]]
-- [[NPC01552_Branwen_Lightbringer_the_Swift
-- [NPC01371_Xander_Stormwind_the_Guardian]]
-- [[yuan-ti-pit-master-mpmm
-- [Archdruid Thornweaver]]
-- [[NPC01057_Pyria_Quicksilver_the_Scholar
-- [NPC00162_Xander_Thornweave]]
-- [[NPC00739_Gavril_Ashford_the_Bold
-- [NPC00661_Corvus_Darkwater_the_Broken]]
-- [[NPC00515_Baelor_Crystalbrook_the_Seeker
-- [Measurement_Guide_Depth_and_Pressur]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC00707_Fiora_Oakenshield_the_Seeker]]
+- [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[yuan-ti-pit-master-mpmm]]
+- [[NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
 - [[Party_Inventory
 - [Parliament of Shadows Player Guide.md]]
-- [[Emergency_Evacuation_Map_Stormglass_Riot
-- [NPC00362_Pyria_Stormwind_the_Wise]]
-- [[NPC00552_Malakai_Stormwind_the_Seeker
-- [Propaganda_Broadsheet_Syndicate.md]]
-- [[NPC00058_Elric_Nightfall
-- [Smuggler_Route_Tally_Shee]]
-- [[Wanted_Poster_Syndicate_Fenc
-- [Dockworker_Union_Flyer.md]]
-- [[NPC01041_Thalia_Dawnstrider_the_Lost
-- [09 Appendix a the Multiverse]]
-- [[NPC00872_Thalia_Ironwood_the_Broken
-- [05 Personality and Background]]
-- [[Count_Strahd_von_Zarovich
-- [MOC_NPCs]]
-- [[MOC_Rules
-- [NPC01974_Thalia_Zephyrblade_the_Lost]]
-- [[01 Introduction Welcome to Adventure
-- [NPC01792_Rhiannon_Ironwood_the_Scholar]]
-- [[Combat_Encounter_Analysis
-- [NPC01312_Alaric_Darkwater_the_Fallen]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[Wanted_Poster_Syndicate_Fenc]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[Count_Strahd_von_Zarovich]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen]]
 - [[Master_Narrative_Web.md
 -
 
@@ -234,34 +210,28 @@ Has map to lost treasure
 - Related: [The Depth Compass]]
 - See also: [[step_009 (phase_097)
 - Requires [ITEM00198_Thunder_Axe_of_Slaying]]
-- Compare with [[[[Barkeep [Mira Algaebrew]] 2]]
+- Compare with [[Mira Algaebrew]] 2]]
 - Parallels [[step_095 (phase_063)
 - Originates from [step_053 (phase_056)]]
-- Affected by [[14-chapter-14-the-labyrinth (out-of-the-abyss)
-- Leads to [step_070 (phase_098)]]
-- Related: [[Shadow-Child Advisory
-- Originates from [MON00137_Aberrations_Creature_138]]
+- Affected by [[14-chapter-14-the-labyrinth (out-of-the-abyss)]]
+- Related: [[MON00137_Aberrations_Creature_138]]
 - Related: [[Location City [Secondary Education Secondary Education.svg]]
-- See also: [[The Great Tidal Amphitheater (D&D_References)
-- Connects to [Hadal-Resistant Equipment]]
+- See also: [[The Great Tidal Amphitheater (D&D_References)]]
 - Leads to [[Azure Citadel
 - Connects to
 - Leads to [step_020 (phase_097)]]
 - See also: [[vehicles (vehicles)
 - Leads to [Portrait NPC Captain Guard Peacehold V1 Captain Guard Peacehold.svg]]
-- Connects to [[[Marcus Evenscale 2]]
+- Connects to [[Marcus Evenscale 2]]
 - Connects to [[ITEM01290_Concentrated_Oil_of_Clarity
 - Originates from [NPC01775_Baelor_Emberfall_the_Mystic]]
-- Connects to [[Coral 2
-- Requires [ENC00058_Combat_Encounter_59]]
+- Connects to [[ENC00058_Combat_Encounter_59]]
 - Affected by [[step_073 (phase_088)
 - Connects to [Training Simulators]]
-- Related: [[DUN00048_Dungeon_49
-- Requires [The Shattering (D&D_References)]]
+- Related: [[The Shattering (D&D_References)]]
 - Affected by [[02_Worldbuilding_Groups_The_Memory_Keepers
 - Related: [darkling-elder-mpmm (fey)]]
-- Leads to [[The Inter-Guild Conference Center
-- See also: [[[Count Viktor Pressureborn]] (D&D_References)]]
+- Leads to [[The Inter-Guild Conference Center]] (D&D_References)]]
 - Compare with [[Searing Smite Xphb
 - Parallels [Vehicle Ship Harbor Guardian Gunboat Harbor Guardian Gunboat.svg]]
 - Affected by [[SHOP00049_General_Shop_50
@@ -269,8 +239,7 @@ Has map to lost treasure
 - Influences [[The [Whisper Island Mystery (D&D_References)]]
 - Requires [[QUEST00375_Side_Quest_376
 - Originates from [black-dragon-mask-hotdq (items)]]
-- Parallels [[Greyhawk Fharlanghn Xdmg
-- Leads to [LOC00228_Cities_Location_229]]
+- Parallels [[LOC00228_Cities_Location_229]]
 - Requires [[wings-of-flying-xdmg (items)
 - Leads to [step_037 (phase_069)]]
 - Related: [[Crushing Depths
@@ -297,12 +266,10 @@ Has map to lost treasure
 - Compare with [[QUEST00021_Main_Quest_22
 - Originates from [FRONTMATTER_FIX_COMPLETE]]
 - Leads to
-- Leads to [[kuo-toa-monitor-xmm (aberration)
-- Related: [step_042 (phase_067)]]
+- Leads to [[kuo-toa-monitor-xmm (aberration)]]
 - Compare with [[Silvery Barbs Scc
 - Originates from [Potion of Supreme Healing Xdmg]]
-- Affected by [[Active_NPCs (02_Worldbuilding)
-- Influences [Master Cultivator Thalia Greenglow]]
+- Affected by [[Master Cultivator Thalia Greenglow]]
 - Affected by [[City of Screams 2
 - Requires [training-complications-xge (tables)]]
 - See also: [[step_003 (phase_079)
@@ -320,15 +287,13 @@ Has map to lost treasure
 - Originates from [greek-aphrodite (deities)]]
 - Compare with [[ITEM0062_Glorious_Circlet_of_Power
 - Affected by [[Location City [Merchant Quarter]] V1 Merchant Quarter.svg]]
-- Affected by [[Archshadow Morrigan Voidheart
-- Parallels [NPC01026_Xander_Ironforge_the_Lost]]
+- Affected by [[NPC01026_Xander_Ironforge_the_Lost]]
 - Originates from
 - Influences [[step_034 (phase_058)
 - Related: [step_010 (phase_094)]]
 - Related: [[step_009 (phase_015)
 - Compare with [random-traps-trap-damage-severity (tables)]]
-- Compare with [[Master_Golemancer
-- See also: [NPC01407_Ysara_Blackstone_the_Mystic]]
+- Compare with [[NPC01407_Ysara_Blackstone_the_Mystic]]
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

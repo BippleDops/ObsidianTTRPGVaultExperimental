@@ -172,20 +172,13 @@ Modifications:
 
 ## See Also
 - [NPC00058_Elric_Nightfall]]
-- [[NPC00582_Cedric_Dawnstrider
-- [NPC01870_Lyanna_Silverleaf_the_Cunning]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC00920_Malakai_Ravenheart_the_Guardian]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [Archdruid Thornweaver]]
-- [[NPC01951_Gavril_Xendar_the_Swift
-- [NPC_Name_Generator.png]]
-- [[Faction_Relationship_Web
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
-- [[Ritual_Timing_Wheel_Convergenc
-- [Player_Comfort_Check]]
-- [[11 Rules Glossary
-- [Character_Journal_Template]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Ritual_Timing_Wheel_Convergenc]]
+- [[Character_Journal_Template]]
 - [[Ceasefire_Accord_Draft.md
 -
 
@@ -207,8 +200,7 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -244,20 +236,16 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [step_049 (phase_083)]]
 - Compare with [[Establish New World Order (Orders)
 - Parallels [Symbol Heraldry Deputy Archmerchant Scroll Deepmin Deputy Archmerchant Scroll Deepmin.svg]]
-- Parallels [[egyptian-osiris (deities)
-- Related: [Quest - Crystal Core Sabotage]]
+- Parallels [[Quest - Crystal Core Sabotage]]
 - Affected by [[step_055 (phase_096)
 - See also: [Boon of High Magic]]
-- Parallels [[NPC01348_Xander_Zephyrblade_the_Wise
-- Related: [LOC00115_Cities_Location_116]]
+- Parallels [[NPC01348_Xander_Zephyrblade_the_Wise]]
 - Influences [[Quest - Hunt the Shadows
 - Originates from [Royal Guard 2]]
 - Requires [[Portrait NPC the Shadow Warren the Shadow Warren.svg_1 (Portraits)
 - See also: [LOC00222_Planes_Location_223]]
-- Compare with [[whirlwind-xge (spells)
-- Leads to [Kingdom of Luminal Peaks (D&D_References)]]
-- Requires [[ENC00152_Combat_Encounter_153
-- Influences [step_014 (phase_027)]]
+- Compare with [[Kingdom of Luminal Peaks (D&D_References)]]
+- Requires [[ENC00152_Combat_Encounter_153]]
 - Requires [[Location City [Senator Bartholomew Bonewright Senator Bartholomew Bonewright.svg]]
 - Leads to [[Physical Variations Yuan Ti Tongue Color Vgm
 - See also: [Barbarian Xphb Path of the Zealot Xphb]]
@@ -265,32 +253,27 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [location-city-portal-network-v1-portal-network.svg]]
 - Compare with [[Abyssal Academy (D&D_References)
 - Requires [forgotten-realms-selune (deities)]]
-- Influences [[Portrait NPC Trad... Related To: Local Political Structure Connected Plots: to Be Developed
-- Influences [Royal Bloodline Powers]]
+- Influences [[Portrait NPC Trad... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Compare with [[step_030 (phase_088)
 - Influences [Portrait NPC Emperor Thalassius V1 Emperor Thalassius.svg_1 (Portraits)]]
-- Compare with [[step_082 (phase_065)
-- Compare with [NPC01565_Felicia_Zephyrblade_the_Redeemed]]
+- Compare with [[NPC01565_Felicia_Zephyrblade_the_Redeemed]]
 - Leads to [[M-003 Duplicate Crew Player
 - Compare with
 - Originates from [NPC00500_Wynne_Ashford_the_Wise]]
 - Requires [[SPELL00089_Divine_Spell_90
 - Originates from [Military Command]]
-- Connects to [[step_035 (phase_093)
-- Leads to [Royal Intelligence Service]]
-- Affected by [[Crystal Plague Progression System (D&D_References)
-- Requires [Carved Bone Statuette Xdmg]]
-- Parallels [[High Priestess [Marina Oracleguard (D&D_References)]]
+- Connects to [[Royal Intelligence Service]]
+- Affected by [[Crystal Plague Progression System (D&D_References)]]
+- Parallels [[Marina Oracleguard (D&D_References)]]
 - See also: [[Session 4 - The Shadow Parliament
 - Requires [Item Artifact Travelers Clothes Xphb V6 Travelers Clothes Xphb.png]]
 - Affected by [[Location City [Chief Engineer Marina Crystalwright V1 Chief Engineer Marina Crystalwright.svg]]
 - Parallels [[The Crystalline Citadel
 - Originates from [step_086 (phase_029)]]
-- See also: [[ENC0079_Random_Encounter_80
-- Requires [air-elemental-xmm]]
+- See also: [[ENC0079_Random_Encounter_80]]
 - Compare with [[Pelagic Cup
 - Parallels [Portrait NPC the Silhouette Surgeon Prime V1 the Silhouette Surgeon Prime.svg_1 (Portraits)]]
-- Compare with [[[Pearlshell (D&D_References)]]
+- Compare with [[Pearlshell (D&D_References)]]
 - Affected by [[Young Silver Dragon Xmm
 - Related: [step_052 (phase_037)]]
 - Parallels [[Spell Gem Star Ruby Oota
@@ -319,12 +302,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[location-city-[Sahuagin-sahuagin.svg]]
 - Originates from [[The Identity Stabilizer
 - Related: [Cross-Realm Politics]]
-- See also: [[Banker Titus Goldcurrent (D&D_References)
-- Requires
-- See also:
-
-## Visual References
-![04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
+- See also: [[Banker Titus Goldcurrent (D&D_References)]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png
 ![04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
 

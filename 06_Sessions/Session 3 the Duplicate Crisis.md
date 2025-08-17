@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:36.176253"
 modified: "2025-08-15T12:24:36.176255"
-aliases: [Session 3 the [[Duplicate Crisis]]]
+aliases: [Session 3 the [[Session 3 the Duplicate Crisis]]]
 ---
 
 # Session 3 [[The Duplicate Crisis
@@ -19,7 +19,7 @@ tags:
 - session title: Session 3 the [Duplicate Crisis]]
 type: session
 updated: 2025-08-14
-- -- # Session 3 the [[Duplicate Crisis ## [Overview This]] document contains important information regarding Session 3 the [[Duplicate Crisis and its role within the greater narrative. ## Description
+- -- # Session 3 the [[Session 3 the Duplicate Crisis]] document contains important information regarding Session 3 the [[Duplicate Crisis and its role within the greater narrative. ## Description
 
 **Details**: Rich sensory elements bring this to life. Session 3 the [Duplicate Crisis]] represents a significant element within the campaign world, offering various opportunities for engagement and de
 *The [texture] surface feels [description] to the touch.*velopment. ## [[Key Information - **[Primary Purpose]]**: Serves specific function within the world
@@ -34,10 +34,10 @@ updated: 2025-08-14
 - **[Closer Look]]**: Detailed examination
 - **[[Hidden Details**: Secret aspects ## [Random Table]] | d6 | Result |
 | status: active
-aliases: ["Session 3 the [[Duplicate Crisis]]"]
+aliases: ["Session 3 the [[Session 3 the Duplicate Crisis]]"]
 priority: normal
 category: 06 Sessions
-subcategory: Session 3 [[The Duplicate]] Crisis.Md
+subcategory: Session 3 [[Session 3 the Duplicate Crisis]] Crisis.Md
 related: []
 cssclass: standard
 publish: false --- -|--------|

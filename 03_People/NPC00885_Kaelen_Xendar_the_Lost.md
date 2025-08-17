@@ -31,7 +31,7 @@ type: npc
 **ID**: NPC00885
 
 ## Quick Reference
-- **Location**: [The Gilded Serpent]] [[Tavern in the [Merchant Quarter]]
+- **Location**: [The Gilded Serpent]] [[Merchant Quarter]]
 - **Occupation**: Cloth merchant
 - **Disposition**: Never uses people's real names
 
@@ -166,14 +166,12 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[Emergency_Evacuation_Map_Stormglass_Riot
-- [Parliamentary_Voting_Guide]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -189,24 +187,21 @@ Modifications:
 
 - Parallels [[Assets Portraits Portrait NPC High Chamberlain Nautilus Deepcurrent High Chamberlain Nautilus Deepcurrent.svg
 - Originates from [Master Koralit]]
-- Compare with [[step_080 (phase_068)
-- Affected by [LOC00037_Dungeons_Location_38]]
+- Compare with [[LOC00037_Dungeons_Location_38]]
 - Affected by [[ENC00427_Combat_Encounter_428
 - Leads to [[Location City [Keeper of Contracts Minerva Bindingword]] Keeper of Contracts Minerva Bindingword.svg]]
 - Originates from [[Portrait NPC the Crimson Shard Guardian V1 the Crimson Shard Guardian.svg_1 (Portraits)
 - Parallels [[Assets Locations Location City [Healer Sage Bondseer]] Healer Sage Bondseer.svg]]
-- Compare with [[winter-wolf-xmm (monstrosity)
-- Compare with [NPC00568_Thalia_Brightblade_the_Fallen]]
+- Compare with [[NPC00568_Thalia_Brightblade_the_Fallen]]
 - Requires [[Quest - Liberation of [The Deepmind]]
 - See also: [[Potion of Animal Friendship Xdmg
 - See also: [LOC00167_Planes_Location_168]]
 - Requires [[Trade Representatives 2
 - Compare with [dawn-war-tharizdun-dmg (deities)]]
-- See also: [[[Sommelier Bacchus Deepbottle (D&D_References)]]
+- See also: [[Sommelier Bacchus Deepbottle (D&D_References)]]
 - Requires [[Liche
 - Parallels [firearms]]
-- Originates from [[Consequence Chain 4 - Deep Mother Awakening 2
-- Requires [Battle Map Descriptions]]
+- Originates from [[Consequence Chain 4 - Deep Mother Awakening 2]]
 - Affected by [[LORE00331_Prophecies_Entry_332
 - Leads to [MON00166_Undead_Creature_167]]
 - See also: [[Prep Note 2
@@ -222,8 +217,7 @@ Modifications:
 - Parallels [Handout Handout Temple Prayer Sheet V2 Temple Prayer Sheet.png]]
 - Connects to [[step_098 (phase_068)
 - Influences [[Location City [Current Riders Guild]] Current Riders Guild.svg]]
-- See also: [[step_093 (phase_043)
-- Related: [Original Survivor Network]]
+- See also: [[Original Survivor Network]]
 - Influences [[step_043 (phase_064)
 - Influences [Portrait NPC Sunken Kingdom of Nereon V2 Sunken Kingdom of Nereon.svg_1 (Portraits)]]
 - Leads to [[Portrait NPC Shadow Parliament V1 Shadow Parliament.svg_1 (Portraits)
@@ -239,24 +233,19 @@ Modifications:
 - Compare with
 - Connects to [[Marcus Goldweaver
 - Influences [Sending Stones Xdmg]]
-- Influences [[Gallery Guide Captain Marina Civicvoice (D&D_References)
-- Compare with
-- Influences [ITEM01070_Pure_Herb_of_Swiftness]]
+- Influences [[Gallery Guide Captain Marina Civicvoice (D&D_References)]]
 - See also: [[MON00105_Undead_Creature_106
 - Leads to [[Location City [Senator Marina Tidecaller]] V1 Senator Marina Tidecaller.svg]]
 - Originates from [[resistance-xphb (spells)
 - Originates from [step_033 (phase_086)]]
 - Leads to [[SHOP00027_Specialty_Shop_28
 - Originates from [[[Professor Reef Growthseeker]] (D&D_References)]]
-- Originates from [[Traditional Communities
-- See also: [Spell Compendium (D&D_References)]]
-- Affected by [[[Embassy Quarter 2]]
-- Influences [[MON00054_Aberrations_Creature_55
-- Influences [step_034 (phase_079)]]
+- Originates from [[Spell Compendium (D&D_References)]]
+- Affected by [[Embassy Quarter 2]]
+- Influences [[MON00054_Aberrations_Creature_55]]
 - Influences [[Sky_Events_Pack_D
 - Compare with [step_055 (phase_098)]]
-- Originates from [[LOC0086_Marshwick
-- Requires [ITEM0086_Glorious_Crown_of_the_Dawn]]
+- Originates from [[ITEM0086_Glorious_Crown_of_the_Dawn]]
 - See also: [[Assets Art [Screaming Gardens Songwood Grove.png]]
 - Requires
 - Influences [[Chunk of Meat
@@ -265,15 +254,13 @@ Modifications:
 - Originates from [step_072 (phase_010)]]
 - Connects to [[step_035 (phase_047)
 - Parallels [Fiendish Spirit Devil Xphb]]
-- See also: [[Transformation Specialist Doctor Prism-Current
-- Originates from [LORE00312_Legends_Entry_313]]
+- See also: [[Transformation Specialist Doctor Prism-Current]]
 - Parallels [[Physical Characteristics Beholder Eye Size
 - Parallels
 - Leads to [[Location City [Master Engineer Cordelia Pressurewright]] Master Engineer Cordelia Pressurewright.svg]]
 - Influences [[INV-006.png (Art)
 - See also: [wild-magic-zone-xdmg (traps-hazards)]]
-- See also: [[Lord Marcus Goldweaver (D&D_References)
-- Originates from [step_074 (phase_009)]]
+- See also: [[Lord Marcus Goldweaver (D&D_References)]]
 - Originates from [[step_039 (phase_040)
 - Leads to [Throne of Bubbles]]
 - Related: [[SPELL00008_Arcane_Spell_9

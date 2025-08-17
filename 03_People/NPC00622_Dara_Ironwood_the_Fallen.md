@@ -165,8 +165,7 @@ Being extorted by criminals
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -180,16 +179,13 @@ Being extorted by criminals
 
 ## Connections
 
-- Originates from [[The Catastrophe - Hour by Hour
-- Affected by [step_058 (phase_036)]]
+- Originates from [[The Catastrophe - Hour by Hour]]
 - Requires [[Assets Locations Location City Maritime Security Chief Reef V1 Maritime Security Chief Reef.svg
 - Originates from [Human Names Mesoamerican Female Xge]]
 - Affected by [[step_010 (phase_045)
 - Influences [Senator Marina Tidecaller]]
-- Affected by [[Metamorphosis Consultant Deep-Change
-- See also: [kuo-toa-whip-xmm]]
-- Influences [[Vex Shadowthorn (People)
-- Affected by [Teacher-Administrator Shadowlearn 2]]
+- Affected by [[Metamorphosis Consultant Deep-Change]]
+- Influences [[Teacher-Administrator Shadowlearn 2]]
 - Connects to [[NPC00041_Fiora_Jadeclaw
 - Influences [strahd-von-zarovich-cos (legendary-group)]]
 - Leads to [[Shadow Independence Levels
@@ -198,28 +194,22 @@ Being extorted by criminals
 - Related: [step_097 (phase_079)]]
 - Related: [[Dust Mephit Xmm
 - Requires [DUN00049_Dungeon_50]]
-- Influences [[Tidal Temple Orders
-- Affected by [The Deep Expansion (D&D_References)]]
-- Related: [[LOC00002_Towns_Location_3
-- Influences [Quest - The Deep Mother Situation]]
+- Influences [[The Deep Expansion (D&D_References)]]
+- Related: [[Quest - The Deep Mother Situation]]
 - Influences [[Item Artifact Poisoners Kit Xphb V7 Poisoners Kit Xphb.png
 - Parallels [Assets Locations Location City Tide Welcomeheart V1 Tide Welcomeheart.svg]]
-- Leads to [[MON00008_Constructs_Creature_9
-- Influences [The Grand Abandonment - Central Warehouse Comple 2]]
-- Originates from [[LOC0009_PortHaven
-- Affected by [LOC00273_Wilderness_Location_274]]
+- Leads to [[The Grand Abandonment - Central Warehouse Comple 2]]
+- Originates from [[LOC00273_Wilderness_Location_274]]
 - Compare with [[Location City the Iteration Collective V1 the Iteration Collective.svg
 - See also: [Portrait NPC Senator Cordelia Deepcurrent V1 Senator Cordelia Deepcurrent.svg]]
 - Compare with [[GM Resource
 - Influences [step_039 (phase_099)]]
 - Related: [[NPC00370_Drusilla_Hawthorne_the_Mystic
 - Connects to [04_Resources_Assets_Locations_location-city-lord-reginald-seaworthy-lord-reginald-seaworthy.svg]]
-- Affected by [[Provincial Administrative Centers 2
-- Affected by [ENC00365_Combat_Encounter_366]]
+- Affected by [[Provincial Administrative Centers 2]]
 - See also: [[step_047 (phase_010)
 - Related: [step_082 (phase_009)]]
-- Connects to [[The Restoration Movement (D&D_References)
-- Parallels [step_052 (phase_031)]]
+- Connects to [[The Restoration Movement (D&D_References)]]
 - Originates from [[ITEM00762_Ancient_Ring_of_Destiny
 - Originates from [Spear Xphb]]
 - Leads to [[Professor Depth Biologist 2
@@ -233,22 +223,16 @@ Being extorted by criminals
 - Compare with [Symbol Heraldry Silverscale Consortium Silverscale Consortium.svg]]
 - Parallels [[LORE00285_Prophecies_Entry_286
 - Related: [Assets Locations Location City Shipwreck Cove Shipwreck Cove.svg]]
-- Related: [[NPC00266_Urien_Stormwind_the_Fallen
-- Parallels [Shadow Faction Representative 2]]
+- Related: [[NPC00266_Urien_Stormwind_the_Fallen]]
 - Affected by [[Admiral Darkwater
 - Requires [LORE00249_Prophecies_Entry_250]]
-- Compare with [[Abyssal Depths
-- Related: [Dream Scholar Memoriam (D&D_References)]]
-- See also: [[Agent Viktor Cleanslate (D&D_References)
-- Affected by [step_048 (phase_057)]]
-- Connects to [[Training Supervisor Learning Moment (D&D_References)
-- Leads to [Quest_Index.png]]
+- Compare with [[Dream Scholar Memoriam (D&D_References)]]
+- See also: [[Agent Viktor Cleanslate (D&D_References)]]
+- Connects to [[Training Supervisor Learning Moment (D&D_References)]]
 - Parallels [[step_047 (phase_021)
 - Originates from [Periapt of Wound Closure Xdmg]]
-- Originates from [[The Pressure Chambers 2
-- Leads to [NPC01631_Fiora_Ironwood_the_Mystic]]
-- See also: [[ENC00210_Social_Encounter_211
-- Leads to [The Great Circuit 2]]
+- Originates from [[NPC01631_Fiora_Ironwood_the_Mystic]]
+- See also: [[ENC00210_Social_Encounter_211]]
 - Parallels [[step_097 (phase_072)
 - Connects to [Wuxia Weapon Names]]
 - See also: [[Spell Scroll Level 6 Xdmg
@@ -257,8 +241,7 @@ Being extorted by criminals
 - Leads to [step_047 (phase_008)]]
 - Affected by [[ITEM01357_Simple_Map_Case_of_Durability
 - See also: [The Siren's Rest Tavern]]
-- Influences [[NPC00447_Fiora_Nightfall_the_Broken
-- Affected by [4 Gith and Their Endless War]]
+- Influences [[NPC00447_Fiora_Nightfall_the_Broken]]
 - Leads to [[step_075 (phase_025)
 - Affected by [ankheg-xmm (monstrosity)]]
 - Leads to [[QUEST00004_Main_Quest_5
@@ -273,13 +256,10 @@ Being extorted by criminals
 - Affected by [Location City Coral Reef Sanctuaries Coral Reef Sanctuaries.svg]]
 - Compare with [[creature-creature-allip-mpmm-v1-allip-mpmm.png
 - Originates from [Institute_of_Aquatic_Mysticism (02_Worldbuilding)]]
-- Requires [[Maintenance Tech Reef Fixwright (D&D_References)
-- Affected by
-- Parallels [Senator Bartholomew Bonewright 2]]
+- Requires [[Maintenance Tech Reef Fixwright (D&D_References)]]
 - Requires [[NPC0115_Katarina_Goldleaf_the_Mad
 - Requires [ITEM00635_Fortified_Cloak_of_Resistance]]
-- Related: [[QUEST00355_Side_Quest_356
-- Influences [Senior Temporal Engineer Chronos Fieldwright 2]]
+- Related: [[Senior Temporal Engineer Chronos Fieldwright 2]]
 
 ## Visual References
 ![[03_People/portrait_captain_dara_ironwill_friendly.png

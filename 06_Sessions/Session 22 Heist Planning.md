@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.338560"
 modified: "2025-08-15T12:24:39.338563"
-aliases: [Session 22 [[Heist Planning]]]
+aliases: [Session 22 [[Session 22 Heist Planning]]]
 ---
 
 # Session 22 [[Heist Planning
@@ -20,7 +20,7 @@ modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: Session 22 [[Heist Planning]].Md
+subcategory: Session 22 [[Session 22 Heist Planning]].Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -33,7 +33,7 @@ modified: '2025-01-15'
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 title: Session 22 [Heist Planning]]
-type: [[Session Summary]]
+type: [[Session Summary Template]]
 tags:
 - player/session-summary
 - campaign/e

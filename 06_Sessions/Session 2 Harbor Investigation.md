@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.507395"
 modified: "2025-08-15T12:24:39.507398"
-aliases: [Session 2 [[Harbor Investigation]]]
+aliases: [Session 2 [[Session 2 Harbor Investigation]]]
 ---
 
 # Session 2 [[Harbor Investigation
@@ -16,13 +16,13 @@ aliases: [Session 2 [[Harbor Investigation]]]
 
 Comprehensive overview of this content.
 
---- aliases: ["Session 2 [[Harbor Investigation]]"]
+--- aliases: ["Session 2 [[Session 2 Harbor Investigation]]"]
 created: 2025-08-15
 modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: Session 2 [[Harbor Investigation]].Md
+subcategory: Session 2 [[Session 2 Harbor Investigation]].Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -58,7 +58,7 @@ duration: 4-5 hours
 level_range: 1-3
 updated: '2025-08-13T12:34:17.828503+00:00'
 world: Aquabyssos
-- -- # Session 2: [Harbor Investigation]] * [[The Sunken Conspiracy - [Uncovering Smuggling]] Operations* ## 🔧 [[Deep Evaluation Improvements * 20 targeted improvements identified* ### [Connection Improvements]] - Add cross-references to related notes ### [[Enhancement Improvements - Add 12_Research-specific enhancement ## [Session Overview]] **[[Expected Duration**: 4-5 hours **[Party Level]]**: 1st-2nd level **[[Adventure Type**: [Social Investigation]], [[Political Intrigue, [Light Combat]] **[[Key Themes**: Factional politics, corruption, moral ambiguity, deeper mysteries ### Continuing from Session 1 The session begins immediately after the previous cliffhanger: > The young messenger's words hang in the water-heavy air: "*[Golden Current]]* is under attack right now!" Through the office's crystal viewport, you can see lights moving erratically in the harbor—the telltale glow of magical combat reflecting off the sea floor. **[[Immediate Decision Required**: How does the party respond to this crisis? **Options and Consequences**: 1. **Rush to help**: Arrive during active combat, chance to catch attackers
+- -- # Session 2: [Harbor Investigation]] * [[The Sunken Conspiracy]] Operations* ## 🔧 [[Deep Evaluation Improvements * 20 targeted improvements identified* ### [Connection Improvements]] - Add cross-references to related notes ### [[Enhancement Improvements - Add 12_Research-specific enhancement ## [Session Overview]] **[[Expected Duration**: 4-5 hours **[Party Level]]**: 1st-2nd level **[[Adventure Type**: [Social Investigation]], [[Political Intrigue, [Light Combat]] **[[Key Themes**: Factional politics, corruption, moral ambiguity, deeper mysteries ### Continuing from Session 1 The session begins immediately after the previous cliffhanger: > The young messenger's words hang in the water-heavy air: "*[Golden Current]]* is under attack right now!" Through the office's crystal viewport, you can see lights moving erratically in the harbor—the telltale glow of magical combat reflecting off the sea floor. **[[Immediate Decision Required**: How does the party respond to this crisis? **Options and Consequences**: 1. **Rush to help**: Arrive during active combat, chance to catch attackers
 2. **Gather information first**: Miss the action but arrive with better intelligence
 3. **Split the party**: Some go, some stay—divided resources but multiple advantages ### [The Active]] [[Crime Scene **Location**: Pier 12, where the merchant vessel *[Golden Current]]* is moored. Moreover, **Situation on Arrival**: - **Combat in Progress**: If party rushed (less than 10 minutes)
 - **[[Aftermath Investigation**: If party prepared first (15+ minutes) ### Option A: [Arriving During]] Combat **[[The Scene**: > Water swirls violently around Pier 12 as shapes move beneath the surface. The *[Golden Current]]*, a three-masted vessel designed for both surface and shallow underwater travel, lists heavily to one side. Pressure-suited figures are loading cargo from the ship onto a sleek, unmarked submersible. Sparks of magical energy light up the water as the ship's defenders fight back. **[[Combat Encounter: [Smuggler Raid]] in Progress** **Enemies**:
@@ -340,7 +340,7 @@ world: Aquabyssos
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

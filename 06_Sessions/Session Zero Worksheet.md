@@ -3,12 +3,10 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:36.259720"
 modified: "2025-08-15T12:24:36.259723"
-aliases: [[Session Zero]] Worksheet]
+aliases: [[Session Zero Guide]] Worksheet]
 ---
 
-# [[Session Zero Worksheet
-
-> **[Content Warning]]**: This content contains mature themes. DM discretion advised.
+# [[Session Zero Worksheet]]**: This content contains mature themes. DM discretion advised.
 
 > *An opportunity for greatness awaits...*
 
@@ -16,13 +14,13 @@ aliases: [[Session Zero]] Worksheet]
 
 Comprehensive overview of this content.
 
---- aliases: ["[[Session Zero]] Worksheet"]
+--- aliases: ["[[Session Zero Guide]] Worksheet"]
 created: 2025-08-15
 modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: [[Session Zero]] Worksheet.Md
+subcategory: [[Session Zero Guide]] Worksheet.Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -86,7 +84,7 @@ ____________________________________________ PERSONAL GOAL: GREATEST FEAR: IMPOR
 □ Group vote (democratic decisions) PARTY COHESION: □ Tight-knit group (family-like bonds)
 □ Professional team (work together well)
 □ Loose alliance (common goals)
-□ Reluctant partners (forced together) ### [[Campaign Themes Interest RATE YOUR INTEREST (1-5 scale): [Shadow Conspiracy]] Investigation ___/5 [[Crystal Plague [Medical Mystery]] ___/5 [[Deep Mother [Cosmic Horror]] ___/5 Cross-[[Realm Diplomatic Missions ___/5 [Merchant Guild]] [[Trade Adventures ___/5 [Seven Shards]] [[Artifact Hunt ___/5 [Parliamentary Political]] Intrigue ___/5 Pressure/[[Altitude Survival ___/5 [Cultural Exchange]] Stories ___/5 Military/[[War Campaign Elements ___/5 PREFERRED STORY ARC LENGTH:
+□ Reluctant partners (forced together) ### [[Campaign Themes Interest RATE YOUR INTEREST (1-5 scale): [Shadow Conspiracy]] Investigation ___/5 [[Crystal Plague]] ___/5 [[Deep Mother [Cosmic Horror]] ___/5 Cross-[[Realm Diplomatic Missions ___/5 [Merchant Guild]] [[Trade Adventures ___/5 [Seven Shards]] [[Artifact Hunt ___/5 [Parliamentary Political]] Intrigue ___/5 Pressure/[[Altitude Survival ___/5 [Cultural Exchange]] Stories ___/5 Military/[[War Campaign Elements ___/5 PREFERRED STORY ARC LENGTH:
 □ Single sessions (episodic)
 □ Short arcs (2-4 sessions)
 □ Medium arcs (5-8 sessions)
@@ -159,7 +157,7 @@ ____________________________________________ PERSONAL GOAL: GREATEST FEAR: IMPOR
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

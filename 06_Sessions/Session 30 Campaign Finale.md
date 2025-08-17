@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.443840"
 modified: "2025-08-15T12:24:39.443841"
-aliases: [Session 30 [[Campaign Finale]]]
+aliases: [Session 30 [[Session 30 Campaign Finale]]]
 ---
 
 # Session 30 [[Campaign Finale
@@ -20,7 +20,7 @@ modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: Session 30 [[Campaign Finale]].Md
+subcategory: Session 30 [[Session 30 Campaign Finale]].Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -31,7 +31,7 @@ tags:
 modified: '2025-01-15'
 - -- # Session_30_Campaign_Finale - -- ## Description {#description} Detailed description pending.
 title: Session 30 [Campaign Finale]]
-type: [[Session Summary]]
+type: [[Session Summary Template]]
 tags:
 - player/session-summary
 - campaign/example
@@ -116,7 +116,7 @@ world: Both
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

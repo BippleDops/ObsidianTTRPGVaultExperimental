@@ -170,8 +170,7 @@ Competitor sabotaging business
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -199,10 +198,8 @@ Competitor sabotaging business
 - Influences [Location City the Lighthouse Keeper S Ghost the Lighthouse Keeper S Ghost.png]]
 - Originates from [[Voluntary Taxation 2
 - Originates from [QUEST00308_Side_Quest_309]]
-- Leads to [[Unite the Two Worlds
-- Parallels [MON00111_Constructs_Creature_112]]
-- Affected by [[step_014 (phase_064)
-- Connects to [University of Current Studies]]
+- Leads to [[MON00111_Constructs_Creature_112]]
+- Affected by [[University of Current Studies]]
 - Requires [[ENC00286_Social_Encounter_287
 - See also:
 - See also: [ENC00461_Combat_Encounter_462]]
@@ -227,18 +224,14 @@ Competitor sabotaging business
 - See also: [Dungeon Dressing Mage Furnishings]]
 - Originates from [[Portrait NPC House of Lords Secret Chamber V1 House of Lords Secret Chamber.svg
 - Originates from [step_026 (phase_030)]]
-- See also: [[ENC00180_Environmental_Encounter_181
-- Related: [Reference Quick Reference Dnd5e DM Screen 2014]]
-- Requires [[Reaction Xphb
-- Originates from [Unified Aquabyssos Legal Code]]
-- Connects to [[Skyforge
-- Parallels [MON00117_Undead_Creature_118]]
+- See also: [[Reference Quick Reference Dnd5e DM Screen 2014]]
+- Requires [[Unified Aquabyssos Legal Code]]
+- Connects to [[MON00117_Undead_Creature_118]]
 - See also: [[Adventure Boldexplorer (D&D_Sourcebooks)
 - Originates from [04_Resources_Assets_Symbols_symbol-heraldry-doctor-harmony-whisperfall-doctor-harmony-whisperfall.svg]]
 - See also: [[common-clothes (items)
 - Requires [Crystal Shard]]
-- Influences [[medusa-xmm (monstrosity)
-- See also: [NPC00287_Ysara_Underhill_the_Wise]]
+- Influences [[NPC00287_Ysara_Underhill_the_Wise]]
 - Related: [[step_059 (phase_072)
 - Requires [step_054 (phase_031)]]
 - Related:
@@ -246,36 +239,30 @@ Competitor sabotaging business
 - Leads to [Thunderclap Xphb]]
 - Influences [[Green Dragon Scale Mail Xdmg
 - Leads to [ITEM00021_Frost_Staff_of_Slaying]]
-- Related: [[NPC00859_Idris_Voidwalker_the_Guardian
-- Influences [Wand of Web Xdmg]]
-- Originates from [[Deputy Harbor Master Marina Stormwright 2
-- See also: [NPC Reaction Matrix]]
+- Related: [[NPC00859_Idris_Voidwalker_the_Guardian]]
+- Originates from [[Deputy Harbor Master Marina Stormwright 2]]
 - Leads to [[LOC00135_Planes_Location_136
 - Originates from [Current Solidarity (D&D_References)]]
 - Compare with [[Location City Adult Education Programs V1 Adult Education Programs.svg
 - Parallels [ITEM00365_Cursed_Bow_of_the_Ancients]]
 - Related: [[step_029 (phase_013)
 - Originates from [step_009 (phase_041)]]
-- Leads to [[step_080 (phase_025)
-- See also: [Emergency Management Services]]
+- Leads to [[Emergency Management Services]]
 - Connects to [[cloak-of-many-fashions-xdmg (items)
 - Connects to [step_083 (phase_013)]]
 - Originates from [[LOC00219_Wilderness_Location_220
 - Connects to [Location City Sanctuary Safeharbor V1 Sanctuary Safeharbor.svg]]
 - Parallels [[The Nightmare Surgeons
 - Requires [step_075 (phase_097)]]
-- Connects to [[Port Meridian Council Chamber
-- Influences [step_091 (phase_016)]]
-- Compare with [[The Crossroads Tavern (D&D_References)
-- Leads to [Sage Gentlespice]]
+- Connects to [[Port Meridian Council Chamber]]
+- Compare with [[The Crossroads Tavern (D&D_References)]]
 - Affected by [[04 Creating Adventures
 - Connects to [LORE00244_Legends_Entry_245]]
 - Originates from [[Assets Locations Location City Dr Vera Spectrumseeker Dr Vera Spectrumseeker.svg
 - Influences [Chronos Tidekeep (D&D_References)]]
 - Requires [[QUEST00104_Side_Quest_105
 - Compare with [Witness Protection Protocol]]
-- Influences [[SPELL00078_Divine_Spell_79
-- Requires [Memory Coral]]
+- Influences [[SPELL00078_Divine_Spell_79]]
 - See also: [[Location City Forge Master Korax Hammerdeep Forge Master Korax Hammerdeep.svg
 - Requires [Cult of the Endless Voi (Cults_and_Movements)]]
 - Requires [[The Umbral Codes

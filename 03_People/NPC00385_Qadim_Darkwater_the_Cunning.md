@@ -127,68 +127,22 @@ Deception, History
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- [[Political Alliances
-- Upcoming social events
-
-## Plot Hook
-Wants rivals investigated
-
-## DM Notes
-- Adjust stats based on party level
-- Secrets can drive major plot points
-- Relationships create web of connections
-- Use quirks for memorable roleplay
-
----
-*Generated: 2025-08-15T03:51:03.156Z*
-
-## Voice & Mannerisms
-- Speaking style
-- Common phrases
-
-## Daily Routine
-- Morning activities
-- Evening habits
-
-## Combat Tactics
-- Preferred strategies
-- Special moves
-
-## Combat Stats
-Base: **Guard** (BC p.347)
-Modifications:
-- HP: 40
-- AC: 11
-- Notable abilities: Varies by individual
-
-## See Also
-- [Ambassador Nerida Deepcurrent]]
-- [[NPC00296_Elric_Jadeclaw_the_Bold
-- [NPC01870_Lyanna_Silverleaf_the_Cunning]]
-- [[NPC00550_Xander_Stormwind_the_Cunning
-- [NPC01937_Felicia_Silverleaf_the_Wanderer]]
-- [[NPC00599_Cedric_Lightbringer_the_Wise
-- [NPC01695_Ewan_Ashford_the_Fallen]]
-- [[NPC00939_Thalia_Jadeclaw_the_Swift
-- [NPC00920_Malakai_Ravenheart_the_Guardian]]
-- [[NPC00317_Pyria_Blackstone_the_Redeemed
-- [NPC01761_Idris_Moonshadow_the_Broken]]
-- [[NPC01447_Baelor_Winterborn_the_Strong
-- [Depth_Adapted_Background]]
-- [[NPC00927_Aldric_Ironwood_the_Wanderer
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
-- [[NPC01951_Gavril_Xendar_the_Swift
-- [Quarantine_Notice_Crystal_Plagu]]
-- [[11 Spellcasting
-- [07 Customization Options]]
-- [[NPC01082_Fiora_Ashford_the_Fallen
-- [MOC_Items]]
+- [[Political Alliances]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[07 Customization Options]]
+- [[NPC01082_Fiora_Ashford_the_Fallen]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -201,8 +155,7 @@ Modifications:
 
 ## Connections
 
-- Compare with [[The Crystal Renaissance (D&D_References)
-- Requires [step_069 (phase_091)]]
+- Compare with [[The Crystal Renaissance (D&D_References)]]
 - Related: [[Assets Item Artifact Windvane Pota V4 Windvane Pota.png
 - Parallels [ITEM00499_Enchanted_Chain_Mail_of_Grace]]
 - Related: [[Ambassador Marina Tidecaller 2
@@ -214,21 +167,18 @@ Modifications:
 - See also: [NPC01055_Cedric_Voidwalker_the_Wanderer]]
 - See also: [[step_035 (phase_071)
 - Related: [SHOP00058_General_Shop_59]]
-- Leads to [[Arsenal Keeper Thane Ironwill
-- Influences [step_005 (phase_022)]]
+- Leads to [[Arsenal Keeper Thane Ironwill]]
 - Related: [[Portrait NPC High Priest Absence V1 High Priest Absence.svg_1 (Portraits)
 - Influences [step_089 (phase_035)]]
 - Originates from [[The Debt Collectors
 - Affected by [step_005 (phase_096)]]
-- Compare with [[EVENT00099_Natural_Event_100
-- Connects to [Pressure Sculpting (D&D_References)]]
-- Connects to [[step_036 (phase_088)
-- Requires [ENC0065_Random_Encounter_66]]
+- Compare with [[Pressure Sculpting (D&D_References)]]
+- Connects to [[ENC0065_Random_Encounter_66]]
 - Compare with [[QUEST00299_Personal_Quest_300
 - Compare with [inferno-xdmg (traps-hazards)]]
 - Parallels [[SPELL00067_Divine_Spell_68
 - Leads to [MON00025_Undead_Creature_26]]
-- Influences [[[Council of Faiths 2]]
+- Influences [[Council of Faiths 2]]
 - Connects to [[NPC01052_Idris_Brightblade_the_Mystic
 - Affected by [[Assets Locations [[Location City [The Forgotten Mourner]] V1 the Forgotten Mourner.svg]]]]
 - Leads to [[04_Resources_Assets_Locations_location-city-the-drowning-truth-v1-the-drowning-truth.svg
@@ -246,9 +196,8 @@ Modifications:
 - Compare with
 - Compare with [step_066 (phase_069)]]
 - Compare with [[Assets Locations Location City [Trader Compass Rose Trader Compass Rose.svg]]
-- Compare with [[[The Sinking Atoll 2]]
-- Related: [[NPC0077_Minerva_Ironforge_the_Clever
-- Parallels [LOC00295_Wilderness_Location_296]]
+- Compare with [[The Sinking Atoll 2]]
+- Related: [[NPC0077_Minerva_Ironforge_the_Clever]]
 - Connects to [[Tides of Destiny Introduction
 - Compare with [ITEM01225_Pure_Herb_of_Swiftness]]
 - Connects to [[step_075 (phase_027)
@@ -262,15 +211,12 @@ Modifications:
 - Leads to [LOC00188_Dungeons_Location_189]]
 - Compare with [[adult-black-dragon-xmm (dragon)
 - Parallels [Template Person Placeholder.png]]
-- Connects to [[Halfling Names Female Xge
-- See also: [S L-08 Gravity Inversion Storm Player (Encounters)]]
-- Parallels [[Captain Nerida Stormcrest (D&D_References)
-- Related: [QUEST00095_Personal_Quest_96]]
+- Connects to [[S L-08 Gravity Inversion Storm Player (Encounters)]]
+- Parallels [[Captain Nerida Stormcrest (D&D_References)]]
 - Leads to
 - Affected by [[step_017 (phase_091)
 - Related: [LOC0050_NorthVale]]
-- Related: [[NPC01780_Solas_Hawthorne_the_Strong
-- See also: [Cinematic_Sequences (Animations)]]
+- Related: [[NPC01780_Solas_Hawthorne_the_Strong]]
 - Affected by [[Family_Structures_and_Child-Rearing (02_Worldbuilding)
 - Influences [MON00003_Constructs_Creature_4]]
 - Connects to [[SPELL00115_Nature_Spell_116
@@ -282,18 +228,16 @@ Modifications:
 - See also: [Far Realm Incursions]]
 - See also: [[step_007 (phase_058)
 - Parallels [DUN00135_Dungeon_136]]
-- Affected by [[[The Bone Colosseum 2]]
-- Related: [[Celestial Gardens
-- Leads to [Shadow Saints (D&D_References)]]
-- Related: [[Consequence Chain 1 - Shadow Conspiracy Exposure
-- Related: [Half Orc Parents Xge]]
+- Affected by [[The Bone Colosseum 2]]
+- Related: [[Shadow Saints (D&D_References)]]
+- Related: [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
 - Influences [[ITEM00178_Shadow_Bow_of_Slaying
 - Originates from [step_012 (phase_048)]]
 - Related: [[Location City [The Whispering Caverns V1 the Whispering Caverns.svg]]
 - Compare with [[Implements Rare Xdmg
 - Affected by [SPELL00154_Arcane_Spell_155]]
-- Influences [[[Leviathan Shrines (D&D_References)]]
-- See also: [[[Artist Wave Creator (D&D_References)]]
+- Influences [[Leviathan Shrines (D&D_References)]]
+- See also: [[Artist Wave Creator (D&D_References)]]
 - Affected by [[Vex Shadowthorn (People)
 - Parallels [[Location City [[[Merchant]] Prince Aldric Goldcurrent]] Merchant Prince Aldric Goldcurrent.svg]]
 - Connects to [[step_096 (phase_010)

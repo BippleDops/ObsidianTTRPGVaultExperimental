@@ -154,8 +154,7 @@ publish: false --- -|--------|
 
 ## Connections
 
-- Related: [[The Schooling (D&D_References)
-- Influences [Symbol Heraldry Sal... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Related: [[Symbol Heraldry Sal... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Influences [[LOC00223_Cities_Location_224
 - Originates from [DUN00052_Dungeon_53]]
 - Leads to [[The Phantom Current
@@ -164,8 +163,7 @@ publish: false --- -|--------|
 - Connects to [Reality Distortion (D&D_References)]]
 - Influences [[Dungeon Dressing Noises
 - Parallels [QUEST00192_Main_Quest_193]]
-- Related: [[step_012 (phase_021)
-- Affected by [NPC01088_Dara_Xendar_the_Redeemed]]
+- Related: [[NPC01088_Dara_Xendar_the_Redeemed]]
 - Affected by [[The Sunken Observatory 2
 - Connects to [Location City Harbor Pilot Captain Storm Skyreacher Harbor Pilot Captain Storm Skyreacher.svg]]
 - See also: [[SPELL00017_Arcane_Spell_18
@@ -180,8 +178,7 @@ publish: false --- -|--------|
 - Compare with [QUEST00190_Main_Quest_191]]
 - Influences [[step_044 (phase_093)
 - Affected by [creature-creature-dragon-v2-dragon.png]]
-- Originates from [[step_016 (phase_088)
-- Related: [NPC00245_Delara_Dawnstrider_the_Cunning]]
+- Originates from [[NPC00245_Delara_Dawnstrider_the_Cunning]]
 - Compare with [[step_017 (phase_005)
 - Influences [Shadow Energy Sources]]
 - Connects to [[DUN00110_Dungeon_111
@@ -196,10 +193,8 @@ publish: false --- -|--------|
 - Affected by [Helm of Comprehending Languages Xdmg]]
 - Originates from [[Assets Locations Location City Foam Deepferment V1 Foam Deepferment.svg
 - Leads to [The Audit Tower (D&D_References)]]
-- Related: [[rhinoceros-xmm (beast)
-- See also: [NPC00855_Felicia_Hawthorne_the_Wanderer]]
-- Compare with [[Parliament of Echoes - Public Gallery (D&D_References)
-- See also: [Forest Encounters Levels 14 Xge]]
+- Related: [[NPC00855_Felicia_Hawthorne_the_Wanderer]]
+- Compare with [[Parliament of Echoes - Public Gallery (D&D_References)]]
 - Compare with [[Portrait NPC Free Current Safe Houses V2 Free Current Safe Houses.svg
 - Influences [Assets Handouts Handout Handout Embassy Invitation V2 Embassy Invitation.png]]
 - Connects to [[spyglass-xphb (items)
@@ -210,18 +205,15 @@ publish: false --- -|--------|
 - Leads to [elven-zandilar-mtf (deities)]]
 - Compare with [[The Reflection Pools (D&D_Statblocks)
 - Leads to [Symbol Heraldry Commander Void Tacticia V1 Commander Void Tacticia.svg]]
-- Parallels [[NPC01121_Malakai_Thornweave_the_Scholar
-- Originates from [step_088]]
+- Parallels [[NPC01121_Malakai_Thornweave_the_Scholar]]
 - Originates from [[Assets Item Artifact Enspelled Armor Level 7 Xdmg Enspelled Armor Level 7 Xdmg.png
 - Related: [Unity Ambassador Cross-Current]]
 - Affected by [[Drill Sergeant Discipline
 - Requires [Githzerai Groups Githzerai Special Allies Mtf]]
 - Influences [[iron-bands-of-bilarro-xdmg (items)
 - Related: [step_004]]
-- See also: [[step_005
-- Affected by [LOC00141_Dungeons_Location_142]]
-- Compare with [[LOC00248_Cities_Location_249
-- Leads to [NPC01920_Cedric_Winterborn_the_Wanderer]]
+- See also: [[LOC00141_Dungeons_Location_142]]
+- Compare with [[NPC01920_Cedric_Winterborn_the_Wanderer]]
 - Leads to [[Dimensional Specialists
 - See also: [Symbol Heraldry Factional Conflicts Factional Conflicts.svg_1 (Symbols)]]
 - Requires [[LOC00286_Planes_Location_287
@@ -242,15 +234,11 @@ publish: false --- -|--------|
 - Compare with [portrait-npc-mayor-thompson-mayor-thompson.svg_1 (Portraits)]]
 - Parallels [[Forbidden Tomes
 - Compare with [EVENT00025_Political_Event_26]]
-- Connects to [[NPC01693_Kaelen_Crystalbrook_the_Risen
-- Compare with [Queen Seraphina Lumengarde]]
+- Connects to [[NPC01693_Kaelen_Crystalbrook_the_Risen]]
 - Affected by [[Symbol Heraldry Archmerchant Codex Goldstrea Archmerchant Codex Goldstrea.svg
 - Leads to [Prophetic Visions 2]]
-- Requires [[step_017
-- Connects to [Shadow Medical Ethics]]
-- Originates from [[downtime-activity-crafting-an-item-xge (variant-rules)
-- Requires [The Resurgent Tide]]
+- Requires [[Shadow Medical Ethics]]
+- Originates from [[downtime-activity-crafting-an-item-xge (variant-rules)]]
 - Parallels [[ITEM01384_Elegant_Compass_of_Convenience
 - Related: [Interfaith Cooperation 2]]
-- Influences [[Abyssos Prime - Pressure Terminal (D&D_References)
-- Requires [step_015 (phase_063)]]
+- Influences [[Abyssos Prime - Pressure Terminal (D&D_References)]]

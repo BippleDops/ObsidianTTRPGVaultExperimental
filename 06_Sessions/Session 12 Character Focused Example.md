@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.353730"
 modified: "2025-08-15T12:24:39.353732"
-aliases: [Session 12 [[Character Focused]] Example]
+aliases: [Session 12 [[Session 12 Character Focused Example]] Example]
 ---
 
 # Session 12 [[Character Focused Example
@@ -20,7 +20,7 @@ modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: Session 12 [[Character Focused]] Example.Md
+subcategory: Session 12 [[Session 12 Character Focused Example]] Example.Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -32,7 +32,7 @@ modified: '2025-01-15'
 - -- # Session_12_Character_Focused_Example - -- ## Description
 
 **[Sensory Details]]**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending.
-title: Session 12 [[Character Focused]] Example
+title: Session 12 [[Session 12 Character Focused Example]] Example
 type: Sess
 *The [texture] surface feels [description] to the touch.*ion Summary
 tags:

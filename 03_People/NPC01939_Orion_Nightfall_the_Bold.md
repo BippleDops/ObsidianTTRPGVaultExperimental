@@ -163,62 +163,32 @@ Provides information for a price
 - Special moves
 
 ## See Also
-- [[NPC01041_Thalia_Dawnstrider_the_Lost
-- [NPC01849_Kaelen_Silverleaf_the_Scholar]]
-- [[NPC00080_Branwen_Proudmore
-- [NPC00917_Brenna_Oakenshield_the_Seeker]]
-- [[NPC_Name_Generator.png
-- [NPC01438_Hilda_Youngblood_the_Fallen]]
-- [[Sage Elara
-- [NPC01761_Idris_Moonshadow_the_Broken]]
-- [[NPC01695_Ewan_Ashford_the_Fallen
-- [NPC01195_Gareth_Keenblade_the_Guardian]]
-- [[NPC01805_Faelyn_Goldleaf_the_Wanderer
-- [NPC01858_Drusilla_Stormwind_the_Cunning]]
-- [[NPC01994_Orion_Brightblade_the_Risen
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC00739_Gavril_Ashford_the_Bold
-- [NPC00283_Kaelen_Zephyrblade_the_Bold]]
-- [[NPC00124_Delara_Ravenheart_the_Redeemed
-- [NPC01870_Lyanna_Silverleaf_the_Cunning]]
-- [[NPC01229_Gavril_Ironwood_the_Scholar
-- [NPC01151_Orion_Stormwind_the_Seeker]]
-- [[Keeper Elara Mindwell
-- [Enchanter Valdris Peacewarden]]
-- [[Madame Rosalind Goldleaf
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC00515_Baelor_Crystalbrook_the_Seeker
-- [NPC00415_Gareth_Winterborn_the_Bold]]
-- [[NPC01974_Thalia_Zephyrblade_the_Lost
-- [Party_Inventory]]
-- [[NPC01613_Kaelen_Voidwalker_the_Wanderer
-- [Propaganda_Leaflet_Pearl_Guar]]
-- [[Emergency_Evacuation_Map_Stormglass_Riot
-- [NPC00385_Qadim_Darkwater_the_Cunning]]
-- [[Quarantine_Notice_Crystal_Plagu
-- [Calendar_Conversions_Realm_Window]]
-- [[NPC00615_Lyanna_Moonshadow_the_Lost
-- [Trade_Route_Map_Aquabyssos_to_Aethermoor]]
-- [[Sanity_Quick_Reference.md
-- [Submersible_Schematic_Pressure_Gate_Scou]]
-- [[NPC01699_Orion_Oakenshield_the_Broken
-- [Quick_Start_Guide.md]]
-- [[NPC01552_Branwen_Lightbringer_the_Swift
-- [Ancient_Prophecy_Fragment_Verdan]]
-- [[11 Spellcasting
-- [NPC00976_Alaric_Quicksilver_the_Strong]]
-- [[NPC00281_Hestara_Nightfall_the_Cunning
-- [The Silent Watcher 2]]
-- [[15 the Planes of Existence
-- [07 Customization Options]]
-- [[Session_Recaps
-- [10 Combat]]
-- [[MOC_Lore
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC01438_Hilda_Youngblood_the_Fallen]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC01858_Drusilla_Stormwind_the_Cunning]]
+- [[NPC01994_Orion_Brightblade_the_Risen]]
+- [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]]
+- [[Enchanter Valdris Peacewarden]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC01552_Branwen_Lightbringer_the_Swift]]
+- [[NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC00281_Hestara_Nightfall_the_Cunning]]
+- [[15 the Planes of Existence]]
+- [[Session_Recaps]]
+- [[MOC_Lore]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -234,14 +204,12 @@ Provides information for a price
 ## Connections
 
 - See also: [Multi-Phase Boss Fights 2]]
-- Affected by [[LORE00069_Legends_Entry_70
-- Affected by [ENC00029_Environmental_Encounter_30]]
+- Affected by [[ENC00029_Environmental_Encounter_30]]
 - Influences [[step_026 (phase_054)
 - Compare with [Disadvantage]]
 - Influences [[step_002 (phase_060)
 - Parallels [02_Worldbuilding_Lore_The_Void_Shard]]
-- Requires [[Pain-Artist Cruelty Refined 2
-- Connects to [step_004 (phase_092)]]
+- Requires [[Pain-Artist Cruelty Refined 2]]
 - Requires [[Portrait NPC the Crystal Queen Mother V2 the Crystal Queen Mother.svg_1 (Portraits)
 - Leads to [ITEM00467_Enchanted_Boots_of_Protection]]
 - Requires [[Quest - Sky Pirates_1 (01_Adventures)
@@ -252,19 +220,15 @@ Provides information for a price
 - Related: [04_Resources_Assets_Locations_location-city-master-host-torrent-welcomeall-v1-master-host-torrent-welcomeall.svg]]
 - Compare with [[assault-or-invasion-invading-forces (tables)
 - Requires [location-city-shadow-crystals-shadow-crystals.svg]]
-- Connects to [[QUEST00158_Side_Quest_159
-- See also: [FAC00098_Guilds_99]]
+- Connects to [[QUEST00158_Side_Quest_159]]
 - Parallels [[step_093 (phase_051)
 - Originates from [step_092 (phase_083)]]
 - Connects to [[EVENT00034_Natural_Event_35
 - Parallels [Academic Institutions]]
-- Compare with [[The Coral Throne Syndicate (D&D_References)
-- Influences
-- Requires [LOC00033_Wilderness_Location_34]]
+- Compare with [[The Coral Throne Syndicate (D&D_References)]]
 - See also: [[Location City Pressure Brewing Technology Pressure Brewing Technology.svg
 - Related: [ITEM00219_Shadow_Crossbow_of_the_Ancients]]
-- Connects to [[MON00023_Constructs_Creature_24
-- Affected by [Storm Sphere Xge]]
+- Connects to [[MON00023_Constructs_Creature_24]]
 - Affected by [[step_005 (phase_032)
 - Connects to [ITEM00714_Void-touched_Amulet_of_Dominion]]
 - Related: [[Roleplaying a Hag Hag Ideals Vgm
@@ -276,20 +240,16 @@ Provides information for a price
 - Requires [[step_045 (phase_036)
 - See also: [QUEST00158_Main_Quest_159]]
 - Connects to
-- Connects to [[Silent Image Xphb
-- Requires [Lord Chancellor Prism Valdrick (D&D_References)]]
+- Connects to [[Lord Chancellor Prism Valdrick (D&D_References)]]
 - Compare with [[FAC00025_Guilds_26
 - See also: [02_Worldbuilding_Lore_The_Crystal_Guard_Elite]]
 - Parallels [[LOC0011_SouthBridge
 - Connects to [step_030 (phase_081)]]
-- See also: [[NPC01518_Alaric_Moonshadow_the_Bold
-- Connects to [Equipment Catalogs]]
+- See also: [[NPC01518_Alaric_Moonshadow_the_Bold]]
 - Connects to [[ENC00053_Social_Encounter_54
 - Affected by [Location City Pressure Weighted Representation V1 Pressure Weighted Representation.svg]]
-- Influences [[step_062 (phase_020)
-- Related: [Parliament of Echoes - Public Gallery 2]]
-- Related: [[The Vigil Gardens
-- Parallels [LOC00281_Dungeons_Location_282]]
+- Influences [[Parliament of Echoes - Public Gallery 2]]
+- Related: [[LOC00281_Dungeons_Location_282]]
 - Affected by [[Assets Locations Location City Coral Seasweaver Coral Seasweaver.svg
 - Connects to [ITEM00754_Divine_Orb_of_Eternity]]
 - Parallels [[step_027 (phase_100)
@@ -298,16 +258,13 @@ Provides information for a price
 - Originates from [Assets Locations Location City Blood Coral Blood Coral.svg]]
 - Compare with [[step_003 (phase_057)
 - Affected by [Light Bearer]]
-- Leads to [[NPC00287_Ysara_Underhill_the_Wise
-- Parallels [Devastation Orb of Earth Pota]]
-- Parallels [[The Merging
-- Leads to [NPC00114_Alaric_Ironforge]]
+- Leads to [[NPC00287_Ysara_Underhill_the_Wise]]
+- Parallels [[NPC00114_Alaric_Ironforge]]
 - Affected by [[Skills With Different Abilities Phb
 - Originates from [ITEM00271_Blessed_Spear_of_Power]]
 - Related: [[Quest - The Silver Revolution_1 (01_Adventures)
 - Influences [Examples of Faction Ranks]]
-- Affected by [[step_087 (phase_059)
-- Affected by [The Memory Disruptor Network]]
+- Affected by [[The Memory Disruptor Network]]
 - See also: [[forgotten-realms-sune (deities)
 - See also: [LOC00131_Planes_Location_132]]
 - Parallels [[Location City Merchant Lord Silas Copperfield Merchant Lord Silas Copperfield.svg
@@ -317,8 +274,7 @@ Provides information for a price
 - Connects to [[step_023 (phase_082)
 - Parallels
 - Influences [LOC0092_EastGrove]]
-- Originates from [[conditions#frightened
-- Compare with [ENC00230_Combat_Encounter_231]]
+- Originates from [[Conditions]]
 - Originates from [[Shadow Demons
 - Influences
 - Connects to [step_064 (phase_074)]]

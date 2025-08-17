@@ -31,7 +31,7 @@ tags:
 - research created: '2025-08-14'
 *Sounds of [relevant sounds] echo in the distance.*
 modified: '2025-08-14'
-- -- # Session 2: [[The Shadow Surgery * [The Shadow]] [[Conspiracy Campaign - [Investigation Deepens]]* ## 🔧 [[Deep Evaluation Improvements * 20 targeted improvements identified* ### [Connection Improvements]] - Add cross-references to related notes ### [[Enhancement Improvements - Add 12_Research-specific enhancement ## [Session Overview]] Having discovered evidence of consciousness manipulation in Session 1, the heroes must infiltrate the abandoned medical facility where shadow surgeries are performed. They'll witness the horrifying process firsthand and uncover the true scope of the conspiracy. **[[location|Location**: [Abandoned Aquabyssos]] [[Medical University - [East Wing]] **Level**: 5th-6th **Duration**: 4-5 hours **[[Key Theme**: Body horror meets political thriller```dataview TABLE evidence-collected, conspiracy-exposure, trust-network FROM "Shadow_Conspiracy" WHERE contains(tags, "session-2")```### [The Medical]] [[District The trail from Session 1 leads to the [Medical District]] - a sprawling complex of hospitals, research facilities, and the prestigious [[Aquabyssos Medical University. [The East]] Wing was supposedly closed for "renovation" three months ago. **Investigation **DC 15****: The timing coincides with the start of unusual parliamentary voting patterns
+- -- # Session 2: [[Shadow_Surgery]] [[Conspiracy Campaign - [Investigation Deepens]]* ## 🔧 [[Deep Evaluation Improvements * 20 targeted improvements identified* ### [Connection Improvements]] - Add cross-references to related notes ### [[Enhancement Improvements - Add 12_Research-specific enhancement ## [Session Overview]] Having discovered evidence of consciousness manipulation in Session 1, the heroes must infiltrate the abandoned medical facility where shadow surgeries are performed. They'll witness the horrifying process firsthand and uncover the true scope of the conspiracy. **[[location|Location**: [Abandoned Aquabyssos]] [[Medical University - [East Wing]] **Level**: 5th-6th **Duration**: 4-5 hours **[[Key Theme**: Body horror meets political thriller```dataview TABLE evidence-collected, conspiracy-exposure, trust-network FROM "Shadow_Conspiracy" WHERE contains(tags, "session-2")```### [The Medical]] [[District The trail from Session 1 leads to the [Medical District]] - a sprawling complex of hospitals, research facilities, and the prestigious [[Aquabyssos Medical University]] Wing was supposedly closed for "renovation" three months ago. **Investigation **DC 15****: The timing coincides with the start of unusual parliamentary voting patterns
 **Perception **DC 18****: Fresh tire tracks lead to the supposedly abandoned building **Insight **DC 16****: Security guards seem nervous and avoid eye contact ### [[Getting Inside **Option 1: [Social Infiltration]]** - Disguise as medical inspectors (Deception **DC 16**)
 - Claim to be journalists investigating closure (Persuasion **DC 18**)
 - Pose as family of "patients" (Performance **DC 14**) **Option 2: [[Stealth Approach** - Scale building exterior (Athletics **DC 15**)
@@ -133,7 +133,7 @@ actions: - name: Multiattack desc: Dr. Voidheart makes two scalpel attacks or ca
 - **[[Evidence Gathered**: Can expose publicly or investigate further
 - **[Patients Rescued]]**: Provides insider intelligence on shadow integration
 - **[[Facility Compromised**: Conspiracy adapts tactics and locations
-- **Dr. [Voidheart Status]]**: Captured, escaped, or deceased affects future encounters ### Meta-[[Bind Progress]] Tracking```meta-bind INPUT[progress Bar(min Value(0), max Value(100)):conspiracy-exposure] LABEL[[Conspiracy Exposure]] Level: 35%] INPUT[progress Bar(min Value(0), max Value(20)):evidence-points] LABEL[[Evidence Collected]]: 12/20] ### [[Random Complications`dice: `dice: `dice: 1d8```| d8 | Complication | | status: active
+- **Dr. [Voidheart Status]]**: Captured, escaped, or deceased affects future encounters ### Meta-[[Bind Progress]] Tracking```meta-bind INPUT[progress Bar(min Value(0), max Value(100)):conspiracy-exposure] LABEL[[Conspiracy Exposure]] Level: 35%] INPUT[progress Bar(min Value(0), max Value(20)):evidence-points] LABEL[[Evidence]]: 12/20] ### [[Random Complications`dice: `dice: `dice: 1d8```| d8 | Complication | | status: active
 aliases: ["Session 2 the [Shadow Surgery]]"]
 priority: normal
 category: 06 Sessions
@@ -146,7 +146,7 @@ publish: false --- -|--------------|
 | 7-8 | Shadow surgeon recognizes a hero | ## [Connected Content]] - **Previous**: [[Session 1 Shadows in the Senate|Session 1 [[Shadows In [The Senate]]]]
 - **Next**: [[Session_3_The_Duplicate_Crisis|Session 3 [The Duplicate Crisis]]
 - **Related**: [[[[Shadow Surgery Mechanics|[Shadow Surgery]] Mechanics]]
-- **NPCs**: [[Dr. [[Umbral Voidheart|Dr. [Umbral Voidheart]]]], [[[[Senator Marius|[Senator Marius]]]] - -- * "The human mind is remarkably adaptable. With proper surgical intervention, even the most independent thinker can be made... Cooperative."* - Dr. [[Umbral Voidheart ## Related * Links to related content will be added here.* ## [Secret Connections]] * [Hidden from players]* Connected to [[The Secret Pact - Summon ancient evil ## [Plot Hooks]] - Strange dreams suggest a curse - A map reveals ancient history about the cult
+- **NPCs**: [[Dr. [[Umbral Voidheart|Dr. [Umbral Voidheart]]]], [[[[Senator Marius|[Senator Marius]]]] - -- * "The human mind is remarkably adaptable. With proper surgical intervention, even the most independent thinker can be made... Cooperative."* - Dr. [[Dr. Umbral Voidheart]] * [Hidden from players]* Connected to [[The Secret Pact - Summon ancient evil ## [Plot Hooks]] - Strange dreams suggest a curse - A map reveals ancient history about the cult
 - A merchant needs help delivering before dawn
 - A stranger needs help finding before the festival ## [[Related Notes - [[[Similar Topic]] 1|[[Similar Topic 1]] - [[[[Contrasting Approach|[Contrasting Approach]]]]
 - [[[[Advanced Version|[Advanced Version]]]]
@@ -181,7 +181,7 @@ publish: false --- -|--------------|
 *Every story needs its heroes.*
 
 ## [See Also]]
-- [[[Session Planning Toolkit_1 (06_Sessions)]]
+- [[Session Planning Toolkit]]
 - [[Session 05 [Cross Currents]]
 - [[Session 3 the Skyship Heist_1 (06_Sessions)
 - [Session 2 Court of Whispers]]
@@ -195,7 +195,7 @@ publish: false --- -|--------------|
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

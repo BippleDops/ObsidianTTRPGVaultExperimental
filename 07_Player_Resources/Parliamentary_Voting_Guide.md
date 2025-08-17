@@ -156,13 +156,8 @@ Contextual improvement based on 07_Player_Resources
 > Hidden treasure can be found here with a **DC 15** Investigation check
 
 ## See Also
-- [[10 Appendix B Creature Stat Blocks
--
-
-## Related Content
-- [11 Rules Glossary]]
-- [[06 Equipment
-- [10 Combat]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[06 Equipment]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -191,20 +186,17 @@ Contextual improvement based on 07_Player_Resources
 - Requires [ITEM00856_Time-worn_Ring_of_Destiny]]
 - Originates from [[ITEM01329_Elegant_Map_Case_of_Durability
 - Related: [Sun Blade Xdmg]]
-- Influences [[step_060 (phase_004)
-- Requires [The Grand Bazaar of Echoing Coins 2]]
+- Influences [[The Grand Bazaar of Echoing Coins 2]]
 - See also: [[Attitude Xphb
 - Related: [Portrait NPC Sister Thalassa the Depth Touched V1 Sister Thalassa the Depth Touched.svg]]
 - Influences [[step_049 (phase_023)
 - Leads to [Mithral Armor Xdmg]]
-- Originates from [[Quest - The Symbiotic Sacrament
-- Connects to [step_061 (phase_018)]]
+- Originates from [[Quest - The Symbiotic Sacrament]]
 - Related: [[step_006 (phase_041)
 - Influences [Archivist Memory Bank 2]]
 - See also: [[Giant Insect Wasp Xphb
 - Parallels [Portrait NPC Storm Empress Tempestas Maelstrom Storm Empress Tempestas Maelstrom.svg]]
-- Affected by [[Arcana Dualweave (D&D_References)
-- Affected by [step_037 (phase_011)]]
+- Affected by [[Arcana Dualweave (D&D_References)]]
 - Influences [[step_044 (phase_044)
 - Requires [Vampire Umbral Lord Xmm]]
 - Related: [[flaming-skeleton-xmm (undead)
@@ -232,18 +224,13 @@ Contextual improvement based on 07_Player_Resources
 - Influences [Location City Basalt Depthwright Basalt Depthwright.svg]]
 - Affected by [[ITEM01371_Elegant_Rope_of_Durability
 - Connects to [Organizations the Chroniclers]]
-- See also: [[LOC00126_Towns_Location_127
-- Related: [step_063 (phase_098)]]
-- Requires [[step_010 (phase_093)
-- Affected by [Session 3 the Duplicate Crisis]]
-- Parallels [[Crystal Ball Xdmg
-- Leads to [QUEST00133_Personal_Quest_134]]
-- Connects to [[NPC00362_Pyria_Stormwind_the_Wise
-- Originates from [The Shadow Shard (Lore)]]
+- See also: [[LOC00126_Towns_Location_127]]
+- Requires [[Session 3 the Duplicate Crisis]]
+- Parallels [[QUEST00133_Personal_Quest_134]]
+- Connects to [[NPC00362_Pyria_Stormwind_the_Wise]]
 - Requires [[Lord Blackwater
 - Leads to [Marina Clearwater]]
-- Originates from [[step_043 (phase_079)
-- Leads to [SPELL00022_Arcane_Spell_23]]
+- Originates from [[SPELL00022_Arcane_Spell_23]]
 - See also: [[location-city-coral-courts-coral-courts.svg
 - Requires [LOC00168_Cities_Location_169]]
 - Originates from [[SHOP00031_Specialty_Shop_32
@@ -258,12 +245,9 @@ Contextual improvement based on 07_Player_Resources
 - Affected by [Random Tricks Trick Objects]]
 - Related: [[QUEST00212_Side_Quest_213
 - Affected by [Demon Customization Tables Demon Flaws Mtf]]
-- Related: [[Symbol Heraldry The... Related To: Local Political Structure Connected Plots: to Be Developed
-- Leads to [Location City the Purification Temples V1 the Purification Temples.svg]]
-- Affected by [[Consequence Chain 4 - Deep Mother Awakening 2
-- See also: [LOC00233_Dungeons_Location_234]]
-- Parallels [[step_032 (phase_066)
-- Related: [Commander Void Tacticia 2]]
+- Related: [[Symbol Heraldry The... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Affected by [[Consequence Chain 4 - Deep Mother Awakening 2]]
+- Parallels [[Commander Void Tacticia 2]]
 - Influences [[ITEM0031_Hidden_Orb_of_Power
 - Influences
 - Parallels [vehicle-ship-maelstrom-tug-maelstrom-tug.svg]]
@@ -275,8 +259,7 @@ Contextual improvement based on 07_Player_Resources
 - Requires [step_076 (phase_084)]]
 - Affected by [[Assets Locations Location City Phantom Harbor Charter V1 Phantom Harbor Charter.svg
 - Leads to [Assets Locations Location City Deep Watchfulrest Deep Watchfulrest.svg]]
-- Compare with [[SPELL00065_Arcane_Spell_66
-- Leads to [step_010 (phase_089)]]
+- Compare with [[SPELL00065_Arcane_Spell_66]]
 - Related: [[LOC0082_Watchwick
 - Originates from [Dracolich Xmm]]
 

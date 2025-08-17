@@ -131,26 +131,16 @@ tags: [combat, lore]
 > Hidden treasure can be found here with a **DC 15** Investigation check
 
 ## See Also
-- [[NPC01476_Qadim_Stormwind_the_Wise
-- [NPC00351_Corvus_Ironwood]]
-- [[yuan-ti-pit-master-mpmm
-- [NPC01371_Xander_Stormwind_the_Guardian]]
-- [[NPC01892_Gareth_Xendar_the_Scholar
-- [NPC01911_Alaric_Oakenshield_the_Mystic]]
-- [[Basic_Rules
-- [NPC01785_Aldric_Brightblade_the_Redeemed]]
-- [[NPC00878_Kaelen_Ironwood_the_Strong
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[NPC01937_Felicia_Silverleaf_the_Wanderer
-- [NPC00080_Branwen_Proudmore]]
-- [[Parliament of Shadows Player Guide.md
-- [Propaganda_Leaflet_Pearl_Guar]]
-- [[Calendar_Conversions_Realm_Window
-- [NPC00083_Vesper_Xendar_the_Lost]]
-- [[05 Personality and Background
-- [16 Credits]]
-- [[Character_Journal_Template
-- [11 Rules Glossary]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[NPC01371_Xander_Stormwind_the_Guardian]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[Propaganda_Leaflet_Pearl_Guar]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[05 Personality and Background]]
+- [[Character_Journal_Template]]
 - [[NPC_Relationship_Web.png_1 (03_People)
 - [MOC_Rules]]
 -
@@ -173,23 +163,18 @@ tags: [combat, lore]
 ## Connections
 
 - Affected by [Secular Community Practices (D&D_References)]]
-- Affected by [[The Hybrid Settlements
-- Compare with [ENC00139_Environmental_Encounter_140]]
+- Affected by [[ENC00139_Environmental_Encounter_140]]
 - Affected by [[special-purpose-sentient-items-communication-xdmg
 - Affected by [ENC00028_Environmental_Encounter_29]]
-- Related: [[step_001 (phase_030)
-- Compare with [Magical Engineer Reef Spellbreath (D&D_References)]]
-- Leads to [[LOC00124_Towns_Location_125
-- See also: [step_064 (phase_031)]]
+- Related: [[Magical Engineer Reef Spellbreath (D&D_References)]]
+- Leads to [[LOC00124_Towns_Location_125]]
 - Leads to [[Wand of Magic Detection Xdmg
 - Leads to [step_043 (phase_027)]]
 - Affected by
 - Originates from [[The Shadowmire Tavern (D&D_References)
 - Affected by [Kraken Territories (D&D_References)]]
-- Influences [[step_061 (phase_040)
-- Leads to [Lady Catherine Mourning (D&D_References)]]
-- Originates from [[Former Admiral Cortez
-- Related: [Warhorse Xphb]]
+- Influences [[Lady Catherine Mourning (D&D_References)]]
+- Originates from [[Former Admiral Cortez]]
 - Parallels [[S-114_Gravity_Well_Rescue
 - Parallels [ITEM00774_Divine_Scepter_of_Dominion]]
 - Compare with [[Location City Memorial Mason Kane V1 Memorial Mason Kane.svg
@@ -205,26 +190,20 @@ tags: [combat, lore]
 - Affected by [[Astral Color Pools Xdmg
 - Affected by [Assets Locations Location City Dolphin Dolphin.svg]]
 - Parallels
-- Connects to [[Sword Wraith Warrior Mpmm
-- Leads to [Downtime Activity Practicing a Profession Phb]]
-- Connects to [[The Free Cities (D&D_References)
-- Related: [step_096 (phase_057)]]
+- Connects to [[Downtime Activity Practicing a Profession Phb]]
+- Connects to [[The Free Cities (D&D_References)]]
 - Compare with [[Construct Spirit Xphb
 - Originates from [ITEM00140_Venomous_Sword_of_Wounding]]
-- See also: [[QUEST00217_Side_Quest_218
-- Related: [Central Location]]
+- See also: [[QUEST00217_Side_Quest_218]]
 - Originates from [[The_Forgotten_Collective.png
 - Related: [fey-touched-xphb (feats)]]
-- See also: [[QUEST00324_Side_Quest_325
-- Requires [step_050 (phase_029)]]
+- See also: [[QUEST00324_Side_Quest_325]]
 - See also: [[Vehicle Ship Depth Piercer Research Sub V2 Depth Piercer Research Sub.svg
 - Influences [The Shadow Markets New (D&D_References)]]
 - Influences [[Portrait NPC Original Glaucus V1 Original Glaucus.svg_1 (Portraits)
 - Connects to [Shadow Market Canals]]
-- Compare with [[Merchant Prince Aldric Goldcurrent
-- Affected by [DUN00174_Dungeon_175]]
-- Parallels [[step_055 (phase_013)
-- Related: [LOC00220_Dungeons_Location_221]]
+- Compare with [[Merchant Prince Aldric Goldcurrent]]
+- Parallels [[LOC00220_Dungeons_Location_221]]
 - Parallels [[Portrait NPC Captain Echoing Thunder Captain Echoing Thunder.svg
 - Connects to [Portrait NPC Tidal Priests Circle V1 Tidal Priests Circle.svg_1 (Portraits)]]
 - Compare with [[Assets Portraits Portrait NPC Militant Priest Abyssal Militant Priest Abyssal.svg
@@ -237,20 +216,15 @@ tags: [combat, lore]
 - Originates from [step_050 (phase_031)]]
 - Originates from [[Symbol Heraldry the Border Marches the Border Marches.svg
 - Connects to [step_068 (phase_045)]]
-- See also: [[NPC01801_Faelyn_Nightfall_the_Guardian
-- Related: [more-difficult-identification (variant-rules)]]
-- Originates from [[Audit Investigator Thomas Truthseeker 2
-- Parallels [Reality Structure Analysis Group]]
-- See also: [[NPC00836_Brenna_Ironwood_the_Broken
-- Related: [step_006 (phase_044)]]
+- See also: [[more-difficult-identification (variant-rules)]]
+- Originates from [[Audit Investigator Thomas Truthseeker 2]]
+- See also: [[NPC00836_Brenna_Ironwood_the_Broken]]
 - Related: [[LORE00298_History_Entry_299
 - Requires [Assets Locations Location City Court Manager Noble Court Manager Noble.svg]]
 - See also: [[QUEST00059_Main_Quest_60
 - Affected by [The Forgotten Mourner]]
-- Influences [[Admiral Cordelia Tidewright 2
-- Parallels [step_064 (phase_005)]]
-- Parallels [[Criminal Information Exchange
-- Originates from [Mayor Thompson]]
+- Influences [[Admiral Cordelia Tidewright 2]]
+- Parallels [[Criminal Information Exchange]]
 - Compare with [[step_094 (phase_007)
 - Influences [step_034 (phase_044)]]
 - Affected by
@@ -260,8 +234,7 @@ tags: [combat, lore]
 - Originates from [ITEM00884_Celestial_Crown_of_Eternity]]
 - Connects to [[Assets Locations Location City the Iteration Collective the Iteration Collective.svg
 - Leads to [ITEM01092_Greater_Powder_of_Healing]]
-- Related: [[Quality Inspector Wave Purewater (D&D_References)
-- Originates from [Gnome Baervan Wildwanderer Mtf]]
+- Related: [[Quality Inspector Wave Purewater (D&D_References)]]
 - Affected by
 - Related: [[Assets Locations Location City Ironhold V1 Ironhold.svg
 - See also: [step_069 (phase_013)]]
@@ -269,8 +242,7 @@ tags: [combat, lore]
 - See also: [giant-elk-xmm (celestial)]]
 - Connects to [[Trade_Route_Map_Aquabyssos_to_Aethermoor
 - See also: [Assets Locations Location City House Depthguard V1 House Depthguard.svg]]
-- Originates from [[step_037 (phase_094)
-- Related: [Chief Engineer Marina Crystalwright]]
+- Originates from [[Chief Engineer Marina Crystalwright]]
 - Connects to [[step_066 (phase_027)
 
 ## Visual References

@@ -136,8 +136,7 @@ publish: false --- # 🎯 1000+ Micro-Improvements Complete - Final Summary ## E
 > The villain has agents watching this place
 
 ## Related Content
-- [[10K_GENERATION_REPORT
-- [ULTIMATE_VAULT_ACHIEVEMENT]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
 - [[NEXT_LEVEL_IMPROVEMENTS
 
 ## Game Mechanics
@@ -162,32 +161,26 @@ publish: false --- # 🎯 1000+ Micro-Improvements Complete - Final Summary ## E
 ## Connections
 
 - Influences [step_039 (phase_065)]]
-- Affected by [[step_052
-- Parallels [Crystal Distribution Networks]]
+- Affected by [[Crystal Distribution Networks]]
 - Influences [[ITEM00992_Pure_Powder_of_Swiftness
 - Compare with [step_094 (phase_018)]]
-- See also: [[Location City Political Leader Reef Crown Political Leader Reef Crown.png
-- Influences [Symbol Heraldry Aqu... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- See also: [[Symbol Heraldry Aqu... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - See also: [[Academic Institutions (D&D_References)
 - Affected by [audio_fit_report_1 (13_Performance)]]
-- Influences [[The Phantom Docks 2
-- Connects to [QUEST0092_In_Search_of_Glory]]
+- Influences [[QUEST0092_In_Search_of_Glory]]
 - Requires [[QUEST00050_Personal_Quest_51
 - Leads to [Assets Locations Location City the Siren S Rest Tavern the Siren S Rest Tavern.svg]]
 - Influences [[step_025 (phase_051)
 - Affected by [Assets Item Artifact Explorers Pack Xphb V1 Explorers Pack Xphb.png]]
-- Related: [[Climb Speed Xphb
-- See also: [Parliament Dissolution Crisis]]
-- Influences [[Archmage Lyralei Stormwind
-- Parallels [MON00157_Aberrations_Creature_158]]
+- Related: [[Parliament Dissolution Crisis]]
+- Influences [[MON00157_Aberrations_Creature_158]]
 - Parallels [[step_036 (phase_076)
 - Affected by [Creature Creature Goblin Warrior Xmm V2 Goblin Warrior Xmm.png]]
 - See also: [[dwarven-haela-brightaxe-mtf (deities)
 - Connects to [Multiverse]]
 - Parallels [[swarm-of-dretches-xmm (fiend)
 - Compare with [step_083 (phase_037)]]
-- Originates from [[Temple of Sacred Dreams (D&D_References)
-- See also: [resilient-xphb (feats)]]
+- Originates from [[Temple of Sacred Dreams (D&D_References)]]
 - Influences [[Allied Nation Military Units (D&D_References)
 - Related: [Assets Locations Location City Into the Blue V1 Into the Blue.svg]]
 - Leads to [[Economic_System
@@ -200,24 +193,18 @@ publish: false --- # 🎯 1000+ Micro-Improvements Complete - Final Summary ## E
 - Affected by [NPC01212_Dara_Quicksilver_the_Guardian]]
 - Requires [[MON00008_Undead_Creature_9
 - Influences [Assets Locations Location City Memorial Current Memorial Current.png]]
-- Requires [[Name Etymology Guide 2
-- Originates from [step_040]]
-- Compare with [[Crystal Gardens (D&D_Statblocks)
-- Influences [step_020 (phase_038)]]
+- Requires [[Name Etymology Guide 2]]
+- Compare with [[Crystal Gardens (D&D_Statblocks)]]
 - Parallels [[needles-50-xphb (items)
 - Related: [step_014 (phase_019)]]
-- Affected by [[NPC00052_Thalia_Dawnstrider
-- Requires [step_065 (phase_091)]]
+- Affected by [[NPC00052_Thalia_Dawnstrider]]
 - Parallels [[Mirror Embassy
 - Leads to [Portrait NPC Prophet Nerida Voidgazer V2 Prophet Nerida Voidgazer.svg]]
-- Originates from [[Underwater Breathing (D&D_References)
-- Parallels [step_089 (phase_060)]]
-- Connects to [[NPC01679_Solas_Hawthorne_the_Bold
-- Originates from [step_015]]
+- Originates from [[Underwater Breathing (D&D_References)]]
+- Connects to [[NPC01679_Solas_Hawthorne_the_Bold]]
 - Compare with [[ITEM01129_Pure_Herb_of_Fortune
 - Requires [LOC00271_Planes_Location_272]]
-- Requires [[Depth Spirituality (D&D_References)
-- Requires [Community Demonstration Sites 2]]
+- Requires [[Depth Spirituality (D&D_References)]]
 - Requires [[step_023
 - Requires [step_078 (phase_040)]]
 - See also: [[step_044
@@ -226,14 +213,11 @@ publish: false --- # 🎯 1000+ Micro-Improvements Complete - Final Summary ## E
 - See also: [step_085 (phase_008)]]
 - Originates from [[Item Artifact Poisoners Kit Xphb V5 Poisoners Kit Xphb.png
 - Requires [step_028 (phase_046)]]
-- Compare with [[Wave Friendlyserve 2
-- Parallels [ENC00281_Social_Encounter_282]]
-- Compare with [[Healer Sage Lightbringer
-- See also: [Master of the Gallery Cornelius Publicvoice 2]]
+- Compare with [[ENC00281_Social_Encounter_282]]
+- Compare with [[Master of the Gallery Cornelius Publicvoice 2]]
 - See also: [[QUEST00366_Side_Quest_367
 - Influences [step_061 (phase_068)]]
-- Requires [[Passages Passage
-- Requires [Pirate Lords of the Spiral Depths (D&D_References)]]
+- Requires [[Pirate Lords of the Spiral Depths (D&D_References)]]
 - Influences [[step_099 (phase_041)
 - Influences [step_041 (phase_043)]]
 - Compare with [[Lieutet Coral Stealthwater
@@ -244,8 +228,7 @@ publish: false --- # 🎯 1000+ Micro-Improvements Complete - Final Summary ## E
 - Connects to [strixhaven-mascots-scc (tables)]]
 - Influences [[Diplomatic Tides (D&D_Statblocks)
 - Leads to [location-city-port-authority-v1-port-authority.svg]]
-- Compare with [[step_019 (phase_080)
-- Affected by [ENC00150_Social_Encounter_151]]
+- Compare with [[ENC00150_Social_Encounter_151]]
 - Requires [[step_078 (phase_038)
 - Influences [FAC00069_Guilds_70]]
 - Affected by [[step_099 (phase_027)
@@ -256,8 +239,7 @@ publish: false --- # 🎯 1000+ Micro-Improvements Complete - Final Summary ## E
 - Related: [tanarukk-mpmm (fiend)]]
 - Influences [[Enforcement Authority Charte
 - Related: [Assets Locations Location City Pressure Crystals V1 Pressure Crystals.svg]]
-- Parallels [[Subtle Spell Xphb
-- Compare with [Lord Commander Thane Skyward]]
+- Parallels [[Lord Commander Thane Skyward]]
 - Affected by [[The Deep Harvest 2
 - Influences [Assets Locations Location City Crimson Reef V1 Crimson Reef.svg]]
 - Affected by [[step_096 (phase_043)]]

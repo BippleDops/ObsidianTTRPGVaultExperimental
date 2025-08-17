@@ -167,32 +167,17 @@ Modifications:
 
 ## See Also
 - [NPC01247_Xander_Zephyrblade_the_Risen]]
-- [[NPC01761_Idris_Moonshadow_the_Broken
-- [NPC00599_Cedric_Lightbringer_the_Wise]]
-- [[NPC00917_Brenna_Oakenshield_the_Seeker
-- [NPC_Relationship_Web.png_1 (03_People)]]
-- [[NPC00080_Branwen_Proudmore
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[NPC00259_Delara_Proudmore
-- [NPC01812_Xander_Lightbringer_the_Swift]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC00069_Thalia_Brightblade_the_Guardian]]
-- [[NPC00749_Xander_Quicksilver
-- [NPC00649_Corvus_Zephyrblade_the_Broken]]
-- [[NPC00542_Corvus_Oakenshield_the_Strong
-- [NPC00200_Faelyn_Winterborn_the_Guardian]]
-- [[NPC00515_Baelor_Crystalbrook_the_Seeker
-- [NPC01017_Vesper_Keenblade_the_Risen]]
-- [[Session_Recaps
-- [11 Rules Glossary]]
-- [[Quick_Start_Guide.md
-- [MOC_Sessions]]
-- [[NPC00300_Urien_Zephyrblade
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC00917_Brenna_Oakenshield_the_Seeker]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- [[NPC01812_Xander_Lightbringer_the_Swift]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00649_Corvus_Zephyrblade_the_Broken]]
+- [[NPC00200_Faelyn_Winterborn_the_Guardian]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- [[11 Rules Glossary]]
+- [[Quick_Start_Guide]]
+- [[NPC00300_Urien_Zephyrblade]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -211,10 +196,8 @@ Modifications:
 - Leads to [[[International Scholars]] (D&D_References)]]
 - Requires [[Map of the Whispering Expanse (Lore)
 - See also: [Portrait NPC House Guard Captains House Guard Captains.svg]]
-- Connects to [[Portrait NPC Mast... Related To: Local Political Structure Connected Plots: to Be Developed
-- Leads to [[Assets Locations Location City [The Deepmost Current]] the Deepmost Current.svg]]
-- Influences [[elven-chain-xdmg (items)
-- Influences [Sustainable Commerce Guidelines]]
+- Connects to [[Portrait NPC Mast... Related To: Local Political Structure Connected Plots: to Be Developed]] the Deepmost Current.svg]]
+- Influences [[Sustainable Commerce Guidelines]]
 - Influences [[Map World Layer Trade Routes and Corridors V1 Trade Routes and Corridors.svg
 - Affected by [Luck Spirit]]
 - Parallels [[NPC00562_Branwen_Voidwalker
@@ -226,21 +209,17 @@ Modifications:
 - Compare with [Quest - Civic Engagement_1 (01_Adventures)]]
 - Related: [[The Memory Coral Crown
 - See also: [[Assets Locations Location City [Scarlet Torrent]] Scarlet Torrent.svg]]
-- Leads to [[Vespara "Nightwhisper" Thorne
-- See also: [Control Systems Engineer Flow Processwright 2]]
+- Leads to [[Control Systems Engineer Flow Processwright 2]]
 - Affected by [[step_046 (phase_063)
 - Affected by [[[Shadow Wells]] (D&D_References)]]
 - Compare with [[The Rationing Authority
 - Parallels [Noble Culture and Etiquette]]
-- See also: [[step_038 (phase_061)
-- Connects to [NPC00024_Solas_Emberfall_the_Risen]]
-- Related: [[The_Seven_Shards_Campaign
-- Parallels [Royal Regalia 2]]
+- See also: [[NPC00024_Solas_Emberfall_the_Risen]]
+- Related: [[The_Seven_Shards_Campaign]]
 - Related: [[step_028 (phase_073)
 - Influences [Mezzoloth Xmm]]
-- Influences [[LOC00278_Wilderness_Location_279
-- Compare with [Elder Brain Vgm]]
-- See also: [[[Community Coordinator Kelp Bondweaver (D&D_References)]]
+- Influences [[LOC00278_Wilderness_Location_279]]
+- See also: [[Community Coordinator Kelp Bondweaver (D&D_References)]]
 - Affected by [[step_010 (phase_035)
 - Parallels [halberd-xphb (items)]]
 - Compare with [[step_020 (phase_018)
@@ -250,12 +229,10 @@ Modifications:
 - Originates from [[Assets Item Artifact Warhammer Xphb V3 Warhammer Xphb.png
 - Influences [Item Artifact Dagger of Venom Xdmg Dagger of Venom Xdmg.png]]
 - Parallels
-- Related: [[ENC00153_Combat_Encounter_154
-- Influences [The Final Forgetting (D&D_References)]]
+- Related: [[The Final Forgetting (D&D_References)]]
 - Related: [[step_086 (phase_096)
 - Connects to [barbarian-xphb-path-of-the-storm-herald-xge 2 (classes)]]
-- Related: [[The Deep Prophets (D&D_References)
-- Leads to [Cow Vgm]]
+- Related: [[The Deep Prophets (D&D_References)]]
 - Compare with [[Location City [Fresh Cleanwave V1 Fresh Cleanwave.svg]]
 - Related: [[Assets Locations [[Location City [The Transition Centers the Transition Centers.svg]]]]
 - Originates from [[step_033 (phase_004)
@@ -269,33 +246,30 @@ Modifications:
 - Originates from [Fiendish Giant Spider Oota]]
 - Related: [[oil-of-sharpness-xdmg (items)
 - Parallels [ITEM00556_Adamantine_Chain_Mail_of_the_Guardian]]
-- Compare with [[step_005 (phase_078)
-- Influences [wands-that-dont-recharge (variant-rules)]]
+- Compare with [[wands-that-dont-recharge (variant-rules)]]
 - Related: [[instrument-of-the-bards-xdmg (items)
 - Connects to [barding]]
-- Related: [[[Warforged (D&D_References)]]
+- Related: [[Warforged (D&D_References)]]
 - Leads to [[magic-item-table-g (tables)
 - Originates from [step_044 (phase_058)]]
-- Leads to [[Emperor Abyssal the Deep-Sighted
-- Influences [step_023 (phase_073)]]
+- Leads to [[Emperor Abyssal the Deep-Sighted]]
 - Affected by [[step_005 (phase_094)
 - Requires [list-spells-classes-forge-domain-xge (lists)]]
 - Compare with [[antimatter-rifle-xdmg (items)
 - Leads to [Darkquill's Rare Books]]
 - Related: [[Location City [Great Plague of Ages Past Great Plague of Ages Past.svg]]
-- Compare with [[[The Last Seeds (D&D_References)]]
+- Compare with [[The Last Seeds (D&D_References)]]
 - See also: [[step_072 (phase_006)
 - Related: [elf-tables-drow-house-specialty-mtf (tables)]]
 - Related: [[Chimera Xmm
 - Parallels [step_089 (phase_081)]]
 - Compare with [[Assets Locations Location City the Neutral Current [[Tavern [The Neutral Current Tavern]].svg]]
-- Originates from [[The Future Seer (D&D_References)
-- Connects to [Gamma-Enforcement (Lore)]]
+- Originates from [[The Future Seer (D&D_References)]]
 - Affected by [[ITEM01022_Lesser_Herb_of_Fortune
 - Leads to [LOC0029_Groveford]]
 - Connects to [[ITEM00973_Concentrated_Powder_of_Swiftness
 - Originates from [step_080 (phase_073)]]
-- Influences [[[The Bone Palace of Sorrows (D&D_References)]]
+- Influences [[The Bone Palace of Sorrows (D&D_References)]]
 - Leads to [[QUEST00019_Personal_Quest_20
 - See also: [ITEM00593_Adamantine_Cloak_of_Resistance]]
 - Requires [[Portrait NPC the Bloodline Awakens the Bloodline Awakens.svg_1 (Portraits)

@@ -67,30 +67,18 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 > Important safety or rule information
 
 ## See Also
-- [[NPC01664_Pyria_Lightbringer_the_Redeemed
-- [World_Primer.md]]
-- [[NPC00939_Thalia_Jadeclaw_the_Swift
-- [NPC01041_Thalia_Dawnstrider_the_Lost]]
-- [[Party_Inventory
-- [Submersible_Schematic_Pressure_Gate_Scou]]
-- [[NPC01360_Ewan_Blackstone_the_Strong
-- [NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[NPC01177_Thalia_Underhill_the_Fallen
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[NPC00663_Alaric_Dawnstrider_the_Strong
-- [NPC00949_Nerys_Underhill_the_Wise]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC00872_Thalia_Ironwood_the_Broken]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [NPC00174_Aldric_Silverleaf_the_Fallen]]
-- [[MOC_Items
-- [NPC01290_Pyria_Ashford_the_Broken]]
-- [[NPC01012_Solas_Darkwater_the_Strong
-- [Session Planning Toolkit_1 (06_Sessions)]]
-- [[Session 0 - Aquabyssos
-- [README]]
-- [[MOC_Sessions
-- [MOC_Locations]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00872_Thalia_Ironwood_the_Broken]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC01290_Pyria_Ashford_the_Broken]]
+- [[NPC01012_Solas_Darkwater_the_Strong]]
+- [[Session 0 - Aquabyssos]]
+- [[MOC_Locations]]
 -
 
 ## Game Mechanics
@@ -108,27 +96,22 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Requires [step_015 (phase_025)]]
 - See also: [[Shadow Operations Base 2
 - Influences [step_040 (phase_008)]]
-- See also: [[Viscountess Helena Saltmere (D&D_References)
-- Compare with [LOC00282_Towns_Location_283]]
+- See also: [[Viscountess Helena Saltmere (D&D_References)]]
 - Originates from [[Enterprise Director Duskwork
 - Parallels [Portrait NPC the Azure Prophet Nerissa V2 the Azure Prophet Nerissa.svg_1 (Portraits)]]
-- See also: [[Fragment Compas
-- Parallels [QUEST0067_In_Search_of_Redemption]]
+- See also: [[QUEST0067_In_Search_of_Redemption]]
 - Connects to [[step_048 (phase_090)
 - Influences [Elder Stormcalle]]
-- Influences [[step_005 (phase_089)
-- Connects to [LOC00131_Dungeons_Location_132]]
+- Influences [[LOC00131_Dungeons_Location_132]]
 - Requires [[Fire Casting Statue Xdmg
 - Connects to [step_085 (phase_061)]]
 - See also: [[Leviathan Shrines
 - Leads to [location-city-the-deepmind-the-deepmind.svg]]
-- Influences [[QUEST00105_Personal_Quest_106
-- Related: [step_046 (phase_037)]]
+- Influences [[QUEST00105_Personal_Quest_106]]
 - Connects to
 - Requires [[location-city-aethermoor-aethermoor.svg
 - Connects to [Lady Penelope Procedure (D&D_References)]]
-- Requires [[step_100 (phase_017)
-- Related: [Vault Backup 20250813 073007 07 Player Session Summaries Session Zero Universal Guide]]
+- Requires [[Vault Backup 20250813 073007 07 Player Session Summaries Session Zero Universal Guide]]
 - Affected by [[Royal Intelligence (D&D_References)
 - Parallels [Assets Locations Location City Commercial District V1 Commercial District.svg]]
 - Affected by
@@ -140,24 +123,20 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - See also: [Creature Creature Nightwalker Mpmm V1 Nightwalker Mpmm.png]]
 - See also: [[step_043 (phase_009)
 - Connects to [LOC0142_Watchhollow]]
-- Compare with [[Madame Pearl Currentflow
-- Affected by [Royal Bloodline Codex (D&D_References)]]
+- Compare with [[Royal Bloodline Codex (D&D_References)]]
 - Connects to [[Ambassador Lysandra Silvertonge 2
 - Related:
 - Parallels
 - Requires
 - Related: [FAC00007_Orders_8]]
-- See also: [[QUEST00304_Side_Quest_305
-- Leads to [Template-Group.md]]
+- See also: [[QUEST00304_Side_Quest_305]]
 - Affected by [[step_015 (phase_071)
 - See also:
 - Compare with [ITEM00624_Enchanted_Gauntlets_of_Protection]]
 - Affected by [[The Crystal Cathedral of Pure Light 2
 - Connects to [Location City Master Goldwin Ledgerkeeper Master Goldwin Ledgerkeeper.svg]]
-- Connects to [[step_053 (phase_021)
-- Affected by [LOC00075_Dungeons_Location_76]]
-- Related: [[NPC01184_Ewan_Ironwood_the_Guardian
-- See also: [ENC00053_Combat_Encounter_54]]
+- Connects to [[LOC00075_Dungeons_Location_76]]
+- Related: [[NPC01184_Ewan_Ironwood_the_Guardian]]
 - Requires [[Assets Locations Location City Deep Stone Eaters V1 Deep Stone Eaters.svg
 - See also: [NPC00858_Zephyr_Silverleaf_the_Wanderer]]
 - Connects to [[Economic Pressure
@@ -182,8 +161,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Related: [step_091 (phase_100)]]
 - Originates from [[Assets Locations Location City the Integration Temple the Integration Temple.svg
 - Requires [SHOP00011_General_Shop_12]]
-- Originates from [[Merged Magic
-- Related: [Entertainment Industry]]
+- Originates from [[Entertainment Industry]]
 - Related: [[Captain Zara Stormwind
 - Requires [Resonant_Crystals (Items)]]
 - Affected by [[The Collector 2

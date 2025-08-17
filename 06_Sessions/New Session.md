@@ -18,14 +18,7 @@ publish: false
 
 ---
 
- # [[New Session ---
-
-## Description
-
-**Details**: Rich sensory elements bring this to life.
-
-Detailed description pending.
-title: [New Session]]
+ # [[New Session]]
 aliases: []
 type: Lore
 tags:

@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.454129"
 modified: "2025-08-15T12:24:39.454130"
-aliases: [Session 20 - [[Reality Fractures]]]
+aliases: [Session 20 - [[Session 20 - Reality Fractures]]]
 ---
 
 # Session 20   [[Reality Fractures
@@ -16,7 +16,7 @@ modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: Session 20 - [[Reality Fractures]].Md
+subcategory: Session 20 - [[Session 20 - Reality Fractures]].Md
 related: []
 cssclass: standard
 publish: false --- ---
@@ -31,7 +31,7 @@ type: session
 updated: 2025-08-14
 - -- # Session 20 - [Reality Fractures]] ## [[Overview This document contains important information regarding Session 20 - [Reality Fractures]] and its role within the greater narrative. ## Description
 
-**Details**: Rich sensory elements bring this to life. Session 20 - [[Reality Fractures]] represents a significant element within the campaign world, offering various opportunities for engagement and de
+**Details**: Rich sensory elements bring this to life. Session 20 - [[Session 20 - Reality Fractures]] represents a significant element within the campaign world, offering various opportunities for engagement and de
 *The [texture] surface feels [description] to the touch.*velopment. ## [[Key Information - **[Primary Purpose]]**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details ### [[Background Historical context and development over time. ### [Current State]] Present circumstances and ongoing relevance. Consequently, ### [[Future Potential Possible developments and plot directions. ## Relationships - Connected to various other elements within the vault
@@ -65,7 +65,7 @@ updated: 2025-08-14
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

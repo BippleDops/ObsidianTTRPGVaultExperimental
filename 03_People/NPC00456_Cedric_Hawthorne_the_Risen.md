@@ -164,8 +164,7 @@ Family member has gone missing
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -188,14 +187,12 @@ Family member has gone missing
 - Affected by [step_069 (phase_083)]]
 - Compare with [[Trade Goods Catalog (D&D_References)
 - Requires [step_063 (phase_017)]]
-- Affected by [[Document_Designs 2
-- Influences [murgaxors-orb-scc (items)]]
+- Affected by [[murgaxors-orb-scc (items)]]
 - Parallels [[LOC00197_Towns_Location_198
 - Compare with [Far Real (D&D_References)]]
 - Related: [[Current Riders Guild
 - Related: [Duergar Raiding Parties Duergar Special]]
-- Parallels [[Constitutional Scholar Valdris Deepthought
-- See also: [EVENT00073_Political_Event_74]]
+- Parallels [[Constitutional Scholar Valdris Deepthought]]
 - Affected by [[ENC00174_Environmental_Encounter_175
 - Leads to [02_Worldbuilding_Locations_Theater_of_Impossible_Dreams]]
 - See also:
@@ -204,18 +201,15 @@ Family member has gone missing
 - Originates from [Warden Marcus Stonehand]]
 - Affected by [[Portrait NPC Captain Redbeard V1 Captain Redbeard.svg
 - Connects to [step_047 (phase_018)]]
-- Leads to [[Symbol Heraldry the Whisper Syndicate the Whisper Syndicate.png
-- Compare with [The Grand Abandonment - Central Warehouse Comple (D&D_References)]]
+- Leads to [[The Grand Abandonment - Central Warehouse Comple (D&D_References)]]
 - Related: [[choose-languages-standard-languages-xphb (tables)
 - Connects to [Dragonlance Habbakuk Phb]]
 - Originates from [[step_067 (phase_047)
 - Leads to [Dimension Door Xphb]]
-- Influences [[Sunken Vineyards (D&D_References)
-- Influences [Abyssal Trenches]]
+- Influences [[Sunken Vineyards (D&D_References)]]
 - See also: [[Sky City Councils 2
 - Related: [EVENT00031_Magical_Event_32]]
-- Influences [[Find the Shadow Cure (D&D_Statblocks)
-- Requires [The Fortress of the Deeps (D&D_References)]]
+- Influences [[The Fortress of the Deeps (D&D_References)]]
 - See also: [[Location City Deep Stone Eaters Deep Stone Eaters.svg
 - Related: [LOC00162_Planes_Location_163]]
 - Parallels [[Shadow Crystals 2
@@ -240,8 +234,7 @@ Family member has gone missing
 - Connects to [[ITEM00521_Fortified_Chain_Mail_of_Protection
 - Parallels
 - Connects to [Knock Xphb]]
-- Originates from [[NPC00882_Alaric_Dawnstrider_the_Scholar
-- Compare with [dawn-war-erathis-dmg (deities)]]
+- Originates from [[NPC00882_Alaric_Dawnstrider_the_Scholar]]
 - Leads to [[gauntlets-of-ogre-power-xdmg (items)
 - Affected by [LORE00307_Legends_Entry_308]]
 - Influences [[Pressure_Crystals.png
@@ -249,19 +242,15 @@ Family member has gone missing
 - Requires [Master Resonants]]
 - See also: [[Assets Locations Location City Crystal Palace V1 Crystal Palace.svg
 - Affected by [Portrait NPC God King Aetheron V1 God King Aetheron.svg]]
-- See also: [[LOC00161_Planes_Location_162
-- Influences [NPC01809_Caelum_Stormwind_the_Wanderer]]
+- See also: [[NPC01809_Caelum_Stormwind_the_Wanderer]]
 - Affected by
 - Originates from [[Clues by Location 2
 - Requires [LORE00150_History_Entry_151]]
 - Influences [[step_064 (phase_083)
 - Related: [04_Resources_Assets_Locations_location-city-terminal-director-admiral-current-swiftflow-v1-terminal-director-admiral-current-swiftflow.svg]]
-- Connects to [[Quest - Marina's Choice
-- Related: [LOC00231_Dungeons_Location_232]]
-- See also: [[ENC00399_Combat_Encounter_400
-- Influences [Vulture Xmm]]
-- Affected by [[Healing Two Worlds (D&D_References)
-- Related: [step_037 (phase_040)]]
+- Connects to [[LOC00231_Dungeons_Location_232]]
+- See also: [[ENC00399_Combat_Encounter_400]]
+- Affected by [[Healing Two Worlds (D&D_References)]]
 - Influences [[grassland-encounters-levels-610-xge (tables)
 - Leads to [Portrait NPC Deep Lord Pelagios the Eternal V2 Deep Lord Pelagios the Eternal.svg]]
 - Influences [[step_093 (phase_029)

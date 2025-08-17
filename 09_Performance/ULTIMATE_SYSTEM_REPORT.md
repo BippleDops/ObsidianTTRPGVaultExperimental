@@ -258,18 +258,15 @@ Your vault is no longer just a collection of notes - it's a living, breathing, i
 - Compare with [Dr. Marina Biolume]]
 - Parallels [[Aquabyssos Content
 - Leads to [step_033 (phase_072)]]
-- Influences [[MON0010_Fire_Reaper
-- Affected by [step_028]]
+- Influences [[MON0010_Fire_Reaper]]
 - Connects to [[step_055 (phase_012)
 - Related: [step_016 (phase_089)]]
 - Requires [[ITEM01489_Sturdy_Tool_Kit_of_Convenience
 - Parallels [Session 21 - The Final Guardian]]
-- See also: [[Abyssos Prime Docks (D&D_References)
-- Connects to [step_002]]
+- See also: [[Abyssos Prime Docks (D&D_References)]]
 - Connects to [[The Consciousness Vault
 - See also: [step_090 (phase_099)]]
-- Originates from [[Bridge-Builder Community Center
-- Compare with [step_020 (phase_080)]]
+- Originates from [[Bridge-Builder Community Center]]
 - Parallels [[Tidal Deepvoice 2
 - See also: [step_056 (phase_099)]]
 - Originates from [[step_075
@@ -280,18 +277,15 @@ Your vault is no longer just a collection of notes - it's a living, breathing, i
 - Parallels [The_Professional_Training_Academy (Places)]]
 - Originates from [[step_003
 - Related: [Talisman of Pure Good Xdmg]]
-- Related: [[horned-devil-xmm (fiend)
-- See also: [Merchant Quarter Guildhalls 2]]
+- Related: [[Merchant Quarter Guildhalls 2]]
 - Requires [[Starting Equipment Starting Wealth by Class
 - See also: [Random Traps Trap Trigger]]
 - Originates from [[ITEM00379_Radiant_Crossbow_of_Slaying
 - Influences [step_026]]
-- Influences [[The Current Merchants (D&D_Statblocks)
-- Affected by [Memory Merchant Kellan Depthseer 2]]
+- Influences [[The Current Merchants (D&D_Statblocks)]]
 - Influences [[LOC0130_Havenstead
 - Requires [The Coral Throne 2]]
-- Connects to [[S-004 Cloud Canyon Player (Encounters)
-- Originates from [step_033 (phase_039)]]
+- Connects to [[S-004 Cloud Canyon Player (Encounters)]]
 - Originates from [[step_028 (phase_015)
 - Affected by [Portrait NPC Captain Sterling Lightshield V2 Captain Sterling Lightshield.svg]]
 - Compare with [[Location City Memorial Current V1 Memorial Current.png
@@ -318,18 +312,15 @@ Your vault is no longer just a collection of notes - it's a living, breathing, i
 - See also: [step_059 (phase_099)]]
 - Leads to [[LORE00212_Legends_Entry_213
 - Affected by [step_067 (phase_035)]]
-- See also: [[Echo-Theorist Maya
-- Related: [Symbol Heraldry Tem... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- See also: [[Symbol Heraldry Tem... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Requires [[Assets Locations Location City Tide Risktaker Tide Risktaker.svg
 - Connects to [Information Systems Alliance]]
 - Influences [[step_064 (phase_092)
 - Related: [Location City Truth and Madness V1 Truth and Madness.svg]]
-- Originates from [[Gentle Repose Xphb
-- Parallels [Research Council (Groups)]]
+- Originates from [[Research Council (Groups)]]
 - Influences [[LORE00225_History_Entry_226
 - Originates from [gem-of-brightness-xdmg (items)]]
-- Leads to [[MON00100_Undead_Creature_101
-- Parallels [Memorial Tender Sarah]]
+- Leads to [[MON00100_Undead_Creature_101]]
 - Influences [[Location_Generator
 - Leads to [Dire Troll Mpmm]]
 - Requires [[step_064 (phase_037)]]

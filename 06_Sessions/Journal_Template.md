@@ -2,9 +2,7 @@
 tags: [journal, character, private]
 ---
 
-# [[Character Journal
-
-## [Session Notes]]
+# [[Character_Journals]]
 <!-- Player's private notes -->
 
 ## Important NPCs

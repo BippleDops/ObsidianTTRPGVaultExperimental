@@ -108,38 +108,23 @@ Mentioned in The Hidden Prophecy of Shadows
 > This character is not who they seem
 
 ## See Also
-- [[NPC01687_Aldric_Youngblood_the_Cunning
-- [NPC00276_Ysara_Youngblood]]
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [NPC00785_Ysara_Grimholt_the_Mystic]]
-- [[NPC01974_Thalia_Zephyrblade_the_Lost
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[Trade_Route_Map_Aquabyssos_to_Aethermoor
-- [NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[NPC01624_Corvus_Silverleaf_the_Redeemed
-- [NPC01827_Kaelen_Ironforge_the_Seeker]]
-- [[NPC00385_Qadim_Darkwater_the_Cunning
-- [NPC01951_Gavril_Xendar_the_Swift]]
-- [[NPC00133_Lyanna_Oakenshield_the_Seeker
-- [Player_Portal.md]]
-- [[NPC00395_Aeliana_Thornweave
-- [NPC00259_Delara_Proudmore]]
-- [[NPC00703_Elric_Dawnstrider_the_Swift
-- [Ancient_Prophecy_Fragment_Verdan]]
-- [[Sanity_Quick_Reference.md
-- [Quiet_Chapel_Oath_Scrol]]
-- [[Currency_Guide_Scrip_and_Shard
-- [Emergency_Evacuation_Map_Stormglass_Riot]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
+- [[NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC00395_Aeliana_Thornweave]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[Quiet_Chapel_Oath_Scrol]]
+- [[Emergency_Evacuation_Map_Stormglass_Riot]]
 - [[Welcome_to_Aquabyssos.md
 - [11 Spellcasting]]
-- [[13 Conditions
-- [07 Customization Options]]
-- [[05 Personality and Background
-- [10 Combat]]
-- [[Character_Journal_Template
-- [MOC_Rules]]
-- [[Item_Catalog_Complete.md
-- [Ritual_Timing_Wheel_Convergenc]]
+- [[07 Customization Options]]
+- [[05 Personality and Background]]
+- [[Character_Journal_Template]]
+- [[Ritual_Timing_Wheel_Convergenc]]
 - [[What You Know - Abyssos Prime.md
 - [Master_Narrative_Web.md]]
 -
@@ -169,8 +154,7 @@ Mentioned in The Hidden Prophecy of Shadows
 - Parallels [step_070 (phase_091)]]
 - Originates from [[Economic Interests (D&D_References)
 - Influences [Assets Symbols Symbol Heraldry Aquabyssos Faction Web Aquabyssos Faction Web.svg]]
-- Parallels [[ITEM0102_Glorious_Tome_of_the_Dawn
-- Affected by [step_030 (phase_061)]]
+- Parallels [[ITEM0102_Glorious_Tome_of_the_Dawn]]
 - Parallels [[step_060 (phase_078)
 - Connects to [Player_Notes]]
 - Influences [[Assets Portraits Portrait NPC Sister Morwyn Veilkeeper Sister Morwyn Veilkeeper.svg
@@ -180,16 +164,12 @@ Mentioned in The Hidden Prophecy of Shadows
 - Leads to [step_042 (phase_040)]]
 - Related: [[Assets Locations Location City Acolyte Sister Tidal Deepfaith Acolyte Sister Tidal Deepfaith.svg
 - Originates from [firbolg-vgm (races)]]
-- Originates from [[step_079 (phase_048)
-- Related: [Portrait NPC Arch... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Originates from [[Portrait NPC Arch... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Leads to [[SPELL00149_Divine_Spell_150
 - Influences [Red Dragon Wyrmling Xmm]]
-- Affected by [[ENC00070_Social_Encounter_71
-- Leads to [step_016 (phase_080)]]
-- Requires [[Greek Pan
-- Affected by [Citizens Protection Bureau]]
-- Leads to [[Firbolg Vgm
-- Affected by [QUEST00034_Main_Quest_35]]
+- Affected by [[ENC00070_Social_Encounter_71]]
+- Requires [[Citizens Protection Bureau]]
+- Leads to [[QUEST00034_Main_Quest_35]]
 - Originates from [[Assets Symbols Symbol Heraldry Arcturus Lumenblade Arcturus Lumenblade.svg
 - Related: [Captain Thorne Darkwater]]
 - Parallels [[skill-empowerment-xge (spells)
@@ -200,24 +180,18 @@ Mentioned in The Hidden Prophecy of Shadows
 - Connects to [Cultural Districts (D&D_References)]]
 - Influences [[QUEST00295_Side_Quest_296
 - Leads to [Portrait NPC Abyssos Prime Parliament of Echoes V2 Abyssos Prime Parliament of Echoes.svg_1 (Portraits)]]
-- Requires [[The Crystal Council 3 (D&D_References)
-- Affected by [MON00031_Undead_Creature_32]]
-- Compare with [[step_068 (phase_033)
-- Affected by [NPC00142_Cedric_Frostwhisper]]
+- Requires [[The Crystal Council 3 (D&D_References)]]
+- Compare with [[NPC00142_Cedric_Frostwhisper]]
 - Originates from [[step_010 (phase_100)
 - Connects to [optional-features (optional-features)]]
-- Requires [[Academic Centers 3 (D&D_References)
-- Connects to [step_044 (phase_079)]]
+- Requires [[Academic Centers 3 (D&D_References)]]
 - Influences [[ITEM00759_Celestial_Mirror_of_the_Gods
 - Requires [adult-black-dragon-xmm (dragon)]]
-- Connects to [[Paradox Elimination Squad
-- Compare with [Living Allianc 2]]
+- Connects to [[Paradox Elimination Squad]]
 - Influences [[Field Operations Chief Marcus Ironheart
 - Influences [Assets Locations Location City Crystal Engineer Spark Gemwright Crystal Engineer Spark Gemwright.svg]]
-- Compare with [[LORE00225_History_Entry_226
-- Connects to [NPC01652_Nerys_Winterborn_the_Fallen]]
-- Compare with [[NPC01699_Orion_Oakenshield_the_Broken
-- Affected by [LORE00229_Legends_Entry_230]]
+- Compare with [[NPC01652_Nerys_Winterborn_the_Fallen]]
+- Compare with [[NPC01699_Orion_Oakenshield_the_Broken]]
 - Compare with
 - Compare with [[The Wild Hunt
 - Requires [ITEM01119_Lesser_Potion_of_Swiftness]]
@@ -227,14 +201,11 @@ Mentioned in The Hidden Prophecy of Shadows
 - See also: [human-names-slavic-female-xge (tables)]]
 - Parallels [[Assets Locations Location City Memory Keeper Ancient Nerida Memory Keeper Ancient Nerida.svg
 - Leads to [Memory Merchant Kellan Depthseer]]
-- Related: [[Shadow Conspiracy Mechanics
-- Related: [Cultural Patron]]
+- Related: [[Shadow Conspiracy Mechanics]]
 - Influences [[Symbols - Faction_Heraldry (D&D_References)
 - Influences [Assets Locations Location City Memory Parasite Infection V1 Memory Parasite Infection.svg]]
-- Parallels [[Community Mediator Balance Wright
-- Affected by [step_090 (phase_087)]]
-- Originates from [[LOC00271_Cities_Location_272
-- Compare with [step_094 (phase_077)]]
+- Parallels [[Community Mediator Balance Wright]]
+- Originates from [[LOC00271_Cities_Location_272]]
 - Leads to [[wraps-of-unarmed-power-xdmg (items)
 - Affected by [Assets Locations Location City Seven Shards Seven Shards.svg]]
 - Requires [[location-city-void-currents-void-currents.svg
@@ -244,23 +215,17 @@ Mentioned in The Hidden Prophecy of Shadows
 - Related: [carved-bone-statuette-xdmg (items)]]
 - Leads to [[Factions the Tide Singers
 - Compare with [step_022 (phase_087)]]
-- Originates from [[LOC00180_Cities_Location_181
-- Related: [step_014 (phase_086)]]
+- Originates from [[LOC00180_Cities_Location_181]]
 - Influences
 - Influences [[spell-scroll-level-2-xdmg (items)
 - Requires [Quest - The Great Integration 2]]
 - Related: [[Shadow Shard
 - Leads to [step_047 (phase_058)]]
-- Connects to [[Minister Nightpolicy (D&D_References)
-- Requires [scufflecup-teacup-scc (construct)]]
-- See also: [[LOC00223_Planes_Location_224
-- Leads to [step_082 (phase_068)]]
-- Affected by [[NPC01833_Elric_Grimholt_the_Broken
-- Connects to [step_066 (phase_038)]]
-- Originates from [[Finn Goodtide (D&D_References)
-- See also: [step_088 (phase_052)]]
-- Leads to [[MON00133_Undead_Creature_134
-- Leads to [Coral Empress Scarletina (D&D_References)]]
+- Connects to [[Minister Nightpolicy (D&D_References)]]
+- See also: [[LOC00223_Planes_Location_224]]
+- Affected by [[NPC01833_Elric_Grimholt_the_Broken]]
+- Originates from [[Finn Goodtide (D&D_References)]]
+- Leads to [[Coral Empress Scarletina (D&D_References)]]
 - Related: [[Assets Portraits Portrait NPC Quest the Diplomatic Immunity Case Quest the Diplomatic Immunity Case.svg
 - Connects to [Location City the Twilight Gardens V1 the Twilight Gardens.svg]]
 - Related: [[step_035 (phase_029)

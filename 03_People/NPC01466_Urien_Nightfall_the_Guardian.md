@@ -176,38 +176,21 @@ Modifications:
 
 ## See Also
 - [NPC01431_Kaelen_Zephyrblade_the_Guardian]]
-- [[NPC01979_Fiora_Emberfall_the_Guardian
-- [NPC00133_Lyanna_Oakenshield_the_Seeker]]
-- [[NPC00587_Idris_Youngblood_the_Strong
-- [NPC00582_Cedric_Dawnstrider]]
-- [[NPC00058_Elric_Nightfall
-- [NPC01695_Ewan_Ashford_the_Fallen]]
-- [[NPC00749_Xander_Quicksilver
-- [Archdruid Thornweaver]]
-- [[NPC01177_Thalia_Underhill_the_Fallen
-- [NPC00372_Alaric_Grimholt]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC01870_Lyanna_Silverleaf_the_Cunning]]
-- [[NPC00317_Pyria_Blackstone_the_Redeemed
-- [NPC00920_Malakai_Ravenheart_the_Guardian]]
-- [[NPC00351_Corvus_Ironwood
-- [NPC00542_Corvus_Oakenshield_the_Strong]]
-- [[NPC01568_Lyanna_Winterborn_the_Strong
-- [NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[NPC00587_Idris_Youngblood_the_Strong]]
+- [[NPC01695_Ewan_Ashford_the_Fallen]]
+- [[NPC00749_Xander_Quicksilver]]
+- [[NPC01177_Thalia_Underhill_the_Fallen]]
+- [[NPC01870_Lyanna_Silverleaf_the_Cunning]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
 - [[World_Primer.md
 - [Parliament of Shadows Player Guide.md]]
-- [[NPC01974_Thalia_Zephyrblade_the_Lost
-- [Depth_Adapted_Background.md]]
-- [[Player_Comfort_Check
-- [Player_Feedback_Form.md]]
-- [[Downtime_Activities
-- [11 Rules Glossary]]
-- [[Parliamentary_Voting_Guide
--
-
-## Related Content
--
-- [13-conditions (players-handbook-2014)]]
+- [[NPC01974_Thalia_Zephyrblade_the_Lost]]
+- [[Player_Comfort_Check]]
+- [[Downtime_Activities]]
+- [[Parliamentary_Voting_Guide]]
 - [[06 Equipment
 
 ## Game Mechanics
@@ -226,8 +209,7 @@ Modifications:
 - Affected by
 - Compare with [[Portrait NPC Duke Theron Depthguard Duke Theron Depthguard.svg_1 (Portraits)
 - See also: [ULTIMATE_SYSTEM_REPORT]]
-- See also: [[LOC00034_Dungeons_Location_35
-- Connects to [step_074 (phase_047)]]
+- See also: [[LOC00034_Dungeons_Location_35]]
 - Originates from [[step_069 (phase_049)
 - Affected by [step_057 (phase_011)]]
 - Requires [[guild-artisan (backgrounds)
@@ -243,8 +225,7 @@ Modifications:
 - Connects to [NPC00864_Thalia_Ravenheart_the_Wanderer]]
 - Connects to [[Jenny Copperwrigh
 - Affected by [DM_Screen (02_Worldbuilding)]]
-- Influences [[Trophy Room
-- Related: [The Dimensional Hospital (D&D_References)]]
+- Influences [[The Dimensional Hospital (D&D_References)]]
 - Affected by
 - See also: [[LOC0139_Grovestead
 - Parallels [[[Surface Observation Posts]] (D&D_References)]]
@@ -256,22 +237,20 @@ Modifications:
 - Originates from [[Assets Locations Location City [Sacred Healing Springs]] Sacred Healing Springs.svg]]
 - Requires [[step_024 (phase_004)
 - Influences [[The Neutral Current [Tavern]] 2]]
-- Affected by [[Marina the Unifie (D&D_References)
-- Connects to [step_049 (phase_005)]]
+- Affected by [[Marina the Unifie (D&D_References)]]
 - Compare with [[LOC00276_Towns_Location_277
 - Influences [LORE00016_Prophecies_Entry_17]]
 - Leads to [[Military Bases (D&D_References)
 - Affected by [item-artifact-ruby-xdmg-v5-ruby-xdmg.png]]
 - Influences [[step_051 (phase_028)
 - Affected by [Military Coordinator Strong]]
-- Related: [[[Democratic Technology Development (D&D_References)]]
+- Related: [[Democratic Technology Development (D&D_References)]]
 - Related: [[The Scribes' Sanctuary
 - Connects to [Combat_Actions]]
 - Parallels [[step_011 (phase_088)
 - Compare with [Party_Quests]]
-- Requires [[LOC00267_Wilderness_Location_268
-- Parallels [LOC00203_Cities_Location_204]]
-- Affected by [[The Shadow [Merchant Prime (Criminal_Organizations)]]
+- Requires [[LOC00267_Wilderness_Location_268]]
+- Affected by [[Criminal_Organizations]]
 - Leads to [[Assets Locations [Location City Inter Realm Diplomacy Inter Realm Diplomacy.svg]]
 - Connects to [[Assets Locations [[Location City [[Deep Harbor Technology V1 [Deep Harbor Technology]].svg]]]]
 - Affected by [[Quest Two Minds One Body
@@ -280,10 +259,8 @@ Modifications:
 - Parallels [Portrait NPC Banking Lord Cornelius Coinwright V2 Banking Lord Cornelius Coinwright.svg]]
 - Related: [[Session 5 Conspiracy Revealed
 - Leads to [devils-sight-xphb (optional-features)]]
-- Parallels [[NPC01785_Aldric_Brightblade_the_Redeemed
-- Compare with [[Location City [Crystalline Wastes]] Crystalline Wastes.svg]]
-- Requires [[LOC00252_Dungeons_Location_253
-- Connects to [Damage Roll Xphb]]
+- Parallels [[NPC01785_Aldric_Brightblade_the_Redeemed]] Crystalline Wastes.svg]]
+- Requires [[LOC00252_Dungeons_Location_253]]
 - Compare with [[Assets Locations [[Location City [Scholar David Crossref Scholar David Crossref.svg]]]]
 - Leads to
 - See also: [[step_098 (phase_098)
@@ -302,12 +279,10 @@ Modifications:
 - Leads to [ITEM00445_Enchanted_Plate_of_Fortitude]]
 - Connects to [[Spell Compendium
 - Parallels [[Location City [Maritime Security Chief Reef]] V1 Maritime Security Chief Reef.svg]]
-- Related: [[LOC0082_Watchwick
-- Related: [QUEST0046_Infiltrate_the_Tyrant]]
+- Related: [[QUEST0046_Infiltrate_the_Tyrant]]
 - See also: [[step_033 (phase_006)
 - Influences [Assets Item Artifact Explorers Pack Xphb V4 Explorers Pack Xphb.png]]
-- Parallels [[QUEST00453_Side_Quest_454
-- Leads to [[[Aethermoor]] Wind Rider Traditions (D&D_References)]]
+- Parallels [[QUEST00453_Side_Quest_454]] Wind Rider Traditions (D&D_References)]]
 - Leads to [[Bone Princes
 - Affected by [LOC0104_UpperHaven]]
 - Parallels [[step_043 (phase_060)
@@ -318,8 +293,7 @@ Modifications:
 - Related: [[location-city-[Deepsteel]]-deepsteel.svg]]
 - Leads to [[step_081 (phase_055)
 - Compare with [Warden Marcus Stonehand]]
-- Originates from [[International Law Enforcement
-- Parallels [[[Marine Druids]] (D&D_References)]]
+- Originates from [[International Law Enforcement]] (D&D_References)]]
 - Requires
 - Leads to [[05 Chapter 5 Creating Campaigns
 

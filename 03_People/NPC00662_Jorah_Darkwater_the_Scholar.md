@@ -169,8 +169,7 @@ Being extorted by criminals
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Advantage**: See ACX p.173
@@ -185,18 +184,14 @@ Being extorted by criminals
 
 ## Connections
 
-- Connects to [[step_082 (phase_083)
-- Affected by [Quest - The Shadow Constitution]]
+- Connects to [[Quest - The Shadow Constitution]]
 - Influences [[step_007 (phase_066)
 - Leads to [enspelled-staff-level-5-xdmg (items)]]
 - See also: [[step_010 (phase_008)
 - Compare with [Location City the Constellation Mystery the Constellation Mystery.png]]
-- Parallels [[staff-of-frost-xdmg (items)
-- Compare with [NPC00406_Lyanna_Quicksilver_the_Bold]]
-- Leads to [[ENC00265_Combat_Encounter_266
-- Influences [The Grand Abandonment - Central Warehouse Comple 2]]
-- Connects to [[LOC00296_Dungeons_Location_297
-- See also: [#Planet Details]]
+- Parallels [[NPC00406_Lyanna_Quicksilver_the_Bold]]
+- Leads to [[The Grand Abandonment - Central Warehouse Comple 2]]
+- Connects to [[LOC00296_Dungeons_Location_297]]
 - Originates from
 - Leads to [[freedom-of-movement-xphb (spells)
 - Parallels [ITEM01483_Elegant_Tool_Kit_of_Durability]]
@@ -208,10 +203,8 @@ Being extorted by criminals
 - Influences [NPC00554_Hestara_Zephyrblade_the_Wanderer]]
 - Requires [[chicken-xdmg (items)
 - Originates from [Archscholar Marina Voidseeker]]
-- Parallels [[Inter-Species Relations Division
-- Requires [MON0042_Fire_Wraith]]
-- Parallels [[ENC00087_Social_Encounter_88
-- Influences [Meditation Chamber]]
+- Parallels [[Inter-Species Relations Division]]
+- Parallels [[ENC00087_Social_Encounter_88]]
 - Influences
 - Compare with [[step_064 (phase_069)
 - Originates from [ITEM00401_Dragon_Scale_Gauntlets_of_Protection]]
@@ -226,58 +219,47 @@ Being extorted by criminals
 - Connects to [step_034 (phase_037)]]
 - Connects to [[SPELL0002_Eldritch_Bolt
 - Leads to [Portrait NPC Envoy Blackwater Jr V1 Envoy Blackwater Jr.svg_1 (Portraits)]]
-- Originates from [[Blight Xphb
-- Related: [Archmagus Velleth Shadowmere (Lore)]]
-- Affected by [[Consequence Chain 5 - Marina Identity Revelation (Lore)
-- Originates from [LOC00054_Cities_Location_55]]
+- Originates from [[Archmagus Velleth Shadowmere]]
+- Affected by [[Consequence Chain 5 - Marina Identity Revelation]]
 - Compare with [[step_011 (phase_018)
 - Affected by [step_067 (phase_085)]]
-- Compare with [[04 Classes
-- Affected by [LOC00035_Dungeons_Location_36]]
+- Compare with [[LOC00035_Dungeons_Location_36]]
 - Requires [[sorcerer-xphb-shadow-magic-xge (classes)
 - Leads to
 - Related: [magic-items-for-sale-scc (tables)]]
 - See also: [[ENC0083_Random_Encounter_84
 - Connects to
 - Compare with [01 Chapter 1 the Basics]]
-- Compare with [[Treasure Themes Xdmg
-- Affected by [LOC00296_Planes_Location_297]]
+- Compare with [[LOC00296_Planes_Location_297]]
 - See also: [[EVENT00074_Natural_Event_75
 - Compare with [Portrait NPC Shadow Conspiracy Shadow Conspiracy.svg_1 (Portraits)]]
 - Parallels [[layers-of-hades-xdmg (tables)
 - Requires [step_008 (phase_045)]]
 - Connects to
-- Compare with [[Terminal Master Hadrian Depthbridge 2
-- See also: [Current Solidarity (D&D_References)]]
-- Compare with [[step_010 (phase_022)
-- Originates from [16-credits (players-handbook-2014)]]
-- Parallels [[Captain Henrik Saltbreeze (D&D_References)
-- Requires [Memory Verification Devices]]
+- Compare with [[Terminal Master Hadrian Depthbridge 2]]
+- Compare with [[16-credits (players-handbook-2014)]]
+- Parallels [[Captain Henrik Saltbreeze (D&D_References)]]
 - Compare with [[REORGANIZATION_COMPLETE
 - Parallels [step_048 (phase_020)]]
-- Parallels [[Marriage Between Worlds
-- Leads to [Forge Master Korax Hammerdeep 2]]
+- Parallels [[Forge Master Korax Hammerdeep 2]]
 - Requires [[ring-of-psychic-resistance-xdmg (items)
 - Requires [NPC00181_Orion_Underhill_the_Scholar]]
 - Affected by [[vampire-xmm (legendary-group)
 - Connects to [step_021 (phase_062)]]
 - Compare with [[ENC00050_Combat_Encounter_51
 - Related: [Human Names Greek Male Xge]]
-- See also: [[Pearl Diving Honor Culture
-- Influences [Courier Pelagic 2]]
+- See also: [[Pearl Diving Honor Culture]]
 - Originates from [[step_055 (phase_008)
 - See also: [Kraken]]
 - Related:
 - Requires [[step_063 (phase_028)
 - Connects to [Human Names Mesoamerican Female Xge]]
-- Leads to [[Vault Prime 2
-- Influences [Parliamentary Speakers]]
+- Leads to [[Parliamentary Speakers]]
 - Parallels [[describe-appearance-and-personality-wisdom-xphb
 - Influences [step_092 (phase_047)]]
 - Leads to [[Portrait NPC Order of the Shattered Crown Order of the Shattered Crown.svg
 - Originates from [location-city-the-last-seeds-v1-the-last-seeds.svg]]
-- Influences [[The Professional Standards Authority
-- Leads to [Mirror Merchant Marina (D&D_References)]]
+- Influences [[Mirror Merchant Marina (D&D_References)]]
 - See also: [[step_032 (phase_059)
 - Compare with [Morkoth Vgm]]
 - Influences

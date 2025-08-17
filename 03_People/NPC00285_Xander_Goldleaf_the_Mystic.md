@@ -151,24 +151,17 @@ Needs discrete help with family scandal
 - Special moves
 
 ## See Also
-- [[NPC00307_Dara_Proudmore_the_Seeker
-- [NPC00939_Thalia_Jadeclaw_the_Swift]]
-- [[NPC01989_Erasmus_Xendar_the_Strong
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC01951_Gavril_Xendar_the_Swift]]
-- [[NPC01568_Lyanna_Winterborn_the_Strong
-- [Player_Feedback_Form.md]]
-- [[11 Spellcasting
-- [NPC01789_Vesper_Proudmore_the_Mystic]]
-- [[11 Rules Glossary
-- [NPC00372_Alaric_Grimholt]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01951_Gavril_Xendar_the_Swift]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[NPC00372_Alaric_Grimholt]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -193,8 +186,7 @@ Needs discrete help with family scandal
 - Compare with [LOC00099_Towns_Location_100]]
 - Parallels [[Location City Abyssos Prime 2 V1 Abyssos Prime 2.svg
 - See also: [ITEM00357_Frost_Crossbow_of_Wounding]]
-- Requires [[Captain Garrett Stormcutter (D&D_References)
-- Parallels [QUEST00124_Personal_Quest_125]]
+- Requires [[Captain Garrett Stormcutter (D&D_References)]]
 - Affected by
 - Parallels [[Assets Locations Location City International Void Treaties V1 International Void Treaties.svg
 - Requires [Blackrazor Xdmg]]
@@ -221,8 +213,7 @@ Needs discrete help with family scandal
 - Affected by [Assets Portraits Portrait NPC Captain Scarlet Torrent Captain Scarlet Torrent.svg]]
 - Connects to [[step_062 (phase_088)
 - Influences [Trident of Fish Command Xdmg]]
-- See also: [[step_032 (phase_015)
-- Requires [QUEST00141_Side_Quest_142]]
+- See also: [[QUEST00141_Side_Quest_142]]
 - Parallels [[Hadal Zone 2
 - Influences [step_052 (phase_079)]]
 - Influences [[step_001 (phase_044)
@@ -238,17 +229,13 @@ Needs discrete help with family scandal
 - Requires [goblin-warrior-xmm]]
 - Affected by [[Dire Wolf Xmm
 - Connects to [wayfarer-xphb (backgrounds)]]
-- Originates from [[Intelligence Coordinator Elena Deepcurrent
-- See also: [step_004 (phase_042)]]
+- Originates from [[Intelligence Coordinator Elena Deepcurrent]]
 - Connects to [[potion-of-mind-reading-xdmg (items)
 - Leads to [detect-evil-and-good-xphb (spells)]]
-- Affected by [[QUEST0051_Hunt_the_Tyrant
-- Leads to [QUEST00243_Personal_Quest_244]]
+- Affected by [[QUEST00243_Personal_Quest_244]]
 - Compare with
-- Leads to [[step_058 (phase_068)
-- Parallels [ENC00184_Environmental_Encounter_185]]
-- Influences [[Heritage Archiv 2
-- Related: [Vote Engineer Abyssal Cog]]
+- Leads to [[ENC00184_Environmental_Encounter_185]]
+- Influences [[Vote Engineer Abyssal Cog]]
 - Compare with [[monsters-by-habitat-swamp-monsters-xmm (tables)
 - Parallels [QUEST00280_Side_Quest_281]]
 - Parallels [[Eastern Provinces
@@ -257,16 +244,13 @@ Needs discrete help with family scandal
 - Parallels [Captain Truth Ironwill]]
 - Compare with [[LORE00105_Prophecies_Entry_106
 - Originates from [Long Jump Xphb]]
-- Affected by [[Map or Scroll Case Xphb
-- Connects to [ITEM0098_Cursed_Tome_of_the_Dawn]]
+- Affected by [[ITEM0098_Cursed_Tome_of_the_Dawn]]
 - Parallels [[step_014 (phase_040)
 - Parallels [step_020 (phase_022)]]
 - Connects to [[step_020 (phase_074)
 - Compare with [step_079 (phase_094)]]
-- Leads to [[knocking-out-a-creature-xphb (variant-rules)
-- Influences [step_082 (phase_023)]]
-- Originates from [[step_054 (phase_089)
-- Requires [QUEST00420_Side_Quest_421]]
+- Leads to [[knocking-out-a-creature-xphb (variant-rules)]]
+- Originates from [[QUEST00420_Side_Quest_421]]
 - Requires [[LORE00210_Legends_Entry_211
 - Parallels [SPELL00152_Nature_Spell_153]]
 - Related: [[empyrean-iota-xmm (miscellaneous)
@@ -274,8 +258,7 @@ Needs discrete help with family scandal
 - Compare with [[Location City International Relations V1 International Relations.svg
 - Parallels [step_048 (phase_093)]]
 - See also:
-- Influences [[SPELL00162_Divine_Spell_163
-- Influences [step_022 (phase_089)]]
+- Influences [[SPELL00162_Divine_Spell_163]]
 - Related: [[Location City the Whisper Island Mystery V1 the Whisper Island Mystery.png
 - Leads to [NPC01960_Caelum_Brightblade_the_Lost]]
 - Requires [[ITEM01222_Distilled_Elixir_of_Healing

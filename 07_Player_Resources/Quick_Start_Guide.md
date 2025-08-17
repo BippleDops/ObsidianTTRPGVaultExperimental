@@ -48,80 +48,45 @@ improvements: 20
 - Expansion of territory ### The Time of Troubles (100 years ago) - Civil war
 - Natural disasters
 - Current power structures established ## See Also
-- [[NPC01911_Alaric_Oakenshield_the_Mystic
-- [NPC00615_Lyanna_Moonshadow_the_Lost]]
-- [[NPC01841_Malakai_Nightfall_the_Wise
-- [NPC00612_Thalia_Jadeclaw_the_Fallen]]
-- [[NPC01699_Orion_Oakenshield_the_Broken
-- [Ritual_Timing_Wheel_Convergenc]]
-- [[NPC01577_Orion_Moonshadow_the_Seeker
-- [NPC01931_Thalia_Lightbringer_the_Fallen]]
-- [[NPC01892_Gareth_Xendar_the_Scholar
-- [NPC00317_Pyria_Blackstone_the_Redeemed]]
-- [[NPC01301_Jorah_Underhill_the_Broken
-- [NPC01979_Fiora_Emberfall_the_Guardian]]
-- [[Marcus Shardbreaker Grimm_1
-- [NPC01613_Kaelen_Voidwalker_the_Wanderer]]
-- [[NPC01290_Pyria_Ashford_the_Broken
-- [Letter_From_the_Pearl_Guard_Captai]]
-- [[NPC00336_Alaric_Frostwhisper_the_Swift
-- [NPC00058_Elric_Nightfall]]
-- [[NPC00922_Wynne_Youngblood_the_Fallen
-- [NPC00949_Nerys_Underhill_the_Wise]]
-- [[NPC01849_Kaelen_Silverleaf_the_Scholar
-- [NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[NPC00124_Delara_Ravenheart_the_Redeemed
-- [NPC00920_Malakai_Ravenheart_the_Guardian]]
-- [[NPC01286_Xander_Proudmore_the_Bold
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[NPC00821_Zephyr_Voidwalker_the_Cunning
-- [NPC01503_Ewan_Dawnstrider_the_Redeemed]]
-- [[Archdruid Thornweaver
-- [NPC01632_Qadim_Darkwater_the_Guardian]]
-- [[Depth_Adapted_Background
-- [NPC01151_Orion_Stormwind_the_Seeker]]
-- [[NPC00046_Urien_Ironwood_the_Wise
-- [NPC00101_Caelum_Hawthorne]]
+- [[NPC01911_Alaric_Oakenshield_the_Mystic]]
+- [[NPC01841_Malakai_Nightfall_the_Wise]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- [[NPC00317_Pyria_Blackstone_the_Redeemed]]
+- [[NPC01979_Fiora_Emberfall_the_Guardian]]
+- [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- [[Letter_From_the_Pearl_Guard_Captai]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift]]
+- [[NPC00922_Wynne_Youngblood_the_Fallen]]
+- [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
+- [[NPC00920_Malakai_Ravenheart_the_Guardian]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
+- [[NPC01632_Qadim_Darkwater_the_Guardian]]
+- [[NPC01151_Orion_Stormwind_the_Seeker]]
+- [[NPC00046_Urien_Ironwood_the_Wise]]
 - [[Faction_Guide.md_1 (07_Player_Resources)
 - [Basic_Rules]]
 - [[Sanity_Quick_Reference.md
 - [Quick_Start_Guide.md]]
-- [[Quest - The Smuggler's Run
-- [NPC2]]
-- [[Quest - The Shadow Constitution
-- [Quest - Redemption's Price]]
-- [[Player_Feedback_Form.md
-- [Reference.md]]
-- [[NPC00670_Xander_Goldleaf_the_Scholar
-- [NPC01792_Rhiannon_Ironwood_the_Scholar]]
-- [[NPC00860_Gavril_Winterborn_the_Swift
-- [NPC00969_Zephyr_Keenblade_the_Wise]]
-- [[Character_Journals
-- [13 Conditions]]
-- [[Party_Inventory
-- [Submersible_Schematic_Pressure_Gate_Scou]]
-- [[NPC01360_Ewan_Blackstone_the_Strong
-- [NPC00872_Thalia_Ironwood_the_Broken]]
-- [[MOC_Lore
-- [NPC00661_Corvus_Darkwater_the_Broken]]
-- [[MOC_Items
-- [Downtime_Activities]]
-- [[README
-- [World_Primer.md]]
-- [[Reputation_Tracker
-- [16 Credits]]
-- [[City_District_Map_Port_Meridian_Harbo
-- [Master_Narrative_Web.md]]
-- [[Quarantine_Notice_Crystal_Plagu
-- [Sage Elara]]
-- [[The_Corroded_Crown.png
-- [NPC01937_Felicia_Silverleaf_the_Wanderer]]
-- [[Item_Catalog_Complete.md
-- [NPC00939_Thalia_Jadeclaw_the_Swift]]
-- [[NPC01789_Vesper_Proudmore_the_Mystic
-- [11 Spellcasting]]
-- [[Session_Recaps
-- [Character_Journal_Template]] - Related content
+- [[Quest - The Smuggler's Run]]
+- [[Quest - The Shadow Constitution]]
+- [[Player_Feedback_Form]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[Character_Journals]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC01360_Ewan_Blackstone_the_Strong]]
+- [[NPC00661_Corvus_Darkwater_the_Broken]]
+- [[Downtime_Activities]]
+- [[World_Primer]]
+- [[Reputation_Tracker]]
+- [[City_District_Map_Port_Meridian_Harbo]]
+- [[Quarantine_Notice_Crystal_Plagu]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC01789_Vesper_Proudmore_the_Mystic]]
+- [[Character_Journal_Template]] - Related content
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
@@ -194,8 +159,7 @@ publish: false --- -|--------|
 - Originates from [The First Queen's Shade]]
 - Affected by [[step_020 (phase_035)
 - See also: [Customs House (Lore)]]
-- Affected by [[NPC01914_Faelyn_Brightblade_the_Swift
-- See also: [Shadow Energy Addiction]]
+- Affected by [[NPC01914_Faelyn_Brightblade_the_Swift]]
 - Connects to [[step_058 (phase_057)
 - Related: [Assets Locations Location City World Map V1 World Map.svg]]
 - Influences
@@ -203,23 +167,18 @@ publish: false --- -|--------|
 - Influences [Ω_System-CLI-spells-school-evocation]]
 - Parallels [[School of Magic Schools of Magic Xphb
 - Compare with [Create or Destroy Water Xphb]]
-- Parallels [[step_061 (phase_077)
-- Leads to [NPC01371_Xander_Stormwind_the_Guardian]]
+- Parallels [[NPC01371_Xander_Stormwind_the_Guardian]]
 - Affected by [[ENC00167_Combat_Encounter_168
 - Influences
 - Leads to [SPELL00059_Arcane_Spell_60]]
 - Connects to [[Quest - The Portal Crisis_1 (01_Adventures)
 - Parallels [LORE00284_Prophecies_Entry_285]]
-- Parallels [[Island of Scream 2
-- Leads to [Crystal Cult Organization]]
-- Affected by [[Quartermaster Judith Supplycurrent (D&D_References)
-- Parallels [Minotaur Skeleton Xmm]]
+- Parallels [[Crystal Cult Organization]]
+- Affected by [[Quartermaster Judith Supplycurrent (D&D_References)]]
 - Affected by [[Assets Symbols Symbol Heraldry the Deepwater Trading Consortium the Deepwater Trading Consortium.svg
 - Affected by [Iron Flask Xdmg]]
-- Related: [[INV 009
-- See also: [NPC00907_Wynne_Lightbringer_the_Broken]]
-- Related: [[step_042 (phase_059)
-- Leads to [Methane Forests (D&D_References)]]
+- Related: [[NPC00907_Wynne_Lightbringer_the_Broken]]
+- Related: [[Methane Forests (D&D_References)]]
 - Parallels [[Assets Locations Location City Archive Kelpmere V1 Archive Kelpmere.svg
 - Connects to [Location City Vault Maintenance Checklist V1 Vault Maintenance Checklist.svg]]
 - Leads to [[SHOP00049_General_Shop_50
@@ -232,8 +191,7 @@ publish: false --- -|--------|
 - Requires [Location City Treasury Department V1 Treasury Department.svg]]
 - Leads to [[Portrait NPC the Leviathan Prophets V1 the Leviathan Prophets.svg
 - Originates from [Assets Locations Location City the Crystal Merchant V1 the Crystal Merchant.svg]]
-- Influences [[step_068 (phase_017)
-- Parallels [LOC00261_Wilderness_Location_262]]
+- Influences [[LOC00261_Wilderness_Location_262]]
 - Compare with [[NPC01884_Ysara_Crystalbrook_the_Risen
 - Influences [Commander Typhoon Blackheart (Places)]]
 - Parallels [[Where To Get Mechanics
@@ -251,34 +209,26 @@ publish: false --- -|--------|
 - Connects to
 - Compare with [[step_002 (phase_034)
 - Requires [ITEM01265_Refined_Crystal_of_Fortune]]
-- Affected by [[step_063 (phase_082)
-- Parallels [The Noble Compact (D&D_References)]]
+- Affected by [[The Noble Compact (D&D_References)]]
 - Related: [[Assets Locations Location City Surface Observation Posts Surface Observation Posts.svg
 - Originates from [ENC00087_Social_Encounter_88]]
-- Influences [[SPELL00123_Arcane_Spell_124
-- Affected by [Shadow Magistrate Umbrian Darkwise]]
-- Parallels [[The Drowning Truth 2
-- See also: [Consciousness Manipulation Technology]]
+- Influences [[Shadow Magistrate Umbrian Darkwise]]
+- Parallels [[Consciousness Manipulation Technology]]
 - Originates from [[Location City Pressure Wraiths Pressure Wraiths.svg
 - Compare with [egyptian-re-horakhty (deities)]]
-- Parallels [[Circle of Eternal Seasons (D&D_References)
-- Connects to [Ability Checks]]
+- Parallels [[Circle of Eternal Seasons (D&D_References)]]
 - Requires [[LOC00289_Cities_Location_290
 - See also: [Assets Locations Location City Silver Threadweaver Silver Threadweaver.png]]
 - Connects to [[Assets Locations Location City Trade Union Trade Union.svg
 - Parallels [Communications Director Whisper (D&D_References)]]
-- Parallels [[dim-light-xphb (variant-rules)
-- Influences [NPC01761_Idris_Moonshadow_the_Broken]]
-- Requires [[step_058 (phase_099)
-- See also: [Assassination Plot Frameworks]]
-- See also: [[Miners Pick
-- Influences [ENC00051_Environmental_Encounter_52]]
+- Parallels [[NPC01761_Idris_Moonshadow_the_Broken]]
+- Requires [[Assassination Plot Frameworks]]
+- See also: [[ENC00051_Environmental_Encounter_52]]
 - Connects to [[Map Map Aethermoor Harbor Skirmish V2 Aethermoor Harbor Skirmish.svg
 - Originates from [pipe-of-smoke-monsters-xdmg (items)]]
 - Connects to [[step_052 (phase_039)
 - Originates from [Assets Handouts Handout Handout Merchant Contract with Fine Print V1 Merchant Contract with Fine Print.png]]
-- Connects to [[ITEM0091_Divine_Orb_of_the_Dawn
-- Leads to [step_054 (phase_093)]]
+- Connects to [[ITEM0091_Divine_Orb_of_the_Dawn]]
 - Influences [[step_002 (phase_012)
 - Parallels
 - Influences [ITEM00222_Blazing_Crossbow_of_Slaying]]

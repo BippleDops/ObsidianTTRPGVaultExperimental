@@ -250,61 +250,8 @@ Ongoing situations affecting The Forgotten Representative:
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current [[Power Structures established
-
-## Cultural Practices
-
-### Greetings
-- Touch foreheads for equals
-- Bow deeply to superiors
-- Never shake with left hand
-
-### Taboos
-- Speaking during sunset prayer
-- Wearing red on holy days
-- Pointing at the moon
-
-## Climate & Weather
-- **Typical Weather**: Common conditions
-- **Seasonal Changes**: Throughout the year
-
-## Local Customs
-- **Traditions**: Cultural practices
-- **Taboos**: Things to avoid
-
-## Resources
-- **Natural**: Available materials
-- **Manufactured**: Produced goods
-
-## Threats
-- **External**: Outside dangers
-- **Internal**: Local problems
-
-## Rumors & Legends
-- **Common Tales**: Stories everyone knows
-- **Hidden Truths**: Secret knowledge
-
-## Services Available
-- **Shops**: Commercial establishments
-- **Services**: Professional offerings
-
-## Law & Order
-- **Laws**: Local regulations
-- **Enforcement**: How rules are upheld
-
-## Architecture
-- **Building Style**: Common structures
-- **Notable Features**: Unique elements
-
-## Daily Life
-- **Typical Day**: Common activities
-- **Special Events**: Celebrations and gatherings
-
-## References
-
-- [Comprehensive-World-Connection-Guide]]
-- [[Comprehensive-World-Connection-Guide (D&D_References)
-- [Comprehensive-World-Connection-Guide 3 (D&D_References)]]
+- Current [[Power Structures]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
 
 ## Atmosphere
 - Mood and feeling
@@ -319,8 +266,6 @@ Ongoing situations affecting The Forgotten Representative:
 - Seasonal changes
 
 ## See Also
-- [[Keeper Elara Mindwell
-- [NPC00362_Pyria_Stormwind_the_Wise]]
-- [[Enchanter Valdris Peacewarden
-- [Pip Goldleaf]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[Enchanter Valdris Peacewarden]]
 - [[Current_Session_Notes (02_Worldbuilding)]]

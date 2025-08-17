@@ -169,46 +169,27 @@ Provides information for a price
 - Special moves
 
 ## See Also
-- [[NPC00285_Xander_Goldleaf_the_Mystic
-- [NPC01041_Thalia_Dawnstrider_the_Lost]]
-- [[NPC00655_Jorah_Darkwater_the_Seeker
-- [NPC01290_Pyria_Ashford_the_Broken]]
-- [[NPC01745_Felicia_Oakenshield_the_Scholar
-- [NPC00881_Qadim_Voidwalker_the_Strong]]
-- [[NPC00283_Kaelen_Zephyrblade_the_Bold
-- [NPC01877_Hestara_Moonshadow_the_Mystic]]
-- [[NPC01555_Branwen_Xendar_the_Seeker
-- [NPC01483_Gavril_Zephyrblade_the_Fallen]]
-- [[NPC00815_Baelor_Thornweave_the_Swift
-- [NPC00599_Cedric_Lightbringer_the_Wise]]
-- [[NPC00623_Dara_Oakenshield_the_Wanderer
-- [NPC01687_Aldric_Youngblood_the_Cunning]]
-- [[NPC01827_Kaelen_Ironforge_the_Seeker
-- [NPC01502_Urien_Underhill_the_Scholar]]
-- [[NPC01699_Orion_Oakenshield_the_Broken
-- [NPC00785_Ysara_Grimholt_the_Mystic]]
-- [[NPC00362_Pyria_Stormwind_the_Wise
-- [NPC00395_Aeliana_Thornweave]]
-- [[NPC01367_Lyanna_Xendar_the_Wise
-- [NPC01476_Qadim_Stormwind_the_Wise]]
-- [[Submersible_Schematic_Pressure_Gate_Scou
-- [NPC00550_Xander_Stormwind_the_Cunning]]
-- [[NPC00461_Branwen_Proudmore_the_Strong
-- [Parliament of Shadows Player Guide.md]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC00655_Jorah_Darkwater_the_Seeker]]
+- [[NPC01745_Felicia_Oakenshield_the_Scholar]]
+- [[NPC01877_Hestara_Moonshadow_the_Mystic]]
+- [[NPC01483_Gavril_Zephyrblade_the_Fallen]]
+- [[NPC00599_Cedric_Lightbringer_the_Wise]]
+- [[NPC01687_Aldric_Youngblood_the_Cunning]]
+- [[NPC01502_Urien_Underhill_the_Scholar]]
+- [[NPC01699_Orion_Oakenshield_the_Broken]]
+- [[NPC00362_Pyria_Stormwind_the_Wise]]
+- [[NPC01476_Qadim_Stormwind_the_Wise]]
+- [[Submersible_Schematic_Pressure_Gate_Scou]]
+- [[NPC00461_Branwen_Proudmore_the_Strong]]
 - [[Player_Portal.md
 - [What You Know - Abyssos Prime.md]]
-- [[Ritual_Timing_Wheel_Convergenc
-- [NPC00133_Lyanna_Oakenshield_the_Seeker]]
-- [[Player_Comfort_Check
-- [Sanity Quick Reference]]
-- [[Reference.md
-- [Smuggler_Route_Tally_Shee]]
-- [[NPC00260_Wynne_Underhill_the_Fallen
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[15 the Planes of Existence
-- [Session_Recaps]]
-- [[10 Combat
-- [Count_Strahd_von_Zarovich]]
+- [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- [[Sanity Quick Reference]]
+- [[Smuggler_Route_Tally_Shee]]
+- [[NPC00451_Malakai_Ravenheart_the_Broken]]
+- [[15 the Planes of Existence]]
+- [[Count_Strahd_von_Zarovich]]
 - [[MOC_Items
 - [03 Races]]
 -
@@ -251,18 +232,15 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [step_062 (phase_041)]]
 - See also: [[Scene Scene Deep Mother S Tentacles Rising V2 Deep Mother S Tentacles Rising.svg
 - Originates from [Deep Sciences Research Institute]]
-- Related: [[step_068 (phase_025)
-- Parallels [Investigators Anonymous (D&D_References)]]
-- Compare with [[Data Analyst Current Patternweave 2
-- Affected by [UNIFIED_MECHANICS_GUIDE]]
+- Related: [[Investigators Anonymous (D&D_References)]]
+- Compare with [[Data Analyst Current Patternweave 2]]
 - Affected by [[Keeper of Contracts Minerva Bindingword 2
 - Connects to [Portrait NPC the Siren S Mask V2 the Siren S Mask.svg]]
 - Affected by [[Assets Locations Location City Underwater Fermentation V1 Underwater Fermentation.svg
 - Leads to [United Councils of Both Worlds]]
 - Affected by [[Sword of Answering Squelcher
 - Influences [04_Resources_Assets_Symbols_symbol-heraldry-the-stellar-confluence-the-stellar-confluence.svg]]
-- Related: [[LOC00086_Planes_Location_87
-- Related: [MON00143_Constructs_Creature_144]]
+- Related: [[MON00143_Constructs_Creature_144]]
 - Originates from [[Portrait NPC Quest the Kingpin S Fall Quest the Kingpin S Fall.svg
 - Leads to [The Deep Expansion]]
 - Affected by [[step_078 (phase_007)
@@ -270,16 +248,13 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Trap Effects Trap Save Dcs and Attack Bonuses
 - Affected by
 - See also: [step_032 (phase_070)]]
-- Requires [[LOC00017_Dungeons_Location_18
-- Leads to [step_019 (phase_075)]]
+- Requires [[LOC00017_Dungeons_Location_18]]
 - Leads to [[Lizardfolk Vgm
 - Requires [ITEM00322_Shadow_Dagger_of_Accuracy]]
-- Requires [[Memory Thief (D&D_Statblocks)
-- Compare with [Halfling Arvoreen Mtf]]
+- Requires [[Memory Thief (D&D_Statblocks)]]
 - Compare with [[deathlock-mpmm (undead)
 - Affected by [lightly-armored-xphb (feats)]]
-- Leads to [[step_042 (phase_012)
-- See also: [Trade Networks (D&D_References)]]
+- Leads to [[Trade Networks (D&D_References)]]
 - Related:
 - Leads to [[Tourmaline Xdmg
 - See also: [step_089 (phase_040)]]
@@ -287,8 +262,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [barkskin-xphb (spells)]]
 - Parallels [[improved-pact-weapon-xge (optional-features)
 - Influences [step_083 (phase_024)]]
-- Related: [[step_074 (phase_073)
-- Requires [Temple of Shadows (D&D_References)]]
+- Related: [[Temple of Shadows (D&D_References)]]
 - Influences [[Location City His Eternal Majesty Keeper of the Throne of Bubbles His Eternal Majesty Keeper of the Throne of Bubbles.svg
 - Compare with [Festival Ground (D&D_References)]]
 - Connects to [[wayfarer-xphb (backgrounds)
@@ -305,8 +279,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [fire-elemental-xmm]]
 - Affected by [[LOC00215_Wilderness_Location_216
 - Influences [ENC00093_Environmental_Encounter_94]]
-- Connects to [[LORE00020_Prophecies_Entry_21
-- Related: [MON00092_Aberrations_Creature_93]]
+- Connects to [[MON00092_Aberrations_Creature_93]]
 - Parallels [[LOC00178_Towns_Location_179
 - Compare with [DUN00105_Dungeon_106]]
 - Parallels [[The Chart Vault
@@ -314,8 +287,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Supplemental Tables Absent Parent Xge
 - Parallels [sahuagin-warrior-xmm]]
 - Influences
-- Affected by [[The Wound
-- See also: [Master Archivist Valdric Stonewhisper]]
+- Affected by [[Master Archivist Valdric Stonewhisper]]
 - See also: [[layers-of-pandemonium-xdmg (tables)
 - Connects to [Religious Groups (D&D_References)]]
 - See also:
@@ -332,12 +304,10 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [step_035 (phase_062)]]
 - See also: [[ITEM01354_Practical_Journal_of_Quality
 - Affected by [Ioun Stone Strength Xdmg]]
-- Requires [[EVENT00076_Political_Event_77
-- Requires [NPC00631_Pyria_Crystalbrook_the_Wanderer]]
+- Requires [[NPC00631_Pyria_Crystalbrook_the_Wanderer]]
 - Requires [[hand-crossbow-xphb (items)
 - Leads to [feats-phb (variant-rules)]]
-- Originates from [[The Cargo Inspection Station
-- See also: [LOC00158_Wilderness_Location_159]]
+- Originates from [[LOC00158_Wilderness_Location_159]]
 - Leads to [[Otherworldly Steed Fiend Xphb
 - Connects to [04_Resources_Assets_Locations_location-city-harbor-pilot-captain-storm-skyreacher-v1-harbor-pilot-captain-storm-skyreacher.svg]]
 - See also: [[University Heights

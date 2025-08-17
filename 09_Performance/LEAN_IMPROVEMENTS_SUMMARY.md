@@ -123,8 +123,7 @@ publish: false --- # 1000 Lean Improvements - Final Summary Generated: ${new Dat
 ## Connections
 
 - Compare with [dungeon-location (tables)]]
-- Affected by [[step_034 (phase_066)
-- Affected by [Parasite Boarding & Biohazards]]
+- Affected by [[Parasite Boarding & Biohazards]]
 - Leads to [[ENC00022_Environmental_Encounter_23
 - Influences [Location City Master Archivist Valdric Stonewhisper V1 Master Archivist Valdric Stonewhisper.svg]]
 - Originates from [[Portrait NPC Throne of Bubbles V2 Throne of Bubbles.svg
@@ -133,38 +132,31 @@ publish: false --- # 1000 Lean Improvements - Final Summary Generated: ${new Dat
 - Related: [clockwork-amulet-xdmg (items)]]
 - Leads to [[Scrap & Salvage
 - Parallels [step_062 (phase_044)]]
-- Compare with [[NPC01994_Orion_Brightblade_the_Risen
-- Requires [LORE00257_Legends_Entry_258]]
+- Compare with [[NPC01994_Orion_Brightblade_the_Risen]]
 - Parallels [[step_099 (phase_100)
 - Leads to [Fiendish Vigor Xphb]]
-- Compare with [[The Hidden Auction House
-- See also: [step_024]]
-- Affected by [[LOC00139_Cities_Location_140
-- Parallels [The Crystal Council 2]]
+- Compare with [[The Hidden Auction House]]
+- Affected by [[LOC00139_Cities_Location_140]]
 - Influences [[step_066 (phase_008)
 - Originates from [The Archcrystal]]
 - Leads to [[LORE00047_Prophecies_Entry_48
 - Connects to [Guildmaster Storm Skywright]]
 - Compare with [[egyptian-sobek (deities)
 - Requires [SPELL00094_Divine_Spell_95]]
-- Compare with [[step_084 (phase_100)
-- Requires [Complete Faction Warfare System]]
+- Compare with [[Complete Faction Warfare System]]
 - Compare with [[Assets Locations Location City Military Command Military Command.svg
 - Leads to [Luminary Judge Thaddeus Truthseeker]]
-- Compare with [[step_042 (phase_041)
-- See also: [Border Territories (D&D_References)]]
+- Compare with [[Border Territories (D&D_References)]]
 - Affected by [[Pressure Portals 2
 - Leads to [step_088 (phase_027)]]
 - Related: [[step_099 (phase_041)
 - Requires [step_010 (phase_077)]]
 - Leads to [[step_099 (phase_037)
 - Connects to [MON00037_Undead_Creature_38]]
-- Related: [[Harbor Pilot Captain Storm Skyreacher (D&D_References)
-- Affected by [Pan Flute Xphb]]
+- Related: [[Harbor Pilot Captain Storm Skyreacher (D&D_References)]]
 - Affected by [[hawk-xmm (beast)
 - Leads to [Location City Banker Cornelius Goldflow V1 Banker Cornelius Goldflow.svg]]
-- Originates from [[step_005
-- Leads to [Student Researcher Brightwater 2]]
+- Originates from [[Student Researcher Brightwater 2]]
 - Originates from [[heroism-xphb (spells)
 - Influences [Assets Locations Location City Keeper Valdris Goldvault Keeper Valdris Goldvault.svg]]
 - Originates from [[chamber-purpose-general-dungeon-chambers (tables)
@@ -175,8 +167,7 @@ publish: false --- # 1000 Lean Improvements - Final Summary Generated: ${new Dat
 - Originates from [githyanki-knight-xmm (aberration)]]
 - Originates from [[Portrait NPC Lord Aurelius Goldwave Lord Aurelius Goldwave.svg
 - Affected by [NPC00380_Brenna_Nightfall_the_Wise]]
-- See also: [[NPC01687_Aldric_Youngblood_the_Cunning
-- Influences [step_013 (phase_053)]]
+- See also: [[NPC01687_Aldric_Youngblood_the_Cunning]]
 - Leads to [[step_005 (phase_089)
 - Influences [List Spells Classes Fiend Patron Xphb]]
 - Related: [[step_011
@@ -187,8 +178,7 @@ publish: false --- # 1000 Lean Improvements - Final Summary Generated: ${new Dat
 - Requires [bloodied-xphb (variant-rules)]]
 - Originates from [[step_038
 - Requires [Physical Variations Yuan Ti Scale Pattern Vgm]]
-- Parallels [[Swamp Encounters Levels 14 Xge
-- Compare with [step_087]]
+- Parallels [[Swamp Encounters Levels 14 Xge]]
 - Parallels [[Assets Locations Location City Tidal Memento Tidal Memento.svg
 - Originates from [Reality Stabilization]]
 - Related: [[Guard Drake Black Mpmm
@@ -197,24 +187,20 @@ publish: false --- # 1000 Lean Improvements - Final Summary Generated: ${new Dat
 - Requires [Location City Historian Lisa Outreach Historian Lisa Outreach.svg]]
 - Related: [[Nupperibo Mpmm
 - Parallels [ITEM00728_Infernal_Orb_of_Truth]]
-- Related: [[Experimental Medical Ethics 2
-- Requires [step_015]]
-- Leads to [[Establish the New Order (Orders)
-- Influences [senses#Blindsight]]
+- Related: [[Experimental Medical Ethics 2]]
+- Leads to [[Establish the New Order]]
 - Connects to [[ENC00020_Environmental_Encounter_21
 - Originates from [LOC00033_Wilderness_Location_34]]
 - Connects to [[Convergence Ritual Rules
 - Affected by [creature-creature-bat-xmm-v2-bat-xmm.png]]
-- Influences [[Portrait NPC Warr... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements
-- Originates from [SPELL00079_Nature_Spell_80]]
+- Influences [[Portrait NPC Warr... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Related: [[Great Preparation (D&D_References)
 - See also: [Location City Temple of the Deep Current Temple of the Deep Current.svg]]
 - Parallels [[QUEST00276_Side_Quest_277
 - Related: [Heart of Eternal Vigilance]]
 - Compare with [[step_071
 - Influences [Xorn Xmm]]
-- Influences [[LOC00246_Towns_Location_247
-- Parallels [D-101_Abyssal_Thermocline_Knife]]
+- Influences [[D-101_Abyssal_Thermocline_Knife]]
 - Requires [[Alternative Healing
 - Requires [Portrait NPC Quest the Ancient Compact Quest the Ancient Compact.svg]]
 - Requires [[step_064

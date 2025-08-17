@@ -18,12 +18,7 @@ publish: false
 
 ---
 
- # [[Possession Xphb ---
-
-## Description
-
-Detailed description pending.
-title: [Possession Xphb]]
+ # [[Possession Xphb]]
 aliases:
 - Possession
 
@@ -72,8 +67,7 @@ world: Both
 #meta/reference
 
 ## [See Also]]
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [Parliamentary_Voting_Guide]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
 
 ## [[Session Summary
 *Brief overview of this session*
@@ -83,7 +77,7 @@ world: Both
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

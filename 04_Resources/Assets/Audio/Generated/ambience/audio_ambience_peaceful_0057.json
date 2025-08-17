@@ -11,5 +11,8 @@
     "peaceful",
     "generated"
   ],
-  "created": "2025-08-16T16:58:14.583Z"
+  "created": "2025-08-16T16:58:14.583Z",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T22:47:00.949Z",
+  "generationMethod": "ComfyUI"
 }

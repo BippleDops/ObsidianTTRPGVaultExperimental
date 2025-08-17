@@ -138,55 +138,19 @@ Deception, History, Persuasion, Intimidation
 ### Knowledge
 - Court gossip and scandals
 - Noble family histories
-- [[Political Alliances
-- Upcoming social events
-
-## Plot Hook
-Wants rivals investigated
-
-## DM Notes
-- Adjust stats based on party level
-- Secrets can drive major plot points
-- Relationships create web of connections
-- Use quirks for memorable roleplay
-
----
-*Generated: 2025-08-15T03:51:03.144Z*
-
-## Voice & Mannerisms
-- Speaking style
-- Common phrases
-
-## Daily Routine
-- Morning activities
-- Evening habits
-
-## Combat Tactics
-- Preferred strategies
-- Special moves
-
-## See Also
-- [NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[NPC00080_Branwen_Proudmore
-- [NPC00324_Idris_Hawthorne_the_Strong]]
-- [[NPC01252_Jorah_Youngblood_the_Strong
-- [NPC01195_Gareth_Keenblade_the_Guardian]]
-- [[NPC00739_Gavril_Ashford_the_Bold
-- [NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [NPC00388_Ysara_Goldleaf]]
-- [[Party_Quests
-- [NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[Calendar_Conversions_Realm_Window
-- [Parliamentary_Voting_Guide]]
-- [[09 Adventuring
-- [Character_Journal_Template]]
+- [[Political Alliances]]
+- [[NPC00324_Idris_Hawthorne_the_Strong]]
+- [[NPC01195_Gareth_Keenblade_the_Guardian]]
+- [[NPC00296_Elric_Jadeclaw_the_Bold]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian]]
+- [[NPC00703_Elric_Dawnstrider_the_Swift]]
+- [[Calendar_Conversions_Realm_Window]]
+- [[Character_Journal_Template]]
 -
 
 ## Related Content
 -
-- [[13-conditions (players-handbook-2014)
-- [06 Equipment]]
+- [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
@@ -201,7 +165,7 @@ Wants rivals investigated
 
 ## Connections
 
-- Leads to [[[Senator Bartholomew Bonewright (D&D_References)]]
+- Leads to [[Senator Bartholomew Bonewright (D&D_References)]]
 - Leads to [[tankard-of-plenty-hotdq (items)
 - Originates from [Quest - Stop the Awakening]]
 - Requires [[spell-gem-star-ruby-oota (items)
@@ -218,19 +182,15 @@ Wants rivals investigated
 - Compare with [LORE00327_Prophecies_Entry_328]]
 - Compare with [[step_074 (phase_020)
 - Originates from [step_051 (phase_021)]]
-- Related: [[Great Dyin
-- Influences [SPELL00131_Divine_Spell_132]]
+- Related: [[SPELL00131_Divine_Spell_132]]
 - Affected by
-- Parallels [[Lieutenant Marcu (D&D_References)
-- Requires [step_052 (phase_080)]]
+- Parallels [[Lieutenant Marcu (D&D_References)]]
 - Influences [[Luminar the Builder
 - Connects to [step_025 (phase_068)]]
 - Connects to [[LOC00064_Dungeons_Location_65
 - Influences [Concierge Phillip Gracewater]]
-- Influences [[NPC01610_Solas_Darkwater_the_Fallen
-- Originates from [The Crystal Stock Exchange]]
-- Related: [[Royal Guard (D&D_References)
-- Connects to [step_043 (phase_097)]]
+- Influences [[NPC01610_Solas_Darkwater_the_Fallen]]
+- Related: [[Royal Guard (D&D_References)]]
 - Parallels [[SPELL0026_Eldritch_Blessing
 - Related: [LORE00026_Prophecies_Entry_27]]
 - Affected by
@@ -238,8 +198,7 @@ Wants rivals investigated
 - Connects to
 - Requires
 - Compare with [strahd-zombie-cos (undead)]]
-- Affected by [[Medical Applications Coordinator 2
-- Parallels [LOC00076_Planes_Location_77]]
+- Affected by [[Medical Applications Coordinator 2]]
 - Related:
 - Requires [[04_Resources_Assets_Locations_location-city-innkeeper-marina-dreamwhisper-v1-innkeeper-marina-dreamwhisper.svg
 - Requires [The Whispering Peaks]]
@@ -249,18 +208,15 @@ Wants rivals investigated
 - Related: [NPC Name_Quick_Ref]]
 - Parallels [[The Vault of Whispers
 - See also: [step_026 (phase_036)]]
-- Leads to [[Cover Identity Coordinator (D&D_References)
-- Affected by [MON00075_Undead_Creature_76]]
+- Leads to [[Cover Identity Coordinator (D&D_References)]]
 - Parallels [[Handout Handout Ship Manifests with Stamps V3 Ship Manifests with Stamps.png
 - Connects to [[Portrait NPC Aria [Lumengarde]] V2 Aria Lumengarde.svg_1 (Portraits)]]
-- Requires [[Chief Medic Coral Battlehealer (D&D_References)
-- See also: [The Mothercoral Crisis]]
+- Requires [[Chief Medic Coral Battlehealer (D&D_References)]]
 - Related: [[green-hag (legendary-group)
 - Compare with [[[Duchess Seraphina Crimsontide]] (D&D_References)]]
-- Related: [[ENC00112_Combat_Encounter_113
-- Compare with [constrictor-snake-xmm]]
+- Related: [[ENC00112_Combat_Encounter_113]]
 - Parallels [[Assets Locations [Location City Medical Research Facilities V1 Medical Research Facilities.svg]]
-- Leads to [[[Botanist Rose Sundrinker (D&D_References)]]
+- Leads to [[Botanist Rose Sundrinker (D&D_References)]]
 - Compare with
 - Leads to [[Assets Locations [Location City the Listener S Code V1 the Listener S Code.svg]]
 - Connects to [[Template-Planet
@@ -271,8 +227,8 @@ Wants rivals investigated
 - Leads to [FAC00075_Orders_76]]
 - Requires [[Master Respiratory Engineer Marina Gillwright (People)
 - Influences [cleric-xphb-knowledge-domain (classes)]]
-- Parallels [[[Black Market Deal (D&D_References)]]
-- Leads to [[[Legal Department (D&D_References)]]
+- Parallels [[Black Market Deal (D&D_References)]]
+- Leads to [[Legal Department (D&D_References)]]
 - Compare with [[Stormwind Supplies
 - Originates from
 - Affected by
@@ -283,10 +239,8 @@ Wants rivals investigated
 - Compare with
 - Affected by [[The Cargo Inspection Station
 - Affected by [Session 15 - Academy Under Siege]]
-- Influences [[ENC00099_Environmental_Encounter_100
-- See also: [SPELL00086_Arcane_Spell_87]]
-- Parallels [[ENC00383_Combat_Encounter_384
-- Requires [step_012 (phase_088)]]
+- Influences [[ENC00099_Environmental_Encounter_100]]
+- Parallels [[ENC00383_Combat_Encounter_384]]
 - Connects to
 - Related: [[Resoce_Equipment
 - Affected by [hobgoblin-captain-xmm (fey)]]
@@ -294,12 +248,11 @@ Wants rivals investigated
 - Connects to [Assets Item Artifact Warhammer Xphb V6 Warhammer Xphb.png]]
 - Requires [[Shadow Medical License 2
 - Influences [Crisis Communication Array]]
-- Affected by [[Master Navigator Tidal Crosscurren 2
-- Compare with [sling-bullet-xphb (items)]]
+- Affected by [[Master Navigator Tidal Crosscurren 2]]
 - Parallels
 - Originates from [[ancient-gold-dragon-xmm
 - Related: [Bewitching Whispers]]
-- Originates from [[[The Memorial Archives 2]]
+- Originates from [[The Memorial Archives 2]]
 - See also: [[Starry Wisp Xphb
 
 ## Visual References

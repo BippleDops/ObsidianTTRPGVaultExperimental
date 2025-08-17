@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T12:24:39.449003"
 modified: "2025-08-15T12:24:39.449004"
-aliases: [Session 15 [[Exploration Discovery]]]
+aliases: [Session 15 [[exploration_discovery_mechanics]]]
 ---
 
 # Session 15 [[Exploration Discovery
@@ -91,7 +91,7 @@ world: Both
 - Strange accidents suggest a curse ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## 12_Research [Specific Content]] Contextual improvement based on 12_Research ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## [Alternate Descriptions]] - **[[First Impression**: Initial appearance
 - **[Closer Look]]**: Detailed examination
 - **[[Hidden Details**: Secret aspects ## [Random Table]] | d6 | Result |
-| aliases: ["Session 15 [[Exploration Discovery]]"]
+| aliases: ["Session 15 [[exploration_discovery_mechanics]]"]
 priority: normal
 category: 06 Sessions
 subcategory: Session 15 [[Exploration Discovery.Md
@@ -132,7 +132,7 @@ publish: false --- -|--------|
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here

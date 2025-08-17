@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: "2025-08-15T16:41:33.724497"
 modified: "2025-08-15T16:41:33.724499"
-aliases: [07 [[Customization Options]]]
+aliases: [07 [[07 Customization Options]]]
 ---
 
 ## Table of Contents
@@ -20,7 +20,7 @@ aliases: [07 [[Customization Options]]]
 
 ---
 
-title: 07 [[Customization Options]]
+title: 07 [[07 Customization Options]]
 type: note
 tags:
 - note
@@ -85,58 +85,33 @@ world: Both
 Witnessed important events in the past
 
 ## [See Also]]
-- [[NPC00281_Hestara_Nightfall_the_Cunning
-- [NPC01664_Pyria_Lightbringer_the_Redeemed]]
-- [[NPC01013_Corvus_Ravenheart_the_Bold
-- [Depth_Adapted_Background.md]]
-- [[Ceasefire_Accord_Draft.md
-- [NPC00860_Gavril_Winterborn_the_Swift]]
-- [[NPC01041_Thalia_Dawnstrider_the_Lost
-- [Reference.md]]
-- [[NPC01894_Aldric_Lightbringer_the_Bold
-- [NPC01974_Thalia_Zephyrblade_the_Lost]]
-- [[NPC00307_Dara_Proudmore_the_Seeker
-- [Parliamentary_Voting_Guide]]
-- [[NPC00296_Elric_Jadeclaw_the_Bold
-- [NPC01447_Baelor_Winterborn_the_Strong]]
-- [[NPC01761_Idris_Moonshadow_the_Broken
-- [Party_Quests]]
-- [[World_Primer.md
-- [Combat_Encounter_Analysis]]
-- [[NPC00587_Idris_Youngblood_the_Strong
-- [NPC01937_Felicia_Silverleaf_the_Wanderer]]
-- [[NPC01229_Gavril_Ironwood_the_Scholar
-- [[[Guild Seal]] [[Document Silverscale Consortiu]]
-- [[NPC01943_Xander_Proudmore_the_Fallen
-- [NPC01789_Vesper_Proudmore_the_Mystic]]
-- [[NPC00663_Alaric_Dawnstrider_the_Strong
-- [NPC00582_Cedric_Dawnstrider]]
-- [[NPC_Relationship_Web.png_1 (03_People)
-- [NPC00625_Kaelen_Brightblade_the_Redeemed]]
+- [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
+- [[NPC01013_Corvus_Ravenheart_the_Bold]]
+- [[NPC00860_Gavril_Winterborn_the_Swift]]
+- [[NPC01041_Thalia_Dawnstrider_the_Lost]]
+- [[NPC01894_Aldric_Lightbringer_the_Bold]]
+- [[NPC00307_Dara_Proudmore_the_Seeker]]
+- [[NPC01447_Baelor_Winterborn_the_Strong]]
+- [[NPC01761_Idris_Moonshadow_the_Broken]]
+- [[Combat_Encounter_Analysis]]
+- [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
+- [[NPC01229_Gavril_Ironwood_the_Scholar]] [[Guild Seal Document Silverscale Consortiu]]
+- [[NPC01943_Xander_Proudmore_the_Fallen]]
+- [[NPC00663_Alaric_Dawnstrider_the_Strong]]
+- [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
 - [[12 Spells
 - [[10 Appendix B [Creature Stat]] Blocks]]
 - [[11 [Rules Glossary]]
-- [[13 Conditions
-- [06 Equipment]]
-- [[04 Classes
-- [NPC00124_Delara_Ravenheart_the_Redeemed]]
-- [[NPC01792_Rhiannon_Ironwood_the_Scholar
-- [NPC00462_Fiora_Ironforge_the_Seeker]]
-- [[NPC00162_Xander_Thornweave
-- [[Quest - [The Merged]] Reality_1 (01_Adventures)]]
-- [[Master_Narrative_Web.md
-- [NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[NPC01348_Xander_Zephyrblade_the_Wise
-- [NPC01360_Ewan_Blackstone_the_Strong]]
+- [[13 Conditions]]
+- [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- [[NPC00162_Xander_Thornweave]] Reality_1 (01_Adventures)]]
+- [[NPC01040_Zephyr_Lightbringer_the_Strong]]
+- [[NPC01348_Xander_Zephyrblade_the_Wise]]
 - [[02 Step by [Step Characters]]
-- [[Concept_Map
-- [NPC01599_Gavril_Keenblade_the_Strong]]
-- [[11 Spellcasting
-- [Session_Recaps]]
-- [[Character_Journal_Template
--
-
-## [Game Mechanics]]
+- [[NPC01599_Gavril_Keenblade_the_Strong]]
+- [[11 Spellcasting]]
+- [[Character_Journal_Template]]
 - **Combat**: See ACX p.189-198
 
 ## D&D 5e References
@@ -150,57 +125,50 @@ Witnessed important events in the past
 
 ## Connections
 
-- Originates from [[NPC00622_Dara_Ironwood_the_Fallen
-- Leads to [Whip of Whispers]]
+- Originates from [[NPC00622_Dara_Ironwood_the_Fallen]]
 - Influences [[step_073 (phase_018)
 - Related: [[[Symbol Heraldry]] Scholars of [[Divine Scholars of [Divine Lore]].svg]]
 - Originates from [[step_020 (phase_025)
 - Requires [step_017 (phase_016)]]
-- Connects to [[War of [Crushing Depths (D&D_References)]]
-- Related: [[[Advanced Shadow Recognition]]
+- Connects to [[Crushing Depths (D&D_References)]]
+- Related: [[Advanced Shadow Recognition]]
 - Parallels [[[[Symbol Heraldry [Navigation Geograph]] [[Navigation Geograph.svg]]
 - Connects to [[Manual of [Bodily Health Xdmg]]
-- Leads to [[[[Assets Locations [Location City]] [[Military Command V1 [Military Command]].svg]]
-- Leads to [[[[Assets Locations [Location City]] [[Reflection Broker Mirrors V1 [Reflection Broker]] Mirrors.svg]]
+- Leads to [[Assets Locations]] [[Military Command]].svg]]
+- Leads to [[Assets Locations]] [[Reflection Broker Mirrors]] Mirrors.svg]]
 - Connects to [[step_004 (phase_033)
 - Compare with [ITEM00443_Mithril_Cloak_of_Fortitude]]
-- Influences [[[Navigator Deep Current]]
+- Influences [[Navigator Deep Current]]
 - Originates from
-- Originates from [[[Memory Trading Economy]]
+- Originates from [[Memory Trading Economy]]
 - Requires [[Session_Zero_Template
 - Leads to
 - Connects to [[[Parliamentary Infiltration]] Methods (D&D_References)]]
 - Parallels [[[[Item Artifact [Explorers Pack]] Xphb V4 [[Explorers Pack Xphb.png]]
 - Influences
-- Related: [[QUEST00395_Side_Quest_396
-- Leads to [[[The Mediator]] 2]]
-- Originates from [[[The Prime Reflection]]
+- Related: [[QUEST00395_Side_Quest_396]] 2]]
+- Originates from [[The Prime Reflection]]
 - Connects to [[[[Assets Vehicles [Vehicle Ship]] [[Hybrid Rift [Runner Sloop]] V2 [[Hybrid Rift [Runner Sloop]].png]]
 - Affected by [[ITEM00767_Void-touched_Scepter_of_Eternity
 - Affected by [[[The Festival]] Archives]]
-- Parallels [[SHOP00031_Specialty_Shop_32
-- Requires [MON00066_Constructs_Creature_67]]
+- Parallels [[MON00066_Constructs_Creature_67]]
 - Influences [[INV 001
 - Connects to [EVENT00036_Political_Event_37]]
-- Related: [[QUEST0021_Destroy_the_Demons
-- Influences [step_066 (phase_056)]]
-- Originates from [[[[Assets Locations [Location City]] [[Pressure Polyps [Pressure Polyps]].svg]]
-- See also: [[[The Memory Integration]]
+- Related: [[QUEST0021_Destroy_the_Demons]]
+- Originates from [[Assets Locations]] [[Pressure Polyps]].svg]]
+- See also: [[The Memory Integration]]
 - Requires [[helmed-horror-xmm (construct)
 - Parallels [[[Assets Item]] [[Artifact Weird [Tank Pota]] V3 [[Weird Tank Pota.png]]
-- See also: [[MON00161_Undead_Creature_162
-- Parallels [[[Blue Slaad]] Xmm]]
-- See also: [[draft-horse-xmm (beast)
-- Connects to [S-L-08_Gravity_Inversion_Storm]]
-- Influences [[[The Memory Wars 2]]
-- See also: [[[Silent Image Xphb]]
+- See also: [[MON00161_Undead_Creature_162]] Xmm]]
+- See also: [[S-L-08_Gravity_Inversion_Storm]]
+- Influences [[The Memory Wars 2]]
+- See also: [[Silent Image Xphb]]
 - Affected by [[step_096 (phase_023)
 - Compare with [[[Academic Infiltrators]]]]
 - Leads to [[Portrait NPC [[the [Crimson Pearl]] the [[Crimson Pearl.svg]]
 - Connects to [[[[Quest The [Pressure Cure]]]]
-- Related: [[[The Clockwork Depths]]
-- Affected by [[NPC01055_Cedric_Voidwalker_the_Wanderer
-- Requires [MON00111_Aberrations_Creature_112]]
+- Related: [[The Clockwork Depths]]
+- Affected by [[NPC01055_Cedric_Voidwalker_the_Wanderer]]
 - Affected by [[ITEM01280_Distilled_Crystal_of_Clarity
 - Influences [LORE00293_Prophecies_Entry_294]]
 - Connects to [[[Alchemists Supplies Xphb]]
@@ -209,14 +177,11 @@ Witnessed important events in the past
 - Related: [[ENC00115_Social_Encounter_116
 - Originates from
 - Related: [[[Symbol Heraldry]] [[Echo Prime [Cacophony Voidlungs]] [[Echo Prime [Cacophony Voidlungs]].svg]]
-- Originates from [[NPC01572_Gavril_Jadeclaw_the_Redeemed
-- Affected by [[[Quick Start]] Guide (D&D_References)]]
+- Originates from [[NPC01572_Gavril_Jadeclaw_the_Redeemed]] Guide (D&D_References)]]
 - Connects to
-- Originates from [[conditions#Invisible
-- Related:
-- Leads to [urban-chase-complications (tables)]]
-- Originates from [[[[Assets Locations [Location City]] Seeds of the Past V1 Seeds of the Past.svg]]
-- See also: [[[Trade Route Map]]
+- Originates from [[Conditions]]
+- Originates from [[Assets Locations]] Seeds of the Past V1 Seeds of the Past.svg]]
+- See also: [[Trade Route Map]]
 - Originates from [[step_016 (phase_080)
 - Leads to [[[Assets Symbols]] [[Symbol Heraldry [Commerce Manager]] [[Fairdealin Commerce [Manager Fairdealin]].svg]]
 - Originates from [[EVENT00091_Natural_Event_92
@@ -229,24 +194,21 @@ Witnessed important events in the past
 - Connects to [[MON00002_Constructs_Creature_3
 - Influences [step_024 (phase_028)]]
 - Requires [[step_090 (phase_019)
-- Originates from [[[The First]] [[Transformation Wave (D&D_References)]]
+- Originates from [[[The First]] [[The First Transformation Wave (D&D_References)]]
 - Connects to [[NPC01939_Orion_Nightfall_the_Bold
 - Leads to
 - Affected by [NPC00942_Nerys_Silverleaf_the_Wanderer]]
 - Requires [[sword-of-kas-xdmg (items)
 - Affected by [cinnamon-xdmg (items)]]
-- Parallels [[[Underground River Systems 2]]
+- Parallels [[Underground River Systems 2]]
 - Parallels [[step_038 (phase_058)
 - Requires [[Dr. [Marina Coralhea]]... [[Related To: [Local Political]] [[Structure Connected Plots: to [Be Developed]]]]
 - See also: [[step_012 (phase_073)
 - Leads to [[[Temporal Anchor]] Points (Lore)]]
-- Affected by [[ENC00103_Environmental_Encounter_104
-- Connects to
-- Related: [step_040 (phase_027)]]
-- Requires [[NPC01144_Orion_Hawthorne_the_Wise
-- Parallels [[Portrait NPC [the]] [[Corroded Crown V1 the [Corroded Crown]].svg]]
+- Affected by [[ENC00103_Environmental_Encounter_104]]
+- Requires [[NPC01144_Orion_Hawthorne_the_Wise]] [[Corroded Crown V1 the [Corroded Crown]].svg]]
 - Affected by
-- Affected by [[[The Soul Market (D&D_References)]]
+- Affected by [[The Soul Market (D&D_References)]]
 - Originates from [[Counter-[Mirror Task Force]]
 - Compare with [[step_006 (phase_024)
 - Leads to [step_035 (phase_009)]]
@@ -258,7 +220,7 @@ Witnessed important events in the past
 - Event 2
 
 ## NPCs Encountered
-- [[NPC [Name]] - Brief description
+- [[Name]] - Brief description
 
 ## [[Locations Visited
 - [[[Location Name]]]] - What happened here
