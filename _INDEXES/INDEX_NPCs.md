@@ -1,54 +1,152 @@
-# NPCs Index
+---
+id: IDX0002
+status: active
+type: index
+domain: resource
+canonical: true
+---
 
-*Sample of 100 items*
+# NPC Index
 
-- [[Archdruid Thornweaver
-- [Keeper Elara Mindwell]]
-- [[NPC00069_Thalia_Brightblade_the_Guardian
-- [NPC00260_Wynne_Underhill_the_Fallen]]
-- [[NPC00276_Ysara_Youngblood
-- [NPC00321_Aeliana_Zephyrblade_the_Strong]]
-- [[NPC00336_Alaric_Frostwhisper_the_Swift
-- [NPC00351_Corvus_Ironwood]]
-- [[NPC00362_Pyria_Stormwind_the_Wise
-- [NPC00385_Qadim_Darkwater_the_Cunning]]
-- [[NPC00388_Ysara_Goldleaf
-- [NPC00395_Aeliana_Thornweave]]
-- [[NPC00407_Hestara_Dawnstrider
-- [NPC00415_Gareth_Winterborn_the_Bold]]
-- [[NPC00437_Hilda_Stormwind_the_Mystic
-- [NPC00461_Branwen_Proudmore_the_Strong]]
-- [[NPC00462_Fiora_Ironforge_the_Seeker
-- [NPC00494_Lyanna_Hawthorne_the_Guardian]]
-- [[NPC00515_Baelor_Crystalbrook_the_Seeker
-- [NPC00525_Fiora_Proudmore_the_Wanderer]]
-- [[NPC00542_Corvus_Oakenshield_the_Strong
-- [NPC00552_Malakai_Stormwind_the_Seeker]]
-- [[NPC00763_Urien_Brightblade_the_Broken
-- [NPC00785_Ysara_Grimholt_the_Mystic]]
-- [[NPC00885_Kaelen_Xendar_the_Lost
-- [NPC00939_Thalia_Jadeclaw_the_Swift]]
-- [[NPC00975_Lyanna_Winterborn_the_Wise
-- [NPC00976_Alaric_Quicksilver_the_Strong]]
-- [[NPC01012_Solas_Darkwater_the_Strong
-- [NPC01057_Pyria_Quicksilver_the_Scholar]]
-- [[NPC01126_Malakai_Oakenshield_the_Fallen
-- [NPC01151_Orion_Stormwind_the_Seeker]]
-- [[NPC01201_Felicia_Ironwood_the_Bold
-- [NPC01286_Xander_Proudmore_the_Bold]]
-- [[NPC01312_Alaric_Darkwater_the_Fallen
-- [NPC01348_Xander_Zephyrblade_the_Wise]]
-- [[NPC01360_Ewan_Blackstone_the_Strong
-- [NPC01367_Lyanna_Xendar_the_Wise]]
-- [[NPC01447_Baelor_Winterborn_the_Strong
-- [NPC01466_Urien_Nightfall_the_Guardian]]
-- [[NPC01476_Qadim_Stormwind_the_Wise
-- [NPC01502_Urien_Underhill_the_Scholar]]
-- [[NPC01503_Ewan_Dawnstrider_the_Redeemed
-- [NPC01566_Lyanna_Underhill_the_Redeemed]]
-- [[NPC01568_Lyanna_Winterborn_the_Strong
-- [NPC01625_Qadim_Lightbringer_the_Swift]]
-- [[NPC01699_Orion_Oakenshield_the_Broken
-- [NPC01786_Zephyr_Jadeclaw_the_Mystic]]
-- [[NPC01792_Rhiannon_Ironwood_the_Scholar
-- [NPC01827_Kaelen_Ironforge_the_Seeker]]
+## 👑 Major NPCs by Campaign
+
+### Aquabyssos
+```dataview
+TABLE WITHOUT ID
+  file.link AS "NPC",
+  race AS "Race",
+  class AS "Class",
+  faction AS "Faction",
+  location AS "Location"
+FROM "03_People"
+WHERE type = "npc" AND campaign = "Aquabyssos"
+SORT file.name ASC
+```
+
+### Aethermoor
+```dataview
+TABLE WITHOUT ID
+  file.link AS "NPC",
+  race AS "Race", 
+  class AS "Class",
+  faction AS "Faction",
+  location AS "Location"
+FROM "03_People"
+WHERE type = "npc" AND campaign = "Aethermoor"
+SORT file.name ASC
+```
+
+## 🏛️ NPCs by Faction
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "NPC",
+  race AS "Race",
+  class AS "Class",
+  role AS "Role",
+  campaign AS "Campaign"
+FROM "03_People"
+WHERE type = "npc" AND faction != null
+GROUP BY faction
+SORT faction ASC
+```
+
+## 📍 NPCs by Location
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "NPC",
+  race AS "Race",
+  class AS "Class",
+  faction AS "Faction"
+FROM "03_People"
+WHERE type = "npc" AND location != null
+GROUP BY location
+SORT location ASC
+```
+
+## 🎭 NPCs by Role
+
+### Leaders & Nobility
+```dataview
+LIST file.link
+FROM "03_People"
+WHERE type = "npc" AND (contains(tags, "leader") OR contains(tags, "noble") OR contains(tags, "ruler"))
+```
+
+### Merchants & Traders
+```dataview
+LIST file.link
+FROM "03_People"
+WHERE type = "npc" AND (contains(tags, "merchant") OR contains(tags, "trader") OR contains(tags, "shopkeeper"))
+```
+
+### Quest Givers
+```dataview
+LIST file.link
+FROM "03_People"
+WHERE type = "npc" AND contains(tags, "quest-giver")
+```
+
+### Antagonists
+```dataview
+LIST file.link
+FROM "03_People"
+WHERE type = "npc" AND (contains(tags, "antagonist") OR contains(tags, "villain") OR contains(tags, "enemy"))
+```
+
+## 🎲 Combat NPCs
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "NPC",
+  cr AS "CR",
+  hp AS "HP",
+  ac AS "AC",
+  attacks AS "Attacks"
+FROM "03_People"
+WHERE type = "npc" AND cr != null
+SORT cr DESC
+```
+
+## 👥 Relationship Web
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "NPC",
+  allies AS "Allies",
+  enemies AS "Enemies",
+  relationships AS "Other"
+FROM "03_People"
+WHERE type = "npc" AND (allies != null OR enemies != null OR relationships != null)
+```
+
+## 🆕 Recently Created NPCs
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "NPC",
+  race AS "Race",
+  class AS "Class",
+  campaign AS "Campaign",
+  file.ctime AS "Created"
+FROM "03_People"
+WHERE type = "npc"
+SORT file.ctime DESC
+LIMIT 20
+```
+
+## 📝 NPCs Needing Development
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "NPC",
+  status AS "Status",
+  file.size AS "Size"
+FROM "03_People"
+WHERE type = "npc" AND (status = "draft" OR status = "seed" OR file.size < 500)
+SORT file.size ASC
+```
+
+---
+*Last updated: `= dateformat(date(now), "yyyy-MM-dd HH:mm")`*

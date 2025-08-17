@@ -416,6 +416,8 @@
   },
   "active": "8f087303df721b9d",
   "lastOpenFiles": [
+    "_INDEXES/INDEX_Master.md",
+    "_INDEXES/INDEX_Master.md.tmp.37885.1755469270106",
     "_METADATA/hygiene_audit_report.json",
     "_SCRIPTS/anomalous_cleanup.py",
     "_SCRIPTS/vault_hygiene_audit.py",
@@ -429,8 +431,6 @@
     "08_Archive/_BACKUPS.zip",
     "_SCRIPTS/targeted_fake_file_remover.py",
     "09_Performance/comprehensive_clean_report.md",
-    "09_Performance/comprehensive_clean_report.json",
-    "_SCRIPTS/comprehensive_vault_cleaner.py",
     "03_People/00_Indexes_Master_Index.md",
     "09_Performance/WRITING_QUALITY_10K_REPORT.md",
     "CLAUDE.md",
