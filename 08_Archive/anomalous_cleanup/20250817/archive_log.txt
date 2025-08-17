@@ -1,0 +1,460 @@
+2025-08-17 17:36:40.306153: Archived 09_Performance/audio_fit_report_1.md
+2025-08-17 17:36:40.306515: Archived 09_Performance/broken_links_analysis_20250815_173726.md
+2025-08-17 17:36:40.306799: Archived 09_Performance/final_link_repair_20250814_175237.md
+2025-08-17 17:36:40.307020: Archived 09_Performance/backup_report_20250815_173537.md
+2025-08-17 17:36:40.307254: Archived 09_Performance/double_extension_fix_20250815_174558.md
+2025-08-17 17:36:40.307515: Archived 09_Performance/optimization_report_20250814_180706.md
+2025-08-17 17:36:40.308434: Archived 09_Performance/fifty_improvements_20250815_155453.md
+2025-08-17 17:36:40.308870: Archived 09_Performance/broken_links_cleanup_20250815_170950.md
+2025-08-17 17:36:40.309179: Archived 09_Performance/EMERGENCY_RECOVERY_20250815_165229.md
+2025-08-17 17:36:40.309812: Archived 09_Performance/directory_cleanup_20250815_174657.md
+2025-08-17 17:36:40.310329: Archived 09_Performance/audio_fit_report_2 (13_Performance).md
+2025-08-17 17:36:40.310829: Archived 09_Performance/deep_quality_enhancement_20250814_175143.md
+2025-08-17 17:36:40.311171: Archived 09_Performance/optimization_report_20250814_180743 (13_Performance).md
+2025-08-17 17:36:40.311561: Archived 09_Performance/audio_fit_report_1 (13_Performance).md
+2025-08-17 17:36:40.311840: Archived 09_Performance/improvement_report_20250815_140442.md
+2025-08-17 17:36:40.312029: Archived 09_Performance/targeted_reorg_20250815_164703.md
+2025-08-17 17:36:40.312353: Archived 09_Performance/smart_link_fix_20250814_211716.md
+2025-08-17 17:36:40.312642: Archived 09_Performance/baseline_report_20250815_175543.md
+2025-08-17 17:36:40.313276: Archived 09_Performance/glidepath_progress_steps_11_50.md
+2025-08-17 17:36:40.313606: Archived 09_Performance/semantic_links_20250815_160530.md
+2025-08-17 17:36:40.314068: Archived 09_Performance/vault_consistency_report_20250814_173035.md
+2025-08-17 17:36:40.314376: Archived 09_Performance/health_check_20250815_173418.md
+2025-08-17 17:36:40.314753: Archived 09_Performance/audio_fit_report (09_Performance).md
+2025-08-17 17:36:40.315012: Archived 09_Performance/empty_file_scan_20250815_174018.md
+2025-08-17 17:36:40.315303: Archived 09_Performance/safe_duplicates_20250815_173856.md
+2025-08-17 17:36:40.315760: Archived 09_Performance/categorization_report_20250815_164524.md
+2025-08-17 17:36:40.316001: Archived 09_Performance/cleanup_report_20250814_173558.md
+2025-08-17 17:36:40.316244: Archived 09_Performance/duplicate_detection_20250815_173856.md
+2025-08-17 17:36:40.316448: Archived 09_Performance/fast_improvements_20250815_153424.md
+2025-08-17 17:36:40.316704: Archived 09_Performance/link_integration_20250815_165327.md
+2025-08-17 17:36:40.316967: Archived 09_Performance/frontmatter_fix_20250814_175706.md
+2025-08-17 17:36:40.317317: Archived 09_Performance/broken_reference_archiving_20250815_174339.md
+2025-08-17 17:36:40.317628: Archived 06_Sessions/Current Session Notes_relocated_1.md
+2025-08-17 17:36:40.318023: Archived 06_Sessions/Session Planning Toolkit_1 (06_Sessions).md
+2025-08-17 17:36:40.318306: Archived 06_Sessions/Session 21 (06_Sessions).md
+2025-08-17 17:36:40.318841: Archived 06_Sessions/Session 3 the Skyship Heist_1 (06_Sessions).md
+2025-08-17 17:36:40.319134: Archived 06_Sessions/Session Template (09_Templates).md
+2025-08-17 17:36:40.319469: Archived 06_Sessions/Session 10 (06_Sessions).md
+2025-08-17 17:36:40.319798: Archived 06_Sessions/Session 01 the Convergence Mystery_relocated_1.md
+2025-08-17 17:36:40.320109: Archived 06_Sessions/Session 30 Campaign Finale_relocated_1.md
+2025-08-17 17:36:40.320481: Archived 06_Sessions/Session 10 New Horizons (06_Sessions).md
+2025-08-17 17:36:40.320688: Archived 06_Sessions/Session 1 Missing Ships_1 (06_Sessions).md
+2025-08-17 17:36:40.320992: Archived 06_Sessions/Session 06 the Sky Throne_relocated_1.md
+2025-08-17 17:36:40.321302: Archived 06_Sessions/Session 23 - The Seven Become One_relocated_1.md
+2025-08-17 17:36:40.321495: Archived 06_Sessions/Session_Template_relocated_2.md
+2025-08-17 17:36:40.321866: Archived 06_Sessions/Session 2 Harbor Investigation_1 (06_Sessions).md
+2025-08-17 17:36:40.322240: Archived 06_Sessions/Session 05 Cross Currents_relocated_1.md
+2025-08-17 17:36:40.322612: Archived 06_Sessions/Session 2 the Shadow Surgery_relocated_1.md
+2025-08-17 17:36:40.323040: Archived 06_Sessions/Session 5 Conspiracy Revealed_1 (06_Sessions).md
+2025-08-17 17:36:40.323588: Archived 06_Sessions/Session 2 Court of Whispers_1 (06_Sessions).md
+2025-08-17 17:36:40.324061: Archived 06_Sessions/Session 1 the Queens Summons_1 (06_Sessions).md
+2025-08-17 17:36:40.324511: Archived 06_Sessions/Session Notes_1 (06_Sessions).md
+2025-08-17 17:36:40.325009: Archived 06_Sessions/Session 3 the Skyship Heist_relocated_1.md
+2025-08-17 17:36:40.325907: Archived 06_Sessions/Session Planning Guide (06_Sessions).md
+2025-08-17 17:36:40.326240: Archived 06_Sessions/Session 24 (06_Sessions).md
+2025-08-17 17:36:40.326492: Archived 06_Sessions/Session 10 - New Horizons_relocated_1.md
+2025-08-17 17:36:40.327141: Archived 06_Sessions/Session 3 the Duplicate Crisis_relocated_1.md
+2025-08-17 17:36:40.327415: Archived 06_Sessions/Session 3 Underwater Chase_1 (06_Sessions).md
+2025-08-17 17:36:40.327662: Archived 06_Sessions/Session 4 (06_Sessions).md
+2025-08-17 17:36:40.327937: Archived 06_Sessions/Possession Mechanics_relocated_1.md
+2025-08-17 17:36:40.328221: Archived 06_Sessions/Session 24 - New Horizons_relocated_1.md
+2025-08-17 17:36:40.328647: Archived 06_Sessions/Session 4 Smuggler Base_1 (06_Sessions).md
+2025-08-17 17:36:40.328936: Archived 06_Sessions/Session_Template_relocated_1.md
+2025-08-17 17:36:40.329248: Archived 06_Sessions/Session 19 (06_Sessions).md
+2025-08-17 17:36:40.329594: Archived 06_Sessions/Session Template (06_Sessions).md
+2025-08-17 17:36:40.329856: Archived 06_Sessions/Session 01_relocated_1.md
+2025-08-17 17:36:40.330062: Archived 06_Sessions/Session 08 (06_Sessions).md
+2025-08-17 17:36:40.330622: Archived 06_Sessions/Session 17 (06_Sessions).md
+2025-08-17 17:36:40.331092: Archived 06_Sessions/Session 5 the Wind Singer_1 (06_Sessions).md
+2025-08-17 17:36:40.331344: Archived 06_Sessions/Session 03 (06_Sessions).md
+2025-08-17 17:36:40.331640: Archived 06_Sessions/Session 21 - The Final Guardian_relocated_1.md
+2025-08-17 17:36:40.332121: Archived 06_Sessions/Session 2 The Shadow Surgery (Shadow_Conspiracy).md
+2025-08-17 17:36:40.332363: Archived 06_Sessions/Session 4 Battle Above Clouds_1 (06_Sessions).md
+2025-08-17 17:36:40.332913: Archived 06_Sessions/Session 2 Court of Whispers_relocated_1.md
+2025-08-17 17:36:40.333263: Archived 06_Sessions/Session 07 (06_Sessions).md
+2025-08-17 17:36:40.333495: Archived 06_Sessions/Session Zero Checklist_1 (06_Sessions).md
+2025-08-17 17:36:40.333847: Archived 06_Sessions/Session 0 - Aquabyssos_relocated_1.md
+2025-08-17 17:36:40.334248: Archived 06_Sessions/Session 4 Smuggler Base_relocated_1.md
+2025-08-17 17:36:40.334568: Archived 06_Sessions/Session 13 (06_Sessions).md
+2025-08-17 17:36:40.334913: Archived 06_Sessions/Session 04 the Deep Mother Stirs_relocated_1.md
+2025-08-17 17:36:40.335527: Archived 07_Player_Resources/Faction_Guide.md_1 (07_Player_Resources).md
+2025-08-17 17:36:40.336004: Archived 03_People/Aquabyssos_Character_Creation_relocated_1.md
+2025-08-17 17:36:40.336935: Archived 03_People/NPCs/NPC_Portraits_Gallery (Galleries).md
+2025-08-17 17:36:40.337262: Archived 03_People/NPCs/NPC_Generator_relocated_1.md
+2025-08-17 17:36:40.337679: Archived 03_People/NPCs/Portrait_Prompts - NPCs_relocated_1.md
+2025-08-17 17:36:40.338348: Archived 02_Worldbuilding/Symbol Heraldry Aquabyssos Faction Web V1 Aquabyssos Faction Web.svg_1 (Symbols).md
+2025-08-17 17:36:40.338643: Archived 02_Worldbuilding/The Cloud Shepherd Guild (Groups).md
+2025-08-17 17:36:40.338981: Archived 02_Worldbuilding/Faction1_relocated_1.md
+2025-08-17 17:36:40.339283: Archived 02_Worldbuilding/Truth Seekers Guild_relocated_1.md
+2025-08-17 17:36:40.339556: Archived 02_Worldbuilding/Absolute Reality Faction_relocated_1.md
+2025-08-17 17:36:40.339823: Archived 02_Worldbuilding/Symbol Heraldry Faction Intelligence Faction Intelligence.svg_1 (Symbols).md
+2025-08-17 17:36:40.340109: Archived 02_Worldbuilding/Memory Thieves Guild (Guilds).md
+2025-08-17 17:36:40.340445: Archived 02_Worldbuilding/Shadow Harmonists Guild_relocated_1.md
+2025-08-17 17:36:40.340687: Archived 02_Worldbuilding/The Memory Merchants Guild (Groups).md
+2025-08-17 17:36:40.340890: Archived 02_Worldbuilding/Guild Master Coppe_relocated_1.md
+2025-08-17 17:36:40.341126: Archived 02_Worldbuilding/Crystal Cultivators Guild_relocated_1.md
+2025-08-17 17:36:40.341334: Archived 02_Worldbuilding/Deep Mining Guild_relocated_1.md
+2025-08-17 17:36:40.341554: Archived 02_Worldbuilding/The Mirror Merchants Guild_relocated_1.md
+2025-08-17 17:36:40.341756: Archived 02_Worldbuilding/Progressive Senate Faction_relocated_1.md
+2025-08-17 17:36:40.341966: Archived 02_Worldbuilding/Redirector's Guild (Guilds).md
+2025-08-17 17:36:40.342219: Archived 02_Worldbuilding/Labor Organization_relocated_1.md
+2025-08-17 17:36:40.342473: Archived 02_Worldbuilding/Crystal Engineering Guild_relocated_1.md
+2025-08-17 17:36:40.342708: Archived 02_Worldbuilding/Aquabyssos Faction Web 2_relocated_1.md
+2025-08-17 17:36:40.342949: Archived 02_Worldbuilding/Faction Interaction Rules_relocated_1.md
+2025-08-17 17:36:40.343200: Archived 02_Worldbuilding/Master Cultivators Guild (Groups).md
+2025-08-17 17:36:40.343603: Archived 02_Worldbuilding/Uniting the Factions_relocated_1.md
+2025-08-17 17:36:40.343878: Archived 02_Worldbuilding/Bloom Field Cultivation Guild (Guilds).md
+2025-08-17 17:36:40.344129: Archived 02_Worldbuilding/Respiratory Engineering Guild (Groups).md
+2025-08-17 17:36:40.344407: Archived 02_Worldbuilding/Festival Artisans Guild_relocated_1.md
+2025-08-17 17:36:40.344704: Archived 02_Worldbuilding/Worker organization movements_relocated_1.md
+2025-08-17 17:36:40.344944: Archived 02_Worldbuilding/Young Merchant Guild_relocated_1.md
+2025-08-17 17:36:40.345185: Archived 02_Worldbuilding/New Death Faction_relocated_1.md
+2025-08-17 17:36:40.345532: Archived 02_Worldbuilding/Aquabyssos Faction Web_relocated_1.md
+2025-08-17 17:36:40.345753: Archived 02_Worldbuilding/Merchants Guild.md (Groups).md
+2025-08-17 17:36:40.346001: Archived 02_Worldbuilding/Faction_Overview_relocated_1.md
+2025-08-17 17:36:40.346264: Archived 02_Worldbuilding/The Crystal Forge Guild_relocated_1.md
+2025-08-17 17:36:40.346673: Archived 02_Worldbuilding/The Windcatchers Guild_relocated_1.md
+2025-08-17 17:36:40.347074: Archived 02_Worldbuilding/Artisan Guild Master_relocated_1.md
+2025-08-17 17:36:40.347451: Archived 02_Worldbuilding/Symbol Heraldry Factional Conflicts Factional Conflicts.svg_1 (Symbols).md
+2025-08-17 17:36:40.347759: Archived 02_Worldbuilding/The Guild Archive_relocated_1.md
+2025-08-17 17:36:40.348082: Archived 02_Worldbuilding/Filtration Systems Guild_relocated_1.md
+2025-08-17 17:36:40.348372: Archived 02_Worldbuilding/Aerial Navigation Guild_relocated_1.md
+2025-08-17 17:36:40.348700: Archived 02_Worldbuilding/The Pearl Divers Guild (Guilds).md
+2025-08-17 17:36:40.349016: Archived 02_Worldbuilding/The Traders Guild (Guilds).md
+2025-08-17 17:36:40.349486: Archived 02_Worldbuilding/Memory Merchants Guild_relocated_1.md
+2025-08-17 17:36:40.349760: Archived 02_Worldbuilding/Sky-Sailor Guilds_relocated_1.md
+2025-08-17 17:36:40.350068: Archived 02_Worldbuilding/Respiratory Engineering Guild_relocated_1.md
+2025-08-17 17:36:40.350390: Archived 02_Worldbuilding/Scholar's Guild_relocated_1.md
+2025-08-17 17:36:40.350721: Archived 02_Worldbuilding/The Crystal Artisans Guild_relocated_1.md
+2025-08-17 17:36:40.351092: Archived 02_Worldbuilding/Guild Master Shellforge_relocated_1.md
+2025-08-17 17:36:40.351402: Archived 02_Worldbuilding/Faction Name_relocated_1.md
+2025-08-17 17:36:40.351694: Archived 02_Worldbuilding/Guild Organization (Guilds).md
+2025-08-17 17:36:40.352046: Archived 02_Worldbuilding/Shadow Merchants Guild_relocated_1.md
+2025-08-17 17:36:40.352784: Archived 02_Worldbuilding/Faction_Relationships_relocated_1.md
+2025-08-17 17:36:40.353104: Archived 02_Worldbuilding/Traditional Craftsmen Guild (Guilds).md
+2025-08-17 17:36:40.353400: Archived 02_Worldbuilding/Faction Balance Maintenance_relocated_1.md
+2025-08-17 17:36:40.353734: Archived 02_Worldbuilding/Cloud Shepherd Guild_relocated_1.md
+2025-08-17 17:36:40.354095: Archived 02_Worldbuilding/Foreign Trade Guilds_relocated_1.md
+2025-08-17 17:36:40.354513: Archived 02_Worldbuilding/Guildmaster Storm Skywright (Guilds).md
+2025-08-17 17:36:40.354894: Archived 02_Worldbuilding/Crystal Merchants Guild (Guilds).md
+2025-08-17 17:36:40.355274: Archived 02_Worldbuilding/Criminal_Organizations_relocated_1.md
+2025-08-17 17:36:40.355609: Archived 02_Worldbuilding/The Scholar's Guild (Guilds).md
+2025-08-17 17:36:40.355923: Archived 02_Worldbuilding/Guild Master Copper (Guilds).md
+2025-08-17 17:36:40.356236: Archived 02_Worldbuilding/The Free Guilds Alliance_relocated_1.md
+2025-08-17 17:36:40.356579: Archived 02_Worldbuilding/The Guild Council_relocated_1.md
+2025-08-17 17:36:40.356974: Archived 02_Worldbuilding/The Moneylender's Guild (Guilds).md
+2025-08-17 17:36:40.357282: Archived 02_Worldbuilding/Underwater Navigation Guild_relocated_1.md
+2025-08-17 17:36:40.357681: Archived 02_Worldbuilding/Organization_relocated_1.md
+2025-08-17 17:36:40.358117: Archived 02_Worldbuilding/The Guild Quarter_relocated_1.md
+2025-08-17 17:36:40.358523: Archived 02_Worldbuilding/Crystal Harvester Guild_relocated_1.md
+2025-08-17 17:36:40.359033: Archived 02_Worldbuilding/Pressure Equipment Guild_relocated_1.md
+2025-08-17 17:36:40.359316: Archived 02_Worldbuilding/Symbol Heraldry Factional Conflicts V1 Factional Conflicts.svg_1 (Symbols).md
+2025-08-17 17:36:40.359622: Archived 02_Worldbuilding/Funeral Directors Guild (Guilds).md
+2025-08-17 17:36:40.360314: Archived 02_Worldbuilding/Symbol Heraldry Aquabyssos Faction Web Aquabyssos Faction Web.svg_1 (Symbols).md
+2025-08-17 17:36:40.360601: Archived 02_Worldbuilding/Coral Merchants Guild_relocated_1.md
+2025-08-17 17:36:40.361077: Archived 02_Worldbuilding/Faction_Symbols_&_Heraldry (Galleries).md
+2025-08-17 17:36:40.361492: Archived 02_Worldbuilding/Death Hunters Guild (Guilds).md
+2025-08-17 17:36:40.361896: Archived 02_Worldbuilding/Sky Merchant Guilds_relocated_1.md
+2025-08-17 17:36:40.362227: Archived 02_Worldbuilding/Faction Interaction Matrix_relocated_1.md
+2025-08-17 17:36:40.362542: Archived 02_Worldbuilding/The Wind Singers Guild_relocated_1.md
+2025-08-17 17:36:40.362844: Archived 02_Worldbuilding/Master Cultivators Guild_relocated_1.md
+2025-08-17 17:36:40.363212: Archived 02_Worldbuilding/Marine Protection Guild (Guilds).md
+2025-08-17 17:36:40.363538: Archived 02_Worldbuilding/Abyssal Courts (Factions).md
+2025-08-17 17:36:40.363854: Archived 02_Worldbuilding/Faction Loyalty Mechanics_relocated_1.md
+2025-08-17 17:36:40.364220: Archived 02_Worldbuilding/Symbol Heraldry Faction Intelligence V1 Faction Intelligence.svg_1 (Symbols).md
+2025-08-17 17:36:40.364535: Archived 02_Worldbuilding/Merchant_Guilds_relocated_1.md
+2025-08-17 17:36:40.364812: Archived 02_Worldbuilding/The Shipwright Guilds (Guilds).md
+2025-08-17 17:36:40.365028: Archived 02_Worldbuilding/Faction Overview for Players_relocated_1.md
+2025-08-17 17:36:40.365439: Archived 02_Worldbuilding/Lore/Scholars of Divine Lore_relocated_1.md
+2025-08-17 17:36:40.365738: Archived 02_Worldbuilding/Lore/Aethermoor Wind Rider Traditions (Lore).md
+2025-08-17 17:36:40.366089: Archived 02_Worldbuilding/Lore/A Day in Aquabyssos (Lore).md
+2025-08-17 17:36:40.366551: Archived 02_Worldbuilding/Lore/Map of the Whispering Expanse (Lore).md
+2025-08-17 17:36:40.366839: Archived 02_Worldbuilding/Lore/Aethermoor Daily Rhythms (Lore).md
+2025-08-17 17:36:40.367189: Archived 02_Worldbuilding/Lore/Aethermoor World Guide (Lore).md
+2025-08-17 17:36:40.367578: Archived 02_Worldbuilding/Lore/Scholars of Divine Lore 2_relocated_1.md
+2025-08-17 17:36:40.368142: Archived 02_Worldbuilding/Lore/Aquabyssos Trade Seal (Lore).md
+2025-08-17 17:36:40.368463: Archived 02_Worldbuilding/Lore/Aquabyssos World Guide (Lore).md
+2025-08-17 17:36:40.369021: Archived 02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties (Lore).md
+2025-08-17 17:36:40.369287: Archived 02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide (Lore).md
+2025-08-17 17:36:40.369610: Archived 02_Worldbuilding/Lore/Future Aquabyssos (Lore).md
+2025-08-17 17:36:40.369927: Archived 02_Worldbuilding/Lore/Aquabyssos Depth Caste System (Lore).md
+2025-08-17 17:36:40.370267: Archived 02_Worldbuilding/Lore/Determine Aquabyssos (Lore).md
+2025-08-17 17:36:40.370554: Archived 02_Worldbuilding/Lore/Aquabyssos Cultural Codex (Lore).md
+2025-08-17 17:36:40.370905: Archived 02_Worldbuilding/Lore/Grand Engineer Prism Masterwork (Lore).md
+2025-08-17 17:36:40.371278: Archived 02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos (Lore).md
+2025-08-17 17:36:40.371578: Archived 02_Worldbuilding/Lore/Treatments/Synthesis Consciousness Transfer (Treatments).md
+2025-08-17 17:36:40.371926: Archived 02_Worldbuilding/Lore/Lore/INV-002 (Lore).md
+2025-08-17 17:36:40.372234: Archived 02_Worldbuilding/Lore/Lore/Memory Trader Kellian (Lore).md
+2025-08-17 17:36:40.372528: Archived 02_Worldbuilding/Lore/Lore/Memory Merchant Valeria (Lore).md
+2025-08-17 17:36:40.372759: Archived 02_Worldbuilding/Lore/Lore/Hybrid Abominations (Lore).md
+2025-08-17 17:36:40.372954: Archived 02_Worldbuilding/Lore/Lore/The Dream Shard (Lore).md
+2025-08-17 17:36:40.373218: Archived 02_Worldbuilding/Lore/Lore/Customs House (Lore).md
+2025-08-17 17:36:40.373456: Archived 02_Worldbuilding/Lore/Lore/The Crystal Festival (Lore).md
+2025-08-17 17:36:40.373726: Archived 02_Worldbuilding/Lore/Lore/Consequence Chain 2 - Crystal Trade Disruption (Lore).md
+2025-08-17 17:36:40.373941: Archived 02_Worldbuilding/Lore/Lore/Infiltrate Surgical Facilities (Lore).md
+2025-08-17 17:36:40.374170: Archived 02_Worldbuilding/Lore/Lore/Timeline of the Drowning (Lore).md
+2025-08-17 17:36:40.376033: Archived 02_Worldbuilding/Lore/Lore/The Festival of Rising Tides (Lore).md
+2025-08-17 17:36:40.378293: Archived 02_Worldbuilding/Lore/Lore/Lighthouse of Storms (Lore).md
+2025-08-17 17:36:40.378550: Archived 02_Worldbuilding/Lore/Lore/Displaced Atoll Residents (Lore).md
+2025-08-17 17:36:40.378794: Archived 02_Worldbuilding/Lore/Lore/Prep Note (Lore).md
+2025-08-17 17:36:40.379116: Archived 02_Worldbuilding/Lore/Lore/Leviathan (Lore).md
+2025-08-17 17:36:40.379417: Archived 02_Worldbuilding/Lore/Lore/Halls of Eternal Memory (Lore).md
+2025-08-17 17:36:40.379703: Archived 02_Worldbuilding/Lore/Lore/Reality_Manipulation (Lore).md
+2025-08-17 17:36:40.379991: Archived 02_Worldbuilding/Lore/Lore/Gareth Brightweave (Lore).md
+2025-08-17 17:36:40.380241: Archived 02_Worldbuilding/Lore/Lore/Void Watchers (Lore).md
+2025-08-17 17:36:40.380467: Archived 02_Worldbuilding/Lore/Lore/The_Dimensional_Barrier (Lore).md
+2025-08-17 17:36:40.380692: Archived 02_Worldbuilding/Lore/Lore/Crystal Corruption Timeline (Lore).md
+2025-08-17 17:36:40.380914: Archived 02_Worldbuilding/Lore/Lore/Pre-Submersion Ruins (Lore).md
+2025-08-17 17:36:40.381140: Archived 02_Worldbuilding/Lore/Lore/Crystal Throne (Lore).md
+2025-08-17 17:36:40.381369: Archived 02_Worldbuilding/Lore/Lore/Krake (Lore).md
+2025-08-17 17:36:40.381625: Archived 02_Worldbuilding/Lore/Lore/Prince Caspian (Lore).md
+2025-08-17 17:36:40.381903: Archived 02_Worldbuilding/Lore/Lore/Parliamentary Infiltration Methods (Lore).md
+2025-08-17 17:36:40.382171: Archived 02_Worldbuilding/Lore/Lore/Deep Mother (Lore).md
+2025-08-17 17:36:40.382434: Archived 02_Worldbuilding/Lore/Lore/The Transformed Citizens (Lore).md
+2025-08-17 17:36:40.382680: Archived 02_Worldbuilding/Lore/Lore/Thugs (Lore).md
+2025-08-17 17:36:40.382962: Archived 02_Worldbuilding/Lore/Lore/Kelp Highway (Lore).md
+2025-08-17 17:36:40.383204: Archived 02_Worldbuilding/Lore/Lore/Resonance Peaks (Lore).md
+2025-08-17 17:36:40.383430: Archived 02_Worldbuilding/Lore/Lore/Unite the Two Worlds (Lore).md
+2025-08-17 17:36:40.383670: Archived 02_Worldbuilding/Lore/Lore/The Void Conspiracy (Lore).md
+2025-08-17 17:36:40.383887: Archived 02_Worldbuilding/Lore/Lore/Shadow Markets (Lore).md
+2025-08-17 17:36:40.384135: Archived 02_Worldbuilding/Lore/Lore/A Cave.png (Lore).md
+2025-08-17 17:36:40.384372: Archived 02_Worldbuilding/Lore/Lore/Depth Effect Quick Reference (Lore).md
+2025-08-17 17:36:40.384620: Archived 02_Worldbuilding/Lore/Lore/Enhancement Ethics Advisor (Lore).md
+2025-08-17 17:36:40.384843: Archived 02_Worldbuilding/Lore/Lore/The Reality Engine (Lore).md
+2025-08-17 17:36:40.385053: Archived 02_Worldbuilding/Lore/Lore/The Singer Beyond (Lore).md
+2025-08-17 17:36:40.385284: Archived 02_Worldbuilding/Lore/Lore/Umbral Exchange (Lore).md
+2025-08-17 17:36:40.385521: Archived 02_Worldbuilding/Lore/Lore/Senator Glaucus Brain (Lore).md
+2025-08-17 17:36:40.385737: Archived 02_Worldbuilding/Lore/Lore/The Crystal Guard Elite (Lore).md
+2025-08-17 17:36:40.386004: Archived 02_Worldbuilding/Lore/Lore/Unite or Divide (Lore).md
+2025-08-17 17:36:40.386296: Archived 02_Worldbuilding/Lore/Lore/Aethermoor Wind Rider Traditions (Lore).md
+2025-08-17 17:36:40.386574: Archived 02_Worldbuilding/Lore/Lore/The Deep Harvest (Lore).md
+2025-08-17 17:36:40.386864: Archived 02_Worldbuilding/Lore/Lore/The Void Currents (Lore).md
+2025-08-17 17:36:40.387112: Archived 02_Worldbuilding/Lore/Lore/Seven Shards (Lore).md
+2025-08-17 17:36:40.387387: Archived 02_Worldbuilding/Lore/Lore/The Grand Trade Routes (Lore).md
+2025-08-17 17:36:40.387678: Archived 02_Worldbuilding/Lore/Lore/The Remembrancer General (Lore).md
+2025-08-17 17:36:40.388004: Archived 02_Worldbuilding/Lore/Lore/A Day in Aquabyssos (Lore).md
+2025-08-17 17:36:40.388255: Archived 02_Worldbuilding/Lore/Lore/Map of the Whispering Expanse (Lore).md
+2025-08-17 17:36:40.388484: Archived 02_Worldbuilding/Lore/Lore/District Economic Profiles (Lore).md
+2025-08-17 17:36:40.388793: Archived 02_Worldbuilding/Lore/Lore/Pirates (Lore).md
+2025-08-17 17:36:40.389113: Archived 02_Worldbuilding/Lore/Lore/The Final Sealing (Lore).md
+2025-08-17 17:36:40.389435: Archived 02_Worldbuilding/Lore/Lore/Aethermoor Daily Rhythms (Lore).md
+2025-08-17 17:36:40.389744: Archived 02_Worldbuilding/Lore/Lore/Law Enforcement (Lore).md
+2025-08-17 17:36:40.390113: Archived 02_Worldbuilding/Lore/Lore/The Pressure Forges (Lore).md
+2025-08-17 17:36:40.390431: Archived 02_Worldbuilding/Lore/Lore/Crystal Singers (Lore).md
+2025-08-17 17:36:40.390770: Archived 02_Worldbuilding/Lore/Lore/Memory Meadows (Lore).md
+2025-08-17 17:36:40.391135: Archived 02_Worldbuilding/Lore/Lore/The Crystal Networks (Lore).md
+2025-08-17 17:36:40.391428: Archived 02_Worldbuilding/Lore/Lore/The Void Shard (Lore).md
+2025-08-17 17:36:40.391772: Archived 02_Worldbuilding/Lore/Lore/Aethermoor World Guide (Lore).md
+2025-08-17 17:36:40.392087: Archived 02_Worldbuilding/Lore/Lore/Deep Oracle (Lore).md
+2025-08-17 17:36:40.392429: Archived 02_Worldbuilding/Lore/Lore/Merged Reality Zones (Lore).md
+2025-08-17 17:36:40.393353: Archived 02_Worldbuilding/Lore/Lore/Aquabyssos Trade Seal (Lore).md
+2025-08-17 17:36:40.393666: Archived 02_Worldbuilding/Lore/Lore/Silver Mask (Lore).md
+2025-08-17 17:36:40.394029: Archived 02_Worldbuilding/Lore/Lore/Deep Mother Influence (Lore).md
+2025-08-17 17:36:40.394381: Archived 02_Worldbuilding/Lore/Lore/Confront the Possessed Queen (Lore).md
+2025-08-17 17:36:40.394685: Archived 02_Worldbuilding/Lore/Lore/Aquabyssos World Guide (Lore).md
+2025-08-17 17:36:40.395050: Archived 02_Worldbuilding/Lore/Lore/Temporal Anomaly Resolution (Lore).md
+2025-08-17 17:36:40.395404: Archived 02_Worldbuilding/Lore/Lore/Drowned (Lore).md
+2025-08-17 17:36:40.395757: Archived 02_Worldbuilding/Lore/Lore/Crystal Corruption Taboos (Lore).md
+2025-08-17 17:36:40.396078: Archived 02_Worldbuilding/Lore/Lore/Director Prism Reformheart (Lore).md
+2025-08-17 17:36:40.396385: Archived 02_Worldbuilding/Lore/Lore/The Threshold (Lore).md
+2025-08-17 17:36:40.396704: Archived 02_Worldbuilding/Lore/Lore/Monster Manual Reference (Lore).md
+2025-08-17 17:36:40.397035: Archived 02_Worldbuilding/Lore/Lore/Biological Enhancement Corps (Lore).md
+2025-08-17 17:36:40.397353: Archived 02_Worldbuilding/Lore/Lore/Daily Routine Nuances and Details (Lore).md
+2025-08-17 17:36:40.397691: Archived 02_Worldbuilding/Lore/Lore/Consequence Chain 4 - Deep Mother Awakening (Lore).md
+2025-08-17 17:36:40.398006: Archived 02_Worldbuilding/Lore/Lore/Goldwave Manor (Lore).md
+2025-08-17 17:36:40.398374: Archived 02_Worldbuilding/Lore/Lore/Infected Experiments (Lore).md
+2025-08-17 17:36:40.398792: Archived 02_Worldbuilding/Lore/Lore/The Seventeen Attempts (Lore).md
+2025-08-17 17:36:40.399070: Archived 02_Worldbuilding/Lore/Lore/GM Resources (Lore).md
+2025-08-17 17:36:40.399390: Archived 02_Worldbuilding/Lore/Lore/The Queen (Lore).md
+2025-08-17 17:36:40.399719: Archived 02_Worldbuilding/Lore/Lore/Update Indexes (Lore).md
+2025-08-17 17:36:40.400019: Archived 02_Worldbuilding/Lore/Lore/General Radiance Stormwright (Lore).md
+2025-08-17 17:36:40.400309: Archived 02_Worldbuilding/Lore/Lore/Temporal Anchor Points (Lore).md
+2025-08-17 17:36:40.400655: Archived 02_Worldbuilding/Lore/Lore/Aquabyssos-Aethermoor Treaties (Lore).md
+2025-08-17 17:36:40.401008: Archived 02_Worldbuilding/Lore/Lore/Aethermoor-Aquabyssos-World-Connection-Guide (Lore).md
+2025-08-17 17:36:40.401394: Archived 02_Worldbuilding/Lore/Lore/Convergence_Points (Lore).md
+2025-08-17 17:36:40.401745: Archived 02_Worldbuilding/Lore/Lore/Future Aquabyssos (Lore).md
+2025-08-17 17:36:40.402074: Archived 02_Worldbuilding/Lore/Lore/The Tethyan Hegemony (Lore).md
+2025-08-17 17:36:40.402386: Archived 02_Worldbuilding/Lore/Lore/Crystal Resonance (Lore).md
+2025-08-17 17:36:40.402702: Archived 02_Worldbuilding/Lore/Lore/Princess Celestia (Lore).md
+2025-08-17 17:36:40.403008: Archived 02_Worldbuilding/Lore/Lore/Director Marina Coralstudent (Lore).md
+2025-08-17 17:36:40.403276: Archived 02_Worldbuilding/Lore/Lore/Working Class Routines (Lore).md
+2025-08-17 17:36:40.403557: Archived 02_Worldbuilding/Lore/Lore/Pier 7 (Lore).md
+2025-08-17 17:36:40.403835: Archived 02_Worldbuilding/Lore/Lore/Memory Tide Events (Lore).md
+2025-08-17 17:36:40.404151: Archived 02_Worldbuilding/Lore/Lore/Royal Guard (Lore).md
+2025-08-17 17:36:40.404457: Archived 02_Worldbuilding/Lore/Lore/Navigate Singer Consciousness (Lore).md
+2025-08-17 17:36:40.404712: Archived 02_Worldbuilding/Lore/Lore/Institute of Living Sciences (Lore).md
+2025-08-17 17:36:40.405069: Archived 02_Worldbuilding/Lore/Lore/Wind Song Linguistic Guide (Lore).md
+2025-08-17 17:36:40.405354: Archived 02_Worldbuilding/Lore/Lore/Crystal Magic Theory (Lore).md
+2025-08-17 17:36:40.405646: Archived 02_Worldbuilding/Lore/Lore/Tidal Chambers (Lore).md
+2025-08-17 17:36:40.405945: Archived 02_Worldbuilding/Lore/Lore/Aetheric Wind Songs (Lore).md
+2025-08-17 17:36:40.406192: Archived 02_Worldbuilding/Lore/Lore/The Seven Shards (Lore).md
+2025-08-17 17:36:40.406466: Archived 02_Worldbuilding/Lore/Lore/The Memory Wars (Lore).md
+2025-08-17 17:36:40.406721: Archived 02_Worldbuilding/Lore/Lore/The Forgetting Bomb (Lore).md
+2025-08-17 17:36:40.406964: Archived 02_Worldbuilding/Lore/Lore/Silverscale Banking House (Lore).md
+2025-08-17 17:36:40.407170: Archived 02_Worldbuilding/Lore/Lore/Aquabyssos Depth Caste System (Lore).md
+2025-08-17 17:36:40.407355: Archived 02_Worldbuilding/Lore/Lore/Determine Aquabyssos (Lore).md
+2025-08-17 17:36:40.407541: Archived 02_Worldbuilding/Lore/Lore/Eastern Kingdoms (Lore).md
+2025-08-17 17:36:40.407751: Archived 02_Worldbuilding/Lore/Lore/The Silverscale Conspiracy (Lore).md
+2025-08-17 17:36:40.408024: Archived 02_Worldbuilding/Lore/Lore/Reputation System (Lore).md
+2025-08-17 17:36:40.408268: Archived 02_Worldbuilding/Lore/Lore/Throne Room (Lore).md
+2025-08-17 17:36:40.408508: Archived 02_Worldbuilding/Lore/Lore/High Diplomat Coral Bridgewater (Lore).md
+2025-08-17 17:36:40.408762: Archived 02_Worldbuilding/Lore/Lore/Crystal Garden (Lore).md
+2025-08-17 17:36:40.409015: Archived 02_Worldbuilding/Lore/Lore/Professional Terminology (Lore).md
+2025-08-17 17:36:40.409286: Archived 02_Worldbuilding/Lore/Lore/The Crown of Stars (Lore).md
+2025-08-17 17:36:40.409506: Archived 02_Worldbuilding/Lore/Lore/The Coral Courts (Lore).md
+2025-08-17 17:36:40.409744: Archived 02_Worldbuilding/Lore/Lore/Organized Crime Networks (Lore).md
+2025-08-17 17:36:40.409991: Archived 02_Worldbuilding/Lore/Lore/The Emperor''s Gambit (Lore).md
+2025-08-17 17:36:40.410231: Archived 02_Worldbuilding/Lore/Lore/Race Against the Festival (Lore).md
+2025-08-17 17:36:40.410496: Archived 02_Worldbuilding/Lore/Lore/The Breathing Stone (Lore).md
+2025-08-17 17:36:40.410706: Archived 02_Worldbuilding/Lore/Lore/Shadow Conspiracy Timeline (Lore).md
+2025-08-17 17:36:40.410946: Archived 02_Worldbuilding/Lore/Lore/The Artisans' Collective (Lore).md
+2025-08-17 17:36:40.411135: Archived 02_Worldbuilding/Lore/Lore/Professor Euclid Mindmaze (Lore).md
+2025-08-17 17:36:40.411334: Archived 02_Worldbuilding/Lore/Lore/Underwater Breathing (Lore).md
+2025-08-17 17:36:40.411543: Archived 02_Worldbuilding/Lore/Lore/Deep Current Academy (Lore).md
+2025-08-17 17:36:40.411748: Archived 02_Worldbuilding/Lore/Lore/The Deep Prophecies (Lore).md
+2025-08-17 17:36:40.411999: Archived 02_Worldbuilding/Lore/Lore/Gamma-Enforcement (Lore).md
+2025-08-17 17:36:40.412291: Archived 02_Worldbuilding/Lore/Lore/Great Drowning (Lore).md
+2025-08-17 17:36:40.412547: Archived 02_Worldbuilding/Lore/Lore/Fortress of the Deeps (Lore).md
+2025-08-17 17:36:40.412792: Archived 02_Worldbuilding/Lore/Lore/The Seahawk (Lore).md
+2025-08-17 17:36:40.413040: Archived 02_Worldbuilding/Lore/Lore/Multi-Phase Boss Fights (Lore).md
+2025-08-17 17:36:40.413285: Archived 02_Worldbuilding/Lore/Lore/Memory Alterations (Lore).md
+2025-08-17 17:36:40.413535: Archived 02_Worldbuilding/Lore/Lore/Aquabyssos Cultural Codex (Lore).md
+2025-08-17 17:36:40.413766: Archived 02_Worldbuilding/Lore/Lore/Pressure Adaptation System (Lore).md
+2025-08-17 17:36:40.413998: Archived 02_Worldbuilding/Lore/Lore/Ritual Redirection Options (Lore).md
+2025-08-17 17:36:40.414237: Archived 02_Worldbuilding/Lore/Lore/Coral (Lore).md
+2025-08-17 17:36:40.414475: Archived 02_Worldbuilding/Lore/Lore/Grand Engineer Prism Masterwork (Lore).md
+2025-08-17 17:36:40.414714: Archived 02_Worldbuilding/Lore/Lore/War College of Depths (Lore).md
+2025-08-17 17:36:40.414920: Archived 02_Worldbuilding/Lore/Lore/Post-Merge Chronology (Lore).md
+2025-08-17 17:36:40.415152: Archived 02_Worldbuilding/Lore/Lore/Archmagus Velleth Shadowmere (Lore).md
+2025-08-17 17:36:40.415369: Archived 02_Worldbuilding/Lore/Lore/Noble Leisure Schedules (Lore).md
+2025-08-17 17:36:40.415556: Archived 02_Worldbuilding/Lore/Lore/Diplomatic Training Institute (Lore).md
+2025-08-17 17:36:40.415741: Archived 02_Worldbuilding/Lore/Lore/Shadow-Crystal Synthesis (Lore).md
+2025-08-17 17:36:40.415953: Archived 02_Worldbuilding/Lore/Lore/Identity Crisis Resolution (Lore).md
+2025-08-17 17:36:40.416202: Archived 02_Worldbuilding/Lore/Lore/Biomancer Corvus Intestinal (Lore).md
+2025-08-17 17:36:40.416390: Archived 02_Worldbuilding/Lore/Lore/Doctor Emma Herbalist (Lore).md
+2025-08-17 17:36:40.416585: Archived 02_Worldbuilding/Lore/Lore/Dataview Query Guide (Lore).md
+2025-08-17 17:36:40.416776: Archived 02_Worldbuilding/Lore/Lore/Thalassius the Wise (Lore).md
+2025-08-17 17:36:40.416959: Archived 02_Worldbuilding/Lore/Lore/Crystal Mines (Lore).md
+2025-08-17 17:36:40.417153: Archived 02_Worldbuilding/Lore/Lore/Consequence Chain 5 - Marina Identity Revelation (Lore).md
+2025-08-17 17:36:40.417358: Archived 02_Worldbuilding/Lore/Lore/Face the Ancient Threat (Lore).md
+2025-08-17 17:36:40.417567: Archived 02_Worldbuilding/Lore/Lore/Maritime Trade Routes (Lore).md
+2025-08-17 17:36:40.417761: Archived 02_Worldbuilding/Lore/Lore/Item Template (Lore).md
+2025-08-17 17:36:40.417965: Archived 02_Worldbuilding/Lore/Lore/The Great Convergence Prophecies (Lore).md
+2025-08-17 17:36:40.418219: Archived 02_Worldbuilding/Lore/Lore/The Lighthouse of Storms (Lore).md
+2025-08-17 17:36:40.418473: Archived 02_Worldbuilding/Lore/Lore/Eastern Kingdom (Lore).md
+2025-08-17 17:36:40.418715: Archived 02_Worldbuilding/Lore/Lore/Tide Turner (Lore).md
+2025-08-17 17:36:40.418938: Archived 02_Worldbuilding/Lore/Lore/The Shadow Shard (Lore).md
+2025-08-17 17:36:40.419208: Archived 02_Worldbuilding/Lore/Lore/Dock Worker Tomás (Lore).md
+2025-08-17 17:36:40.419478: Archived 02_Worldbuilding/Lore/Lore/The Bloom Fields (Lore).md
+2025-08-17 17:36:40.419755: Archived 02_Worldbuilding/Lore/Lore/The Deserter's Tale (Lore).md
+2025-08-17 17:36:40.420010: Archived 02_Worldbuilding/Lore/Lore/Consequence Chain 3 Reality Merger Diplomatic Crisis (Lore).md
+2025-08-17 17:36:40.420299: Archived 02_Worldbuilding/Lore/Lore/Meta Bind Examples (Lore).md
+2025-08-17 17:36:40.420599: Archived 02_Worldbuilding/Lore/Lore/Dissolution Chambers (Lore).md
+2025-08-17 17:36:40.420906: Archived 02_Worldbuilding/Lore/Lore/The Abyss Beneath Aquabyssos (Lore).md
+2025-08-17 17:36:40.421547: Archived 02_Worldbuilding/Lore/Lore/Emergency Protocol (Lore).md
+2025-08-17 17:36:40.421922: Archived 02_Worldbuilding/Lore/Lore/Future Gardeners (Lore).md
+2025-08-17 17:36:40.422301: Archived 02_Worldbuilding/Lore/Lore/Player 7 (Lore).md
+2025-08-17 17:36:40.422608: Archived 02_Worldbuilding/Lore/Lore/Crystal Architecture Philosophy (Lore).md
+2025-08-17 17:36:40.423020: Archived 02_Worldbuilding/Lore/Lore/Crystal-Corruption-Tracking-Sheet (Lore).md
+2025-08-17 17:36:40.423397: Archived 02_Worldbuilding/Lore/Lore/The Crystal Heart Shard (Lore).md
+2025-08-17 17:36:40.423753: Archived 02_Worldbuilding/Lore/Lore/Deepwatch Guard (Lore).md
+2025-08-17 17:36:40.424139: Archived 02_Worldbuilding/Lore/Lore/Cross-Realm Etiquette Guide (Lore).md
+2025-08-17 17:36:40.424568: Archived 02_Worldbuilding/Lore/Lore/Dock Mistress Marina Saltwind (Lore).md
+2025-08-17 17:36:40.424912: Archived 02_Worldbuilding/Lore/Lore/Community Support Programs (Lore).md
+2025-08-17 17:36:40.425426: Archived 02_Worldbuilding/Lore/Lore/Institute of Adaptive Sciences (Lore).md
+2025-08-17 17:36:40.425817: Archived 02_Worldbuilding/Lore/Lore/Trade Route Establishment (Lore).md
+2025-08-17 17:36:40.426165: Archived 02_Worldbuilding/Lore/Lore/Shadow Magic Integration Practices (Lore).md
+2025-08-17 17:36:40.426531: Archived 02_Worldbuilding/Lore/Lore/Abyssal Academy (Lore).md
+2025-08-17 17:36:40.426952: Archived 02_Worldbuilding/Lore/Lore/Aboleth Mind Mazes (Lore).md
+2025-08-17 17:36:40.427386: Archived 02_Worldbuilding/Lore/Resources/Aquabyssos Shadow Pools (Resources).md
+2025-08-17 17:36:40.427789: Archived 02_Worldbuilding/Lore/Hazards/Crystal_Plague (Hazards).md
+2025-08-17 17:36:40.428197: Archived 02_Worldbuilding/Lore/Operations/Faction Balance Maintenance (Operations).md
+2025-08-17 17:36:40.428588: Archived 02_Worldbuilding/Lore/Operations/Labor Organization (Operations).md
+2025-08-17 17:36:40.429063: Archived 02_Worldbuilding/Lore/People/Master Engineer Coral Pressureforge (People).md
+2025-08-17 17:36:40.429435: Archived 02_Worldbuilding/Lore/People/Marina-Red-Tide-Coralheart (People).md
+2025-08-17 17:36:40.429825: Archived 02_Worldbuilding/Lore/People/Throne of Bubbles (People).md
+2025-08-17 17:36:40.430235: Archived 02_Worldbuilding/Lore/People/Master Respiratory Engineer Marina Gillwright (People).md
+2025-08-17 17:36:40.430599: Archived 02_Worldbuilding/Lore/People/Vex_Shadowthorn (People).md
+2025-08-17 17:36:40.430988: Archived 02_Worldbuilding/Lore/People/Queen_Seraphina_Lumengarde (People).md
+2025-08-17 17:36:40.431410: Archived 02_Worldbuilding/Lore/People/Senator_Glaucus_Brain (People).md
+2025-08-17 17:36:40.431880: Archived 02_Worldbuilding/Lore/People/Geology Specialist Stone Soundshape (People).md
+2025-08-17 17:36:40.432280: Archived 02_Worldbuilding/Lore/People/Intelligence Services 2 (People).md
+2025-08-17 17:36:40.432837: Archived 02_Worldbuilding/Lore/People/Azure Shard (People).md
+2025-08-17 17:36:40.433476: Archived 02_Worldbuilding/Lore/People/Vex Shadowthorn (People).md
+2025-08-17 17:36:40.433858: Archived 02_Worldbuilding/Lore/People/The Parasite Priests (People).md
+2025-08-17 17:36:40.434195: Archived 02_Worldbuilding/Lore/People/The Party (People).md
+2025-08-17 17:36:40.434570: Archived 02_Worldbuilding/Lore/People/Tenebrarum Ambassadors (People).md
+2025-08-17 17:36:40.434948: Archived 02_Worldbuilding/Lore/People/Tenebrarum (People).md
+2025-08-17 17:36:40.435320: Archived 02_Worldbuilding/Lore/People/The Crystal Shepherds (People).md
+2025-08-17 17:36:40.435674: Archived 02_Worldbuilding/Lore/People/Festival Coordinator Luna Celebration (People).md
+2025-08-17 17:36:40.436002: Archived 02_Worldbuilding/Lore/People/High Priestess Tidal Blessing (People).md
+2025-08-17 17:36:40.436339: Archived 02_Worldbuilding/Lore/People/Brother Matthias the Amber Bearer (People).md
+2025-08-17 17:36:40.436600: Archived 02_Worldbuilding/Lore/People/Elena Starweaver.md (People).md
+2025-08-17 17:36:40.436851: Archived 02_Worldbuilding/Lore/People/Master Detection Engineer Crystal Sensorwright (People).md
+2025-08-17 17:36:40.437102: Archived 02_Worldbuilding/Lore/People/Master Harvester Tide Crystalcut (People).md
+2025-08-17 17:36:40.437360: Archived 02_Worldbuilding/Lore/People/Original Glaucus (People).md
+2025-08-17 17:36:40.437657: Archived 02_Worldbuilding/Lore/People/Master Resonance Architect Echo Stonewhisper (People).md
+2025-08-17 17:36:40.437913: Archived 02_Worldbuilding/Lore/People/The Current Merchants (People).md
+2025-08-17 17:36:40.438175: Archived 02_Worldbuilding/Lore/People/Deep Mother Cultist Profiles (People).md
+2025-08-17 17:36:40.441189: Archived 02_Worldbuilding/Lore/People/High Theologian Commander Aurelius (People).md
+2025-08-17 17:36:40.441468: Archived 02_Worldbuilding/Lore/People/Jasper Three-Eyes Flint (People).md
+2025-08-17 17:36:40.441774: Archived 02_Worldbuilding/Lore/People/Verdant Shard (People).md
+2025-08-17 17:36:40.442085: Archived 02_Worldbuilding/Lore/People/Banker Titus Goldcurrent (People).md
+2025-08-17 17:36:40.442556: Archived 02_Worldbuilding/Lore/People/The Seven Seals (People).md
+2025-08-17 17:36:40.442871: Archived 02_Worldbuilding/Lore/People/Agent Whisper Voidheart (People).md
+2025-08-17 17:36:40.443252: Archived 02_Worldbuilding/Lore/People/Memory Harvester Kythara (People).md
+2025-08-17 17:36:40.443598: Archived 02_Worldbuilding/Lore/People/Keeper of Failures, Marcus Ashworth (People).md
+2025-08-17 17:36:40.443968: Archived 02_Worldbuilding/Lore/People/Dr. Marina Coralheart - Shadow (People).md
+2025-08-17 17:36:40.444310: Archived 02_Worldbuilding/Lore/People/The Scattered Emperor (People).md
+2025-08-17 17:36:40.444636: Archived 02_Worldbuilding/Lore/People/The Eternal Speaker (People).md
+2025-08-17 17:36:40.444933: Archived 02_Worldbuilding/Lore/People/The Cerulean Breath (People).md
+2025-08-17 17:36:40.445219: Archived 02_Worldbuilding/Lore/People/The Siren (People).md
+2025-08-17 17:36:40.445566: Archived 02_Worldbuilding/Lore/People/Vex Shadowthorn's Apprentices (People).md
+2025-08-17 17:36:40.445934: Archived 02_Worldbuilding/Lore/People/Emperor_Thalassius (People).md
+2025-08-17 17:36:40.446252: Archived 02_Worldbuilding/Lore/People/Emergency Coordinator Storm Quickfix (People).md
+2025-08-17 17:36:40.446537: Archived 02_Worldbuilding/Lore/People/Brother Marcus the Willing (People).md
+2025-08-17 17:36:40.446838: Archived 02_Worldbuilding/Lore/People/Brother Marcus Steelbane (People).md
+2025-08-17 17:36:40.447198: Archived 02_Worldbuilding/Lore/People/The Silent Watcher Entity (People).md
+2025-08-17 17:36:40.447703: Archived 02_Worldbuilding/Locations/Location_Name.png_1 (04_Places).md
+2025-08-17 17:36:40.448400: Archived 02_Worldbuilding/Locations/Location_Prompts - Cities_relocated_1.md
+2025-08-17 17:36:40.448841: Archived 02_Worldbuilding/Locations/Location_Prompts - Cities (Assets).md
+2025-08-17 17:36:40.449289: Archived 02_Worldbuilding/Locations/Location_Network_Graph.md_1 (04_Places).md
+2025-08-17 17:36:40.449920: Archived 02_Worldbuilding/Locations/Location Prompts (Assets).md
+2025-08-17 17:36:40.450441: Archived 02_Worldbuilding/Locations/Location2_relocated_1.md
+2025-08-17 17:36:40.450811: Archived 02_Worldbuilding/Locations/Location_Prompts - Cities_1 (04_Places).md
+2025-08-17 17:36:40.451657: Archived 02_Worldbuilding/Locations/Locations_Gallery (Galleries).md
+2025-08-17 17:36:40.452633: Archived 02_Worldbuilding/Locations/Crystal Mines (Places).md
+2025-08-17 17:36:40.452989: Archived 02_Worldbuilding/Locations/Location3_relocated_1.md
+2025-08-17 17:36:40.453338: Archived 02_Worldbuilding/Locations/Royal Guard (Places).md
+2025-08-17 17:36:40.453749: Archived 02_Worldbuilding/Locations/Military Intelligence (Places).md
+2025-08-17 17:36:40.454127: Archived 02_Worldbuilding/Locations/Location_Template_1 (09_Templates).md
+2025-08-17 17:36:40.456400: Archived 02_Worldbuilding/Locations/Location_Prompts_1 (04_Places).md
+2025-08-17 17:36:40.456878: Archived 02_Worldbuilding/Locations/Location Prompts_relocated_1.md
+2025-08-17 17:36:40.457206: Archived 02_Worldbuilding/Locations/Location1_relocated_1.md
+2025-08-17 17:36:40.458046: Archived 02_Worldbuilding/Locations/Law Enforcement (Places).md
+2025-08-17 17:36:40.458373: Archived 02_Worldbuilding/Locations/Aquabyssos Government (Places).md
+2025-08-17 17:36:40.458721: Archived 02_Worldbuilding/Locations/Location_Tracker_1 (04_Places).md
+2025-08-17 17:36:40.459059: Archived 02_Worldbuilding/Locations/Discover Shadow Market Location_relocated_1.md
+2025-08-17 17:36:40.459430: Archived 02_Worldbuilding/Locations/Crystal Corruption (Places).md
+2025-08-17 17:36:40.459787: Archived 02_Worldbuilding/Locations/Location_Prompts - Cities_relocated_2.md
+2025-08-17 17:36:40.460170: Archived 02_Worldbuilding/Items/Items/Dual-State Armor (Items).md
+2025-08-17 17:36:40.465101: Archived 01_Adventures/Encounters/grassland-encounters-levels-610-xge (tables).md
+2025-08-17 17:36:40.474511: Archived 01_Adventures/Encounters/D L-03 Deep Mother Dream Tide Player (Encounters).md
+2025-08-17 17:36:40.477871: Archived 01_Adventures/Encounters/coastal-encounters-levels-510-xge (tables).md
+2025-08-17 17:36:40.478882: Archived 01_Adventures/Encounters/underdark-encounters-levels-510-xge (tables).md
+2025-08-17 17:36:40.479969: Archived 01_Adventures/Encounters/mountain-encounters-levels-1720-xge (tables).md
+2025-08-17 17:36:40.480867: Archived 01_Adventures/Encounters/D-019 Oracle Whale Player (Encounters).md
+2025-08-17 17:36:40.481642: Archived 01_Adventures/Encounters/D L-11 the Last Anchor Player (Encounters).md
+2025-08-17 17:36:40.483722: Archived 01_Adventures/Encounters/Random Encounter Tables - Aquabyssos (Lore).md
+2025-08-17 17:36:40.491582: Archived 01_Adventures/Encounters/S-004 Cloud Canyon Player (Encounters).md
+2025-08-17 17:36:40.492961: Archived 01_Adventures/Encounters/hill-encounters-levels-14-xge (tables).md
+2025-08-17 17:36:40.493803: Archived 01_Adventures/Encounters/random-urban-encounters (tables).md
+2025-08-17 17:36:40.494726: Archived 01_Adventures/Encounters/D-005 Shadow Bloom Player (Encounters).md
+2025-08-17 17:36:40.495557: Archived 01_Adventures/Encounters/X L-12 the Deep Mothers Bridge of Dreams (Encounters).md
+2025-08-17 17:36:40.498781: Archived 01_Adventures/Encounters/S-009 Void Moan Player (Encounters).md
+2025-08-17 17:36:40.499197: Archived 01_Adventures/Encounters/Random Encounters (Lore).md
+2025-08-17 17:36:40.503956: Archived 01_Adventures/Encounters/urban-encounters (tables).md
+2025-08-17 17:36:40.506668: Archived 01_Adventures/Encounters/D-201 Abyss Mirror Lake Player (Encounters).md
+2025-08-17 17:36:40.507295: Archived 01_Adventures/Encounters/S L-08 Gravity Inversion Storm Player (Encounters).md
+2025-08-17 17:36:40.508618: Archived 01_Adventures/Encounters/random-undersea-encounters (tables).md

@@ -1,0 +1,152 @@
+/* Status-based styling */
+.data-link-text[data-link-status="active"] {
+  color: #4CAF50;
+  font-weight: 600;
+}
+
+.data-link-text[data-link-status="active"]::before {
+  content: "🟢 ";
+}
+
+.data-link-text[data-link-status="ready"] {
+  color: #2196F3;
+}
+
+.data-link-text[data-link-status="ready"]::before {
+  content: "🔵 ";
+}
+
+.data-link-text[data-link-status="draft"] {
+  color: #FF9800;
+}
+
+.data-link-text[data-link-status="draft"]::before {
+  content: "🟡 ";
+}
+
+.data-link-text[data-link-status="seed"] {
+  color: #9E9E9E;
+  font-style: italic;
+}
+
+.data-link-text[data-link-status="seed"]::before {
+  content: "🌱 ";
+}
+
+.data-link-text[data-link-status="deprecated"] {
+  color: #F44336;
+  text-decoration: line-through;
+}
+
+.data-link-text[data-link-status="deprecated"]::before {
+  content: "⛔ ";
+}
+
+.data-link-text[data-link-status="archived"] {
+  color: #757575;
+  opacity: 0.6;
+}
+
+.data-link-text[data-link-status="archived"]::before {
+  content: "📦 ";
+}
+
+/* Type-based icons */
+.data-link-text[data-link-type="location"]::before {
+  content: "📍 ";
+}
+
+.data-link-text[data-link-type="npc"]::before {
+  content: "👤 ";
+}
+
+.data-link-text[data-link-type="pc"]::before {
+  content: "🎮 ";
+}
+
+.data-link-text[data-link-type="quest"]::before {
+  content: "⚔️ ";
+}
+
+.data-link-text[data-link-type="item"]::before {
+  content: "🎒 ";
+}
+
+.data-link-text[data-link-type="faction"]::before {
+  content: "🏛️ ";
+}
+
+.data-link-text[data-link-type="session_notes"]::before {
+  content: "📝 ";
+}
+
+.data-link-text[data-link-type="map"]::before {
+  content: "🗺️ ";
+}
+
+.data-link-text[data-link-type="encounter"]::before {
+  content: "⚔️ ";
+}
+
+.data-link-text[data-link-type="rule"]::before {
+  content: "📖 ";
+}
+
+.data-link-text[data-link-type="spell"]::before {
+  content: "✨ ";
+}
+
+.data-link-text[data-link-type="creature"]::before {
+  content: "🐉 ";
+}
+
+.data-link-text[data-link-type="lore"]::before {
+  content: "📜 ";
+}
+
+/* Campaign-specific styling */
+.data-link-text[data-link-campaign="Aquabyssos"] {
+  border-bottom: 2px solid #006994;
+}
+
+.data-link-text[data-link-campaign="Aethermoor"] {
+  border-bottom: 2px solid #8B4513;
+}
+
+/* Combined selectors for special cases */
+.data-link-text[data-link-type="npc"][data-link-status="active"] {
+  background-color: rgba(76, 175, 80, 0.1);
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+.data-link-text[data-link-type="quest"][data-link-status="active"] {
+  background-color: rgba(255, 193, 7, 0.1);
+  padding: 2px 4px;
+  border-radius: 3px;
+  font-weight: bold;
+}
+
+/* Hover effects */
+.data-link-text:hover {
+  transform: scale(1.02);
+  transition: transform 0.1s ease;
+}
+
+/* File explorer styling */
+.nav-file-title[data-link-status="archived"] {
+  opacity: 0.5;
+}
+
+.nav-file-title[data-link-status="active"] {
+  font-weight: bold;
+}
+
+/* Graph view node colors */
+.graph-view.color-fill-tag[data-tag-name="#active"] {
+  color: #4CAF50;
+}
+
+.graph-view.color-fill-tag[data-tag-name="#archived"] {
+  color: #757575;
+}

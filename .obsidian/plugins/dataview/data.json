@@ -7,8 +7,16 @@
   "inlineJsQueryPrefix": "= ",
   "inlineQueryPrefix": "= ",
   "refreshEnabled": true,
-  "refreshInterval": 2500,
+  "refreshInterval": 5000,
   "defaultDateFormat": "yyyy-MM-dd",
   "defaultDateTimeFormat": "yyyy-MM-dd HH:mm",
-  "maxRecursiveRenderDepth": 4
+  "maxRecursiveRenderDepth": 3,
+  "renderNullAs": "—",
+  "showResultCount": false,
+  "warnOnEmptyResult": false,
+  "suppressDuplicateTasksInTables": true,
+  "taskCompletionTracking": true,
+  "taskCompletionUseEmojiShorthand": true,
+  "taskCompletionText": "✅",
+  "ignoreExistingTags": ["archive", "deprecated", "broken"]
 }
