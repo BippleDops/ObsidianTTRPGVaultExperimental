@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>&#x1f4da; VAULT OPERATIONS MANUAL</title>
+            <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only],
+.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+        
+        </head>
+        <body class="vscode-body vscode-light">
+            <hr>
+<h2 id="id-sys0000status-activedomain-resourcetype-assetcanonical-truecritical-trueversion-10created-2025-08-17">id: SYS0000<br>
+status: active<br>
+domain: resource<br>
+type: asset<br>
+canonical: true<br>
+critical: true<br>
+version: 1.0<br>
+created: 2025-08-17</h2>
+<h1 id="-vault-operations-manual">📚 VAULT OPERATIONS MANUAL</h1>
+<p><em>The Complete Guide to Your Obsidian TTRPG Vault</em></p>
+<blockquote>
+<p><strong>IMPORTANT</strong>: This is the master operations manual. Read this first before making any structural changes. Share this with any AI assistants working on the vault.</p>
+</blockquote>
+<h2 id="-quick-start-for-daily-use">🎯 Quick Start for Daily Use</h2>
+<h3 id="your-primary-workflows">Your Primary Workflows</h3>
+<h4 id="1-during-game-session">1. During Game Session</h4>
+<pre><code class="language-bash"><span class="hljs-comment"># Switch to Active Play profile</span>
+./_SCRIPTS/switch_profile.sh  <span class="hljs-comment"># Choose option 1</span>
+
+<span class="hljs-comment"># Open GM Dashboard</span>
+Navigate to: 00_System/GM_Resources/00_GM_DASHBOARD.md
+
+<span class="hljs-comment"># Quick capture ideas</span>
+Hotkey: Cmd+Shift+Q
+</code></pre>
+<h4 id="2-between-sessions-prep">2. Between Sessions (Prep)</h4>
+<pre><code class="language-bash"><span class="hljs-comment"># Use Library profile for full access</span>
+./_SCRIPTS/switch_profile.sh  <span class="hljs-comment"># Choose option 2</span>
+
+<span class="hljs-comment"># Process inbox</span>
+Check: 00_System/Quick_Capture_Inbox/
+
+<span class="hljs-comment"># Run maintenance</span>
+python3 _SCRIPTS/vault_hygiene_audit.py
+</code></pre>
+<h4 id="3-end-of-day">3. End of Day</h4>
+<pre><code class="language-bash"><span class="hljs-comment"># Sync changes</span>
+./_SCRIPTS/git_sync.sh
+
+<span class="hljs-comment"># Optional: Run full maintenance</span>
+./_SCRIPTS/run_nightly_jobs.sh
+</code></pre>
+<h2 id="️-vault-architecture">🏗️ Vault Architecture</h2>
+<h3 id="directory-structure-permanent---do-not-change">Directory Structure (PERMANENT - DO NOT CHANGE)</h3>
+<pre><code>ObsidianTTRPGVaultExperimental/
+├── 00_System/           # ⚙️ System files, templates, config
+├── 01_Adventures/       # ⚔️ Campaigns, quests, encounters
+├── 02_Worldbuilding/    # 🌍 Locations, lore, factions  
+├── 03_People/          # 👥 NPCs and characters
+├── 04_Resources/       # 🗺️ Maps, handouts, assets
+├── 05_Rules/           # 📖 Game mechanics, homebrew
+├── 06_Sessions/        # 📝 Session notes (NEVER MOVE)
+├── 07_Player_Resources/# 🎮 Player-accessible content
+├── 08_Archive/         # 📦 Archived content
+├── 09_Performance/     # 📊 Metrics and reports
+├── _INDEXES/           # 📑 Dynamic vault indexes
+├── _METADATA/          # 🔧 Vault metadata and logs
+└── _SCRIPTS/           # 🤖 Automation scripts
+</code></pre>
+<h3 id="critical-rules-learned-from-experience">Critical Rules (LEARNED FROM EXPERIENCE)</h3>
+<ol>
+<li><strong>NEVER</strong> reorganize the top-level structure</li>
+<li><strong>NEVER</strong> delete user content (archive instead)</li>
+<li><strong>NEVER</strong> move sessions from 06_Sessions</li>
+<li><strong>NEVER</strong> create duplicate directories</li>
+<li><strong>ALWAYS</strong> backup before bulk operations</li>
+<li><strong>ALWAYS</strong> test with --dry-run first</li>
+</ol>
+<h2 id="-frontmatter-syntax">📋 Frontmatter Syntax</h2>
+<h3 id="required-fields-all-files-must-have-these">Required Fields (ALL files must have these)</h3>
+<pre><code class="language-yaml"><span class="hljs-meta">---</span>
+<span class="hljs-attr">id:</span> <span class="hljs-string">XXX####</span>          <span class="hljs-comment"># Unique ID (see ID prefix table)</span>
+<span class="hljs-attr">status:</span> [<span class="hljs-string">status</span>]     <span class="hljs-comment"># Lifecycle status</span>
+<span class="hljs-attr">domain:</span> [<span class="hljs-string">domain</span>]     <span class="hljs-comment"># Content domain</span>
+<span class="hljs-attr">type:</span> [<span class="hljs-string">type</span>]        <span class="hljs-comment"># Entity type</span>
+<span class="hljs-attr">canonical:</span> <span class="hljs-literal">true</span><span class="hljs-string">/false</span> <span class="hljs-comment"># Is this the authoritative version?</span>
+<span class="hljs-meta">---
+</span></code></pre>
+<h3 id="status-values">Status Values</h3>
+<ul>
+<li><code>seed</code> - Initial idea, minimal content</li>
+<li><code>draft</code> - Being written, incomplete</li>
+<li><code>in-progress</code> - Actively being developed</li>
+<li><code>ready</code> - Complete and reviewed</li>
+<li><code>active</code> - Currently in use during play</li>
+<li><code>deprecated</code> - No longer used but kept</li>
+<li><code>archived</code> - Moved to archive folder</li>
+</ul>
+<h3 id="domain-values">Domain Values</h3>
+<ul>
+<li><code>adventure</code> - Campaigns, quests, encounters</li>
+<li><code>world</code> - Locations, lore, factions</li>
+<li><code>people</code> - NPCs, PCs, notable figures</li>
+<li><code>rules</code> - Mechanics, homebrew, references</li>
+<li><code>session</code> - Session notes and prep</li>
+<li><code>resource</code> - Maps, handouts, assets</li>
+</ul>
+<h3 id="id-prefix-system">ID Prefix System</h3>
+<table>
+<thead>
+<tr>
+<th>Prefix</th>
+<th>Type</th>
+<th>Example</th>
+<th>Next Available</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LOC</td>
+<td>Location</td>
+<td>LOC0001</td>
+<td>Check with script</td>
+</tr>
+<tr>
+<td>NPC</td>
+<td>NPC</td>
+<td>NPC0042</td>
+<td>Check with script</td>
+</tr>
+<tr>
+<td>FAC</td>
+<td>Faction</td>
+<td>FAC0003</td>
+<td>Check with script</td>
+</tr>
+<tr>
+<td>QST</td>
+<td>Quest</td>
+<td>QST0007</td>
+<td>Check with script</td>
+</tr>
+<tr>
+<td>ITM</td>
+<td>Item</td>
+<td>ITM0234</td>
+<td>Check with script</td>
+</tr>
+<tr>
+<td>SES</td>
+<td>Session</td>
+<td>SES0089</td>
+<td>Check with script</td>
+</tr>
+<tr>
+<td>MAP</td>
+<td>Map</td>
+<td>MAP0156</td>
+<td>Check with script</td>
+</tr>
+<tr>
+<td>CAM</td>
+<td>Campaign</td>
+<td>CAM0002</td>
+<td>Check with script</td>
+</tr>
+</tbody>
+</table>
+<h3 id="complete-example">Complete Example</h3>
+<pre><code class="language-yaml"><span class="hljs-meta">---</span>
+<span class="hljs-attr">id:</span> <span class="hljs-string">NPC0042</span>
+<span class="hljs-attr">status:</span> <span class="hljs-string">active</span>
+<span class="hljs-attr">domain:</span> <span class="hljs-string">people</span>
+<span class="hljs-attr">type:</span> <span class="hljs-string">npc</span>
+<span class="hljs-attr">canonical:</span> <span class="hljs-literal">true</span>
+<span class="hljs-attr">campaign:</span> <span class="hljs-string">Aquabyssos</span>
+<span class="hljs-attr">created:</span> <span class="hljs-number">2025-01-15</span>
+<span class="hljs-attr">modified:</span> <span class="hljs-number">2025-08-17</span>
+<span class="hljs-attr">aliases:</span>
+  <span class="hljs-bullet">-</span> <span class="hljs-string">&quot;The Shadow Broker&quot;</span>
+  <span class="hljs-bullet">-</span> <span class="hljs-string">&quot;Whisper&quot;</span>
+<span class="hljs-attr">tags:</span>
+  <span class="hljs-bullet">-</span> <span class="hljs-string">recurring</span>
+  <span class="hljs-bullet">-</span> <span class="hljs-string">quest-giver</span>
+  <span class="hljs-bullet">-</span> <span class="hljs-string">merchant</span>
+<span class="hljs-attr">location:</span> <span class="hljs-string">Waterdeep</span>
+<span class="hljs-attr">faction:</span> <span class="hljs-string">Harpers</span>
+<span class="hljs-attr">race:</span> <span class="hljs-string">Tiefling</span>
+<span class="hljs-attr">class:</span> <span class="hljs-string">Rogue</span>
+<span class="hljs-attr">alignment:</span> <span class="hljs-string">CN</span>
+<span class="hljs-meta">---
+</span></code></pre>
+<h2 id="-instructions-for-ai-assistants">🤖 Instructions for AI Assistants</h2>
+<h3 id="when-asked-to-help-with-this-vault">When Asked to Help with This Vault</h3>
+<ol>
+<li>
+<p><strong>READ FIRST</strong>:</p>
+<ul>
+<li>This manual (00_System/VAULT_OPERATIONS_MANUAL.md)</li>
+<li><a href="http://CLAUDE.html">CLAUDE.md</a> rules in vault root</li>
+<li>Recent entries in _METADATA/</li>
+</ul>
+</li>
+<li>
+<p><strong>BEFORE ANY OPERATION</strong>:</p>
+<pre><code class="language-python"><span class="hljs-comment"># Always run this first</span>
+python3 _SCRIPTS/vault_hygiene_audit.py
+</code></pre>
+</li>
+<li>
+<p><strong>USE THESE SCRIPTS</strong> (never recreate):</p>
+<ul>
+<li><code>vault_hygiene_audit.py</code> - Check vault health</li>
+<li><code>normalize_names.py</code> - Fix file naming</li>
+<li><code>lifecycle_enforcer.py</code> - Add/fix frontmatter</li>
+<li><code>anomalous_cleanup.py</code> - Remove problem files</li>
+<li><code>campaign_freezer.py</code> - Archive campaigns</li>
+</ul>
+</li>
+<li>
+<p><strong>COMMON TASKS</strong>:</p>
+<pre><code class="language-bash"><span class="hljs-comment"># Add missing frontmatter</span>
+python3 _SCRIPTS/lifecycle_enforcer.py --frontmatter-only
+
+<span class="hljs-comment"># Find broken links</span>
+python3 _SCRIPTS/vault_hygiene_audit.py | grep <span class="hljs-string">&quot;broken_links&quot;</span>
+
+<span class="hljs-comment"># Archive old content</span>
+python3 _SCRIPTS/lifecycle_enforcer.py --archive-only
+
+<span class="hljs-comment"># Clean up weird files</span>
+python3 _SCRIPTS/anomalous_cleanup.py --preview
+</code></pre>
+</li>
+</ol>
+<h3 id="patterns-to-never-create">Patterns to NEVER Create</h3>
+<pre><code class="language-markdown"><span class="hljs-section"># NEVER create these file patterns:</span>
+step<span class="hljs-emphasis">_001 (phase_</span>002).md
+[anything].png.md
+<span class="hljs-section">#broken-link.md</span>
+duplicate<span class="hljs-emphasis">_name_</span>1.md
+&quot;quoted filename&quot;.md
+</code></pre>
+<h3 id="safe-file-creation-template">Safe File Creation Template</h3>
+<pre><code class="language-python"><span class="hljs-comment"># When creating new files programmatically:</span>
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">create_safe_file</span>(<span class="hljs-params">title, <span class="hljs-built_in">type</span>, domain</span>):
+    <span class="hljs-comment"># Get next ID</span>
+    <span class="hljs-built_in">id</span> = get_next_id(<span class="hljs-built_in">type</span>)  <span class="hljs-comment"># e.g., &quot;NPC0043&quot;</span>
+    
+    <span class="hljs-comment"># Clean filename</span>
+    safe_name = title.replace(<span class="hljs-string">&quot;&#x27;&quot;</span>, <span class="hljs-string">&quot;&quot;</span>).replace(<span class="hljs-string">&#x27;&quot;&#x27;</span>, <span class="hljs-string">&quot;&quot;</span>)
+    safe_name = re.sub(<span class="hljs-string">r&#x27;[&lt;&gt;:&quot;/\\|?*]&#x27;</span>, <span class="hljs-string">&#x27;-&#x27;</span>, safe_name)
+    
+    <span class="hljs-comment"># Create with frontmatter</span>
+    filename = <span class="hljs-string">f&quot;<span class="hljs-subst">{<span class="hljs-built_in">id</span>}</span> - <span class="hljs-subst">{safe_name}</span>.md&quot;</span>
+    content = <span class="hljs-string">f&quot;&quot;&quot;---
+id: <span class="hljs-subst">{<span class="hljs-built_in">id</span>}</span>
+status: draft
+domain: <span class="hljs-subst">{domain}</span>
+type: <span class="hljs-subst">{<span class="hljs-built_in">type</span>}</span>
+canonical: true
+created: <span class="hljs-subst">{datetime.now():%Y-%m-%d}</span>
+---
+
+# <span class="hljs-subst">{title}</span>
+
+&quot;&quot;&quot;</span>
+    <span class="hljs-keyword">return</span> filename, content
+</code></pre>
+<h2 id="-standard-workflows">🔄 Standard Workflows</h2>
+<h3 id="new-content-creation-workflow">New Content Creation Workflow</h3>
+<pre><code class="language-mermaid">graph LR
+    A[Idea] --&gt; B[Quick Capture&lt;br/&gt;Cmd+Shift+Q]
+    B --&gt; C[Inbox]
+    C --&gt; D[Process &amp; Expand]
+    D --&gt; E[Add Full Frontmatter]
+    E --&gt; F[Move to Correct Folder]
+    F --&gt; G[Link from Index]
+</code></pre>
+<h3 id="session-prep-workflow">Session Prep Workflow</h3>
+<ol>
+<li>Review GM Dashboard for &quot;Needs Attention&quot;</li>
+<li>Process Quick Capture Inbox</li>
+<li>Update active quests/NPCs</li>
+<li>Generate session outline</li>
+<li>Prepare maps/handouts</li>
+<li>Run <code>python3 _SCRIPTS/vault_hygiene_audit.py</code></li>
+</ol>
+<h3 id="post-session-workflow">Post-Session Workflow</h3>
+<ol>
+<li>Create session notes in <code>06_Sessions/</code></li>
+<li>Update NPC statuses</li>
+<li>Progress quest states</li>
+<li>Quick capture new ideas</li>
+<li>Update campaign timeline</li>
+<li>Commit to Git</li>
+</ol>
+<h3 id="weekly-maintenance">Weekly Maintenance</h3>
+<pre><code class="language-bash"><span class="hljs-meta">#!/bin/bash</span>
+<span class="hljs-comment"># Run every Sunday</span>
+
+<span class="hljs-comment"># 1. Clean up</span>
+python3 _SCRIPTS/anomalous_cleanup.py --execute --dry-run
+python3 _SCRIPTS/resolve_conflicts.py
+
+<span class="hljs-comment"># 2. Organize</span>
+python3 _SCRIPTS/normalize_names.py --preview
+python3 _SCRIPTS/lifecycle_enforcer.py --dry-run
+
+<span class="hljs-comment"># 3. Archive</span>
+python3 _SCRIPTS/lifecycle_enforcer.py --archive-only
+
+<span class="hljs-comment"># 4. Report</span>
+python3 _SCRIPTS/vault_hygiene_audit.py
+python3 _SCRIPTS/rebuild_indexes.py
+
+<span class="hljs-comment"># 5. Backup</span>
+./_SCRIPTS/git_sync.sh
+</code></pre>
+<h2 id="️-navigating-the-connected-vault">🗺️ Navigating the Connected Vault</h2>
+<h3 id="primary-entry-points">Primary Entry Points</h3>
+<h4 id="for-game-sessions">For Game Sessions</h4>
+<ol>
+<li><strong>GM Dashboard</strong> (<code>00_System/GM_Resources/00_GM_DASHBOARD.md</code>)
+<ul>
+<li>Real-time status of all active content</li>
+<li>Quick links to current campaign materials</li>
+<li>&quot;Needs attention&quot; panels</li>
+</ul>
+</li>
+</ol>
+<h4 id="for-world-building">For World Building</h4>
+<ol>
+<li>
+<p><strong>Master Index</strong> (<code>_INDEXES/INDEX_Master.md</code>)</p>
+<ul>
+<li>Complete vault statistics</li>
+<li>Links to all specialized indexes</li>
+</ul>
+</li>
+<li>
+<p><strong>Specialized Indexes</strong>:</p>
+<ul>
+<li><code>INDEX_Locations.md</code> - All locations by campaign/biome</li>
+<li><code>INDEX_NPCs.md</code> - NPCs by faction/location</li>
+<li><code>INDEX_Quests.md</code> - Active/available quests</li>
+</ul>
+</li>
+</ol>
+<h4 id="for-maintenance">For Maintenance</h4>
+<ol>
+<li>
+<p><strong>Hygiene Report</strong> (<code>_METADATA/hygiene_report.md</code>)</p>
+<ul>
+<li>Latest vault health check</li>
+<li>Issues to address</li>
+</ul>
+</li>
+<li>
+<p><strong>Archive Index</strong> (<code>08_Archive/README.md</code>)</p>
+<ul>
+<li>What's been archived</li>
+<li>Recovery instructions</li>
+</ul>
+</li>
+</ol>
+<h3 id="navigation-patterns">Navigation Patterns</h3>
+<h4 id="follow-the-campaign-thread">Follow the Campaign Thread</h4>
+<pre><code>Campaign Hub (01_Adventures/Campaigns/[Name]/)
+    ├→ Current Session (06_Sessions/[Latest])
+    ├→ Active Quests (via Dataview)
+    ├→ Party Location (02_Worldbuilding/[Current])
+    ├→ Local NPCs (03_People/[Filtered])
+    └→ Available Resources (04_Resources/[Tagged])
+</code></pre>
+<h4 id="follow-the-location-thread">Follow the Location Thread</h4>
+<pre><code>Location (02_Worldbuilding/[Location])
+    ├→ Parent Location (via frontmatter)
+    ├→ Child Locations (via backlinks)
+    ├→ Local NPCs (via location field)
+    ├→ Related Quests (via Dataview)
+    └→ Maps (04_Resources/Maps/[Location])
+</code></pre>
+<h4 id="follow-the-npc-thread">Follow the NPC Thread</h4>
+<pre><code>NPC (03_People/[Name])
+    ├→ Faction (via frontmatter)
+    ├→ Location (via frontmatter)
+    ├→ Relationships (via links)
+    ├→ Quest Given (via quest_giver field)
+    └→ Session Appearances (via backlinks)
+</code></pre>
+<h3 id="smart-searches">Smart Searches</h3>
+<h4 id="using-dataview-queries">Using Dataview Queries</h4>
+<pre><code class="language-dataview">// Find all active content for Aquabyssos
+FROM &quot;&quot; 
+WHERE campaign = &quot;Aquabyssos&quot; AND status = &quot;active&quot;
+
+// Find orphaned NPCs
+FROM &quot;03_People&quot;
+WHERE !location OR !faction
+
+// Find recent changes
+FROM &quot;&quot;
+WHERE (date(today) - date(modified)).days &lt;= 7
+
+// Find everything about Waterdeep
+FROM &quot;&quot;
+WHERE contains(file.name, &quot;Waterdeep&quot;) 
+   OR contains(location, &quot;Waterdeep&quot;)
+   OR contains(parent_location, &quot;Waterdeep&quot;)
+</code></pre>
+<h4 id="using-obsidian-search">Using Obsidian Search</h4>
+<pre><code>// Status-based searches
+status:active
+status:draft
+status:archived
+
+// Type-based searches  
+type:npc
+type:location
+type:quest
+
+// Campaign-specific
+campaign:Aquabyssos
+campaign:Aethermoor
+
+// Combination searches
+status:active type:quest campaign:Aquabyssos
+</code></pre>
+<h2 id="️-troubleshooting-guide">🛠️ Troubleshooting Guide</h2>
+<h3 id="common-issues--solutions">Common Issues &amp; Solutions</h3>
+<h4 id="vault-is-slow">&quot;Vault is slow&quot;</h4>
+<pre><code class="language-bash"><span class="hljs-comment"># 1. Switch to Active Play profile</span>
+./_SCRIPTS/switch_profile.sh
+
+<span class="hljs-comment"># 2. Clean up large files</span>
+find 04_Resources -size +8M -<span class="hljs-built_in">type</span> f
+
+<span class="hljs-comment"># 3. Archive old content</span>
+python3 _SCRIPTS/lifecycle_enforcer.py --archive-only
+</code></pre>
+<h4 id="cant-find-content">&quot;Can't find content&quot;</h4>
+<pre><code class="language-bash"><span class="hljs-comment"># 1. Rebuild indexes</span>
+python3 _SCRIPTS/rebuild_indexes.py
+
+<span class="hljs-comment"># 2. Check archive</span>
+<span class="hljs-built_in">ls</span> 08_Archive/by_domain/
+
+<span class="hljs-comment"># 3. Search by ID</span>
+grep -r <span class="hljs-string">&quot;NPC0042&quot;</span> . --include=<span class="hljs-string">&quot;*.md&quot;</span>
+</code></pre>
+<h4 id="broken-links-everywhere">&quot;Broken links everywhere&quot;</h4>
+<pre><code class="language-bash"><span class="hljs-comment"># 1. Find broken links</span>
+python3 _SCRIPTS/vault_hygiene_audit.py
+
+<span class="hljs-comment"># 2. Fix naming</span>
+python3 _SCRIPTS/normalize_names.py --apply
+
+<span class="hljs-comment"># 3. Update links</span>
+<span class="hljs-comment"># Manual review required</span>
+</code></pre>
+<h4 id="sync-conflicts">&quot;Sync conflicts&quot;</h4>
+<pre><code class="language-bash"><span class="hljs-comment"># Automatic resolution</span>
+python3 _SCRIPTS/resolve_conflicts.py --strategy newest
+</code></pre>
+<h2 id="-key-metrics-to-monitor">📊 Key Metrics to Monitor</h2>
+<h3 id="daily">Daily</h3>
+<ul>
+<li>Active quest count</li>
+<li>Unprocessed inbox items</li>
+<li>Orphaned files created</li>
+</ul>
+<h3 id="weekly">Weekly</h3>
+<ul>
+<li>Total file count</li>
+<li>Archive growth</li>
+<li>Broken link count</li>
+</ul>
+<h3 id="monthly">Monthly</h3>
+<ul>
+<li>Media folder size</li>
+<li>Campaign progress</li>
+<li>System performance</li>
+</ul>
+<h2 id="-advanced-operations">🚀 Advanced Operations</h2>
+<h3 id="bulk-operations-safety-protocol">Bulk Operations Safety Protocol</h3>
+<pre><code class="language-bash"><span class="hljs-comment"># ALWAYS follow this sequence:</span>
+1. Backup
+   <span class="hljs-built_in">cp</span> -r . ../vault_backup_$(<span class="hljs-built_in">date</span> +%Y%m%d)
+
+2. Dry run
+   python3 [script].py --dry-run &gt; preview.txt
+
+3. Review
+   less preview.txt
+
+4. Execute
+   python3 [script].py --execute
+
+5. Verify
+   python3 _SCRIPTS/vault_hygiene_audit.py
+</code></pre>
+<h3 id="creating-new-automation">Creating New Automation</h3>
+<pre><code class="language-python"><span class="hljs-comment"># Template for new scripts</span>
+<span class="hljs-comment">#!/usr/bin/env python3</span>
+<span class="hljs-string">&quot;&quot;&quot;
+Script purpose and description
+&quot;&quot;&quot;</span>
+
+<span class="hljs-keyword">from</span> pathlib <span class="hljs-keyword">import</span> Path
+<span class="hljs-keyword">import</span> yaml
+<span class="hljs-keyword">import</span> argparse
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">VaultProcessor</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self, vault_path: <span class="hljs-built_in">str</span></span>):
+        self.vault_path = Path(vault_path)
+        
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">process</span>(<span class="hljs-params">self, dry_run: <span class="hljs-built_in">bool</span> = <span class="hljs-literal">True</span></span>):
+        <span class="hljs-comment"># ALWAYS have dry_run mode</span>
+        <span class="hljs-keyword">if</span> dry_run:
+            <span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;DRY RUN - No changes&quot;</span>)
+        
+        <span class="hljs-comment"># Process files</span>
+        <span class="hljs-keyword">for</span> file <span class="hljs-keyword">in</span> self.vault_path.rglob(<span class="hljs-string">&quot;*.md&quot;</span>):
+            <span class="hljs-comment"># Skip system files</span>
+            <span class="hljs-keyword">if</span> <span class="hljs-built_in">any</span>(skip <span class="hljs-keyword">in</span> <span class="hljs-built_in">str</span>(file) <span class="hljs-keyword">for</span> skip <span class="hljs-keyword">in</span> 
+                   [<span class="hljs-string">&#x27;.obsidian&#x27;</span>, <span class="hljs-string">&#x27;08_Archive&#x27;</span>, <span class="hljs-string">&#x27;_SCRIPTS&#x27;</span>]):
+                <span class="hljs-keyword">continue</span>
+            
+            <span class="hljs-comment"># Your logic here</span>
+            
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">main</span>():
+    parser = argparse.ArgumentParser()
+    parser.add_argument(<span class="hljs-string">&#x27;--dry-run&#x27;</span>, action=<span class="hljs-string">&#x27;store_true&#x27;</span>)
+    args = parser.parse_args()
+    
+    processor = VaultProcessor(vault_path)
+    processor.process(dry_run=args.dry_run)
+</code></pre>
+<h2 id="-appendix-complete-command-reference">📚 Appendix: Complete Command Reference</h2>
+<h3 id="quick-commands">Quick Commands</h3>
+<pre><code class="language-bash"><span class="hljs-comment"># Maintenance</span>
+python3 _SCRIPTS/vault_hygiene_audit.py         <span class="hljs-comment"># Health check</span>
+python3 _SCRIPTS/lifecycle_enforcer.py --dry-run <span class="hljs-comment"># Fix frontmatter</span>
+python3 _SCRIPTS/anomalous_cleanup.py --preview  <span class="hljs-comment"># Find weird files</span>
+python3 _SCRIPTS/rebuild_indexes.py              <span class="hljs-comment"># Refresh indexes</span>
+
+<span class="hljs-comment"># Organization  </span>
+python3 _SCRIPTS/normalize_names.py --preview    <span class="hljs-comment"># Fix names</span>
+python3 _SCRIPTS/resolve_conflicts.py            <span class="hljs-comment"># Fix conflicts</span>
+python3 _SCRIPTS/campaign_freezer.py [name]      <span class="hljs-comment"># Archive campaign</span>
+
+<span class="hljs-comment"># Git Operations</span>
+./_SCRIPTS/git_sync.sh                          <span class="hljs-comment"># Sync to Git</span>
+git status                                       <span class="hljs-comment"># Check changes</span>
+git <span class="hljs-built_in">log</span> --oneline -10                          <span class="hljs-comment"># Recent commits</span>
+
+<span class="hljs-comment"># Profile Switching</span>
+./_SCRIPTS/switch_profile.sh                    <span class="hljs-comment"># Interactive switch</span>
+<span class="hljs-built_in">ln</span> -sf .obsidian-active-play .obsidian         <span class="hljs-comment"># Quick play mode</span>
+<span class="hljs-built_in">ln</span> -sf .obsidian-library .obsidian             <span class="hljs-comment"># Quick library mode</span>
+
+<span class="hljs-comment"># Finding Things</span>
+find . -name <span class="hljs-string">&quot;*NPC*&quot;</span> -<span class="hljs-built_in">type</span> f                   <span class="hljs-comment"># Find by name</span>
+grep -r <span class="hljs-string">&quot;Waterdeep&quot;</span> . --include=<span class="hljs-string">&quot;*.md&quot;</span>         <span class="hljs-comment"># Search content</span>
+find . -mtime -7 -name <span class="hljs-string">&quot;*.md&quot;</span>                  <span class="hljs-comment"># Recent files</span>
+
+<span class="hljs-comment"># Checking Size</span>
+<span class="hljs-built_in">du</span> -sh 04_Resources/Maps                       <span class="hljs-comment"># Folder size</span>
+find . -size +8M -<span class="hljs-built_in">type</span> f                       <span class="hljs-comment"># Large files</span>
+<span class="hljs-built_in">df</span> -h .                                         <span class="hljs-comment"># Disk space</span>
+</code></pre>
+<h3 id="emergency-procedures">Emergency Procedures</h3>
+<pre><code class="language-bash"><span class="hljs-comment"># PANIC BUTTON - Restore from backup</span>
+<span class="hljs-built_in">cp</span> -r ../vault_backup_[<span class="hljs-built_in">date</span>]/* .
+
+<span class="hljs-comment"># Remove all broken link files</span>
+python3 -c <span class="hljs-string">&quot;
+import os
+for root, dirs, files in os.walk(&#x27;.&#x27;):
+    for f in files:
+        if &#x27;[&#x27; in f or &#x27;]&#x27; in f:
+            print(f&#x27;Removing {f}&#x27;)
+            os.remove(os.path.join(root, f))
+&quot;</span>
+
+<span class="hljs-comment"># Reset all frontmatter</span>
+python3 _SCRIPTS/lifecycle_enforcer.py --frontmatter-only
+
+<span class="hljs-comment"># Archive everything old</span>
+find . -mtime +180 -name <span class="hljs-string">&quot;*.md&quot;</span> -<span class="hljs-built_in">exec</span> python3 -c <span class="hljs-string">&quot;
+import sys
+# Archive logic here
+&quot;</span> {} \;
+</code></pre>
+<h2 id="-remember-the-prime-directives">🎯 Remember: The Prime Directives</h2>
+<ol>
+<li><strong>Preserve User Content</strong> - Never delete, always archive</li>
+<li><strong>Maintain Structure</strong> - The folder hierarchy is sacred</li>
+<li><strong>Test First</strong> - Always dry-run before execution</li>
+<li><strong>Document Changes</strong> - Log what you do</li>
+<li><strong>Respect the Campaign</strong> - Sessions and campaigns are the heart</li>
+</ol>
+<h2 id="-version-history">📝 Version History</h2>
+<ul>
+<li><strong>v1.0</strong> (2025-08-17): Initial comprehensive setup by Claude Opus 4.1
+<ul>
+<li>Implemented 16-point optimization plan</li>
+<li>Created all automation scripts</li>
+<li>Established organizational principles</li>
+</ul>
+</li>
+</ul>
+<h2 id="-getting-help">🆘 Getting Help</h2>
+<ol>
+<li><strong>Check this manual first</strong></li>
+<li><strong>Run hygiene audit</strong> for diagnostics</li>
+<li><strong>Review _METADATA/</strong> for logs</li>
+<li><strong>Share this manual</strong> with any AI assistant</li>
+<li><strong>Backup before experiments</strong></li>
+</ol>
+<hr>
+<p><em>This manual is the authoritative guide for vault operations. Keep it updated as the vault evolves.</em></p>
+<p><strong>Remember:</strong> This vault contains your creative work and gaming memories. Treat it with care, maintain it regularly, and it will serve you well through many adventures.</p>
+<p>🎲 <em>May your rolls be high and your vault organized!</em></p>
+
+            <script async src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+            
+        </body>
+        </html>

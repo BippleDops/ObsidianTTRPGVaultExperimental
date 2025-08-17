@@ -1,2 +1,0 @@
-# ObsidianTTRPGVaultExperimental
-Experimenting with Obsidian

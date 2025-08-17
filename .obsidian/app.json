@@ -13,5 +13,18 @@
   "foldHeading": true,
   "foldIndent": true,
   "showIndentGuide": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "userIgnoreFilters": [
+    "08_Archive/",
+    "09_Performance/",
+    "_SCRIPTS/",
+    "_METADATA/",
+    ".git/",
+    ".obsidian/",
+    "node_modules/",
+    "*.tmp",
+    "*.bak",
+    "*conflicted*",
+    ".DS_Store"
+  ]
 }

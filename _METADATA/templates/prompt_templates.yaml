@@ -1,0 +1,35 @@
+npc:
+  positive: >-
+    portrait of {name}, {race} {class} {role}. {description}. cinematic lighting,
+    detailed face, expressive eyes, intricate costume, {faction} influence,
+    {mood} mood, artstation, highly detailed, sharp focus, 8k, masterpiece
+    {style}
+  negative: >-
+    worst quality, lowres, blurry, text, logo, watermark, disfigured,
+    extra fingers, mangled hands, deformed, low contrast, jpeg artifacts
+
+location:
+  positive: >-
+    {biome} location named {name}. {description}. sweeping scale, atmospheric
+    perspective, volumetric light, intricate details, {era} architecture,
+    {mood} mood, concept art, matte painting, 8k, ultra-detailed {style}
+  negative: >-
+    worst quality, lowres, blurry, text, logo, watermark, humans, characters,
+    cartoon, oversaturated, noisy
+
+item:
+  positive: >-
+    studio photo of {name}, a {rarity} {item_type}. {description}. product
+    photography, dramatic lighting, high detail, textured materials,
+    8k macro, museum catalog style {style}
+  negative: >-
+    worst quality, lowres, blurry, text, logo, watermark, hands, people,
+    oversaturated, noise
+
+defaults:
+  style: ""
+  mood: ""
+  era: ""
+  rarity: "rare"
+  item_type: "artifact"
+

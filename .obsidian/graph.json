@@ -34,5 +34,16 @@
   "linkStrength": 0.7,
   "linkDistance": 250,
   "scale": 1,
-  "close": true
+  "close": true,
+  "collapse-filter": false,
+  "filter": {
+    "search": "-path:08_Archive -path:09_Performance -path:_SCRIPTS -path:_METADATA -path:.obsidian -path:.git -file:conflicted",
+    "showTags": true,
+    "showAttachments": false,
+    "hideUnresolved": true,
+    "showOrphans": false,
+    "showLocalOnly": false,
+    "showGlobalOnly": false,
+    "showNonMarkdown": false
+  }
 }

@@ -1,0 +1,103 @@
+{
+  "$schema": "https://schema.claude.ai/project-config/v1",
+  "name": "ObsidianTTRPGVaultExperimental",
+  "model": "claude-opus-4.1",
+  "vault_path": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVaultExperimental",
+  "system_prompt_file": "CLAUDE.md",
+  "objectives_priority": [
+    "exclude_heavy_folders",
+    "enforce_lifecycle_frontmatter",
+    "dataview_moc_replacements",
+    "hygiene_checks",
+    "archive_policy_move",
+    "normalize_naming_ids",
+    "inbox_triage_pipeline",
+    "status_aware_dashboards",
+    "cleanup_anomalous_files",
+    "media_governance_maps",
+    "sync_conflicts_git_mirror",
+    "split_work_contexts",
+    "lifecycle_enforcer_script",
+    "nightly_index_rebuild",
+    "supercharged_links_icons",
+    "campaign_freezer_workflow"
+  ],
+  "exclusions": {
+    "graph": [
+      "/04_Resources/Maps",
+      "/08_Archive",
+      "/09_Performance"
+    ],
+    "search": [
+      "/04_Resources/Maps",
+      "/08_Archive",
+      "/09_Performance"
+    ],
+    "quick_switcher": [
+      "/04_Resources/Maps",
+      "/08_Archive",
+      "/09_Performance"
+    ]
+  },
+  "lifecycle": {
+    "status_values": [
+      "seed",
+      "draft",
+      "in-progress",
+      "ready",
+      "active",
+      "deprecated",
+      "archived"
+    ],
+    "domain_values": [
+      "adventure",
+      "world",
+      "people",
+      "rules",
+      "session",
+      "resource"
+    ],
+    "canonical_values": [
+      true,
+      false
+    ],
+    "type_examples": [
+      "location",
+      "npc",
+      "faction",
+      "quest",
+      "item",
+      "rule",
+      "session",
+      "map",
+      "asset"
+    ],
+    "id_prefixes": {
+      "location": "LOC",
+      "npc": "NPC",
+      "faction": "FAC",
+      "quest": "QST",
+      "item": "ITM",
+      "map": "MAP"
+    }
+  },
+  "dataview": {
+    "enabled": true,
+    "indexes": {
+      "locations": "_INDEXES/INDEX_Locations.md",
+      "npcs": "_INDEXES/INDEX_NPCs.md",
+      "quests": "_INDEXES/INDEX_Quests.md"
+    }
+  },
+  "defaults": {
+    "max_image_mb": 8,
+    "warn_image_mb": 16,
+    "max_image_edge_px": 8000,
+    "dedup_hash_threshold": 5,
+    "featured_maps_folder": "04_Resources/Maps/_Featured"
+  },
+  "notes": [
+    "This config is informational for Claude; it does not change Obsidian settings automatically.",
+    "Use the master prompt in CLAUDE.md to generate concrete artifacts."
+  ]
+}
