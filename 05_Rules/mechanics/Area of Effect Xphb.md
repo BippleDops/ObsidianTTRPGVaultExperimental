@@ -1,0 +1,543 @@
+---
+
+title: Area of Effect Xphb
+type: note
+tags:
+- note
+
+created: '2025-01-15'
+modified: '2025-01-15'
+aliases: ["Area of Effect Xphb"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
+---
+
+ # Area of Effect Xphb ---
+
+## Description
+
+Detailed description pending.
+title: Area of Effect Xphb
+aliases:
+- Area of Effect
+
+type: note
+tags:
+- both
+- research
+- world/both
+- active
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
+
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidian UIMode: preview
+updated: '2025-08-13T12:34:04.617535+00:00'
+world: Both
+
+--- # Area of Effect
+
+*Source: Player's Handbook (2024) p. 361. Available in the SRD and the Free Rules (2024)* The descriptions of many spells and other features specify that they have an area of effect, which typically has one of six shapes. These shapes are defined elsewhere in this glossary: - [[Area of Effect Xphb - [Cube Area of Effect Xphb]] - [[Area of Effect Xphb - [Area of Effect Xphb]] - [[Area of Effect Xphb - [Area of Effect Xphb]] An area of effect has a point of origin, a location from which the effect's energy erupts. The rules for each shape specify how to position its point of origin. If all straight lines extending from the point of origin to a location in the area of effect are blocked, that location isn't included in the area of effect. To block a line, an obstruction must provide [[Cover Xphb. If the creator of an area of effect places it at an unseen point and an obstruction—such as a wall—is between the creator and that point, the point of origin comes into being on the near side of the obstruction. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Area of effect xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of area of effect xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around area of effect xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## References - [Aboleth Xmm]]
+
+- [[Beholder Xmm
+- [Cloaker Xmm]]
+- [[Darkmantle Xmm
+- [Flumph Xmm]]
+- [[Gibbering Mouther Xmm
+- [Githyanki Dracomancer Xmm]]
+- [[Mind Flayer Arcanist Xmm
+- [Mind Flayer Xmm]]
+- [[aboleth-xmm (aberration)
+- [beholder-xmm (aberration)]]
+- [[cloaker-xmm (aberration)
+- [darkmantle-xmm (aberration)]]
+- [[flumph-xmm (aberration)
+- [gibbering-mouther-xmm (aberration)]]
+- [[githyanki-dracomancer-xmm (aberration)
+- [mind-flayer-arcanist-xmm (aberration)]]
+- [[mind-flayer-xmm (aberration)
+- [Giant Ape Xmm]]
+- [[giant-ape-xmm (beast)
+- [Animal Lord Forager Xmm]]
+- [[Animal Lord Hunter Xmm
+- [Animal Lord Sage Xmm]]
+- [[Animal Lord Xmm
+- [Planetar Xmm]]
+- [[Solar Xmm
+- [Sphinx of Lore Xmm]]
+- [[Sphinx of Valor Xmm
+- [animal-lord-forager-xmm (celestial)]]
+- [[animal-lord-hunter-xmm (celestial)
+- [animal-lord-sage-xmm (celestial)]]
+- [[animal-lord-xmm (celestial)
+- [planetar-xmm (celestial)]]
+- [[solar-xmm (celestial)
+- [sphinx-of-lore-xmm (celestial)]]
+- [[sphinx-of-valor-xmm (celestial)
+- [Colossus Xmm]]
+- [[Iron Golem Xmm
+- [Modron Pentadrone Xmm]]
+- [[colossus-xmm (construct)
+- [iron-golem-xmm (construct)]]
+- [[modron-pentadrone-xmm (construct)
+- [Adult Black Dragon Xmm]]
+- [[Adult Brass Dragon Xmm
+- [Adult Bronze Dragon Xmm]]
+- [[Adult Copper Dragon Xmm
+- [Adult Gold Dragon Xmm]]
+- [[Adult Green Dragon Xmm
+- [Adult Red Dragon Xmm]]
+- [[Adult Silver Dragon Xmm
+- [Adult White Dragon Xmm]]
+- [[Ancient Black Dragon Xmm
+- [Ancient Brass Dragon Xmm]]
+- [[Ancient Bronze Dragon Xmm
+- [Ancient Copper Dragon Xmm]]
+- [[Ancient Gold Dragon Xmm
+- [Ancient Green Dragon Xmm]]
+- [[Ancient Red Dragon Xmm
+- [Ancient Silver Dragon Xmm]]
+- [[Ancient White Dragon Xmm
+- [Black Dragon Wyrmling Xmm]]
+- [[Brass Dragon Wyrmling Xmm
+- [Bronze Dragon Wyrmling Xmm]]
+- [[Copper Dragon Wyrmling Xmm
+- [Dragon Turtle Xmm]]
+- [[Faerie Dragon Adult Xmm
+- [Faerie Dragon Youth Xmm]]
+- [[Gold Dragon Wyrmling Xmm
+- [Green Dragon Wyrmling Xmm]]
+- [[Half Dragon Xmm
+- [Juvenile Shadow Dragon Xmm]]
+- [[Red Dragon Wyrmling Xmm
+- [Shadow Dragon Xmm]]
+- [[Silver Dragon Wyrmling Xmm
+- [White Dragon Wyrmling Xmm]]
+- [[Young Black Dragon Xmm
+- [Young Brass Dragon Xmm]]
+- [[Young Bronze Dragon Xmm
+- [Young Copper Dragon Xmm]]
+- [[Young Gold Dragon Xmm
+- [Young Green Dragon Xmm]]
+- [[Young Red Dragon Xmm
+- [Young Silver Dragon Xmm]]
+- [[Young White Dragon Xmm
+- [adult-black-dragon-xmm (dragon)]]
+- [[adult-brass-dragon-xmm (dragon)
+- [adult-bronze-dragon-xmm (dragon)]]
+- [[adult-copper-dragon-xmm (dragon)
+- [adult-gold-dragon-xmm (dragon)]]
+- [[adult-green-dragon-xmm (dragon)
+- [adult-red-dragon-xmm (dragon)]]
+- [[adult-silver-dragon-xmm (dragon)
+- [adult-white-dragon-xmm (dragon)]]
+- [[ancient-black-dragon-xmm (dragon)
+- [ancient-brass-dragon-xmm (dragon)]]
+- [[ancient-bronze-dragon-xmm (dragon)
+- [ancient-copper-dragon-xmm (dragon)]]
+- [[ancient-gold-dragon-xmm (dragon)
+- [ancient-green-dragon-xmm (dragon)]]
+- [[ancient-red-dragon-xmm (dragon)
+- [ancient-silver-dragon-xmm (dragon)]]
+- [[ancient-white-dragon-xmm (dragon)
+- [black-dragon-wyrmling-xmm (dragon)]]
+- [[brass-dragon-wyrmling-xmm (dragon)
+- [bronze-dragon-wyrmling-xmm (dragon)]]
+- [[copper-dragon-wyrmling-xmm (dragon)
+- [dragon-turtle-xmm (dragon)]]
+- [[faerie-dragon-adult-xmm (dragon)
+- [faerie-dragon-youth-xmm (dragon)]]
+- [[gold-dragon-wyrmling-xmm (dragon)
+- [green-dragon-wyrmling-xmm (dragon)]]
+- [[half-dragon-xmm (dragon)
+- [juvenile-shadow-dragon-xmm (dragon)]]
+- [[red-dragon-wyrmling-xmm (dragon)
+- [shadow-dragon-xmm (dragon)]]
+- [[silver-dragon-wyrmling-xmm (dragon)
+- [white-dragon-wyrmling-xmm (dragon)]]
+- [[young-black-dragon-xmm (dragon)
+- [young-brass-dragon-xmm (dragon)]]
+- [[young-bronze-dragon-xmm (dragon)
+- [young-copper-dragon-xmm (dragon)]]
+- [[young-gold-dragon-xmm (dragon)
+- [young-green-dragon-xmm (dragon)]]
+- [[young-red-dragon-xmm (dragon)
+- [young-silver-dragon-xmm (dragon)]]
+- [[young-white-dragon-xmm (dragon)
+- [Azer Pyromancer Xmm]]
+- [[Azer Sentinel Xmm
+- [Dao Xmm]]
+- [[Dust Mephit Xmm
+- [Elemental Cataclysm Xmm]]
+- [[Fire Elemental Xmm
+- [Ice Mephit Xmm]]
+- [[Lizardfolk Geomancer Xmm
+- [Magma Mephit Xmm]]
+- [[Magmin Xmm
+- [Marid Xmm]]
+- [[Mud Mephit Xmm
+- [Salamander Fire Snake Xmm]]
+- [[Salamander Inferno Master Xmm
+- [Salamander Xmm]]
+- [[Smoke Mephit Xmm
+- [Steam Mephit Xmm]]
+- [[azer-pyromancer-xmm (elemental)
+- [azer-sentinel-xmm (elemental)]]
+- [[dao-xmm (elemental)
+- [dust-mephit-xmm (elemental)]]
+- [[elemental-cataclysm-xmm (elemental)
+- [fire-elemental-xmm (elemental)]]
+- [[ice-mephit-xmm (elemental)
+- [lizardfolk-geomancer-xmm (elemental)]]
+- [[magma-mephit-xmm (elemental)
+- [magmin-xmm (elemental)]]
+- [[marid-xmm (elemental)
+- [mud-mephit-xmm (elemental)]]
+- [[salamander-fire-snake-xmm (elemental)
+- [salamander-inferno-master-xmm (elemental)]]
+- [[salamander-xmm (elemental)
+- [smoke-mephit-xmm (elemental)]]
+- [[steam-mephit-xmm (elemental)
+- [Hobgoblin Captain Xmm]]
+- [[Hobgoblin Warlord Xmm
+- [Satyr Revelmaster Xmm]]
+- [[hobgoblin-captain-xmm (fey)
+- [hobgoblin-warlord-xmm (fey)]]
+- [[satyr-revelmaster-xmm (fey)
+- [Balor Xmm]]
+- [[Chasme Xmm
+- [Dretch Xmm]]
+- [[Hell Hound Xmm
+- [Hezrou Xmm]]
+- [[Manes Vaporspawn Xmm
+- [Nalfeshnee Xmm]]
+- [[Pit Fiend Xmm
+- [Rakshasa Xmm]]
+- [[Sahuagin Baron Xmm
+- [Swarm of Dretches Xmm]]
+- [[Ultroloth Xmm
+- [Vrock Xmm]]
+- [[balor-xmm (fiend)
+- [chasme-xmm (fiend)]]
+- [[dretch-xmm (fiend)
+- [hell-hound-xmm (fiend)]]
+- [[hezrou-xmm (fiend)
+- [manes-vaporspawn-xmm (fiend)]]
+- [[nalfeshnee-xmm (fiend)
+- [pit-fiend-xmm (fiend)]]
+- [[rakshasa-xmm (fiend)
+- [sahuagin-baron-xmm (fiend)]]
+- [[swarm-of-dretches-xmm (fiend)
+- [ultroloth-xmm (fiend)]]
+- [[vrock-xmm (fiend)
+- [Storm Giant Xmm]]
+- [[storm-giant-xmm (giant)
+- [Empyrean Xmm]]
+- [[empyrean-xmm (miscellaneous)
+- [Abominable Yeti Xmm]]
+- [[Basilisk Xmm
+- [Behir Xmm]]
+- [[Chimera Xmm
+- [Doppelganger Xmm]]
+- [[Kraken Xmm (monstrosity)
+- [Medusa Xmm]]
+- [[Primeval Owlbear Xmm
+- [Remorhaz Xmm]]
+- [[Troglodyte Xmm
+- [Umber Hulk Xmm]]
+- [[Winter Wolf Xmm
+- [abominable-yeti-xmm (monstrosity)]]
+- [[basilisk-xmm (monstrosity)
+- [behir-xmm (monstrosity)]]
+- [[chimera-xmm (monstrosity)
+- [doppelganger-xmm (monstrosity)]]
+- [[kraken-xmm (monstrosity)
+- [medusa-xmm (monstrosity)]]
+- [[primeval-owlbear-xmm (monstrosity)
+- [remorhaz-xmm (monstrosity)]]
+- [[troglodyte-xmm (monstrosity)
+- [umber-hulk-xmm (monstrosity)]]
+- [[winter-wolf-xmm (monstrosity)
+- [Gas Spore Fungus Xmm]]
+- [[Myconid Adult Xmm
+- [Myconid Sovereign Xmm]]
+- [[Myconid Sprout Xmm
+- [Violet Fungus Necrohulk Xmm]]
+- [[gas-spore-fungus-xmm (plant)
+- [myconid-adult-xmm (plant)]]
+- [[myconid-sovereign-xmm (plant)
+- [myconid-sprout-xmm (plant)]]
+- [[violet-fungus-necrohulk-xmm (plant)
+- [Death Knight Aspirant Xmm]]
+- [[Death Knight Xmm
+- [Death Tyrant Xmm (undead)]]
+- [[Demilich Xmm (undead)
+- [Dracolich Xmm (undead)]]
+- [[Flaming Skeleton Xmm
+- [Ghast Gravecaller Xmm]]
+- [[Ghast Xmm
+- [Ghost Xmm]]
+- [[Graveyard Revenant Xmm
+- [Haunting Revenant Xmm]]
+- [[Lich Xmm (undead)
+- [death-knight-aspirant-xmm (undead)]]
+- [[death-knight-xmm (undead)
+- [death-tyrant-xmm (undead)]]
+- [[demilich-xmm (undead)
+- [dracolich-xmm (undead)]]
+- [[flaming-skeleton-xmm (undead)
+- [ghast-gravecaller-xmm (undead)]]
+- [[ghast-xmm (undead)
+- [ghost-xmm (undead)]]
+- [[graveyard-revenant-xmm (undead)
+- [haunting-revenant-xmm (undead)]]
+- [[lich-xmm (undead)
+- [07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)
+- [11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)
+- [Barbarian Xphb Path of the Berserker Xphb]]
+- [[Cleric Xphb Light Domain Xphb
+- [Druid Xphb Circle of the Sea Xphb]]
+- [[Paladin Xphb
+- [barbarian-xphb-path-of-the-berserker-xphb (classes)]]
+- [[barbarian-xphb-path-of-the-berserker-xphb 2 (classes)
+- [cleric-xphb-light-domain-xphb (classes)]]
+- [[cleric-xphb-light-domain-xphb 2 (classes)
+- [druid-xphb-circle-of-the-sea-xphb (classes)]]
+- [[paladin-xphb (classes)
+- [diseases]]
+- [[Bag of Beans Xdmg
+- [Bag of Holding Xdmg]]
+- [[Bead of Force Xdmg
+- [Bomb Xdmg]]
+- [[Decanter of Endless Water Xdmg
+- [Dust of Disappearance Xdmg]]
+- [[Dust of Sneezing and Choking Xdmg
+- [Dynamite Stick Xdmg]]
+- [[Figurine of Wondrous Power Ivory Goats Xdmg
+- [Fragmentation Grenade Xdmg]]
+- [[Gem of Brightness Xdmg
+- [Grenade Launcher Xdmg]]
+- [[Gunpowder Keg Xdmg
+- [Gunpowder Powder Horn Xdmg]]
+- [[Holy Avenger Xdmg
+- [Horn of Blasting Xdmg]]
+- [[Instrument of Illusions Xdmg
+- [Javelin of Lightning Xdmg]]
+- [[Scroll of Protection Aberrations Xdmg
+- [Scroll of Protection Beasts Xdmg]]
+- [[Scroll of Protection Celestials Xdmg
+- [Scroll of Protection Constructs Xdmg]]
+- [[Scroll of Protection Dragons Xdmg
+- [Scroll of Protection Elementals Xdmg]]
+- [[Scroll of Protection Fey Xdmg
+- [Scroll of Protection Fiends Xdmg]]
+- [[Scroll of Protection Giants Xdmg
+- [Scroll of Protection Humanoids Xdmg]]
+- [[Scroll of Protection Monstrosities Xdmg
+- [Scroll of Protection Oozes Xdmg]]
+- [[Scroll of Protection Plants Xdmg
+- [Scroll of Protection Undead Xdmg]]
+- [[Shield of the Cavalier Xdmg
+- [Smoke Grenade Xdmg]]
+- [[Staff of Thunder and Lightning Xdmg
+- [Thunderous Greatclub Xdmg]]
+- [[Wand of Fear Xdmg
+- [bag-of-beans-xdmg (items)]]
+- [[bag-of-holding-xdmg (items)
+- [bead-of-force-xdmg (items)]]
+- [[bomb-xdmg (items)
+- [decanter-of-endless-water-xdmg (items)]]
+- [[dust-of-disappearance-xdmg (items)
+- [dust-of-sneezing-and-choking-xdmg (items)]]
+- [[dynamite-stick-xdmg (items)
+- [figurine-of-wondrous-power-ivory-goats-xdmg (items)]]
+- [[fragmentation-grenade-xdmg (items)
+- [gem-of-brightness-xdmg (items)]]
+- [[grenade-launcher-xdmg (items)
+- [gunpowder-keg-xdmg (items)]]
+- [[gunpowder-powder-horn-xdmg (items)
+- [holy-avenger-xdmg (items)]]
+- [[horn-of-blasting-xdmg (items)
+- [instrument-of-illusions-xdmg (items)]]
+- [[javelin-of-lightning-xdmg (items)
+- [scroll-of-protection-aberrations-xdmg (items)]]
+- [[scroll-of-protection-beasts-xdmg (items)
+- [scroll-of-protection-celestials-xdmg (items)]]
+- [[scroll-of-protection-constructs-xdmg (items)
+- [scroll-of-protection-dragons-xdmg (items)]]
+- [[scroll-of-protection-elementals-xdmg (items)
+- [scroll-of-protection-fey-xdmg (items)]]
+- [[scroll-of-protection-fiends-xdmg (items)
+- [scroll-of-protection-giants-xdmg (items)]]
+- [[scroll-of-protection-humanoids-xdmg (items)
+- [scroll-of-protection-monstrosities-xdmg (items)]]
+- [[scroll-of-protection-oozes-xdmg (items)
+- [scroll-of-protection-plants-xdmg (items)]]
+- [[scroll-of-protection-undead-xdmg (items)
+- [shield-of-the-cavalier-xdmg (items)]]
+- [[smoke-grenade-xdmg (items)
+- [staff-of-thunder-and-lightning-xdmg (items)]]
+- [[thunderous-greatclub-xdmg (items)
+- [wand-of-fear-xdmg (items)]]
+- [[Flamethrower Coach Xdmg
+- [flamethrower-coach-xdmg (objects)]]
+- [[Dragonborn Xphb
+- [dragonborn-xphb (races)]]
+- [[Acid Splash Xphb
+- [Antilife Shell Xphb]]
+- [[Antimagic Field Xphb
+- [Arms of Hadar Xphb]]
+- [[Aura of Life Xphb
+- [Aura of Purity Xphb]]
+- [[Aura of Vitality Xphb
+- [Burning Hands Xphb]]
+- [[Call Lightning Xphb
+- [Calm Emotions Xphb]]
+- [[Circle of Death Xphb
+- [Circle of Power Xphb]]
+- [[Cloudkill Xphb
+- [Color Spray Xphb]]
+- [[Cone of Cold Xphb
+- [Confusion Xphb]]
+- [[Conjure Barrage Xphb
+- [Conjure Minor Elementals Xphb]]
+- [[Conjure Volley Xphb
+- [Conjure Woodland Beings Xphb]]
+- [[Crusaders Mantle Xphb
+- [Delayed Blast Fireball Xphb]]
+- [[Destructive Wave Xphb
+- [Dragons Breath Xphb]]
+- [[Fear Xphb
+- [Fireball Xphb]]
+- [[Flame Strike Xphb
+- [Fog Cloud Xphb]]
+- [[Globe of Invulnerability Xphb
+- [Glyph of Warding Xphb]]
+- [[Gust of Wind Xphb
+- [Holy Aura Xphb]]
+- [[Ice Storm Xphb
+- [Jallarzis Storm of Radiance Xphb]]
+- [[Leomunds Tiny Hut Xphb
+- [Lightning Bolt Xphb]]
+- [[Magic Circle Xphb
+- [Mass Cure Wounds Xphb]]
+- [[Meteor Swarm Xphb
+- [Otilukes Freezing Sphere Xphb]]
+- [[Pass Without Trace Xphb
+- [Plant Growth Xphb]]
+- [[Prismatic Spray Xphb
+- [Purify Food and Drink Xphb]]
+- [[Reverse Gravity Xphb
+- [Shatter Xphb]]
+- [[Silence Xphb
+- [Sleep Xphb]]
+- [[Sleet Storm Xphb
+- [Speak With Plants Xphb]]
+- [[Spike Growth Xphb
+- [Spirit Guardians Xphb]]
+- [[Stinking Cloud Xphb
+- [Sunbeam Xphb]]
+- [[Sunburst Xphb
+- [Synaptic Static Xphb]]
+- [[Thunderclap Xphb
+- [Vitriolic Sphere Xphb]]
+- [[Weird Xphb
+- [Word of Radiance Xphb]]
+- [[Yolandes Regal Presence Xphb
+- [Zone of Truth Xphb]]
+- [[acid-splash-xphb (spells)
+- [antilife-shell-xphb (spells)]]
+- [[antimagic-field-xphb (spells)
+- [arms-of-hadar-xphb (spells)]]
+- [[aura-of-life-xphb (spells)
+- [aura-of-purity-xphb (spells)]]
+- [[aura-of-vitality-xphb (spells)
+- [burning-hands-xphb (spells)]]
+- [[call-lightning-xphb (spells)
+- [calm-emotions-xphb (spells)]]
+- [[circle-of-death-xphb (spells)
+- [circle-of-power-xphb (spells)]]
+- [[cloudkill-xphb (spells)
+- [color-spray-xphb (spells)]]
+- [[cone-of-cold-xphb (spells)
+- [confusion-xphb (spells)]]
+- [[conjure-barrage-xphb (spells)
+- [conjure-minor-elementals-xphb (spells)]]
+- [[conjure-volley-xphb (spells)
+- [conjure-woodland-beings-xphb (spells)]]
+- [[crusaders-mantle-xphb (spells)
+- [delayed-blast-fireball-xphb (spells)]]
+- [[destructive-wave-xphb (spells)
+- [dragons-breath-xphb (spells)]]
+- [[fear-xphb (spells)
+- [fireball-xphb (spells)]]
+- [[flame-strike-xphb (spells)
+- [fog-cloud-xphb (spells)]]
+- [[globe-of-invulnerability-xphb (spells)
+- [glyph-of-warding-xphb (spells)]]
+- [[gust-of-wind-xphb (spells)
+- [holy-aura-xphb (spells)]]
+- [[ice-storm-xphb (spells)
+- [jallarzis-storm-of-radiance-xphb (spells)]]
+- [[leomunds-tiny-hut-xphb (spells)
+- [lightning-bolt-xphb (spells)]]
+- [[magic-circle-xphb (spells)
+- [mass-cure-wounds-xphb (spells)]]
+- [[meteor-swarm-xphb (spells)
+- [otilukes-freezing-sphere-xphb (spells)]]
+- [[pass-without-trace-xphb (spells)
+- [plant-growth-xphb (spells)]]
+- [[prismatic-spray-xphb (spells)
+- [purify-food-and-drink-xphb (spells)]]
+- [[reverse-gravity-xphb (spells)
+- [shatter-xphb (spells)]]
+- [[silence-xphb (spells)
+- [sleep-xphb (spells)]]
+- [[sleet-storm-xphb (spells)
+- [speak-with-plants-xphb (spells)]]
+- [[spike-growth-xphb (spells)
+- [spirit-guardians-xphb (spells)]]
+- [[stinking-cloud-xphb (spells)
+- [sunbeam-xphb (spells)]]
+- [[sunburst-xphb (spells)
+- [synaptic-static-xphb (spells)]]
+- [[thunderclap-xphb (spells)
+- [vitriolic-sphere-xphb (spells)]]
+- [[weird-xphb (spells)
+- [word-of-radiance-xphb (spells)]]
+- [[yolandes-regal-presence-xphb (spells)
+- [zone-of-truth-xphb (spells)]]
+- [[Adjudicating Areas of Effect Targets in Area of Effect Xdmg
+- [Adjudicating Areas of Effect Targets in Area]]
+- [[Mixing Potions Potion Miscibility Xdmg
+- [mixing-potions-potion-miscibility-xdmg (tables)]]
+- [[Fire Casting Statue Xdmg
+- [fire-casting-statue-xdmg (traps-hazards)]]
+- [[area-of-effect-xphb (variant-rules)]]
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#story/story
+#story/lore
+#world/location
+#world/world
+#world/setting
+#world/place
+#resource/item
+#resource/equipment
+#meta/reference

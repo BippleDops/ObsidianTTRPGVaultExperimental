@@ -1,0 +1,16 @@
+{
+  "name": "Elf Mage 223",
+  "type": "portrait",
+  "race": "elf",
+  "class": "mage",
+  "gender": "male",
+  "age": "elder",
+  "tags": [
+    "portrait",
+    "character",
+    "elf",
+    "mage",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.658Z"
+}

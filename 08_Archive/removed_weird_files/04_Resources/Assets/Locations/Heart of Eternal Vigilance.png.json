@@ -1,0 +1,18 @@
+{
+  "name": "Heart of Eternal Vigilance",
+  "type": "location",
+  "generated": "2025-08-15T18:17:56.290Z",
+  "prompt": "fantasy landscape called Heart of Eternal Vigilance, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Heart of Eternal Vigilance.png.json",
+  "reorganized": "2025-08-15T18:32:59.675Z"
+}

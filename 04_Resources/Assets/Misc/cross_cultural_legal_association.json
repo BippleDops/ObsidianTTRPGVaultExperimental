@@ -1,0 +1,22 @@
+{
+  "title": "Cross-Cultural Legal Association",
+  "prompt": "Cross-cultural legal association, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:42:17.084Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Cross-Cultural_Legal_Association.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/cross_cultural_legal_association.json",
+  "reorganized": "2025-08-15T18:33:07.367Z"
+}

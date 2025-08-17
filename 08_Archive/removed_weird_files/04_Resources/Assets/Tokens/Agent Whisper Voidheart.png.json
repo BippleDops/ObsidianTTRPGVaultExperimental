@@ -1,0 +1,18 @@
+{
+  "name": "Agent Whisper Voidheart",
+  "type": "token",
+  "generated": "2025-08-15T18:15:22.545Z",
+  "prompt": "character token for Agent Whisper Voidheart, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Tokens/Agent Whisper Voidheart.png.json",
+  "reorganized": "2025-08-15T18:33:09.736Z"
+}

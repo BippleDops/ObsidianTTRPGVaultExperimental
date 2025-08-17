@@ -1,0 +1,17 @@
+.dnd-ui-toolkit-state.json
+.obsidian/api_config.json
+nohup.out
+reports/
+vault_backup_*/
+09_Performance/*.pid
+
+
+# Backup directories (auto-added by backup_protection)
+backups/
+backup/
+*_backup_*/
+*.backup/
+# Prevent accidental backup linking
+backups/**/*.md
+backup/**/*.md
+08_Archive/**/*.md

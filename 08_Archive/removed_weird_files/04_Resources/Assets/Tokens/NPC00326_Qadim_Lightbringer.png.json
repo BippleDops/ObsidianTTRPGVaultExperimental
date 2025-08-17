@@ -1,0 +1,19 @@
+{
+  "name": "NPC00326_Qadim_Lightbringer",
+  "type": "token",
+  "generated": "2025-08-15T18:16:05.999Z",
+  "prompt": "character token for NPC00326_Qadim_Lightbringer, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC00326_Qadim_Lightbringer.png.json",
+  "reorganized": "2025-08-15T18:33:11.088Z"
+}

@@ -1,0 +1,237 @@
+# Quests Index
+
+*Total: 215 entries*
+
+## All Entries
+
+### A
+- [[Ambush Point
+
+### C
+- [Crystalline Depths]]
+
+### D
+- [[Diplomatic Tides
+- [Discover the Singers Beyond]]
+
+### E
+- [[Economic Warfare
+
+### F
+- [Find the Grief Bomb]]
+
+### Q
+- [[QUEST0000_The_Lost_Alliance
+- [QUEST0000_The_Stolen_Prophecy]]
+- [[QUEST0001_Escape_the_Assassins
+- [QUEST0001_Hunt_the_Assassins]]
+- [[QUEST0002_In_Search_of_Glory
+- [QUEST0002_In_Search_of_Vengeance]]
+- [[QUEST0003_The_Crystal_Cave_Plague
+- [QUEST0003_The_Haunted_Manor_War]]
+- [[QUEST0004_Baron's_Secret
+- [QUEST0004_Elder's_Revenge]]
+- [[QUEST0005_The_Ancient_Artifact
+- [QUEST0005_The_Lost_Artifact]]
+- [[QUEST0006_Defend_the_Cult
+- [QUEST0006_Investigate_the_Pirates]]
+- [[QUEST0007_In_Search_of_Justice
+- [QUEST0007_In_Search_of_Power]]
+- [[QUEST0008_The_Lost_City_Conspiracy
+- [QUEST0008_The_Lost_City_Invasion]]
+- [[QUEST0009_Captain's_Gambit
+- [QUEST0009_Captain's_Request]]
+- [[QUEST0010_The_Ancient_Heir
+- [QUEST0010_The_Hidden_Alliance]]
+- [[QUEST0011_Escape_the_Demons
+- [QUEST0011_Infiltrate_the_Dragon]]
+- [[QUEST0012_In_Search_of_Power
+- [QUEST0012_In_Search_of_Truth]]
+- [[QUEST0013_The_Crystal_Cave_Uprising
+- [QUEST0013_The_Shadow_Realm_Mystery]]
+- [[QUEST0014_Champion's_Dilemma
+- [QUEST0014_Champion's_Request]]
+- [[QUEST0015_The_Sacred_Heir
+- [QUEST0015_The_Stolen_Prophecy]]
+- [[QUEST0016_Investigate_the_Necromancer
+- [QUEST0016_Negotiate_with_the_Dragon]]
+- [[QUEST0017_In_Search_of_Justice
+- [QUEST0017_In_Search_of_Knowledge]]
+- [[QUEST0018_The_Shadow_Realm_Plague
+- [QUEST0018_The_Sunken_Temple_Uprising]]
+- [[QUEST0019_Merchant's_Secret
+- [QUEST0019_Oracle's_Redemption]]
+- [[QUEST0020_The_Ancient_Treasure
+- [QUEST0020_The_Sacred_Prophecy]]
+- [[QUEST0021_Destroy_the_Demons
+- [QUEST0021_Destroy_the_Pirates]]
+- [[QUEST0022_In_Search_of_Justice
+- [QUEST0022_In_Search_of_Peace]]
+- [[QUEST0023_The_Shadow_Realm_Conspiracy
+- [QUEST0024_Champion's_Gambit]]
+- [[QUEST0024_Champion's_Redemption
+- [QUEST0025_The_Sacred_Prophecy]]
+- [[QUEST0025_The_Stolen_Artifact
+- [QUEST0026_Investigate_the_Tyrant]]
+- [[QUEST0026_Negotiate_with_the_Cult
+- [QUEST0027_In_Search_of_Knowledge]]
+- [[QUEST0027_In_Search_of_Redemption
+- [QUEST0028_The_Haunted_Manor_Conspiracy]]
+- [[QUEST0028_The_Haunted_Manor_Uprising
+- [QUEST0029_Captain's_Request]]
+- [[QUEST0029_Oracle's_Dilemma
+- [QUEST0030_The_Lost_Prophecy]]
+- [[QUEST0030_The_Sacred_Treasure
+- [QUEST0031_Negotiate_with_the_Dragon]]
+- [[QUEST0031_Rescue_the_Tyrant
+- [QUEST0032_In_Search_of_Peace]]
+- [[QUEST0032_In_Search_of_Power
+- [QUEST0033_The_Crystal_Cave_Curse]]
+- [[QUEST0033_The_Frozen_Fortress_Plague
+- [QUEST0034_Champion's_Request]]
+- [[QUEST0034_Princess's_Revenge
+- [QUEST0035_The_Ancient_Treasure]]
+- [[QUEST0035_The_Stolen_Legacy
+- [QUEST0036_Destroy_the_Demons]]
+- [[QUEST0036_Hunt_the_Necromancer
+- [QUEST0037_In_Search_of_Glory]]
+- [[QUEST0037_In_Search_of_Justice
+- [QUEST0038_The_Frozen_Fortress_Conspiracy]]
+- [[QUEST0038_The_Frozen_Fortress_Disappearances
+- [QUEST0039_Baron's_Gambit]]
+- [[QUEST0039_Captain's_Revenge
+- [QUEST0040_The_Forbidden_Betrayal]]
+- [[QUEST0041_Escape_the_Tyrant
+- [QUEST0041_Investigate_the_Pirates]]
+- [[QUEST0042_In_Search_of_Knowledge
+- [QUEST0042_In_Search_of_Power]]
+- [[QUEST0043_The_Crystal_Cave_Uprising
+- [QUEST0043_The_Haunted_Manor_Invasion]]
+- [[QUEST0044_Oracle's_Revenge
+- [QUEST0044_Wizard's_Revenge]]
+- [[QUEST0045_The_Cursed_Legacy
+- [QUEST0045_The_Forbidden_Treasure]]
+- [[QUEST0046_Infiltrate_the_Necromancer
+- [QUEST0046_Infiltrate_the_Tyrant]]
+- [[QUEST0047_In_Search_of_Power
+- [QUEST0047_In_Search_of_Truth]]
+- [[QUEST0048_The_Crystal_Cave_Plague
+- [QUEST0048_The_Frozen_Fortress_Invasion]]
+- [[QUEST0049_Oracle's_Last_Stand
+- [QUEST0049_Wizard's_Last_Stand]]
+- [[QUEST0050_The_Cursed_Treasure
+- [QUEST0050_The_Forbidden_Prophecy]]
+- [[QUEST0051_Hunt_the_Tyrant
+- [QUEST0051_Infiltrate_the_Demons]]
+- [[QUEST0052_In_Search_of_Knowledge
+- [QUEST0052_In_Search_of_Power]]
+- [[QUEST0053_The_Frozen_Fortress_Curse
+- [QUEST0053_The_Frozen_Fortress_Plague]]
+- [[QUEST0054_Baron's_Folly
+- [QUEST0054_Wizard's_Request]]
+- [[QUEST0055_The_Forbidden_Artifact
+- [QUEST0055_The_Sacred_Alliance]]
+- [[QUEST0056_Investigate_the_Demons
+- [QUEST0056_Rescue_the_Cult]]
+- [[QUEST0057_In_Search_of_Vengeance
+- [QUEST0058_The_Haunted_Manor_Conspiracy]]
+- [[QUEST0058_The_Shadow_Realm_Conspiracy
+- [QUEST0059_Captain's_Secret]]
+- [[QUEST0059_Princess's_Request
+- [QUEST0060_The_Cursed_Secret]]
+- [[QUEST0060_The_Hidden_Legacy
+- [QUEST0061_Hunt_the_Demons]]
+- [[QUEST0061_Negotiate_with_the_Pirates
+- [QUEST0062_In_Search_of_Peace]]
+- [[QUEST0062_In_Search_of_Truth
+- [QUEST0063_The_Frozen_Fortress_Plague]]
+- [[QUEST0063_The_Sunken_Temple_War
+- [QUEST0064_Baron's_Last_Stand]]
+- [[QUEST0064_Princess's_Secret
+- [QUEST0065_The_Cursed_Alliance]]
+- [[QUEST0065_The_Hidden_Treasure
+- [QUEST0066_Hunt_the_Demons]]
+- [[QUEST0066_Hunt_the_Dragon
+- [QUEST0067_In_Search_of_Redemption]]
+- [[QUEST0067_In_Search_of_Vengeance
+- [QUEST0068_The_Shadow_Realm_Invasion]]
+- [[QUEST0068_The_Shadow_Realm_Plague
+- [QUEST0069_Baron's_Redemption]]
+- [[QUEST0069_Captain's_Revenge
+- [QUEST0070_The_Sacred_Heir]]
+- [[QUEST0070_The_Sacred_Secret
+- [QUEST0071_Hunt_the_Demons]]
+- [[QUEST0071_Investigate_the_Cult
+- [QUEST0072_In_Search_of_Knowledge]]
+- [[QUEST0072_In_Search_of_Redemption
+- [QUEST0073_The_Crystal_Cave_Invasion]]
+- [[QUEST0073_The_Frozen_Fortress_Uprising
+- [QUEST0074_Champion's_Gambit]]
+- [[QUEST0074_Oracle's_Gambit
+- [QUEST0075_The_Ancient_Artifact]]
+- [[QUEST0075_The_Cursed_Alliance
+- [QUEST0076_Infiltrate_the_Demons]]
+- [[QUEST0076_Infiltrate_the_Dragon
+- [QUEST0077_In_Search_of_Justice]]
+- [[QUEST0078_The_Frozen_Fortress_Invasion
+- [QUEST0078_The_Sunken_Temple_Mystery]]
+- [[QUEST0079_Captain's_Revenge
+- [QUEST0079_Elder's_Folly]]
+- [[QUEST0080_The_Final_Legacy
+- [QUEST0080_The_Lost_Secret]]
+- [[QUEST0081_Infiltrate_the_Necromancer
+- [QUEST0081_Rescue_the_Cult]]
+- [[QUEST0082_In_Search_of_Redemption
+- [QUEST0082_In_Search_of_Truth]]
+- [[QUEST0083_The_Lost_City_Mystery
+- [QUEST0083_The_Sunken_Temple_Curse]]
+- [[QUEST0084_Baron's_Request
+- [QUEST0084_Princess's_Gambit]]
+- [[QUEST0085_The_Sacred_Prophecy
+- [QUEST0085_The_Stolen_Heir]]
+- [[QUEST0086_Defend_the_Necromancer
+- [QUEST0086_Infiltrate_the_Assassins]]
+- [[QUEST0087_In_Search_of_Justice
+- [QUEST0087_In_Search_of_Vengeance]]
+- [[QUEST0088_The_Crystal_Cave_Disappearances
+- [QUEST0088_The_Sunken_Temple_Disappearances]]
+- [[QUEST0089_Merchant's_Gambit
+- [QUEST0089_Princess's_Request]]
+- [[QUEST0090_The_Ancient_Treasure
+- [QUEST0090_The_Forbidden_Betrayal]]
+- [[QUEST0091_Escape_the_Thieves
+- [QUEST0091_Rescue_the_Pirates]]
+- [[QUEST0092_In_Search_of_Glory
+- [QUEST0092_In_Search_of_Knowledge]]
+- [[QUEST0093_The_Shadow_Realm_Curse
+- [QUEST0093_The_Shadow_Realm_Disappearances]]
+- [[QUEST0094_Baron's_Gambit
+- [QUEST0095_The_Cursed_Alliance]]
+- [[QUEST0095_The_Hidden_Legacy
+- [QUEST0096_Hunt_the_Thieves]]
+- [[QUEST0096_Investigate_the_Cult
+- [QUEST0097_In_Search_of_Peace]]
+- [[QUEST0097_In_Search_of_Vengeance
+- [QUEST0098_The_Crystal_Cave_Invasion]]
+- [[QUEST0098_The_Crystal_Cave_War
+- [QUEST0099_Elder's_Folly]]
+- [[QUEST0099_Wizard's_Folly
+- [Quest   The Pressure Cure]]
+
+### R
+- [[Rescue Senator Glaucus
+
+### S
+- [Smuggler]]
+- [[Stop the Crystal Festival Ritual
+
+### T
+- [The Crown's Burden]]
+- [[The Depth Accords
+- [The Green Death]]
+- [[The Lock Saboteur
+- [The Maw of Darkness]]
+- [[The Tide Rises
+- [The Whispering Expanse]]
+- [[The Whispering Expanse.md
+- [Traveling Merchant Finn]]

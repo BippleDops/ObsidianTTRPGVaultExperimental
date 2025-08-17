@@ -1,0 +1,18 @@
+{
+  "name": "LOC00090_Towns_Location_91",
+  "type": "map",
+  "generated": "2025-08-15T18:17:44.439Z",
+  "prompt": "fantasy map of LOC00090_Towns_Location_91, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/LOC00090_Towns_Location_91.png.json",
+  "reorganized": "2025-08-15T18:33:02.732Z"
+}

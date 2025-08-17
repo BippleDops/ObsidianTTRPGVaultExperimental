@@ -1,0 +1,1036 @@
+[worker2] Starting paced generator
+[worker2] Configuration:
+  • Batch size: 5
+  • Asset delay: 5s
+  • Batch delay: 30s
+  • Pause every: 10 batches
+
+[worker2] Found 8453 files to process
+
+[worker2] Processing batch 1 (5 files)
+[worker2] Retry 1/2 for #Character Sheet.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for #Character-Faction Relationship Matrix.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for #Cross-Campaign Characters.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for #NPC-Location Relationship Matrix.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for #NPCs.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Batch 1 complete
+  • Generated: 0
+  • Failed: 5
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 2 (5 files)
+[worker2] Retry 1/2 for #Royal & Noble Characters.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Pregenerated_Characters.md.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Pregenerated_Characters.md.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for 02 Chapter 1 Playing the Game#stabilizing a Character.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for mechuiti-demon-lord-of-apes-tob.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Batch 2 complete
+  • Generated: 0
+  • Failed: 10
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 3 (5 files)
+[worker2] Retry 1/2 for qorgeth-demon-lord-of-the-devouring-worm-tob.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for NPC_Name_Generator.png.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for NPC_Relationship_Web.png.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Crown_Dome_Conspiracy.png.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Quest Into the Wastes.png.md
+[worker2] Failed: No context extracted
+[worker2] Batch 3 complete
+  • Generated: 0
+  • Failed: 15
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 4 (5 files)
+[worker2] Retry 1/2 for Quest Nature.png.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Quest Syndicate Shadows.png.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Quest the Blackmail Papers.png.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Quest the Missing Guards.png.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Quest the Pretender.png.md
+[worker2] Failed: No context extracted
+[worker2] Batch 4 complete
+  • Generated: 0
+  • Failed: 20
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 5 (5 files)
+[worker2] Retry 1/2 for Quest the Root Network.png.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Session 4.png.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Shadow_Parliament.png.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Syndicate_War.png.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for The_Coral_Throne_Syndicate.png.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Batch 5 complete
+  • Generated: 0
+  • Failed: 25
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 6 (5 files)
+[worker2] Retry 1/2 for The_Corroded_Crown.png.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for The_Cure.png.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for The_Party.png.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for The_Seven_Seals.png.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for The_Verdant_Accord.png.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Batch 6 complete
+  • Generated: 0
+  • Failed: 30
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 7 (5 files)
+[worker2] Retry 1/2 for Uniting_the_Factions.png.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Aboleth Prime Yoth Aboleth Prime Yoth.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Aboleth Prime Yoth V1 Aboleth Prime Yoth.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Aboleth Prime Yoth V2 Aboleth Prime Yoth.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Abyssal Cathedral Abyssal Cathedral.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Batch 7 complete
+  • Generated: 0
+  • Failed: 35
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 8 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Abyssal Cathedral V1 Abyssal Cathedral.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Abyssal Cathedral V2 Abyssal Cathedral.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Abyssos Prime Government Abyssos Prime Government.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Abyssos Prime Government V1 Abyssos Prime Government.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Abyssos Prime Government V2 Abyssos Prime Government.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Batch 8 complete
+  • Generated: 0
+  • Failed: 40
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 9 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Abyssos Prime Parliament of Echoes Abyssos Prime Parliament of Echoes.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Abyssos Prime Parliament of Echoes V1 Abyssos Prime Parliament of Echoes.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Abyssos Prime Parliament of Echoes V2 Abyssos Prime Parliament of Echoes.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Abyssos Prime Throne of Bubbles Abyssos Prime Throne of Bubbles.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Abyssos Prime Throne of Bubbles V1 Abyssos Prime Throne of Bubbles.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Batch 9 complete
+  • Generated: 0
+  • Failed: 45
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 10 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Abyssos Prime Throne of Bubbles V2 Abyssos Prime Throne of Bubbles.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Admiral Cassandra Stormwind Admiral Cassandra Stormwind.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Admiral Cassandra Stormwind V1 Admiral Cassandra Stormwind.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Admiral Cassandra Stormwind V2 Admiral Cassandra Stormwind.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Admiral Lady Cassandra Stormwind Admiral Lady Cassandra Stormwind.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Batch 10 complete
+  • Generated: 0
+  • Failed: 50
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+
+[worker2] ⏸️  Taking a 2 minute break...
+  Reason: Pacing protocol activated
+  Resume at: 8:01:05 PM
+
+[worker2] ▶️  Resuming generation...
+
+[worker2] Processing batch 11 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Admiral Lady Cassandra Stormwind V1 Admiral Lady Cassandra Stormwind.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Admiral Lady Cassandra Stormwind V2 Admiral Lady Cassandra Stormwind.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Admiral Thorne Blackwater Admiral Thorne Blackwater.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Admiral Thorne Blackwater V1 Admiral Thorne Blackwater.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Admiral Thorne Blackwater V2 Admiral Thorne Blackwater.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Batch 11 complete
+  • Generated: 0
+  • Failed: 55
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 12 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Agent Whisper Voidheart Agent Whisper Voidheart.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Agent Whisper Voidheart V1 Agent Whisper Voidheart.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Agent Whisper Voidheart V2 Agent Whisper Voidheart.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Ambassador Korvin Blacktide Ambassador Korvin Blacktide.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Ambassador Korvin Blacktide V1 Ambassador Korvin Blacktide.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Batch 12 complete
+  • Generated: 0
+  • Failed: 60
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 13 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Ambassador Korvin Blacktide V2 Ambassador Korvin Blacktide.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Ambassador Nerida Deepcurrent Ambassador Nerida Deepcurrent.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Ambassador Nerida Deepcurrent V1 Ambassador Nerida Deepcurrent.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Ambassador Nerida Deepcurrent V2 Ambassador Nerida Deepcurrent.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Ancient King Pelagios Ancient King Pelagios.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Batch 13 complete
+  • Generated: 0
+  • Failed: 65
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 14 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Ancient King Pelagios V1 Ancient King Pelagios.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Ancient King Pelagios V2 Ancient King Pelagios.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Archbishop Matthias Lightbringer Archbishop Matthias Lightbringer.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Archbishop Matthias Lightbringer V1 Archbishop Matthias Lightbringer.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Archbishop Matthias Lightbringer V2 Archbishop Matthias Lightbringer.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Batch 14 complete
+  • Generated: 0
+  • Failed: 70
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 15 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Archbishop Mordecai Stormwright Archbishop Mordecai Stormwright.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Archbishop Mordecai Stormwright V1 Archbishop Mordecai Stormwright.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Archbishop Mordecai Stormwright V2 Archbishop Mordecai Stormwright.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Archdruid Thornweaver Archdruid Thornweaver.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Archdruid Thornweaver V1 Archdruid Thornweaver.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Batch 15 complete
+  • Generated: 0
+  • Failed: 75
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 16 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Archdruid Thornweaver V2 Archdruid Thornweaver.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Archon Meredith Saltweaver Archon Meredith Saltweaver.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Archon Meredith Saltweaver V1 Archon Meredith Saltweaver.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Archon Meredith Saltweaver V2 Archon Meredith Saltweaver.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Aria Lumengarde V1 Aria Lumengarde.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Batch 16 complete
+  • Generated: 0
+  • Failed: 80
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 17 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Aria Lumengarde V2 Aria Lumengarde.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Banker Titus Goldcurrent Banker Titus Goldcurrent.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Banker Titus Goldcurrent V1 Banker Titus Goldcurrent.svg.md
+[worker2] Failed: Cannot read properties of undefined (reading 'includes')
+[worker2] Retry 1/2 for Portrait NPC Banker Titus Goldcurrent V2 Banker Titus Goldcurrent.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Banking Lord Cornelius Coinwright Banking Lord Cornelius Coinwright.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 17 complete
+  • Generated: 0
+  • Failed: 85
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 18 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Banking Lord Cornelius Coinwright V1 Banking Lord Cornelius Coinwright.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Banking Lord Cornelius Coinwright V2 Banking Lord Cornelius Coinwright.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Blackwater Estate Blackwater Estate.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Blackwater Estate V1 Blackwater Estate.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Blackwater Estate V2 Blackwater Estate.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 18 complete
+  • Generated: 0
+  • Failed: 90
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 19 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Blood in the Water Blood in the Water.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Blood in the Water V1 Blood in the Water.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Blood in the Water V2 Blood in the Water.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Brother Marcus Steelbane Brother Marcus Steelbane.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Brother Marcus Steelbane V1 Brother Marcus Steelbane.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 19 complete
+  • Generated: 0
+  • Failed: 95
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 20 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Brother Marcus Steelbane V2 Brother Marcus Steelbane.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Brother Matthias the Amber Bearer Brother Matthias the Amber Bearer.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Brother Matthias the Amber Bearer V1 Brother Matthias the Amber Bearer.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Brother Matthias the Amber Bearer V2 Brother Matthias the Amber Bearer.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Between V1 Captain Between.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 20 complete
+  • Generated: 0
+  • Failed: 100
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+
+[worker2] ⏸️  Taking a 2 minute break...
+  Reason: Pacing protocol activated
+  Resume at: 8:16:25 PM
+
+[worker2] ▶️  Resuming generation...
+
+[worker2] Processing batch 21 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Between V2 Captain Between.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Blackwater Captain Blackwater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Blackwater V1 Captain Blackwater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Blackwater V2 Captain Blackwater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Cornelius Deepwater Captain Cornelius Deepwater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 21 complete
+  • Generated: 0
+  • Failed: 105
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 22 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Cornelius Deepwater V1 Captain Cornelius Deepwater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Cornelius Deepwater V2 Captain Cornelius Deepwater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Dara Ironwill Captain Dara Ironwill.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Dara Ironwill V1 Captain Dara Ironwill.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Dara Ironwill V2 Captain Dara Ironwill.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 22 complete
+  • Generated: 0
+  • Failed: 110
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 23 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Depths Walker Marina Captain Depths Walker Marina.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Depths Walker Marina V1 Captain Depths Walker Marina.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Depths Walker Marina V2 Captain Depths Walker Marina.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Dimensional Captain Dimensional.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Dimensional V1 Captain Dimensional.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 23 complete
+  • Generated: 0
+  • Failed: 115
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 24 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Dimensional V2 Captain Dimensional.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Dr Bloodletting Captain Dr Bloodletting.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Dr Bloodletting V1 Captain Dr Bloodletting.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Dr Bloodletting V2 Captain Dr Bloodletting.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Echoing Thunder Captain Echoing Thunder.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 24 complete
+  • Generated: 0
+  • Failed: 120
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 25 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Echoing Thunder V1 Captain Echoing Thunder.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Echoing Thunder V2 Captain Echoing Thunder.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Elara Shadowshard Captain Elara Shadowshard.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Elara Shadowshard V1 Captain Elara Shadowshard.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Elara Shadowshard V2 Captain Elara Shadowshard.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 25 complete
+  • Generated: 0
+  • Failed: 125
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 26 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Finn Crosscurrent Captain Finn Crosscurrent.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Finn Crosscurrent V1 Captain Finn Crosscurrent.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Finn Crosscurrent V2 Captain Finn Crosscurrent.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Garrett Stormcutter Captain Garrett Stormcutter.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Garrett Stormcutter V1 Captain Garrett Stormcutter.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 26 complete
+  • Generated: 0
+  • Failed: 130
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 27 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Garrett Stormcutter V2 Captain Garrett Stormcutter.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Guard Peacehold Captain Guard Peacehold.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Guard Peacehold V1 Captain Guard Peacehold.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Guard Peacehold V2 Captain Guard Peacehold.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Hadal Voidwright Captain Hadal Voidwright.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 27 complete
+  • Generated: 0
+  • Failed: 135
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 28 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Hadal Voidwright V1 Captain Hadal Voidwright.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Hadal Voidwright V2 Captain Hadal Voidwright.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Harmony Tidereader Captain Harmony Tidereader.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Harmony Tidereader V1 Captain Harmony Tidereader.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Harmony Tidereader V2 Captain Harmony Tidereader.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 28 complete
+  • Generated: 0
+  • Failed: 140
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 29 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Henrik Proudbanner Captain Henrik Proudbanner.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Henrik Proudbanner V1 Captain Henrik Proudbanner.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Henrik Proudbanner V2 Captain Henrik Proudbanner.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Henrik Saltbreeze Captain Henrik Saltbreeze.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Henrik Saltbreeze V1 Captain Henrik Saltbreeze.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 29 complete
+  • Generated: 0
+  • Failed: 145
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 30 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Henrik Saltbreeze V2 Captain Henrik Saltbreeze.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Lyanna Brightshield Captain Lyanna Brightshield.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Lyanna Brightshield V1 Captain Lyanna Brightshield.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Lyanna Brightshield V2 Captain Lyanna Brightshield.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Marcus Ironwill Captain Marcus Ironwill.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 30 complete
+  • Generated: 0
+  • Failed: 150
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+
+[worker2] ⏸️  Taking a 2 minute break...
+  Reason: Pacing protocol activated
+  Resume at: 8:31:45 PM
+
+[worker2] ▶️  Resuming generation...
+
+[worker2] Processing batch 31 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Marcus Ironwill V1 Captain Marcus Ironwill.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Marcus Ironwill V2 Captain Marcus Ironwill.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Marcus Voidward Captain Marcus Voidward.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Marcus Voidward V1 Captain Marcus Voidward.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Marcus Voidward V2 Captain Marcus Voidward.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 31 complete
+  • Generated: 0
+  • Failed: 155
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 32 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Marina Saltborn Captain Marina Saltborn.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Marina Saltborn V1 Captain Marina Saltborn.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Marina Saltborn V2 Captain Marina Saltborn.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Marina Shieldcurrent Captain Marina Shieldcurrent.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Marina Shieldcurrent V1 Captain Marina Shieldcurrent.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 32 complete
+  • Generated: 0
+  • Failed: 160
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 33 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Marina Shieldcurrent V2 Captain Marina Shieldcurrent.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Marina Truewater Captain Marina Truewater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Marina Truewater V1 Captain Marina Truewater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Marina Truewater V2 Captain Marina Truewater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Mistwalker Captain Mistwalker.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 33 complete
+  • Generated: 0
+  • Failed: 165
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 34 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Mistwalker V1 Captain Mistwalker.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Mistwalker V2 Captain Mistwalker.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Morgrim Lastvessel Captain Morgrim Lastvessel.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Morgrim Lastvessel V1 Captain Morgrim Lastvessel.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Morgrim Lastvessel V2 Captain Morgrim Lastvessel.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 34 complete
+  • Generated: 0
+  • Failed: 170
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 35 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Nautilus Deepwatch Captain Nautilus Deepwatch.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Nautilus Deepwatch V1 Captain Nautilus Deepwatch.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Nautilus Deepwatch V2 Captain Nautilus Deepwatch.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Nautilus the Deep Wanderer Captain Nautilus the Deep Wanderer.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Nautilus the Deep Wanderer V1 Captain Nautilus the Deep Wanderer.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 35 complete
+  • Generated: 0
+  • Failed: 175
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 36 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Nautilus the Deep Wanderer V2 Captain Nautilus the Deep Wanderer.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Navigator Captain Navigator.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Navigator V1 Captain Navigator.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Navigator V2 Captain Navigator.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Nerida Stormcrest Captain Nerida Stormcrest.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 36 complete
+  • Generated: 0
+  • Failed: 180
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 37 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Nerida Stormcrest V1 Captain Nerida Stormcrest.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Nerida Stormcrest V2 Captain Nerida Stormcrest.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Nerion Deepward Captain Nerion Deepward.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Nerion Deepward V1 Captain Nerion Deepward.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Nerion Deepward V2 Captain Nerion Deepward.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 37 complete
+  • Generated: 0
+  • Failed: 185
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 38 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Prism Shield Valeria Captain Prism Shield Valeria.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Prism Shield Valeria V1 Captain Prism Shield Valeria.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Prism Shield Valeria V2 Captain Prism Shield Valeria.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Redbeard V1 Captain Redbeard.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Redbeard V2 Captain Redbeard.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 38 complete
+  • Generated: 0
+  • Failed: 190
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 39 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Repossession Captain Repossession.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Repossession V1 Captain Repossession.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Repossession V2 Captain Repossession.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Rex Ironhaul Captain Rex Ironhaul.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Rex Ironhaul V1 Captain Rex Ironhaul.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 39 complete
+  • Generated: 0
+  • Failed: 195
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 40 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Rex Ironhaul V2 Captain Rex Ironhaul.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Rhea Blackwater Captain Rhea Blackwater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Rhea Blackwater V1 Captain Rhea Blackwater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Rhea Blackwater V2 Captain Rhea Blackwater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Sarah Ironheart Captain Sarah Ironheart.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 40 complete
+  • Generated: 0
+  • Failed: 200
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+
+[worker2] ⏸️  Taking a 2 minute break...
+  Reason: Pacing protocol activated
+  Resume at: 8:47:05 PM
+
+[worker2] ▶️  Resuming generation...
+
+[worker2] Processing batch 41 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Sarah Ironheart V1 Captain Sarah Ironheart.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Sarah Ironheart V2 Captain Sarah Ironheart.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Sarah Oathbound Captain Sarah Oathbound.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Sarah Oathbound V1 Captain Sarah Oathbound.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Sarah Oathbound V2 Captain Sarah Oathbound.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 41 complete
+  • Generated: 0
+  • Failed: 205
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 42 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Scale Walker Captain Scale Walker.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Scale Walker V1 Captain Scale Walker.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Scale Walker V2 Captain Scale Walker.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Scarlet Torrent Captain Scarlet Torrent.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Scarlet Torrent V1 Captain Scarlet Torrent.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 42 complete
+  • Generated: 0
+  • Failed: 210
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 43 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Scarlet Torrent V2 Captain Scarlet Torrent.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Shadowsail Captain Shadowsail.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Shadowsail V1 Captain Shadowsail.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Shadowsail V2 Captain Shadowsail.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Sky Horizon Captain Sky Horizon.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 43 complete
+  • Generated: 0
+  • Failed: 215
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 44 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Sky Horizon V1 Captain Sky Horizon.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Sky Horizon V2 Captain Sky Horizon.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Steelhart Captain Steelhart.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Steelhart V1 Captain Steelhart.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Steelhart V2 Captain Steelhart.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 44 complete
+  • Generated: 0
+  • Failed: 220
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 45 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Sterling Lightshield Captain Sterling Lightshield.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Sterling Lightshield V1 Captain Sterling Lightshield.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Sterling Lightshield V2 Captain Sterling Lightshield.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Storm Ambushmaster Captain Storm Ambushmaster.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Storm Ambushmaster V1 Captain Storm Ambushmaster.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 45 complete
+  • Generated: 0
+  • Failed: 225
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 46 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Storm Ambushmaster V2 Captain Storm Ambushmaster.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Swift Cloudracer Captain Swift Cloudracer.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Swift Cloudracer V1 Captain Swift Cloudracer.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Swift Cloudracer V2 Captain Swift Cloudracer.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Tempest Eye Marelda Captain Tempest Eye Marelda.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 46 complete
+  • Generated: 0
+  • Failed: 230
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 47 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Tempest Eye Marelda V1 Captain Tempest Eye Marelda.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Tempest Eye Marelda V2 Captain Tempest Eye Marelda.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thaddeus Blackwater Captain Thaddeus Blackwater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thaddeus Blackwater V1 Captain Thaddeus Blackwater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thaddeus Blackwater V2 Captain Thaddeus Blackwater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 47 complete
+  • Generated: 0
+  • Failed: 235
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 48 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Thaddeus Stormwright Captain Thaddeus Stormwright.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thaddeus Stormwright V1 Captain Thaddeus Stormwright.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thaddeus Stormwright V2 Captain Thaddeus Stormwright.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thalia Stormguard Captain Thalia Stormguard.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thalia Stormguard V1 Captain Thalia Stormguard.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 48 complete
+  • Generated: 0
+  • Failed: 240
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 49 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Thalia Stormguard V2 Captain Thalia Stormguard.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thornback Captain Thornback.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thornback V1 Captain Thornback.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thornback V2 Captain Thornback.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thorne Darkwater Captain Thorne Darkwater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 49 complete
+  • Generated: 0
+  • Failed: 245
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 50 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Thorne Darkwater V1 Captain Thorne Darkwater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thorne Darkwater V2 Captain Thorne Darkwater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thrace Deeprunner Captain Thrace Deeprunner.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thrace Deeprunner V1 Captain Thrace Deeprunner.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Thrace Deeprunner V2 Captain Thrace Deeprunner.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 50 complete
+  • Generated: 0
+  • Failed: 250
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+
+[worker2] ⏸️  Taking a 2 minute break...
+  Reason: Pacing protocol activated
+  Resume at: 9:02:25 PM
+
+[worker2] ▶️  Resuming generation...
+
+[worker2] Processing batch 51 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Threshold Captain Threshold.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Threshold V1 Captain Threshold.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Threshold V2 Captain Threshold.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Torren Stormwright Captain Torren Stormwright.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Torren Stormwright V1 Captain Torren Stormwright.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 51 complete
+  • Generated: 0
+  • Failed: 255
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 52 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Torren Stormwright V2 Captain Torren Stormwright.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Torrent Freewater Captain Torrent Freewater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Torrent Freewater V1 Captain Torrent Freewater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Torrent Freewater V2 Captain Torrent Freewater.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Torrent Swiftcurrent Captain Torrent Swiftcurrent.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 52 complete
+  • Generated: 0
+  • Failed: 260
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 53 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Torrent Swiftcurrent V1 Captain Torrent Swiftcurrent.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Torrent Swiftcurrent V2 Captain Torrent Swiftcurrent.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Truth Ironwill Captain Truth Ironwill.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Truth Ironwill V1 Captain Truth Ironwill.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Truth Ironwill V2 Captain Truth Ironwill.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 53 complete
+  • Generated: 0
+  • Failed: 265
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 54 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Twin Reality Marsh Captain Twin Reality Marsh.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Twin Reality Marsh V1 Captain Twin Reality Marsh.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Twin Reality Marsh V2 Captain Twin Reality Marsh.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Valeria V1 Captain Valeria.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Valeria V2 Captain Valeria.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 54 complete
+  • Generated: 0
+  • Failed: 270
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 55 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Voidguard Captain Voidguard.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Voidguard V1 Captain Voidguard.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Voidguard V2 Captain Voidguard.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Zara Stormwind Captain Zara Stormwind.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Captain Zara Stormwind V1 Captain Zara Stormwind.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 55 complete
+  • Generated: 0
+  • Failed: 275
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 56 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Captain Zara Stormwind V2 Captain Zara Stormwind.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Castellan Ironledger Iii Castellan Ironledger Iii.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Castellan Ironledger Iii V1 Castellan Ironledger Iii.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Castellan Ironledger Iii V2 Castellan Ironledger Iii.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Character Relationship Web Core Npcs Character Relationship Web Core Npcs.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 56 complete
+  • Generated: 0
+  • Failed: 280
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 57 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Character Relationship Web Core Npcs V1 Character Relationship Web Core Npcs.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Character Relationship Web Core Npcs V2 Character Relationship Web Core Npcs.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Commander Thrace Ironwood Commander Thrace Ironwood.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Commander Thrace Ironwood V1 Commander Thrace Ironwood.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Commander Thrace Ironwood V2 Commander Thrace Ironwood.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 57 complete
+  • Generated: 0
+  • Failed: 285
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 58 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Commander Typhoon Blackheart Commander Typhoon Blackheart.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Commander Typhoon Blackheart V1 Commander Typhoon Blackheart.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Commander Typhoon Blackheart V2 Commander Typhoon Blackheart.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Commodity Queen Abundance Commodity Queen Abundance.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Commodity Queen Abundance V1 Commodity Queen Abundance.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 58 complete
+  • Generated: 0
+  • Failed: 290
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 59 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Commodity Queen Abundance V2 Commodity Queen Abundance.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Coral Empress Scarletina Coral Empress Scarletina.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Coral Empress Scarletina V1 Coral Empress Scarletina.svg.md

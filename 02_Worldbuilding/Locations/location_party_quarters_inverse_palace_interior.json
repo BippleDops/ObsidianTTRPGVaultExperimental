@@ -1,0 +1,10 @@
+{
+  "type": "location_variant",
+  "generated": "2025-08-15T02:48:26.240Z",
+  "metadata": {
+    "name": "Party Quarters - Inverse Palace",
+    "variant": "interior"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

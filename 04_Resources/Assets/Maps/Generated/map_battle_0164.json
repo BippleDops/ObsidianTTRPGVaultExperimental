@@ -1,0 +1,46 @@
+{
+  "name": "Battle Map 164",
+  "type": "map",
+  "mapType": "battle",
+  "gridSize": "25x25",
+  "scale": "5ft per square",
+  "tags": [
+    "map",
+    "battle",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 50.65329572894546,
+      "y": 15.86140605687727,
+      "type": "town"
+    },
+    {
+      "name": "Location 2",
+      "x": 13.12524998834964,
+      "y": 26.838989994860864,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 3",
+      "x": 36.56260211299953,
+      "y": 42.9679567406698,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 4",
+      "x": 78.74592261804223,
+      "y": 86.1721926759009,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 5",
+      "x": 45.72547663031923,
+      "y": 37.790849885672195,
+      "type": "dungeon"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.631Z"
+}

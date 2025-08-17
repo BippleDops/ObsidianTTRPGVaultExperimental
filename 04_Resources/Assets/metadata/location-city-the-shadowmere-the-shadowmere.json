@@ -1,0 +1,32 @@
+{
+  "id": "city-the-shadowmere",
+  "type": "location",
+  "name": "The Shadowmere",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Panoramic view of The Shadowmere, bioluminescent coral or cloudstone, weather cues and particles, golden hour / night glow / storm, figures/vehicles for scale, cinematic concept art, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, cinematic atmosphere, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid readable signage or paragraphs; use iconography or blank signboards. No embedded words., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "cinematic",
+  "mood": "on-brand",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 2002,
+  "alt_text": "Cinematic view of The Shadowmere with architecture and inhabitants.",
+  "realm": "aquabyssos",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create a Medieval-era fantasy inspired piece that resembles a panoramic view of The Shadowmere. The scene should include bioluminescent coral or cloudstone elements and figures or vehicles to suggest the scale of the environment. The atmosphere should convey a stormy golden-hour, featuring specific weather cues and particles. The color palette should be dominated by teals, deep blues, sea-greens, with pearl highlights. The craftsmanship and materials of gear and vehicles should be reminiscent of a grounded and culturally coherent medieval setting. Keep the overall style painterly and cinematic, evoking an aquatic fantasy realism and omitting modern tech or signage. The scene should also include aspects of subsurface caustics and bioluminescent accents. To ensure coherence, refrain from using modern signage, photoreal CGI styles, anime styles, and bloom glare. If necessary, utilize simplistic iconography or numbered pins instead of textual signage.",
+  "file": "04_Resources/Assets/Locations/location-city-the-shadowmere-the-shadowmere.png"
+}

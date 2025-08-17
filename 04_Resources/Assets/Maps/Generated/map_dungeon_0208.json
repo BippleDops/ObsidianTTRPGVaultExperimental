@@ -1,0 +1,46 @@
+{
+  "name": "Dungeon Map 208",
+  "type": "map",
+  "mapType": "dungeon",
+  "gridSize": null,
+  "scale": "1:100",
+  "tags": [
+    "map",
+    "dungeon",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 51.55228847696657,
+      "y": 6.770939242297547,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 2",
+      "x": 24.12656946168965,
+      "y": 15.039520051209433,
+      "type": "city"
+    },
+    {
+      "name": "Location 3",
+      "x": 21.887027509959278,
+      "y": 94.59898416301958,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 4",
+      "x": 87.09674195988734,
+      "y": 17.496450123427167,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 5",
+      "x": 92.1604126361651,
+      "y": 88.79213858430677,
+      "type": "city"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.652Z"
+}

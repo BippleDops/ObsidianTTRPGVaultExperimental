@@ -1,0 +1,54 @@
+# NPCs Index
+
+*Sample of 100 items*
+
+- [[Archdruid Thornweaver
+- [Keeper Elara Mindwell]]
+- [[NPC00069_Thalia_Brightblade_the_Guardian
+- [NPC00260_Wynne_Underhill_the_Fallen]]
+- [[NPC00276_Ysara_Youngblood
+- [NPC00321_Aeliana_Zephyrblade_the_Strong]]
+- [[NPC00336_Alaric_Frostwhisper_the_Swift
+- [NPC00351_Corvus_Ironwood]]
+- [[NPC00362_Pyria_Stormwind_the_Wise
+- [NPC00385_Qadim_Darkwater_the_Cunning]]
+- [[NPC00388_Ysara_Goldleaf
+- [NPC00395_Aeliana_Thornweave]]
+- [[NPC00407_Hestara_Dawnstrider
+- [NPC00415_Gareth_Winterborn_the_Bold]]
+- [[NPC00437_Hilda_Stormwind_the_Mystic
+- [NPC00461_Branwen_Proudmore_the_Strong]]
+- [[NPC00462_Fiora_Ironforge_the_Seeker
+- [NPC00494_Lyanna_Hawthorne_the_Guardian]]
+- [[NPC00515_Baelor_Crystalbrook_the_Seeker
+- [NPC00525_Fiora_Proudmore_the_Wanderer]]
+- [[NPC00542_Corvus_Oakenshield_the_Strong
+- [NPC00552_Malakai_Stormwind_the_Seeker]]
+- [[NPC00763_Urien_Brightblade_the_Broken
+- [NPC00785_Ysara_Grimholt_the_Mystic]]
+- [[NPC00885_Kaelen_Xendar_the_Lost
+- [NPC00939_Thalia_Jadeclaw_the_Swift]]
+- [[NPC00975_Lyanna_Winterborn_the_Wise
+- [NPC00976_Alaric_Quicksilver_the_Strong]]
+- [[NPC01012_Solas_Darkwater_the_Strong
+- [NPC01057_Pyria_Quicksilver_the_Scholar]]
+- [[NPC01126_Malakai_Oakenshield_the_Fallen
+- [NPC01151_Orion_Stormwind_the_Seeker]]
+- [[NPC01201_Felicia_Ironwood_the_Bold
+- [NPC01286_Xander_Proudmore_the_Bold]]
+- [[NPC01312_Alaric_Darkwater_the_Fallen
+- [NPC01348_Xander_Zephyrblade_the_Wise]]
+- [[NPC01360_Ewan_Blackstone_the_Strong
+- [NPC01367_Lyanna_Xendar_the_Wise]]
+- [[NPC01447_Baelor_Winterborn_the_Strong
+- [NPC01466_Urien_Nightfall_the_Guardian]]
+- [[NPC01476_Qadim_Stormwind_the_Wise
+- [NPC01502_Urien_Underhill_the_Scholar]]
+- [[NPC01503_Ewan_Dawnstrider_the_Redeemed
+- [NPC01566_Lyanna_Underhill_the_Redeemed]]
+- [[NPC01568_Lyanna_Winterborn_the_Strong
+- [NPC01625_Qadim_Lightbringer_the_Swift]]
+- [[NPC01699_Orion_Oakenshield_the_Broken
+- [NPC01786_Zephyr_Jadeclaw_the_Mystic]]
+- [[NPC01792_Rhiannon_Ironwood_the_Scholar
+- [NPC01827_Kaelen_Ironforge_the_Seeker]]

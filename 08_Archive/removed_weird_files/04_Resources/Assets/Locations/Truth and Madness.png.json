@@ -1,0 +1,18 @@
+{
+  "name": "Truth and Madness",
+  "type": "location",
+  "generated": "2025-08-15T18:18:30.489Z",
+  "prompt": "fantasy landscape called Truth and Madness, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Truth and Madness.png.json",
+  "reorganized": "2025-08-15T18:33:01.150Z"
+}

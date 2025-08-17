@@ -1,0 +1,61 @@
+{
+  "content_types": {
+    "character": [
+      "npc",
+      "pc",
+      "deity",
+      "monster"
+    ],
+    "location": [
+      "city",
+      "building",
+      "region",
+      "dungeon",
+      "plane"
+    ],
+    "adventure": [
+      "quest",
+      "encounter",
+      "campaign",
+      "session"
+    ],
+    "resource": [
+      "item",
+      "spell",
+      "rule",
+      "template",
+      "map"
+    ]
+  },
+  "campaigns": {
+    "aquabyssos": [
+      "underwater",
+      "politics",
+      "depth",
+      "pressure"
+    ],
+    "aethermoor": [
+      "sky",
+      "islands",
+      "wind",
+      "floating"
+    ]
+  },
+  "mechanics": {
+    "combat": [
+      "initiative",
+      "damage",
+      "tactics"
+    ],
+    "social": [
+      "persuasion",
+      "intrigue",
+      "negotiation"
+    ],
+    "exploration": [
+      "travel",
+      "discovery",
+      "investigation"
+    ]
+  }
+}

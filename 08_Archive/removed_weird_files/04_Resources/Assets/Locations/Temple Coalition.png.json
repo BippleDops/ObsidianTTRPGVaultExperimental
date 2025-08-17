@@ -1,0 +1,18 @@
+{
+  "name": "Temple Coalition",
+  "type": "location",
+  "generated": "2025-08-15T18:18:20.453Z",
+  "prompt": "fantasy temple called Temple Coalition, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Temple Coalition.png.json",
+  "reorganized": "2025-08-15T18:33:00.957Z"
+}

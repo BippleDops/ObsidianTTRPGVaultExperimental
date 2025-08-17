@@ -1,0 +1,22 @@
+{
+  "title": "Royal Academy of Magical Science",
+  "prompt": "Royal academy of magical science, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:34:14.522Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Academies/Royal Academy of Magical Science.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/royal_academy_of_magical_science.json",
+  "reorganized": "2025-08-15T18:33:07.526Z"
+}

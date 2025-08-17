@@ -1,0 +1,10 @@
+{
+  "type": "location_variant",
+  "generated": "2025-08-15T02:48:26.271Z",
+  "metadata": {
+    "name": "The_Crystal_Gardens",
+    "variant": "night"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

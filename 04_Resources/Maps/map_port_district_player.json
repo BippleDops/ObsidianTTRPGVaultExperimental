@@ -1,0 +1,12 @@
+{
+  "type": "map",
+  "generated": "2025-08-15T02:48:25.972Z",
+  "metadata": {
+    "name": "Port District",
+    "type": "regional",
+    "version": "player",
+    "prompt": "top-down battle map, regional, no grid, 1 inch = 10 miles, clear tactical layout"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

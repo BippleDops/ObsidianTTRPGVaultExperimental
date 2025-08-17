@@ -1,0 +1,18 @@
+{
+  "name": "Deep Stone Eaters",
+  "type": "map",
+  "generated": "2025-08-15T18:17:19.979Z",
+  "prompt": "fantasy map of Deep Stone Eaters, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Deep Stone Eaters.png.json",
+  "reorganized": "2025-08-15T18:33:02.328Z"
+}

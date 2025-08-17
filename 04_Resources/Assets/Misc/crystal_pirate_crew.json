@@ -1,0 +1,22 @@
+{
+  "title": "Crystal Pirate Crew",
+  "prompt": "Crystal pirate crew, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, crystal",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:42:53.168Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Crystal Pirate Crew.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/crystal_pirate_crew.json",
+  "reorganized": "2025-08-15T18:33:07.373Z"
+}

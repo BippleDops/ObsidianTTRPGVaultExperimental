@@ -1,0 +1,16 @@
+{
+  "name": "Tiefling Mage 154",
+  "type": "portrait",
+  "race": "tiefling",
+  "class": "mage",
+  "gender": "female",
+  "age": "young",
+  "tags": [
+    "portrait",
+    "character",
+    "tiefling",
+    "mage",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.626Z"
+}

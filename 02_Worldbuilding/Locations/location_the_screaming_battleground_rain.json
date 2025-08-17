@@ -1,0 +1,10 @@
+{
+  "type": "location_variant",
+  "generated": "2025-08-15T02:48:26.393Z",
+  "metadata": {
+    "name": "The Screaming Battleground",
+    "variant": "rain"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

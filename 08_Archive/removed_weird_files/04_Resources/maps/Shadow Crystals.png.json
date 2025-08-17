@@ -1,0 +1,18 @@
+{
+  "name": "Shadow Crystals",
+  "type": "map",
+  "generated": "2025-08-15T18:18:18.283Z",
+  "prompt": "fantasy map of Shadow Crystals, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Shadow Crystals.png.json",
+  "reorganized": "2025-08-15T18:33:03.548Z"
+}

@@ -1,0 +1,1434 @@
+---
+
+title: skills
+type: note
+tags:
+- note
+
+created: '2025-01-15'
+modified: '2025-01-15'
+aliases: ["skills"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
+---
+
+ # skills ---
+
+## Description
+
+Detailed description pending.
+title: skills
+aliases:
+- Skills
+
+type: note
+tags:
+- both
+- research
+- active
+- note
+- ttrpg-cli/compendium/src/5e/xphb
+
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+obsidian UIMode: preview
+cssclasses: json5e-note
+updated: '2025-08-13T01:18:31.226093+00:00'
+world: Both
+
+--- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Acrobatics
+
+_Source: Player's Handbook (2024) p. 14. Available in the SRD_ Stay on your feet in a tricky situation, or perform an acrobatic stunt. ## Animal Handling Calm or train an animal, or get an animal to behave in a certain way. ## Arcana Recall lore about spells, magic items, and the planes of existence. ## Athletics Jump farther than normal, stay afloat in rough water, or break something. ## Deception Tell a convincing lie, or wear a disguise convincingly. ## History Recall lore about historical events, people, nations, and cultures. ## Insight Discern a person's mood and intentions. ## Intimidation Awe or threaten someone into doing what you want. ## Investigation Find obscure information in books, or deduce how something works. ## Medicine Diagnose an illness, or determine what killed the recently slain. ## Nature Recall lore about terrain, plants, animals, and weather. ## Perception Using a combination of senses, notice something that's easy to miss. ## Performance Act, tell a story, perform music, or dance. ## Persuasion Honestly and graciously convince someone of something. ## Religion Recall lore about gods, religious rituals, and holy symbols. ## Sleight of Hand Pick a pocket, conceal a handheld object, or perform legerdemain. ## Stealth Escape notice by moving quietly and hiding behind things. ## Survival Follow tracks, forage, find a trail, or avoid natural hazards. ## Player-Facing Summary Skills is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of skills as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around skills. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality ## Plot Hooks - A merchant needs help stealing before winter
+
+- A letter reveals a conspiracy about this place ## Related Notes - [[Similar Topic 1
+
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Assets Locations Location City the Crystal Cathedral of Pure Light V1 the Crystal Cathedral of Pure Light.svg
+
+- [NPC00743_Ysara_Lightbringer_the_Broken]]
+- [[NPC00042_Vesper_Grimholt
+- [The Soul Market]]
+- [[Harbor Master Luna Freedrift (Places)
+- [Master_Item_Catalog]]
+- [[Convert Monster
+- [Quick_Reference - Dn D5e-Side Screen-2014]]
+- [[Quick_Reference - Dn D5e-Side Screen-2024 (D&D_References)
+- [Reference Quick Reference Dnd5e Sidescreen 2014]]
+- [[Reference Quick Reference Dnd5e Sidescreen 2024 (D&D_References)
+- [Item Properties]]
+- [[17 Chapter 15 Werewolf Den
+- [17-chapter-15-werewolf-den (curse-of-strahd)]]
+- [[02 Chapter 1 Greenest in Flames
+- [02-chapter-1-greenest-in-flames (hoard-of-the-dragon-queen)]]
+- [[06 Chapter 5 Construction Ahead
+- [06-chapter-5-construction-ahead (hoard-of-the-dragon-queen)]]
+- [[Acolyte Xphb
+- [Artisan Xphb]]
+- [[Charlatan Xphb
+- [Criminal Spy Variant]]
+- [[Criminal Xphb
+- [Entertainer Gladiator Variant]]
+- [[Folk Hero
+- [Guide Xphb]]
+- [[Guild Artisan Guild Merchant Variant
+- [Guild Artisan]]
+- [[Hermit Xphb
+- [Merchant Xphb]]
+- [[Noble Retainers Variant
+- [Noble Xphb]]
+- [[Prismari Student Scc
+- [Quandrix Student Scc]]
+- [[Sage Xphb
+- [Sailor Pirate Variant]]
+- [[Sailor Xphb
+- [Scribe Xphb]]
+- [[Silverquill Student Scc
+- [Soldier Xphb]]
+- [[Wayfarer Xphb
+- [acolyte-xphb (backgrounds)]]
+- [[artisan-xphb (backgrounds)
+- [charlatan-xphb (backgrounds)]]
+- [[criminal-spy-variant (backgrounds)
+- [criminal-xphb (backgrounds)]]
+- [[entertainer-gladiator-variant (backgrounds)
+- [folk-hero (backgrounds)]]
+- [[guide-xphb (backgrounds)
+- [guild-artisan (backgrounds)]]
+- [[guild-artisan-guild-merchant-variant (backgrounds)
+- [hermit-xphb (backgrounds)]]
+- [[merchant-xphb (backgrounds)
+- [noble-retainers-variant (backgrounds)]]
+- [[noble-xphb (backgrounds)
+- [prismari-student-scc (backgrounds)]]
+- [[quandrix-student-scc (backgrounds)
+- [sage-xphb (backgrounds)]]
+- [[sailor-pirate-variant (backgrounds)
+- [sailor-xphb (backgrounds)]]
+- [[scribe-xphb (backgrounds)
+- [silverquill-student-scc (backgrounds)]]
+- [[soldier-xphb (backgrounds)
+- [urchin]]
+- [[wayfarer-xphb (backgrounds)
+- [Arcane Study]]
+- [[arcane-study (bastions)
+- - [sacristy]]
+- [[smithy
+- [stable]]
+- [[theater
+- [workshop]]
+- [[Aboleth Xmm
+- [Balhannoth Mpmm]]
+- [[Beholder Xmm
+- [Berbalang Mpmm]]
+- [[Blue Slaad Xmm
+- [Choker Mpmm]]
+- [[Chuul Xmm
+- [Cloaker Xmm]]
+- [[Darkmantle Xmm
+- [Death Kiss Mpmm]]
+- [[Death Slaad Xmm
+- [Derro Mpmm]]
+- [[Derro Savant Mpmm
+- [Flumph Xmm]]
+- [[Gauth Mpmm
+- [Gazer Mpmm]]
+- [[Githyanki Dracomancer Xmm
+- [Githzerai Monk Xmm]]
+- [[Githzerai Psion Xmm
+- [Githzerai Zerth Xmm]]
+- [[Gray Slaad Xmm
+- [Green Slaad Xmm]]
+- [[Grell Xmm
+- [Grick Ancient Xmm]]
+- [[Grick Xmm
+- [Grimlock Xmm]]
+- [[Intellect Devourer Xmm
+- [Mind Flayer Arcanist Xmm]]
+- [[Mind Flayer Psion Vgm
+- [Mind Flayer Xmm]]
+- [[Mindwitness Mpmm
+- [Morkoth Mpmm]]
+- [[Neogi Master Mpmm
+- [Neogi Mpmm]]
+- [[Nothic Xmm
+- [Piercer Xmm]]
+- [[Red Slaad Xmm
+- [Roper Xmm]]
+- [[Slaad Tadpole Xmm
+- [Spectator Xmm]]
+- [[Star Spawn Hulk Mpmm
+- [Star Spawn Larva Mage Mpmm]]
+- [[Star Spawn Mangler Mpmm
+- [Star Spawn Seer Mpmm]]
+- [[Ulitharid Mpmm
+- [aboleth-xmm (aberration)]]
+- [[balhannoth-mpmm (aberration)
+- [beholder-xmm (aberration)]]
+- [[berbalang-mpmm (aberration)
+- [blue-slaad-xmm (aberration)]]
+- [[choker-mpmm (aberration)
+- [chuul-xmm (aberration)]]
+- [[cloaker-xmm (aberration)
+- [darkmantle-xmm (aberration)]]
+- [[death-kiss-mpmm (aberration)
+- [death-slaad-xmm (aberration)]]
+- [[derro-mpmm (aberration)
+- [derro-savant-mpmm (aberration)]]
+- [[flumph-xmm (aberration)
+- [gauth-mpmm (aberration)]]
+- [[gazer-mpmm (aberration)
+- [githyanki-dracomancer-xmm (aberration)]]
+- [[githzerai-monk-xmm (aberration)
+- [githzerai-psion-xmm (aberration)]]
+- [[githzerai-zerth-xmm (aberration)
+- [gray-slaad-xmm (aberration)]]
+- [[green-slaad-xmm (aberration)
+- [grell-xmm (aberration)]]
+- [[grick-ancient-xmm (aberration)
+- [grick-xmm (aberration)]]
+- [[grimlock-xmm (aberration)
+- [intellect-devourer-xmm (aberration)]]
+- [[mind-flayer-arcanist-xmm (aberration)
+- [mind-flayer-psion-vgm (aberration)]]
+- [[mind-flayer-xmm (aberration)
+- [mindwitness-mpmm (aberration)]]
+- [[morkoth-mpmm (aberration)
+- [neogi-master-mpmm (aberration)]]
+- [[neogi-mpmm (aberration)
+- [nothic-xmm (aberration)]]
+- [[piercer-xmm (aberration)
+- [red-slaad-xmm (aberration)]]
+- [[roper-xmm (aberration)
+- [slaad-tadpole-xmm (aberration)]]
+- [[spectator-xmm (aberration)
+- [star-spawn-hulk-mpmm (aberration)]]
+- [[star-spawn-larva-mage-mpmm (aberration)
+- [star-spawn-mangler-mpmm (aberration)]]
+- [[star-spawn-seer-mpmm (aberration)
+- [ulitharid-mpmm (aberration)]]
+- [[Allosaurus Xmm
+- [Ape Xmm]]
+- [[Archelon Xmm
+- [Armored Saber Toothed Tiger Cos]]
+- [[Badger Xmm
+- [Black Bear Xmm]]
+- [[Blood Hawk Xmm
+- [Brown Bear Xmm]]
+- [[Cat Xmm
+- [Cave Badger Oota]]
+- [[Constrictor Snake Xmm
+- [Crab Xmm]]
+- [[Crocodile Xmm
+- [Deer Xmm]]
+- [[Deinonychus Mpmm
+- [Dire Wolf Xmm]]
+- [[Dolphin Mpmm
+- [Eagle Xmm]]
+- [[Elk Xmm
+- [Fiendish Giant Spider Oota]]
+- [[Frog Xmm
+- [Giant Ape Xmm]]
+- [[Giant Badger Xmm
+- [Giant Constrictor Snake Xmm]]
+- [[Giant Crab Xmm
+- [Giant Crocodile Xmm]]
+- [[Giant Frog Xmm
+- [Giant Goat Xmm]]
+- [[Giant Hyena Xmm
+- [Giant Octopus Xmm]]
+- [[Giant Rat Xmm
+- [Giant Rocktopus Oota]]
+- [[Giant Shark Xmm
+- [Giant Spider Xmm]]
+- [[Giant Squid Xmm
+- [Giant Venomous Snake Xmm]]
+- [[Giant Weasel Xmm
+- [Giant Wolf Spider Xmm]]
+- [[Goat Xmm
+- [Hadrosaurus Mpmm]]
+- [[Hawk Xmm
+- [Hippopotamus Xmm]]
+- [[Hunter Shark Xmm
+- [Hyena Xmm]]
+- [[Jackal Xmm
+- [Killer Whale Xmm]]
+- [[Lion Xmm
+- [Mastiff Xmm]]
+- [[Octopus Xmm
+- [Owl Xmm]]
+- [[Panther Xmm
+- [Plesiosaurus Xmm]]
+- [[Polar Bear Xmm
+- [Pteranodon Xmm]]
+- [[Quetzalcoatlus Mpmm
+- [Rat Xmm]]
+- [[Raven Xmm
+- [Reef Shark Xmm]]
+- [[Relic Sloth Scc
+- [Saber Toothed Tiger Xmm]]
+- [[Seahorse Xmm
+- [Sled Dog Rot]]
+- [[Spider Xmm
+- [Swarm of Ravens Xmm]]
+- [[Tiger Xmm
+- [Tyrannosaurus Rex Xmm]]
+- [[Velociraptor Mpmm
+- [Vulture Xmm]]
+- [[Weasel Xmm
+- [Wolf Xmm]]
+- [[allosaurus-xmm (beast)
+- [ape-xmm (beast)]]
+- [[archelon-xmm (beast)
+- [armored-saber-toothed-tiger-cos (beast)]]
+- [[badger-xmm (beast)
+- [black-bear-xmm (beast)]]
+- [[blood-hawk-xmm (beast)
+- [brown-bear-xmm (beast)]]
+- [[cat-xmm (beast)
+- [cave-badger-oota (beast)]]
+- [[constrictor-snake-xmm (beast)
+- [crab-xmm (beast)]]
+- [[crocodile-xmm (beast)
+- [deer-xmm (beast)]]
+- [[deinonychus-mpmm (beast)
+- [dire-wolf-xmm (beast)]]
+- [[dolphin-mpmm (beast)
+- [eagle-xmm (beast)]]
+- [[elk-xmm (beast)
+- [fiendish-giant-spider-oota (beast)]]
+- [[frog-xmm (beast)
+- [giant-ape-xmm (beast)]]
+- [[giant-badger-xmm (beast)
+- [giant-constrictor-snake-xmm (beast)]]
+- [[giant-crab-xmm (beast)
+- [giant-crocodile-xmm (beast)]]
+- [[giant-frog-xmm (beast)
+- [giant-goat-xmm (beast)]]
+- [[giant-hyena-xmm (beast)
+- [giant-octopus-xmm (beast)]]
+- [[giant-rat-xmm (beast)
+- [giant-rocktopus-oota (beast)]]
+- [[giant-shark-xmm (beast)
+- [giant-spider-xmm (beast)]]
+- [[giant-squid-xmm (beast)
+- [giant-venomous-snake-xmm (beast)]]
+- [[giant-weasel-xmm (beast)
+- [giant-wolf-spider-xmm (beast)]]
+- [[goat-xmm (beast)
+- [hadrosaurus-mpmm (beast)]]
+- [[hawk-xmm (beast)
+- [hippopotamus-xmm (beast)]]
+- [[hunter-shark-xmm (beast)
+- [hyena-xmm (beast)]]
+- [[jackal-xmm (beast)
+- [killer-whale-xmm (beast)]]
+- [[lion-xmm (beast)
+- [mastiff-xmm (beast)]]
+- [[octopus-xmm (beast)
+- [owl-xmm (beast)]]
+- [[panther-xmm (beast)
+- [plesiosaurus-xmm (beast)]]
+- [[polar-bear-xmm (beast)
+- [pteranodon-xmm (beast)]]
+- [[quetzalcoatlus-mpmm (beast)
+- [rat-xmm (beast)]]
+- [[raven-xmm (beast)
+- [reef-shark-xmm (beast)]]
+- [[relic-sloth-scc (beast)
+- [saber-toothed-tiger-xmm (beast)]]
+- [[seahorse-xmm (beast)
+- [sled-dog-rot (beast)]]
+- [[spider-xmm (beast)
+- [swarm-of-ravens-xmm (beast)]]
+- [[tiger-xmm (beast)
+- [tyrannosaurus-rex-xmm (beast)]]
+- [[velociraptor-mpmm (beast)
+- [vulture-xmm (beast)]]
+- [[weasel-xmm (beast)
+- [wolf-xmm (beast)]]
+- [[Animal Lord Forager Xmm
+- [Animal Lord Hunter Xmm]]
+- [[Animal Lord Sage Xmm
+- [Animal Lord Xmm]]
+- [[Archaic Scc
+- [Deva Xmm]]
+- [[Giant Eagle Xmm
+- [Giant Elk Xmm]]
+- [[Giant Owl Xmm
+- [Guardian Naga Xmm]]
+- [[Pegasus Xmm
+- [Planetar Xmm]]
+- [[Solar Xmm
+- [Sphinx of Lore Xmm]]
+- [[Sphinx of Secrets Xmm
+- [Sphinx of Valor Xmm]]
+- [[Sphinx of Wonder Xmm
+- [Unicorn Xmm]]
+- [[animal-lord-forager-xmm (celestial)
+- [animal-lord-hunter-xmm (celestial)]]
+- [[animal-lord-sage-xmm (celestial)
+- [animal-lord-xmm (celestial)]]
+- [[archaic-scc (celestial)
+- [deva-xmm (celestial)]]
+- [[giant-eagle-xmm (celestial)
+- [giant-elk-xmm (celestial)]]
+- [[giant-owl-xmm (celestial)
+- [guardian-naga-xmm (celestial)]]
+- [[pegasus-xmm (celestial)
+- [planetar-xmm (celestial)]]
+- [[solar-xmm (celestial)
+- [sphinx-of-lore-xmm (celestial)]]
+- [[sphinx-of-secrets-xmm (celestial)
+- [sphinx-of-valor-xmm (celestial)]]
+- [[sphinx-of-wonder-xmm (celestial)
+- [unicorn-xmm (celestial)]]
+- [[Clockwork Bronze Scout Mpmm
+- [Clockwork Iron Cobra Mpmm]]
+- [[Clockwork Oaken Bolter Mpmm
+- [Clockwork Stone Defender Mpmm]]
+- [[Cogwork Archivist Scc
+- [Flesh Golem Xmm]]
+- [[Helmed Horror Xmm
+- [Marut Mpmm]]
+- [[Modron Pentadrone Xmm
+- [Modron Quadrone Xmm]]
+- [[Paper Whirlwind Rot
+- [Retriever Mpmm]]
+- [[Sacred Statue Mpmm
+- [Snake Horror Rot]]
+- [[Spirit Statue Mascot Scc
+- [Steel Predator Mpmm]]
+- [[Stone Cursed Mpmm
+- [Strixhaven Campus Guide Scc]]
+- [[clockwork-bronze-scout-mpmm (construct)
+- [clockwork-iron-cobra-mpmm (construct)]]
+- [[clockwork-oaken-bolter-mpmm (construct)
+- [clockwork-stone-defender-mpmm (construct)]]
+- [[cogwork-archivist-scc (construct)
+- [flesh-golem-xmm (construct)]]
+- [[helmed-horror-xmm (construct)
+- [marut-mpmm (construct)]]
+- [[modron-pentadrone-xmm (construct)
+- [modron-quadrone-xmm (construct)]]
+- [[paper-whirlwind-rot (construct)
+- [retriever-mpmm (construct)]]
+- [[sacred-statue-mpmm (construct)
+- [snake-horror-rot (construct)]]
+- [[spirit-statue-mascot-scc (construct)
+- [steel-predator-mpmm (construct)]]
+- [[stone-cursed-mpmm (construct)
+- [strixhaven-campus-guide-scc (construct)]]
+- [[Adult Black Dragon Xmm
+- [Adult Brass Dragon Xmm]]
+- [[Adult Bronze Dragon Xmm
+- [Adult Copper Dragon Xmm]]
+- [[Adult Gold Dragon Xmm
+- [Adult Green Dragon Xmm]]
+- [[Adult Red Dragon Xmm
+- [Adult Silver Dragon Xmm]]
+- [[Adult White Dragon Xmm
+- [Ambush Drake Hotdq]]
+- [[Ancient Black Dragon Xmm
+- [Ancient Brass Dragon Xmm]]
+- [[Ancient Bronze Dragon Xmm
+- [Ancient Copper Dragon Xmm]]
+- [[Ancient Gold Dragon Xmm
+- [Ancient Green Dragon Xmm]]
+- [[Ancient Red Dragon Xmm
+- [Ancient Silver Dragon Xmm]]
+- [[Ancient White Dragon Xmm
+- [Black Dragon Wyrmling Xmm]]
+- [[Brass Dragon Wyrmling Xmm
+- [Bronze Dragon Wyrmling Xmm]]
+- [[Copper Dragon Wyrmling Xmm
+- [Faerie Dragon Adult Xmm]]
+- [[Faerie Dragon Youth Xmm
+- [Gold Dragon Wyrmling Xmm]]
+- [[Green Dragon Wyrmling Xmm
+- [Guard Drake Black Mpmm]]
+- [[Guard Drake Blue Mpmm
+- [Guard Drake Green Mpmm]]
+- [[Guard Drake Mpmm
+- [Guard Drake Red Mpmm]]
+- [[Guard Drake White Mpmm
+- [Half Dragon Xmm]]
+- [[Juvenile Shadow Dragon Xmm
+- [Kobold Dragonshield Mpmm]]
+- [[Red Dragon Wyrmling Xmm
+- [Shadow Dragon Xmm]]
+- [[Silver Dragon Wyrmling Xmm
+- [White Dragon Wyrmling Xmm]]
+- [[Wyvern Xmm
+- [Young Black Dragon Xmm]]
+- [[Young Brass Dragon Xmm
+- [Young Bronze Dragon Xmm]]
+- [[Young Copper Dragon Xmm
+- [Young Gold Dragon Xmm]]
+- [[Young Green Dragon Xmm
+- [Young Red Dragon Xmm]]
+- [[Young Silver Dragon Xmm
+- [Young White Dragon Xmm]]
+- [[adult-black-dragon-xmm (dragon)
+- [adult-brass-dragon-xmm (dragon)]]
+- [[adult-bronze-dragon-xmm (dragon)
+- [adult-copper-dragon-xmm (dragon)]]
+- [[adult-gold-dragon-xmm (dragon)
+- [adult-green-dragon-xmm (dragon)]]
+- [[adult-red-dragon-xmm (dragon)
+- [adult-silver-dragon-xmm (dragon)]]
+- [[adult-white-dragon-xmm (dragon)
+- [ambush-drake-hotdq (dragon)]]
+- [[ancient-black-dragon-xmm (dragon)
+- [ancient-brass-dragon-xmm (dragon)]]
+- [[ancient-bronze-dragon-xmm (dragon)
+- [ancient-copper-dragon-xmm (dragon)]]
+- [[ancient-gold-dragon-xmm (dragon)
+- [ancient-green-dragon-xmm (dragon)]]
+- [[ancient-red-dragon-xmm (dragon)
+- [ancient-silver-dragon-xmm (dragon)]]
+- [[ancient-white-dragon-xmm (dragon)
+- [black-dragon-wyrmling-xmm (dragon)]]
+- [[brass-dragon-wyrmling-xmm (dragon)
+- [bronze-dragon-wyrmling-xmm (dragon)]]
+- [[copper-dragon-wyrmling-xmm (dragon)
+- [faerie-dragon-adult-xmm (dragon)]]
+- [[faerie-dragon-youth-xmm (dragon)
+- [gold-dragon-wyrmling-xmm (dragon)]]
+- [[green-dragon-wyrmling-xmm (dragon)
+- [guard-drake-black-mpmm (dragon)]]
+- [[guard-drake-blue-mpmm (dragon)
+- [guard-drake-green-mpmm (dragon)]]
+- [[guard-drake-mpmm (dragon)
+- [guard-drake-red-mpmm (dragon)]]
+- [[guard-drake-white-mpmm (dragon)
+- [half-dragon-xmm (dragon)]]
+- [[juvenile-shadow-dragon-xmm (dragon)
+- [kobold-dragonshield-mpmm (dragon)]]
+- [[red-dragon-wyrmling-xmm (dragon)
+- [shadow-dragon-xmm (dragon)]]
+- [[silver-dragon-wyrmling-xmm (dragon)
+- [white-dragon-wyrmling-xmm (dragon)]]
+- [[wyvern-xmm (dragon)
+- [young-black-dragon-xmm (dragon)]]
+- [[young-brass-dragon-xmm (dragon)
+- [young-bronze-dragon-xmm (dragon)]]
+- [[young-copper-dragon-xmm (dragon)
+- [young-gold-dragon-xmm (dragon)]]
+- [[young-green-dragon-xmm (dragon)
+- [young-red-dragon-xmm (dragon)]]
+- [[young-silver-dragon-xmm (dragon)
+- [young-white-dragon-xmm (dragon)]]
+- [[Aarakocra Aeromancer Xmm
+- [Aarakocra Skirmisher Xmm]]
+- [[Art Elemental Mascot Scc
+- [Azer Pyromancer Xmm]]
+- [[Dust Mephit Xmm
+- [Elder Tempest Mpmm]]
+- [[Elemental Cataclysm Xmm
+- [Frost Salamander Mpmm]]
+- [[Gargoyle Xmm
+- [Ice Mephit Xmm]]
+- [[Lizardfolk Geomancer Xmm
+- [Lizardfolk Sovereign Xmm]]
+- [[Magma Mephit Xmm
+- [Merfolk Wavebender Xmm]]
+- [[Mud Mephit Xmm
+- [Smoke Mephit Xmm]]
+- [[Steam Mephit Xmm
+- [Water Elemental Xmm]]
+- [[Xorn Xmm
+- [Zaratan Mpmm]]
+- [[aarakocra-aeromancer-xmm (elemental)
+- [aarakocra-skirmisher-xmm (elemental)]]
+- [[art-elemental-mascot-scc (elemental)
+- [azer-pyromancer-xmm (elemental)]]
+- [[dust-mephit-xmm (elemental)
+- [elder-tempest-mpmm (elemental)]]
+- [[elemental-cataclysm-xmm (elemental)
+- [frost-salamander-mpmm (elemental)]]
+- [[gargoyle-xmm (elemental)
+- [ice-mephit-xmm (elemental)]]
+- [[lizardfolk-geomancer-xmm (elemental)
+- [lizardfolk-sovereign-xmm (elemental)]]
+- [[magma-mephit-xmm (elemental)
+- [merfolk-wavebender-xmm (elemental)]]
+- [[mud-mephit-xmm (elemental)
+- [smoke-mephit-xmm (elemental)]]
+- [[steam-mephit-xmm (elemental)
+- [water-elemental-xmm (elemental)]]
+- [[xorn-xmm (elemental)
+- [zaratan-mpmm (elemental)]]
+- [[Annis Hag Mpmm
+- [Autumn Eladrin Mpmm]]
+- [[Bheur Hag Mpmm
+- [Blink Dog Xmm]]
+- [[Boggle Mpmm
+- [Bugbear Stalker Xmm]]
+- [[Bugbear Warrior Xmm
+- [Bullywug Bog Sage Xmm]]
+- [[Bullywug Warrior Xmm
+- [Centaur Trooper Xmm]]
+- [[Centaur Warden Xmm
+- [Darkling Elder Mpmm]]
+- [[Darkling Mpmm
+- [Dire Worg Xmm]]
+- [[Dryad Xmm
+- [Goblin Boss Xmm]]
+- [[Goblin Hexer Xmm
+- [Goblin Minion Xmm]]
+- [[Goblin Warrior Xmm
+- [Green Hag Xmm]]
+- [[Hobgoblin Devastator Mpmm
+- [Hobgoblin Iron Shadow Mpmm]]
+- [[Korred Mpmm
+- [Nilbog Mpmm]]
+- [[Pixie Wonderbringer Xmm
+- [Pixie Xmm]]
+- [[Redcap Mpmm
+- [Satyr Revelmaster Xmm]]
+- [[Satyr Xmm
+- [Sprite Xmm]]
+- [[Summer Eladrin Mpmm
+- [Worg Xmm]]
+- [[Yeth Hound Mpmm
+- [annis-hag-mpmm (fey)]]
+- [[autumn-eladrin-mpmm (fey)
+- [bheur-hag-mpmm (fey)]]
+- [[blink-dog-xmm (fey)
+- [boggle-mpmm (fey)]]
+- [[bugbear-stalker-xmm (fey)
+- [bugbear-warrior-xmm (fey)]]
+- [[bullywug-bog-sage-xmm (fey)
+- [bullywug-warrior-xmm (fey)]]
+- [[centaur-trooper-xmm (fey)
+- [centaur-warden-xmm (fey)]]
+- [[darkling-elder-mpmm (fey)
+- [darkling-mpmm (fey)]]
+- [[dire-worg-xmm (fey)
+- [dryad-xmm (fey)]]
+- [[goblin-boss-xmm (fey)
+- [goblin-hexer-xmm (fey)]]
+- [[goblin-minion-xmm (fey)
+- [goblin-warrior-xmm (fey)]]
+- [[green-hag-xmm (fey)
+- [hobgoblin-devastator-mpmm (fey)]]
+- [[hobgoblin-iron-shadow-mpmm (fey)
+- [korred-mpmm (fey)]]
+- [[nilbog-mpmm (fey)
+- [pixie-wonderbringer-xmm (fey)]]
+- [[pixie-xmm (fey)
+- [redcap-mpmm (fey)]]
+- [[satyr-revelmaster-xmm (fey)
+- [satyr-xmm (fey)]]
+- [[sprite-xmm (fey)
+- [summer-eladrin-mpmm (fey)]]
+- [[worg-xmm (fey)
+- [yeth-hound-mpmm (fey)]]
+- [[Alkilith Mpmm
+- [Amnizu Mpmm]]
+- [[Arcanaloth Xmm
+- [Babau Mpmm]]
+- [[Balor Xmm
+- [Barbed Devil Xmm]]
+- [[Barghest Mpmm
+- [Barlgura Xmm]]
+- [[Black Abishai Mpmm
+- [Blue Abishai Mpmm]]
+- [[Cambion Xmm
+- [Canoloth Mpmm]]
+- [[Chasme Xmm
+- [Daemogoth Scc]]
+- [[Daemogoth Titan Scc
+- [Draegloth Mpmm]]
+- [[Dybbuk Mpmm
+- [Erinyes Xmm]]
+- [[Flind Mpmm
+- [Glabrezu Xmm]]
+- [[Gnoll Demoniac Xmm
+- [Goristro Xmm]]
+- [[Green Abishai Mpmm
+- [Hell Hound Xmm]]
+- [[Horned Devil Xmm
+- [Hydroloth Mpmm]]
+- [[Imp Xmm
+- [Incubus Xmm]]
+- [[Jackalwere Xmm
+- [Lamia Xmm]]
+- [[Marilith Xmm
+- [Maurezhi Mpmm]]
+- [[Merrenoloth Mpmm
+- [Mezzoloth Xmm]]
+- [[Molydeus Mpmm
+- [Nabassu Mpmm]]
+- [[Narzugon Mpmm
+- [Night Hag Xmm]]
+- [[Nycaloth Xmm
+- [Oinoloth Mpmm]]
+- [[Oni Xmm
+- [Orthon Mpmm]]
+- [[Pit Fiend Xmm
+- [Quasit Xmm]]
+- [[Rakshasa Xmm
+- [Sahuagin Baron Xmm]]
+- [[Sahuagin Priest Xmm
+- [Sahuagin Warrior Xmm]]
+- [[Shadow Demon Xmm
+- [Sibriex Mpmm]]
+- [[Succubus Xmm
+- [Tanarukk Mpmm]]
+- [[Ultroloth Xmm
+- [Yagnoloth Mpmm]]
+- [[Yochlol Xmm
+- [alkilith-mpmm (fiend)]]
+- [[amnizu-mpmm (fiend)
+- [arcanaloth-xmm (fiend)]]
+- [[babau-mpmm (fiend)
+- [balor-xmm (fiend)]]
+- [[barbed-devil-xmm (fiend)
+- [barghest-mpmm (fiend)]]
+- [[barlgura-xmm (fiend)
+- [black-abishai-mpmm (fiend)]]
+- [[blue-abishai-mpmm (fiend)
+- [cambion-xmm (fiend)]]
+- [[canoloth-mpmm (fiend)
+- [chasme-xmm (fiend)]]
+- [[daemogoth-scc (fiend)
+- [daemogoth-titan-scc (fiend)]]
+- [[draegloth-mpmm (fiend)
+- [dybbuk-mpmm (fiend)]]
+- [[erinyes-xmm (fiend)
+- [flind-mpmm (fiend)]]
+- [[glabrezu-xmm (fiend)
+- [gnoll-demoniac-xmm (fiend)]]
+- [[goristro-xmm (fiend)
+- [green-abishai-mpmm (fiend)]]
+- [[hell-hound-xmm (fiend)
+- [horned-devil-xmm (fiend)]]
+- [[hydroloth-mpmm (fiend)
+- [imp-xmm (fiend)]]
+- [[incubus-xmm (fiend)
+- [jackalwere-xmm (fiend)]]
+- [[lamia-xmm (fiend)
+- [marilith-xmm (fiend)]]
+- [[maurezhi-mpmm (fiend)
+- [merrenoloth-mpmm (fiend)]]
+- [[mezzoloth-xmm (fiend)
+- [molydeus-mpmm (fiend)]]
+- [[nabassu-mpmm (fiend)
+- [narzugon-mpmm (fiend)]]
+- [[night-hag-xmm (fiend)
+- [nycaloth-xmm (fiend)]]
+- [[oinoloth-mpmm (fiend)
+- [oni-xmm (fiend)]]
+- [[orthon-mpmm (fiend)
+- [pit-fiend-xmm (fiend)]]
+- [[quasit-xmm (fiend)
+- [rakshasa-xmm (fiend)]]
+- [[sahuagin-baron-xmm (fiend)
+- [sahuagin-priest-xmm (fiend)]]
+- [[sahuagin-warrior-xmm (fiend)
+- [shadow-demon-xmm (fiend)]]
+- [[sibriex-mpmm (fiend)
+- [succubus-xmm (fiend)]]
+- [[tanarukk-mpmm (fiend)
+- [ultroloth-xmm (fiend)]]
+- [[yagnoloth-mpmm (fiend)
+- [yochlol-xmm (fiend)]]
+- [[Aquatic Troll Rot
+- [Cloud Giant Smiling One Mpmm]]
+- [[Cloud Giant Xmm
+- [Cyclops Oracle Xmm]]
+- [[Dire Troll Mpmm
+- [Ettin Xmm]]
+- [[Fire Giant Dreadnought Mpmm
+- [Fire Giant Xmm]]
+- [[Fomorian Xmm
+- [Four Armed Troll Hotdq]]
+- [[Frost Giant Everlasting One Mpmm
+- [Frost Giant Xmm]]
+- [[Ice Troll Rot
+- [Rot Troll Mpmm]]
+- [[Spirit Troll Mpmm
+- [Stone Giant Dreamwalker Mpmm]]
+- [[Stone Giant Xmm
+- [Storm Giant Quintessent Mpmm]]
+- [[Storm Giant Xmm
+- [Troll Xmm]]
+- [[Venom Troll Mpmm
+- [aquatic-troll-rot (giant)]]
+- [[cloud-giant-smiling-one-mpmm (giant)
+- [cloud-giant-xmm (giant)]]
+- [[cyclops-oracle-xmm (giant)
+- [dire-troll-mpmm (giant)]]
+- [[ettin-xmm (giant)
+- [fire-giant-dreadnought-mpmm (giant)]]
+- [[fire-giant-xmm (giant)
+- [fomorian-xmm (giant)]]
+- [[four-armed-troll-hotdq (giant)
+- [frost-giant-everlasting-one-mpmm (giant)]]
+- [[frost-giant-xmm (giant)
+- [ice-troll-rot (giant)]]
+- [[rot-troll-mpmm (giant)
+- [spirit-troll-mpmm (giant)]]
+- [[stone-giant-dreamwalker-mpmm (giant)
+- [stone-giant-xmm (giant)]]
+- [[storm-giant-quintessent-mpmm (giant)
+- [storm-giant-xmm (giant)]]
+- [[troll-xmm (giant)
+- [venom-troll-mpmm (giant)]]
+- [[Blue Dragon
+- [Elder Brain Vgm]]
+- [[Grazzt Mtf
+- [Morkoth Vgm]]
+- [[Ogremoch Pota
+- [Shadow Dragon Xmm (legendary-group)]]
+- [[Unicorn Xmm (legendary-group)
+- [Yan C Bin Pota]]
+- [[beholder
+- [blue-dragon (legendary-group)]]
+- [[elder-brain-vgm (legendary-group)
+- [grazzt-mtf (legendary-group)]]
+- [[morkoth-vgm (legendary-group)
+- [ogremoch-pota (legendary-group)]]
+- [[shadow-dragon-xmm (legendary-group)
+- [unicorn-xmm (legendary-group)]]
+- [[unicorn
+- [yan-c-bin-pota (legendary-group)]]
+- [[Empyrean Iota Xmm
+- [Empyrean Xmm]]
+- [[empyrean-iota-xmm (miscellaneous)
+- [empyrean-xmm (miscellaneous)]]
+- [[Abominable Yeti Xmm
+- [Adult Kruthik Mpmm]]
+- [[Angry Sorrowsworn Mpmm
+- [Animated Tile Chimera Rot]]
+- [[Astral Dreadnought Mpmm
+- [Behir Xmm]]
+- [[Bulette Pup Xmm
+- [Carrion Crawler Xmm]]
+- [[Catoblepas Mpmm
+- [Cave Fisher Mpmm]]
+- [[Chimera Xmm
+- [Chitine Mpmm]]
+- [[Choldrith Mpmm
+- [Death Dog Xmm]]
+- [[Doppelganger Xmm
+- [Drider Xmm]]
+- [[Emberhorn Minotaur Pota
+- [Female Steeder Mpmm]]
+- [[Giant Axe Beak Xmm
+- [Giant Vulture Xmm]]
+- [[Girallon Mpmm
+- [Gnoll Hunter Mpmm]]
+- [[Gray Render Mpmm
+- [Griffon Xmm]]
+- [[Hippogriff Xmm
+- [Hook Horror Xmm]]
+- [[Hound of Ill Omen Xge
+- [Hydra Xmm]]
+- [[Ice Toad Rot
+- [Infant Hook Horror Oota]]
+- [[Juvenile Hook Horror Oota
+- [Kenku Xmm]]
+- [[Kraken Priest Mpmm
+- [Kraken Xmm (monstrosity)]]
+- [[Kruthik Hive Lord Mpmm
+- [Leucrotta Mpmm]]
+- [[Lost Sorrowsworn Mpmm
+- [Mage Hunter Scc]]
+- [[Male Steeder Mpmm
+- [Meazel Mpmm]]
+- [[Medusa Xmm
+- [Mimic Xmm]]
+- [[Minotaur of Baphomet Xmm
+- [Molten Magma Roper Pota]]
+- [[Nagpa Mpmm
+- [Owlbear Xmm]]
+- [[Peryton Xmm
+- [Pest Mascot Scc]]
+- [[Phase Spider Xmm
+- [Primeval Owlbear Xmm]]
+- [[Quaggoth Thonot Xmm
+- [Quaggoth Xmm]]
+- [[Roc Xmm
+- [Shadow Mastiff Alpha Mpmm]]
+- [[Shadow Mastiff Mpmm
+- [Skulk Mpmm]]
+- [[Thri Kreen Marauder Xmm
+- [Thri Kreen Psion Xmm]]
+- [[Tlincalli Mpmm
+- [Trapper Mpmm]]
+- [[Troglodyte Xmm
+- [Werebear Xmm]]
+- [[Wereboar Xmm
+- [Wererat Xmm]]
+- [[Weretiger Xmm
+- [Werewolf Xmm]]
+- [[Winter Wolf Xmm
+- [Yeti Xmm]]
+- [[Young Hook Horror Oota
+- [Young Kruthik Mpmm]]
+- [[abominable-yeti-xmm (monstrosity)
+- [adult-kruthik-mpmm (monstrosity)]]
+- [[angry-sorrowsworn-mpmm (monstrosity)
+- [animated-tile-chimera-rot (monstrosity)]]
+- [[astral-dreadnought-mpmm (monstrosity)
+- [behir-xmm (monstrosity)]]
+- [[bulette-pup-xmm (monstrosity)
+- [carrion-crawler-xmm (monstrosity)]]
+- [[catoblepas-mpmm (monstrosity)
+- [cave-fisher-mpmm (monstrosity)]]
+- [[chimera-xmm (monstrosity)
+- [chitine-mpmm (monstrosity)]]
+- [[choldrith-mpmm (monstrosity)
+- [death-dog-xmm (monstrosity)]]
+- [[doppelganger-xmm (monstrosity)
+- [drider-xmm (monstrosity)]]
+- [[emberhorn-minotaur-pota (monstrosity)
+- [female-steeder-mpmm (monstrosity)]]
+- [[giant-axe-beak-xmm (monstrosity)
+- [giant-vulture-xmm (monstrosity)]]
+- [[girallon-mpmm (monstrosity)
+- [gnoll-hunter-mpmm (monstrosity)]]
+- [[gray-render-mpmm (monstrosity)
+- [griffon-xmm (monstrosity)]]
+- [[hippogriff-xmm (monstrosity)
+- [hook-horror-xmm (monstrosity)]]
+- [[hound-of-ill-omen-xge (monstrosity)
+- [hydra-xmm (monstrosity)]]
+- [[ice-toad-rot (monstrosity)
+- [infant-hook-horror-oota (monstrosity)]]
+- [[juvenile-hook-horror-oota (monstrosity)
+- [kenku-xmm (monstrosity)]]
+- [[kraken-priest-mpmm (monstrosity)
+- [kraken-xmm (monstrosity)]]
+- [[kruthik-hive-lord-mpmm (monstrosity)
+- [leucrotta-mpmm (monstrosity)]]
+- [[lost-sorrowsworn-mpmm (monstrosity)
+- [mage-hunter-scc (monstrosity)]]
+- [[male-steeder-mpmm (monstrosity)
+- [meazel-mpmm (monstrosity)]]
+- [[medusa-xmm (monstrosity)
+- [mimic-xmm (monstrosity)]]
+- [[minotaur-of-baphomet-xmm (monstrosity)
+- [molten-magma-roper-pota (monstrosity)]]
+- [[nagpa-mpmm (monstrosity)
+- [owlbear-xmm (monstrosity)]]
+- [[peryton-xmm (monstrosity)
+- [pest-mascot-scc (monstrosity)]]
+- [[phase-spider-xmm (monstrosity)
+- [primeval-owlbear-xmm (monstrosity)]]
+- [[quaggoth-thonot-xmm (monstrosity)
+- [quaggoth-xmm (monstrosity)]]
+- [[roc-xmm (monstrosity)
+- [shadow-mastiff-alpha-mpmm (monstrosity)]]
+- [[shadow-mastiff-mpmm (monstrosity)
+- [skulk-mpmm (monstrosity)]]
+- [[thri-kreen-marauder-xmm (monstrosity)
+- [thri-kreen-psion-xmm (monstrosity)]]
+- [[tlincalli-mpmm (monstrosity)
+- [trapper-mpmm (monstrosity)]]
+- [[troglodyte-xmm (monstrosity)
+- [werebear-xmm (monstrosity)]]
+- [[wereboar-xmm (monstrosity)
+- [wererat-xmm (monstrosity)]]
+- [[weretiger-xmm (monstrosity)
+- [werewolf-xmm (monstrosity)]]
+- [[winter-wolf-xmm (monstrosity)
+- [yeti-xmm (monstrosity)]]
+- [[young-hook-horror-oota (monstrosity)
+- [young-kruthik-mpmm (monstrosity)]]
+- [[aerisi-kalinoth-pota (npc)
+- [amarith-coppervein-oota]]
+- [[npc - Aerisi Kalinoth Pota
+- [npc - Amarith Coppervein Oota]]
+- [[Adult Oblex Mpmm
+- [Elder Oblex Mpmm]]
+- [[Gelatinous Cube Xmm
+- [Gray Ooze Xmm]]
+- [[Inkling Mascot Scc
+- [Psychic Gray Ooze Xmm]]
+- [[adult-oblex-mpmm (ooze)
+- [elder-oblex-mpmm (ooze)]]
+- [[gelatinous-cube-xmm (ooze)
+- [gray-ooze-xmm (ooze)]]
+- [[inkling-mascot-scc (ooze)
+- [psychic-gray-ooze-xmm (ooze)]]
+- [[Brackish Trudge Scc
+- [Groff Scc]]
+- [[Gulthias Blight Xmm
+- [Shambling Mound Xmm]]
+- [[Thorny Vegepygmy Mpmm
+- [Twig Blight Xmm]]
+- [[Vegepygmy Chief Mpmm
+- [Vegepygmy Mpmm]]
+- [[Vine Blight Xmm
+- [Violet Fungus Necrohulk Xmm]]
+- [[Wood Woad Mpmm
+- [brackish-trudge-scc (plant)]]
+- [[groff-scc (plant)
+- [gulthias-blight-xmm (plant)]]
+- [[shambling-mound-xmm (plant)
+- [thorny-vegepygmy-mpmm (plant)]]
+- [[twig-blight-xmm (plant)
+- [vegepygmy-chief-mpmm (plant)]]
+- [[vegepygmy-mpmm (plant)
+- [vine-blight-xmm (plant)]]
+- [[violet-fungus-necrohulk-xmm (plant)
+- [wood-woad-mpmm (plant)]]
+- [[Alhoon Mpmm
+- [Allip Mpmm]]
+- [[Bodak Mpmm
+- [Death Tyrant Xmm (undead)]]
+- [[Deathlock Mastermind Mpmm
+- [Deathlock Mpmm]]
+- [[Deathlock Wight Mpmm
+- [Dracolich Xmm (undead)]]
+- [[Eidolon Mpmm
+- [Illithilich Vgm (undead)]]
+- [[Lich Xmm (undead)
+- [Mummy Lord Xmm (undead)]]
+- [[Phantom Warrior Archer Cos
+- [Phantom Warrior Cos]]
+- [[Skull Lord Mpmm
+- [Snow Maiden Cos]]
+- [[Sword Wraith Commander Mpmm
+- [Vampire Nightbringer Xmm]]
+- [[Vampire Spawn Xmm
+- [Vampire Umbral Lord Xmm]]
+- [[Vampire Xmm (undead)
+- [alhoon-mpmm (undead)]]
+- [[allip-mpmm (undead)
+- [bodak-mpmm (undead)]]
+- [[death-tyrant-xmm (undead)
+- [deathlock-mastermind-mpmm (undead)]]
+- [[deathlock-mpmm (undead)
+- [deathlock-wight-mpmm (undead)]]
+- [[dracolich-xmm (undead)
+- [eidolon-mpmm (undead)]]
+- [[illithilich-vgm (undead)
+- [lich-xmm (undead)]]
+- [[mummy-lord-xmm (undead)
+- [phantom-warrior-archer-cos (undead)]]
+- [[phantom-warrior-cos (undead)
+- [skull-lord-mpmm (undead)]]
+- [[snow-maiden-cos (undead)
+- [sword-wraith-commander-mpmm (undead)]]
+- [[vampire-nightbringer-xmm (undead)
+- [vampire-spawn-xmm (undead)]]
+- [[vampire-umbral-lord-xmm (undead)
+- [vampire-xmm (undead)]]
+- [[1 How to Use a Monster
+- [1-how-to-use-a-monster (monster-manual-2025)]]
+- [[06 Equipment
+- [06-equipment (players-handbook-2014)]]
+- [[10 Combat
+- [10-combat (players-handbook-2014)]]
+- [[07 Chapter 6 Equipment
+- [07-chapter-6-equipment (players-handbook-2024)]]
+- [[Barbarian Xphb
+- [Bard Xphb College of Whispers Xge]]
+- [[Bard Xphb
+- [Cleric Xphb Knowledge Domain]]
+- [[Cleric Xphb Nature Domain
+- [Cleric Xphb]]
+- [[Druid Xphb Circle of the Shepherd Xge
+- [Fighter Xphb Arcane Archer Xge]]
+- [[Fighter Xphb Cavalier Xge
+- [Fighter Xphb Champion Xphb]]
+- [[Fighter Xphb Samurai Xge
+- [Fighter Xphb]]
+- [[Monk Xphb Warrior of Mercy Xphb
+- [Monk Xphb Way of the Drunken Master Xge]]
+- [[Paladin Xphb Oath of Glory Xphb
+- [Paladin Xphb Oath of Redemption Xge]]
+- [[Paladin Xphb
+- [Ranger Xphb Fey Wanderer Xphb]]
+- [[Rogue Xphb Arcane Trickster Xphb
+- [Rogue Xphb Mastermind Xge]]
+- [[Rogue Xphb Swashbuckler Xge
+- [Rogue Xphb Thief Xphb]]
+- [[Rogue Xphb
+- [Sorcerer Xphb]]
+- [[barbarian-xphb (classes)
+- [bard-xphb (classes)]]
+- [[bard-xphb 2 (classes)
+- [bard-xphb-college-of-whispers-xge (classes)]]
+- [[bard-xphb-college-of-whispers-xge 2 (classes)
+- [cleric-xphb (classes)]]
+- [[cleric-xphb-knowledge-domain (classes)
+- [cleric-xphb-knowledge-domain 2 (classes)]]
+- [[cleric-xphb-nature-domain (classes)
+- [cleric-xphb-nature-domain 2 (classes)]]
+- [[druid-xphb-circle-of-the-shepherd-xge (classes)
+- [fighter-xphb (classes)]]
+- [[fighter-xphb-arcane-archer-xge (classes)
+- [fighter-xphb-cavalier-xge (classes)]]
+- [[fighter-xphb-champion-xphb (classes)
+- [fighter-xphb-samurai-xge (classes)]]
+- [[monk-xphb-warrior-of-mercy-xphb (classes)
+- [monk-xphb-way-of-the-drunken-master-xge (classes)]]
+- [[paladin-xphb (classes)
+- [paladin-xphb-oath-of-glory-xphb (classes)]]
+- [[paladin-xphb-oath-of-redemption-xge (classes)
+- [ranger-xphb-fey-wanderer-xphb (classes)]]
+- [[rogue-xphb (classes)
+- [rogue-xphb-arcane-trickster-xphb (classes)]]
+- [[rogue-xphb-mastermind-xge (classes)
+- [rogue-xphb-swashbuckler-xge (classes)]]
+- [[rogue-xphb-thief-xphb (classes)
+- [sorcerer-xphb (classes)]]
+- [[Deck of Illusions Xdmg
+- [Deck of Illusions]]
+- [[Deck of Many Things 13 Cards Xdmg
+- [Deck of Many Things 13 Cards]]
+- [[deck-of-illusions (decks)
+- [deck-of-illusions-xdmg (decks)]]
+- [[deck-of-many-things-13-cards (decks)
+- [deck-of-many-things-13-cards-xdmg (decks)]]
+- [[Actor Xphb
+- [Dungeon Delver]]
+- [[Observant Xphb
+- [Squat Nimbleness Xge]]
+- [[actor-xphb (feats)
+- [dungeon-delver (feats)]]
+- [[observant-xphb (feats)
+- [squat-nimbleness-xge (feats)]]
+- [[item-properties (CLI_Reference)
+- [Amulet of the Planes Xdmg]]
+- [[Apparatus of Kwalish Xdmg
+- [Bag of Devouring Xdmg]]
+- [[Belt of Dwarvenkind Xdmg
+- [Book Xphb]]
+- [[Boots of Elvenkind Xdmg
+- [Chain Xphb]]
+- [[Cloak of Elvenkind Xdmg
+- [Cloak of the Bat Xdmg]]
+- [[Cobblers Tools Xphb
+- [Dark Shard Amulet Xdmg]]
+- [[Deck of Illusions Xdmg (items)
+- [Deck of Many Things Xdmg (items)]]
+- [[Dimensional Shackles Xdmg
+- [Energy Bow Xdmg]]
+- [[Eyes of Minute Seeing Xdmg
+- [Eyes of the Eagle Xdmg]]
+- [[Gloves of Swimming and Climbing Xdmg
+- [Gloves of Thievery Xdmg]]
+- [[Grappling Hook Xphb
+- [Hat of Wizardry Xdmg]]
+- [[Healers Kit Xphb
+- [Hunting Trap Xphb]]
+- [[Immovable Rod Xdmg
+- [Ioun Stone Awareness Xdmg]]
+- [[Iron Bands of Bilarro Xdmg
+- [Lock Xphb]]
+- [[Lorehold Primer Scc
+- [Manacles Xphb]]
+- [[Map Xphb
+- [Mithral Armor Xdmg]]
+- [[Net Xphb
+- [Perfume Xphb]]
+- [[Perfume of Bewitching Xdmg
+- [Piwafwi Cloak of Elvenkind Oota]]
+- [[Piwafwi of Fire Resistance Oota
+- [Pole Xphb]]
+- [[Portable Hole Xdmg
+- [Potion of Climbing Xdmg]]
+- [[Prismari Primer Scc
+- [Quandrix Primer Scc]]
+- [[Quarterstaff of the Acrobat Xdmg
+- [Robe of Eyes Xdmg]]
+- [[Rod of Alertness Xdmg
+- [Rod of Lordly Might Xdmg]]
+- [[Rope Xphb
+- [Rope of Entanglement Xdmg]]
+- [[Sentinel Shield Xdmg
+- [Silverquill Primer Scc]]
+- [[Spell Scroll Level 1 Xdmg
+- [Spell Scroll Level 2 Xdmg]]
+- [[Spell Scroll Level 3 Xdmg
+- [Spell Scroll Level 4 Xdmg]]
+- [[Spell Scroll Level 5 Xdmg
+- [Spell Scroll Level 6 Xdmg]]
+- [[Spell Scroll Level 7 Xdmg
+- [Spell Scroll Level 8 Xdmg]]
+- [[Spell Scroll Level 9 Xdmg
+- [Sphere of Annihilation Xdmg]]
+- [[Stonespeaker Crystal Oota
+- [Talisman of the Sphere Xdmg]]
+- [[Witherbloom Primer Scc
+- [amulet-of-the-planes-xdmg (items)]]
+- [[apparatus-of-kwalish-xdmg (items)
+- [bag-of-devouring-xdmg (items)]]
+- [[belt-of-dwarvenkind-xdmg (items)
+- [book-xphb (items)]]
+- [[boots-of-elvenkind-xdmg (items)
+- [chain-xphb (items)]]
+- [[cloak-of-elvenkind-xdmg (items)
+- [cloak-of-the-bat-xdmg (items)]]
+- [[cobblers-tools-xphb (items)
+- [dark-shard-amulet-xdmg (items)]]
+- [[deck-of-illusions-xdmg (items)
+- [deck-of-many-things-xdmg (items)]]
+- [[dimensional-shackles-xdmg (items)
+- [energy-bow-xdmg (items)]]
+- [[eyes-of-minute-seeing-xdmg (items)
+- [eyes-of-the-eagle-xdmg (items)]]
+- [[gloves-of-swimming-and-climbing-xdmg (items)
+- [gloves-of-thievery-xdmg (items)]]
+- [[grappling-hook-xphb (items)
+- [hat-of-wizardry-xdmg (items)]]
+- [[healers-kit-xphb (items)
+- [hunting-trap-xphb (items)]]
+- [[immovable-rod-xdmg (items)
+- [ioun-stone-awareness-xdmg (items)]]
+- [[iron-bands-of-bilarro-xdmg (items)
+- [lock-xphb (items)]]
+- [[lorehold-primer-scc (items)
+- [manacles-xphb (items)]]
+- [[map-xphb (items)
+- [mithral-armor-xdmg (items)]]
+- [[net-xphb (items)
+- [perfume-of-bewitching-xdmg (items)]]
+- [[perfume-xphb (items)
+- [piwafwi-cloak-of-elvenkind-oota (items)]]
+- [[piwafwi-of-fire-resistance-oota (items)
+- [pole-xphb (items)]]
+- [[portable-hole-xdmg (items)
+- [potion-of-climbing-xdmg (items)]]
+- [[prismari-primer-scc (items)
+- [quandrix-primer-scc (items)]]
+- [[quarterstaff-of-the-acrobat-xdmg (items)
+- [robe-of-eyes-xdmg (items)]]
+- [[rod-of-lordly-might-xdmg (items)
+- [rope-of-entanglement-xdmg (items)]]
+- [[rope-xphb (items)
+- [sentinel-shield-xdmg (items)]]
+- [[silverquill-primer-scc (items)
+- [spell-scroll-level-1-xdmg (items)]]
+- [[spell-scroll-level-2-xdmg (items)
+- [spell-scroll-level-3-xdmg (items)]]
+- [[spell-scroll-level-4-xdmg (items)
+- [spell-scroll-level-5-xdmg (items)]]
+- [[spell-scroll-level-6-xdmg (items)
+- [spell-scroll-level-7-xdmg (items)]]
+- [[spell-scroll-level-8-xdmg (items)
+- [spell-scroll-level-9-xdmg (items)]]
+- [[sphere-of-annihilation-xdmg (items)
+- [stonespeaker-crystal-oota (items)]]
+- [[talisman-of-the-sphere-xdmg (items)
+- [witherbloom-primer-scc (items)]]
+- [[Ambush Xphb
+- [Beguiling Influence]]
+- [[Cloak of Flies Xge
+- [Commanding Presence Xphb]]
+- [[Grasping Arrow Xge
+- [Tactical Assessment Xphb]]
+- [[ambush-xphb (optional-features)
+- [beguiling-influence (optional-features)]]
+- [[cloak-of-flies-xge (optional-features)
+- [commanding-presence-xphb (optional-features)]]
+- [[grasping-arrow-xge (optional-features)
+- [tactical-assessment-xphb (optional-features)]]
+- [[Bugbear Vgm
+- [Bullywug Dmg]]
+- [[Dwarf Duergar Mtf
+- [Elf Eladrin Dmg]]
+- [[Elf Sea Mtf
+- [Elf Shadar Kai Mtf]]
+- [[Elf Xphb
+- [Gnome Deep Dmg]]
+- [[Gnome Deep Mtf
+- [Grimlock Dmg]]
+- [[Kenku Dmg
+- [Kenku Vgm]]
+- [[Kobold Dmg
+- [Kobold Vgm]]
+- [[Kuo Toa Dmg
+- [Owlin Scc]]
+- [[Troglodyte Dmg
+- [bugbear-vgm (races)]]
+- [[bullywug-dmg (races)
+- [dwarf-duergar-mtf (races)]]
+- [[elf-eladrin-dmg (races)
+- [elf-sea-mtf (races)]]
+- [[elf-shadar-kai-mtf (races)
+- [elf-xphb (races)]]
+- [[gnome-deep-dmg (races)
+- [gnome-deep-mtf (races)]]
+- [[grimlock-dmg (races)
+- [kenku-dmg (races)]]
+- [[kenku-vgm (races)
+- [kobold-dmg (races)]]
+- [[kobold-vgm (races)
+- [kuo-toa-dmg (races)]]
+- [[owlin-scc (races)
+- [troglodyte-dmg (races)]]
+- [[Boon of Undetectability
+- [boon-of-undetectability (rewards)]]
+- [[Ceremony Xge
+- [Detect Thoughts Xphb]]
+- [[Disguise Self Xphb
+- [Earthquake Xphb]]
+- [[Ensnaring Strike Xphb
+- [Entangle Xphb]]
+- [[Enthrall Xphb
+- [Glyph of Warding Xphb]]
+- [[Hallucinatory Terrain Xphb
+- [Hunters Mark Xphb]]
+- [[Illusory Dragon Xge
+- [Infernal Calling Xge]]
+- [[Major Image Xphb
+- [Maze Xphb]]
+- [[Meld Into Stone Xphb
+- [Minor Illusion Xphb]]
+- [[Otilukes Freezing Sphere Xphb
+- [Pass Without Trace Xphb]]
+- [[Phantasmal Force Xphb
+- [Programmed Illusion Xphb]]
+- [[Project Image Xphb
+- [Seeming Xphb]]
+- [[Silent Image Xphb
+- [Snare Xge]]
+- [[Spike Growth Xphb
+- [Storm Sphere Xge]]
+- [[Thaumaturgy Xphb
+- [Tsunami Xphb]]
+- [[Wrath of Nature Xge
+- [ceremony-xge (spells)]]
+- [[detect-thoughts-xphb (spells)
+- [disguise-self-xphb (spells)]]
+- [[earthquake-xphb (spells)
+- [ensnaring-strike-xphb (spells)]]
+- [[entangle-xphb (spells)
+- [enthrall-xphb (spells)]]
+- [[glyph-of-warding-xphb (spells)
+- [hallucinatory-terrain-xphb (spells)]]
+- [[hunters-mark-xphb (spells)
+- [illusory-dragon-xge (spells)]]
+- [[infernal-calling-xge (spells)
+- [major-image-xphb (spells)]]
+- [[maze-xphb (spells)
+- [meld-into-stone-xphb (spells)]]
+- [[minor-illusion-xphb (spells)
+- [otilukes-freezing-sphere-xphb (spells)]]
+- [[pass-without-trace-xphb (spells)
+- [phantasmal-force-xphb (spells)]]
+- [[programmed-illusion-xphb (spells)
+- [project-image-xphb (spells)]]
+- [[seeming-xphb (spells)
+- [silent-image-xphb (spells)]]
+- [[snare-xge (spells)
+- [spike-growth-xphb (spells)]]
+- [[storm-sphere-xge (spells)
+- [thaumaturgy-xphb (spells)]]
+- [[tsunami-xphb (spells)
+- [wrath-of-nature-xge (spells)]]
+- [[Actions Xphb
+- [Lingering Injuries]]
+- [[Probabilities Sylvan Forest Encounters
+- [Skill List Skills Xphb]]
+- [[Sylvan Forest Encounters
+- [Travel Pace Phb]]
+- [[Urban Chase Complications
+- [Wild Magic Surge Phb]]
+- [[Wilderness Chase Complications
+- [actions-xphb (tables)]]
+- [[lingering-injuries (tables)
+- [probabilities-sylvan-forest-encounters (tables)]]
+- [[skill-list-skills-xphb (tables)
+- [sylvan-forest-encounters (tables)]]
+- [[travel-pace-phb (tables)
+- [urban-chase-complications (tables)]]
+- [[wild-magic-surge-phb (tables)
+- [wilderness-chase-complications (tables)]]
+- [[Collapsing Roof Xdmg
+- [Falling Net Xdmg]]
+- [[Fire Casting Statue Xdmg
+- [Heavy Precipitation Xdmg]]
+- [[Hidden Pit Xdmg
+- [Poisoned Darts Xdmg]]
+- [[Poisoned Needle Xdmg
+- [Quicksand Pit Xdmg]]
+- [[Rockslide Xdmg
+- [Rolling Stone Xdmg]]
+- [[Russet Mold Vgm
+- [Spiked Pit Xdmg]]
+- [[Vicious Vine Xdmg
+- [collapsing-roof-xdmg (traps-hazards)]]
+- [[falling-net-xdmg (traps-hazards)
+- [fire-casting-statue-xdmg (traps-hazards)]]
+- [[heavy-precipitation-xdmg (traps-hazards)
+- [hidden-pit-xdmg (traps-hazards)]]
+- [[poisoned-darts-xdmg (traps-hazards)
+- [poisoned-needle-xdmg (traps-hazards)]]
+- [[quicksand-pit-xdmg (traps-hazards)
+- [rockslide-xdmg (traps-hazards)]]
+- [[rolling-stone-xdmg (traps-hazards)
+- [russet-mold-vgm (traps-hazards)]]
+- [[spiked-pit-xdmg (traps-hazards)
+- [vicious-vine-xdmg (traps-hazards)]]
+- [[Downtime Activity Buying a Magic Item Xge
+- [Downtime Activity Carousing Xge]]
+- [[Downtime Activity Gambling Xge
+- [Downtime Activity Pit Fighting Xge]]
+- [[Downtime Activity Practicing a Profession Phb
+- [Downtime Activity Religious Service Xge]]
+- [[Downtime Activity Researching Phb
+- [Downtime Activity Scribing a Spell Scroll Xge]]
+- [[Downtime Activity Selling Magic Items
+- [Downtime Activity Sowing Rumors]]
+- [[Long Jump Xphb
+- [Passive Perception Xphb]]
+- [[Skills With Different Abilities Phb
+- [Stat Block Xphb]]
+- [[Tying Knots Xge
+- [downtime-activity-buying-a-magic-item-xge (variant-rules)]]
+- [[downtime-activity-carousing-xge (variant-rules)
+- [downtime-activity-gambling-xge (variant-rules)]]
+- [[downtime-activity-pit-fighting-xge (variant-rules)
+- [downtime-activity-practicing-a-profession-phb (variant-rules)]]
+- [[downtime-activity-religious-service-xge (variant-rules)
+- [downtime-activity-researching-phb (variant-rules)]]
+- [[downtime-activity-scribing-a-spell-scroll-xge (variant-rules)
+- [downtime-activity-selling-magic-items (variant-rules)]]
+- [[downtime-activity-sowing-rumors (variant-rules)
+- [long-jump-xphb (variant-rules)]]
+- [[passive-perception-xphb (variant-rules)
+- [skills-with-different-abilities-phb (variant-rules)]]
+- [[stat-block-xphb (variant-rules)
+- [tying-knots-xge (variant-rules)]]
+- [[Apparatus of Kwalish Xdmg (vehicles)
+- [apparatus-of-kwalish-xdmg (vehicles)]]
+- [[Text Generator Templates - Convert Monster]]
+
+## Notes
+
+*Additional notes*
+
+#mechanics/combat
+#mechanics/rules
+#story/plot
+#story/story
+#story/lore
+#story/background
+#world/location
+#world/world
+#world/setting
+#world/place
+#character/npc
+#character/person
+#character/monster
+#gameplay/encounter
+#resource/item
+#resource/equipment
+#meta/moc
+#meta/reference

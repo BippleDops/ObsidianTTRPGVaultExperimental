@@ -1,0 +1,32 @@
+{
+  "id": "artifact-spell-gem-lapis-lazuli-oota-v3",
+  "type": "item",
+  "name": "spell-gem-lapis-lazuli-oota",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: spell-gem-lapis-lazuli-oota, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "soft dusk",
+  "mood": "triumphant",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7012,
+  "alt_text": "Artifact spell-gem-lapis-lazuli-oota with materials, runes, and scale.",
+  "realm": "aquabyssos",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Visualize a scene from a tabletop fantasy game reminiscent of Dungeons and Dragons, set in a grounded medieval world with no modern technology or signage. Imagine an item being a detailed artifact, a spell gem created from materials like lapis lazuli, pearl, coral, and cloud-crystal, and forged metals created under pressure. The artifact is adorned with abstract sigils that are not letters, and emits a gentle glow. The item is to be compared with the size of a hand or ruler. The style is consistent, painterly, akin to a product render, but with an aquatic, fantasy realism twist. The image includes subsurface caustics, bioluminescent accents, and resembles materials of a pressure dome. The primary colors are teals, deep blues, sea-greens with pearl highlights. The abstract sigils are significant and meaningful; avoid the random, garbled letters and keep any symbols discerning. Do not use sci-fi UIs, modern signage, photoreal CGI, or anime style, and avoid excessive bloom glare.",
+  "file": "04_Resources/Assets/Items/item-artifact-spell-gem-lapis-lazuli-oota-v3-spell-gem-lapis-lazuli-oota.png"
+}

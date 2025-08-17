@@ -1,0 +1,24 @@
+{
+  "title": "04_Resources/Assets/Symbols/symbol-heraldry-aquabyssos-faction-web-v1-aquabyssos-faction-web.svg",
+  "prompt": "04 resources/assets/symbols/symbol-heraldry-aquabyssos-faction-web-v1-aquabyssos-faction-web.svg, underwater, bioluminescent, deep sea, abyssal, aquatic, deep blues, teal, purple, ethereal glow, underwater caustics",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:30:32.160Z",
+  "sourceFile": "/02_Worldbuilding/Groups/04_Resources/Assets/Symbols/Symbol Heraldry Aquabyssos Faction Web V1 Aquabyssos Faction Web.svg.md",
+  "tags": [
+    "generated",
+    "aquabyssos",
+    "underwater",
+    "oceanic",
+    "ethereal",
+    "mystical",
+    "otherworldly"
+  ],
+  "location": "04_Resources/Assets/Misc/04_resources_assets_symbols_symbol_heraldry_aquabyssos_faction_web_v1_aquabyssos_faction_web_svg.json",
+  "reorganized": "2025-08-15T18:33:03.989Z"
+}

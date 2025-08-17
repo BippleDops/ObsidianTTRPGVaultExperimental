@@ -1,0 +1,49 @@
+[gen-error] type=location name=Skyship Technology size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Skyship Technology size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Sage Iris Crystalbloom size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Sage Iris Crystalbloom size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Truth and Madness size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Truth and Madness size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+Parsed 6 prompts, wrote 0 assets (real-only).

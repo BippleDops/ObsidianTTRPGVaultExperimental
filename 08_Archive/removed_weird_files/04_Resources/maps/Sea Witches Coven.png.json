@@ -1,0 +1,18 @@
+{
+  "name": "Sea Witches Coven",
+  "type": "map",
+  "generated": "2025-08-15T18:18:17.252Z",
+  "prompt": "fantasy map of Sea Witches Coven, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Sea Witches Coven.png.json",
+  "reorganized": "2025-08-15T18:33:03.531Z"
+}

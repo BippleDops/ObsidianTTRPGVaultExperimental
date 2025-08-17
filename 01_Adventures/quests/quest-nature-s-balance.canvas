@@ -1,0 +1,267 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Quest - Nature's Balance.md",
+      "x": 0,
+      "y": 0,
+      "width": 460,
+      "height": 140
+    },
+    {
+      "id": "n_02-worldbuilding-places-aethermoor-md_300",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Aethermoor.md",
+      "x": -520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-aquabyssos-md_220",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Aquabyssos.md",
+      "x": 0,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-crystal-wardens-md_740",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Crystal Wardens.md",
+      "x": 520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-the-emerald-sage-willowbark-md_120",
+      "type": "file",
+      "file": "02_Worldbuilding/People/The Emerald Sage Willowbark.md",
+      "x": -520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-shadow-wells-md_400",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Shadow Wells.md",
+      "x": 0,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-the-threshold-chambers-md_920",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/The Threshold Chambers.md",
+      "x": 520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-quest-the-convergence-crisis-md_60",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Quest - The Convergence Crisis.md",
+      "x": -520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-quest-divine-intervention-md_580",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Quest - Divine Intervention.md",
+      "x": 0,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-stop-the-crystal-festival-ritual-md_1100",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Stop the Crystal Festival Ritual.md",
+      "x": 520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-the-depth-accords-md_240",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/The Depth Accords.md",
+      "x": -520,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-sylvanheart-md_760",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Sylvanheart.md",
+      "x": 0,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-crystal-gardens-md_1280",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Crystal Gardens.md",
+      "x": 520,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-sister-thalassa-the-depth-touched-md_420",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Sister Thalassa the Depth-Touched.md",
+      "x": -520,
+      "y": 940,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-high-priestess-celeste-dawnbringer-md_940",
+      "type": "file",
+      "file": "02_Worldbuilding/People/High Priestess Celeste Dawnbringer.md",
+      "x": 0,
+      "y": 940,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-the-shadow-singer-naia-md_1460",
+      "type": "file",
+      "file": "02_Worldbuilding/People/The Shadow Singer Naia.md",
+      "x": 520,
+      "y": 940,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-the-forsaken-consortium-collective-md_600",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/The Forsaken Consortium Collective.md",
+      "x": -520,
+      "y": 1120,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-archdruid-thornweaver-md_1120",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Archdruid Thornweaver.md",
+      "x": 0,
+      "y": 1120,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-the-verdant-reach-md_1640",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/The Verdant Reach.md",
+      "x": 520,
+      "y": 1120,
+      "width": 380,
+      "height": 120
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-aethermoor-md_300"
+    },
+    {
+      "id": "e_1",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-aquabyssos-md_220"
+    },
+    {
+      "id": "e_2",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-crystal-wardens-md_740"
+    },
+    {
+      "id": "e_3",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-the-emerald-sage-willowbark-md_120"
+    },
+    {
+      "id": "e_4",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-shadow-wells-md_400"
+    },
+    {
+      "id": "e_5",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-the-threshold-chambers-md_920"
+    },
+    {
+      "id": "e_6",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-quest-the-convergence-crisis-md_60"
+    },
+    {
+      "id": "e_7",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-quest-divine-intervention-md_580"
+    },
+    {
+      "id": "e_8",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-stop-the-crystal-festival-ritual-md_1100"
+    },
+    {
+      "id": "e_9",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-the-depth-accords-md_240"
+    },
+    {
+      "id": "e_10",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-sylvanheart-md_760"
+    },
+    {
+      "id": "e_11",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-crystal-gardens-md_1280"
+    },
+    {
+      "id": "e_12",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-sister-thalassa-the-depth-touched-md_420"
+    },
+    {
+      "id": "e_13",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-high-priestess-celeste-dawnbringer-md_940"
+    },
+    {
+      "id": "e_14",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-the-shadow-singer-naia-md_1460"
+    },
+    {
+      "id": "e_15",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-the-forsaken-consortium-collective-md_600"
+    },
+    {
+      "id": "e_16",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-archdruid-thornweaver-md_1120"
+    },
+    {
+      "id": "e_17",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-the-verdant-reach-md_1640"
+    }
+  ]
+}

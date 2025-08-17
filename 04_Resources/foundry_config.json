@@ -1,0 +1,18 @@
+{
+  "platform": "FoundryVTT",
+  "supported_features": [
+    "Scene creation from location descriptions",
+    "Actor creation from NPC data",
+    "Item generation from vault items",
+    "Journal entries from lore",
+    "Playlist generation from audio assets"
+  ],
+  "export_format": "foundry_db",
+  "asset_mapping": {
+    "portraits": "tokens",
+    "locations": "scenes",
+    "npcs": "actors",
+    "items": "items",
+    "lore": "journal_entries"
+  }
+}

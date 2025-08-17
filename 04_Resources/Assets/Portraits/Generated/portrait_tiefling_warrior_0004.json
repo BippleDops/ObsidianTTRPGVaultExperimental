@@ -1,0 +1,16 @@
+{
+  "name": "Tiefling Warrior 4",
+  "type": "portrait",
+  "race": "tiefling",
+  "class": "warrior",
+  "gender": "female",
+  "age": "adult",
+  "tags": [
+    "portrait",
+    "character",
+    "tiefling",
+    "warrior",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.537Z"
+}

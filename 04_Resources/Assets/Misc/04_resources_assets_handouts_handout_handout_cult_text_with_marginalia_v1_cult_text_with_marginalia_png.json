@@ -1,0 +1,22 @@
+{
+  "title": "04_Resources/Assets/Handouts/handout-handout-cult-text-with-marginalia-v1-cult-text-with-marginalia.png",
+  "prompt": "04 resources/assets/handouts/handout-handout-cult-text-with-marginalia-v1-cult-text-with-marginalia.png, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:24:57.158Z",
+  "sourceFile": "/02_Worldbuilding/Groups/04_Resources_Assets_Handouts_handout-handout-cult-text-with-marginalia-v1-cult-text-with-marginalia.png.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/04_resources_assets_handouts_handout_handout_cult_text_with_marginalia_v1_cult_text_with_marginalia_png.json",
+  "reorganized": "2025-08-15T18:33:03.984Z"
+}

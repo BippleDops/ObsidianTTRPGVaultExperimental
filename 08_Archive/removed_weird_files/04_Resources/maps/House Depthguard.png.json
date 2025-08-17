@@ -1,0 +1,18 @@
+{
+  "name": "House Depthguard",
+  "type": "map",
+  "generated": "2025-08-15T18:17:57.010Z",
+  "prompt": "fantasy map of House Depthguard, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/House Depthguard.png.json",
+  "reorganized": "2025-08-15T18:33:02.440Z"
+}

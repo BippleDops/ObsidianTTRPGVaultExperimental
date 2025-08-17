@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Ambush Point.md",
+      "x": 0,
+      "y": 0,
+      "width": 460,
+      "height": 140
+    },
+    {
+      "id": "n_02-worldbuilding-groups-border-territories-md_300",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/Border Territories.md",
+      "x": -520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-hidden-smuggler-s-cove-md_220",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Hidden Smuggler's Cove.md",
+      "x": 0,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-the-whispering-expanse-md_740",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/The Whispering Expanse.md",
+      "x": 520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-shadow-market-canals-md_120",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Shadow Market Canals.md",
+      "x": -520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-the-deepmind-md_400",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/The Deepmind.md",
+      "x": 0,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-the-shadow-conspiracy-md_920",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/The Shadow Conspiracy.md",
+      "x": 520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-crystal-wardens-md_60",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Crystal Wardens.md",
+      "x": -520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-depth-wardens-md_580",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Depth Wardens.md",
+      "x": 0,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-shadow-conspiracy-md_1100",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Shadow Conspiracy.md",
+      "x": 520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-captain-marina-saltborn-md_240",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Captain Marina Saltborn.md",
+      "x": -520,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-reef-saltwater-md_760",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Reef Saltwater.md",
+      "x": 0,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-traveling-merchant-finn-md_1280",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Traveling Merchant Finn.md",
+      "x": 520,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-aquabyssos-md_420",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Aquabyssos.md",
+      "x": -520,
+      "y": 940,
+      "width": 380,
+      "height": 120
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-border-territories-md_300"
+    },
+    {
+      "id": "e_1",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-hidden-smuggler-s-cove-md_220"
+    },
+    {
+      "id": "e_2",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-the-whispering-expanse-md_740"
+    },
+    {
+      "id": "e_3",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-shadow-market-canals-md_120"
+    },
+    {
+      "id": "e_4",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-the-deepmind-md_400"
+    },
+    {
+      "id": "e_5",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-the-shadow-conspiracy-md_920"
+    },
+    {
+      "id": "e_6",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-crystal-wardens-md_60"
+    },
+    {
+      "id": "e_7",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-depth-wardens-md_580"
+    },
+    {
+      "id": "e_8",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-shadow-conspiracy-md_1100"
+    },
+    {
+      "id": "e_9",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-captain-marina-saltborn-md_240"
+    },
+    {
+      "id": "e_10",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-reef-saltwater-md_760"
+    },
+    {
+      "id": "e_11",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-traveling-merchant-finn-md_1280"
+    },
+    {
+      "id": "e_12",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-aquabyssos-md_420"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "World Map 475",
+  "type": "map",
+  "mapType": "world",
+  "gridSize": null,
+  "scale": "1:10000000",
+  "tags": [
+    "map",
+    "world",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 98.1016747168247,
+      "y": 92.87617626295813,
+      "type": "city"
+    },
+    {
+      "name": "Location 2",
+      "x": 76.41497658636355,
+      "y": 44.71946389537964,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 3",
+      "x": 30.677812846439046,
+      "y": 77.40102718493385,
+      "type": "city"
+    },
+    {
+      "name": "Location 4",
+      "x": 71.48204396551402,
+      "y": 51.12321608172443,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 5",
+      "x": 95.13784362274323,
+      "y": 9.215502053285729,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 6",
+      "x": 7.422179329428125,
+      "y": 19.496782174004302,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 7",
+      "x": 57.69424194263754,
+      "y": 23.477182094481176,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 8",
+      "x": 35.761603758843954,
+      "y": 49.09601813678176,
+      "type": "town"
+    },
+    {
+      "name": "Location 9",
+      "x": 83.17741561440909,
+      "y": 33.9558182472406,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 10",
+      "x": 69.37727511718751,
+      "y": 27.81922478669664,
+      "type": "dungeon"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.771Z"
+}

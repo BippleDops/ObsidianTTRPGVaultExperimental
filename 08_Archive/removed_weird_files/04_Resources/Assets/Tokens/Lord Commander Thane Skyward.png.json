@@ -1,0 +1,21 @@
+{
+  "name": "Lord Commander Thane Skyward",
+  "type": "token",
+  "generated": "2025-08-15T18:16:17.626Z",
+  "prompt": "character token for Lord Commander Thane Skyward, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "aethermoor",
+    "sky",
+    "aerial",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Tokens/Lord Commander Thane Skyward.png.json",
+  "reorganized": "2025-08-15T18:33:10.210Z"
+}

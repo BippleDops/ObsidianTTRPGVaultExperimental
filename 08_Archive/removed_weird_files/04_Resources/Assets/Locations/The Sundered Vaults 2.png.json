@@ -1,0 +1,18 @@
+{
+  "name": "The Sundered Vaults 2",
+  "type": "location",
+  "generated": "2025-08-15T18:18:27.692Z",
+  "prompt": "fantasy landscape called The Sundered Vaults 2, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/The Sundered Vaults 2.png.json",
+  "reorganized": "2025-08-15T18:33:01.101Z"
+}

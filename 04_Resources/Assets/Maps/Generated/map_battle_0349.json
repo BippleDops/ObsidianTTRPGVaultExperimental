@@ -1,0 +1,46 @@
+{
+  "name": "Battle Map 349",
+  "type": "map",
+  "mapType": "battle",
+  "gridSize": "25x25",
+  "scale": "5ft per square",
+  "tags": [
+    "map",
+    "battle",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 57.481423970183876,
+      "y": 14.926421773302035,
+      "type": "town"
+    },
+    {
+      "name": "Location 2",
+      "x": 49.29474282796507,
+      "y": 6.631357001980865,
+      "type": "city"
+    },
+    {
+      "name": "Location 3",
+      "x": 88.95763030253488,
+      "y": 65.11038924546135,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 4",
+      "x": 52.95042413935993,
+      "y": 59.254475819728555,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 5",
+      "x": 62.09710375254676,
+      "y": 82.02905481306857,
+      "type": "landmark"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.715Z"
+}

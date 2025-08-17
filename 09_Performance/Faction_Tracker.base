@@ -1,0 +1,103 @@
+formulas:
+  ReputationBadge: |
+    js:
+    const rep = target.reputation ?? 0;
+    const color = rep >= 5 ? '#16a34a' : rep >= 1 ? '#22c55e' : rep <= -5 ? '#ef4444' : rep <= -1 ? '#f59e0b' : '#9ca3af';
+    return `<span style="color:${color};font-weight:600;">${rep}</span>`;
+  PowerScore: |
+    js:
+    const size = target.size || 'Medium';
+    const weights = { Small: 1, Medium: 2, Large: 3, Empire: 4 };
+    const w = weights[size] || 2;
+    const assets = target.assets_value || 0;
+    return (w * 10) + assets;
+  AlliesList: |
+    js:
+    const a = target.allies || [];
+    return a.map(x => `🤝 [[${x}]]`).join(', ');
+  EnemiesList: |
+    js:
+    const e = target.enemies || [];
+    return e.map(x => `⚔️ [[${x}]]`).join(', ');
+views:
+  - type: table
+    name: All Factions (Safe)
+    filters: tags contains "Category/Group"
+    sort:
+      - property: file.name
+        direction: ASC
+    columns:
+      - file.name
+      - realm
+      - leader
+      - headquarters
+    columnSize:
+      file.name: 200
+      realm: 120
+      leader: 160
+      headquarters: 160
+  - type: table
+    name: Faction Overview
+    filters: tags contains "Category/Group"
+    sort:
+      - property: file.name
+        direction: ASC
+    columns:
+      - file.name
+      - realm
+      - leader
+      - headquarters
+      - reputation
+    columnSize:
+      file.name: 200
+      realm: 120
+      reputation: 100
+      leader: 160
+      headquarters: 160
+  - type: cards
+    name: Power Rankings
+    filters: tags contains "Category/Group"
+    sort:
+      - property: reputation
+        direction: DESC
+    limit: 100
+    columns: 3
+    properties:
+      - file.name
+      - leader
+      - realm
+      - reputation
+      - goals
+  - type: table
+    name: Party Standing
+    filters: tags contains "Category/Group"
+    sort:
+      - property: party_reputation
+        direction: DESC
+    columns:
+      - file.name
+      - party_reputation
+      - allies
+      - enemies
+    columnSize:
+      file.name: 200
+      party_reputation: 120
+      allies: 240
+      enemies: 240
+  - type: table
+    name: All (Debug)
+    sort:
+      - property: file.name
+        direction: ASC
+    columns:
+      - file.name
+      - realm
+      - leader
+      - headquarters
+      - tags
+    columnSize:
+      file.name: 200
+      realm: 120
+      leader: 160
+      headquarters: 160
+      tags: 200

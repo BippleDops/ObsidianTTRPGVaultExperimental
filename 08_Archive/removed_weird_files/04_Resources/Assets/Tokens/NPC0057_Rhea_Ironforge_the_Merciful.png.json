@@ -1,0 +1,19 @@
+{
+  "name": "NPC0057_Rhea_Ironforge_the_Merciful",
+  "type": "token",
+  "generated": "2025-08-15T18:16:20.439Z",
+  "prompt": "character token for NPC0057_Rhea_Ironforge_the_Merciful, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC0057_Rhea_Ironforge_the_Merciful.png.json",
+  "reorganized": "2025-08-15T18:33:11.199Z"
+}

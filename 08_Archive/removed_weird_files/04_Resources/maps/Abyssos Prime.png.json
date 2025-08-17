@@ -1,0 +1,18 @@
+{
+  "name": "Abyssos Prime",
+  "type": "map",
+  "generated": "2025-08-15T18:16:29.725Z",
+  "prompt": "fantasy map of Abyssos Prime, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Abyssos Prime.png.json",
+  "reorganized": "2025-08-15T18:33:01.222Z"
+}

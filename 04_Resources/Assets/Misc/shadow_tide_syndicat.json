@@ -1,0 +1,22 @@
+{
+  "title": "Shadow Tide Syndicat",
+  "prompt": "Shadow tide syndicat, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:38:43.703Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Tide Syndicat.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/shadow_tide_syndicat.json",
+  "reorganized": "2025-08-15T18:33:07.541Z"
+}

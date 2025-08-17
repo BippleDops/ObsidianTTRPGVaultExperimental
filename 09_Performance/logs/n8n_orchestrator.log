@@ -1,0 +1,56 @@
+🤖 N8N Orchestrator with Local Fallback
+==================================================
+
+🔍 Checking local services...
+Service Status:
+  N8N:         ❌
+  ComfyUI:     ✅
+  AnimateDiff: ❌
+📝 Created N8N workflow: image-generation
+📝 Created N8N workflow: video-generation
+📝 Created N8N workflow: audio-generation
+📝 Created N8N workflow: orchestrator
+
+🚀 Starting generation with N8N fallback...
+
+
+🎯 Generating image: fantasy tavern interior, warm lighting...
+❌ [Stability] Failed: Stability error: Too Many Requests
+⚠️ stability failed, trying next service...
+❌ [OpenAI] Failed: OpenAI error: Billing hard limit has been reached
+⚠️ openai failed, trying next service...
+❌ N8N trigger failed: fetch failed
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+🏠 Falling back to direct local generation...
+✅ Generated: locations_1755209667472.png
+
+🎯 Generating image: heroic knight portrait, detailed armor...
+❌ [Stability] Failed: Stability error: Too Many Requests
+⚠️ stability failed, trying next service...
+❌ [OpenAI] Failed: OpenAI error: Billing hard limit has been reached
+⚠️ openai failed, trying next service...
+❌ N8N trigger failed: fetch failed
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+🏠 Falling back to direct local generation...
+✅ Generated: portraits_1755209675309.png
+
+🎯 Generating video: magical portal opening, swirling energy...
+🏠 Falling back to direct local generation...
+❌ N8N trigger failed: fetch failed
+❌ Local video generation failed: Video generation failed
+🎬 Generating 16 frames for video...
+❌ Simple video generation failed: Command failed: ffmpeg -framerate 8 -pattern_type glob -i '/tmp/frame_*.png' -c:v libx264 -pix_fmt yuv420p -y "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Scenes/scenes_1755209683153.mp4"
+/bin/sh: ffmpeg: command not found
+
+❌ Failed: scenes_1755209683153.mp4
+
+🎯 Generating audio: ambient dungeon sounds...
+🏠 Falling back to direct local generation...
+✅ Generated: audio_1755209794508.wav
+
+==================================================
+📊 Generation Complete:
+✅ Successful: 3
+❌ Failed: 1
+
+📄 Report saved to: 09_Performance/n8n_generation_report.json

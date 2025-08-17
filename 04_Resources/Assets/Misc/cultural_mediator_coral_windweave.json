@@ -1,0 +1,22 @@
+{
+  "title": "Cultural Mediator Coral Windweave",
+  "prompt": "Cultural mediator coral windweave, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:56:34.346Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Cultural_Organizations/Cultural Mediator Coral Windweave.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/cultural_mediator_coral_windweave.json",
+  "reorganized": "2025-08-15T18:33:07.387Z"
+}

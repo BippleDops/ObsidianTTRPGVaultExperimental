@@ -1,0 +1,22 @@
+{
+  "title": "The Parliament of Echoes",
+  "prompt": "The parliament of echoes, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:13:41.625Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Echoes.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/the_parliament_of_echoes.json",
+  "reorganized": "2025-08-15T18:33:07.565Z"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "The Living Weapon",
+  "type": "map",
+  "generated": "2025-08-15T18:18:25.310Z",
+  "prompt": "fantasy map of The Living Weapon, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical",
+    "weapon"
+  ],
+  "location": "04_Resources/Assets/Maps/The Living Weapon.png.json",
+  "reorganized": "2025-08-15T18:33:03.679Z"
+}

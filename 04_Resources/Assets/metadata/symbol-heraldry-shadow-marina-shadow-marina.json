@@ -1,0 +1,31 @@
+{
+  "id": "heraldry-shadow-marina",
+  "type": "symbol",
+  "name": "Shadow Marina",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Shadow Marina, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 2032,
+  "alt_text": "Heraldic emblem for Shadow Marina.",
+  "realm": "aquabyssos",
+  "palette": "gold accents",
+  "textPolicy": "no words or inscriptions; pure iconography",
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-shadow-marina-shadow-marina.svg"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Crystal Caverns",
+  "type": "location",
+  "generated": "2025-08-15T18:17:18.225Z",
+  "prompt": "fantasy cave called Crystal Caverns, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Crystal Caverns.png.json",
+  "reorganized": "2025-08-15T18:32:59.510Z"
+}

@@ -1,0 +1,85 @@
+formulas:
+  ImagePath: |
+    js:
+    if (target.image_path) {
+      return target.image_path;
+    } else {
+      return '04_Resources/Assets/Placeholder Images/DefaultImage.png';
+    }
+  ImageDisplay: |
+    js:
+    const imagePath = target.image_path || '04_Resources/Assets/Placeholder Images/DefaultImage.png';
+    return imagePath;
+  CharacterInfo: |
+    js:
+    if (target.char_race && target.char_status) {
+      return `${target.char_race} - ${target.char_gender || 'Unknown'} - ${target.char_age || 'Unknown'} - ${target.char_status}`;
+    }
+    return "No character info";
+  LocationType: |
+    js:
+    if (target.MyCategory) {
+      return `${target.MyCategory} Location`;
+    }
+    return "Unknown Location";
+views:
+  - type: table
+    name: All Images
+    filters:
+      and:
+        - image_path
+    sort:
+      - property: image_category
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columns:
+      - file.name
+      - image_path
+      - image_category
+      - image_tags
+    columnSize:
+      file.name: 200
+      image_path: 300
+      image_category: 150
+      image_tags: 200
+  - type: cards
+    name: Character Gallery
+    filters:
+      and:
+        - tags contains "Category/People"
+    order: []
+    limit: 100
+    columns: 4
+    properties:
+      - image_path
+      - file.name
+      - char_race
+      - char_status
+  - type: cards
+    name: Location Gallery
+    filters: tags contains "Category/Place"
+    limit: 100
+    columns: 3
+    properties:
+      - image_path
+      - file.name
+      - MyCategory
+      - MyContainer
+  - type: table
+    name: All (Debug)
+    sort:
+      - property: file.name
+        direction: ASC
+    columns:
+      - file.name
+      - image_path
+      - image_category
+      - image_tags
+      - tags
+    columnSize:
+      file.name: 200
+      image_path: 300
+      image_category: 150
+      image_tags: 200
+      tags: 200

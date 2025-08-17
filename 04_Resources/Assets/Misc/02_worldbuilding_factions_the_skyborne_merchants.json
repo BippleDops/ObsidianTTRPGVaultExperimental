@@ -1,0 +1,25 @@
+{
+  "title": "02_Worldbuilding/Factions/The Skyborne Merchants",
+  "prompt": "02 worldbuilding/factions/the skyborne merchants, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:05:48.764Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Factions/The Skyborne Merchants.md",
+  "tags": [
+    "generated",
+    "aethermoor",
+    "sky",
+    "aerial",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/02_worldbuilding_factions_the_skyborne_merchants.json",
+  "reorganized": "2025-08-15T18:33:03.890Z"
+}

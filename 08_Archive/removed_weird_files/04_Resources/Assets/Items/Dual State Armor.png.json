@@ -1,0 +1,19 @@
+{
+  "name": "Dual State Armor",
+  "type": "item",
+  "generated": "2025-08-15T18:18:50.910Z",
+  "prompt": "magical armor called Dual State Armor, detailed item, glowing effects, fantasy artifact",
+  "status": "pending_generation",
+  "tags": [
+    "item",
+    "equipment-art",
+    "object",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "armor"
+  ],
+  "location": "04_Resources/Assets/Items/Dual State Armor.png.json",
+  "reorganized": "2025-08-15T18:32:57.584Z"
+}

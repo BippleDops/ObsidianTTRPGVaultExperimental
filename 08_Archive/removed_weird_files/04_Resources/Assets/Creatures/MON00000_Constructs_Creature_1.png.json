@@ -1,0 +1,18 @@
+{
+  "name": "MON00000_Constructs_Creature_1",
+  "type": "creature",
+  "generated": "2025-08-15T18:20:33.981Z",
+  "prompt": "fantasy creature MON00000_Constructs_Creature_1, monster design, detailed creature, D&D bestiary style",
+  "status": "pending_generation",
+  "tags": [
+    "creature",
+    "monster-art",
+    "bestiary",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Creatures/MON00000_Constructs_Creature_1.png.json",
+  "reorganized": "2025-08-15T18:32:56.663Z"
+}

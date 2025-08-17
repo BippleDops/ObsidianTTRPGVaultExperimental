@@ -1,0 +1,18 @@
+{
+  "name": "Military Command",
+  "type": "map",
+  "generated": "2025-08-15T18:18:08.685Z",
+  "prompt": "fantasy map of Military Command, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Military Command.png.json",
+  "reorganized": "2025-08-15T18:33:03.376Z"
+}

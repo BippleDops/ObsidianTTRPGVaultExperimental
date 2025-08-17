@@ -1,0 +1,18 @@
+{
+  "name": "ITEM0010_Cursed_Shield_of_Power",
+  "type": "item",
+  "generated": "2025-08-15T18:19:06.613Z",
+  "prompt": "magical shield called ITEM0010_Cursed_Shield_of_Power, detailed item, glowing effects, fantasy artifact",
+  "status": "pending_generation",
+  "tags": [
+    "item",
+    "equipment-art",
+    "object",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Items/ITEM0010_Cursed_Shield_of_Power.png.json",
+  "reorganized": "2025-08-15T18:32:57.638Z"
+}

@@ -1,0 +1,10 @@
+{
+  "type": "location_variant",
+  "generated": "2025-08-15T02:48:26.356Z",
+  "metadata": {
+    "name": "The First Failure",
+    "variant": "night"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

@@ -1,0 +1,60 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "x": 0,
+      "y": 0,
+      "width": 150,
+      "height": 60,
+      "type": "text",
+      "text": "Party"
+    },
+    {
+      "id": "2",
+      "x": -200,
+      "y": -150,
+      "width": 120,
+      "height": 60,
+      "type": "text",
+      "text": "Allies"
+    },
+    {
+      "id": "3",
+      "x": 200,
+      "y": -150,
+      "width": 120,
+      "height": 60,
+      "type": "text",
+      "text": "Enemies"
+    },
+    {
+      "id": "4",
+      "x": 0,
+      "y": 150,
+      "width": 120,
+      "height": 60,
+      "type": "text",
+      "text": "Neutral"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "1",
+      "toNode": "2",
+      "label": "allied"
+    },
+    {
+      "id": "e2",
+      "fromNode": "1",
+      "toNode": "3",
+      "label": "hostile"
+    },
+    {
+      "id": "e3",
+      "fromNode": "1",
+      "toNode": "4",
+      "label": "unknown"
+    }
+  ]
+}

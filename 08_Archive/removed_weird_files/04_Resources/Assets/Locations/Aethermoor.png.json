@@ -1,0 +1,21 @@
+{
+  "name": "Aethermoor",
+  "type": "location",
+  "generated": "2025-08-15T18:16:29.933Z",
+  "prompt": "fantasy landscape called Aethermoor, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "aethermoor",
+    "sky",
+    "aerial",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Aethermoor.png.json",
+  "reorganized": "2025-08-15T18:32:58.436Z"
+}

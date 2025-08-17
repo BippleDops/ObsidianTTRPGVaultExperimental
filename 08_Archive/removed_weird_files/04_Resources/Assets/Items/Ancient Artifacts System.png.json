@@ -1,0 +1,18 @@
+{
+  "name": "Ancient Artifacts System",
+  "type": "item",
+  "generated": "2025-08-15T18:18:50.601Z",
+  "prompt": "magical artifact called Ancient Artifacts System, detailed item, glowing effects, fantasy artifact",
+  "status": "pending_generation",
+  "tags": [
+    "item",
+    "equipment-art",
+    "object",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Items/Ancient Artifacts System.png.json",
+  "reorganized": "2025-08-15T18:32:57.536Z"
+}

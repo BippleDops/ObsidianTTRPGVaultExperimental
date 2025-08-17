@@ -1,0 +1,19 @@
+{
+  "name": "NPC01562_Rhiannon_Proudmore_the_Scholar",
+  "type": "token",
+  "generated": "2025-08-15T18:15:41.794Z",
+  "prompt": "character token for NPC01562_Rhiannon_Proudmore_the_Scholar, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC01562_Rhiannon_Proudmore_the_Scholar.png.json",
+  "reorganized": "2025-08-15T18:33:11.781Z"
+}

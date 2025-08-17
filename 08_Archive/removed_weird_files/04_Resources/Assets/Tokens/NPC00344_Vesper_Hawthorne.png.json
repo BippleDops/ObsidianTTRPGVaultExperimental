@@ -1,0 +1,19 @@
+{
+  "name": "NPC00344_Vesper_Hawthorne",
+  "type": "token",
+  "generated": "2025-08-15T18:16:06.413Z",
+  "prompt": "character token for NPC00344_Vesper_Hawthorne, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC00344_Vesper_Hawthorne.png.json",
+  "reorganized": "2025-08-15T18:33:11.095Z"
+}

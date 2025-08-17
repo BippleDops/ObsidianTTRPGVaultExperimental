@@ -1,0 +1,11 @@
+{
+  "type": "item",
+  "generated": "2025-08-15T02:48:26.088Z",
+  "metadata": {
+    "name": "Memory Pearls",
+    "prompt": "Item, Uncommon to Legendary (varies by content) quality, enchanted metal with glowing runes, pristine, centered on dark velvet",
+    "version": "icon"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

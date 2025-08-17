@@ -1,0 +1,19 @@
+{
+  "name": "NPC01472_Kaelen_Ravenheart_the_Swift",
+  "type": "token",
+  "generated": "2025-08-15T18:15:39.918Z",
+  "prompt": "character token for NPC01472_Kaelen_Ravenheart_the_Swift, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC01472_Kaelen_Ravenheart_the_Swift.png.json",
+  "reorganized": "2025-08-15T18:33:11.713Z"
+}

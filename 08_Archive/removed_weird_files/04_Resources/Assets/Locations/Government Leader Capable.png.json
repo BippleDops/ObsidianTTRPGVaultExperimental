@@ -1,0 +1,18 @@
+{
+  "name": "Government Leader Capable",
+  "type": "location",
+  "generated": "2025-08-15T18:17:55.155Z",
+  "prompt": "fantasy landscape called Government Leader Capable, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Government Leader Capable.png.json",
+  "reorganized": "2025-08-15T18:32:59.651Z"
+}

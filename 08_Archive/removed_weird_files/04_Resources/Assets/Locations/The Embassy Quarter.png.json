@@ -1,0 +1,18 @@
+{
+  "name": "The Embassy Quarter",
+  "type": "location",
+  "generated": "2025-08-15T18:18:23.452Z",
+  "prompt": "fantasy landscape called The Embassy Quarter, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/The Embassy Quarter.png.json",
+  "reorganized": "2025-08-15T18:33:01.017Z"
+}

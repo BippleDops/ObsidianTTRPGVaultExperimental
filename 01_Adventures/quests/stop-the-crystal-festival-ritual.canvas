@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Stop the Crystal Festival Ritual.md",
+      "x": 0,
+      "y": 0,
+      "width": 460,
+      "height": 140
+    },
+    {
+      "id": "n_02-worldbuilding-places-aethermoor-md_300",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Aethermoor.md",
+      "x": -520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-void-touched-cult-md_220",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/Void Touched Cult.md",
+      "x": 0,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-withered-court-md_740",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Withered Court.md",
+      "x": 520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-aberrant-cults-md_120",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/Aberrant Cults.md",
+      "x": -520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-crystal-guardian-orders-md_400",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/Crystal Guardian Orders.md",
+      "x": 0,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-quest-nature-s-balance-md_920",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Quest - Nature's Balance.md",
+      "x": 520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-aethermoor-md_300"
+    },
+    {
+      "id": "e_1",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-void-touched-cult-md_220"
+    },
+    {
+      "id": "e_2",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-withered-court-md_740"
+    },
+    {
+      "id": "e_3",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-aberrant-cults-md_120"
+    },
+    {
+      "id": "e_4",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-crystal-guardian-orders-md_400"
+    },
+    {
+      "id": "e_5",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-quest-nature-s-balance-md_920"
+    }
+  ]
+}

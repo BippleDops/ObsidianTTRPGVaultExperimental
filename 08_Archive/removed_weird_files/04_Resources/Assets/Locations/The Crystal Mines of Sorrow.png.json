@@ -1,0 +1,18 @@
+{
+  "name": "The Crystal Mines of Sorrow",
+  "type": "location",
+  "generated": "2025-08-15T18:18:11.164Z",
+  "prompt": "fantasy landscape called The Crystal Mines of Sorrow, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/The Crystal Mines of Sorrow.png.json",
+  "reorganized": "2025-08-15T18:33:01.001Z"
+}

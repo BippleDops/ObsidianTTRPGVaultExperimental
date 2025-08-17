@@ -1,0 +1,18 @@
+{
+  "name": "LOC0097_Peakthorpe",
+  "type": "location",
+  "generated": "2025-08-15T18:18:02.077Z",
+  "prompt": "fantasy landscape called LOC0097_Peakthorpe, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/LOC0097_Peakthorpe.png.json",
+  "reorganized": "2025-08-15T18:33:00.628Z"
+}

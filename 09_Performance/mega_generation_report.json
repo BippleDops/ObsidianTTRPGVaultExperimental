@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-08-14T21:06:22.885Z",
+  "duration": 35,
+  "stats": {
+    "generated": 50,
+    "failed": 90,
+    "startTime": 1755205547704
+  },
+  "services": {
+    "openai": {
+      "available": true,
+      "credits": 0
+    },
+    "stability": {
+      "available": true,
+      "credits": 1000
+    },
+    "unsplash": {
+      "available": true,
+      "rateLimit": 50
+    },
+    "comfyui": {
+      "available": true,
+      "url": "http://127.0.0.1:8188"
+    }
+  }
+}

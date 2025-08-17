@@ -1,0 +1,18 @@
+{
+  "name": "Military Command 2",
+  "type": "location",
+  "generated": "2025-08-15T18:18:08.584Z",
+  "prompt": "fantasy landscape called Military Command 2, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Military Command 2.png.json",
+  "reorganized": "2025-08-15T18:33:00.727Z"
+}

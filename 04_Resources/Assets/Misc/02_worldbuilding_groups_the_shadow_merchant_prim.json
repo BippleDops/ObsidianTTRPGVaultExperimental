@@ -1,0 +1,22 @@
+{
+  "title": "02_Worldbuilding/Groups/The Shadow Merchant Prim",
+  "prompt": "02 worldbuilding/groups/the shadow merchant prim, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, shadow",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:15:29.114Z",
+  "sourceFile": "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/The Shadow Merchant Prim.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/02_worldbuilding_groups_the_shadow_merchant_prim.json",
+  "reorganized": "2025-08-15T18:33:03.931Z"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "LOC0048_FortHill",
+  "type": "map",
+  "generated": "2025-08-15T18:18:00.636Z",
+  "prompt": "fantasy map of LOC0048_FortHill, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/LOC0048_FortHill.png.json",
+  "reorganized": "2025-08-15T18:33:03.237Z"
+}

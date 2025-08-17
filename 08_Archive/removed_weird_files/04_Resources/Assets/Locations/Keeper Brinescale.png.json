@@ -1,0 +1,18 @@
+{
+  "name": "Keeper Brinescale",
+  "type": "location",
+  "generated": "2025-08-15T18:17:58.244Z",
+  "prompt": "fantasy landscape called Keeper Brinescale, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Keeper Brinescale.png.json",
+  "reorganized": "2025-08-15T18:32:59.722Z"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "NPC00277_Dara_Frostwhisper",
+  "type": "token",
+  "generated": "2025-08-15T18:16:05.061Z",
+  "prompt": "character token for NPC00277_Dara_Frostwhisper, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC00277_Dara_Frostwhisper.png.json",
+  "reorganized": "2025-08-15T18:33:11.067Z"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "NPC01949_Gavril_Darkwater_the_Strong",
+  "type": "token",
+  "generated": "2025-08-15T18:16:14.900Z",
+  "prompt": "character token for NPC01949_Gavril_Darkwater_the_Strong, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "dark",
+    "gritty",
+    "horror",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC01949_Gavril_Darkwater_the_Strong.png.json",
+  "reorganized": "2025-08-15T18:33:11.970Z"
+}

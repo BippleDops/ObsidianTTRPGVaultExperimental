@@ -1,0 +1,15 @@
+{
+  "name": "Epic music 0",
+  "type": "audio",
+  "category": "music",
+  "mood": "epic",
+  "duration": 83,
+  "bpm": 88,
+  "tags": [
+    "audio",
+    "music",
+    "epic",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.532Z"
+}

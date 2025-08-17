@@ -1,0 +1,12 @@
+{
+  "type": "token",
+  "generated": "2025-08-15T02:48:25.966Z",
+  "metadata": {
+    "name": "#NPCs",
+    "size": "large",
+    "state": "bloodied",
+    "border": "simple"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

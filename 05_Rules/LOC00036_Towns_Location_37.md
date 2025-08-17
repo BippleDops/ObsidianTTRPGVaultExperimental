@@ -1,0 +1,34 @@
+---
+aliases: ["Towns Location 37", "towns location 37", "37 Location Towns"]
+tags: [location, place]
+type: location
+---
+
+# Towns Location 37
+
+*Towns*
+
+A detailed towns location with rich history and plot hooks.
+
+---
+*ID: LOC00036*
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+## Resources
+- Natural resources
+- Trade goods
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+## Rumors
+- Local gossip
+- Urban legends
+
+## Weather
+- Typical conditions
+- Seasonal changes

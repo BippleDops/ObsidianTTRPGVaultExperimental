@@ -1,0 +1,97 @@
+{
+  "timestamp": "2025-08-14T21:12:47.371Z",
+  "duration": 203,
+  "configuration": {
+    "images": {
+      "portraits": 100,
+      "locations": 100,
+      "creatures": 100,
+      "items": 50,
+      "maps": 50,
+      "scenes": 50
+    },
+    "audio": {
+      "ambient": 50,
+      "combat": 20,
+      "tavern": 10,
+      "dungeon": 20
+    },
+    "text": {
+      "npcs": 50,
+      "quests": 30,
+      "locations": 40
+    }
+  },
+  "results": [
+    {
+      "name": "Images: items (50)",
+      "status": "success",
+      "result": 0
+    },
+    {
+      "name": "Images: maps (50)",
+      "status": "success",
+      "result": 0
+    },
+    {
+      "name": "Audio: ambient (50)",
+      "status": "success",
+      "result": 50
+    },
+    {
+      "name": "Audio: combat (20)",
+      "status": "success",
+      "result": 20
+    },
+    {
+      "name": "Audio: tavern (10)",
+      "status": "success",
+      "result": 10
+    },
+    {
+      "name": "Audio: dungeon (20)",
+      "status": "success",
+      "result": 20
+    },
+    {
+      "name": "Images: scenes (50)",
+      "status": "success",
+      "result": 0
+    },
+    {
+      "name": "Images: creatures (100)",
+      "status": "success",
+      "result": 0
+    },
+    {
+      "name": "Images: locations (100)",
+      "status": "success",
+      "result": 0
+    },
+    {
+      "name": "Images: portraits (100)",
+      "status": "success",
+      "result": 0
+    },
+    {
+      "name": "Text: quests (30)",
+      "status": "success",
+      "result": 0
+    },
+    {
+      "name": "Text: locations (40)",
+      "status": "success",
+      "result": 0
+    },
+    {
+      "name": "Text: npcs (50)",
+      "status": "success",
+      "result": 0
+    }
+  ],
+  "summary": {
+    "successful": 13,
+    "failed": 0,
+    "totalTasks": 13
+  }
+}

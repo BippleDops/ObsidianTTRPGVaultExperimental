@@ -1,0 +1,18 @@
+{
+  "name": "Ironhold",
+  "type": "map",
+  "generated": "2025-08-15T18:17:58.142Z",
+  "prompt": "fantasy map of Ironhold, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Ironhold.png.json",
+  "reorganized": "2025-08-15T18:33:02.463Z"
+}

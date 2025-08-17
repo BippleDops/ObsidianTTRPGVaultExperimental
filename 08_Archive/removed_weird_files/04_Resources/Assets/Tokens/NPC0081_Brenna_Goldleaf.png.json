@@ -1,0 +1,19 @@
+{
+  "name": "NPC0081_Brenna_Goldleaf",
+  "type": "token",
+  "generated": "2025-08-15T18:16:21.167Z",
+  "prompt": "character token for NPC0081_Brenna_Goldleaf, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC0081_Brenna_Goldleaf.png.json",
+  "reorganized": "2025-08-15T18:33:11.307Z"
+}

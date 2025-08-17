@@ -1,0 +1,28 @@
+{
+  "main": {
+    "id": "dm-session",
+    "type": "split",
+    "children": [
+      {
+        "id": "session-notes",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "06_Sessions/Current_Session.md"
+          }
+        }
+      },
+      {
+        "id": "npc-reference",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "03_People/00_NPC_Master_Database.md"
+          }
+        }
+      }
+    ]
+  }
+}

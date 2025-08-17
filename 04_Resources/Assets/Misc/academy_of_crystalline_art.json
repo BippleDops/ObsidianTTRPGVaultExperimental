@@ -1,0 +1,22 @@
+{
+  "title": "Academy of Crystalline Art",
+  "prompt": "Academy of crystalline art, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, crystal",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:32:24.342Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Academies/Academy of Crystalline Art.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/academy_of_crystalline_art.json",
+  "reorganized": "2025-08-15T18:33:07.304Z"
+}

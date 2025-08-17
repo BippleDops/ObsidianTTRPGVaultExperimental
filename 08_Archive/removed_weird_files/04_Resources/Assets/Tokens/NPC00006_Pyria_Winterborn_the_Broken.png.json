@@ -1,0 +1,19 @@
+{
+  "name": "NPC00006_Pyria_Winterborn_the_Broken",
+  "type": "token",
+  "generated": "2025-08-15T18:15:59.340Z",
+  "prompt": "character token for NPC00006_Pyria_Winterborn_the_Broken, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC00006_Pyria_Winterborn_the_Broken.png.json",
+  "reorganized": "2025-08-15T18:33:10.776Z"
+}

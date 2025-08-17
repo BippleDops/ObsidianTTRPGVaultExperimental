@@ -1,0 +1,18 @@
+{
+  "name": "High Priestess Celeste",
+  "type": "token",
+  "generated": "2025-08-15T18:16:16.364Z",
+  "prompt": "character token for High Priestess Celeste, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Tokens/High Priestess Celeste.png.json",
+  "reorganized": "2025-08-15T18:33:10.054Z"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Pearl_Harbor_City",
+  "type": "location",
+  "generated": "2025-08-15T18:18:10.545Z",
+  "prompt": "fantasy cityscape called Pearl_Harbor_City, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "city"
+  ],
+  "location": "04_Resources/Assets/Locations/Pearl_Harbor_City.png.json",
+  "reorganized": "2025-08-15T18:33:00.759Z"
+}

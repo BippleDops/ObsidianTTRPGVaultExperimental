@@ -1,0 +1,16 @@
+{
+  "name": "Dwarf Rogue 122",
+  "type": "portrait",
+  "race": "dwarf",
+  "class": "rogue",
+  "gender": "male",
+  "age": "adult",
+  "tags": [
+    "portrait",
+    "character",
+    "dwarf",
+    "rogue",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.611Z"
+}

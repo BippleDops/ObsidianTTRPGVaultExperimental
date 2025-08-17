@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Captain Blackwater's Fate.md",
+      "x": 0,
+      "y": 0,
+      "width": 460,
+      "height": 140
+    },
+    {
+      "id": "n_1-session-journals-aethermoor-session-02-the-lighthouse-of-storms-md_300",
+      "type": "file",
+      "file": "1-Session Journals/Aethermoor - Session 02 The Lighthouse of Storms.md",
+      "x": -520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0",
+      "fromNode": "root",
+      "toNode": "n_1-session-journals-aethermoor-session-02-the-lighthouse-of-storms-md_300"
+    }
+  ]
+}

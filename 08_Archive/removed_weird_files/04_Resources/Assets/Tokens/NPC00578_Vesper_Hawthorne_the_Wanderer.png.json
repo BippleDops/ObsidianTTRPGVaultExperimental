@@ -1,0 +1,19 @@
+{
+  "name": "NPC00578_Vesper_Hawthorne_the_Wanderer",
+  "type": "token",
+  "generated": "2025-08-15T18:15:46.281Z",
+  "prompt": "character token for NPC00578_Vesper_Hawthorne_the_Wanderer, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC00578_Vesper_Hawthorne_the_Wanderer.png.json",
+  "reorganized": "2025-08-15T18:33:11.197Z"
+}

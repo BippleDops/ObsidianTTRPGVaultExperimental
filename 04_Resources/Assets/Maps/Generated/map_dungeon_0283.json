@@ -1,0 +1,46 @@
+{
+  "name": "Dungeon Map 283",
+  "type": "map",
+  "mapType": "dungeon",
+  "gridSize": null,
+  "scale": "1:100",
+  "tags": [
+    "map",
+    "dungeon",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 46.42884595590579,
+      "y": 48.26991204563517,
+      "type": "city"
+    },
+    {
+      "name": "Location 2",
+      "x": 85.52790313448241,
+      "y": 37.63863581751872,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 3",
+      "x": 19.799291049626277,
+      "y": 91.72730907984595,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 4",
+      "x": 82.6972436839727,
+      "y": 39.385415215667784,
+      "type": "city"
+    },
+    {
+      "name": "Location 5",
+      "x": 25.975563645490375,
+      "y": 93.95520247463406,
+      "type": "city"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.685Z"
+}

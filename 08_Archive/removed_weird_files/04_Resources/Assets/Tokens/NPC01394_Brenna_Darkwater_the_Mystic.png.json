@@ -1,0 +1,19 @@
+{
+  "name": "NPC01394_Brenna_Darkwater_the_Mystic",
+  "type": "token",
+  "generated": "2025-08-15T18:15:38.226Z",
+  "prompt": "character token for NPC01394_Brenna_Darkwater_the_Mystic, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "dark",
+    "gritty",
+    "horror",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC01394_Brenna_Darkwater_the_Mystic.png.json",
+  "reorganized": "2025-08-15T18:33:11.675Z"
+}

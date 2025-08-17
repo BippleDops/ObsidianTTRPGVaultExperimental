@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-08-14T17:57:06.718241",
+  "statistics": {
+    "files_processed": 37701,
+    "files_fixed": 37701,
+    "frontmatter_added": 3393,
+    "frontmatter_fixed": 0,
+    "files_with_errors": 0
+  },
+  "errors": []
+}

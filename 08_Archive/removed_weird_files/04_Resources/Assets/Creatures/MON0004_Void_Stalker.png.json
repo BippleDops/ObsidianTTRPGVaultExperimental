@@ -1,0 +1,18 @@
+{
+  "name": "MON0004_Void_Stalker",
+  "type": "creature",
+  "generated": "2025-08-15T18:20:40.973Z",
+  "prompt": "fantasy creature MON0004_Void_Stalker, monster design, detailed creature, D&D bestiary style",
+  "status": "pending_generation",
+  "tags": [
+    "creature",
+    "monster-art",
+    "bestiary",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Creatures/MON0004_Void_Stalker.png.json",
+  "reorganized": "2025-08-15T18:32:56.731Z"
+}

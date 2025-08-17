@@ -1,0 +1,22 @@
+{
+  "title": "Cross-Cultural Adaptation Techniques",
+  "prompt": "Cross-cultural adaptation techniques, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:54:06.043Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Cultural_Organizations/Cross-Cultural Adaptation Techniques.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/cross_cultural_adaptation_techniques.json",
+  "reorganized": "2025-08-15T18:33:07.366Z"
+}

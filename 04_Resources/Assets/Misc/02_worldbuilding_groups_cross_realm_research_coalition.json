@@ -1,0 +1,22 @@
+{
+  "title": "02_Worldbuilding/Groups/Cross-Realm Research Coalition",
+  "prompt": "02 worldbuilding/groups/cross-realm research coalition, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:15:03.763Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Groups/Cross-Realm Research Coalition.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/02_worldbuilding_groups_cross_realm_research_coalition.json",
+  "reorganized": "2025-08-15T18:33:03.894Z"
+}

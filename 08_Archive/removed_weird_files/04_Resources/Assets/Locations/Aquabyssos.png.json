@@ -1,0 +1,21 @@
+{
+  "name": "Aquabyssos",
+  "type": "location",
+  "generated": "2025-08-15T18:16:30.757Z",
+  "prompt": "fantasy landscape called Aquabyssos, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "aquabyssos",
+    "underwater",
+    "oceanic",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Aquabyssos.png.json",
+  "reorganized": "2025-08-15T18:32:58.455Z"
+}

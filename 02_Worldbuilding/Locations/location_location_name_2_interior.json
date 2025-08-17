@@ -1,0 +1,10 @@
+{
+  "type": "location_variant",
+  "generated": "2025-08-15T02:48:26.166Z",
+  "metadata": {
+    "name": "Location Name 2",
+    "variant": "interior"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

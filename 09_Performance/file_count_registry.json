@@ -1,0 +1,80 @@
+{
+  "09_Performance": {
+    "total_files": 28469,
+    "md_files": 28189,
+    "images": 0,
+    "subdirs": 10
+  },
+  "_INDEXES": {
+    "total_files": 12,
+    "md_files": 12,
+    "images": 0,
+    "subdirs": 0
+  },
+  "06_Sessions": {
+    "total_files": 91,
+    "md_files": 90,
+    "images": 0,
+    "subdirs": 0
+  },
+  "_SCRIPTS": {
+    "total_files": 180,
+    "md_files": 4,
+    "images": 0,
+    "subdirs": 0
+  },
+  "07_Player_Resources": {
+    "total_files": 60,
+    "md_files": 53,
+    "images": 0,
+    "subdirs": 6
+  },
+  "03_People": {
+    "total_files": 3733,
+    "md_files": 3143,
+    "images": 0,
+    "subdirs": 1
+  },
+  "08_Archive": {
+    "total_files": 21745,
+    "md_files": 20055,
+    "images": 0,
+    "subdirs": 6
+  },
+  "02_Worldbuilding": {
+    "total_files": 11350,
+    "md_files": 9406,
+    "images": 0,
+    "subdirs": 6
+  },
+  "_METADATA": {
+    "total_files": 4,
+    "md_files": 4,
+    "images": 0,
+    "subdirs": 0
+  },
+  "01_Adventures": {
+    "total_files": 10276,
+    "md_files": 10213,
+    "images": 0,
+    "subdirs": 4
+  },
+  "05_Rules": {
+    "total_files": 2861,
+    "md_files": 2642,
+    "images": 0,
+    "subdirs": 6
+  },
+  "04_Resources": {
+    "total_files": 100574,
+    "md_files": 6196,
+    "images": 23215,
+    "subdirs": 9
+  },
+  "00_System": {
+    "total_files": 166,
+    "md_files": 159,
+    "images": 0,
+    "subdirs": 3
+  }
+}

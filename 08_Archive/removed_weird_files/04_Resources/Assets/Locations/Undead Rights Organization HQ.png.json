@@ -1,0 +1,18 @@
+{
+  "name": "Undead Rights Organization HQ",
+  "type": "location",
+  "generated": "2025-08-15T18:18:30.594Z",
+  "prompt": "fantasy landscape called Undead Rights Organization HQ, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Undead Rights Organization HQ.png.json",
+  "reorganized": "2025-08-15T18:33:01.153Z"
+}

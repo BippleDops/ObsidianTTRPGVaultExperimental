@@ -1,0 +1,18 @@
+{
+  "name": "Parliament Deep District",
+  "type": "map",
+  "generated": "2025-08-15T18:18:10.337Z",
+  "prompt": "fantasy map of Parliament Deep District, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Parliament Deep District.png.json",
+  "reorganized": "2025-08-15T18:33:03.408Z"
+}

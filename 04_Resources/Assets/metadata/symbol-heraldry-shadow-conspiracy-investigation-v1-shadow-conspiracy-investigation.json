@@ -1,0 +1,34 @@
+{
+  "id": "heraldry-shadow-conspiracy-investigation-v1",
+  "type": "symbol",
+  "name": "Shadow Conspiracy Investigation",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Shadow Conspiracy Investigation, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "mysterious",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7004,
+  "alt_text": "Heraldic emblem for Shadow Conspiracy Investigation.",
+  "realm": "aquabyssos",
+  "palette": "seafoam greens",
+  "textPolicy": "no words or inscriptions; pure iconography",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Paint a heroic tabletop fantasy scene reminiscent of D&D 5e set in medieval times, with no sign of modern technology. Characters should be dressed in culturally consistent gear showcasing meticulous detailing in medieval-fantasy materials. They engage in an investigation of the Shadow Conspiracy, symbolized by a heraldic emblem - a piece of simple geometry that bears 2-3 motifs of identity. Images of this emblem may appear in different forms like a seal, a banner, or a coin. Render the collection with a consistent, painterly style. Transition the scene into aquatic fantasy realism. Subsurface caustics illuminate the marine lifeforms adorned with bioluminescent accents. Pressure-dome-like structures made up of an amalgamation of vibrant teals, deep blues, sea-greens, and pearl highlights lay across the fantasy realm. Ensure a balanced composition in the specified aspect and resolution, avoiding any digital artifacts. Refrain from embedding any text or words unless they are meaningful or numbered pins. Steer clear of rendering garbled or random letter strings, sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare. The preferred format is vector SVG.",
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-shadow-conspiracy-investigation-v1-shadow-conspiracy-investigation.png"
+}

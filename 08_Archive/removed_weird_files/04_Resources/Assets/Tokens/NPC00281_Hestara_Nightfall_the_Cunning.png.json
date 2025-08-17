@@ -1,0 +1,19 @@
+{
+  "name": "NPC00281_Hestara_Nightfall_the_Cunning",
+  "type": "token",
+  "generated": "2025-08-15T18:16:05.063Z",
+  "prompt": "character token for NPC00281_Hestara_Nightfall_the_Cunning, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC00281_Hestara_Nightfall_the_Cunning.png.json",
+  "reorganized": "2025-08-15T18:33:11.069Z"
+}

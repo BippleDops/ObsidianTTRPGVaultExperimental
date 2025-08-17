@@ -1,0 +1,32 @@
+{
+  "id": "creature-elemental-spirit-air-xphb-v1",
+  "type": "creature",
+  "name": "elemental-spirit-air-xphb",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Illustration of elemental-spirit-air-xphb, highlight musculature and unique limbs, include human silhouette, three-color palette, underwater/sky/merged zone, depict motion, detailed concept art, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "mysterious",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7032,
+  "alt_text": "Concept art of elemental-spirit-air-xphb with anatomy, scale, and environment.",
+  "realm": "aquabyssos",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create a detailed concept art of an elemental spirit of air, in a style that is reminiscent of a painterly collection, highlighting its unique musculature and limbs. A human silhouette should be prominent in the composition to provide scale. The environment is a fantastical merged zone of sky and underwater realms, painted in a three-color palette of teals, deep blues, and sea-greens. Use a grounded medieval fantasy style, avoiding modern technologies or signage. Ensure an aquatic realism in your depiction, including features such as subsurface caustics and bioluminescent accents. Emphasize the materials resembling a pressure dome, and use pearl highlights to accentuate the detail. Please ensure the image maintains a consistent style, avoids artifacts, features no embedded text unless specified and that any symbols or numbered pins used hold meaning.",
+  "file": "04_Resources/Assets/Creatures/creature-creature-elemental-spirit-air-xphb-v1-elemental-spirit-air-xphb.png"
+}

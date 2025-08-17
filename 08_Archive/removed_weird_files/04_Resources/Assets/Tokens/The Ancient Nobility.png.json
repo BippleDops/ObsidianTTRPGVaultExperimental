@@ -1,0 +1,18 @@
+{
+  "name": "The Ancient Nobility",
+  "type": "token",
+  "generated": "2025-08-15T18:16:26.170Z",
+  "prompt": "character token for The Ancient Nobility, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Tokens/The Ancient Nobility.png.json",
+  "reorganized": "2025-08-15T18:33:12.039Z"
+}

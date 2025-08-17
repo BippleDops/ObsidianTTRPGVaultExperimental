@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Quest - The Crystal Black Market.md",
+      "x": 0,
+      "y": 0,
+      "width": 460,
+      "height": 140
+    },
+    {
+      "id": "n_02-worldbuilding-people-castellan-ironledger-iii-md_300",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Castellan Ironledger III.md",
+      "x": -520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-port-meridian-md_220",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Port Meridian.md",
+      "x": 0,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-the-sunken-markets-md_740",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/The Sunken Markets.md",
+      "x": 520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-crystalhaven-md_120",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Crystalhaven.md",
+      "x": -520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-vex-shadowthorn-md_400",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Vex Shadowthorn.md",
+      "x": 0,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-marcus-shardbreaker-grimm-md_920",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Marcus Shardbreaker Grimm.md",
+      "x": 520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-captain-lyanna-brightshield-md_60",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Captain Lyanna Brightshield.md",
+      "x": -520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-master-artificer-korvin-gearwright-md_580",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Master Artificer Korvin Gearwright.md",
+      "x": 0,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-lord-commander-gareth-steelborn-md_1100",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Lord Commander Gareth Steelborn.md",
+      "x": 520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-queen-seraphina-lumengarde-md_240",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Queen Seraphina Lumengarde.md",
+      "x": -520,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-ambassador-nerida-deepcurrent-md_760",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Ambassador Nerida Deepcurrent.md",
+      "x": 0,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-castellan-ironledger-iii-md_300"
+    },
+    {
+      "id": "e_1",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-port-meridian-md_220"
+    },
+    {
+      "id": "e_2",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-the-sunken-markets-md_740"
+    },
+    {
+      "id": "e_3",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-crystalhaven-md_120"
+    },
+    {
+      "id": "e_4",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-vex-shadowthorn-md_400"
+    },
+    {
+      "id": "e_5",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-marcus-shardbreaker-grimm-md_920"
+    },
+    {
+      "id": "e_6",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-captain-lyanna-brightshield-md_60"
+    },
+    {
+      "id": "e_7",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-master-artificer-korvin-gearwright-md_580"
+    },
+    {
+      "id": "e_8",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-lord-commander-gareth-steelborn-md_1100"
+    },
+    {
+      "id": "e_9",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-queen-seraphina-lumengarde-md_240"
+    },
+    {
+      "id": "e_10",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-ambassador-nerida-deepcurrent-md_760"
+    }
+  ]
+}

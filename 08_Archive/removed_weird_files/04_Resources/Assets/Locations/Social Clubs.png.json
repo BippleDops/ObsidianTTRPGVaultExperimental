@@ -1,0 +1,21 @@
+{
+  "name": "Social Clubs",
+  "type": "location",
+  "generated": "2025-08-15T18:18:19.111Z",
+  "prompt": "fantasy landscape called Social Clubs, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "social",
+    "roleplay",
+    "interaction"
+  ],
+  "location": "04_Resources/Assets/Locations/Social Clubs.png.json",
+  "reorganized": "2025-08-15T18:33:00.929Z"
+}

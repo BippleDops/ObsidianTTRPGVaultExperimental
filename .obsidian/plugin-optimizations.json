@@ -1,0 +1,135 @@
+{
+  "version": "2025.01.25",
+  "description": "Advanced TTRPG Vault Performance Optimizations",
+  "performance_targets": {
+    "vault_load_time": "< 3 seconds",
+    "dataview_query_time": "< 500ms",
+    "search_response_time": "< 200ms",
+    "memory_usage": "< 2GB peak"
+  },
+  
+  "dataview_optimizations": {
+    "refresh_interval": 2000,
+    "enable_inline_queries": true,
+    "enable_js_queries": true,
+    "max_recursive_depth": 4,
+    "index_fields": [
+      "tags",
+      "status", 
+      "session_rating",
+      "influence_score",
+      "faction",
+      "occupation",
+      "location",
+      "date",
+      "created",
+      "modified"
+    ],
+    "cache_results": true,
+    "lazy_loading": true,
+    "pagination_size": 50
+  },
+
+  "bases_optimizations": {
+    "enable_virtualization": true,
+    "items_per_page": 20,
+    "image_lazy_loading": true,
+    "cache_rendered_views": true,
+    "optimize_large_galleries": true,
+    "memory_management": {
+      "max_images_in_memory": 100,
+      "cleanup_interval": 30000,
+      "preload_adjacent_items": 5
+    }
+  },
+
+  "templater_optimizations": {
+    "enable_system_commands": true,
+    "timeout": 10000,
+    "enable_folder_templates": true,
+    "trigger_on_creation": true,
+    "script_timeout": 5000,
+    "cache_user_scripts": true
+  },
+
+  "quickadd_optimizations": {
+    "enable_macro_automation": true,
+    "cache_macros": true,
+    "async_execution": true,
+    "batch_operations": true,
+    "error_recovery": true
+  },
+
+  "search_optimizations": {
+    "index_content": true,
+    "index_headings": true,
+    "index_tags": true,
+    "exclude_paths": [
+      ".obsidian/workspace",
+      ".obsidian/graph.json",
+      ".trash/",
+      "z_Assets/temp/"
+    ],
+    "stemming": true,
+    "fuzzy_matching": true
+  },
+
+  "memory_management": {
+    "image_cache_limit": "500MB",
+    "dataview_cache_limit": "200MB", 
+    "plugin_cache_cleanup": 300000,
+    "file_watcher_debounce": 1000,
+    "auto_garbage_collection": true
+  },
+
+  "ui_responsiveness": {
+    "animation_duration": 200,
+    "scroll_performance": "smooth",
+    "large_file_threshold": 10000,
+    "syntax_highlighting_limit": 50000,
+    "preview_delay": 500
+  },
+
+  "workflow_automations": {
+    "auto_save_interval": 30000,
+    "backup_frequency": "daily",
+    "link_update_batching": true,
+    "tag_autocomplete": true,
+    "relationship_auto_linking": true
+  },
+
+  "advanced_features": {
+    "enable_live_preview": true,
+    "canvas_performance_mode": true,
+    "graph_view_optimizations": {
+      "node_limit": 1000,
+      "physics_enabled": true,
+      "clustering": true,
+      "force_simulation": "optimized"
+    }
+  },
+
+  "session_specific": {
+    "preload_session_npcs": true,
+    "cache_recent_quests": true,
+    "optimize_music_loading": true,
+    "ai_response_caching": true,
+    "relationship_web_caching": 600000
+  },
+
+  "developer_mode": {
+    "console_logging": false,
+    "performance_monitoring": true,
+    "memory_usage_alerts": true,
+    "query_performance_tracking": true,
+    "bottleneck_detection": true
+  },
+
+  "maintenance": {
+    "auto_cleanup_orphaned_images": true,
+    "compress_old_sessions": true,
+    "archive_completed_quests": false,
+    "defrag_database": "weekly",
+    "update_link_integrity": "daily"
+  }
+} 

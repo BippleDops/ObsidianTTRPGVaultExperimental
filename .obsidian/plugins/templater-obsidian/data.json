@@ -1,0 +1,26 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "05_Templates",
+  "templates_pairs": [
+    [
+      "tp",
+      "05_Templates"
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "scripts",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "02_Worldbuilding/Groups",
+      "template": "05_Templates/World Builder Templates/Template-Faction.md"
+    },
+    {
+      "folder": "02_Worldbuilding/Lore",
+      "template": "05_Templates/World Builder Templates/Template-Lore.md"
+    }
+  ]
+}

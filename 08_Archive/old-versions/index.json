@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Underwater_Ambience",
+    "file": "04_Resources/Assets/Audio/Generated/Underwater_Ambience.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Aquabyssos"
+  },
+  {
+    "name": "Airship_Ambience",
+    "file": "04_Resources/Assets/Audio/Generated/Airship_Ambience.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Aethermoor"
+  },
+  {
+    "name": "Market_Ambience",
+    "file": "04_Resources/Assets/Audio/Generated/Market_Ambience.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Generic"
+  },
+  {
+    "name": "Temple_Ambience",
+    "file": "04_Resources/Assets/Audio/Generated/Temple_Ambience.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Generic"
+  },
+  {
+    "name": "Storm_Approach",
+    "file": "04_Resources/Assets/Audio/Generated/Storm_Approach.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Aethermoor"
+  },
+  {
+    "name": "Cavern_Drip",
+    "file": "04_Resources/Assets/Audio/Generated/Cavern_Drip.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Generic"
+  },
+  {
+    "name": "Coral_Reef_Clicks",
+    "file": "04_Resources/Assets/Audio/Generated/Coral_Reef_Clicks.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Aquabyssos"
+  },
+  {
+    "name": "Deep_Trench_Pressure",
+    "file": "04_Resources/Assets/Audio/Generated/Deep_Trench_Pressure.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Aquabyssos"
+  },
+  {
+    "name": "Void_Hum",
+    "file": "04_Resources/Assets/Audio/Generated/Void_Hum.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Void"
+  },
+  {
+    "name": "Sky_Dock_Bustle",
+    "file": "04_Resources/Assets/Audio/Generated/Sky_Dock_Bustle.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Aethermoor"
+  },
+  {
+    "name": "Engine_Room_Thrum",
+    "file": "04_Resources/Assets/Audio/Generated/Engine_Room_Thrum.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Aethermoor"
+  },
+  {
+    "name": "Library_Whisper",
+    "file": "04_Resources/Assets/Audio/Generated/Library_Whisper.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Generic"
+  },
+  {
+    "name": "Tavern_Chatter",
+    "file": "04_Resources/Assets/Audio/Generated/Tavern_Chatter.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Generic"
+  },
+  {
+    "name": "Ritual_Circle_Pulse",
+    "file": "04_Resources/Assets/Audio/Generated/Ritual_Circle_Pulse.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Generic"
+  },
+  {
+    "name": "Shrine_Bell_Air",
+    "file": "04_Resources/Assets/Audio/Generated/Shrine_Bell_Air.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Generic"
+  },
+  {
+    "name": "Lighthouse_Surf_Horn",
+    "file": "04_Resources/Assets/Audio/Generated/Lighthouse_Surf_Horn.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Aquabyssos"
+  },
+  {
+    "name": "Harbor_Night",
+    "file": "04_Resources/Assets/Audio/Generated/Harbor_Night.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Aquabyssos"
+  },
+  {
+    "name": "Kelp_Forest_Sway",
+    "file": "04_Resources/Assets/Audio/Generated/Kelp_Forest_Sway.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Aquabyssos"
+  },
+  {
+    "name": "Trench_Geyser",
+    "file": "04_Resources/Assets/Audio/Generated/Trench_Geyser.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Aquabyssos"
+  },
+  {
+    "name": "Pressure_Dome_Interior",
+    "file": "04_Resources/Assets/Audio/Generated/Pressure_Dome_Interior.wav",
+    "duration_s": 75,
+    "sampleRate": 44100,
+    "world": "Void"
+  }
+]

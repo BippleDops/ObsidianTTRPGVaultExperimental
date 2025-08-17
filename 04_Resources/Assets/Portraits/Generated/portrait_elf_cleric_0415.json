@@ -1,0 +1,16 @@
+{
+  "name": "Elf Cleric 415",
+  "type": "portrait",
+  "race": "elf",
+  "class": "cleric",
+  "gender": "male",
+  "age": "young",
+  "tags": [
+    "portrait",
+    "character",
+    "elf",
+    "cleric",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.744Z"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Creature 21",
+  "type": "creature",
+  "tags": [
+    "creature",
+    "visual",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.657Z",
+  "cr": 20,
+  "size": "tiny"
+}

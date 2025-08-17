@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-08-14T17:51:43.994416",
+  "statistics": {
+    "files_enhanced": 2153,
+    "cross_references_added": 141,
+    "content_enrichments": 3416,
+    "total_connections": 13846
+  },
+  "enhancements": {
+    "npcs_connected": 937,
+    "places_connected": 3417,
+    "organizations_connected": 388
+  }
+}

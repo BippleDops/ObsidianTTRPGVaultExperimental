@@ -1,0 +1,76 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "TTRPG Asset Metadata Schema",
+  "description": "Standardized metadata for vault assets including images, maps, and multimedia",
+  "type": "object",
+  "required": ["id", "title", "kind", "tags", "created"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Unique identifier using lowercase and hyphens"
+    },
+    "title": {
+      "type": "string",
+      "description": "Human-readable title for the asset"
+    },
+    "kind": {
+      "type": "string",
+      "enum": ["portrait", "location", "map", "prop", "creature", "symbol", "handout", "token"],
+      "description": "Primary category of the asset"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9-]+$"
+      },
+      "description": "Searchable tags in lowercase kebab-case"
+    },
+    "brief": {
+      "type": "string",
+      "description": "Art direction or description of the asset"
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Related vault notes using relative paths"
+    },
+    "created": {
+      "type": "string",
+      "format": "date",
+      "description": "Creation date in YYYY-MM-DD format"
+    },
+    "updated": {
+      "type": "string",
+      "format": "date",
+      "description": "Last update date in YYYY-MM-DD format"
+    },
+    "license": {
+      "type": "string",
+      "enum": ["CC0", "CC-BY-4.0", "CC-BY-SA-4.0", "proprietary", "fair-use"],
+      "description": "License or usage rights"
+    },
+    "artist": {
+      "type": "string",
+      "description": "Creator or artist name"
+    },
+    "dimensions": {
+      "type": "object",
+      "properties": {
+        "width": {"type": "integer"},
+        "height": {"type": "integer"}
+      },
+      "description": "Image dimensions in pixels"
+    },
+    "related": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Related vault notes for cross-reference"
+    }
+  }
+}

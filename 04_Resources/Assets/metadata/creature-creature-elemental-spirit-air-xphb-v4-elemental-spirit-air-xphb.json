@@ -1,0 +1,32 @@
+{
+  "id": "creature-elemental-spirit-air-xphb-v4",
+  "type": "creature",
+  "name": "elemental-spirit-air-xphb",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Illustration of elemental-spirit-air-xphb, highlight musculature and unique limbs, include human silhouette, three-color palette, underwater/sky/merged zone, depict motion, detailed concept art, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "hard noon",
+  "mood": "melancholic",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7035,
+  "alt_text": "Concept art of elemental-spirit-air-xphb with anatomy, scale, and environment.",
+  "realm": "aquabyssos",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Imagine a concept art piece in a consistent, painterly style. The scene is a blend of the sky and underwater realms, maintaining a sense of motion and grounded in aquatic realism. The centerpiece is an air elemental spirit from a fantasy tabletop game world, shifting between human silhouette and unique, otherworldly shapes that emphasize its musculature. It's illuminated by bioluminescent accents that further enhance the other-worldliness of its form. The spirit is dressed in culturally coherent medieval fantasy gear, carefully avoiding any semblance of modern technology or signage. The image dabbles in a three-color palette of teals, deep blues, and sea-greens with pearl highlights. Subsurface caustics come into play to suggest an underwater sphere, giving a gentle nod to pressure-dome materials without crossing into the realm of sci-fi UIs or photoreal CGI. There are no symbols, words or random letter strings in the image unless they have a significant meaning to the scene.",
+  "file": "04_Resources/Assets/Creatures/creature-creature-elemental-spirit-air-xphb-v4-elemental-spirit-air-xphb.png"
+}

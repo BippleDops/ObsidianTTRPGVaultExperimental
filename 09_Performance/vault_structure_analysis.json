@@ -1,0 +1,95 @@
+{
+  "issues": {
+    "03_People": [
+      {
+        "type": "naming_convention",
+        "description": "2059 files use 'NPC' prefix in filename",
+        "recommendation": "Use character names as filenames, add 'npc' tag in frontmatter",
+        "example": "NPC00407_Hestara_Dawnstrider.md \u2192 Hestara Dawnstrider.md with tags: [npc, warrior, ally]"
+      }
+    ],
+    "01_Adventures": [
+      {
+        "type": "naming_convention",
+        "description": "197 files use 'QUEST####' prefix",
+        "recommendation": "Use descriptive quest names, add quest type/status in tags",
+        "example": "QUEST00108_Main_Quest_109.md \u2192 The Void Conspiracy.md with tags: [quest, main-quest, active]"
+      },
+      {
+        "type": "duplicate_files",
+        "description": "1262 duplicate files with ' 2' or ' 3' suffix",
+        "recommendation": "Merge duplicate content or use version control",
+        "files": [
+          "Underground Smuggling Networks 2.md",
+          "The Silent Vote 2.md",
+          "Deep Mother Influence 2.md",
+          "Political Intrigue Master Index 2.md",
+          "Quest - Economic Development 2.md"
+        ]
+      }
+    ],
+    "02_Worldbuilding": [
+      {
+        "type": "misplaced_content",
+        "description": "261 files appear to be NPCs in Worldbuilding",
+        "recommendation": "Move character files to 03_People, keep only location/lore here",
+        "examples": [
+          "Political Intrigue Master Index 2.md",
+          "Guild Master Coppe_relocated_1.md",
+          "Master Cultivators Guild.md",
+          "Master Cultivators Guild (Groups).md",
+          "Artisan Guild Master_relocated_1.md"
+        ]
+      }
+    ],
+    "05_Rules": [
+      {
+        "type": "naming_convention",
+        "description": "112 spell files with 'Xphb' suffix",
+        "recommendation": "Use spell name only, add source in tags/frontmatter",
+        "example": "Acid Splash Xphb.md \u2192 Acid Splash.md with tags: [spell, cantrip, xphb]"
+      }
+    ]
+  },
+  "recommendations": {
+    "03_People": [
+      {
+        "structure": "Good - Factions separated in subfolder",
+        "count": 415
+      }
+    ],
+    "06_Sessions": [
+      {
+        "structure": "Good - Using numbered session format",
+        "count": 3
+      }
+    ]
+  },
+  "priorities": {
+    "CRITICAL": [
+      {
+        "folder": "03_People",
+        "action": "Remove NPC prefix from 2089 files",
+        "reason": "Prefixes prevent natural wiki-linking and search",
+        "solution": "Rename to character names, use tags for categorization"
+      }
+    ],
+    "HIGH": [
+      {
+        "folder": "01_Adventures/quests",
+        "action": "Remove QUEST#### prefix from 197 files",
+        "reason": "Numeric prefixes make quests hard to reference",
+        "solution": "Use descriptive names, track quest IDs in frontmatter"
+      }
+    ],
+    "MEDIUM": [
+      {
+        "folder": "02_Worldbuilding",
+        "action": "Move NPC files to 03_People",
+        "reason": "Characters mixed with locations breaks organization",
+        "solution": "Separate people from places for better navigation"
+      }
+    ],
+    "LOW": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "artifact-wind-fan-xdmg-v5",
+  "type": "item",
+  "name": "wind-fan-xdmg",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: wind-fan-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, skyward romantic realism, cloudstone and brass, wind-swept forms, airship motifs, palette: navy, gold, cloud-white, warm sun highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "cinematic",
+  "mood": "heroic",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7262,
+  "alt_text": "Artifact wind-fan-xdmg with materials, runes, and scale.",
+  "realm": "aethermoor",
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Items/item-artifact-wind-fan-xdmg-v5-wind-fan-xdmg.svg"
+}

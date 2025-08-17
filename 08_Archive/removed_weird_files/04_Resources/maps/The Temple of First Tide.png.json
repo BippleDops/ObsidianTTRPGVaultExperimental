@@ -1,0 +1,18 @@
+{
+  "name": "The Temple of First Tide",
+  "type": "map",
+  "generated": "2025-08-15T18:18:28.115Z",
+  "prompt": "fantasy map of The Temple of First Tide, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/The Temple of First Tide.png.json",
+  "reorganized": "2025-08-15T18:33:03.725Z"
+}

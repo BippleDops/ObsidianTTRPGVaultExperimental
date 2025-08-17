@@ -1,0 +1,46 @@
+{
+  "name": "Battle Map 44",
+  "type": "map",
+  "mapType": "battle",
+  "gridSize": "25x25",
+  "scale": "5ft per square",
+  "tags": [
+    "map",
+    "battle",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 72.2618641478937,
+      "y": 29.865359147341287,
+      "type": "town"
+    },
+    {
+      "name": "Location 2",
+      "x": 58.520617679128115,
+      "y": 77.91866941007055,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 3",
+      "x": 83.92926791092822,
+      "y": 96.2667044856757,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 4",
+      "x": 76.73854229820961,
+      "y": 43.74073623219144,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 5",
+      "x": 84.27267096239481,
+      "y": 26.108421829420024,
+      "type": "dungeon"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.570Z"
+}

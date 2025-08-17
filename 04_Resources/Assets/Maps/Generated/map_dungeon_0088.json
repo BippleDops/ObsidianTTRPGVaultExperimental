@@ -1,0 +1,46 @@
+{
+  "name": "Dungeon Map 88",
+  "type": "map",
+  "mapType": "dungeon",
+  "gridSize": null,
+  "scale": "1:100",
+  "tags": [
+    "map",
+    "dungeon",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 89.0276719633928,
+      "y": 42.58734919257153,
+      "type": "city"
+    },
+    {
+      "name": "Location 2",
+      "x": 25.427772198936328,
+      "y": 7.3894067626472,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 3",
+      "x": 70.55338790111499,
+      "y": 72.82032430088744,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 4",
+      "x": 42.68111543555566,
+      "y": 25.10014236495045,
+      "type": "town"
+    },
+    {
+      "name": "Location 5",
+      "x": 73.3554006606755,
+      "y": 80.45778943449852,
+      "type": "landmark"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.594Z"
+}

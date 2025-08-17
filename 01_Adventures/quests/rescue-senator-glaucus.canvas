@@ -1,0 +1,351 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Rescue Senator Glaucus.md",
+      "x": 0,
+      "y": 0,
+      "width": 460,
+      "height": 140
+    },
+    {
+      "id": "n_02-worldbuilding-places-the-sunken-markets-md_300",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/The Sunken Markets.md",
+      "x": -520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-parliament-of-echoes-md_220",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Parliament of Echoes.md",
+      "x": 0,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-smuggler-s-cove-md_740",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Smuggler's Cove.md",
+      "x": 520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-aquabyssos-md_120",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Aquabyssos.md",
+      "x": -520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-senator-glaucus-md_400",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Senator Glaucus.md",
+      "x": 0,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-aethermoor-md_920",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Aethermoor.md",
+      "x": 520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-shadow-surgeons-collective-md_60",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/Shadow Surgeons Collective.md",
+      "x": -520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-pressure-tubes-md_580",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Pressure Tubes.md",
+      "x": 0,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-shadow-merchant-riptide-md_1100",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Shadow Merchant Riptide.md",
+      "x": 520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-memory-merchant-zephyr-mindweaver-md_240",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver.md",
+      "x": -520,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-commander-drake-pressureborn-md_760",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Commander Drake Pressureborn.md",
+      "x": 0,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-mediator-serenity-stillwater-md_1280",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Mediator Serenity Stillwater.md",
+      "x": 520,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-admiral-thorne-blackwater-md_420",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Admiral Thorne Blackwater.md",
+      "x": -520,
+      "y": 940,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-vault-keeper-eternal-md_940",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Vault Keeper Eternal.md",
+      "x": 0,
+      "y": 940,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-pressure-tube-terminal-md_1460",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Pressure Tube Terminal.md",
+      "x": 520,
+      "y": 940,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-the-depth-market-md_600",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/The Depth Market.md",
+      "x": -520,
+      "y": 1120,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-shadow-market-canals-md_1120",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Shadow Market Canals.md",
+      "x": 0,
+      "y": 1120,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-current-riders-guild-md_1640",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Current Riders Guild.md",
+      "x": 520,
+      "y": 1120,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-coral-throne-syndicate-md_780",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Coral Throne Syndicate.md",
+      "x": -520,
+      "y": 1300,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-the-cerulean-trench-md_1300",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/The Cerulean Trench.md",
+      "x": 0,
+      "y": 1300,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-abyssos-prime-md_1820",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Abyssos Prime.md",
+      "x": 520,
+      "y": 1300,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-thieves-guild-md_960",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/Thieves Guild.md",
+      "x": -520,
+      "y": 1480,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-depth-wardens-md_1480",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Depth Wardens.md",
+      "x": 0,
+      "y": 1480,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-the-archive-of-unremembered-things-md_2000",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/The Archive of Unremembered Things.md",
+      "x": 520,
+      "y": 1480,
+      "width": 380,
+      "height": 120
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-the-sunken-markets-md_300"
+    },
+    {
+      "id": "e_1",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-parliament-of-echoes-md_220"
+    },
+    {
+      "id": "e_2",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-smuggler-s-cove-md_740"
+    },
+    {
+      "id": "e_3",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-aquabyssos-md_120"
+    },
+    {
+      "id": "e_4",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-senator-glaucus-md_400"
+    },
+    {
+      "id": "e_5",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-aethermoor-md_920"
+    },
+    {
+      "id": "e_6",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-shadow-surgeons-collective-md_60"
+    },
+    {
+      "id": "e_7",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-pressure-tubes-md_580"
+    },
+    {
+      "id": "e_8",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-shadow-merchant-riptide-md_1100"
+    },
+    {
+      "id": "e_9",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-memory-merchant-zephyr-mindweaver-md_240"
+    },
+    {
+      "id": "e_10",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-commander-drake-pressureborn-md_760"
+    },
+    {
+      "id": "e_11",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-mediator-serenity-stillwater-md_1280"
+    },
+    {
+      "id": "e_12",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-admiral-thorne-blackwater-md_420"
+    },
+    {
+      "id": "e_13",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-vault-keeper-eternal-md_940"
+    },
+    {
+      "id": "e_14",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-pressure-tube-terminal-md_1460"
+    },
+    {
+      "id": "e_15",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-the-depth-market-md_600"
+    },
+    {
+      "id": "e_16",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-shadow-market-canals-md_1120"
+    },
+    {
+      "id": "e_17",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-current-riders-guild-md_1640"
+    },
+    {
+      "id": "e_18",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-coral-throne-syndicate-md_780"
+    },
+    {
+      "id": "e_19",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-the-cerulean-trench-md_1300"
+    },
+    {
+      "id": "e_20",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-abyssos-prime-md_1820"
+    },
+    {
+      "id": "e_21",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-thieves-guild-md_960"
+    },
+    {
+      "id": "e_22",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-depth-wardens-md_1480"
+    },
+    {
+      "id": "e_23",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-the-archive-of-unremembered-things-md_2000"
+    }
+  ]
+}

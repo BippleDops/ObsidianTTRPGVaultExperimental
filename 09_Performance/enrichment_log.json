@@ -1,0 +1,608 @@
+{
+  "timestamp": "2025-08-16T11:56:16.504267",
+  "files_enriched": 988,
+  "links_added": 1,
+  "total_expansion": 511377,
+  "details": [
+    {
+      "file": "03_People/The Coral Throne 2.md",
+      "original_size": 1963,
+      "new_size": 2785,
+      "expansion": 822
+    },
+    {
+      "file": "03_People/00_NPC_Master_Database.md",
+      "original_size": 1535,
+      "new_size": 2275,
+      "expansion": 740
+    },
+    {
+      "file": "03_People/NPC3.md",
+      "original_size": 3745,
+      "new_size": 3958,
+      "expansion": 213
+    },
+    {
+      "file": "03_People/NPC Name 2.md",
+      "original_size": 3444,
+      "new_size": 3653,
+      "expansion": 209
+    },
+    {
+      "file": "03_People/NPC01586_Kaelen_Proudmore_the_Lost.md",
+      "original_size": 4466,
+      "new_size": 4657,
+      "expansion": 191
+    },
+    {
+      "file": "03_People/NPC00709_Urien_Youngblood_the_Risen.md",
+      "original_size": 4542,
+      "new_size": 4737,
+      "expansion": 195
+    },
+    {
+      "file": "03_People/NPC00679_Qadim_Grimholt_the_Fallen.md",
+      "original_size": 4473,
+      "new_size": 4656,
+      "expansion": 183
+    },
+    {
+      "file": "03_People/NPC01909_Hilda_Quicksilver_the_Mystic.md",
+      "original_size": 4829,
+      "new_size": 5026,
+      "expansion": 197
+    },
+    {
+      "file": "03_People/NPC0129_Jora_Darkwater.md",
+      "original_size": 4045,
+      "new_size": 4240,
+      "expansion": 195
+    },
+    {
+      "file": "03_People/NPC00698_Dara_Oakenshield_the_Swift.md",
+      "original_size": 4309,
+      "new_size": 4507,
+      "expansion": 198
+    },
+    {
+      "file": "03_People/NPC00221_Erasmus_Oakenshield.md",
+      "original_size": 4401,
+      "new_size": 4602,
+      "expansion": 201
+    },
+    {
+      "file": "03_People/NPC01759_Felicia_Emberfall_the_Bold.md",
+      "original_size": 4791,
+      "new_size": 5004,
+      "expansion": 213
+    },
+    {
+      "file": "03_People/NPC0049_Jora_Ironforge.md",
+      "original_size": 4244,
+      "new_size": 4448,
+      "expansion": 204
+    },
+    {
+      "file": "03_People/NPC00353_Ysara_Moonshadow_the_Strong.md",
+      "original_size": 4931,
+      "new_size": 5135,
+      "expansion": 204
+    },
+    {
+      "file": "03_People/NPC00156_Gareth_Winterborn_the_Guardian.md",
+      "original_size": 4634,
+      "new_size": 4832,
+      "expansion": 198
+    },
+    {
+      "file": "03_People/NPC01032_Urien_Voidwalker_the_Bold.md",
+      "original_size": 4450,
+      "new_size": 4665,
+      "expansion": 215
+    },
+    {
+      "file": "03_People/NPC00561_Felicia_Youngblood_the_Swift.md",
+      "original_size": 4753,
+      "new_size": 4966,
+      "expansion": 213
+    },
+    {
+      "file": "03_People/NPC00611_Thalia_Keenblade_the_Mystic.md",
+      "original_size": 4854,
+      "new_size": 5040,
+      "expansion": 186
+    },
+    {
+      "file": "03_People/NPC00641_Vesper_Zephyrblade_the_Guardian.md",
+      "original_size": 4830,
+      "new_size": 5034,
+      "expansion": 204
+    },
+    {
+      "file": "03_People/NPC01840_Aldric_Nightfall_the_Risen.md",
+      "original_size": 4744,
+      "new_size": 4924,
+      "expansion": 180
+    },
+    {
+      "file": "03_People/NPC01652_Nerys_Winterborn_the_Fallen.md",
+      "original_size": 4851,
+      "new_size": 5048,
+      "expansion": 197
+    },
+    {
+      "file": "03_People/NPC00427_Urien_Xendar.md",
+      "original_size": 4337,
+      "new_size": 4546,
+      "expansion": 209
+    },
+    {
+      "file": "03_People/NPC01083_Zephyr_Nightfall_the_Cunning.md",
+      "original_size": 4509,
+      "new_size": 4710,
+      "expansion": 201
+    },
+    {
+      "file": "03_People/NPC00331_Aldric_Frostwhisper_the_Bold.md",
+      "original_size": 4952,
+      "new_size": 5150,
+      "expansion": 198
+    },
+    {
+      "file": "03_People/NPC00558_Malakai_Frostwhisper_the_Mystic.md",
+      "original_size": 4621,
+      "new_size": 4821,
+      "expansion": 200
+    },
+    {
+      "file": "03_People/NPC00902_Delara_Underhill_the_Seeker.md",
+      "original_size": 4739,
+      "new_size": 4930,
+      "expansion": 191
+    },
+    {
+      "file": "03_People/Lord Vex.md",
+      "original_size": 1991,
+      "new_size": 2186,
+      "expansion": 195
+    },
+    {
+      "file": "03_People/NPC01525_Rhiannon_Emberfall_the_Scholar.md",
+      "original_size": 4668,
+      "new_size": 4873,
+      "expansion": 205
+    },
+    {
+      "file": "03_People/NPC0092_Magnus_Goldleaf.md",
+      "original_size": 4150,
+      "new_size": 4345,
+      "expansion": 195
+    },
+    {
+      "file": "03_People/NPC0038_Nathaniel_Stormwind.md",
+      "original_size": 4713,
+      "new_size": 4911,
+      "expansion": 198
+    },
+    {
+      "file": "03_People/NPC00624_Hestara_Stormwind_the_Wanderer.md",
+      "original_size": 4970,
+      "new_size": 5172,
+      "expansion": 202
+    },
+    {
+      "file": "03_People/NPC00699_Pyria_Darkwater_the_Wise.md",
+      "original_size": 4705,
+      "new_size": 4900,
+      "expansion": 195
+    },
+    {
+      "file": "03_People/NPC00933_Drusilla_Voidwalker_the_Seeker.md",
+      "original_size": 4802,
+      "new_size": 4993,
+      "expansion": 191
+    },
+    {
+      "file": "03_People/NPC01876_Malakai_Darkwater_the_Risen.md",
+      "original_size": 4572,
+      "new_size": 4767,
+      "expansion": 195
+    },
+    {
+      "file": "03_People/NPC00288_Branwen_Ashford_the_Seeker.md",
+      "original_size": 4605,
+      "new_size": 4798,
+      "expansion": 193
+    },
+    {
+      "file": "03_People/NPC0154_Jasper_Darkwater.md",
+      "original_size": 4058,
+      "new_size": 4245,
+      "expansion": 187
+    },
+    {
+      "file": "03_People/NPC00830_Hilda_Frostwhisper_the_Scholar.md",
+      "original_size": 4641,
+      "new_size": 4838,
+      "expansion": 197
+    },
+    {
+      "file": "03_People/NPC0020_Ulric_Stormwind.md",
+      "original_size": 4598,
+      "new_size": 4802,
+      "expansion": 204
+    },
+    {
+      "file": "03_People/NPC01975_Kaelen_Nightfall_the_Lost.md",
+      "original_size": 4628,
+      "new_size": 4815,
+      "expansion": 187
+    },
+    {
+      "file": "03_People/Archive Keeper Memoria Vaultmind.md",
+      "original_size": 2032,
+      "new_size": 2238,
+      "expansion": 206
+    },
+    {
+      "file": "03_People/NPC00007_Lyanna_Voidwalker.md",
+      "original_size": 4807,
+      "new_size": 5007,
+      "expansion": 200
+    },
+    {
+      "file": "03_People/NPC01549_Hestara_Keenblade_the_Redeemed.md",
+      "original_size": 4784,
+      "new_size": 4989,
+      "expansion": 205
+    },
+    {
+      "file": "03_People/NPC00150_Nerys_Proudmore_the_Redeemed.md",
+      "original_size": 4218,
+      "new_size": 4411,
+      "expansion": 193
+    },
+    {
+      "file": "03_People/NPC00506_Pyria_Silverleaf_the_Scholar.md",
+      "original_size": 4271,
+      "new_size": 4469,
+      "expansion": 198
+    },
+    {
+      "file": "03_People/NPC00651_Pyria_Winterborn_the_Risen.md",
+      "original_size": 4316,
+      "new_size": 4516,
+      "expansion": 200
+    },
+    {
+      "file": "03_People/NPC00138_Nerys_Ravenheart_the_Risen.md",
+      "original_size": 4746,
+      "new_size": 4942,
+      "expansion": 196
+    },
+    {
+      "file": "03_People/NPC01157_Urien_Ravenheart_the_Scholar.md",
+      "original_size": 4589,
+      "new_size": 4776,
+      "expansion": 187
+    },
+    {
+      "file": "03_People/NPC01291_Xander_Thornweave_the_Risen.md",
+      "original_size": 4896,
+      "new_size": 5087,
+      "expansion": 191
+    },
+    {
+      "file": "03_People/NPC0188_Cormac_Brightblade.md",
+      "original_size": 3860,
+      "new_size": 4044,
+      "expansion": 184
+    },
+    {
+      "file": "03_People/NPC01306_Lyanna_Grimholt_the_Redeemed.md",
+      "original_size": 4943,
+      "new_size": 5138,
+      "expansion": 195
+    },
+    {
+      "file": "03_People/NPC00172_Urien_Zephyrblade_the_Lost.md",
+      "original_size": 4811,
+      "new_size": 5015,
+      "expansion": 204
+    },
+    {
+      "file": "03_People/NPC00110_Aldric_Emberfall.md",
+      "original_size": 4887,
+      "new_size": 5081,
+      "expansion": 194
+    },
+    {
+      "file": "03_People/NPC01121_Malakai_Thornweave_the_Scholar.md",
+      "original_size": 4743,
+      "new_size": 4944,
+      "expansion": 201
+    },
+    {
+      "file": "03_People/NPC01033_Rhiannon_Voidwalker_the_Seeker.md",
+      "original_size": 4537,
+      "new_size": 4738,
+      "expansion": 201
+    },
+    {
+      "file": "03_People/NPC00528_Gavril_Lightbringer_the_Strong.md",
+      "original_size": 4423,
+      "new_size": 4614,
+      "expansion": 191
+    },
+    {
+      "file": "03_People/NPC01855_Thalia_Grimholt_the_Redeemed.md",
+      "original_size": 4783,
+      "new_size": 4980,
+      "expansion": 197
+    },
+    {
+      "file": "03_People/Aquabyssos_Character_Creation_relocated_1.md",
+      "original_size": 4149,
+      "new_size": 4153,
+      "expansion": 4
+    },
+    {
+      "file": "03_People/NPC01684_Idris_Emberfall_the_Broken.md",
+      "original_size": 4861,
+      "new_size": 5044,
+      "expansion": 183
+    },
+    {
+      "file": "03_People/NPC01087_Orion_Winterborn_the_Scholar.md",
+      "original_size": 4910,
+      "new_size": 5109,
+      "expansion": 199
+    },
+    {
+      "file": "03_People/NPC00390_Hestara_Youngblood_the_Guardian.md",
+      "original_size": 4982,
+      "new_size": 5184,
+      "expansion": 202
+    },
+    {
+      "file": "03_People/NPC0079_Ophelia_Ironforge.md",
+      "original_size": 4160,
+      "new_size": 4369,
+      "expansion": 209
+    },
+    {
+      "file": "03_People/NPC01918_Malakai_Proudmore_the_Redeemed.md",
+      "original_size": 4546,
+      "new_size": 4744,
+      "expansion": 198
+    },
+    {
+      "file": "03_People/NPC00857_Solas_Crystalbrook_the_Bold.md",
+      "original_size": 3669,
+      "new_size": 4249,
+      "expansion": 580
+    },
+    {
+      "file": "03_People/NPC01561_Orion_Oakenshield_the_Cunning.md",
+      "original_size": 3895,
+      "new_size": 4519,
+      "expansion": 624
+    },
+    {
+      "file": "03_People/NPC00979_Pyria_Nightfall_the_Seeker.md",
+      "original_size": 3705,
+      "new_size": 4299,
+      "expansion": 594
+    },
+    {
+      "file": "03_People/NPC00442_Delara_Voidwalker_the_Strong.md",
+      "original_size": 3861,
+      "new_size": 4442,
+      "expansion": 581
+    },
+    {
+      "file": "03_People/NPC01101_Kaelen_Proudmore_the_Mystic.md",
+      "original_size": 3552,
+      "new_size": 4180,
+      "expansion": 628
+    },
+    {
+      "file": "03_People/NPC00203_Qadim_Crystalbrook_the_Strong.md",
+      "original_size": 3773,
+      "new_size": 4339,
+      "expansion": 566
+    },
+    {
+      "file": "03_People/NPC00049_Hilda_Oakenshield_the_Bold.md",
+      "original_size": 3612,
+      "new_size": 4229,
+      "expansion": 617
+    },
+    {
+      "file": "03_People/NPC01139_Nerys_Proudmore_the_Broken.md",
+      "original_size": 3339,
+      "new_size": 3903,
+      "expansion": 564
+    },
+    {
+      "file": "03_People/NPC01611_Gavril_Ironwood_the_Wise.md",
+      "original_size": 3996,
+      "new_size": 4559,
+      "expansion": 563
+    },
+    {
+      "file": "03_People/NPC00330_Gavril_Hawthorne.md",
+      "original_size": 3731,
+      "new_size": 4268,
+      "expansion": 537
+    },
+    {
+      "file": "03_People/NPC00419_Malakai_Grimholt_the_Cunning.md",
+      "original_size": 3320,
+      "new_size": 3957,
+      "expansion": 637
+    },
+    {
+      "file": "03_People/NPC0071_Freya_Ironforge.md",
+      "original_size": 3643,
+      "new_size": 3833,
+      "expansion": 190
+    },
+    {
+      "file": "03_People/NPC00899_Lyanna_Oakenshield_the_Fallen.md",
+      "original_size": 3385,
+      "new_size": 4001,
+      "expansion": 616
+    },
+    {
+      "file": "03_People/NPC01246_Idris_Dawnstrider_the_Broken.md",
+      "original_size": 3583,
+      "new_size": 4159,
+      "expansion": 576
+    },
+    {
+      "file": "03_People/NPC00817_Malakai_Silverleaf_the_Wanderer.md",
+      "original_size": 3594,
+      "new_size": 4224,
+      "expansion": 630
+    },
+    {
+      "file": "03_People/NPC01635_Vesper_Ironforge_the_Cunning.md",
+      "original_size": 3595,
+      "new_size": 4171,
+      "expansion": 576
+    },
+    {
+      "file": "03_People/NPC00544_Jorah_Goldleaf_the_Strong.md",
+      "original_size": 3673,
+      "new_size": 4280,
+      "expansion": 607
+    },
+    {
+      "file": "03_People/NPC01706_Cedric_Jadeclaw_the_Fallen.md",
+      "original_size": 3744,
+      "new_size": 4307,
+      "expansion": 563
+    },
+    {
+      "file": "03_People/NPC00264_Gareth_Darkwater.md",
+      "original_size": 3337,
+      "new_size": 3926,
+      "expansion": 589
+    },
+    {
+      "file": "03_People/NPC0005_Fiora_Stormwind.md",
+      "original_size": 3281,
+      "new_size": 3478,
+      "expansion": 197
+    },
+    {
+      "file": "03_People/NPC01249_Faelyn_Zephyrblade_the_Wanderer.md",
+      "original_size": 3851,
+      "new_size": 4456,
+      "expansion": 605
+    },
+    {
+      "file": "03_People/NPC00009_Caelum_Ironforge_the_Redeemed.md",
+      "original_size": 3548,
+      "new_size": 4156,
+      "expansion": 608
+    },
+    {
+      "file": "03_People/NPC00687_Brenna_Proudmore_the_Fallen.md",
+      "original_size": 3445,
+      "new_size": 4059,
+      "expansion": 614
+    },
+    {
+      "file": "03_People/NPC01512_Aldric_Silverleaf_the_Bold.md",
+      "original_size": 3351,
+      "new_size": 3930,
+      "expansion": 579
+    },
+    {
+      "file": "03_People/NPC0134_Osric_Darkwater.md",
+      "original_size": 3461,
+      "new_size": 3662,
+      "expansion": 201
+    },
+    {
+      "file": "03_People/NPC01207_Orion_Thornweave_the_Wanderer.md",
+      "original_size": 3535,
+      "new_size": 4107,
+      "expansion": 572
+    },
+    {
+      "file": "03_People/NPC0023_Xara_Stormwind_the_Just.md",
+      "original_size": 3280,
+      "new_size": 3478,
+      "expansion": 198
+    },
+    {
+      "file": "03_People/NPC01392_Idris_Oakenshield_the_Mystic.md",
+      "original_size": 3361,
+      "new_size": 3938,
+      "expansion": 577
+    },
+    {
+      "file": "03_People/NPC00155_Hilda_Thornweave.md",
+      "original_size": 3682,
+      "new_size": 4272,
+      "expansion": 590
+    },
+    {
+      "file": "03_People/NPC01499_Pyria_Darkwater_the_Lost.md",
+      "original_size": 3803,
+      "new_size": 4413,
+      "expansion": 610
+    },
+    {
+      "file": "03_People/NPC00003_Rhiannon_Emberfall_the_Seeker.md",
+      "original_size": 3504,
+      "new_size": 4131,
+      "expansion": 627
+    },
+    {
+      "file": "03_People/NPC01413_Alaric_Winterborn_the_Guardian.md",
+      "original_size": 4132,
+      "new_size": 4760,
+      "expansion": 628
+    },
+    {
+      "file": "03_People/NPC00199_Ewan_Ashford.md",
+      "original_size": 3480,
+      "new_size": 4038,
+      "expansion": 558
+    },
+    {
+      "file": "03_People/NPC0084_Ewan_Goldleaf.md",
+      "original_size": 3338,
+      "new_size": 3544,
+      "expansion": 206
+    },
+    {
+      "file": "03_People/NPC01981_Zephyr_Silverleaf_the_Scholar.md",
+      "original_size": 3884,
+      "new_size": 4504,
+      "expansion": 620
+    },
+    {
+      "file": "03_People/NPC01191_Felicia_Quicksilver_the_Swift.md",
+      "original_size": 3401,
+      "new_size": 4030,
+      "expansion": 629
+    },
+    {
+      "file": "03_People/NPC01004_Ewan_Ravenheart_the_Scholar.md",
+      "original_size": 3734,
+      "new_size": 4327,
+      "expansion": 593
+    },
+    {
+      "file": "03_People/NPC0151_Freya_Darkwater.md",
+      "original_size": 3510,
+      "new_size": 3708,
+      "expansion": 198
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Orc Mage 45",
+  "type": "portrait",
+  "race": "orc",
+  "class": "mage",
+  "gender": "female",
+  "age": "adult",
+  "tags": [
+    "portrait",
+    "character",
+    "orc",
+    "mage",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.571Z"
+}

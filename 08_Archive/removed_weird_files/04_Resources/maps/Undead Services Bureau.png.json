@@ -1,0 +1,18 @@
+{
+  "name": "Undead Services Bureau",
+  "type": "map",
+  "generated": "2025-08-15T18:18:30.697Z",
+  "prompt": "fantasy map of Undead Services Bureau, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Undead Services Bureau.png.json",
+  "reorganized": "2025-08-15T18:33:03.769Z"
+}

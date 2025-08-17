@@ -1,0 +1,46 @@
+{
+  "name": "Battle Map 309",
+  "type": "map",
+  "mapType": "battle",
+  "gridSize": "25x25",
+  "scale": "5ft per square",
+  "tags": [
+    "map",
+    "battle",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 32.64642349746808,
+      "y": 37.72566429299628,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 2",
+      "x": 6.333747075524165,
+      "y": 45.36706589456877,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 3",
+      "x": 2.7995700868648665,
+      "y": 69.48447451410105,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 4",
+      "x": 6.982064536820742,
+      "y": 2.3269259453432944,
+      "type": "city"
+    },
+    {
+      "name": "Location 5",
+      "x": 23.950791659313087,
+      "y": 99.99083264235539,
+      "type": "town"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.696Z"
+}

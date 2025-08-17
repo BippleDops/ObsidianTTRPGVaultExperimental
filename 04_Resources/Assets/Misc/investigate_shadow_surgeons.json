@@ -1,0 +1,22 @@
+{
+  "title": "Investigate Shadow Surgeons",
+  "prompt": "Investigate shadow surgeons, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, shadow",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:45:24.171Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Criminal_Organizations/Investigate Shadow Surgeons.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/investigate_shadow_surgeons.json",
+  "reorganized": "2025-08-15T18:33:07.493Z"
+}

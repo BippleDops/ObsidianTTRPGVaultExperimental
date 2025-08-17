@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Initiative Tracker</title>
+    <style>
+        body { font-family: Arial; margin: 20px; background: #2e2e2e; color: #fff; }
+        .container { max-width: 600px; margin: auto; }
+        .character { 
+            background: #3e3e3e; 
+            padding: 10px; 
+            margin: 5px 0; 
+            border-radius: 5px;
+            display: flex;
+            justify-content: space-between;
+        }
+        .current { background: #4a4a6a; border: 2px solid #7a7aaa; }
+        button { 
+            background: #5a5a8a; 
+            color: white; 
+            border: none; 
+            padding: 5px 10px; 
+            border-radius: 3px;
+            cursor: pointer;
+        }
+        button:hover { background: #6a6a9a; }
+        input { 
+            background: #4e4e4e; 
+            color: white; 
+            border: 1px solid #6e6e6e;
+            padding: 5px;
+            margin: 5px;
+        }
+        h1 { color: #9a9aca; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Combat Initiative Tracker</h1>
+        
+        <div>
+            <input type="text" id="charName" placeholder="Character Name">
+            <input type="number" id="initiative" placeholder="Initiative">
+            <input type="number" id="hp" placeholder="HP">
+            <button onclick="addCharacter()">Add</button>
+        </div>
+        
+        <div id="tracker"></div>
+        
+        <div style="margin-top: 20px;">
+            <button onclick="nextTurn()">Next Turn</button>
+            <button onclick="sortInitiative()">Sort by Initiative</button>
+            <button onclick="clearAll()">Clear All</button>
+        </div>
+        
+        <div style="margin-top: 20px;">
+            <strong>Round: <span id="round">1</span></strong>
+        </div>
+    </div>
+    
+    <script>
+        let characters = [];
+        let currentIndex = 0;
+        let round = 1;
+        
+        function addCharacter() {
+            const name = document.getElementById('charName').value;
+            const init = parseInt(document.getElementById('initiative').value);
+            const hp = parseInt(document.getElementById('hp').value);
+            
+            if (name && !isNaN(init)) {
+                characters.push({
+                    name: name,
+                    initiative: init,
+                    hp: hp || 0,
+                    maxHp: hp || 0
+                });
+                
+                document.getElementById('charName').value = '';
+                document.getElementById('initiative').value = '';
+                document.getElementById('hp').value = '';
+                
+                updateDisplay();
+            }
+        }
+        
+        function updateDisplay() {
+            const tracker = document.getElementById('tracker');
+            tracker.innerHTML = '';
+            
+            characters.forEach((char, index) => {
+                const div = document.createElement('div');
+                div.className = 'character' + (index === currentIndex ? ' current' : '');
+                div.innerHTML = `
+                    <span>${char.name} (Init: ${char.initiative})</span>
+                    <span>HP: ${char.hp}/${char.maxHp}</span>
+                    <button onclick="removeCharacter(${index})">Remove</button>
+                `;
+                tracker.appendChild(div);
+            });
+        }
+        
+        function nextTurn() {
+            currentIndex = (currentIndex + 1) % characters.length;
+            if (currentIndex === 0 && characters.length > 0) {
+                round++;
+                document.getElementById('round').textContent = round;
+            }
+            updateDisplay();
+        }
+        
+        function sortInitiative() {
+            characters.sort((a, b) => b.initiative - a.initiative);
+            currentIndex = 0;
+            updateDisplay();
+        }
+        
+        function removeCharacter(index) {
+            characters.splice(index, 1);
+            if (currentIndex >= characters.length) {
+                currentIndex = 0;
+            }
+            updateDisplay();
+        }
+        
+        function clearAll() {
+            characters = [];
+            currentIndex = 0;
+            round = 1;
+            document.getElementById('round').textContent = round;
+            updateDisplay();
+        }
+    </script>
+</body>
+</html>

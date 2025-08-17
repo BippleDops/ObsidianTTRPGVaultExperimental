@@ -1,0 +1,18 @@
+{
+  "name": "Goldwave Family Ring",
+  "type": "item",
+  "generated": "2025-08-15T18:19:06.509Z",
+  "prompt": "magical ring called Goldwave Family Ring, detailed item, glowing effects, fantasy artifact",
+  "status": "pending_generation",
+  "tags": [
+    "item",
+    "equipment-art",
+    "object",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Items/Goldwave Family Ring.png.json",
+  "reorganized": "2025-08-15T18:32:57.591Z"
+}

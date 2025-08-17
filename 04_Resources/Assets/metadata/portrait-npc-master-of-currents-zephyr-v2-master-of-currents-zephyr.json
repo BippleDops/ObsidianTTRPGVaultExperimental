@@ -1,0 +1,29 @@
+{
+  "id": "npc-master-of-currents-zephyr-v2",
+  "type": "portrait",
+  "name": "Master of Currents Zephyr",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Portrait of Master of Currents Zephyr, notable figure of Aquabyssos/Aethermoor, human, adult, realm-specific attire, character-driven emotion, memorable traits, signature environment, painterly fantasy realism, consistent collection style, readable at small sizes, skyward romantic realism, cloudstone and brass, wind-swept forms, airship motifs, painterly character emphasis, palette: navy, gold, cloud-white, warm sun highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "16:9",
+  "resolution": "2560x1440",
+  "style": [
+    "painterly",
+    "fantasy realism"
+  ],
+  "lighting": "rim-lit",
+  "mood": "solemn",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7090,
+  "alt_text": "Portrait of Master of Currents Zephyr with evocative background; clear features readable at token size.",
+  "realm": "aethermoor",
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Portraits/portrait-npc-master-of-currents-zephyr-v2-master-of-currents-zephyr.svg"
+}

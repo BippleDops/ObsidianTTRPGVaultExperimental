@@ -1,0 +1,29 @@
+{
+  "id": "city-navigator-sage-driftwood-v1",
+  "type": "location",
+  "name": "Navigator Sage Driftwood",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Panoramic view of Navigator Sage Driftwood, bioluminescent coral or cloudstone, weather cues and particles, golden hour / night glow / storm, figures/vehicles for scale, cinematic concept art, cosmic surrealism, impossible geometries, starfield grain, indigo glows, cinematic atmosphere, palette: indigos, violets, black, cold silver, Use specified aspect/resolution; avoid artifacts., Avoid readable signage or paragraphs; use iconography or blank signboards. No embedded words., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "mysterious",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7110,
+  "alt_text": "Cinematic view of Navigator Sage Driftwood with architecture and inhabitants.",
+  "realm": "void",
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-navigator-sage-driftwood-v1-navigator-sage-driftwood.svg"
+}

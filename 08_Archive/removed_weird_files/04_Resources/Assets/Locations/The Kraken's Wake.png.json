@@ -1,0 +1,18 @@
+{
+  "name": "The Kraken's Wake",
+  "type": "location",
+  "generated": "2025-08-15T18:18:24.900Z",
+  "prompt": "fantasy landscape called The Kraken's Wake, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/The Kraken's Wake.png.json",
+  "reorganized": "2025-08-15T18:33:01.046Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "type": "ship-registry",
+  "ships": [
+    {
+      "id": "sample-coral-leviathan",
+      "name": "Reefmother",
+      "world": "Aquabyssos",
+      "class": "Cruiser",
+      "scale": "Large",
+      "hull": 220,
+      "ac": 16,
+      "speed": 40,
+      "maneuver": 2,
+      "crew": { "min": 18, "optimal": 28, "max": 50 },
+      "power": { "bio": 5, "crystal": 2, "memory": 1 },
+      "sanityThreshold": 18,
+      "rsb": 3,
+      "anchors": 2,
+      "slots": { "bio": 3, "crystal": 2, "pressure": 2, "memory": 1, "shrine": 1 },
+      "specials": ["Reef Regeneration", "Pressure Choir"],
+      "charts": ["A1 Reefway", "C3 Maelstrom Edge"],
+      "faction": "Tidal Council"
+    }
+  ]
+}

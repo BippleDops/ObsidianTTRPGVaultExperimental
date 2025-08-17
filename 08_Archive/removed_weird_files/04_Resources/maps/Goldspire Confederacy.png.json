@@ -1,0 +1,18 @@
+{
+  "name": "Goldspire Confederacy",
+  "type": "map",
+  "generated": "2025-08-15T18:17:55.052Z",
+  "prompt": "fantasy map of Goldspire Confederacy, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Goldspire Confederacy.png.json",
+  "reorganized": "2025-08-15T18:33:02.408Z"
+}

@@ -1,0 +1,48 @@
+{
+  "macros": [
+    {
+      "name": "New NPC",
+      "template": "Smart_NPC_Template",
+      "folder": "03_People",
+      "format": "NPC_{{NAME}}"
+    },
+    {
+      "name": "New Location",
+      "template": "Location_Template",
+      "folder": "02_Worldbuilding/Locations",
+      "format": "LOC_{{NAME}}"
+    },
+    {
+      "name": "New Quest",
+      "template": "Quest_Template",
+      "folder": "01_Adventures",
+      "format": "QUEST_{{NAME}}"
+    },
+    {
+      "name": "Combat Start",
+      "commands": [
+        "Create initiative tracker",
+        "Roll initiative for all",
+        "Set round to 1"
+      ]
+    }
+  ],
+  "choices": [
+    {
+      "name": "Quick Creation",
+      "options": [
+        "New NPC",
+        "New Location",
+        "New Quest"
+      ]
+    },
+    {
+      "name": "Session Tools",
+      "options": [
+        "Combat Start",
+        "Generate Loot",
+        "Random Event"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "NPC00259_Delara_Proudmore",
+  "type": "token",
+  "generated": "2025-08-15T18:16:04.648Z",
+  "prompt": "character token for NPC00259_Delara_Proudmore, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC00259_Delara_Proudmore.png.json",
+  "reorganized": "2025-08-15T18:33:11.057Z"
+}

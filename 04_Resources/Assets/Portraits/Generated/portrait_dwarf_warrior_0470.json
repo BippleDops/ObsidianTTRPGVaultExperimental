@@ -1,0 +1,16 @@
+{
+  "name": "Dwarf Warrior 470",
+  "type": "portrait",
+  "race": "dwarf",
+  "class": "warrior",
+  "gender": "male",
+  "age": "adult",
+  "tags": [
+    "portrait",
+    "character",
+    "dwarf",
+    "warrior",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.768Z"
+}

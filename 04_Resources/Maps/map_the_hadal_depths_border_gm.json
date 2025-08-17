@@ -1,0 +1,12 @@
+{
+  "type": "map",
+  "generated": "2025-08-15T02:48:25.969Z",
+  "metadata": {
+    "name": "'[[The Hadal Depths]] Border'",
+    "type": "regional",
+    "version": "gm",
+    "prompt": "top-down battle map, regional, no grid, 1 inch = 10 miles, clear tactical layout"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

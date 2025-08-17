@@ -1,0 +1,32 @@
+{
+  "id": "artifact-windvane-pota-v7",
+  "type": "item",
+  "name": "windvane-pota",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: windvane-pota, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, skyward romantic realism, cloudstone and brass, wind-swept forms, airship motifs, palette: navy, gold, cloud-white, warm sun highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "rim-lit",
+  "mood": "solemn",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7008,
+  "alt_text": "Artifact windvane-pota with materials, runes, and scale.",
+  "realm": "aethermoor",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create an image in a heroic tabletop fantasy setting resembling the style of classical Dungeons and Dragons. The scene should contain medieval-fantasy elements including culturally coherent gear with no trace of modern technology. Ensure that the collection style is consistent and painterly. The centerpiece should be a detailed artifact - a windvane-pota abundantly decorated with pearls, corals, cloud-crystals and pressure-forged metals. The artifact should have abstract sigils glowing gently, instead of letters. To provide a frame of reference for its size, include a hand or a ruler in the scene. Present it as a product render. The overarching style should be skyward romantic realism, with emphasis on cloudstone and brass elements, and wind-swept forms characteristic of airship motifs. The color palette should primarily comprise navy, gold, cloud-white with warm sun highlights. Ensure the chosen aspect/resolution results in a clean render, with no artefacts. Ensure that any runes presented are abstract sigils rather than letter-like gibberish. There should be an absence of garbled or random strings of letters; if symbols are used, make them meaningful or numbered pins. Do not incorporate any sci-fi UIs, modern signage, photoreal CGI, anime style or bloom glare into the composition.",
+  "file": "04_Resources/Assets/Items/item-artifact-windvane-pota-v7-windvane-pota.png"
+}

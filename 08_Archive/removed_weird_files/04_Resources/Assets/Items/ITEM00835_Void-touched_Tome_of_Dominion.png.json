@@ -1,0 +1,18 @@
+{
+  "name": "ITEM00835_Void-touched_Tome_of_Dominion",
+  "type": "item",
+  "generated": "2025-08-15T18:18:55.467Z",
+  "prompt": "magical artifact called ITEM00835_Void-touched_Tome_of_Dominion, detailed item, glowing effects, fantasy artifact",
+  "status": "pending_generation",
+  "tags": [
+    "item",
+    "equipment-art",
+    "object",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Items/ITEM00835_Void-touched_Tome_of_Dominion.png.json",
+  "reorganized": "2025-08-15T18:32:58.003Z"
+}

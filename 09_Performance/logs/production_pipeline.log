@@ -1,0 +1,655 @@
+🏭 PRODUCTION PIPELINE - Maximum Asset Generation
+============================================================
+
+📋 Pipeline Configuration:
+{
+  "images": {
+    "portraits": 100,
+    "locations": 100,
+    "creatures": 100,
+    "items": 50,
+    "maps": 50,
+    "scenes": 50
+  },
+  "audio": {
+    "ambient": 50,
+    "combat": 20,
+    "tavern": 10,
+    "dungeon": 20
+  },
+  "text": {
+    "npcs": 50,
+    "quests": 30,
+    "locations": 40
+  }
+}
+
+🚀 Starting parallel execution...
+
+🚀 Starting: Images: portraits (100)
+
+🎨 Generating 100 Portraits with smart fallback...
+⏱️ Rate limiting stability: waiting 6s
+⏱️ Rate limiting stability: waiting 6s
+🚀 Starting: Images: locations (100)
+
+🎨 Generating 100 Locations with smart fallback...
+⏱️ Rate limiting stability: waiting 6s
+⏱️ Rate limiting stability: waiting 6s
+⏱️ Rate limiting stability: waiting 6s
+🚀 Starting: Images: creatures (100)
+
+🎨 Generating 100 Creatures with smart fallback...
+⏱️ Rate limiting stability: waiting 6s
+⏱️ Rate limiting stability: waiting 6s
+⏱️ Rate limiting stability: waiting 6s
+🚀 Starting: Images: items (50)
+
+🎨 Generating 50 Items with smart fallback...
+⏱️ Rate limiting stability: waiting 6s
+⏱️ Rate limiting stability: waiting 6s
+⏱️ Rate limiting stability: waiting 6s
+🚀 Starting: Images: maps (50)
+
+🎨 Generating 50 Maps with smart fallback...
+⏱️ Rate limiting stability: waiting 6s
+⏱️ Rate limiting stability: waiting 6s
+⏱️ Rate limiting stability: waiting 6s
+❌ [Stability] Failed: Stability error: Too Many Requests
+⚠️ stability failed, trying next service...
+❌ [OpenAI] Failed: OpenAI error: Billing hard limit has been reached
+⚠️ openai failed, trying next service...
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [Stability] Failed: Stability error: Too Many Requests
+⚠️ stability failed, trying next service...
+❌ [Stability] Failed: Stability error: Too Many Requests
+⚠️ stability failed, trying next service...
+⏱️ Rate limiting openai: waiting 3s
+❌ [Stability] Failed: Stability error: Too Many Requests
+⚠️ stability failing repeatedly, backing off for 240s
+⚠️ stability failed, trying next service...
+⏱️ Rate limiting openai: waiting 3s
+❌ [Stability] Failed: Stability error: Too Many Requests
+⚠️ stability failing repeatedly, backing off for 300s
+⚠️ stability failed, trying next service...
+⏱️ Rate limiting openai: waiting 3s
+❌ [Stability] Failed: Stability error: Too Many Requests
+⚠️ stability failing repeatedly, backing off for 300s
+⚠️ stability failed, trying next service...
+⏱️ Rate limiting openai: waiting 3s
+❌ [Stability] Failed: Stability error: Too Many Requests
+⚠️ stability failing repeatedly, backing off for 300s
+⚠️ stability failed, trying next service...
+⏱️ Rate limiting openai: waiting 3s
+❌ [Stability] Failed: Stability error: Too Many Requests
+⚠️ stability failing repeatedly, backing off for 300s
+⚠️ stability failed, trying next service...
+⏱️ Rate limiting openai: waiting 3s
+❌ [Stability] Failed: Stability error: Too Many Requests
+⚠️ stability failing repeatedly, backing off for 300s
+⚠️ stability failed, trying next service...
+⏱️ Rate limiting openai: waiting 3s
+❌ [Stability] Failed: Stability error: Too Many Requests
+⚠️ stability failing repeatedly, backing off for 300s
+⚠️ stability failed, trying next service...
+⏱️ Rate limiting openai: waiting 3s
+❌ [Stability] Failed: Stability error: Too Many Requests
+⚠️ stability failing repeatedly, backing off for 300s
+⚠️ stability failed, trying next service...
+⏱️ Rate limiting openai: waiting 3s
+❌ [Stability] Failed: Stability error: Too Many Requests
+⚠️ stability failing repeatedly, backing off for 300s
+⚠️ stability failed, trying next service...
+⏱️ Rate limiting openai: waiting 3s
+❌ [Stability] Failed: Stability error: Too Many Requests
+⚠️ stability failing repeatedly, backing off for 300s
+⚠️ stability failed, trying next service...
+⏱️ Rate limiting openai: waiting 3s
+❌ [OpenAI] Failed: OpenAI error: Billing hard limit has been reached
+⚠️ openai failed, trying next service...
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [Stability] Failed: Stability error: Too Many Requests
+⚠️ stability failing repeatedly, backing off for 300s
+⚠️ stability failed, trying next service...
+⏱️ Rate limiting openai: waiting 3s
+❌ [Stability] Failed: Stability error: Too Many Requests
+⚠️ stability failing repeatedly, backing off for 300s
+⚠️ stability failed, trying next service...
+⏱️ Rate limiting openai: waiting 2s
+❌ [OpenAI] Failed: OpenAI error: Billing hard limit has been reached
+⚠️ openai failed, trying next service...
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [OpenAI] Failed: OpenAI error: Billing hard limit has been reached
+⚠️ openai failing repeatedly, backing off for 240s
+⚠️ openai failed, trying next service...
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [OpenAI] Failed: OpenAI error: Billing hard limit has been reached
+⚠️ openai failing repeatedly, backing off for 300s
+⚠️ openai failed, trying next service...
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [OpenAI] Failed: OpenAI error: Billing hard limit has been reached
+⚠️ openai failing repeatedly, backing off for 300s
+⚠️ openai failed, trying next service...
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [OpenAI] Failed: OpenAI error: Billing hard limit has been reached
+⚠️ openai failing repeatedly, backing off for 300s
+⚠️ openai failed, trying next service...
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [OpenAI] Failed: OpenAI error: Billing hard limit has been reached
+⚠️ openai failing repeatedly, backing off for 300s
+⚠️ openai failed, trying next service...
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [OpenAI] Failed: OpenAI error: Billing hard limit has been reached
+⚠️ openai failing repeatedly, backing off for 300s
+⚠️ openai failed, trying next service...
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [OpenAI] Failed: OpenAI error: Billing hard limit has been reached
+⚠️ openai failing repeatedly, backing off for 300s
+⚠️ openai failed, trying next service...
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [OpenAI] Failed: OpenAI error: Billing hard limit has been reached
+⚠️ openai failing repeatedly, backing off for 300s
+⚠️ openai failed, trying next service...
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [OpenAI] Failed: OpenAI error: Billing hard limit has been reached
+⚠️ openai failing repeatedly, backing off for 300s
+⚠️ openai failed, trying next service...
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [OpenAI] Failed: OpenAI error: Billing hard limit has been reached
+⚠️ openai failing repeatedly, backing off for 300s
+⚠️ openai failed, trying next service...
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [OpenAI] Failed: OpenAI error: Billing hard limit has been reached
+⚠️ openai failing repeatedly, backing off for 300s
+⚠️ openai failed, trying next service...
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [OpenAI] Failed: OpenAI error: Billing hard limit has been reached
+⚠️ openai failing repeatedly, backing off for 300s
+⚠️ openai failed, trying next service...
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+✅ Successfully generated 0/50 Items
+✅ Completed: Images: items (50)
+🚀 Starting: Images: scenes (50)
+
+🎨 Generating 50 Scenes with smart fallback...
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+✅ Successfully generated 0/50 Maps
+✅ Completed: Images: maps (50)
+🚀 Starting: Audio: ambient (50)
+🎵 Generating 50 ambient audio tracks...
+✅ Completed: Audio: ambient (50)
+🚀 Starting: Audio: combat (20)
+🎵 Generating 20 combat audio tracks...
+✅ Completed: Audio: combat (20)
+🚀 Starting: Audio: tavern (10)
+🎵 Generating 10 tavern audio tracks...
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+✅ Completed: Audio: tavern (10)
+🚀 Starting: Audio: dungeon (20)
+🎵 Generating 20 dungeon audio tracks...
+✅ Completed: Audio: dungeon (20)
+🚀 Starting: Text: npcs (50)
+📝 Generating 50 npcs descriptions...
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+❌ [ComfyUI] Failed: comfy: COMFY_CKPT not set
+✅ Successfully generated 0/50 Scenes
+✅ Completed: Images: scenes (50)
+🚀 Starting: Text: quests (30)
+📝 Generating 30 quests descriptions...
+✅ Successfully generated 0/100 Creatures
+✅ Completed: Images: creatures (100)
+🚀 Starting: Text: locations (40)
+📝 Generating 40 locations descriptions...
+✅ Successfully generated 0/100 Locations
+✅ Completed: Images: locations (100)
+✅ Successfully generated 0/100 Portraits
+✅ Completed: Images: portraits (100)
+✅ Generated 0/30 quests
+✅ Completed: Text: quests (30)
+✅ Generated 0/40 locations
+✅ Completed: Text: locations (40)
+✅ Generated 0/50 npcs
+✅ Completed: Text: npcs (50)
+
+============================================================
+📊 PIPELINE COMPLETE
+============================================================
+✅ Successful tasks: 13
+❌ Failed tasks: 0
+⏱️ Total duration: 203 seconds (3 minutes)
+
+📄 Detailed report saved to: 09_Performance/production_pipeline_report.json
+
+📦 Committing all changes...
+✅ Changes committed and pushed

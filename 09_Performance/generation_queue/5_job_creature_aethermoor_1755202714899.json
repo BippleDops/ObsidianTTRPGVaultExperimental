@@ -1,0 +1,22 @@
+{
+  "id": "job_creature_aethermoor_1755202714899",
+  "type": "creature",
+  "world": "aethermoor",
+  "prompts": [
+    {
+      "name": "creature_aethermoor_0",
+      "prompt": "creature in aethermoor setting, highly detailed, fantasy art",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "name": "creature_aethermoor_1",
+      "prompt": "creature in aethermoor setting, highly detailed, fantasy art",
+      "width": 512,
+      "height": 512
+    }
+  ],
+  "priority": 5,
+  "createdAt": "2025-08-14T20:18:34.899Z",
+  "outputDir": "04_Resources/Assets/Creatures"
+}

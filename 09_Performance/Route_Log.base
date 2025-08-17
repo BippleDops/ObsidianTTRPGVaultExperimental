@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "type": "route-log",
+  "journeys": [
+    {
+      "id": "voyage-001",
+      "shipId": "sample-coral-leviathan",
+      "from": "Abyssos Prime",
+      "to": "Port Meridian",
+      "segments": [
+        { "zone": "Twilight", "events": [15, 23], "notes": "Kelp fog" },
+        { "zone": "Pressure", "events": [1, 87], "notes": "Anchor overload prevented collapse" }
+      ],
+      "sanityDelta": -3,
+      "rsbDelta": +1,
+      "cargo": { "memories": 4, "crystals": 2 },
+      "outcome": "Success"
+    }
+  ]
+}

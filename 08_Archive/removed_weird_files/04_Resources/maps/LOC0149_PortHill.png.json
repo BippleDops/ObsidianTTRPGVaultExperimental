@@ -1,0 +1,18 @@
+{
+  "name": "LOC0149_PortHill",
+  "type": "map",
+  "generated": "2025-08-15T18:18:03.725Z",
+  "prompt": "fantasy map of LOC0149_PortHill, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/LOC0149_PortHill.png.json",
+  "reorganized": "2025-08-15T18:33:03.292Z"
+}

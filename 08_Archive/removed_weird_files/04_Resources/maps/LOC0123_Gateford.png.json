@@ -1,0 +1,18 @@
+{
+  "name": "LOC0123_Gateford",
+  "type": "map",
+  "generated": "2025-08-15T18:18:03.001Z",
+  "prompt": "fantasy map of LOC0123_Gateford, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/LOC0123_Gateford.png.json",
+  "reorganized": "2025-08-15T18:33:03.279Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "city-the-shadowmere-v1",
+  "type": "location",
+  "name": "The Shadowmere",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Panoramic view of The Shadowmere, bioluminescent coral or cloudstone, weather cues and particles, golden hour / night glow / storm, figures/vehicles for scale, cinematic concept art, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, cinematic atmosphere, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid readable signage or paragraphs; use iconography or blank signboards. No embedded words., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "mysterious",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7004,
+  "alt_text": "Cinematic view of The Shadowmere with architecture and inhabitants.",
+  "realm": "aquabyssos",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create a panoramic view of a fantastical setting known as 'The Shadowmere'. Ensure it is imbued with a consistent painterly visual style reminiscent of heroic tabletop fantasy and grounded medieval-fantasy that rejects modern technology or signage. This unique world is lit by a cinematic gold-lit evening glow during a looming storm. A striking feature of this landscape is its bioluminescent coral or cloudstone, which glow in captivating hues of teal, deep blues, and sea-greens, with accents of pearl highlights. Atmospheric particles swirl amidst the scene, suggesting the pressure differences under the protective dome-like material. To provide a sense of scale, please include figures or vehicles that are culturally coherent to this mythical world. The image created should align with an aspect or resolution that avoids visual artifacts. Please avoid including readable signage or paragraphs; instead, use iconography or blank signboards. Ensure all symbols used are meaningful or numbered pins, no random letter strings. Avoid elements of sci-fi UIs, modern signage, photoreal CGI, or anime style, and keep the bloom glare to a minimum.",
+  "file": "04_Resources/Assets/Locations/location-city-the-shadowmere-v1-the-shadowmere.png"
+}

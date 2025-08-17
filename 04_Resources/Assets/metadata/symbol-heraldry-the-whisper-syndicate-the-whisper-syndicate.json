@@ -1,0 +1,34 @@
+{
+  "id": "heraldry-the-whisper-syndicate",
+  "type": "symbol",
+  "name": "The Whisper Syndicate",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Whisper Syndicate, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 2003,
+  "alt_text": "Heraldic emblem for The Whisper Syndicate.",
+  "realm": "aquabyssos",
+  "palette": "storm greys",
+  "textPolicy": "no words or inscriptions; pure iconography",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Generate an image of a Heroic tabletop fantasy scenario, similar in aesthetics to D&D 5e game. The scene should favor grounded medieval and fantastical elements, excluding any modern technology or references. Visual style should be consistent, mimicking a hand painted collection. The main emblem represents The Whisper Syndicate, using simple geometric shapes and two to three motifs that tie in with their identity. Provide variations for a seal, a banner and a coin in vector SVG format. The setting leans towards aquatic fantasy realism, featuring subsurface caustics, bioluminescent accents and materials that look like they can withstand extreme pressure. A color palette consisting of teals, deep blues, sea-greens and pearl white should be used. The image should conform to the given aspect and resolution while avoiding artifacts. Unless explicitly mentioned, text or words should not be contained within the image. Refrain from including modern or sci-fi UIs, signs, photoreal CGI and anime styled elements. Glare and bloom effects should be avoided.",
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-whisper-syndicate-the-whisper-syndicate.png"
+}

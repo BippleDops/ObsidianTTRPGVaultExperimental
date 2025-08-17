@@ -1,0 +1,22 @@
+{
+  "name": "City Council of Aquabyssos",
+  "type": "map",
+  "generated": "2025-08-15T18:17:16.265Z",
+  "prompt": "fantasy map of City Council of Aquabyssos, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "aquabyssos",
+    "underwater",
+    "oceanic",
+    "cartographic",
+    "map-style",
+    "technical",
+    "city"
+  ],
+  "location": "04_Resources/Assets/Maps/City Council of Aquabyssos.png.json",
+  "reorganized": "2025-08-15T18:33:02.235Z"
+}

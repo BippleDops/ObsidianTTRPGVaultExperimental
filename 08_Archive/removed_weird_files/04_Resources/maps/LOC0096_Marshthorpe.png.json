@@ -1,0 +1,18 @@
+{
+  "name": "LOC0096_Marshthorpe",
+  "type": "map",
+  "generated": "2025-08-15T18:18:02.077Z",
+  "prompt": "fantasy map of LOC0096_Marshthorpe, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/LOC0096_Marshthorpe.png.json",
+  "reorganized": "2025-08-15T18:33:03.263Z"
+}

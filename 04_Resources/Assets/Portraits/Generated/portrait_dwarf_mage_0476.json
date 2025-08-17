@@ -1,0 +1,16 @@
+{
+  "name": "Dwarf Mage 476",
+  "type": "portrait",
+  "race": "dwarf",
+  "class": "mage",
+  "gender": "male",
+  "age": "adult",
+  "tags": [
+    "portrait",
+    "character",
+    "dwarf",
+    "mage",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.771Z"
+}

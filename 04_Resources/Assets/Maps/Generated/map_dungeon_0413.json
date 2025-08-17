@@ -1,0 +1,46 @@
+{
+  "name": "Dungeon Map 413",
+  "type": "map",
+  "mapType": "dungeon",
+  "gridSize": null,
+  "scale": "1:100",
+  "tags": [
+    "map",
+    "dungeon",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 2.1760256952649826,
+      "y": 59.71261634387015,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 2",
+      "x": 0.5338415523241657,
+      "y": 3.244441030541978,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 3",
+      "x": 46.285912534950036,
+      "y": 41.80867226346129,
+      "type": "town"
+    },
+    {
+      "name": "Location 4",
+      "x": 95.29837870777433,
+      "y": 76.04075382170731,
+      "type": "city"
+    },
+    {
+      "name": "Location 5",
+      "x": 9.22868185436505,
+      "y": 5.591955653901149,
+      "type": "landmark"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.743Z"
+}

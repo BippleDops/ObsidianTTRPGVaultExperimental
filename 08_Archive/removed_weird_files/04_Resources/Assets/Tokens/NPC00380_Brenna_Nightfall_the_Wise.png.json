@@ -1,0 +1,19 @@
+{
+  "name": "NPC00380_Brenna_Nightfall_the_Wise",
+  "type": "token",
+  "generated": "2025-08-15T18:16:07.141Z",
+  "prompt": "character token for NPC00380_Brenna_Nightfall_the_Wise, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC00380_Brenna_Nightfall_the_Wise.png.json",
+  "reorganized": "2025-08-15T18:33:11.110Z"
+}

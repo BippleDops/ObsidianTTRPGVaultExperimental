@@ -1,0 +1,19 @@
+{
+  "name": "NPC00926_Urien_Darkwater_the_Strong",
+  "type": "token",
+  "generated": "2025-08-15T18:15:53.515Z",
+  "prompt": "character token for NPC00926_Urien_Darkwater_the_Strong, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "dark",
+    "gritty",
+    "horror",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC00926_Urien_Darkwater_the_Strong.png.json",
+  "reorganized": "2025-08-15T18:33:11.373Z"
+}

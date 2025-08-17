@@ -1,0 +1,46 @@
+{
+  "name": "Battle Map 114",
+  "type": "map",
+  "mapType": "battle",
+  "gridSize": "25x25",
+  "scale": "5ft per square",
+  "tags": [
+    "map",
+    "battle",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 20.16017837441677,
+      "y": 76.74831898183352,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 2",
+      "x": 11.099608659311356,
+      "y": 19.356886904177372,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 3",
+      "x": 76.48163447532423,
+      "y": 80.55086721082796,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 4",
+      "x": 73.29521456965871,
+      "y": 81.93522860867287,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 5",
+      "x": 18.663778998809466,
+      "y": 39.221036049935606,
+      "type": "dungeon"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.607Z"
+}

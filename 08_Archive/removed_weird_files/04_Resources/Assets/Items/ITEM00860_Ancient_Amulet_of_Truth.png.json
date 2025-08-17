@@ -1,0 +1,18 @@
+{
+  "name": "ITEM00860_Ancient_Amulet_of_Truth",
+  "type": "item",
+  "generated": "2025-08-15T18:18:55.777Z",
+  "prompt": "magical artifact called ITEM00860_Ancient_Amulet_of_Truth, detailed item, glowing effects, fantasy artifact",
+  "status": "pending_generation",
+  "tags": [
+    "item",
+    "equipment-art",
+    "object",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Items/ITEM00860_Ancient_Amulet_of_Truth.png.json",
+  "reorganized": "2025-08-15T18:32:58.022Z"
+}

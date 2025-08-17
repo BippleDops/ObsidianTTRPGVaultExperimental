@@ -1,0 +1,32 @@
+{
+  "id": "artifact-windvane-pota-v6",
+  "type": "item",
+  "name": "windvane-pota",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: windvane-pota, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, skyward romantic realism, cloudstone and brass, wind-swept forms, airship motifs, palette: navy, gold, cloud-white, warm sun highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "mysterious",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7007,
+  "alt_text": "Artifact windvane-pota with materials, runes, and scale.",
+  "realm": "aethermoor",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "A heroic and fantastical artifact from a medieval-fantasy realm akin to the universe of D&D 5e, made with grounded materials like pearl, coral, cloud-crystal, and pressure-forged metals with abstract sigils manifesting a soft glow. This artifact resembles a windvane-pot, engraved with airship motifs and wind-swept forms, beautifully reflecting a painterly collection style. Presented as a product render, the artifact has a scale reference of a human hand or a ruler. The color palette features navy, gold, cloud-white, with warm sun highlights accentuating the fine detail. Embracing an aesthetic of skyward romantic realism, the image avoids any modern tech, sci-fi UI, readable words, garbled letters and anime style. The background is devoid of modern signage, and the item doesn't bear any photoreal CGI or bloom glare.",
+  "file": "04_Resources/Assets/Items/item-artifact-windvane-pota-v6-windvane-pota.png"
+}

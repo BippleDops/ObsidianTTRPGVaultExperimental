@@ -1,0 +1,19 @@
+{
+  "name": "NPC0089_Jora_Goldleaf_the_Just",
+  "type": "token",
+  "generated": "2025-08-15T18:16:21.378Z",
+  "prompt": "character token for NPC0089_Jora_Goldleaf_the_Just, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC0089_Jora_Goldleaf_the_Just.png.json",
+  "reorganized": "2025-08-15T18:33:11.345Z"
+}

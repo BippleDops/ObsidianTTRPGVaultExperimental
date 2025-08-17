@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/The Depth Accords.md",
+      "x": 0,
+      "y": 0,
+      "width": 460,
+      "height": 140
+    },
+    {
+      "id": "n_02-worldbuilding-quests-aquabyssos-md_300",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Aquabyssos.md",
+      "x": -520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-deep-ones-md_220",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Deep Ones.md",
+      "x": 0,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-captain-marina-saltborn-md_740",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Captain Marina Saltborn.md",
+      "x": 520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-queen-nerida-md_120",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Queen Nerida.md",
+      "x": -520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-cult-of-the-endless-void-md_400",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/Cult of the Endless Void.md",
+      "x": 0,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-the-original-palace-md_920",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/The Original Palace.md",
+      "x": 520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-vault-breach-md_60",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Vault Breach.md",
+      "x": -520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-diplomatic-tides-md_580",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Diplomatic Tides.md",
+      "x": 0,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-quest-nature-s-balance-md_1100",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Quest - Nature's Balance.md",
+      "x": 520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-aquabyssos-md_300"
+    },
+    {
+      "id": "e_1",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-deep-ones-md_220"
+    },
+    {
+      "id": "e_2",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-captain-marina-saltborn-md_740"
+    },
+    {
+      "id": "e_3",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-queen-nerida-md_120"
+    },
+    {
+      "id": "e_4",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-cult-of-the-endless-void-md_400"
+    },
+    {
+      "id": "e_5",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-the-original-palace-md_920"
+    },
+    {
+      "id": "e_6",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-vault-breach-md_60"
+    },
+    {
+      "id": "e_7",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-diplomatic-tides-md_580"
+    },
+    {
+      "id": "e_8",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-quest-nature-s-balance-md_1100"
+    }
+  ]
+}

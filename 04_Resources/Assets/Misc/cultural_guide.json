@@ -1,0 +1,22 @@
+{
+  "title": "Cultural Guide",
+  "prompt": "Cultural guide, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:55:10.164Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Cultural_Organizations/Cultural Guide.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/cultural_guide.json",
+  "reorganized": "2025-08-15T18:33:07.381Z"
+}

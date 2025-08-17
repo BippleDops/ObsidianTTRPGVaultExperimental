@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {"id":"n_root","type":"text","text":"Vault Overview","x":0,"y":0,"width":360,"height":120},
+    {"id":"n_people","type":"file","file":"02_Worldbuilding/People/","x":-600,"y":-200,"width":280,"height":120},
+    {"id":"n_groups","type":"file","file":"02_Worldbuilding/Groups/","x":-600,"y":40,"width":280,"height":120},
+    {"id":"n_places","type":"file","file":"02_Worldbuilding/Places/","x":-600,"y":280,"width":280,"height":120},
+    {"id":"n_lore","type":"file","file":"02_Worldbuilding/Lore/","x":-600,"y":520,"width":280,"height":120},
+    {"id":"n_quests","type":"file","file":"02_Worldbuilding/Quests/","x":-600,"y":760,"width":280,"height":120},
+
+    {"id":"n_mech","type":"file","file":"03_Mechanics/","x":0,"y":520,"width":320,"height":140},
+    {"id":"n_galleries","type":"file","file":"04_Resources/Assets/Galleries/Index.md","x":420,"y":-120,"width":380,"height":140},
+    {"id":"n_worldmap","type":"file","file":"04_Resources/Maps/Aquabyssos_World_Map.md","x":420,"y":120,"width":380,"height":140},
+    {"id":"n_layers","type":"file","file":"04_Resources/Assets/Maps/World_Map_Layers.md","x":840,"y":120,"width":380,"height":140},
+    {"id":"n_bmaps","type":"file","file":"04_Resources/Assets/Maps/Battle_Map_Descriptions.md","x":840,"y":-120,"width":380,"height":140},
+
+    {"id":"n_gm","type":"file","file":"06_GM_Resources/","x":0,"y":760,"width":320,"height":140},
+    {"id":"n_player","type":"file","file":"07_Player_Resources/Imported_from_04/","x":0,"y":280,"width":360,"height":140}
+  ],
+  "edges": [
+    {"id":"e1","fromNode":"n_root","toNode":"n_people","label":"notable NPCs"},
+    {"id":"e2","fromNode":"n_root","toNode":"n_groups","label":"factions"},
+    {"id":"e3","fromNode":"n_root","toNode":"n_places","label":"locations"},
+    {"id":"e4","fromNode":"n_root","toNode":"n_lore","label":"setting lore"},
+    {"id":"e5","fromNode":"n_root","toNode":"n_quests","label":"hooks"},
+    {"id":"e6","fromNode":"n_root","toNode":"n_mech","label":"systems"},
+    {"id":"e7","fromNode":"n_root","toNode":"n_galleries","label":"visuals"},
+    {"id":"e8","fromNode":"n_root","toNode":"n_worldmap","label":"world map"},
+    {"id":"e9","fromNode":"n_worldmap","toNode":"n_layers","label":"overlays"},
+    {"id":"e10","fromNode":"n_worldmap","toNode":"n_places","label":"map ↔ places"},
+    {"id":"e11","fromNode":"n_bmaps","toNode":"n_galleries","label":"VTT galleries"},
+    {"id":"e12","fromNode":"n_mech","toNode":"n_player","label":"player options"},
+    {"id":"e13","fromNode":"n_mech","toNode":"n_gm","label":"reference"}
+  ]
+}
+
+

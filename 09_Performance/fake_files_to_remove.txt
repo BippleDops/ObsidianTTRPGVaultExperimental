@@ -1,0 +1,103 @@
+Fake Files to Remove
+Generated: 2025-08-16T08:53:00.155241
+Total: 99
+
+01_Adventures/Campaigns/01 Chapter 1 Prisoners of the Drow.md
+01_Adventures/Campaigns/01 Chapter 1 the Basics.md
+01_Adventures/Campaigns/02 Chapter 1 Playing the Game.md
+01_Adventures/Campaigns/02 Chapter 2 Into Darkness.md
+01_Adventures/Campaigns/02 Chapter 2 Running the Game.md
+01_Adventures/Campaigns/02_Worldbuilding_People_Archmaster_Lyralei.md
+01_Adventures/Campaigns/03 Chapter 3 Dms Toolbox.md
+01_Adventures/Campaigns/03 Chapter 3 the Darklake.md
+01_Adventures/Campaigns/04 Chapter 4 Gracklstugh.md
+01_Adventures/Campaigns/05 Chapter 5 Neverlight Grove.md
+01_Adventures/Campaigns/06 Chapter 5 Feats.md
+01_Adventures/Campaigns/06 Chapter 6 Blingdenstone.md
+01_Adventures/Campaigns/06 Chapter 6 Cosmology.md
+01_Adventures/Campaigns/07 Chapter 6 Equipment.md
+01_Adventures/Campaigns/07 Chapter 7 Escape From the Underdark.md
+01_Adventures/Campaigns/07 Chapter 7 Treasure.md
+01_Adventures/Campaigns/08 Chapter 8 Audience in Gauntlgrym.md
+01_Adventures/Campaigns/08 Chapter 8 Bastions.md
+01_Adventures/Campaigns/09 Chapter 9 Mantol Derith.md
+01_Adventures/Campaigns/10 Chapter 10 Descent Into the Depths.md
+01_Adventures/Campaigns/11 Chapter 11 Gravenhollow.md
+01_Adventures/Campaigns/12 Chapter 12 the Tower of Vengeance.md
+01_Adventures/Campaigns/13 Chapter 13 the Wormwrithings.md
+01_Adventures/Campaigns/14 Chapter 14 the Labyrinth.md
+01_Adventures/Campaigns/15 Chapter 15 the City of Spiders.md
+01_Adventures/Campaigns/16 Chapter 16 the Fetid Wedding.md
+01_Adventures/Campaigns/17 Chapter 17 Against the Demon Lords.md
+01_Adventures/quests/01 Chapter 1 Prisoners of the Drow.md
+01_Adventures/quests/02 Chapter 2 Into Darkness.md
+01_Adventures/quests/03 Chapter 3 the Darklake.md
+01_Adventures/quests/04 Chapter 4 Gracklstugh.md
+01_Adventures/quests/05 Chapter 5 Neverlight Grove.md
+01_Adventures/quests/06 Chapter 6 Blingdenstone.md
+01_Adventures/quests/07 Chapter 7 Escape From the Underdark.md
+01_Adventures/quests/08 Chapter 8 Audience in Gauntlgrym.md
+01_Adventures/quests/10 Chapter 10 Descent Into the Depths.md
+01_Adventures/quests/11 Chapter 11 Gravenhollow.md
+01_Adventures/quests/12 Chapter 12 the Tower of Vengeance.md
+01_Adventures/quests/13 Chapter 13 the Wormwrithings.md
+01_Adventures/quests/14 Chapter 14 the Labyrinth.md
+01_Adventures/quests/15 Chapter 15 the City of Spiders.md
+01_Adventures/quests/16 Chapter 16 the Fetid Wedding.md
+02_Worldbuilding/02_Worldbuilding_Items_Memory_Resonators.md
+02_Worldbuilding/02_Worldbuilding_Items_Shadow_Dampeners.md
+02_Worldbuilding/02_Worldbuilding_Tactics_Acoustic_Masking.md
+02_Worldbuilding/Items/02_Worldbuilding_Lore_Map_of_the_Whispering_Expanse.md
+02_Worldbuilding/Items/03_People_Armorer_Padwick.md
+02_Worldbuilding/Lore/00_Indexes_Documentation.md
+02_Worldbuilding/Lore/00_Indexes_Quick_Start_Guide.md
+02_Worldbuilding/Lore/01_Adventures_The_Annual_Renewal.md
+02_Worldbuilding/Lore/02 Chapter 1 Playing the Game#damage at 0 Hit Points.md
+02_Worldbuilding/Lore/02 Chapter 1 Playing the Game#movement and Position.md
+02_Worldbuilding/Lore/02 Chapter 1 Playing the Game#moving Around Other Creatures.md
+02_Worldbuilding/Lore/02 Chapter 1 Playing the Game#ranged Attacks in Close Combat.md
+02_Worldbuilding/Lore/02_Worldbuilding_Factions_Abyssal_Courts.md
+02_Worldbuilding/Lore/02_Worldbuilding_Groups_Faction_Overview.md
+02_Worldbuilding/Lore/02_Worldbuilding_Groups_The_Unsealed.md
+02_Worldbuilding/Lore/02_Worldbuilding_Groups_Truth_Keepers.md
+02_Worldbuilding/Lore/02_Worldbuilding_Hazards_Crystal_Plague.md
+02_Worldbuilding/Lore/02_Worldbuilding_Items_Alchemy_Tools.md
+02_Worldbuilding/Lore/02_Worldbuilding_Items_Communication_Devices.md
+02_Worldbuilding/Lore/02_Worldbuilding_Items_Divination_Tools.md
+02_Worldbuilding/Lore/02_Worldbuilding_Items_Grief_Bomb.md
+02_Worldbuilding/Lore/02_Worldbuilding_Items_Lightstone_Scanners.md
+02_Worldbuilding/Lore/02_Worldbuilding_Items_Original_Trackers.md
+02_Worldbuilding/Lore/02_Worldbuilding_Items_Resot_Crystals.md
+02_Worldbuilding/Lore/02_Worldbuilding_Items_Truth_Crystals.md
+02_Worldbuilding/Lore/02_Worldbuilding_Lore_Censorship_Magic.md
+02_Worldbuilding/Lore/02_Worldbuilding_Lore_GM_Resources.md
+02_Worldbuilding/Lore/02_Worldbuilding_Lore_NPC.md
+02_Worldbuilding/Lore/02_Worldbuilding_Military_Corruption_Hunters.md
+02_Worldbuilding/Lore/02_Worldbuilding_Military_Guerrilla_Fighters.md
+02_Worldbuilding/Lore/02_Worldbuilding_Military_Sabotage_Specialists.md
+02_Worldbuilding/Lore/02_Worldbuilding_Military_Siege_Engineers.md
+02_Worldbuilding/Lore/02_Worldbuilding_Organizations_The_Chroniclers.md
+02_Worldbuilding/Lore/02_Worldbuilding_People_Archmaster_Lyralei.md
+02_Worldbuilding/Lore/02_Worldbuilding_Places_Forgotten_Doorways.md
+02_Worldbuilding/Lore/02_Worldbuilding_Places_Thalassopolis_Ruins.md
+02_Worldbuilding/Lore/02_Worldbuilding_Procedures_Biological_Authentication.md
+02_Worldbuilding/Lore/02_Worldbuilding_Spells_Echo_Reflection.md
+02_Worldbuilding/Lore/02_Worldbuilding_Spells_Future_Glimpse.md
+02_Worldbuilding/Lore/02_Worldbuilding_Spells_Memory_Mirror.md
+02_Worldbuilding/Lore/02_Worldbuilding_Spells_Mirror_Window.md
+02_Worldbuilding/Lore/02_Worldbuilding_Spells_Truth_Reflection.md
+02_Worldbuilding/Lore/02_Worldbuilding_Tactics_Current_Manipulation.md
+02_Worldbuilding/Lore/02_Worldbuilding_Tactics_Pressure_Differential.md
+02_Worldbuilding/Lore/02_Worldbuilding_Tactics_Underwater_Concealment.md
+02_Worldbuilding/Lore/03_People_Artificer_PlayStation.md
+02_Worldbuilding/locations/02_Worldbuilding_Places_Alternative-Path-Fled-City.md
+03_People/00_Indexes_Master_Index.md
+03_People/02 Chapter 1 Playing the Game#stabilizing a Character.md
+03_People/03_People_Brewmaster_Grindstone.md
+03_People/03_People_Master_Golemancer.md
+03_People/NPC00244_Idris_Goldleaf_the_Risen.md
+03_People/NPC00553_Elric_Winterborn_the_Fallen.md
+03_People/NPC00595_Wynne_Moonshadow_the_Seeker.md
+03_People/NPC00895_Solas_Frostwhisper_the_Lost.md
+03_People/NPC00898_Elric_Hawthorne_the_Mystic.md
+03_People/NPC01824_Solas_Xendar_the_Fallen.md

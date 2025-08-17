@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Bandit Camp.md",
+      "x": 0,
+      "y": 0,
+      "width": 460,
+      "height": 140
+    },
+    {
+      "id": "n_02-worldbuilding-quests-aquabyssos-md_300",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Aquabyssos.md",
+      "x": -520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_reports-bidirectional-links-md_220",
+      "type": "file",
+      "file": "reports/bidirectional_links.md",
+      "x": 0,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-aquabyssos-md_300"
+    },
+    {
+      "id": "e_1",
+      "fromNode": "root",
+      "toNode": "n_reports-bidirectional-links-md_220"
+    }
+  ]
+}

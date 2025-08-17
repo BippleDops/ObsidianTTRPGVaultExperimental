@@ -1,0 +1,16 @@
+{
+  "name": "Elf Warrior 1",
+  "type": "portrait",
+  "race": "elf",
+  "class": "warrior",
+  "gender": "male",
+  "age": "elder",
+  "tags": [
+    "portrait",
+    "character",
+    "elf",
+    "warrior",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.534Z"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "The Healing Voids",
+  "type": "location",
+  "generated": "2025-08-15T18:18:05.071Z",
+  "prompt": "fantasy landscape called The Healing Voids, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/The Healing Voids.png.json",
+  "reorganized": "2025-08-15T18:33:01.037Z"
+}

@@ -1,0 +1,2412 @@
+---
+tags: [general]
+type: lore
+status: active
+---
+
+# region
+
+## Overview
+
+region represents an important element within the campaign world.
+
+## Description
+
+This component serves a vital role in the ongoing narrative and world-building efforts. It connects to various other elements and provides depth to the campaign setting.
+
+## Key Features
+
+### Primary Aspects
+- **Core Function**: Central purpose and role
+- **Unique Traits**: Distinguishing characteristics
+- **Connections**: Links to other elements
+
+### Secondary Aspects
+- Supporting details
+- Environmental factors
+- Cultural significance
+
+## Detailed Information
+
+### Background
+The history and development of region within the campaign context.
+
+### Current Status
+How this element currently functions and its present importance.
+
+### Future Potential
+Possible developments and plot opportunities.
+
+## Relationships
+
+### Direct Connections
+- [[" + join(map(slice(rows, 0, 3), (row) => row.file.name), "
+- ["$python_version" < "3.9"]]
+- [[") + "
+- [#Region Details]]
+- [[$available_space -lt 2
+- [..]]
+- [[00_Indexes_Documentation
+- [00_Indexes_Quick_Start_Guide]]
+- [[01_Adventures_Quest_-_The_Great_Maintenance
+- [01_Adventures_The_Annual_Renewal]]
+- [[01_Campaigns_Aquabyssos__Investigations_The_Shadow_Parliament_Conspiracy
+- [02_Worldbuilding]]
+- [[02_Worldbuilding_Artifacts_Shard_of_Empathy
+- [02_Worldbuilding_Artifacts_Shard_of_Perception]]
+- [[02_Worldbuilding_Equipment_Cellular_Shadow_Trackers
+- [02_Worldbuilding_Equipment_Memory_Pattern_Analyzers]]
+- [[02_Worldbuilding_Equipment_Neural_Activity_Mappers
+- [02_Worldbuilding_Equipment_Shadow_Contamination_Scanners]]
+- [[02_Worldbuilding_Factions_Abyssal_Courts
+- [02_Worldbuilding_Factions_The_Resoce_Keepers]]
+- [[02_Worldbuilding_Factions_The_Skyborne_Merchants
+- [02_Worldbuilding_Factions_The_Tide_Singers]]
+- [[02_Worldbuilding_Factions_The_Void_Sculptors
+- [02_Worldbuilding_Groups_Depth_Supremacist_Movement]]
+- [[02_Worldbuilding_Groups_Faction_Overview
+- [02_Worldbuilding_Groups_Marine_Protection_Guil]]
+- [[02_Worldbuilding_Groups_Memory_Thieves_Guil
+- [02_Worldbuilding_Groups_Political_Consulting_Guil]]
+- [[02_Worldbuilding_Groups_Pressure_Safety_Authorit
+- [02_Worldbuilding_Groups_Surface_Reconnection_Coalition]]
+-
+- [[02_Worldbuilding_Groups_The_Memory_Keepers
+- [02_Worldbuilding_Groups_The_Nameless_Librarians]]
+- [[02_Worldbuilding_Groups_The_Pearl_Divers_Guil
+- [02_Worldbuilding_Groups_The_Preservation_Protocol]]
+- [[02_Worldbuilding_Groups_The_Resurgent_Tide
+- [02_Worldbuilding_Groups_The_Reunification_Coalition]]
+- [[02_Worldbuilding_Groups_The_Shadow_Merchant_Prim
+- [02_Worldbuilding_Groups_The_Signal_Keepers]]
+- [[02_Worldbuilding_Groups_The_Unsealed
+- [02_Worldbuilding_Groups_Truth_Keepers]]
+- [[02_Worldbuilding_Hazards_Crystal_Plague
+- [02_Worldbuilding_Items_Alchemy_Tools]]
+- [[02_Worldbuilding_Items_Cleaning_Kit_of_the_Ancients
+- [02_Worldbuilding_Items_Communication_Devices]]
+- [[02_Worldbuilding_Items_Crystal_Power_Core
+- [02_Worldbuilding_Items_Divination_Tools]]
+- [[02_Worldbuilding_Items_Elemental_Air_Filter
+- [02_Worldbuilding_Items_Grief_Bomb]]
+- [[02_Worldbuilding_Items_Lightstone_Scanners
+- [02_Worldbuilding_Items_Memory_Resonators]]
+- [[02_Worldbuilding_Items_Original_Trackers
+- [02_Worldbuilding_Items_Resot_Crystals]]
+- [[02_Worldbuilding_Items_Shadow_Dampeners
+- [02_Worldbuilding_Items_Truth_Crystals]]
+- [[02_Worldbuilding_Locations_Abyssal_Forges
+- [02_Worldbuilding_Locations_Abyssal_Spires]]
+-
+- [[02_Worldbuilding_Locations_Crystal_Conservatory
+- [02_Worldbuilding_Locations_Floating_Arsenal]]
+- [[02_Worldbuilding_Locations_Sunken_Palace
+- [02_Worldbuilding_Military_Corruption_Hunters]]
+- [[02_Worldbuilding_Military_Guerrilla_Fighters
+- [02_Worldbuilding_Military_Sabotage_Specialists]]
+- [[02_Worldbuilding_Military_Siege_Engineers
+- [02_Worldbuilding_Organizations_The_Chroniclers]]
+- [[02_Worldbuilding_Organizations_The_Truth_Seekers
+- [02_Worldbuilding_Organizations_The_Unity_Coalition]]
+- [[02_Worldbuilding_People_Brother_Marcus_the_Willing
+- [02_Worldbuilding_People_Dimensional_Security_Chief_Echo_Gatekeeper]]
+- [[02_Worldbuilding_People_Emergency_Coordinator_Storm_Quickfix
+- [02_Worldbuilding_People_Festival_Coordinator_Luna_Celebration]]
+- [[02_Worldbuilding_People_Geology_Specialist_Stone_Soundshape
+- [02_Worldbuilding_People_Senator_Nereon_Tidecaller]]
+- [[02_Worldbuilding_People_The_Eternal_Speaker
+- [02_Worldbuilding_People_The_Keeper_of_Between]]
+- [[02_Worldbuilding_Places_Aquabyssos_Prime
+- [02_Worldbuilding_Places_Forgotten_Doorways]]
+- [[02_Worldbuilding_Places_Thalassopolis_Ruins
+- [02_Worldbuilding_Places_The_Crimson_Reef]]
+- [[02_Worldbuilding_Places_The_Crystal_Gardens
+- [02_Worldbuilding_Places_The_Crystal_Palace]]
+- [[02_Worldbuilding_Places_The_Decompression_Chamber
+- [02_Worldbuilding_Places_The_Gilded_Serpent]]
+- [[02_Worldbuilding_Places_The_Philosophical_Depths
+- [02_Worldbuilding_Places_The_Recursion_Nexus]]
+- [[02_Worldbuilding_Places_The_Sunken_Library_of_Thalassius.md
+- [02_Worldbuilding_Places_The_Twilight_Depths]]
+- [[02_Worldbuilding_Places_The_Twilight_Reaches
+- [02_Worldbuilding_Procedures_Behavioral_Pattern_Analysis]]
+- [[02_Worldbuilding_Procedures_Biological_Authentication
+- [02_Worldbuilding_Procedures_Memory_Coherence_Testing]]
+- [[02_Worldbuilding_Procedures_Shadow_Resoce_Scanning
+- [02_Worldbuilding_Procedures_Thermal_Differential_Analysis]]
+- [[02_Worldbuilding_Spells_Echo_Reflection
+- [02_Worldbuilding_Spells_Future_Glimpse]]
+- [[02_Worldbuilding_Spells_Memory_Mirror
+- [02_Worldbuilding_Spells_Mirror_Window]]
+- [[02_Worldbuilding_Spells_Truth_Reflection
+- [02_Worldbuilding_Tactics_Acoustic_Masking]]
+- [[02_Worldbuilding_Tactics_Current_Manipulation
+- [02_Worldbuilding_Tactics_Pressure_Differential]]
+- [[02_Worldbuilding_Tactics_Thermal_Layer_Usage
+- [02_Worldbuilding_Tactics_Underwater_Concealment]]
+- [[03_Mechanics
+- [03_People_Artificer_PlayStation]]
+- [[04_Places_Hall_of_Mirrors
+- [04_Places_Lighthouse_of_Storms]]
+- [[04_Places_The_Crystal_Observatory
+- [04_Places_The_Grinding_Workshop]]
+- [[04_Places_The_Outfitters_Shop
+- [04_Resources_Handouts_Ships_Player_Handout_Aethermoor_Airships]]
+- [[04_Resources_Handouts_Ships_Player_Handout_Aquabyssos_Submarines
+- [04_Resources_Handouts_Ships_Player_Handout_Merger_Vessels]]
+- [[06_GM_Resources_Session_Tools_Session_Zero_Guide
+- [07_Player_Resources_Character_Options_Character_Bonds]]
+-
+- [[1 DM Toolkit Home Dv
+- [1-DM_Toolkit_DM_Board]]
+- [[10-chapter-10-descent-into-the-depths
+- [12_Research_D&D_Statblocks_Crystal_Wardens]]
+- [[12_Research_D&D_Statblocks_Memory_Merchant_Zephyr_Mindweaver
+- [12_Research_D&D_Statblocks_The_Emerald_Sage_Willowbark]]
+- [[12_Research_D&D_Statblocks_The_Nameless_Auditor
+- [12_Research_D&D_Statblocks_The_Synthesis_Gardens]]
+- [[1_DM_Toolkit_DM_Board
+- [`dice: 1d100`]]
+- [[`dice: 1d20` (02_Worldbuilding)
+- [`dice: 2d20`kl1]]
+- [[`dice: 2d6`
+- [Abandoned Lighthouse of Convergence]]
+- [[Abbot Serenity Cloudheart
+- [Abilities Cross Dimensional Perception]]
+- [[Aboleth Memories
+- [Aboleth Territories]]
+- [[Absolute Reality Factio
+- [Abyssal Academy]]
+- [[Abyssal Architecture
+- [Abyssal Depths]]
+- [[Abyssal Garden
+- [Abyssal Steel]]
+- [[Abyssal_Covet
+- [Academic Centers]]
+- [[Academic Institutions
+- [Active_NPCs (02_Worldbuilding)]]
+- [[Active_Quests (02_Worldbuilding)
+- [Adapted Refugees]]
+- [[Admiral Darkwater
+- [Admiral Diplomatic Envoy Thornwick]]
+- [[Admiral Storm Tidecaller
+- [Advanced Combat Training Methods]]
+- [[Aetherian Academy of Mystical Arts
+- [Aetheric Wind Songs]]
+- [[Aethermoor Rangers
+- [Aethermoor Royal Navy]]
+- [[Aethermoor Sky Fleet
+- [Aethermoor Special Forces]]
+- [[Aethermoor Trade Commission
+- [Aethermoor Wind Rider Traditions]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide
+- [Aethermoor_Content (02_Worldbuilding)]]
+- [[Aethermoor_Royal_Navy (02_Worldbuilding)
+- [Afflictions Existence Erosion]]
+- [[Agent Marina Shadowwatch
+- [Agent Vex Shadowthorn]]
+- [[Agent Viktor Cleanslate
+- [Alpha-Prime]]
+- [[Ambassador Elena Diplomatic
+- [Ambassador Neutral]]
+- [[Ancient Aquabyssos Rulers
+- [Ancient Crystaldeep]]
+- [[Ancient Lore Knowledge Checks
+- [Ancient Memorial District]]
+- [[Ancient Pacts
+- [Ancient Siege Tunnels]]
+- [[Ancient Skyforge
+- [Annual_Renewal_Event]]
+- [[Anti-Corruption Task Force
+- [Anti-Scrying Division]]
+- [[Apprentice Copper
+- [Aquabyssos Cultural Codex]]
+- [[Aquabyssos Medical Council
+- [Aquabyssos Medical University]]
+- [[Aquabyssos Royal Navy
+- [Aquabyssos Shadow Pools]]
+- [[Aquabyssos Technical University
+- [Aquabyssos Trade Seal]]
+- [[Aquabyssos Vault Readme
+- [Aquabyssos_Government]]
+- [[Aquabyssos_Languages
+- [Arcana Dualweave]]
+- [[Arcane Assembly
+- [Arcanum Heights]]
+- [[Architect Coral Builder
+- [Architect Temporal Wisdom]]
+- [[Architecture Dimensional Bridging
+-
+- [Archmage Deflector Windturner]]
+- [[Archmage Lyralei Stormwind
+- [Archmage Tidal Currentweave]]
+- [[Argyros the Silver
+- [Artifacts Shard of Empathy]]
+- [[Artificer_PlayStation
+- [Assets Locations]]
+- [[Assets Npcs
+- [Atmospheric Research Society]]
+- [[Atoll Research Team
+- [Audit Investigator Thomas Truthseeker]]
+- [[Aurelius Goldwave
+- [Baroness Seraphina Moonweaver]]
+- [[Benthic Commune
+- [Benthic Spires]]
+- [[Bio-Magical Integration Laboratory
+- [Biomancer Corvus Intestinal]]
+- [[Biomech Specialist Tide Metalweaver
+- [Blood Price Protocol]]
+- [[Bomber Bobby Naturals
+- [Brightforge]]
+- [[Brother Gale Windwalker
+- [Brother Marcus the Deepgrown]]
+- [[Brother Thomas the Illuminated
+- [Business Coalitions]]
+- [[CR Calculator
+- [Campaign Epilogues]]
+- [[Campaign_Parallel_Quests
+- [Campaigns Aquabyssos Investigations the Shadow Parliament Conspiracy]]
+- [[Campaigns Aquabyssos the Parliament of Shadows Campaign
+- [Cargo Master Holdspace]]
+- [[Central Location
+- [Chamberlain Aurelius Windspeak]]
+- [[Chancellor Marcus Provinces
+- [Chancellor Squall Deepcurrent]]
+- [[Chief Marine Engineer Coral Seaforge
+- [Chief Resonance Engineer Harmony Crystalstone]]
+- [[Chief Temporal Engineer Paradox Timeweaver
+- [Chronarch Supreme]]
+- [[Circle of Eternal Seasons
+- [Citizens Adaptation Alliance]]
+- [[Citizens' Budget Review
+- [City Development Plan]]
+- [[Civil Rights Petition
+- [Cleaning_Kit_of_Ancients]]
+- [[Cliffside Manors
+- [Cloud Gardens]]
+- [[Cloud Merchants
+- [Cloud Shepherd Guild Customs]]
+- [[Clues Discovered
+- [Clues by Location]]
+- [[Clues_Discovered (02_Worldbuilding)
+- [Coastal Communities]]
+- [[Colonial Administration
+- [Combat Medic Nightshift]]
+- [[Combat Medicine Laboratory
+- [Combat_Actions]]
+- [[Coming-of-Age Traditions and Ceremonies
+- [Commander Darkwater]]
+- [[Commander Transparent
+- [Commercial Dispute Resolution Procedures]]
+- [[Communications Operator Silence
+- [Community Health Clinics]]
+- [[Community Investment Fund
+- [Community Organizer Current Communalspirit]]
+- [[Community-Based Restorative Justice
+- [Comparative Mythology]]
+- [[Complete Reality Merger System
+- [Completed Content]]
+- [[Completed_Content (02_Worldbuilding)
+- [Conceptual Being]]
+- [[Condition Tracker
+- [Conditions Reference]]
+- [[Confront the Possessed Queen
+- [Consciousness Contracts]]
+- [[Consciousness Surgery Rules
+- [Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Consequence Chain 3 Reality Merger Diplomatic Crisis
+- [Consequence Chain 4 - Deep Mother Awakening]]
+- [[Consequence Chain 5 - Marina Identity Revelation
+- [Consequence Chain 5 - Marina's Identity Revelation]]
+- [[Consequence Chain Name 1
+- [Consequence_Chain_Name_2 (02_Worldbuilding)]]
+- [[Consequence_Chain_Name_1 (02_Worldbuilding)
+- [Conspiracy Web]]
+- [[Conspiracy_Web (02_Worldbuilding)
+- [Continental War]]
+- [[Continuity Protocol
+- [Control Systems Engineer Flow Processwright]]
+- [[Convergence Engine
+- [Convergence Map]]
+- [[Convergence Maze
+- [Convergence Points]]
+- [[Convergence Ritual Rules
+- [Corporate Justice Codex]]
+- [[Corrupt Crystalline Guard
+- [Corrupt Guards]]
+- [[Corrupted Creatures
+- [Corrupted Crystal Guards]]
+- [[Corrupted Merrow
+- [Corruption Exposure Tracking]]
+- [[Corruption Gardens
+- [Corruption Intelligence Agency]]
+- [[Cosmic Awareness
+- [Cosmic Guardian Rules]]
+- [[Cosmic Truth Seekers
+- [Cosmic_Truth_Seekers (02_Worldbuilding)]]
+- [[Cosmology the Multiverse
+- [Council of Depths]]
+- [[Council of Mages
+- [Councillor Void]]
+- [[Counter-Mirror Safe Houses
+- [Courage Ale]]
+- [[Courier Swift Current
+- [Court Mage Apprentices]]
+- [[Cover Identity Coordinator
+- [Craftmaster Shadowwork]]
+- [[Creator
+- [Creatures Void Entities]]
+- [[Criminal Boss
+- [Crisis Command Center]]
+- [[Cross Realm Research Coalition
+- [Cross-Cultural Legal Association (02_Worldbuilding)]]
+- [[Cross-Realm Politics
+- [Cross-Realm Travel Guide]]
+- [[Cross-Realm Travel Guidelines
+- [Cross-realm diplomatic relations]]
+- [[Crown of Seven Shards
+- [Crushing Depths]]
+- [[Crying Peaks
+- [Crystal Addiction Victims]]
+- [[Crystal Assessor Pearl Gradewell
+- [Crystal Bridge Embassy]]
+- [[Crystal Command Cores
+- [Crystal Communication Center]]
+- [[Crystal Corruption Mechanics
+- [Crystal Corruption Taboos]]
+- [[Crystal Corruption
+- [Crystal Cult Organization]]
+- [[Crystal Dealer Fracture
+- [Crystal Exchange Plaza]]
+- [[Crystal Fever Random Tables
+- [Crystal Forest]]
+- [[Crystal Futures Contracts
+- [Crystal Garden]]
+- [[Crystal Harmony Faith
+- [Crystal Laboratory]]
+- [[Crystal Merchant Prism Brightstone
+- [Crystal Mines]]
+- [[Crystal Plague Infection Tracking
+- [Crystal Plague Progression System]]
+- [[Crystal Resonance Theory
+- [Crystal Sanctum]]
+- [[Crystal Singers
+- [Crystal Singing]]
+- [[Crystal Technology
+- [Crystal Workers Union]]
+- [[Crystal-Corruption-Tracking-Sheet
+- [Crystal-Enhanced Businesses]]
+- [[Crystal_Harmony_Faith (02_Worldbuilding)
+- [Crystal_Observatory]]
+- [[Crystal_Power_Core
+- [Crystal_Workers_Union (02_Worldbuilding)]]
+- [[Cultural Ambassador Bridge-Builder (02_Worldbuilding)
+- [Cultural Bridge Mediation]]
+- [[Cultural Exchange Protocols
+- [Cure Component Locations]]
+- [[Current Region
+- [Current Riders Union]]
+- [[Current Scene
+- [Current Session Notes]]
+- [[Customs House
+- [DM Screen]]
+- [[DM_Screen (02_Worldbuilding)
+- [D_005_Shadow_Bloom]]
+- [[D_005_Shadow_Bloom_Player
+- [D_010_Pirate_Shadow_Net]]
+- [[D_010_Pirate_Shadow_Net_Player
+- [D_019_Oracle_Whale]]
+- [[D_019_Oracle_Whale_Player
+- [D_201_Abyss_Mirror_Lake_Player]]
+- [[Daily Routine Nuances and Details
+- [Daily_Ritual_Quest]]
+- [[Dangerous Goods Storage
+- [Darkquill's Rare Books]]
+- [[Data Analyst Current Patternweave
+- [Dataview Query Guide]]
+- [[Deep Adaptation Processes
+- [Deep Biology Institute]]
+- [[Deep Current Society
+- [Deep Dragons]]
+- [[Deep Energy Consortium
+- [Deep Expeditions]]
+- [[Deep Guard
+- [Deep Initiation]]
+- [[Deep Mother Cult Practices
+- [Deep Mother Influence]]
+- [[Deep Mother Resistance Traits
+- [Deep Mother]]
+- [[Deep Mystic Aurelius Glowseeker
+- [Deep Oracle Thessaly]]
+- [[Deep Oracle
+- [Deep Prophecy]]
+- [[Deep Threat Assessment Bureau
+- [Deep Trenches]]
+- [[Deep Wardens
+- [Deep Water Rescue Service]]
+- [[Deep-Root Caretaker Nereon
+- [Deep-Sea Artifacts]]
+- [[Deepwatch Guard
+- [Democratic Erosion]]
+- [[Department of Defense
+- [Department of Public Health]]
+- [[Depth Effect Quick Reference
+- [Depth Forge]]
+- [[Depth Seekers
+- [Depth-Forged Trident]]
+- [[Depth_Survey_Authority (02_Worldbuilding)
+- [Depths Alliance]]
+- [[Deputy Inspector Crystal-Flow Maria
+- [Detection Technology Laboratory]]
+- [[Determine Aquabyssos
+- [Dice Roller]]
+- [[Dice_Roller (02_Worldbuilding)
+- [Dimensional Anchor Points]]
+- [[Dimensional_Resoce
+- [Diplomat Cross-Current Thane]]
+- [[Diplomatic Architecture
+- [Diplomatic Enclave]]
+- [[Diplomatic Event Scenarios
+- [Diplomatic Immunity Systems]]
+- [[Diplomatic Training Institute
+- [Disease_and_Plague_System]]
+- [[Dissolution Chambers
+- [Dissolution_Chambers (02_Worldbuilding)]]
+- [[Doctor Emma Herbalist
+- [Doctor_Emma_Herbalist (02_Worldbuilding)]]
+- [[Dr Marina Voidseeker
+- [Dr. Tidal Depthhealer]]
+- [[Dr. Void Mindwright
+- [Draft Content]]
+- [[Drill Commander Titanius Ironcrystal
+- [Drill Sergeant Discipline]]
+- [[Drowned
+- [Drowning Omens]]
+- [[Duchess Elara Brightwater
+- [Earl Thaddeus Blackthorn]]
+- [[Eastern Kingdom
+- [Eastern Kingdoms (02_Worldbuilding)]]
+- [[Echo-Who-Was-Elena
+- [Economic Crime Methods]]
+- [[Economic Development Director Carmen Commerc
+- [Economic Event Name 1]]
+- [[Economic Event Name 2 (02_Worldbuilding)
+- [Economic System Rules (02_Worldbuilding)]]
+- [[Economic Systems and Currency
+- [Economic_Event_Name_1 (02_Worldbuilding)]]
+- [[Economic_System
+- [Educational Systems and Institutions (02_Worldbuilding)]]
+- [[Effects Temporal Displacement
+- [Elder Kythara]]
+- [[Elder Sky-Singer Melody Windvoice
+- [Elder Things]]
+- [[Elder Willow Moonwhisper
+- [Elder_Sky-Singer_Melody_Windvoice (02_Worldbuilding)]]
+- [[Eldritch Blast
+- [Eldritch Secrets]]
+- [[Elemental Court
+- [Elemental_Air_Filter]]
+- [[Elena Starweaver.md
+- [Embassy Districts]]
+- [[Emergency Protocols Cente
+- [Emergency Reality Generators]]
+- [[Encounter Tables
+- [Encounter_Tables (02_Worldbuilding)]]
+- [[Encounters and Challenges
+- [Engineer Pressure-Smith]]
+- [[Engineer Torres Ironbrigh
+- [Enterprise Director Duskwork]]
+- [[Entities Abstract Cosmic Forces
+- [Entities Extra Dimensional Beings]]
+- [[Entities Void Touched Crystals
+- [Entities the Hungry Shadows]]
+- [[Entities the Living Paradox
+- [Environmental Challenge Guidelines]]
+- [[Environmental Hazards
+- [Environmental_Engineers]]
+- [[Equipment_Inventory
+- [Ethereal Anchors]]
+- [[Ethics Investigator Steel Truthseeke
+- [Every Tavern]]
+- [[Evidence Collection Guide
+- [Evidence Types Guide]]
+- [[Evidence
+- [Exhaustion]]
+- [[Existence Beacons
+- [Face the Ancient Threat]]
+- [[Faction Reputation
+- [Factions Abyssal Courts]]
+- [[Factions the Resonance Keepers
+- [Factions the Tide Singers]]
+- [[False Breathers
+- [Fear Farms]]
+- [[Federation of Crystal Trader
+- [Festival Coordinator Luna Celebration]]
+- [[Field Engineer Stone Installwrigh
+- [Filter_Exchange_Quest]]
+- [[Financial District
+- [Finn Brightwater]]
+- [[Fire Bolt
+- [Floating Markets]]
+- [[Forbidden Knowledge
+- [Foreign Crystal Traders]]
+- [[Foreign Governments
+- [Former Admiral Cortez]]
+- [[Fortress of the Deeps
+- [Fourth Shard of Binding]]
+- [[Fragment Compas
+- [Fragment Compass]]
+- [[Fragment Wars
+- [Frequency Manipulator]]
+- [[Frontier Settlement
+- [Future Aquabyssos]]
+- [[Future Gardeners
+- [GM_Quick_Reference]]
+- [[Gamma-Enforcement
+- [Gareth Brightweave]]
+- [[General Truthseeker Vale
+- [General Voidguar]]
+- [[Gideon Quickste
+- [Gimli Deepcurren]]
+- [[Gimli Deepcurrent
+- [Gm Session Packets Aethermoor Session 01]]
+- [[Gm Session Packets Aquabyssos Session 01
+- [Gm Ultimate GM Screen.md]]
+- [[Golden Ballroom
+- [Goldspire Expeditio]]
+- [[Goldspire Expedition
+- [Goldwhisper Manor]]
+- [[Goldwin the Merchant
+- [Government Officia]]
+- [[Grand Admiral Typhoon Stormcrest
+- [Grand Master Tempest Windvoic]]
+- [[Great Drowning
+- [Great Dying]]
+- [[Great Preparation
+- [Grinding_Workshop]]
+- [[Groundbreaker's Hamme
+- [Groups (02_Worldbuilding)]]
+- [[Guardian Isolation Syndrom
+- [Guidance]]
+- [[Hadal Zone
+- [Hall_of_Mirrors]]
+- [[Halls of Eternal Memory
+- [Handouts Ships Player Handout Aethermoor Airships]]
+- [[Handouts Ships Player Handout Merger Vessels
+- [Harmony Cores]]
+- [[Harmony Resonators
+- [Hazards Crystal Plague]]
+- [[Head of Memory Integration Dr. Nautilus Depthc... Related To: Local Political Structure Connected Plots: to Be Developed
+- [Heart Crysta]]
+- [[Heart Grov
+- [Heart of Convergence]]
+- [[Hidden Monastery of Eternal Currents
+- [Hidden Sanctuary]]
+- [[High Judge Moira Truthseeke
+- [High Priestess Coral Depthsinger]]
+- [[High Priestess Tidal Blessing
+- [Home Embeds#Recently Modifie]]
+- [[Hybrid Abominations
+- [INV-002]]
+- [[INV-003 (02_Worldbuilding)
+- [INV-006 (02_Worldbuilding)]]
+- [[INV-007 (02_Worldbuilding)
+- [INV-008 (02_Worldbuilding)]]
+- [[Identity Crisis Resolution
+- [Identity Storage Vaul]]
+- [[Identity Trader Masquerad
+- [Illumination Crystal]]
+- [[Imperial Crown Fragment
+- [Impossibility Crystals]]
+- [[Infected Experiments
+- [Infiltrate Surgical Facilities]]
+- [[Infinite Mathematics Divisio
+- [Influence Detector]]
+- [[Information Broker Selan
+- [Information Broker Whisper Goldtongue]]
+- [[Initiate Shadow-Walker
+- [Initiative]]
+- [[Innovative Artisa
+- [Inquisitor Thorne]]
+- [[Inspector Helena Truthseeker
+- [Institute for Supernatural Health Studies]]
+- [[Institute of Adaptive Sciences
+- [Institute of Aquatic Mysticism]]
+- [[Institute of Recursive Reality Studies
+- [Institute_of_Adaptive_Sciences (02_Worldbuilding)]]
+- [[Institute_of_Aquatic_Mysticism (02_Worldbuilding)
+- [Intel Master Raven Shadowsigh]]
+- [[Intelligence Services 2
+- [Inter-Species Relations Division]]
+- [[Inter-Species_Relations_Division (02_Worldbuilding)
+- [Interdimensional Sanctuary]]
+- [[International Commerce
+- [International Crystal Trade Associatio]]
+- [[International Exchange Program
+- [International Law Enforcement]]
+- [[International Pressure
+- [International Temporal Safety Counci]]
+- [[Interrogation Techniques
+- [Intervention Windows]]
+- [[Investigation Laboratories
+- [Investigation Log INV-000]]
+- [[Investigation Mechanics
+- [Investigator Lucian Brightwater]]
+- [[Iron Jack Shadowhand
+- [Island of Scream]]
+- [[Jasper Three Eyes Flint
+- [Jeeve]]
+- [[Jenny Copperwright
+- [Journeyman Smith Iron]]
+- [[Judge-Militant Adamant Truestone
+- [Keeper of Failures, Marcus Ashworth]]
+- [[Kelp Forest Monasteries
+- [Key Locations]]
+- [[Key Officer
+- [King_Queen_Current_Monarch]]
+- [[Knowledge Overwhelming Revelations
+- [Known Locations]]
+- [[Krake
+- [Kraken Territories]]
+- [[Law Enforcement (02_Worldbuilding)
+- [Law Enforcement 2]]
+- [[Leader Name
+- [Legal Advisor Depth Justice]]
+- [[Legal Defense Network
+- [Legal Reform Movemen]]
+- [[Legal_Advisor_Depth_Justice (02_Worldbuilding)
+- [Leviathan Graveyard]]
+- [[Ley Line Network
+- [Ley_Line_Network (02_Worldbuilding)]]
+- [[Lieutenant Marcus
+- [Lieutet_Bloodcoral_Vex_Tidebreaker]]
+- [[Lighthouse_of_Storms
+- [Living Allianc]]
+- [[Living Librar
+- [Local Leader]]
+- [[Location Index
+- [Location Name]]
+- [[Locations Abyssal Forges
+- [Locations Crystal Conservatory]]
+- [[Locations Crystal Shadow Storms
+- [Locations the Cosmic Library]]
+- [[Locations the Emergency Response Center
+- [Locations the Equipment Vaults]]
+- [[Locations the Meditation Spheres
+- [Locations the Synthesis Wastes]]
+- [[Locations the Time Anchor
+- [Locations the Void Scanner]]
+- [[Locations the Watcher Sanctums
+- [Lock Fragmen]]
+- [[Lock Fragment
+- [Lord Flux]]
+- [[Lore
+- [Lost Fleet]]
+- [[Luck Spirit
+- [Lumengarde Republi]]
+- [[Luminous Sterling
+- [Lyra Voidweaver]]
+- [[Lysandra Tidecaller
+- [Magic User]]
+- [[Magic Users
+- [Magical Authenticatio]]
+- [[Maintece_Supervisor_Tide_Fixwright
+- [Maintenance_Schedule_]]
+- [[Maintenance_Supplies
+- [Major_Trading_Companies (02_Worldbuilding)]]
+- [[Malachar the Mindweave
+- [Manifestation Chambers]]
+- [[Maps (02_Worldbuilding)
+- [Marcus Goldweaver]]
+- [[Marcus Ledgerbor
+- [Marcus Truthseeker]]
+- [[Mariana Depths
+- [Marina Currentswift Full Stats]]
+- [[Marina Red Tide Coralhear
+- [Marina Tidecrest]]
+- [[Marina the Unifie
+- [Marina''s_Echo (02_Worldbuilding)]]
+- [[Market Charte
+- [Market Squar]]
+- [[Market_Industry_Name_1
+- [Market_Industry_Name_2 (02_Worldbuilding)]]
+- [[Marquis Benedict Riversen
+- [Marquis Benedict Riversend]]
+- [[Marquis Storm Tempest
+- [Marriage_Counselor_Tidal_Harmony (02_Worldbuilding)]]
+- [[Master Artist Pear
+- [Master Banker Cornelius Coinwright]]
+- [[Master Chamberlain Geoffrey Wellesle
+- [Master Cloud Shepherd Zephyr Stormcalle]]
+- [[Master Environmental Specialist Tidal Convergenc
+- [Master Harvest Engineer Kelp Deepso]]
+- [[Master Navigator Tidal Crosscurren
+- [Master Resonants]]
+- [[Master Thorne Blackforge
+- [Master of the Gallery Cornelius Publicvoice]]
+- [[Master_Timeline
+- [Medallion of the Depths]]
+- [[Mediator's Pendant
+- [Medical Applications Coordinator]]
+- [[Medical Combat Manual
+- [Medical Cover Credentials]]
+- [[Medical Research Laboratories
+- [Medical Research Rules]]
+- [[Medicine Hybrid Healing
+- [Memory Alteration Consequences]]
+- [[Memory Alterations
+- [Memory Blade]]
+- [[Memory Coral
+- [Memory Corruption Mechanics]]
+- [[Memory Crystals
+- [Memory Disruptor Arrays]]
+- [[Memory Instruments
+- [Memory Magic]]
+- [[Memory Manipulation Mechanics
+- [Memory Merchant Centers]]
+- [[Memory Merchant Mneme
+- [Memory Merchant Valeria]]
+- [[Memory Merchant Zara Mindweave
+- [Memory Mirror Master]]
+- [[Memory Storm Random Events
+- [Memory Tide Disaster]]
+- [[Memory Tide Events
+- [Memory Tides]]
+- [[Memory Trader Kellian
+- [Memory of Heroes]]
+- [[Memory_Keepers
+- [Memory_Pearls (02_Worldbuilding)]]
+- [[Merchant Family Alliances
+- [Merchant Null Profiteer]]
+- [[Merchant Prince Gold
+- [Merchant Prince Marcus Goldflow]]
+- [[Merchant Shade Voidbargain
+- [Merchant Truth Society]]
+- [[Merfolk
+- [Merged Magic]]
+- [[Merger Transit Zones
+- [Meta Bind Examples]]
+- [[Methane Forests
+- [Midnight Trenches]]
+- [[Military Architect Darius Swiftblade
+- [Military Bases]]
+- [[Military Moral Quandaries
+- [Mind Guardian Vera]]
+- [[Mirror Merchant Marina
+- [Monster Manual Reference]]
+- [[Monster Stats
+- [Mysterious Figure]]
+- [[NPC Name Generator
+- [NPC Relationship Web]]
+- [[Naia Deepcurrent
+- [Name Etymology Guide]]
+- [[Narcissus Silverwater
+- [Navigate Singer Consciousness]]
+- [[Navigator Stormwatch
+- [Necromancer's Conclave]]
+- [[Necromantic Rituals
+- [Neutral Grounds]]
+- [[New Meridian
+- [Nightmarket Plaza]]
+- [[Noble Opposition
+- [Observatory Codex]]
+- [[Observatory of Sunken Stars
+- [Obsidian Setup Instructions]]
+- [[Old Tongue
+- [Opposition Intelligence Center]]
+- [[Oracle Mistweaver
+- [Organizations the Chroniclers]]
+- [[Organizations the Life Eternal
+- [Organizations the Truth Seekers]]
+- [[Orphan_Notes
+- [Outfitters_Shop]]
+- [[Overmind Depth-Thought Eternal
+- [PROGRESS_REPORT_2025-08-10_SESSION3]]
+- [[Paradox Legal Counsel
+- [Parallel Realities]]
+- [[Paramedic Supervisor Fastaid
+- [Parasite Boarding & Biohazards]]
+- [[Parasite_Boarding_&_Biohazards (02_Worldbuilding)
+- [Parliament Building Map]]
+- [[Parliament of Echoes
+- [Party Members]]
+- [[Party_Members (02_Worldbuilding)
+- [Pearl Divers]]
+- [[Pearl Merchant Tidal Goldflow
+- [Pelagic the Current-Walker]]
+- [[People_1 (02_Worldbuilding)
+- [Phase Shift Devices]]
+- [[Phase Transition Special Effects
+- [Philosopher-Noble Depth-Crown]]
+- [[Philosopher-Reformer Unity Bridgewright
+- [Pirates]]
+- [[Places
+- [Planar Entities]]
+- [[Political Compromise Costs
+- [Political Intrigue Generator]]
+- [[Political Intrigue Master Index
+- [Political Maneuvering]]
+- [[Political System Rules (02_Worldbuilding)
+- [Port Meridian Festival Guide]]
+- [[Possessed Noble Coterie
+- [Post-Merge Chronology]]
+- [[Pre-Submersion Ruins
+- [Prep Note]]
+- [[Pressure Adaptation System
+- [Pressure Anomaly Regions]]
+- [[Pressure Current
+- [Pressure Effects]]
+- [[Pressure Linguistics
+- [Pressure Sculpting]]
+- [[Prince Aurelius Lightbringer
+- [Prince Caelum Stormwright]]
+- [[Prince Caspian
+- [Prince Thalassic]]
+- [[Princess Aria
+- [Princess Celestia]]
+- [[Princess Celestine Lumengarde
+- [Privacy Protection Agency]]
+- [[Private Investigator Rex Coldcase
+- [Problems Time Stream Disruptions]]
+- [[Procedures Dual Integration Therapy
+- [Procedures Energy State Conversion]]
+- [[Products Null State Materials
+- [Professional Terminology]]
+- [[Professor Aldwin Cleartext
+- [Professor Depth Biologist]]
+- [[Professor Euclid Mindmaze
+- [Progressive Research Institutions]]
+- [[Project Double Laboratory
+- [Prominent Merchant]]
+- [[Propaganda Distribution Networks
+- [Prophecies_and_Omens]]
+- [[Prophetic Circle
+- [Prophetic Visions]]
+- [[Prophetic_Circle (02_Worldbuilding)
+- [Protocol Specialist Sarah Ceremonial]]
+- [[Provincial Nobility
+- [Public Works Yard]]
+- [[Purification Chambers
+- [Purified Crystal Samples]]
+- [[Purifier Marcus Steelbane
+- [Quality Inspector Wave Purewater]]
+- [[Quarantine Enforcement
+- [Queen Seraphina's Progression]]
+- [[Quest_-_The_Filter_Exchange
+- [Quest_-_The_Purification_Ritual]]
+- [[Quest_-_The_Weekly_Cleansing
+- [Quick_NPC (02_Worldbuilding)]]
+- [[Quiet Haven
+- [Race Against the Festival]]
+- [[Random Encounters
+- [Random Loot]]
+- [[Random Tavern
+- [Random_Encounters (02_Worldbuilding)]]
+- [[Random_Loot (02_Worldbuilding)
+- [Random_Tavern (02_Worldbuilding)]]
+- [[Reality Anchor Networks
+- [Reality Anchor Points]]
+- [[Reality Anchor Smith
+- [Reality Anchoring]]
+- [[Reality Distortion Mechanics
+- [Reality Distortion Tables]]
+- [[Reality Integration Rules
+- [Reality Merge Zones]]
+- [[Reality Stabilization Anchors
+- [Reform Advocate Justice Truthseeker]]
+- [[Region Name
+- [Regional Coordinator Abyss Lightkeeper]]
+- [[Regional Coordinator Crystal Truthseer
+- [Regional Coordinator Frontier Authentic]]
+- [[Regional Coordinator Harbor Watchful
+- [Regional Coordinator Industry Truthful]]
+- [[Regional Politics
+- [Regional Territory]]
+- [[Relationship Web Nuances
+- [Religious Communities]]
+- [[Religious Leader Father Ocean Breeze
+- [Religious Privacy Advocates]]
+- [[Religious Purists
+- [Reputation System]]
+- [[Research D&d Sourcebooks
+- [Research D&d Statblocks]]
+- [[Resistance Leader Thane Freeheart
+- [Resoce_Equipment]]
+- [[Resoce_Roses
+- [Resonance Chamber]]
+- [[Resonance Crystal
+- [Resonance Equipment]]
+- [[Resonance Peaks
+- [Respiratory Sciences Research Institute]]
+- [[Rising Dark
+- [Royal Academy of Arcane Arts - Ruins]]
+- [[Royal Academy of Arcane Arts
+- [Royal Bloodline Codex]]
+- [[Royal Bunker
+- [Royal Court of Aethermoor]]
+- [[Royal Crystal Laboratory
+- [Royal Government]]
+- [[Royal Guard
+- [Royal Herald Marcus]]
+- [[Royal Regalia
+- [Runaway_Golem_Quest]]
+- [[S_004_Cloud_Canyon
+- [S_004_Cloud_Canyon_Player]]
+- [[S_009_Void_Moan
+- [S_009_Void_Moan_Player]]
+- [[S_018_Choir_Pirates
+- [S_018_Choir_Pirates_Player]]
+- [[S_201_Eclipse_Raid_Window_Player
+- [Sage of Two Worlds]]
+- [[Saint Meridia the Unifier
+- [Sarah Chronicler]]
+- [[Scepter of Tidal Command
+- [Scholar Paradox Timeweave]]
+- [[Scholar Wisdom Clearwater
+- [Seal Vault Complex]]
+- [[Security Chief Marcus Depthguard
+- [Security Chief Razor Currentstorm]]
+- [[Senator Economic Shadow
+- [Senator Shadow-Glaucus]]
+- [[Senior Tidal Engineer Marina Flowmaster
+- [Seraphina the Beautiful]]
+- [[Sergeant Major Deep Veteranstrike
+- [Services Civilian Protection]]
+- [[Services Cosmic Event Prediction
+- [Services Crisis Containment]]
+- [[Services Reality Anchor Installation
+- [Services Reality Anchor Operation]]
+- [[Services Reality Protection
+- [Services Reality Stabilization]]
+- [[Services Void Entity Banishment
+- [Session_10_New_Horizons]]
+- [[Session_12_The_Infinity_Engine
+- [Seven Shards Campaign Campaign Overview]]
+- [[Seven Shards Combat Encounters
+- [Seven Shards Overview]]
+- [[Seven Shards Quick Reference
+- [Seven_Shards_Overview (02_Worldbuilding)]]
+- [[Seventh Shard of Unity
+- [Shadow Ability Ethics]]
+- [[Shadow Attache Void
+- [Shadow Collective]]
+- [[Shadow Community Political Power
+- [Shadow Conspiracy Overview]]
+- [[Shadow Conspiracy
+- [Shadow Constitution]]
+- [[Shadow Convergence
+- [Shadow Detection Crystals]]
+- [[Shadow Detection Methods
+- [Shadow Detection Orb]]
+- [[Shadow Energy Addiction
+- [Shadow Energy Processing Facilities]]
+- [[Shadow Honor System
+- [Shadow Kraken]]
+- [[Shadow Magic Integration Practices
+- [Shadow Medical License]]
+- [[Shadow Medical Training Methods
+- [Shadow Network]]
+- [[Shadow Operations Base
+- [Shadow Saints]]
+- [[Shadow Script
+- [Shadow Surgery Center]]
+- [[Shadow Surgical Instruments
+- [Shadow-Crystal Synthesis]]
+- [[Shadow-Touched Mine Foreman Brokk
+- [Shadow-Touched Surgical Tools]]
+- [[Shadowhaven Merchant Marine.md
+- [Shadowhaven Underground]]
+- [[Shadowlands
+- [Shard Corruption Mechanics]]
+- [[Shard Corruption Random Tables
+- [Shard Powers and Effects]]
+- [[She-Who-Sees-Beyond
+- [Shield]]
+- [[Shop Inventories
+- [Shop_Inventories (02_Worldbuilding)]]
+- [[Signal_Keepers
+- [Silver Mask]]
+- [[Silverbrook City
+- [Silverscale Banking House]]
+- [[Silverscale Crystal Warehouses
+- [Silverscale Trade Embassy]]
+- [[Silverscale Trading Post
+- [Sixth Shard of Convergence]]
+- [[Sky Burial Traditions
+- [Skyforge]]
+- [[Sleep Magic (02_Worldbuilding)
+- [Smuggler''s Cove]]
+- [[Social_Encounter_Guidelines
+- [Solar Corruption]]
+- [[Sorrow Pearls Economy
+- [Speaker Marcus Resonance]]
+- [[Spy-Master Nonentity
+- [Spymaster Quartz Clearview]]
+- [[Storm Observatories
+- [Storm Shard]]
+- [[Storm Speakers
+- [Storm Warden Gale Farwatch]]
+- [[Storm of Eternal Lightning
+- [Stormwind Estate]]
+- [[Stormwind's Navigation Crystal
+- [Strike Team Communications]]
+- [[Student Engineer Bronze
+- [Student Scholar Inkwell Brightmind]]
+- [[Surface Breach Points
+- [Surface Rising]]
+- [[Surgeon Marcus Healhand
+- [Surgeon Shadow-Touched]]
+- [[Survival Codex
+- [Synthesis Healing Pods]]
+- [[System Operator Tide Watchwright
+- [System1 (02_Worldbuilding)]]
+- [[Target Name
+- [Tavern Names]]
+- [[Tax Commissioner Merion Goldcount
+- [Technical Director Jasper Lightforge]]
+- [[Technician Dark Arts
+- [Technology Probability Monitors]]
+- [[Tempest Peak
+- [Temple of the First Tide]]
+- [[Temporal Anomaly Resolution
+- [Temporal Control]]
+- [[Temporal Distortion Zones
+- [Temporal Healers]]
+- [[Temporal Locks
+- [Temporal Navigator]]
+- [[Temporal Pools
+- [Temporal Research Division]]
+- [[Temporal Sentinels
+- [Thalassa the Life-Weaver]]
+- [[Thalassius the Wise
+- [The Abyssal Prophet]]
+- [[The Abyssal Tavern
+- [The Abyssal Trenches]]
+- [[The Adaptation Institute
+- [The Anchor of Being]]
+- [[The Ancient Treants
+- [The Arterial Highways]]
+- [[The Artisans' Collective
+- [The Ascending Spirit]]
+- [[The Audit Tower
+- [The Authentication Crisis]]
+- [[The Awakened Grove Council
+- [The Azure Shard]]
+- [[The Bathyal Succession
+- [The Black Ledger]]
+- [[The Bleeding Chambers
+- [The Bloom Fields]]
+- [[The Bone Bridges
+- [The Breathing Stone]]
+- [[The Broken Tower
+- [The Cargo Inspection Station]]
+- [[The Century of Storms
+- [The Children's Grotto]]
+- [[The Chronicle Depths
+- [The Circle of Depths]]
+- [[The Citadel of Azure Flame
+- [The Citadel of Depths]]
+- [[The Citizens Protection Act
+- [The Community Bridge]]
+- [[The Concordat Seal
+- [The Consciousness Shard Discovery]]
+- [[The Consciousness Vault
+- [The Convergence Crown]]
+- [[The Convergence Guardian
+- [The Convergence Key]]
+- [[The Convergence Laboratory
+- [The Convergence Maze]]
+- [[The Convergence Oracle
+- [The Coral Architecture Philosophy]]
+- [[The Coral Estates
+- [The Coral Gardens]]
+- [[The Corrupted Admiralty
+- [The Corrupted Twins]]
+- [[The Counting House
+- [The Crimson Hand]]
+- [[The Crown (02_Worldbuilding)
+- [The Crown of Stars]]
+- [[The Crown''s Burden
+- [The Crystal Amphitheater]]
+- [[The Crystal Express
+- [The Crystal Festival]]
+- [[The Crystal Gardens
+- [The Crystal Gardens_1 (02_Worldbuilding)]]
+- [[The Crystal Governance Institute
+- [The Crystal Influence]]
+- [[The Crystal Integration Festival
+- [The Crystal Palace]]
+- [[The Crystal Pier
+- [The Crystal Renaissance]]
+- [[The Crystal Shepherds
+- [The Crystal Sovereign]]
+- [[The Crystalline Citadel
+- [The Current Maps]]
+- [[The Current Readers
+- [The Deep Harvest]]
+- [[The Deep Mother Rises
+- [The Deep Prophecies]]
+- [[The Deep Trading Halls
+- [The Departed Collective]]
+- [[The Depth Hierarchy
+- [The Depth Reapers]]
+- [[The Depth Sounders
+- [The Deserter's Tale]]
+- [[The Dimensional Anchor Stone
+- [The Dimensional Bridge]]
+- [[The Dimensional Hospital
+- [The Dreaming Trench]]
+- [[The Drowning Embrace
+- [The Drowning Welcome]]
+- [[The Emperor's Gambit
+- [The Ethical Committee]]
+- [[The Exchange Point
+- [The Exchange Rate]]
+- [[The Festival of Rising Tides
+- [The Final Choice]]
+- [[The Final Confrontation
+- [The Final Forgetting]]
+- [[The Final Merger
+- [The First Transformation Wave]]
+- [[The First Water
+- [The Fishing Fleets]]
+- [[The Forbidden Section
+- [The Forgetting Bomb]]
+- [[The Fortress of the Deeps
+- [The Free Traders Alliance]]
+- [[The Ghost Walker
+- [The Ghostly Librarians]]
+- [[The Gilded Anchor
+- [The Glass Twins]]
+- [[The Grand Crystal Exchange
+- [The Grand Trade Routes]]
+- [[The Great Elevation
+- [The Great Mother Tree]]
+- [[The Great Tidal Amphitheater
+- [The Great Tidal Shrine]]
+- [[The Growth Gardens
+- [The Hall of Records]]
+- [[The Healing Waters Chalice
+- [The Heart of Convergence]]
+- [[The Heroes' Hall
+- [The Identity Chamber]]
+- [[The Identity Mirror
+- [The Infinite Spiral]]
+- [[The Integration Institute
+- [The Inter-Realm Celebration Committee]]
+- [[The Keening Cliffs
+- [The Kelp Gardens]]
+- [[The Kelp Highways
+- [The Kelp Territories]]
+- [[The Life Shard
+- [The Liminal Space]]
+- [[The Living Tools
+- [The Maelstrom Court]]
+- [[The Masked Broker
+- [The Mediator]]
+- [[The Memory Anchor
+- [The Memory Bridge]]
+- [[The Memory Garden
+- [The Memory Nexus]]
+- [[The Memory Wardens
+- [The Memory Weapon Arms Race]]
+- [[The Memory Weapon Vault
+- [The Memory Weaver]]
+- [[The Memory Weavers
+- [The Meridian Sanctum]]
+- [[The Mirror of Succession
+- [The Natural Path Manifesto]]
+- [[The Neural Clusters
+- [The Neutral Tavern]]
+- [[The Nexus of All Possibilities
+- [The Opposition Leader]]
+- [[The Oracle
+- [The Overflow]]
+- [[The Paradox Constitution
+- [The Paradox Engine]]
+- [[The Past Warden
+- [The Phantom Docks]]
+- [[The Phantom Fence
+- [The Phantom Fleet]]
+- [[The Preservation Current
+- [The Pressure Baptism Rites]]
+- [[The Pressure Gates
+- [The Pressure Wars]]
+- [[The Professional Standards Authority
+- [The Professional Training Academy]]
+- [[The Queen
+- [The Rationing Authority]]
+- [[The Reality Compass
+- [The Reality Guards]]
+- [[The Reality Nexus
+- [The Reality Storm Crisis]]
+- [[The Recursion Nexus
+- [The Reflection Chamber]]
+- [[The Remembrancer General
+- [The Resistance Formation]]
+- [[The Resonance Crater
+- [The Resonance Workshop]]
+- [[The Restoration Movement
+- [The Restoration of Crystal Grove]]
+- [[The Revelation Chamber
+- [The Royal Awakened Corps]]
+- [[The Royal Transformation
+- [The Rumor Mill]]
+- [[The Safe Houses
+- [The Scales of Fortune]]
+- [[The Seasonal Courts
+- [The Seven Deep Truths]]
+- [[The Seven Shards Campaign (02_Worldbuilding)
+- [The Seven Shards Prophecy]]
+- [[The Seventh Shard
+- [The Shadow Awakening]]
+- [[The Shadow Labs
+- [The Shadow Merchant Prim]]
+- [[The Shadowmere Purification
+- [The Shadowmere Territories]]
+- [[The Shadowthorn Combat System
+- [The Shadowwatch Bastion]]
+- [[The Silence
+- [The Silent Vote]]
+- [[The Silent Watcher Entity
+- [The Silver Quill]]
+- [[The Silverscale Conspiracy
+- [The Singer Beyond]]
+- [[The Sky Academy
+- [The Southern Trading Companies]]
+- [[The Spire of Courage
+- [The Spire of Knowledge]]
+- [[The Storm Callers
+- [The Storm Riders]]
+- [[The Strangling Vine
+- [The Sunken Conspiracy]]
+- [[The Surface Integration Initiative
+- [The Symbiotic Compact]]
+- [[The Temporal Observatory
+- [The Tethyan Hegemony]]
+- [[The Throne Room
+- [The Tide Pools]]
+- [[The Transformation Rights Movement
+- [The Transformation Tracker]]
+- [[The Transformed Citizens
+- [The Transition Protocols]]
+- [[The Umbral Pavilion
+- [The Unity Seeds]]
+- [[The Unity Seekers
+- [The Unnamed Chronicler]]
+- [[The Unnamed Hierophant
+- [The Unshadowed]]
+- [[The Vault of Scales
+- [The Vault of Values]]
+- [[The Vault of Whispers
+- [The Verdant Shard]]
+- [[The Visiting Scholar Complex
+- [The Void Breach]]
+- [[The Wild Current Confederacy
+- [The Wild Hunt]]
+- [[The Wind Roads
+- [The Wind Shrine Archipelago]]
+- [[The Wind-Rider Cultural Center (02_Worldbuilding)
+- [The_Community_Sky-Platforms (02_Worldbuilding)]]
+- [[The_Great_Festival_Grounds (02_Worldbuilding)
+- [The_Inter-Realm_Celebration_Committee (02_Worldbuilding)]]
+- [[The_Loyal_Remt
+- [The_Merchant's_Covet]]
+- [[The_Professional_Standards_Authority (02_Worldbuilding)
+- [The_Rationing_Authority (02_Worldbuilding)]]
+- [[The_Resoce_Crater
+- [The_Resoce_Workshop]]
+- [[Theoretical Physicist Marina Voidwright
+- [Thermal Vent Communities]]
+- [[Thessaly the Illuminated
+- [Threats Extra Dimensional Invasions]]
+- [[Throne Room
+- [Thugs]]
+- [[Tidal Crown
+- [Tidal Memory Ceremonies]]
+- [[Tide Turner''s Trident
+- [Tide_Turner''s_Trident (02_Worldbuilding)]]
+- [[Time's Mercy
+- [Timeline Synchronization Guide]]
+- [[Timeline
+- [Timeline_Tracker.base]]
+- [[To Be Determined
+- [Tobias Currentrider]]
+- [[Tobias Quillwright
+- [Tools Dual State Sensors]]
+- [[Trade Council Representative Nerissa Pearlsong
+- [Trade Networks]]
+- [[Trade Representatives
+- [Trade Route Establishment]]
+- [[Trade Route Stations
+- [Trade Specialist Commerce]]
+- [[Trade_Goods
+- [Trader Cross-Current Jin]]
+- [[Training Camps
+- [Translator Marina Polyglot]]
+- [[Transparency Coalition
+- [Travel Pace]]
+- [[Travel Times
+- [Travel_Pace (02_Worldbuilding)]]
+- [[Travel_Rules
+- [Travel_Times (02_Worldbuilding)]]
+- [[Treasure Hunter Goldseeker
+- [Treasurer Mint Coinwise]]
+- [[Treatments Synthesis Consciousness Transfer
+- [Treaty of Seven Skies]]
+- [[Truth-seeker's Lens
+- [Twilight Born]]
+- [[Umbral Exchange
+- [Umbral Scholar Valentina Depthlore]]
+- [[Umbros Shadowdrain
+- [Underground Railroad Leader]]
+- [[Underwater Breathing
+- [Underwater Monastery Network]]
+- [[Underwater_Monastery_Network (02_Worldbuilding)
+- [Unite or Divide]]
+- [[Unite the Two Worlds
+- [Unity Crown Fragment]]
+- [[Unity Shard Mechanics
+- [University Heights]]
+- [[Unknown Contact
+- [Unknown Rival]]
+- [[Vault Prime
+- [Void Breaker Staffs]]
+- [[Void Guardian Mantles
+- [Void Magic]]
+- [[Void Realm Territories
+- [Void Sanctum]]
+- [[Void Spaces
+- [Void Suits]]
+- [[Void Technician Prima Nullbane
+- [Void-Touched]]
+- [[Void-touched Assassins
+- [Void-warded Cloak]]
+- [[Void_Keeper_Sister_Nyx_space
+- [Vote Engineer Abyssal Cog]]
+- [[War College of Depths
+- [War of the Shattered Crown]]
+- [[Weather Sage Ancient Tempest
+- [Weather Warden Storm Wisdom]]
+- [[Weekly_Cleansing
+- [Whisper Collective]]
+- [[Whisper Jack
+- [Whisper Touched William's Oracle Shrine]]
+- [[Whisper-Touched Elena
+- [Whispering Wildlands]]
+- [[Widow's Rest
+- [WikiLink]]
+- [[Wind Currents
+- [Wind Monks]]
+- [[Wind Riders
+- [Wind Song Linguistic Guide]]
+- [[Wind Song Traditions
+- [Wind Songs]]
+- [[Wind Speaker Aria Ghostheart
+- [Winds of Rebellion]]
+- [[Working Class Routines
+- [World_Primer]]
+- [[XP Calculator
+- [XP_Calculator (02_Worldbuilding)]]
+- [[Young Diver Coral Swiftcurrent
+- [aarakocra-skirmisher-xmm]]
+- [[abominable-yeti-xmm
+- [air-elemental-xmm]]
+- [[art-elemental-mascot-scc
+- [awakened-shrub-xmm]]
+- [[awakened-tree-xmm
+- [axe-beak-xmm]]
+- [[beholder-zombie-xmm
+- [black-bear-xmm]]
+- [[black-pudding-xmm
+- [blink-dog-xmm]]
+- [[blood-hawk-xmm
+- [bone-naga-xmm]]
+- [[brackish-trudge-scc
+- [brown-bear-xmm]]
+- [[bugbear-warrior-xmm
+- [centaur-trooper-xmm]]
+- [[cloud-giant-xmm
+- [cogwork-archivist-scc]]
+- [[constrictor-snake-xmm
+- [cyclops-sentry-xmm]]
+- [[d100
+- [daemogoth-titan-scc]]
+- [[data_content_validator.py
+- [death-dog-xmm]]
+- [[dire-wolf-xmm
+- [displacer-beast-xmm]]
+- [[dungeoneers-pack-xphb
+- [dust-mephit-xmm]]
+- [[dwarves-on-the-move-group-leader-mtf
+- [earth-elemental-xmm]]
+- [[fire-elemental-xmm
+- [fire-giant-xmm]]
+- [[flying-snake-xmm
+- [fractal-mascot-scc]]
+- [[frost-giant-xmm
+- [galeb-duhr-xmm]]
+- [[gas-spore-fungus-xmm
+- [gelatinous-cube-xmm]]
+- [[giant-ape-xmm
+- [giant-badger-xmm]]
+- [[giant-bat-xmm
+- [giant-boar-xmm]]
+- [[giant-centipede-xmm
+- [giant-constrictor-snake-xmm]]
+- [[giant-crab-xmm
+- [giant-crocodile-xmm]]
+- [[giant-eagle-xmm
+- [giant-elk-xmm]]
+- [[giant-fire-beetle-xmm
+- [giant-frog-xmm]]
+- [[giant-goat-xmm
+- [giant-hyena-xmm]]
+- [[giant-lizard-xmm
+- [giant-owl-xmm]]
+- [[giant-rat-xmm
+- [giant-scorpion-xmm]]
+- [[giant-spider-xmm
+- [giant-toad-xmm]]
+- [[giant-venomous-snake-xmm
+- [giant-vulture-xmm]]
+- [[giant-wasp-xmm
+- [giant-weasel-xmm]]
+- [[giant-wolf-spider-xmm
+- [githzerai-groups-githzerai-group-leader-mtf]]
+- [[githzerai-zerth-xmm
+- [gnoll-fang-of-yeenoghu-xmm]]
+- [[gnoll-warrior-xmm
+- [goblin-warrior-xmm]]
+- [[gray-ooze-xmm
+- [green-hag-xmm]]
+- [[grick-ancient-xmm
+- [guardian-naga-xmm]]
+- [[gulthias-blight-xmm
+- [hell-hound-xmm]]
+- [[hill-giant-xmm
+- [hobgoblin-warrior-xmm]]
+- [[holy-symbol-varies-holy-symbols-xphb
+- [hook-horror-xmm]]
+- [[ice-mephit-xmm
+- [improvised-damage-xdmg]]
+- [[inkling-mascot-scc
+- [insect-plague-xphb]]
+- [[killer-whale-xmm
+- [kobold-warrior-xmm]]
+- [[kuo-toa-monitor-xmm
+- [kuo-toa-whip-xmm]]
+- [[kuo-toa-xmm
+- [list-spells-optional-features-gift-of-the-depths-xphb]]
+- [[list-spells-school-abjuration
+- [list-spells-school-conjuration]]
+- [[list-spells-school-divination
+- [list-spells-school-enchantment]]
+- [[list-spells-school-evocation
+- [list-spells-school-necromancy]]
+- [[list-spells-school-transmutation
+- [long-rest-xphb]]
+- [[maddening-darkness-xge
+- [mage-hunter-scc]]
+- [[magma-mephit-xmm
+- [merfolk-skirmisher-xmm]]
+- [[mind-flayer-arcanist-xmm
+- [mind-flayer-xmm]]
+- [[minotaur-of-baphomet-xmm
+- [myconid-spore-servant-xmm]]
+- [[myconid-sprout-xmm
+- [ochre-jelly-xmm]]
+- [[ogrillon-ogre-xmm
+- [pest-mascot-scc]]
+- [[phase-spider-xmm
+- [polar-bear-xmm]]
+- [[purple-worm-xmm
+- [pushing-attack-xphb]]
+- [[relic-sloth-scc
+- [reports]]
+- [[riding-horse-xmm
+- [ruin-grinder-scc]]
+- [[rust-monster-xmm
+- [saber-toothed-tiger-xmm]]
+- [[sahuagin-baron-xmm
+- [sahuagin-warrior-xmm]]
+- [[salamander-fire-snake-xmm
+- [sea-hag-xmm]]
+- [[secondary-tables-arcane-matters-xge
+- [shambling-mound-xmm]]
+- [[short-rest-xphb
+- [shrieker-fungus-xmm]]
+- [[sphinx-of-valor-xmm
+- [spirit-naga-xmm]]
+- [[spirit-statue-mascot-scc
+- [stone-giant-xmm]]
+- [[stone-golem-xmm
+- [strixhaven-campus-guide-scc]]
+- [[swarm-of-bats-xmm
+- [swarm-of-insects-xmm]]
+- [[swarm-of-ravens-xmm
+- [swarm-of-venomous-snakes-xmm]]
+- [[thri-kreen-marauder-xmm
+- [trade-goods-phb]]
+- [[treasure-hoard-challenge-17
+- [twig-blight-xmm]]
+- [[tyrannosaurus-rex-xmm
+- [vampire-spawn-xmm]]
+- [[venomous-snake-xmm
+- [vine-blight-xmm]]
+- [[violet-fungus-xmm
+- [visibility-underwater-underwater-encounter-distance-xdmg]]
+- [[water-elemental-xmm
+- [water-weird-xmm]]
+- [[will-o-wisp-xmm
+- [winged-kobold-xmm]]
+- [[winter-wolf-xmm
+- [wizard-xphb-school-of-enchantment]]
+- [[yuan-ti-anathema-mpmm
+- [yuan-ti-broodguard-mpmm]]
+- [[yuan-ti-malison-type-2-xmm
+- [yuan-ti-malison-type-4-vgm]]
+- [[yuan-ti-nightmare-speaker-mpmm
+- [#Cross-Campaign Locations]]
+- [[#Underground & Aquatic Locations
+- [Abyss Currentbinder]]
+- [[Abyssal Cartel
+- [Abyssal Crystals]]
+- [[Abyssal Territories
+- [Abyssos Prime - Pressure Terminal]]
+- [[Abyssos Prime Docks
+- [Acolyte Sister Tidal Deepfaith]]
+- [[Administrative Wing
+- [Admiral Thalassa Stormcurrent]]
+- [[Adult Education Programs
+- [Adventure Boldexplorer]]
+- [[Age of Wonders
+- [All Locations]]
+- [[Ambassador Lysandra Silvertonge
+- [Amnesia Gallery]]
+- [[Anchor Stronghaul
+- [Ancient Echo Truthfinder]]
+- [[Ancient Treasury of Tides
+- [Anti-Religious Philosophical Arguments]]
+- [[Anti-Smuggling Operations
+- [Aquabyssos Kelp Wine]]
+- [[Aquabyssos Noble Houses
+- [Archaeological Discoveries]]
+- [[Archaeological Society
+- [Archdeacon Felix Faithkeeper]]
+- [[Archdruid Marina Kelpweaver
+-
+-
+- [Archivist Elena Sorrowkeeper]]
+- [[Archivist Reef Bookkeeper
+- [Archkeeper Nereon]]
+- [[Artificer Magnus Weightless
+- [Artisan Associations]]
+- [[Artistic Communities
+- [Arts Communities]]
+- [[Astrologer Prime Cassandra Starweaver
+- [Banker Cornelius Goldflow]]
+- [[Barkeep Salty Sarah
+- [Bartender Marina Dualborn]]
+- [[Basil Prismtender
+- [Black Market Deal]]
+- [[Blood Current Express
+- [Bone Architect Ossuary]]
+- [[Botanist Rose Sundrinker
+- [Brave Depthfixer]]
+- [[Breaking the Deep
+- [Bridge Currentcrosser]]
+- [[Brother Matthias Inkdrinker
+- [Bubble District]]
+- [[Calm Soothingwave
+- [Captain Echo]]
+- [[Captain Marcus
+- [Captain Trawl Netcaster]]
+- [[Cathedral of Light
+- [Causality Shadow]]
+- [[Chancellor Octavius
+- [Chief Diplomat Corallion Reefwright]]
+- [[Chief Engineer Marina Crystalwright
+- [Chief Engineer Nereus Flowstream]]
+- [[Chief Engineer Vera Steamheart
+- [Chief Inspector Magnus Ledgerkeep]]
+- [[Choir Master Celestine Hymnsinger
+- [Chorus Master Melodia Depthsong]]
+- [[Chronicle Keeper Sage Deepmemory
+- [Chronomancer Paradox]]
+- [[Circle of Mourners
+- [City Council of Aquabyssos]]
+- [[Clara Truthscale
+- [Clerics of Thalassa]]
+- [[Clerk Supreme Marcus Filekeeper
+- [Codex of Forgotten Depths]]
+- [[Commander Reef Shadowstrike
+- [Commander Typhoon Blackheart (Places)]]
+- [[Communications Master Signal Cryptkeeper
+- [Community Leaders]]
+- [[Community Organizations
+- [Community Support Networks]]
+- [[Community Support Programs
+- [Comparative Religion Experts]]
+- [[Comparative Religion
+- [Compass Quest]]
+- [[Conductor Morpheus Mindbridge
+- [Conservatory of Memory]]
+- [[Constitutional Monarchy
+- [Constitutional Scholar Valdris Deepthought]]
+- [[Coral Courts
+- [Coral Gardens District]]
+- [[Coral Reef Republics
+- [Coral Reef Sanctuaries]]
+- [[Coral Silkweaver
+- [Coral Vortextrader]]
+- [[Council of Faiths
+- [Councilor Marcus Traditionkeeper]]
+- [[Councilor Tidal Balancekeeper
+- [Countess Argentum Vaultkeeper]]
+- [[Courier Chief Swift Currentrider
+- [Courier Ripplestone]]
+- [[Court Manager Noble
+- [Creative Visionweaver]]
+- [[Crimson Reef
+- [Crimson Velocity]]
+- [[Cross-Dimensional Transit Authority
+- [Crown of Eternal Ice]]
+- [[Crystal Caverns
+- [Crystal Cult Temples]]
+- [[Crystal Engineer Reef Sparkwright
+- [Crystal Gardens]]
+- [[Crystal Keepers
+- [Crystal Master Prism Lightweaver]]
+- [[Crystal Palace
+- [Crystal Plague Wards]]
+- [[Crystal Sentinels
+- [Crystal Singers (Places)]]
+- [[Crystal-Powered Vessels
+- [Crystalhaven Royal Palace]]
+- [[Crystallium Embassy
+- [Crystals & Curiosities]]
+- [[Culinary Critic Marina Tastebud
+- [Culinary Dreamweaver Sage Gentlespice]]
+- [[Cultural Districts
+- [Current Bridgewater]]
+- [[Current Innovator
+- [Current Navigation Techniques]]
+- [[Current Peacefulflow
+- [Current Peaceweaver]]
+- [[Current Solidarity
+- [Curse of Eternal Winter]]
+- [[Customer Relations Director Seraphina Calmcurrent
+- [Death Speaker Marina Depthkeeper]]
+- [[Deep Conservative Alliance
+- [Deep_Current_Academy (Places)]]
+- [[Deep Current Flowmaster
+- [Deep Harbor]]
+- [[Deep Mother Spawning Pools
+- [Deep Ones]]
+- [[Deep Pearls
+- [Deep Studycurrent]]
+- [[Deepmind Conspiracy
+- [Deepsteel]]
+- [[Deepstone
+- [Democratic Technology Development]]
+- [[Depth Cardinal Justice Currentkeeper
+- [Depth Plague]]
+- [[Depth Supremacy Movement
+- [Depth Warden Patrol]]
+- [[Depth Warden
+- [Depth Wardens]]
+- [[Deputy Harbor Master Marina Stormwright
+- [Diplomat Supreme International]]
+- [[Diplomatic Corps
+- [Diplomatic Deepcurrent]]
+- [[Diplomatic Dining Protocol
+- [Diplomatic Protocol Center]]
+- [[Diplomatic Service
+- [Displaced Atoll Residents]]
+- [[Divine Communication Specialists
+- [Divine Preservation Magic]]
+- [[Dock Boss Marina Irongrip
+- [Dockworkers' Union]]
+- [[Doctor Silas Voidtouch
+- [Dolphin]]
+- [[Dream Enhancement Techniques
+- [Echo Gentleguide]]
+- [[Echo Truthseer
+- [Echo-Keeper Selin]]
+- [[Echo-Theorist Maya
+- [Echo-Translator Vera]]
+- [[Economic Planning
+- [Education Department]]
+- [[Elder Matthias Stoneward
+- [Elder Scribe Marcus the Lost]]
+- [[Elder Whisper-In-The-Dark (Places)
+- [Electric Eel]]
+- [[Elena Prismweaver
+- [Elena Recordkeeper]]
+- [[Embassy District
+- [Embassy Quarter]]
+- [[Emergency Life Support Research Foundation
+- [Emergency Management]]
+- [[Emergency Protocols
+- [Enchanter Valdris Peacewarden]]
+- [[Entertainment Industry
+- [Exchange Fairflow]]
+- [[Exotic Imports Market
+- [Expedition to the Sunless Depths]]
+- [[Experimental Medical Ethics
+- [Explorer Captain Reef Deepdiver]]
+- [[Feast Saltyflavor
+- [Finn Deepmarket]]
+- [[Finn Goodtide
+- [Fire Crystal]]
+- [[Fire Crystals
+- [Floating Cities]]
+- [[Flow Circlemaker
+- [Foam Deepferment]]
+- [[Foreign Affairs
+- [Forge Master Korax Hammerdeep]]
+- [[Forge Master Petra Hammerdeep
+- [Forge of War]]
+- [[Free Current Charter
+- [Freedrift Network]]
+- [[Fresh Cleanwave
+- [Gallery of Echoing Truths]]
+- [[Garden Keeper Earthshade
+- [Garden Keeper Zen Currentdancer]]
+- [[Garden of Shadows
+- [Gatekeeper Iron-Lung Boris]]
+- [[Gateway Keeper Riftwalk
+- [Gem Trueeye]]
+- [[Gentle Currentguide
+- [Giant Sea Horse]]
+- [[Golden Coral
+- [Goldspire Port]]
+- [[Government Leader Capable
+- [Grand Harbor]]
+- [[Gravity Anomaly Mechanics
+- [Great Crystal Lens]]
+- [[Great Plague of Ages Past
+- [Grief Harvester Melancholy]]
+- [[Guardian Neutralwatch
+- [Guide Helpfulcurrent]]
+- [[Hadrian Depthbridge
+- [Harbor Authority]]
+- [[Harbor Defense Grid
+- [Harbor District Customs House]]
+- [[Harbor Facilities
+- [Harbor Master Tideshade]]
+- [[Harbor Master's License
+- [Harbor Master's Tower]]
+- [[Harbor Patrol
+- [Harbor Pilot Captain Storm Skyreacher]]
+- [[Harbor Pilot Guild
+- [Harbor Wall]]
+- [[Harbormaster Tidal Stormcrest
+- [Healer Sage Bondseer]]
+- [[Healer Tide-Touch
+- [Heart of Eternal Vigilance]]
+- [[Heritage Keeper Memoryshade
+- [Hidden Smuggler's Cove]]
+- [[High Court
+- [High Tide Keeper Nautilus Primordial]]
+- [[High-Speed Transportation
+- [Historical Analysis]]
+- [[Historical Preservation Society
+- [Historical Prophetic Analysis]]
+- [[Historical Research
+- [House Deepforge]]
+- [[House Mercurial
+- [House Voidwhisper]]
+- [[Illyana Glowstream
+- [Indigo Deepdye]]
+- [[Innkeeper Marcus Thorne
+- [Inquisitor Mordecai Truthseeker]]
+- [[Institute for Reality Studies Researchers
+- [Insurance Industry]]
+- [[Inter-Realm Relations
+- [Interfaith Cooperation]]
+- [[Interfaith Councils
+- [International Academic Exchange]]
+- [[International Relations
+- [International Scholars]]
+- [[International Trade Agreements
+- [International Trade Routes]]
+- [[International Trade
+- [International Void Treaties]]
+- [[Inverted Ballroom Wing
+- [Iron Rapids Fleetcurrent]]
+- [[Ironhold
+- [Keeper Aquaeous Depth-Scholar]]
+- [[Keeper Deepcurrent
+- [Keeper Elara Mindwell]]
+- [[Keeper Finn Goodtide
+- [Keeper Luminous Crystalbeam]]
+- [[Keeper Stormheart
+- [Keeper Stormwall]]
+- [[Keeper Temporal Safehaven
+- [Keeper Thundercall]]
+- [[Keeper Valdris Goldvault
+- [Keeper of Contracts Minerva Bindingword]]
+- [[Keeper of Crowns Lydia Starfall
+- [Keeper of Secrets Whisper Darkhold]]
+- [[Keeper of Sorrows Tidal Memento
+- [Keeper of the Past, Elderly Morgan]]
+- [[Keepers of Memory
+- [Kelp Forest Constituencies]]
+- [[Kelp Forests
+- [Kelp-Silk]]
+- [[Knowledge Truthseeker
+- [Kraken (Places)]]
+- [[Law Enforcement Medical Support
+- [Legal Counsel Derek Lawkeeper]]
+- [[Legal Profession
+- [Legal Scholar Professor Depth Lawkeeper]]
+- [[Leviathan Prophet Thalassa
+- [Leviathan Shrines]]
+- [[Liberty Coalition
+- [Librarian Scholar Reef Documentcurrent]]
+- [[Lighthouse Keeper Finn Deepbeacon
+- [Living Coral Architecture]]
+- [[Living Reef
+- [Living Stone]]
+- [[Living Supremacist Enclaves
+- [Location Name 1 (Places)]]
+- [[Location Name 2 (Places)
+- [Location-Based Encounter Tables]]
+- [[Location2 (Places)
+- [Location3 (Places)]]
+- [[Loop-Walker Celia
+- [Lord Reginald Seaworthy]]
+- [[Luminar the Builder
+- [Luminous Hollow]]
+- [[Luna Shimmerleaf
+- [Luxury Goods Market]]
+- [[Mad Bell-Ringer Thomas
+- [Mad Oracle Thessaly]]
+- [[Mad Prophet Silas the Depth-Touched
+- [Madame Rosalind Goldleaf]]
+- [[Madame Whisper
+- [Maelstrom Palace]]
+- [[Maestro Finn Whirlstep
+- [Magical Engineer Reef Spellbreath]]
+- [[Magical Services
+- [Magical Theory Schools]]
+- [[Magical Theory
+- [Magistrate Justice Lawkeeper]]
+- [[Magnus Ledgerkeep
+- [Maintenance Tech Reef Fixwright]]
+- [[Manta Ray
+- [Marcus Clausewright]]
+- [[Marcus Evenscale
+- [Marina Bridgewater]]
+- [[Marina Deepcurrent
+- [Marina Dreamwhisper]]
+- [[Marina Stormwright
+- [Maritime Commerce]]
+- [[Maritime Security Chief Reef
+- [Market Master Cornelius Driftwood]]
+- [[Marquis Aldwin Goldcurrent
+- [Martha Hillbrook]]
+- [[Master Archivist Valdric Stonewhisper
+- [Master Artificer Thymallos]]
+- [[Master Builder Caelum Vortexwright
+- [Master Chronologist Temporal Truthkeeper]]
+- [[Master Cultivator Reef Growstone
+- [Master Elena Preserver]]
+- [[Master Engineer Cordelia Pressurewright
+- [Memorial Current]]
+- [[Memorial District of Abyssos Prime
+- [Memorial Mason Kane]]
+- [[Memorial Tender Sarah
+- [Memorial Wall of Names]]
+- [[Memoriam - The Forgotten Continent
+- [Memoriam Keeper Marcus Remembrance]]
+- [[Memory Crystal Archivist Nautilus Storykeeper
+- [Memory Eternal Keeper]]
+- [[Memory Heist
+- [Memory Keeper Ancient Nerida]]
+- [[Memory Keeper Lament
+- [Memory Merchant Headquarters]]
+- [[Memory Rights Debate
+- [Memory Thief]]
+- [[Memory Tide Pools
+- [Merchant Council of Port Meridian]]
+- [[Merchant Delilah Currentrunner
+- [Merchant Lord Silas Copperfield]]
+- [[Merchant Prince Akula
+- [Merchant Prince Aldric Goldcurrent]]
+- [[Merchant Prince Goldwind Crysalborn
+- [Merchant Quarter Districts]]
+- [[Merchant Quarter Guildhalls
+- [Merchant Quarter]]
+- [[Merchant Viktor Geargrind
+- [Meridian Undercity]]
+- [[Middle Harbor
+- [Military Command]]
+- [[Military Coordinator Strong
+- [Military Families Support Groups]]
+- [[Miranda Hopekeeper
+- [Mourning Depths]]
+- [[Mourning Mother Cordelia
+- [Museums]]
+- [[Nautilus Threadmender
+- [Navigator Abyssal Truthseeker]]
+- [[Navigator Depthseer
+- [Navigator Flux Timewalker]]
+- [[Navigator Flux
+- [Navigator Sage Driftwood]]
+- [[Nereidios
+- [Neutrality Laws]]
+- [[Nightmare Protection
+- [Noble District]]
+- [[Noble House
+- [Noble Houses]]
+- [[Noble Palatemaster
+- [Noble Quarter Council Chambers]]
+- [[Noble Quarter Salons
+- [Novelist Current Stories]]
+- [[Observation Tender Clara
+- [Official Memory Keepers]]
+- [[Old Sally Seasprayer
+- [Palace Artificers]]
+- [[Palace Guard Captain Neutralis
+- [Palace Guardians]]
+- [[Palace Security Chief
+- [Paradox Engineer Zeno]]
+- [[Parliament Deep District
+- [Parliament of Echoes - Public Gallery]]
+- [[Party Quarters - Inverse Palace
+- [Patrol Boundaryrider]]
+- [[Pearl_Harbor_City
+- [Pearlshell]]
+- [[Phantom Harbor Charter
+- [Pilgrimage Master Depth Guide Melancholy]]
+- [[Pip Goldleaf
+- [Plague Crisis]]
+- [[Planning Director Victor Visionkeeper
+- [Poet Laureate Tidal Wordsmith]]
+- [[Police Chief Sarah Lawkeeper
+- [Political Leader Reef-Crown]]
+- [[Pool of Sacred Drowning
+- [Port Abyssos]]
+- [[Port Meridian - Harbor District
+- [Port Meridian - Market District]]
+- [[Port Meridian - Market Square
+- [Port Meridian Council Chamber]]
+- [[Port Meridian Harbor District (Places)
+- [Port Meridian Harbor]]
+- [[Port Meridian Medical Institute
+- [Port Nimbus]]
+- [[Port Quarter
+- [Port Shadowmere]]
+- [[Port facilities
+- [Portal Chambers]]
+- [[Portal Commander Marina Bridgewright
+- [Portal Technician Voidwalk]]
+- [[Portal Terminal Central
+- [Poseidon]]
+- [[Pressure Brewing Technology
+- [Pressure Crystals]]
+- [[Pressure Gems
+- [Pressure Guard Steelwall]]
+- [[Pressure Palace
+- [Pressure Politics]]
+- [[Pressure Polyps
+- [Pressure Portals]]
+- [[Pressure Suit Malfunction
+- [Pressure Symbiont]]
+- [[Pressure Terminal
+- [Pressure Tube Terminal]]
+- [[Pressure Wraiths
+- [Pressure's End]]
+- [[Pressure-Responsive Fabrics
+- [Pressure-Tube System]]
+- [[Priest Thomas Messagekeeper
+- [Prime Minister Government Leader]]
+- [[Pristine Pearl
+- [Private Arbitration]]
+- [[Professional Training
+- [Professor Reef Growthseeker]]
+- [[Profit Crosscurrent
+- [Progress Through Power Faction]]
+- [[Prophetic Studies Institute
+- [Prophetic Studies]]
+- [[Protocol Expert Formal
+- [Pseudodragon]]
+- [[Psychological Studies
+- [Public Libraries]]
+- [[Public Safety
+- [Quartermaster David Simpleton]]
+- [[Quartermaster Shadow Supply
+- [Quartermaster Sterling Suppystone]]
+- [[Quill Precisequote
+- [Rational Philosophy Framework]]
+- [[Reality Anchor Network
+- [Reality Breach Locations]]
+- [[Reef Saltwater
+- [Reef Shark]]
+- [[Reef Tenders
+- [Reef Truescale]]
+- [[Reflection Pools - Surgical Theater
+- [Religious Groups]]
+- [[Religious Leaders
+- [Replacement Survivor Support Groups]]
+- [[Representative Coral Youngcurrent
+- [Restorative Justice]]
+- [[Retired Captain Bron Saltbeard
+- [Royal Academy of Arcane Arts Ruins (Places)]]
+- [[Royal Bloodline Powers
+- [Royal Chaplain Magnus Goldcurrent]]
+- [[Royal Court
+- [Royal Palace of Meridian]]
+- [[Royal Palace
+- [Royal Ports]]
+- [[Royal Protocol
+- [Royal_Academy_of_Arcane_Arts (Places)]]
+- [[Sacred Healing Springs
+- [Sacred Historian Coral Deepscribe]]
+- [[Safety Coordinator Reef Safeguard
+- [Sage Freedom Philosopher]]
+- [[Sage Iris Crystalbloom
+- [Sage Lyralei Starweaver]]
+- [[Sage Nereon
+- [Sage Prism Lightweaver]]
+- [[Scarlet Torrent
+- [Scepter of Winter's Command]]
+- [[Scholar Thomas Precedent
+- [Scholar-Merchant Remembrance Tidekeep]]
+- [[Screaming Gardens - Songwood Grove
+- [Screaming Gardens]]
+- [[Scribe Master Elena Truthkeeper
+- [Sea Sprite]]
+- [[Sea Witch
+- [Seal Keepers]]
+- [[Seasonal Quarters
+- [Secondary Education]]
+- [[Secret Vault Beneath Throne
+- [Secular Community Practices]]
+- [[Security Chief Corwin Ironshell
+- [Security Chief Wade Peacekeep]]
+- [[Security Quarters
+- [Seeds of the Past]]
+- [[Senator Abyssos Traditionkeeper
+- [Senator Bartholomew Bonewright]]
+- [[Senator Marina Tidecaller
+- [Senator's Private Chambers]]
+- [[Senator's Widow Marcella
+- [Serenity Stillwater]]
+- [[Service Levels
+- [Services Inter Realm Transportation]]
+- [[Seven Shards (Places)
+- [Shadow Chancellor]]
+- [[Shadow Crystals
+- [Shadow Current]]
+- [[Shadow Market Canals
+- [Shadow Noble Districts]]
+- [[Shadow Portal Nexus
+- [Shadow Replacements]]
+- [[Shadow Surgery Network
+- [Shadow Trackhound]]
+- [[Shadow Wells
+- [Shared Dreaming]]
+- [[Silence-Keeper Mute
+- [Silent Guardian Marcus]]
+- [[Silver Threadweaver
+- [Singing Coral]]
+- [[Siren Maeve Echoborn
+- [Sister Morwyn]]
+- [[Sister Mourne
+- [Sky Trader Zephyr Windcatcher]]
+- [[Sorceress Luna Prismatic
+- [Storm Guard]]
+- [[Storm Weatherwright
+- [Stormwatch Keep]]
+- [[Stormwind Supplies
+- [Storyteller Memorykeeper]]
+- [[Supplier Erikson Tidecaller
+- [Surface Contact Prohibition]]
+- [[Surface Contacts
+- [Surface Expert Grainwise]]
+- [[Surface Loyalist Safe Houses
+- [Surface Observation Posts]]
+- [[Surface Signals
+- [Surface Tensions]]
+- [[Surface-Underwater Trade
+- [Surge Mixmaster]]
+- [[Surgeon Coral Seamender
+- [Sylvanheart]]
+- [[Symphony of the Abyss Recipe
+- [Syncretist Mediators]]
+- [[Syndicate Enforcers
+- [Tavern Keep Lucky Jack Goldpouch]]
+- [[Tavern Keeper Finn Splitlung
+- [Taverner Bubbles McGill]]
+- [[Temple Coalition
+- [Temple Council]]
+- [[Temple District
+- [Temple Districts]]
+- [[Temple Hierarchies
+- [Temple Ward]]
+- [[Temple of Perpetual Tides
+- [Temple of Sacred Dreams]]
+- [[Temple of Shadows
+- [Temple of the Dawn]]
+- [[Temple of the Deep Current
+- [Temple of the Deep Waters]]
+- [[Temple of the Eternal Flame
+- [Temple of the Sunken Cathedral]]
+- [[Temple-Scholar Depth-Seer
+- [Temporal Anomaly Zones]]
+- [[Temporal Archivist Chronos
+- [Temporal Harvest]]
+- [[Temporal Viewing Chambers
+- [Tenebrarum Embassy]]
+- [[Terminal Director Admiral Current Swiftflow
+- [Terminal Master Hadrian Depthbridge]]
+- [[Tethyan Hegemony
+- [The Aether Works]]
+-
+- [[The Azure Coast
+- [The Bone Colosseum]]
+- [[The Bone Palace of Sorrows
+- [The Cerulean Archipelago]]
+- [[The Cerulean Trench
+- [The Cleaner]]
+- [[The Clerk of Souls
+- [The Collector]]
+- [[The Conductor
+- [The Coral Palace Complex]]
+- [[The Coral Throne
+- [The Crimson Foundries]]
+- [[The Crystal Cathedral of Pure Light
+- [The Crystal Cathedral]]
+- [[The Crystal Caverns
+- [The Crystal Caves]]
+- [[The Crystal Palace - Throne Room
+- [The Crystal Stock Exchange]]
+- [[The Crystal Wardens
+- [The Crystalline Foundry]]
+- [[The Deep Patrol
+- [The Deep Temple]]
+- [[The Deepmost Current
+- [The Depth Market]]
+- [[The Deserter
+- [The Diplomatic Quarter]]
+- [[The Divine Trial
+- [The Dreamwhisper Inn]]
+- [[The Drowned Embassy
+- [The Drowning Truth]]
+- [[The Eternal Senate
+- [The Exotic Emporium]]
+- [[The Facilitator
+- [The First Failure]]
+- [[The First Truth
+- [The Floating Markets of Nereidios]]
+- [[The Forgotten Collective
+- [The Forgotten One]]
+- [[The Forgotten Representative
+- [The Free Current]]
+- [[The Frozen Throne
+- [The Gloom Gardens]]
+- [[The Golden Trade Route
+-
+- [The Grand Bazaar of Echoing Coins]]
+- [[The Great Drowning
+- [The Great Sky Harbor]]
+- [[The Harbor Guild
+- [The Harvest]]
+- [[The Hidden Cove of Whispers
+- [The Hybrid Harbor]]
+- [[The Infinite Garden
+- [The Inverse Palace]]
+- [[The Iron Pits of Malachar
+- [The Kelp Highway]]
+- [[The Kraken's Harbor
+- [The Kraken's Wake]]
+- [[The Last Dance
+- [The Lighthouse Keeper's Ghost]]
+- [[The Listener's Code
+- [The Living Quarters]]
+- [[The Living Tide Temples
+- [The Living Weapon]]
+- [[The Lost Shipment
+- [The Luminous Dawn Cathedral]]
+-
+- [[The Memory Keepers Guild
+- [The Memory Meadows Black Market]]
+- [[The Memory Palace
+- [The Memory Storm Fields]]
+- [[The Memory Thief
+- [The Mothercoral Crisis]]
+- [[The Mourning Depths
+- [The Neutral Current Tavern]]
+- [[The Neutral Ground
+- [The Noble Quarter Market]]
+- [[The Null Cathedral
+- [The Observatory]]
+- [[The Order of the Shattered Crown
+- [The Ossuary Temple]]
+- [[The Pearl Markets
+- [The Perfect Symbiosis]]
+- [[The Phosphor Markets
+- [The Plague Ward]]
+- [[The Portal Wars
+- [The Porters Union]]
+- [[The Pressure Crown
+- [The Pressure Forges (Places)]]
+- [[The Primordial Vaults
+- [The Probability Merchant]]
+- [[The Progressive Coalition Headquarters
+- [The Purification Temples]]
+- [[The Recursion Cult
+- [The Reef Communities]]
+- [[The Reflection Pools
+- [The Resonance Cathedral]]
+- [[The Resonant Hermit
+- [The Rolling Tide]]
+- [[The Royal Palace
+- [The Screaming Battleground]]
+- [[The Seven Shards Mystery
+- [The Shadow Markets]]
+- [[The Shattered Isles
+- [The Shrinking Sanctuary]]
+- [[The Silent Watcher
+- [The Singing Shadows]]
+- [[The Sinking Atoll
+- [The Slave Markets of Tethys]]
+- [[The Sorrow Gardens
+- [The Suicide Bridges]]
+- [[The Sunken Cathedral of Stars
+- [The Sunken Crown Cipher]]
+- [[The Sunken Library of Thalassius
+- [The Sunken Palace]]
+- [[The Sunken Senate
+- [The Temple of Eternal Tides]]
+- [[The Thornfield District
+- [The Threshold Chambers]]
+- [[The Tidecaller (Places)
+- [The Tidepool Markets]]
+- [[The Trencher Folk
+- [The Twin Prophets]]
+- [[The Vault Keepers
+- [The Void Tears]]
+- [[The Void Touched Depths
+- [The Vote Vault Mystery]]
+- [[The Wandering Atoll
+- [The Whisper Keepers]]
+- [[The Whispering Caverns
+- [The_Academy_of_Investigative_Arts (Places)]]
+- [[The_Academy_of_Resoce
+- [The_Professional_Training_Academy (Places)]]
+- [[Theological Warfare
+- [Theron Justcurrent]]
+- [[Throne Room - Heart of Palace
+- [Tidal Deepvoice]]
+- [[Tidal Harmony
+- [Tidal Stormcrest]]
+- [[Tide Welcomeheart
+- [Time]]
+- [[Titan Foundationbearer
+- [Toxin Specialist Venom Reef]]
+- [[Trade Regulations
+- [Trade Unions]]
+- [[Trade War
+- [Trader Compass Rose]]
+- [[Trader Grimm Voidheart
+- [Traditional Elder Wisdom Keeper]]
+- [[Transformation Specialist Anemone Flowshift
+- [Transportation Guild Masters]]
+- [[Treasury Department
+- [Treaty of the Depths]]
+- [[Tribune Cassia
+- [Triton]]
+- [[Truth Verification Magic
+- [Truth and Madness]]
+- [[Twilight Depths
+- [Tymora]]
+- [[Undead Rights Organization HQ
+- [Undead Services Bureau]]
+- [[Underwater Fermentation
+- [Underwater Religious Practices]]
+- [[Unity Hopecurrent
+- [University Philosophy Departments]]
+- [[University System
+- [Vault Keeper Aurelia Crownguard]]
+- [[Veiled Hierophant
+- [Victoria Harbormane]]
+- [[Voices from Below
+- [Void Currents]]
+- [[Void Integration Research
+- [Void Keeper Sister Nyx Nullspace]]
+- [[Void Krakens
+- [Void Prophet Nullus the Erased]]
+- [[Void Touched Pilgrims
+- [Void-Keeper Null]]
+- [[Voluntary Taxation
+- [Vote Vaults]]
+- [[Wandering Prophet Coral Stormrider
+- [War Machine Assembly Halls]]
+- [[War of Crushing Depths
+- [Warden Marcus Stonehand]]
+- [[Warforged
+- [Warrior Scarredheart]]
+- [[Warrior Thane Visionward
+- [Wave Friendlyserve]]
+- [[Wave Healingbringer
+- [Wave Merchant]]
+- [[Wave Soothingtouch
+- [Wealthy Goldcurrent]]
+- [[Wealthy Goldstream
+- [Whisper Island]]
+- [[Whisper Translation
+- [Whisper-Touched William]]
+- [[Whisper-Witch Naia Softcurrent
+- [Windwright Academy]]
+- [[Wisdom Futureseer
+- [Wise Counselor Deep]]
+- [[Wise Tide Truthseeker
+- [Witness Reports]]
+- [[World Map
+- [map_placeholder]]
+- [[QUEST0078_The_Frozen_Fortress_Invasion
+- [The Maw of Darkness]]
+- [[The Whispering Expanse
+- [Location City Diplomatic Protocol Center V1 Diplomatic Protocol Center.svg]]
+
+### Indirect Influences
+- Broader campaign themes
+- World-building elements
+- Character interactions
+
+## Usage Guidelines
+
+### For Players
+- How to interact with this element
+- Potential benefits or risks
+- Story opportunities
+
+### For Game Masters
+- Implementation suggestions
+- Customization options
+- Plot hook ideas
+
+## Additional Notes
+
+### Variations
+- Alternative interpretations
+- Regional differences
+- Cultural adaptations
+
+### Special Considerations
+- Unique mechanics
+- Balance factors
+- Integration tips
+
+## References & Resources
+- Campaign documentation
+- Related materials
+- Inspiration sources
+
+---
+*Enhanced by Stub Enhancement System*

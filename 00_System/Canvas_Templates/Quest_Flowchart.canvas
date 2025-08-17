@@ -1,0 +1,62 @@
+{
+  "nodes": [
+    {
+      "id": "start",
+      "x": -300,
+      "y": 0,
+      "width": 100,
+      "height": 60,
+      "type": "text",
+      "text": "Quest Start"
+    },
+    {
+      "id": "choice1",
+      "x": 0,
+      "y": -100,
+      "width": 120,
+      "height": 60,
+      "type": "text",
+      "text": "Path A"
+    },
+    {
+      "id": "choice2",
+      "x": 0,
+      "y": 100,
+      "width": 120,
+      "height": 60,
+      "type": "text",
+      "text": "Path B"
+    },
+    {
+      "id": "end",
+      "x": 300,
+      "y": 0,
+      "width": 100,
+      "height": 60,
+      "type": "text",
+      "text": "Resolution"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "start",
+      "toNode": "choice1"
+    },
+    {
+      "id": "e2",
+      "fromNode": "start",
+      "toNode": "choice2"
+    },
+    {
+      "id": "e3",
+      "fromNode": "choice1",
+      "toNode": "end"
+    },
+    {
+      "id": "e4",
+      "fromNode": "choice2",
+      "toNode": "end"
+    }
+  ]
+}

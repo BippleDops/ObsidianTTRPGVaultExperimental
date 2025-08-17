@@ -1,0 +1,19 @@
+{
+  "name": "NPC01279_Thalia_Thornweave_the_Risen",
+  "type": "token",
+  "generated": "2025-08-15T18:15:35.832Z",
+  "prompt": "character token for NPC01279_Thalia_Thornweave_the_Risen, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC01279_Thalia_Thornweave_the_Risen.png.json",
+  "reorganized": "2025-08-15T18:33:11.621Z"
+}

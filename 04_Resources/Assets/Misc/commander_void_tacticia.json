@@ -1,0 +1,22 @@
+{
+  "title": "Commander Void Tacticia",
+  "prompt": "Commander void tacticia, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, void",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:42:16.779Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Commander Void Tacticia.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/commander_void_tacticia.json",
+  "reorganized": "2025-08-15T18:33:07.353Z"
+}

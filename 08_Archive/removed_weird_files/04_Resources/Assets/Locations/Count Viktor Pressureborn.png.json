@@ -1,0 +1,18 @@
+{
+  "name": "Count Viktor Pressureborn",
+  "type": "location",
+  "generated": "2025-08-15T18:17:17.608Z",
+  "prompt": "fantasy landscape called Count Viktor Pressureborn, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Count Viktor Pressureborn.png.json",
+  "reorganized": "2025-08-15T18:32:59.499Z"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Floating Arsenal",
+  "type": "map",
+  "generated": "2025-08-15T18:18:04.763Z",
+  "prompt": "fantasy map of Floating Arsenal, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "aethermoor",
+    "sky",
+    "aerial",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Floating Arsenal.png.json",
+  "reorganized": "2025-08-15T18:33:02.391Z"
+}

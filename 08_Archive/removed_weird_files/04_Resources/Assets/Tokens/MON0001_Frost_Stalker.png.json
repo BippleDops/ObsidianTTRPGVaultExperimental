@@ -1,0 +1,18 @@
+{
+  "name": "MON0001_Frost_Stalker",
+  "type": "token",
+  "generated": "2025-08-15T18:20:40.871Z",
+  "prompt": "character token for MON0001_Frost_Stalker, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Tokens/MON0001_Frost_Stalker.png.json",
+  "reorganized": "2025-08-15T18:33:10.417Z"
+}

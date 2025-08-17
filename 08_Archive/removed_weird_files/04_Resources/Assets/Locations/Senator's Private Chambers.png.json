@@ -1,0 +1,18 @@
+{
+  "name": "Senator's Private Chambers",
+  "type": "location",
+  "generated": "2025-08-15T18:18:17.872Z",
+  "prompt": "fantasy landscape called Senator's Private Chambers, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Senator's Private Chambers.png.json",
+  "reorganized": "2025-08-15T18:33:00.908Z"
+}

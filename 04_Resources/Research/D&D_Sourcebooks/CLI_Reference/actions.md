@@ -1,0 +1,944 @@
+---
+
+title: actions
+type: note
+tags:
+- note
+
+created: '2025-01-15'
+modified: '2025-01-15'
+aliases: ["actions"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
+---
+
+ # actions ## Overview
+
+This document contains important information regarding actions and its role within the greater narrative. ## Description
+
+actions represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context ## Details
+
+### Background
+
+Historical context and development over time. ### Current State
+
+Present circumstances and ongoing relevance. ### Future Potential
+
+Possible developments and plot directions. ## Relationships
+
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content ## Usage Notes
+
+This content can be adapted and expanded based on specific campaign needs. ## Plot Hooks
+
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement ## DM Notes
+
+*Customize as needed for your specific campaign requirements.* ## References - [[The Soul Market
+
+- [Harbor Master Luna Freedrift (Places)]]
+- [[Quick_Reference - Dn D5e-Side Screen-2014
+- [Reference Quick Reference Dnd5e Sidescreen 2014]]
+- [[The First Truth (D&D_References)
+- [Item Mastery]]
+- [[Item Properties
+- - [demiplane]]
+- [[Morkoth Mpmm
+- [Star Spawn Mangler Mpmm]]
+- [[Star Spawn Seer Mpmm
+- [morkoth-mpmm (aberration)]]
+- [[star-spawn-mangler-mpmm (aberration)
+- [star-spawn-seer-mpmm (aberration)]]
+- [[Beast of the Sky Xphb
+- [Bestial Spirit Air Xphb]]
+- [[Bestial Spirit Xphb
+- [Giant Seahorse Xmm]]
+- [[Owl Xmm
+- [Quetzalcoatlus Mpmm]]
+- [[Rat Xmm
+- [Seahorse Xmm]]
+- [[beast-of-the-sky-xphb (beast)
+- [bestial-spirit-air-xphb (beast)]]
+- [[bestial-spirit-xphb (beast)
+- [giant-seahorse-xmm (beast)]]
+- [[owl-xmm (beast)
+- [quetzalcoatlus-mpmm (beast)]]
+- [[rat-xmm (beast)
+- [seahorse-xmm (beast)]]
+- [[Animal Lord Forager Xmm
+- [Animal Lord Hunter Xmm]]
+- [[Animal Lord Sage Xmm
+- [Animal Lord Xmm]]
+- [[Sphinx of Lore Xmm
+- [Sphinx of Valor Xmm]]
+- [[Unicorn Xmm
+- [animal-lord-forager-xmm (celestial)]]
+- [[animal-lord-hunter-xmm (celestial)
+- [animal-lord-sage-xmm (celestial)]]
+- [[animal-lord-xmm (celestial)
+- [sphinx-of-lore-xmm (celestial)]]
+- [[sphinx-of-valor-xmm (celestial)
+- [unicorn-xmm (celestial)]]
+- [[Clockwork Bronze Scout Mpmm
+- [Clockwork Iron Cobra Mpmm]]
+- [[Colossus Xmm
+- [Construct Spirit Clay Xphb]]
+- [[Construct Spirit Stone Xphb
+- [Construct Spirit Xphb]]
+- [[Stone Cursed Mpmm
+- [clockwork-bronze-scout-mpmm (construct)]]
+- [[clockwork-iron-cobra-mpmm (construct)
+- [colossus-xmm (construct)]]
+- [[construct-spirit-clay-xphb (construct)
+- [construct-spirit-stone-xphb (construct)]]
+- [[construct-spirit-xphb (construct)
+- [fractal-mascot-scc (construct)]]
+- [[stone-cursed-mpmm (construct)
+- [young-gold-dragon-xmm (dragon)]]
+- [[Elder Tempest Mpmm
+- [Elemental Cataclysm Xmm]]
+- [[Phoenix Mpmm
+- [Salamander Inferno Master Xmm]]
+- [[elder-tempest-mpmm (elemental)
+- [elemental-cataclysm-xmm (elemental)]]
+- [[phoenix-mpmm (elemental)
+- [salamander-inferno-master-xmm (elemental)]]
+- [[Centaur Trooper Xmm
+- [Centaur Warden Xmm]]
+- [[Nilbog Mpmm
+- [centaur-trooper-xmm (fey)]]
+- [[centaur-warden-xmm (fey)
+- [nilbog-mpmm (fey)]]
+- [[Black Abishai Mpmm
+- [Molydeus Mpmm]]
+- [[White Abishai Mpmm
+- [black-abishai-mpmm (fiend)]]
+- [[molydeus-mpmm (fiend)
+- [white-abishai-mpmm (fiend)]]
+- [[Arch Hag Xmm (legendary-group)
+- [Sphinx Xmm]]
+- [[arch-hag-xmm (legendary-group)
+- [sphinx-xmm (legendary-group)]]
+- [[Gnoll Flesh Gnawer Mpmm
+- [Hydra Xmm]]
+- [[Leucrotta Mpmm
+- [Meazel Mpmm]]
+- [[Roc Xmm
+- [Weretiger Xmm]]
+- [[gnoll-flesh-gnawer-mpmm (monstrosity)
+- [hydra-xmm (monstrosity)]]
+- [[leucrotta-mpmm (monstrosity)
+- [meazel-mpmm (monstrosity)]]
+- [[roc-xmm (monstrosity)
+- [weretiger-xmm (monstrosity)]]
+- [[npc - Aljanor Keenblade Oota
+- [Gelatinous Cube Xmm]]
+- [[gelatinous-cube-xmm (ooze)
+- [Eidolon Mpmm]]
+- [[Lacedon Ghoul Xmm
+- [Skull Lord Mpmm]]
+- [[eidolon-mpmm (undead)
+- [lacedon-ghoul-xmm (undead)]]
+- [[skull-lord-mpmm (undead)
+- [1 How to Use a Monster]]
+- [[1-how-to-use-a-monster (monster-manual-2025)
+- [10 Combat]]
+- [[10-combat (players-handbook-2014)
+- [07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)
+- [11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)
+- [Barbarian Xphb Path of the Wild Heart Xphb]]
+- [[Barbarian Xphb
+- [Bard Xphb College of Swords Xge]]
+- [[Bard Xphb College of Valor Xphb
+- [Cleric Xphb Life Domain Xphb]]
+- [[Cleric Xphb Light Domain Xphb
+- [Cleric Xphb]]
+- [[Fighter Xphb Arcane Archer Xge
+- [Fighter Xphb Champion Xphb]]
+- [[Fighter Xphb Samurai Xge
+- [Fighter Xphb]]
+- [[Monk Xphb Warrior of Mercy Xphb
+- [Monk Xphb Warrior of Shadow Xphb]]
+- [[Monk Xphb Warrior of the Open Hand Xphb
+- [Monk Xphb Way of the Drunken Master Xge]]
+- [[Monk Xphb Way of the Kensei Xge
+- [Paladin Xphb Oath of Devotion Xphb]]
+- [[Paladin Xphb Oath of Vengeance Xphb
+- [Paladin Xphb]]
+- [[Ranger Xphb Beast Master Xphb
+- [Ranger Xphb Horizon Walker Xge]]
+- [[Ranger Xphb Hunter Xphb
+- [Rogue Xphb Mastermind Xge]]
+- [[Rogue Xphb Thief Xphb
+- [Rogue Xphb]]
+- [[Sorcerer Xphb Aberrant Sorcery Xphb
+- [Sorcerer Xphb Clockwork Sorcery Xphb]]
+- [[Warlock Xphb Great Old One Patron Xphb
+- [barbarian-xphb (classes)]]
+- [[barbarian-xphb-path-of-the-wild-heart-xphb (classes)
+- [barbarian-xphb-path-of-the-wild-heart-xphb 2 (classes)]]
+- [[bard-xphb-college-of-swords-xge (classes)
+- [bard-xphb-college-of-swords-xge 2 (classes)]]
+- [[bard-xphb-college-of-valor-xphb (classes)
+- [bard-xphb-college-of-valor-xphb 2 (classes)]]
+- [[cleric-xphb (classes)
+- [cleric-xphb-life-domain-xphb (classes)]]
+- [[cleric-xphb-life-domain-xphb 2 (classes)
+- [cleric-xphb-light-domain-xphb (classes)]]
+- [[cleric-xphb-light-domain-xphb 2 (classes)
+- [fighter-xphb (classes)]]
+- [[fighter-xphb-arcane-archer-xge (classes)
+- [fighter-xphb-champion-xphb (classes)]]
+- [[fighter-xphb-samurai-xge (classes)
+- [monk-xphb-warrior-of-mercy-xphb (classes)]]
+- [[monk-xphb-warrior-of-shadow-xphb (classes)
+- [monk-xphb-warrior-of-the-open-hand-xphb (classes)]]
+- [[monk-xphb-way-of-the-drunken-master-xge (classes)
+- [monk-xphb-way-of-the-kensei-xge (classes)]]
+- [[paladin-xphb (classes)
+- [paladin-xphb-oath-of-devotion-xphb (classes)]]
+- [[paladin-xphb-oath-of-vengeance-xphb (classes)
+- [ranger-xphb-beast-master-xphb (classes)]]
+- [[ranger-xphb-horizon-walker-xge (classes)
+- [ranger-xphb-hunter-xphb (classes)]]
+- [[rogue-xphb (classes)
+- [rogue-xphb-mastermind-xge (classes)]]
+- [[rogue-xphb-thief-xphb (classes)
+- [sorcerer-xphb-aberrant-sorcery-xphb (classes)]]
+- [[sorcerer-xphb-clockwork-sorcery-xphb (classes)
+- [warlock-xphb-great-old-one-patron-xphb (classes)]]
+- [[conditions (CLI_Reference)
+- [Deck of Illusions Xdmg]]
+- [[deck-of-illusions-xdmg (decks)
+- [diseases]]
+- [[Boon of Dimensional Travel Xphb
+- [Boon of Speed Xphb]]
+- [[Charger Xphb
+- [Dual Wielder Xphb]]
+- [[Dwarven Fortitude Xge
+- [Grappler Xphb]]
+- [[Great Weapon Master Xphb
+- [Healer Xphb]]
+- [[Observant Xphb
+- [Polearm Master Xphb]]
+- [[Shield Master Xphb
+- [Speedy Xphb]]
+- [[Strixhaven Mascot Scc
+- [Tavern Brawler Xphb]]
+- [[War Caster Xphb
+- [boon-of-dimensional-travel-xphb (feats)]]
+- [[boon-of-speed-xphb (feats)
+- [charger-xphb (feats)]]
+- [[dual-wielder-xphb (feats)
+- [dwarven-fortitude-xge (feats)]]
+- [[grappler-xphb (feats)
+- [great-weapon-master-xphb (feats)]]
+- [[healer-xphb (feats)
+- [observant-xphb (feats)]]
+- [[polearm-master-xphb (feats)
+- [shield-master-xphb (feats)]]
+- [[speedy-xphb (feats)
+- [strixhaven-mascot-scc (feats)]]
+- [[tavern-brawler-xphb (feats)
+- [war-caster-xphb (feats)]]
+- [[item-mastery (CLI_Reference)
+- [item-properties (CLI_Reference)]]
+- [[1 Rod of the Pact Keeper Xdmg
+- [1-rod-of-the-pact-keeper-xdmg (items)]]
+- [[2 Rod of the Pact Keeper Xdmg
+- [2-rod-of-the-pact-keeper-xdmg (items)]]
+- [[3 Rod of the Pact Keeper Xdmg
+- [3-rod-of-the-pact-keeper-xdmg (items)]]
+- [[Acid Xphb
+- [Alchemists Fire Xphb]]
+- [[Alchemy Jug Xdmg
+- [Amulet of the Planes Xdmg]]
+- [[Apparatus of Kwalish Xdmg
+- [Armor of Invulnerability Xdmg]]
+- [[Axe of the Dwarvish Lords Xdmg
+- [Baba Yagas Dancing Broom Xdmg]]
+- [[Bag of Holding Xdmg
+- [Bag of Tricks Gray Xdmg]]
+- [[Bag of Tricks Rust Xdmg
+- [Bag of Tricks Tan Xdmg]]
+- [[Ball Bearings Xphb
+- [Bead of Force Xdmg]]
+- [[Bell Xphb
+- [Berserker Axe Xdmg]]
+- [[Black Dragon Scale Mail Xdmg
+- [Blue Dragon Scale Mail Xdmg]]
+- [[Boots of Speed Xdmg
+- [Brass Dragon Scale Mail Xdmg]]
+- [[Brazier of Commanding Fire Elementals Xdmg
+- [Bronze Dragon Scale Mail Xdmg]]
+- [[Broom of Flying Xdmg
+- [Caltrops Xphb]]
+- [[Candle of Invocation Xdmg
+- [Cap of Water Breathing Xdmg]]
+- [[Cape of the Mountebank Xdmg
+- [Carpet of Flying 3 Ft 5 Ft Xdmg]]
+- [[Carpet of Flying 4 Ft 6 Ft Xdmg
+- [Carpet of Flying 5 Ft 7 Ft Xdmg]]
+- [[Carpet of Flying 6 Ft 9 Ft Xdmg
+- [Carpet of Flying Xdmg]]
+- [[Cast Off Armor Xdmg
+- [Cauldron of Rebirth Xdmg]]
+- [[Censer of Controlling Air Elementals Xdmg
+- [Chain Xphb]]
+- [[Chime of Opening Xdmg
+- [Climbers Kit Xphb]]
+- [[Cloak of Invisibility Xdmg
+- [Copper Dragon Scale Mail Xdmg]]
+- [[Cube of Summoning Xdmg
+- [Cubic Gate Xdmg]]
+- [[Daerns Instant Fortress Xdmg
+- [Dark Shard Amulet Xdmg]]
+- [[Decanter of Endless Water Xdmg
+- [Deck of Illusions Xdmg (items)]]
+- [[Dimensional Shackles Xdmg
+- [Driftglobe Xdmg]]
+- [[Dust of Disappearance Xdmg
+- [Dust of Dryness Xdmg]]
+- [[Dust of Sneezing and Choking Xdmg
+- [Efreeti Bottle Xdmg]]
+- [[Elemental Gem Blue Sapphire Xdmg
+- [Elemental Gem Emerald Xdmg]]
+- [[Elemental Gem Red Corundum Xdmg
+- [Elemental Gem Yellow Diamond Xdmg]]
+- [[Energy Bow Xdmg
+- [Ersatz Eye Xdmg]]
+- [[Eye and Hand of Vecna Xdmg
+- [Eye of Vecna Xdmg]]
+- [[Figurine of Wondrous Power Bronze Griffon
+- [Figurine of Wondrous Power Ebony Fly Xdmg]]
+- [[Figurine of Wondrous Power Golden Lions Xdmg
+- [Figurine of Wondrous Power Ivory Goats Xdmg]]
+- [[Figurine of Wondrous Power Marble Elephant
+- [Figurine of Wondrous Power Obsidian Steed]]
+- [[Figurine of Wondrous Power Onyx Dog Xdmg
+- [Figurine of Wondrous Power Serpentine Owl]]
+- [[Figurine of Wondrous Power Silver Raven Xdmg
+- [Folding Boat Xdmg]]
+- [[Gem of Brightness Xdmg
+- [Gem of Seeing Xdmg]]
+- [[Gold Dragon Scale Mail Xdmg
+- [Grappling Hook Xphb]]
+- [[Green Dragon Scale Mail Xdmg
+- [Hag Eye Xdmg]]
+- [[Half Plate Armor of Etherealness Xdmg
+- [Hat of Vermin Xdmg]]
+- [[Hat of Wizardry Xdmg
+- [Healers Kit Xphb]]
+- [[Hewards Handy Haversack Xdmg
+- [Hewards Handy Spice Pouch Xdmg]]
+- [[Holy Water Xphb
+- [Horn of Blasting Xdmg]]
+- [[Horn of Silent Alarm Xdmg
+- [Horn of Valhalla Brass Xdmg]]
+- [[Horn of Valhalla Bronze Xdmg
+- [Horn of Valhalla Iron Xdmg]]
+- [[Horn of Valhalla Silver Xdmg
+- [Horn of Valhalla Xdmg]]
+- [[Horseshoes of Speed Xdmg
+- [Horseshoes of a Zephyr Xdmg]]
+- [[Hunting Trap Xphb
+- [Immovable Rod Xdmg]]
+- [[Instrument of Illusions Xdmg
+- [Instrument of Scribing Xdmg]]
+- [[Ioun Stone Absorption Xdmg
+- [Ioun Stone Agility Xdmg]]
+- [[Ioun Stone Awareness Xdmg
+- [Ioun Stone Fortitude Xdmg]]
+- [[Ioun Stone Greater Absorption Xdmg
+- [Ioun Stone Insight Xdmg]]
+- [[Ioun Stone Intellect Xdmg
+- [Ioun Stone Leadership Xdmg]]
+- [[Ioun Stone Mastery Xdmg
+- [Ioun Stone Protection Xdmg]]
+- [[Ioun Stone Regeneration Xdmg
+- [Ioun Stone Reserve Xdmg]]
+- [[Ioun Stone Strength Xdmg
+- [Ioun Stone Sustenance Xdmg]]
+- [[Ioun Stone Xdmg
+- [Iron Bands of Bilarro Xdmg]]
+- [[Iron Flask Xdmg
+- [Iron Spike Xphb]]
+- [[Iron Spikes Xphb
+- [Keoghtoms Ointment Xdmg]]
+- [[Lantern of Revealing Xdmg
+- [Mace of Terror Xdmg]]
+- [[Manacles Xphb
+- [Moonblade Xdmg]]
+- [[Natures Mantle Xdmg
+- [Necklace of Fireballs Xdmg]]
+- [[Net Xphb
+- [Oil Xphb]]
+- [[Oil of Slipperiness Xdmg
+- [Orb of Direction Xdmg]]
+- [[Orb of Dragonkind Xdmg
+- [Orb of Time Xdmg]]
+- [[Pearl of Power Xdmg
+- [Perfume of Bewitching Xdmg]]
+- [[Periapt of Health Xdmg
+- [Pipe of Smoke Monsters Xdmg]]
+- [[Pipes of Haunting Xdmg
+- [Pipes of the Sewers Xdmg]]
+- [[Plate Armor of Etherealness Xdmg
+- [Pole of Angling Xdmg]]
+- [[Pole of Collapsing Xdmg
+- [Portable Hole Xdmg]]
+- [[Prosthetic Limb Xdmg
+- [Quaals Feather Token Anchor Xdmg]]
+- [[Quaals Feather Token Bird Xdmg
+- [Quaals Feather Token Swan Boat Xdmg]]
+- [[Quaals Feather Token Tree Xdmg
+- [Quaals Feather Token Whip Xdmg]]
+- [[Red Dragon Scale Mail Xdmg
+- [Ring of Djinni Summoning Xdmg]]
+- [[Ring of Elemental Command Air Xdmg
+- [Ring of Elemental Command Earth Xdmg]]
+- [[Ring of Elemental Command Fire Xdmg
+- [Ring of Elemental Command Water Xdmg]]
+- [[Ring of Invisibility Xdmg
+- [Ring of Mind Shielding Xdmg]]
+- [[Ring of Shooting Stars Xdmg
+- [Ring of X Ray Vision Xdmg]]
+- [[Ring of the Ram Xdmg
+- [Rival Coin Xdmg]]
+- [[Robe of Scintillating Colors Xdmg
+- [Robe of Stars Xdmg]]
+- [[Robe of Useful Items Xdmg
+- [Rod of Alertness Xdmg]]
+- [[Rod of Lordly Might Xdmg
+- [Rod of Rulership Xdmg]]
+- [[Rod of Security Xdmg
+- [Rope Xphb]]
+- [[Rope of Climbing Xdmg
+- [Rope of Entanglement Xdmg]]
+- [[Rope of Mending Xdmg
+- [Ruby of the War Mage Xdmg]]
+- [[Scroll of Protection Aberrations Xdmg
+- [Scroll of Protection Beasts Xdmg]]
+- [[Scroll of Protection Celestials Xdmg
+- [Scroll of Protection Constructs Xdmg]]
+- [[Scroll of Protection Dragons Xdmg
+- [Scroll of Protection Elementals Xdmg]]
+- [[Scroll of Protection Fey Xdmg
+- [Scroll of Protection Fiends Xdmg]]
+- [[Scroll of Protection Giants Xdmg
+- [Scroll of Protection Humanoids Xdmg]]
+- [[Scroll of Protection Monstrosities Xdmg
+- [Scroll of Protection Oozes Xdmg]]
+- [[Scroll of Protection Plants Xdmg
+- [Scroll of Protection Undead Xdmg]]
+- [[Scroll of Protection Xdmg
+- [Scroll of Titan Summoning Animal Lord Xdmg]]
+- [[Scroll of Titan Summoning Blob of Annihilation Xdmg
+- [Scroll of Titan Summoning Blob of]]
+- [[Scroll of Titan Summoning Colossus Xdmg
+- [Scroll of Titan Summoning Elemental]]
+- [[Scroll of Titan Summoning Empyrean Xdmg
+- [Scroll of Titan Summoning Kraken Xdmg]]
+- [[Scroll of Titan Summoning Tarrasque Xdmg
+- [Scroll of Titan Summoning Xdmg]]
+- [[Shield of the Cavalier Xdmg
+- [Signal Whistle Xphb]]
+- [[Silver Dragon Scale Mail Xdmg
+- [Sovereign Glue Xdmg]]
+- [[Sphere of Annihilation Xdmg
+- [Staff of Birdcalls Xdmg]]
+- [[Staff of Flowers Xdmg
+- [Staff of Thunder and Lightning Xdmg]]
+- [[Staff of the Adder Xdmg
+- [Staff of the Python Xdmg]]
+- [[Staff of the Woodlands Xdmg
+- [Stone of Controlling Earth Elementals Xdmg]]
+- [[String Xphb
+- [Sun Blade Xdmg]]
+- [[Sylvan Talon Xdmg
+- [Talisman of Pure Good Xdmg]]
+- [[Talisman of Ultimate Evil Xdmg
+- [Talisman of the Sphere Xdmg]]
+- [[Tentacle Rod Xdmg
+- [Thunderous Greatclub Xdmg]]
+- [[Torch Xphb
+- [Universal Solvent Xdmg]]
+- [[Wand of Conducting Xdmg
+- [Wand of Enemy Detection Xdmg]]
+- [[Wand of Paralysis Xdmg
+- [Wand of Pyrotechnics Xdmg]]
+- [[Wand of Secrets Xdmg
+- [Well of Many Worlds Xdmg]]
+- [[Whelm Xdmg
+- [White Dragon Scale Mail Xdmg]]
+- [[Winged Boots Xdmg
+- [Wings of Flying Xdmg]]
+- [[acid-xphb (items)
+- [alchemists-fire-xphb (items)]]
+- [[alchemy-jug-xdmg (items)
+- [amulet-of-the-planes-xdmg (items)]]
+- [[apparatus-of-kwalish-xdmg (items)
+- [armor-of-invulnerability-xdmg (items)]]
+- [[axe-of-the-dwarvish-lords-xdmg (items)
+- [baba-yagas-dancing-broom-xdmg (items)]]
+- [[bag-of-holding-xdmg (items)
+- [bag-of-tricks-gray-xdmg (items)]]
+- [[bag-of-tricks-rust-xdmg (items)
+- [bag-of-tricks-tan-xdmg (items)]]
+- [[ball-bearings-xphb (items)
+- [bead-of-force-xdmg (items)]]
+- [[bell-xphb (items)
+- [berserker-axe-xdmg (items)]]
+- [[black-dragon-scale-mail-xdmg (items)
+- [blue-dragon-scale-mail-xdmg (items)]]
+- [[boots-of-speed-xdmg (items)
+- [brass-dragon-scale-mail-xdmg (items)]]
+- [[brazier-of-commanding-fire-elementals-xdmg (items)
+- [bronze-dragon-scale-mail-xdmg (items)]]
+- [[broom-of-flying-xdmg (items)
+- [caltrops-xphb (items)]]
+- [[candle-of-invocation-xdmg (items)
+- [cap-of-water-breathing-xdmg (items)]]
+- [[cape-of-the-mountebank-xdmg (items)
+- [carpet-of-flying-3-ft-5-ft-xdmg (items)]]
+- [[carpet-of-flying-4-ft-6-ft-xdmg (items)
+- [carpet-of-flying-5-ft-7-ft-xdmg (items)]]
+- [[carpet-of-flying-6-ft-9-ft-xdmg (items)
+- [carpet-of-flying-xdmg (items)]]
+- [[cast-off-armor-xdmg (items)
+- [cauldron-of-rebirth-xdmg (items)]]
+- [[censer-of-controlling-air-elementals-xdmg (items)
+- [chain-xphb (items)]]
+- [[chime-of-opening-xdmg (items)
+- [climbers-kit-xphb (items)]]
+- [[cloak-of-invisibility-xdmg (items)
+- [copper-dragon-scale-mail-xdmg (items)]]
+- [[cube-of-summoning-xdmg (items)
+- [cubic-gate-xdmg (items)]]
+- [[daerns-instant-fortress-xdmg (items)
+- [dark-shard-amulet-xdmg (items)]]
+- [[decanter-of-endless-water-xdmg (items)
+- [deck-of-illusions-xdmg (items)]]
+- [[dimensional-shackles-xdmg (items)
+- [driftglobe-xdmg (items)]]
+- [[dust-of-disappearance-xdmg (items)
+- [dust-of-dryness-xdmg (items)]]
+- [[dust-of-sneezing-and-choking-xdmg (items)
+- [efreeti-bottle-xdmg (items)]]
+- [[elemental-gem-blue-sapphire-xdmg (items)
+- [elemental-gem-emerald-xdmg (items)]]
+- [[elemental-gem-red-corundum-xdmg (items)
+- [elemental-gem-yellow-diamond-xdmg (items)]]
+- [[energy-bow-xdmg (items)
+- [ersatz-eye-xdmg (items)]]
+- [[eye-and-hand-of-vecna-xdmg (items)
+- [eye-of-vecna-xdmg (items)]]
+- [[figurine-of-wondrous-power-bronze-griffon-xdmg
+- [figurine-of-wondrous-power-ebony-fly-xdmg (items)]]
+- [[figurine-of-wondrous-power-golden-lions-xdmg (items)
+- [figurine-of-wondrous-power-ivory-goats-xdmg (items)]]
+- [[figurine-of-wondrous-power-marble-elephant-xdmg
+- [figurine-of-wondrous-power-obsidian-steed-xdmg]]
+- [[figurine-of-wondrous-power-onyx-dog-xdmg (items)
+- [figurine-of-wondrous-power-serpentine-owl-xdmg]]
+- [[figurine-of-wondrous-power-silver-raven-xdmg (items)
+- [folding-boat-xdmg (items)]]
+- [[gem-of-brightness-xdmg (items)
+- [gem-of-seeing-xdmg (items)]]
+- [[gold-dragon-scale-mail-xdmg (items)
+- [grappling-hook-xphb (items)]]
+- [[green-dragon-scale-mail-xdmg (items)
+- [hag-eye-xdmg (items)]]
+- [[half-plate-armor-of-etherealness-xdmg (items)
+- [hat-of-vermin-xdmg (items)]]
+- [[hat-of-wizardry-xdmg (items)
+- [healers-kit-xphb (items)]]
+- [[hewards-handy-haversack-xdmg (items)
+- [hewards-handy-spice-pouch-xdmg (items)]]
+- [[holy-water-xphb (items)
+- [horn-of-blasting-xdmg (items)]]
+- [[horn-of-silent-alarm-xdmg (items)
+- [horn-of-valhalla-brass-xdmg (items)]]
+- [[horn-of-valhalla-bronze-xdmg (items)
+- [horn-of-valhalla-iron-xdmg (items)]]
+- [[horn-of-valhalla-silver-xdmg (items)
+- [horn-of-valhalla-xdmg (items)]]
+- [[horseshoes-of-a-zephyr-xdmg (items)
+- [horseshoes-of-speed-xdmg (items)]]
+- [[hunting-trap-xphb (items)
+- [immovable-rod-xdmg (items)]]
+- [[instrument-of-illusions-xdmg (items)
+- [instrument-of-scribing-xdmg (items)]]
+- [[ioun-stone-absorption-xdmg (items)
+- [ioun-stone-agility-xdmg (items)]]
+- [[ioun-stone-awareness-xdmg (items)
+- [ioun-stone-fortitude-xdmg (items)]]
+- [[ioun-stone-greater-absorption-xdmg (items)
+- [ioun-stone-insight-xdmg (items)]]
+- [[ioun-stone-intellect-xdmg (items)
+- [ioun-stone-leadership-xdmg (items)]]
+- [[ioun-stone-mastery-xdmg (items)
+- [ioun-stone-protection-xdmg (items)]]
+- [[ioun-stone-regeneration-xdmg (items)
+- [ioun-stone-reserve-xdmg (items)]]
+- [[ioun-stone-strength-xdmg (items)
+- [ioun-stone-sustenance-xdmg (items)]]
+- [[ioun-stone-xdmg (items)
+- [iron-bands-of-bilarro-xdmg (items)]]
+- [[iron-flask-xdmg (items)
+- [iron-spike-xphb (items)]]
+- [[iron-spikes-xphb (items)
+- [keoghtoms-ointment-xdmg (items)]]
+- [[lantern-of-revealing-xdmg (items)
+- [mace-of-terror-xdmg (items)]]
+- [[manacles-xphb (items)
+- [moonblade-xdmg (items)]]
+- [[natures-mantle-xdmg (items)
+- [necklace-of-fireballs-xdmg (items)]]
+- [[net-xphb (items)
+- [oil-of-slipperiness-xdmg (items)]]
+- [[oil-xphb (items)
+- [orb-of-direction-xdmg (items)]]
+- [[orb-of-dragonkind-xdmg (items)
+- [orb-of-time-xdmg (items)]]
+- [[pearl-of-power-xdmg (items)
+- [perfume-of-bewitching-xdmg (items)]]
+- [[periapt-of-health-xdmg (items)
+- [pipe-of-smoke-monsters-xdmg (items)]]
+- [[pipes-of-haunting-xdmg (items)
+- [pipes-of-the-sewers-xdmg (items)]]
+- [[plate-armor-of-etherealness-xdmg (items)
+- [pole-of-angling-xdmg (items)]]
+- [[pole-of-collapsing-xdmg (items)
+- [portable-hole-xdmg (items)]]
+- [[prosthetic-limb-xdmg (items)
+- [quaals-feather-token-anchor-xdmg (items)]]
+- [[quaals-feather-token-bird-xdmg (items)
+- [quaals-feather-token-swan-boat-xdmg (items)]]
+- [[quaals-feather-token-tree-xdmg (items)
+- [quaals-feather-token-whip-xdmg (items)]]
+- [[red-dragon-scale-mail-xdmg (items)
+- [ring-of-djinni-summoning-xdmg (items)]]
+- [[ring-of-elemental-command-air-xdmg (items)
+- [ring-of-elemental-command-earth-xdmg (items)]]
+- [[ring-of-elemental-command-fire-xdmg (items)
+- [ring-of-elemental-command-water-xdmg (items)]]
+- [[ring-of-invisibility-xdmg (items)
+- [ring-of-mind-shielding-xdmg (items)]]
+- [[ring-of-shooting-stars-xdmg (items)
+- [ring-of-the-ram-xdmg (items)]]
+- [[ring-of-x-ray-vision-xdmg (items)
+- [rival-coin-xdmg (items)]]
+- [[robe-of-scintillating-colors-xdmg (items)
+- [robe-of-stars-xdmg (items)]]
+- [[robe-of-useful-items-xdmg (items)
+- [rod-of-alertness-xdmg (items)]]
+- [[rod-of-lordly-might-xdmg (items)
+- [rod-of-rulership-xdmg (items)]]
+- [[rod-of-security-xdmg (items)
+- [rope-of-climbing-xdmg (items)]]
+- [[rope-of-entanglement-xdmg (items)
+- [rope-of-mending-xdmg (items)]]
+- [[rope-xphb (items)
+- [ruby-of-the-war-mage-xdmg (items)]]
+- [[scroll-of-protection-aberrations-xdmg (items)
+- [scroll-of-protection-beasts-xdmg (items)]]
+- [[scroll-of-protection-celestials-xdmg (items)
+- [scroll-of-protection-constructs-xdmg (items)]]
+- [[scroll-of-protection-dragons-xdmg (items)
+- [scroll-of-protection-elementals-xdmg (items)]]
+- [[scroll-of-protection-fey-xdmg (items)
+- [scroll-of-protection-fiends-xdmg (items)]]
+- [[scroll-of-protection-giants-xdmg (items)
+- [scroll-of-protection-humanoids-xdmg (items)]]
+- [[scroll-of-protection-monstrosities-xdmg (items)
+- [scroll-of-protection-oozes-xdmg (items)]]
+- [[scroll-of-protection-plants-xdmg (items)
+- [scroll-of-protection-undead-xdmg (items)]]
+- [[scroll-of-protection-xdmg (items)
+- [scroll-of-titan-summoning-animal-lord-xdmg (items)]]
+- [[scroll-of-titan-summoning-colossus-xdmg (items)
+- [scroll-of-titan-summoning-elemental-cataclysm-xdmg]]
+- [[scroll-of-titan-summoning-empyrean-xdmg (items)
+- [scroll-of-titan-summoning-kraken-xdmg (items)]]
+- [[scroll-of-titan-summoning-tarrasque-xdmg (items)
+- [scroll-of-titan-summoning-xdmg (items)]]
+- [[shield-of-the-cavalier-xdmg (items)
+- [signal-whistle-xphb (items)]]
+- [[silver-dragon-scale-mail-xdmg (items)
+- [sovereign-glue-xdmg (items)]]
+- [[sphere-of-annihilation-xdmg (items)
+- [staff-of-birdcalls-xdmg (items)]]
+- [[staff-of-flowers-xdmg (items)
+- [staff-of-the-adder-xdmg (items)]]
+- [[staff-of-the-python-xdmg (items)
+- [staff-of-the-woodlands-xdmg (items)]]
+- [[staff-of-thunder-and-lightning-xdmg (items)
+- [stone-of-controlling-earth-elementals-xdmg (items)]]
+- [[string-xphb (items)
+- [sun-blade-xdmg (items)]]
+- [[sylvan-talon-xdmg (items)
+- [talisman-of-pure-good-xdmg (items)]]
+- [[talisman-of-the-sphere-xdmg (items)
+- [talisman-of-ultimate-evil-xdmg (items)]]
+- [[tentacle-rod-xdmg (items)
+- [thunderous-greatclub-xdmg (items)]]
+- [[torch-xphb (items)
+- [universal-solvent-xdmg (items)]]
+- [[wand-of-conducting-xdmg (items)
+- [wand-of-enemy-detection-xdmg (items)]]
+- [[wand-of-paralysis-xdmg (items)
+- [wand-of-pyrotechnics-xdmg (items)]]
+- [[wand-of-secrets-xdmg (items)
+- [well-of-many-worlds-xdmg (items)]]
+- [[whelm-xdmg (items)
+- [white-dragon-scale-mail-xdmg (items)]]
+- [[winged-boots-xdmg (items)
+- [wings-of-flying-xdmg (items)]]
+- [[Ballista Xdmg
+- [Flamethrower Coach Xdmg]]
+- [[Lightning Cannon Xdmg
+- [Trebuchet Xdmg]]
+- [[ballista-xdmg (objects)
+- [flamethrower-coach-xdmg (objects)]]
+- [[lightning-cannon-xdmg (objects)
+- [trebuchet-xdmg (objects)]]
+- [[Bait and Switch Xphb
+- [Commanders Strike Xphb]]
+- [[Evasive Footwork Xphb
+- [Fangs of the Fire Snake]]
+- [[Gift of the Protectors Xphb
+- [Investment of the Chain Master Xphb]]
+- [[Lunging Attack Xphb
+- [Maneuvering Attack Xphb]]
+- [[Pact of the Chain Xphb
+- [Thirsting Blade Xphb]]
+- [[bait-and-switch-xphb (optional-features)
+- [commanders-strike-xphb (optional-features)]]
+- [[evasive-footwork-xphb (optional-features)
+- [fangs-of-the-fire-snake (optional-features)]]
+- [[gift-of-the-protectors-xphb (optional-features)
+- [investment-of-the-chain-master-xphb (optional-features)]]
+- [[lunging-attack-xphb (optional-features)
+- [maneuvering-attack-xphb (optional-features)]]
+- [[pact-of-the-chain-xphb (optional-features)
+- [thirsting-blade-xphb (optional-features)]]
+- [[Aasimar Xphb
+- [Dragonborn Xphb]]
+- [[Gnome Xphb
+- [Goblin Dmg]]
+- [[Goblin Vgm
+- [Halfling Xphb]]
+- [[Orc Xphb
+- [aasimar-xphb (races)]]
+- [[dragonborn-xphb (races)
+- [gnome-xphb (races)]]
+- [[goblin-dmg (races)
+- [goblin-vgm (races)]]
+- [[halfling-xphb (races)
+- [orc-xphb (races)]]
+- [[Charm of Heroism Xdmg
+- [Charm of Vitality Xdmg]]
+- [[charm-of-heroism-xdmg (rewards)
+- [charm-of-vitality-xdmg (rewards)]]
+- [[Alter Self Xphb
+- [Animal Shapes Xphb]]
+- [[Animate Dead Xphb
+- [Animate Objects Xphb]]
+- [[Antimagic Field Xphb
+- [Astral Projection Xphb]]
+- [[Befuddlement Xphb
+- [Bestow Curse Xphb]]
+- [[Call Lightning Xphb
+- [Cloud of Daggers Xphb]]
+- [[Confusion Xphb
+- [Conjure Woodland Beings Xphb]]
+- [[Create Undead Xphb
+- [Crown of Madness Xphb]]
+- [[Detect Magic Xphb
+- [Detect Thoughts Xphb]]
+- [[Disguise Self Xphb
+- [Dispel Evil and Good Xphb]]
+- [[Dominate Beast Xphb
+- [Dominate Monster Xphb]]
+- [[Dominate Person Xphb
+- [Dragons Breath Xphb]]
+- [[Drawmijs Instant Summons Xphb
+- [Expeditious Retreat Xphb]]
+- [[Eyebite Xphb
+- [Faerie Fire Xphb]]
+- [[Fear Xphb
+- [Find Familiar Xphb]]
+- [[Flame Blade Xphb
+- [Gaseous Form Xphb]]
+- [[Giant Insect Xphb
+- [Hallucinatory Terrain Xphb]]
+- [[Haste Xphb
+- [Leomunds Secret Chest Xphb]]
+- [[Levitate Xphb
+- [Mage Hand Xphb]]
+- [[Magic Jar Xphb
+- [Major Image Xphb]]
+- [[Maze Xphb
+- [Minor Illusion Xphb]]
+- [[Mislead Xphb
+- [Mordenkainens Faithful Hound Xphb]]
+- [[Phantasmal Force Xphb
+- [Produce Flame Xphb]]
+- [[Programmed Illusion Xphb
+- [Project Image Xphb]]
+- [[Seeming Xphb
+- [Shapechange Xphb]]
+- [[Shocking Grasp Xphb
+- [Silent Image Xphb]]
+- [[Slow Xphb
+- [Speak With Animals Xphb]]
+- [[Spike Growth Xphb
+- [Summon Aberration Xphb]]
+- [[Summon Beast Xphb
+- [Summon Celestial Xphb]]
+- [[Summon Construct Xphb
+- [Summon Dragon Xphb]]
+- [[Summon Elemental Xphb
+- [Summon Fey Xphb]]
+- [[Summon Fiend Xphb
+- [Summon Undead Xphb]]
+- [[Sunbeam Xphb
+- [Telekinesis Xphb]]
+- [[Tensers Transformation Xge
+- [Vampiric Touch Xphb]]
+- [[Wind Walk Xphb
+- [alter-self-xphb (spells)]]
+- [[animal-shapes-xphb (spells)
+- [animate-dead-xphb (spells)]]
+- [[animate-objects-xphb (spells)
+- [antimagic-field-xphb (spells)]]
+- [[astral-projection-xphb (spells)
+- [befuddlement-xphb (spells)]]
+- [[bestow-curse-xphb (spells)
+- [call-lightning-xphb (spells)]]
+- [[cloud-of-daggers-xphb (spells)
+- [confusion-xphb (spells)]]
+- [[conjure-woodland-beings-xphb (spells)
+- [create-undead-xphb (spells)]]
+- [[crown-of-madness-xphb (spells)
+- [detect-magic-xphb (spells)]]
+- [[detect-thoughts-xphb (spells)
+- [disguise-self-xphb (spells)]]
+- [[dispel-evil-and-good-xphb (spells)
+- [dominate-beast-xphb (spells)]]
+- [[dominate-monster-xphb (spells)
+- [dominate-person-xphb (spells)]]
+- [[dragons-breath-xphb (spells)
+- [drawmijs-instant-summons-xphb (spells)]]
+- [[expeditious-retreat-xphb (spells)
+- [eyebite-xphb (spells)]]
+- [[faerie-fire-xphb (spells)
+- [fear-xphb (spells)]]
+- [[find-familiar-xphb (spells)
+- [flame-blade-xphb (spells)]]
+- [[gaseous-form-xphb (spells)
+- [giant-insect-xphb (spells)]]
+- [[hallucinatory-terrain-xphb (spells)
+- [haste-xphb (spells)]]
+- [[leomunds-secret-chest-xphb (spells)
+- [levitate-xphb (spells)]]
+- [[mage-hand-xphb (spells)
+- [magic-jar-xphb (spells)]]
+- [[major-image-xphb (spells)
+- [maze-xphb (spells)]]
+- [[minor-illusion-xphb (spells)
+- [mislead-xphb (spells)]]
+- [[mordenkainens-faithful-hound-xphb (spells)
+- [phantasmal-force-xphb (spells)]]
+- [[produce-flame-xphb (spells)
+- [programmed-illusion-xphb (spells)]]
+- [[project-image-xphb (spells)
+- [seeming-xphb (spells)]]
+- [[shapechange-xphb (spells)
+- [shocking-grasp-xphb (spells)]]
+- [[silent-image-xphb (spells)
+- [slow-xphb (spells)]]
+- [[speak-with-animals-xphb (spells)
+- [spike-growth-xphb (spells)]]
+- [[summon-aberration-xphb (spells)
+- [summon-beast-xphb (spells)]]
+- [[summon-celestial-xphb (spells)
+- [summon-construct-xphb (spells)]]
+- [[summon-dragon-xphb (spells)
+- [summon-elemental-xphb (spells)]]
+- [[summon-fey-xphb (spells)
+- [summon-fiend-xphb (spells)]]
+- [[summon-undead-xphb (spells)
+- [sunbeam-xphb (spells)]]
+- [[telekinesis-xphb (spells)
+- [tensers-transformation-xge (spells)]]
+- [[vampiric-touch-xphb (spells)
+- [wind-walk-xphb (spells)]]
+- [[Actions Xphb
+- [Actions in Combat Describing Actions Xdmg]]
+- [[Armor Xphb
+- [actions-in-combat-describing-actions-xdmg (tables)]]
+- [[actions-xphb (tables)
+- [armor-xphb (tables)]]
+- [[Collapsing Roof Xdmg
+- [Falling Net Xdmg]]
+- [[Fire Casting Statue Xdmg
+- [Hidden Pit Xdmg]]
+- [[Poisoned Darts Xdmg
+- [Poisoned Needle Xdmg]]
+- [[River Styx Xdmg
+- [Rolling Stone Xdmg]]
+- [[Spiked Pit Xdmg
+- [Vicious Vine Xdmg]]
+- [[collapsing-roof-xdmg (traps-hazards)
+- [falling-net-xdmg (traps-hazards)]]
+- [[fire-casting-statue-xdmg (traps-hazards)
+- [hidden-pit-xdmg (traps-hazards)]]
+- [[poisoned-darts-xdmg (traps-hazards)
+- [poisoned-needle-xdmg (traps-hazards)]]
+- [[river-styx-xdmg (traps-hazards)
+- [rolling-stone-xdmg (traps-hazards)]]
+- [[spiked-pit-xdmg (traps-hazards)
+- [vicious-vine-xdmg (traps-hazards)]]
+- [[Action Xphb
+- [Breaking Objects Xphb]]
+- [[Weapon Mastery Properties Xphb
+- [action-xphb (variant-rules)]]
+- [[breaking-objects-xphb (variant-rules)
+- [weapon-mastery-properties-xphb (variant-rules)]]
+- [[Apparatus of Kwalish Xdmg (vehicles)
+- [apparatus-of-kwalish-xdmg (vehicles)]]
+
+## Notes
+
+*Additional notes*
+
+#mechanics/combat
+#mechanics/rules
+#story/plot
+#story/narrative
+#story/lore
+#story/background
+#world/world
+#world/place
+#character/npc
+#character/person
+#character/monster
+#resource/item
+#resource/equipment
+#meta/reference

@@ -1,0 +1,19 @@
+{
+  "name": "ITEM01484_Masterwork_Map_Case_of_Reliability",
+  "type": "item",
+  "generated": "2025-08-15T18:19:02.180Z",
+  "prompt": "magical artifact called ITEM01484_Masterwork_Map_Case_of_Reliability, detailed item, glowing effects, fantasy artifact",
+  "status": "pending_generation",
+  "tags": [
+    "item",
+    "equipment-art",
+    "object",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Items/ITEM01484_Masterwork_Map_Case_of_Reliability.png.json",
+  "reorganized": "2025-08-15T18:32:58.298Z"
+}

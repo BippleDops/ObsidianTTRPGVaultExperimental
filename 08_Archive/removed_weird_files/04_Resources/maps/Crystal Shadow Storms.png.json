@@ -1,0 +1,18 @@
+{
+  "name": "Crystal Shadow Storms",
+  "type": "map",
+  "generated": "2025-08-15T18:18:04.761Z",
+  "prompt": "fantasy map of Crystal Shadow Storms, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Crystal Shadow Storms.png.json",
+  "reorganized": "2025-08-15T18:33:02.282Z"
+}

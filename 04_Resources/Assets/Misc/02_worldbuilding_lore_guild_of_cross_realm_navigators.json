@@ -1,0 +1,22 @@
+{
+  "title": "02_Worldbuilding/Lore/Guild of Cross-Realm Navigators",
+  "prompt": "02 worldbuilding/lore/guild of cross-realm navigators, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:21:46.773Z",
+  "sourceFile": "/02_Worldbuilding/Groups/02_Worldbuilding_Lore_Guild_of_Cross-Realm_Navigators.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/02_worldbuilding_lore_guild_of_cross_realm_navigators.json",
+  "reorganized": "2025-08-15T18:33:03.936Z"
+}

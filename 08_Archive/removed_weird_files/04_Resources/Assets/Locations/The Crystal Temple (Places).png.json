@@ -1,0 +1,18 @@
+{
+  "name": "The Crystal Temple (Places)",
+  "type": "location",
+  "generated": "2025-08-15T18:18:11.165Z",
+  "prompt": "fantasy temple called The Crystal Temple (Places), establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/The Crystal Temple (Places).png.json",
+  "reorganized": "2025-08-15T18:33:01.003Z"
+}

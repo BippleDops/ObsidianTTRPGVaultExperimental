@@ -1,0 +1,19 @@
+{
+  "name": "Kelp Forests 2",
+  "type": "location",
+  "generated": "2025-08-15T18:17:59.068Z",
+  "prompt": "fantasy forest called Kelp Forests 2, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "forest"
+  ],
+  "location": "04_Resources/Assets/Locations/Kelp Forests 2.png.json",
+  "reorganized": "2025-08-15T18:32:59.739Z"
+}

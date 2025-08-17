@@ -1,0 +1,18 @@
+{
+  "name": "Safe Transport Vehicle",
+  "type": "item",
+  "generated": "2025-08-15T18:19:08.682Z",
+  "prompt": "magical artifact called Safe Transport Vehicle, detailed item, glowing effects, fantasy artifact",
+  "status": "pending_generation",
+  "tags": [
+    "item",
+    "equipment-art",
+    "object",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Items/Safe Transport Vehicle.png.json",
+  "reorganized": "2025-08-15T18:32:58.345Z"
+}

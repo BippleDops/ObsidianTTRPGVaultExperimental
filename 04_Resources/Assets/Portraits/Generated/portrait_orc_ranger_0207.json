@@ -1,0 +1,16 @@
+{
+  "name": "Orc Ranger 207",
+  "type": "portrait",
+  "race": "orc",
+  "class": "ranger",
+  "gender": "male",
+  "age": "adult",
+  "tags": [
+    "portrait",
+    "character",
+    "orc",
+    "ranger",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.650Z"
+}

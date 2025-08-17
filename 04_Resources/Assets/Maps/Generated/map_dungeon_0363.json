@@ -1,0 +1,46 @@
+{
+  "name": "Dungeon Map 363",
+  "type": "map",
+  "mapType": "dungeon",
+  "gridSize": null,
+  "scale": "1:100",
+  "tags": [
+    "map",
+    "dungeon",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 48.52348019747016,
+      "y": 0.23827781569487616,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 2",
+      "x": 8.52471070478934,
+      "y": 26.596472640601842,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 3",
+      "x": 81.77174552484935,
+      "y": 32.119872885336186,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 4",
+      "x": 86.9723781350135,
+      "y": 86.07780117750166,
+      "type": "town"
+    },
+    {
+      "name": "Location 5",
+      "x": 25.473527903473403,
+      "y": 83.08976211805185,
+      "type": "dungeon"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.721Z"
+}

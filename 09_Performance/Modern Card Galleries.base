@@ -1,0 +1,325 @@
+formulas:
+  MonsterCard: |
+    js:
+    const cr = target.cr || "?";
+    const type = target.type || "unknown";
+    const size = target.size || "";
+    const imagePath = target.image_path || '04_Resources/Assets/Placeholder Images/DefaultMonster.png';
+
+    const crColor = (() => {
+      const crNum = parseFloat(cr);
+      if (crNum >= 20) return "#8B0000";
+      if (crNum >= 15) return "#DC143C";
+      if (crNum >= 10) return "#FF6347";
+      if (crNum >= 5) return "#FFA500";
+      if (crNum >= 1) return "#32CD32";
+      return "#90EE90";
+    })();
+
+    return `
+    <div class="modern-card monster-card" style="border: 2px solid ${crColor}; border-radius: 12px; padding: 8px; background: var(--background-primary);">
+      <div class="card-image" style="text-align: center; margin-bottom: 8px;">
+        <img src="${imagePath}" alt="${target.file.name}" style="max-width: 120px; max-height: 120px; border-radius: 8px; object-fit: cover;">
+      </div>
+      <div class="card-title" style="font-weight: bold; text-align: center; margin-bottom: 4px;">${target.file.name}</div>
+      <div class="card-subtitle" style="text-align: center; color: var(--text-muted); font-size: 0.9em;">${size} ${type}</div>
+      <div class="card-cr" style="text-align: center; margin-top: 8px; padding: 4px; background: ${crColor}; color: white; border-radius: 4px; font-weight: bold;">CR ${cr}</div>
+    </div>`;
+  ItemCard: |
+    js:
+    const rarity = target.rarity || "Common";
+    const type = target.type || "Item";
+    const imagePath = target.image_path || '04_Resources/Assets/Placeholder Images/DefaultItem.png';
+    const attunement = target.attunement ? "⚡" : "";
+
+    const rarityConfig = {
+      'Common': { color: '#808080', glow: 'none' },
+      'Uncommon': { color: '#00FF00', glow: '0 0 8px rgba(0,255,0,0.3)' },
+      'Rare': { color: '#0080FF', glow: '0 0 8px rgba(0,128,255,0.3)' },
+      'Very Rare': { color: '#800080', glow: '0 0 8px rgba(128,0,128,0.3)' },
+      'Legendary': { color: '#FFA500', glow: '0 0 12px rgba(255,165,0,0.4)' },
+      'Artifact': { color: '#FF0000', glow: '0 0 16px rgba(255,0,0,0.5)' }
+    };
+
+    const config = rarityConfig[rarity] || rarityConfig['Common'];
+
+    return `
+    <div class="modern-card item-card" style="border: 2px solid ${config.color}; border-radius: 12px; padding: 8px; background: var(--background-primary); box-shadow: ${config.glow};">
+      <div class="card-image" style="text-align: center; margin-bottom: 8px;">
+        <img src="${imagePath}" alt="${target.file.name}" style="max-width: 100px; max-height: 100px; border-radius: 8px; object-fit: cover;">
+      </div>
+      <div class="card-title" style="font-weight: bold; text-align: center; margin-bottom: 4px;">${target.file.name} ${attunement}</div>
+      <div class="card-subtitle" style="text-align: center; color: var(--text-muted); font-size: 0.9em;">${type}</div>
+      <div class="card-rarity" style="text-align: center; margin-top: 8px; padding: 4px; background: ${config.color}; color: white; border-radius: 4px; font-weight: bold;">${rarity}</div>
+    </div>`;
+  SpellCard: |
+    js:
+    const level = target.level === 0 ? "Cantrip" : `Level ${target.level}`;
+    const school = target.school || "Unknown";
+    const concentration = target.concentration ? "🎯" : "";
+    const ritual = target.ritual ? "📜" : "";
+
+    const schoolColors = {
+      'abjuration': '#1E3A8A',
+      'conjuration': '#7C3AED',
+      'divination': '#0891B2',
+      'enchantment': '#EC4899',
+      'evocation': '#DC2626',
+      'illusion': '#9333EA',
+      'necromancy': '#374151',
+      'transmutation': '#059669'
+    };
+
+    const color = schoolColors[school.toLowerCase()] || '#6B7280';
+
+    return `
+    <div class="modern-card spell-card" style="border: 2px solid ${color}; border-radius: 12px; padding: 8px; background: var(--background-primary);">
+      <div class="card-header" style="text-align: center; margin-bottom: 8px;">
+        <div style="background: ${color}; color: white; padding: 4px 8px; border-radius: 6px; font-size: 0.8em; margin-bottom: 4px;">${school.toUpperCase()}</div>
+      </div>
+      <div class="card-title" style="font-weight: bold; text-align: center; margin-bottom: 4px;">${target.file.name}</div>
+      <div class="card-level" style="text-align: center; color: var(--text-muted); font-size: 0.9em;">${level} ${concentration} ${ritual}</div>
+      <div class="card-casting" style="text-align: center; margin-top: 8px; font-size: 0.8em; color: var(--text-muted);">
+        ${target.castingTime || "1 action"}
+      </div>
+    </div>`;
+  NPCCard: |
+    js:
+    const relationship = target.relationship || "neutral";
+    const occupation = target.occupation || "Commoner";
+    const status = target.status || "active";
+    const imagePath = target.image_path || '04_Resources/Assets/Placeholder Images/DefaultImage.png';
+
+    const relationshipColors = {
+      'hostile': '#DC2626',
+      'unfriendly': '#EA580C',
+      'neutral': '#6B7280',
+      'friendly': '#059669',
+      'allied': '#2563EB'
+    };
+
+    const statusIcons = {
+      'active': '✅',
+      'dead': '💀',
+      'missing': '❓',
+      'retired': '🏡'
+    };
+
+    const relColor = relationshipColors[relationship] || '#6B7280';
+    const statusIcon = statusIcons[status] || '❔';
+
+    return `
+    <div class="modern-card npc-card" style="border: 2px solid ${relColor}; border-radius: 12px; padding: 8px; background: var(--background-primary);">
+      <div class="card-image" style="text-align: center; margin-bottom: 8px;">
+        <img src="${imagePath}" alt="${target.file.name}" style="max-width: 100px; max-height: 120px; border-radius: 8px; object-fit: cover;">
+      </div>
+      <div class="card-title" style="font-weight: bold; text-align: center; margin-bottom: 4px;">${target.file.name}</div>
+      <div class="card-occupation" style="text-align: center; color: var(--text-muted); font-size: 0.9em; margin-bottom: 4px;">${occupation}</div>
+      <div class="card-status" style="text-align: center; margin-bottom: 4px;">${statusIcon} ${status}</div>
+      <div class="card-relationship" style="text-align: center; margin-top: 8px; padding: 4px; background: ${relColor}; color: white; border-radius: 4px; font-weight: bold; font-size: 0.8em;">${relationship.toUpperCase()}</div>
+    </div>`;
+  LocationCard: |
+    js:
+    const locationType = target.location_type || "location";
+    const population = target.population ? `Pop: ${target.population}` : "";
+    const climate = target.climate || "";
+    const imagePath = target.image_path || target.map_path || '04_Resources/Assets/Placeholder Images/DefaultImage.png';
+
+    const typeColors = {
+      'city': '#2563EB',
+      'town': '#059669',
+      'village': '#D97706',
+      'dungeon': '#7C2D12',
+      'wilderness': '#166534',
+      'landmark': '#7C3AED'
+    };
+
+    const color = typeColors[locationType] || '#6B7280';
+
+    return `
+    <div class="modern-card location-card" style="border: 2px solid ${color}; border-radius: 12px; padding: 8px; background: var(--background-primary);">
+      <div class="card-image" style="text-align: center; margin-bottom: 8px;">
+        <img src="${imagePath}" alt="${target.file.name}" style="max-width: 120px; max-height: 80px; border-radius: 8px; object-fit: cover;">
+      </div>
+      <div class="card-title" style="font-weight: bold; text-align: center; margin-bottom: 4px;">${target.file.name}</div>
+      <div class="card-type" style="text-align: center; margin-bottom: 4px; padding: 4px; background: ${color}; color: white; border-radius: 4px; font-size: 0.8em;">${locationType.toUpperCase()}</div>
+      ${population ? `<div class="card-population" style="text-align: center; color: var(--text-muted); font-size: 0.8em;">${population}</div>` : ''}
+      ${climate ? `<div class="card-climate" style="text-align: center; color: var(--text-muted); font-size: 0.8em;">${climate}</div>` : ''}
+    </div>`;
+views:
+  - type: table
+    name: All Content
+    filters:
+      path includes "CLI/bestiary"
+    columns:
+      - file.name
+      - type
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      type: 120
+      tags: 200
+  - type: cards
+    name: Monster Cards
+    filters:
+      and:
+        - path includes "CLI/bestiary"
+    sort:
+      - property: cr
+        direction: ASC
+    columns: 5
+    limit: 100
+    properties:
+      - file.name
+      - image_path
+      - type
+      - cr
+      - size
+      - hp
+  - type: cards
+    name: Item Cards
+    filters:
+      path includes "03_Mechanics/Items"
+    sort:
+      - property: rarity
+        direction: DESC
+    columns: 4
+    limit: 100
+    properties:
+      - file.name
+      - image_path
+      - rarity
+      - type
+      - attunement
+      - cost
+  - type: cards
+    name: Spell Cards
+    filters:
+      and:
+        - path includes "CLI/spells"
+        - level.equals({{level}})
+    sort:
+      - property: file.name
+        direction: ASC
+    columns: 4
+    limit: 100
+    properties:
+      - file.name
+      - level
+      - school
+      - castingTime
+      - concentration
+      - ritual
+    parameters:
+      level:
+        type: select
+        options:
+          - label: Cantrips
+            value: 0
+          - label: 1st Level
+            value: 1
+          - label: 2nd Level
+            value: 2
+          - label: 3rd Level
+            value: 3
+          - label: 4th Level
+            value: 4
+          - label: 5th Level
+            value: 5
+          - label: 6th Level
+            value: 6
+          - label: 7th Level
+            value: 7
+          - label: 8th Level
+            value: 8
+          - label: 9th Level
+            value: 9
+  - type: cards
+    name: NPC Cards
+    filters:
+      and:
+        - tags contains "Category/People"
+    sort:
+      - property: file.name
+        direction: ASC
+    columns: 4
+    limit: 100
+    properties:
+      - file.name
+      - image_path
+      - occupation
+      - relationship
+      - char_status
+      - location
+  - type: cards
+    name: Location Cards
+    filters:
+      and:
+        - tags contains "Category/Place"
+    sort:
+      - property: file.name
+        direction: ASC
+    columns: 3
+    limit: 100
+    properties:
+      - file.name
+      - image_path
+      - location_type
+      - population
+      - climate
+      - region
+  - type: cards
+    name: Boss Cards
+    filters:
+      and:
+        - path includes "bestiary"
+        - cr.gte(15)
+    sort:
+      - property: cr
+        direction: DESC
+    columns: 3
+    limit: 100
+    properties:
+      - file.name
+      - image_path
+      - type
+      - cr
+      - legendary
+      - hp
+  - type: cards
+    name: Magic Item Cards
+    filters:
+      and:
+        - path includes "03_Mechanics/Items"
+        - rarity != "Common"
+    sort:
+      - property: rarity
+        direction: DESC
+    columns: 4
+    limit: 100
+    properties:
+      - file.name
+      - image_path
+      - rarity
+      - type
+      - attunement
+      - cost
+  - type: table
+    name: All (Debug)
+
+    columns:
+      - file.name
+      - type
+      - tags
+      - image_path
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      type: 120
+      tags: 200
+      image_path: 300

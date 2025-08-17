@@ -1,0 +1,22 @@
+{
+  "title": "Enforcement Authority Charte",
+  "prompt": "Enforcement authority charte, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:09:35.265Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Government_and_Parliament/Enforcement Authority Charte.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/enforcement_authority_charte.json",
+  "reorganized": "2025-08-15T18:33:07.427Z"
+}

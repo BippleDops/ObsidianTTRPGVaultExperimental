@@ -1,0 +1,18 @@
+{
+  "name": "Ancient Crystal Technology",
+  "type": "map",
+  "generated": "2025-08-15T18:16:30.343Z",
+  "prompt": "fantasy map of Ancient Crystal Technology, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Ancient Crystal Technology.png.json",
+  "reorganized": "2025-08-15T18:33:01.232Z"
+}

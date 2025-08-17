@@ -1,0 +1,10 @@
+{
+  "type": "location_variant",
+  "generated": "2025-08-15T02:48:26.415Z",
+  "metadata": {
+    "name": "The Unremembered Parliament",
+    "variant": "interior"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Coral Seasweaver",
+  "type": "location",
+  "generated": "2025-08-15T18:17:17.299Z",
+  "prompt": "fantasy landscape called Coral Seasweaver, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Coral Seasweaver.png.json",
+  "reorganized": "2025-08-15T18:32:59.494Z"
+}

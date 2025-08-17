@@ -1,0 +1,46 @@
+{
+  "name": "Battle Map 194",
+  "type": "map",
+  "mapType": "battle",
+  "gridSize": "25x25",
+  "scale": "5ft per square",
+  "tags": [
+    "map",
+    "battle",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 0.3758626679569277,
+      "y": 93.8353257289818,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 2",
+      "x": 54.08746928895171,
+      "y": 37.23868625157727,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 3",
+      "x": 51.961914740021655,
+      "y": 49.64676454957867,
+      "type": "town"
+    },
+    {
+      "name": "Location 4",
+      "x": 90.36622600334063,
+      "y": 70.90013903313755,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 5",
+      "x": 57.65362297030994,
+      "y": 49.302001597943686,
+      "type": "city"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.645Z"
+}

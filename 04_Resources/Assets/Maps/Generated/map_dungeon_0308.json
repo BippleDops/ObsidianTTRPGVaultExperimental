@@ -1,0 +1,46 @@
+{
+  "name": "Dungeon Map 308",
+  "type": "map",
+  "mapType": "dungeon",
+  "gridSize": null,
+  "scale": "1:100",
+  "tags": [
+    "map",
+    "dungeon",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 9.231949527863591,
+      "y": 16.98028603028613,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 2",
+      "x": 64.84372541447866,
+      "y": 89.71988255235355,
+      "type": "city"
+    },
+    {
+      "name": "Location 3",
+      "x": 33.20192978772481,
+      "y": 98.24387594937242,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 4",
+      "x": 75.8938021380061,
+      "y": 84.20379919927183,
+      "type": "city"
+    },
+    {
+      "name": "Location 5",
+      "x": 12.447368181688912,
+      "y": 43.24855010310596,
+      "type": "city"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.695Z"
+}

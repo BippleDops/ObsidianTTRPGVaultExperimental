@@ -1,0 +1,19 @@
+{
+  "name": "Generic_Tavern",
+  "type": "battle",
+  "environment": "tavern",
+  "variant": "damaged",
+  "size": "20x20",
+  "gridSize": 5,
+  "gridType": "square",
+  "features": [
+    "tables",
+    "bar",
+    "fireplace",
+    "stairs"
+  ],
+  "lighting": "normal",
+  "generated": "2025-08-15T02:48:39.198Z",
+  "placeholder": true,
+  "generationRules": {}
+}

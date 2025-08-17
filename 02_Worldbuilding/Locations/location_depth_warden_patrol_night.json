@@ -1,0 +1,10 @@
+{
+  "type": "location_variant",
+  "generated": "2025-08-15T02:48:26.112Z",
+  "metadata": {
+    "name": "Depth Warden Patrol",
+    "variant": "night"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

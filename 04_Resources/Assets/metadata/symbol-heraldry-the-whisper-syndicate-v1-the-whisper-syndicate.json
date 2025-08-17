@@ -1,0 +1,34 @@
+{
+  "id": "heraldry-the-whisper-syndicate-v1",
+  "type": "symbol",
+  "name": "The Whisper Syndicate",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Whisper Syndicate, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "mysterious",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7006,
+  "alt_text": "Heraldic emblem for The Whisper Syndicate.",
+  "realm": "aquabyssos",
+  "palette": "storm greys",
+  "textPolicy": "no words or inscriptions; pure iconography",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create a collection of medieval-fantasy gear in a consistent painterly style, all composed of grounded materials specific to a medieval era. The items are marked with the Heraldic emblem of The Whisper Syndicate, drawn using simple geometry, featuring 2-3 motifs tied to the syndicate's identity. The designs should be presented in variants as seen on a seal, a banner, and a coin, with the elegance of an SVG vector design. Infuse the surreal elements of an aquatic fantasy, characterized by subsurface caustics, bioluminescent accents, and pressure-dome materials. The colors should encompass the shades of the sea, with teals, deep blues, sea-greens and pearl highlights. Avoid artifacts and maintain the specified aspect and resolution. Also, avoid incorporating modern tech, signage, unnecessary embedded texts or words (unless specified). Refrain from using garbled or random letter strings, but utilize meaningful symbols or numbered pins instead. Do not include elements typical of sci-fi UIs, modern signage, photoreal CGI, anime style, and bloom glare.",
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-whisper-syndicate-v1-the-whisper-syndicate.png"
+}

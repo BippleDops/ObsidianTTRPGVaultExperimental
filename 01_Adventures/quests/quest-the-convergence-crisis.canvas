@@ -1,0 +1,351 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Quest - The Convergence Crisis.md",
+      "x": 0,
+      "y": 0,
+      "width": 460,
+      "height": 140
+    },
+    {
+      "id": "n_02-worldbuilding-groups-the-void-watchers-md_300",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/The Void Watchers.md",
+      "x": -520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-the-convergence-seekers-md_220",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/The Convergence Seekers.md",
+      "x": 0,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-aethermoor-md_740",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Aethermoor.md",
+      "x": 520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-lore-the-seven-shards-md_120",
+      "type": "file",
+      "file": "02_Worldbuilding/Lore/The Seven Shards.md",
+      "x": -520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-lore-the-deep-mother-md_400",
+      "type": "file",
+      "file": "02_Worldbuilding/Lore/The Deep Mother.md",
+      "x": 0,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-purist-coalition-md_920",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/Purist Coalition.md",
+      "x": 520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-parliament-of-echoes-md_60",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Parliament of Echoes.md",
+      "x": -520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-silverscale-consortium-md_580",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/Silverscale Consortium.md",
+      "x": 0,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-scholar-vivienne-the-chronicler-md_1100",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Scholar Vivienne the Chronicler.md",
+      "x": 520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-the-nameless-auditor-md_240",
+      "type": "file",
+      "file": "02_Worldbuilding/People/The Nameless Auditor.md",
+      "x": -520,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-captain-threshold-md_760",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Captain Threshold.md",
+      "x": 0,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-the-liminal-trading-company-md_1280",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/The Liminal Trading Company.md",
+      "x": 520,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-the-shadow-crystal-synthesis-md_420",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/The Shadow-Crystal Synthesis.md",
+      "x": -520,
+      "y": 940,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-tribune-cassia-deepcurrent-md_940",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Tribune Cassia Deepcurrent.md",
+      "x": 0,
+      "y": 940,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-commander-thrace-ironwood-md_1460",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Commander Thrace Ironwood.md",
+      "x": 520,
+      "y": 940,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-sister-thalassa-the-depth-touched-md_600",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Sister Thalassa the Depth-Touched.md",
+      "x": -520,
+      "y": 1120,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-keeper-of-the-shattered-crown-marcus-crystalvein-md_1120",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Keeper of the Shattered Crown, Marcus Crystalvein.md",
+      "x": 0,
+      "y": 1120,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-memory-harvester-kythara-md_1640",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Memory Harvester Kythara.md",
+      "x": 520,
+      "y": 1120,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-the-threshold-chambers-md_780",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/The Threshold Chambers.md",
+      "x": -520,
+      "y": 1300,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-crystalhaven-md_1300",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Crystalhaven.md",
+      "x": 0,
+      "y": 1300,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-the-hadal-depths-md_1820",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/The Hadal Depths.md",
+      "x": 520,
+      "y": 1300,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-the-shadowmere-md_960",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/The Shadowmere.md",
+      "x": -520,
+      "y": 1480,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-port-meridian-md_1480",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Port Meridian.md",
+      "x": 0,
+      "y": 1480,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-the-verdant-reach-md_2000",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/The Verdant Reach.md",
+      "x": 520,
+      "y": 1480,
+      "width": 380,
+      "height": 120
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-the-void-watchers-md_300"
+    },
+    {
+      "id": "e_1",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-the-convergence-seekers-md_220"
+    },
+    {
+      "id": "e_2",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-aethermoor-md_740"
+    },
+    {
+      "id": "e_3",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-lore-the-seven-shards-md_120"
+    },
+    {
+      "id": "e_4",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-lore-the-deep-mother-md_400"
+    },
+    {
+      "id": "e_5",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-purist-coalition-md_920"
+    },
+    {
+      "id": "e_6",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-parliament-of-echoes-md_60"
+    },
+    {
+      "id": "e_7",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-silverscale-consortium-md_580"
+    },
+    {
+      "id": "e_8",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-scholar-vivienne-the-chronicler-md_1100"
+    },
+    {
+      "id": "e_9",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-the-nameless-auditor-md_240"
+    },
+    {
+      "id": "e_10",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-captain-threshold-md_760"
+    },
+    {
+      "id": "e_11",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-the-liminal-trading-company-md_1280"
+    },
+    {
+      "id": "e_12",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-the-shadow-crystal-synthesis-md_420"
+    },
+    {
+      "id": "e_13",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-tribune-cassia-deepcurrent-md_940"
+    },
+    {
+      "id": "e_14",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-commander-thrace-ironwood-md_1460"
+    },
+    {
+      "id": "e_15",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-sister-thalassa-the-depth-touched-md_600"
+    },
+    {
+      "id": "e_16",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-keeper-of-the-shattered-crown-marcus-crystalvein-md_1120"
+    },
+    {
+      "id": "e_17",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-memory-harvester-kythara-md_1640"
+    },
+    {
+      "id": "e_18",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-the-threshold-chambers-md_780"
+    },
+    {
+      "id": "e_19",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-crystalhaven-md_1300"
+    },
+    {
+      "id": "e_20",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-the-hadal-depths-md_1820"
+    },
+    {
+      "id": "e_21",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-the-shadowmere-md_960"
+    },
+    {
+      "id": "e_22",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-port-meridian-md_1480"
+    },
+    {
+      "id": "e_23",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-the-verdant-reach-md_2000"
+    }
+  ]
+}

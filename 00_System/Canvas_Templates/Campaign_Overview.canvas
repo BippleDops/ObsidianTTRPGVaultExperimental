@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "x": 0,
+      "y": 0,
+      "width": 200,
+      "height": 100,
+      "type": "text",
+      "text": "Campaign Overview"
+    },
+    {
+      "id": "2",
+      "x": -300,
+      "y": 200,
+      "width": 150,
+      "height": 80,
+      "type": "text",
+      "text": "Act 1"
+    },
+    {
+      "id": "3",
+      "x": 0,
+      "y": 200,
+      "width": 150,
+      "height": 80,
+      "type": "text",
+      "text": "Act 2"
+    },
+    {
+      "id": "4",
+      "x": 300,
+      "y": 200,
+      "width": 150,
+      "height": 80,
+      "type": "text",
+      "text": "Act 3"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "1",
+      "toNode": "2"
+    },
+    {
+      "id": "e2",
+      "fromNode": "1",
+      "toNode": "3"
+    },
+    {
+      "id": "e3",
+      "fromNode": "1",
+      "toNode": "4"
+    }
+  ]
+}

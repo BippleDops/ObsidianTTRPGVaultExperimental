@@ -1,0 +1,46 @@
+{
+  "name": "Battle Map 154",
+  "type": "map",
+  "mapType": "battle",
+  "gridSize": "25x25",
+  "scale": "5ft per square",
+  "tags": [
+    "map",
+    "battle",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 27.25430124767839,
+      "y": 59.407917271339485,
+      "type": "city"
+    },
+    {
+      "name": "Location 2",
+      "x": 8.447570902715306,
+      "y": 97.38507245536904,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 3",
+      "x": 22.11986414809043,
+      "y": 30.050826266683995,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 4",
+      "x": 46.95430141874514,
+      "y": 11.251903750239723,
+      "type": "town"
+    },
+    {
+      "name": "Location 5",
+      "x": 40.86274688950171,
+      "y": 21.56691012996713,
+      "type": "town"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.626Z"
+}

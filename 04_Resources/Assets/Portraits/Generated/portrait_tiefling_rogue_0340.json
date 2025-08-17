@@ -1,0 +1,16 @@
+{
+  "name": "Tiefling Rogue 340",
+  "type": "portrait",
+  "race": "tiefling",
+  "class": "rogue",
+  "gender": "male",
+  "age": "young",
+  "tags": [
+    "portrait",
+    "character",
+    "tiefling",
+    "rogue",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.710Z"
+}

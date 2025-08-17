@@ -1,0 +1,19 @@
+{
+  "name": "NPC0184_Yorick_Brightblade",
+  "type": "token",
+  "generated": "2025-08-15T18:16:23.876Z",
+  "prompt": "character token for NPC0184_Yorick_Brightblade, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC0184_Yorick_Brightblade.png.json",
+  "reorganized": "2025-08-15T18:33:11.928Z"
+}

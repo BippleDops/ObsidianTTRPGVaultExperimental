@@ -1,0 +1,1459 @@
+---
+title: City Watch
+type: note
+tags:
+- auto-generated
+- [[Linked
+created: '2025-01-15'
+---
+
+# City Watch
+
+## Overview
+This topic is referenced in [Session 4]] and other parts of the campaign.
+
+## Description
+An important element of the campaign world that connects to various other aspects of the adventure.
+
+## Connections
+- Referenced by: [[Session 4
+- Related topics in the same category
+
+## Details
+Further information about this topic will be developed as the campaign progresses.
+
+## Plot Hooks
+- Can serve as a point of interest for adventurers
+- May connect to ongoing storylines
+- Provides opportunities for exploration and discovery
+
+## References
+
+- [Pregenerated_Characters.md]]
+- [[Quest Into the Wastes.png
+- [Quest Nature.png]]
+- [[Quest Syndicate Shadows.png
+- [Quest the Blackmail Papers.png]]
+- [[Quest the Missing Guards.png
+- [Quest the Pretender.png]]
+- [[Quest the Root Network.png
+- [Pregenerated_Characters.md (The_Seven_Shards_Campaign)]]
+- [[Complete_NPC_Matrix.md
+- [Active NPCs]]
+- [[Central Location
+- [Cure Component Locations]]
+- [[Infected NPC Database
+- [Key Locations]]
+- [[Known Locations
+- [NPC (Lore)]]
+- [[NPC Directory.base (Lore)
+- [NPC Name Generator (Lore)]]
+- [[NPC Relationship Web (Lore)
+- [Major NPCs]]
+- [[NPC Voices (02_Worldbuilding)
+- [NPC Name (People)]]
+- [[Quarantine Enforcement
+- [Quick NPC]]
+- [[#Character Sheet
+- [#Character-Faction Relationship Matrix]]
+- [[#Cross-Campaign Characters
+- [#NPC-Location Relationship Matrix]]
+- [[#NPCs
+- [#Royal & Noble Characters]]
+- [[02 Chapter 1 Playing the Game#stabilizing a Character
+- [mechuiti-demon-lord-of-apes-tob]]
+- [[qorgeth-demon-lord-of-the-devouring-worm-tob
+- [All NPCs]]
+- [[Aquabyssos_Character_Creation
+- [Character Name]]
+- [[Create New NPC
+- [Generate Campaign NPCs]]
+- [[Important NPCs
+- [NPC (People)]]
+- [[NPC Directory.base (People)
+- [NPC Cross-World Connections]]
+- [[NPC Development Timeline
+- [NPC Name 1]]
+- [[NPC Name 2 (People)
+- [NPC Reaction Matrix]]
+- [[NPC Relationship System
+- [NPC Statblock]]
+- [[NPC1 (People)
+- [NPC2 (People)]]
+- [[NPC3 (People)
+- [NPC4 (People)]]
+- [[NPCs Statblocks
+- [Random NPC Generator]]
+- [[Random NPC
+- [Shadow Conspiracy NPCs]]
+- [[Goldspire Port
+- [Pearl_Harbor_City]]
+- [[The_Academy_of_Resoce
+- [Character_Bonds]]
+- [[Character_Creation_Extended
+- [Character_Creation_Extended.md_1 (03_People)]]
+- [[NPC_Name_Generator.png
+- [NPC_Name_Generator.png_1 (03_People)]]
+- [[NPC_Reactions
+- [NPC_Relationship_Web.png]]
+- [[NPC_Relationship_Web.png_1 (03_People)
+-
+- [Archivist Spectrum Memorykeeper]]
+- [[Captain Azure Windcaller
+- [Captain Nerion Pearlshield]]
+- [[Captain Storm
+- [Captain Zephyr Voidwing]]
+- [[Elite Wind Rider Captain
+- [Explorer Captain Twist Realitywalker]]
+- [[Lord Goldhand
+- [Lord Vex]]
+- [[Master Adapter Fluid Depthshifter
+- [Master Artificer Coral Gemwright (NPCs)]]
+- [[Master Artificer Crystal Brightforge
+- [Master Conductor Nereus Voidcaller]]
+- [[Master Wind Singer Melody Tradition (NPCs)
+- [Master of Crystals Prism Multifacet]]
+- [[Sage Elara
+- [Sky Lords Worship (NPCs)]]
+- [[Smuggler Captain Marina Darkwater
+- [Tradition Keeper Elder Wisdom (NPCs)]]
+- [[Void Lord Stat Blocks
+- [Void Lords]]
+- [[yuan-ti-pit-master-mpmm
+- [Crown_Dome_Conspiracy.png]]
+- [[Shadow_Parliament.png
+- [Syndicate_War.png]]
+- [[The_Coral_Throne_Syndicate.png
+- [The_Corroded_Crown.png]]
+- [[The_Cure.png
+- [The_Party.png]]
+- [[The_Seven_Seals.png
+- [The_Verdant_Accord.png]]
+- [[Uniting_the_Factions.png
+- [Portrait NPC Aboleth Prime Yoth Aboleth Prime Yoth.svg_1 (Portraits)]]
+- [[Portrait NPC Aboleth Prime Yoth V1 Aboleth Prime Yoth.svg_1 (Portraits)
+- [Portrait NPC Aboleth Prime Yoth V2 Aboleth Prime Yoth.svg_1 (Portraits)]]
+- [[Portrait NPC Abyssal Cathedral Abyssal Cathedral.svg_1 (Portraits)
+- [Portrait NPC Abyssal Cathedral V1 Abyssal Cathedral.svg_1 (Portraits)]]
+- [[Portrait NPC Abyssal Cathedral V2 Abyssal Cathedral.svg_1 (Portraits)
+- [Portrait NPC Abyssos Prime Government Abyssos Prime Government.svg_1 (Portraits)]]
+- [[Portrait NPC Abyssos Prime Government V1 Abyssos Prime Government.svg_1 (Portraits)
+- [Portrait NPC Abyssos Prime Government V2 Abyssos Prime Government.svg_1 (Portraits)]]
+- [[Portrait NPC Abyssos Prime Parliament of Echoes Abyssos Prime Parliament of Echoes.svg_1 (Portraits)
+- [Portrait NPC Abyssos Prime Parliament of Echoes V1 Abyssos Prime Parliament of Echoes.svg_1 (Portraits)]]
+- [[Portrait NPC Abyssos Prime Parliament of Echoes V2 Abyssos Prime Parliament of Echoes.svg_1 (Portraits)
+- [Portrait NPC Abyssos Prime Throne of Bubbles Abyssos Prime Throne of Bubbles.svg_1 (Portraits)]]
+- [[Portrait NPC Abyssos Prime Throne of Bubbles V1 Abyssos Prime Throne of Bubbles.svg_1 (Portraits)
+- [Portrait NPC Abyssos Prime Throne of Bubbles V2 Abyssos Prime Throne of Bubbles.svg_1 (Portraits)]]
+- [[Portrait NPC Admiral Cassandra Stormwind Admiral Cassandra Stormwind.svg_1 (Portraits)
+- [Portrait NPC Admiral Cassandra Stormwind V1 Admiral Cassandra Stormwind.svg_1 (Portraits)]]
+- [[Portrait NPC Admiral Cassandra Stormwind V2 Admiral Cassandra Stormwind.svg_1 (Portraits)
+- [Portrait NPC Admiral Lady Cassandra Stormwind Admiral Lady Cassandra Stormwind.svg]]
+- [[Portrait NPC Admiral Lady Cassandra Stormwind V1 Admiral Lady Cassandra Stormwind.svg
+- [Portrait NPC Admiral Lady Cassandra Stormwind V2 Admiral Lady Cassandra Stormwind.svg]]
+- [[Portrait NPC Admiral Thorne Blackwater Admiral Thorne Blackwater.svg_1 (Portraits)
+- [Portrait NPC Admiral Thorne Blackwater V1 Admiral Thorne Blackwater.svg_1 (Portraits)]]
+- [[Portrait NPC Admiral Thorne Blackwater V2 Admiral Thorne Blackwater.svg_1 (Portraits)
+- [Portrait NPC Agent Whisper Voidheart Agent Whisper Voidheart.svg_1 (Portraits)]]
+- [[Portrait NPC Agent Whisper Voidheart V1 Agent Whisper Voidheart.svg_1 (Portraits)
+- [Portrait NPC Agent Whisper Voidheart V2 Agent Whisper Voidheart.svg_1 (Portraits)]]
+- [[Portrait NPC Ambassador Korvin Blacktide Ambassador Korvin Blacktide.svg_1 (Portraits)
+- [Portrait NPC Ambassador Korvin Blacktide V1 Ambassador Korvin Blacktide.svg_1 (Portraits)]]
+- [[Portrait NPC Ambassador Korvin Blacktide V2 Ambassador Korvin Blacktide.svg_1 (Portraits)
+- [Portrait NPC Ambassador Nerida Deepcurrent Ambassador Nerida Deepcurrent.svg_1 (Portraits)]]
+- [[Portrait NPC Ambassador Nerida Deepcurrent V1 Ambassador Nerida Deepcurrent.svg_1 (Portraits)
+- [Portrait NPC Ambassador Nerida Deepcurrent V2 Ambassador Nerida Deepcurrent.svg_1 (Portraits)]]
+- [[Portrait NPC Ancient King Pelagios Ancient King Pelagios.svg_1 (Portraits)
+- [Portrait NPC Ancient King Pelagios V1 Ancient King Pelagios.svg_1 (Portraits)]]
+- [[Portrait NPC Ancient King Pelagios V2 Ancient King Pelagios.svg_1 (Portraits)
+- [Portrait NPC Archbishop Matthias Lightbringer Archbishop Matthias Lightbringer.svg]]
+- [[Portrait NPC Archbishop Matthias Lightbringer V1 Archbishop Matthias Lightbringer.svg
+- [Portrait NPC Archbishop Matthias Lightbringer V2 Archbishop Matthias Lightbringer.svg]]
+- [[Portrait NPC Archbishop Mordecai Stormwright Archbishop Mordecai Stormwright.svg_1 (Portraits)
+- [Portrait NPC Archbishop Mordecai Stormwright V1 Archbishop Mordecai Stormwright.svg_1 (Portraits)]]
+- [[Portrait NPC Archbishop Mordecai Stormwright V2 Archbishop Mordecai Stormwright.svg_1 (Portraits)
+- [Portrait NPC Archdruid Thornweaver Archdruid Thornweaver.svg_1 (Portraits)]]
+- [[Portrait NPC Archdruid Thornweaver V1 Archdruid Thornweaver.svg_1 (Portraits)
+- [Portrait NPC Archdruid Thornweaver V2 Archdruid Thornweaver.svg_1 (Portraits)]]
+- [[Portrait NPC Archon Meredith Saltweaver Archon Meredith Saltweaver.svg_1 (Portraits)
+- [Portrait NPC Archon Meredith Saltweaver V1 Archon Meredith Saltweaver.svg_1 (Portraits)]]
+- [[Portrait NPC Archon Meredith Saltweaver V2 Archon Meredith Saltweaver.svg_1 (Portraits)
+- [Portrait NPC Aria Lumengarde V1 Aria Lumengarde.svg_1 (Portraits)]]
+- [[Portrait NPC Aria Lumengarde V2 Aria Lumengarde.svg_1 (Portraits)
+- [Portrait NPC Banker Titus Goldcurrent Banker Titus Goldcurrent.svg_1 (Portraits)]]
+- [[Portrait NPC Banker Titus Goldcurrent V1 Banker Titus Goldcurrent.svg_1 (Portraits)
+- [Portrait NPC Banker Titus Goldcurrent V2 Banker Titus Goldcurrent.svg_1 (Portraits)]]
+- [[Portrait NPC Banking Lord Cornelius Coinwright Banking Lord Cornelius Coinwright.svg
+- [Portrait NPC Banking Lord Cornelius Coinwright V1 Banking Lord Cornelius Coinwright.svg]]
+- [[Portrait NPC Banking Lord Cornelius Coinwright V2 Banking Lord Cornelius Coinwright.svg
+- [Portrait NPC Blackwater Estate Blackwater Estate.svg_1 (Portraits)]]
+- [[Portrait NPC Blackwater Estate V1 Blackwater Estate.svg_1 (Portraits)
+- [Portrait NPC Blackwater Estate V2 Blackwater Estate.svg_1 (Portraits)]]
+- [[Portrait NPC Blood in the Water Blood in the Water.svg_1 (Portraits)
+- [Portrait NPC Blood in the Water V1 Blood in the Water.svg_1 (Portraits)]]
+- [[Portrait NPC Blood in the Water V2 Blood in the Water.svg_1 (Portraits)
+- [Portrait NPC Brother Marcus Steelbane Brother Marcus Steelbane.svg_1 (Portraits)]]
+- [[Portrait NPC Brother Marcus Steelbane V1 Brother Marcus Steelbane.svg_1 (Portraits)
+- [Portrait NPC Brother Marcus Steelbane V2 Brother Marcus Steelbane.svg_1 (Portraits)]]
+- [[Portrait NPC Brother Matthias the Amber Bearer Brother Matthias the Amber Bearer.svg_1 (Portraits)
+- [Portrait NPC Brother Matthias the Amber Bearer V1 Brother Matthias the Amber Bearer.svg_1 (Portraits)]]
+- [[Portrait NPC Brother Matthias the Amber Bearer V2 Brother Matthias the Amber Bearer.svg_1 (Portraits)
+- [Portrait NPC Captain Between V1 Captain Between.svg]]
+- [[Portrait NPC Captain Between V2 Captain Between.svg
+- [Portrait NPC Captain Blackwater Captain Blackwater.svg]]
+- [[Portrait NPC Captain Blackwater V1 Captain Blackwater.svg
+- [Portrait NPC Captain Blackwater V2 Captain Blackwater.svg]]
+- [[Portrait NPC Captain Cornelius Deepwater Captain Cornelius Deepwater.svg
+- [Portrait NPC Captain Cornelius Deepwater V1 Captain Cornelius Deepwater.svg]]
+- [[Portrait NPC Captain Cornelius Deepwater V2 Captain Cornelius Deepwater.svg
+- [Portrait NPC Captain Dara Ironwill Captain Dara Ironwill.svg]]
+- [[Portrait NPC Captain Dara Ironwill V1 Captain Dara Ironwill.svg
+- [Portrait NPC Captain Dara Ironwill V2 Captain Dara Ironwill.svg]]
+- [[Portrait NPC Captain Depths Walker Marina Captain Depths Walker Marina.svg
+- [Portrait NPC Captain Depths Walker Marina V1 Captain Depths Walker Marina.svg]]
+- [[Portrait NPC Captain Depths Walker Marina V2 Captain Depths Walker Marina.svg
+- [Portrait NPC Captain Dimensional Captain Dimensional.svg]]
+- [[Portrait NPC Captain Dimensional V1 Captain Dimensional.svg
+- [Portrait NPC Captain Dimensional V2 Captain Dimensional.svg]]
+- [[Portrait NPC Captain Dr Bloodletting Captain Dr Bloodletting.svg
+- [Portrait NPC Captain Dr Bloodletting V1 Captain Dr Bloodletting.svg]]
+- [[Portrait NPC Captain Dr Bloodletting V2 Captain Dr Bloodletting.svg
+- [Portrait NPC Captain Echoing Thunder Captain Echoing Thunder.svg]]
+- [[Portrait NPC Captain Echoing Thunder V1 Captain Echoing Thunder.svg
+- [Portrait NPC Captain Echoing Thunder V2 Captain Echoing Thunder.svg]]
+- [[Portrait NPC Captain Elara Shadowshard Captain Elara Shadowshard.svg
+- [Portrait NPC Captain Elara Shadowshard V1 Captain Elara Shadowshard.svg]]
+- [[Portrait NPC Captain Elara Shadowshard V2 Captain Elara Shadowshard.svg
+- [Portrait NPC Captain Finn Crosscurrent Captain Finn Crosscurrent.svg]]
+- [[Portrait NPC Captain Finn Crosscurrent V1 Captain Finn Crosscurrent.svg
+- [Portrait NPC Captain Finn Crosscurrent V2 Captain Finn Crosscurrent.svg]]
+- [[Portrait NPC Captain Garrett Stormcutter Captain Garrett Stormcutter.svg
+- [Portrait NPC Captain Garrett Stormcutter V1 Captain Garrett Stormcutter.svg]]
+- [[Portrait NPC Captain Garrett Stormcutter V2 Captain Garrett Stormcutter.svg
+- [Portrait NPC Captain Guard Peacehold Captain Guard Peacehold.svg]]
+- [[Portrait NPC Captain Guard Peacehold V1 Captain Guard Peacehold.svg
+- [Portrait NPC Captain Guard Peacehold V2 Captain Guard Peacehold.svg]]
+- [[Portrait NPC Captain Hadal Voidwright Captain Hadal Voidwright.svg
+- [Portrait NPC Captain Hadal Voidwright V1 Captain Hadal Voidwright.svg]]
+- [[Portrait NPC Captain Hadal Voidwright V2 Captain Hadal Voidwright.svg
+- [Portrait NPC Captain Harmony Tidereader Captain Harmony Tidereader.svg]]
+- [[Portrait NPC Captain Harmony Tidereader V1 Captain Harmony Tidereader.svg
+- [Portrait NPC Captain Harmony Tidereader V2 Captain Harmony Tidereader.svg]]
+- [[Portrait NPC Captain Henrik Proudbanner Captain Henrik Proudbanner.svg
+- [Portrait NPC Captain Henrik Proudbanner V1 Captain Henrik Proudbanner.svg]]
+- [[Portrait NPC Captain Henrik Proudbanner V2 Captain Henrik Proudbanner.svg
+- [Portrait NPC Captain Henrik Saltbreeze Captain Henrik Saltbreeze.svg]]
+- [[Portrait NPC Captain Henrik Saltbreeze V1 Captain Henrik Saltbreeze.svg
+- [Portrait NPC Captain Henrik Saltbreeze V2 Captain Henrik Saltbreeze.svg]]
+- [[Portrait NPC Captain Lyanna Brightshield Captain Lyanna Brightshield.svg
+- [Portrait NPC Captain Lyanna Brightshield V1 Captain Lyanna Brightshield.svg]]
+- [[Portrait NPC Captain Lyanna Brightshield V2 Captain Lyanna Brightshield.svg
+- [Portrait NPC Captain Marcus Ironwill Captain Marcus Ironwill.svg]]
+- [[Portrait NPC Captain Marcus Ironwill V1 Captain Marcus Ironwill.svg
+- [Portrait NPC Captain Marcus Ironwill V2 Captain Marcus Ironwill.svg]]
+- [[Portrait NPC Captain Marcus Voidward Captain Marcus Voidward.svg
+- [Portrait NPC Captain Marcus Voidward V1 Captain Marcus Voidward.svg]]
+- [[Portrait NPC Captain Marcus Voidward V2 Captain Marcus Voidward.svg
+- [Portrait NPC Captain Marina Saltborn Captain Marina Saltborn.svg]]
+- [[Portrait NPC Captain Marina Saltborn V1 Captain Marina Saltborn.svg
+- [Portrait NPC Captain Marina Saltborn V2 Captain Marina Saltborn.svg]]
+- [[Portrait NPC Captain Marina Shieldcurrent Captain Marina Shieldcurrent.svg
+- [Portrait NPC Captain Marina Shieldcurrent V1 Captain Marina Shieldcurrent.svg]]
+- [[Portrait NPC Captain Marina Shieldcurrent V2 Captain Marina Shieldcurrent.svg
+- [Portrait NPC Captain Marina Truewater Captain Marina Truewater.svg]]
+- [[Portrait NPC Captain Marina Truewater V1 Captain Marina Truewater.svg
+- [Portrait NPC Captain Marina Truewater V2 Captain Marina Truewater.svg]]
+- [[Portrait NPC Captain Mistwalker Captain Mistwalker.svg
+- [Portrait NPC Captain Mistwalker V1 Captain Mistwalker.svg]]
+- [[Portrait NPC Captain Mistwalker V2 Captain Mistwalker.svg
+- [Portrait NPC Captain Morgrim Lastvessel Captain Morgrim Lastvessel.svg]]
+- [[Portrait NPC Captain Morgrim Lastvessel V1 Captain Morgrim Lastvessel.svg
+- [Portrait NPC Captain Morgrim Lastvessel V2 Captain Morgrim Lastvessel.svg]]
+- [[Portrait NPC Captain Nautilus Deepwatch Captain Nautilus Deepwatch.svg
+- [Portrait NPC Captain Nautilus Deepwatch V1 Captain Nautilus Deepwatch.svg]]
+- [[Portrait NPC Captain Nautilus Deepwatch V2 Captain Nautilus Deepwatch.svg
+- [Portrait NPC Captain Nautilus the Deep Wanderer Captain Nautilus the Deep Wanderer.svg]]
+- [[Portrait NPC Captain Nautilus the Deep Wanderer V1 Captain Nautilus the Deep Wanderer.svg
+- [Portrait NPC Captain Nautilus the Deep Wanderer V2 Captain Nautilus the Deep Wanderer.svg]]
+- [[Portrait NPC Captain Navigator Captain Navigator.svg
+- [Portrait NPC Captain Navigator V1 Captain Navigator.svg]]
+- [[Portrait NPC Captain Navigator V2 Captain Navigator.svg
+- [Portrait NPC Captain Nerida Stormcrest Captain Nerida Stormcrest.svg]]
+- [[Portrait NPC Captain Nerida Stormcrest V1 Captain Nerida Stormcrest.svg
+- [Portrait NPC Captain Nerida Stormcrest V2 Captain Nerida Stormcrest.svg]]
+- [[Portrait NPC Captain Nerion Deepward Captain Nerion Deepward.svg
+- [Portrait NPC Captain Nerion Deepward V1 Captain Nerion Deepward.svg]]
+- [[Portrait NPC Captain Nerion Deepward V2 Captain Nerion Deepward.svg
+- [Portrait NPC Captain Prism Shield Valeria Captain Prism Shield Valeria.svg]]
+- [[Portrait NPC Captain Prism Shield Valeria V1 Captain Prism Shield Valeria.svg
+- [Portrait NPC Captain Prism Shield Valeria V2 Captain Prism Shield Valeria.svg]]
+- [[Portrait NPC Captain Redbeard V1 Captain Redbeard.svg
+- [Portrait NPC Captain Redbeard V2 Captain Redbeard.svg]]
+- [[Portrait NPC Captain Repossession Captain Repossession.svg
+- [Portrait NPC Captain Repossession V1 Captain Repossession.svg]]
+- [[Portrait NPC Captain Repossession V2 Captain Repossession.svg
+- [Portrait NPC Captain Rex Ironhaul Captain Rex Ironhaul.svg]]
+- [[Portrait NPC Captain Rex Ironhaul V1 Captain Rex Ironhaul.svg
+- [Portrait NPC Captain Rex Ironhaul V2 Captain Rex Ironhaul.svg]]
+- [[Portrait NPC Captain Rhea Blackwater Captain Rhea Blackwater.svg
+- [Portrait NPC Captain Rhea Blackwater V1 Captain Rhea Blackwater.svg]]
+- [[Portrait NPC Captain Rhea Blackwater V2 Captain Rhea Blackwater.svg
+- [Portrait NPC Captain Sarah Ironheart Captain Sarah Ironheart.svg]]
+- [[Portrait NPC Captain Sarah Ironheart V1 Captain Sarah Ironheart.svg
+- [Portrait NPC Captain Sarah Ironheart V2 Captain Sarah Ironheart.svg]]
+- [[Portrait NPC Captain Sarah Oathbound Captain Sarah Oathbound.svg
+- [Portrait NPC Captain Sarah Oathbound V1 Captain Sarah Oathbound.svg]]
+- [[Portrait NPC Captain Sarah Oathbound V2 Captain Sarah Oathbound.svg
+- [Portrait NPC Captain Scale Walker Captain Scale Walker.svg]]
+- [[Portrait NPC Captain Scale Walker V1 Captain Scale Walker.svg
+- [Portrait NPC Captain Scale Walker V2 Captain Scale Walker.svg]]
+- [[Portrait NPC Captain Scarlet Torrent Captain Scarlet Torrent.svg
+- [Portrait NPC Captain Scarlet Torrent V1 Captain Scarlet Torrent.svg]]
+- [[Portrait NPC Captain Scarlet Torrent V2 Captain Scarlet Torrent.svg
+- [Portrait NPC Captain Shadowsail Captain Shadowsail.svg]]
+- [[Portrait NPC Captain Shadowsail V1 Captain Shadowsail.svg
+- [Portrait NPC Captain Shadowsail V2 Captain Shadowsail.svg]]
+- [[Portrait NPC Captain Sky Horizon Captain Sky Horizon.svg
+- [Portrait NPC Captain Sky Horizon V1 Captain Sky Horizon.svg]]
+- [[Portrait NPC Captain Sky Horizon V2 Captain Sky Horizon.svg
+- [Portrait NPC Captain Steelhart Captain Steelhart.svg]]
+- [[Portrait NPC Captain Steelhart V1 Captain Steelhart.svg
+- [Portrait NPC Captain Steelhart V2 Captain Steelhart.svg]]
+- [[Portrait NPC Captain Sterling Lightshield Captain Sterling Lightshield.svg
+- [Portrait NPC Captain Sterling Lightshield V1 Captain Sterling Lightshield.svg]]
+- [[Portrait NPC Captain Sterling Lightshield V2 Captain Sterling Lightshield.svg
+- [Portrait NPC Captain Storm Ambushmaster Captain Storm Ambushmaster.svg]]
+- [[Portrait NPC Captain Storm Ambushmaster V1 Captain Storm Ambushmaster.svg
+- [Portrait NPC Captain Storm Ambushmaster V2 Captain Storm Ambushmaster.svg]]
+- [[Portrait NPC Captain Swift Cloudracer Captain Swift Cloudracer.svg
+- [Portrait NPC Captain Swift Cloudracer V1 Captain Swift Cloudracer.svg]]
+- [[Portrait NPC Captain Swift Cloudracer V2 Captain Swift Cloudracer.svg
+- [Portrait NPC Captain Tempest Eye Marelda Captain Tempest Eye Marelda.svg]]
+- [[Portrait NPC Captain Tempest Eye Marelda V1 Captain Tempest Eye Marelda.svg
+- [Portrait NPC Captain Tempest Eye Marelda V2 Captain Tempest Eye Marelda.svg]]
+- [[Portrait NPC Captain Thaddeus Blackwater Captain Thaddeus Blackwater.svg
+- [Portrait NPC Captain Thaddeus Blackwater V1 Captain Thaddeus Blackwater.svg]]
+- [[Portrait NPC Captain Thaddeus Blackwater V2 Captain Thaddeus Blackwater.svg
+- [Portrait NPC Captain Thaddeus Stormwright Captain Thaddeus Stormwright.svg]]
+- [[Portrait NPC Captain Thaddeus Stormwright V1 Captain Thaddeus Stormwright.svg
+- [Portrait NPC Captain Thaddeus Stormwright V2 Captain Thaddeus Stormwright.svg]]
+- [[Portrait NPC Captain Thalia Stormguard Captain Thalia Stormguard.svg
+- [Portrait NPC Captain Thalia Stormguard V1 Captain Thalia Stormguard.svg]]
+- [[Portrait NPC Captain Thalia Stormguard V2 Captain Thalia Stormguard.svg
+- [Portrait NPC Captain Thornback Captain Thornback.svg]]
+- [[Portrait NPC Captain Thornback V1 Captain Thornback.svg
+- [Portrait NPC Captain Thornback V2 Captain Thornback.svg]]
+- [[Portrait NPC Captain Thorne Darkwater Captain Thorne Darkwater.svg
+- [Portrait NPC Captain Thorne Darkwater V1 Captain Thorne Darkwater.svg]]
+- [[Portrait NPC Captain Thorne Darkwater V2 Captain Thorne Darkwater.svg
+- [Portrait NPC Captain Thrace Deeprunner Captain Thrace Deeprunner.svg]]
+- [[Portrait NPC Captain Thrace Deeprunner V1 Captain Thrace Deeprunner.svg
+- [Portrait NPC Captain Thrace Deeprunner V2 Captain Thrace Deeprunner.svg]]
+- [[Portrait NPC Captain Threshold Captain Threshold.svg
+- [Portrait NPC Captain Threshold V1 Captain Threshold.svg]]
+- [[Portrait NPC Captain Threshold V2 Captain Threshold.svg
+- [Portrait NPC Captain Torren Stormwright Captain Torren Stormwright.svg]]
+- [[Portrait NPC Captain Torren Stormwright V1 Captain Torren Stormwright.svg
+- [Portrait NPC Captain Torren Stormwright V2 Captain Torren Stormwright.svg]]
+- [[Portrait NPC Captain Torrent Freewater Captain Torrent Freewater.svg
+- [Portrait NPC Captain Torrent Freewater V1 Captain Torrent Freewater.svg]]
+- [[Portrait NPC Captain Torrent Freewater V2 Captain Torrent Freewater.svg
+- [Portrait NPC Captain Torrent Swiftcurrent Captain Torrent Swiftcurrent.svg]]
+- [[Portrait NPC Captain Torrent Swiftcurrent V1 Captain Torrent Swiftcurrent.svg
+- [Portrait NPC Captain Torrent Swiftcurrent V2 Captain Torrent Swiftcurrent.svg]]
+- [[Portrait NPC Captain Truth Ironwill Captain Truth Ironwill.svg
+- [Portrait NPC Captain Truth Ironwill V1 Captain Truth Ironwill.svg]]
+- [[Portrait NPC Captain Truth Ironwill V2 Captain Truth Ironwill.svg
+- [Portrait NPC Captain Twin Reality Marsh Captain Twin Reality Marsh.svg]]
+- [[Portrait NPC Captain Twin Reality Marsh V1 Captain Twin Reality Marsh.svg
+- [Portrait NPC Captain Twin Reality Marsh V2 Captain Twin Reality Marsh.svg]]
+- [[Portrait NPC Captain Valeria V1 Captain Valeria.svg
+- [Portrait NPC Captain Valeria V2 Captain Valeria.svg]]
+- [[Portrait NPC Captain Voidguard Captain Voidguard.svg
+- [Portrait NPC Captain Voidguard V1 Captain Voidguard.svg]]
+- [[Portrait NPC Captain Voidguard V2 Captain Voidguard.svg
+- [Portrait NPC Captain Zara Stormwind Captain Zara Stormwind.svg]]
+- [[Portrait NPC Captain Zara Stormwind V1 Captain Zara Stormwind.svg
+- [Portrait NPC Captain Zara Stormwind V2 Captain Zara Stormwind.svg]]
+- [[Portrait NPC Castellan Ironledger Iii Castellan Ironledger Iii.svg_1 (Portraits)
+- [Portrait NPC Castellan Ironledger Iii V1 Castellan Ironledger Iii.svg_1 (Portraits)]]
+- [[Portrait NPC Castellan Ironledger Iii V2 Castellan Ironledger Iii.svg_1 (Portraits)
+- [Portrait NPC Character Relationship Web Core Npcs Character Relationship Web Core Npcs.svg_1 (Portraits)]]
+- [[Portrait NPC Character Relationship Web Core Npcs V1 Character Relationship Web Core Npcs.svg_1 (Portraits)
+- [Portrait NPC Character Relationship Web Core Npcs V2 Character Relationship Web Core Npcs.svg_1 (Portraits)]]
+- [[Portrait NPC Commander Thrace Ironwood Commander Thrace Ironwood.svg_1 (Portraits)
+- [Portrait NPC Commander Thrace Ironwood V1 Commander Thrace Ironwood.svg_1 (Portraits)]]
+- [[Portrait NPC Commander Thrace Ironwood V2 Commander Thrace Ironwood.svg_1 (Portraits)
+- [Portrait NPC Commander Typhoon Blackheart Commander Typhoon Blackheart.svg_1 (Portraits)]]
+- [[Portrait NPC Commander Typhoon Blackheart V1 Commander Typhoon Blackheart.svg_1 (Portraits)
+- [Portrait NPC Commander Typhoon Blackheart V2 Commander Typhoon Blackheart.svg_1 (Portraits)]]
+- [[Portrait NPC Commodity Queen Abundance Commodity Queen Abundance.svg_1 (Portraits)
+- [Portrait NPC Commodity Queen Abundance V1 Commodity Queen Abundance.svg_1 (Portraits)]]
+- [[Portrait NPC Commodity Queen Abundance V2 Commodity Queen Abundance.svg_1 (Portraits)
+- [Portrait NPC Coral Empress Scarletina Coral Empress Scarletina.svg_1 (Portraits)]]
+- [[Portrait NPC Coral Empress Scarletina V1 Coral Empress Scarletina.svg_1 (Portraits)
+- [Portrait NPC Coral Empress Scarletina V2 Coral Empress Scarletina.svg_1 (Portraits)]]
+- [[Portrait NPC Corrupted Clients Corrupted Clients.svg_1 (Portraits)
+- [Portrait NPC Corrupted Clients V1 Corrupted Clients.svg_1 (Portraits)]]
+- [[Portrait NPC Corrupted Clients V2 Corrupted Clients.svg_1 (Portraits)
+- [Portrait NPC Crown Dome Conspiracy Crown Dome Conspiracy.svg_1 (Portraits)]]
+- [[Portrait NPC Crown Dome Conspiracy V1 Crown Dome Conspiracy.svg_1 (Portraits)
+- [Portrait NPC Crown Dome Conspiracy V2 Crown Dome Conspiracy.svg_1 (Portraits)]]
+- [[Portrait NPC Crystal Plague Infected Npcs Crystal Plague Infected Npcs.svg_1 (Portraits)
+- [Portrait NPC Crystal Plague Infected Npcs V1 Crystal Plague Infected Npcs.svg_1 (Portraits)]]
+- [[Portrait NPC Crystal Plague Infected Npcs V2 Crystal Plague Infected Npcs.svg_1 (Portraits)
+- [Portrait NPC Crystal Wardens V1 Crystal Wardens.svg_1 (Portraits)]]
+- [[Portrait NPC Crystal Wardens V2 Crystal Wardens.svg_1 (Portraits)
+- [Portrait NPC Current Lord Triton of House Pelagios Current Lord Triton of House Pelagios.svg]]
+- [[Portrait NPC Current Lord Triton of House Pelagios V1 Current Lord Triton of House Pelagios.svg
+- [Portrait NPC Current Lord Triton of House Pelagios V2 Current Lord Triton of House Pelagios.svg]]
+- [[Portrait NPC Deep Anarchists V1 Deep Anarchists.svg_1 (Portraits)
+- [Portrait NPC Deep Anarchists V2 Deep Anarchists.svg_1 (Portraits)]]
+- [[Portrait NPC Deep Fortress Network Deep Fortress Network.svg_1 (Portraits)
+- [Portrait NPC Deep Fortress Network V1 Deep Fortress Network.svg_1 (Portraits)]]
+- [[Portrait NPC Deep Fortress Network V2 Deep Fortress Network.svg_1 (Portraits)
+- [Portrait NPC Deep Lord Pelagios the Eternal Deep Lord Pelagios the Eternal.svg]]
+- [[Portrait NPC Deep Lord Pelagios the Eternal V1 Deep Lord Pelagios the Eternal.svg
+- [Portrait NPC Deep Lord Pelagios the Eternal V2 Deep Lord Pelagios the Eternal.svg]]
+- [[Portrait NPC Deep Mother Cultist Profiles Deep Mother Cultist Profiles.svg_1 (Portraits)
+- [Portrait NPC Deep Mother Cultist Profiles V1 Deep Mother Cultist Profiles.svg_1 (Portraits)]]
+- [[Portrait NPC Deep Mother Cultist Profiles V2 Deep Mother Cultist Profiles.svg_1 (Portraits)
+- [Portrait NPC Deep Mother Priestess Sira Deep Mother Priestess Sira.svg_1 (Portraits)]]
+- [[Portrait NPC Deep Mother Priestess Sira V1 Deep Mother Priestess Sira.svg_1 (Portraits)
+- [Portrait NPC Deep Mother Priestess Sira V2 Deep Mother Priestess Sira.svg_1 (Portraits)]]
+- [[Portrait NPC Deep Priest Covenant Deep Priest Covenant.svg_1 (Portraits)
+- [Portrait NPC Deep Priest Covenant V1 Deep Priest Covenant.svg_1 (Portraits)]]
+- [[Portrait NPC Deep Priest Covenant V2 Deep Priest Covenant.svg_1 (Portraits)
+- [Portrait NPC Deep Sea Explorer Captain Abyss Deep Sea Explorer Captain Abyss.svg]]
+- [[Portrait NPC Deep Sea Explorer Captain Abyss V1 Deep Sea Explorer Captain Abyss.svg
+- [Portrait NPC Deep Sea Explorer Captain Abyss V2 Deep Sea Explorer Captain Abyss.svg]]
+- [[Portrait NPC Deepwater Banking Consortium Deepwater Banking Consortium.svg_1 (Portraits)
+- [Portrait NPC Deepwater Banking Consortium V1 Deepwater Banking Consortium.svg_1 (Portraits)]]
+- [[Portrait NPC Deepwater Banking Consortium V2 Deepwater Banking Consortium.svg_1 (Portraits)
+- [Portrait NPC Defense Captain Ironguard Defense Captain Ironguard.svg]]
+- [[Portrait NPC Defense Captain Ironguard V1 Defense Captain Ironguard.svg
+- [Portrait NPC Defense Captain Ironguard V2 Defense Captain Ironguard.svg]]
+- [[Portrait NPC Director of Experimental Procedures Dr Siren Voidtouch Director of Experimental Procedures Dr Siren Voidtouch.svg_1 (Portraits)
+- [Portrait NPC Director of Experimental Procedures Dr Siren Voidtouch V1 Director of Experimental Procedures Dr Siren Voidtouch.svg_1 (Portraits)]]
+- [[Portrait NPC Director of Experimental Procedures Dr Siren Voidtouch V2 Director of Experimental Procedures Dr Siren Voidtouch.svg_1 (Portraits)
+- [Portrait NPC Doctor Helena Voidwalker Doctor Helena Voidwalker.svg_1 (Portraits)]]
+- [[Portrait NPC Doctor Helena Voidwalker V1 Doctor Helena Voidwalker.svg_1 (Portraits)
+- [Portrait NPC Doctor Helena Voidwalker V2 Doctor Helena Voidwalker.svg_1 (Portraits)]]
+- [[Portrait NPC Duchess Marina Ever Drowning Duchess Marina Ever Drowning.svg_1 (Portraits)
+- [Portrait NPC Duchess Marina Ever Drowning V1 Duchess Marina Ever Drowning.svg_1 (Portraits)]]
+- [[Portrait NPC Duchess Marina Ever Drowning V2 Duchess Marina Ever Drowning.svg_1 (Portraits)
+- [Portrait NPC Duke Aldric Blackwater Duke Aldric Blackwater.svg_1 (Portraits)]]
+- [[Portrait NPC Duke Aldric Blackwater V1 Duke Aldric Blackwater.svg_1 (Portraits)
+- [Portrait NPC Duke Aldric Blackwater V2 Duke Aldric Blackwater.svg_1 (Portraits)]]
+- [[Portrait NPC Duke Alexander Tidecrest Duke Alexander Tidecrest.svg_1 (Portraits)
+- [Portrait NPC Duke Alexander Tidecrest V1 Duke Alexander Tidecrest.svg_1 (Portraits)]]
+- [[Portrait NPC Duke Alexander Tidecrest V2 Duke Alexander Tidecrest.svg_1 (Portraits)
+- [Portrait NPC Duke Blackwater S Estate Duke Blackwater S Estate.svg_1 (Portraits)]]
+- [[Portrait NPC Duke Blackwater S Estate V1 Duke Blackwater S Estate.svg_1 (Portraits)
+- [Portrait NPC Duke Blackwater S Estate V2 Duke Blackwater S Estate.svg_1 (Portraits)]]
+- [[Portrait NPC Duke Cyrus Reefheart Duke Cyrus Reefheart.svg_1 (Portraits)
+- [Portrait NPC Duke Cyrus Reefheart V1 Duke Cyrus Reefheart.svg_1 (Portraits)]]
+- [[Portrait NPC Duke Cyrus Reefheart V2 Duke Cyrus Reefheart.svg_1 (Portraits)
+- [Portrait NPC Duke Gale Vortex V1 Duke Gale Vortex.svg_1 (Portraits)]]
+- [[Portrait NPC Duke Gale Vortex V2 Duke Gale Vortex.svg_1 (Portraits)
+- [Portrait NPC Duke Lysander Crystalvein Duke Lysander Crystalvein.svg_1 (Portraits)]]
+- [[Portrait NPC Duke Lysander Crystalvein V1 Duke Lysander Crystalvein.svg_1 (Portraits)
+- [Portrait NPC Duke Lysander Crystalvein V2 Duke Lysander Crystalvein.svg_1 (Portraits)]]
+- [[Portrait NPC Duke Sterling Truecrystal Duke Sterling Truecrystal.svg_1 (Portraits)
+- [Portrait NPC Duke Sterling Truecrystal V1 Duke Sterling Truecrystal.svg_1 (Portraits)]]
+- [[Portrait NPC Duke Sterling Truecrystal V2 Duke Sterling Truecrystal.svg_1 (Portraits)
+- [Portrait NPC Duke Theron Depthguard Duke Theron Depthguard.svg_1 (Portraits)]]
+- [[Portrait NPC Duke Theron Depthguard V1 Duke Theron Depthguard.svg_1 (Portraits)
+- [Portrait NPC Duke Theron Depthguard V2 Duke Theron Depthguard.svg_1 (Portraits)]]
+- [[Portrait NPC Economic Manipulation Economic Manipulation.svg_1 (Portraits)
+- [Portrait NPC Economic Manipulation V1 Economic Manipulation.svg_1 (Portraits)]]
+- [[Portrait NPC Economic Manipulation V2 Economic Manipulation.svg_1 (Portraits)
+- [Portrait NPC Elder Whisper in the Dark Elder Whisper in the Dark.svg_1 (Portraits)]]
+- [[Portrait NPC Elder Whisper in the Dark V1 Elder Whisper in the Dark.svg_1 (Portraits)
+- [Portrait NPC Elder Whisper in the Dark V2 Elder Whisper in the Dark.svg_1 (Portraits)]]
+- [[Portrait NPC Embassy of Eternal Shadows Embassy of Eternal Shadows.svg_1 (Portraits)
+- [Portrait NPC Embassy of Eternal Shadows V1 Embassy of Eternal Shadows.svg_1 (Portraits)]]
+- [[Portrait NPC Embassy of Eternal Shadows V2 Embassy of Eternal Shadows.svg_1 (Portraits)
+- [Portrait NPC Emperor Abyssal the Deep Sighted Emperor Abyssal the Deep Sighted.svg_1 (Portraits)]]
+- [[Portrait NPC Emperor Abyssal the Deep Sighted V1 Emperor Abyssal the Deep Sighted.svg_1 (Portraits)
+- [Portrait NPC Emperor Abyssal the Deep Sighted V2 Emperor Abyssal the Deep Sighted.svg_1 (Portraits)]]
+- [[Portrait NPC Emperor Pelagic the Last Emperor Pelagic the Last.svg_1 (Portraits)
+- [Portrait NPC Emperor Pelagic the Last V1 Emperor Pelagic the Last.svg_1 (Portraits)]]
+- [[Portrait NPC Emperor Pelagic the Last V2 Emperor Pelagic the Last.svg_1 (Portraits)
+- [Portrait NPC Emperor Thalassius Emperor Thalassius.svg_1 (Portraits)]]
+- [[Portrait NPC Emperor Thalassius V1 Emperor Thalassius.svg_1 (Portraits)
+- [Portrait NPC Emperor Thalassius V2 Emperor Thalassius.svg_1 (Portraits)]]
+- [[Portrait NPC Emperor Thalassius the Wise Emperor Thalassius the Wise.svg_1 (Portraits)
+- [Portrait NPC Emperor Thalassius the Wise V1 Emperor Thalassius the Wise.svg_1 (Portraits)]]
+- [[Portrait NPC Emperor Thalassius the Wise V2 Emperor Thalassius the Wise.svg_1 (Portraits)
+- [Portrait NPC Empress Tethys the Ever Drowning Empress Tethys the Ever Drowning.svg_1 (Portraits)]]
+- [[Portrait NPC Empress Tethys the Ever Drowning V1 Empress Tethys the Ever Drowning.svg_1 (Portraits)
+- [Portrait NPC Empress Tethys the Ever Drowning V2 Empress Tethys the Ever Drowning.svg_1 (Portraits)]]
+- [[Portrait NPC Enforcer Chief Mako Ironjaw Enforcer Chief Mako Ironjaw.svg_1 (Portraits)
+- [Portrait NPC Enforcer Chief Mako Ironjaw V1 Enforcer Chief Mako Ironjaw.svg_1 (Portraits)]]
+- [[Portrait NPC Enforcer Chief Mako Ironjaw V2 Enforcer Chief Mako Ironjaw.svg_1 (Portraits)
+- [Portrait NPC Envoy Blackwater Jr Envoy Blackwater Jr.svg_1 (Portraits)]]
+- [[Portrait NPC Envoy Blackwater Jr V1 Envoy Blackwater Jr.svg_1 (Portraits)
+- [Portrait NPC Envoy Blackwater Jr V2 Envoy Blackwater Jr.svg_1 (Portraits)]]
+- [[Portrait NPC Ethics Coordinator Elena Compassion Ethics Coordinator Elena Compassion.svg_1 (Portraits)
+- [Portrait NPC Ethics Coordinator Elena Compassion V1 Ethics Coordinator Elena Compassion.svg_1 (Portraits)]]
+- [[Portrait NPC Ethics Coordinator Elena Compassion V2 Ethics Coordinator Elena Compassion.svg_1 (Portraits)
+- [Portrait NPC Fence Queen Sticky Fingers Sal Fence Queen Sticky Fingers Sal.svg_1 (Portraits)]]
+- [[Portrait NPC Fence Queen Sticky Fingers Sal V1 Fence Queen Sticky Fingers Sal.svg_1 (Portraits)
+- [Portrait NPC Fence Queen Sticky Fingers Sal V2 Fence Queen Sticky Fingers Sal.svg_1 (Portraits)]]
+- [[Portrait NPC Financial Corruption Financial Corruption.svg_1 (Portraits)
+- [Portrait NPC Financial Corruption V1 Financial Corruption.svg_1 (Portraits)]]
+- [[Portrait NPC Financial Corruption V2 Financial Corruption.svg_1 (Portraits)
+- [Portrait NPC Find the Shadow Cure Find the Shadow Cure.svg_1 (Portraits)]]
+- [[Portrait NPC Find the Shadow Cure V1 Find the Shadow Cure.svg_1 (Portraits)
+- [Portrait NPC Find the Shadow Cure V2 Find the Shadow Cure.svg_1 (Portraits)]]
+- [[Portrait NPC Foreign Trader Captain Hassan Al Rimal Foreign Trader Captain Hassan Al Rimal.svg
+- [Portrait NPC Foreign Trader Captain Hassan Al Rimal V1 Foreign Trader Captain Hassan Al Rimal.svg]]
+- [[Portrait NPC Foreign Trader Captain Hassan Al Rimal V2 Foreign Trader Captain Hassan Al Rimal.svg
+- [Portrait NPC Free Captains Alliance Free Captains Alliance.svg]]
+- [[Portrait NPC Free Captains Alliance V1 Free Captains Alliance.svg
+- [Portrait NPC Free Captains Alliance V2 Free Captains Alliance.svg]]
+- [[Portrait NPC Free Current Safe Houses Free Current Safe Houses.svg_1 (Portraits)
+- [Portrait NPC Free Current Safe Houses V1 Free Current Safe Houses.svg_1 (Portraits)]]
+- [[Portrait NPC Free Current Safe Houses V2 Free Current Safe Houses.svg_1 (Portraits)
+- [Portrait NPC Gallery Guide Captain Marina Civicvoice Gallery Guide Captain Marina Civicvoice.svg]]
+- [[Portrait NPC Gallery Guide Captain Marina Civicvoice V1 Gallery Guide Captain Marina Civicvoice.svg
+- [Portrait NPC Gallery Guide Captain Marina Civicvoice V2 Gallery Guide Captain Marina Civicvoice.svg]]
+- [[Portrait NPC Gareth Goldenheart the Chosen Vessel Gareth Goldenheart the Chosen Vessel.svg_1 (Portraits)
+- [Portrait NPC Gareth Goldenheart the Chosen Vessel V1 Gareth Goldenheart the Chosen Vessel.svg_1 (Portraits)]]
+- [[Portrait NPC Gareth Goldenheart the Chosen Vessel V2 Gareth Goldenheart the Chosen Vessel.svg_1 (Portraits)
+- [Portrait NPC Gareth Ironforge V1 Gareth Ironforge.svg_1 (Portraits)]]
+- [[Portrait NPC Gareth Ironforge V2 Gareth Ironforge.svg_1 (Portraits)
+- [Portrait NPC God King Aetheron God King Aetheron.svg_1 (Portraits)]]
+- [[Portrait NPC God King Aetheron V1 God King Aetheron.svg_1 (Portraits)
+- [Portrait NPC God King Aetheron V2 God King Aetheron.svg_1 (Portraits)]]
+- [[Portrait NPC Golden Scale Transformation Golden Scale Transformation.svg_1 (Portraits)
+- [Portrait NPC Golden Scale Transformation V1 Golden Scale Transformation.svg_1 (Portraits)]]
+- [[Portrait NPC Golden Scale Transformation V2 Golden Scale Transformation.svg_1 (Portraits)
+- [Portrait NPC Goldwave Financial Offices Goldwave Financial Offices.svg_1 (Portraits)]]
+- [[Portrait NPC Goldwave Financial Offices V1 Goldwave Financial Offices.svg_1 (Portraits)
+- [Portrait NPC Goldwave Financial Offices V2 Goldwave Financial Offices.svg_1 (Portraits)]]
+- [[Portrait NPC Guardian Captain Marcus Shieldwall Guardian Captain Marcus Shieldwall.svg
+- [Portrait NPC Guardian Captain Marcus Shieldwall V1 Guardian Captain Marcus Shieldwall.svg]]
+- [[Portrait NPC Guardian Captain Marcus Shieldwall V2 Guardian Captain Marcus Shieldwall.svg
+- [Portrait NPC Harbor Master Luna Freedrift Harbor Master Luna Freedrift.svg]]
+- [[Portrait NPC Harbor Master Luna Freedrift V1 Harbor Master Luna Freedrift.svg
+- [Portrait NPC Harbor Master Luna Freedrift V2 Harbor Master Luna Freedrift.svg]]
+- [[Portrait NPC High Chamberlain Nautilus Deepcurrent High Chamberlain Nautilus Deepcurrent.svg_1 (Portraits)
+- [Portrait NPC High Chamberlain Nautilus Deepcurrent V1 High Chamberlain Nautilus Deepcurrent.svg_1 (Portraits)]]
+- [[Portrait NPC High Chamberlain Nautilus Deepcurrent V2 High Chamberlain Nautilus Deepcurrent.svg_1 (Portraits)
+- [Portrait NPC High Cultivist Jasper Lifebinder High Cultivist Jasper Lifebinder.svg_1 (Portraits)]]
+- [[Portrait NPC High Cultivist Jasper Lifebinder V1 High Cultivist Jasper Lifebinder.svg_1 (Portraits)
+- [Portrait NPC High Cultivist Jasper Lifebinder V2 High Cultivist Jasper Lifebinder.svg_1 (Portraits)]]
+- [[Portrait NPC High Inquisitor Maltheos High Inquisitor Maltheos.svg_1 (Portraits)
+- [Portrait NPC High Inquisitor Maltheos V1 High Inquisitor Maltheos.svg_1 (Portraits)]]
+- [[Portrait NPC High Inquisitor Maltheos V2 High Inquisitor Maltheos.svg_1 (Portraits)
+- [Portrait NPC High King Aurelius Skyborn High King Aurelius Skyborn.svg_1 (Portraits)]]
+- [[Portrait NPC High King Aurelius Skyborn V1 High King Aurelius Skyborn.svg_1 (Portraits)
+- [Portrait NPC High King Aurelius Skyborn V2 High King Aurelius Skyborn.svg_1 (Portraits)]]
+- [[Portrait NPC High Priest Absence High Priest Absence.svg_1 (Portraits)
+- [Portrait NPC High Priest Absence V1 High Priest Absence.svg_1 (Portraits)]]
+- [[Portrait NPC High Priest Absence V2 High Priest Absence.svg_1 (Portraits)
+- [Portrait NPC High Priest Dagon Deepcaller High Priest Dagon Deepcaller.svg_1 (Portraits)]]
+- [[Portrait NPC High Priest Dagon Deepcaller V1 High Priest Dagon Deepcaller.svg_1 (Portraits)
+- [Portrait NPC High Priest Dagon Deepcaller V2 High Priest Dagon Deepcaller.svg_1 (Portraits)]]
+- [[Portrait NPC High Priest Nereon High Priest Nereon.svg_1 (Portraits)
+- [Portrait NPC High Priest Nereon V1 High Priest Nereon.svg_1 (Portraits)]]
+- [[Portrait NPC High Priest Nereon V2 High Priest Nereon.svg_1 (Portraits)
+- [Portrait NPC High Priestess Celeste Dawnbringer High Priestess Celeste Dawnbringer.svg]]
+- [[Portrait NPC High Priestess Celeste Dawnbringer V1 High Priestess Celeste Dawnbringer.svg
+- [Portrait NPC High Priestess Celeste Dawnbringer V2 High Priestess Celeste Dawnbringer.svg]]
+- [[Portrait NPC High Priestess Celeste High Priestess Celeste.svg_1 (Portraits)
+- [Portrait NPC High Priestess Celeste V1 High Priestess Celeste.svg_1 (Portraits)]]
+- [[Portrait NPC High Priestess Celeste V2 High Priestess Celeste.svg_1 (Portraits)
+- [Portrait NPC High Priestess Marina Oracleguard High Priestess Marina Oracleguard.svg_1 (Portraits)]]
+- [[Portrait NPC High Priestess Marina Oracleguard V1 High Priestess Marina Oracleguard.svg_1 (Portraits)
+- [Portrait NPC High Priestess Marina Oracleguard V2 High Priestess Marina Oracleguard.svg_1 (Portraits)]]
+- [[Portrait NPC High Priestess Nerida Deepcurrent High Priestess Nerida Deepcurrent.svg_1 (Portraits)
+- [Portrait NPC High Priestess Nerida Deepcurrent V1 High Priestess Nerida Deepcurrent.svg_1 (Portraits)]]
+- [[Portrait NPC High Priestess Nerida Deepcurrent V2 High Priestess Nerida Deepcurrent.svg_1 (Portraits)
+- [Portrait NPC High Priestess Nerida Soulcurrent High Priestess Nerida Soulcurrent.svg_1 (Portraits)]]
+- [[Portrait NPC High Priestess Nerida Soulcurrent V1 High Priestess Nerida Soulcurrent.svg_1 (Portraits)
+- [Portrait NPC High Priestess Nerida Soulcurrent V2 High Priestess Nerida Soulcurrent.svg_1 (Portraits)]]
+- [[Portrait NPC High Priestess Scylla Deepdream High Priestess Scylla Deepdream.svg_1 (Portraits)
+- [Portrait NPC High Priestess Scylla Deepdream V1 High Priestess Scylla Deepdream.svg_1 (Portraits)]]
+- [[Portrait NPC High Priestess Scylla Deepdream V2 High Priestess Scylla Deepdream.svg_1 (Portraits)
+- [Portrait NPC High Techno Priest Lumina Skyweaver High Techno Priest Lumina Skyweaver.svg_1 (Portraits)]]
+- [[Portrait NPC High Techno Priest Lumina Skyweaver V1 High Techno Priest Lumina Skyweaver.svg_1 (Portraits)
+- [Portrait NPC High Techno Priest Lumina Skyweaver V2 High Techno Priest Lumina Skyweaver.svg_1 (Portraits)]]
+- [[Portrait NPC High Tide Environmental Effects High Tide Environmental Effects.svg_1 (Portraits)
+- [Portrait NPC High Tide Environmental Effects V1 High Tide Environmental Effects.svg_1 (Portraits)]]
+- [[Portrait NPC High Tide Environmental Effects V2 High Tide Environmental Effects.svg_1 (Portraits)
+- [Portrait NPC House Guard Captains House Guard Captains.svg]]
+- [[Portrait NPC House Guard Captains V1 House Guard Captains.svg
+- [Portrait NPC House Guard Captains V2 House Guard Captains.svg]]
+- [[Portrait NPC House of Lords Secret Chamber House of Lords Secret Chamber.svg
+- [Portrait NPC House of Lords Secret Chamber V1 House of Lords Secret Chamber.svg]]
+- [[Portrait NPC House of Lords Secret Chamber V2 House of Lords Secret Chamber.svg
+- [Portrait NPC Ice Kingdom Magic Ice Kingdom Magic.svg_1 (Portraits)]]
+- [[Portrait NPC Ice Kingdom Magic V1 Ice Kingdom Magic.svg_1 (Portraits)
+- [Portrait NPC Ice Kingdom Magic V2 Ice Kingdom Magic.svg_1 (Portraits)]]
+- [[Portrait NPC Ice Kingdom Spirits Ice Kingdom Spirits.svg_1 (Portraits)
+- [Portrait NPC Ice Kingdom Spirits V1 Ice Kingdom Spirits.svg_1 (Portraits)]]
+- [[Portrait NPC Ice Kingdom Spirits V2 Ice Kingdom Spirits.svg_1 (Portraits)
+- [Portrait NPC Intelligence Services Intelligence Services.svg_1 (Portraits)]]
+- [[Portrait NPC Intelligence Services V1 Intelligence Services.svg_1 (Portraits)
+- [Portrait NPC Intelligence Services V2 Intelligence Services.svg_1 (Portraits)]]
+- [[Portrait NPC Investigate the Crystal Plague Investigate the Crystal Plague.svg_1 (Portraits)
+- [Portrait NPC Investigate the Crystal Plague V1 Investigate the Crystal Plague.svg_1 (Portraits)]]
+- [[Portrait NPC Investigate the Crystal Plague V2 Investigate the Crystal Plague.svg_1 (Portraits)
+- [Portrait NPC Investigator Supreme Lucian Brightwater Investigator Supreme Lucian Brightwater.svg_1 (Portraits)]]
+- [[Portrait NPC Investigator Supreme Lucian Brightwater V1 Investigator Supreme Lucian Brightwater.svg_1 (Portraits)
+- [Portrait NPC Investigator Supreme Lucian Brightwater V2 Investigator Supreme Lucian Brightwater.svg_1 (Portraits)]]
+- [[Portrait NPC Jasper Three Eyes Flint 2 Jasper Three Eyes Flint 2.svg_1 (Portraits)
+- [Portrait NPC Jasper Three Eyes Flint 2 V1 Jasper Three Eyes Flint 2.svg_1 (Portraits)]]
+- [[Portrait NPC Jasper Three Eyes Flint 2 V2 Jasper Three Eyes Flint 2.svg_1 (Portraits)
+- [Portrait NPC Jasper Three Eyes Flint Jasper Three Eyes Flint.png_1 (Portraits)]]
+- [[Portrait NPC Jasper Three Eyes Flint V1 Jasper Three Eyes Flint.png_1 (Portraits)
+- [Portrait NPC Jasper Three Eyes Flint V2 Jasper Three Eyes Flint.png_1 (Portraits)]]
+- [[Portrait NPC Keeper of the Shattered Crown Marcus Crystalvein Keeper of the Shattered Crown Marcus Crystalvein.svg
+- [Portrait NPC Keeper of the Shattered Crown Marcus Crystalvein V1 Keeper of the Shattered Crown Marcus Crystalvein.svg]]
+- [[Portrait NPC Keeper of the Shattered Crown Marcus Crystalvein V2 Keeper of the Shattered Crown Marcus Crystalvein.svg
+- [Portrait NPC King Marcus Lumengarde King Marcus Lumengarde.svg_1 (Portraits)]]
+- [[Portrait NPC King Marcus Lumengarde V1 King Marcus Lumengarde.svg_1 (Portraits)
+- [Portrait NPC King Marcus Lumengarde V2 King Marcus Lumengarde.svg_1 (Portraits)]]
+- [[Portrait NPC King Torrhen Lumengarde King Torrhen Lumengarde.svg_1 (Portraits)
+- [Portrait NPC King Torrhen Lumengarde V1 King Torrhen Lumengarde.svg_1 (Portraits)]]
+- [[Portrait NPC King Torrhen Lumengarde V2 King Torrhen Lumengarde.svg_1 (Portraits)
+- [Portrait NPC Lady Catherine Mourning Lady Catherine Mourning.svg]]
+- [[Portrait NPC Lady Catherine Mourning V1 Lady Catherine Mourning.svg
+- [Portrait NPC Lady Catherine Mourning V2 Lady Catherine Mourning.svg]]
+- [[Portrait NPC Lady Celestine Windborne Lady Celestine Windborne.svg
+- [Portrait NPC Lady Celestine Windborne V1 Lady Celestine Windborne.svg]]
+- [[Portrait NPC Lady Celestine Windborne V2 Lady Celestine Windborne.svg
+- [Portrait NPC Lady Cordelia Windham Lady Cordelia Windham.svg]]
+- [[Portrait NPC Lady Cordelia Windham V1 Lady Cordelia Windham.svg
+- [Portrait NPC Lady Cordelia Windham V2 Lady Cordelia Windham.svg]]
+- [[Portrait NPC Lady Crystal Heart Miraleth Lady Crystal Heart Miraleth.svg
+- [Portrait NPC Lady Crystal Heart Miraleth V1 Lady Crystal Heart Miraleth.svg]]
+- [[Portrait NPC Lady Crystal Heart Miraleth V2 Lady Crystal Heart Miraleth.svg
+- [Portrait NPC Lady Dawn Pureheart Lady Dawn Pureheart.svg]]
+- [[Portrait NPC Lady Dawn Pureheart V1 Lady Dawn Pureheart.svg
+- [Portrait NPC Lady Dawn Pureheart V2 Lady Dawn Pureheart.svg]]
+- [[Portrait NPC Lady Elena the Eternal Lady Elena the Eternal.svg
+- [Portrait NPC Lady Elena the Eternal V1 Lady Elena the Eternal.svg]]
+- [[Portrait NPC Lady Elena the Eternal V2 Lady Elena the Eternal.svg
+- [Portrait NPC Lady Jade Clawgrip Lady Jade Clawgrip.svg]]
+- [[Portrait NPC Lady Jade Clawgrip V1 Lady Jade Clawgrip.svg
+- [Portrait NPC Lady Jade Clawgrip V2 Lady Jade Clawgrip.svg]]
+- [[Portrait NPC Lady Nexus Goldcurrent Lady Nexus Goldcurrent.svg
+- [Portrait NPC Lady Nexus Goldcurrent V1 Lady Nexus Goldcurrent.svg]]
+- [[Portrait NPC Lady Nexus Goldcurrent V2 Lady Nexus Goldcurrent.svg
+- [Portrait NPC Lady Resistance Brightshield Lady Resistance Brightshield.svg]]
+- [[Portrait NPC Lady Resistance Brightshield V1 Lady Resistance Brightshield.svg
+- [Portrait NPC Lady Resistance Brightshield V2 Lady Resistance Brightshield.svg]]
+- [[Portrait NPC Lady Seraphina Goldleaf Lady Seraphina Goldleaf.svg
+- [Portrait NPC Lady Seraphina Goldleaf V1 Lady Seraphina Goldleaf.svg]]
+- [[Portrait NPC Lady Seraphina Goldleaf V2 Lady Seraphina Goldleaf.svg
+- [Portrait NPC Lady Shadowmere V1 Lady Shadowmere.svg]]
+- [[Portrait NPC Lady Shadowmere V2 Lady Shadowmere.svg
+- [Portrait NPC Lady Victoria Pennworth Lady Victoria Pennworth.svg]]
+- [[Portrait NPC Lady Victoria Pennworth V1 Lady Victoria Pennworth.svg
+- [Portrait NPC Lady Victoria Pennworth V2 Lady Victoria Pennworth.svg]]
+- [[Portrait NPC Lady Vivienne Thornwhisper Lady Vivienne Thornwhisper.svg
+- [Portrait NPC Lady Vivienne Thornwhisper V1 Lady Vivienne Thornwhisper.svg]]
+- [[Portrait NPC Lady Vivienne Thornwhisper V2 Lady Vivienne Thornwhisper.svg
+- [Portrait NPC Lady Willow Greenbough Lady Willow Greenbough.svg]]
+- [[Portrait NPC Lady Willow Greenbough V1 Lady Willow Greenbough.svg
+- [Portrait NPC Lady Willow Greenbough V2 Lady Willow Greenbough.svg]]
+- [[Portrait NPC Lich Queen Morwyn the Deathless Lich Queen Morwyn the Deathless.svg_1 (Portraits)
+- [Portrait NPC Lich Queen Morwyn the Deathless V1 Lich Queen Morwyn the Deathless.svg_1 (Portraits)]]
+- [[Portrait NPC Lich Queen Morwyn the Deathless V2 Lich Queen Morwyn the Deathless.svg_1 (Portraits)
+- [Portrait NPC Lighthouse Keeper Lighthouse Keeper.svg]]
+- [[Portrait NPC Lighthouse Keeper V1 Lighthouse Keeper.svg
+- [Portrait NPC Lighthouse Keeper V2 Lighthouse Keeper.svg]]
+- [[Portrait NPC Lord Admiral Gaius Windcutter Lord Admiral Gaius Windcutter.svg
+- [Portrait NPC Lord Admiral Gaius Windcutter V1 Lord Admiral Gaius Windcutter.svg]]
+- [[Portrait NPC Lord Admiral Gaius Windcutter V2 Lord Admiral Gaius Windcutter.svg
+- [Portrait NPC Lord Aldric Blackwater Lord Aldric Blackwater.svg]]
+- [[Portrait NPC Lord Aldric Blackwater V1 Lord Aldric Blackwater.svg
+- [Portrait NPC Lord Aldric Blackwater V2 Lord Aldric Blackwater.svg]]
+- [[Portrait NPC Lord Aldric Highwind Lord Aldric Highwind.svg
+- [Portrait NPC Lord Aldric Highwind V1 Lord Aldric Highwind.svg]]
+- [[Portrait NPC Lord Aldric Highwind V2 Lord Aldric Highwind.svg
+- [Portrait NPC Lord Aldric Thornwhisper Lord Aldric Thornwhisper.svg]]
+- [[Portrait NPC Lord Aldric Thornwhisper V1 Lord Aldric Thornwhisper.svg
+- [Portrait NPC Lord Aldric Thornwhisper V2 Lord Aldric Thornwhisper.svg]]
+- [[Portrait NPC Lord Aurelius Goldwave Lord Aurelius Goldwave.svg
+- [Portrait NPC Lord Aurelius Goldwave V1 Lord Aurelius Goldwave.svg]]
+- [[Portrait NPC Lord Aurelius Goldwave V2 Lord Aurelius Goldwave.svg
+- [Portrait NPC Lord Blackwater V1 Lord Blackwater.svg]]
+- [[Portrait NPC Lord Blackwater V2 Lord Blackwater.svg
+- [Portrait NPC Lord Chancellor Prism Lord Chancellor Prism.svg]]
+- [[Portrait NPC Lord Chancellor Prism V1 Lord Chancellor Prism.svg
+- [Portrait NPC Lord Chancellor Prism V2 Lord Chancellor Prism.svg]]
+- [[Portrait NPC Lord Chancellor Prism Valdrick Lord Chancellor Prism Valdrick.svg
+- [Portrait NPC Lord Chancellor Prism Valdrick V1 Lord Chancellor Prism Valdrick.svg]]
+- [[Portrait NPC Lord Chancellor Prism Valdrick V2 Lord Chancellor Prism Valdrick.svg
+- [Portrait NPC Lord Commander Gareth Lord Commander Gareth.svg]]
+- [[Portrait NPC Lord Commander Gareth Steelborn Lord Commander Gareth Steelborn.svg
+- [Portrait NPC Lord Commander Gareth Steelborn V1 Lord Commander Gareth Steelborn.svg]]
+- [[Portrait NPC Lord Commander Gareth Steelborn V2 Lord Commander Gareth Steelborn.svg
+- [Portrait NPC Lord Commander Gareth V1 Lord Commander Gareth.svg]]
+- [[Portrait NPC Lord Commander Gareth V2 Lord Commander Gareth.svg
+- [Portrait NPC Lord Commander Steelborn Lord Commander Steelborn.svg]]
+- [[Portrait NPC Lord Commander Steelborn V1 Lord Commander Steelborn.svg
+- [Portrait NPC Lord Commander Steelborn V2 Lord Commander Steelborn.svg]]
+- [[Portrait NPC Lord Commander Thane Skyward Lord Commander Thane Skyward.svg
+- [Portrait NPC Lord Commander Thane Skyward V1 Lord Commander Thane Skyward.svg]]
+- [[Portrait NPC Lord Commander Thane Skyward V2 Lord Commander Thane Skyward.svg
+- [Portrait NPC Lord Erasmus Voidheart Lord Erasmus Voidheart.svg]]
+- [[Portrait NPC Lord Erasmus Voidheart V1 Lord Erasmus Voidheart.svg
+- [Portrait NPC Lord Erasmus Voidheart V2 Lord Erasmus Voidheart.svg]]
+- [[Portrait NPC Lord Flux the Inconsistent Lord Flux the Inconsistent.svg
+- [Portrait NPC Lord Flux the Inconsistent V1 Lord Flux the Inconsistent.svg]]
+- [[Portrait NPC Lord Flux the Inconsistent V2 Lord Flux the Inconsistent.svg
+- [Portrait NPC Lord General Harrison Ironhold Lord General Harrison Ironhold.svg]]
+- [[Portrait NPC Lord General Harrison Ironhold V1 Lord General Harrison Ironhold.svg
+- [Portrait NPC Lord General Harrison Ironhold V2 Lord General Harrison Ironhold.svg]]
+- [[Portrait NPC Lord Magistrate Aldrich Thornwick Lord Magistrate Aldrich Thornwick.svg
+- [Portrait NPC Lord Magistrate Aldrich Thornwick V1 Lord Magistrate Aldrich Thornwick.svg]]
+- [[Portrait NPC Lord Magistrate Aldrich Thornwick V2 Lord Magistrate Aldrich Thornwick.svg
+- [Portrait NPC Lord Magnus Goldspire Lord Magnus Goldspire.svg]]
+- [[Portrait NPC Lord Magnus Goldspire V1 Lord Magnus Goldspire.svg
+- [Portrait NPC Lord Magnus Goldspire V2 Lord Magnus Goldspire.svg]]
+- [[Portrait NPC Lord Marcus Goldweaver Lord Marcus Goldweaver.svg
+- [Portrait NPC Lord Marcus Goldweaver V1 Lord Marcus Goldweaver.svg]]
+- [[Portrait NPC Lord Marcus Goldweaver V2 Lord Marcus Goldweaver.svg
+- [Portrait NPC Lord Marcus Shadowbane Lord Marcus Shadowbane.svg]]
+- [[Portrait NPC Lord Marcus Shadowbane V1 Lord Marcus Shadowbane.svg
+- [Portrait NPC Lord Marcus Shadowbane V2 Lord Marcus Shadowbane.svg]]
+- [[Portrait NPC Madame Crystal Eye Madame Crystal Eye.svg_1 (Portraits)
+- [Portrait NPC Madame Crystal Eye V1 Madame Crystal Eye.svg_1 (Portraits)]]
+- [[Portrait NPC Madame Crystal Eye V2 Madame Crystal Eye.svg_1 (Portraits)
+- [Portrait NPC Madame Nightwhisper Madame Nightwhisper.svg_1 (Portraits)]]
+- [[Portrait NPC Madame Nightwhisper V1 Madame Nightwhisper.svg_1 (Portraits)
+- [Portrait NPC Madame Nightwhisper V2 Madame Nightwhisper.svg_1 (Portraits)]]
+- [[Portrait NPC Marcus Shardbreaker Grimm Marcus Shardbreaker Grimm.svg_1 (Portraits)
+- [Portrait NPC Marcus Shardbreaker Grimm V1 Marcus Shardbreaker Grimm.svg_1 (Portraits)]]
+- [[Portrait NPC Marcus Shardbreaker Grimm V2 Marcus Shardbreaker Grimm.svg_1 (Portraits)
+- [Portrait NPC Marcus the Shade Blackwood Marcus the Shade Blackwood.svg_1 (Portraits)]]
+- [[Portrait NPC Marcus the Shade Blackwood V1 Marcus the Shade Blackwood.svg_1 (Portraits)
+- [Portrait NPC Marcus the Shade Blackwood V2 Marcus the Shade Blackwood.svg_1 (Portraits)]]
+- [[Portrait NPC Marina Red Tide Coralheart Aquabyssos Marina Red Tide Coralheart Aquabyssos.svg_1 (Portraits)
+- [Portrait NPC Marina Red Tide Coralheart Aquabyssos V1 Marina Red Tide Coralheart Aquabyssos.svg_1 (Portraits)]]
+- [[Portrait NPC Marina Red Tide Coralheart Aquabyssos V2 Marina Red Tide Coralheart Aquabyssos.svg_1 (Portraits)
+- [Portrait NPC Marina Red Tide Coralheart Marina Red Tide Coralheart.svg_1 (Portraits)]]
+- [[Portrait NPC Marina Red Tide Coralheart V1 Marina Red Tide Coralheart.svg_1 (Portraits)
+- [Portrait NPC Marina Red Tide Coralheart V2 Marina Red Tide Coralheart.svg_1 (Portraits)]]
+- [[Portrait NPC Master Artificer Korvin Gearwright Master Artificer Korvin Gearwright.svg
+- [Portrait NPC Master Artificer Korvin Gearwright V1 Master Artificer Korvin Gearwright.svg]]
+- [[Portrait NPC Master Artificer Korvin Gearwright V2 Master Artificer Korvin Gearwright.svg
+- [Portrait NPC Master Smith Priest Vulcan Depthforge Master Smith Priest Vulcan Depthforge.svg]]
+- [[Portrait NPC Master Smith Priest Vulcan Depthforge V1 Master Smith Priest Vulcan Depthforge.svg
+- [Portrait NPC Master Smith Priest Vulcan Depthforge V2 Master Smith Priest Vulcan Depthforge.svg]]
+- [[Portrait NPC Master of Currents Poseidon Master of Currents Poseidon.svg
+- [Portrait NPC Master of Currents Poseidon V1 Master of Currents Poseidon.svg]]
+- [[Portrait NPC Master of Currents Poseidon V2 Master of Currents Poseidon.svg
+- [Portrait NPC Memory Commerce V1 Memory Commerce.svg_1 (Portraits)]]
+- [[Portrait NPC Memory Commerce V2 Memory Commerce.svg_1 (Portraits)
+- [Portrait NPC Memory Harvester Kythara Memory Harvester Kythara.svg_1 (Portraits)]]
+- [[Portrait NPC Memory Harvester Kythara V1 Memory Harvester Kythara.svg_1 (Portraits)
+- [Portrait NPC Memory Harvester Kythara V2 Memory Harvester Kythara.svg_1 (Portraits)]]
+- [[Portrait NPC Memory Merchant Valeria Siltweave Memory Merchant Valeria Siltweave.svg_1 (Portraits)
+- [Portrait NPC Memory Merchant Valeria Siltweave V1 Memory Merchant Valeria Siltweave.svg_1 (Portraits)]]
+- [[Portrait NPC Memory Merchant Valeria Siltweave V2 Memory Merchant Valeria Siltweave.svg_1 (Portraits)
+- [Portrait NPC Memory Merchants V1 Memory Merchants.svg_1 (Portraits)]]
+- [[Portrait NPC Memory Merchants V2 Memory Merchants.svg_1 (Portraits)
+- [Portrait NPC Merchant Captain Tobias Stormwind Merchant Captain Tobias Stormwind.svg]]
+- [[Portrait NPC Merchant Captain Tobias Stormwind V1 Merchant Captain Tobias Stormwind.svg
+- [Portrait NPC Merchant Captain Tobias Stormwind V2 Merchant Captain Tobias Stormwind.svg]]
+- [[Portrait NPC Merchant Captain Trade Merchant Captain Trade.svg
+- [Portrait NPC Merchant Captain Trade V1 Merchant Captain Trade.svg]]
+- [[Portrait NPC Merchant Captain Trade V2 Merchant Captain Trade.svg
+- [Portrait NPC Merchant Lord Cornelius Generous Merchant Lord Cornelius Generous.svg]]
+- [[Portrait NPC Merchant Lord Cornelius Generous V1 Merchant Lord Cornelius Generous.svg
+- [Portrait NPC Merchant Lord Cornelius Generous V2 Merchant Lord Cornelius Generous.svg]]
+- [[Portrait NPC Militant Priest Abyssal Militant Priest Abyssal.svg_1 (Portraits)
+- [Portrait NPC Militant Priest Abyssal V1 Militant Priest Abyssal.svg_1 (Portraits)]]
+- [[Portrait NPC Militant Priest Abyssal V2 Militant Priest Abyssal.svg_1 (Portraits)
+- [Portrait NPC Mirror Breaking Crystals Mirror Breaking Crystals.svg_1 (Portraits)]]
+- [[Portrait NPC Mirror Breaking Crystals V1 Mirror Breaking Crystals.svg_1 (Portraits)
+- [Portrait NPC Mirror Breaking Crystals V2 Mirror Breaking Crystals.svg_1 (Portraits)]]
+- [[Portrait NPC Mist Walker Captain Luna Pathfinder Mist Walker Captain Luna Pathfinder.svg
+- [Portrait NPC Mist Walker Captain Luna Pathfinder V1 Mist Walker Captain Luna Pathfinder.svg]]
+- [[Portrait NPC Mist Walker Captain Luna Pathfinder V2 Mist Walker Captain Luna Pathfinder.svg
+- [Portrait NPC Nerissa Deepcurrent Nerissa Deepcurrent.svg_1 (Portraits)]]
+- [[Portrait NPC Nerissa Deepcurrent V1 Nerissa Deepcurrent.svg_1 (Portraits)
+- [Portrait NPC Nerissa Deepcurrent V2 Nerissa Deepcurrent.svg_1 (Portraits)]]
+- [[Portrait NPC Oracle Nerida the Tidereader Oracle Nerida the Tidereader.svg_1 (Portraits)
+- [Portrait NPC Oracle Nerida the Tidereader V1 Oracle Nerida the Tidereader.svg_1 (Portraits)]]
+- [[Portrait NPC Oracle Nerida the Tidereader V2 Oracle Nerida the Tidereader.svg_1 (Portraits)
+- [Portrait NPC Order of the Shattered Crown Order of the Shattered Crown.svg]]
+- [[Portrait NPC Order of the Shattered Crown V1 Order of the Shattered Crown.svg
+- [Portrait NPC Order of the Shattered Crown V2 Order of the Shattered Crown.svg]]
+- [[Portrait NPC Original Glaucus V1 Original Glaucus.svg_1 (Portraits)
+- [Portrait NPC Original Glaucus V2 Original Glaucus.svg_1 (Portraits)]]
+- [[Portrait NPC Otherworldly Pacts Otherworldly Pacts.svg_1 (Portraits)
+- [Portrait NPC Otherworldly Pacts V1 Otherworldly Pacts.svg_1 (Portraits)]]
+- [[Portrait NPC Otherworldly Pacts V2 Otherworldly Pacts.svg_1 (Portraits)
+- [Portrait NPC Otherworldly Patron Otherworldly Patron.svg_1 (Portraits)]]
+- [[Portrait NPC Otherworldly Patron V1 Otherworldly Patron.svg_1 (Portraits)
+- [Portrait NPC Otherworldly Patron V2 Otherworldly Patron.svg_1 (Portraits)]]
+- [[Portrait NPC Paladin Commander Sir Radiant Dawnbreaker Paladin Commander Sir Radiant Dawnbreaker.svg_1 (Portraits)
+- [Portrait NPC Paladin Commander Sir Radiant Dawnbreaker V1 Paladin Commander Sir Radiant Dawnbreaker.svg_1 (Portraits)]]
+- [[Portrait NPC Paladin Commander Sir Radiant Dawnbreaker V2 Paladin Commander Sir Radiant Dawnbreaker.svg_1 (Portraits)
+- [Portrait NPC Parliament High Council Parliament High Council.svg]]
+- [[Portrait NPC Parliament High Council V1 Parliament High Council.svg
+- [Portrait NPC Parliament High Council V2 Parliament High Council.svg]]
+- [[Portrait NPC Parliament Loyalists Parliament Loyalists.svg_1 (Portraits)
+- [Portrait NPC Parliament Loyalists V1 Parliament Loyalists.svg_1 (Portraits)]]
+- [[Portrait NPC Parliament Loyalists V2 Parliament Loyalists.svg_1 (Portraits)
+- [Portrait NPC Patriarch Valdris Lightbringer Patriarch Valdris Lightbringer.png]]
+- [[Portrait NPC Patriarch Valdris Lightbringer V1 Patriarch Valdris Lightbringer.svg
+- [Portrait NPC Patriarch Valdris Lightbringer V2 Patriarch Valdris Lightbringer.svg]]
+- [[Portrait NPC Pearl Empress Lustrous Pearl Empress Lustrous.svg_1 (Portraits)
+- [Portrait NPC Pearl Empress Lustrous V1 Pearl Empress Lustrous.svg_1 (Portraits)]]
+- [[Portrait NPC Pearl Empress Lustrous V2 Pearl Empress Lustrous.svg_1 (Portraits)
+- [Portrait NPC Pilgrim Guide Samuel Walkingfaith Pilgrim Guide Samuel Walkingfaith.svg_1 (Portraits)]]
+- [[Portrait NPC Pilgrim Guide Samuel Walkingfaith V1 Pilgrim Guide Samuel Walkingfaith.svg_1 (Portraits)
+- [Portrait NPC Pilgrim Guide Samuel Walkingfaith V2 Pilgrim Guide Samuel Walkingfaith.svg_1 (Portraits)]]
+- [[Portrait NPC Pirate Captain Blacktide Pirate Captain Blacktide.svg
+- [Portrait NPC Pirate Captain Blacktide V1 Pirate Captain Blacktide.svg]]
+- [[Portrait NPC Pirate Captain Blacktide V2 Pirate Captain Blacktide.svg
+- [Portrait NPC Pirate Lords of the Spiral Depths Pirate Lords of the Spiral Depths.svg]]
+- [[Portrait NPC Pirate Lords of the Spiral Depths V1 Pirate Lords of the Spiral Depths.svg
+- [Portrait NPC Pirate Lords of the Spiral Depths V2 Pirate Lords of the Spiral Depths.svg]]
+- [[Portrait NPC Pressure Angel Benthia Pressure Angel Benthia.png_1 (Portraits)
+- [Portrait NPC Pressure Angel Benthia V1 Pressure Angel Benthia.png_1 (Portraits)]]
+- [[Portrait NPC Pressure Angel Benthia V2 Pressure Angel Benthia.svg_1 (Portraits)
+- [Portrait NPC Priest Faith Crystalsong Priest Faith Crystalsong.svg_1 (Portraits)]]
+- [[Portrait NPC Priest Faith Crystalsong V1 Priest Faith Crystalsong.svg_1 (Portraits)
+- [Portrait NPC Priest Faith Crystalsong V2 Priest Faith Crystalsong.svg_1 (Portraits)]]
+- [[Portrait NPC Prince Caspian Duskwater Prince Caspian Duskwater.svg_1 (Portraits)
+- [Portrait NPC Prince Caspian Duskwater V1 Prince Caspian Duskwater.svg_1 (Portraits)]]
+- [[Portrait NPC Prince Caspian Duskwater V2 Prince Caspian Duskwater.svg_1 (Portraits)
+- [Portrait NPC Professor Aldric Crystalweaver Professor Aldric Crystalweaver.svg_1 (Portraits)]]
+- [[Portrait NPC Professor Aldric Crystalweaver V1 Professor Aldric Crystalweaver.svg_1 (Portraits)
+- [Portrait NPC Professor Aldric Crystalweaver V2 Professor Aldric Crystalweaver.svg_1 (Portraits)]]
+- [[Portrait NPC Prophet Nerida Voidgazer Prophet Nerida Voidgazer.svg_1 (Portraits)
+- [Portrait NPC Prophet Nerida Voidgazer V1 Prophet Nerida Voidgazer.svg_1 (Portraits)]]
+- [[Portrait NPC Prophet Nerida Voidgazer V2 Prophet Nerida Voidgazer.svg_1 (Portraits)
+- [Portrait NPC Queen Glacialis V1 Queen Glacialis.svg_1 (Portraits)]]
+- [[Portrait NPC Queen Glacialis V2 Queen Glacialis.svg_1 (Portraits)
+- [Portrait NPC Queen Lyralei Stormheart Queen Lyralei Stormheart.svg_1 (Portraits)]]
+- [[Portrait NPC Queen Lyralei Stormheart V1 Queen Lyralei Stormheart.svg_1 (Portraits)
+- [Portrait NPC Queen Lyralei Stormheart V2 Queen Lyralei Stormheart.svg_1 (Portraits)]]
+- [[Portrait NPC Queen Morwyn Lumengarde Queen Morwyn Lumengarde.svg_1 (Portraits)
+- [Portrait NPC Queen Morwyn Lumengarde V1 Queen Morwyn Lumengarde.svg_1 (Portraits)]]
+- [[Portrait NPC Queen Morwyn Lumengarde V2 Queen Morwyn Lumengarde.svg_1 (Portraits)
+- [Portrait NPC Queen Seraphina Lumengarde Queen Seraphina Lumengarde.svg_1 (Portraits)]]
+- [[Portrait NPC Queen Seraphina Lumengarde V1 Queen Seraphina Lumengarde.svg_1 (Portraits)
+- [Portrait NPC Queen Seraphina Lumengarde V2 Queen Seraphina Lumengarde.svg_1 (Portraits)]]
+- [[Portrait NPC Quest Breaking the Scales Quest Breaking the Scales.svg
+- [Portrait NPC Quest Breaking the Scales V1 Quest Breaking the Scales.svg]]
+- [[Portrait NPC Quest Breaking the Scales V2 Quest Breaking the Scales.svg
+- [Portrait NPC Quest Crystal Innovation Quest Crystal Innovation.svg]]
+- [[Portrait NPC Quest Crystal Innovation V1 Quest Crystal Innovation.svg
+- [Portrait NPC Quest Crystal Innovation V2 Quest Crystal Innovation.svg]]
+- [[Portrait NPC Quest Faith and Doubt Quest Faith and Doubt.svg
+- [Portrait NPC Quest Faith and Doubt V1 Quest Faith and Doubt.svg]]
+- [[Portrait NPC Quest Faith and Doubt V2 Quest Faith and Doubt.svg
+- [Portrait NPC Quest Into the Wastes Quest Into the Wastes.svg]]
+- [[Portrait NPC Quest Into the Wastes V1 Quest Into the Wastes.svg
+- [Portrait NPC Quest Into the Wastes V2 Quest Into the Wastes.svg]]
+- [[Portrait NPC Quest Seeds of the Deep Quest Seeds of the Deep.svg
+- [Portrait NPC Quest Seeds of the Deep V1 Quest Seeds of the Deep.svg]]
+- [[Portrait NPC Quest Seeds of the Deep V2 Quest Seeds of the Deep.svg
+- [Portrait NPC Quest Storm Lord S Challenge Quest Storm Lord S Challenge.svg]]
+- [[Portrait NPC Quest Storm Lord S Challenge V1 Quest Storm Lord S Challenge.svg
+- [Portrait NPC Quest Storm Lord S Challenge V2 Quest Storm Lord S Challenge.svg]]
+- [[Portrait NPC Quest the Admiral S Gambit Quest the Admiral S Gambit.svg
+- [Portrait NPC Quest the Admiral S Gambit V1 Quest the Admiral S Gambit.svg]]
+- [[Portrait NPC Quest the Admiral S Gambit V2 Quest the Admiral S Gambit.svg
+- [Portrait NPC Quest the Ancient Compact Quest the Ancient Compact.svg]]
+- [[Portrait NPC Quest the Ancient Compact V1 Quest the Ancient Compact.svg
+- [Portrait NPC Quest the Ancient Compact V2 Quest the Ancient Compact.svg]]
+- [[Portrait NPC Quest the Betrayers Truth Quest the Betrayers Truth.svg
+- [Portrait NPC Quest the Betrayers Truth V1 Quest the Betrayers Truth.svg]]
+- [[Portrait NPC Quest the Betrayers Truth V2 Quest the Betrayers Truth.svg
+- [Portrait NPC Quest the Bio Adaptation Crisis Quest the Bio Adaptation Crisis.svg]]
+- [[Portrait NPC Quest the Bio Adaptation Crisis V1 Quest the Bio Adaptation Crisis.svg
+- [Portrait NPC Quest the Bio Adaptation Crisis V2 Quest the Bio Adaptation Crisis.svg]]
+- [[Portrait NPC Quest the Blackmail Papers Quest the Blackmail Papers.svg
+- [Portrait NPC Quest the Blackmail Papers V1 Quest the Blackmail Papers.svg]]
+- [[Portrait NPC Quest the Blackmail Papers V2 Quest the Blackmail Papers.svg
+- [Portrait NPC Quest the Brother S Burden Quest the Brother S Burden.svg]]
+- [[Portrait NPC Quest the Brother S Burden V1 Quest the Brother S Burden.svg
+- [Portrait NPC Quest the Brother S Burden V2 Quest the Brother S Burden.svg]]
+- [[Portrait NPC Quest the Corruption Cleansing Quest the Corruption Cleansing.svg
+- [Portrait NPC Quest the Corruption Cleansing V1 Quest the Corruption Cleansing.svg]]
+- [[Portrait NPC Quest the Corruption Cleansing V2 Quest the Corruption Cleansing.svg
+- [Portrait NPC Quest the Corruption Cure Quest the Corruption Cure.svg]]
+- [[Portrait NPC Quest the Corruption Cure V1 Quest the Corruption Cure.svg
+- [Portrait NPC Quest the Corruption Cure V2 Quest the Corruption Cure.svg]]
+- [[Portrait NPC Quest the Corruption Files Quest the Corruption Files.svg
+- [Portrait NPC Quest the Corruption Files V1 Quest the Corruption Files.svg]]
+- [[Portrait NPC Quest the Corruption Files V2 Quest the Corruption Files.svg
+- [Portrait NPC Quest the Crimson Tide Quest the Crimson Tide.svg]]
+- [[Portrait NPC Quest the Crimson Tide V1 Quest the Crimson Tide.svg
+- [Portrait NPC Quest the Crimson Tide V2 Quest the Crimson Tide.svg]]
+- [[Portrait NPC Quest the Crown S Return Quest the Crown S Return.svg
+- [Portrait NPC Quest the Crown S Return V1 Quest the Crown S Return.svg]]
+- [[Portrait NPC Quest the Crown S Return V2 Quest the Crown S Return.svg
+- [Portrait NPC Quest the Crystal Refugees Quest the Crystal Refugees.svg]]
+- [[Portrait NPC Quest the Crystal Refugees V1 Quest the Crystal Refugees.svg
+- [Portrait NPC Quest the Crystal Refugees V2 Quest the Crystal Refugees.svg]]
+- [[Portrait NPC Quest the Cure for Madness Quest the Cure for Madness.svg
+- [Portrait NPC Quest the Cure for Madness V1 Quest the Cure for Madness.svg]]
+- [[Portrait NPC Quest the Cure for Madness V2 Quest the Cure for Madness.svg
+- [Portrait NPC Quest the Deep Alliance Quest the Deep Alliance.svg]]
+- [[Portrait NPC Quest the Deep Alliance V1 Quest the Deep Alliance.svg
+- [Portrait NPC Quest the Deep Alliance V2 Quest the Deep Alliance.svg]]
+- [[Portrait NPC Quest the Deep Cartographer Quest the Deep Cartographer.svg
+- [Portrait NPC Quest the Deep Cartographer V1 Quest the Deep Cartographer.svg]]
+- [[Portrait NPC Quest the Deep Cartographer V2 Quest the Deep Cartographer.svg
+- [Portrait NPC Quest the Deep Mother S Truth Quest the Deep Mother S Truth.svg]]
+- [[Portrait NPC Quest the Deep Mother S Truth V1 Quest the Deep Mother S Truth.svg
+- [Portrait NPC Quest the Deep Mother S Truth V2 Quest the Deep Mother S Truth.svg]]
+- [[Portrait NPC Quest the Deepest Current Quest the Deepest Current.svg
+- [Portrait NPC Quest the Deepest Current V1 Quest the Deepest Current.svg]]
+- [[Portrait NPC Quest the Deepest Current V2 Quest the Deepest Current.svg
+- [Portrait NPC Quest the Deepmind Weapon Quest the Deepmind Weapon.svg]]
+- [[Portrait NPC Quest the Deepmind Weapon V1 Quest the Deepmind Weapon.svg
+- [Portrait NPC Quest the Deepmind Weapon V2 Quest the Deepmind Weapon.svg]]
+- [[Portrait NPC Quest the Democratic Balance Quest the Democratic Balance.svg
+- [Portrait NPC Quest the Democratic Balance V1 Quest the Democratic Balance.svg]]
+- [[Portrait NPC Quest the Democratic Balance V2 Quest the Democratic Balance.svg
+- [Portrait NPC Quest the Diplomatic Immunity Case Quest the Diplomatic Immunity Case.svg]]
+- [[Portrait NPC Quest the Diplomatic Immunity Case V1 Quest the Diplomatic Immunity Case.svg
+- [Portrait NPC Quest the Diplomatic Immunity Case V2 Quest the Diplomatic Immunity Case.svg]]
+- [[Portrait NPC Quest the Divine Test Quest the Divine Test.svg
+- [Portrait NPC Quest the Divine Test V1 Quest the Divine Test.svg]]
+- [[Portrait NPC Quest the Divine Test V2 Quest the Divine Test.svg
+- [Portrait NPC Quest the Dying Forest Quest the Dying Forest.svg]]
+- [[Portrait NPC Quest the Dying Forest V1 Quest the Dying Forest.svg
+- [Portrait NPC Quest the Dying Forest V2 Quest the Dying Forest.svg]]
+- [[Portrait NPC Quest the Failing Magic Quest the Failing Magic.svg
+- [Portrait NPC Quest the Failing Magic V1 Quest the Failing Magic.svg]]
+- [[Portrait NPC Quest the Failing Magic V2 Quest the Failing Magic.svg
+- [Portrait NPC Quest the Healer S Burden Quest the Healer S Burden.svg]]
+- [[Portrait NPC Quest the Healer S Burden V1 Quest the Healer S Burden.svg
+- [Portrait NPC Quest the Healer S Burden V2 Quest the Healer S Burden.svg]]
+- [[Portrait NPC Quest the Kingpin S Fall Quest the Kingpin S Fall.svg
+- [Portrait NPC Quest the Kingpin S Fall V1 Quest the Kingpin S Fall.svg]]
+- [[Portrait NPC Quest the Kingpin S Fall V2 Quest the Kingpin S Fall.svg
+- [Portrait NPC Quest the Missing Guards Quest the Missing Guards.svg]]
+- [[Portrait NPC Quest the Missing Guards V1 Quest the Missing Guards.svg
+- [Portrait NPC Quest the Missing Guards V2 Quest the Missing Guards.svg]]
+- [[Portrait NPC Quest the Perfect Purifier Quest the Perfect Purifier.svg
+- [Portrait NPC Quest the Perfect Purifier V1 Quest the Perfect Purifier.svg]]
+- [[Portrait NPC Quest the Perfect Purifier V2 Quest the Perfect Purifier.svg
+- [Portrait NPC Quest the Pressure Cure Quest the Pressure Cure.svg]]
+- [[Portrait NPC Quest the Pressure Cure V1 Quest the Pressure Cure.svg
+- [Portrait NPC Quest the Pressure Cure V2 Quest the Pressure Cure.svg]]
+- [[Portrait NPC Quest the Pretender Quest the Pretender.svg
+- [Portrait NPC Quest the Pretender V1 Quest the Pretender.svg]]
+- [[Portrait NPC Quest the Pretender V2 Quest the Pretender.svg
+- [Portrait NPC Quest the Prophecy Fulfilled Quest the Prophecy Fulfilled.svg]]
+- [[Portrait NPC Quest the Prophecy Fulfilled V1 Quest the Prophecy Fulfilled.svg
+- [Portrait NPC Quest the Prophecy Fulfilled V2 Quest the Prophecy Fulfilled.svg]]
+- [[Portrait NPC Quest the Queen S Secret Quest the Queen S Secret.svg
+- [Portrait NPC Quest the Queen S Secret V1 Quest the Queen S Secret.svg]]
+- [[Portrait NPC Quest the Queen S Secret V2 Quest the Queen S Secret.svg
+- [Portrait NPC Quest the Refugee Evacuation Quest the Refugee Evacuation.svg]]
+- [[Portrait NPC Quest the Refugee Evacuation V1 Quest the Refugee Evacuation.svg
+- [Portrait NPC Quest the Refugee Evacuation V2 Quest the Refugee Evacuation.svg]]
+- [[Portrait NPC Quest the Royal Treatment Quest the Royal Treatment.svg
+- [Portrait NPC Quest the Royal Treatment V1 Quest the Royal Treatment.svg]]
+- [[Portrait NPC Quest the Royal Treatment V2 Quest the Royal Treatment.svg
+- [Portrait NPC Quest the Runaway Golem Quest the Runaway Golem.svg]]
+- [[Portrait NPC Quest the Runaway Golem V1 Quest the Runaway Golem.svg
+- [Portrait NPC Quest the Runaway Golem V2 Quest the Runaway Golem.svg]]
+- [[Portrait NPC Quest the Sanctuary S Secret Quest the Sanctuary S Secret.svg
+- [Portrait NPC Quest the Sanctuary S Secret V1 Quest the Sanctuary S Secret.svg]]
+- [[Portrait NPC Quest the Sanctuary S Secret V2 Quest the Sanctuary S Secret.svg
+- [Portrait NPC Quest the Seventh Song Quest the Seventh Song.svg]]
+- [[Portrait NPC Quest the Seventh Song V1 Quest the Seventh Song.svg
+- [Portrait NPC Quest the Seventh Song V2 Quest the Seventh Song.svg]]
+- [[Portrait NPC Quest the Shadow Water Accords Quest the Shadow Water Accords.svg
+- [Portrait NPC Quest the Shadow Water Accords V1 Quest the Shadow Water Accords.svg]]
+- [[Portrait NPC Quest the Shadow Water Accords V2 Quest the Shadow Water Accords.svg
+- [Portrait NPC Quest the Siren S Price Quest the Siren S Price.svg]]
+- [[Portrait NPC Quest the Siren S Price V1 Quest the Siren S Price.svg
+- [Portrait NPC Quest the Siren S Price V2 Quest the Siren S Price.svg]]
+- [[Portrait NPC Quest the Succession Crisis Quest the Succession Crisis.svg
+- [Portrait NPC Quest the Succession Crisis V1 Quest the Succession Crisis.svg]]
+- [[Portrait NPC Quest the Succession Crisis V2 Quest the Succession Crisis.svg
+- [Portrait NPC Quest the Successor S Burden Quest the Successor S Burden.svg]]
+- [[Portrait NPC Quest the Successor S Burden V1 Quest the Successor S Burden.svg
+- [Portrait NPC Quest the Successor S Burden V2 Quest the Successor S Burden.svg]]
+- [[Portrait NPC Quest the Symbiotic Sacrament Quest the Symbiotic Sacrament.svg
+- [Portrait NPC Quest the Symbiotic Sacrament V1 Quest the Symbiotic Sacrament.svg]]
+- [[Portrait NPC Quest the Symbiotic Sacrament V2 Quest the Symbiotic Sacrament.svg
+- [Portrait NPC Quest the Throne Succession Quest the Throne Succession.svg]]
+- [[Portrait NPC Quest the Throne Succession V1 Quest the Throne Succession.svg
+- [Portrait NPC Quest the Throne Succession V2 Quest the Throne Succession.svg]]
+- [[Portrait NPC Quest the Tide War Quest the Tide War.svg
+- [Portrait NPC Quest the Tide War V1 Quest the Tide War.svg]]
+- [[Portrait NPC Quest the Tide War V2 Quest the Tide War.svg
+- [Portrait NPC Quest the Traitor Within Quest the Traitor Within.svg]]
+- [[Portrait NPC Quest the Traitor Within V1 Quest the Traitor Within.svg
+- [Portrait NPC Quest the Traitor Within V2 Quest the Traitor Within.svg]]
+- [[Portrait NPC Quest the Voice Beneath Quest the Voice Beneath.svg
+- [Portrait NPC Quest the Voice Beneath V1 Quest the Voice Beneath.svg]]
+- [[Portrait NPC Quest the Voice Beneath V2 Quest the Voice Beneath.svg
+- [Portrait NPC Quest the Void Conspiracy Quest the Void Conspiracy.png]]
+- [[Portrait NPC Quest the Void Conspiracy V1 Quest the Void Conspiracy.png
+- [Portrait NPC Quest the Void Conspiracy V2 Quest the Void Conspiracy.png]]
+- [[Portrait NPC Ranger Captain Orin Swiftarrow Ranger Captain Orin Swiftarrow.svg
+- [Portrait NPC Ranger Captain Orin Swiftarrow V1 Ranger Captain Orin Swiftarrow.svg]]
+- [[Portrait NPC Ranger Captain Orin Swiftarrow V2 Ranger Captain Orin Swiftarrow.svg
+- [Portrait NPC Reflection Captain Vantage Reflection Captain Vantage.svg]]
+- [[Portrait NPC Reflection Captain Vantage V1 Reflection Captain Vantage.svg
+- [Portrait NPC Reflection Captain Vantage V2 Reflection Captain Vantage.svg]]
+- [[Portrait NPC Reflection Pools V1 Reflection Pools.svg_1 (Portraits)
+- [Portrait NPC Reflection Pools V2 Reflection Pools.svg_1 (Portraits)]]
+- [[Portrait NPC Sacred Healing Gardens Sacred Healing Gardens.svg_1 (Portraits)
+- [Portrait NPC Sacred Healing Gardens V1 Sacred Healing Gardens.svg_1 (Portraits)]]
+- [[Portrait NPC Sacred Healing Gardens V2 Sacred Healing Gardens.svg_1 (Portraits)
+- [Portrait NPC Sage Lysander Deepthought Sage Lysander Deepthought.svg]]
+- [[Portrait NPC Sage Lysander Deepthought V1 Sage Lysander Deepthought.svg
+- [Portrait NPC Sage Lysander Deepthought V2 Sage Lysander Deepthought.svg]]
+- [[Portrait NPC Salvage Queen Nerissa Deepfinder Salvage Queen Nerissa Deepfinder.svg_1 (Portraits)
+- [Portrait NPC Salvage Queen Nerissa Deepfinder V1 Salvage Queen Nerissa Deepfinder.svg_1 (Portraits)]]
+- [[Portrait NPC Salvage Queen Nerissa Deepfinder V2 Salvage Queen Nerissa Deepfinder.svg_1 (Portraits)
+- [Portrait NPC Scholar Emperor Thalassius the Wise Scholar Emperor Thalassius the Wise.svg_1 (Portraits)]]
+- [[Portrait NPC Scholar Emperor Thalassius the Wise V1 Scholar Emperor Thalassius the Wise.svg_1 (Portraits)
+- [Portrait NPC Scholar Emperor Thalassius the Wise V2 Scholar Emperor Thalassius the Wise.svg_1 (Portraits)]]
+- [[Portrait NPC Scholar Priest Tidal Memory Scholar Priest Tidal Memory.svg_1 (Portraits)
+- [Portrait NPC Scholar Priest Tidal Memory V1 Scholar Priest Tidal Memory.svg_1 (Portraits)]]
+- [[Portrait NPC Scholar Priest Tidal Memory V2 Scholar Priest Tidal Memory.svg_1 (Portraits)
+- [Portrait NPC Scholar Vivienne the Chronicler Scholar Vivienne the Chronicler.svg_1 (Portraits)]]
+- [[Portrait NPC Scholar Vivienne the Chronicler V1 Scholar Vivienne the Chronicler.svg_1 (Portraits)
+- [Portrait NPC Scholar Vivienne the Chronicler V2 Scholar Vivienne the Chronicler.svg_1 (Portraits)]]
+- [[Portrait NPC Sea Spirit Priests Sea Spirit Priests.svg_1 (Portraits)
+- [Portrait NPC Sea Spirit Priests V1 Sea Spirit Priests.svg_1 (Portraits)]]
+- [[Portrait NPC Sea Spirit Priests V2 Sea Spirit Priests.svg_1 (Portraits)
+- [Portrait NPC Senator Cordelia Deepcurrent Senator Cordelia Deepcurrent.svg_1 (Portraits)]]
+- [[Portrait NPC Senator Cordelia Deepcurrent V1 Senator Cordelia Deepcurrent.svg_1 (Portraits)
+- [Portrait NPC Senator Cordelia Deepcurrent V2 Senator Cordelia Deepcurrent.svg_1 (Portraits)]]
+- [[Portrait NPC Senator Glaucus Brain Senator Glaucus Brain.svg_1 (Portraits)
+- [Portrait NPC Senator Glaucus Brain V1 Senator Glaucus Brain.svg_1 (Portraits)]]
+- [[Portrait NPC Senator Glaucus Brain V2 Senator Glaucus Brain.svg_1 (Portraits)
+- [Portrait NPC Senator Glaucus V1 Senator Glaucus.svg_1 (Portraits)]]
+- [[Portrait NPC Senator Glaucus V2 Senator Glaucus.svg_1 (Portraits)
+- [Portrait NPC Shadow Binding Sanctum Shadow Binding Sanctum.svg_1 (Portraits)]]
+- [[Portrait NPC Shadow Binding Sanctum V1 Shadow Binding Sanctum.svg_1 (Portraits)
+- [Portrait NPC Shadow Binding Sanctum V2 Shadow Binding Sanctum.svg_1 (Portraits)]]
+- [[Portrait NPC Shadow Broker Mist Shadow Broker Mist.svg_1 (Portraits)
+- [Portrait NPC Shadow Broker Mist V1 Shadow Broker Mist.svg_1 (Portraits)]]
+- [[Portrait NPC Shadow Broker Mist V2 Shadow Broker Mist.svg_1 (Portraits)
+- [Portrait NPC Shadow Citizenship Act Shadow Citizenship Act.svg_1 (Portraits)]]
+- [[Portrait NPC Shadow Citizenship Act V1 Shadow Citizenship Act.svg_1 (Portraits)
+- [Portrait NPC Shadow Citizenship Act V2 Shadow Citizenship Act.svg_1 (Portraits)]]
+- [[Portrait NPC Shadow Conspiracy Shadow Conspiracy.svg_1 (Portraits)
+- [Portrait NPC Shadow Conspiracy V1 Shadow Conspiracy.svg_1 (Portraits)]]
+- [[Portrait NPC Shadow Conspiracy V2 Shadow Conspiracy.svg_1 (Portraits)
+- [Portrait NPC Shadow Duchess Nyx Shadow Duchess Nyx.svg_1 (Portraits)]]
+- [[Portrait NPC Shadow Duchess Nyx V1 Shadow Duchess Nyx.svg_1 (Portraits)
+- [Portrait NPC Shadow Duchess Nyx V2 Shadow Duchess Nyx.svg_1 (Portraits)]]
+- [[Portrait NPC Shadow Guard Units Shadow Guard Units.svg_1 (Portraits)
+- [Portrait NPC Shadow Guard Units V1 Shadow Guard Units.svg_1 (Portraits)]]
+- [[Portrait NPC Shadow Guard Units V2 Shadow Guard Units.svg_1 (Portraits)
+- [Portrait NPC Shadow Parliament Shadow Parliament.svg_1 (Portraits)]]
+- [[Portrait NPC Shadow Parliament V1 Shadow Parliament.svg_1 (Portraits)
+- [Portrait NPC Shadow Parliament V2 Shadow Parliament.svg_1 (Portraits)]]
+- [[Portrait NPC Sir Marcus Dawnforge Sir Marcus Dawnforge.svg_1 (Portraits)
+- [Portrait NPC Sir Marcus Dawnforge V1 Sir Marcus Dawnforge.svg_1 (Portraits)]]
+- [[Portrait NPC Sir Marcus Dawnforge V2 Sir Marcus Dawnforge.svg_1 (Portraits)
+- [Portrait NPC Sir Ruben Redtape Sir Ruben Redtape.svg_1 (Portraits)]]
+- [[Portrait NPC Sir Ruben Redtape V1 Sir Ruben Redtape.svg_1 (Portraits)
+- [Portrait NPC Sir Ruben Redtape V2 Sir Ruben Redtape.svg_1 (Portraits)]]
+- [[Portrait NPC Sir Theron Crystalward Sir Theron Crystalward.svg_1 (Portraits)
+- [Portrait NPC Sir Theron Crystalward V1 Sir Theron Crystalward.svg_1 (Portraits)]]
+- [[Portrait NPC Sir Theron Crystalward V2 Sir Theron Crystalward.svg_1 (Portraits)
+- [Portrait NPC Sister Morwyn Veilkeeper Sister Morwyn Veilkeeper.svg]]
+- [[Portrait NPC Sister Morwyn Veilkeeper V1 Sister Morwyn Veilkeeper.svg
+- [Portrait NPC Sister Morwyn Veilkeeper V2 Sister Morwyn Veilkeeper.svg]]
+- [[Portrait NPC Sister Thalassa the Depth Touched Sister Thalassa the Depth Touched.svg_1 (Portraits)
+- [Portrait NPC Sister Thalassa the Depth Touched V1 Sister Thalassa the Depth Touched.svg_1 (Portraits)]]
+- [[Portrait NPC Sister Thalassa the Depth Touched V2 Sister Thalassa the Depth Touched.svg_1 (Portraits)
+- [Portrait NPC Sorrow Root Nightbloom Sorrow Root Nightbloom.svg_1 (Portraits)]]
+- [[Portrait NPC Sorrow Root Nightbloom V1 Sorrow Root Nightbloom.svg_1 (Portraits)
+- [Portrait NPC Sorrow Root Nightbloom V2 Sorrow Root Nightbloom.svg_1 (Portraits)]]
+- [[Portrait NPC Storm Empress Tempestas Maelstrom Storm Empress Tempestas Maelstrom.svg_1 (Portraits)
+- [Portrait NPC Storm Empress Tempestas Maelstrom V1 Storm Empress Tempestas Maelstrom.svg_1 (Portraits)]]
+- [[Portrait NPC Storm Empress Tempestas Maelstrom V2 Storm Empress Tempestas Maelstrom.svg_1 (Portraits)
+- [Portrait NPC Sunken Kingdom of Nereon Sunken Kingdom of Nereon.svg_1 (Portraits)]]
+- [[Portrait NPC Sunken Kingdom of Nereon V1 Sunken Kingdom of Nereon.svg_1 (Portraits)
+- [Portrait NPC Sunken Kingdom of Nereon V2 Sunken Kingdom of Nereon.svg_1 (Portraits)]]
+- [[Portrait NPC Surface Ambassador Lord Seaworthy Surface Ambassador Lord Seaworthy.svg
+- [Portrait NPC Surface Ambassador Lord Seaworthy V1 Surface Ambassador Lord Seaworthy.svg]]
+- [[Portrait NPC Surface Ambassador Lord Seaworthy V2 Surface Ambassador Lord Seaworthy.svg
+- [Portrait NPC Surface Liaison Captain Reed Bridgewater Surface Liaison Captain Reed Bridgewater.svg]]
+- [[Portrait NPC Surface Liaison Captain Reed Bridgewater V1 Surface Liaison Captain Reed Bridgewater.svg
+- [Portrait NPC Surface Liaison Captain Reed Bridgewater V2 Surface Liaison Captain Reed Bridgewater.svg]]
+- [[Portrait NPC Surface Supremacists Surface Supremacists.svg_1 (Portraits)
+- [Portrait NPC Surface Supremacists V1 Surface Supremacists.svg_1 (Portraits)]]
+- [[Portrait NPC Surface Supremacists V2 Surface Supremacists.svg_1 (Portraits)
+- [Portrait NPC Tenebrarum Ambassadors Tenebrarum Ambassadors.svg_1 (Portraits)]]
+- [[Portrait NPC Tenebrarum Ambassadors V1 Tenebrarum Ambassadors.svg_1 (Portraits)
+- [Portrait NPC Tenebrarum Ambassadors V2 Tenebrarum Ambassadors.svg_1 (Portraits)]]
+- [[Portrait NPC Throne of Bubbles Throne of Bubbles.svg_1 (Portraits)
+- [Portrait NPC Throne of Bubbles V1 Throne of Bubbles.svg_1 (Portraits)]]
+- [[Portrait NPC Throne of Bubbles V2 Throne of Bubbles.svg_1 (Portraits)
+- [Portrait NPC Tidal Priest Marina Deepcurrent Tidal Priest Marina Deepcurrent.svg_1 (Portraits)]]
+- [[Portrait NPC Tidal Priest Marina Deepcurrent V1 Tidal Priest Marina Deepcurrent.svg_1 (Portraits)
+- [Portrait NPC Tidal Priest Marina Deepcurrent V2 Tidal Priest Marina Deepcurrent.svg_1 (Portraits)]]
+- [[Portrait NPC Tidal Priests Circle Tidal Priests Circle.svg_1 (Portraits)
+- [Portrait NPC Tidal Priests Circle V1 Tidal Priests Circle.svg_1 (Portraits)]]
+- [[Portrait NPC Tidal Priests Circle V2 Tidal Priests Circle.svg_1 (Portraits)
+- [Portrait NPC Trade Captain Current Trade Captain Current.svg]]
+- [[Portrait NPC Trade Captain Current V1 Trade Captain Current.svg
+- [Portrait NPC Trade Captain Current V2 Trade Captain Current.svg]]
+- [[Portrait NPC Trade Captain Sterling Trade Captain Sterling.svg
+- [Portrait NPC Trade Captain Sterling V1 Trade Captain Sterling.svg]]
+- [[Portrait NPC Trade Captain Sterling V2 Trade Captain Sterling.svg
+- [Portrait NPC Tribune Cassia Deepcurrent Tribune Cassia Deepcurrent.svg_1 (Portraits)]]
+- [[Portrait NPC Tribune Cassia Deepcurrent V1 Tribune Cassia Deepcurrent.svg_1 (Portraits)
+- [Portrait NPC Tribune Cassia Deepcurrent V2 Tribune Cassia Deepcurrent.svg_1 (Portraits)]]
+- [[Portrait NPC Umbral Crystal Miners Umbral Crystal Miners.svg_1 (Portraits)
+- [Portrait NPC Umbral Crystal Miners V1 Umbral Crystal Miners.svg_1 (Portraits)]]
+- [[Portrait NPC Umbral Crystal Miners V2 Umbral Crystal Miners.svg_1 (Portraits)
+- [Portrait NPC Underground Testing Facility Underground Testing Facility.svg_1 (Portraits)]]
+- [[Portrait NPC Underground Testing Facility V1 Underground Testing Facility.svg_1 (Portraits)
+- [Portrait NPC Underground Testing Facility V2 Underground Testing Facility.svg_1 (Portraits)]]
+- [[Portrait NPC Unite the Emperor Unite the Emperor.svg_1 (Portraits)
+- [Portrait NPC Unite the Emperor V1 Unite the Emperor.svg_1 (Portraits)]]
+- [[Portrait NPC Unite the Emperor V2 Unite the Emperor.svg_1 (Portraits)
+- [Portrait NPC Vanguard Captain Crystalla Shardstrike V1 Vanguard Captain Crystalla Shardstrike.svg]]
+- [[Portrait NPC Vanguard Captain Crystalla Shardstrike V2 Vanguard Captain Crystalla Shardstrike.svg
+- [Portrait NPC Vanguard Captain Crystalla Shardstrike Vanguard Captain Crystalla Shardstrike.svg]]
+- [[Portrait NPC Vespara Nightwhisper Thorne V1 Vespara Nightwhisper Thorne.svg_1 (Portraits)
+- [Portrait NPC Vespara Nightwhisper Thorne V2 Vespara Nightwhisper Thorne.svg_1 (Portraits)]]
+- [[Portrait NPC Vespara Nightwhisper Thorne Vespara Nightwhisper Thorne.svg_1 (Portraits)
+- [Portrait NPC Vex Shadowthorn S Apprentices V1 Vex Shadowthorn S Apprentices.svg_1 (Portraits)]]
+- [[Portrait NPC Vex Shadowthorn S Apprentices V2 Vex Shadowthorn S Apprentices.svg_1 (Portraits)
+- [Portrait NPC Vex Shadowthorn S Apprentices Vex Shadowthorn S Apprentices.svg_1 (Portraits)]]
+- [[Portrait NPC Vex Shadowthorn V1 Vex Shadowthorn.svg_1 (Portraits)
+- [Portrait NPC Vex Shadowthorn V2 Vex Shadowthorn.svg_1 (Portraits)]]
+- [[Portrait NPC Vex Shadowthorn the Kingpin V1 Vex Shadowthorn the Kingpin.svg_1 (Portraits)
+- [Portrait NPC Vex Shadowthorn the Kingpin V2 Vex Shadowthorn the Kingpin.svg_1 (Portraits)]]
+- [[Portrait NPC Vex Shadowthorn the Kingpin Vex Shadowthorn the Kingpin.svg_1 (Portraits)
+- [Portrait NPC Warrior Priest Abyss Sworn V1 Warrior Priest Abyss Sworn.svg_1 (Portraits)]]
+- [[Portrait NPC Warrior Priest Abyss Sworn V2 Warrior Priest Abyss Sworn.svg_1 (Portraits)
+- [Portrait NPC Warrior Priest Abyss Sworn Warrior Priest Abyss Sworn.svg_1 (Portraits)]]
+- [[Portrait NPC Watch Captain Roderick Shieldbreaker V1 Watch Captain Roderick Shieldbreaker.svg
+- [Portrait NPC Watch Captain Roderick Shieldbreaker V2 Watch Captain Roderick Shieldbreaker.svg]]
+- [[Portrait NPC Watch Captain Roderick Shieldbreaker Watch Captain Roderick Shieldbreaker.svg
+- [Portrait NPC Weaponsmith Captain Marcus Sharpedge V1 Weaponsmith Captain Marcus Sharpedge.svg]]
+- [[Portrait NPC Weaponsmith Captain Marcus Sharpedge V2 Weaponsmith Captain Marcus Sharpedge.svg
+- [Portrait NPC Weaponsmith Captain Marcus Sharpedge Weaponsmith Captain Marcus Sharpedge.svg]]
+- [[Portrait NPC Working Class Citizens V1 Working Class Citizens.svg_1 (Portraits)
+- [Portrait NPC Working Class Citizens V2 Working Class Citizens.svg_1 (Portraits)]]
+- [[Portrait NPC Working Class Citizens Working Class Citizens.svg_1 (Portraits)
+- [Portrait NPC Zephyr Goldwhisper V1 Zephyr Goldwhisper.svg_1 (Portraits)]]
+- [[Portrait NPC Zephyr Goldwhisper V2 Zephyr Goldwhisper.svg_1 (Portraits)
+- [Portrait NPC Zephyr Goldwhisper Zephyr Goldwhisper.svg_1 (Portraits)]]
+- [[Portrait NPC the Ancient Nobility V1 the Ancient Nobility.svg_1 (Portraits)
+- [Portrait NPC the Ancient Nobility V2 the Ancient Nobility.svg_1 (Portraits)]]
+- [[Portrait NPC the Ancient Nobility the Ancient Nobility.svg_1 (Portraits)
+- [Portrait NPC the Azure Prophet Nerissa V1 the Azure Prophet Nerissa.svg_1 (Portraits)]]
+- [[Portrait NPC the Azure Prophet Nerissa V2 the Azure Prophet Nerissa.svg_1 (Portraits)
+- [Portrait NPC the Azure Prophet Nerissa the Azure Prophet Nerissa.svg_1 (Portraits)]]
+- [[Portrait NPC the Bloodline Awakens V1 the Bloodline Awakens.svg_1 (Portraits)
+- [Portrait NPC the Bloodline Awakens V2 the Bloodline Awakens.svg_1 (Portraits)]]
+- [[Portrait NPC the Bloodline Awakens the Bloodline Awakens.svg_1 (Portraits)
+- [Portrait NPC the Bloodline Carrier V1 the Bloodline Carrier.svg_1 (Portraits)]]
+- [[Portrait NPC the Bloodline Carrier V2 the Bloodline Carrier.svg_1 (Portraits)
+- [Portrait NPC the Bloodline Carrier the Bloodline Carrier.svg_1 (Portraits)]]
+- [[Portrait NPC the Cerulean Breath V1 the Cerulean Breath.svg_1 (Portraits)
+- [Portrait NPC the Cerulean Breath V2 the Cerulean Breath.svg_1 (Portraits)]]
+- [[Portrait NPC the Cerulean Breath the Cerulean Breath.svg_1 (Portraits)
+- [Portrait NPC the Coral Throne Syndicate V1 the Coral Throne Syndicate.svg]]
+- [[Portrait NPC the Coral Throne Syndicate V2 the Coral Throne Syndicate.svg
+- [Portrait NPC the Coral Throne Syndicate the Coral Throne Syndicate.svg]]
+- [[Portrait NPC the Corroded Crown V1 the Corroded Crown.svg_1 (Portraits)
+- [Portrait NPC the Corroded Crown V2 the Corroded Crown.svg_1 (Portraits)]]
+- [[Portrait NPC the Corroded Crown the Corroded Crown.svg_1 (Portraits)
+- [Portrait NPC the Crimson Pearl V1 the Crimson Pearl.svg_1 (Portraits)]]
+- [[Portrait NPC the Crimson Pearl V2 the Crimson Pearl.svg_1 (Portraits)
+- [Portrait NPC the Crimson Pearl the Crimson Pearl.svg_1 (Portraits)]]
+- [[Portrait NPC the Crimson Sage V1 the Crimson Sage.svg
+- [Portrait NPC the Crimson Sage V2 the Crimson Sage.svg]]
+- [[Portrait NPC the Crimson Shard Guardian V1 the Crimson Shard Guardian.svg_1 (Portraits)
+- [Portrait NPC the Crimson Shard Guardian V2 the Crimson Shard Guardian.svg_1 (Portraits)]]
+- [[Portrait NPC the Crimson Shard Guardian the Crimson Shard Guardian.svg_1 (Portraits)
+- [Portrait NPC the Crystal Queen Mother V1 the Crystal Queen Mother.svg_1 (Portraits)]]
+- [[Portrait NPC the Crystal Queen Mother V2 the Crystal Queen Mother.svg_1 (Portraits)
+- [Portrait NPC the Crystal Queen Mother the Crystal Queen Mother.svg_1 (Portraits)]]
+- [[Portrait NPC the Current Merchants V1 the Current Merchants.svg_1 (Portraits)
+- [Portrait NPC the Current Merchants V2 the Current Merchants.svg_1 (Portraits)]]
+- [[Portrait NPC the Current Merchants the Current Merchants.svg_1 (Portraits)
+- [Portrait NPC the Deep Trade Routes V1 the Deep Trade Routes.svg_1 (Portraits)]]
+- [[Portrait NPC the Deep Trade Routes V2 the Deep Trade Routes.svg_1 (Portraits)
+- [Portrait NPC the Deep Trade Routes the Deep Trade Routes.svg_1 (Portraits)]]
+- [[Portrait NPC the Deepmind Conspiracy V1 the Deepmind Conspiracy.svg_1 (Portraits)
+- [Portrait NPC the Deepmind Conspiracy V2 the Deepmind Conspiracy.svg_1 (Portraits)]]
+- [[Portrait NPC the Deepmind Conspiracy the Deepmind Conspiracy.svg_1 (Portraits)
+- [Portrait NPC the Depth Blessed Fisherman Captain Sal Deepcurrent V1 the Depth Blessed Fisherman Captain Sal Deepcurrent.svg]]
+- [[Portrait NPC the Depth Blessed Fisherman Captain Sal Deepcurrent V2 the Depth Blessed Fisherman Captain Sal Deepcurrent.svg
+- [Portrait NPC the Depth Blessed Fisherman Captain Sal Deepcurrent the Depth Blessed Fisherman Captain Sal Deepcurrent.svg]]
+- [[Portrait NPC the Depth Lords V1 the Depth Lords.svg
+- [Portrait NPC the Depth Lords V2 the Depth Lords.svg]]
+- [[Portrait NPC the Depth Wardens V1 the Depth Wardens.svg_1 (Portraits)
+- [Portrait NPC the Depth Wardens V2 the Depth Wardens.svg_1 (Portraits)]]
+- [[Portrait NPC the Depth Wardens the Depth Wardens.svg_1 (Portraits)
+- [Portrait NPC the Emerald Sage Willowbark V1 the Emerald Sage Willowbark.svg]]
+- [[Portrait NPC the Emerald Sage Willowbark V2 the Emerald Sage Willowbark.svg
+- [Portrait NPC the Emerald Sage Willowbark the Emerald Sage Willowbark.svg]]
+- [[Portrait NPC the Emperor S Memories V1 the Emperor S Memories.svg_1 (Portraits)
+- [Portrait NPC the Emperor S Memories V2 the Emperor S Memories.svg_1 (Portraits)]]
+- [[Portrait NPC the Emperor S Memories the Emperor S Memories.svg_1 (Portraits)
+- [Portrait NPC the First Queen S Shade V1 the First Queen S Shade.svg_1 (Portraits)]]
+- [[Portrait NPC the First Queen S Shade V2 the First Queen S Shade.svg_1 (Portraits)
+- [Portrait NPC the First Queen S Shade the First Queen S Shade.svg_1 (Portraits)]]
+- [[Portrait NPC the Free Current Movement V1 the Free Current Movement.svg_1 (Portraits)
+- [Portrait NPC the Free Current Movement V2 the Free Current Movement.svg_1 (Portraits)]]
+- [[Portrait NPC the Free Current Movement the Free Current Movement.svg_1 (Portraits)
+- [Portrait NPC the Golden Fishook Tavern V1 the Golden Fishook Tavern.svg_1 (Portraits)]]
+- [[Portrait NPC the Golden Fishook Tavern V2 the Golden Fishook Tavern.svg_1 (Portraits)
+- [Portrait NPC the Golden Fishook Tavern the Golden Fishook Tavern.svg_1 (Portraits)]]
+- [[Portrait NPC the Great Trade Routes V1 the Great Trade Routes.svg_1 (Portraits)
+- [Portrait NPC the Great Trade Routes V2 the Great Trade Routes.svg_1 (Portraits)]]
+- [[Portrait NPC the Great Trade Routes the Great Trade Routes.svg_1 (Portraits)
+- [Portrait NPC the Harmony Collective V1 the Harmony Collective.svg_1 (Portraits)]]
+- [[Portrait NPC the Harmony Collective V2 the Harmony Collective.svg_1 (Portraits)
+- [Portrait NPC the Harmony Collective the Harmony Collective.svg_1 (Portraits)]]
+- [[Portrait NPC the Heart of Oceanus V1 the Heart of Oceanus.svg_1 (Portraits)
+- [Portrait NPC the Heart of Oceanus V2 the Heart of Oceanus.svg_1 (Portraits)]]
+- [[Portrait NPC the Heart of Oceanus the Heart of Oceanus.svg_1 (Portraits)
+- [Portrait NPC the King S Ears V1 the King S Ears.svg_1 (Portraits)]]
+- [[Portrait NPC the King S Ears V2 the King S Ears.svg_1 (Portraits)
+- [Portrait NPC the Lady S Garden Society V1 the Lady S Garden Society.svg]]
+- [[Portrait NPC the Lady S Garden Society V2 the Lady S Garden Society.svg
+- [Portrait NPC the Lady S Garden Society the Lady S Garden Society.svg]]
+- [[Portrait NPC the Leviathan Prophets V1 the Leviathan Prophets.svg_1 (Portraits)
+- [Portrait NPC the Leviathan Prophets V2 the Leviathan Prophets.svg_1 (Portraits)]]
+- [[Portrait NPC the Leviathan Prophets the Leviathan Prophets.svg_1 (Portraits)
+- [Portrait NPC the Nameless Auditor V1 the Nameless Auditor.svg_1 (Portraits)]]
+- [[Portrait NPC the Nameless Auditor V2 the Nameless Auditor.svg_1 (Portraits)
+- [Portrait NPC the Nameless Auditor the Nameless Auditor.svg_1 (Portraits)]]
+- [[Portrait NPC the Northern Kingdoms V1 the Northern Kingdoms.svg_1 (Portraits)
+- [Portrait NPC the Northern Kingdoms V2 the Northern Kingdoms.svg_1 (Portraits)]]
+- [[Portrait NPC the Northern Kingdoms the Northern Kingdoms.svg_1 (Portraits)
+- [Portrait NPC the Parasite Priests V1 the Parasite Priests.svg_1 (Portraits)]]
+- [[Portrait NPC the Parasite Priests V2 the Parasite Priests.svg_1 (Portraits)
+- [Portrait NPC the Parasite Priests the Parasite Priests.svg_1 (Portraits)]]
+- [[Portrait NPC the Pearl Guard V1 the Pearl Guard.svg_1 (Portraits)
+- [Portrait NPC the Pearl Guard V2 the Pearl Guard.svg_1 (Portraits)]]
+- [[Portrait NPC the Pearl Heist V1 the Pearl Heist.svg_1 (Portraits)
+- [Portrait NPC the Pearl Heist V2 the Pearl Heist.svg_1 (Portraits)]]
+- [[Portrait NPC the Pressure King V1 the Pressure King.svg_1 (Portraits)
+- [Portrait NPC the Pressure King V2 the Pressure King.svg_1 (Portraits)]]
+- [[Portrait NPC the Pressure King the Pressure King.svg_1 (Portraits)
+- [Portrait NPC the Pressure Pirates V1 the Pressure Pirates.svg_1 (Portraits)]]
+- [[Portrait NPC the Pressure Pirates V2 the Pressure Pirates.svg_1 (Portraits)
+- [Portrait NPC the Pressure Pirates the Pressure Pirates.svg_1 (Portraits)]]
+- [[Portrait NPC the Reality Sick Mayor Lord Quantum Aldrich V1 the Reality Sick Mayor Lord Quantum Aldrich.svg
+- [Portrait NPC the Reality Sick Mayor Lord Quantum Aldrich V2 the Reality Sick Mayor Lord Quantum Aldrich.svg]]
+- [[Portrait NPC the Reality Sick Mayor Lord Quantum Aldrich the Reality Sick Mayor Lord Quantum Aldrich.svg
+- [Portrait NPC the Resonance Prophet V1 the Resonance Prophet.svg_1 (Portraits)]]
+- [[Portrait NPC the Resonance Prophet V2 the Resonance Prophet.svg_1 (Portraits)
+- [Portrait NPC the Resonance Prophet the Resonance Prophet.svg_1 (Portraits)]]
+- [[Portrait NPC the Royal Treasury Depths V1 the Royal Treasury Depths.svg_1 (Portraits)
+- [Portrait NPC the Royal Treasury Depths V2 the Royal Treasury Depths.svg_1 (Portraits)]]
+- [[Portrait NPC the Royal Treasury Depths the Royal Treasury Depths.svg_1 (Portraits)
+- [Portrait NPC the Scattered Emperor V1 the Scattered Emperor.svg_1 (Portraits)]]
+- [[Portrait NPC the Scattered Emperor V2 the Scattered Emperor.svg_1 (Portraits)
+- [Portrait NPC the Scattered Emperor the Scattered Emperor.svg_1 (Portraits)]]
+- [[Portrait NPC the Seven Seals V1 the Seven Seals.svg_1 (Portraits)
+- [Portrait NPC the Seven Seals V2 the Seven Seals.svg_1 (Portraits)]]
+- [[Portrait NPC the Shadow Singer Naia V1 the Shadow Singer Naia.svg_1 (Portraits)
+- [Portrait NPC the Shadow Singer Naia V2 the Shadow Singer Naia.svg_1 (Portraits)]]
+- [[Portrait NPC the Shadow Singer Naia the Shadow Singer Naia.svg_1 (Portraits)
+- [Portrait NPC the Shadow Surgeons V1 the Shadow Surgeons.svg_1 (Portraits)]]
+- [[Portrait NPC the Shadow Surgeons V2 the Shadow Surgeons.svg_1 (Portraits)
+- [Portrait NPC the Shadow Surgeons the Shadow Surgeons.svg_1 (Portraits)]]
+- [[Portrait NPC the Shadow Warren V1 the Shadow Warren.svg_1 (Portraits)
+- [Portrait NPC the Shadow Warren V2 the Shadow Warren.svg_1 (Portraits)]]
+- [[Portrait NPC the Shadow Warren the Shadow Warren.svg_1 (Portraits)
+- [Portrait NPC the Silhouette Surgeon Prime V1 the Silhouette Surgeon Prime.svg_1 (Portraits)]]
+- [[Portrait NPC the Silhouette Surgeon Prime V2 the Silhouette Surgeon Prime.svg_1 (Portraits)
+- [Portrait NPC the Silhouette Surgeon Prime the Silhouette Surgeon Prime.svg_1 (Portraits)]]
+- [[Portrait NPC the Siren S Mask V1 the Siren S Mask.svg_1 (Portraits)
+- [Portrait NPC the Siren S Mask V2 the Siren S Mask.svg_1 (Portraits)]]
+- [[Portrait NPC the Smuggler S Den V1 the Smuggler S Den.svg_1 (Portraits)
+- [Portrait NPC the Smuggler S Den V2 the Smuggler S Den.svg_1 (Portraits)]]
+- [[Portrait NPC the Smuggler S Den the Smuggler S Den.svg_1 (Portraits)
+- [Portrait NPC the Soul Market V1 the Soul Market.svg_1 (Portraits)]]
+- [[Portrait NPC the Soul Market V2 the Soul Market.svg_1 (Portraits)
+- [Portrait NPC the Speaking Stones V1 the Speaking Stones.svg_1 (Portraits)]]
+- [[Portrait NPC the Speaking Stones V2 the Speaking Stones.svg_1 (Portraits)
+- [Portrait NPC the Speaking Stones the Speaking Stones.svg_1 (Portraits)]]
+- [[Portrait NPC the Throne Chamber of Eternal Bubbles V1 the Throne Chamber of Eternal Bubbles.svg_1 (Portraits)
+- [Portrait NPC the Throne Chamber of Eternal Bubbles V2 the Throne Chamber of Eternal Bubbles.svg_1 (Portraits)]]
+- [[Portrait NPC the Throne Chamber of Eternal Bubbles the Throne Chamber of Eternal Bubbles.svg_1 (Portraits)
+- [Portrait NPC the Throne Pretenders V1 the Throne Pretenders.svg_1 (Portraits)]]
+- [[Portrait NPC the Throne Pretenders V2 the Throne Pretenders.svg_1 (Portraits)
+- [Portrait NPC the Throne Pretenders the Throne Pretenders.svg_1 (Portraits)]]
+- [[Portrait NPC the Tidal Council V1 the Tidal Council.svg
+- [Portrait NPC the Tidal Council V2 the Tidal Council.svg]]
+- [[Portrait NPC the Tidal Council the Tidal Council.svg
+- [Portrait NPC the Verdant Accord V1 the Verdant Accord.svg_1 (Portraits)]]
+- [[Portrait NPC the Verdant Accord V2 the Verdant Accord.svg_1 (Portraits)
+- [Portrait NPC the Verdant Accord the Verdant Accord.svg_1 (Portraits)]]
+- [[Portrait NPC the Void Watchers Shrines V1 the Void Watchers Shrines.svg_1 (Portraits)
+- [Portrait NPC the Void Watchers Shrines V2 the Void Watchers Shrines.svg_1 (Portraits)]]
+- [[Portrait NPC the Void Watchers Shrines the Void Watchers Shrines.svg_1 (Portraits)
+- [Portrait NPC the Waking Prophets V1 the Waking Prophets.svg_1 (Portraits)]]
+- [[Portrait NPC the Waking Prophets V2 the Waking Prophets.svg_1 (Portraits)
+- [Portrait NPC the Waking Prophets the Waking Prophets.svg_1 (Portraits)]]
+- [[portrait-npc-aether-crystal-aether-crystal.svg_1 (Portraits)
+- [portrait-npc-aether-crystal-v1-aether-crystal.svg_1 (Portraits)]]
+- [[portrait-npc-aether-crystal-v2-aether-crystal.svg_1 (Portraits)
+- [portrait-npc-aria-lumengarde-aria-lumengarde.svg_1 (Portraits)]]
+- [[portrait-npc-assassin-assassin.svg_1 (Portraits)
+- [portrait-npc-assassin-v1-assassin.svg_1 (Portraits)]]
+- [[portrait-npc-assassin-v2-assassin.svg_1 (Portraits)
+- [portrait-npc-azure-shard-azure-shard.svg_1 (Portraits)]]
+- [[portrait-npc-azure-shard-v1-azure-shard.svg_1 (Portraits)
+- [portrait-npc-azure-shard-v2-azure-shard.svg_1 (Portraits)]]
+- [[portrait-npc-captain-between-captain-between.svg
+- [portrait-npc-captain-redbeard-captain-redbeard.svg]]
+- [[portrait-npc-captain-rescue-captain-rescue.svg
+- [portrait-npc-captain-rescue-v1-captain-rescue.svg]]
+- [[portrait-npc-captain-rescue-v2-captain-rescue.svg
+- [portrait-npc-captain-valeria-captain-valeria.svg]]
+- [[portrait-npc-crystal-wardens-crystal-wardens.svg_1 (Portraits)
+- [portrait-npc-deep-anarchists-deep-anarchists.svg_1 (Portraits)]]
+- [[portrait-npc-deep-lords-deep-lords.svg
+- [portrait-npc-deep-lords-v1-deep-lords.svg]]
+- [[portrait-npc-deep-lords-v2-deep-lords.svg
+- [portrait-npc-duke-gale-vortex-duke-gale-vortex.svg_1 (Portraits)]]
+- [[portrait-npc-duke-hadal-duke-hadal.svg_1 (Portraits)
+- [portrait-npc-duke-hadal-v1-duke-hadal.svg_1 (Portraits)]]
+- [[portrait-npc-duke-hadal-v2-duke-hadal.svg_1 (Portraits)
+- [portrait-npc-emperor-emperor.svg_1 (Portraits)]]
+- [[portrait-npc-emperor-v1-emperor.svg_1 (Portraits)
+- [portrait-npc-emperor-v2-emperor.svg_1 (Portraits)]]
+- [[portrait-npc-gareth-ironforge-gareth-ironforge.svg_1 (Portraits)
+- [portrait-npc-knight-knight.svg_1 (Portraits)]]
+- [[portrait-npc-knight-v1-knight.svg_1 (Portraits)
+- [portrait-npc-knight-v2-knight.svg_1 (Portraits)]]
+- [[portrait-npc-lady-shadowmere-lady-shadowmere.svg
+- [portrait-npc-lord-aurelius-lord-aurelius.svg]]
+- [[portrait-npc-lord-aurelius-v1-lord-aurelius.svg
+- [portrait-npc-lord-aurelius-v2-lord-aurelius.svg]]
+- [[portrait-npc-lord-bathysmal-lord-bathysmal.svg
+- [portrait-npc-lord-bathysmal-v1-lord-bathysmal.svg]]
+- [[portrait-npc-lord-bathysmal-v2-lord-bathysmal.svg
+- [portrait-npc-lord-blackwater-lord-blackwater.svg]]
+- [[portrait-npc-mayor-s-manor-mayor-s-manor.svg_1 (Portraits)
+- [portrait-npc-mayor-s-manor-v1-mayor-s-manor.svg_1 (Portraits)]]
+- [[portrait-npc-mayor-s-manor-v2-mayor-s-manor.svg_1 (Portraits)
+- [portrait-npc-mayor-thompson-mayor-thompson.svg_1 (Portraits)]]
+- [[portrait-npc-mayor-thompson-v1-mayor-thompson.svg_1 (Portraits)
+- [portrait-npc-mayor-thompson-v2-mayor-thompson.svg_1 (Portraits)]]
+- [[portrait-npc-memory-commerce-memory-commerce.svg_1 (Portraits)
+- [portrait-npc-memory-merchants-memory-merchants.svg_1 (Portraits)]]
+- [[portrait-npc-neutral-zone-neutral-zone.svg_1 (Portraits)
+- [portrait-npc-neutral-zone-v1-neutral-zone.svg_1 (Portraits)]]
+- [[portrait-npc-neutral-zone-v2-neutral-zone.svg_1 (Portraits)
+- [portrait-npc-oracle-oracle.svg_1 (Portraits)]]
+- [[portrait-npc-oracle-v1-oracle.svg_1 (Portraits)
+- [portrait-npc-oracle-v2-oracle.svg_1 (Portraits)]]
+- [[portrait-npc-original-glaucus-original-glaucus.svg_1 (Portraits)
+- [portrait-npc-pressure-lords-pressure-lords.svg]]
+- [[portrait-npc-pressure-lords-v1-pressure-lords.svg
+- [portrait-npc-pressure-lords-v2-pressure-lords.svg]]
+- [[portrait-npc-queen-glacialis-queen-glacialis.svg_1 (Portraits)
+- [portrait-npc-queen-nerida-queen-nerida.svg_1 (Portraits)]]
+- [[portrait-npc-queen-nerida-v1-queen-nerida.svg_1 (Portraits)
+- [portrait-npc-queen-nerida-v2-queen-nerida.svg_1 (Portraits)]]
+- [[portrait-npc-reflection-pools-reflection-pools.svg_1 (Portraits)
+- [portrait-npc-refugee-camps-refugee-camps.svg_1 (Portraits)]]
+- [[portrait-npc-refugee-camps-v1-refugee-camps.svg_1 (Portraits)
+- [portrait-npc-refugee-camps-v2-refugee-camps.svg_1 (Portraits)]]
+- [[portrait-npc-senator-glaucus-senator-glaucus.svg_1 (Portraits)
+- [portrait-npc-senator-marius-senator-marius.svg_1 (Portraits)]]
+- [[portrait-npc-senator-marius-v1-senator-marius.svg_1 (Portraits)
+- [portrait-npc-senator-marius-v2-senator-marius.svg_1 (Portraits)]]
+- [[portrait-npc-senator-senator.svg_1 (Portraits)
+- [portrait-npc-senator-v1-senator.svg_1 (Portraits)]]
+- [[portrait-npc-senator-v2-senator.svg_1 (Portraits)
+- [portrait-npc-session-4-session-4.svg_1 (Portraits)]]
+- [[portrait-npc-session-4-v1-session-4.svg_1 (Portraits)
+- [portrait-npc-session-4-v2-session-4.svg_1 (Portraits)]]
+- [[portrait-npc-seventh-shard-seventh-shard.svg_1 (Portraits)
+- [portrait-npc-seventh-shard-v1-seventh-shard.svg_1 (Portraits)]]
+- [[portrait-npc-seventh-shard-v2-seventh-shard.svg_1 (Portraits)
+- [portrait-npc-shadow-brokers-shadow-brokers.svg_1 (Portraits)]]
+- [[portrait-npc-shadow-brokers-v1-shadow-brokers.svg_1 (Portraits)
+- [portrait-npc-shadow-brokers-v2-shadow-brokers.svg_1 (Portraits)]]
+- [[portrait-npc-shadow-embassy-shadow-embassy.svg_1 (Portraits)
+- [portrait-npc-shadow-embassy-v1-shadow-embassy.svg_1 (Portraits)]]
+- [[portrait-npc-shadow-embassy-v2-shadow-embassy.svg_1 (Portraits)
+- [portrait-npc-sire-sire.svg_1 (Portraits)]]
+- [[portrait-npc-sire-v1-sire.svg_1 (Portraits)
+- [portrait-npc-sire-v2-sire.svg_1 (Portraits)]]
+- [[portrait-npc-siren-siren.svg_1 (Portraits)
+- [portrait-npc-siren-v1-siren.svg_1 (Portraits)]]
+- [[portrait-npc-siren-v2-siren.svg_1 (Portraits)
+- [portrait-npc-sirens-sirens.svg_1 (Portraits)]]
+- [[portrait-npc-sirens-v1-sirens.svg_1 (Portraits)
+- [portrait-npc-sirens-v2-sirens.svg_1 (Portraits)]]
+- [[portrait-npc-syndicate-war-syndicate-war.svg
+- [portrait-npc-syndicate-war-v1-syndicate-war.svg]]
+- [[portrait-npc-syndicate-war-v2-syndicate-war.svg
+- [portrait-npc-tenebrarum-tenebrarum.svg_1 (Portraits)]]
+- [[portrait-npc-tenebrarum-v1-tenebrarum.svg_1 (Portraits)
+- [portrait-npc-tenebrarum-v2-tenebrarum.svg_1 (Portraits)]]
+- [[portrait-npc-the-barnacle-the-barnacle.svg_1 (Portraits)
+- [portrait-npc-the-barnacle-v1-the-barnacle.svg_1 (Portraits)]]
+- [[portrait-npc-the-barnacle-v2-the-barnacle.svg_1 (Portraits)
+- [portrait-npc-the-biomancers-the-biomancers.svg_1 (Portraits)]]
+- [[portrait-npc-the-biomancers-v1-the-biomancers.svg_1 (Portraits)
+- [portrait-npc-the-biomancers-v2-the-biomancers.svg_1 (Portraits)]]
+- [[portrait-npc-the-crimson-sage-the-crimson-sage.svg
+- [portrait-npc-the-cure-the-cure.svg_1 (Portraits)]]
+- [[portrait-npc-the-cure-v1-the-cure.svg_1 (Portraits)
+- [portrait-npc-the-cure-v2-the-cure.svg_1 (Portraits)]]
+- [[portrait-npc-the-depth-lords-the-depth-lords.svg
+- [portrait-npc-the-emergence-the-emergence.svg_1 (Portraits)]]
+- [[portrait-npc-the-emergence-v1-the-emergence.svg_1 (Portraits)
+- [portrait-npc-the-emergence-v2-the-emergence.svg_1 (Portraits)]]
+- [[portrait-npc-the-emperor-the-emperor.svg_1 (Portraits)
+- [portrait-npc-the-emperor-v1-the-emperor.svg_1 (Portraits)]]
+- [[portrait-npc-the-emperor-v2-the-emperor.svg_1 (Portraits)
+- [portrait-npc-the-king-s-ears-the-king-s-ears.svg_1 (Portraits)]]
+- [[portrait-npc-the-party-the-party.svg_1 (Portraits)
+- [portrait-npc-the-party-v1-the-party.svg_1 (Portraits)]]
+- [[portrait-npc-the-party-v2-the-party.svg_1 (Portraits)
+- [portrait-npc-the-pearl-guard-the-pearl-guard.svg_1 (Portraits)]]
+- [[portrait-npc-the-pearl-heist-the-pearl-heist.svg_1 (Portraits)
+- [portrait-npc-the-schooling-the-schooling.svg_1 (Portraits)]]
+- [[portrait-npc-the-schooling-v1-the-schooling.svg_1 (Portraits)
+- [portrait-npc-the-schooling-v2-the-schooling.svg_1 (Portraits)]]
+- [[portrait-npc-the-senator-the-senator.svg_1 (Portraits)
+- [portrait-npc-the-senator-v1-the-senator.svg_1 (Portraits)]]
+- [[portrait-npc-the-senator-v2-the-senator.svg_1 (Portraits)
+- [portrait-npc-the-seven-seals-the-seven-seals.svg_1 (Portraits)]]
+- [[portrait-npc-the-siren-s-mask-the-siren-s-mask.svg_1 (Portraits)
+- [portrait-npc-the-siren-the-siren.svg_1 (Portraits)]]
+- [[portrait-npc-the-siren-v1-the-siren.svg_1 (Portraits)
+- [portrait-npc-the-siren-v2-the-siren.svg_1 (Portraits)]]
+- [[portrait-npc-the-soul-market-the-soul-market.svg_1 (Portraits)
+- [portrait-npc-the-tidecaller-the-tidecaller.svg_1 (Portraits)]]
+- [[portrait-npc-the-tidecaller-v1-the-tidecaller.svg_1 (Portraits)
+- [portrait-npc-the-tidecaller-v2-the-tidecaller.svg_1 (Portraits)]]
+- [[portrait-npc-the-wake-the-wake.svg_1 (Portraits)
+- [portrait-npc-the-wake-v1-the-wake.svg_1 (Portraits)]]
+- [[portrait-npc-the-wake-v2-the-wake.svg_1 (Portraits)
+- [portrait-npc-verdant-shard-v1-verdant-shard.svg_1 (Portraits)]]
+- [[portrait-npc-verdant-shard-v2-verdant-shard.svg_1 (Portraits)
+- [portrait-npc-verdant-shard-verdant-shard.svg_1 (Portraits)]]
+- [[portrait-npc-vex-shadowthorn-vex-shadowthorn.svg_1 (Portraits)
+- [npcs_1 (Assets)]]
+- [[Session 4.png
+- [Depth_Adapted_Background]]
+- [[Depth_Adapted_Background.md
+- [Merchant NPC Generator]]
+- [[Portrait_Prompts - NPCs (D&D_References)
+- [Generate Campaign NPCs (Text Generator Templates)]]

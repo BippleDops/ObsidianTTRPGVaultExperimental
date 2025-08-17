@@ -1,0 +1,123 @@
+formulas:
+  AttuneIcon: |
+    js:
+    return target.attunement ? '🪄 Attunement' : '';
+  RarityTag: |
+    js:
+    const r = (target.rarity || 'common').toLowerCase();
+    const colors = { common:'#9ca3af', uncommon:'#22c55e', rare:'#3b82f6', very_rare:'#a855f7', legendary:'#f59e0b', artifact:'#ef4444' };
+    const label = r.replace('_',' ');
+    return `<span style="color:${colors[r]||'#9ca3af'};font-weight:600;">${label}</span>`;
+  OwnerLink: |
+    js:
+    if (!target.owner) return '';
+    return Array.isArray(target.owner) ? target.owner.map(o=>`[[${o}]]`).join(', ') : `[[${target.owner}]]`;
+views:
+  - type: table
+    name: All Items (Safe)
+    filters:
+      tags contains "Item"
+    columns:
+      - file.name
+      - rarity
+      - type
+      - owner
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 240
+      rarity: 120
+      type: 140
+      owner: 180
+  - type: table
+    name: Item Overview
+    filters:
+      tags contains "Item"
+    columns:
+      - file.name
+      - rarity
+      - type
+      - attunement
+      - owner
+      - source
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 240
+      formula.RarityTag: 120
+      type: 140
+      formula.AttuneIcon: 120
+      formula.OwnerLink: 180
+      source: 120
+  - type: cards
+    name: Magic Items
+    filters:
+      and:
+        - tags contains "Item"
+        - magic.equals(true)
+    columns: 4
+    limit: 100
+    properties:
+      - image
+      - file.name
+      - rarity
+      - attunement
+      - owner
+      - type
+  - type: table
+    name: Party Inventory
+    filters:
+      and:
+        - tags contains "Item"
+        - owner
+    columns:
+      - owner
+      - file.name
+      - rarity
+      - type
+    sort:
+      - property: owner
+        direction: ASC
+    columnSize:
+      formula.OwnerLink: 200
+      file.name: 260
+      formula.RarityTag: 120
+      type: 140
+  - type: table
+    name: Shop Inventory
+    filters:
+      and:
+        - tags contains "Item"
+        - shop
+    columns:
+      - shop
+      - price_gp
+      - file.name
+      - attunement
+    sort:
+      - property: price_gp
+        direction: ASC
+    columnSize:
+      shop: 160
+      price_gp: 100
+      file.name: 260
+  - type: table
+    name: All (Debug)
+
+    columns:
+      - file.name
+      - rarity
+      - type
+      - owner
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      rarity: 120
+      type: 140
+      owner: 180
+      tags: 200

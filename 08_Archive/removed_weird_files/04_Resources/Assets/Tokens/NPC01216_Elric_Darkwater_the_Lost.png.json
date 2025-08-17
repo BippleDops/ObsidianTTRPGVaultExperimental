@@ -1,0 +1,19 @@
+{
+  "name": "NPC01216_Elric_Darkwater_the_Lost",
+  "type": "token",
+  "generated": "2025-08-15T18:15:34.482Z",
+  "prompt": "character token for NPC01216_Elric_Darkwater_the_Lost, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "dark",
+    "gritty",
+    "horror",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC01216_Elric_Darkwater_the_Lost.png.json",
+  "reorganized": "2025-08-15T18:33:11.542Z"
+}

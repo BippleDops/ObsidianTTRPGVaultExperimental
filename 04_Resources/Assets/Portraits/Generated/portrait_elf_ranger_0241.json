@@ -1,0 +1,16 @@
+{
+  "name": "Elf Ranger 241",
+  "type": "portrait",
+  "race": "elf",
+  "class": "ranger",
+  "gender": "male",
+  "age": "elder",
+  "tags": [
+    "portrait",
+    "character",
+    "elf",
+    "ranger",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.666Z"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Region Map 96",
+  "type": "map",
+  "mapType": "region",
+  "gridSize": null,
+  "scale": "1:1000000",
+  "tags": [
+    "map",
+    "region",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 98.15194740123374,
+      "y": 21.563059517175688,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 2",
+      "x": 72.08470388286351,
+      "y": 5.714881653947712,
+      "type": "city"
+    },
+    {
+      "name": "Location 3",
+      "x": 69.27365878382106,
+      "y": 31.062888349097626,
+      "type": "town"
+    },
+    {
+      "name": "Location 4",
+      "x": 38.208648913214496,
+      "y": 30.046758283840948,
+      "type": "town"
+    },
+    {
+      "name": "Location 5",
+      "x": 99.87527586127213,
+      "y": 22.927809873150974,
+      "type": "town"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.599Z"
+}

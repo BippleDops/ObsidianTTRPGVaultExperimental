@@ -1,0 +1,18 @@
+{
+  "openai": {
+    "status": "success",
+    "message": "✅ Connected! Found 88 models"
+  },
+  "stability": {
+    "status": "success",
+    "message": "✅ Connected! Credits: Unknown"
+  },
+  "unsplash": {
+    "status": "error",
+    "message": "❌ Error: Unauthorized"
+  },
+  "spotify": {
+    "status": "info",
+    "message": "⚠️ Auth required (expected). Client ID configured: 831f4fb0abb04d718f93918f31df8d7a"
+  }
+}

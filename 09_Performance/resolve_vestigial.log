@@ -1,0 +1,1073 @@
+Duplicate -> Canonical mapping:
+ - 09_Performance/Reports/Character Consistency Report 2.md => 09_Performance/Reports/Character Consistency Report.md
+ - 09_Performance/Indexes/Complete NPC Matrix 2.md => 09_Performance/Indexes/Complete NPC Matrix.md
+ - 09_Performance/Indexes/Location Network Graph 2.md => 09_Performance/Indexes/Location Network Graph.md
+ - 09_Performance/Indexes/Item Catalog Complete 2.md => 09_Performance/Indexes/Item Catalog Complete.md
+ - 09_Performance/Indexes/Quest Dependency System 2.md => 09_Performance/Indexes/Quest Dependency System.md
+ - 09_Performance/Indexes/Seven Shards Tracker 2.md => 09_Performance/Indexes/Seven Shards Tracker.md
+ - 09_Performance/Indexes/Monster Ecology Web 2.md => 09_Performance/Indexes/Monster Ecology Web.md
+ - 09_Performance/Indexes/Master Narrative Web 2.md => 09_Performance/Indexes/Master Narrative Web.md
+ - .obsidian/snippets/supercharged-links-gen 2.css => .obsidian/snippets/supercharged-links-gen.css
+ - .claude/settings.local 2.json => .claude/settings.local.json
+ - vault_backup_20250813_073007/09_Performance/Reports/Character Consistency Report 2.md => vault_backup_20250813_073007/09_Performance/Reports/Character Consistency Report.md
+ - vault_backup_20250813_073007/09_Performance/Indexes/Complete NPC Matrix 2.md => vault_backup_20250813_073007/09_Performance/Indexes/Complete NPC Matrix.md
+ - vault_backup_20250813_073007/09_Performance/Indexes/Location Network Graph 2.md => vault_backup_20250813_073007/09_Performance/Indexes/Location Network Graph.md
+ - vault_backup_20250813_073007/09_Performance/Indexes/Item Catalog Complete 2.md => vault_backup_20250813_073007/09_Performance/Indexes/Item Catalog Complete.md
+ - vault_backup_20250813_073007/09_Performance/Indexes/Quest Dependency System 2.md => vault_backup_20250813_073007/09_Performance/Indexes/Quest Dependency System.md
+ - vault_backup_20250813_073007/09_Performance/Indexes/Seven Shards Tracker 2.md => vault_backup_20250813_073007/09_Performance/Indexes/Seven Shards Tracker.md
+ - vault_backup_20250813_073007/09_Performance/Indexes/Monster Ecology Web 2.md => vault_backup_20250813_073007/09_Performance/Indexes/Monster Ecology Web.md
+ - vault_backup_20250813_073007/09_Performance/Indexes/Master Narrative Web 2.md => vault_backup_20250813_073007/09_Performance/Indexes/Master Narrative Web.md
+ - vault_backup_20250813_073007/.obsidian/snippets/supercharged-links-gen 2.css => vault_backup_20250813_073007/.obsidian/snippets/supercharged-links-gen.css
+ - vault_backup_20250813_073007/.claude/settings.local 2.json => vault_backup_20250813_073007/.claude/settings.local.json
+ - 04_Resources/Assets/Locations/location-city-medical-research-facilities-medical-research-facilities 2.svg => 04_Resources/Assets/Locations/location-city-medical-research-facilities-medical-research-facilities.svg
+ - 04_Resources/Assets/Locations/location-city-scholarly-theologians-v1-scholarly-theologians 2.svg => 04_Resources/Assets/Locations/location-city-scholarly-theologians-v1-scholarly-theologians.svg
+ - 04_Resources/Assets/Locations/location-city-keeper-thundercall-v1-keeper-thundercall 2.svg => 04_Resources/Assets/Locations/location-city-keeper-thundercall-v1-keeper-thundercall.svg
+ - 04_Resources/Assets/Locations/location-city-teacher-miranda-hopekeeper-v1-teacher-miranda-hopekeeper 2.svg => 04_Resources/Assets/Locations/location-city-teacher-miranda-hopekeeper-v1-teacher-miranda-hopekeeper.svg
+ - 04_Resources/Assets/Locations/location-city-master-curator-pearl-artflow-master-curator-pearl-artflow 2.svg => 04_Resources/Assets/Locations/location-city-master-curator-pearl-artflow-master-curator-pearl-artflow.svg
+ - 04_Resources/Assets/Locations/location-city-surface-traders-v1-surface-traders 2.svg => 04_Resources/Assets/Locations/location-city-surface-traders-v1-surface-traders.svg
+ - 04_Resources/Assets/Locations/location-city-observation-tender-clara-v1-observation-tender-clara 2.svg => 04_Resources/Assets/Locations/location-city-observation-tender-clara-v1-observation-tender-clara.svg
+ - 04_Resources/Assets/Locations/location-city-pressure-tube-system-pressure-tube-system 2.svg => 04_Resources/Assets/Locations/location-city-pressure-tube-system-pressure-tube-system.svg
+ - 04_Resources/Assets/Locations/location-city-truth-and-madness-truth-and-madness 2.svg => 04_Resources/Assets/Locations/location-city-truth-and-madness-truth-and-madness.svg
+ - 04_Resources/Assets/Locations/location-city-court-herald-master-proclamation-crownvoice-court-herald-master-proclamation-crownvoice 2.svg => 04_Resources/Assets/Locations/location-city-court-herald-master-proclamation-crownvoice-court-herald-master-proclamation-crownvoice.svg
+ - 04_Resources/Assets/Locations/location-city-the-plague-ward-the-plague-ward 2.svg => 04_Resources/Assets/Locations/location-city-the-plague-ward-the-plague-ward.svg
+ - 04_Resources/Assets/Locations/location-city-port-crystalfall-v1-port-crystalfall 2.svg => 04_Resources/Assets/Locations/location-city-port-crystalfall-v1-port-crystalfall.svg
+ - 04_Resources/Assets/Locations/location-city-dr-marina-voidstudier-v1-dr-marina-voidstudier 2.svg => 04_Resources/Assets/Locations/location-city-dr-marina-voidstudier-v1-dr-marina-voidstudier.svg
+ - 04_Resources/Assets/Locations/location-city-pressure-tube-system-v1-pressure-tube-system 2.svg => 04_Resources/Assets/Locations/location-city-pressure-tube-system-v1-pressure-tube-system.svg
+ - 04_Resources/Assets/Locations/location-city-master-curator-pearl-artflow-v1-master-curator-pearl-artflow 2.svg => 04_Resources/Assets/Locations/location-city-master-curator-pearl-artflow-v1-master-curator-pearl-artflow.svg
+ - 04_Resources/Assets/Locations/location-city-the-siren-s-rest-tavern-v1-the-siren-s-rest-tavern 2.svg => 04_Resources/Assets/Locations/location-city-the-siren-s-rest-tavern-v1-the-siren-s-rest-tavern.svg
+ - 04_Resources/Assets/Locations/location-city-memory-sharing-techniques-v1-memory-sharing-techniques 2.svg => 04_Resources/Assets/Locations/location-city-memory-sharing-techniques-v1-memory-sharing-techniques.svg
+ - 04_Resources/Assets/Locations/location-city-the-infinite-garden-the-infinite-garden 2.svg => 04_Resources/Assets/Locations/location-city-the-infinite-garden-the-infinite-garden.svg
+ - 04_Resources/Assets/Locations/location-city-temple-of-shadows-v1-temple-of-shadows 2.svg => 04_Resources/Assets/Locations/location-city-temple-of-shadows-v1-temple-of-shadows.svg
+ - 04_Resources/Assets/Locations/location-city-marina-stormwright-marina-stormwright 2.svg => 04_Resources/Assets/Locations/location-city-marina-stormwright-marina-stormwright.svg
+ - 04_Resources/Assets/Locations/location-city-the-whispering-caverns-v1-the-whispering-caverns 2.svg => 04_Resources/Assets/Locations/location-city-the-whispering-caverns-v1-the-whispering-caverns.svg
+ - 04_Resources/Assets/Locations/location-city-surface-traders-surface-traders 2.svg => 04_Resources/Assets/Locations/location-city-surface-traders-surface-traders.svg
+ - 04_Resources/Assets/Locations/location-city-sunlight-crystal-v1-sunlight-crystal 2.svg => 04_Resources/Assets/Locations/location-city-sunlight-crystal-v1-sunlight-crystal.svg
+ - 04_Resources/Assets/Locations/location-city-memorial-district-of-abyssos-prime-memorial-district-of-abyssos-prime 2.svg => 04_Resources/Assets/Locations/location-city-memorial-district-of-abyssos-prime-memorial-district-of-abyssos-prime.svg
+ - 04_Resources/Assets/Locations/location-city-the-iron-pits-of-malachar-the-iron-pits-of-malachar 2.svg => 04_Resources/Assets/Locations/location-city-the-iron-pits-of-malachar-the-iron-pits-of-malachar.svg
+ - 04_Resources/Assets/Locations/location-city-seal-keepers-v1-seal-keepers 2.svg => 04_Resources/Assets/Locations/location-city-seal-keepers-v1-seal-keepers.svg
+ - 04_Resources/Assets/Locations/location-city-crystal-engineer-spark-gemwright-crystal-engineer-spark-gemwright 2.svg => 04_Resources/Assets/Locations/location-city-crystal-engineer-spark-gemwright-crystal-engineer-spark-gemwright.svg
+ - 04_Resources/Assets/Locations/location-city-depth-warden-v1-depth-warden 2.svg => 04_Resources/Assets/Locations/location-city-depth-warden-v1-depth-warden.svg
+ - 04_Resources/Assets/Locations/location-city-medical-research-facilities-v1-medical-research-facilities 2.svg => 04_Resources/Assets/Locations/location-city-medical-research-facilities-v1-medical-research-facilities.svg
+ - 04_Resources/Assets/Locations/location-city-the-whispering-caverns-the-whispering-caverns 2.svg => 04_Resources/Assets/Locations/location-city-the-whispering-caverns-the-whispering-caverns.svg
+ - 04_Resources/Assets/Locations/location-city-community-leaders-v1-community-leaders 2.svg => 04_Resources/Assets/Locations/location-city-community-leaders-v1-community-leaders.svg
+ - 04_Resources/Assets/Locations/location-city-sage-iris-crystalbloom-v1-sage-iris-crystalbloom 2.svg => 04_Resources/Assets/Locations/location-city-sage-iris-crystalbloom-v1-sage-iris-crystalbloom.svg
+ - 04_Resources/Assets/Locations/location-city-the-gilded-shard-v1-the-gilded-shard 2.svg => 04_Resources/Assets/Locations/location-city-the-gilded-shard-v1-the-gilded-shard.svg
+ - 04_Resources/Assets/Locations/location-city-progressive-policy-portfolio-v1-progressive-policy-portfolio 2.svg => 04_Resources/Assets/Locations/location-city-progressive-policy-portfolio-v1-progressive-policy-portfolio.svg
+ - 04_Resources/Assets/Locations/location-city-the-siren-s-rest-tavern-the-siren-s-rest-tavern 2.svg => 04_Resources/Assets/Locations/location-city-the-siren-s-rest-tavern-the-siren-s-rest-tavern.svg
+ - 04_Resources/Assets/Locations/location-city-enchanter-valdris-peacewarden-enchanter-valdris-peacewarden 2.svg => 04_Resources/Assets/Locations/location-city-enchanter-valdris-peacewarden-enchanter-valdris-peacewarden.svg
+ - 04_Resources/Assets/Locations/location-city-scholarly-theologians-scholarly-theologians 2.svg => 04_Resources/Assets/Locations/location-city-scholarly-theologians-scholarly-theologians.svg
+ - 04_Resources/Assets/Locations/location-city-enchanter-valdris-peacewarden-v1-enchanter-valdris-peacewarden 2.svg => 04_Resources/Assets/Locations/location-city-enchanter-valdris-peacewarden-v1-enchanter-valdris-peacewarden.svg
+ - 04_Resources/Assets/Locations/location-city-forge-master-petra-hammerdeep-v1-forge-master-petra-hammerdeep 2.svg => 04_Resources/Assets/Locations/location-city-forge-master-petra-hammerdeep-v1-forge-master-petra-hammerdeep.svg
+ - 04_Resources/Assets/Locations/location-city-adult-education-programs-adult-education-programs 2.svg => 04_Resources/Assets/Locations/location-city-adult-education-programs-adult-education-programs.svg
+ - 04_Resources/Assets/Locations/location-city-battle-priest-cassius-depthshield-battle-priest-cassius-depthshield 2.svg => 04_Resources/Assets/Locations/location-city-battle-priest-cassius-depthshield-battle-priest-cassius-depthshield.svg
+ - 04_Resources/Assets/Locations/location-city-the-plague-ward-v1-the-plague-ward 2.svg => 04_Resources/Assets/Locations/location-city-the-plague-ward-v1-the-plague-ward.svg
+ - 04_Resources/Assets/Locations/location-city-the-infinite-garden-v1-the-infinite-garden 2.svg => 04_Resources/Assets/Locations/location-city-the-infinite-garden-v1-the-infinite-garden.svg
+ - 04_Resources/Assets/Locations/location-city-port-crystalfall-port-crystalfall 2.svg => 04_Resources/Assets/Locations/location-city-port-crystalfall-port-crystalfall.svg
+ - 04_Resources/Assets/Locations/location-city-shadow-crystals-shadow-crystals 2.svg => 04_Resources/Assets/Locations/location-city-shadow-crystals-shadow-crystals.svg
+ - 04_Resources/Assets/Locations/location-city-pilgrimage-master-depth-guide-melancholy-pilgrimage-master-depth-guide-melancholy 2.svg => 04_Resources/Assets/Locations/location-city-pilgrimage-master-depth-guide-melancholy-pilgrimage-master-depth-guide-melancholy.svg
+ - 04_Resources/Assets/Locations/location-city-innkeeper-marcus-thorne-v1-innkeeper-marcus-thorne 2.svg => 04_Resources/Assets/Locations/location-city-innkeeper-marcus-thorne-v1-innkeeper-marcus-thorne.svg
+ - 04_Resources/Assets/Locations/location-city-community-leaders-community-leaders 2.svg => 04_Resources/Assets/Locations/location-city-community-leaders-community-leaders.svg
+ - 04_Resources/Assets/Locations/location-city-guardian-neutralwatch-v1-guardian-neutralwatch 2.svg => 04_Resources/Assets/Locations/location-city-guardian-neutralwatch-v1-guardian-neutralwatch.svg
+ - 04_Resources/Assets/Locations/location-city-the-gilded-shard-the-gilded-shard 2.svg => 04_Resources/Assets/Locations/location-city-the-gilded-shard-the-gilded-shard.svg
+ - 04_Resources/Assets/Locations/location-city-the-whispering-depths-v1-the-whispering-depths 2.svg => 04_Resources/Assets/Locations/location-city-the-whispering-depths-v1-the-whispering-depths.svg
+ - 04_Resources/Assets/Locations/location-city-skyship-technology-v1-skyship-technology 2.svg => 04_Resources/Assets/Locations/location-city-skyship-technology-v1-skyship-technology.svg
+ - 04_Resources/Assets/Locations/location-city-the-memory-thief-v1-the-memory-thief 2.svg => 04_Resources/Assets/Locations/location-city-the-memory-thief-v1-the-memory-thief.svg
+ - 04_Resources/Assets/Locations/location-city-memory-sharing-techniques-memory-sharing-techniques 2.svg => 04_Resources/Assets/Locations/location-city-memory-sharing-techniques-memory-sharing-techniques.svg
+ - 04_Resources/Assets/Locations/location-city-ancient-echo-truthfinder-ancient-echo-truthfinder 2.svg => 04_Resources/Assets/Locations/location-city-ancient-echo-truthfinder-ancient-echo-truthfinder.svg
+ - 04_Resources/Assets/Locations/location-city-the-memory-thief-the-memory-thief 2.svg => 04_Resources/Assets/Locations/location-city-the-memory-thief-the-memory-thief.svg
+ - 04_Resources/Assets/Locations/location-city-court-herald-master-proclamation-crownvoice-v1-court-herald-master-proclamation-crownvoice 2.svg => 04_Resources/Assets/Locations/location-city-court-herald-master-proclamation-crownvoice-v1-court-herald-master-proclamation-crownvoice.svg
+ - 04_Resources/Assets/Locations/location-city-beast-master-krell-chainbreaker-v1-beast-master-krell-chainbreaker 2.svg => 04_Resources/Assets/Locations/location-city-beast-master-krell-chainbreaker-v1-beast-master-krell-chainbreaker.svg
+ - 04_Resources/Assets/Locations/location-city-the-pressure-crown-v1-the-pressure-crown 2.svg => 04_Resources/Assets/Locations/location-city-the-pressure-crown-v1-the-pressure-crown.svg
+ - 04_Resources/Assets/Locations/location-city-abyssal-territories-v1-abyssal-territories 2.svg => 04_Resources/Assets/Locations/location-city-abyssal-territories-v1-abyssal-territories.svg
+ - 04_Resources/Assets/Locations/location-city-financial-institutions-v1-financial-institutions 2.svg => 04_Resources/Assets/Locations/location-city-financial-institutions-v1-financial-institutions.svg
+ - 04_Resources/Assets/Locations/location-city-the-trencher-folk-the-trencher-folk 2.svg => 04_Resources/Assets/Locations/location-city-the-trencher-folk-the-trencher-folk.svg
+ - 04_Resources/Assets/Locations/location-city-innkeeper-marcus-thorne-innkeeper-marcus-thorne 2.svg => 04_Resources/Assets/Locations/location-city-innkeeper-marcus-thorne-innkeeper-marcus-thorne.svg
+ - 04_Resources/Assets/Locations/location-city-ambassador-mark-exchangekeeper-ambassador-mark-exchangekeeper 2.svg => 04_Resources/Assets/Locations/location-city-ambassador-mark-exchangekeeper-ambassador-mark-exchangekeeper.svg
+ - 04_Resources/Assets/Locations/location-city-inverted-ballroom-wing-inverted-ballroom-wing 2.svg => 04_Resources/Assets/Locations/location-city-inverted-ballroom-wing-inverted-ballroom-wing.svg
+ - 04_Resources/Assets/Locations/location-city-titan-foundationbearer-titan-foundationbearer 2.svg => 04_Resources/Assets/Locations/location-city-titan-foundationbearer-titan-foundationbearer.svg
+ - 04_Resources/Assets/Locations/location-city-adult-education-programs-v1-adult-education-programs 2.svg => 04_Resources/Assets/Locations/location-city-adult-education-programs-v1-adult-education-programs.svg
+ - 04_Resources/Assets/Locations/location-city-depth-merchant-s-consortium-depth-merchant-s-consortium 2.svg => 04_Resources/Assets/Locations/location-city-depth-merchant-s-consortium-depth-merchant-s-consortium.svg
+ - 04_Resources/Assets/Locations/location-city-kelp-forests-v1-kelp-forests 2.svg => 04_Resources/Assets/Locations/location-city-kelp-forests-v1-kelp-forests.svg
+ - 04_Resources/Assets/Locations/location-city-dr-marina-voidstudier-dr-marina-voidstudier 2.svg => 04_Resources/Assets/Locations/location-city-dr-marina-voidstudier-dr-marina-voidstudier.svg
+ - 04_Resources/Assets/Locations/location-city-marina-deepcurrent-v1-marina-deepcurrent 2.svg => 04_Resources/Assets/Locations/location-city-marina-deepcurrent-v1-marina-deepcurrent.svg
+ - 04_Resources/Assets/Locations/location-city-forge-master-petra-hammerdeep-forge-master-petra-hammerdeep 2.svg => 04_Resources/Assets/Locations/location-city-forge-master-petra-hammerdeep-forge-master-petra-hammerdeep.svg
+ - 04_Resources/Assets/Locations/location-city-current-solidarity-current-solidarity 2.svg => 04_Resources/Assets/Locations/location-city-current-solidarity-current-solidarity.svg
+ - 04_Resources/Assets/Locations/location-city-council-of-currents-council-of-currents 2.svg => 04_Resources/Assets/Locations/location-city-council-of-currents-council-of-currents.svg
+ - 04_Resources/Assets/Locations/location-city-kelp-forests-kelp-forests 2.svg => 04_Resources/Assets/Locations/location-city-kelp-forests-kelp-forests.svg
+ - 04_Resources/Assets/Locations/location-city-marina-deepcurrent-marina-deepcurrent 2.svg => 04_Resources/Assets/Locations/location-city-marina-deepcurrent-marina-deepcurrent.svg
+ - 04_Resources/Assets/Locations/location-city-ambassador-mark-exchangekeeper-v1-ambassador-mark-exchangekeeper 2.svg => 04_Resources/Assets/Locations/location-city-ambassador-mark-exchangekeeper-v1-ambassador-mark-exchangekeeper.svg
+ - 04_Resources/Assets/Locations/location-city-keeper-thundercall-keeper-thundercall 2.svg => 04_Resources/Assets/Locations/location-city-keeper-thundercall-keeper-thundercall.svg
+ - 04_Resources/Assets/Locations/location-city-crystal-engineer-spark-gemwright-v1-crystal-engineer-spark-gemwright 2.svg => 04_Resources/Assets/Locations/location-city-crystal-engineer-spark-gemwright-v1-crystal-engineer-spark-gemwright.svg
+ - 04_Resources/Assets/Locations/location-city-temple-of-shadows-temple-of-shadows 2.svg => 04_Resources/Assets/Locations/location-city-temple-of-shadows-temple-of-shadows.svg
+ - 04_Resources/Assets/Locations/location-city-the-hidden-cove-of-whispers-the-hidden-cove-of-whispers 2.svg => 04_Resources/Assets/Locations/location-city-the-hidden-cove-of-whispers-the-hidden-cove-of-whispers.svg
+ - 04_Resources/Assets/Locations/location-city-observation-tender-clara-observation-tender-clara 2.svg => 04_Resources/Assets/Locations/location-city-observation-tender-clara-observation-tender-clara.svg
+ - 04_Resources/Assets/Locations/location-city-depth-merchant-s-consortium-v1-depth-merchant-s-consortium 2.svg => 04_Resources/Assets/Locations/location-city-depth-merchant-s-consortium-v1-depth-merchant-s-consortium.svg
+ - 04_Resources/Assets/Locations/location-city-the-hidden-cove-of-whispers-v1-the-hidden-cove-of-whispers 2.svg => 04_Resources/Assets/Locations/location-city-the-hidden-cove-of-whispers-v1-the-hidden-cove-of-whispers.svg
+ - 04_Resources/Assets/Locations/location-city-teacher-miranda-hopekeeper-teacher-miranda-hopekeeper 2.svg => 04_Resources/Assets/Locations/location-city-teacher-miranda-hopekeeper-teacher-miranda-hopekeeper.svg
+ - 04_Resources/Assets/Locations/location-city-legal-counsel-derek-lawkeeper-v1-legal-counsel-derek-lawkeeper 2.svg => 04_Resources/Assets/Locations/location-city-legal-counsel-derek-lawkeeper-v1-legal-counsel-derek-lawkeeper.svg
+ - 04_Resources/Assets/Locations/location-city-the-pressure-crown-the-pressure-crown 2.svg => 04_Resources/Assets/Locations/location-city-the-pressure-crown-the-pressure-crown.svg
+ - 04_Resources/Assets/Locations/location-city-marina-stormwright-v1-marina-stormwright 2.svg => 04_Resources/Assets/Locations/location-city-marina-stormwright-v1-marina-stormwright.svg
+ - 04_Resources/Assets/Locations/location-city-battle-priest-cassius-depthshield-v1-battle-priest-cassius-depthshield 2.svg => 04_Resources/Assets/Locations/location-city-battle-priest-cassius-depthshield-v1-battle-priest-cassius-depthshield.svg
+ - 04_Resources/Assets/Locations/location-city-depth-warden-depth-warden 2.svg => 04_Resources/Assets/Locations/location-city-depth-warden-depth-warden.svg
+ - 04_Resources/Assets/Locations/location-city-abyssal-territories-abyssal-territories 2.svg => 04_Resources/Assets/Locations/location-city-abyssal-territories-abyssal-territories.svg
+ - 04_Resources/Assets/Locations/location-city-angels-and-depths-angels-and-depths 2.svg => 04_Resources/Assets/Locations/location-city-angels-and-depths-angels-and-depths.svg
+ - 04_Resources/Assets/Locations/location-city-the-iron-pits-of-malachar-v1-the-iron-pits-of-malachar 2.svg => 04_Resources/Assets/Locations/location-city-the-iron-pits-of-malachar-v1-the-iron-pits-of-malachar.svg
+ - 04_Resources/Assets/Locations/location-city-inverted-ballroom-wing-v1-inverted-ballroom-wing 2.svg => 04_Resources/Assets/Locations/location-city-inverted-ballroom-wing-v1-inverted-ballroom-wing.svg
+ - 04_Resources/Assets/Locations/location-city-ancient-echo-truthfinder-v1-ancient-echo-truthfinder 2.svg => 04_Resources/Assets/Locations/location-city-ancient-echo-truthfinder-v1-ancient-echo-truthfinder.svg
+ - 04_Resources/Assets/Locations/location-city-the-reflection-pools-the-reflection-pools 2.svg => 04_Resources/Assets/Locations/location-city-the-reflection-pools-the-reflection-pools.svg
+ - 04_Resources/Assets/Locations/location-city-the-reflection-pools-v1-the-reflection-pools 2.svg => 04_Resources/Assets/Locations/location-city-the-reflection-pools-v1-the-reflection-pools.svg
+ - 04_Resources/Assets/Locations/location-city-skyship-technology-skyship-technology 2.svg => 04_Resources/Assets/Locations/location-city-skyship-technology-skyship-technology.svg
+ - 04_Resources/Assets/Locations/location-city-angels-and-depths-v1-angels-and-depths 2.svg => 04_Resources/Assets/Locations/location-city-angels-and-depths-v1-angels-and-depths.svg
+ - 04_Resources/Assets/Locations/location-city-grief-harvester-melancholy-grief-harvester-melancholy 2.svg => 04_Resources/Assets/Locations/location-city-grief-harvester-melancholy-grief-harvester-melancholy.svg
+ - 04_Resources/Assets/Locations/location-city-pilgrimage-master-depth-guide-melancholy-v1-pilgrimage-master-depth-guide-melancholy 2.svg => 04_Resources/Assets/Locations/location-city-pilgrimage-master-depth-guide-melancholy-v1-pilgrimage-master-depth-guide-melancholy.svg
+ - 04_Resources/Assets/Locations/location-city-financial-institutions-financial-institutions 2.svg => 04_Resources/Assets/Locations/location-city-financial-institutions-financial-institutions.svg
+ - 04_Resources/Assets/Locations/location-city-the-trencher-folk-v1-the-trencher-folk 2.svg => 04_Resources/Assets/Locations/location-city-the-trencher-folk-v1-the-trencher-folk.svg
+ - 04_Resources/Assets/Locations/location-city-grief-harvester-melancholy-v1-grief-harvester-melancholy 2.svg => 04_Resources/Assets/Locations/location-city-grief-harvester-melancholy-v1-grief-harvester-melancholy.svg
+ - 04_Resources/Assets/Locations/location-city-seal-keepers-seal-keepers 2.svg => 04_Resources/Assets/Locations/location-city-seal-keepers-seal-keepers.svg
+ - 04_Resources/Assets/Locations/location-city-shadow-crystals-v1-shadow-crystals 2.svg => 04_Resources/Assets/Locations/location-city-shadow-crystals-v1-shadow-crystals.svg
+ - 04_Resources/Assets/Locations/location-city-council-of-currents-v1-council-of-currents 2.svg => 04_Resources/Assets/Locations/location-city-council-of-currents-v1-council-of-currents.svg
+ - 04_Resources/Assets/Locations/location-city-truth-and-madness-v1-truth-and-madness 2.svg => 04_Resources/Assets/Locations/location-city-truth-and-madness-v1-truth-and-madness.svg
+ - 04_Resources/Assets/Locations/location-city-guardian-neutralwatch-guardian-neutralwatch 2.svg => 04_Resources/Assets/Locations/location-city-guardian-neutralwatch-guardian-neutralwatch.svg
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+fatal: .git/index: index file smaller than expected
+ - 04_Resources/Assets/Locations/location-city-memorial-district-of-abyssos-prime-v1-memorial-district-of-abyssos-prime 2.svg => 04_Resources/Assets/Locations/location-city-memorial-district-of-abyssos-prime-v1-memorial-district-of-abyssos-prime.svg
+ - 04_Resources/Assets/Locations/location-city-sunlight-crystal-sunlight-crystal 2.svg => 04_Resources/Assets/Locations/location-city-sunlight-crystal-sunlight-crystal.svg
+ - 04_Resources/Assets/Locations/location-city-legal-counsel-derek-lawkeeper-legal-counsel-derek-lawkeeper 2.svg => 04_Resources/Assets/Locations/location-city-legal-counsel-derek-lawkeeper-legal-counsel-derek-lawkeeper.svg
+ - 04_Resources/Assets/Locations/location-city-titan-foundationbearer-v1-titan-foundationbearer 2.svg => 04_Resources/Assets/Locations/location-city-titan-foundationbearer-v1-titan-foundationbearer.svg
+ - 04_Resources/Assets/Locations/location-city-grief-overwhelming-syndrome-v1-grief-overwhelming-syndrome 2.svg => 04_Resources/Assets/Locations/location-city-grief-overwhelming-syndrome-v1-grief-overwhelming-syndrome.svg
+ - 04_Resources/Assets/Locations/location-city-current-solidarity-v1-current-solidarity 2.svg => 04_Resources/Assets/Locations/location-city-current-solidarity-v1-current-solidarity.svg
+ - 04_Resources/Assets/Locations/location-city-grief-overwhelming-syndrome-grief-overwhelming-syndrome 2.svg => 04_Resources/Assets/Locations/location-city-grief-overwhelming-syndrome-grief-overwhelming-syndrome.svg
+ - 04_Resources/Assets/Locations/location-city-progressive-policy-portfolio-progressive-policy-portfolio 2.svg => 04_Resources/Assets/Locations/location-city-progressive-policy-portfolio-progressive-policy-portfolio.svg
+ - 04_Resources/Assets/Locations/location-city-the-whispering-depths-the-whispering-depths 2.svg => 04_Resources/Assets/Locations/location-city-the-whispering-depths-the-whispering-depths.svg
+ - 04_Resources/Assets/Locations/location-city-sage-iris-crystalbloom-sage-iris-crystalbloom 2.svg => 04_Resources/Assets/Locations/location-city-sage-iris-crystalbloom-sage-iris-crystalbloom.svg
+ - 04_Resources/Assets/Locations/location-city-beast-master-krell-chainbreaker-beast-master-krell-chainbreaker 2.svg => 04_Resources/Assets/Locations/location-city-beast-master-krell-chainbreaker-beast-master-krell-chainbreaker.svg
+ - backups/Campaign_Quick_Reference_Sheets 2.md => backups/Campaign_Quick_Reference_Sheets.md
+ - backups/09_Performance/Reports/CHARACTER_CONSISTENCY_REPORT 2.md => backups/09_Performance/Reports/CHARACTER_CONSISTENCY_REPORT.md
+ - backups/09_Performance/Indexes/Item_Catalog_Complete 2.md => backups/09_Performance/Indexes/Item_Catalog_Complete.md
+ - backups/09_Performance/Indexes/Complete_NPC_Matrix 2.md => backups/09_Performance/Indexes/Complete_NPC_Matrix.md
+ - backups/09_Performance/Indexes/Location_Network_Graph 2.md => backups/09_Performance/Indexes/Location_Network_Graph.md
+ - backups/09_Performance/Indexes/Master_Narrative_Web 2.md => backups/09_Performance/Indexes/Master_Narrative_Web.md
+ - backups/09_Performance/Indexes/Monster_Ecology_Web 2.md => backups/09_Performance/Indexes/Monster_Ecology_Web.md
+ - backups/09_Performance/Indexes/Seven_Shards_Tracker 2.md => backups/09_Performance/Indexes/Seven_Shards_Tracker.md
+ - backups/09_Performance/Indexes/Quest_Dependency_System 2.md => backups/09_Performance/Indexes/Quest_Dependency_System.md
+{
+  "mapping": {
+    "09_Performance/Reports/Character Consistency Report 2.md": "09_Performance/Reports/Character Consistency Report.md",
+    "09_Performance/Indexes/Complete NPC Matrix 2.md": "09_Performance/Indexes/Complete NPC Matrix.md",
+    "09_Performance/Indexes/Location Network Graph 2.md": "09_Performance/Indexes/Location Network Graph.md",
+    "09_Performance/Indexes/Item Catalog Complete 2.md": "09_Performance/Indexes/Item Catalog Complete.md",
+    "09_Performance/Indexes/Quest Dependency System 2.md": "09_Performance/Indexes/Quest Dependency System.md",
+    "09_Performance/Indexes/Seven Shards Tracker 2.md": "09_Performance/Indexes/Seven Shards Tracker.md",
+    "09_Performance/Indexes/Monster Ecology Web 2.md": "09_Performance/Indexes/Monster Ecology Web.md",
+    "09_Performance/Indexes/Master Narrative Web 2.md": "09_Performance/Indexes/Master Narrative Web.md",
+    ".obsidian/snippets/supercharged-links-gen 2.css": ".obsidian/snippets/supercharged-links-gen.css",
+    ".claude/settings.local 2.json": ".claude/settings.local.json",
+    "vault_backup_20250813_073007/09_Performance/Reports/Character Consistency Report 2.md": "vault_backup_20250813_073007/09_Performance/Reports/Character Consistency Report.md",
+    "vault_backup_20250813_073007/09_Performance/Indexes/Complete NPC Matrix 2.md": "vault_backup_20250813_073007/09_Performance/Indexes/Complete NPC Matrix.md",
+    "vault_backup_20250813_073007/09_Performance/Indexes/Location Network Graph 2.md": "vault_backup_20250813_073007/09_Performance/Indexes/Location Network Graph.md",
+    "vault_backup_20250813_073007/09_Performance/Indexes/Item Catalog Complete 2.md": "vault_backup_20250813_073007/09_Performance/Indexes/Item Catalog Complete.md",
+    "vault_backup_20250813_073007/09_Performance/Indexes/Quest Dependency System 2.md": "vault_backup_20250813_073007/09_Performance/Indexes/Quest Dependency System.md",
+    "vault_backup_20250813_073007/09_Performance/Indexes/Seven Shards Tracker 2.md": "vault_backup_20250813_073007/09_Performance/Indexes/Seven Shards Tracker.md",
+    "vault_backup_20250813_073007/09_Performance/Indexes/Monster Ecology Web 2.md": "vault_backup_20250813_073007/09_Performance/Indexes/Monster Ecology Web.md",
+    "vault_backup_20250813_073007/09_Performance/Indexes/Master Narrative Web 2.md": "vault_backup_20250813_073007/09_Performance/Indexes/Master Narrative Web.md",
+    "vault_backup_20250813_073007/.obsidian/snippets/supercharged-links-gen 2.css": "vault_backup_20250813_073007/.obsidian/snippets/supercharged-links-gen.css",
+    "vault_backup_20250813_073007/.claude/settings.local 2.json": "vault_backup_20250813_073007/.claude/settings.local.json",
+    "04_Resources/Assets/Locations/location-city-medical-research-facilities-medical-research-facilities 2.svg": "04_Resources/Assets/Locations/location-city-medical-research-facilities-medical-research-facilities.svg",
+    "04_Resources/Assets/Locations/location-city-scholarly-theologians-v1-scholarly-theologians 2.svg": "04_Resources/Assets/Locations/location-city-scholarly-theologians-v1-scholarly-theologians.svg",
+    "04_Resources/Assets/Locations/location-city-keeper-thundercall-v1-keeper-thundercall 2.svg": "04_Resources/Assets/Locations/location-city-keeper-thundercall-v1-keeper-thundercall.svg",
+    "04_Resources/Assets/Locations/location-city-teacher-miranda-hopekeeper-v1-teacher-miranda-hopekeeper 2.svg": "04_Resources/Assets/Locations/location-city-teacher-miranda-hopekeeper-v1-teacher-miranda-hopekeeper.svg",
+    "04_Resources/Assets/Locations/location-city-master-curator-pearl-artflow-master-curator-pearl-artflow 2.svg": "04_Resources/Assets/Locations/location-city-master-curator-pearl-artflow-master-curator-pearl-artflow.svg",
+    "04_Resources/Assets/Locations/location-city-surface-traders-v1-surface-traders 2.svg": "04_Resources/Assets/Locations/location-city-surface-traders-v1-surface-traders.svg",
+    "04_Resources/Assets/Locations/location-city-observation-tender-clara-v1-observation-tender-clara 2.svg": "04_Resources/Assets/Locations/location-city-observation-tender-clara-v1-observation-tender-clara.svg",
+    "04_Resources/Assets/Locations/location-city-pressure-tube-system-pressure-tube-system 2.svg": "04_Resources/Assets/Locations/location-city-pressure-tube-system-pressure-tube-system.svg",
+    "04_Resources/Assets/Locations/location-city-truth-and-madness-truth-and-madness 2.svg": "04_Resources/Assets/Locations/location-city-truth-and-madness-truth-and-madness.svg",
+    "04_Resources/Assets/Locations/location-city-court-herald-master-proclamation-crownvoice-court-herald-master-proclamation-crownvoice 2.svg": "04_Resources/Assets/Locations/location-city-court-herald-master-proclamation-crownvoice-court-herald-master-proclamation-crownvoice.svg",
+    "04_Resources/Assets/Locations/location-city-the-plague-ward-the-plague-ward 2.svg": "04_Resources/Assets/Locations/location-city-the-plague-ward-the-plague-ward.svg",
+    "04_Resources/Assets/Locations/location-city-port-crystalfall-v1-port-crystalfall 2.svg": "04_Resources/Assets/Locations/location-city-port-crystalfall-v1-port-crystalfall.svg",
+    "04_Resources/Assets/Locations/location-city-dr-marina-voidstudier-v1-dr-marina-voidstudier 2.svg": "04_Resources/Assets/Locations/location-city-dr-marina-voidstudier-v1-dr-marina-voidstudier.svg",
+    "04_Resources/Assets/Locations/location-city-pressure-tube-system-v1-pressure-tube-system 2.svg": "04_Resources/Assets/Locations/location-city-pressure-tube-system-v1-pressure-tube-system.svg",
+    "04_Resources/Assets/Locations/location-city-master-curator-pearl-artflow-v1-master-curator-pearl-artflow 2.svg": "04_Resources/Assets/Locations/location-city-master-curator-pearl-artflow-v1-master-curator-pearl-artflow.svg",
+    "04_Resources/Assets/Locations/location-city-the-siren-s-rest-tavern-v1-the-siren-s-rest-tavern 2.svg": "04_Resources/Assets/Locations/location-city-the-siren-s-rest-tavern-v1-the-siren-s-rest-tavern.svg",
+    "04_Resources/Assets/Locations/location-city-memory-sharing-techniques-v1-memory-sharing-techniques 2.svg": "04_Resources/Assets/Locations/location-city-memory-sharing-techniques-v1-memory-sharing-techniques.svg",
+    "04_Resources/Assets/Locations/location-city-the-infinite-garden-the-infinite-garden 2.svg": "04_Resources/Assets/Locations/location-city-the-infinite-garden-the-infinite-garden.svg",
+    "04_Resources/Assets/Locations/location-city-temple-of-shadows-v1-temple-of-shadows 2.svg": "04_Resources/Assets/Locations/location-city-temple-of-shadows-v1-temple-of-shadows.svg",
+    "04_Resources/Assets/Locations/location-city-marina-stormwright-marina-stormwright 2.svg": "04_Resources/Assets/Locations/location-city-marina-stormwright-marina-stormwright.svg",
+    "04_Resources/Assets/Locations/location-city-the-whispering-caverns-v1-the-whispering-caverns 2.svg": "04_Resources/Assets/Locations/location-city-the-whispering-caverns-v1-the-whispering-caverns.svg",
+    "04_Resources/Assets/Locations/location-city-surface-traders-surface-traders 2.svg": "04_Resources/Assets/Locations/location-city-surface-traders-surface-traders.svg",
+    "04_Resources/Assets/Locations/location-city-sunlight-crystal-v1-sunlight-crystal 2.svg": "04_Resources/Assets/Locations/location-city-sunlight-crystal-v1-sunlight-crystal.svg",
+    "04_Resources/Assets/Locations/location-city-memorial-district-of-abyssos-prime-memorial-district-of-abyssos-prime 2.svg": "04_Resources/Assets/Locations/location-city-memorial-district-of-abyssos-prime-memorial-district-of-abyssos-prime.svg",
+    "04_Resources/Assets/Locations/location-city-the-iron-pits-of-malachar-the-iron-pits-of-malachar 2.svg": "04_Resources/Assets/Locations/location-city-the-iron-pits-of-malachar-the-iron-pits-of-malachar.svg",
+    "04_Resources/Assets/Locations/location-city-seal-keepers-v1-seal-keepers 2.svg": "04_Resources/Assets/Locations/location-city-seal-keepers-v1-seal-keepers.svg",
+    "04_Resources/Assets/Locations/location-city-crystal-engineer-spark-gemwright-crystal-engineer-spark-gemwright 2.svg": "04_Resources/Assets/Locations/location-city-crystal-engineer-spark-gemwright-crystal-engineer-spark-gemwright.svg",
+    "04_Resources/Assets/Locations/location-city-depth-warden-v1-depth-warden 2.svg": "04_Resources/Assets/Locations/location-city-depth-warden-v1-depth-warden.svg",
+    "04_Resources/Assets/Locations/location-city-medical-research-facilities-v1-medical-research-facilities 2.svg": "04_Resources/Assets/Locations/location-city-medical-research-facilities-v1-medical-research-facilities.svg",
+    "04_Resources/Assets/Locations/location-city-the-whispering-caverns-the-whispering-caverns 2.svg": "04_Resources/Assets/Locations/location-city-the-whispering-caverns-the-whispering-caverns.svg",
+    "04_Resources/Assets/Locations/location-city-community-leaders-v1-community-leaders 2.svg": "04_Resources/Assets/Locations/location-city-community-leaders-v1-community-leaders.svg",
+    "04_Resources/Assets/Locations/location-city-sage-iris-crystalbloom-v1-sage-iris-crystalbloom 2.svg": "04_Resources/Assets/Locations/location-city-sage-iris-crystalbloom-v1-sage-iris-crystalbloom.svg",
+    "04_Resources/Assets/Locations/location-city-the-gilded-shard-v1-the-gilded-shard 2.svg": "04_Resources/Assets/Locations/location-city-the-gilded-shard-v1-the-gilded-shard.svg",
+    "04_Resources/Assets/Locations/location-city-progressive-policy-portfolio-v1-progressive-policy-portfolio 2.svg": "04_Resources/Assets/Locations/location-city-progressive-policy-portfolio-v1-progressive-policy-portfolio.svg",
+    "04_Resources/Assets/Locations/location-city-the-siren-s-rest-tavern-the-siren-s-rest-tavern 2.svg": "04_Resources/Assets/Locations/location-city-the-siren-s-rest-tavern-the-siren-s-rest-tavern.svg",
+    "04_Resources/Assets/Locations/location-city-enchanter-valdris-peacewarden-enchanter-valdris-peacewarden 2.svg": "04_Resources/Assets/Locations/location-city-enchanter-valdris-peacewarden-enchanter-valdris-peacewarden.svg",
+    "04_Resources/Assets/Locations/location-city-scholarly-theologians-scholarly-theologians 2.svg": "04_Resources/Assets/Locations/location-city-scholarly-theologians-scholarly-theologians.svg",
+    "04_Resources/Assets/Locations/location-city-enchanter-valdris-peacewarden-v1-enchanter-valdris-peacewarden 2.svg": "04_Resources/Assets/Locations/location-city-enchanter-valdris-peacewarden-v1-enchanter-valdris-peacewarden.svg",
+    "04_Resources/Assets/Locations/location-city-forge-master-petra-hammerdeep-v1-forge-master-petra-hammerdeep 2.svg": "04_Resources/Assets/Locations/location-city-forge-master-petra-hammerdeep-v1-forge-master-petra-hammerdeep.svg",
+    "04_Resources/Assets/Locations/location-city-adult-education-programs-adult-education-programs 2.svg": "04_Resources/Assets/Locations/location-city-adult-education-programs-adult-education-programs.svg",
+    "04_Resources/Assets/Locations/location-city-battle-priest-cassius-depthshield-battle-priest-cassius-depthshield 2.svg": "04_Resources/Assets/Locations/location-city-battle-priest-cassius-depthshield-battle-priest-cassius-depthshield.svg",
+    "04_Resources/Assets/Locations/location-city-the-plague-ward-v1-the-plague-ward 2.svg": "04_Resources/Assets/Locations/location-city-the-plague-ward-v1-the-plague-ward.svg",
+    "04_Resources/Assets/Locations/location-city-the-infinite-garden-v1-the-infinite-garden 2.svg": "04_Resources/Assets/Locations/location-city-the-infinite-garden-v1-the-infinite-garden.svg",
+    "04_Resources/Assets/Locations/location-city-port-crystalfall-port-crystalfall 2.svg": "04_Resources/Assets/Locations/location-city-port-crystalfall-port-crystalfall.svg",
+    "04_Resources/Assets/Locations/location-city-shadow-crystals-shadow-crystals 2.svg": "04_Resources/Assets/Locations/location-city-shadow-crystals-shadow-crystals.svg",
+    "04_Resources/Assets/Locations/location-city-pilgrimage-master-depth-guide-melancholy-pilgrimage-master-depth-guide-melancholy 2.svg": "04_Resources/Assets/Locations/location-city-pilgrimage-master-depth-guide-melancholy-pilgrimage-master-depth-guide-melancholy.svg",
+    "04_Resources/Assets/Locations/location-city-innkeeper-marcus-thorne-v1-innkeeper-marcus-thorne 2.svg": "04_Resources/Assets/Locations/location-city-innkeeper-marcus-thorne-v1-innkeeper-marcus-thorne.svg",
+    "04_Resources/Assets/Locations/location-city-community-leaders-community-leaders 2.svg": "04_Resources/Assets/Locations/location-city-community-leaders-community-leaders.svg",
+    "04_Resources/Assets/Locations/location-city-guardian-neutralwatch-v1-guardian-neutralwatch 2.svg": "04_Resources/Assets/Locations/location-city-guardian-neutralwatch-v1-guardian-neutralwatch.svg",
+    "04_Resources/Assets/Locations/location-city-the-gilded-shard-the-gilded-shard 2.svg": "04_Resources/Assets/Locations/location-city-the-gilded-shard-the-gilded-shard.svg",
+    "04_Resources/Assets/Locations/location-city-the-whispering-depths-v1-the-whispering-depths 2.svg": "04_Resources/Assets/Locations/location-city-the-whispering-depths-v1-the-whispering-depths.svg",
+    "04_Resources/Assets/Locations/location-city-skyship-technology-v1-skyship-technology 2.svg": "04_Resources/Assets/Locations/location-city-skyship-technology-v1-skyship-technology.svg",
+    "04_Resources/Assets/Locations/location-city-the-memory-thief-v1-the-memory-thief 2.svg": "04_Resources/Assets/Locations/location-city-the-memory-thief-v1-the-memory-thief.svg",
+    "04_Resources/Assets/Locations/location-city-memory-sharing-techniques-memory-sharing-techniques 2.svg": "04_Resources/Assets/Locations/location-city-memory-sharing-techniques-memory-sharing-techniques.svg",
+    "04_Resources/Assets/Locations/location-city-ancient-echo-truthfinder-ancient-echo-truthfinder 2.svg": "04_Resources/Assets/Locations/location-city-ancient-echo-truthfinder-ancient-echo-truthfinder.svg",
+    "04_Resources/Assets/Locations/location-city-the-memory-thief-the-memory-thief 2.svg": "04_Resources/Assets/Locations/location-city-the-memory-thief-the-memory-thief.svg",
+    "04_Resources/Assets/Locations/location-city-court-herald-master-proclamation-crownvoice-v1-court-herald-master-proclamation-crownvoice 2.svg": "04_Resources/Assets/Locations/location-city-court-herald-master-proclamation-crownvoice-v1-court-herald-master-proclamation-crownvoice.svg",
+    "04_Resources/Assets/Locations/location-city-beast-master-krell-chainbreaker-v1-beast-master-krell-chainbreaker 2.svg": "04_Resources/Assets/Locations/location-city-beast-master-krell-chainbreaker-v1-beast-master-krell-chainbreaker.svg",
+    "04_Resources/Assets/Locations/location-city-the-pressure-crown-v1-the-pressure-crown 2.svg": "04_Resources/Assets/Locations/location-city-the-pressure-crown-v1-the-pressure-crown.svg",
+    "04_Resources/Assets/Locations/location-city-abyssal-territories-v1-abyssal-territories 2.svg": "04_Resources/Assets/Locations/location-city-abyssal-territories-v1-abyssal-territories.svg",
+    "04_Resources/Assets/Locations/location-city-financial-institutions-v1-financial-institutions 2.svg": "04_Resources/Assets/Locations/location-city-financial-institutions-v1-financial-institutions.svg",
+    "04_Resources/Assets/Locations/location-city-the-trencher-folk-the-trencher-folk 2.svg": "04_Resources/Assets/Locations/location-city-the-trencher-folk-the-trencher-folk.svg",
+    "04_Resources/Assets/Locations/location-city-innkeeper-marcus-thorne-innkeeper-marcus-thorne 2.svg": "04_Resources/Assets/Locations/location-city-innkeeper-marcus-thorne-innkeeper-marcus-thorne.svg",
+    "04_Resources/Assets/Locations/location-city-ambassador-mark-exchangekeeper-ambassador-mark-exchangekeeper 2.svg": "04_Resources/Assets/Locations/location-city-ambassador-mark-exchangekeeper-ambassador-mark-exchangekeeper.svg",
+    "04_Resources/Assets/Locations/location-city-inverted-ballroom-wing-inverted-ballroom-wing 2.svg": "04_Resources/Assets/Locations/location-city-inverted-ballroom-wing-inverted-ballroom-wing.svg",
+    "04_Resources/Assets/Locations/location-city-titan-foundationbearer-titan-foundationbearer 2.svg": "04_Resources/Assets/Locations/location-city-titan-foundationbearer-titan-foundationbearer.svg",
+    "04_Resources/Assets/Locations/location-city-adult-education-programs-v1-adult-education-programs 2.svg": "04_Resources/Assets/Locations/location-city-adult-education-programs-v1-adult-education-programs.svg",
+    "04_Resources/Assets/Locations/location-city-depth-merchant-s-consortium-depth-merchant-s-consortium 2.svg": "04_Resources/Assets/Locations/location-city-depth-merchant-s-consortium-depth-merchant-s-consortium.svg",
+    "04_Resources/Assets/Locations/location-city-kelp-forests-v1-kelp-forests 2.svg": "04_Resources/Assets/Locations/location-city-kelp-forests-v1-kelp-forests.svg",
+    "04_Resources/Assets/Locations/location-city-dr-marina-voidstudier-dr-marina-voidstudier 2.svg": "04_Resources/Assets/Locations/location-city-dr-marina-voidstudier-dr-marina-voidstudier.svg",
+    "04_Resources/Assets/Locations/location-city-marina-deepcurrent-v1-marina-deepcurrent 2.svg": "04_Resources/Assets/Locations/location-city-marina-deepcurrent-v1-marina-deepcurrent.svg",
+    "04_Resources/Assets/Locations/location-city-forge-master-petra-hammerdeep-forge-master-petra-hammerdeep 2.svg": "04_Resources/Assets/Locations/location-city-forge-master-petra-hammerdeep-forge-master-petra-hammerdeep.svg",
+    "04_Resources/Assets/Locations/location-city-current-solidarity-current-solidarity 2.svg": "04_Resources/Assets/Locations/location-city-current-solidarity-current-solidarity.svg",
+    "04_Resources/Assets/Locations/location-city-council-of-currents-council-of-currents 2.svg": "04_Resources/Assets/Locations/location-city-council-of-currents-council-of-currents.svg",
+    "04_Resources/Assets/Locations/location-city-kelp-forests-kelp-forests 2.svg": "04_Resources/Assets/Locations/location-city-kelp-forests-kelp-forests.svg",
+    "04_Resources/Assets/Locations/location-city-marina-deepcurrent-marina-deepcurrent 2.svg": "04_Resources/Assets/Locations/location-city-marina-deepcurrent-marina-deepcurrent.svg",
+    "04_Resources/Assets/Locations/location-city-ambassador-mark-exchangekeeper-v1-ambassador-mark-exchangekeeper 2.svg": "04_Resources/Assets/Locations/location-city-ambassador-mark-exchangekeeper-v1-ambassador-mark-exchangekeeper.svg",
+    "04_Resources/Assets/Locations/location-city-keeper-thundercall-keeper-thundercall 2.svg": "04_Resources/Assets/Locations/location-city-keeper-thundercall-keeper-thundercall.svg",
+    "04_Resources/Assets/Locations/location-city-crystal-engineer-spark-gemwright-v1-crystal-engineer-spark-gemwright 2.svg": "04_Resources/Assets/Locations/location-city-crystal-engineer-spark-gemwright-v1-crystal-engineer-spark-gemwright.svg",
+    "04_Resources/Assets/Locations/location-city-temple-of-shadows-temple-of-shadows 2.svg": "04_Resources/Assets/Locations/location-city-temple-of-shadows-temple-of-shadows.svg",
+    "04_Resources/Assets/Locations/location-city-the-hidden-cove-of-whispers-the-hidden-cove-of-whispers 2.svg": "04_Resources/Assets/Locations/location-city-the-hidden-cove-of-whispers-the-hidden-cove-of-whispers.svg",
+    "04_Resources/Assets/Locations/location-city-observation-tender-clara-observation-tender-clara 2.svg": "04_Resources/Assets/Locations/location-city-observation-tender-clara-observation-tender-clara.svg",
+    "04_Resources/Assets/Locations/location-city-depth-merchant-s-consortium-v1-depth-merchant-s-consortium 2.svg": "04_Resources/Assets/Locations/location-city-depth-merchant-s-consortium-v1-depth-merchant-s-consortium.svg",
+    "04_Resources/Assets/Locations/location-city-the-hidden-cove-of-whispers-v1-the-hidden-cove-of-whispers 2.svg": "04_Resources/Assets/Locations/location-city-the-hidden-cove-of-whispers-v1-the-hidden-cove-of-whispers.svg",
+    "04_Resources/Assets/Locations/location-city-teacher-miranda-hopekeeper-teacher-miranda-hopekeeper 2.svg": "04_Resources/Assets/Locations/location-city-teacher-miranda-hopekeeper-teacher-miranda-hopekeeper.svg",
+    "04_Resources/Assets/Locations/location-city-legal-counsel-derek-lawkeeper-v1-legal-counsel-derek-lawkeeper 2.svg": "04_Resources/Assets/Locations/location-city-legal-counsel-derek-lawkeeper-v1-legal-counsel-derek-lawkeeper.svg",
+    "04_Resources/Assets/Locations/location-city-the-pressure-crown-the-pressure-crown 2.svg": "04_Resources/Assets/Locations/location-city-the-pressure-crown-the-pressure-crown.svg",
+    "04_Resources/Assets/Locations/location-city-marina-stormwright-v1-marina-stormwright 2.svg": "04_Resources/Assets/Locations/location-city-marina-stormwright-v1-marina-stormwright.svg",
+    "04_Resources/Assets/Locations/location-city-battle-priest-cassius-depthshield-v1-battle-priest-cassius-depthshield 2.svg": "04_Resources/Assets/Locations/location-city-battle-priest-cassius-depthshield-v1-battle-priest-cassius-depthshield.svg",
+    "04_Resources/Assets/Locations/location-city-depth-warden-depth-warden 2.svg": "04_Resources/Assets/Locations/location-city-depth-warden-depth-warden.svg",
+    "04_Resources/Assets/Locations/location-city-abyssal-territories-abyssal-territories 2.svg": "04_Resources/Assets/Locations/location-city-abyssal-territories-abyssal-territories.svg",
+    "04_Resources/Assets/Locations/location-city-angels-and-depths-angels-and-depths 2.svg": "04_Resources/Assets/Locations/location-city-angels-and-depths-angels-and-depths.svg",
+    "04_Resources/Assets/Locations/location-city-the-iron-pits-of-malachar-v1-the-iron-pits-of-malachar 2.svg": "04_Resources/Assets/Locations/location-city-the-iron-pits-of-malachar-v1-the-iron-pits-of-malachar.svg",
+    "04_Resources/Assets/Locations/location-city-inverted-ballroom-wing-v1-inverted-ballroom-wing 2.svg": "04_Resources/Assets/Locations/location-city-inverted-ballroom-wing-v1-inverted-ballroom-wing.svg",
+    "04_Resources/Assets/Locations/location-city-ancient-echo-truthfinder-v1-ancient-echo-truthfinder 2.svg": "04_Resources/Assets/Locations/location-city-ancient-echo-truthfinder-v1-ancient-echo-truthfinder.svg",
+    "04_Resources/Assets/Locations/location-city-the-reflection-pools-the-reflection-pools 2.svg": "04_Resources/Assets/Locations/location-city-the-reflection-pools-the-reflection-pools.svg",
+    "04_Resources/Assets/Locations/location-city-the-reflection-pools-v1-the-reflection-pools 2.svg": "04_Resources/Assets/Locations/location-city-the-reflection-pools-v1-the-reflection-pools.svg",
+    "04_Resources/Assets/Locations/location-city-skyship-technology-skyship-technology 2.svg": "04_Resources/Assets/Locations/location-city-skyship-technology-skyship-technology.svg",
+    "04_Resources/Assets/Locations/location-city-angels-and-depths-v1-angels-and-depths 2.svg": "04_Resources/Assets/Locations/location-city-angels-and-depths-v1-angels-and-depths.svg",
+    "04_Resources/Assets/Locations/location-city-grief-harvester-melancholy-grief-harvester-melancholy 2.svg": "04_Resources/Assets/Locations/location-city-grief-harvester-melancholy-grief-harvester-melancholy.svg",
+    "04_Resources/Assets/Locations/location-city-pilgrimage-master-depth-guide-melancholy-v1-pilgrimage-master-depth-guide-melancholy 2.svg": "04_Resources/Assets/Locations/location-city-pilgrimage-master-depth-guide-melancholy-v1-pilgrimage-master-depth-guide-melancholy.svg",
+    "04_Resources/Assets/Locations/location-city-financial-institutions-financial-institutions 2.svg": "04_Resources/Assets/Locations/location-city-financial-institutions-financial-institutions.svg",
+    "04_Resources/Assets/Locations/location-city-the-trencher-folk-v1-the-trencher-folk 2.svg": "04_Resources/Assets/Locations/location-city-the-trencher-folk-v1-the-trencher-folk.svg",
+    "04_Resources/Assets/Locations/location-city-grief-harvester-melancholy-v1-grief-harvester-melancholy 2.svg": "04_Resources/Assets/Locations/location-city-grief-harvester-melancholy-v1-grief-harvester-melancholy.svg",
+    "04_Resources/Assets/Locations/location-city-seal-keepers-seal-keepers 2.svg": "04_Resources/Assets/Locations/location-city-seal-keepers-seal-keepers.svg",
+    "04_Resources/Assets/Locations/location-city-shadow-crystals-v1-shadow-crystals 2.svg": "04_Resources/Assets/Locations/location-city-shadow-crystals-v1-shadow-crystals.svg",
+    "04_Resources/Assets/Locations/location-city-council-of-currents-v1-council-of-currents 2.svg": "04_Resources/Assets/Locations/location-city-council-of-currents-v1-council-of-currents.svg",
+    "04_Resources/Assets/Locations/location-city-truth-and-madness-v1-truth-and-madness 2.svg": "04_Resources/Assets/Locations/location-city-truth-and-madness-v1-truth-and-madness.svg",
+    "04_Resources/Assets/Locations/location-city-guardian-neutralwatch-guardian-neutralwatch 2.svg": "04_Resources/Assets/Locations/location-city-guardian-neutralwatch-guardian-neutralwatch.svg",
+    "04_Resources/Assets/Locations/location-city-memorial-district-of-abyssos-prime-v1-memorial-district-of-abyssos-prime 2.svg": "04_Resources/Assets/Locations/location-city-memorial-district-of-abyssos-prime-v1-memorial-district-of-abyssos-prime.svg",
+    "04_Resources/Assets/Locations/location-city-sunlight-crystal-sunlight-crystal 2.svg": "04_Resources/Assets/Locations/location-city-sunlight-crystal-sunlight-crystal.svg",
+    "04_Resources/Assets/Locations/location-city-legal-counsel-derek-lawkeeper-legal-counsel-derek-lawkeeper 2.svg": "04_Resources/Assets/Locations/location-city-legal-counsel-derek-lawkeeper-legal-counsel-derek-lawkeeper.svg",
+    "04_Resources/Assets/Locations/location-city-titan-foundationbearer-v1-titan-foundationbearer 2.svg": "04_Resources/Assets/Locations/location-city-titan-foundationbearer-v1-titan-foundationbearer.svg",
+    "04_Resources/Assets/Locations/location-city-grief-overwhelming-syndrome-v1-grief-overwhelming-syndrome 2.svg": "04_Resources/Assets/Locations/location-city-grief-overwhelming-syndrome-v1-grief-overwhelming-syndrome.svg",
+    "04_Resources/Assets/Locations/location-city-current-solidarity-v1-current-solidarity 2.svg": "04_Resources/Assets/Locations/location-city-current-solidarity-v1-current-solidarity.svg",
+    "04_Resources/Assets/Locations/location-city-grief-overwhelming-syndrome-grief-overwhelming-syndrome 2.svg": "04_Resources/Assets/Locations/location-city-grief-overwhelming-syndrome-grief-overwhelming-syndrome.svg",
+    "04_Resources/Assets/Locations/location-city-progressive-policy-portfolio-progressive-policy-portfolio 2.svg": "04_Resources/Assets/Locations/location-city-progressive-policy-portfolio-progressive-policy-portfolio.svg",
+    "04_Resources/Assets/Locations/location-city-the-whispering-depths-the-whispering-depths 2.svg": "04_Resources/Assets/Locations/location-city-the-whispering-depths-the-whispering-depths.svg",
+    "04_Resources/Assets/Locations/location-city-sage-iris-crystalbloom-sage-iris-crystalbloom 2.svg": "04_Resources/Assets/Locations/location-city-sage-iris-crystalbloom-sage-iris-crystalbloom.svg",
+    "04_Resources/Assets/Locations/location-city-beast-master-krell-chainbreaker-beast-master-krell-chainbreaker 2.svg": "04_Resources/Assets/Locations/location-city-beast-master-krell-chainbreaker-beast-master-krell-chainbreaker.svg",
+    "backups/Campaign_Quick_Reference_Sheets 2.md": "backups/Campaign_Quick_Reference_Sheets.md",
+    "backups/09_Performance/Reports/CHARACTER_CONSISTENCY_REPORT 2.md": "backups/09_Performance/Reports/CHARACTER_CONSISTENCY_REPORT.md",
+    "backups/09_Performance/Indexes/Item_Catalog_Complete 2.md": "backups/09_Performance/Indexes/Item_Catalog_Complete.md",
+    "backups/09_Performance/Indexes/Complete_NPC_Matrix 2.md": "backups/09_Performance/Indexes/Complete_NPC_Matrix.md",
+    "backups/09_Performance/Indexes/Location_Network_Graph 2.md": "backups/09_Performance/Indexes/Location_Network_Graph.md",
+    "backups/09_Performance/Indexes/Master_Narrative_Web 2.md": "backups/09_Performance/Indexes/Master_Narrative_Web.md",
+    "backups/09_Performance/Indexes/Monster_Ecology_Web 2.md": "backups/09_Performance/Indexes/Monster_Ecology_Web.md",
+    "backups/09_Performance/Indexes/Seven_Shards_Tracker 2.md": "backups/09_Performance/Indexes/Seven_Shards_Tracker.md",
+    "backups/09_Performance/Indexes/Quest_Dependency_System 2.md": "backups/09_Performance/Indexes/Quest_Dependency_System.md"
+  },
+  "rewritten_files": [],
+  "removed": [
+    "09_Performance/Reports/Character Consistency Report 2.md",
+    "09_Performance/Indexes/Complete NPC Matrix 2.md",
+    "09_Performance/Indexes/Location Network Graph 2.md",
+    "09_Performance/Indexes/Item Catalog Complete 2.md",
+    "09_Performance/Indexes/Quest Dependency System 2.md",
+    "09_Performance/Indexes/Seven Shards Tracker 2.md",
+    "09_Performance/Indexes/Monster Ecology Web 2.md",
+    "09_Performance/Indexes/Master Narrative Web 2.md",
+    ".obsidian/snippets/supercharged-links-gen 2.css",
+    ".claude/settings.local 2.json",
+    "vault_backup_20250813_073007/09_Performance/Reports/Character Consistency Report 2.md",
+    "vault_backup_20250813_073007/09_Performance/Indexes/Complete NPC Matrix 2.md",
+    "vault_backup_20250813_073007/09_Performance/Indexes/Location Network Graph 2.md",
+    "vault_backup_20250813_073007/09_Performance/Indexes/Item Catalog Complete 2.md",
+    "vault_backup_20250813_073007/09_Performance/Indexes/Quest Dependency System 2.md",
+    "vault_backup_20250813_073007/09_Performance/Indexes/Seven Shards Tracker 2.md",
+    "vault_backup_20250813_073007/09_Performance/Indexes/Monster Ecology Web 2.md",
+    "vault_backup_20250813_073007/09_Performance/Indexes/Master Narrative Web 2.md",
+    "vault_backup_20250813_073007/.obsidian/snippets/supercharged-links-gen 2.css",
+    "vault_backup_20250813_073007/.claude/settings.local 2.json",
+    "04_Resources/Assets/Locations/location-city-medical-research-facilities-medical-research-facilities 2.svg",
+    "04_Resources/Assets/Locations/location-city-scholarly-theologians-v1-scholarly-theologians 2.svg",
+    "04_Resources/Assets/Locations/location-city-keeper-thundercall-v1-keeper-thundercall 2.svg",
+    "04_Resources/Assets/Locations/location-city-teacher-miranda-hopekeeper-v1-teacher-miranda-hopekeeper 2.svg",
+    "04_Resources/Assets/Locations/location-city-master-curator-pearl-artflow-master-curator-pearl-artflow 2.svg",
+    "04_Resources/Assets/Locations/location-city-surface-traders-v1-surface-traders 2.svg",
+    "04_Resources/Assets/Locations/location-city-observation-tender-clara-v1-observation-tender-clara 2.svg",
+    "04_Resources/Assets/Locations/location-city-pressure-tube-system-pressure-tube-system 2.svg",
+    "04_Resources/Assets/Locations/location-city-truth-and-madness-truth-and-madness 2.svg",
+    "04_Resources/Assets/Locations/location-city-court-herald-master-proclamation-crownvoice-court-herald-master-proclamation-crownvoice 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-plague-ward-the-plague-ward 2.svg",
+    "04_Resources/Assets/Locations/location-city-port-crystalfall-v1-port-crystalfall 2.svg",
+    "04_Resources/Assets/Locations/location-city-dr-marina-voidstudier-v1-dr-marina-voidstudier 2.svg",
+    "04_Resources/Assets/Locations/location-city-pressure-tube-system-v1-pressure-tube-system 2.svg",
+    "04_Resources/Assets/Locations/location-city-master-curator-pearl-artflow-v1-master-curator-pearl-artflow 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-siren-s-rest-tavern-v1-the-siren-s-rest-tavern 2.svg",
+    "04_Resources/Assets/Locations/location-city-memory-sharing-techniques-v1-memory-sharing-techniques 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-infinite-garden-the-infinite-garden 2.svg",
+    "04_Resources/Assets/Locations/location-city-temple-of-shadows-v1-temple-of-shadows 2.svg",
+    "04_Resources/Assets/Locations/location-city-marina-stormwright-marina-stormwright 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-whispering-caverns-v1-the-whispering-caverns 2.svg",
+    "04_Resources/Assets/Locations/location-city-surface-traders-surface-traders 2.svg",
+    "04_Resources/Assets/Locations/location-city-sunlight-crystal-v1-sunlight-crystal 2.svg",
+    "04_Resources/Assets/Locations/location-city-memorial-district-of-abyssos-prime-memorial-district-of-abyssos-prime 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-iron-pits-of-malachar-the-iron-pits-of-malachar 2.svg",
+    "04_Resources/Assets/Locations/location-city-seal-keepers-v1-seal-keepers 2.svg",
+    "04_Resources/Assets/Locations/location-city-crystal-engineer-spark-gemwright-crystal-engineer-spark-gemwright 2.svg",
+    "04_Resources/Assets/Locations/location-city-depth-warden-v1-depth-warden 2.svg",
+    "04_Resources/Assets/Locations/location-city-medical-research-facilities-v1-medical-research-facilities 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-whispering-caverns-the-whispering-caverns 2.svg",
+    "04_Resources/Assets/Locations/location-city-community-leaders-v1-community-leaders 2.svg",
+    "04_Resources/Assets/Locations/location-city-sage-iris-crystalbloom-v1-sage-iris-crystalbloom 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-gilded-shard-v1-the-gilded-shard 2.svg",
+    "04_Resources/Assets/Locations/location-city-progressive-policy-portfolio-v1-progressive-policy-portfolio 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-siren-s-rest-tavern-the-siren-s-rest-tavern 2.svg",
+    "04_Resources/Assets/Locations/location-city-enchanter-valdris-peacewarden-enchanter-valdris-peacewarden 2.svg",
+    "04_Resources/Assets/Locations/location-city-scholarly-theologians-scholarly-theologians 2.svg",
+    "04_Resources/Assets/Locations/location-city-enchanter-valdris-peacewarden-v1-enchanter-valdris-peacewarden 2.svg",
+    "04_Resources/Assets/Locations/location-city-forge-master-petra-hammerdeep-v1-forge-master-petra-hammerdeep 2.svg",
+    "04_Resources/Assets/Locations/location-city-adult-education-programs-adult-education-programs 2.svg",
+    "04_Resources/Assets/Locations/location-city-battle-priest-cassius-depthshield-battle-priest-cassius-depthshield 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-plague-ward-v1-the-plague-ward 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-infinite-garden-v1-the-infinite-garden 2.svg",
+    "04_Resources/Assets/Locations/location-city-port-crystalfall-port-crystalfall 2.svg",
+    "04_Resources/Assets/Locations/location-city-shadow-crystals-shadow-crystals 2.svg",
+    "04_Resources/Assets/Locations/location-city-pilgrimage-master-depth-guide-melancholy-pilgrimage-master-depth-guide-melancholy 2.svg",
+    "04_Resources/Assets/Locations/location-city-innkeeper-marcus-thorne-v1-innkeeper-marcus-thorne 2.svg",
+    "04_Resources/Assets/Locations/location-city-community-leaders-community-leaders 2.svg",
+    "04_Resources/Assets/Locations/location-city-guardian-neutralwatch-v1-guardian-neutralwatch 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-gilded-shard-the-gilded-shard 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-whispering-depths-v1-the-whispering-depths 2.svg",
+    "04_Resources/Assets/Locations/location-city-skyship-technology-v1-skyship-technology 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-memory-thief-v1-the-memory-thief 2.svg",
+    "04_Resources/Assets/Locations/location-city-memory-sharing-techniques-memory-sharing-techniques 2.svg",
+    "04_Resources/Assets/Locations/location-city-ancient-echo-truthfinder-ancient-echo-truthfinder 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-memory-thief-the-memory-thief 2.svg",
+    "04_Resources/Assets/Locations/location-city-court-herald-master-proclamation-crownvoice-v1-court-herald-master-proclamation-crownvoice 2.svg",
+    "04_Resources/Assets/Locations/location-city-beast-master-krell-chainbreaker-v1-beast-master-krell-chainbreaker 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-pressure-crown-v1-the-pressure-crown 2.svg",
+    "04_Resources/Assets/Locations/location-city-abyssal-territories-v1-abyssal-territories 2.svg",
+    "04_Resources/Assets/Locations/location-city-financial-institutions-v1-financial-institutions 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-trencher-folk-the-trencher-folk 2.svg",
+    "04_Resources/Assets/Locations/location-city-innkeeper-marcus-thorne-innkeeper-marcus-thorne 2.svg",
+    "04_Resources/Assets/Locations/location-city-ambassador-mark-exchangekeeper-ambassador-mark-exchangekeeper 2.svg",
+    "04_Resources/Assets/Locations/location-city-inverted-ballroom-wing-inverted-ballroom-wing 2.svg",
+    "04_Resources/Assets/Locations/location-city-titan-foundationbearer-titan-foundationbearer 2.svg",
+    "04_Resources/Assets/Locations/location-city-adult-education-programs-v1-adult-education-programs 2.svg",
+    "04_Resources/Assets/Locations/location-city-depth-merchant-s-consortium-depth-merchant-s-consortium 2.svg",
+    "04_Resources/Assets/Locations/location-city-kelp-forests-v1-kelp-forests 2.svg",
+    "04_Resources/Assets/Locations/location-city-dr-marina-voidstudier-dr-marina-voidstudier 2.svg",
+    "04_Resources/Assets/Locations/location-city-marina-deepcurrent-v1-marina-deepcurrent 2.svg",
+    "04_Resources/Assets/Locations/location-city-forge-master-petra-hammerdeep-forge-master-petra-hammerdeep 2.svg",
+    "04_Resources/Assets/Locations/location-city-current-solidarity-current-solidarity 2.svg",
+    "04_Resources/Assets/Locations/location-city-council-of-currents-council-of-currents 2.svg",
+    "04_Resources/Assets/Locations/location-city-kelp-forests-kelp-forests 2.svg",
+    "04_Resources/Assets/Locations/location-city-marina-deepcurrent-marina-deepcurrent 2.svg",
+    "04_Resources/Assets/Locations/location-city-ambassador-mark-exchangekeeper-v1-ambassador-mark-exchangekeeper 2.svg",
+    "04_Resources/Assets/Locations/location-city-keeper-thundercall-keeper-thundercall 2.svg",
+    "04_Resources/Assets/Locations/location-city-crystal-engineer-spark-gemwright-v1-crystal-engineer-spark-gemwright 2.svg",
+    "04_Resources/Assets/Locations/location-city-temple-of-shadows-temple-of-shadows 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-hidden-cove-of-whispers-the-hidden-cove-of-whispers 2.svg",
+    "04_Resources/Assets/Locations/location-city-observation-tender-clara-observation-tender-clara 2.svg",
+    "04_Resources/Assets/Locations/location-city-depth-merchant-s-consortium-v1-depth-merchant-s-consortium 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-hidden-cove-of-whispers-v1-the-hidden-cove-of-whispers 2.svg",
+    "04_Resources/Assets/Locations/location-city-teacher-miranda-hopekeeper-teacher-miranda-hopekeeper 2.svg",
+    "04_Resources/Assets/Locations/location-city-legal-counsel-derek-lawkeeper-v1-legal-counsel-derek-lawkeeper 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-pressure-crown-the-pressure-crown 2.svg",
+    "04_Resources/Assets/Locations/location-city-marina-stormwright-v1-marina-stormwright 2.svg",
+    "04_Resources/Assets/Locations/location-city-battle-priest-cassius-depthshield-v1-battle-priest-cassius-depthshield 2.svg",
+    "04_Resources/Assets/Locations/location-city-depth-warden-depth-warden 2.svg",
+    "04_Resources/Assets/Locations/location-city-abyssal-territories-abyssal-territories 2.svg",
+    "04_Resources/Assets/Locations/location-city-angels-and-depths-angels-and-depths 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-iron-pits-of-malachar-v1-the-iron-pits-of-malachar 2.svg",
+    "04_Resources/Assets/Locations/location-city-inverted-ballroom-wing-v1-inverted-ballroom-wing 2.svg",
+    "04_Resources/Assets/Locations/location-city-ancient-echo-truthfinder-v1-ancient-echo-truthfinder 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-reflection-pools-the-reflection-pools 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-reflection-pools-v1-the-reflection-pools 2.svg",
+    "04_Resources/Assets/Locations/location-city-skyship-technology-skyship-technology 2.svg",
+    "04_Resources/Assets/Locations/location-city-angels-and-depths-v1-angels-and-depths 2.svg",
+    "04_Resources/Assets/Locations/location-city-grief-harvester-melancholy-grief-harvester-melancholy 2.svg",
+    "04_Resources/Assets/Locations/location-city-pilgrimage-master-depth-guide-melancholy-v1-pilgrimage-master-depth-guide-melancholy 2.svg",
+    "04_Resources/Assets/Locations/location-city-financial-institutions-financial-institutions 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-trencher-folk-v1-the-trencher-folk 2.svg",
+    "04_Resources/Assets/Locations/location-city-grief-harvester-melancholy-v1-grief-harvester-melancholy 2.svg",
+    "04_Resources/Assets/Locations/location-city-seal-keepers-seal-keepers 2.svg",
+    "04_Resources/Assets/Locations/location-city-shadow-crystals-v1-shadow-crystals 2.svg",
+    "04_Resources/Assets/Locations/location-city-council-of-currents-v1-council-of-currents 2.svg",
+    "04_Resources/Assets/Locations/location-city-truth-and-madness-v1-truth-and-madness 2.svg",
+    "04_Resources/Assets/Locations/location-city-guardian-neutralwatch-guardian-neutralwatch 2.svg",
+    "04_Resources/Assets/Locations/location-city-memorial-district-of-abyssos-prime-v1-memorial-district-of-abyssos-prime 2.svg",
+    "04_Resources/Assets/Locations/location-city-sunlight-crystal-sunlight-crystal 2.svg",
+    "04_Resources/Assets/Locations/location-city-legal-counsel-derek-lawkeeper-legal-counsel-derek-lawkeeper 2.svg",
+    "04_Resources/Assets/Locations/location-city-titan-foundationbearer-v1-titan-foundationbearer 2.svg",
+    "04_Resources/Assets/Locations/location-city-grief-overwhelming-syndrome-v1-grief-overwhelming-syndrome 2.svg",
+    "04_Resources/Assets/Locations/location-city-current-solidarity-v1-current-solidarity 2.svg",
+    "04_Resources/Assets/Locations/location-city-grief-overwhelming-syndrome-grief-overwhelming-syndrome 2.svg",
+    "04_Resources/Assets/Locations/location-city-progressive-policy-portfolio-progressive-policy-portfolio 2.svg",
+    "04_Resources/Assets/Locations/location-city-the-whispering-depths-the-whispering-depths 2.svg",
+    "04_Resources/Assets/Locations/location-city-sage-iris-crystalbloom-sage-iris-crystalbloom 2.svg",
+    "04_Resources/Assets/Locations/location-city-beast-master-krell-chainbreaker-beast-master-krell-chainbreaker 2.svg",
+    "backups/Campaign_Quick_Reference_Sheets 2.md",
+    "backups/09_Performance/Reports/CHARACTER_CONSISTENCY_REPORT 2.md",
+    "backups/09_Performance/Indexes/Item_Catalog_Complete 2.md",
+    "backups/09_Performance/Indexes/Complete_NPC_Matrix 2.md",
+    "backups/09_Performance/Indexes/Location_Network_Graph 2.md",
+    "backups/09_Performance/Indexes/Master_Narrative_Web 2.md",
+    "backups/09_Performance/Indexes/Monster_Ecology_Web 2.md",
+    "backups/09_Performance/Indexes/Seven_Shards_Tracker 2.md",
+    "backups/09_Performance/Indexes/Quest_Dependency_System 2.md"
+  ],
+  "dry_run": false
+}

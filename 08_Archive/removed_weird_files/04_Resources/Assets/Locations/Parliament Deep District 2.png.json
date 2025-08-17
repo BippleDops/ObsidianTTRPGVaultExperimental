@@ -1,0 +1,18 @@
+{
+  "name": "Parliament Deep District 2",
+  "type": "location",
+  "generated": "2025-08-15T18:18:10.235Z",
+  "prompt": "fantasy landscape called Parliament Deep District 2, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Parliament Deep District 2.png.json",
+  "reorganized": "2025-08-15T18:33:00.754Z"
+}

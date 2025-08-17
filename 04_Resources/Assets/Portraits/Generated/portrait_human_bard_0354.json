@@ -1,0 +1,16 @@
+{
+  "name": "Human Bard 354",
+  "type": "portrait",
+  "race": "human",
+  "class": "bard",
+  "gender": "male",
+  "age": "young",
+  "tags": [
+    "portrait",
+    "character",
+    "human",
+    "bard",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.716Z"
+}

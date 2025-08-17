@@ -1,0 +1,18 @@
+{
+  "name": "Reality Breach Locations",
+  "type": "map",
+  "generated": "2025-08-15T18:18:14.881Z",
+  "prompt": "fantasy map of Reality Breach Locations, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Reality Breach Locations.png.json",
+  "reorganized": "2025-08-15T18:33:03.484Z"
+}

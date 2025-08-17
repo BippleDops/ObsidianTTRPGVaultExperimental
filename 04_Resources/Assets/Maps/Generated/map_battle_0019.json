@@ -1,0 +1,46 @@
+{
+  "name": "Battle Map 19",
+  "type": "map",
+  "mapType": "battle",
+  "gridSize": "25x25",
+  "scale": "5ft per square",
+  "tags": [
+    "map",
+    "battle",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 4.409466908769611,
+      "y": 27.92463990225229,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 2",
+      "x": 89.14972716584961,
+      "y": 98.36478949058993,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 3",
+      "x": 73.3401551851802,
+      "y": 28.363032047949133,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 4",
+      "x": 24.191071114831388,
+      "y": 1.7699053706974666,
+      "type": "town"
+    },
+    {
+      "name": "Location 5",
+      "x": 64.44463044542047,
+      "y": 26.82286710356394,
+      "type": "town"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.554Z"
+}

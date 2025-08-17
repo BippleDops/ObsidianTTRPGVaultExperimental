@@ -1,0 +1,22 @@
+{
+  "id": "job_portrait_aquabyssos_1755202714872",
+  "type": "portrait",
+  "world": "aquabyssos",
+  "prompts": [
+    {
+      "name": "portrait_aquabyssos_0",
+      "prompt": "portrait in aquabyssos setting, highly detailed, fantasy art",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "name": "portrait_aquabyssos_1",
+      "prompt": "portrait in aquabyssos setting, highly detailed, fantasy art",
+      "width": 512,
+      "height": 512
+    }
+  ],
+  "priority": 5,
+  "createdAt": "2025-08-14T20:18:34.872Z",
+  "outputDir": "04_Resources/Assets/Portraits"
+}

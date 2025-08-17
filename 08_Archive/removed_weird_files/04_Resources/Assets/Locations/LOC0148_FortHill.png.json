@@ -1,0 +1,18 @@
+{
+  "name": "LOC0148_FortHill",
+  "type": "location",
+  "generated": "2025-08-15T18:18:03.724Z",
+  "prompt": "fantasy landscape called LOC0148_FortHill, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/LOC0148_FortHill.png.json",
+  "reorganized": "2025-08-15T18:33:00.655Z"
+}

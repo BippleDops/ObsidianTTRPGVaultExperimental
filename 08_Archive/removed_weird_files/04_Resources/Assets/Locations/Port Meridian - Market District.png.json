@@ -1,0 +1,18 @@
+{
+  "name": "Port Meridian - Market District",
+  "type": "location",
+  "generated": "2025-08-15T18:18:11.988Z",
+  "prompt": "fantasy landscape called Port Meridian - Market District, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Port Meridian - Market District.png.json",
+  "reorganized": "2025-08-15T18:33:00.777Z"
+}

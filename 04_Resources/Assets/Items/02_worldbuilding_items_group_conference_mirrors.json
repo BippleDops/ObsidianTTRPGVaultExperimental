@@ -1,0 +1,25 @@
+{
+  "title": "02_Worldbuilding/Items/Group Conference Mirrors",
+  "prompt": "02 worldbuilding/items/group conference mirrors, game asset, item showcase, centered composition, studio lighting, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, product photography lighting, clean background, soft shadows, high detail, 4k texture, pbr materials, game ready",
+  "negative": "blurry, pixelated, low poly, stretched textures, amateur 3d",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:16:54.257Z",
+  "sourceFile": "/02_Worldbuilding/Groups/02_Worldbuilding/Items/Group Conference Mirrors.md",
+  "tags": [
+    "item",
+    "equipment-art",
+    "object",
+    "generated",
+    "realistic",
+    "photorealistic",
+    "detailed",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Items/02_worldbuilding_items_group_conference_mirrors.json",
+  "reorganized": "2025-08-15T18:32:57.534Z"
+}

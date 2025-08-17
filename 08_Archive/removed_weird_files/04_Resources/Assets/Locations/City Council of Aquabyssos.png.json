@@ -1,0 +1,22 @@
+{
+  "name": "City Council of Aquabyssos",
+  "type": "location",
+  "generated": "2025-08-15T18:17:16.163Z",
+  "prompt": "fantasy cityscape called City Council of Aquabyssos, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "aquabyssos",
+    "underwater",
+    "oceanic",
+    "fantasy",
+    "medieval",
+    "magical",
+    "city"
+  ],
+  "location": "04_Resources/Assets/Locations/City Council of Aquabyssos.png.json",
+  "reorganized": "2025-08-15T18:32:59.470Z"
+}

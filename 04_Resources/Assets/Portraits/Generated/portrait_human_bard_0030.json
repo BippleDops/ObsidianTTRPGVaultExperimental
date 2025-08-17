@@ -1,0 +1,16 @@
+{
+  "name": "Human Bard 30",
+  "type": "portrait",
+  "race": "human",
+  "class": "bard",
+  "gender": "female",
+  "age": "adult",
+  "tags": [
+    "portrait",
+    "character",
+    "human",
+    "bard",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.560Z"
+}

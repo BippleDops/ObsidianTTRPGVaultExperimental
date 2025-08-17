@@ -1,0 +1,18 @@
+{
+  "name": "The Memory Meadows",
+  "type": "location",
+  "generated": "2025-08-15T18:18:25.518Z",
+  "prompt": "fantasy landscape called The Memory Meadows, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/The Memory Meadows.png.json",
+  "reorganized": "2025-08-15T18:33:01.059Z"
+}

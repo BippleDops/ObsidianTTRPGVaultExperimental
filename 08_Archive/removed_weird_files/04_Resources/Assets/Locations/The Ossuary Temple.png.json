@@ -1,0 +1,18 @@
+{
+  "name": "The Ossuary Temple",
+  "type": "location",
+  "generated": "2025-08-15T18:18:26.145Z",
+  "prompt": "fantasy temple called The Ossuary Temple, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/The Ossuary Temple.png.json",
+  "reorganized": "2025-08-15T18:33:01.070Z"
+}

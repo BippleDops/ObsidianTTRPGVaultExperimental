@@ -1,0 +1,10 @@
+{
+  "type": "location_variant",
+  "generated": "2025-08-15T02:48:26.064Z",
+  "metadata": {
+    "name": "The Algaebrew Tavern",
+    "variant": "rain"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

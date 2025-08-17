@@ -1,0 +1,18 @@
+{
+  "name": "The Harbormaster's Office",
+  "type": "map",
+  "generated": "2025-08-15T18:18:24.487Z",
+  "prompt": "fantasy map of The Harbormaster's Office, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/The Harbormaster's Office.png.json",
+  "reorganized": "2025-08-15T18:33:03.666Z"
+}

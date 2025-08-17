@@ -1,0 +1,19 @@
+{
+  "name": "NPC01731_Gavril_Darkwater_the_Scholar",
+  "type": "token",
+  "generated": "2025-08-15T18:16:10.269Z",
+  "prompt": "character token for NPC01731_Gavril_Darkwater_the_Scholar, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "dark",
+    "gritty",
+    "horror",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC01731_Gavril_Darkwater_the_Scholar.png.json",
+  "reorganized": "2025-08-15T18:33:11.874Z"
+}

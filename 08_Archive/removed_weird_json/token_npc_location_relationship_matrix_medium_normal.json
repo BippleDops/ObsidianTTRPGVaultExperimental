@@ -1,0 +1,12 @@
+{
+  "type": "token",
+  "generated": "2025-08-15T02:48:25.961Z",
+  "metadata": {
+    "name": "#NPC-Location Relationship Matrix",
+    "size": "medium",
+    "state": "normal",
+    "border": "simple"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

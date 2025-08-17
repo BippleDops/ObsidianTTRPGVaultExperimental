@@ -1,0 +1,32 @@
+{
+  "id": "artifact-windvane-pota",
+  "type": "item",
+  "name": "windvane-pota",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: windvane-pota, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, skyward romantic realism, cloudstone and brass, wind-swept forms, airship motifs, palette: navy, gold, cloud-white, warm sun highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 2001,
+  "alt_text": "Artifact windvane-pota with materials, runes, and scale.",
+  "realm": "aethermoor",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Generate a painting capturing a heroic fantasy theme with a touch of medieval appeal. The scene should lack modern technology or indications. The visual style should align with a consistent, rich, painterly collection. In focus, there should be a detailed artifact: a wind vane pot crafted from elements such as pearl, coral, cloud-crystal, and pressure-forged metals. The pot should be adorned with abstract, meaningful sigils emitting a gentle glow. For size perspective, include a hand or a ruler in the image. The artifact's design ought to incorporate motifs of airships and present wind-swept forms. The color palette for this project includes shades of navy, gold, cloud white, with warm highlights reminiscent of the sun's glow. Retain the specified aspect and resolution while avoiding artifacts. Abstain from including sci-fi UIs, photoreal signage, hyperreal CGI, or styles representative of anime or excessive bloom glare.",
+  "file": "04_Resources/Assets/Items/item-artifact-windvane-pota-windvane-pota.png"
+}

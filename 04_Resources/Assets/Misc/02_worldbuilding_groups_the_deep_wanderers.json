@@ -1,0 +1,22 @@
+{
+  "title": "02_Worldbuilding/Groups/The Deep Wanderers",
+  "prompt": "02 worldbuilding/groups/the deep wanderers, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:24:49.982Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Groups/The Deep Wanderers.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/02_worldbuilding_groups_the_deep_wanderers.json",
+  "reorganized": "2025-08-15T18:33:03.924Z"
+}

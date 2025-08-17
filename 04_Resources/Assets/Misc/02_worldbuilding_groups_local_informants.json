@@ -1,0 +1,22 @@
+{
+  "title": "02_Worldbuilding/Groups/Local Informants",
+  "prompt": "02 worldbuilding/groups/local informants, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:18:56.121Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Groups/Local Informants.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/02_worldbuilding_groups_local_informants.json",
+  "reorganized": "2025-08-15T18:33:03.906Z"
+}

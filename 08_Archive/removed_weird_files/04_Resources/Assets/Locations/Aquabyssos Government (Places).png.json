@@ -1,0 +1,21 @@
+{
+  "name": "Aquabyssos Government (Places)",
+  "type": "location",
+  "generated": "2025-08-15T18:16:30.653Z",
+  "prompt": "fantasy landscape called Aquabyssos Government (Places), establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "aquabyssos",
+    "underwater",
+    "oceanic",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Aquabyssos Government (Places).png.json",
+  "reorganized": "2025-08-15T18:32:58.453Z"
+}

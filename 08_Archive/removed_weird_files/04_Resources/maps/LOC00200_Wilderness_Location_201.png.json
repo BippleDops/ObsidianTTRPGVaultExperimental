@@ -1,0 +1,18 @@
+{
+  "name": "LOC00200_Wilderness_Location_201",
+  "type": "map",
+  "generated": "2025-08-15T18:17:52.887Z",
+  "prompt": "fantasy map of LOC00200_Wilderness_Location_201, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/LOC00200_Wilderness_Location_201.png.json",
+  "reorganized": "2025-08-15T18:33:03.009Z"
+}

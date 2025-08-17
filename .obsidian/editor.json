@@ -1,0 +1,13 @@
+{
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US"
+  ],
+  "rightToLeft": false,
+  "vimMode": false,
+  "smartIndentList": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "lineWrap": true
+}

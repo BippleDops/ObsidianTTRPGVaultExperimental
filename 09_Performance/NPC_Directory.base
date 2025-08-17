@@ -1,0 +1,279 @@
+formulas:
+  # Full name with title
+  FullName: |
+    js:
+    const title = target.title || "";
+    const name = target.file.name;
+    return title ? `${title} ${name}` : name;
+  
+  # Location link
+  LocationLink: |
+    js:
+    if (target.location) {
+      if (typeof target.location === 'string') {
+        return target.location;
+      } else if (target.location.path) {
+        return `[[${target.location.path}|${target.location.name}]]`;
+      }
+    }
+    return "Unknown";
+  
+  # Status indicator
+  StatusIndicator: |
+    js:
+    const status = target.status || 'unknown';
+    const indicators = {
+      'active': '✅',
+      'dead': '💀',
+      'missing': '❓',
+      'retired': '🏡',
+      'imprisoned': '🔒',
+      'unknown': '❔'
+    };
+    return indicators[status] || '❔';
+  
+  # Relationship color
+  RelationshipColor: |
+    js:
+    const rel = target.relationship || 'neutral';
+    const colors = {
+      'hostile': '#ff0000',
+      'unfriendly': '#ff6600',
+      'neutral': '#808080',
+      'friendly': '#00cc00',
+      'allied': '#0066ff'
+    };
+    return `<span style="color: ${colors[rel] || '#808080'}">●</span> ${rel}`;
+  
+  # Last interaction
+  LastInteraction: |
+    js:
+    if (target.lastSeen) {
+      const last = moment(target.lastSeen);
+      const now = moment();
+      const days = now.diff(last, 'days');
+      
+      if (days === 0) return "Today";
+      if (days === 1) return "Yesterday";
+      if (days < 7) return `${days} days ago`;
+      if (days < 30) return `${Math.floor(days/7)} weeks ago`;
+      return last.format("MMM DD, YYYY");
+    }
+    return "Never met";
+  
+  # Faction badge
+  FactionBadge: |
+    js:
+    if (target.faction) {
+      const factionName = target.faction.replace(/[\[\]]/g, '').split('|').pop();
+      const factionColors = {
+        'Harpers': '#0066cc',
+        'Zhentarim': '#660066',
+        'Lords Alliance': '#cc9900',
+        'Order of the Gauntlet': '#cc0000',
+        'Emerald Enclave': '#009900'
+      };
+      const color = factionColors[factionName] || '#666666';
+      return `<span style="background: ${color}; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">${factionName}</span>`;
+    }
+    return "";
+  
+  # Quick info
+  QuickInfo: |
+    js:
+    const parts = [];
+    if (target.appearance?.race) parts.push(target.appearance.race);
+    if (target.appearance?.gender) parts.push(target.appearance.gender);
+    if (target.occupation) parts.push(target.occupation);
+    return parts.join(" • ");
+  
+  # Overdue contact flag (>30 days)
+  OverdueContact: |
+    js:
+    if (!target.lastSeen) return '';
+    const last = moment(target.lastSeen);
+    const days = moment().diff(last, 'days');
+    return days > 30 ? '⏰ Check-in' : '';
+
+views:
+  - type: table
+    name: Active NPCs
+    filters:
+      and:
+        - anyOf:
+            - tags contains "Category/People"
+            - tags contains "Category/People"
+        - char_status == "Alive"
+    columns:
+      - formula.StatusIndicator
+      - file.name
+      - formula.LocationLink
+      - occupation
+      - formula.FactionBadge
+      - formula.RelationshipColor
+      - formula.LastInteraction
+      - formula.OverdueContact
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      formula.StatusIndicator: 40
+      file.name: 150
+      formula.LocationLink: 150
+      occupation: 120
+      formula.FactionBadge: 120
+      formula.RelationshipColor: 100
+      formula.LastInteraction: 100
+      formula.OverdueContact: 110
+
+  - type: table
+    name: All NPCs
+    filters:
+      and:
+        - anyOf:
+            - tags contains "Category/People"
+            - tags contains "Category/People"
+    columns:
+      - formula.StatusIndicator
+      - file.name
+      - formula.LocationLink
+      - occupation
+      - formula.FactionBadge
+      - formula.RelationshipColor
+      - formula.LastInteraction
+      - firstMet
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      formula.StatusIndicator: 40
+      file.name: 150
+      formula.LocationLink: 150
+      occupation: 120
+      formula.FactionBadge: 120
+      formula.RelationshipColor: 100
+      formula.LastInteraction: 100
+      firstMet: 100
+      
+  - type: cards
+    name: Important NPCs
+    filters:
+      and:
+        - anyOf:
+            - tags contains "Category/People"
+            - tags contains "Category/People"
+        - anyOf:
+            - tags contains "important"
+            - relationship == "allied"
+            - tags contains "questgiver"
+    columns: 3
+    properties:
+      - image_path
+      - formula.FullName
+      - formula.QuickInfo
+      - formula.LocationLink
+      - formula.FactionBadge
+      - formula.RelationshipColor
+      - motivation
+      
+  - type: table
+    name: By Location
+    filters:
+      and:
+        - anyOf:
+            - tags contains "Category/People"
+            - tags contains "Category/People"
+        - "{{location}}"
+    columns:
+      - formula.StatusIndicator
+      - file.name
+      - occupation
+      - formula.RelationshipColor
+    parameters:
+      location:
+        type: link
+        source: "2-World/Places"
+        
+  - type: table
+    name: By Faction
+    filters:
+      and:
+        - anyOf:
+            - tags contains "Category/People"
+            - tags contains "Category/People"
+        - faction
+    columns:
+      - faction
+      - file.name
+      - formula.StatusIndicator
+      - formula.LocationLink
+      - formula.RelationshipColor
+    sort:
+      - property: faction
+        direction: ASC
+      - property: file.name
+        direction: ASC
+        
+  - type: cards
+    name: NPC Gallery
+    filters:
+      and:
+        - anyOf:
+            - tags contains "Category/People"
+            - tags contains "Category/People"
+        - image_path
+    columns: 5
+    properties:
+      - image_path
+      - file.name
+      - formula.QuickInfo
+      - formula.LocationLink
+      - formula.RelationshipColor
+      
+  - type: table
+    name: Relationship Tracker
+    filters:
+      and:
+        - anyOf:
+            - tags contains "Category/People"
+            - tags contains "Category/People"
+        - not:
+            - relationship == "neutral"
+    columns:
+      - formula.RelationshipColor
+      - file.name
+      - formula.LocationLink
+      - formula.LastInteraction
+      - notes
+    sort:
+      - property: relationship
+        direction: DESC
+    columnSize:
+      formula.RelationshipColor: 100
+      file.name: 150
+      formula.LocationLink: 150
+      formula.LastInteraction: 100
+      notes: 300 
+      
+  - type: table
+    name: Session Hooks
+    filters:
+      and:
+        - anyOf:
+            - tags contains "Category/People"
+            - tags contains "Category/People"
+        - char_status == "Alive"
+        - lastSeen
+    columns:
+      - file.name
+      - lastSeen
+      - formula.LocationLink
+      - formula.OverdueContact
+    sort:
+      - property: lastSeen
+        direction: ASC
+    columnSize:
+      file.name: 160
+      lastSeen: 120
+      formula.LocationLink: 160
+      formula.OverdueContact: 120

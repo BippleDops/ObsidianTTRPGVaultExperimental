@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1440" viewBox="0 0 2560 1440">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1f0f24"/>
+      <stop offset="100%" stop-color="#49274a"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#grad)"/>
+  <circle cx="2176" cy="288" r="173" fill="#94618e" opacity="0.25"/>
+  <g fill="#f8eee7" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif">
+    <text x="5%" y="50%" font-size="86" font-weight="700">Lady Nexus Goldcurrent</text>
+    <text x="5%" y="50%" dy="77" font-size="39" opacity="0.9">PORTRAIT • solemn • rim-lit</text>
+    <text x="5%" y="95%" font-size="30" opacity="0.8">16:9 · 2560x1440 · painterly, fantasy realism</text>
+  </g>
+</svg>

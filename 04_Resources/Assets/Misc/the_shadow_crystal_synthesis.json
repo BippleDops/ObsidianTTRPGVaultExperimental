@@ -1,0 +1,22 @@
+{
+  "title": "The Shadow-Crystal Synthesis",
+  "prompt": "The shadow-crystal synthesis, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, crystal, shadow",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:40:52.945Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/the_shadow_crystal_synthesis.json",
+  "reorganized": "2025-08-15T18:33:07.569Z"
+}

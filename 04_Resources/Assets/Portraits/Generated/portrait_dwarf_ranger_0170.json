@@ -1,0 +1,16 @@
+{
+  "name": "Dwarf Ranger 170",
+  "type": "portrait",
+  "race": "dwarf",
+  "class": "ranger",
+  "gender": "male",
+  "age": "elder",
+  "tags": [
+    "portrait",
+    "character",
+    "dwarf",
+    "ranger",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.633Z"
+}

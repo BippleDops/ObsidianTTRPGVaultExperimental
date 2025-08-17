@@ -1,0 +1,18 @@
+{
+  "name": "LOC00009_Cities_Location_10",
+  "type": "map",
+  "generated": "2025-08-15T18:17:24.100Z",
+  "prompt": "fantasy map of LOC00009_Cities_Location_10, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/LOC00009_Cities_Location_10.png.json",
+  "reorganized": "2025-08-15T18:33:02.512Z"
+}

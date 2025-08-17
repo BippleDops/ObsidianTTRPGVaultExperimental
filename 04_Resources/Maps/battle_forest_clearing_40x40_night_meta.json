@@ -1,0 +1,19 @@
+{
+  "name": "Forest_Clearing",
+  "type": "battle",
+  "environment": "forest",
+  "variant": "night",
+  "size": "40x40",
+  "gridSize": 5,
+  "gridType": "square",
+  "features": [
+    "trees",
+    "undergrowth",
+    "rocks",
+    "stream"
+  ],
+  "lighting": "dark",
+  "generated": "2025-08-15T02:48:39.201Z",
+  "placeholder": true,
+  "generationRules": {}
+}

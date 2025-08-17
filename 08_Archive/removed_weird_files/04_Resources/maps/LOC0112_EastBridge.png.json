@@ -1,0 +1,18 @@
+{
+  "name": "LOC0112_EastBridge",
+  "type": "map",
+  "generated": "2025-08-15T18:18:02.591Z",
+  "prompt": "fantasy map of LOC0112_EastBridge, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/LOC0112_EastBridge.png.json",
+  "reorganized": "2025-08-15T18:33:03.272Z"
+}

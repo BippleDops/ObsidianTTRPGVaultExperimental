@@ -1,0 +1,14 @@
+{
+  "enableDataviewJs": true,
+  "enableInlineDataview": true,
+  "enableInlineDataviewJs": true,
+  "prettyRenderInlineFields": true,
+  "dataviewJSKeyword": "dataviewjs",
+  "inlineJsQueryPrefix": "= ",
+  "inlineQueryPrefix": "= ",
+  "refreshEnabled": true,
+  "refreshInterval": 2500,
+  "defaultDateFormat": "yyyy-MM-dd",
+  "defaultDateTimeFormat": "yyyy-MM-dd HH:mm",
+  "maxRecursiveRenderDepth": 4
+}

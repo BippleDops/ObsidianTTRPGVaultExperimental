@@ -1,0 +1,18 @@
+{
+  "name": "The Deserter",
+  "type": "location",
+  "generated": "2025-08-15T18:18:23.144Z",
+  "prompt": "fantasy landscape called The Deserter, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/The Deserter.png.json",
+  "reorganized": "2025-08-15T18:33:01.012Z"
+}

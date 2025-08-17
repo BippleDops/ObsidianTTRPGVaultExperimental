@@ -1,0 +1,19 @@
+{
+  "name": "NPC00825_Wynne_Darkwater_the_Bold",
+  "type": "token",
+  "generated": "2025-08-15T18:15:51.391Z",
+  "prompt": "character token for NPC00825_Wynne_Darkwater_the_Bold, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "dark",
+    "gritty",
+    "horror",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC00825_Wynne_Darkwater_the_Bold.png.json",
+  "reorganized": "2025-08-15T18:33:11.310Z"
+}

@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "title": "\ud83c\udfb2 DM Essentials",
+      "items": [
+        {
+          "type": "file",
+          "path": "00_System/00_GM_DASHBOARD.md"
+        },
+        {
+          "type": "file",
+          "path": "00_System/Master_Campaign_Index.md"
+        },
+        {
+          "type": "file",
+          "path": "03_People/00_NPC_Master_Database.md"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "title": "\u26a1 Quick Actions",
+      "items": [
+        {
+          "type": "file",
+          "path": "00_System/Quick_Capture_Inbox"
+        },
+        {
+          "type": "search",
+          "query": "tag:#quick_capture"
+        }
+      ]
+    }
+  ]
+}

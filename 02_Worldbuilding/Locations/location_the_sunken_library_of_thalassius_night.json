@@ -1,0 +1,10 @@
+{
+  "type": "location_variant",
+  "generated": "2025-08-15T02:48:26.407Z",
+  "metadata": {
+    "name": "The Sunken Library of Thalassius",
+    "variant": "night"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

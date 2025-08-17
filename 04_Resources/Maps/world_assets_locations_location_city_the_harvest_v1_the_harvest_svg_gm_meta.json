@@ -1,0 +1,35 @@
+{
+  "name": "Assets Locations Location City the Harvest V1 the Harvest.svg",
+  "type": "world",
+  "scale": "continent",
+  "style": "antique",
+  "features": [
+    "all",
+    "secrets",
+    "resources"
+  ],
+  "size": "4096x3072",
+  "grid": false,
+  "generated": "2025-08-15T02:48:37.352Z",
+  "placeholder": true,
+  "generationRules": {
+    "land_percentage": {
+      "min": 0.3,
+      "max": 0.7
+    },
+    "mountain_chains": {
+      "min": 3,
+      "max": 7
+    },
+    "major_rivers": {
+      "min": 5,
+      "max": 12
+    },
+    "climate_zones": [
+      "arctic",
+      "temperate",
+      "tropical",
+      "desert"
+    ]
+  }
+}

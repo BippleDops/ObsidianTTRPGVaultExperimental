@@ -1,0 +1,18 @@
+{
+  "name": "LOC00169_Planes_Location_170",
+  "type": "location",
+  "generated": "2025-08-15T18:17:39.849Z",
+  "prompt": "fantasy landscape called LOC00169_Planes_Location_170, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/LOC00169_Planes_Location_170.png.json",
+  "reorganized": "2025-08-15T18:33:00.252Z"
+}

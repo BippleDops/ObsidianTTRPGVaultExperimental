@@ -1,0 +1,31 @@
+{
+  "id": "heraldry-order-of-the-drowned-star-v1",
+  "type": "symbol",
+  "name": "Order of the Drowned Star",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Order of the Drowned Star, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, cosmic surrealism, impossible geometries, starfield grain, indigo glows, palette: indigos, violets, black, cold silver, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "mysterious",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7090,
+  "alt_text": "Heraldic emblem for Order of the Drowned Star.",
+  "realm": "void",
+  "palette": "deep blues",
+  "textPolicy": "no words or inscriptions; pure iconography",
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-order-of-the-drowned-star-v1-order-of-the-drowned-star.svg"
+}

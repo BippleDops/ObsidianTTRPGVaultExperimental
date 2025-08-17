@@ -1,0 +1,22 @@
+{
+  "title": "Chaplain Abyssos the Deepseeke",
+  "prompt": "Chaplain abyssos the deepseeke, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:42:06.757Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Chaplain Abyssos the Deepseeke.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/chaplain_abyssos_the_deepseeke.json",
+  "reorganized": "2025-08-15T18:33:07.350Z"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "LOC00242_Towns_Location_243",
+  "type": "location",
+  "generated": "2025-08-15T18:17:47.540Z",
+  "prompt": "fantasy landscape called LOC00242_Towns_Location_243, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/LOC00242_Towns_Location_243.png.json",
+  "reorganized": "2025-08-15T18:33:00.449Z"
+}

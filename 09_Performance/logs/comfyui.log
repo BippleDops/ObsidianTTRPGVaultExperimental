@@ -1,0 +1,62 @@
+Adding extra search path checkpoints /Users/jongosussmango/stable-diffusion-webui/models/Stable-diffusion
+Adding extra search path configs /Users/jongosussmango/stable-diffusion-webui/models/Stable-diffusion
+Adding extra search path vae /Users/jongosussmango/stable-diffusion-webui/models/VAE
+Adding extra search path loras /Users/jongosussmango/stable-diffusion-webui/models/Lora
+Adding extra search path loras /Users/jongosussmango/stable-diffusion-webui/models/LyCORIS
+Adding extra search path upscale_models /Users/jongosussmango/stable-diffusion-webui/models/ESRGAN
+Adding extra search path upscale_models /Users/jongosussmango/stable-diffusion-webui/models/RealESRGAN
+Adding extra search path upscale_models /Users/jongosussmango/stable-diffusion-webui/models/SwinIR
+Adding extra search path embeddings /Users/jongosussmango/stable-diffusion-webui/embeddings
+Adding extra search path hypernetworks /Users/jongosussmango/stable-diffusion-webui/models/hypernetworks
+Adding extra search path controlnet /Users/jongosussmango/stable-diffusion-webui/models/ControlNet
+Adding extra search path checkpoints /Users/jongosussmango/ComfyUI/models/checkpoints
+Adding extra search path configs /Users/jongosussmango/ComfyUI/models/configs
+Adding extra search path vae /Users/jongosussmango/ComfyUI/models/vae
+Adding extra search path loras /Users/jongosussmango/ComfyUI/models/loras
+Adding extra search path upscale_models /Users/jongosussmango/ComfyUI/models/upscale_models
+Adding extra search path embeddings /Users/jongosussmango/ComfyUI/models/embeddings
+Adding extra search path controlnet /Users/jongosussmango/ComfyUI/models/controlnet
+Adding extra search path clip /Users/jongosussmango/ComfyUI/models/clip
+Adding extra search path clip_vision /Users/jongosussmango/ComfyUI/models/clip_vision
+Adding extra search path style_models /Users/jongosussmango/ComfyUI/models/style_models
+Adding extra search path t2i_adapter /Users/jongosussmango/ComfyUI/models/t2i_adapter
+Adding extra search path animatediff_models /Users/jongosussmango/ComfyUI/models/animatediff_models
+Adding extra search path animatediff_motion_lora /Users/jongosussmango/ComfyUI/models/animatediff_motion_lora
+Checkpoint files will always be loaded safely.
+Total VRAM 65536 MB, total RAM 65536 MB
+pytorch version: 2.8.0
+Mac Version (15, 6)
+Set vram state to: SHARED
+Device: mps
+Using sub quadratic optimization for attention, if you have memory or speed issues try using: --use-split-cross-attention
+Python version: 3.12.1 (v3.12.1:2305ca5144, Dec  7 2023, 17:23:38) [Clang 13.0.0 (clang-1300.0.29.30)]
+ComfyUI version: 0.3.50
+ComfyUI frontend version: 1.24.4
+[Prompt Server] web root: /Users/jongosussmango/ComfyUI/venv/lib/python3.12/site-packages/comfyui_frontend_package/static
+
+Import times for custom nodes:
+   0.0 seconds: /Users/jongosussmango/ComfyUI/custom_nodes/websocket_image_save.py
+
+Context impl SQLiteImpl.
+Will assume non-transactional DDL.
+No target revision found.
+Starting server
+
+Traceback (most recent call last):
+  File "/Users/jongosussmango/ComfyUI/main.py", line 365, in <module>
+    event_loop.run_until_complete(x)
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_events.py", line 684, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/Users/jongosussmango/ComfyUI/main.py", line 347, in start_all
+    await run(prompt_server, address=args.listen, port=args.port, verbose=not args.dont_print_server, call_on_start=call_on_start)
+  File "/Users/jongosussmango/ComfyUI/main.py", line 241, in run
+    await asyncio.gather(
+  File "/Users/jongosussmango/ComfyUI/server.py", line 945, in start_multi_address
+    await site.start()
+  File "/Users/jongosussmango/ComfyUI/venv/lib/python3.12/site-packages/aiohttp/web_runner.py", line 121, in start
+    self._server = await loop.create_server(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_events.py", line 1559, in create_server
+    raise OSError(err.errno, 'error while attempting '
+OSError: [Errno 48] error while attempting to bind on address ('127.0.0.1', 8188): address already in use

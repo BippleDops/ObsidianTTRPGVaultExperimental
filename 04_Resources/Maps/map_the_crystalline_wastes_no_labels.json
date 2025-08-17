@@ -1,0 +1,12 @@
+{
+  "type": "map",
+  "generated": "2025-08-15T02:48:25.974Z",
+  "metadata": {
+    "name": "'[[The Crystalline Wastes]]'",
+    "type": "regional",
+    "version": "no_labels",
+    "prompt": "top-down battle map, regional, no grid, 1 inch = 10 miles, clear tactical layout"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

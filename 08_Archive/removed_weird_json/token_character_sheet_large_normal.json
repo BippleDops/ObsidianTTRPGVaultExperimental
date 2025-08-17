@@ -1,0 +1,12 @@
+{
+  "type": "token",
+  "generated": "2025-08-15T02:48:25.955Z",
+  "metadata": {
+    "name": "#Character Sheet",
+    "size": "large",
+    "state": "normal",
+    "border": "simple"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

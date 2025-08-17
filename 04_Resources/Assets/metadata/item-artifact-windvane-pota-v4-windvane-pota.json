@@ -1,0 +1,32 @@
+{
+  "id": "artifact-windvane-pota-v4",
+  "type": "item",
+  "name": "windvane-pota",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: windvane-pota, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, skyward romantic realism, cloudstone and brass, wind-swept forms, airship motifs, palette: navy, gold, cloud-white, warm sun highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "hard noon",
+  "mood": "melancholic",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7005,
+  "alt_text": "Artifact windvane-pota with materials, runes, and scale.",
+  "realm": "aethermoor",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create an image in a heroic tabletop fantasy theme, adjacent to Dungeons & Dragons 5E. The scene should be made up of grounded medieval materials, with no modern technology or signage visible. Choose culturally coherent gear for the characters. Render a windvane-pota in detailed focus, made from pearls, coral, cloud-crystal, and pressure-forged metals adorned with abstract sigils that are not letter-like. The product subtly emits a gentle glow and is portrayed next to either a human hand or a ruler to give a sense of scale. The artistic style should lean towards romantic realism, depicting cloudstone and brass structures with wind-swept forms echoing airship motifs. The color palette should consist of navy, gold, and cloud-white tones, balanced with warm sun highlights. Avoid embellishments or styles that suggest sci-fi, modern signage, photorealistic CGI, anime, or excessive bloom glare. The item should not contain any garbled or random letter strings; if symbols are used, they must hold meaning or be represented by numbered pins.",
+  "file": "04_Resources/Assets/Items/item-artifact-windvane-pota-v4-windvane-pota.png"
+}

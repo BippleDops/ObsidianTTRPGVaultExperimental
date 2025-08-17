@@ -1,0 +1,19 @@
+node:internal/modules/cjs/loader:1019
+        throw new ERR_UNKNOWN_BUILTIN_MODULE(specifier);
+        ^
+
+Error [ERR_UNKNOWN_BUILTIN_MODULE]: No such built-in module: node:fetch
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1019:15)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Module._load (node:internal/modules/cjs/loader:1179:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1449:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/scripts/audio_generator.js:11:15)
+    at Module._compile (node:internal/modules/cjs/loader:1692:14)
+    at Object..js (node:internal/modules/cjs/loader:1824:10) {
+  code: 'ERR_UNKNOWN_BUILTIN_MODULE'
+}
+
+Node.js v24.4.1

@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/The Whispering Expanse.md",
+      "x": 0,
+      "y": 0,
+      "width": 460,
+      "height": 140
+    },
+    {
+      "id": "n_02-worldbuilding-places-aethermoor-md_300",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Aethermoor.md",
+      "x": -520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-the-scholar-s-guild-md_220",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/The Scholar's Guild.md",
+      "x": 0,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-the-order-of-the-silent-vigil-md_740",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/The Order of the Silent Vigil.md",
+      "x": 520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-witness-reports-md_120",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Witness Reports.md",
+      "x": -520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-emergency-protocols-md_400",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Emergency Protocols.md",
+      "x": 0,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-innkeeper-marcus-thorne-md_920",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Innkeeper Marcus Thorne.md",
+      "x": 520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-scholar-s-guild-md_60",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/Scholar's Guild.md",
+      "x": -520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-the-pressure-conspiracy-md_580",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/The Pressure Conspiracy.md",
+      "x": 0,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-temporal-navigation-md_1100",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Temporal Navigation.md",
+      "x": 520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-aquabyssos-md_240",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Aquabyssos.md",
+      "x": -520,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-the-crimson-sage-md_760",
+      "type": "file",
+      "file": "02_Worldbuilding/People/The Crimson Sage.md",
+      "x": 0,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-ambush-point-md_1280",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Ambush Point.md",
+      "x": 520,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-aethermoor-md_300"
+    },
+    {
+      "id": "e_1",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-the-scholar-s-guild-md_220"
+    },
+    {
+      "id": "e_2",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-the-order-of-the-silent-vigil-md_740"
+    },
+    {
+      "id": "e_3",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-witness-reports-md_120"
+    },
+    {
+      "id": "e_4",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-emergency-protocols-md_400"
+    },
+    {
+      "id": "e_5",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-innkeeper-marcus-thorne-md_920"
+    },
+    {
+      "id": "e_6",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-scholar-s-guild-md_60"
+    },
+    {
+      "id": "e_7",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-the-pressure-conspiracy-md_580"
+    },
+    {
+      "id": "e_8",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-temporal-navigation-md_1100"
+    },
+    {
+      "id": "e_9",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-aquabyssos-md_240"
+    },
+    {
+      "id": "e_10",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-the-crimson-sage-md_760"
+    },
+    {
+      "id": "e_11",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-ambush-point-md_1280"
+    }
+  ]
+}

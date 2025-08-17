@@ -1,0 +1,38 @@
+
+# Frontmatter Standards for TTRPG Vault
+
+npc_template:
+  type: npc
+  tags: [character, npc]
+  campaign: ""
+  faction: ""
+  location: ""
+  status: active
+  cr: null
+  ac: null
+  hp: null
+
+location_template:
+  type: location
+  tags: [worldbuilding, location]
+  campaign: ""
+  region: ""
+  environment: ""
+  map_reference: ""
+
+quest_template:
+  type: quest
+  tags: [adventure, quest]
+  campaign: ""
+  status: active
+  level: ""
+  giver: ""
+  reward: ""
+
+session_template:
+  type: session
+  tags: [session, gameplay]
+  campaign: ""
+  date: ""
+  number: null
+  participants: []

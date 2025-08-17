@@ -1,0 +1,18 @@
+{
+  "name": "Navigator Flux Timewalker",
+  "type": "location",
+  "generated": "2025-08-15T18:18:09.200Z",
+  "prompt": "fantasy landscape called Navigator Flux Timewalker, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Navigator Flux Timewalker.png.json",
+  "reorganized": "2025-08-15T18:33:00.736Z"
+}

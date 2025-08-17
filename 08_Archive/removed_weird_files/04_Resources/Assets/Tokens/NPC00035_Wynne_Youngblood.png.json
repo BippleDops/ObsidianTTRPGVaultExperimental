@@ -1,0 +1,19 @@
+{
+  "name": "NPC00035_Wynne_Youngblood",
+  "type": "token",
+  "generated": "2025-08-15T18:15:59.964Z",
+  "prompt": "character token for NPC00035_Wynne_Youngblood, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC00035_Wynne_Youngblood.png.json",
+  "reorganized": "2025-08-15T18:33:10.791Z"
+}

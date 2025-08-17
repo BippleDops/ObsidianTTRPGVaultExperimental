@@ -1,0 +1,16 @@
+{
+  "name": "Human Warrior 72",
+  "type": "portrait",
+  "race": "human",
+  "class": "warrior",
+  "gender": "male",
+  "age": "adult",
+  "tags": [
+    "portrait",
+    "character",
+    "human",
+    "warrior",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.585Z"
+}

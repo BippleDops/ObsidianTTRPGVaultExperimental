@@ -1,0 +1,21 @@
+{
+  "name": "Floating Cities",
+  "type": "map",
+  "generated": "2025-08-15T18:17:23.071Z",
+  "prompt": "fantasy map of Floating Cities, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "aethermoor",
+    "sky",
+    "aerial",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Floating Cities.png.json",
+  "reorganized": "2025-08-15T18:33:02.391Z"
+}

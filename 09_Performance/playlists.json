@@ -1,0 +1,170 @@
+{
+  "categories": {
+    "locations": {
+      "name": "Location Playlists",
+      "description": "Background music for different locations",
+      "playlists": {
+        "Aquabyssos Depths": {
+          "themes": [
+            "aquabyssos",
+            "underwater",
+            "deep sea",
+            "aboleth"
+          ],
+          "description": "Mysterious underwater ambience for the depths of Aquabyssos"
+        },
+        "Aethermoor Skies": {
+          "themes": [
+            "aethermoor",
+            "sky",
+            "floating",
+            "ethereal"
+          ],
+          "description": "Ethereal music for the floating realms of Aethermoor"
+        },
+        "Abyssos Prime": {
+          "themes": [
+            "abyssos prime",
+            "inverse palace",
+            "parliament"
+          ],
+          "description": "Dark and ominous tracks for the sunken capital"
+        },
+        "Bexley Harbor": {
+          "themes": [
+            "bexley",
+            "harbor",
+            "port",
+            "docks"
+          ],
+          "description": "Bustling port town atmosphere"
+        }
+      }
+    },
+    "activities": {
+      "name": "Activity Playlists",
+      "description": "Music for different game activities",
+      "playlists": {
+        "Combat Encounters": {
+          "themes": [
+            "combat",
+            "battle",
+            "fight",
+            "encounter"
+          ],
+          "description": "Intense battle music for combat encounters"
+        },
+        "Boss Battles": {
+          "themes": [
+            "boss",
+            "bbeg",
+            "final battle",
+            "climax"
+          ],
+          "description": "Epic music for major confrontations"
+        },
+        "Exploration": {
+          "themes": [
+            "explore",
+            "journey",
+            "travel",
+            "discovery"
+          ],
+          "description": "Ambient music for exploration and travel"
+        },
+        "Social Encounters": {
+          "themes": [
+            "tavern",
+            "inn",
+            "social",
+            "conversation"
+          ],
+          "description": "Background music for roleplay and social scenes"
+        }
+      }
+    },
+    "atmosphere": {
+      "name": "Atmosphere Playlists",
+      "description": "Mood-setting music",
+      "playlists": {
+        "Mystery & Intrigue": {
+          "themes": [
+            "mystery",
+            "intrigue",
+            "shadow",
+            "conspiracy"
+          ],
+          "description": "Tense music for mysterious situations"
+        },
+        "Horror & Dread": {
+          "themes": [
+            "horror",
+            "void",
+            "cosmic",
+            "dread"
+          ],
+          "description": "Unsettling music for horror elements"
+        },
+        "Sacred & Divine": {
+          "themes": [
+            "temple",
+            "divine",
+            "sacred",
+            "holy"
+          ],
+          "description": "Peaceful and reverent music for religious spaces"
+        },
+        "Celebration & Festival": {
+          "themes": [
+            "festival",
+            "celebration",
+            "party",
+            "feast"
+          ],
+          "description": "Upbeat music for celebrations"
+        }
+      }
+    },
+    "factions": {
+      "name": "Faction Playlists",
+      "description": "Theme music for different factions",
+      "playlists": {
+        "Parliament of Shadows": {
+          "themes": [
+            "parliament of shadows",
+            "political",
+            "scheming"
+          ],
+          "description": "Music for political intrigue and shadow dealings"
+        },
+        "Crystal Wardens": {
+          "themes": [
+            "crystal warden",
+            "crystal",
+            "guardian"
+          ],
+          "description": "Crystalline resonance for the protectors"
+        },
+        "Void Touched": {
+          "themes": [
+            "void touched",
+            "void",
+            "corruption"
+          ],
+          "description": "Disturbing music for the void-corrupted"
+        },
+        "Merchant Guilds": {
+          "themes": [
+            "merchant",
+            "guild",
+            "trade",
+            "market"
+          ],
+          "description": "Bustling marketplace atmosphere"
+        }
+      }
+    }
+  },
+  "playlists": [],
+  "trackCount": 0
+}

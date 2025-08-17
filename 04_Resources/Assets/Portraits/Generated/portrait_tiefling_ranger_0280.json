@@ -1,0 +1,16 @@
+{
+  "name": "Tiefling Ranger 280",
+  "type": "portrait",
+  "race": "tiefling",
+  "class": "ranger",
+  "gender": "female",
+  "age": "adult",
+  "tags": [
+    "portrait",
+    "character",
+    "tiefling",
+    "ranger",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.683Z"
+}

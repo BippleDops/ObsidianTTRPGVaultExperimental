@@ -1,0 +1,22 @@
+{
+  "title": "02_Worldbuilding/Groups/Bloom Field Cultivation Guil",
+  "prompt": "02 worldbuilding/groups/bloom field cultivation guil, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:14:40.725Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Groups/Bloom Field Cultivation Guil.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/02_worldbuilding_groups_bloom_field_cultivation_guil.json",
+  "reorganized": "2025-08-15T18:33:03.893Z"
+}

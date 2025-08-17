@@ -1,0 +1,19 @@
+{
+  "name": "NPC00191_Orion_Darkwater_the_Wanderer",
+  "type": "token",
+  "generated": "2025-08-15T18:16:03.186Z",
+  "prompt": "character token for NPC00191_Orion_Darkwater_the_Wanderer, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "dark",
+    "gritty",
+    "horror",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC00191_Orion_Darkwater_the_Wanderer.png.json",
+  "reorganized": "2025-08-15T18:33:10.902Z"
+}

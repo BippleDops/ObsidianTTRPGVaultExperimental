@@ -1,0 +1,22 @@
+{
+  "title": "Crisis Response Service",
+  "prompt": "Crisis response service, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:42:08.067Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Crisis Response Service.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/crisis_response_service.json",
+  "reorganized": "2025-08-15T18:33:07.364Z"
+}

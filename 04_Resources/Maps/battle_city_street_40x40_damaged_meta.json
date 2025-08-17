@@ -1,0 +1,19 @@
+{
+  "name": "City_Street",
+  "type": "battle",
+  "environment": "street",
+  "variant": "damaged",
+  "size": "40x40",
+  "gridSize": 5,
+  "gridType": "square",
+  "features": [
+    "buildings",
+    "crates",
+    "wagon",
+    "fountain"
+  ],
+  "lighting": "normal",
+  "generated": "2025-08-15T02:48:39.207Z",
+  "placeholder": true,
+  "generationRules": {}
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Battle Map 174",
+  "type": "map",
+  "mapType": "battle",
+  "gridSize": "25x25",
+  "scale": "5ft per square",
+  "tags": [
+    "map",
+    "battle",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 68.17563714716161,
+      "y": 23.231212176307924,
+      "type": "city"
+    },
+    {
+      "name": "Location 2",
+      "x": 46.14986700275786,
+      "y": 10.953441636166318,
+      "type": "town"
+    },
+    {
+      "name": "Location 3",
+      "x": 66.86204237666139,
+      "y": 34.07764457327467,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 4",
+      "x": 4.3401977487651955,
+      "y": 73.7980220065489,
+      "type": "city"
+    },
+    {
+      "name": "Location 5",
+      "x": 26.50009096690048,
+      "y": 2.9489574649674277,
+      "type": "town"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.635Z"
+}

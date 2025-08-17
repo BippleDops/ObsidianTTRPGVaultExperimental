@@ -1,0 +1,22 @@
+{
+  "title": "02_Worldbuilding/Places/Order of the Crystal Flame Monastery",
+  "prompt": "02 worldbuilding/places/order of the crystal flame monastery, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:22:02.810Z",
+  "sourceFile": "/02_Worldbuilding/Groups/02_Worldbuilding_Places_Order_of_the_Crystal_Flame_Monastery.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/02_worldbuilding_places_order_of_the_crystal_flame_monastery.json",
+  "reorganized": "2025-08-15T18:33:03.943Z"
+}

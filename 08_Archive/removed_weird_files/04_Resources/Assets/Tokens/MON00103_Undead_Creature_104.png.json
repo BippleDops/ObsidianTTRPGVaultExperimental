@@ -1,0 +1,18 @@
+{
+  "name": "MON00103_Undead_Creature_104",
+  "type": "token",
+  "generated": "2025-08-15T18:20:39.535Z",
+  "prompt": "character token for MON00103_Undead_Creature_104, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Tokens/MON00103_Undead_Creature_104.png.json",
+  "reorganized": "2025-08-15T18:33:10.594Z"
+}

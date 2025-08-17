@@ -1,0 +1,18 @@
+{
+  "name": "The Crystal Mines of Sorrow",
+  "type": "map",
+  "generated": "2025-08-15T18:18:11.164Z",
+  "prompt": "fantasy map of The Crystal Mines of Sorrow, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/The Crystal Mines of Sorrow.png.json",
+  "reorganized": "2025-08-15T18:33:03.635Z"
+}

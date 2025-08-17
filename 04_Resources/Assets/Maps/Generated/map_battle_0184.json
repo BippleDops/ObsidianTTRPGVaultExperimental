@@ -1,0 +1,46 @@
+{
+  "name": "Battle Map 184",
+  "type": "map",
+  "mapType": "battle",
+  "gridSize": "25x25",
+  "scale": "5ft per square",
+  "tags": [
+    "map",
+    "battle",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 18.882864087923945,
+      "y": 57.423889248281135,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 2",
+      "x": 1.8356668005451993,
+      "y": 34.71740706571011,
+      "type": "town"
+    },
+    {
+      "name": "Location 3",
+      "x": 40.40678608745259,
+      "y": 70.15596668063415,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 4",
+      "x": 72.56407374185981,
+      "y": 42.0733143462005,
+      "type": "town"
+    },
+    {
+      "name": "Location 5",
+      "x": 5.628104422815472,
+      "y": 43.342549886071836,
+      "type": "landmark"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.640Z"
+}

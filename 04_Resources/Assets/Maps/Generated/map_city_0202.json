@@ -1,0 +1,46 @@
+{
+  "name": "City Map 202",
+  "type": "map",
+  "mapType": "city",
+  "gridSize": null,
+  "scale": "1:10000",
+  "tags": [
+    "map",
+    "city",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 66.80291059607605,
+      "y": 50.7724932974892,
+      "type": "city"
+    },
+    {
+      "name": "Location 2",
+      "x": 57.602524865569805,
+      "y": 65.58329035981514,
+      "type": "town"
+    },
+    {
+      "name": "Location 3",
+      "x": 9.609560150942787,
+      "y": 3.1789419775033356,
+      "type": "city"
+    },
+    {
+      "name": "Location 4",
+      "x": 26.637414263436597,
+      "y": 48.77817888965912,
+      "type": "town"
+    },
+    {
+      "name": "Location 5",
+      "x": 34.81558446348267,
+      "y": 18.519278847185593,
+      "type": "town"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.649Z"
+}

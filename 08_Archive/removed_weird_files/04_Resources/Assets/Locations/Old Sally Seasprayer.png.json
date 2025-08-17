@@ -1,0 +1,18 @@
+{
+  "name": "Old Sally Seasprayer",
+  "type": "location",
+  "generated": "2025-08-15T18:18:09.925Z",
+  "prompt": "fantasy landscape called Old Sally Seasprayer, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Old Sally Seasprayer.png.json",
+  "reorganized": "2025-08-15T18:33:00.749Z"
+}

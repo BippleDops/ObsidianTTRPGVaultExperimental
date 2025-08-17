@@ -1,0 +1,16 @@
+{
+  "name": "Tiefling Warrior 184",
+  "type": "portrait",
+  "race": "tiefling",
+  "class": "warrior",
+  "gender": "male",
+  "age": "young",
+  "tags": [
+    "portrait",
+    "character",
+    "tiefling",
+    "warrior",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.640Z"
+}

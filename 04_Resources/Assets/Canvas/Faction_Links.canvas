@@ -1,0 +1,13 @@
+{
+  "nodes": [
+    {"id":"root","type":"text","text":"Faction Links","x":0,"y":0,"width":360,"height":120},
+    {"id":"groups","type":"file","file":"02_Worldbuilding/Groups/","x":-520,"y":-40,"width":400,"height":160},
+    {"id":"symbols","type":"file","file":"04_Resources/Assets/Galleries/Faction_Symbols_&_Heraldry.md","x":520,"y":-40,"width":460,"height":160}
+  ],
+  "edges": [
+    {"id":"e1","fromNode":"root","toNode":"groups"},
+    {"id":"e2","fromNode":"root","toNode":"symbols"}
+  ]
+}
+
+

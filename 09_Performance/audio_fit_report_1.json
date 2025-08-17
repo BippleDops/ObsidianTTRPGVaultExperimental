@@ -1,0 +1,1938 @@
+[
+  {
+    "file": "04_Resources/Assets/Audio/Ambient/aquabyssos_ambient_1755203948736.wav",
+    "world": "Aquabyssos",
+    "peak": 0.14996337890625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_ambient_1755203948736.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/Airship_Ambience.wav",
+    "world": "Aethermoor",
+    "peak": 0.199310302734375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/Airship_Ambience.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/Engine_Room_Thrum.wav",
+    "world": "Aethermoor",
+    "peak": 0.149993896484375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/Engine_Room_Thrum.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/Sky_Dock_Bustle.wav",
+    "world": "Aethermoor",
+    "peak": 0.2349853515625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/Sky_Dock_Bustle.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/Storm_Approach.wav",
+    "world": "Aethermoor",
+    "peak": 0.559173583984375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/Storm_Approach.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v001.wav",
+    "world": "Aethermoor",
+    "peak": 0.2158203125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v001.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v007.wav",
+    "world": "Aethermoor",
+    "peak": 0.212310791015625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v007.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v013.wav",
+    "world": "Aethermoor",
+    "peak": 0.218353271484375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v013.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v019.wav",
+    "world": "Aethermoor",
+    "peak": 0.20916748046875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v019.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v025.wav",
+    "world": "Aethermoor",
+    "peak": 0.21429443359375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v025.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v031.wav",
+    "world": "Aethermoor",
+    "peak": 0.212615966796875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v031.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v037.wav",
+    "world": "Aethermoor",
+    "peak": 0.205810546875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v037.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v043.wav",
+    "world": "Aethermoor",
+    "peak": 0.210296630859375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v043.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v049.wav",
+    "world": "Aethermoor",
+    "peak": 0.206390380859375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v049.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v003.wav",
+    "world": "Aethermoor",
+    "peak": 0.1796875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v003.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v009.wav",
+    "world": "Aethermoor",
+    "peak": 0.179595947265625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v009.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v015.wav",
+    "world": "Aethermoor",
+    "peak": 0.179718017578125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v015.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v021.wav",
+    "world": "Aethermoor",
+    "peak": 0.17974853515625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v021.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v027.wav",
+    "world": "Aethermoor",
+    "peak": 0.1798095703125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v027.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v033.wav",
+    "world": "Aethermoor",
+    "peak": 0.1795654296875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v033.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v039.wav",
+    "world": "Aethermoor",
+    "peak": 0.179412841796875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v039.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v045.wav",
+    "world": "Aethermoor",
+    "peak": 0.179473876953125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v045.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v002.wav",
+    "world": "Aethermoor",
+    "peak": 0.120849609375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v002.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v008.wav",
+    "world": "Aethermoor",
+    "peak": 0.1209716796875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v008.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v014.wav",
+    "world": "Aethermoor",
+    "peak": 0.1209716796875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v014.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v020.wav",
+    "world": "Aethermoor",
+    "peak": 0.12078857421875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v020.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v026.wav",
+    "world": "Aethermoor",
+    "peak": 0.12078857421875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v026.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v032.wav",
+    "world": "Aethermoor",
+    "peak": 0.12091064453125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v032.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v038.wav",
+    "world": "Aethermoor",
+    "peak": 0.120697021484375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v038.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v044.wav",
+    "world": "Aethermoor",
+    "peak": 0.120849609375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v044.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v050.wav",
+    "world": "Aethermoor",
+    "peak": 0.120849609375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v050.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v004.wav",
+    "world": "Aethermoor",
+    "peak": 0.651702880859375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v004.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v010.wav",
+    "world": "Aethermoor",
+    "peak": 0.6431884765625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v010.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v016.wav",
+    "world": "Aethermoor",
+    "peak": 0.627960205078125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v016.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v022.wav",
+    "world": "Aethermoor",
+    "peak": 0.643157958984375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v022.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v028.wav",
+    "world": "Aethermoor",
+    "peak": 0.66766357421875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v028.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v034.wav",
+    "world": "Aethermoor",
+    "peak": 0.630157470703125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v034.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v040.wav",
+    "world": "Aethermoor",
+    "peak": 0.61981201171875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v040.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v046.wav",
+    "world": "Aethermoor",
+    "peak": 0.632965087890625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v046.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/Coral_Reef_Clicks.wav",
+    "world": "Aquabyssos",
+    "peak": 0.1102294921875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Coral_Reef_Clicks.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/Deep_Trench_Pressure.wav",
+    "world": "Aquabyssos",
+    "peak": 0.062469482421875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Deep_Trench_Pressure.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/Harbor_Night.wav",
+    "world": "Aquabyssos",
+    "peak": 0.163970947265625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Harbor_Night.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/Kelp_Forest_Sway.wav",
+    "world": "Aquabyssos",
+    "peak": 0.1099853515625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Kelp_Forest_Sway.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/Lighthouse_Surf_Horn.wav",
+    "world": "Aquabyssos",
+    "peak": 0.260986328125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Lighthouse_Surf_Horn.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/Trench_Geyser.wav",
+    "world": "Aquabyssos",
+    "peak": 0.06817626953125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Trench_Geyser.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/Underwater_Ambience.wav",
+    "world": "Aquabyssos",
+    "peak": 0.217529296875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Underwater_Ambience.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v004.wav",
+    "world": "Aquabyssos",
+    "peak": 0.08355712890625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v004.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v012.wav",
+    "world": "Aquabyssos",
+    "peak": 0.083648681640625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v012.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v020.wav",
+    "world": "Aquabyssos",
+    "peak": 0.0836181640625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v020.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v028.wav",
+    "world": "Aquabyssos",
+    "peak": 0.083404541015625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v028.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v036.wav",
+    "world": "Aquabyssos",
+    "peak": 0.083465576171875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v036.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v044.wav",
+    "world": "Aquabyssos",
+    "peak": 0.083740234375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v044.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Geyser_v007.wav",
+    "world": "Aquabyssos",
+    "peak": 0.07061767578125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Geyser_v007.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Geyser_v015.wav",
+    "world": "Aquabyssos",
+    "peak": 0.063507080078125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Geyser_v015.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Geyser_v023.wav",
+    "world": "Aquabyssos",
+    "peak": 0.0606689453125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Geyser_v023.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Geyser_v031.wav",
+    "world": "Aquabyssos",
+    "peak": 0.061126708984375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Geyser_v031.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Geyser_v039.wav",
+    "world": "Aquabyssos",
+    "peak": 0.06573486328125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Geyser_v039.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Geyser_v047.wav",
+    "world": "Aquabyssos",
+    "peak": 0.068084716796875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Geyser_v047.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v002.wav",
+    "world": "Aquabyssos",
+    "peak": 0.195037841796875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v002.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v010.wav",
+    "world": "Aquabyssos",
+    "peak": 0.19354248046875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v010.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v018.wav",
+    "world": "Aquabyssos",
+    "peak": 0.19329833984375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v018.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v026.wav",
+    "world": "Aquabyssos",
+    "peak": 0.192413330078125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v026.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v034.wav",
+    "world": "Aquabyssos",
+    "peak": 0.19500732421875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v034.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v042.wav",
+    "world": "Aquabyssos",
+    "peak": 0.195343017578125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v042.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v050.wav",
+    "world": "Aquabyssos",
+    "peak": 0.196014404296875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v050.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_KelpForest_v008.wav",
+    "world": "Aquabyssos",
+    "peak": 0.12481689453125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_KelpForest_v008.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_KelpForest_v016.wav",
+    "world": "Aquabyssos",
+    "peak": 0.1287841796875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_KelpForest_v016.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_KelpForest_v024.wav",
+    "world": "Aquabyssos",
+    "peak": 0.129425048828125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_KelpForest_v024.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_KelpForest_v032.wav",
+    "world": "Aquabyssos",
+    "peak": 0.128082275390625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_KelpForest_v032.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_KelpForest_v040.wav",
+    "world": "Aquabyssos",
+    "peak": 0.130340576171875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_KelpForest_v040.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_KelpForest_v048.wav",
+    "world": "Aquabyssos",
+    "peak": 0.128448486328125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_KelpForest_v048.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Lighthouse_v006.wav",
+    "world": "Aquabyssos",
+    "peak": 0.31390380859375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Lighthouse_v006.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Lighthouse_v014.wav",
+    "world": "Aquabyssos",
+    "peak": 0.314544677734375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Lighthouse_v014.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Lighthouse_v022.wav",
+    "world": "Aquabyssos",
+    "peak": 0.3135986328125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Lighthouse_v022.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Lighthouse_v030.wav",
+    "world": "Aquabyssos",
+    "peak": 0.313751220703125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Lighthouse_v030.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Lighthouse_v038.wav",
+    "world": "Aquabyssos",
+    "peak": 0.312469482421875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Lighthouse_v038.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Lighthouse_v046.wav",
+    "world": "Aquabyssos",
+    "peak": 0.313323974609375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Lighthouse_v046.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Reef_v003.wav",
+    "world": "Aquabyssos",
+    "peak": 0.12091064453125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Reef_v003.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Reef_v011.wav",
+    "world": "Aquabyssos",
+    "peak": 0.11907958984375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Reef_v011.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Reef_v019.wav",
+    "world": "Aquabyssos",
+    "peak": 0.120361328125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Reef_v019.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Reef_v027.wav",
+    "world": "Aquabyssos",
+    "peak": 0.119537353515625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Reef_v027.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Reef_v035.wav",
+    "world": "Aquabyssos",
+    "peak": 0.115753173828125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Reef_v035.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Reef_v043.wav",
+    "world": "Aquabyssos",
+    "peak": 0.117706298828125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Reef_v043.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Temple_v005.wav",
+    "world": "Aquabyssos",
+    "peak": 0.252655029296875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Temple_v005.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Temple_v013.wav",
+    "world": "Aquabyssos",
+    "peak": 0.252685546875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Temple_v013.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Temple_v021.wav",
+    "world": "Aquabyssos",
+    "peak": 0.251373291015625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Temple_v021.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Temple_v029.wav",
+    "world": "Aquabyssos",
+    "peak": 0.252105712890625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Temple_v029.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Temple_v037.wav",
+    "world": "Aquabyssos",
+    "peak": 0.252105712890625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Temple_v037.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Temple_v045.wav",
+    "world": "Aquabyssos",
+    "peak": 0.25238037109375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Temple_v045.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v001.wav",
+    "world": "Aquabyssos",
+    "peak": 0.244110107421875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v001.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v009.wav",
+    "world": "Aquabyssos",
+    "peak": 0.24200439453125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v009.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v017.wav",
+    "world": "Aquabyssos",
+    "peak": 0.241485595703125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v017.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v025.wav",
+    "world": "Aquabyssos",
+    "peak": 0.24139404296875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v025.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v033.wav",
+    "world": "Aquabyssos",
+    "peak": 0.248016357421875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v033.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v041.wav",
+    "world": "Aquabyssos",
+    "peak": 0.242279052734375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v041.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v049.wav",
+    "world": "Aquabyssos",
+    "peak": 0.2423095703125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v049.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_ambient_1755203948736.wav",
+    "world": "Aquabyssos",
+    "peak": 0.14996337890625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_ambient_1755203948736.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/Cavern_Drip.wav",
+    "world": "Generic",
+    "peak": 0.199981689453125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/Cavern_Drip.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/Library_Whisper.wav",
+    "world": "Generic",
+    "peak": 0.125946044921875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/Library_Whisper.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/Market_Ambience.wav",
+    "world": "Generic",
+    "peak": 0.13482666015625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/Market_Ambience.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/Ritual_Circle_Pulse.wav",
+    "world": "Generic",
+    "peak": 0.186004638671875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/Ritual_Circle_Pulse.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/Shrine_Bell_Air.wav",
+    "world": "Generic",
+    "peak": 0.003021240234375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/Shrine_Bell_Air.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/Tavern_Chatter.wav",
+    "world": "Generic",
+    "peak": 0.1739501953125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/Tavern_Chatter.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/Temple_Ambience.wav",
+    "world": "Generic",
+    "peak": 0.211669921875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/Temple_Ambience.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v006.wav",
+    "world": "Generic",
+    "peak": 0.114837646484375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v006.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v012.wav",
+    "world": "Generic",
+    "peak": 0.11529541015625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v012.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v018.wav",
+    "world": "Generic",
+    "peak": 0.115509033203125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v018.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v024.wav",
+    "world": "Generic",
+    "peak": 0.115325927734375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v024.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v030.wav",
+    "world": "Generic",
+    "peak": 0.11474609375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v030.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v036.wav",
+    "world": "Generic",
+    "peak": 0.114654541015625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v036.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v042.wav",
+    "world": "Generic",
+    "peak": 0.11529541015625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v042.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v048.wav",
+    "world": "Generic",
+    "peak": 0.115570068359375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v048.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v005.wav",
+    "world": "Generic",
+    "peak": 0.255615234375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v005.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v011.wav",
+    "world": "Generic",
+    "peak": 0.2535400390625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v011.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v017.wav",
+    "world": "Generic",
+    "peak": 0.25390625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v017.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v023.wav",
+    "world": "Generic",
+    "peak": 0.25579833984375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v023.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v029.wav",
+    "world": "Generic",
+    "peak": 0.252410888671875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v029.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v035.wav",
+    "world": "Generic",
+    "peak": 0.2513427734375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v035.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v041.wav",
+    "world": "Generic",
+    "peak": 0.253936767578125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v041.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v047.wav",
+    "world": "Generic",
+    "peak": 0.254913330078125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v047.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Void/Pressure_Dome_Interior.wav",
+    "world": "Void",
+    "peak": 0.1199951171875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Void/Pressure_Dome_Interior.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Curated/Void/Void_Hum.wav",
+    "world": "Void",
+    "peak": 0.05999755859375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Void/Void_Hum.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Airship_Ambience.wav",
+    "world": "Aethermoor",
+    "peak": 0.194244384765625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/Airship_Ambience.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Cavern_Drip.wav",
+    "world": "Generic",
+    "peak": 0.199981689453125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/Cavern_Drip.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Coral_Reef_Clicks.wav",
+    "world": "Aquabyssos",
+    "peak": 0.106903076171875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Coral_Reef_Clicks.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Deep_Trench_Pressure.wav",
+    "world": "Aquabyssos",
+    "peak": 0.062469482421875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Deep_Trench_Pressure.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Engine_Room_Thrum.wav",
+    "world": "Aethermoor",
+    "peak": 0.149993896484375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/Engine_Room_Thrum.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Harbor_Night.wav",
+    "world": "Aquabyssos",
+    "peak": 0.163970947265625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Harbor_Night.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Kelp_Forest_Sway.wav",
+    "world": "Aquabyssos",
+    "peak": 0.1099853515625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Kelp_Forest_Sway.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Library_Whisper.wav",
+    "world": "Generic",
+    "peak": 0.125946044921875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/Library_Whisper.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Lighthouse_Surf_Horn.wav",
+    "world": "Aquabyssos",
+    "peak": 0.260986328125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Lighthouse_Surf_Horn.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Market_Ambience.wav",
+    "world": "Generic",
+    "peak": 0.13494873046875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/Market_Ambience.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Pressure_Dome_Interior.wav",
+    "world": "Void",
+    "peak": 0.1199951171875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Void/Pressure_Dome_Interior.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Ritual_Circle_Pulse.wav",
+    "world": "Generic",
+    "peak": 0.186004638671875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/Ritual_Circle_Pulse.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Shrine_Bell_Air.wav",
+    "world": "Generic",
+    "peak": 0.003021240234375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/Shrine_Bell_Air.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Sky_Dock_Bustle.wav",
+    "world": "Aethermoor",
+    "peak": 0.2349853515625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/Sky_Dock_Bustle.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Storm_Approach.wav",
+    "world": "Aethermoor",
+    "peak": 0.54296875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/Storm_Approach.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Tavern_Chatter.wav",
+    "world": "Generic",
+    "peak": 0.17388916015625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/Tavern_Chatter.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Temple_Ambience.wav",
+    "world": "Generic",
+    "peak": 0.211669921875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/Temple_Ambience.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Trench_Geyser.wav",
+    "world": "Aquabyssos",
+    "peak": 0.065887451171875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Trench_Geyser.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Underwater_Ambience.wav",
+    "world": "Aquabyssos",
+    "peak": 0.216796875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Underwater_Ambience.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/Void_Hum.wav",
+    "world": "Void",
+    "peak": 0.05999755859375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Void/Void_Hum.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Airship_v001.wav",
+    "world": "Aethermoor",
+    "peak": 0.2158203125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v001.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Airship_v007.wav",
+    "world": "Aethermoor",
+    "peak": 0.212310791015625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v007.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Airship_v013.wav",
+    "world": "Aethermoor",
+    "peak": 0.218353271484375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v013.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Airship_v019.wav",
+    "world": "Aethermoor",
+    "peak": 0.20916748046875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v019.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Airship_v025.wav",
+    "world": "Aethermoor",
+    "peak": 0.21429443359375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v025.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Airship_v031.wav",
+    "world": "Aethermoor",
+    "peak": 0.212615966796875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v031.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Airship_v037.wav",
+    "world": "Aethermoor",
+    "peak": 0.205810546875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v037.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Airship_v043.wav",
+    "world": "Aethermoor",
+    "peak": 0.210296630859375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v043.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Airship_v049.wav",
+    "world": "Aethermoor",
+    "peak": 0.206390380859375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v049.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Brassworks_v006.wav",
+    "world": "Generic",
+    "peak": 0.114837646484375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v006.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Brassworks_v012.wav",
+    "world": "Generic",
+    "peak": 0.11529541015625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v012.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Brassworks_v018.wav",
+    "world": "Generic",
+    "peak": 0.115509033203125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v018.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Brassworks_v024.wav",
+    "world": "Generic",
+    "peak": 0.115325927734375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v024.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Brassworks_v030.wav",
+    "world": "Generic",
+    "peak": 0.11474609375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v030.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Brassworks_v036.wav",
+    "world": "Generic",
+    "peak": 0.114654541015625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v036.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Brassworks_v042.wav",
+    "world": "Generic",
+    "peak": 0.11529541015625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v042.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Brassworks_v048.wav",
+    "world": "Generic",
+    "peak": 0.115570068359375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Brassworks_v048.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_EngineRoom_v003.wav",
+    "world": "Aethermoor",
+    "peak": 0.1796875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v003.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_EngineRoom_v009.wav",
+    "world": "Aethermoor",
+    "peak": 0.179595947265625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v009.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_EngineRoom_v015.wav",
+    "world": "Aethermoor",
+    "peak": 0.179718017578125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v015.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_EngineRoom_v021.wav",
+    "world": "Aethermoor",
+    "peak": 0.17974853515625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v021.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_EngineRoom_v027.wav",
+    "world": "Aethermoor",
+    "peak": 0.1798095703125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v027.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_EngineRoom_v033.wav",
+    "world": "Aethermoor",
+    "peak": 0.1795654296875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v033.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_EngineRoom_v039.wav",
+    "world": "Aethermoor",
+    "peak": 0.179412841796875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v039.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_EngineRoom_v045.wav",
+    "world": "Aethermoor",
+    "peak": 0.179473876953125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_EngineRoom_v045.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Sails_v005.wav",
+    "world": "Generic",
+    "peak": 0.255615234375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v005.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Sails_v011.wav",
+    "world": "Generic",
+    "peak": 0.2535400390625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v011.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Sails_v017.wav",
+    "world": "Generic",
+    "peak": 0.25390625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v017.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Sails_v023.wav",
+    "world": "Generic",
+    "peak": 0.25579833984375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v023.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Sails_v029.wav",
+    "world": "Generic",
+    "peak": 0.252410888671875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v029.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Sails_v035.wav",
+    "world": "Generic",
+    "peak": 0.2513427734375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v035.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Sails_v041.wav",
+    "world": "Generic",
+    "peak": 0.253936767578125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v041.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Sails_v047.wav",
+    "world": "Generic",
+    "peak": 0.254913330078125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v047.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_SkyDock_v002.wav",
+    "world": "Aethermoor",
+    "peak": 0.120849609375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v002.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_SkyDock_v008.wav",
+    "world": "Aethermoor",
+    "peak": 0.1209716796875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v008.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_SkyDock_v014.wav",
+    "world": "Aethermoor",
+    "peak": 0.1209716796875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v014.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_SkyDock_v020.wav",
+    "world": "Aethermoor",
+    "peak": 0.12078857421875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v020.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_SkyDock_v026.wav",
+    "world": "Aethermoor",
+    "peak": 0.12078857421875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v026.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_SkyDock_v032.wav",
+    "world": "Aethermoor",
+    "peak": 0.12091064453125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v032.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_SkyDock_v038.wav",
+    "world": "Aethermoor",
+    "peak": 0.120697021484375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v038.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_SkyDock_v044.wav",
+    "world": "Aethermoor",
+    "peak": 0.120849609375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v044.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_SkyDock_v050.wav",
+    "world": "Aethermoor",
+    "peak": 0.120849609375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_SkyDock_v050.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Storm_v004.wav",
+    "world": "Aethermoor",
+    "peak": 0.651702880859375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v004.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Storm_v010.wav",
+    "world": "Aethermoor",
+    "peak": 0.6431884765625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v010.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Storm_v016.wav",
+    "world": "Aethermoor",
+    "peak": 0.627960205078125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v016.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Storm_v022.wav",
+    "world": "Aethermoor",
+    "peak": 0.643157958984375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v022.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Storm_v028.wav",
+    "world": "Aethermoor",
+    "peak": 0.66766357421875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v028.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Storm_v034.wav",
+    "world": "Aethermoor",
+    "peak": 0.630157470703125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v034.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Storm_v040.wav",
+    "world": "Aethermoor",
+    "peak": 0.61981201171875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v040.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Storm_v046.wav",
+    "world": "Aethermoor",
+    "peak": 0.632965087890625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v046.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_DeepTrench_v004.wav",
+    "world": "Aquabyssos",
+    "peak": 0.08355712890625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v004.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_DeepTrench_v012.wav",
+    "world": "Aquabyssos",
+    "peak": 0.083648681640625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v012.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_DeepTrench_v020.wav",
+    "world": "Aquabyssos",
+    "peak": 0.0836181640625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v020.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_DeepTrench_v028.wav",
+    "world": "Aquabyssos",
+    "peak": 0.083404541015625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v028.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_DeepTrench_v036.wav",
+    "world": "Aquabyssos",
+    "peak": 0.083465576171875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v036.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_DeepTrench_v044.wav",
+    "world": "Aquabyssos",
+    "peak": 0.083740234375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v044.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Geyser_v007.wav",
+    "world": "Aquabyssos",
+    "peak": 0.07061767578125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Geyser_v007.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Geyser_v015.wav",
+    "world": "Aquabyssos",
+    "peak": 0.063507080078125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Geyser_v015.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Geyser_v023.wav",
+    "world": "Aquabyssos",
+    "peak": 0.0606689453125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Geyser_v023.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Geyser_v031.wav",
+    "world": "Aquabyssos",
+    "peak": 0.061126708984375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Geyser_v031.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Geyser_v039.wav",
+    "world": "Aquabyssos",
+    "peak": 0.06573486328125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Geyser_v039.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Geyser_v047.wav",
+    "world": "Aquabyssos",
+    "peak": 0.068084716796875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Geyser_v047.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Harbor_v002.wav",
+    "world": "Aquabyssos",
+    "peak": 0.195037841796875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v002.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Harbor_v010.wav",
+    "world": "Aquabyssos",
+    "peak": 0.19354248046875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v010.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Harbor_v018.wav",
+    "world": "Aquabyssos",
+    "peak": 0.19329833984375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v018.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Harbor_v026.wav",
+    "world": "Aquabyssos",
+    "peak": 0.192413330078125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v026.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Harbor_v034.wav",
+    "world": "Aquabyssos",
+    "peak": 0.19500732421875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v034.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Harbor_v042.wav",
+    "world": "Aquabyssos",
+    "peak": 0.195343017578125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v042.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Harbor_v050.wav",
+    "world": "Aquabyssos",
+    "peak": 0.196014404296875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Harbor_v050.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_KelpForest_v008.wav",
+    "world": "Aquabyssos",
+    "peak": 0.12481689453125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_KelpForest_v008.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_KelpForest_v016.wav",
+    "world": "Aquabyssos",
+    "peak": 0.1287841796875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_KelpForest_v016.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_KelpForest_v024.wav",
+    "world": "Aquabyssos",
+    "peak": 0.129425048828125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_KelpForest_v024.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_KelpForest_v032.wav",
+    "world": "Aquabyssos",
+    "peak": 0.128082275390625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_KelpForest_v032.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_KelpForest_v040.wav",
+    "world": "Aquabyssos",
+    "peak": 0.130340576171875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_KelpForest_v040.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_KelpForest_v048.wav",
+    "world": "Aquabyssos",
+    "peak": 0.128448486328125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_KelpForest_v048.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Lighthouse_v006.wav",
+    "world": "Aquabyssos",
+    "peak": 0.31390380859375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Lighthouse_v006.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Lighthouse_v014.wav",
+    "world": "Aquabyssos",
+    "peak": 0.314544677734375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Lighthouse_v014.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Lighthouse_v022.wav",
+    "world": "Aquabyssos",
+    "peak": 0.3135986328125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Lighthouse_v022.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Lighthouse_v030.wav",
+    "world": "Aquabyssos",
+    "peak": 0.313751220703125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Lighthouse_v030.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Lighthouse_v038.wav",
+    "world": "Aquabyssos",
+    "peak": 0.312469482421875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Lighthouse_v038.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Lighthouse_v046.wav",
+    "world": "Aquabyssos",
+    "peak": 0.313323974609375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Lighthouse_v046.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Reef_v003.wav",
+    "world": "Aquabyssos",
+    "peak": 0.12091064453125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Reef_v003.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Reef_v011.wav",
+    "world": "Aquabyssos",
+    "peak": 0.11907958984375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Reef_v011.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Reef_v019.wav",
+    "world": "Aquabyssos",
+    "peak": 0.120361328125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Reef_v019.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Reef_v027.wav",
+    "world": "Aquabyssos",
+    "peak": 0.119537353515625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Reef_v027.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Reef_v035.wav",
+    "world": "Aquabyssos",
+    "peak": 0.115753173828125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Reef_v035.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Reef_v043.wav",
+    "world": "Aquabyssos",
+    "peak": 0.117706298828125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Reef_v043.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Temple_v005.wav",
+    "world": "Aquabyssos",
+    "peak": 0.252655029296875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Temple_v005.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Temple_v013.wav",
+    "world": "Aquabyssos",
+    "peak": 0.252685546875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Temple_v013.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Temple_v021.wav",
+    "world": "Aquabyssos",
+    "peak": 0.251373291015625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Temple_v021.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Temple_v029.wav",
+    "world": "Aquabyssos",
+    "peak": 0.252105712890625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Temple_v029.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Temple_v037.wav",
+    "world": "Aquabyssos",
+    "peak": 0.252105712890625,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Temple_v037.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Temple_v045.wav",
+    "world": "Aquabyssos",
+    "peak": 0.25238037109375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Temple_v045.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v001.wav",
+    "world": "Aquabyssos",
+    "peak": 0.244110107421875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v001.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v009.wav",
+    "world": "Aquabyssos",
+    "peak": 0.24200439453125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v009.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v017.wav",
+    "world": "Aquabyssos",
+    "peak": 0.241485595703125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v017.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v025.wav",
+    "world": "Aquabyssos",
+    "peak": 0.24139404296875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v025.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v033.wav",
+    "world": "Aquabyssos",
+    "peak": 0.248016357421875,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v033.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v041.wav",
+    "world": "Aquabyssos",
+    "peak": 0.242279052734375,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v041.wav"
+  },
+  {
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v049.wav",
+    "world": "Aquabyssos",
+    "peak": 0.2423095703125,
+    "clips": false,
+    "needsHeadroom": false,
+    "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v049.wav"
+  }
+]

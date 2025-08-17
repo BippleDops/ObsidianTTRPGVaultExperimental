@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-14T23:48:35.797Z",
+  "duration": 4877,
+  "stats": {
+    "filesScanned": 26171,
+    "assetsFound": 2117,
+    "assetsGenerated": 0,
+    "assetsFailed": 2117,
+    "batchesProcessed": 22,
+    "startTime": 1755210438779
+  },
+  "success": true
+}

@@ -1,0 +1,18 @@
+{
+  "name": "The Shadow Markets",
+  "type": "location",
+  "generated": "2025-08-15T18:18:27.072Z",
+  "prompt": "fantasy landscape called The Shadow Markets, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/The Shadow Markets.png.json",
+  "reorganized": "2025-08-15T18:33:01.087Z"
+}

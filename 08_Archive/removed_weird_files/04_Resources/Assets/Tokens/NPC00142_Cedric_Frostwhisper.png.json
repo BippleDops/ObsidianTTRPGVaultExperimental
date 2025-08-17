@@ -1,0 +1,19 @@
+{
+  "name": "NPC00142_Cedric_Frostwhisper",
+  "type": "token",
+  "generated": "2025-08-15T18:16:02.248Z",
+  "prompt": "character token for NPC00142_Cedric_Frostwhisper, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC00142_Cedric_Frostwhisper.png.json",
+  "reorganized": "2025-08-15T18:33:10.877Z"
+}

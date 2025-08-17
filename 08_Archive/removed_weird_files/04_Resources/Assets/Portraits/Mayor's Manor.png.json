@@ -1,0 +1,18 @@
+{
+  "name": "Mayor's Manor",
+  "type": "portrait",
+  "generated": "2025-08-15T18:16:18.256Z",
+  "prompt": "fantasy portrait of Unknown Unknown named Mayor's Manor, detailed face, character art, D&D style",
+  "status": "pending_generation",
+  "tags": [
+    "portrait",
+    "character-art",
+    "npc-image",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Portraits/Mayor's Manor.png.json",
+  "reorganized": "2025-08-15T18:33:08.031Z"
+}

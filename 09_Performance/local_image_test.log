@@ -1,0 +1,9 @@
+[gen-error] type=location name=Crown of Eternal Ice size=2:3/2048x3072 msg=fetch failed
+[gen-error] type=location name=Crown of Eternal Ice size=2:3/2048x3072 msg=fetch failed
+[gen-error] type=location name=Martha Hillbrook size=2:3/2048x3072 msg=fetch failed
+[gen-error] type=location name=Martha Hillbrook size=2:3/2048x3072 msg=fetch failed
+Parsed 4 prompts, wrote 4 assets (real/placeholder mix).
+ - 04_Resources/Assets/Locations/location-city-crown-of-eternal-ice-crown-of-eternal-ice.svg
+ - 04_Resources/Assets/Locations/location-city-crown-of-eternal-ice-v1-crown-of-eternal-ice.svg
+ - 04_Resources/Assets/Locations/location-city-martha-hillbrook-martha-hillbrook.svg
+ - 04_Resources/Assets/Locations/location-city-martha-hillbrook-v1-martha-hillbrook.svg

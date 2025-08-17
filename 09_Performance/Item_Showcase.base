@@ -1,0 +1,91 @@
+formulas:
+  ItemImage: |
+    js:
+    var typeName = target.type ? String(target.type) : 'Generic';
+    var imagePath = target.image_path ? String(target.image_path) : '04_Resources/Assets/Placeholder Images/Item_' + typeName + '.png';
+    return '![[' + imagePath + '|100]]';
+  ItemTooltip: |
+    js:
+    var parts = [];
+    if (target.type) parts.push(String(target.type));
+    if (target.rarity) parts.push(String(target.rarity));
+    if (target.attunement) parts.push('(Requires Attunement)');
+    return parts.join(' - ');
+  ValueDisplay: |
+    js:
+    return target.cost ? String(target.cost) : '';
+  WeightDisplay: |
+    js:
+    return target.weight ? String(target.weight) : '';
+  MagicProperties: |
+    js:
+    var s = '';
+    if (target.damage_bonus) s = s + '+ ' + String(target.damage_bonus) + ' dmg ';
+    if (target.ac_bonus) s = s + '+ ' + String(target.ac_bonus) + ' AC ';
+    if (target.spell_list) s = s + 'Spells ';
+    if (target.charges) s = s + String(target.charges) + ' charges';
+    return s.trim();
+views:
+  - type: cards
+    name: Item Gallery
+    filters:
+      anyOf:
+        - path includes "03_Mechanics/Items"
+    columns:
+      - file.name
+    columns: 5
+    properties:
+      - file.name
+      - type
+      - rarity
+  - type: table
+    name: Inventory Manager
+    filters:
+      and:
+        - item_owner
+    columns:
+      - item_owner
+      - file.name
+      - type
+      - rarity
+      - cost
+      - weight
+    sort:
+      - property: item_owner
+        direction: ASC
+      - property: rarity
+        direction: DESC
+    columnSize:
+      item_owner: 120
+      file.name: 150
+      type: 100
+      rarity: 90
+      cost: 80
+      weight: 80
+  - type: cards
+    name: Magic Item Showcase
+    filters:
+      anyOf:
+        - rarity
+    columns: 3
+    properties:
+      - file.name
+      - type
+      - rarity
+
+  - type: table
+    name: Lite Items (Safe)
+    filters:
+      anyOf:
+        - path includes "03_Mechanics/Items"
+    columns:
+      - file.name
+      - type
+      - rarity
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 240
+      type: 120
+      rarity: 100

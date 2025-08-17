@@ -1,0 +1,18 @@
+{
+  "name": "Exchange Fairflow",
+  "type": "map",
+  "generated": "2025-08-15T18:17:22.557Z",
+  "prompt": "fantasy map of Exchange Fairflow, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Exchange Fairflow.png.json",
+  "reorganized": "2025-08-15T18:33:02.382Z"
+}

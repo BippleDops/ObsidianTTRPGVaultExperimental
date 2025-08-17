@@ -1,0 +1,19 @@
+{
+  "name": "NPC00251_Fiora_Voidwalker",
+  "type": "token",
+  "generated": "2025-08-15T18:16:04.441Z",
+  "prompt": "character token for NPC00251_Fiora_Voidwalker, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC00251_Fiora_Voidwalker.png.json",
+  "reorganized": "2025-08-15T18:33:11.054Z"
+}

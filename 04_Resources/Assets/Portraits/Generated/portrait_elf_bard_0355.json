@@ -1,0 +1,16 @@
+{
+  "name": "Elf Bard 355",
+  "type": "portrait",
+  "race": "elf",
+  "class": "bard",
+  "gender": "female",
+  "age": "adult",
+  "tags": [
+    "portrait",
+    "character",
+    "elf",
+    "bard",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.716Z"
+}

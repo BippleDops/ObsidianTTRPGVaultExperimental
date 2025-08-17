@@ -1,0 +1,12 @@
+{
+  "type": "token",
+  "generated": "2025-08-15T02:48:25.957Z",
+  "metadata": {
+    "name": "#Character-Faction Relationship Matrix",
+    "size": "medium",
+    "state": "bloodied",
+    "border": "faction_themed"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "type": "fleet-tracker",
+  "factions": [],
+  "fleets": [
+    {
+      "id": "example",
+      "name": "Abyssal Guard",
+      "faction": "Tidal Council",
+      "doctrine": "Anchor Fortress",
+      "admiral": { "name": "Nerissa Deepcurrent", "personality": "Cautious" },
+      "bases": ["Abyssos Prime Anchorage"],
+      "routes": ["Pressure Tube A1", "Deep Current C3"],
+      "anchorStock": 4,
+      "sanityBuffer": 12,
+      "fleetPoints": 120,
+      "composition": {
+        "scouts": 4,
+        "escorts": 6,
+        "line": 3,
+        "carriers": 1,
+        "specials": 2
+      },
+      "notes": "Sample data; replace via campaign setup."
+    }
+  ]
+}

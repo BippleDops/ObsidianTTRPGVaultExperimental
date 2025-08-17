@@ -1,0 +1,858 @@
+[2025-08-14T23:52:41.821Z] [INFO] 
+🚀 VAULT BATCH ASSET GENERATOR
+[2025-08-14T23:52:41.823Z] [INFO] ================================
+
+[2025-08-14T23:52:41.823Z] [INFO] Loaded progress: 260 assets already processed
+[2025-08-14T23:52:41.823Z] [INFO] 📂 Scanning vault for files needing assets...
+[2025-08-14T23:52:41.823Z] [INFO]   Scanning 01_Adventures...
+[2025-08-14T23:52:41.828Z] [INFO]   Scanning 02_Worldbuilding...
+[2025-08-14T23:52:42.455Z] [INFO]   Scanning 03_Mechanics...
+[2025-08-14T23:52:42.457Z] [INFO]   Scanning 06_GM_Resources...
+[2025-08-14T23:52:42.457Z] [INFO] 
+✅ Scan complete: 8640 assets to generate
+[2025-08-14T23:52:42.457Z] [INFO] 
+🎨 Starting batch generation (batch size: 10)
+[2025-08-14T23:52:42.457Z] [INFO] 
+📦 Processing batch 1 (10 assets)
+[2025-08-14T23:52:42.457Z] [INFO]   [1/10] The Crystal Cult
+[2025-08-14T23:52:42.457Z] [INFO] Generating asset for: The Crystal Cult
+[2025-08-14T23:52:42.458Z] [INFO]   Prompt: The crystal cult, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras...
+[2025-08-14T23:52:47.576Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/the_crystal_cult.png
+[2025-08-14T23:52:50.578Z] [INFO]   [2/10] The Forgetting Cult
+[2025-08-14T23:52:50.578Z] [INFO] Generating asset for: The Forgetting Cult
+[2025-08-14T23:52:50.578Z] [INFO]   Prompt: The forgetting cult, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical au...
+[2025-08-14T23:52:59.597Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/the_forgetting_cult.png
+[2025-08-14T23:53:02.598Z] [INFO]   [3/10] The Leviathan Cult
+[2025-08-14T23:53:02.599Z] [INFO] Generating asset for: The Leviathan Cult
+[2025-08-14T23:53:02.599Z] [INFO]   Prompt: The leviathan cult, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical aur...
+[2025-08-14T23:53:09.615Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/the_leviathan_cult.png
+[2025-08-14T23:53:12.616Z] [INFO]   [4/10] Void Touched Cult
+[2025-08-14T23:53:12.616Z] [INFO] Generating asset for: Void Touched Cult
+[2025-08-14T23:53:12.616Z] [INFO]   Prompt: Void touched cult, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical aura...
+[2025-08-14T23:53:19.634Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/void_touched_cult.png
+[2025-08-14T23:53:22.634Z] [INFO]   [5/10] Cultural Ambassador Bridge-Builder
+[2025-08-14T23:53:22.635Z] [INFO] Generating asset for: Cultural Ambassador Bridge-Builder
+[2025-08-14T23:53:22.635Z] [INFO]   Prompt: Cultural ambassador bridge-builder, high fantasy, medieval, magical, enchanted, vibrant, natural col...
+[2025-08-14T23:53:30.668Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_ambassador_bridge_builder.png
+[2025-08-14T23:53:33.669Z] [INFO]   [6/10] Cultural Integration Council
+[2025-08-14T23:53:33.670Z] [INFO] Generating asset for: Cultural Integration Council
+[2025-08-14T23:53:33.670Z] [INFO]   Prompt: Cultural integration council, high fantasy, medieval, magical, enchanted, vibrant, natural colors, m...
+[2025-08-14T23:53:40.689Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_integration_council.png
+[2025-08-14T23:53:43.690Z] [INFO]   [7/10] Cross-Cultural Adaptation Technique
+[2025-08-14T23:53:43.690Z] [INFO] Generating asset for: Cross-Cultural Adaptation Technique
+[2025-08-14T23:53:43.691Z] [INFO]   Prompt: Cross-cultural adaptation technique, high fantasy, medieval, magical, enchanted, vibrant, natural co...
+[2025-08-14T23:53:50.707Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cross_cultural_adaptation_technique.png
+[2025-08-14T23:53:53.707Z] [INFO]   [8/10] Cross-Cultural Adaptation Techniques
+[2025-08-14T23:53:53.708Z] [INFO] Generating asset for: Cross-Cultural Adaptation Techniques
+[2025-08-14T23:53:53.708Z] [INFO]   Prompt: Cross-cultural adaptation techniques, high fantasy, medieval, magical, enchanted, vibrant, natural c...
+[2025-08-14T23:54:01.730Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cross_cultural_adaptation_techniques.png
+[2025-08-14T23:54:04.731Z] [INFO]   [9/10] Cross-Cultural Business Development Society
+[2025-08-14T23:54:04.731Z] [INFO] Generating asset for: Cross-Cultural Business Development Society
+[2025-08-14T23:54:04.732Z] [INFO]   Prompt: Cross-cultural business development society, high fantasy, medieval, magical, enchanted, vibrant, na...
+[2025-08-14T23:54:11.748Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cross_cultural_business_development_society.png
+[2025-08-14T23:54:14.747Z] [INFO]   [10/10] Cultural Advisor Coral Bridgebuilde
+[2025-08-14T23:54:14.747Z] [INFO] Generating asset for: Cultural Advisor Coral Bridgebuilde
+[2025-08-14T23:54:14.747Z] [INFO]   Prompt: Cultural advisor coral bridgebuilde, high fantasy, medieval, magical, enchanted, vibrant, natural co...
+[2025-08-14T23:54:21.760Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_advisor_coral_bridgebuilde.png
+[2025-08-14T23:54:21.760Z] [INFO] 
+📊 Statistics:
+[2025-08-14T23:54:21.760Z] [INFO]   Files scanned: 12439
+[2025-08-14T23:54:21.760Z] [INFO]   Assets queued: 8640
+[2025-08-14T23:54:21.760Z] [INFO]   Assets generated: 10
+[2025-08-14T23:54:21.760Z] [INFO]   Assets failed: 0
+[2025-08-14T23:54:21.760Z] [INFO]   Generation rate: 6.0 assets/min
+[2025-08-14T23:54:21.760Z] [INFO]   Time elapsed: 1.7 minutes
+[2025-08-14T23:54:21.760Z] [INFO] 
+⏳ Waiting 15s before next batch...
+[2025-08-14T23:54:36.762Z] [INFO] 
+📦 Processing batch 2 (10 assets)
+[2025-08-14T23:54:36.762Z] [INFO]   [1/10] Cultural Exchange Society
+[2025-08-14T23:54:36.763Z] [INFO] Generating asset for: Cultural Exchange Society
+[2025-08-14T23:54:36.763Z] [INFO]   Prompt: Cultural exchange society, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magi...
+[2025-08-14T23:54:42.779Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_exchange_society.png
+[2025-08-14T23:54:45.779Z] [INFO]   [2/10] Cultural Festival
+[2025-08-14T23:54:45.779Z] [INFO] Generating asset for: Cultural Festival
+[2025-08-14T23:54:45.780Z] [INFO]   Prompt: Cultural festival, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical aura...
+[2025-08-14T23:54:53.794Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_festival.png
+[2025-08-14T23:54:56.795Z] [INFO]   [3/10] Cultural Guide
+[2025-08-14T23:54:56.795Z] [INFO] Generating asset for: Cultural Guide
+[2025-08-14T23:54:56.795Z] [INFO]   Prompt: Cultural guide, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, ...
+[2025-08-14T23:55:04.822Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_guide.png
+[2025-08-14T23:55:07.824Z] [INFO]   [4/10] Cultural Heritage Center
+[2025-08-14T23:55:07.824Z] [INFO] Generating asset for: Cultural Heritage Center
+[2025-08-14T23:55:07.824Z] [INFO]   Prompt: Cultural heritage center, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magic...
+[2025-08-14T23:55:16.844Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_heritage_center.png
+[2025-08-14T23:55:19.845Z] [INFO]   [5/10] Cultural Integration Trade Associatio
+[2025-08-14T23:55:19.845Z] [INFO] Generating asset for: Cultural Integration Trade Associatio
+[2025-08-14T23:55:19.845Z] [INFO]   Prompt: Cultural integration trade associatio, high fantasy, medieval, magical, enchanted, vibrant, natural ...
+[2025-08-14T23:55:28.864Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_integration_trade_associatio.png
+[2025-08-14T23:55:31.866Z] [INFO]   [6/10] Cultural Integration
+[2025-08-14T23:55:31.866Z] [INFO] Generating asset for: Cultural Integration
+[2025-08-14T23:55:31.866Z] [INFO]   Prompt: Cultural integration, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical a...
+[2025-08-14T23:55:40.883Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_integration.png
+[2025-08-14T23:55:43.884Z] [INFO]   [7/10] Cultural Markets
+[2025-08-14T23:55:43.884Z] [INFO] Generating asset for: Cultural Markets
+[2025-08-14T23:55:43.884Z] [INFO]   Prompt: Cultural markets, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras...
+[2025-08-14T23:55:52.900Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_markets.png
+[2025-08-14T23:55:55.901Z] [INFO]   [8/10] Cultural Mediatio
+[2025-08-14T23:55:55.901Z] [INFO] Generating asset for: Cultural Mediatio
+[2025-08-14T23:55:55.902Z] [INFO]   Prompt: Cultural mediatio, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical aura...
+[2025-08-14T23:56:04.918Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_mediatio.png
+[2025-08-14T23:56:07.919Z] [INFO]   [9/10] Cultural Mediation
+[2025-08-14T23:56:07.920Z] [INFO] Generating asset for: Cultural Mediation
+[2025-08-14T23:56:07.920Z] [INFO]   Prompt: Cultural mediation, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical aur...
+[2025-08-14T23:56:15.938Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_mediation.png
+[2025-08-14T23:56:18.940Z] [INFO]   [10/10] Cultural Mediator Coral Windweave
+[2025-08-14T23:56:18.940Z] [INFO] Generating asset for: Cultural Mediator Coral Windweave
+[2025-08-14T23:56:18.941Z] [INFO]   Prompt: Cultural mediator coral windweave, high fantasy, medieval, magical, enchanted, vibrant, natural colo...
+[2025-08-14T23:56:27.964Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_mediator_coral_windweave.png
+[2025-08-14T23:56:27.964Z] [INFO] 
+📊 Statistics:
+[2025-08-14T23:56:27.964Z] [INFO]   Files scanned: 12439
+[2025-08-14T23:56:27.964Z] [INFO]   Assets queued: 8640
+[2025-08-14T23:56:27.965Z] [INFO]   Assets generated: 20
+[2025-08-14T23:56:27.965Z] [INFO]   Assets failed: 0
+[2025-08-14T23:56:27.965Z] [INFO]   Generation rate: 5.3 assets/min
+[2025-08-14T23:56:27.965Z] [INFO]   Time elapsed: 3.8 minutes
+[2025-08-14T23:56:27.965Z] [INFO] 
+⏳ Waiting 15s before next batch...
+[2025-08-14T23:56:42.966Z] [INFO] 
+📦 Processing batch 3 (10 assets)
+[2025-08-14T23:56:42.967Z] [INFO]   [1/10] Cultural Ministry
+[2025-08-14T23:56:42.967Z] [INFO] Generating asset for: Cultural Ministry
+[2025-08-14T23:56:42.968Z] [INFO]   Prompt: Cultural ministry, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical aura...
+[2025-08-14T23:56:48.986Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_ministry.png
+[2025-08-14T23:56:51.988Z] [INFO]   [2/10] Cultural Organizations
+[2025-08-14T23:56:51.988Z] [INFO] Generating asset for: Cultural Organizations
+[2025-08-14T23:56:51.988Z] [INFO]   Prompt: Cultural organizations, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical...
+[2025-08-14T23:57:01.006Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_organizations.png
+[2025-08-14T23:57:04.009Z] [INFO]   [3/10] Cultural Patro
+[2025-08-14T23:57:04.009Z] [INFO] Generating asset for: Cultural Patro
+[2025-08-14T23:57:04.009Z] [INFO]   Prompt: Cultural patro, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, ...
+[2025-08-14T23:57:12.102Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_patro.png
+[2025-08-14T23:57:15.101Z] [INFO]   [4/10] Cultural Patron
+[2025-08-14T23:57:15.102Z] [INFO] Generating asset for: Cultural Patron
+[2025-08-14T23:57:15.102Z] [INFO]   Prompt: Cultural patron, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras,...
+[2025-08-14T23:57:24.120Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_patron.png
+[2025-08-14T23:57:27.120Z] [INFO]   [5/10] Cultural Practices
+[2025-08-14T23:57:27.120Z] [INFO] Generating asset for: Cultural Practices
+[2025-08-14T23:57:27.121Z] [INFO]   Prompt: Cultural practices, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical aur...
+[2025-08-14T23:57:35.142Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_practices.png
+[2025-08-14T23:57:38.143Z] [INFO]   [6/10] Cultural Studies Program
+[2025-08-14T23:57:38.143Z] [INFO] Generating asset for: Cultural Studies Program
+[2025-08-14T23:57:38.143Z] [INFO]   Prompt: Cultural studies program, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magic...
+[2025-08-14T23:57:46.167Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_studies_program.png
+[2025-08-14T23:57:49.169Z] [INFO]   [7/10] Cultural Studies Programs
+[2025-08-14T23:57:49.169Z] [INFO] Generating asset for: Cultural Studies Programs
+[2025-08-14T23:57:49.170Z] [INFO]   Prompt: Cultural studies programs, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magi...
+[2025-08-14T23:57:57.191Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_studies_programs.png
+[2025-08-14T23:58:00.192Z] [INFO]   [8/10] Cultural-Sage Deep-Memor
+[2025-08-14T23:58:00.193Z] [INFO] Generating asset for: Cultural-Sage Deep-Memor
+[2025-08-14T23:58:00.193Z] [INFO]   Prompt: Cultural-sage deep-memor, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magic...
+[2025-08-14T23:58:08.211Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cultural_sage_deep_memor.png
+[2025-08-14T23:58:11.212Z] [INFO]   [9/10] Deep-Sea Cultural Protocol
+[2025-08-14T23:58:11.212Z] [INFO] Generating asset for: Deep-Sea Cultural Protocol
+[2025-08-14T23:58:11.213Z] [INFO]   Prompt: Deep-sea cultural protocol, high fantasy, medieval, magical, enchanted, vibrant, natural colors, mag...
+[2025-08-14T23:58:20.245Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/deep_sea_cultural_protocol.png
+[2025-08-14T23:58:23.247Z] [INFO]   [10/10] Deep Mining Guild
+[2025-08-14T23:58:23.247Z] [INFO] Generating asset for: Deep Mining Guild
+[2025-08-14T23:58:23.247Z] [INFO]   Prompt: Deep mining guild, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical aura...
+[2025-08-14T23:58:31.266Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/deep_mining_guild.png
+[2025-08-14T23:58:31.266Z] [INFO] 
+📊 Statistics:
+[2025-08-14T23:58:31.266Z] [INFO]   Files scanned: 12439
+[2025-08-14T23:58:31.266Z] [INFO]   Assets queued: 8640
+[2025-08-14T23:58:31.267Z] [INFO]   Assets generated: 30
+[2025-08-14T23:58:31.267Z] [INFO]   Assets failed: 0
+[2025-08-14T23:58:31.267Z] [INFO]   Generation rate: 5.2 assets/min
+[2025-08-14T23:58:31.267Z] [INFO]   Time elapsed: 5.8 minutes
+[2025-08-14T23:58:31.267Z] [INFO] 
+⏳ Waiting 15s before next batch...
+[2025-08-14T23:58:46.267Z] [INFO] 
+📦 Processing batch 4 (10 assets)
+[2025-08-14T23:58:46.267Z] [INFO]   [1/10] Deep-Sea Agricultural Research Institut
+[2025-08-14T23:58:46.268Z] [INFO] Generating asset for: Deep-Sea Agricultural Research Institut
+[2025-08-14T23:58:46.268Z] [INFO]   Prompt: Deep-sea agricultural research institut, high fantasy, medieval, magical, enchanted, vibrant, natura...
+[2025-08-14T23:58:52.289Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/deep_sea_agricultural_research_institut.png
+[2025-08-14T23:58:55.290Z] [INFO]   [2/10] Depth Cardinal Wisdom Voidseeke
+[2025-08-14T23:58:55.291Z] [INFO] Generating asset for: Depth Cardinal Wisdom Voidseeke
+[2025-08-14T23:58:55.291Z] [INFO]   Prompt: Depth cardinal wisdom voidseeke, high fantasy, medieval, magical, enchanted, vibrant, natural colors...
+[2025-08-14T23:59:03.309Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/depth_cardinal_wisdom_voidseeke.png
+[2025-08-14T23:59:06.310Z] [INFO]   [3/10] Depth Safety Authorit
+[2025-08-14T23:59:06.311Z] [INFO] Generating asset for: Depth Safety Authorit
+[2025-08-14T23:59:06.311Z] [INFO]   Prompt: Depth safety authorit, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical ...
+[2025-08-14T23:59:14.328Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/depth_safety_authorit.png
+[2025-08-14T23:59:17.330Z] [INFO]   [4/10] Deputy Archmerchant Scroll Deepmin
+[2025-08-14T23:59:17.331Z] [INFO] Generating asset for: Deputy Archmerchant Scroll Deepmin
+[2025-08-14T23:59:17.331Z] [INFO]   Prompt: Deputy archmerchant scroll deepmin, high fantasy, medieval, magical, enchanted, vibrant, natural col...
+[2025-08-14T23:59:25.348Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/deputy_archmerchant_scroll_deepmin.png
+[2025-08-14T23:59:28.349Z] [INFO]   [5/10] Deputy Archmerchant Scroll Deepmind
+[2025-08-14T23:59:28.349Z] [INFO] Generating asset for: Deputy Archmerchant Scroll Deepmind
+[2025-08-14T23:59:28.349Z] [INFO]   Prompt: Deputy archmerchant scroll deepmind, high fantasy, medieval, magical, enchanted, vibrant, natural co...
+[2025-08-14T23:59:36.367Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/deputy_archmerchant_scroll_deepmind.png
+[2025-08-14T23:59:39.367Z] [INFO]   [6/10] Detective-Prime Clarity Truthseeke
+[2025-08-14T23:59:39.367Z] [INFO] Generating asset for: Detective-Prime Clarity Truthseeke
+[2025-08-14T23:59:39.367Z] [INFO]   Prompt: Detective-prime clarity truthseeke, high fantasy, medieval, magical, enchanted, vibrant, natural col...
+[2025-08-14T23:59:47.379Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/detective_prime_clarity_truthseeke.png
+[2025-08-14T23:59:50.381Z] [INFO]   [7/10] Diplomatic Intelligence
+[2025-08-14T23:59:50.381Z] [INFO] Generating asset for: Diplomatic Intelligence
+[2025-08-14T23:59:50.381Z] [INFO]   Prompt: Diplomatic intelligence, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magica...
+[2025-08-14T23:59:58.399Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/diplomatic_intelligence.png
+[2025-08-15T00:00:01.399Z] [INFO]   [8/10] Divine Transformation Theolog
+[2025-08-15T00:00:01.400Z] [INFO] Generating asset for: Divine Transformation Theolog
+[2025-08-15T00:00:01.400Z] [INFO]   Prompt: Divine transformation theolog, high fantasy, medieval, magical, enchanted, vibrant, natural colors, ...
+[2025-08-15T00:00:09.417Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/divine_transformation_theolog.png
+[2025-08-15T00:00:12.418Z] [INFO]   [9/10] Dockworkers Union
+[2025-08-15T00:00:12.418Z] [INFO] Generating asset for: Dockworkers Union
+[2025-08-15T00:00:12.419Z] [INFO]   Prompt: Dockworkers union, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical aura...
+[2025-08-15T00:00:20.437Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/dockworkers_union.png
+[2025-08-15T00:00:23.438Z] [INFO]   [10/10] Doctor Harmony Whisperfall
+[2025-08-15T00:00:23.438Z] [INFO] Generating asset for: Doctor Harmony Whisperfall
+[2025-08-15T00:00:23.439Z] [INFO]   Prompt: Doctor harmony whisperfall, high fantasy, medieval, magical, enchanted, vibrant, natural colors, mag...
+[2025-08-15T00:00:31.455Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/doctor_harmony_whisperfall.png
+[2025-08-15T00:00:31.457Z] [INFO] 
+📊 Statistics:
+[2025-08-15T00:00:31.457Z] [INFO]   Files scanned: 12439
+[2025-08-15T00:00:31.457Z] [INFO]   Assets queued: 8640
+[2025-08-15T00:00:31.457Z] [INFO]   Assets generated: 40
+[2025-08-15T00:00:31.457Z] [INFO]   Assets failed: 0
+[2025-08-15T00:00:31.458Z] [INFO]   Generation rate: 5.1 assets/min
+[2025-08-15T00:00:31.458Z] [INFO]   Time elapsed: 7.8 minutes
+[2025-08-15T00:00:31.458Z] [INFO] 
+⏳ Waiting 15s before next batch...
+[2025-08-15T00:00:46.459Z] [INFO] 
+📦 Processing batch 5 (10 assets)
+[2025-08-15T00:00:46.459Z] [INFO]   [1/10] Echo-Prime Cacophony Voidlung
+[2025-08-15T00:00:46.460Z] [INFO] Generating asset for: Echo-Prime Cacophony Voidlung
+[2025-08-15T00:00:46.460Z] [INFO]   Prompt: Echo-prime cacophony voidlung, high fantasy, medieval, magical, enchanted, vibrant, natural colors, ...
+[2025-08-15T00:00:52.480Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/echo_prime_cacophony_voidlung.png
+[2025-08-15T00:00:55.482Z] [INFO]   [2/10] Echo-Prime Cacophony Voidlungs
+[2025-08-15T00:00:55.482Z] [INFO] Generating asset for: Echo-Prime Cacophony Voidlungs
+[2025-08-15T00:00:55.482Z] [INFO]   Prompt: Echo-prime cacophony voidlungs, high fantasy, medieval, magical, enchanted, vibrant, natural colors,...
+[2025-08-15T00:01:03.515Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/echo_prime_cacophony_voidlungs.png
+[2025-08-15T00:01:06.517Z] [INFO]   [3/10] Economic Intelligence
+[2025-08-15T00:01:06.518Z] [INFO] Generating asset for: Economic Intelligence
+[2025-08-15T00:01:06.518Z] [INFO]   Prompt: Economic intelligence, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical ...
+[2025-08-15T00:01:14.544Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/economic_intelligence.png
+[2025-08-15T00:01:17.546Z] [INFO]   [4/10] Elara Crystalline
+[2025-08-15T00:01:17.546Z] [INFO] Generating asset for: Elara Crystalline
+[2025-08-15T00:01:17.547Z] [INFO]   Prompt: Elara crystalline, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical aura...
+[2025-08-15T00:01:25.600Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/elara_crystalline.png
+[2025-08-15T00:01:28.602Z] [INFO]   [5/10] Environmental Protection Authorit
+[2025-08-15T00:01:28.602Z] [INFO] Generating asset for: Environmental Protection Authorit
+[2025-08-15T00:01:28.603Z] [INFO]   Prompt: Environmental protection authorit, high fantasy, medieval, magical, enchanted, vibrant, natural colo...
+[2025-08-15T00:01:36.632Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/environmental_protection_authorit.png
+[2025-08-15T00:01:39.634Z] [INFO]   [6/10] Established Family Communitie
+[2025-08-15T00:01:39.635Z] [INFO] Generating asset for: Established Family Communitie
+[2025-08-15T00:01:39.635Z] [INFO]   Prompt: Established family communitie, high fantasy, medieval, magical, enchanted, vibrant, natural colors, ...
+[2025-08-15T00:01:47.655Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/established_family_communitie.png
+[2025-08-15T00:01:50.657Z] [INFO]   [7/10] Established Family Communities
+[2025-08-15T00:01:50.658Z] [INFO] Generating asset for: Established Family Communities
+[2025-08-15T00:01:50.658Z] [INFO]   Prompt: Established family communities, high fantasy, medieval, magical, enchanted, vibrant, natural colors,...
+[2025-08-15T00:01:58.676Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/established_family_communities.png
+[2025-08-15T00:02:01.678Z] [INFO]   [8/10] Faction Intelligence
+[2025-08-15T00:02:01.679Z] [INFO] Generating asset for: Faction Intelligence
+[2025-08-15T00:02:01.679Z] [INFO]   Prompt: Faction intelligence, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical a...
+[2025-08-15T00:02:09.702Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/faction_intelligence.png
+[2025-08-15T00:02:12.704Z] [INFO]   [9/10] Faction Interaction Matrix
+[2025-08-15T00:02:12.705Z] [INFO] Generating asset for: Faction Interaction Matrix
+[2025-08-15T00:02:12.705Z] [INFO]   Prompt: Faction interaction matrix, high fantasy, medieval, magical, enchanted, vibrant, natural colors, mag...
+[2025-08-15T00:02:20.728Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/faction_interaction_matrix.png
+[2025-08-15T00:02:23.731Z] [INFO]   [10/10] Faction Interaction Rules
+[2025-08-15T00:02:23.731Z] [INFO] Generating asset for: Faction Interaction Rules
+[2025-08-15T00:02:23.731Z] [INFO]   Prompt: Faction interaction rules, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magi...
+[2025-08-15T00:02:31.755Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/faction_interaction_rules.png
+[2025-08-15T00:02:31.755Z] [INFO] 
+📊 Statistics:
+[2025-08-15T00:02:31.755Z] [INFO]   Files scanned: 12439
+[2025-08-15T00:02:31.755Z] [INFO]   Assets queued: 8640
+[2025-08-15T00:02:31.755Z] [INFO]   Assets generated: 50
+[2025-08-15T00:02:31.755Z] [INFO]   Assets failed: 0
+[2025-08-15T00:02:31.755Z] [INFO]   Generation rate: 5.1 assets/min
+[2025-08-15T00:02:31.755Z] [INFO]   Time elapsed: 9.8 minutes
+[2025-08-15T00:02:31.755Z] [INFO] 
+⏳ Waiting 15s before next batch...
+[2025-08-15T00:02:46.757Z] [INFO] 
+📦 Processing batch 6 (10 assets)
+[2025-08-15T00:02:46.758Z] [INFO]   [1/10] Faction Loyalty Mechanics
+[2025-08-15T00:02:46.758Z] [INFO] Generating asset for: Faction Loyalty Mechanics
+[2025-08-15T00:02:46.758Z] [INFO]   Prompt: Faction loyalty mechanics, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magi...
+[2025-08-15T00:02:52.778Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/faction_loyalty_mechanics.png
+[2025-08-15T00:02:55.781Z] [INFO]   [2/10] Faction Name
+[2025-08-15T00:02:55.782Z] [INFO] Generating asset for: Faction Name
+[2025-08-15T00:02:55.783Z] [INFO]   Prompt: Faction name, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, my...
+[2025-08-15T00:03:03.828Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/faction_name.png
+[2025-08-15T00:03:06.830Z] [INFO]   [3/10] Faction Overview for Players
+[2025-08-15T00:03:06.830Z] [INFO] Generating asset for: Faction Overview for Players
+[2025-08-15T00:03:06.830Z] [INFO]   Prompt: Faction overview for players, high fantasy, medieval, magical, enchanted, vibrant, natural colors, m...
+[2025-08-15T00:03:14.852Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/faction_overview_for_players.png
+[2025-08-15T00:03:17.854Z] [INFO]   [4/10] Faction1
+[2025-08-15T00:03:17.854Z] [INFO] Generating asset for: Faction1
+[2025-08-15T00:03:17.854Z] [INFO]   Prompt: Faction1, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystic...
+[2025-08-15T00:03:26.870Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/faction1.png
+[2025-08-15T00:03:29.872Z] [INFO]   [5/10] Faction2
+[2025-08-15T00:03:29.872Z] [INFO] Generating asset for: Faction2
+[2025-08-15T00:03:29.872Z] [INFO]   Prompt: Faction2, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystic...
+[2025-08-15T00:03:38.890Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/faction2.png
+[2025-08-15T00:03:41.891Z] [INFO]   [6/10] Faction_Name
+[2025-08-15T00:03:41.891Z] [INFO] Generating asset for: Faction_Name
+[2025-08-15T00:03:41.891Z] [INFO]   Prompt: Faction name, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, my...
+[2025-08-15T00:03:49.913Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/faction_name.png
+[2025-08-15T00:03:52.914Z] [INFO]   [7/10] Faction Reputation Matrix
+[2025-08-15T00:03:52.914Z] [INFO] Generating asset for: Faction Reputation Matrix
+[2025-08-15T00:03:52.914Z] [INFO]   Prompt: Faction reputation matrix, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magi...
+[2025-08-15T00:04:01.936Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/faction_reputation_matrix.png
+[2025-08-15T00:04:04.937Z] [INFO]   [8/10] Factional Conflicts
+[2025-08-15T00:04:04.937Z] [INFO] Generating asset for: Factional Conflicts
+[2025-08-15T00:04:04.938Z] [INFO]   Prompt: Factional conflicts, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical au...
+[2025-08-15T00:04:12.961Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/factional_conflicts.png
+[2025-08-15T00:04:15.962Z] [INFO]   [9/10] 02_Worldbuilding/Factions/Abyssal Courts
+[2025-08-15T00:04:15.962Z] [INFO] Generating asset for: 02_Worldbuilding/Factions/Abyssal Courts
+[2025-08-15T00:04:15.963Z] [INFO]   Prompt: 02 worldbuilding/factions/abyssal courts, high fantasy, medieval, magical, enchanted, vibrant, natur...
+[2025-08-15T00:04:23.982Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_factions_abyssal_courts.png
+[2025-08-15T00:04:26.984Z] [INFO]   [10/10] 02_Worldbuilding/Factions/Skyborn Nobility
+[2025-08-15T00:04:26.984Z] [INFO] Generating asset for: 02_Worldbuilding/Factions/Skyborn Nobility
+[2025-08-15T00:04:26.985Z] [INFO]   Prompt: 02 worldbuilding/factions/skyborn nobility, high fantasy, medieval, magical, enchanted, vibrant, nat...
+[2025-08-15T00:04:36.003Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_factions_skyborn_nobility.png
+[2025-08-15T00:04:36.003Z] [INFO] 
+📊 Statistics:
+[2025-08-15T00:04:36.003Z] [INFO]   Files scanned: 12439
+[2025-08-15T00:04:36.003Z] [INFO]   Assets queued: 8640
+[2025-08-15T00:04:36.003Z] [INFO]   Assets generated: 60
+[2025-08-15T00:04:36.004Z] [INFO]   Assets failed: 0
+[2025-08-15T00:04:36.004Z] [INFO]   Generation rate: 5.0 assets/min
+[2025-08-15T00:04:36.004Z] [INFO]   Time elapsed: 11.9 minutes
+[2025-08-15T00:04:36.004Z] [INFO] 
+⏳ Waiting 15s before next batch...
+[2025-08-15T00:04:51.005Z] [INFO] 
+📦 Processing batch 7 (10 assets)
+[2025-08-15T00:04:51.006Z] [INFO]   [1/10] 02_Worldbuilding/Factions/The Crystal Forge Guild
+[2025-08-15T00:04:51.006Z] [INFO] Generating asset for: 02_Worldbuilding/Factions/The Crystal Forge Guild
+[2025-08-15T00:04:51.006Z] [INFO]   Prompt: 02 worldbuilding/factions/the crystal forge guild, high fantasy, medieval, magical, enchanted, vibra...
+[2025-08-15T00:04:57.024Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_factions_the_crystal_forge_guild.png
+[2025-08-15T00:05:00.026Z] [INFO]   [2/10] 02_Worldbuilding/Factions/The Order of the Veil
+[2025-08-15T00:05:00.026Z] [INFO] Generating asset for: 02_Worldbuilding/Factions/The Order of the Veil
+[2025-08-15T00:05:00.026Z] [INFO]   Prompt: 02 worldbuilding/factions/the order of the veil, high fantasy, medieval, magical, enchanted, vibrant...
+[2025-08-15T00:05:08.105Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_factions_the_order_of_the_veil.png
+[2025-08-15T00:05:11.106Z] [INFO]   [3/10] 02_Worldbuilding/Factions/The Prismatic Order
+[2025-08-15T00:05:11.106Z] [INFO] Generating asset for: 02_Worldbuilding/Factions/The Prismatic Order
+[2025-08-15T00:05:11.107Z] [INFO]   Prompt: 02 worldbuilding/factions/the prismatic order, high fantasy, medieval, magical, enchanted, vibrant, ...
+[2025-08-15T00:05:20.127Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_factions_the_prismatic_order.png
+[2025-08-15T00:05:23.129Z] [INFO]   [4/10] 02_Worldbuilding/Factions/The Resonance Keepers
+[2025-08-15T00:05:23.129Z] [INFO] Generating asset for: 02_Worldbuilding/Factions/The Resonance Keepers
+[2025-08-15T00:05:23.130Z] [INFO]   Prompt: 02 worldbuilding/factions/the resonance keepers, high fantasy, medieval, magical, enchanted, vibrant...
+[2025-08-15T00:05:31.152Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_factions_the_resonance_keepers.png
+[2025-08-15T00:05:34.153Z] [INFO]   [5/10] 02_Worldbuilding/Factions/The Skyborne Merchants
+[2025-08-15T00:05:34.153Z] [INFO] Generating asset for: 02_Worldbuilding/Factions/The Skyborne Merchants
+[2025-08-15T00:05:34.154Z] [INFO]   Prompt: 02 worldbuilding/factions/the skyborne merchants, high fantasy, medieval, magical, enchanted, vibran...
+[2025-08-15T00:05:43.178Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_factions_the_skyborne_merchants.png
+[2025-08-15T00:05:46.202Z] [INFO]   [6/10] 02_Worldbuilding/Factions/The Tide Singers
+[2025-08-15T00:05:46.202Z] [INFO] Generating asset for: 02_Worldbuilding/Factions/The Tide Singers
+[2025-08-15T00:05:46.203Z] [INFO]   Prompt: 02 worldbuilding/factions/the tide singers, high fantasy, medieval, magical, enchanted, vibrant, nat...
+[2025-08-15T00:05:54.222Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_factions_the_tide_singers.png
+[2025-08-15T00:05:57.223Z] [INFO]   [7/10] 02_Worldbuilding/Factions/The Void Sculptors
+[2025-08-15T00:05:57.223Z] [INFO] Generating asset for: 02_Worldbuilding/Factions/The Void Sculptors
+[2025-08-15T00:05:57.223Z] [INFO]   Prompt: 02 worldbuilding/factions/the void sculptors, high fantasy, medieval, magical, enchanted, vibrant, n...
+[2025-08-15T00:06:05.238Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_factions_the_void_sculptors.png
+[2025-08-15T00:06:08.239Z] [INFO]   [8/10] Family Matriarch Anvil
+[2025-08-15T00:06:08.240Z] [INFO] Generating asset for: Family Matriarch Anvil
+[2025-08-15T00:06:08.240Z] [INFO]   Prompt: Family matriarch anvil, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical...
+[2025-08-15T00:06:17.256Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/family_matriarch_anvil.png
+[2025-08-15T00:06:20.256Z] [INFO]   [9/10] Family Retaine
+[2025-08-15T00:06:20.256Z] [INFO] Generating asset for: Family Retaine
+[2025-08-15T00:06:20.256Z] [INFO]   Prompt: Family retaine, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, ...
+[2025-08-15T00:06:28.274Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/family_retaine.png
+[2025-08-15T00:06:31.275Z] [INFO]   [10/10] Family Retainer
+[2025-08-15T00:06:31.276Z] [INFO] Generating asset for: Family Retainer
+[2025-08-15T00:06:31.276Z] [INFO]   Prompt: Family retainer, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras,...
+[2025-08-15T00:06:39.289Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/family_retainer.png
+[2025-08-15T00:06:39.289Z] [INFO] 
+📊 Statistics:
+[2025-08-15T00:06:39.289Z] [INFO]   Files scanned: 12439
+[2025-08-15T00:06:39.289Z] [INFO]   Assets queued: 8640
+[2025-08-15T00:06:39.289Z] [INFO]   Assets generated: 70
+[2025-08-15T00:06:39.289Z] [INFO]   Assets failed: 0
+[2025-08-15T00:06:39.289Z] [INFO]   Generation rate: 5.0 assets/min
+[2025-08-15T00:06:39.289Z] [INFO]   Time elapsed: 14.0 minutes
+[2025-08-15T00:06:39.289Z] [INFO] 
+⏳ Waiting 15s before next batch...
+[2025-08-15T00:06:54.290Z] [INFO] 
+📦 Processing batch 8 (10 assets)
+[2025-08-15T00:06:54.291Z] [INFO]   [1/10] Festival Artisans Guild
+[2025-08-15T00:06:54.291Z] [INFO] Generating asset for: Festival Artisans Guild
+[2025-08-15T00:06:54.291Z] [INFO]   Prompt: Festival artisans guild, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magica...
+[2025-08-15T00:07:00.315Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/festival_artisans_guild.png
+[2025-08-15T00:07:03.316Z] [INFO]   [2/10] Filtration Systems Guild
+[2025-08-15T00:07:03.318Z] [INFO] Generating asset for: Filtration Systems Guild
+[2025-08-15T00:07:03.318Z] [INFO]   Prompt: Filtration systems guild, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magic...
+[2025-08-15T00:07:11.339Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/filtration_systems_guild.png
+[2025-08-15T00:07:14.340Z] [INFO]   [3/10] Financial Crime Investigatio
+[2025-08-15T00:07:14.341Z] [INFO] Generating asset for: Financial Crime Investigatio
+[2025-08-15T00:07:14.341Z] [INFO]   Prompt: Financial crime investigatio, high fantasy, medieval, magical, enchanted, vibrant, natural colors, m...
+[2025-08-15T00:07:23.363Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/financial_crime_investigatio.png
+[2025-08-15T00:07:26.369Z] [INFO]   [4/10] Financial Crime Investigation
+[2025-08-15T00:07:26.370Z] [INFO] Generating asset for: Financial Crime Investigation
+[2025-08-15T00:07:26.370Z] [INFO]   Prompt: Financial crime investigation, high fantasy, medieval, magical, enchanted, vibrant, natural colors, ...
+[2025-08-15T00:07:34.387Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/financial_crime_investigation.png
+[2025-08-15T00:07:37.389Z] [INFO]   [5/10] Foreign Trade Guilds
+[2025-08-15T00:07:37.389Z] [INFO] Generating asset for: Foreign Trade Guilds
+[2025-08-15T00:07:37.390Z] [INFO]   Prompt: Foreign trade guilds, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical a...
+[2025-08-15T00:07:45.430Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/foreign_trade_guilds.png
+[2025-08-15T00:07:48.431Z] [INFO]   [6/10] Foreman Prime Salvage Maste
+[2025-08-15T00:07:48.431Z] [INFO] Generating asset for: Foreman Prime Salvage Maste
+[2025-08-15T00:07:48.432Z] [INFO]   Prompt: Foreman prime salvage maste, high fantasy, medieval, magical, enchanted, vibrant, natural colors, ma...
+[2025-08-15T00:07:57.446Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/foreman_prime_salvage_maste.png
+[2025-08-15T00:08:00.447Z] [INFO]   [7/10] Frequency Weapon
+[2025-08-15T00:08:00.447Z] [INFO] Generating asset for: Frequency Weapon
+[2025-08-15T00:08:00.448Z] [INFO]   Prompt: Frequency weapon, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras...
+[2025-08-15T00:08:09.465Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/frequency_weapon.png
+[2025-08-15T00:08:12.466Z] [INFO]   [8/10] Frequency Weapons
+[2025-08-15T00:08:12.466Z] [INFO] Generating asset for: Frequency Weapons
+[2025-08-15T00:08:12.466Z] [INFO]   Prompt: Frequency weapons, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical aura...
+[2025-08-15T00:08:21.485Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/frequency_weapons.png
+[2025-08-15T00:08:24.486Z] [INFO]   [9/10] Bexley Port Authority
+[2025-08-15T00:08:24.486Z] [INFO] Generating asset for: Bexley Port Authority
+[2025-08-15T00:08:24.486Z] [INFO]   Prompt: Bexley port authority, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical ...
+[2025-08-15T00:08:33.524Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/bexley_port_authority.png
+[2025-08-15T00:08:36.525Z] [INFO]   [10/10] Cross-Realm Cooperation Authority
+[2025-08-15T00:08:36.526Z] [INFO] Generating asset for: Cross-Realm Cooperation Authority
+[2025-08-15T00:08:36.526Z] [INFO]   Prompt: Cross-realm cooperation authority, high fantasy, medieval, magical, enchanted, vibrant, natural colo...
+[2025-08-15T00:08:45.546Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/cross_realm_cooperation_authority.png
+[2025-08-15T00:08:45.546Z] [INFO] 
+📊 Statistics:
+[2025-08-15T00:08:45.546Z] [INFO]   Files scanned: 12439
+[2025-08-15T00:08:45.546Z] [INFO]   Assets queued: 8640
+[2025-08-15T00:08:45.546Z] [INFO]   Assets generated: 80
+[2025-08-15T00:08:45.546Z] [INFO]   Assets failed: 0
+[2025-08-15T00:08:45.546Z] [INFO]   Generation rate: 5.0 assets/min
+[2025-08-15T00:08:45.546Z] [INFO]   Time elapsed: 16.1 minutes
+[2025-08-15T00:08:45.546Z] [INFO] 
+⏳ Waiting 15s before next batch...
+[2025-08-15T00:09:00.547Z] [INFO] 
+📦 Processing batch 9 (10 assets)
+[2025-08-15T00:09:00.548Z] [INFO]   [1/10] Customs Authority
+[2025-08-15T00:09:00.548Z] [INFO] Generating asset for: Customs Authority
+[2025-08-15T00:09:00.548Z] [INFO]   Prompt: Customs authority, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical aura...
+[2025-08-15T00:09:06.560Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/customs_authority.png
+[2025-08-15T00:09:09.561Z] [INFO]   [2/10] Department of Underwater Transit Authority
+[2025-08-15T00:09:09.561Z] [INFO] Generating asset for: Department of Underwater Transit Authority
+[2025-08-15T00:09:09.562Z] [INFO]   Prompt: Department of underwater transit authority, high fantasy, medieval, magical, enchanted, vibrant, nat...
+[2025-08-15T00:09:18.575Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/department_of_underwater_transit_authority.png
+[2025-08-15T00:09:21.576Z] [INFO]   [3/10] Enforcement Authority Charte
+[2025-08-15T00:09:21.576Z] [INFO] Generating asset for: Enforcement Authority Charte
+[2025-08-15T00:09:21.577Z] [INFO]   Prompt: Enforcement authority charte, high fantasy, medieval, magical, enchanted, vibrant, natural colors, m...
+[2025-08-15T00:09:29.590Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/enforcement_authority_charte.png
+[2025-08-15T00:09:32.591Z] [INFO]   [4/10] Governmental Authority
+[2025-08-15T00:09:32.592Z] [INFO] Generating asset for: Governmental Authority
+[2025-08-15T00:09:32.592Z] [INFO]   Prompt: Governmental authority, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical...
+[2025-08-15T00:09:40.616Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/governmental_authority.png
+[2025-08-15T00:09:43.617Z] [INFO]   [5/10] Parliament Dissolution Crisis
+[2025-08-15T00:09:43.618Z] [INFO] Generating asset for: Parliament Dissolution Crisis
+[2025-08-15T00:09:43.618Z] [INFO]   Prompt: Parliament dissolution crisis, high fantasy, medieval, magical, enchanted, vibrant, natural colors, ...
+[2025-08-15T00:09:51.636Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/parliament_dissolution_crisis.png
+[2025-08-15T00:09:54.637Z] [INFO]   [6/10] Parliament Guards
+[2025-08-15T00:09:54.638Z] [INFO] Generating asset for: Parliament Guards
+[2025-08-15T00:09:54.639Z] [INFO]   Prompt: Parliament guards, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical aura...
+[2025-08-15T00:10:03.661Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/parliament_guards.png
+[2025-08-15T00:10:06.662Z] [INFO]   [7/10] Parliament Members
+[2025-08-15T00:10:06.662Z] [INFO] Generating asset for: Parliament Members
+[2025-08-15T00:10:06.663Z] [INFO]   Prompt: Parliament members, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical aur...
+[2025-08-15T00:10:14.683Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/parliament_members.png
+[2025-08-15T00:10:17.684Z] [INFO]   [8/10] Parliament of Echoes - Shadow Chamber
+[2025-08-15T00:10:17.684Z] [INFO] Generating asset for: Parliament of Echoes - Shadow Chamber
+[2025-08-15T00:10:17.685Z] [INFO]   Prompt: Parliament of echoes - shadow chamber, high fantasy, medieval, magical, enchanted, vibrant, natural ...
+[2025-08-15T00:10:25.703Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/parliament_of_echoes___shadow_chamber.png
+[2025-08-15T00:10:28.705Z] [INFO]   [9/10] Parliament of Shadow
+[2025-08-15T00:10:28.705Z] [INFO] Generating asset for: Parliament of Shadow
+[2025-08-15T00:10:28.705Z] [INFO]   Prompt: Parliament of shadow, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical a...
+[2025-08-15T00:10:36.771Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/parliament_of_shadow.png
+[2025-08-15T00:10:39.771Z] [INFO]   [10/10] Parliament of Shadows
+[2025-08-15T00:10:39.772Z] [INFO] Generating asset for: Parliament of Shadows
+[2025-08-15T00:10:39.772Z] [INFO]   Prompt: Parliament of shadows, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical ...
+[2025-08-15T00:10:48.816Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/parliament_of_shadows.png
+[2025-08-15T00:10:48.817Z] [INFO] 
+📊 Statistics:
+[2025-08-15T00:10:48.817Z] [INFO]   Files scanned: 12439
+[2025-08-15T00:10:48.817Z] [INFO]   Assets queued: 8640
+[2025-08-15T00:10:48.817Z] [INFO]   Assets generated: 90
+[2025-08-15T00:10:48.817Z] [INFO]   Assets failed: 0
+[2025-08-15T00:10:48.817Z] [INFO]   Generation rate: 5.0 assets/min
+[2025-08-15T00:10:48.817Z] [INFO]   Time elapsed: 18.1 minutes
+[2025-08-15T00:10:48.817Z] [INFO] 
+⏳ Waiting 15s before next batch...
+[2025-08-15T00:11:03.818Z] [INFO] 
+📦 Processing batch 10 (10 assets)
+[2025-08-15T00:11:03.819Z] [INFO]   [1/10] Parliament-of-Shadows-Campaign
+[2025-08-15T00:11:03.819Z] [INFO] Generating asset for: Parliament-of-Shadows-Campaign
+[2025-08-15T00:11:03.819Z] [INFO]   Prompt: Parliament-of-shadows-campaign, high fantasy, medieval, magical, enchanted, vibrant, natural colors,...
+[2025-08-15T00:11:09.845Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/parliament_of_shadows_campaign.png
+[2025-08-15T00:11:12.847Z] [INFO]   [2/10] Parliamentary Archives
+[2025-08-15T00:11:12.847Z] [INFO] Generating asset for: Parliamentary Archives
+[2025-08-15T00:11:12.848Z] [INFO]   Prompt: Parliamentary archives, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical...
+[2025-08-15T00:11:20.867Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/parliamentary_archives.png
+[2025-08-15T00:11:23.868Z] [INFO]   [3/10] Parliamentary Ethics Committee
+[2025-08-15T00:11:23.869Z] [INFO] Generating asset for: Parliamentary Ethics Committee
+[2025-08-15T00:11:23.869Z] [INFO]   Prompt: Parliamentary ethics committee, high fantasy, medieval, magical, enchanted, vibrant, natural colors,...
+[2025-08-15T00:11:30.882Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/parliamentary_ethics_committee.png
+[2025-08-15T00:11:33.881Z] [INFO]   [4/10] Parliamentary Infiltration List
+[2025-08-15T00:11:33.881Z] [INFO] Generating asset for: Parliamentary Infiltration List
+[2025-08-15T00:11:33.882Z] [INFO]   Prompt: Parliamentary infiltration list, high fantasy, medieval, magical, enchanted, vibrant, natural colors...
+[2025-08-15T00:11:41.896Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/parliamentary_infiltration_list.png
+[2025-08-15T00:11:44.898Z] [INFO]   [5/10] Parliamentary Speaker
+[2025-08-15T00:11:44.898Z] [INFO] Generating asset for: Parliamentary Speaker
+[2025-08-15T00:11:44.899Z] [INFO]   Prompt: Parliamentary speaker, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical ...
+[2025-08-15T00:11:53.916Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/parliamentary_speaker.png
+[2025-08-15T00:11:56.917Z] [INFO]   [6/10] Parliamentary Speakers
+[2025-08-15T00:11:56.917Z] [INFO] Generating asset for: Parliamentary Speakers
+[2025-08-15T00:11:56.917Z] [INFO]   Prompt: Parliamentary speakers, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical...
+[2025-08-15T00:12:04.931Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/parliamentary_speakers.png
+[2025-08-15T00:12:07.939Z] [INFO]   [7/10] Pressure Safety Authority
+[2025-08-15T00:12:07.940Z] [INFO] Generating asset for: Pressure Safety Authority
+[2025-08-15T00:12:07.940Z] [INFO]   Prompt: Pressure safety authority, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magi...
+[2025-08-15T00:12:15.977Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/pressure_safety_authority.png
+[2025-08-15T00:12:18.977Z] [INFO]   [8/10] Quest - Parliamentary Corruptio
+[2025-08-15T00:12:18.977Z] [INFO] Generating asset for: Quest - Parliamentary Corruptio
+[2025-08-15T00:12:18.978Z] [INFO]   Prompt: Quest - parliamentary corruptio, high fantasy, medieval, magical, enchanted, vibrant, natural colors...
+[2025-08-15T00:12:27.996Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/quest___parliamentary_corruptio.png
+[2025-08-15T00:12:30.998Z] [INFO]   [9/10] Quest - Parliamentary Infiltratio
+[2025-08-15T00:12:30.999Z] [INFO] Generating asset for: Quest - Parliamentary Infiltratio
+[2025-08-15T00:12:30.999Z] [INFO]   Prompt: Quest - parliamentary infiltratio, high fantasy, medieval, magical, enchanted, vibrant, natural colo...
+[2025-08-15T00:12:39.016Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/quest___parliamentary_infiltratio.png
+[2025-08-15T00:12:42.016Z] [INFO]   [10/10] Regulatory Authority Directo
+[2025-08-15T00:12:42.016Z] [INFO] Generating asset for: Regulatory Authority Directo
+[2025-08-15T00:12:42.017Z] [INFO]   Prompt: Regulatory authority directo, high fantasy, medieval, magical, enchanted, vibrant, natural colors, m...
+[2025-08-15T00:12:51.036Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/regulatory_authority_directo.png
+[2025-08-15T00:12:51.036Z] [INFO] 
+📊 Statistics:
+[2025-08-15T00:12:51.036Z] [INFO]   Files scanned: 12439
+[2025-08-15T00:12:51.036Z] [INFO]   Assets queued: 8640
+[2025-08-15T00:12:51.036Z] [INFO]   Assets generated: 100
+[2025-08-15T00:12:51.036Z] [INFO]   Assets failed: 0
+[2025-08-15T00:12:51.036Z] [INFO]   Generation rate: 5.0 assets/min
+[2025-08-15T00:12:51.037Z] [INFO]   Time elapsed: 20.2 minutes
+[2025-08-15T00:12:51.037Z] [INFO] 
+⏳ Waiting 15s before next batch...
+[2025-08-15T00:13:06.028Z] [INFO] 
+📦 Processing batch 11 (10 assets)
+[2025-08-15T00:13:06.028Z] [INFO]   [1/10] The Battle of Parliament Dee
+[2025-08-15T00:13:06.029Z] [INFO] Generating asset for: The Battle of Parliament Dee
+[2025-08-15T00:13:06.029Z] [INFO]   Prompt: The battle of parliament dee, high fantasy, medieval, magical, enchanted, vibrant, natural colors, m...
+[2025-08-15T00:13:12.095Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/the_battle_of_parliament_dee.png
+[2025-08-15T00:13:15.094Z] [INFO]   [2/10] The Crown Authority
+[2025-08-15T00:13:15.095Z] [INFO] Generating asset for: The Crown Authority
+[2025-08-15T00:13:15.095Z] [INFO]   Prompt: The crown authority, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical au...
+[2025-08-15T00:13:24.113Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/the_crown_authority.png
+[2025-08-15T00:13:27.113Z] [INFO]   [3/10] The Parliament of Echoes
+[2025-08-15T00:13:27.114Z] [INFO] Generating asset for: The Parliament of Echoes
+[2025-08-15T00:13:27.115Z] [INFO]   Prompt: The parliament of echoes, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magic...
+[2025-08-15T00:13:36.130Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/the_parliament_of_echoes.png
+[2025-08-15T00:13:39.131Z] [INFO]   [4/10] The Parliament of Nobody
+[2025-08-15T00:13:39.132Z] [INFO] Generating asset for: The Parliament of Nobody
+[2025-08-15T00:13:39.132Z] [INFO]   Prompt: The parliament of nobody, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magic...
+[2025-08-15T00:13:47.155Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/the_parliament_of_nobody.png
+[2025-08-15T00:13:50.157Z] [INFO]   [5/10] The Shadow Parliament
+[2025-08-15T00:13:50.157Z] [INFO] Generating asset for: The Shadow Parliament
+[2025-08-15T00:13:50.157Z] [INFO]   Prompt: The shadow parliament, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical ...
+[2025-08-15T00:13:59.184Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/the_shadow_parliament.png
+[2025-08-15T00:14:02.184Z] [INFO]   [6/10] 02_Worldbuilding/Groups/Academy_of_Depths
+[2025-08-15T00:14:02.185Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Academy_of_Depths
+[2025-08-15T00:14:02.185Z] [INFO]   Prompt: 02 worldbuilding/groups/academy of depths, high fantasy, medieval, magical, enchanted, vibrant, natu...
+[2025-08-15T00:14:10.286Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_academy_of_depths.png
+[2025-08-15T00:14:13.286Z] [INFO]   [7/10] 02_Worldbuilding/Groups/Adaptation Medical Society
+[2025-08-15T00:14:13.287Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Adaptation Medical Society
+[2025-08-15T00:14:13.287Z] [INFO]   Prompt: 02 worldbuilding/groups/adaptation medical society, high fantasy, medieval, magical, enchanted, vibr...
+[2025-08-15T00:14:22.323Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_adaptation_medical_society.png
+[2025-08-15T00:14:25.324Z] [INFO]   [8/10] 02_Worldbuilding/Groups/Bloom Field Cultivation Guil
+[2025-08-15T00:14:25.324Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Bloom Field Cultivation Guil
+[2025-08-15T00:14:25.324Z] [INFO]   Prompt: 02 worldbuilding/groups/bloom field cultivation guil, high fantasy, medieval, magical, enchanted, vi...
+[2025-08-15T00:14:34.339Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_bloom_field_cultivation_guil.png
+[2025-08-15T00:14:37.340Z] [INFO]   [9/10] 02_Worldbuilding/Groups/Cloud Shepherd Guild
+[2025-08-15T00:14:37.341Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Cloud Shepherd Guild
+[2025-08-15T00:14:37.341Z] [INFO]   Prompt: 02 worldbuilding/groups/cloud shepherd guild, high fantasy, medieval, magical, enchanted, vibrant, n...
+[2025-08-15T00:14:46.361Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_cloud_shepherd_guild.png
+[2025-08-15T00:14:49.361Z] [INFO]   [10/10] 02_Worldbuilding/Groups/Cross-Realm Research Coalition
+[2025-08-15T00:14:49.361Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Cross-Realm Research Coalition
+[2025-08-15T00:14:49.361Z] [INFO]   Prompt: 02 worldbuilding/groups/cross-realm research coalition, high fantasy, medieval, magical, enchanted, ...
+[2025-08-15T00:14:57.385Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_cross_realm_research_coalition.png
+[2025-08-15T00:14:57.386Z] [ERROR] Could not save progress: ENOENT: no such file or directory, open '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/09_Performance/generation_progress.json'
+[2025-08-15T00:14:57.386Z] [INFO] 
+📊 Statistics:
+[2025-08-15T00:14:57.386Z] [INFO]   Files scanned: 12439
+[2025-08-15T00:14:57.386Z] [INFO]   Assets queued: 8640
+[2025-08-15T00:14:57.386Z] [INFO]   Assets generated: 110
+[2025-08-15T00:14:57.386Z] [INFO]   Assets failed: 0
+[2025-08-15T00:14:57.386Z] [INFO]   Generation rate: 4.9 assets/min
+[2025-08-15T00:14:57.386Z] [INFO]   Time elapsed: 22.3 minutes
+[2025-08-15T00:14:57.386Z] [INFO] 
+⏳ Waiting 15s before next batch...
+[2025-08-15T00:15:12.387Z] [INFO] 
+📦 Processing batch 12 (10 assets)
+[2025-08-15T00:15:12.387Z] [INFO]   [1/10] 02_Worldbuilding/Groups/Crystal Agricultural Research Institute
+[2025-08-15T00:15:12.387Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Crystal Agricultural Research Institute
+[2025-08-15T00:15:12.387Z] [INFO]   Prompt: 02 worldbuilding/groups/crystal agricultural research institute, high fantasy, medieval, magical, en...
+[2025-08-15T00:15:18.430Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_crystal_agricultural_research_institute.png
+[2025-08-15T00:15:21.431Z] [INFO]   [2/10] 02_Worldbuilding/Groups/Crystal Cultivators Guil
+[2025-08-15T00:15:21.431Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Crystal Cultivators Guil
+[2025-08-15T00:15:21.431Z] [INFO]   Prompt: 02 worldbuilding/groups/crystal cultivators guil, high fantasy, medieval, magical, enchanted, vibran...
+[2025-08-15T00:15:30.449Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_crystal_cultivators_guil.png
+[2025-08-15T00:15:33.450Z] [INFO]   [3/10] 02_Worldbuilding/Groups/Crystal Cultivators Guild
+[2025-08-15T00:15:33.451Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Crystal Cultivators Guild
+[2025-08-15T00:15:33.451Z] [INFO]   Prompt: 02 worldbuilding/groups/crystal cultivators guild, high fantasy, medieval, magical, enchanted, vibra...
+[2025-08-15T00:15:42.470Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_crystal_cultivators_guild.png
+[2025-08-15T00:15:45.470Z] [INFO]   [4/10] 02_Worldbuilding/Groups/Crystal Merchants Guil
+[2025-08-15T00:15:45.470Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Crystal Merchants Guil
+[2025-08-15T00:15:45.470Z] [INFO]   Prompt: 02 worldbuilding/groups/crystal merchants guil, high fantasy, medieval, magical, enchanted, vibrant,...
+[2025-08-15T00:15:53.487Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_crystal_merchants_guil.png
+[2025-08-15T00:15:56.486Z] [INFO]   [5/10] 02_Worldbuilding/Groups/Crystal Preservation Society
+[2025-08-15T00:15:56.486Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Crystal Preservation Society
+[2025-08-15T00:15:56.487Z] [INFO]   Prompt: 02 worldbuilding/groups/crystal preservation society, high fantasy, medieval, magical, enchanted, vi...
+[2025-08-15T00:16:05.500Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_crystal_preservation_society.png
+[2025-08-15T00:16:08.501Z] [INFO]   [6/10] 02_Worldbuilding/Groups/Crystal_Wardens
+[2025-08-15T00:16:08.502Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Crystal_Wardens
+[2025-08-15T00:16:08.502Z] [INFO]   Prompt: 02 worldbuilding/groups/crystal wardens, high fantasy, medieval, magical, enchanted, vibrant, natura...
+[2025-08-15T00:16:16.514Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_crystal_wardens.png
+[2025-08-15T00:16:19.515Z] [INFO]   [7/10] 02_Worldbuilding/Groups/Cultural Bridge Alliance
+[2025-08-15T00:16:19.516Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Cultural Bridge Alliance
+[2025-08-15T00:16:19.516Z] [INFO]   Prompt: 02 worldbuilding/groups/cultural bridge alliance, high fantasy, medieval, magical, enchanted, vibran...
+[2025-08-15T00:16:27.553Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_cultural_bridge_alliance.png
+[2025-08-15T00:16:30.554Z] [INFO]   [8/10] 02_Worldbuilding/Groups/Cultural Exchange Cente
+[2025-08-15T00:16:30.555Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Cultural Exchange Cente
+[2025-08-15T00:16:30.555Z] [INFO]   Prompt: 02 worldbuilding/groups/cultural exchange cente, high fantasy, medieval, magical, enchanted, vibrant...
+[2025-08-15T00:16:39.579Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_cultural_exchange_cente.png
+[2025-08-15T00:16:42.581Z] [INFO]   [9/10] 02_Worldbuilding/Groups/Cultural Festivals Committee
+[2025-08-15T00:16:42.581Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Cultural Festivals Committee
+[2025-08-15T00:16:42.581Z] [INFO]   Prompt: 02 worldbuilding/groups/cultural festivals committee, high fantasy, medieval, magical, enchanted, vi...
+[2025-08-15T00:16:51.608Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_cultural_festivals_committee.png
+[2025-08-15T00:16:54.609Z] [INFO]   [10/10] 02_Worldbuilding/Groups/Cultural Organization.md
+[2025-08-15T00:16:54.609Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Cultural Organization.md
+[2025-08-15T00:16:54.609Z] [INFO]   Prompt: 02 worldbuilding/groups/cultural organization.md, high fantasy, medieval, magical, enchanted, vibran...
+[2025-08-15T00:17:02.630Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_cultural_organization_md.png
+[2025-08-15T00:17:02.630Z] [ERROR] Could not save progress: ENOENT: no such file or directory, open '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/09_Performance/generation_progress.json'
+[2025-08-15T00:17:02.630Z] [INFO] 
+📊 Statistics:
+[2025-08-15T00:17:02.630Z] [INFO]   Files scanned: 12439
+[2025-08-15T00:17:02.630Z] [INFO]   Assets queued: 8640
+[2025-08-15T00:17:02.630Z] [INFO]   Assets generated: 120
+[2025-08-15T00:17:02.630Z] [INFO]   Assets failed: 0
+[2025-08-15T00:17:02.631Z] [INFO]   Generation rate: 4.9 assets/min
+[2025-08-15T00:17:02.631Z] [INFO]   Time elapsed: 24.3 minutes
+[2025-08-15T00:17:02.631Z] [INFO] 
+⏳ Waiting 15s before next batch...
+[2025-08-15T00:17:17.632Z] [INFO] 
+📦 Processing batch 13 (10 assets)
+[2025-08-15T00:17:17.633Z] [INFO]   [1/10] 02_Worldbuilding/Groups/Cultural Preservation Societ
+[2025-08-15T00:17:17.633Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Cultural Preservation Societ
+[2025-08-15T00:17:17.633Z] [INFO]   Prompt: 02 worldbuilding/groups/cultural preservation societ, high fantasy, medieval, magical, enchanted, vi...
+[2025-08-15T00:17:24.646Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_cultural_preservation_societ.png
+[2025-08-15T00:17:27.646Z] [INFO]   [2/10] 02_Worldbuilding/Groups/Depth Supremacist Movement
+[2025-08-15T00:17:27.646Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Depth Supremacist Movement
+[2025-08-15T00:17:27.646Z] [INFO]   Prompt: 02 worldbuilding/groups/depth supremacist movement, high fantasy, medieval, magical, enchanted, vibr...
+[2025-08-15T00:17:36.665Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_depth_supremacist_movement.png
+[2025-08-15T00:17:39.666Z] [INFO]   [3/10] 02_Worldbuilding/Groups/Faction_Overview
+[2025-08-15T00:17:39.666Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Faction_Overview
+[2025-08-15T00:17:39.666Z] [INFO]   Prompt: 02 worldbuilding/groups/faction overview, high fantasy, medieval, magical, enchanted, vibrant, natur...
+[2025-08-15T00:17:48.678Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_faction_overview.png
+[2025-08-15T00:17:51.679Z] [INFO]   [4/10] 02_Worldbuilding/Groups/Guild Master Coppe
+[2025-08-15T00:17:51.679Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Guild Master Coppe
+[2025-08-15T00:17:51.679Z] [INFO]   Prompt: 02 worldbuilding/groups/guild master coppe, high fantasy, medieval, magical, enchanted, vibrant, nat...
+[2025-08-15T00:18:00.790Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_guild_master_coppe.png
+[2025-08-15T00:18:03.791Z] [INFO]   [5/10] 02_Worldbuilding/Groups/Harbor District Medical Corps
+[2025-08-15T00:18:03.791Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Harbor District Medical Corps
+[2025-08-15T00:18:03.791Z] [INFO]   Prompt: 02 worldbuilding/groups/harbor district medical corps, high fantasy, medieval, magical, enchanted, v...
+[2025-08-15T00:18:12.808Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_harbor_district_medical_corps.png
+[2025-08-15T00:18:15.810Z] [INFO]   [6/10] 02_Worldbuilding/Groups/Integration Institute
+[2025-08-15T00:18:15.810Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Integration Institute
+[2025-08-15T00:18:15.810Z] [INFO]   Prompt: 02 worldbuilding/groups/integration institute, high fantasy, medieval, magical, enchanted, vibrant, ...
+[2025-08-15T00:18:24.893Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_integration_institute.png
+[2025-08-15T00:18:27.895Z] [INFO]   [7/10] 02_Worldbuilding/Groups/Legal Defense Network
+[2025-08-15T00:18:27.895Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Legal Defense Network
+[2025-08-15T00:18:27.895Z] [INFO]   Prompt: 02 worldbuilding/groups/legal defense network, high fantasy, medieval, magical, enchanted, vibrant, ...
+[2025-08-15T00:18:37.913Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_legal_defense_network.png
+[2025-08-15T00:18:40.913Z] [INFO]   [8/10] 02_Worldbuilding/Groups/Local Informants
+[2025-08-15T00:18:40.913Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Local Informants
+[2025-08-15T00:18:40.913Z] [INFO]   Prompt: 02 worldbuilding/groups/local informants, high fantasy, medieval, magical, enchanted, vibrant, natur...
+[2025-08-15T00:18:49.930Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_local_informants.png
+[2025-08-15T00:18:52.930Z] [INFO]   [9/10] 02_Worldbuilding/Groups/Marine Protection Guil
+[2025-08-15T00:18:52.931Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Marine Protection Guil
+[2025-08-15T00:18:52.931Z] [INFO]   Prompt: 02 worldbuilding/groups/marine protection guil, high fantasy, medieval, magical, enchanted, vibrant,...
+[2025-08-15T00:19:01.948Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_marine_protection_guil.png
+[2025-08-15T00:19:04.950Z] [INFO]   [10/10] 02_Worldbuilding/Groups/Master Cultivators Guild
+[2025-08-15T00:19:04.950Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Master Cultivators Guild
+[2025-08-15T00:19:04.950Z] [INFO]   Prompt: 02 worldbuilding/groups/master cultivators guild, high fantasy, medieval, magical, enchanted, vibran...
+[2025-08-15T00:19:13.966Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_master_cultivators_guild.png
+[2025-08-15T00:19:13.966Z] [ERROR] Could not save progress: ENOENT: no such file or directory, open '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/09_Performance/generation_progress.json'
+[2025-08-15T00:19:13.966Z] [INFO] 
+📊 Statistics:
+[2025-08-15T00:19:13.966Z] [INFO]   Files scanned: 12439
+[2025-08-15T00:19:13.966Z] [INFO]   Assets queued: 8640
+[2025-08-15T00:19:13.966Z] [INFO]   Assets generated: 130
+[2025-08-15T00:19:13.966Z] [INFO]   Assets failed: 0
+[2025-08-15T00:19:13.966Z] [INFO]   Generation rate: 4.9 assets/min
+[2025-08-15T00:19:13.966Z] [INFO]   Time elapsed: 26.5 minutes
+[2025-08-15T00:19:13.966Z] [INFO] 
+⏳ Waiting 15s before next batch...
+[2025-08-15T00:19:28.966Z] [INFO] 
+📦 Processing batch 14 (10 assets)
+[2025-08-15T00:19:28.966Z] [INFO]   [1/10] 02_Worldbuilding/Groups/Memory Thieves Guil
+[2025-08-15T00:19:28.967Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Memory Thieves Guil
+[2025-08-15T00:19:28.967Z] [INFO]   Prompt: 02 worldbuilding/groups/memory thieves guil, high fantasy, medieval, magical, enchanted, vibrant, na...
+[2025-08-15T00:19:35.984Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_memory_thieves_guil.png
+[2025-08-15T00:19:38.985Z] [INFO]   [2/10] 02_Worldbuilding/Groups/Merchants Guild.md
+[2025-08-15T00:19:38.985Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Merchants Guild.md
+[2025-08-15T00:19:38.985Z] [INFO]   Prompt: 02 worldbuilding/groups/merchants guild.md, high fantasy, medieval, magical, enchanted, vibrant, nat...
+[2025-08-15T00:19:49.007Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_merchants_guild_md.png
+[2025-08-15T00:19:52.008Z] [INFO]   [3/10] 02_Worldbuilding/Groups/Natural Order Movemen
+[2025-08-15T00:19:52.008Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Natural Order Movemen
+[2025-08-15T00:19:52.008Z] [INFO]   Prompt: 02 worldbuilding/groups/natural order movemen, high fantasy, medieval, magical, enchanted, vibrant, ...
+[2025-08-15T00:20:02.029Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_natural_order_movemen.png
+[2025-08-15T00:20:05.030Z] [INFO]   [4/10] 02_Worldbuilding/Groups/Order of Mirrors
+[2025-08-15T00:20:05.030Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Order of Mirrors
+[2025-08-15T00:20:05.031Z] [INFO]   Prompt: 02 worldbuilding/groups/order of mirrors, high fantasy, medieval, magical, enchanted, vibrant, natur...
+[2025-08-15T00:20:15.070Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_order_of_mirrors.png
+[2025-08-15T00:20:18.074Z] [INFO]   [5/10] 02_Worldbuilding/Groups/Order of the Crystal Flame
+[2025-08-15T00:20:18.075Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Order of the Crystal Flame
+[2025-08-15T00:20:18.075Z] [INFO]   Prompt: 02 worldbuilding/groups/order of the crystal flame, high fantasy, medieval, magical, enchanted, vibr...
+[2025-08-15T00:20:28.102Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_order_of_the_crystal_flame.png
+[2025-08-15T00:20:31.103Z] [INFO]   [6/10] 02_Worldbuilding/Groups/Order of the Silver Ancho
+[2025-08-15T00:20:31.103Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Order of the Silver Ancho
+[2025-08-15T00:20:31.103Z] [INFO]   Prompt: 02 worldbuilding/groups/order of the silver ancho, high fantasy, medieval, magical, enchanted, vibra...
+[2025-08-15T00:20:40.121Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_order_of_the_silver_ancho.png
+[2025-08-15T00:20:43.121Z] [INFO]   [7/10] 02_Worldbuilding/Groups/Order_of_the_Silent_Vigil
+[2025-08-15T00:20:43.121Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Order_of_the_Silent_Vigil
+[2025-08-15T00:20:43.122Z] [INFO]   Prompt: 02 worldbuilding/groups/order of the silent vigil, high fantasy, medieval, magical, enchanted, vibra...
+[2025-08-15T00:20:53.156Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_order_of_the_silent_vigil.png
+[2025-08-15T00:20:56.157Z] [INFO]   [8/10] 02_Worldbuilding/Groups/Political Consulting Guil
+[2025-08-15T00:20:56.157Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Political Consulting Guil
+[2025-08-15T00:20:56.157Z] [INFO]   Prompt: 02 worldbuilding/groups/political consulting guil, high fantasy, medieval, magical, enchanted, vibra...
+[2025-08-15T00:21:05.177Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_political_consulting_guil.png
+[2025-08-15T00:21:08.179Z] [INFO]   [9/10] 02_Worldbuilding/Groups/Pressure Safety Authorit
+[2025-08-15T00:21:08.179Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Pressure Safety Authorit
+[2025-08-15T00:21:08.179Z] [INFO]   Prompt: 02 worldbuilding/groups/pressure safety authorit, high fantasy, medieval, magical, enchanted, vibran...
+[2025-08-15T00:21:17.195Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_pressure_safety_authorit.png
+[2025-08-15T00:21:20.197Z] [INFO]   [10/10] 02_Worldbuilding/Groups/Quest - Cultural Exchang
+[2025-08-15T00:21:20.197Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Quest - Cultural Exchang
+[2025-08-15T00:21:20.198Z] [INFO]   Prompt: 02 worldbuilding/groups/quest - cultural exchang, high fantasy, medieval, magical, enchanted, vibran...
+[2025-08-15T00:21:30.220Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_quest___cultural_exchang.png
+[2025-08-15T00:21:30.220Z] [ERROR] Could not save progress: ENOENT: no such file or directory, open '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/09_Performance/generation_progress.json'
+[2025-08-15T00:21:30.220Z] [INFO] 
+📊 Statistics:
+[2025-08-15T00:21:30.220Z] [INFO]   Files scanned: 12439
+[2025-08-15T00:21:30.220Z] [INFO]   Assets queued: 8640
+[2025-08-15T00:21:30.220Z] [INFO]   Assets generated: 140
+[2025-08-15T00:21:30.220Z] [INFO]   Assets failed: 0
+[2025-08-15T00:21:30.220Z] [INFO]   Generation rate: 4.9 assets/min
+[2025-08-15T00:21:30.220Z] [INFO]   Time elapsed: 28.8 minutes
+[2025-08-15T00:21:30.220Z] [INFO] 
+⏳ Waiting 15s before next batch...
+[2025-08-15T00:21:45.221Z] [INFO] 
+📦 Processing batch 15 (10 assets)
+[2025-08-15T00:21:45.221Z] [INFO]   [1/10] 02_Worldbuilding/Groups/Research Council
+[2025-08-15T00:21:45.221Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Research Council
+[2025-08-15T00:21:45.221Z] [INFO]   Prompt: 02 worldbuilding/groups/research council, high fantasy, medieval, magical, enchanted, vibrant, natur...
+[2025-08-15T00:21:51.233Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_research_council.png
+[2025-08-15T00:21:54.234Z] [INFO]   [2/10] 02_Worldbuilding/Groups/Respiratory Engineering Guild
+[2025-08-15T00:21:54.234Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Respiratory Engineering Guild
+[2025-08-15T00:21:54.234Z] [INFO]   Prompt: 02 worldbuilding/groups/respiratory engineering guild, high fantasy, medieval, magical, enchanted, v...
+[2025-08-15T00:22:03.253Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_respiratory_engineering_guild.png
+[2025-08-15T00:22:06.254Z] [INFO]   [3/10] 02_Worldbuilding/Groups/Shadow Harmonists Guild
+[2025-08-15T00:22:06.254Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Shadow Harmonists Guild
+[2025-08-15T00:22:06.254Z] [INFO]   Prompt: 02 worldbuilding/groups/shadow harmonists guild, high fantasy, medieval, magical, enchanted, vibrant...
+[2025-08-15T00:22:17.274Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_shadow_harmonists_guild.png
+[2025-08-15T00:22:20.275Z] [INFO]   [4/10] 02_Worldbuilding/Groups/Shadow-Silk Weavers Guil
+[2025-08-15T00:22:20.276Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Shadow-Silk Weavers Guil
+[2025-08-15T00:22:20.276Z] [INFO]   Prompt: 02 worldbuilding/groups/shadow-silk weavers guil, high fantasy, medieval, magical, enchanted, vibran...
+[2025-08-15T00:22:30.367Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_shadow_silk_weavers_guil.png
+[2025-08-15T00:22:33.369Z] [INFO]   [5/10] 02_Worldbuilding/Groups/Shadowhaven Merchant Marine.md
+[2025-08-15T00:22:33.369Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Shadowhaven Merchant Marine.md
+[2025-08-15T00:22:33.369Z] [INFO]   Prompt: 02 worldbuilding/groups/shadowhaven merchant marine.md, high fantasy, medieval, magical, enchanted, ...
+[2025-08-15T00:22:44.391Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_shadowhaven_merchant_marine_md.png
+[2025-08-15T00:22:47.393Z] [INFO]   [6/10] 02_Worldbuilding/Groups/Shadowhawk Syndicat.md
+[2025-08-15T00:22:47.393Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Shadowhawk Syndicat.md
+[2025-08-15T00:22:47.393Z] [INFO]   Prompt: 02 worldbuilding/groups/shadowhawk syndicat.md, high fantasy, medieval, magical, enchanted, vibrant,...
+[2025-08-15T00:22:59.418Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_shadowhawk_syndicat_md.png
+[2025-08-15T00:23:02.418Z] [INFO]   [7/10] 02_Worldbuilding/Groups/Surface Reconnection Coalition
+[2025-08-15T00:23:02.419Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/Surface Reconnection Coalition
+[2025-08-15T00:23:02.419Z] [INFO]   Prompt: 02 worldbuilding/groups/surface reconnection coalition, high fantasy, medieval, magical, enchanted, ...
+[2025-08-15T00:23:14.445Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_surface_reconnection_coalition.png
+[2025-08-15T00:23:17.446Z] [INFO]   [8/10] 02_Worldbuilding/Groups/The Cloud Shepherd Guild
+[2025-08-15T00:23:17.446Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Cloud Shepherd Guild
+[2025-08-15T00:23:17.446Z] [INFO]   Prompt: 02 worldbuilding/groups/the cloud shepherd guild, high fantasy, medieval, magical, enchanted, vibran...
+[2025-08-15T00:23:28.468Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_cloud_shepherd_guild.png
+[2025-08-15T00:23:31.469Z] [INFO]   [9/10] 02_Worldbuilding/Groups/The Crimson Fleet.md
+[2025-08-15T00:23:31.469Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Crimson Fleet.md
+[2025-08-15T00:23:31.469Z] [INFO]   Prompt: 02 worldbuilding/groups/the crimson fleet.md, high fantasy, medieval, magical, enchanted, vibrant, n...
+[2025-08-15T00:23:42.517Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_crimson_fleet_md.png
+[2025-08-15T00:23:45.518Z] [INFO]   [10/10] 02_Worldbuilding/Groups/The Crimson Tide Pirates.md
+[2025-08-15T00:23:45.518Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Crimson Tide Pirates.md
+[2025-08-15T00:23:45.518Z] [INFO]   Prompt: 02 worldbuilding/groups/the crimson tide pirates.md, high fantasy, medieval, magical, enchanted, vib...
+[2025-08-15T00:23:56.545Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_crimson_tide_pirates_md.png
+[2025-08-15T00:23:56.545Z] [ERROR] Could not save progress: ENOENT: no such file or directory, open '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/09_Performance/generation_progress.json'
+[2025-08-15T00:23:56.545Z] [INFO] 
+📊 Statistics:
+[2025-08-15T00:23:56.545Z] [INFO]   Files scanned: 12439
+[2025-08-15T00:23:56.545Z] [INFO]   Assets queued: 8640
+[2025-08-15T00:23:56.545Z] [INFO]   Assets generated: 150
+[2025-08-15T00:23:56.545Z] [INFO]   Assets failed: 0
+[2025-08-15T00:23:56.545Z] [INFO]   Generation rate: 4.8 assets/min
+[2025-08-15T00:23:56.545Z] [INFO]   Time elapsed: 31.2 minutes
+[2025-08-15T00:23:56.545Z] [INFO] 
+⏳ Waiting 15s before next batch...
+[2025-08-15T00:24:11.547Z] [INFO] 
+📦 Processing batch 16 (10 assets)
+[2025-08-15T00:24:11.547Z] [INFO]   [1/10] 02_Worldbuilding/Groups/The Cultural Exchange Society
+[2025-08-15T00:24:11.547Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Cultural Exchange Society
+[2025-08-15T00:24:11.547Z] [INFO]   Prompt: 02 worldbuilding/groups/the cultural exchange society, high fantasy, medieval, magical, enchanted, v...
+[2025-08-15T00:24:17.557Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_cultural_exchange_society.png
+[2025-08-15T00:24:20.558Z] [INFO]   [2/10] 02_Worldbuilding/Groups/The Cultural Heritage Society
+[2025-08-15T00:24:20.558Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Cultural Heritage Society
+[2025-08-15T00:24:20.558Z] [INFO]   Prompt: 02 worldbuilding/groups/the cultural heritage society, high fantasy, medieval, magical, enchanted, v...
+[2025-08-15T00:24:30.577Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_cultural_heritage_society.png
+[2025-08-15T00:24:33.578Z] [INFO]   [3/10] 02_Worldbuilding/Groups/The Deep Wanderers
+[2025-08-15T00:24:33.578Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Deep Wanderers
+[2025-08-15T00:24:33.578Z] [INFO]   Prompt: 02 worldbuilding/groups/the deep wanderers, high fantasy, medieval, magical, enchanted, vibrant, nat...
+[2025-08-15T00:24:43.597Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_deep_wanderers.png
+[2025-08-15T00:24:46.599Z] [INFO]   [4/10] 02_Worldbuilding/Groups/The Inter-Realm Marriage Guil
+[2025-08-15T00:24:46.599Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Inter-Realm Marriage Guil
+[2025-08-15T00:24:46.599Z] [INFO]   Prompt: 02 worldbuilding/groups/the inter-realm marriage guil, high fantasy, medieval, magical, enchanted, v...
+[2025-08-15T00:24:56.619Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_inter_realm_marriage_guil.png
+[2025-08-15T00:24:59.618Z] [INFO]   [5/10] 02_Worldbuilding/Groups/The Memory Keepers
+[2025-08-15T00:24:59.619Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Memory Keepers
+[2025-08-15T00:24:59.619Z] [INFO]   Prompt: 02 worldbuilding/groups/the memory keepers, high fantasy, medieval, magical, enchanted, vibrant, nat...
+[2025-08-15T00:25:11.642Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_memory_keepers.png
+[2025-08-15T00:25:14.643Z] [INFO]   [6/10] 02_Worldbuilding/Groups/The Memory Merchants Guild
+[2025-08-15T00:25:14.643Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Memory Merchants Guild
+[2025-08-15T00:25:14.643Z] [INFO]   Prompt: 02 worldbuilding/groups/the memory merchants guild, high fantasy, medieval, magical, enchanted, vibr...
+[2025-08-15T00:25:25.773Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_memory_merchants_guild.png
+[2025-08-15T00:25:28.775Z] [INFO]   [7/10] 02_Worldbuilding/Groups/The Nameless Librarians
+[2025-08-15T00:25:28.775Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Nameless Librarians
+[2025-08-15T00:25:28.775Z] [INFO]   Prompt: 02 worldbuilding/groups/the nameless librarians, high fantasy, medieval, magical, enchanted, vibrant...
+[2025-08-15T00:25:41.810Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_nameless_librarians.png
+[2025-08-15T00:25:44.809Z] [INFO]   [8/10] 02_Worldbuilding/Groups/The Order of Storm-Touched
+[2025-08-15T00:25:44.810Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Order of Storm-Touched
+[2025-08-15T00:25:44.810Z] [INFO]   Prompt: 02 worldbuilding/groups/the order of storm-touched, high fantasy, medieval, magical, enchanted, vibr...
+[2025-08-15T00:25:55.827Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_order_of_storm_touched.png
+[2025-08-15T00:25:58.828Z] [INFO]   [9/10] 02_Worldbuilding/Groups/The Order of the Silent Vigi
+[2025-08-15T00:25:58.829Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Order of the Silent Vigi
+[2025-08-15T00:25:58.829Z] [INFO]   Prompt: 02 worldbuilding/groups/the order of the silent vigi, high fantasy, medieval, magical, enchanted, vi...
+[2025-08-15T00:26:09.847Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_order_of_the_silent_vigi.png
+[2025-08-15T00:26:12.849Z] [INFO]   [10/10] 02_Worldbuilding/Groups/The Pearl Divers Guil
+[2025-08-15T00:26:12.849Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Pearl Divers Guil
+[2025-08-15T00:26:12.849Z] [INFO]   Prompt: 02 worldbuilding/groups/the pearl divers guil, high fantasy, medieval, magical, enchanted, vibrant, ...
+[2025-08-15T00:26:23.882Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_pearl_divers_guil.png
+[2025-08-15T00:26:23.882Z] [ERROR] Could not save progress: ENOENT: no such file or directory, open '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/09_Performance/generation_progress.json'
+[2025-08-15T00:26:23.882Z] [INFO] 
+📊 Statistics:
+[2025-08-15T00:26:23.882Z] [INFO]   Files scanned: 12439
+[2025-08-15T00:26:23.882Z] [INFO]   Assets queued: 8640
+[2025-08-15T00:26:23.882Z] [INFO]   Assets generated: 160
+[2025-08-15T00:26:23.882Z] [INFO]   Assets failed: 0
+[2025-08-15T00:26:23.882Z] [INFO]   Generation rate: 4.7 assets/min
+[2025-08-15T00:26:23.882Z] [INFO]   Time elapsed: 33.7 minutes
+[2025-08-15T00:26:23.882Z] [INFO] 
+⏳ Waiting 15s before next batch...
+[2025-08-15T00:26:38.884Z] [INFO] 
+📦 Processing batch 17 (10 assets)
+[2025-08-15T00:26:38.884Z] [INFO]   [1/10] 02_Worldbuilding/Groups/The Preservation Protocol
+[2025-08-15T00:26:38.884Z] [INFO] Generating asset for: 02_Worldbuilding/Groups/The Preservation Protocol
+[2025-08-15T00:26:38.884Z] [INFO]   Prompt: 02 worldbuilding/groups/the preservation protocol, high fantasy, medieval, magical, enchanted, vibra...
+[2025-08-15T00:26:44.901Z] [INFO]   ✅ Generated: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_preservation_protocol.png

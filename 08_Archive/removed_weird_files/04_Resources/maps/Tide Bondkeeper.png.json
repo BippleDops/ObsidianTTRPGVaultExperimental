@@ -1,0 +1,18 @@
+{
+  "name": "Tide Bondkeeper",
+  "type": "map",
+  "generated": "2025-08-15T18:18:29.458Z",
+  "prompt": "fantasy map of Tide Bondkeeper, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Tide Bondkeeper.png.json",
+  "reorganized": "2025-08-15T18:33:03.749Z"
+}

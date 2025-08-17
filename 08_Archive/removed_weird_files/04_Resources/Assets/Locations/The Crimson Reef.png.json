@@ -1,0 +1,18 @@
+{
+  "name": "The Crimson Reef",
+  "type": "location",
+  "generated": "2025-08-15T18:18:11.164Z",
+  "prompt": "fantasy landscape called The Crimson Reef, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/The Crimson Reef.png.json",
+  "reorganized": "2025-08-15T18:33:00.996Z"
+}

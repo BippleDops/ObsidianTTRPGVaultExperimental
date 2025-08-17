@@ -1,0 +1,18 @@
+{
+  "name": "ITEM01255_Refined_Potion_of_Clarity",
+  "type": "item",
+  "generated": "2025-08-15T18:18:59.800Z",
+  "prompt": "magical artifact called ITEM01255_Refined_Potion_of_Clarity, detailed item, glowing effects, fantasy artifact",
+  "status": "pending_generation",
+  "tags": [
+    "item",
+    "equipment-art",
+    "object",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Items/ITEM01255_Refined_Potion_of_Clarity.png.json",
+  "reorganized": "2025-08-15T18:32:58.203Z"
+}

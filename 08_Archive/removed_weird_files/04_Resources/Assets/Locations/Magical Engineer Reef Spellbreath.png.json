@@ -1,0 +1,18 @@
+{
+  "name": "Magical Engineer Reef Spellbreath",
+  "type": "location",
+  "generated": "2025-08-15T18:18:05.795Z",
+  "prompt": "fantasy landscape called Magical Engineer Reef Spellbreath, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Magical Engineer Reef Spellbreath.png.json",
+  "reorganized": "2025-08-15T18:33:00.680Z"
+}

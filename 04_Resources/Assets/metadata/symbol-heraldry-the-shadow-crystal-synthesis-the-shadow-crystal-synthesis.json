@@ -1,0 +1,34 @@
+{
+  "id": "heraldry-the-shadow-crystal-synthesis",
+  "type": "symbol",
+  "name": "The Shadow-Crystal Synthesis",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Shadow-Crystal Synthesis, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 2005,
+  "alt_text": "Heraldic emblem for The Shadow-Crystal Synthesis.",
+  "realm": "aquabyssos",
+  "palette": "deep blues",
+  "textPolicy": "no words or inscriptions; pure iconography",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Design a painterly and medieval–fantasy style image that portrays a tabletop role-playing game scene reminiscent of D&D 5E. The scene should be deeply grounded in the thematics of aquatic fantasy, presenting a strong emphasis on subsurface caustics and bioluminescent accents. The color palette should mainly encompass deep blues, sea greens, teals, and pearl highlights, generating a sense of deep sea aesthetic. Visual elements should include hero characters dressed in culturally coherent gear appropriate to a medieval fantasy setting, constructed of traditional materials without any hint of modern tech or signage. The image must prominently display an emblem named 'The Shadow-Crystal Synthesis' which should contain 2-3 motifs that tie closely to its identity. Variations of this emblem like a seal, a banner, or a coin could be scattered throughout the scene. Limit the geometry of these elements to being simple yet impactful. Please avoid rendering the image in vector SVG, photoreal CGI, an anime style, and avoid including modern signage, garbled or random letters, science fiction User Interfaces, and unwanted glare. The aspect ratio and resolution of the image should be dictated by the specified requirements and ensure there are no artifacts or distortions.",
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.png"
+}

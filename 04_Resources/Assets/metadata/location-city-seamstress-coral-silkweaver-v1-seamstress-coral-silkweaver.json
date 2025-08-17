@@ -1,0 +1,29 @@
+{
+  "id": "city-seamstress-coral-silkweaver-v1",
+  "type": "location",
+  "name": "Seamstress Coral Silkweaver",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Panoramic view of Seamstress Coral Silkweaver, bioluminescent coral or cloudstone, weather cues and particles, golden hour / night glow / storm, figures/vehicles for scale, cinematic concept art, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, cinematic atmosphere, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid readable signage or paragraphs; use iconography or blank signboards. No embedded words., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "mysterious",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7582,
+  "alt_text": "Cinematic view of Seamstress Coral Silkweaver with architecture and inhabitants.",
+  "realm": "aquabyssos",
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-seamstress-coral-silkweaver-v1-seamstress-coral-silkweaver.svg"
+}

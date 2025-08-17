@@ -1,0 +1,46 @@
+{
+  "name": "City Map 472",
+  "type": "map",
+  "mapType": "city",
+  "gridSize": null,
+  "scale": "1:10000",
+  "tags": [
+    "map",
+    "city",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 66.15000551909115,
+      "y": 84.33907730597186,
+      "type": "city"
+    },
+    {
+      "name": "Location 2",
+      "x": 24.52394747927795,
+      "y": 82.50462809375102,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 3",
+      "x": 10.892447810524963,
+      "y": 54.769681422220515,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 4",
+      "x": 52.075401468043346,
+      "y": 48.11762255623642,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 5",
+      "x": 31.0924720069231,
+      "y": 97.88380980624693,
+      "type": "landmark"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.770Z"
+}

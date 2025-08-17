@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-08-14T22:16:35.541Z",
+  "services": {
+    "n8n": false,
+    "comfyui": true,
+    "animatediff": false,
+    "audiocraft": false
+  },
+  "results": {
+    "successful": 3,
+    "failed": 1,
+    "assets": [
+      {
+        "type": "image",
+        "category": "locations",
+        "path": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Locations/locations_1755209667472.png",
+        "prompt": "fantasy tavern interior, warm lighting"
+      },
+      {
+        "type": "image",
+        "category": "portraits",
+        "path": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Portraits/portraits_1755209675309.png",
+        "prompt": "heroic knight portrait, detailed armor"
+      },
+      {
+        "type": "audio",
+        "category": "audio",
+        "path": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Audio/audio_1755209794508.wav",
+        "prompt": "ambient dungeon sounds"
+      }
+    ]
+  }
+}

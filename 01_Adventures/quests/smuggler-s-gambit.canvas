@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Smuggler's Gambit.md",
+      "x": 0,
+      "y": 0,
+      "width": 460,
+      "height": 140
+    },
+    {
+      "id": "n_reports-bidirectional-links-md_300",
+      "type": "file",
+      "file": "reports/bidirectional_links.md",
+      "x": -520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0",
+      "fromNode": "root",
+      "toNode": "n_reports-bidirectional-links-md_300"
+    }
+  ]
+}

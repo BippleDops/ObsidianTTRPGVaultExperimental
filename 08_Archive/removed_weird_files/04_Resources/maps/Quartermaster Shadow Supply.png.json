@@ -1,0 +1,18 @@
+{
+  "name": "Quartermaster Shadow Supply",
+  "type": "map",
+  "generated": "2025-08-15T18:18:14.572Z",
+  "prompt": "fantasy map of Quartermaster Shadow Supply, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Quartermaster Shadow Supply.png.json",
+  "reorganized": "2025-08-15T18:33:03.475Z"
+}

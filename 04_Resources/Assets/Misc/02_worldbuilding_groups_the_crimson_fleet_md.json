@@ -1,0 +1,22 @@
+{
+  "title": "02_Worldbuilding/Groups/The Crimson Fleet.md",
+  "prompt": "02 worldbuilding/groups/the crimson fleet.md, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:23:49.821Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Groups/The Crimson Fleet.md.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/02_worldbuilding_groups_the_crimson_fleet_md.json",
+  "reorganized": "2025-08-15T18:33:03.921Z"
+}

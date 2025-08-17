@@ -1,0 +1,623 @@
+---
+
+title: hit-points-xphb (variant-rules)
+type: note
+tags:
+- note
+
+created: '2025-01-15'
+modified: '2025-01-15'
+aliases: ["hit-points-xphb (variant-rules)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
+---
+
+ # hit-points-xphb ---
+
+## Description
+
+Detailed description pending.
+title: hit points xphb
+aliases:
+- Hit Points
+
+type: note
+tags:
+- research
+- world/both
+- active
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
+
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidian UIMode: preview
+updated: '2025-08-12T23:37:34.113347'
+world: Both
+
+--- # Hit Points
+
+*Source: Player's Handbook (2024) p. 368. Available in the SRD and the Free Rules (2024)* Hit Points (HP) are a measure of how difficult it is to kill or destroy a creature or an object. Damage reduces Hit Points, and healing restores them. You can't have more Hit Points than your Hit Point maximum, and you can't have less than 0. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Hit points xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of hit points xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hit points xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange dreams suggest a conspiracy
+
+- A corpse reveals a betrayal about a local noble ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Item Types
+
+- [Aboleth Xmm]]
+- [[Beholder Xmm
+- [Blue Slaad Xmm]]
+- [[Death Slaad Xmm
+- [Gibbering Mouther Xmm]]
+- [[Gray Slaad Xmm
+- [Green Slaad Xmm]]
+- [[Intellect Devourer Xmm
+- [Mind Flayer Arcanist Xmm]]
+- [[Mind Flayer Xmm
+- [Otyugh Xmm]]
+- [[Red Slaad Xmm
+- [aboleth-xmm (aberration)]]
+- [[beholder-xmm (aberration)
+- [blue-slaad-xmm (aberration)]]
+- [[death-slaad-xmm (aberration)
+- [gibbering-mouther-xmm (aberration)]]
+- [[gray-slaad-xmm (aberration)
+- [green-slaad-xmm (aberration)]]
+- [[intellect-devourer-xmm (aberration)
+- [mind-flayer-arcanist-xmm (aberration)]]
+- [[mind-flayer-xmm (aberration)
+- [otyugh-xmm (aberration)]]
+- [[red-slaad-xmm (aberration)
+- [Giant Shark Xmm]]
+- [[Hunter Shark Xmm
+- [Piranha Xmm]]
+- [[Swarm of Bats Xmm
+- [Swarm of Insects Xmm]]
+- [[Swarm of Piranhas Xmm
+- [Swarm of Rats Xmm]]
+- [[Swarm of Ravens Xmm
+- [Swarm of Venomous Snakes Xmm]]
+- [[giant-shark-xmm (beast)
+- [hunter-shark-xmm (beast)]]
+- [[piranha-xmm (beast)
+- [swarm-of-bats-xmm (beast)]]
+- [[swarm-of-insects-xmm (beast)
+- [swarm-of-piranhas-xmm (beast)]]
+- [[swarm-of-rats-xmm (beast)
+- [swarm-of-ravens-xmm (beast)]]
+- [[swarm-of-venomous-snakes-xmm (beast)
+- [Deva Xmm]]
+- [[Guardian Naga Xmm
+- [Planetar Xmm]]
+- [[Solar Xmm
+- [Unicorn Xmm]]
+- [[deva-xmm (celestial)
+- [guardian-naga-xmm (celestial)]]
+- [[planetar-xmm (celestial)
+- [solar-xmm (celestial)]]
+- [[unicorn-xmm (celestial)
+- [Clay Golem Xmm]]
+- [[Colossus Xmm
+- [Flesh Golem Xmm]]
+- [[Iron Golem Xmm
+- [Shield Guardian Xmm]]
+- [[clay-golem-xmm (construct)
+- [colossus-xmm (construct)]]
+- [[flesh-golem-xmm (construct)
+- [iron-golem-xmm (construct)]]
+- [[shield-guardian-xmm (construct)
+- [Juvenile Shadow Dragon Xmm]]
+- [[Shadow Dragon Xmm
+- [juvenile-shadow-dragon-xmm (dragon)]]
+- [[shadow-dragon-xmm (dragon)
+- [Dao Xmm]]
+- [[Efreeti Xmm
+- [Marid Xmm]]
+- [[dao-xmm (elemental)
+- [efreeti-xmm (elemental)]]
+- [[marid-xmm (elemental)
+- [Dire Worg Xmm]]
+- [[Sea Hag Xmm
+- [dire-worg-xmm (fey)]]
+- [[sea-hag-xmm (fey)
+- [Arcanaloth Xmm]]
+- [[Balor Xmm
+- [Barbed Devil Xmm]]
+- [[Barlgura Xmm
+- [Chain Devil Xmm]]
+- [[Chasme Xmm
+- [Erinyes Xmm]]
+- [[Glabrezu Xmm
+- [Goristro Xmm]]
+- [[Hezrou Xmm
+- [Horned Devil Xmm]]
+- [[Incubus Xmm
+- [Lemure Xmm]]
+- [[Marilith Xmm
+- [Mezzoloth Xmm]]
+- [[Nalfeshnee Xmm
+- [Night Hag Xmm]]
+- [[Nycaloth Xmm
+- [Oni Xmm]]
+- [[Pit Fiend Xmm
+- [Rakshasa Xmm]]
+- [[Sahuagin Baron Xmm
+- [Sahuagin Priest Xmm]]
+- [[Sahuagin Warrior Xmm
+- [Shadow Demon Xmm]]
+- [[Spirit Naga Xmm
+- [Succubus Xmm]]
+- [[Swarm of Dretches Xmm
+- [Swarm of Larvae Xmm]]
+- [[Swarm of Lemures Xmm
+- [Ultroloth Xmm]]
+- [[Vrock Xmm
+- [Yochlol Xmm]]
+- [[arcanaloth-xmm (fiend)
+- [balor-xmm (fiend)]]
+- [[barbed-devil-xmm (fiend)
+- [barlgura-xmm (fiend)]]
+- [[chain-devil-xmm (fiend)
+- [chasme-xmm (fiend)]]
+- [[erinyes-xmm (fiend)
+- [glabrezu-xmm (fiend)]]
+- [[goristro-xmm (fiend)
+- [hezrou-xmm (fiend)]]
+- [[horned-devil-xmm (fiend)
+- [incubus-xmm (fiend)]]
+- [[lemure-xmm (fiend)
+- [marilith-xmm (fiend)]]
+- [[mezzoloth-xmm (fiend)
+- [nalfeshnee-xmm (fiend)]]
+- [[night-hag-xmm (fiend)
+- [nycaloth-xmm (fiend)]]
+- [[oni-xmm (fiend)
+- [pit-fiend-xmm (fiend)]]
+- [[rakshasa-xmm (fiend)
+- [sahuagin-baron-xmm (fiend)]]
+- [[sahuagin-priest-xmm (fiend)
+- [sahuagin-warrior-xmm (fiend)]]
+- [[shadow-demon-xmm (fiend)
+- [spirit-naga-xmm (fiend)]]
+- [[succubus-xmm (fiend)
+- [swarm-of-dretches-xmm (fiend)]]
+- [[swarm-of-larvae-xmm (fiend)
+- [swarm-of-lemures-xmm (fiend)]]
+- [[ultroloth-xmm (fiend)
+- [vrock-xmm (fiend)]]
+- [[yochlol-xmm (fiend)
+- [Troll Limb Xmm]]
+- [[Troll Xmm
+- [troll-limb-xmm (giant)]]
+- [[troll-xmm (giant)
+- [Death Tyrant Xmm]]
+- [[Demilich Xmm
+- [Shadow Dragon Xmm (legendary-group)]]
+- [[Unicorn Xmm (legendary-group)
+- [death-tyrant-xmm (legendary-group)]]
+- [[demilich-xmm (legendary-group)
+- [shadow-dragon-xmm (legendary-group)]]
+- [[unicorn-xmm (legendary-group)
+- [Death Dog Xmm]]
+- [[Hydra Xmm
+- [Peryton Xmm]]
+- [[Phase Spider Xmm
+- [Swarm of Stirges Xmm]]
+- [[Werebear Xmm
+- [Wereboar Xmm]]
+- [[Wererat Xmm
+- [Weretiger Xmm]]
+- [[Werewolf Xmm
+- [death-dog-xmm (monstrosity)]]
+- [[hydra-xmm (monstrosity)
+- [peryton-xmm (monstrosity)]]
+- [[phase-spider-xmm (monstrosity)
+- [swarm-of-stirges-xmm (monstrosity)]]
+- [[werebear-xmm (monstrosity)
+- [wereboar-xmm (monstrosity)]]
+- [[wererat-xmm (monstrosity)
+- [weretiger-xmm (monstrosity)]]
+- [[werewolf-xmm (monstrosity)
+- [Black Pudding Xmm]]
+- [[Blob of Annihilation Xmm
+- [Ochre Jelly Xmm]]
+- [[black-pudding-xmm (ooze)
+- [blob-of-annihilation-xmm (ooze)]]
+- [[ochre-jelly-xmm (ooze)
+- [Gas Spore Fungus Xmm]]
+- [[Gulthias Blight Xmm
+- [Shambling Mound Xmm]]
+- [[Violet Fungus Necrohulk Xmm
+- [gas-spore-fungus-xmm (plant)]]
+- [[gulthias-blight-xmm (plant)
+- [shambling-mound-xmm (plant)]]
+- [[violet-fungus-necrohulk-xmm (plant)
+- [Banshee Xmm]]
+- [[Death Knight Xmm
+- [Death Tyrant Xmm (undead)]]
+- [[Demilich Xmm (undead)
+- [Dracolich Xmm (undead)]]
+- [[Ghost Xmm
+- [Graveyard Revenant Xmm]]
+- [[Haunting Revenant Xmm
+- [Lich Xmm (undead)]]
+- [[Mummy Lord Xmm (undead)
+- [Mummy Xmm]]
+- [[Revenant Xmm
+- [Specter Xmm]]
+- [[Swarm of Crawling Claws Xmm
+- [Vampire Nightbringer Xmm]]
+- [[Vampire Spawn Xmm
+- [Vampire Umbral Lord Xmm]]
+- [[Vampire Xmm (undead)
+- [Will O Wisp Xmm]]
+- [[Wraith Xmm
+- [banshee-xmm (undead)]]
+- [[death-knight-xmm (undead)
+- [death-tyrant-xmm (undead)]]
+- [[demilich-xmm (undead)
+- [dracolich-xmm (undead)]]
+- [[ghost-xmm (undead)
+- [graveyard-revenant-xmm (undead)]]
+- [[haunting-revenant-xmm (undead)
+- [lich-xmm (undead)]]
+- [[mummy-lord-xmm (undead)
+- [mummy-xmm (undead)]]
+- [[revenant-xmm (undead)
+- [specter-xmm (undead)]]
+- [[swarm-of-crawling-claws-xmm (undead)
+- [vampire-nightbringer-xmm (undead)]]
+- [[vampire-spawn-xmm (undead)
+- [vampire-umbral-lord-xmm (undead)]]
+- [[vampire-xmm (undead)
+- [will-o-wisp-xmm (undead)]]
+- [[wraith-xmm (undead)
+- [1 How to Use a Monster]]
+- [[1-how-to-use-a-monster (monster-manual-2025)
+- [11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)
+- [Barbarian Xphb Path of the Zealot Xphb]]
+- [[Barbarian Xphb
+- [Cleric Xphb Life Domain Xphb]]
+- [[Cleric Xphb
+- [Druid Xphb Circle of the Stars Xphb]]
+- [[Fighter Xphb Champion Xphb
+- [Fighter Xphb]]
+- [[Monk Xphb Warrior of Mercy Xphb
+- [Monk Xphb Warrior of the Open Hand Xphb]]
+- [[Paladin Xphb Oath of Vengeance Xphb
+- [Paladin Xphb]]
+- [[Ranger Xphb Beast Master Xphb
+- [Ranger Xphb Hunter Xphb]]
+- [[Sorcerer Xphb Clockwork Sorcery Xphb
+- [Warlock Xphb Celestial Patron Xphb]]
+- [[Warlock Xphb Fiend Patron Xphb
+- [Wizard Xphb Abjurer Xphb]]
+- [[Wizard Xphb Illusionist Xphb
+- [barbarian-xphb (classes)]]
+- [[barbarian-xphb-path-of-the-zealot-xphb (classes)
+- [cleric-xphb (classes)]]
+- [[cleric-xphb-life-domain-xphb (classes)
+- [cleric-xphb-life-domain-xphb 2 (classes)]]
+- [[druid-xphb-circle-of-the-stars-xphb (classes)
+- [fighter-xphb (classes)]]
+- [[fighter-xphb-champion-xphb (classes)
+- [monk-xphb-warrior-of-mercy-xphb (classes)]]
+- [[monk-xphb-warrior-of-the-open-hand-xphb (classes)
+- [paladin-xphb (classes)]]
+- [[paladin-xphb-oath-of-vengeance-xphb (classes)
+- [ranger-xphb-beast-master-xphb (classes)]]
+- [[ranger-xphb-hunter-xphb (classes)
+- [sorcerer-xphb-clockwork-sorcery-xphb (classes)]]
+- [[warlock-xphb-celestial-patron-xphb (classes)
+- [warlock-xphb-fiend-patron-xphb (classes)]]
+- [[wizard-xphb-abjurer-xphb (classes)
+- [wizard-xphb-illusionist-xphb (classes)]]
+- [[Deck of Many Things 13 Cards Xdmg
+- [Deck of Many Things Xdmg]]
+- [[deck-of-many-things-13-cards-xdmg (decks)
+- [deck-of-many-things-xdmg (decks)]]
+- [[item-types (CLI_Reference)
+- [Baba Yagas Dancing Broom Xdmg]]
+- [[Bag of Tricks Gray Xdmg
+- [Bag of Tricks Rust Xdmg]]
+- [[Bag of Tricks Tan Xdmg
+- [Berserker Axe Xdmg]]
+- [[Blackrazor Xdmg
+- [Daerns Instant Fortress Xdmg]]
+- [[Deck of Many Things Xdmg (items)
+- [Eye and Hand of Vecna Xdmg]]
+- [[Figurine of Wondrous Power Bronze Griffon
+- [Figurine of Wondrous Power Ebony Fly Xdmg]]
+- [[Figurine of Wondrous Power Golden Lions Xdmg
+- [Figurine of Wondrous Power Ivory Goats Xdmg]]
+- [[Figurine of Wondrous Power Marble Elephant
+- [Figurine of Wondrous Power Obsidian Steed]]
+- [[Figurine of Wondrous Power Onyx Dog Xdmg
+- [Figurine of Wondrous Power Serpentine Owl]]
+- [[Figurine of Wondrous Power Silver Raven Xdmg
+- [Folding Boat Xdmg]]
+- [[Hat of Vermin Xdmg
+- [Healers Kit Xphb]]
+- [[Horn of Valhalla Brass Xdmg
+- [Horn of Valhalla Bronze Xdmg]]
+- [[Horn of Valhalla Iron Xdmg
+- [Horn of Valhalla Silver Xdmg]]
+- [[Horn of Valhalla Xdmg
+- [Ioun Stone Regeneration Xdmg]]
+- [[Keoghtoms Ointment Xdmg
+- [Mace of Disruption Xdmg]]
+- [[Mace of Smiting Xdmg
+- [Mariners Armor Xdmg]]
+- [[Moonblade Xdmg
+- [Nine Lives Stealer Xdmg]]
+- [[Periapt of Health Xdmg
+- [Periapt of Wound Closure Xdmg]]
+- [[Potion of Greater Healing Xdmg
+- [Potion of Healing Xdmg]]
+- [[Potion of Superior Healing Xdmg
+- [Potion of Supreme Healing Xdmg]]
+- [[Potion of Vitality Xdmg
+- [Quaals Feather Token Bird Xdmg]]
+- [[Ring of Djinni Summoning Xdmg
+- [Ring of Regeneration Xdmg]]
+- [[Rod of Lordly Might Xdmg
+- [Rod of Security Xdmg]]
+- [[Rope of Climbing Xdmg
+- [Rope of Entanglement Xdmg]]
+- [[Scroll of Titan Summoning Animal Lord Xdmg
+- [Scroll of Titan Summoning Blob of Annihilation Xdmg]]
+- [[Scroll of Titan Summoning Blob of
+- [Scroll of Titan Summoning Colossus Xdmg]]
+- [[Scroll of Titan Summoning Elemental
+- [Scroll of Titan Summoning Empyrean Xdmg]]
+- [[Scroll of Titan Summoning Kraken Xdmg
+- [Scroll of Titan Summoning Tarrasque Xdmg]]
+- [[Scroll of Titan Summoning Xdmg
+- [Sphere of Annihilation Xdmg]]
+- [[Staff of the Adder Xdmg
+- [Staff of the Python Xdmg]]
+- [[Sword of Vengeance Xdmg
+- [Sword of Wounding Xdmg]]
+- [[baba-yagas-dancing-broom-xdmg (items)
+- [bag-of-tricks-gray-xdmg (items)]]
+- [[bag-of-tricks-rust-xdmg (items)
+- [bag-of-tricks-tan-xdmg (items)]]
+- [[berserker-axe-xdmg (items)
+- [blackrazor-xdmg (items)]]
+- [[daerns-instant-fortress-xdmg (items)
+- [deck-of-many-things-xdmg (items)]]
+- [[eye-and-hand-of-vecna-xdmg (items)
+- [figurine-of-wondrous-power-bronze-griffon-xdmg]]
+- [[figurine-of-wondrous-power-ebony-fly-xdmg (items)
+- [figurine-of-wondrous-power-golden-lions-xdmg (items)]]
+- [[figurine-of-wondrous-power-ivory-goats-xdmg (items)
+- [figurine-of-wondrous-power-marble-elephant-xdmg]]
+- [[figurine-of-wondrous-power-obsidian-steed-xdmg
+- [figurine-of-wondrous-power-onyx-dog-xdmg (items)]]
+- [[figurine-of-wondrous-power-serpentine-owl-xdmg
+- [figurine-of-wondrous-power-silver-raven-xdmg (items)]]
+- [[folding-boat-xdmg (items)
+- [hat-of-vermin-xdmg (items)]]
+- [[healers-kit-xphb (items)
+- [horn-of-valhalla-brass-xdmg (items)]]
+- [[horn-of-valhalla-bronze-xdmg (items)
+- [horn-of-valhalla-iron-xdmg (items)]]
+- [[horn-of-valhalla-silver-xdmg (items)
+- [horn-of-valhalla-xdmg (items)]]
+- [[ioun-stone-regeneration-xdmg (items)
+- [keoghtoms-ointment-xdmg (items)]]
+- [[mace-of-disruption-xdmg (items)
+- [mace-of-smiting-xdmg (items)]]
+- [[mariners-armor-xdmg (items)
+- [moonblade-xdmg (items)]]
+- [[nine-lives-stealer-xdmg (items)
+- [periapt-of-health-xdmg (items)]]
+- [[periapt-of-wound-closure-xdmg (items)
+- [potion-of-greater-healing-xdmg (items)]]
+- [[potion-of-healing-xdmg (items)
+- [potion-of-superior-healing-xdmg (items)]]
+- [[potion-of-supreme-healing-xdmg (items)
+- [potion-of-vitality-xdmg (items)]]
+- [[quaals-feather-token-bird-xdmg (items)
+- [ring-of-djinni-summoning-xdmg (items)]]
+- [[ring-of-regeneration-xdmg (items)
+- [rod-of-lordly-might-xdmg (items)]]
+- [[rod-of-security-xdmg (items)
+- [rope-of-climbing-xdmg (items)]]
+- [[rope-of-entanglement-xdmg (items)
+- [scroll-of-titan-summoning-animal-lord-xdmg (items)]]
+- [[scroll-of-titan-summoning-colossus-xdmg (items)
+- [scroll-of-titan-summoning-elemental-cataclysm-xdmg]]
+- [[scroll-of-titan-summoning-empyrean-xdmg (items)
+- [scroll-of-titan-summoning-kraken-xdmg (items)]]
+- [[scroll-of-titan-summoning-tarrasque-xdmg (items)
+- [scroll-of-titan-summoning-xdmg (items)]]
+- [[sphere-of-annihilation-xdmg (items)
+- [staff-of-the-adder-xdmg (items)]]
+- [[staff-of-the-python-xdmg (items)
+- [sword-of-vengeance-xdmg (items)]]
+- [[sword-of-wounding-xdmg (items)
+- [Gift of the Protectors Xphb]]
+- [[Lifedrinker Xphb
+- [gift-of-the-protectors-xphb (optional-features)]]
+- [[lifedrinker-xphb (optional-features)
+- [Aasimar Xphb]]
+- [[Dwarf Xphb
+- [Orc Xphb]]
+- [[aasimar-xphb (races)
+- [dwarf-xphb (races)]]
+- [[orc-xphb (races)
+- [Aid Xphb]]
+- [[Animal Shapes Xphb
+- [Animate Objects Xphb]]
+- [[Arcane Vigor Xphb
+- [Astral Projection Xphb]]
+- [[Aura of Life Xphb
+- [Aura of Vitality Xphb]]
+- [[Banishing Smite Xphb
+- [Beacon of Hope Xphb]]
+- [[Bigbys Hand Xphb
+- [Chill Touch Xphb]]
+- [[Cure Wounds Xphb
+- [Death Ward Xphb]]
+- [[Disintegrate Xphb
+- [Divine Word Xphb]]
+- [[Earthquake Xphb
+- [Find Familiar Xphb]]
+- [[Find Steed Xphb
+- [Gaseous Form Xphb]]
+- [[Giant Insect Xphb
+- [Goodberry Xphb]]
+- [[Greater Restoration Xphb
+- [Harm Xphb]]
+- [[Heal Xphb
+- [Healing Word Xphb]]
+- [[Heroes Feast Xphb
+- [Hex Xphb]]
+- [[Hunters Mark Xphb
+- [Magic Jar Xphb]]
+- [[Mass Cure Wounds Xphb
+- [Mass Heal Xphb]]
+- [[Mass Healing Word Xphb
+- [Polymorph Xphb]]
+- [[Power Word Heal Xphb
+- [Power Word Kill Xphb]]
+- [[Power Word Stun Xphb
+- [Prayer of Healing Xphb]]
+- [[Raise Dead Xphb
+- [Regenerate Xphb]]
+- [[Resurrection Xphb
+- [Revivify Xphb]]
+- [[Shapechange Xphb
+- [Simulacrum Xphb]]
+- [[Spare the Dying Xphb
+- [Summon Aberration Xphb]]
+- [[Summon Beast Xphb
+- [Summon Celestial Xphb]]
+- [[Summon Construct Xphb
+- [Summon Dragon Xphb]]
+- [[Summon Elemental Xphb
+- [Summon Fey Xphb]]
+- [[Summon Fiend Xphb
+- [Summon Undead Xphb]]
+- [[Toll the Dead Xphb
+- [True Polymorph Xphb]]
+- [[True Resurrection Xphb
+- [Unseen Servant Xphb]]
+- [[Vampiric Touch Xphb
+- [Wall of Ice Xphb]]
+- [[Wall of Stone Xphb
+- [Warding Bond Xphb]]
+- [[Wish Xphb
+- [aid-xphb (spells)]]
+- [[animal-shapes-xphb (spells)
+- [animate-objects-xphb (spells)]]
+- [[arcane-vigor-xphb (spells)
+- [astral-projection-xphb (spells)]]
+- [[aura-of-life-xphb (spells)
+- [aura-of-vitality-xphb (spells)]]
+- [[banishing-smite-xphb (spells)
+- [beacon-of-hope-xphb (spells)]]
+- [[bigbys-hand-xphb (spells)
+- [chill-touch-xphb (spells)]]
+- [[cure-wounds-xphb (spells)
+- [death-ward-xphb (spells)]]
+- [[disintegrate-xphb (spells)
+- [divine-word-xphb (spells)]]
+- [[earthquake-xphb (spells)
+- [find-familiar-xphb (spells)]]
+- [[find-steed-xphb (spells)
+- [gaseous-form-xphb (spells)]]
+- [[giant-insect-xphb (spells)
+- [goodberry-xphb (spells)]]
+- [[greater-restoration-xphb (spells)
+- [harm-xphb (spells)]]
+- [[heal-xphb (spells)
+- [healing-word-xphb (spells)]]
+- [[heroes-feast-xphb (spells)
+- [hex-xphb (spells)]]
+- [[hunters-mark-xphb (spells)
+- [magic-jar-xphb (spells)]]
+- [[mass-cure-wounds-xphb (spells)
+- [mass-heal-xphb (spells)]]
+- [[mass-healing-word-xphb (spells)
+- [polymorph-xphb (spells)]]
+- [[power-word-heal-xphb (spells)
+- [power-word-kill-xphb (spells)]]
+- [[power-word-stun-xphb (spells)
+- [prayer-of-healing-xphb (spells)]]
+- [[raise-dead-xphb (spells)
+- [regenerate-xphb (spells)]]
+- [[resurrection-xphb (spells)
+- [revivify-xphb (spells)]]
+- [[shapechange-xphb (spells)
+- [simulacrum-xphb (spells)]]
+- [[spare-the-dying-xphb (spells)
+- [summon-aberration-xphb (spells)]]
+- [[summon-beast-xphb (spells)
+- [summon-celestial-xphb (spells)]]
+- [[summon-construct-xphb (spells)
+- [summon-dragon-xphb (spells)]]
+- [[summon-elemental-xphb (spells)
+- [summon-fey-xphb (spells)]]
+- [[summon-fiend-xphb (spells)
+- [summon-undead-xphb (spells)]]
+- [[toll-the-dead-xphb (spells)
+- [true-polymorph-xphb (spells)]]
+- [[true-resurrection-xphb (spells)
+- [unseen-servant-xphb (spells)]]
+- [[vampiric-touch-xphb (spells)
+- [wall-of-ice-xphb (spells)]]
+- [[wall-of-stone-xphb (spells)
+- [warding-bond-xphb (spells)]]
+- [[wish-xphb (spells)
+- [Glossary Conventions Xphb]]
+- [[glossary-conventions-xphb (tables)
+- [Improvised Damage Xdmg]]
+- [[improvised-damage-xdmg (traps-hazards)
+- [Bloodied Xphb]]
+- [[Breaking Objects Xphb
+- [Damage Threshold Xphb]]
+- [[Damage Xphb
+- [Death Saving Throw Xphb]]
+- [[Healing Xphb
+- [Long Rest Xphb]]
+- [[Short Rest Xphb
+- [Size Xphb]]
+- [[Stable Xphb
+- [Stat Block Xphb]]
+- [[Temporary Hit Points Xphb
+- [bloodied-xphb (variant-rules)]]
+- [[breaking-objects-xphb (variant-rules)
+- [damage-threshold-xphb (variant-rules)]]
+- [[damage-xphb (variant-rules)
+- [death-saving-throw-xphb (variant-rules)]]
+- [[healing-xphb (variant-rules)
+- [long-rest-xphb (variant-rules)]]
+- [[short-rest-xphb (variant-rules)
+- [size-xphb (variant-rules)]]
+- [[stable-xphb (variant-rules)
+- [stat-block-xphb (variant-rules)]]
+- [[temporary-hit-points-xphb (variant-rules)]]
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#character/monster
+#resource/item
+#meta/reference

@@ -1,0 +1,34 @@
+---
+aliases: ["Planes Location 219", "planes location 219", "219 Location Planes"]
+tags: [location, place]
+type: location
+---
+
+# Planes Location 219
+
+*Planes*
+
+A detailed planes location with rich history and plot hooks.
+
+---
+*ID: LOC00218*
+
+## Atmosphere
+- Mood and feeling
+- Sensory details
+
+## Resources
+- Natural resources
+- Trade goods
+
+## Dangers
+- Environmental hazards
+- Hostile creatures
+
+## Rumors
+- Local gossip
+- Urban legends
+
+## Weather
+- Typical conditions
+- Seasonal changes

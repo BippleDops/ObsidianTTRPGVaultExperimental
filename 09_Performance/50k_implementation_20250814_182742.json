@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-08-14T18:27:42.620327",
+  "duration": "0:00:00.046822",
+  "total_steps": 50000,
+  "completed_steps": 50000,
+  "success_rate": 100.0,
+  "files_modified": 80,
+  "errors": 0,
+  "phases_completed": {
+    "narrative": 10000,
+    "worldbuilding": 10000,
+    "gameplay": 10000,
+    "npc_depth": 5000,
+    "locations": 5000,
+    "items": 5000,
+    "advanced": 5000
+  }
+}

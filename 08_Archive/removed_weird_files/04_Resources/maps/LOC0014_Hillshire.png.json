@@ -1,0 +1,18 @@
+{
+  "name": "LOC0014_Hillshire",
+  "type": "map",
+  "generated": "2025-08-15T18:17:59.706Z",
+  "prompt": "fantasy map of LOC0014_Hillshire, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/LOC0014_Hillshire.png.json",
+  "reorganized": "2025-08-15T18:33:02.862Z"
+}

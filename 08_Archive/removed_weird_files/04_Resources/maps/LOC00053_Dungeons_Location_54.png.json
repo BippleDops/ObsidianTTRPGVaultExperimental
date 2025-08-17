@@ -1,0 +1,19 @@
+{
+  "name": "LOC00053_Dungeons_Location_54",
+  "type": "map",
+  "generated": "2025-08-15T18:17:31.224Z",
+  "prompt": "fantasy map of LOC00053_Dungeons_Location_54, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical",
+    "dungeon"
+  ],
+  "location": "04_Resources/Assets/Maps/LOC00053_Dungeons_Location_54.png.json",
+  "reorganized": "2025-08-15T18:33:02.651Z"
+}

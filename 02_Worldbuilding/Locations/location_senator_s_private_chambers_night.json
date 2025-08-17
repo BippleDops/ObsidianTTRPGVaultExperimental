@@ -1,0 +1,10 @@
+{
+  "type": "location_variant",
+  "generated": "2025-08-15T02:48:26.297Z",
+  "metadata": {
+    "name": "Senator's Private Chambers",
+    "variant": "night"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

@@ -1,0 +1,88 @@
+---
+
+title: spell-points (variant-rules)
+type: note
+tags:
+- note
+
+created: '2025-01-15'
+modified: '2025-01-15'
+aliases: ["spell-points (variant-rules)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
+---
+
+ # spell-points ---
+
+## Description
+
+Detailed description pending.
+title: spell points
+aliases:
+- Spell Points
+
+type: note
+tags:
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/compendium/src/5e/dmg
+- status/in-progress
+
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidian UIMode: preview
+updated: '2025-08-12T23:37:34.106296'
+world: Both
+
+--- # Spell Points
+
+*Source: Dungeon Master's Guide p. 288* One way to modify how a class feels is to change how it uses its spells. With this variant system, a character who has the Spellcasting feature uses spell points instead spell slots to fuel spells. Spell points give a caster more flexibility, at the cost of greater complexity. In this variant, each spell has a point cost based on its level. The Spell Point Cost table summarizes the cost in spell points of slots from 1st to 9th level. Cantrips don't require slots and therefore don't require spell points. Instead of gaining a number of spell slots to cast your spells from the Spellcasting feature, you gain a pool of spell points instead. You expend a number of spell points to create a spell slot of a given level, and then use that slot to cast a spell. You can't reduce your spell points total to less than 0, and you regain all spent spell points when you finish a long rest. Spells of 6th level and higher are particularly taxing to cast. You can use spell points to create one slot of each level of 6th or higher. You can't create another slot of the same level until you finish a long rest. The number of spell points you have to spend is based on your level as a spellcaster, as shown in the Spell Points by Level table. Your level also determines the maximum-level spell slot you can create. Even though you might have enough points to create a slot above this maximum, you can't do so. The Spell Points by Level table applies to [[bard-xphb-college-of-swords-xge 2 (classes), [cleric-xphb-nature-domain (classes)]], [[Druid Xphb Circle of the Shepherd Xge, [sorcerer-xphb-draconic-sorcery-xphb (classes)]], and [[Wizard Xphb School of Necromancy. For a [paladin-xphb-oath-of-conquest-xge (classes)]] or [[ranger-xphb-monster-slayer-xge (classes), halve the character's level in that class and then consult the table. For a [fighter-xphb (classes)]] or [[Rogue Xphb Swashbuckler Xge, divide the character's level in that class by three. This system can be applied to monsters that cast spells using spell slots, but it isn't recommended that you do so. Tracking spell point expenditures for a monster can be a hassle. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Spell points is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of spell points as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spell points. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange accidents suggest a portal
+
+- A document has gone missing and chaos spreads
+- The authorities needs help stealing before winter
+- Strange disappearances suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## Spell Components Detail
+
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items ## Common Uses
+
+- Typical applications
+- Creative uses ## Counterspell Information
+
+- How to counter
+- Difficulty class
+
+## Sourcebook Reference
+
+- **Source**: PHB p.XXX
+- **School**: See spell description
+- **Available to**: Check class spell lists ### CLI Reference
+
+See:`[spell-points (variant-rules)|spell-points (variant-rules)-phb]]`in CLI_Reference/spells/ ## References - [[Master_Spell_Compendium]]
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#mechanics/system
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/character
+#character/monster
+#gameplay/quest
+#resource/item
+#meta/reference

@@ -1,0 +1,241 @@
+{
+  "timestamp": "2025-08-14T20:32:33.569Z",
+  "vulnerabilities": [
+    {
+      "severity": "HIGH",
+      "file": "scripts/generate_videos_sora.py",
+      "issue": "Hardcoded Password detected",
+      "line": 18
+    },
+    {
+      "severity": "HIGH",
+      "file": "scripts/npc_daily_routines.py",
+      "issue": "Hardcoded Secret detected",
+      "line": 37
+    },
+    {
+      "severity": "MEDIUM",
+      "file": ".obsidian/api_config.json",
+      "issue": "World-accessible permissions (644)"
+    },
+    {
+      "severity": "MEDIUM",
+      "file": "scripts/auto_commit_push.sh",
+      "issue": "World-accessible permissions (644)"
+    },
+    {
+      "severity": "MEDIUM",
+      "file": "scripts/auto_loop.sh",
+      "issue": "World-accessible permissions (644)"
+    },
+    {
+      "severity": "MEDIUM",
+      "file": "scripts/batch_generate.sh",
+      "issue": "World-accessible permissions (755)"
+    },
+    {
+      "severity": "MEDIUM",
+      "file": "scripts/character_relationship_mapper.py",
+      "issue": "World-accessible permissions (644)"
+    },
+    {
+      "severity": "MEDIUM",
+      "file": "scripts/deploy_full_system.sh",
+      "issue": "World-accessible permissions (755)"
+    },
+    {
+      "severity": "MEDIUM",
+      "file": "scripts/enhance_templates.sh",
+      "issue": "World-accessible permissions (644)"
+    },
+    {
+      "severity": "MEDIUM",
+      "file": "scripts/generate_handouts.sh",
+      "issue": "World-accessible permissions (644)"
+    },
+    {
+      "severity": "MEDIUM",
+      "file": "scripts/launch_automation.sh",
+      "issue": "World-accessible permissions (755)"
+    },
+    {
+      "severity": "MEDIUM",
+      "file": "scripts/launch_nightly.sh",
+      "issue": "World-accessible permissions (644)"
+    },
+    {
+      "severity": "MEDIUM",
+      "file": "scripts/local_agents.sh",
+      "issue": "World-accessible permissions (644)"
+    },
+    {
+      "severity": "MEDIUM",
+      "file": "scripts/nightly_generate.sh",
+      "issue": "World-accessible permissions (644)"
+    },
+    {
+      "severity": "MEDIUM",
+      "file": "scripts/ollama_models.sh",
+      "issue": "World-accessible permissions (644)"
+    },
+    {
+      "severity": "CRITICAL",
+      "file": "scripts/enrich_vault.js",
+      "issue": "Potential command injection vulnerability"
+    },
+    {
+      "severity": "CRITICAL",
+      "file": "scripts/generate_assets.js",
+      "issue": "Potential command injection vulnerability"
+    },
+    {
+      "severity": "CRITICAL",
+      "file": "scripts/generate_quest_canvases.js",
+      "issue": "Potential command injection vulnerability"
+    }
+  ],
+  "warnings": [
+    {
+      "severity": "MEDIUM",
+      "issue": "Missing .env in .gitignore"
+    },
+    {
+      "severity": "MEDIUM",
+      "issue": "Missing *.key in .gitignore"
+    },
+    {
+      "severity": "MEDIUM",
+      "issue": "Missing *.pem in .gitignore"
+    },
+    {
+      "severity": "MEDIUM",
+      "file": "scripts/generate_assets.js",
+      "issue": "Insecure HTTP connection"
+    },
+    {
+      "severity": "MEDIUM",
+      "file": "scripts/security_audit.js",
+      "issue": "SSL verification disabled"
+    },
+    {
+      "severity": "MEDIUM",
+      "file": "scripts/security_audit.js",
+      "issue": "Wildcard CORS policy"
+    },
+    {
+      "severity": "MEDIUM",
+      "file": "scripts/vault_website.py",
+      "issue": "Insecure HTTP connection"
+    },
+    {
+      "severity": "HIGH",
+      "issue": "Port 8188 exposed to network (not bound to localhost)"
+    },
+    {
+      "severity": "HIGH",
+      "issue": "Port 7860 exposed to network (not bound to localhost)"
+    },
+    {
+      "severity": "LOW",
+      "file": "scripts/build_prompts.js",
+      "issue": "High complexity (83)"
+    },
+    {
+      "severity": "LOW",
+      "file": "scripts/comfy_client.js",
+      "issue": "High complexity (23)"
+    },
+    {
+      "severity": "LOW",
+      "file": "scripts/enrich_vault.js",
+      "issue": "High complexity (31)"
+    },
+    {
+      "severity": "LOW",
+      "file": "scripts/evaluate_audio_fit.js",
+      "issue": "High complexity (30)"
+    },
+    {
+      "severity": "LOW",
+      "file": "scripts/faction_network_analyzer.py",
+      "issue": "High complexity (32)"
+    },
+    {
+      "severity": "LOW",
+      "file": "scripts/generate_assets.js",
+      "issue": "High complexity (86)"
+    },
+    {
+      "severity": "LOW",
+      "file": "scripts/generate_audio.js",
+      "issue": "High complexity (48)"
+    },
+    {
+      "severity": "LOW",
+      "file": "scripts/generate_audio_pack.js",
+      "issue": "High complexity (35)"
+    },
+    {
+      "severity": "LOW",
+      "file": "scripts/link_assets.js",
+      "issue": "High complexity (50)"
+    },
+    {
+      "severity": "LOW",
+      "file": "scripts/migrate_generated_assets.js",
+      "issue": "High complexity (35)"
+    },
+    {
+      "severity": "LOW",
+      "file": "scripts/n8n_comfyui_automation.js",
+      "issue": "High complexity (26)"
+    },
+    {
+      "severity": "LOW",
+      "file": "scripts/security_audit.js",
+      "issue": "High complexity (64)"
+    },
+    {
+      "severity": "LOW",
+      "file": "scripts/sweep_upgrade_images.js",
+      "issue": "High complexity (49)"
+    },
+    {
+      "severity": "LOW",
+      "file": "scripts/test_comfyui_quality.js",
+      "issue": "High complexity (35)"
+    },
+    {
+      "severity": "LOW",
+      "file": "scripts/video_generation.js",
+      "issue": "High complexity (27)"
+    },
+    {
+      "severity": "LOW",
+      "file": "scripts/world_state_tracker.py",
+      "issue": "High complexity (54)"
+    },
+    {
+      "severity": "LOW",
+      "file": "scripts/security_audit.js",
+      "issue": "Unprotected JSON.parse()"
+    }
+  ],
+  "recommendations": [
+    {
+      "category": "Process Isolation",
+      "recommendation": "Consider using Docker containers for better isolation"
+    },
+    {
+      "category": "Resource Limits",
+      "recommendation": "Implement memory and CPU limits for generation processes"
+    }
+  ],
+  "metrics": {
+    "totalFiles": 113,
+    "totalLines": 38835,
+    "avgComplexity": 9,
+    "codeSmells": 36
+  },
+  "score": 0
+}

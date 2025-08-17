@@ -1,0 +1,18 @@
+{
+  "name": "LOC00280_Wilderness_Location_281",
+  "type": "location",
+  "generated": "2025-08-15T18:17:54.537Z",
+  "prompt": "fantasy landscape called LOC00280_Wilderness_Location_281, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/LOC00280_Wilderness_Location_281.png.json",
+  "reorganized": "2025-08-15T18:33:00.530Z"
+}

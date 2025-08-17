@@ -1,0 +1,262 @@
+{
+  "timestamp": "2025-08-14T21:17:16.206450",
+  "statistics": {
+    "broken_links_found": 5619,
+    "notes_created": 507,
+    "links_fixed": 0,
+    "remaining_broken": 5112
+  },
+  "created_notes": [
+    {
+      "target": "00 Indexes/Documentation",
+      "path": "02_Worldbuilding/Lore/00_Indexes_Documentation.md",
+      "category": "general"
+    },
+    {
+      "target": "00_Indexes/Master_Index",
+      "path": "02_Worldbuilding/People/00_Indexes_Master_Index.md",
+      "category": "npc"
+    },
+    {
+      "target": "00_Indexes/Quick_Start_Guide",
+      "path": "02_Worldbuilding/Lore/00_Indexes_Quick_Start_Guide.md",
+      "category": "general"
+    },
+    {
+      "target": "04 Resources/Assets/Locations/location-city-the-deepmind-v1-the-deepmind.svg",
+      "path": "02_Worldbuilding/Places/04_Resources_Assets_Locations_location-city-the-deepmind-v1-the-deepmind.svg.md",
+      "category": "place"
+    },
+    {
+      "target": "04 Resources/Assets/Locations/location-city-port-nimbus-v1-port-nimbus.svg",
+      "path": "02_Worldbuilding/Places/04_Resources_Assets_Locations_location-city-port-nimbus-v1-port-nimbus.svg.md",
+      "category": "place"
+    },
+    {
+      "target": "04 Resources/Assets/Locations/location-city-the-siren-s-rest-tavern-the-siren-s-rest-tavern.svg",
+      "path": "02_Worldbuilding/Places/04_Resources_Assets_Locations_location-city-the-siren-s-rest-tavern-the-siren-s-rest-tavern.svg.md",
+      "category": "place"
+    },
+    {
+      "target": "04 Resources/Assets/Handouts/handout-handout-wanted-poster-with-reward-wanted-poster-with-reward.png",
+      "path": "02_Worldbuilding/Lore/04_Resources_Assets_Handouts_handout-handout-wanted-poster-with-reward-wanted-poster-with-reward.png.md",
+      "category": "general"
+    },
+    {
+      "target": "04 Resources/Assets/Portraits/portrait-npc-queen-morwyn-lumengarde-v2-queen-morwyn-lumengarde.svg",
+      "path": "02_Worldbuilding/Places/04_Resources_Assets_Portraits_portrait-npc-queen-morwyn-lumengarde-v2-queen-morwyn-lumengarde.svg.md",
+      "category": "place"
+    },
+    {
+      "target": "04 Resources/Assets/Portraits/portrait-npc-memory-harvester-kythara-v2-memory-harvester-kythara.svg",
+      "path": "02_Worldbuilding/Places/04_Resources_Assets_Portraits_portrait-npc-memory-harvester-kythara-v2-memory-harvester-kythara.svg.md",
+      "category": "place"
+    },
+    {
+      "target": "04_Resources/Assets/04_Resources/Assets/Locations/location-city-void-currents-v1-void-currents.svg",
+      "path": "02_Worldbuilding/Places/04_Resources_Assets_04_Resources_Assets_Locations_location-city-void-currents-v1-void-currents.svg.md",
+      "category": "place"
+    },
+    {
+      "target": "04 Resources/Assets/Creatures/creature-creature-murgaxor-scc-murgaxor-scc.png",
+      "path": "02_Worldbuilding/Lore/04_Resources_Assets_Creatures_creature-creature-murgaxor-scc-murgaxor-scc.png.md",
+      "category": "general"
+    },
+    {
+      "target": "04 Resources/Assets/Locations/location-city-noble-quarter-salons-noble-quarter-salons.svg",
+      "path": "02_Worldbuilding/Places/04_Resources_Assets_Locations_location-city-noble-quarter-salons-noble-quarter-salons.svg.md",
+      "category": "place"
+    },
+    {
+      "target": "04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-last-seeds-the-last-seeds.svg",
+      "path": "02_Worldbuilding/Places/04_Resources_Assets_04_Resources_Assets_Locations_location-city-the-last-seeds-the-last-seeds.svg.md",
+      "category": "place"
+    },
+    {
+      "target": "04 Resources/Assets/Locations/location-city-living-stone-v1-living-stone.svg",
+      "path": "02_Worldbuilding/Places/04_Resources_Assets_Locations_location-city-living-stone-v1-living-stone.svg.md",
+      "category": "place"
+    },
+    {
+      "target": "02 Worldbuilding/Places/Alternative-Path-Fled-City",
+      "path": "02_Worldbuilding/Places/02_Worldbuilding_Places_Alternative-Path-Fled-City.md",
+      "category": "place"
+    },
+    {
+      "target": "data/content validator.py",
+      "path": "02_Worldbuilding/Lore/data_content_validator.py.md",
+      "category": "general"
+    },
+    {
+      "target": "Houses_and_Nobility   House Brightshield",
+      "path": "02_Worldbuilding/Items/Houses_and_Nobility___House_Brightshield.md",
+      "category": "item"
+    },
+    {
+      "target": "D 005_Shadow_Bloom_Player",
+      "path": "02_Worldbuilding/Lore/D_005_Shadow_Bloom_Player.md",
+      "category": "general"
+    },
+    {
+      "target": "D 005_Shadow_Bloom",
+      "path": "02_Worldbuilding/Lore/D_005_Shadow_Bloom.md",
+      "category": "general"
+    },
+    {
+      "target": "Daily_Ritual_Quest",
+      "path": "02_Worldbuilding/Lore/Daily_Ritual_Quest.md",
+      "category": "general"
+    },
+    {
+      "target": "Brewmaster_Grindstone",
+      "path": "02_Worldbuilding/People/Brewmaster_Grindstone.md",
+      "category": "npc"
+    },
+    {
+      "target": "Crystal_Observatory",
+      "path": "02_Worldbuilding/Lore/Crystal_Observatory.md",
+      "category": "general"
+    },
+    {
+      "target": "Signal_Keepers",
+      "path": "02_Worldbuilding/Lore/Signal_Keepers.md",
+      "category": "general"
+    },
+    {
+      "target": "Weekly_Cleansing",
+      "path": "02_Worldbuilding/Lore/Weekly_Cleansing.md",
+      "category": "general"
+    },
+    {
+      "target": "Armorer_Padwick",
+      "path": "02_Worldbuilding/Items/Armorer_Padwick.md",
+      "category": "item"
+    },
+    {
+      "target": "Cleaning_Kit_of_Ancients",
+      "path": "02_Worldbuilding/Lore/Cleaning_Kit_of_Ancients.md",
+      "category": "general"
+    },
+    {
+      "target": "Hall_of_Mirrors",
+      "path": "02_Worldbuilding/Lore/Hall_of_Mirrors.md",
+      "category": "general"
+    },
+    {
+      "target": "Climate_Control_Guild",
+      "path": "02_Worldbuilding/Groups/Climate_Control_Guild.md",
+      "category": "organization"
+    },
+    {
+      "target": "Runaway_Golem_Quest",
+      "path": "02_Worldbuilding/Lore/Runaway_Golem_Quest.md",
+      "category": "general"
+    },
+    {
+      "target": "Lighthouse_of_Storms",
+      "path": "02_Worldbuilding/Lore/Lighthouse_of_Storms.md",
+      "category": "general"
+    },
+    {
+      "target": "Elemental_Air_Filter",
+      "path": "02_Worldbuilding/Lore/Elemental_Air_Filter.md",
+      "category": "general"
+    },
+    {
+      "target": "Memory_Keepers",
+      "path": "02_Worldbuilding/Lore/Memory_Keepers.md",
+      "category": "general"
+    },
+    {
+      "target": "Crystal_Power_Core",
+      "path": "02_Worldbuilding/Lore/Crystal_Power_Core.md",
+      "category": "general"
+    },
+    {
+      "target": "Artificer_PlayStation",
+      "path": "02_Worldbuilding/Lore/Artificer_PlayStation.md",
+      "category": "general"
+    },
+    {
+      "target": "Grinding_Workshop",
+      "path": "02_Worldbuilding/Lore/Grinding_Workshop.md",
+      "category": "general"
+    },
+    {
+      "target": "Filter_Exchange_Quest",
+      "path": "02_Worldbuilding/Lore/Filter_Exchange_Quest.md",
+      "category": "general"
+    },
+    {
+      "target": "Archive_Optimizers",
+      "path": "02_Worldbuilding/Lore/Archive_Optimizers.md",
+      "category": "general"
+    },
+    {
+      "target": "Annual_Renewal_Event",
+      "path": "02_Worldbuilding/Lore/Annual_Renewal_Event.md",
+      "category": "general"
+    },
+    {
+      "target": "Environmental_Engineers",
+      "path": "02_Worldbuilding/Lore/Environmental_Engineers.md",
+      "category": "general"
+    },
+    {
+      "target": "Master_Golemancer",
+      "path": "02_Worldbuilding/People/Master_Golemancer.md",
+      "category": "npc"
+    },
+    {
+      "target": "Outfitters_Shop",
+      "path": "02_Worldbuilding/Lore/Outfitters_Shop.md",
+      "category": "general"
+    },
+    {
+      "target": "Maintenance_Schedule_{{year}}",
+      "path": "02_Worldbuilding/Lore/Maintenance_Schedule_{{year}}.md",
+      "category": "general"
+    },
+    {
+      "target": "Equipment_Inventory",
+      "path": "02_Worldbuilding/Lore/Equipment_Inventory.md",
+      "category": "general"
+    },
+    {
+      "target": "Maintenance_Supplies",
+      "path": "02_Worldbuilding/Lore/Maintenance_Supplies.md",
+      "category": "general"
+    },
+    {
+      "target": "Campaign_Parallel_Quests",
+      "path": "02_Worldbuilding/Lore/Campaign_Parallel_Quests.md",
+      "category": "general"
+    },
+    {
+      "target": "05 Templates/World Builder Templates/Template-Hub.md",
+      "path": "02_Worldbuilding/Lore/05_Templates_World_Builder_Templates_Template-Hub.md.md",
+      "category": "general"
+    },
+    {
+      "target": "02 Worldbuilding/People/Brother Marcus the Willing",
+      "path": "02_Worldbuilding/Lore/02_Worldbuilding_People_Brother_Marcus_the_Willing.md",
+      "category": "general"
+    },
+    {
+      "target": "Session_10_New_Horizons",
+      "path": "02_Worldbuilding/Lore/Session_10_New_Horizons.md",
+      "category": "general"
+    },
+    {
+      "target": "Session_12_The_Infinity_Engine",
+      "path": "02_Worldbuilding/Lore/Session_12_The_Infinity_Engine.md",
+      "category": "general"
+    },
+    {
+      "target": "02 Worldbuilding/Places/The Sunken Library of Thalassius.md",
+      "path": "02_Worldbuilding/Lore/02_Worldbuilding_Places_The_Sunken_Library_of_Thalassius.md.md",
+      "category": "general"
+    }
+  ],
+  "fixed_links": []
+}

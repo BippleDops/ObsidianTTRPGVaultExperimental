@@ -1,0 +1,18 @@
+{
+  "name": "Item Template (Lore)",
+  "type": "item",
+  "generated": "2025-08-15T18:19:58.241Z",
+  "prompt": "magical artifact called Item Template (Lore), detailed item, glowing effects, fantasy artifact",
+  "status": "pending_generation",
+  "tags": [
+    "item",
+    "equipment-art",
+    "object",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Items/Item Template (Lore).png.json",
+  "reorganized": "2025-08-15T18:32:58.310Z"
+}

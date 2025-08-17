@@ -1,0 +1,19 @@
+{
+  "name": "Meridian Undercity",
+  "type": "location",
+  "generated": "2025-08-15T18:18:08.481Z",
+  "prompt": "fantasy landscape called Meridian Undercity, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "city"
+  ],
+  "location": "04_Resources/Assets/Locations/Meridian Undercity.png.json",
+  "reorganized": "2025-08-15T18:33:00.725Z"
+}

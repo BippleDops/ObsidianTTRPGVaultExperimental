@@ -1,0 +1,485 @@
+{
+  "main": {
+    "id": "35dc58889efc7af6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2043beab933cceb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f087303df721b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Adventures/Campaigns/{{campaign}}.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "{{campaign}}"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef2fa061dc384dbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "776915f0f047e046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2911de48d50d504c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f7191f1a02d83b6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "stormwind",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6da38734e1b60552",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2e6355ae312b2c82",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f6ef017cc52d2e49",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "right": {
+    "id": "4376769ea3073bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "09384058bb1c4e72",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "01866bcbc2fd8a19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "z_Templates/World Builder Templates/Template-Place-BASES.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Template-Place-BASES"
+            }
+          },
+          {
+            "id": "505cdf32bf6b016b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-DM Toolkit/City of Trade.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from City of Trade"
+            }
+          },
+          {
+            "id": "e0476cfc571d360e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "734965fc2bb6a962",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "12_Research/D&D_Sourcebooks/5e_Organized_Reference/Adventures/01 Chapter 1 Prisoners of the Drow.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01 Chapter 1 Prisoners of the Drow"
+            }
+          },
+          {
+            "id": "c8c0bd3a84d4d5f1",
+            "type": "leaf",
+            "state": {
+              "type": "MAIN_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "MAIN_VIEW"
+            }
+          },
+          {
+            "id": "bb21e6fb9beae31a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "9f06b744419e5dab",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "78f62065b0218d76",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "3939dbe56020682d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d20c07dc4a561dd1",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "33e43c5d7da41f41",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "2028fd2f7979a7e3",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "f7f37bd6d5e169da",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "cdc9155f3adc05c0",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "1-DM Toolkit/Home - DV.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "ba21682bbe574eec",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "33a8e0adef57580b",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "49f471f96c60a842",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "6329ab96154d8f42",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "e340849072bad9c1",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "381296e9bd43fb2b",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "7df83fd5b5262a87",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "13b5efccf6de0376",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "896037b4f1ba4c1b",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "0f5a754e616cfef0",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "1daf628a52fe86ef",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "dad808187ac5278e",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-custom-frames:Open Obsidian Forum": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "helpmate:HelpMate": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-kanban:Create new board": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false
+    }
+  },
+  "active": "8f087303df721b9d",
+  "lastOpenFiles": [
+    "_SCRIPTS/targeted_fake_file_remover.py",
+    "09_Performance/comprehensive_clean_report.md",
+    "09_Performance/comprehensive_clean_report.json",
+    "_SCRIPTS/comprehensive_vault_cleaner.py",
+    "_SCRIPTS/deep_clean_fake_files.py",
+    "03_People/00_Indexes_Master_Index.md",
+    "09_Performance/WRITING_QUALITY_10K_REPORT.md",
+    "scripts/writing_quality_10k_improvements.py.tmp.42253.1755262057416",
+    "scripts/fix_numbered_files.py",
+    "scripts/writing_quality_10k_improvements.py",
+    "CLAUDE.md",
+    "04_Resources/Assets/Generated/Music/generic/special/assets_locations_location_city_abyssos_prime_inverse_palace_abyssos_prime_inverse_palace_svg_special_v91_metadata.json",
+    "04_Resources/Assets/Generated/Music/generic/special/assets_locations_location_city_abyssos_prime_docks_v1_abyssos_prime_docks_svg_special_v90_metadata.json",
+    "04_Resources/Assets/Generated/Music/generic/special/assets_locations_location_city_abyssos_prime_docks_abyssos_prime_docks_svg_special_v89_metadata.json",
+    "04_Resources/Assets/Generated/Music/generic/special/assets_locations_location_city_abyssos_prime_abyssos_prime_svg_special_v88_metadata.json",
+    "09_Performance/audio_fit_report.md",
+    "AGILE_VAULT_IMPLEMENTATION_ROADMAP.md",
+    "VAULT_ORGANIZATION_STATUS.md",
+    "09_Templates/Template-Group.md.md",
+    "09_Templates/Template-Faction.md",
+    "09_Templates/Item Template.png.md",
+    "09_Templates/Template Starsystem Placeholder.png.md",
+    "09_Templates/Templates World Builder Templates Template Group.md.md",
+    "09_Templates/Template Galaxy Placeholder.png.md",
+    "09_Templates/Template-PointofInterest-BASES.md",
+    "09_Templates/Templates Text Generator Templates Generate Campaign Npcs.md",
+    "09_Templates/Templates World Builder Templates Template Quest.md.md",
+    "09_Templates/Template Person Placeholder.png.md",
+    "09_Templates/05_Templates.md",
+    "09_Templates/Template-Place.md",
+    "09_Templates/Template-Continent.md",
+    "09_Templates/Template-Player.md",
+    "09_Templates/Template-Planet.md",
+    "09_Templates/Scene Framing Templates.md",
+    "09_Templates/Template-PointofInterest.md",
+    "09_Templates/Template-SapientSpecies.md",
+    "04_Resources/Assets/Generated/Misc/master_cultivator_polyp_growe.png",
+    "04_Resources/Assets/Generated/Misc/master_cultivator_apprenticeships.png",
+    "04_Resources/Assets/Generated/Misc/master_cultivator_apprenticeship.png",
+    "04_Resources/Assets/Generated/Misc/deep_sea_cultists.png",
+    "04_Resources/Assets/Generated/Misc/deep_sea_cultist.png",
+    "04_Resources/Assets/Generated/Misc/cult_of_the_endless_void.png",
+    "04_Resources/Assets/quests/missing-caravan.png",
+    "04_Resources/Assets/Canvas/Relationship_Graph.canvas",
+    "Ω_Assets/Pasted image 20250121213204.png",
+    "Ω_Assets/Pasted Image 20240630225934_265.png",
+    "Ω_Assets/Pasted image 20240630204305.png",
+    "0-Scratch Notes/Untitled.canvas",
+    "0-Scratch Notes/MoC - Canvas Home Page.canvas",
+    "Untitled.canvas"
+  ]
+}

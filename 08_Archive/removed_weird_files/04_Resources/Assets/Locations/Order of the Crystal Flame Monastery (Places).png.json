@@ -1,0 +1,18 @@
+{
+  "name": "Order of the Crystal Flame Monastery (Places)",
+  "type": "location",
+  "generated": "2025-08-15T18:18:10.958Z",
+  "prompt": "fantasy landscape called Order of the Crystal Flame Monastery (Places), establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Order of the Crystal Flame Monastery (Places).png.json",
+  "reorganized": "2025-08-15T18:33:00.750Z"
+}

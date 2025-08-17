@@ -1,0 +1,19 @@
+{
+  "name": "NPC0025_Zara_Stormwind",
+  "type": "token",
+  "generated": "2025-08-15T18:16:19.504Z",
+  "prompt": "character token for NPC0025_Zara_Stormwind, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC0025_Zara_Stormwind.png.json",
+  "reorganized": "2025-08-15T18:33:11.058Z"
+}

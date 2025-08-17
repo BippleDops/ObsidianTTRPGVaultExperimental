@@ -1,0 +1,32 @@
+{
+  "id": "artifact-spell-gem-lapis-lazuli-oota-v1",
+  "type": "item",
+  "name": "spell-gem-lapis-lazuli-oota",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: spell-gem-lapis-lazuli-oota, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "mysterious",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7010,
+  "alt_text": "Artifact spell-gem-lapis-lazuli-oota with materials, runes, and scale.",
+  "realm": "aquabyssos",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Imagine an illustrated, medieval-fantasy still life fuse with a hint of tabletop role-playing game elements in the style of a detailed painterly collection. The centerpiece is a meticulously designed artifact, a glowing spell gem made from lapis lazuli. It's ornamented with pearls, corals, and cloudy crystals, with metals that have been forged under high pressure. Abstract sigils are etched onto its surface; these are symbols with significance, not random letter-like scribbles. The item is placed beside a human hand or a ruler to indicate its size. The overall style draws from aquatic fantasy realism, with other elements in the scene echoing a similar style. Visual effects include subsurface caustics and bioluminescent accents on its surface, as if the item is viewed from underwater. The color palette consists of teals, deep blues, and sea-greens, accented by pearl highlights. Any runic symbols on the artifact should be abstract sigils rather than readable words. The item has a gentle, ethereal glow but not overpowering. Avoid incorporating any elements of sci-fi user interfaces, modern signage, photorealistic CGI, anime style, or excessive bloom glare.",
+  "file": "04_Resources/Assets/Items/item-artifact-spell-gem-lapis-lazuli-oota-v1-spell-gem-lapis-lazuli-oota.png"
+}

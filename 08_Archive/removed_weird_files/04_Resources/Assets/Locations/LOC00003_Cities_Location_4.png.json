@@ -1,0 +1,18 @@
+{
+  "name": "LOC00003_Cities_Location_4",
+  "type": "location",
+  "generated": "2025-08-15T18:17:23.895Z",
+  "prompt": "fantasy landscape called LOC00003_Cities_Location_4, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/LOC00003_Cities_Location_4.png.json",
+  "reorganized": "2025-08-15T18:32:59.753Z"
+}

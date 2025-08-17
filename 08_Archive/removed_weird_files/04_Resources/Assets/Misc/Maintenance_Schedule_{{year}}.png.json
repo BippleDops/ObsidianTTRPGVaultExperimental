@@ -1,0 +1,15 @@
+{
+  "name": "Maintenance_Schedule_{{year}}",
+  "type": "misc",
+  "generated": "2025-08-15T18:18:34.822Z",
+  "prompt": "fantasy illustration for Maintenance_Schedule_{{year}}, detailed artwork, game asset",
+  "status": "pending_generation",
+  "tags": [
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/Maintenance_Schedule_{{year}}.png.json",
+  "reorganized": "2025-08-15T18:33:05.593Z"
+}

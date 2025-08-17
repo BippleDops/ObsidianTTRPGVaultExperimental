@@ -1,0 +1,18 @@
+{
+  "name": "adult-gold-dragon-xmm",
+  "type": "token",
+  "generated": "2025-08-15T18:16:28.479Z",
+  "prompt": "character token for adult-gold-dragon-xmm, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Tokens/adult-gold-dragon-xmm.png.json",
+  "reorganized": "2025-08-15T18:33:12.080Z"
+}

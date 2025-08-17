@@ -1,0 +1,19 @@
+{
+  "name": "Dungeon_Chamber",
+  "type": "battle",
+  "environment": "dungeon_room",
+  "variant": "damaged",
+  "size": "40x40",
+  "gridSize": 5,
+  "gridType": "square",
+  "features": [
+    "pillars",
+    "altar",
+    "rubble",
+    "doors"
+  ],
+  "lighting": "normal",
+  "generated": "2025-08-15T02:48:39.204Z",
+  "placeholder": true,
+  "generationRules": {}
+}

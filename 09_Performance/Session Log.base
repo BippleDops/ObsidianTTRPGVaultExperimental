@@ -1,0 +1,241 @@
+formulas:
+  # Session title with number
+  SessionTitle: |
+    js:
+    const num = target.sessionNumber || "?";
+    const date = target.date ? moment(target.date).format("MMM DD") : "";
+    return `Session ${num}: ${date}`;
+  
+  # Player attendance
+  Attendance: |
+    js:
+    const present = target.players?.length || 0;
+    const absent = target.absent?.length || 0;
+    const total = present + absent;
+    if (total === 0) return "No data";
+    const percentage = Math.round((present / total) * 100);
+    return `${present}/${total} (${percentage}%)`;
+  
+  # Key events summary
+  EventSummary: |
+    js:
+    const events = target.plotPoints || [];
+    if (events.length === 0) return "No major events";
+    if (events.length <= 3) return events.join("; ");
+    return `${events.slice(0, 2).join("; ")}... (+${events.length - 2} more)`;
+  
+  # NPCs met count
+  NPCCount: |
+    js:
+    const npcs = target.npcsMet || [];
+    return `${npcs.length} NPCs`;
+  
+  # Quest progress indicator
+  QuestProgress: |
+    js:
+    const started = target.questsStarted?.length || 0;
+    const advanced = target.questsAdvanced?.length || 0;
+    const completed = target.questsCompleted?.length || 0;
+    
+    const parts = [];
+    if (started > 0) parts.push(`${started} new`);
+    if (advanced > 0) parts.push(`${advanced} advanced`);
+    if (completed > 0) parts.push(`${completed} completed`);
+    
+    return parts.length > 0 ? parts.join(", ") : "No quest progress";
+  
+  # Treasure indicator
+  TreasureIndicator: |
+    js:
+    const gold = target.treasureValue || 0;
+    const items = target.loot?.length || 0;
+    
+    if (gold === 0 && items === 0) return "💰 None";
+    
+    let indicator = "";
+    if (gold > 0) indicator += `💰 ${gold}gp`;
+    if (items > 0) {
+      if (indicator) indicator += ", ";
+      indicator += `📦 ${items} items`;
+    }
+    return indicator;
+  
+  # Session mood icon
+  MoodIcon: |
+    js:
+    const mood = target.mood || "Unknown";
+    const icons = {
+      'Epic': '⚔️',
+      'Intense': '🔥',
+      'Light-hearted': '😄',
+      'Mysterious': '🔍',
+      'Dark': '🌑',
+      'Chaotic': '🌀',
+      'Political': '🏛️',
+      'Exploration': '🗺️',
+      'Unknown': '❓'
+    };
+    return `${icons[mood] || '❓'} ${mood}`;
+  
+  # Days since session
+  DaysSince: |
+    js:
+    if (target.date) {
+      const sessionDate = moment(target.date);
+      const now = moment();
+      const days = now.diff(sessionDate, 'days');
+      
+      if (days === 0) return "Today";
+      if (days === 1) return "Yesterday";
+      if (days < 7) return `${days} days ago`;
+      if (days < 30) return `${Math.floor(days/7)} weeks ago`;
+      if (days < 365) return `${Math.floor(days/30)} months ago`;
+      return `${Math.floor(days/365)} years ago`;
+    }
+    return "Unknown date";
+
+views:
+  - type: table
+    name: All Sessions
+    filters:
+      and:
+        - path includes "1-Session Journals"
+    columns:
+      - file.name
+      - sessionNumber
+      - date
+      - players
+    sort:
+      - property: sessionNumber
+        direction: DESC
+    columnSize:
+      file.name: 200
+      sessionNumber: 80
+      date: 100
+      players: 150
+  - type: table
+    name: Recent Sessions
+    filters:
+      and:
+        - path includes "1-Session Journals"
+    columns:
+      - sessionNumber
+      - date
+      - players
+      - mood
+      - treasureValue
+      - xpAwarded
+    sort:
+      - property: sessionNumber
+        direction: DESC
+    limit: 10
+    columnSize:
+      sessionNumber: 80
+      date: 100
+      players: 150
+      mood: 100
+      treasureValue: 120
+      xpAwarded: 100
+      
+  - type: table
+    name: Campaign Timeline
+    filters:
+      and:
+        - path includes "1-Session Journals"
+    properties:
+      - formula.SessionTitle
+      - formula.EventSummary
+      - formula.QuestProgress
+      
+  - type: cards
+    name: Session Cards
+    filters:
+      and:
+        - path includes "1-Session Journals"
+    columns: 2
+    sort:
+      - property: sessionNumber
+        direction: DESC
+    limit: 100
+    properties:
+      - file.name
+      - sessionNumber
+      - date
+      - mood
+      - recap
+      - cliffhanger
+      
+  - type: table
+    name: By Player
+    filters:
+      and:
+        - path includes "1-Session Journals"
+        - players.contains("{{player}}")
+    columns:
+      - sessionNumber
+      - date
+      - plotPoints
+      - mvp
+    sort:
+      - property: sessionNumber
+        direction: DESC
+    parameters:
+      player:
+        type: select
+        source: "1-Party"
+        
+  - type: table
+    name: By Quest
+    filters:
+      and:
+        - path includes "1-Session Journals"
+        - questsAdvanced.contains("{{quest}}")
+    columns:
+      - sessionNumber
+      - date
+      - questsAdvanced
+      - questsCompleted
+    sort:
+      - property: sessionNumber
+        direction: ASC
+    parameters:
+      quest:
+        type: link
+        source: "02_Worldbuilding/Quests"
+        
+  - type: table
+    name: Campaign Stats
+    filters:
+      and:
+        - path includes "1-Session Journals"
+    statistics:
+      - name: Total Sessions
+        formula: count()
+      - name: Total XP Awarded
+        formula: sum(xpAwarded)
+      - name: Total Gold Found
+        formula: sum(treasureValue)
+      - name: Quests Completed
+        formula: sum(questsCompleted.length)
+      - name: NPCs Met
+        formula: sum(npcsMet.length)
+      - name: Average Attendance
+        formula: avg(players.length)
+  - type: table
+    name: All (Debug)
+
+    columns:
+      - file.name
+      - sessionNumber
+      - date
+      - players
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      sessionNumber: 80
+      date: 100
+      players: 150
+      tags: 200

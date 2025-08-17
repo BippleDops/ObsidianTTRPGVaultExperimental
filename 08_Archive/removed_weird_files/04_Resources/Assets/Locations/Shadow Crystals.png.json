@@ -1,0 +1,18 @@
+{
+  "name": "Shadow Crystals",
+  "type": "location",
+  "generated": "2025-08-15T18:18:18.181Z",
+  "prompt": "fantasy landscape called Shadow Crystals, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Shadow Crystals.png.json",
+  "reorganized": "2025-08-15T18:33:00.914Z"
+}

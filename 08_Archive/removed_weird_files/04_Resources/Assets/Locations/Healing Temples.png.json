@@ -1,0 +1,18 @@
+{
+  "name": "Healing Temples",
+  "type": "location",
+  "generated": "2025-08-15T18:17:56.289Z",
+  "prompt": "fantasy temple called Healing Temples, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Healing Temples.png.json",
+  "reorganized": "2025-08-15T18:32:59.674Z"
+}

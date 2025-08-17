@@ -1,0 +1,46 @@
+{
+  "name": "Region Map 316",
+  "type": "map",
+  "mapType": "region",
+  "gridSize": null,
+  "scale": "1:1000000",
+  "tags": [
+    "map",
+    "region",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 12.511283204886482,
+      "y": 66.34744622238593,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 2",
+      "x": 88.7041453416532,
+      "y": 94.47592870811535,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 3",
+      "x": 16.790847857670897,
+      "y": 68.98410512805893,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 4",
+      "x": 2.7225018629099207,
+      "y": 97.17337237820207,
+      "type": "city"
+    },
+    {
+      "name": "Location 5",
+      "x": 55.43715333357545,
+      "y": 56.51123610620208,
+      "type": "town"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.699Z"
+}

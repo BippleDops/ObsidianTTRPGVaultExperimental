@@ -1,0 +1,34 @@
+{
+  "id": "heraldry-vex-shadowthorn-boss-fight-v1",
+  "type": "symbol",
+  "name": "Vex Shadowthorn Boss Fight",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Vex Shadowthorn Boss Fight, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "mysterious",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7002,
+  "alt_text": "Heraldic emblem for Vex Shadowthorn Boss Fight.",
+  "realm": "aquabyssos",
+  "palette": "deep blues",
+  "textPolicy": "no words or inscriptions; pure iconography",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Design an image in a painterly style inspired by the tabletop fantasy game Dungeons & Dragons, portraying a heroic boss fight with Vex Shadowthorn. The scene should be in a medieval-fantasy setting, with characters properly equipped in period-accurate, culturally appropriate armor and items. Vex Shadowthorn's three primary motifs tied to their identity should be repeatedly present in simple geometric shapes. Also, include different emblem variants like a seal, a banner, and a coin displaying these motifs. The battle takes place under the sea, creating an atmosphere of aquatic fantasy realism complete with subsurface caustics and bioluminescent accents. The colors used should be dominated by teals, deep blues, sea-greens, with pearl highlights. No inclusion of modern technology, signage, sci-fi UIs, photoreal CGI, anime style, or bloom glare. Text or symbols should be avoided unless they carry meaning and should not appear as garbled or random strings.",
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-vex-shadowthorn-boss-fight-v1-vex-shadowthorn-boss-fight.png"
+}

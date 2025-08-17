@@ -1,0 +1,32 @@
+{
+  "id": "creature-elemental-spirit-air-xphb-v2",
+  "type": "creature",
+  "name": "elemental-spirit-air-xphb",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Illustration of elemental-spirit-air-xphb, highlight musculature and unique limbs, include human silhouette, three-color palette, underwater/sky/merged zone, depict motion, detailed concept art, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "rim-lit",
+  "mood": "solemn",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7033,
+  "alt_text": "Concept art of elemental-spirit-air-xphb with anatomy, scale, and environment.",
+  "realm": "aquabyssos",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "An underwater and sky zone merges together in a depiction that screams fantasy realism. A being that resembles an air elemental spirit, its musculature and unique limbs well defined, interacts within this space showcasing its motion. It carries culturally coherent medieval gear made of aquatic fantasy realism materials, and around it, the bioluminescent accents provide an ethereal feel, casting subsurface caustics everywhere. Human silhouettes in this environment provide a sense of scale. The image is painted in a consistent painterly style with a limited palette emphasizing teals, deep blues, sea-greens, and pearl highlights. Crucial to note, there are no modern technological elements or signage, keeping strictly to the fantastical and medieval setting and ensure no embedded text or words unless specified, keeping symbols meaningful or using numbered pins. The whole design is envisioned within a specific aspect ratio and resolution, carefully avoiding any type of artifacts. The scene avoids photoreal CGI, modern signage, animesque style and bloom glare.",
+  "file": "04_Resources/Assets/Creatures/creature-creature-elemental-spirit-air-xphb-v2-elemental-spirit-air-xphb.png"
+}

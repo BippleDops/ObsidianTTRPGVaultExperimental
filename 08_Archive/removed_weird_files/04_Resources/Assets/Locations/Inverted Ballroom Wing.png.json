@@ -1,0 +1,18 @@
+{
+  "name": "Inverted Ballroom Wing",
+  "type": "location",
+  "generated": "2025-08-15T18:17:58.039Z",
+  "prompt": "fantasy landscape called Inverted Ballroom Wing, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Inverted Ballroom Wing.png.json",
+  "reorganized": "2025-08-15T18:32:59.718Z"
+}

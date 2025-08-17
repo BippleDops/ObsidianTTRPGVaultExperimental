@@ -1,0 +1,10 @@
+{
+  "type": "location_variant",
+  "generated": "2025-08-15T02:48:26.368Z",
+  "metadata": {
+    "name": "The Grand Bazaar of Echoing Coins",
+    "variant": "interior"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

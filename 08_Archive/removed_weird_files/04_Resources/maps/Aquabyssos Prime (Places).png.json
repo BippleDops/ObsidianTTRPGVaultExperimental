@@ -1,0 +1,21 @@
+{
+  "name": "Aquabyssos Prime (Places)",
+  "type": "map",
+  "generated": "2025-08-15T18:18:10.854Z",
+  "prompt": "fantasy map of Aquabyssos Prime (Places), cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "aquabyssos",
+    "underwater",
+    "oceanic",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Aquabyssos Prime (Places).png.json",
+  "reorganized": "2025-08-15T18:33:01.239Z"
+}

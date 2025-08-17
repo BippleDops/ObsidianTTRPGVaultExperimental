@@ -1,0 +1,21 @@
+{
+  "name": "Sky Trader Zephyr Windcatcher 2",
+  "type": "location",
+  "generated": "2025-08-15T18:18:19.008Z",
+  "prompt": "fantasy landscape called Sky Trader Zephyr Windcatcher 2, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "aethermoor",
+    "sky",
+    "aerial",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Sky Trader Zephyr Windcatcher 2.png.json",
+  "reorganized": "2025-08-15T18:33:00.928Z"
+}

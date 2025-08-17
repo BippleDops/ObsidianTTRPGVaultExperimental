@@ -1,0 +1,23 @@
+{
+  "accentColor": "#5c61f5",
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons",
+    "supercharged-links-gen",
+    "FantasyFonts",
+    "SailKite - TabsInObsidian",
+    "TabsInObsidian - MaxH",
+    "TabsInObsidian - MaxH480",
+    "BasesTest",
+    "Bases_DataviewStyle",
+    "dnd5e-compendium",
+    "hide-markdown-link-url",
+    "HoverProperties_-_Columns",
+    "SailKite - chassis_callouts",
+    "Tab_Icons",
+    "supercharged-links-gen 7"
+  ],
+  "baseFontSize": 15
+}

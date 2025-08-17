@@ -1,0 +1,250 @@
+formulas:
+  # Quest status indicator with icon
+  StatusIcon: |
+    js:
+    const status = target.quest_status || 'Not Started';
+    const icons = {
+      'Not Started': '⚪',
+      'Active': '🔵',
+      'In Progress': '🟡',
+      'Completed': '🟢',
+      'Failed': '🔴',
+      'On Hold': '🟠',
+      'Abandoned': '⚫'
+    };
+    return icons[status] || '❓';
+  
+  # Quest priority display
+  PriorityDisplay: |
+    js:
+    const priority = target.quest_priority || 'Normal';
+    const displays = {
+      'Critical': '🔥 CRITICAL',
+      'High': '❗ High',
+      'Normal': '➖ Normal',
+      'Low': '🔽 Low',
+      'Optional': '💭 Optional'
+    };
+    const colors = {
+      'Critical': '#FF0000',
+      'High': '#FF8C00',
+      'Normal': '#FFD700',
+      'Low': '#90EE90',
+      'Optional': '#87CEEB'
+    };
+    const color = colors[priority] || '#808080';
+    return `<span style="color: ${color}; font-weight: bold;">${displays[priority] || priority}</span>`;
+  
+  # Quest image with type fallback
+  QuestImage: |
+    js:
+    if (target.image_path) {
+      return `![[${target.image_path}|100]]`;
+    } else if (target.quest_type) {
+      const typeImages = {
+        'Main Quest': 'MainQuest',
+        'Side Quest': 'SideQuest',
+        'Fetch Quest': 'FetchQuest',
+        'Kill Quest': 'Combat',
+        'Escort Quest': 'Escort',
+        'Mystery': 'Mystery',
+        'Exploration': 'Exploration'
+      };
+      const imgType = typeImages[target.quest_type] || 'Quest';
+      return `![[04_Resources/Assets/Placeholder Images/${imgType}.png|100]]`;
+    }
+    return `![[04_Resources/Assets/Placeholder Images/Quest_Default.png|100]]`;
+  
+  # Progress bar
+  ProgressBar: |
+    js:
+    if (target.quest_progress !== undefined && target.quest_progress !== null) {
+      const progress = Math.min(100, Math.max(0, target.quest_progress));
+      let color = '#4CAF50';
+      if (progress < 33) color = '#f44336';
+      else if (progress < 66) color = '#ff9800';
+      
+      return `<div style="width: 150px; background: #ddd; border-radius: 10px; overflow: hidden;">
+        <div style="width: ${progress}%; background: ${color}; height: 20px; text-align: center; color: white; line-height: 20px;">
+          ${progress}%
+        </div>
+      </div>`;
+    }
+    return '<div style="color: #999;">No progress tracked</div>';
+  
+  # Quest giver display
+  QuestGiver: |
+    js:
+    if (target.quest_giver) {
+      if (Array.isArray(target.quest_giver)) {
+        return target.quest_giver.map(giver => `👤 [[${giver}]]`).join(', ');
+      }
+      return `👤 [[${target.quest_giver}]]`;
+    }
+    return '👤 Unknown';
+  
+  # Reward summary
+  RewardSummary: |
+    js:
+    const rewards = [];
+    if (target.reward_gold) rewards.push(`💰 ${target.reward_gold} gp`);
+    if (target.reward_xp) rewards.push(`⭐ ${target.reward_xp} XP`);
+    if (target.reward_items && target.reward_items.length > 0) {
+      rewards.push(`📦 ${target.reward_items.length} items`);
+    }
+    if (target.reward_other) rewards.push(`🎁 Special`);
+    return rewards.length > 0 ? rewards.join(' • ') : '❌ No rewards';
+  
+  # Location display
+  LocationDisplay: |
+    js:
+    if (target.quest_location) {
+      if (Array.isArray(target.quest_location)) {
+        return target.quest_location.map(loc => `📍 ${loc}`).join(', ');
+      }
+      return `📍 ${target.quest_location}`;
+    }
+    return '📍 Unknown location';
+  
+  # Time remaining
+  TimeRemaining: |
+    js:
+    if (target.quest_deadline) {
+      const deadline = new Date(target.quest_deadline);
+      const now = new Date();
+      const diff = deadline - now;
+      
+      if (diff < 0) return '⏰ OVERDUE!';
+      
+      const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+      if (days > 0) return `⏳ ${days} days remaining`;
+      
+      const hours = Math.floor(diff / (1000 * 60 * 60));
+      return `⏰ ${hours} hours remaining`;
+    }
+    return '';
+  
+  # Due soon flag (<= 7 days)
+  DueSoon: |
+    js:
+    if (!target.quest_deadline) return '';
+    const deadline = new Date(target.quest_deadline);
+    const now = new Date();
+    const diff = deadline - now;
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+    return days >= 0 && days <= 7 ? '⚠️ Due ≤ 7d' : '';
+
+views:
+  - type: table
+    name: All Quests
+    filters:
+      tags contains "Category/Quest"
+    columns:
+      - file.name
+      - quest_status
+      - quest_type
+      - quest_giver
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      quest_status: 120
+      quest_type: 120
+      quest_giver: 150
+  - type: cards
+    name: Active
+    filters:
+      and:
+        - tags contains "Category/Quest"
+        - quest_status == "Active"
+    columns: 3
+    limit: 100
+    properties:
+      - file.name
+      - quest_status
+      - quest_priority
+      - quest_progress
+      - reward_gold
+      - quest_deadline
+    
+  - type: table
+    name: Quest Journal
+    filters:
+      tags contains "Category/Quest"
+    columns:
+      - file.name
+      - quest_status
+      - quest_priority
+      - quest_type
+      - quest_giver
+      - quest_location
+      - quest_progress
+      - reward_gold
+      - quest_deadline
+    sort:
+      - property: quest_priority
+        direction: DESC
+      - property: quest_status
+        direction: ASC
+    columnSize:
+      formula.StatusIcon: 50
+      formula.PriorityDisplay: 100
+      file.name: 200
+      quest_type: 120
+      formula.QuestGiver: 150
+      formula.LocationDisplay: 150
+      formula.ProgressBar: 160
+      formula.RewardSummary: 200
+    
+  - type: cards
+    name: Campaign Overview
+    filters:
+      and:
+        - quest_type == "Main Quest"
+    columns: 2
+    limit: 100
+    properties:
+      - file.name
+      - quest_status
+      - quest_description
+      - quest_giver
+      - quest_location
+      - reward_gold
+    
+  - type: kanban
+    name: Quest Board
+    filters:
+      tags contains "Category/Quest"
+    columns:
+      - name: Not Started
+        filter: quest_status == "Not Started"
+      - name: Active
+        filter: quest_status == "Active"
+      - name: In Progress
+        filter: quest_status == "In Progress"
+      - name: Completed
+        filter: quest_status == "Completed"
+    properties:
+      - formula.QuestImage
+      - formula.PriorityDisplay
+      - formula.ProgressBar
+      - formula.RewardSummary
+  - type: table
+    name: All (Debug)
+
+    columns:
+      - file.name
+      - quest_status
+      - quest_type
+      - quest_giver
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      quest_status: 120
+      quest_type: 120
+      quest_giver: 150
+      tags: 200

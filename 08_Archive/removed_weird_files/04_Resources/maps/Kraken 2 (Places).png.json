@@ -1,0 +1,18 @@
+{
+  "name": "Kraken 2 (Places)",
+  "type": "map",
+  "generated": "2025-08-15T18:18:10.958Z",
+  "prompt": "fantasy map of Kraken 2 (Places), cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Kraken 2 (Places).png.json",
+  "reorganized": "2025-08-15T18:33:02.484Z"
+}

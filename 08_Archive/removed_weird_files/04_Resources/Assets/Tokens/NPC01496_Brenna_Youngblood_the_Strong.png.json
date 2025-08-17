@@ -1,0 +1,19 @@
+{
+  "name": "NPC01496_Brenna_Youngblood_the_Strong",
+  "type": "token",
+  "generated": "2025-08-15T18:15:40.336Z",
+  "prompt": "character token for NPC01496_Brenna_Youngblood_the_Strong, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC01496_Brenna_Youngblood_the_Strong.png.json",
+  "reorganized": "2025-08-15T18:33:11.723Z"
+}

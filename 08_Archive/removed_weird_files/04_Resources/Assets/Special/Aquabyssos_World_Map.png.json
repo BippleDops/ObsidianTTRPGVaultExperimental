@@ -1,0 +1,18 @@
+{
+  "name": "Aquabyssos_World_Map",
+  "type": "map",
+  "prompt": "underwater world map, multiple cities, ocean currents, bioluminescent regions",
+  "generated": "2025-08-15T18:20:48.523Z",
+  "status": "pending_generation",
+  "tags": [
+    "generated",
+    "aquabyssos",
+    "underwater",
+    "oceanic",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Special/Aquabyssos_World_Map.png.json",
+  "reorganized": "2025-08-15T18:33:09.705Z"
+}

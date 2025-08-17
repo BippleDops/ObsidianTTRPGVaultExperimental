@@ -1,0 +1,16 @@
+{
+  "name": "Dwarf Bard 140",
+  "type": "portrait",
+  "race": "dwarf",
+  "class": "bard",
+  "gender": "female",
+  "age": "adult",
+  "tags": [
+    "portrait",
+    "character",
+    "dwarf",
+    "bard",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.620Z"
+}

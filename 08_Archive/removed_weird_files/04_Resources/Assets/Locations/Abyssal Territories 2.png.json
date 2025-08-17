@@ -1,0 +1,18 @@
+{
+  "name": "Abyssal Territories 2",
+  "type": "location",
+  "generated": "2025-08-15T18:16:29.520Z",
+  "prompt": "fantasy landscape called Abyssal Territories 2, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Abyssal Territories 2.png.json",
+  "reorganized": "2025-08-15T18:32:58.421Z"
+}

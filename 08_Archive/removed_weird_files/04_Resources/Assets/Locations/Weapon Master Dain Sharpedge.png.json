@@ -1,0 +1,19 @@
+{
+  "name": "Weapon Master Dain Sharpedge",
+  "type": "location",
+  "generated": "2025-08-15T18:18:32.139Z",
+  "prompt": "fantasy landscape called Weapon Master Dain Sharpedge, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "weapon"
+  ],
+  "location": "04_Resources/Assets/Locations/Weapon Master Dain Sharpedge.png.json",
+  "reorganized": "2025-08-15T18:33:01.177Z"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Battle Map 419",
+  "type": "map",
+  "mapType": "battle",
+  "gridSize": "25x25",
+  "scale": "5ft per square",
+  "tags": [
+    "map",
+    "battle",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 59.9447512145702,
+      "y": 46.66754407854773,
+      "type": "city"
+    },
+    {
+      "name": "Location 2",
+      "x": 55.46803374269391,
+      "y": 1.707572925572065,
+      "type": "city"
+    },
+    {
+      "name": "Location 3",
+      "x": 55.12138248706011,
+      "y": 57.688106807316316,
+      "type": "city"
+    },
+    {
+      "name": "Location 4",
+      "x": 55.11818181839487,
+      "y": 31.462513968799634,
+      "type": "city"
+    },
+    {
+      "name": "Location 5",
+      "x": 32.129217531282826,
+      "y": 70.01630063174835,
+      "type": "dungeon"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.746Z"
+}

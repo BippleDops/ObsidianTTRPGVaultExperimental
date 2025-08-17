@@ -1,0 +1,34 @@
+{
+  "id": "heraldry-shadow-conspiracy-investigation",
+  "type": "symbol",
+  "name": "Shadow Conspiracy Investigation",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Shadow Conspiracy Investigation, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 2002,
+  "alt_text": "Heraldic emblem for Shadow Conspiracy Investigation.",
+  "realm": "aquabyssos",
+  "palette": "seafoam greens",
+  "textPolicy": "no words or inscriptions; pure iconography",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create a piece of heraldic imagery for a group known as the 'Shadow Conspiracy Investigation'. The image should be coherent with culture and materials typical of a medieval fantasy setting, complete with items and gear from such a setting, yet devoid of modern technology or signs. The emblem should encapsulate 2-3 motifs emblematic of the group's identity, with potential variants akin to a seal, banner, or coin. Render this emblem in a painterly style with clear elements of aquatic fantasy realism, such as subsurface caustics and bioluminescent accents. The primary colors to be used are teals, deep blues, sea-greens, and highlights in pearl. Make sure to use the specified aspect and resolution, and steer clear of any embedded text or meaningless symbols unless directed otherwise. This should not resemble science fiction interfaces, modern signs, photo-realistic CGI, or anime styles, and should steer clear of bloom glare or any other form of light artifact.",
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-shadow-conspiracy-investigation-shadow-conspiracy-investigation.png"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "city-marina-stormwright-v1",
+  "type": "location",
+  "name": "Marina Stormwright",
+  "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: location]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: Panoramic view of Marina Stormwright\nEnvironment: golden hour / night glow / storm, weather cues and particles, bioluminescent coral or cloudstone\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, skyward romantic realism, cloudstone and brass, wind-swept forms, airship motifs, cinematic atmosphere\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: navy, gold, cloud-white, warm sun highlights\n\n\n## Visual Specifications\n- Lighting: cinematic\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Avoid readable signage or paragraphs; use iconography or blank signboards. No embedded words or letters.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "mysterious",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7666,
+  "alt_text": "Cinematic view of Marina Stormwright with architecture and inhabitants.",
+  "realm": "aethermoor",
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-marina-stormwright-v1-marina-stormwright.svg"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "artifact-crowbar-xphb-v7",
+  "type": "item",
+  "name": "crowbar-xphb",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: crowbar-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "rim-lit",
+  "mood": "solemn",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 12456,
+  "alt_text": "Artifact crowbar-xphb with materials, runes, and scale.",
+  "realm": "aquabyssos",
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Items/item-artifact-crowbar-xphb-v7-crowbar-xphb.svg"
+}

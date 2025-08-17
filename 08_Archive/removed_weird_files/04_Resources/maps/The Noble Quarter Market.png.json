@@ -1,0 +1,18 @@
+{
+  "name": "The Noble Quarter Market",
+  "type": "map",
+  "generated": "2025-08-15T18:18:25.938Z",
+  "prompt": "fantasy map of The Noble Quarter Market, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/The Noble Quarter Market.png.json",
+  "reorganized": "2025-08-15T18:33:03.690Z"
+}

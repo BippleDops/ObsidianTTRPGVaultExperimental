@@ -1,0 +1,18 @@
+{
+  "name": "Theater of Impossible Dreams",
+  "type": "location",
+  "generated": "2025-08-15T18:18:05.278Z",
+  "prompt": "fantasy landscape called Theater of Impossible Dreams, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Theater of Impossible Dreams.png.json",
+  "reorganized": "2025-08-15T18:33:01.126Z"
+}

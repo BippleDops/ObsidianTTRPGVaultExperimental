@@ -1,0 +1,18 @@
+{
+  "name": "LOC0070_Havendale",
+  "type": "location",
+  "generated": "2025-08-15T18:18:01.255Z",
+  "prompt": "fantasy landscape called LOC0070_Havendale, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/LOC0070_Havendale.png.json",
+  "reorganized": "2025-08-15T18:33:00.613Z"
+}

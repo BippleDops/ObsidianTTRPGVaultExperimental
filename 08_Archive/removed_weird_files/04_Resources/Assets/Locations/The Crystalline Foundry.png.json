@@ -1,0 +1,18 @@
+{
+  "name": "The Crystalline Foundry",
+  "type": "location",
+  "generated": "2025-08-15T18:18:22.833Z",
+  "prompt": "fantasy landscape called The Crystalline Foundry, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/The Crystalline Foundry.png.json",
+  "reorganized": "2025-08-15T18:33:01.004Z"
+}

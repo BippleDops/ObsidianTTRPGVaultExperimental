@@ -1,0 +1,18 @@
+{
+  "name": "ITEM00282_Blessed_Staff_of_Slaying",
+  "type": "item",
+  "generated": "2025-08-15T18:19:05.271Z",
+  "prompt": "magical staff called ITEM00282_Blessed_Staff_of_Slaying, detailed item, glowing effects, fantasy artifact",
+  "status": "pending_generation",
+  "tags": [
+    "item",
+    "equipment-art",
+    "object",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Items/ITEM00282_Blessed_Staff_of_Slaying.png.json",
+  "reorganized": "2025-08-15T18:32:57.714Z"
+}

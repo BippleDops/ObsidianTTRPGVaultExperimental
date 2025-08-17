@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {"id":"root","type":"text","text":"Encounter Paths","x":0,"y":0,"width":360,"height":120},
+    {"id":"scenes","type":"file","file":"04_Resources/Assets/Galleries/Scenes_Gallery.md","x":-520,"y":-20,"width":420,"height":140},
+    {"id":"maps","type":"file","file":"04_Resources/Assets/Galleries/Battle_Maps_Gallery.md","x":0,"y":220,"width":420,"height":140},
+    {"id":"creatures","type":"file","file":"04_Resources/Assets/Galleries/Creatures_Gallery.md","x":520,"y":-20,"width":420,"height":140}
+  ],
+  "edges": [
+    {"id":"e1","fromNode":"root","toNode":"scenes"},
+    {"id":"e2","fromNode":"scenes","toNode":"maps"},
+    {"id":"e3","fromNode":"maps","toNode":"creatures"}
+  ]
+}
+
+

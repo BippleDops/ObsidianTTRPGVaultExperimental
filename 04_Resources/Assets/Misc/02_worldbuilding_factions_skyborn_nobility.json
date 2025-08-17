@@ -1,0 +1,25 @@
+{
+  "title": "02_Worldbuilding/Factions/Skyborn Nobility",
+  "prompt": "02 worldbuilding/factions/skyborn nobility, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:04:41.594Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Factions/Skyborn Nobility.md",
+  "tags": [
+    "generated",
+    "aethermoor",
+    "sky",
+    "aerial",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/02_worldbuilding_factions_skyborn_nobility.json",
+  "reorganized": "2025-08-15T18:33:03.886Z"
+}

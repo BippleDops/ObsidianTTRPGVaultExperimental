@@ -1,0 +1,46 @@
+{
+  "name": "Battle Map 104",
+  "type": "map",
+  "mapType": "battle",
+  "gridSize": "25x25",
+  "scale": "5ft per square",
+  "tags": [
+    "map",
+    "battle",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 89.48144735077013,
+      "y": 11.292381240304582,
+      "type": "city"
+    },
+    {
+      "name": "Location 2",
+      "x": 14.116682251639535,
+      "y": 41.534177412747056,
+      "type": "town"
+    },
+    {
+      "name": "Location 3",
+      "x": 99.82854520844941,
+      "y": 26.004582486804683,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 4",
+      "x": 9.382032283775409,
+      "y": 96.94003256082105,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 5",
+      "x": 56.768594440012755,
+      "y": 74.96287361745536,
+      "type": "landmark"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.603Z"
+}

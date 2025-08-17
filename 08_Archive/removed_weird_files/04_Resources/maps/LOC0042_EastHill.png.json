@@ -1,0 +1,18 @@
+{
+  "name": "LOC0042_EastHill",
+  "type": "map",
+  "generated": "2025-08-15T18:18:00.531Z",
+  "prompt": "fantasy map of LOC0042_EastHill, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/LOC0042_EastHill.png.json",
+  "reorganized": "2025-08-15T18:33:03.234Z"
+}

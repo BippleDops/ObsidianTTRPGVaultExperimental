@@ -1,0 +1,22 @@
+{
+  "title": "#Cross-Campaign Organizations",
+  "prompt": "#cross-campaign organizations, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:28:04.878Z",
+  "sourceFile": "/02_Worldbuilding/Groups/#Cross-Campaign Organizations.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/_cross_campaign_organizations.json",
+  "reorganized": "2025-08-15T18:33:07.293Z"
+}

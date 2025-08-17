@@ -1,0 +1,18 @@
+{
+  "name": "House Deepforge",
+  "type": "map",
+  "generated": "2025-08-15T18:17:56.908Z",
+  "prompt": "fantasy map of House Deepforge, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/House Deepforge.png.json",
+  "reorganized": "2025-08-15T18:33:02.440Z"
+}

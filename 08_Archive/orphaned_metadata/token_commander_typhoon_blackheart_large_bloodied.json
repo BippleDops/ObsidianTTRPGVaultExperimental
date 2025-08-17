@@ -1,0 +1,12 @@
+{
+  "type": "token",
+  "generated": "2025-08-15T02:48:26.076Z",
+  "metadata": {
+    "name": "Commander Typhoon Blackheart",
+    "size": "large",
+    "state": "bloodied",
+    "border": "faction_themed"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

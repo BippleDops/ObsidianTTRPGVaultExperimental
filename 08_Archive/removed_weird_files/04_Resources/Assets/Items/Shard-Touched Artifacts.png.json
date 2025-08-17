@@ -1,0 +1,18 @@
+{
+  "name": "Shard-Touched Artifacts",
+  "type": "item",
+  "generated": "2025-08-15T18:19:09.094Z",
+  "prompt": "magical artifact called Shard-Touched Artifacts, detailed item, glowing effects, fantasy artifact",
+  "status": "pending_generation",
+  "tags": [
+    "item",
+    "equipment-art",
+    "object",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Items/Shard-Touched Artifacts.png.json",
+  "reorganized": "2025-08-15T18:32:58.351Z"
+}

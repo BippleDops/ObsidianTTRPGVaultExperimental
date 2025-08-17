@@ -1,0 +1,19 @@
+{
+  "name": "NPC00849_Elric_Blackstone_the_Mystic",
+  "type": "token",
+  "generated": "2025-08-15T18:15:51.926Z",
+  "prompt": "character token for NPC00849_Elric_Blackstone_the_Mystic, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC00849_Elric_Blackstone_the_Mystic.png.json",
+  "reorganized": "2025-08-15T18:33:11.321Z"
+}

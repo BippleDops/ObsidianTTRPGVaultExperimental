@@ -1,0 +1,11 @@
+{
+  "type": "video",
+  "generated": "2025-08-15T02:48:25.958Z",
+  "metadata": {
+    "type": "spell_effect",
+    "spell": "healing_aura",
+    "duration": "5s"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

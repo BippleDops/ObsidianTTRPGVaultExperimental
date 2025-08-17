@@ -1,0 +1,22 @@
+{
+  "title": "Parliamentary Ethics Committee",
+  "prompt": "Parliamentary ethics committee, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:11:36.454Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Government_and_Parliament/Parliamentary Ethics Committee.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/parliamentary_ethics_committee.json",
+  "reorganized": "2025-08-15T18:33:07.512Z"
+}

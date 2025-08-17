@@ -1,0 +1,18 @@
+{
+  "name": "Portal Network",
+  "type": "location",
+  "generated": "2025-08-15T18:18:12.611Z",
+  "prompt": "fantasy landscape called Portal Network, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Portal Network.png.json",
+  "reorganized": "2025-08-15T18:33:00.787Z"
+}

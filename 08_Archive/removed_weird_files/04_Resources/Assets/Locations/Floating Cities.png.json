@@ -1,0 +1,21 @@
+{
+  "name": "Floating Cities",
+  "type": "location",
+  "generated": "2025-08-15T18:17:23.071Z",
+  "prompt": "fantasy landscape called Floating Cities, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "aethermoor",
+    "sky",
+    "aerial",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Floating Cities.png.json",
+  "reorganized": "2025-08-15T18:32:59.627Z"
+}

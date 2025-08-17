@@ -1,0 +1,19 @@
+{
+  "name": "LOC00256_Dungeons_Location_257",
+  "type": "location",
+  "generated": "2025-08-15T18:17:35.358Z",
+  "prompt": "fantasy landscape called LOC00256_Dungeons_Location_257, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "dungeon"
+  ],
+  "location": "04_Resources/Assets/Locations/LOC00256_Dungeons_Location_257.png.json",
+  "reorganized": "2025-08-15T18:33:00.478Z"
+}

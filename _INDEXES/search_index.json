@@ -1,0 +1,942 @@
+{
+  "npcs": {
+    "NPC01566_Lyanna_Underhill_the_Redeemed": {
+      "path": "03_People/NPC01566_Lyanna_Underhill_the_Redeemed.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 14348
+    },
+    "Quest - Reality Referendum": {
+      "path": "03_People/Quest - Reality Referendum.md",
+      "tags": [],
+      "size": 7913
+    },
+    "NPC01476_Qadim_Stormwind_the_Wise": {
+      "path": "03_People/NPC01476_Qadim_Stormwind_the_Wise.md",
+      "tags": [
+        "villain",
+        "ally"
+      ],
+      "size": 13186
+    },
+    "Quest - Redemption's Price": {
+      "path": "03_People/Quest - Redemption's Price.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 8594
+    },
+    "NPC00407_Hestara_Dawnstrider": {
+      "path": "03_People/NPC00407_Hestara_Dawnstrider.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 11872
+    },
+    "NPC01792_Rhiannon_Ironwood_the_Scholar": {
+      "path": "03_People/NPC01792_Rhiannon_Ironwood_the_Scholar.md",
+      "tags": [
+        "villain",
+        "ally"
+      ],
+      "size": 13248
+    },
+    "Quest - The Forge of Memory": {
+      "path": "03_People/Quest - The Forge of Memory.md",
+      "tags": [],
+      "size": 7235
+    },
+    "QUEST00019_Main_Quest_20": {
+      "path": "03_People/QUEST00019_Main_Quest_20.md",
+      "tags": [],
+      "size": 617
+    },
+    "NPC01367_Lyanna_Xendar_the_Wise": {
+      "path": "03_People/NPC01367_Lyanna_Xendar_the_Wise.md",
+      "tags": [
+        "villain",
+        "ally"
+      ],
+      "size": 12655
+    },
+    "NPC01974_Thalia_Zephyrblade_the_Lost": {
+      "path": "03_People/NPC01974_Thalia_Zephyrblade_the_Lost.md",
+      "tags": [
+        "villain",
+        "ally"
+      ],
+      "size": 11034
+    },
+    "NPC00415_Gareth_Winterborn_the_Bold": {
+      "path": "03_People/NPC00415_Gareth_Winterborn_the_Bold.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 11901
+    },
+    "NPC00515_Baelor_Crystalbrook_the_Seeker": {
+      "path": "03_People/NPC00515_Baelor_Crystalbrook_the_Seeker.md",
+      "tags": [],
+      "size": 11238
+    },
+    "QUEST00376_Side_Quest_377": {
+      "path": "03_People/QUEST00376_Side_Quest_377.md",
+      "tags": [],
+      "size": 627
+    },
+    "NPC00525_Fiora_Proudmore_the_Wanderer": {
+      "path": "03_People/NPC00525_Fiora_Proudmore_the_Wanderer.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 12819
+    },
+    "NPC00395_Aeliana_Thornweave": {
+      "path": "03_People/NPC00395_Aeliana_Thornweave.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 10952
+    },
+    "QUEST00108_Main_Quest_109": {
+      "path": "03_People/QUEST00108_Main_Quest_109.md",
+      "tags": [],
+      "size": 617
+    },
+    "QUEST00422_Side_Quest_423": {
+      "path": "03_People/QUEST00422_Side_Quest_423.md",
+      "tags": [],
+      "size": 621
+    },
+    "NPC00785_Ysara_Grimholt_the_Mystic": {
+      "path": "03_People/NPC00785_Ysara_Grimholt_the_Mystic.md",
+      "tags": [],
+      "size": 11579
+    },
+    "NPC01447_Baelor_Winterborn_the_Strong": {
+      "path": "03_People/NPC01447_Baelor_Winterborn_the_Strong.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 11725
+    },
+    "NPC01625_Qadim_Lightbringer_the_Swift": {
+      "path": "03_People/NPC01625_Qadim_Lightbringer_the_Swift.md",
+      "tags": [
+        "villain",
+        "ally"
+      ],
+      "size": 12811
+    },
+    "QUEST00143_Side_Quest_144": {
+      "path": "03_People/QUEST00143_Side_Quest_144.md",
+      "tags": [],
+      "size": 624
+    },
+    "NPC01360_Ewan_Blackstone_the_Strong": {
+      "path": "03_People/NPC01360_Ewan_Blackstone_the_Strong.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 13339
+    },
+    "NPC00260_Wynne_Underhill_the_Fallen": {
+      "path": "03_People/NPC00260_Wynne_Underhill_the_Fallen.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 12399
+    },
+    "NPC01057_Pyria_Quicksilver_the_Scholar": {
+      "path": "03_People/NPC01057_Pyria_Quicksilver_the_Scholar.md",
+      "tags": [],
+      "size": 11828
+    },
+    "NPC00437_Hilda_Stormwind_the_Mystic": {
+      "path": "03_People/NPC00437_Hilda_Stormwind_the_Mystic.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 10959
+    },
+    "NPC00321_Aeliana_Zephyrblade_the_Strong": {
+      "path": "03_People/NPC00321_Aeliana_Zephyrblade_the_Strong.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 13303
+    },
+    "NPC01503_Ewan_Dawnstrider_the_Redeemed": {
+      "path": "03_People/NPC01503_Ewan_Dawnstrider_the_Redeemed.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 11465
+    },
+    "Keeper Elara Mindwell": {
+      "path": "03_People/Keeper Elara Mindwell.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 25190
+    },
+    "QUEST00124_Personal_Quest_125": {
+      "path": "03_People/QUEST00124_Personal_Quest_125.md",
+      "tags": [],
+      "size": 641
+    },
+    "QUEST00454_Side_Quest_455": {
+      "path": "03_People/QUEST00454_Side_Quest_455.md",
+      "tags": [],
+      "size": 617
+    },
+    "QUEST00300_Side_Quest_301": {
+      "path": "03_People/QUEST00300_Side_Quest_301.md",
+      "tags": [],
+      "size": 619
+    },
+    "Quest - The Successor's Burden_1 (01_Adventures)": {
+      "path": "03_People/Quest - The Successor's Burden_1 (01_Adventures).md",
+      "tags": [
+        "villain"
+      ],
+      "size": 11778
+    },
+    "NPC00552_Malakai_Stormwind_the_Seeker": {
+      "path": "03_People/NPC00552_Malakai_Stormwind_the_Seeker.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 12921
+    },
+    "QUEST00148_Side_Quest_149": {
+      "path": "03_People/QUEST00148_Side_Quest_149.md",
+      "tags": [],
+      "size": 617
+    },
+    "Quest Name": {
+      "path": "03_People/Quest Name.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 6943
+    },
+    "NPC01568_Lyanna_Winterborn_the_Strong": {
+      "path": "03_People/NPC01568_Lyanna_Winterborn_the_Strong.md",
+      "tags": [
+        "villain",
+        "ally"
+      ],
+      "size": 11059
+    },
+    "Quest - The Merged Reality_1 (01_Adventures)": {
+      "path": "03_People/Quest - The Merged Reality_1 (01_Adventures).md",
+      "tags": [],
+      "size": 8624
+    },
+    "NPC00542_Corvus_Oakenshield_the_Strong": {
+      "path": "03_People/NPC00542_Corvus_Oakenshield_the_Strong.md",
+      "tags": [
+        "villain",
+        "ally"
+      ],
+      "size": 10869
+    },
+    "NPC01151_Orion_Stormwind_the_Seeker": {
+      "path": "03_People/NPC01151_Orion_Stormwind_the_Seeker.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 11766
+    },
+    "QUEST00014_Side_Quest_15": {
+      "path": "03_People/QUEST00014_Side_Quest_15.md",
+      "tags": [],
+      "size": 617
+    },
+    "QUEST00499_Side_Quest_500": {
+      "path": "03_People/QUEST00499_Side_Quest_500.md",
+      "tags": [],
+      "size": 622
+    },
+    "QUEST00103_Main_Quest_104": {
+      "path": "03_People/QUEST00103_Main_Quest_104.md",
+      "tags": [],
+      "size": 617
+    },
+    "QUEST00181_Main_Quest_182": {
+      "path": "03_People/QUEST00181_Main_Quest_182.md",
+      "tags": [],
+      "size": 626
+    },
+    "NPC00351_Corvus_Ironwood": {
+      "path": "03_People/NPC00351_Corvus_Ironwood.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 10678
+    },
+    "NPC01892_Gareth_Xendar_the_Scholar": {
+      "path": "03_People/NPC01892_Gareth_Xendar_the_Scholar.md",
+      "tags": [
+        "villain",
+        "ally"
+      ],
+      "size": 11927
+    },
+    "Quest - The Void Conspiracy": {
+      "path": "03_People/Quest - The Void Conspiracy.md",
+      "tags": [],
+      "size": 6627
+    },
+    "The Coral Throne 2": {
+      "path": "03_People/The Coral Throne 2.md",
+      "tags": [],
+      "size": 1985
+    },
+    "NPC01699_Orion_Oakenshield_the_Broken": {
+      "path": "03_People/NPC01699_Orion_Oakenshield_the_Broken.md",
+      "tags": [
+        "villain"
+      ],
+      "size": 12483
+    },
+    "The Silent Watcher 2": {
+      "path": "03_People/The Silent Watcher 2.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 21776
+    },
+    "QUEST00194_Main_Quest_195": {
+      "path": "03_People/QUEST00194_Main_Quest_195.md",
+      "tags": [],
+      "size": 623
+    },
+    "NPC01951_Gavril_Xendar_the_Swift": {
+      "path": "03_People/NPC01951_Gavril_Xendar_the_Swift.md",
+      "tags": [
+        "villain",
+        "ally"
+      ],
+      "size": 11684
+    },
+    "The Forgotten Representative": {
+      "path": "03_People/The Forgotten Representative.md",
+      "tags": [],
+      "size": 10710
+    },
+    "NPC00976_Alaric_Quicksilver_the_Strong": {
+      "path": "03_People/NPC00976_Alaric_Quicksilver_the_Strong.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 11991
+    },
+    "NPC00069_Thalia_Brightblade_the_Guardian": {
+      "path": "03_People/NPC00069_Thalia_Brightblade_the_Guardian.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 10205
+    },
+    "NPC00763_Urien_Brightblade_the_Broken": {
+      "path": "03_People/NPC00763_Urien_Brightblade_the_Broken.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 12272
+    },
+    "QUEST00329_Side_Quest_330": {
+      "path": "03_People/QUEST00329_Side_Quest_330.md",
+      "tags": [],
+      "size": 619
+    },
+    "QUEST00286_Side_Quest_287": {
+      "path": "03_People/QUEST00286_Side_Quest_287.md",
+      "tags": [],
+      "size": 619
+    },
+    "QUEST00177_Main_Quest_178": {
+      "path": "03_People/QUEST00177_Main_Quest_178.md",
+      "tags": [],
+      "size": 620
+    },
+    "NPC01466_Urien_Nightfall_the_Guardian": {
+      "path": "03_People/NPC01466_Urien_Nightfall_the_Guardian.md",
+      "tags": [
+        "villain",
+        "ally"
+      ],
+      "size": 12070
+    },
+    "NPC01012_Solas_Darkwater_the_Strong": {
+      "path": "03_People/NPC01012_Solas_Darkwater_the_Strong.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 11356
+    },
+    "Quest - Depth Pilgrimage_1 (01_Adventures)": {
+      "path": "03_People/Quest - Depth Pilgrimage_1 (01_Adventures).md",
+      "tags": [],
+      "size": 8899
+    },
+    "QUEST00441_Side_Quest_442": {
+      "path": "03_People/QUEST00441_Side_Quest_442.md",
+      "tags": [],
+      "size": 825
+    },
+    "QUEST00135_Personal_Quest_136": {
+      "path": "03_People/QUEST00135_Personal_Quest_136.md",
+      "tags": [],
+      "size": 643
+    },
+    "QUEST00315_Side_Quest_316": {
+      "path": "03_People/QUEST00315_Side_Quest_316.md",
+      "tags": [],
+      "size": 621
+    },
+    "NPC00975_Lyanna_Winterborn_the_Wise": {
+      "path": "03_People/NPC00975_Lyanna_Winterborn_the_Wise.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 11158
+    },
+    "NPC01502_Urien_Underhill_the_Scholar": {
+      "path": "03_People/NPC01502_Urien_Underhill_the_Scholar.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 12730
+    },
+    "Archdruid Thornweaver": {
+      "path": "03_People/Archdruid Thornweaver.md",
+      "tags": [],
+      "size": 7550
+    },
+    "QUEST00068_Side_Quest_69": {
+      "path": "03_People/QUEST00068_Side_Quest_69.md",
+      "tags": [],
+      "size": 615
+    },
+    "NPC01126_Malakai_Oakenshield_the_Fallen": {
+      "path": "03_People/NPC01126_Malakai_Oakenshield_the_Fallen.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 11075
+    },
+    "NPC01201_Felicia_Ironwood_the_Bold": {
+      "path": "03_People/NPC01201_Felicia_Ironwood_the_Bold.md",
+      "tags": [
+        "villain"
+      ],
+      "size": 11539
+    },
+    "NPC00362_Pyria_Stormwind_the_Wise": {
+      "path": "03_People/NPC00362_Pyria_Stormwind_the_Wise.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 11349
+    },
+    "NPC00494_Lyanna_Hawthorne_the_Guardian": {
+      "path": "03_People/NPC00494_Lyanna_Hawthorne_the_Guardian.md",
+      "tags": [],
+      "size": 11269
+    },
+    "NPC01786_Zephyr_Jadeclaw_the_Mystic": {
+      "path": "03_People/NPC01786_Zephyr_Jadeclaw_the_Mystic.md",
+      "tags": [
+        "villain",
+        "ally"
+      ],
+      "size": 12363
+    },
+    "QUEST00219_Side_Quest_220": {
+      "path": "03_People/QUEST00219_Side_Quest_220.md",
+      "tags": [],
+      "size": 620
+    },
+    "NPC01312_Alaric_Darkwater_the_Fallen": {
+      "path": "03_People/NPC01312_Alaric_Darkwater_the_Fallen.md",
+      "tags": [
+        "villain",
+        "ally"
+      ],
+      "size": 10355
+    },
+    "NPC01348_Xander_Zephyrblade_the_Wise": {
+      "path": "03_People/NPC01348_Xander_Zephyrblade_the_Wise.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 12209
+    },
+    "Quest - The Deep Alliance_1 (01_Adventures)": {
+      "path": "03_People/Quest - The Deep Alliance_1 (01_Adventures).md",
+      "tags": [],
+      "size": 10211
+    },
+    "NPC00885_Kaelen_Xendar_the_Lost": {
+      "path": "03_People/NPC00885_Kaelen_Xendar_the_Lost.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 10701
+    },
+    "Quest - The Missing Fleet": {
+      "path": "03_People/Quest - The Missing Fleet.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 29036
+    },
+    "NPC01841_Malakai_Nightfall_the_Wise": {
+      "path": "03_People/NPC01841_Malakai_Nightfall_the_Wise.md",
+      "tags": [
+        "villain",
+        "ally"
+      ],
+      "size": 11773
+    },
+    "Quest - Municipal Election": {
+      "path": "03_People/Quest - Municipal Election.md",
+      "tags": [],
+      "size": 7081
+    },
+    "NPC00336_Alaric_Frostwhisper_the_Swift": {
+      "path": "03_People/NPC00336_Alaric_Frostwhisper_the_Swift.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 11985
+    },
+    "QUEST00033_Main_Quest_34": {
+      "path": "03_People/QUEST00033_Main_Quest_34.md",
+      "tags": [],
+      "size": 885
+    },
+    "NPC01989_Erasmus_Xendar_the_Strong": {
+      "path": "03_People/NPC01989_Erasmus_Xendar_the_Strong.md",
+      "tags": [
+        "villain",
+        "ally"
+      ],
+      "size": 10789
+    },
+    "NPC00276_Ysara_Youngblood": {
+      "path": "03_People/NPC00276_Ysara_Youngblood.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 11295
+    },
+    "QUEST00011_Main_Quest_12": {
+      "path": "03_People/QUEST00011_Main_Quest_12.md",
+      "tags": [],
+      "size": 613
+    },
+    "QUEST00035_Personal_Quest_36": {
+      "path": "03_People/QUEST00035_Personal_Quest_36.md",
+      "tags": [],
+      "size": 640
+    },
+    "Quest - The Shadow Constitution": {
+      "path": "03_People/Quest - The Shadow Constitution.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 7216
+    },
+    "QUEST00137_Side_Quest_138": {
+      "path": "03_People/QUEST00137_Side_Quest_138.md",
+      "tags": [],
+      "size": 619
+    },
+    "Quest - The Smuggler's Run": {
+      "path": "03_People/Quest - The Smuggler's Run.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 7242
+    },
+    "QUEST00019_Personal_Quest_20": {
+      "path": "03_People/QUEST00019_Personal_Quest_20.md",
+      "tags": [],
+      "size": 644
+    },
+    "NPC00462_Fiora_Ironforge_the_Seeker": {
+      "path": "03_People/NPC00462_Fiora_Ironforge_the_Seeker.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 10653
+    },
+    "NPC00385_Qadim_Darkwater_the_Cunning": {
+      "path": "03_People/NPC00385_Qadim_Darkwater_the_Cunning.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 10942
+    },
+    "NPC01827_Kaelen_Ironforge_the_Seeker": {
+      "path": "03_People/NPC01827_Kaelen_Ironforge_the_Seeker.md",
+      "tags": [
+        "villain",
+        "ally"
+      ],
+      "size": 12201
+    },
+    "Quest - Hearts and Minds_1 (01_Adventures)": {
+      "path": "03_People/Quest - Hearts and Minds_1 (01_Adventures).md",
+      "tags": [
+        "ally"
+      ],
+      "size": 7746
+    },
+    "NPC00388_Ysara_Goldleaf": {
+      "path": "03_People/NPC00388_Ysara_Goldleaf.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 10620
+    },
+    "NPC01870_Lyanna_Silverleaf_the_Cunning": {
+      "path": "03_People/NPC01870_Lyanna_Silverleaf_the_Cunning.md",
+      "tags": [
+        "villain"
+      ],
+      "size": 11073
+    },
+    "NPC01286_Xander_Proudmore_the_Bold": {
+      "path": "03_People/NPC01286_Xander_Proudmore_the_Bold.md",
+      "tags": [
+        "villain",
+        "ally"
+      ],
+      "size": 13854
+    },
+    "NPC00939_Thalia_Jadeclaw_the_Swift": {
+      "path": "03_People/NPC00939_Thalia_Jadeclaw_the_Swift.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 11239
+    },
+    "NPC00461_Branwen_Proudmore_the_Strong": {
+      "path": "03_People/NPC00461_Branwen_Proudmore_the_Strong.md",
+      "tags": [
+        "ally"
+      ],
+      "size": 10802
+    }
+  },
+  "locations": {
+    "Underground Smuggling Networks 2": {
+      "path": "02_Worldbuilding/Underground Smuggling Networks 2.md"
+    },
+    "Archshadow Mind Voidwright": {
+      "path": "02_Worldbuilding/Archshadow Mind Voidwright.md"
+    },
+    "United Councils of Both Worlds": {
+      "path": "02_Worldbuilding/United Councils of Both Worlds.md"
+    },
+    "awakened-shrub-xmm": {
+      "path": "02_Worldbuilding/awakened-shrub-xmm.md"
+    },
+    "The Silent Vote 2": {
+      "path": "02_Worldbuilding/The Silent Vote 2.md"
+    },
+    "Deep Mother Influence 2": {
+      "path": "02_Worldbuilding/Deep Mother Influence 2.md"
+    },
+    "Political Intrigue Master Index 2": {
+      "path": "02_Worldbuilding/Political Intrigue Master Index 2.md"
+    },
+    "Archmage Tidal Currentweave 2": {
+      "path": "02_Worldbuilding/Archmage Tidal Currentweave 2.md"
+    },
+    "09 Templates": {
+      "path": "02_Worldbuilding/09 Templates.md"
+    },
+    "The Sunken Cities 2": {
+      "path": "02_Worldbuilding/The Sunken Cities 2.md"
+    },
+    "Merchant Representative": {
+      "path": "02_Worldbuilding/Merchant Representative.md"
+    },
+    "pest-mascot-scc": {
+      "path": "02_Worldbuilding/pest-mascot-scc.md"
+    },
+    "Crystal Plague Progression System 2": {
+      "path": "02_Worldbuilding/Crystal Plague Progression System 2.md"
+    },
+    "Guardian Council Dreams": {
+      "path": "02_Worldbuilding/Guardian Council Dreams.md"
+    },
+    "Quest - Economic Development 2": {
+      "path": "02_Worldbuilding/Quest - Economic Development 2.md"
+    },
+    "Current_Scene (02_Worldbuilding)": {
+      "path": "02_Worldbuilding/Current_Scene (02_Worldbuilding).md"
+    },
+    "The Speaker of Silence 2": {
+      "path": "02_Worldbuilding/The Speaker of Silence 2.md"
+    },
+    "Ficial Officer Golden Calculations": {
+      "path": "02_Worldbuilding/Ficial Officer Golden Calculations.md"
+    },
+    "Silence Seekers": {
+      "path": "02_Worldbuilding/Silence Seekers.md"
+    },
+    "Pelagic the Current-Walker 2": {
+      "path": "02_Worldbuilding/Pelagic the Current-Walker 2.md"
+    },
+    "Diplomatic Event Scenarios 2": {
+      "path": "02_Worldbuilding/Diplomatic Event Scenarios 2.md"
+    },
+    "Kelp Cultivator Threnody": {
+      "path": "02_Worldbuilding/Kelp Cultivator Threnody.md"
+    },
+    "02_Worldbuilding_Items_Shadow_Dampeners": {
+      "path": "02_Worldbuilding/02_Worldbuilding_Items_Shadow_Dampeners.md"
+    },
+    "Queen Seraphina Lumengarde": {
+      "path": "02_Worldbuilding/Queen Seraphina Lumengarde.md"
+    },
+    "The Shattering of the Crown 2": {
+      "path": "02_Worldbuilding/The Shattering of the Crown 2.md"
+    },
+    "Session 1 the Queens Summons 1": {
+      "path": "02_Worldbuilding/Session 1 the Queens Summons 1.md"
+    },
+    "General Voidguar 2": {
+      "path": "02_Worldbuilding/General Voidguar 2.md"
+    },
+    "Professor Darklight 2": {
+      "path": "02_Worldbuilding/Professor Darklight 2.md"
+    },
+    "Item Template 2": {
+      "path": "02_Worldbuilding/Item Template 2.md"
+    },
+    "Aquabyssos World Overview#Government The Depth Hierarchy": {
+      "path": "02_Worldbuilding/Aquabyssos World Overview#Government The Depth Hierarchy.md"
+    },
+    "Crystal Academy Council": {
+      "path": "02_Worldbuilding/Crystal Academy Council.md"
+    },
+    "Admiral Marina Stormcrest 2": {
+      "path": "02_Worldbuilding/Admiral Marina Stormcrest 2.md"
+    },
+    "Depth Guard": {
+      "path": "02_Worldbuilding/Depth Guard.md"
+    },
+    "Tobias Quillwright 2": {
+      "path": "02_Worldbuilding/Tobias Quillwright 2.md"
+    },
+    "LORE0083_Myth_of_the_Lost_City": {
+      "path": "02_Worldbuilding/LORE0083_Myth_of_the_Lost_City.md"
+    },
+    "Goldwater Trading Company": {
+      "path": "02_Worldbuilding/Goldwater Trading Company.md"
+    },
+    "The First Dreamer 2": {
+      "path": "02_Worldbuilding/The First Dreamer 2.md"
+    },
+    "Tavern Names": {
+      "path": "02_Worldbuilding/Tavern Names.md"
+    },
+    "Market_Industry_Name_2 (02_Worldbuilding)": {
+      "path": "02_Worldbuilding/Market_Industry_Name_2 (02_Worldbuilding).md"
+    },
+    "Data Analyst Current Patternweave 2": {
+      "path": "02_Worldbuilding/Data Analyst Current Patternweave 2.md"
+    },
+    "02_Worldbuilding_Items_Memory_Resonators": {
+      "path": "02_Worldbuilding/02_Worldbuilding_Items_Memory_Resonators.md"
+    },
+    "Eastern Kingdoms 3": {
+      "path": "02_Worldbuilding/Eastern Kingdoms 3.md"
+    },
+    "The Final Gasp 2": {
+      "path": "02_Worldbuilding/The Final Gasp 2.md"
+    },
+    "Lyra Voidweaver 2": {
+      "path": "02_Worldbuilding/Lyra Voidweaver 2.md"
+    },
+    "Elena Truthscribe": {
+      "path": "02_Worldbuilding/Elena Truthscribe.md"
+    },
+    "Economic Interest 2": {
+      "path": "02_Worldbuilding/Economic Interest 2.md"
+    },
+    "04_Places_The_Grinding_Workshop": {
+      "path": "02_Worldbuilding/04_Places_The_Grinding_Workshop.md"
+    },
+    "Major_NPCs (02_Worldbuilding)": {
+      "path": "02_Worldbuilding/Major_NPCs (02_Worldbuilding).md"
+    },
+    "Bless": {
+      "path": "02_Worldbuilding/Bless.md"
+    },
+    "LORE0065_History_of_the_Dragon_Wars": {
+      "path": "02_Worldbuilding/LORE0065_History_of_the_Dragon_Wars.md"
+    },
+    "Investigation Procedures": {
+      "path": "02_Worldbuilding/Investigation Procedures.md"
+    },
+    "Travel Calculator 2": {
+      "path": "02_Worldbuilding/Travel Calculator 2.md"
+    },
+    "Deputy Inspector Crystal-Flow Maria 2": {
+      "path": "02_Worldbuilding/Deputy Inspector Crystal-Flow Maria 2.md"
+    },
+    "The Living Tools": {
+      "path": "02_Worldbuilding/The Living Tools.md"
+    },
+    "Locations the Quarantine Zones": {
+      "path": "02_Worldbuilding/Locations the Quarantine Zones.md"
+    },
+    "spirit-statue-mascot-scc": {
+      "path": "02_Worldbuilding/spirit-statue-mascot-scc.md"
+    },
+    "Ritual Redirection Options 2": {
+      "path": "02_Worldbuilding/Ritual Redirection Options 2.md"
+    },
+    "Princess Celestine Lumengarde 2": {
+      "path": "02_Worldbuilding/Princess Celestine Lumengarde 2.md"
+    },
+    "2d20kh1": {
+      "path": "02_Worldbuilding/2d20kh1.md"
+    },
+    "02_Worldbuilding_Tactics_Acoustic_Masking": {
+      "path": "02_Worldbuilding/02_Worldbuilding_Tactics_Acoustic_Masking.md"
+    },
+    "Economic System Rules (02_Worldbuilding)": {
+      "path": "02_Worldbuilding/Economic System Rules (02_Worldbuilding).md"
+    },
+    "The Surface Integration Initiative 2": {
+      "path": "02_Worldbuilding/The Surface Integration Initiative 2.md"
+    },
+    "Lieutenant Marcus 2": {
+      "path": "02_Worldbuilding/Lieutenant Marcus 2.md"
+    },
+    "Aquabyssos Navy 2": {
+      "path": "02_Worldbuilding/Aquabyssos Navy 2.md"
+    },
+    "Aquabyssos World Overview#The Great Drowning": {
+      "path": "02_Worldbuilding/Aquabyssos World Overview#The Great Drowning.md"
+    },
+    "Prophetic_Circle (02_Worldbuilding)": {
+      "path": "02_Worldbuilding/Prophetic_Circle (02_Worldbuilding).md"
+    },
+    "Government Seal of Authority": {
+      "path": "02_Worldbuilding/Government Seal of Authority.md"
+    },
+    "Student Engineer Bronze 2": {
+      "path": "02_Worldbuilding/Student Engineer Bronze 2.md"
+    },
+    "High Warden Seraphiel Dawnforge": {
+      "path": "02_Worldbuilding/High Warden Seraphiel Dawnforge.md"
+    },
+    "The Kelp Gardens": {
+      "path": "02_Worldbuilding/The Kelp Gardens.md"
+    },
+    "The Negotiation Void 2": {
+      "path": "02_Worldbuilding/The Negotiation Void 2.md"
+    },
+    "The Paradox Engine 2": {
+      "path": "02_Worldbuilding/The Paradox Engine 2.md"
+    },
+    "Dataview Query Guide 2": {
+      "path": "02_Worldbuilding/Dataview Query Guide 2.md"
+    },
+    "The Watched": {
+      "path": "02_Worldbuilding/The Watched.md"
+    },
+    "LORE0028_Myth_of_the_Dark_Times": {
+      "path": "02_Worldbuilding/LORE0028_Myth_of_the_Dark_Times.md"
+    },
+    "The Umbral Medical Academy": {
+      "path": "02_Worldbuilding/The Umbral Medical Academy.md"
+    },
+    "Hadal Zone 2": {
+      "path": "02_Worldbuilding/Hadal Zone 2.md"
+    },
+    "The Sunken Bazaar 2": {
+      "path": "02_Worldbuilding/The Sunken Bazaar 2.md"
+    },
+    "Goldwave Trading Empire": {
+      "path": "02_Worldbuilding/Goldwave Trading Empire.md"
+    },
+    "The Spire of Courage 2": {
+      "path": "02_Worldbuilding/The Spire of Courage 2.md"
+    },
+    "LORE0088_Myth_of_the_First_King": {
+      "path": "02_Worldbuilding/LORE0088_Myth_of_the_First_King.md"
+    },
+    "Chaos-Echo Discord Mindmelter": {
+      "path": "02_Worldbuilding/Chaos-Echo Discord Mindmelter.md"
+    },
+    "Introduction-Overview": {
+      "path": "02_Worldbuilding/Introduction-Overview.md"
+    },
+    "Related content": {
+      "path": "02_Worldbuilding/Related content.md"
+    },
+    "Session 01-Session 1- The Beginning": {
+      "path": "02_Worldbuilding/Session 01-Session 1- The Beginning.md"
+    },
+    "05 Templates-05 Templates": {
+      "path": "02_Worldbuilding/05 Templates-05 Templates.md"
+    },
+    "Session 1 Shadows in the Senate-Session 1": {
+      "path": "02_Worldbuilding/Session 1 Shadows in the Senate-Session 1.md"
+    },
+    "Void Texts": {
+      "path": "02_Worldbuilding/Lore/Void Texts.md"
+    },
+    "Memory Palace of the Deep Mother": {
+      "path": "02_Worldbuilding/Lore/Memory Palace of the Deep Mother.md"
+    },
+    "Dock Mistress Marina Saltwind": {
+      "path": "02_Worldbuilding/Lore/Dock Mistress Marina Saltwind.md"
+    },
+    "Information Broker Selan": {
+      "path": "02_Worldbuilding/Lore/Information Broker Selan.md"
+    },
+    "The Neutral Waters 2": {
+      "path": "02_Worldbuilding/Lore/The Neutral Waters 2.md"
+    },
+    "Elemental_Air_Filter": {
+      "path": "02_Worldbuilding/Lore/Elemental_Air_Filter.md"
+    },
+    "Security Chief Marcus Allguard 2": {
+      "path": "02_Worldbuilding/Lore/Security Chief Marcus Allguard 2.md"
+    },
+    "Commander Darkwater 2": {
+      "path": "02_Worldbuilding/Lore/Commander Darkwater 2.md"
+    },
+    "LORE0048_Myth_of_the_First_King": {
+      "path": "02_Worldbuilding/Lore/LORE0048_Myth_of_the_First_King.md"
+    },
+    "Deep Current Academy": {
+      "path": "02_Worldbuilding/Lore/Deep Current Academy.md"
+    },
+    "Academy of Foundational Inquiry": {
+      "path": "02_Worldbuilding/Lore/Academy of Foundational Inquiry.md"
+    },
+    "Update Indexes": {
+      "path": "02_Worldbuilding/Lore/Update Indexes.md"
+    },
+    "Master Harvest Engineer Kelp Deepso 2": {
+      "path": "02_Worldbuilding/Lore/Master Harvest Engineer Kelp Deepso 2.md"
+    }
+  },
+  "quests": {},
+  "items": {}
+}

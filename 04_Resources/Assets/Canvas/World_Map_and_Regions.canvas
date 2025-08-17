@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {"id":"m_root","type":"file","file":"04_Resources/Maps/Aquabyssos_World_Map.md","x":0,"y":0,"width":480,"height":180},
+    {"id":"m_layers","type":"file","file":"04_Resources/Assets/Maps/World_Map_Layers.md","x":520,"y":0,"width":420,"height":160},
+    {"id":"m_places","type":"file","file":"02_Worldbuilding/Places/","x":-560,"y":-40,"width":360,"height":160},
+    {"id":"m_regions","type":"text","text":"Region anchors (Prime, Shadow Market, Maelstrom Palace, etc.)\nUse consistent map markers linking to place notes.","x":0,"y":240,"width":680,"height":160},
+    {"id":"m_bmaps","type":"file","file":"04_Resources/Assets/Maps/Battle_Map_Descriptions.md","x":520,"y":240,"width":420,"height":160}
+  ],
+  "edges": [
+    {"id":"me1","fromNode":"m_root","toNode":"m_layers","label":"overlay sets"},
+    {"id":"me2","fromNode":"m_root","toNode":"m_places","label":"marker → note"},
+    {"id":"me3","fromNode":"m_layers","toNode":"m_bmaps","label":"encounter sites"}
+  ]
+}
+
+

@@ -1,0 +1,19 @@
+{
+  "name": "Kelp Forests",
+  "type": "map",
+  "generated": "2025-08-15T18:17:59.069Z",
+  "prompt": "fantasy map of Kelp Forests, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical",
+    "forest"
+  ],
+  "location": "04_Resources/Assets/Maps/Kelp Forests.png.json",
+  "reorganized": "2025-08-15T18:33:02.480Z"
+}

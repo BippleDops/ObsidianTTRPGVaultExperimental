@@ -1,0 +1,25 @@
+{
+  "title": "02_Worldbuilding/People/Guildmaster Victoria Silvertongue",
+  "prompt": "portrait of 02 worldbuilding/people/guildmaster victoria silvertongue, highly detailed portrait, professional digital art, concept art, artstation quality, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, dramatic lighting, rim lighting, volumetric lighting, 8k resolution, hyperdetailed, masterpiece, award winning",
+  "negative": "blurry, low quality, amateur, distorted face, extra limbs, bad anatomy, poorly drawn",
+  "settings": {
+    "width": 512,
+    "height": 768,
+    "steps": 25,
+    "cfg": 7.5
+  },
+  "generated": "2025-08-14T23:19:07.476Z",
+  "sourceFile": "/02_Worldbuilding/Groups/02_Worldbuilding/People/Guildmaster Victoria Silvertongue.md",
+  "tags": [
+    "portrait",
+    "character-art",
+    "npc-image",
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Portraits/02_worldbuilding_people_guildmaster_victoria_silvertongue.json",
+  "reorganized": "2025-08-15T18:33:07.629Z"
+}

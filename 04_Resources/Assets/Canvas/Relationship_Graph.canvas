@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"npc_vex","type":"text","x":100,"y":80,"width":240,"height":60,"text":"Vex Shadowthorn","color":"1"},
+		{"id":"faction_smug","type":"text","x":420,"y":80,"width":260,"height":60,"text":"Shadowhaven Smugglers Ring","color":"2"},
+		{"id":"loc_port","type":"text","x":260,"y":220,"width":220,"height":60,"text":"Port Meridian","color":"3"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"npc_vex","fromSide":"right","toNode":"faction_smug","toSide":"left","label":"Leader"},
+		{"id":"e2","fromNode":"npc_vex","fromSide":"bottom","toNode":"loc_port","toSide":"top","label":"Operates in"}
+	],
+	"version":"1.0.0"
+}

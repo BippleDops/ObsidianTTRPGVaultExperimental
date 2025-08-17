@@ -1,0 +1,32 @@
+{
+  "id": "creature-aerisi-kalinoth-pota",
+  "type": "creature",
+  "name": "aerisi-kalinoth-pota",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Illustration of aerisi-kalinoth-pota, highlight musculature and unique limbs, include human silhouette, three-color palette, underwater/sky/merged zone, depict motion, detailed concept art, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 2002,
+  "alt_text": "Concept art of aerisi-kalinoth-pota with anatomy, scale, and environment.",
+  "realm": "aquabyssos",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Imagine a scene set in a grounded medieval-fantasy version of a tabletop game. In this frame, a heroic non-human figure, athletic and endowed with unique limbs, dons culturally coherent gear made from materials akin to those in the medieval period. Neither modern tech nor signage marks the scene. Adhere to a consistent painterly style - a style common before 1912. The image includes the silhouette of a human for comparison to the unique proportions of the hero. The entire spectrum of the art utilizes only three primary hues: deep blues, teals, and sea-greens with a pearlescent highlight. The backdrop is a mesmerizing fusion of sky and underwater elements. Detail the scene to mimic the concept art found in game books. Enhancements such as water refractions (subsurface caustics) and bioluminescent accents aesthetically blend with the aquatic flavor. Material resembling those used for constructing underwater pressure domes cover some parts of the scene. Refrain from adding modern elements such as sci-fi UIs, modern signage, photoreal CGI, anime style, or bloom glare. Additionally, avoid the use of embedded text or words, unless specified. All symbols must have meaning; if they do not, apply numbered pins instead.",
+  "file": "04_Resources/Assets/Creatures/creature-creature-aerisi-kalinoth-pota-aerisi-kalinoth-pota.png"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "token",
+  "generated": "2025-08-15T02:48:26.020Z",
+  "metadata": {
+    "name": "Agent Whisper Voidheart",
+    "size": "medium",
+    "state": "normal",
+    "border": "faction_themed"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

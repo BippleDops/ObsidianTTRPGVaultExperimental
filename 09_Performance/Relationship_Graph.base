@@ -1,0 +1,45 @@
+formulas:
+  Degree: |
+    js:
+    const rels = target.relationships || [];
+    return rels.length;
+  Allies: |
+    js:
+    const rels = (target.relationships||[]).filter(r=>r.relationship_type==='Ally');
+    return rels.map(r=>`[[${r.target}]]`).join(', ');
+  Enemies: |
+    js:
+    const rels = (target.relationships||[]).filter(r=>r.relationship_type==='Enemy');
+    return rels.map(r=>`[[${r.target}]]`).join(', ');
+
+views:
+  - type: table
+    name: Most Connected
+    columns:
+      - entity_name
+      - entity_type
+      - formula.Degree
+      - primary_faction
+      - cluster_group
+    sort:
+      - property: formula.Degree
+        direction: DESC
+    columnSize:
+      entity_name: 200
+      entity_type: 120
+      formula.Degree: 100
+      primary_faction: 160
+      cluster_group: 140
+
+  - type: table
+    name: Allies & Enemies
+    columns:
+      - entity_name
+      - formula.Allies
+      - formula.Enemies
+    columnSize:
+      entity_name: 220
+      formula.Allies: 300
+      formula.Enemies: 300
+
+

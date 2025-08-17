@@ -1,0 +1,46 @@
+{
+  "name": "Battle Map 139",
+  "type": "map",
+  "mapType": "battle",
+  "gridSize": "25x25",
+  "scale": "5ft per square",
+  "tags": [
+    "map",
+    "battle",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 41.48887345207755,
+      "y": 38.36579820012045,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 2",
+      "x": 26.88688499140257,
+      "y": 81.66247390267333,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 3",
+      "x": 79.5143324651964,
+      "y": 74.67933640039345,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 4",
+      "x": 51.69567422395885,
+      "y": 14.283978057609403,
+      "type": "city"
+    },
+    {
+      "name": "Location 5",
+      "x": 10.225726983948814,
+      "y": 40.49166915487407,
+      "type": "city"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.619Z"
+}

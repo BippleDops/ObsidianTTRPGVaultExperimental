@@ -1,0 +1,22 @@
+{
+  "title": "02_Worldbuilding/Groups/The Inter-Realm Marriage Guil",
+  "prompt": "02 worldbuilding/groups/the inter-realm marriage guil, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:25:04.002Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Groups/The Inter-Realm Marriage Guil.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/02_worldbuilding_groups_the_inter_realm_marriage_guil.json",
+  "reorganized": "2025-08-15T18:33:03.925Z"
+}

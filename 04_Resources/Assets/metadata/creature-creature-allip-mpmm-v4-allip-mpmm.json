@@ -1,0 +1,32 @@
+{
+  "id": "creature-allip-mpmm-v4",
+  "type": "creature",
+  "name": "allip-mpmm",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Illustration of allip-mpmm, highlight musculature and unique limbs, include human silhouette, three-color palette, underwater/sky/merged zone, depict motion, detailed concept art, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "hard noon",
+  "mood": "melancholic",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7015,
+  "alt_text": "Concept art of allip-mpmm with anatomy, scale, and environment.",
+  "realm": "aquabyssos",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Illustration of an alluring mythical creature with unique limb structure and highlighted musculature. The creature appears against a human silhouette, effectively comparing their sizes, in a three-color palette of teals, deep blues, and sea-greens, with pearl highlights. Set the scene in an enigmatic zone that merges the underwater realm with the sky. The art style is a consistent painterly collection style emphasizing detailed concept art and aquatic fantasy realism. Subsurface caustics add a touch of authenticity to the setting, merging seamlessly with bioluminescent accents and materials depicting pressure-dome structures. Refrain from the inclusion of modern tech, signage, sci-fi UIs, photoreal CGI, anime style, or bloom glare. All elements in the scene must depict motion, adding to the overall dynamism and vitality of the composition. Ensure all symbols used are meaningful, avoiding gibberish strings and random letters.",
+  "file": "04_Resources/Assets/Creatures/creature-creature-allip-mpmm-v4-allip-mpmm.png"
+}

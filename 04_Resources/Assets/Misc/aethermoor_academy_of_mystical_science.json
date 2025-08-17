@@ -1,0 +1,24 @@
+{
+  "title": "Aethermoor Academy of Mystical Science",
+  "prompt": "Aethermoor academy of mystical science, steampunk, Victorian, floating islands, airships, clockwork, brass, copper, sky blue, clouds, steam, golden sunlight",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:33:19.425Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Academies/Aethermoor Academy of Mystical Science.md",
+  "tags": [
+    "generated",
+    "aethermoor",
+    "sky",
+    "aerial",
+    "ethereal",
+    "mystical",
+    "otherworldly"
+  ],
+  "location": "04_Resources/Assets/Misc/aethermoor_academy_of_mystical_science.json",
+  "reorganized": "2025-08-15T18:33:07.316Z"
+}

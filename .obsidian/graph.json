@@ -1,0 +1,38 @@
+{
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#aquabyssos",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#aethermoor",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#both-worlds",
+      "color": {
+        "a": 1,
+        "rgb": 5395237
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-forces": false,
+  "centerStrength": 0.3,
+  "repelStrength": 8,
+  "linkStrength": 0.7,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": true
+}

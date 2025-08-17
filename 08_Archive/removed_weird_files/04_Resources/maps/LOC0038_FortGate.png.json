@@ -1,0 +1,18 @@
+{
+  "name": "LOC0038_FortGate",
+  "type": "map",
+  "generated": "2025-08-15T18:18:00.428Z",
+  "prompt": "fantasy map of LOC0038_FortGate, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/LOC0038_FortGate.png.json",
+  "reorganized": "2025-08-15T18:33:03.232Z"
+}

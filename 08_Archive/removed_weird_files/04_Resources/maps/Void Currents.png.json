@@ -1,0 +1,18 @@
+{
+  "name": "Void Currents",
+  "type": "map",
+  "generated": "2025-08-15T18:18:31.212Z",
+  "prompt": "fantasy map of Void Currents, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Void Currents.png.json",
+  "reorganized": "2025-08-15T18:33:03.777Z"
+}

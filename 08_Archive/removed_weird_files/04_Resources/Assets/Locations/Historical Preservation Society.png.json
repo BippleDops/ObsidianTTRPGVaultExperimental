@@ -1,0 +1,18 @@
+{
+  "name": "Historical Preservation Society",
+  "type": "location",
+  "generated": "2025-08-15T18:17:56.702Z",
+  "prompt": "fantasy landscape called Historical Preservation Society, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Historical Preservation Society.png.json",
+  "reorganized": "2025-08-15T18:32:59.680Z"
+}

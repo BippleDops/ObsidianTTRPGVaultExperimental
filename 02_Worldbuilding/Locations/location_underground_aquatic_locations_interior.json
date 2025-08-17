@@ -1,0 +1,10 @@
+{
+  "type": "location_variant",
+  "generated": "2025-08-15T02:48:25.961Z",
+  "metadata": {
+    "name": "#Underground & Aquatic Locations",
+    "variant": "interior"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

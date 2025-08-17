@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Quest - Hearts and Minds.md",
+      "x": 0,
+      "y": 0,
+      "width": 460,
+      "height": 140
+    },
+    {
+      "id": "n_02-worldbuilding-places-aethermoor-md_300",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Aethermoor.md",
+      "x": -520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-captain-thalia-stormguard-md_220",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Captain Thalia Stormguard.md",
+      "x": 0,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-skyborn-academy-of-aerial-arts-md_740",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/Skyborn Academy of Aerial Arts.md",
+      "x": 520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-lord-aldric-highwind-md_120",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Lord Aldric Highwind.md",
+      "x": -520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-lord-admiral-gaius-windcutter-md_400",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Lord Admiral Gaius Windcutter.md",
+      "x": 0,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-purist-coalition-md_920",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/Purist Coalition.md",
+      "x": 520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-groups-the-shadow-war-coalition-md_60",
+      "type": "file",
+      "file": "02_Worldbuilding/Groups/The Shadow War Coalition.md",
+      "x": -520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-quest-diplomatic-immunity-md_580",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Quest - Diplomatic Immunity.md",
+      "x": 0,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-aethermoor-md_300"
+    },
+    {
+      "id": "e_1",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-captain-thalia-stormguard-md_220"
+    },
+    {
+      "id": "e_2",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-skyborn-academy-of-aerial-arts-md_740"
+    },
+    {
+      "id": "e_3",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-lord-aldric-highwind-md_120"
+    },
+    {
+      "id": "e_4",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-lord-admiral-gaius-windcutter-md_400"
+    },
+    {
+      "id": "e_5",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-purist-coalition-md_920"
+    },
+    {
+      "id": "e_6",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-groups-the-shadow-war-coalition-md_60"
+    },
+    {
+      "id": "e_7",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-quest-diplomatic-immunity-md_580"
+    }
+  ]
+}

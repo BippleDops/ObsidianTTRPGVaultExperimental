@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/The Green Death.md",
+      "x": 0,
+      "y": 0,
+      "width": 460,
+      "height": 140
+    },
+    {
+      "id": "n_02-worldbuilding-people-sorrow-root-nightbloom-md_300",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Sorrow-Root Nightbloom.md",
+      "x": -520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-the-synthesis-gardens-md_220",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/The Synthesis Gardens.md",
+      "x": 0,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-archdruid-thornweaver-md_740",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Archdruid Thornweaver.md",
+      "x": 520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-sir-marcus-dawnforge-md_120",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Sir Marcus Dawnforge.md",
+      "x": -520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-aether-crystals-md_400",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Aether Crystals.md",
+      "x": 0,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-ambassador-korvin-blacktide-md_920",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Ambassador Korvin Blacktide.md",
+      "x": 520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-zephyr-goldwhisper-md_60",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Zephyr Goldwhisper.md",
+      "x": -520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-high-inquisitor-maltheos-md_580",
+      "type": "file",
+      "file": "02_Worldbuilding/People/High Inquisitor Maltheos.md",
+      "x": 0,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-the-crimson-sage-md_1100",
+      "type": "file",
+      "file": "02_Worldbuilding/People/The Crimson Sage.md",
+      "x": 520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-goldspire-port-md_240",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Goldspire Port.md",
+      "x": -520,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-lore-the-seven-shards-md_760",
+      "type": "file",
+      "file": "02_Worldbuilding/Lore/The Seven Shards.md",
+      "x": 0,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-aquabyssos-md_1280",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Aquabyssos.md",
+      "x": 520,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-goldspire-confederacy-md_420",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Goldspire Confederacy.md",
+      "x": -520,
+      "y": 940,
+      "width": 380,
+      "height": 120
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-sorrow-root-nightbloom-md_300"
+    },
+    {
+      "id": "e_1",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-the-synthesis-gardens-md_220"
+    },
+    {
+      "id": "e_2",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-archdruid-thornweaver-md_740"
+    },
+    {
+      "id": "e_3",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-sir-marcus-dawnforge-md_120"
+    },
+    {
+      "id": "e_4",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-aether-crystals-md_400"
+    },
+    {
+      "id": "e_5",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-ambassador-korvin-blacktide-md_920"
+    },
+    {
+      "id": "e_6",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-zephyr-goldwhisper-md_60"
+    },
+    {
+      "id": "e_7",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-high-inquisitor-maltheos-md_580"
+    },
+    {
+      "id": "e_8",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-the-crimson-sage-md_1100"
+    },
+    {
+      "id": "e_9",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-goldspire-port-md_240"
+    },
+    {
+      "id": "e_10",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-lore-the-seven-shards-md_760"
+    },
+    {
+      "id": "e_11",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-aquabyssos-md_1280"
+    },
+    {
+      "id": "e_12",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-goldspire-confederacy-md_420"
+    }
+  ]
+}

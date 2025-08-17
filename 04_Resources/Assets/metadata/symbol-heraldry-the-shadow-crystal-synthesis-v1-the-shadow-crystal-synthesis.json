@@ -1,0 +1,34 @@
+{
+  "id": "heraldry-the-shadow-crystal-synthesis-v1",
+  "type": "symbol",
+  "name": "The Shadow-Crystal Synthesis",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Shadow-Crystal Synthesis, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "mysterious",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7010,
+  "alt_text": "Heraldic emblem for The Shadow-Crystal Synthesis.",
+  "realm": "aquabyssos",
+  "palette": "deep blues",
+  "textPolicy": "no words or inscriptions; pure iconography",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create a painterly-style, medieval-fantasy image featuring a heroic tabletop fantasy setting. The scene should include culturally coherent gear with no modern tech. A central feature should be the Heraldic emblem of The Shadow-Crystal Synthesis, comprised of simple geometric designs and 2-3 motifs tied to the identity of the emblem. There should also be variations of this emblem in the forms of a seal, a banner, and a coin. The color palette should lean towards aquatic themes, with teals, deep blues, sea-greens and pearl highlights. The scene should also include elements of underwater beauty such as subsurface caustics and bioluminescent accents. Please maintain a high resolution and avoid any text, symbols, or numbers unless specifically declared, and stay away from styles associated with modernity, such as sci-fi UI, modern signage, photoreal CGI, and anime.",
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-crystal-synthesis-v1-the-shadow-crystal-synthesis.png"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Boss_Arena",
+  "type": "battle",
+  "environment": "throne_room",
+  "variant": "weather",
+  "size": "30x30",
+  "gridSize": 5,
+  "gridType": "square",
+  "features": [
+    "throne",
+    "pillars",
+    "carpet",
+    "braziers"
+  ],
+  "lighting": "normal",
+  "generated": "2025-08-15T02:48:39.210Z",
+  "placeholder": true,
+  "generationRules": {}
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Courier Ripplestone",
+  "type": "location",
+  "generated": "2025-08-15T18:17:17.814Z",
+  "prompt": "fantasy landscape called Courier Ripplestone, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Courier Ripplestone.png.json",
+  "reorganized": "2025-08-15T18:32:59.502Z"
+}

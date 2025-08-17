@@ -1,0 +1,76 @@
+{
+  "name": "World Map 350",
+  "type": "map",
+  "mapType": "world",
+  "gridSize": null,
+  "scale": "1:10000000",
+  "tags": [
+    "map",
+    "world",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 30.808102532814218,
+      "y": 87.54894692891546,
+      "type": "city"
+    },
+    {
+      "name": "Location 2",
+      "x": 79.72292921625319,
+      "y": 45.55355981534911,
+      "type": "town"
+    },
+    {
+      "name": "Location 3",
+      "x": 67.54235318426156,
+      "y": 98.86122604713759,
+      "type": "town"
+    },
+    {
+      "name": "Location 4",
+      "x": 96.80867712446586,
+      "y": 48.39613922522393,
+      "type": "city"
+    },
+    {
+      "name": "Location 5",
+      "x": 41.69364237592291,
+      "y": 39.9874347257599,
+      "type": "town"
+    },
+    {
+      "name": "Location 6",
+      "x": 44.93857605189071,
+      "y": 52.382863876889786,
+      "type": "city"
+    },
+    {
+      "name": "Location 7",
+      "x": 84.64677708034223,
+      "y": 95.05149298756808,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 8",
+      "x": 49.43572578112298,
+      "y": 17.650662412107852,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 9",
+      "x": 48.75606188779906,
+      "y": 48.65647227618536,
+      "type": "city"
+    },
+    {
+      "name": "Location 10",
+      "x": 58.60186757123698,
+      "y": 4.8667372890701,
+      "type": "town"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.715Z"
+}

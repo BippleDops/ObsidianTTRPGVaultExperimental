@@ -1,0 +1,29 @@
+{
+  "id": "npc-quest-nature",
+  "type": "portrait",
+  "name": "Quest - Nature",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Portrait of Quest - Nature, notable figure of Aquabyssos/Aethermoor, human, adult, realm-specific attire, character-driven emotion, memorable traits, signature environment, painterly fantasy realism, consistent collection style, readable at small sizes, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, painterly character emphasis, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "style": [
+    "painterly",
+    "fantasy realism"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 2014,
+  "alt_text": "Portrait of Quest - Nature with evocative background; clear features readable at token size.",
+  "realm": "aquabyssos",
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-nature-quest-nature.svg"
+}

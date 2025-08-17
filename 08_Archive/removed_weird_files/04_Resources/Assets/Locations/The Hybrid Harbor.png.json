@@ -1,0 +1,18 @@
+{
+  "name": "The Hybrid Harbor",
+  "type": "location",
+  "generated": "2025-08-15T18:18:24.592Z",
+  "prompt": "fantasy landscape called The Hybrid Harbor, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/The Hybrid Harbor.png.json",
+  "reorganized": "2025-08-15T18:33:01.039Z"
+}

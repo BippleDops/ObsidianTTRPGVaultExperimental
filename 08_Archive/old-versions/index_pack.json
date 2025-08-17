@@ -1,0 +1,702 @@
+[
+  {
+    "name": "aquabyssos_Underwater_v001",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v001.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Harbor_v002",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Harbor_v002.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Reef_v003",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Reef_v003.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_DeepTrench_v004",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_DeepTrench_v004.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Temple_v005",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Temple_v005.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Lighthouse_v006",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Lighthouse_v006.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Geyser_v007",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Geyser_v007.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_KelpForest_v008",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_KelpForest_v008.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Underwater_v009",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v009.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Harbor_v010",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Harbor_v010.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Reef_v011",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Reef_v011.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_DeepTrench_v012",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_DeepTrench_v012.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Temple_v013",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Temple_v013.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Lighthouse_v014",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Lighthouse_v014.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Geyser_v015",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Geyser_v015.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_KelpForest_v016",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_KelpForest_v016.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Underwater_v017",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v017.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Harbor_v018",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Harbor_v018.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Reef_v019",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Reef_v019.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_DeepTrench_v020",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_DeepTrench_v020.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Temple_v021",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Temple_v021.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Lighthouse_v022",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Lighthouse_v022.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Geyser_v023",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Geyser_v023.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_KelpForest_v024",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_KelpForest_v024.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Underwater_v025",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v025.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Harbor_v026",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Harbor_v026.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Reef_v027",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Reef_v027.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_DeepTrench_v028",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_DeepTrench_v028.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Temple_v029",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Temple_v029.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Lighthouse_v030",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Lighthouse_v030.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Geyser_v031",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Geyser_v031.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_KelpForest_v032",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_KelpForest_v032.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Underwater_v033",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v033.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Harbor_v034",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Harbor_v034.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Reef_v035",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Reef_v035.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_DeepTrench_v036",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_DeepTrench_v036.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Temple_v037",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Temple_v037.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Lighthouse_v038",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Lighthouse_v038.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Geyser_v039",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Geyser_v039.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_KelpForest_v040",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_KelpForest_v040.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Underwater_v041",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v041.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Harbor_v042",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Harbor_v042.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Reef_v043",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Reef_v043.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_DeepTrench_v044",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_DeepTrench_v044.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Temple_v045",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Temple_v045.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Lighthouse_v046",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Lighthouse_v046.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Geyser_v047",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Geyser_v047.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_KelpForest_v048",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_KelpForest_v048.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Underwater_v049",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v049.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aquabyssos_Harbor_v050",
+    "file": "04_Resources/Assets/Audio/Generated/aquabyssos_Harbor_v050.wav",
+    "realm": "aquabyssos",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Airship_v001",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Airship_v001.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_SkyDock_v002",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_SkyDock_v002.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_EngineRoom_v003",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_EngineRoom_v003.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Storm_v004",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Storm_v004.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Sails_v005",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Sails_v005.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Brassworks_v006",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Brassworks_v006.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Airship_v007",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Airship_v007.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_SkyDock_v008",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_SkyDock_v008.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_EngineRoom_v009",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_EngineRoom_v009.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Storm_v010",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Storm_v010.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Sails_v011",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Sails_v011.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Brassworks_v012",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Brassworks_v012.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Airship_v013",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Airship_v013.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_SkyDock_v014",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_SkyDock_v014.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_EngineRoom_v015",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_EngineRoom_v015.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Storm_v016",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Storm_v016.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Sails_v017",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Sails_v017.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Brassworks_v018",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Brassworks_v018.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Airship_v019",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Airship_v019.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_SkyDock_v020",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_SkyDock_v020.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_EngineRoom_v021",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_EngineRoom_v021.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Storm_v022",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Storm_v022.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Sails_v023",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Sails_v023.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Brassworks_v024",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Brassworks_v024.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Airship_v025",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Airship_v025.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_SkyDock_v026",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_SkyDock_v026.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_EngineRoom_v027",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_EngineRoom_v027.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Storm_v028",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Storm_v028.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Sails_v029",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Sails_v029.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Brassworks_v030",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Brassworks_v030.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Airship_v031",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Airship_v031.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_SkyDock_v032",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_SkyDock_v032.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_EngineRoom_v033",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_EngineRoom_v033.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Storm_v034",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Storm_v034.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Sails_v035",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Sails_v035.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Brassworks_v036",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Brassworks_v036.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Airship_v037",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Airship_v037.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_SkyDock_v038",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_SkyDock_v038.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_EngineRoom_v039",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_EngineRoom_v039.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Storm_v040",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Storm_v040.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Sails_v041",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Sails_v041.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Brassworks_v042",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Brassworks_v042.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Airship_v043",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Airship_v043.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_SkyDock_v044",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_SkyDock_v044.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_EngineRoom_v045",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_EngineRoom_v045.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Storm_v046",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Storm_v046.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Sails_v047",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Sails_v047.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Brassworks_v048",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Brassworks_v048.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_Airship_v049",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_Airship_v049.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  },
+  {
+    "name": "aethermoor_SkyDock_v050",
+    "file": "04_Resources/Assets/Audio/Generated/aethermoor_SkyDock_v050.wav",
+    "realm": "aethermoor",
+    "seconds": 45,
+    "sampleRate": 44100
+  }
+]

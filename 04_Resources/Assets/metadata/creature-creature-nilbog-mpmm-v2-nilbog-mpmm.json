@@ -1,0 +1,29 @@
+{
+  "id": "creature-nilbog-mpmm-v2",
+  "type": "creature",
+  "name": "nilbog-mpmm",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Illustration of nilbog-mpmm, highlight musculature and unique limbs, include human silhouette, three-color palette, underwater/sky/merged zone, depict motion, detailed concept art, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "rim-lit",
+  "mood": "solemn",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 9883,
+  "alt_text": "Concept art of nilbog-mpmm with anatomy, scale, and environment.",
+  "realm": "aquabyssos",
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Creatures/creature-creature-nilbog-mpmm-v2-nilbog-mpmm.svg"
+}

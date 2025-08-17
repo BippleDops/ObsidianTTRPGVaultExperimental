@@ -1,0 +1,18 @@
+{
+  "name": "The Tidecaller",
+  "type": "token",
+  "generated": "2025-08-15T18:16:27.427Z",
+  "prompt": "character token for The Tidecaller, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Tokens/The Tidecaller.png.json",
+  "reorganized": "2025-08-15T18:33:12.060Z"
+}

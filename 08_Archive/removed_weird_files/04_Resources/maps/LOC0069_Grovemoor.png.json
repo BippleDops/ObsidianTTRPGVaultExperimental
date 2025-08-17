@@ -1,0 +1,18 @@
+{
+  "name": "LOC0069_Grovemoor",
+  "type": "map",
+  "generated": "2025-08-15T18:18:01.254Z",
+  "prompt": "fantasy map of LOC0069_Grovemoor, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/LOC0069_Grovemoor.png.json",
+  "reorganized": "2025-08-15T18:33:03.248Z"
+}

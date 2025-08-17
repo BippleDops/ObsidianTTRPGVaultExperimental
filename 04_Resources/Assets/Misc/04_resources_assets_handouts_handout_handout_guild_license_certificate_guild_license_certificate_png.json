@@ -1,0 +1,22 @@
+{
+  "title": "04_Resources/Assets/Handouts/handout-handout-guild-license-certificate-guild-license-certificate.png",
+  "prompt": "04 resources/assets/handouts/handout-handout-guild-license-certificate-guild-license-certificate.png, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:29:27.074Z",
+  "sourceFile": "/02_Worldbuilding/Groups/04_Resources/Assets/Handouts/Handout Handout Guild License Certificate Guild License Certificate.png.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/04_resources_assets_handouts_handout_handout_guild_license_certificate_guild_license_certificate_png.json",
+  "reorganized": "2025-08-15T18:33:03.986Z"
+}

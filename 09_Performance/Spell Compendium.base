@@ -1,0 +1,215 @@
+formulas:
+  LevelIndicator: |
+    js:
+    const level = target.level;
+    if (level === 0 || level === "0") return "Cantrip";
+    if (level >= 1 && level <= 9) return `Level ${level}`;
+    return "Unknown";
+  SchoolIcon: |
+    js:
+    const school = (target.school || "").toLowerCase();
+    const icons = {
+      'abjuration': '🛡️',
+      'conjuration': '✨',
+      'divination': '👁️',
+      'enchantment': '💝',
+      'evocation': '🔥',
+      'illusion': '🎭',
+      'necromancy': '💀',
+      'transmutation': '🔄'
+    };
+    return icons[school] || '❓';
+  ClassList: |
+    js:
+    const classes = target.classes || [];
+    if (Array.isArray(classes)) {
+      return classes.join(", ");
+    }
+    return classes.toString();
+  ComponentsDisplay: |
+    js:
+    const comp = [];
+    const c = target.components || {};
+    if (c.v) comp.push("V");
+    if (c.s) comp.push("S");
+    if (c.m) comp.push("M");
+    return comp.join(", ") || "None";
+  CastTimeShort: |
+    js:
+    const time = target.castingTime || "";
+    if (time.includes("action")) return "Action";
+    if (time.includes("bonus")) return "Bonus";
+    if (time.includes("reaction")) return "Reaction";
+    if (time.includes("minute")) return time;
+    if (time.includes("hour")) return time;
+    return "Special";
+  ConcentrationIcon: |
+    js:
+    return target.concentration ? "🎯" : "";
+  RitualIcon: |
+    js:
+    return target.ritual ? "📜" : "";
+views:
+  - type: table
+    name: All Spells
+    filters:
+      and:
+        - path includes "CLI/spells"
+    columns:
+      - file.name
+      - level
+      - school
+      - classes
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    limit: 300
+    columnSize:
+      file.name: 200
+      level: 60
+      school: 120
+      classes: 200
+  - type: table
+    name: By Level
+    filters:
+      and:
+        - path includes "CLI/spells"
+        - level == {{level}}
+    columns:
+      - file.name
+      - school
+      - classes
+      - castingTime
+      - components
+      - concentration
+      - ritual
+    sort:
+      - property: file.name
+        direction: ASC
+    pageSize: 50
+    parameters:
+      level:
+        type: select
+        options:
+          - label: Cantrips
+            value: 0
+          - label: 1st Level
+            value: 1
+          - label: 2nd Level
+            value: 2
+          - label: 3rd Level
+            value: 3
+          - label: 4th Level
+            value: 4
+          - label: 5th Level
+            value: 5
+          - label: 6th Level
+            value: 6
+          - label: 7th Level
+            value: 7
+          - label: 8th Level
+            value: 8
+          - label: 9th Level
+            value: 9
+    columnSize:
+      file.name: 200
+      school: 100
+      classes: 200
+      castingTime: 100
+      components: 100
+      concentration: 80
+      ritual: 60
+  - type: table
+    name: By Class
+    filters:
+      and:
+        - path includes "CLI/spells"
+        - classes contains "{{class}}"
+    columns:
+      - level
+      - file.name
+      - school
+      - castingTime
+      - concentration
+      - ritual
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    pageSize: 50
+    parameters:
+      class:
+        type: select
+        options:
+          - Artificer
+          - Bard
+          - Cleric
+          - Druid
+          - Paladin
+          - Ranger
+          - Sorcerer
+          - Warlock
+          - Wizard
+  - type: table
+    name: Ritual Spells
+    filters:
+      and:
+        - path includes "CLI/spells"
+        - ritual
+    columns:
+      - level
+      - file.name
+      - school
+      - classes
+      - castingTime
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Concentration Spells
+    filters:
+      and:
+        - path includes "CLI/spells"
+        - concentration
+    columns:
+      - level
+      - file.name
+      - school
+      - classes
+      - duration
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    pageSize: 50
+  - type: table
+    name: Spell Search
+    filters:
+      and:
+        - path includes "CLI/spells"
+  - type: table
+    name: All (Debug)
+
+    columns:
+      - file.name
+      - level
+      - school
+      - classes
+      - tags
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      level: 60
+      school: 120
+      classes: 200
+      tags: 200

@@ -1,0 +1,18 @@
+{
+  "name": "Healer Elena Mindmender",
+  "type": "location",
+  "generated": "2025-08-15T18:17:56.186Z",
+  "prompt": "fantasy landscape called Healer Elena Mindmender, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Healer Elena Mindmender.png.json",
+  "reorganized": "2025-08-15T18:32:59.672Z"
+}

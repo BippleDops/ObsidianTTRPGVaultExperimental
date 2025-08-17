@@ -1,0 +1,23 @@
+{
+  "nodes": [
+    {"id":"q_root","type":"text","text":"Quest Chains","x":0,"y":0,"width":360,"height":100},
+    {"id":"q1","type":"file","file":"02_Worldbuilding/Quests/Quest - The Void Conspiracy.md","x":-480,"y":-160,"width":420,"height":120},
+    {"id":"q1_npc","type":"file","file":"02_Worldbuilding/People/Shadow Broker Mist.md","x":-960,"y":-140,"width":360,"height":120},
+    {"id":"q1_place","type":"file","file":"02_Worldbuilding/Places/Shadow Market Alley.md","x":-960,"y":100,"width":360,"height":120},
+    {"id":"q1_scene","type":"file","file":"04_Resources/Assets/Scenes/Atmospheric_Art.md","x":-480,"y":100,"width":420,"height":120},
+    {"id":"q2","type":"file","file":"02_Worldbuilding/Quests/Quest - The Pretender.md","x":420,"y":-160,"width":420,"height":120},
+    {"id":"q2_npc","type":"file","file":"02_Worldbuilding/People/Lord Flux the Inconsistent.md","x":900,"y":-140,"width":360,"height":120},
+    {"id":"q2_place","type":"file","file":"02_Worldbuilding/Places/Parliament of Echoes.md","x":900,"y":100,"width":360,"height":120},
+    {"id":"q2_scene","type":"file","file":"04_Resources/Assets/Scenes/Atmospheric_Art.md","x":420,"y":100,"width":420,"height":120}
+  ],
+  "edges": [
+    {"id":"qe1","fromNode":"q1","toNode":"q1_npc","label":"giver"},
+    {"id":"qe2","fromNode":"q1","toNode":"q1_place","label":"primary site"},
+    {"id":"qe3","fromNode":"q1","toNode":"q1_scene","label":"scene refs"},
+    {"id":"qe4","fromNode":"q2","toNode":"q2_npc","label":"antagonist"},
+    {"id":"qe5","fromNode":"q2","toNode":"q2_place","label":"confrontation"},
+    {"id":"qe6","fromNode":"q2","toNode":"q2_scene","label":"set pieces"}
+  ]
+}
+
+

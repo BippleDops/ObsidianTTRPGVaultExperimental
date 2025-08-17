@@ -1,0 +1,32 @@
+{
+  "id": "creature-dragon",
+  "type": "creature",
+  "name": "dragon",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Illustration of dragon, highlight musculature and unique limbs, include human silhouette, three-color palette, underwater/sky/merged zone, depict motion, detailed concept art, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 2004,
+  "alt_text": "Concept art of dragon with anatomy, scale, and environment.",
+  "realm": "aquabyssos",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create a detailed concept art of a heroic tableau in an underwater and sky-merged zone with an aesthetic resembling the grounded medieval fantasy of tabletop games. Include a dragon with highlighted musculature and unique limbs, as well as a human silhouette for scale. Their gear should be culturally coherent, made of medieval materials and be devoid of modern tech or signage. Compose the scene in a three-color palette of teals, deep blues, and sea-greens with pearl highlights. Add interesting elements such as subsurface caustics, bioluminescent accents, and materials resembling pressure-dome. The image must be made in a consistent painterly style, depicting motion and merging aquatic fantasy with realism. Avoid embedded texts unless specified, sci-fi UIs, modern signage, photoreal CGI, or an anime-style aesthetic. Lastly, avoid rendering gibberish strings and ensure any symbols used are meaningful or numbered pins.",
+  "file": "04_Resources/Assets/Creatures/creature-creature-dragon-dragon.png"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Silent Guardian Marcus",
+  "type": "location",
+  "generated": "2025-08-15T18:18:18.801Z",
+  "prompt": "fantasy landscape called Silent Guardian Marcus, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Silent Guardian Marcus.png.json",
+  "reorganized": "2025-08-15T18:33:00.923Z"
+}

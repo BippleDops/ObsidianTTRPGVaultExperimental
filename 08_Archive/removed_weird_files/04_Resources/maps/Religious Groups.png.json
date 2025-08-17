@@ -1,0 +1,18 @@
+{
+  "name": "Religious Groups",
+  "type": "map",
+  "generated": "2025-08-15T18:18:15.295Z",
+  "prompt": "fantasy map of Religious Groups, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Religious Groups.png.json",
+  "reorganized": "2025-08-15T18:33:03.492Z"
+}

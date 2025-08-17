@@ -1,0 +1,18 @@
+{
+  "name": "food-drink-and-lodging-xphb",
+  "type": "token",
+  "generated": "2025-08-15T18:16:28.790Z",
+  "prompt": "character token for food-drink-and-lodging-xphb, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Tokens/food-drink-and-lodging-xphb.png.json",
+  "reorganized": "2025-08-15T18:33:12.084Z"
+}

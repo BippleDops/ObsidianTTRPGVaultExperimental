@@ -1,0 +1,16 @@
+{
+  "name": "Elf Ranger 97",
+  "type": "portrait",
+  "race": "elf",
+  "class": "ranger",
+  "gender": "female",
+  "age": "young",
+  "tags": [
+    "portrait",
+    "character",
+    "elf",
+    "ranger",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.599Z"
+}

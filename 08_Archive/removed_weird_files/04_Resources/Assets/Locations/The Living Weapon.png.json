@@ -1,0 +1,19 @@
+{
+  "name": "The Living Weapon",
+  "type": "location",
+  "generated": "2025-08-15T18:18:25.310Z",
+  "prompt": "fantasy landscape called The Living Weapon, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical",
+    "weapon"
+  ],
+  "location": "04_Resources/Assets/Locations/The Living Weapon.png.json",
+  "reorganized": "2025-08-15T18:33:01.053Z"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "The Memory Keepers Guild",
+  "type": "map",
+  "generated": "2025-08-15T18:18:25.516Z",
+  "prompt": "fantasy map of The Memory Keepers Guild, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/The Memory Keepers Guild.png.json",
+  "reorganized": "2025-08-15T18:33:03.683Z"
+}

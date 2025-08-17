@@ -1,0 +1,22 @@
+{
+  "title": "The Shadow Trade Network",
+  "prompt": "The shadow trade network, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, shadow",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:40:34.912Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/the_shadow_trade_network.json",
+  "reorganized": "2025-08-15T18:33:07.572Z"
+}

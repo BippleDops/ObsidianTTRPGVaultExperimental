@@ -1,0 +1,19 @@
+{
+  "name": "Forest_Clearing",
+  "type": "battle",
+  "environment": "forest",
+  "variant": "weather",
+  "size": "30x30",
+  "gridSize": 5,
+  "gridType": "square",
+  "features": [
+    "trees",
+    "undergrowth",
+    "rocks",
+    "stream"
+  ],
+  "lighting": "normal",
+  "generated": "2025-08-15T02:48:39.202Z",
+  "placeholder": true,
+  "generationRules": {}
+}

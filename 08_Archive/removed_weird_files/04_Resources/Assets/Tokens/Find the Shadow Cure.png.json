@@ -1,0 +1,18 @@
+{
+  "name": "Find the Shadow Cure",
+  "type": "token",
+  "generated": "2025-08-15T18:15:34.065Z",
+  "prompt": "character token for Find the Shadow Cure, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Tokens/Find the Shadow Cure.png.json",
+  "reorganized": "2025-08-15T18:33:09.993Z"
+}

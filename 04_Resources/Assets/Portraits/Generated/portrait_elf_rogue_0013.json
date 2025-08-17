@@ -1,0 +1,16 @@
+{
+  "name": "Elf Rogue 13",
+  "type": "portrait",
+  "race": "elf",
+  "class": "rogue",
+  "gender": "male",
+  "age": "adult",
+  "tags": [
+    "portrait",
+    "character",
+    "elf",
+    "rogue",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.550Z"
+}

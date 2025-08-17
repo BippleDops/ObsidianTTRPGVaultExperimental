@@ -1,0 +1,25 @@
+{
+  "title": "Department of Underwater Transit Authority",
+  "prompt": "Department of underwater transit authority, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:09:24.244Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Government_and_Parliament/Department of Underwater Transit Authority.md",
+  "tags": [
+    "generated",
+    "aquabyssos",
+    "underwater",
+    "oceanic",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/department_of_underwater_transit_authority.json",
+  "reorganized": "2025-08-15T18:33:07.412Z"
+}

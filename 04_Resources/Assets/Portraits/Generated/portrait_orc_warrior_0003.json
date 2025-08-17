@@ -1,0 +1,16 @@
+{
+  "name": "Orc Warrior 3",
+  "type": "portrait",
+  "race": "orc",
+  "class": "warrior",
+  "gender": "male",
+  "age": "elder",
+  "tags": [
+    "portrait",
+    "character",
+    "orc",
+    "warrior",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.536Z"
+}

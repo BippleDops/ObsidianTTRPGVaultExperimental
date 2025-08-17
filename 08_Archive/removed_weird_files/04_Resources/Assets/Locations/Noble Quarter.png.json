@@ -1,0 +1,18 @@
+{
+  "name": "Noble Quarter",
+  "type": "location",
+  "generated": "2025-08-15T18:18:09.717Z",
+  "prompt": "fantasy landscape called Noble Quarter, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Noble Quarter.png.json",
+  "reorganized": "2025-08-15T18:33:00.745Z"
+}

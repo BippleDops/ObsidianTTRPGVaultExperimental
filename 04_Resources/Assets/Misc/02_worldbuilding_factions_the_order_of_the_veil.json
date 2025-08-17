@@ -1,0 +1,22 @@
+{
+  "title": "02_Worldbuilding/Factions/The Order of the Veil",
+  "prompt": "02 worldbuilding/factions/the order of the veil, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:05:14.713Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Factions/The Order of the Veil.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/02_worldbuilding_factions_the_order_of_the_veil.json",
+  "reorganized": "2025-08-15T18:33:03.888Z"
+}

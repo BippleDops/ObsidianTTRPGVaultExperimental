@@ -1,0 +1,10 @@
+{
+  "type": "location_variant",
+  "generated": "2025-08-15T02:48:26.102Z",
+  "metadata": {
+    "name": "Crystal Caverns",
+    "variant": "interior"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

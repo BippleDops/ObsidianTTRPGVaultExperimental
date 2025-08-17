@@ -1,0 +1,10 @@
+{
+  "type": "location_variant",
+  "generated": "2025-08-15T02:48:26.247Z",
+  "metadata": {
+    "name": "Kraken 2",
+    "variant": "rain"
+  },
+  "placeholder": true,
+  "ready_for_generation": true
+}

@@ -1,0 +1,11 @@
+{
+  "npc_files": "NPC_#####_Character_Name.md or Character_Name.md",
+  "location_files": "Location_Name.md",
+  "quest_files": "Quest_Title.md",
+  "session_files": "Session_##_YYYY-MM-DD.md",
+  "patterns": {
+    "avoid_spaces": true,
+    "use_underscores": true,
+    "consistent_capitalization": true
+  }
+}

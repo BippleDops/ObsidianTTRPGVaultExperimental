@@ -1,0 +1,25 @@
+2025-08-16 09:57:59,775 - MainThread - INFO - Starting parallel execution of phases 1-3
+2025-08-16 09:57:59,775 - MainThread - INFO - Creating backup: backup_before_parallel_phases_20250816_095759
+2025-08-16 09:58:48,950 - MainThread - INFO - Backup completed: 133018 files backed up
+2025-08-16 09:58:48,951 - ThreadPoolExecutor-0_0 - INFO - Starting Phase 1: Template Structure Cleanup
+2025-08-16 09:58:48,951 - ThreadPoolExecutor-0_1 - INFO - Starting Phase 2: Content Organization
+2025-08-16 09:58:48,951 - ThreadPoolExecutor-0_2 - INFO - Starting Phase 3: Plugin Integration
+2025-08-16 09:58:48,954 - ThreadPoolExecutor-0_2 - INFO - Setup Templater automation: 4 templates created
+2025-08-16 09:58:48,955 - ThreadPoolExecutor-0_2 - INFO - Created Kanban boards: 2 boards created
+2025-08-16 09:58:48,956 - ThreadPoolExecutor-0_2 - INFO - Configured visual tools: 3 templates created
+2025-08-16 09:58:48,957 - ThreadPoolExecutor-0_2 - INFO - Setup custom frames: 2 frames created
+2025-08-16 09:58:49,619 - ThreadPoolExecutor-0_1 - INFO - Organized campaigns: 5 changes
+2025-08-16 09:58:49,874 - ThreadPoolExecutor-0_1 - INFO - Enhanced session notes: 219 changes
+2025-08-16 09:58:50,075 - ThreadPoolExecutor-0_1 - INFO - Created NPC database: 1 changes
+2025-08-16 09:58:50,175 - ThreadPoolExecutor-0_1 - INFO - Built location hierarchy: 1 changes
+2025-08-16 09:58:50,175 - ThreadPoolExecutor-0_1 - INFO - Setup quest and encounter systems: 2 changes
+2025-08-16 09:58:50,175 - MainThread - INFO - Phase phase2 completed successfully
+2025-08-16 09:58:53,538 - ThreadPoolExecutor-0_2 - INFO - Setup advanced features: 2 configurations created
+2025-08-16 09:58:53,551 - MainThread - INFO - Phase phase3 completed successfully
+2025-08-16 09:59:01,328 - ThreadPoolExecutor-0_0 - INFO - Cleaned placeholders in 195 files
+2025-08-16 09:59:26,061 - ThreadPoolExecutor-0_0 - INFO - Fixed brackets and removed empty folders: 71637 changes
+2025-08-16 09:59:32,393 - ThreadPoolExecutor-0_0 - INFO - Normalized frontmatter in 160 files
+2025-08-16 09:59:45,305 - ThreadPoolExecutor-0_0 - INFO - Standardized statblocks in 5698 files
+2025-08-16 09:59:52,821 - ThreadPoolExecutor-0_0 - INFO - Optimized dataview queries in 70 files
+2025-08-16 09:59:52,834 - MainThread - INFO - Phase phase1 completed successfully
+2025-08-16 09:59:52,964 - MainThread - INFO - Parallel execution completed. Report saved to /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/_SCRIPTS/parallel_phases_report_20250816_095952.json

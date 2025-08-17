@@ -1,0 +1,46 @@
+{
+  "name": "Battle Map 274",
+  "type": "map",
+  "mapType": "battle",
+  "gridSize": "25x25",
+  "scale": "5ft per square",
+  "tags": [
+    "map",
+    "battle",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 74.27876130235204,
+      "y": 0.5032287544821101,
+      "type": "city"
+    },
+    {
+      "name": "Location 2",
+      "x": 25.922158907767525,
+      "y": 89.97250408232841,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 3",
+      "x": 68.59517028648979,
+      "y": 62.11680540892427,
+      "type": "city"
+    },
+    {
+      "name": "Location 4",
+      "x": 54.9126414680304,
+      "y": 25.607012339765557,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 5",
+      "x": 5.946910354378165,
+      "y": 15.296502123005428,
+      "type": "dungeon"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.681Z"
+}

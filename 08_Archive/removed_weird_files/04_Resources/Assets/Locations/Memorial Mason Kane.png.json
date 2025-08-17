@@ -1,0 +1,18 @@
+{
+  "name": "Memorial Mason Kane",
+  "type": "location",
+  "generated": "2025-08-15T18:18:07.240Z",
+  "prompt": "fantasy landscape called Memorial Mason Kane, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Memorial Mason Kane.png.json",
+  "reorganized": "2025-08-15T18:33:00.705Z"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Cult of Screams",
+  "prompt": "Cult of screams, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:44:17.453Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Cults_and_Movements/Cult of Screams.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/cult_of_screams.json",
+  "reorganized": "2025-08-15T18:33:07.374Z"
+}

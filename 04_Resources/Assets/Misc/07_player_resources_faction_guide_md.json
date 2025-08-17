@@ -1,0 +1,22 @@
+{
+  "title": "07_Player_Resources/Faction_Guide.md",
+  "prompt": "07 player resources/faction guide.md, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:31:29.264Z",
+  "sourceFile": "/02_Worldbuilding/Groups/07_Player_Resources/Faction_Guide.md.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/07_player_resources_faction_guide_md.json",
+  "reorganized": "2025-08-15T18:33:03.998Z"
+}

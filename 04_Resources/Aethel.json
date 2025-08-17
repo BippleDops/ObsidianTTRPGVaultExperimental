@@ -1,0 +1,17 @@
+{
+    "name": "Chronicles of Aethel",
+    "current_date": {
+        "year": 1000,
+        "month": 1,
+        "day": 1
+    },
+    "months": [
+        "First Seed",
+        "Sun's Height",
+        "Harvestide",
+        "Frostfall"
+    ],
+    "days_in_week": 7,
+    "days_in_month": 30,
+    "year_zero": 0
+}

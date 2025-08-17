@@ -1,0 +1,46 @@
+{
+  "name": "City Map 307",
+  "type": "map",
+  "mapType": "city",
+  "gridSize": null,
+  "scale": "1:10000",
+  "tags": [
+    "map",
+    "city",
+    "cartography",
+    "generated"
+  ],
+  "locations": [
+    {
+      "name": "Location 1",
+      "x": 23.1312587376446,
+      "y": 72.90954368078415,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 2",
+      "x": 46.29660004256798,
+      "y": 38.91412700852989,
+      "type": "city"
+    },
+    {
+      "name": "Location 3",
+      "x": 55.43241496564495,
+      "y": 96.05693115978315,
+      "type": "landmark"
+    },
+    {
+      "name": "Location 4",
+      "x": 6.77799293837923,
+      "y": 23.748082443410002,
+      "type": "dungeon"
+    },
+    {
+      "name": "Location 5",
+      "x": 99.51834208845169,
+      "y": 47.901736081847226,
+      "type": "city"
+    }
+  ],
+  "created": "2025-08-16T16:58:14.695Z"
+}

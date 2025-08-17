@@ -1,0 +1,18 @@
+{
+  "name": "Korra Mindshield",
+  "type": "location",
+  "generated": "2025-08-15T18:17:59.173Z",
+  "prompt": "fantasy landscape called Korra Mindshield, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Korra Mindshield.png.json",
+  "reorganized": "2025-08-15T18:32:59.743Z"
+}

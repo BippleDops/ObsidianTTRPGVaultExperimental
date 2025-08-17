@@ -1,0 +1,18 @@
+{
+  "name": "Crystal Mines (Places)",
+  "type": "map",
+  "generated": "2025-08-15T18:17:18.534Z",
+  "prompt": "fantasy map of Crystal Mines (Places), cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/Crystal Mines (Places).png.json",
+  "reorganized": "2025-08-15T18:33:02.279Z"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Temple of the Deep Waters",
+  "type": "location",
+  "generated": "2025-08-15T18:18:20.970Z",
+  "prompt": "fantasy temple called Temple of the Deep Waters, establishing shot, detailed environment, atmospheric lighting",
+  "status": "pending_generation",
+  "tags": [
+    "location",
+    "place-art",
+    "scene",
+    "generated",
+    "fantasy",
+    "medieval",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Locations/Temple of the Deep Waters.png.json",
+  "reorganized": "2025-08-15T18:33:00.967Z"
+}

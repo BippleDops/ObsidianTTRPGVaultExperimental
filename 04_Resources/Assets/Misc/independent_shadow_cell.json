@@ -1,0 +1,22 @@
+{
+  "title": "Independent Shadow Cell",
+  "prompt": "Independent shadow cell, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, shadow",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:44:34.073Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Criminal_Organizations/Independent Shadow Cell.md",
+  "tags": [
+    "generated",
+    "ethereal",
+    "mystical",
+    "otherworldly",
+    "magical"
+  ],
+  "location": "04_Resources/Assets/Misc/independent_shadow_cell.json",
+  "reorganized": "2025-08-15T18:33:07.488Z"
+}

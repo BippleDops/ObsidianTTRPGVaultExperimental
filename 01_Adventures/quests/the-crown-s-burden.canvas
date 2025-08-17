@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/The Crown's Burden.md",
+      "x": 0,
+      "y": 0,
+      "width": 460,
+      "height": 140
+    },
+    {
+      "id": "n_02-worldbuilding-people-queen-seraphina-lumengarde-md_300",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Queen Seraphina Lumengarde.md",
+      "x": -520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-memory-harvester-kythara-md_220",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Memory Harvester Kythara.md",
+      "x": 0,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-crystal-wardens-md_740",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Crystal Wardens.md",
+      "x": 520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-quest-the-pretender-s-crown-md_120",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Quest - The Pretender's Crown.md",
+      "x": -520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-quest-divine-intervention-md_400",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Quest - Divine Intervention.md",
+      "x": 0,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-quest-the-crown-reborn-md_920",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Quest - The Crown Reborn.md",
+      "x": 520,
+      "y": 400,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-crystal-palace-md_60",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Crystal Palace.md",
+      "x": -520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-memory-merchant-zephyr-mindweaver-md_580",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver.md",
+      "x": 0,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-high-priestess-celeste-dawnbringer-md_1100",
+      "type": "file",
+      "file": "02_Worldbuilding/People/High Priestess Celeste Dawnbringer.md",
+      "x": 520,
+      "y": 580,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-the-nameless-auditor-md_240",
+      "type": "file",
+      "file": "02_Worldbuilding/People/The Nameless Auditor.md",
+      "x": -520,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-people-the-first-king-s-diary-md_760",
+      "type": "file",
+      "file": "02_Worldbuilding/People/The First King's Diary.md",
+      "x": 0,
+      "y": 760,
+      "width": 380,
+      "height": 120
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-queen-seraphina-lumengarde-md_300"
+    },
+    {
+      "id": "e_1",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-memory-harvester-kythara-md_220"
+    },
+    {
+      "id": "e_2",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-crystal-wardens-md_740"
+    },
+    {
+      "id": "e_3",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-quest-the-pretender-s-crown-md_120"
+    },
+    {
+      "id": "e_4",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-quest-divine-intervention-md_400"
+    },
+    {
+      "id": "e_5",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-quest-the-crown-reborn-md_920"
+    },
+    {
+      "id": "e_6",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-crystal-palace-md_60"
+    },
+    {
+      "id": "e_7",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-memory-merchant-zephyr-mindweaver-md_580"
+    },
+    {
+      "id": "e_8",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-high-priestess-celeste-dawnbringer-md_1100"
+    },
+    {
+      "id": "e_9",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-the-nameless-auditor-md_240"
+    },
+    {
+      "id": "e_10",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-the-first-king-s-diary-md_760"
+    }
+  ]
+}

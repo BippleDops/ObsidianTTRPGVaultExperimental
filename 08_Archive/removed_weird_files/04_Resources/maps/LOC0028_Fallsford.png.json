@@ -1,0 +1,18 @@
+{
+  "name": "LOC0028_Fallsford",
+  "type": "map",
+  "generated": "2025-08-15T18:18:00.121Z",
+  "prompt": "fantasy map of LOC0028_Fallsford, cartography style, detailed terrain, parchment texture",
+  "status": "pending_generation",
+  "tags": [
+    "map",
+    "cartography",
+    "navigation",
+    "generated",
+    "cartographic",
+    "map-style",
+    "technical"
+  ],
+  "location": "04_Resources/Assets/Maps/LOC0028_Fallsford.png.json",
+  "reorganized": "2025-08-15T18:33:03.208Z"
+}

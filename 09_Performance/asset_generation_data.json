@@ -1,0 +1,424 @@
+{
+  "stats": {
+    "generated": {
+      "portraits": 217,
+      "items": 145,
+      "music": 52,
+      "maps": 13,
+      "locations": 402,
+      "videos": 10,
+      "sfx": 50,
+      "handouts": 31,
+      "tokens": 100
+    },
+    "failed": {},
+    "total": 2576
+  },
+  "structure": {
+    "portraits": {
+      "types": [
+        "npc",
+        "pc",
+        "monster",
+        "deity",
+        "faction_leader"
+      ],
+      "styles": [
+        "realistic",
+        "fantasy_art",
+        "anime",
+        "oil_painting",
+        "watercolor"
+      ],
+      "sizes": {
+        "thumbnail": "256x256",
+        "standard": "512x512",
+        "full": "1024x1024"
+      }
+    },
+    "creatures": {
+      "types": [
+        "aberration",
+        "beast",
+        "celestial",
+        "construct",
+        "dragon",
+        "elemental",
+        "fey",
+        "fiend",
+        "giant",
+        "humanoid",
+        "monstrosity",
+        "ooze",
+        "plant",
+        "undead"
+      ],
+      "styles": [
+        "bestiary",
+        "realistic",
+        "horror",
+        "whimsical"
+      ],
+      "perspectives": [
+        "front",
+        "side",
+        "action_pose",
+        "group"
+      ]
+    },
+    "locations": {
+      "types": [
+        "city",
+        "dungeon",
+        "wilderness",
+        "interior",
+        "underwater",
+        "aerial",
+        "planar"
+      ],
+      "times": [
+        "day",
+        "night",
+        "dawn",
+        "dusk",
+        "storm"
+      ],
+      "moods": [
+        "peaceful",
+        "ominous",
+        "mystical",
+        "bustling",
+        "abandoned"
+      ]
+    },
+    "items": {
+      "types": [
+        "weapon",
+        "armor",
+        "potion",
+        "scroll",
+        "artifact",
+        "mundane",
+        "treasure"
+      ],
+      "quality": [
+        "common",
+        "uncommon",
+        "rare",
+        "very_rare",
+        "legendary",
+        "artifact"
+      ],
+      "styles": [
+        "detailed",
+        "icon",
+        "display",
+        "worn"
+      ]
+    },
+    "maps": {
+      "types": [
+        "world",
+        "region",
+        "city",
+        "building",
+        "dungeon",
+        "battle"
+      ],
+      "styles": [
+        "hand_drawn",
+        "satellite",
+        "political",
+        "topographical",
+        "artistic"
+      ],
+      "features": [
+        "grid",
+        "no_grid",
+        "hexes",
+        "labels",
+        "unlabeled"
+      ],
+      "scales": [
+        "continent",
+        "kingdom",
+        "province",
+        "city",
+        "district",
+        "building",
+        "room"
+      ]
+    },
+    "music": {
+      "types": [
+        "ambient",
+        "combat",
+        "exploration",
+        "social",
+        "boss",
+        "emotional"
+      ],
+      "genres": [
+        "orchestral",
+        "medieval",
+        "electronic",
+        "hybrid",
+        "folk",
+        "choir"
+      ],
+      "lengths": [
+        "loop_30s",
+        "loop_1m",
+        "loop_3m",
+        "track_5m",
+        "track_10m"
+      ],
+      "instruments": {
+        "orchestral": [
+          "strings",
+          "brass",
+          "woodwinds",
+          "percussion",
+          "full_orchestra"
+        ],
+        "medieval": [
+          "lute",
+          "harp",
+          "recorder",
+          "drums",
+          "hurdy_gurdy"
+        ],
+        "electronic": [
+          "synth_pads",
+          "bass",
+          "leads",
+          "ambient_textures"
+        ]
+      }
+    },
+    "soundEffects": {
+      "categories": [
+        "combat",
+        "magic",
+        "environment",
+        "creature",
+        "interface",
+        "ambient"
+      ],
+      "combat": [
+        "sword_clash",
+        "arrow_hit",
+        "shield_block",
+        "armor_clank",
+        "critical_hit"
+      ],
+      "magic": [
+        "spell_cast",
+        "teleport",
+        "healing",
+        "explosion",
+        "enchantment"
+      ],
+      "environment": [
+        "door_open",
+        "footsteps",
+        "water_drip",
+        "wind",
+        "fire_crackle"
+      ],
+      "creature": [
+        "roar",
+        "growl",
+        "wings_flap",
+        "slither",
+        "breathing"
+      ]
+    },
+    "voiceLines": {
+      "types": [
+        "npc_greeting",
+        "combat_callout",
+        "merchant_pitch",
+        "quest_giver",
+        "villain_monologue"
+      ],
+      "voices": [
+        "male_gruff",
+        "female_noble",
+        "child",
+        "elderly",
+        "monster",
+        "ethereal"
+      ],
+      "emotions": [
+        "friendly",
+        "hostile",
+        "neutral",
+        "excited",
+        "fearful",
+        "mysterious"
+      ]
+    },
+    "videos": {
+      "types": [
+        "intro_cutscene",
+        "location_flyover",
+        "spell_effect",
+        "transition",
+        "ambient_loop"
+      ],
+      "styles": [
+        "cinematic",
+        "animated",
+        "particle_effects",
+        "stylized"
+      ],
+      "durations": [
+        "5s",
+        "10s",
+        "30s",
+        "1m",
+        "loop"
+      ],
+      "resolutions": [
+        "720p",
+        "1080p",
+        "4k"
+      ]
+    },
+    "models3d": {
+      "types": [
+        "character",
+        "prop",
+        "building",
+        "terrain",
+        "vehicle"
+      ],
+      "formats": [
+        "obj",
+        "fbx",
+        "gltf",
+        "stl"
+      ],
+      "detail_levels": [
+        "low_poly",
+        "medium_poly",
+        "high_poly"
+      ],
+      "textures": [
+        "diffuse",
+        "normal",
+        "specular",
+        "emission"
+      ]
+    },
+    "handouts": {
+      "types": [
+        "letter",
+        "map_sketch",
+        "wanted_poster",
+        "menu",
+        "book_page",
+        "riddle"
+      ],
+      "styles": [
+        "aged_paper",
+        "official_document",
+        "hastily_written",
+        "illuminated_manuscript"
+      ],
+      "languages": [
+        "common",
+        "elvish",
+        "dwarvish",
+        "draconic",
+        "celestial",
+        "infernal"
+      ]
+    },
+    "tokens": {
+      "types": [
+        "pc",
+        "npc",
+        "monster",
+        "mount",
+        "companion",
+        "summon"
+      ],
+      "borders": [
+        "none",
+        "simple",
+        "ornate",
+        "faction_themed"
+      ],
+      "sizes": [
+        "tiny",
+        "small",
+        "medium",
+        "large",
+        "huge",
+        "gargantuan"
+      ],
+      "states": [
+        "normal",
+        "bloodied",
+        "unconscious",
+        "dead",
+        "invisible",
+        "flying"
+      ]
+    }
+  },
+  "config": {
+    "quality": {
+      "draft": {
+        "iterations": 1,
+        "resolution": "low",
+        "processing": "fast"
+      },
+      "standard": {
+        "iterations": 3,
+        "resolution": "medium",
+        "processing": "balanced"
+      },
+      "premium": {
+        "iterations": 5,
+        "resolution": "high",
+        "processing": "detailed"
+      },
+      "ultra": {
+        "iterations": 10,
+        "resolution": "maximum",
+        "processing": "extreme"
+      }
+    },
+    "batchSizes": {
+      "images": 10,
+      "audio": 5,
+      "video": 2,
+      "models3d": 3
+    },
+    "formats": {
+      "images": [
+        "png",
+        "jpg",
+        "webp"
+      ],
+      "audio": [
+        "mp3",
+        "ogg",
+        "wav"
+      ],
+      "video": [
+        "mp4",
+        "webm"
+      ],
+      "models": [
+        "gltf",
+        "obj",
+        "fbx"
+      ]
+    }
+  },
+  "timestamp": "2025-08-15T02:48:26.436Z"
+}

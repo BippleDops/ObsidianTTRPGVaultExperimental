@@ -1,0 +1,16 @@
+{
+  "name": "Orc Bard 141",
+  "type": "portrait",
+  "race": "orc",
+  "class": "bard",
+  "gender": "male",
+  "age": "young",
+  "tags": [
+    "portrait",
+    "character",
+    "orc",
+    "bard",
+    "generated"
+  ],
+  "created": "2025-08-16T16:58:14.620Z"
+}

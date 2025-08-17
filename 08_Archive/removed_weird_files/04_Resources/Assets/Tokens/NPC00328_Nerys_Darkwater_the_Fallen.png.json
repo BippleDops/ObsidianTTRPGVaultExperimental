@@ -1,0 +1,19 @@
+{
+  "name": "NPC00328_Nerys_Darkwater_the_Fallen",
+  "type": "token",
+  "generated": "2025-08-15T18:16:06.101Z",
+  "prompt": "character token for NPC00328_Nerys_Darkwater_the_Fallen, top-down view, circular frame, transparent background",
+  "status": "pending_generation",
+  "tags": [
+    "token",
+    "game-piece",
+    "vtt-asset",
+    "generated",
+    "dark",
+    "gritty",
+    "horror",
+    "npc"
+  ],
+  "location": "04_Resources/Assets/Tokens/NPC00328_Nerys_Darkwater_the_Fallen.png.json",
+  "reorganized": "2025-08-15T18:33:11.088Z"
+}

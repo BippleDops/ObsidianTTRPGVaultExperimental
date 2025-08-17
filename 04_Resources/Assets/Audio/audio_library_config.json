@@ -1,0 +1,31 @@
+{
+  "sources": {
+    "tabletop_audio": {
+      "base_url": "https://tabletopaudio.com",
+      "license": "CC BY-NC-SA",
+      "attribution_required": true,
+      "collections": {
+        "underwater": [
+          "deepwatch",
+          "submarine",
+          "underwater_tavern"
+        ],
+        "sky_kingdoms": [
+          "wind_through_trees",
+          "mountain_pass",
+          "aerial_survey"
+        ],
+        "political_intrigue": [
+          "council_meeting",
+          "medieval_town",
+          "busy_tavern"
+        ]
+      }
+    }
+  },
+  "organization": {
+    "by_theme": true,
+    "by_world": true,
+    "by_mood": true
+  }
+}
