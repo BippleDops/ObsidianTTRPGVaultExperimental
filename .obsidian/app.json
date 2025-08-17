@@ -26,5 +26,7 @@
     "*.bak",
     "*conflicted*",
     ".DS_Store"
-  ]
+  ],
+  "showDebugInfo": true,
+  "enableDevTools": true
 }
