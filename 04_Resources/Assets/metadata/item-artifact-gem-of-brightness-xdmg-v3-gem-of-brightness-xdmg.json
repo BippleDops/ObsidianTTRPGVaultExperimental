@@ -25,5 +25,8 @@
   "alt_text": "Artifact gem-of-brightness-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-gem-of-brightness-xdmg-v3-gem-of-brightness-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-gem-of-brightness-xdmg-v3-gem-of-brightness-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:25:12.809Z",
+  "generationMethod": "ComfyUI"
 }

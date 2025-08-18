@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Memory Merchant Zephyr Mindweaver with architecture and inhabitants.",
   "realm": "mixed",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-memory-merchant-zephyr-mindweaver-memory-merchant-zephyr-mindweaver.svg"
+  "file": "04_Resources/Assets/Locations/location-city-memory-merchant-zephyr-mindweaver-memory-merchant-zephyr-mindweaver.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:16.044Z",
+  "generationMethod": "ComfyUI"
 }

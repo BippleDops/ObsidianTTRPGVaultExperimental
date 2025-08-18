@@ -25,5 +25,8 @@
   "alt_text": "Artifact piwafwi-of-fire-resistance-oota with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-piwafwi-of-fire-resistance-oota-v2-piwafwi-of-fire-resistance-oota.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-piwafwi-of-fire-resistance-oota-v2-piwafwi-of-fire-resistance-oota.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:33:58.264Z",
+  "generationMethod": "ComfyUI"
 }

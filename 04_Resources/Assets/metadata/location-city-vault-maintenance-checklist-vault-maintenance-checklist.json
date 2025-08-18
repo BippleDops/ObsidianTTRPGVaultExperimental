@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Vault Maintenance Checklist with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-vault-maintenance-checklist-vault-maintenance-checklist.svg"
+  "file": "04_Resources/Assets/Locations/location-city-vault-maintenance-checklist-vault-maintenance-checklist.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:46.541Z",
+  "generationMethod": "ComfyUI"
 }

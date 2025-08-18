@@ -25,5 +25,8 @@
   "alt_text": "Artifact set-of-gold-nesting-dolls-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-set-of-gold-nesting-dolls-xdmg-v4-set-of-gold-nesting-dolls-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-set-of-gold-nesting-dolls-xdmg-v4-set-of-gold-nesting-dolls-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:40:03.904Z",
+  "generationMethod": "ComfyUI"
 }

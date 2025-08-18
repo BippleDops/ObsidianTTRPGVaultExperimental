@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Depth Crystal Harvest with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-depth-crystal-harvest-v1-depth-crystal-harvest.svg"
+  "file": "04_Resources/Assets/Locations/location-city-depth-crystal-harvest-v1-depth-crystal-harvest.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:44.373Z",
+  "generationMethod": "ComfyUI"
 }

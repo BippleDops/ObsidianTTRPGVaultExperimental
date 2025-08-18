@@ -25,5 +25,8 @@
   "alt_text": "Artifact pale-tincture-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-pale-tincture-xdmg-v6-pale-tincture-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-pale-tincture-xdmg-v6-pale-tincture-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:33:12.859Z",
+  "generationMethod": "ComfyUI"
 }

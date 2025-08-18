@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Chief Engineer Nereus Flowstream with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-chief-engineer-nereus-flowstream-chief-engineer-nereus-flowstream.svg"
+  "file": "04_Resources/Assets/Locations/location-city-chief-engineer-nereus-flowstream-chief-engineer-nereus-flowstream.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:51.300Z",
+  "generationMethod": "ComfyUI"
 }

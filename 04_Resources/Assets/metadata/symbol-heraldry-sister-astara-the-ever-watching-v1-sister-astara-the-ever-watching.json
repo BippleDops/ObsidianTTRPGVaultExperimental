@@ -27,5 +27,8 @@
   "palette": "deep blues",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-sister-astara-the-ever-watching-v1-sister-astara-the-ever-watching.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-sister-astara-the-ever-watching-v1-sister-astara-the-ever-watching.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:14.938Z",
+  "generationMethod": "ComfyUI"
 }

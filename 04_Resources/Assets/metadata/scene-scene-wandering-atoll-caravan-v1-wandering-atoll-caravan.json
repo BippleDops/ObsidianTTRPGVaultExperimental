@@ -25,5 +25,8 @@
   "alt_text": "Atmospheric illustration of: Wandering atoll caravan.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Scenes/scene-scene-wandering-atoll-caravan-v1-wandering-atoll-caravan.svg"
+  "file": "04_Resources/Assets/Scenes/scene-scene-wandering-atoll-caravan-v1-wandering-atoll-caravan.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:12.649Z",
+  "generationMethod": "ComfyUI"
 }

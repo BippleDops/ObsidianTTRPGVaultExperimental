@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Port Meridian Medical Institute with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-port-meridian-medical-institute-port-meridian-medical-institute.svg"
+  "file": "04_Resources/Assets/Locations/location-city-port-meridian-medical-institute-port-meridian-medical-institute.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:58.993Z",
+  "generationMethod": "ComfyUI"
 }

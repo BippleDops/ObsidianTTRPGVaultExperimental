@@ -25,5 +25,8 @@
   "alt_text": "Artifact cinnamon-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-cinnamon-xdmg-v1-cinnamon-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-cinnamon-xdmg-v1-cinnamon-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:18:51.588Z",
+  "generationMethod": "ComfyUI"
 }

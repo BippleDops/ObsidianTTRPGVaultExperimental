@@ -25,5 +25,8 @@
   "alt_text": "Artifact reliquary-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-reliquary-xphb-v1-reliquary-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-reliquary-xphb-v1-reliquary-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:36:38.358Z",
+  "generationMethod": "ComfyUI"
 }

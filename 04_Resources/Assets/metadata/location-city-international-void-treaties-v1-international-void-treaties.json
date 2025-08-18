@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of International Void Treaties with architecture and inhabitants.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-international-void-treaties-v1-international-void-treaties.svg"
+  "file": "04_Resources/Assets/Locations/location-city-international-void-treaties-v1-international-void-treaties.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:10.980Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Clerk Supreme Marcus Filekeeper with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-clerk-supreme-marcus-filekeeper-clerk-supreme-marcus-filekeeper.svg"
+  "file": "04_Resources/Assets/Locations/location-city-clerk-supreme-marcus-filekeeper-clerk-supreme-marcus-filekeeper.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:56.052Z",
+  "generationMethod": "ComfyUI"
 }

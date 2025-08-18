@@ -25,5 +25,8 @@
   "alt_text": "Artifact periapt-of-wound-closure-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-periapt-of-wound-closure-xdmg-periapt-of-wound-closure-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-periapt-of-wound-closure-xdmg-periapt-of-wound-closure-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:33:34.402Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact gold-jewelry-box-with-platinum-filigree-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-gold-jewelry-box-with-platinum-filigree-xdmg-gold-jewelry-box-with-platinum-filigree-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-gold-jewelry-box-with-platinum-filigree-xdmg-gold-jewelry-box-with-platinum-filigree-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:25:53.194Z",
+  "generationMethod": "ComfyUI"
 }

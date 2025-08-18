@@ -25,5 +25,8 @@
   "alt_text": "Artifact sword-of-answering-squelcher with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-sword-of-answering-squelcher-v2-sword-of-answering-squelcher.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-sword-of-answering-squelcher-v2-sword-of-answering-squelcher.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:43:47.085Z",
+  "generationMethod": "ComfyUI"
 }

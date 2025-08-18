@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1024",
   "revised_prompt": "Create a detailed, painterly-styled portrait from a fantasy tabletop setting. The main character is an adult human from the imagined realms of Aquabyssos/Aethermoor, dressed in culturally coherent gear specific to those realms. The image should depict an emotional, character-driven moment from 'The Void Conspiracy' quest. The character should have distinct, memorable traits, and be illustrated in a signature environment that represents their home realm, with a touch of cosmic surrealism. The image should invoke the sense of impossible geometries, featuring cosmic starfield grain, and radiant indigo glows. The color palette should be dominated by indigos, violets, black, and cold silver. Ensure the image is readable at small sizes, and avoid including any modern or technological elements, embedded text, garbled letters, and blooming glare. Aim for the style that falls in the realm of painterly fantasy realism.",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy.png"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:00:22.202Z",
+  "generationMethod": "ComfyUI"
 }

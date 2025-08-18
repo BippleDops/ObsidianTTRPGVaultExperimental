@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Memoriam - The Forgotten Continent with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-memoriam-the-forgotten-continent-v1-memoriam-the-forgotten-continent.svg"
+  "file": "04_Resources/Assets/Locations/location-city-memoriam-the-forgotten-continent-v1-memoriam-the-forgotten-continent.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:11.285Z",
+  "generationMethod": "ComfyUI"
 }

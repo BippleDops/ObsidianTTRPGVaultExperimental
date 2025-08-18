@@ -27,5 +27,8 @@
   "palette": "deep blues",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-order-of-the-drowned-star-order-of-the-drowned-star.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-order-of-the-drowned-star-order-of-the-drowned-star.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:55.674Z",
+  "generationMethod": "ComfyUI"
 }

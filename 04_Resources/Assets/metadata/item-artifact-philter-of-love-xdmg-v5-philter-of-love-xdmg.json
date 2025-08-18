@@ -25,5 +25,8 @@
   "alt_text": "Artifact philter-of-love-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-philter-of-love-xdmg-v5-philter-of-love-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-philter-of-love-xdmg-v5-philter-of-love-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:33:39.139Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact elixir-of-health-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-elixir-of-health-xdmg-v3-elixir-of-health-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-elixir-of-health-xdmg-v3-elixir-of-health-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:22:18.738Z",
+  "generationMethod": "ComfyUI"
 }

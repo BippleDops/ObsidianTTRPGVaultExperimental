@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Duke Gale Vortex with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-duke-gale-vortex-v2-duke-gale-vortex.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-duke-gale-vortex-v2-duke-gale-vortex.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:57:56.153Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact dark-shard-amulet-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-dark-shard-amulet-xdmg-v7-dark-shard-amulet-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-dark-shard-amulet-xdmg-v7-dark-shard-amulet-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:20:29.144Z",
+  "generationMethod": "ComfyUI"
 }

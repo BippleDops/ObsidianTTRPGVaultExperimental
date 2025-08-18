@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Noble Quarter Market with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-noble-quarter-market-the-noble-quarter-market.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-noble-quarter-market-the-noble-quarter-market.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:44.292Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Relic Provenance Card as an in-world paper prop.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Handouts/handout-handout-relic-provenance-card-v3-relic-provenance-card.svg"
+  "file": "04_Resources/Assets/Handouts/handout-handout-relic-provenance-card-v3-relic-provenance-card.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:12:17.169Z",
+  "generationMethod": "ComfyUI"
 }

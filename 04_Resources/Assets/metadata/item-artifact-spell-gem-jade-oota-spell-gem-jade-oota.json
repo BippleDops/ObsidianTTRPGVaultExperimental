@@ -25,5 +25,8 @@
   "alt_text": "Artifact spell-gem-jade-oota with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-spell-gem-jade-oota-spell-gem-jade-oota.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-spell-gem-jade-oota-spell-gem-jade-oota.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:41:35.034Z",
+  "generationMethod": "ComfyUI"
 }

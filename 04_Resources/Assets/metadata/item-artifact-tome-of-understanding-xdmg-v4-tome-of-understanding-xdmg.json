@@ -25,5 +25,8 @@
   "alt_text": "Artifact tome-of-understanding-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-tome-of-understanding-xdmg-v4-tome-of-understanding-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-tome-of-understanding-xdmg-v4-tome-of-understanding-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:44:42.207Z",
+  "generationMethod": "ComfyUI"
 }

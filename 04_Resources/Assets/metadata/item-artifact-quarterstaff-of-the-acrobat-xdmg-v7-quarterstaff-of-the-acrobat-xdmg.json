@@ -25,5 +25,8 @@
   "alt_text": "Artifact quarterstaff-of-the-acrobat-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-quarterstaff-of-the-acrobat-xdmg-v7-quarterstaff-of-the-acrobat-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-quarterstaff-of-the-acrobat-xdmg-v7-quarterstaff-of-the-acrobat-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:36:23.903Z",
+  "generationMethod": "ComfyUI"
 }

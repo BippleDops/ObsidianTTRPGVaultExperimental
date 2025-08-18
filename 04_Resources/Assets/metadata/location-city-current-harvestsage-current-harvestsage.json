@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Current Harvestsage with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-current-harvestsage-current-harvestsage.svg"
+  "file": "04_Resources/Assets/Locations/location-city-current-harvestsage-current-harvestsage.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:32.127Z",
+  "generationMethod": "ComfyUI"
 }

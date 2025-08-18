@@ -25,5 +25,8 @@
   "alt_text": "Artifact wand-of-winter-hotdq with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-wand-of-winter-hotdq-v7-wand-of-winter-hotdq.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-wand-of-winter-hotdq-v7-wand-of-winter-hotdq.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:45:58.761Z",
+  "generationMethod": "ComfyUI"
 }

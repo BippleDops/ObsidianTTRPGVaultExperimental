@@ -25,5 +25,8 @@
   "alt_text": "Artifact mind-lash-vgm with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-mind-lash-vgm-v4-mind-lash-vgm.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-mind-lash-vgm-v4-mind-lash-vgm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:31:32.034Z",
+  "generationMethod": "ComfyUI"
 }

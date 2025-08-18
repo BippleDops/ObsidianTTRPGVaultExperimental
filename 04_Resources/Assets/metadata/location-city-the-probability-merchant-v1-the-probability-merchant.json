@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Probability Merchant with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-probability-merchant-v1-the-probability-merchant.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-probability-merchant-v1-the-probability-merchant.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:51.470Z",
+  "generationMethod": "ComfyUI"
 }

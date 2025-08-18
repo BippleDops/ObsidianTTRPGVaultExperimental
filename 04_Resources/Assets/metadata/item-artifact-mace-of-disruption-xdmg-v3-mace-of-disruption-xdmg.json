@@ -25,5 +25,8 @@
   "alt_text": "Artifact mace-of-disruption-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-mace-of-disruption-xdmg-v3-mace-of-disruption-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-mace-of-disruption-xdmg-v3-mace-of-disruption-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:30:32.649Z",
+  "generationMethod": "ComfyUI"
 }

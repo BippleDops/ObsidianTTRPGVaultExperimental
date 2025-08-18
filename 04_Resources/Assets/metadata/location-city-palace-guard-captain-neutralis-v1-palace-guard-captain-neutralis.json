@@ -28,5 +28,8 @@
   "model": "gpt-image-1",
   "size": "1024x1024",
   "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-palace-guard-captain-neutralis-v1-palace-guard-captain-neutralis.png"
+  "file": "04_Resources/Assets/Locations/location-city-palace-guard-captain-neutralis-v1-palace-guard-captain-neutralis.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:42.308Z",
+  "generationMethod": "ComfyUI"
 }

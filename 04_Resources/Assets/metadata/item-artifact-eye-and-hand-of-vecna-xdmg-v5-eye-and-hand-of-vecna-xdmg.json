@@ -25,5 +25,8 @@
   "alt_text": "Artifact eye-and-hand-of-vecna-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-eye-and-hand-of-vecna-xdmg-v5-eye-and-hand-of-vecna-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-eye-and-hand-of-vecna-xdmg-v5-eye-and-hand-of-vecna-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:23:54.266Z",
+  "generationMethod": "ComfyUI"
 }

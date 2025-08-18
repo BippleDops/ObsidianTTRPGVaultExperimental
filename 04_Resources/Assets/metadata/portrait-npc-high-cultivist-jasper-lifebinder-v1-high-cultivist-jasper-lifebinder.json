@@ -25,5 +25,8 @@
   "alt_text": "Portrait of High Cultivist Jasper Lifebinder with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-high-cultivist-jasper-lifebinder-v1-high-cultivist-jasper-lifebinder.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-high-cultivist-jasper-lifebinder-v1-high-cultivist-jasper-lifebinder.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:58:19.979Z",
+  "generationMethod": "ComfyUI"
 }

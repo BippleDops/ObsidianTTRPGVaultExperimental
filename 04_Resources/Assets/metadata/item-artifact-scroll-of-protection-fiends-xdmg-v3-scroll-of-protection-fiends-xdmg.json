@@ -25,5 +25,8 @@
   "alt_text": "Artifact scroll-of-protection-fiends-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-scroll-of-protection-fiends-xdmg-v3-scroll-of-protection-fiends-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-scroll-of-protection-fiends-xdmg-v3-scroll-of-protection-fiends-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:39:20.910Z",
+  "generationMethod": "ComfyUI"
 }

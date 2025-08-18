@@ -27,5 +27,8 @@
   "palette": "storm greys",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-treasurer-goldenshadow-v1-treasurer-goldenshadow.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-treasurer-goldenshadow-v1-treasurer-goldenshadow.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:53.342Z",
+  "generationMethod": "ComfyUI"
 }

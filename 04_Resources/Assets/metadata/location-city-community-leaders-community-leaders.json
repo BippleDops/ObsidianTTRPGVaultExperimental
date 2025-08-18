@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Community Leaders with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-community-leaders-community-leaders.svg"
+  "file": "04_Resources/Assets/Locations/location-city-community-leaders-community-leaders.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:00.868Z",
+  "generationMethod": "ComfyUI"
 }

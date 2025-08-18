@@ -25,5 +25,8 @@
   "alt_text": "Artifact plate-armor-of-etherealness-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-plate-armor-of-etherealness-xdmg-v1-plate-armor-of-etherealness-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-plate-armor-of-etherealness-xdmg-v1-plate-armor-of-etherealness-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:34:00.635Z",
+  "generationMethod": "ComfyUI"
 }

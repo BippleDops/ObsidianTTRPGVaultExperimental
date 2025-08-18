@@ -25,5 +25,8 @@
   "alt_text": "Artifact eyes-of-minute-seeing-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-eyes-of-minute-seeing-xdmg-v6-eyes-of-minute-seeing-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-eyes-of-minute-seeing-xdmg-v6-eyes-of-minute-seeing-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:24:01.437Z",
+  "generationMethod": "ComfyUI"
 }

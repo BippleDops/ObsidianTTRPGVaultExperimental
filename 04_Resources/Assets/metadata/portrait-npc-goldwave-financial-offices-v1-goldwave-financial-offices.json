@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Goldwave Financial Offices with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-goldwave-financial-offices-v1-goldwave-financial-offices.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-goldwave-financial-offices-v1-goldwave-financial-offices.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:58:17.580Z",
+  "generationMethod": "ComfyUI"
 }

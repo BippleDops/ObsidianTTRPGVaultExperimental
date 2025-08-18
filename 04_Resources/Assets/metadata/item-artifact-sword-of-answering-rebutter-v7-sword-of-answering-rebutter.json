@@ -25,5 +25,8 @@
   "alt_text": "Artifact sword-of-answering-rebutter with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-sword-of-answering-rebutter-v7-sword-of-answering-rebutter.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-sword-of-answering-rebutter-v7-sword-of-answering-rebutter.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:43:42.301Z",
+  "generationMethod": "ComfyUI"
 }

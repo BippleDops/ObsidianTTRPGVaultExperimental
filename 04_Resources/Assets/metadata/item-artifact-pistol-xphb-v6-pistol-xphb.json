@@ -25,5 +25,8 @@
   "alt_text": "Artifact pistol-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-pistol-xphb-v6-pistol-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-pistol-xphb-v6-pistol-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:33:51.063Z",
+  "generationMethod": "ComfyUI"
 }

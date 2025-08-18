@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Shadowmire Tavern with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-shadowmire-tavern-the-shadowmire-tavern.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-shadowmire-tavern-the-shadowmire-tavern.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:58.700Z",
+  "generationMethod": "ComfyUI"
 }

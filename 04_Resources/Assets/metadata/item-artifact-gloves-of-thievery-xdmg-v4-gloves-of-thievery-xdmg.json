@@ -25,5 +25,8 @@
   "alt_text": "Artifact gloves-of-thievery-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-gloves-of-thievery-xdmg-v4-gloves-of-thievery-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-gloves-of-thievery-xdmg-v4-gloves-of-thievery-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:25:34.154Z",
+  "generationMethod": "ComfyUI"
 }

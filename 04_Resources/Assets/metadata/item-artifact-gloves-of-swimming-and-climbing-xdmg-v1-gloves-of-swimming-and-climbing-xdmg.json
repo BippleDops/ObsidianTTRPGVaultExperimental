@@ -25,5 +25,8 @@
   "alt_text": "Artifact gloves-of-swimming-and-climbing-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-gloves-of-swimming-and-climbing-xdmg-v1-gloves-of-swimming-and-climbing-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-gloves-of-swimming-and-climbing-xdmg-v1-gloves-of-swimming-and-climbing-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:25:31.840Z",
+  "generationMethod": "ComfyUI"
 }

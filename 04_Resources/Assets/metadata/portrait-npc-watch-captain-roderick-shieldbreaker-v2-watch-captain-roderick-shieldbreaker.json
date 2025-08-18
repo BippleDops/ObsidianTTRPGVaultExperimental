@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Watch Captain Roderick Shieldbreaker with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-watch-captain-roderick-shieldbreaker-v2-watch-captain-roderick-shieldbreaker.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-watch-captain-roderick-shieldbreaker-v2-watch-captain-roderick-shieldbreaker.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:58.131Z",
+  "generationMethod": "ComfyUI"
 }

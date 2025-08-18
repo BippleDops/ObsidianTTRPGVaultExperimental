@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Diplomatic Service with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-diplomatic-service-diplomatic-service.svg"
+  "file": "04_Resources/Assets/Locations/location-city-diplomatic-service-diplomatic-service.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:51.757Z",
+  "generationMethod": "ComfyUI"
 }

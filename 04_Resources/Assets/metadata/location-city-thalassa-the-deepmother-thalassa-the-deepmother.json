@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Thalassa the Deepmother with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-thalassa-the-deepmother-thalassa-the-deepmother.svg"
+  "file": "04_Resources/Assets/Locations/location-city-thalassa-the-deepmother-thalassa-the-deepmother.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:51.534Z",
+  "generationMethod": "ComfyUI"
 }

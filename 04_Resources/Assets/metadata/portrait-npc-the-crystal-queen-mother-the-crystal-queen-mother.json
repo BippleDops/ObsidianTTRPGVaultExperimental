@@ -25,5 +25,8 @@
   "alt_text": "Portrait of The Crystal Queen Mother with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-the-crystal-queen-mother-the-crystal-queen-mother.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-the-crystal-queen-mother-the-crystal-queen-mother.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:05.453Z",
+  "generationMethod": "ComfyUI"
 }

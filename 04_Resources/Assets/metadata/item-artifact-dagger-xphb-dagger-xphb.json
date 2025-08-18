@@ -25,5 +25,8 @@
   "alt_text": "Artifact dagger-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-dagger-xphb-dagger-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-dagger-xphb-dagger-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:20:22.057Z",
+  "generationMethod": "ComfyUI"
 }

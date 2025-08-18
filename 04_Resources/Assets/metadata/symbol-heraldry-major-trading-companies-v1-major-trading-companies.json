@@ -27,5 +27,8 @@
   "palette": "deep blues",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-major-trading-companies-v1-major-trading-companies.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-major-trading-companies-v1-major-trading-companies.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:50.884Z",
+  "generationMethod": "ComfyUI"
 }

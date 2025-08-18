@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Forge Master Korax Hammerdeep with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-forge-master-korax-hammerdeep-forge-master-korax-hammerdeep.svg"
+  "file": "04_Resources/Assets/Locations/location-city-forge-master-korax-hammerdeep-forge-master-korax-hammerdeep.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:21.379Z",
+  "generationMethod": "ComfyUI"
 }

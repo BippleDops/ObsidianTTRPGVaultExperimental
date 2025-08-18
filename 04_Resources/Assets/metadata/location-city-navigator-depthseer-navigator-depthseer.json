@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Navigator Depthseer with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-navigator-depthseer-navigator-depthseer.svg"
+  "file": "04_Resources/Assets/Locations/location-city-navigator-depthseer-navigator-depthseer.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:30.392Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Battle Priest Cassius Depthshield with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-battle-priest-cassius-depthshield-v1-battle-priest-cassius-depthshield.svg"
+  "file": "04_Resources/Assets/Locations/location-city-battle-priest-cassius-depthshield-v1-battle-priest-cassius-depthshield.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:36.924Z",
+  "generationMethod": "ComfyUI"
 }

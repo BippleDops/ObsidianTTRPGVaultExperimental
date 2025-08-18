@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Healer Tide-Touch with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-healer-tide-touch-healer-tide-touch.svg"
+  "file": "04_Resources/Assets/Locations/location-city-healer-tide-touch-healer-tide-touch.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:48.745Z",
+  "generationMethod": "ComfyUI"
 }

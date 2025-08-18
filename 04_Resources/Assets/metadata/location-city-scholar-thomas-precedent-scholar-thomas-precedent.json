@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Scholar Thomas Precedent with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-scholar-thomas-precedent-scholar-thomas-precedent.svg"
+  "file": "04_Resources/Assets/Locations/location-city-scholar-thomas-precedent-scholar-thomas-precedent.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:56.404Z",
+  "generationMethod": "ComfyUI"
 }

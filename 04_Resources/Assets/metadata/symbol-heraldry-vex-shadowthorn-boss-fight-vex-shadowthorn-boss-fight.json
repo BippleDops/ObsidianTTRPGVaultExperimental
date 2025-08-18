@@ -30,5 +30,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "A medieval fantasy scene that mirrors the world of tabletop RPGs. Paint the scene with a consistent, painterly style, using simple geometrical shapes. It features a boss fight with a character known as 'Vex Shadowthorn'. The character is adorned with between two and three motifs tied closely to their identity and a heraldic emblem is present. Imagery related to seals, banners, and coins may also be incorporated into the design. The setting is an underwater realm, where the realism of aquatic life is portrayed. The world fluoresces with bioluminescent accents, highlighting structures that look like pressure-domes. The artist's palette consists predominantly of teals, deep blues, sea-greens, and pearl highlights. Do not include any artefacts in the image and maintain the required aspect ratio and resolution. Refrain from including any text or words unless explicitly specified, symbols should be meaningful and clear, staying away from modernity, photorealistic CGI, anime style, and bloom glare.",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-vex-shadowthorn-boss-fight-vex-shadowthorn-boss-fight.png"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-vex-shadowthorn-boss-fight-vex-shadowthorn-boss-fight.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:53.342Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Marcus Shardbreaker Grimm with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-marcus-shardbreaker-grimm-marcus-shardbreaker-grimm.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-marcus-shardbreaker-grimm-marcus-shardbreaker-grimm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:59:10.262Z",
+  "generationMethod": "ComfyUI"
 }

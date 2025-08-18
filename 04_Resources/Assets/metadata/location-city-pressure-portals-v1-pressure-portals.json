@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Pressure Portals with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-pressure-portals-v1-pressure-portals.svg"
+  "file": "04_Resources/Assets/Locations/location-city-pressure-portals-v1-pressure-portals.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:08.467Z",
+  "generationMethod": "ComfyUI"
 }

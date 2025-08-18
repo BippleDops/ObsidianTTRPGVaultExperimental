@@ -27,5 +27,8 @@
   "palette": "seafoam greens",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-border-patrol-unit-border-patrol-unit.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-border-patrol-unit-border-patrol-unit.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:22.283Z",
+  "generationMethod": "ComfyUI"
 }

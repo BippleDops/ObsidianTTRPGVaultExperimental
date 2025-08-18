@@ -25,5 +25,8 @@
   "alt_text": "Artifact adamantine-ammunition-xge with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-adamantine-ammunition-xge-v5-adamantine-ammunition-xge.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-adamantine-ammunition-xge-v5-adamantine-ammunition-xge.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:13:14.470Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact robe-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-robe-xphb-v7-robe-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-robe-xphb-v7-robe-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:38:13.852Z",
+  "generationMethod": "ComfyUI"
 }

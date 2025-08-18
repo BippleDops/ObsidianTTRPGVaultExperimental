@@ -25,5 +25,8 @@
   "alt_text": "Artifact staff-of-frost-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-staff-of-frost-xdmg-v5-staff-of-frost-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-staff-of-frost-xdmg-v5-staff-of-frost-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:42:44.535Z",
+  "generationMethod": "ComfyUI"
 }

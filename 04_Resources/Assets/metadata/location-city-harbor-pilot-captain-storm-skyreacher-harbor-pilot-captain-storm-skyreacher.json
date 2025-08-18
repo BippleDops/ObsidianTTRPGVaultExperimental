@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Harbor Pilot Captain Storm Skyreacher with architecture and inhabitants.",
   "realm": "aethermoor",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-harbor-pilot-captain-storm-skyreacher-harbor-pilot-captain-storm-skyreacher.svg"
+  "file": "04_Resources/Assets/Locations/location-city-harbor-pilot-captain-storm-skyreacher-harbor-pilot-captain-storm-skyreacher.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:43.798Z",
+  "generationMethod": "ComfyUI"
 }

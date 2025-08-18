@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Constitutional Monarchy with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-constitutional-monarchy-v1-constitutional-monarchy.svg"
+  "file": "04_Resources/Assets/Locations/location-city-constitutional-monarchy-v1-constitutional-monarchy.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:05.689Z",
+  "generationMethod": "ComfyUI"
 }

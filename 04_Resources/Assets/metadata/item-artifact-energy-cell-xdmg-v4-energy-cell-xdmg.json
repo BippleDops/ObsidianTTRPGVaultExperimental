@@ -25,5 +25,8 @@
   "alt_text": "Artifact energy-cell-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-energy-cell-xdmg-v4-energy-cell-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-energy-cell-xdmg-v4-energy-cell-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:22:37.881Z",
+  "generationMethod": "ComfyUI"
 }

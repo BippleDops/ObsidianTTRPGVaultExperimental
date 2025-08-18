@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Depth Cardinal Justice Currentkeeper with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-depth-cardinal-justice-currentkeeper-depth-cardinal-justice-currentkeeper.svg"
+  "file": "04_Resources/Assets/Locations/location-city-depth-cardinal-justice-currentkeeper-depth-cardinal-justice-currentkeeper.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:41.889Z",
+  "generationMethod": "ComfyUI"
 }

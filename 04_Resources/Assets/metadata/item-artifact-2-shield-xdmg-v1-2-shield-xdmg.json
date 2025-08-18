@@ -25,5 +25,8 @@
   "alt_text": "Artifact 2-shield-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-2-shield-xdmg-v1-2-shield-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-2-shield-xdmg-v1-2-shield-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:12:43.392Z",
+  "generationMethod": "ComfyUI"
 }

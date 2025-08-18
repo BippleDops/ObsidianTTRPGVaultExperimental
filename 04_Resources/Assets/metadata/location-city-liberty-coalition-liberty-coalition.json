@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Liberty Coalition with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-liberty-coalition-liberty-coalition.svg"
+  "file": "04_Resources/Assets/Locations/location-city-liberty-coalition-liberty-coalition.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:32.968Z",
+  "generationMethod": "ComfyUI"
 }

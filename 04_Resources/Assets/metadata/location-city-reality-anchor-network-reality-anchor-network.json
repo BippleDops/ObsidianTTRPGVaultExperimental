@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Reality Anchor Network with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-reality-anchor-network-reality-anchor-network.svg"
+  "file": "04_Resources/Assets/Locations/location-city-reality-anchor-network-reality-anchor-network.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:32.410Z",
+  "generationMethod": "ComfyUI"
 }

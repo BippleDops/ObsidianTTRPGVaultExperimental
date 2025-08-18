@@ -25,5 +25,8 @@
   "alt_text": "Artifact dust-of-disappearance-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-dust-of-disappearance-xdmg-v3-dust-of-disappearance-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-dust-of-disappearance-xdmg-v3-dust-of-disappearance-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:21:50.028Z",
+  "generationMethod": "ComfyUI"
 }

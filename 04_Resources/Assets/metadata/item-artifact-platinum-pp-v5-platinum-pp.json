@@ -25,5 +25,8 @@
   "alt_text": "Artifact platinum-pp with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-platinum-pp-v5-platinum-pp.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-platinum-pp-v5-platinum-pp.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:34:07.874Z",
+  "generationMethod": "ComfyUI"
 }

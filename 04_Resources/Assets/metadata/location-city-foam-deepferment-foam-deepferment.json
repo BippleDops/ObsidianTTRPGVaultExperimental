@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Foam Deepferment with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-foam-deepferment-foam-deepferment.svg"
+  "file": "04_Resources/Assets/Locations/location-city-foam-deepferment-foam-deepferment.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:18.924Z",
+  "generationMethod": "ComfyUI"
 }

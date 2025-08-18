@@ -25,5 +25,8 @@
   "alt_text": "Concept art of zuggtmoy-mtf with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-zuggtmoy-mtf-v2-zuggtmoy-mtf.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-zuggtmoy-mtf-v2-zuggtmoy-mtf.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:11:57.987Z",
+  "generationMethod": "ComfyUI"
 }

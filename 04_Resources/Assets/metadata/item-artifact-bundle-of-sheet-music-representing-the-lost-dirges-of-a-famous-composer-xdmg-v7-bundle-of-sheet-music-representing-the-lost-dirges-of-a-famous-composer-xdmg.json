@@ -25,5 +25,8 @@
   "alt_text": "Artifact bundle-of-sheet-music-representing-the-lost-dirges-of-a-famous-composer-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-bundle-of-sheet-music-representing-the-lost-dirges-of-a-famous-composer-xdmg-v7-bundle-of-sheet-music-representing-the-lost-dirges-of-a-famous-composer-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-bundle-of-sheet-music-representing-the-lost-dirges-of-a-famous-composer-xdmg-v7-bundle-of-sheet-music-representing-the-lost-dirges-of-a-famous-composer-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:17:25.663Z",
+  "generationMethod": "ComfyUI"
 }

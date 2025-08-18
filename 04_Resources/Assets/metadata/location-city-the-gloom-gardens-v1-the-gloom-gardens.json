@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Gloom Gardens with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-gloom-gardens-v1-the-gloom-gardens.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-gloom-gardens-v1-the-gloom-gardens.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:22.734Z",
+  "generationMethod": "ComfyUI"
 }

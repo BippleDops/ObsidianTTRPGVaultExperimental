@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of University System with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-university-system-university-system.svg"
+  "file": "04_Resources/Assets/Locations/location-city-university-system-university-system.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:44.172Z",
+  "generationMethod": "ComfyUI"
 }

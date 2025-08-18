@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Marina Clearwater with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-marina-clearwater-v1-marina-clearwater.svg"
+  "file": "04_Resources/Assets/Locations/location-city-marina-clearwater-v1-marina-clearwater.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:47.634Z",
+  "generationMethod": "ComfyUI"
 }

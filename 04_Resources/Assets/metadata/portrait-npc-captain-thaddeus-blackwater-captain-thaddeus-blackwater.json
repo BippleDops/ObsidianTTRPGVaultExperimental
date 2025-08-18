@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Captain Thaddeus Blackwater with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-captain-thaddeus-blackwater-captain-thaddeus-blackwater.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-captain-thaddeus-blackwater-captain-thaddeus-blackwater.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:57:24.911Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact bejeweled-gold-bracelet-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-bejeweled-gold-bracelet-xdmg-bejeweled-gold-bracelet-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-bejeweled-gold-bracelet-xdmg-bejeweled-gold-bracelet-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:15:30.953Z",
+  "generationMethod": "ComfyUI"
 }

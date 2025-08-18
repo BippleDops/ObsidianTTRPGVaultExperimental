@@ -27,5 +27,8 @@
   "palette": "seafoam greens",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-family-retainer-v1-family-retainer.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-family-retainer-v1-family-retainer.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:39.049Z",
+  "generationMethod": "ComfyUI"
 }

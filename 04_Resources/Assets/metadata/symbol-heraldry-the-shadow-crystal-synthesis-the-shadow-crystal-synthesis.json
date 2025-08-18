@@ -30,5 +30,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Design a painterly and medieval–fantasy style image that portrays a tabletop role-playing game scene reminiscent of D&D 5E. The scene should be deeply grounded in the thematics of aquatic fantasy, presenting a strong emphasis on subsurface caustics and bioluminescent accents. The color palette should mainly encompass deep blues, sea greens, teals, and pearl highlights, generating a sense of deep sea aesthetic. Visual elements should include hero characters dressed in culturally coherent gear appropriate to a medieval fantasy setting, constructed of traditional materials without any hint of modern tech or signage. The image must prominently display an emblem named 'The Shadow-Crystal Synthesis' which should contain 2-3 motifs that tie closely to its identity. Variations of this emblem like a seal, a banner, or a coin could be scattered throughout the scene. Limit the geometry of these elements to being simple yet impactful. Please avoid rendering the image in vector SVG, photoreal CGI, an anime style, and avoid including modern signage, garbled or random letters, science fiction User Interfaces, and unwanted glare. The aspect ratio and resolution of the image should be dictated by the specified requirements and ensure there are no artifacts or distortions.",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.png"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:43.710Z",
+  "generationMethod": "ComfyUI"
 }

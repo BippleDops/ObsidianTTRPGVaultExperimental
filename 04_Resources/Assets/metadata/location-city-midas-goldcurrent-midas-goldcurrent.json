@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Midas Goldcurrent with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-midas-goldcurrent-midas-goldcurrent.svg"
+  "file": "04_Resources/Assets/Locations/location-city-midas-goldcurrent-midas-goldcurrent.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:23.200Z",
+  "generationMethod": "ComfyUI"
 }

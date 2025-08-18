@@ -27,5 +27,8 @@
   "palette": "gold accents",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-minister-truth-darknes-v1-minister-truth-darknes.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-minister-truth-darknes-v1-minister-truth-darknes.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:55.676Z",
+  "generationMethod": "ComfyUI"
 }

@@ -27,5 +27,8 @@
   "palette": "deep blues",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-echo-succession-the-echo-succession.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-echo-succession-the-echo-succession.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:31.843Z",
+  "generationMethod": "ComfyUI"
 }

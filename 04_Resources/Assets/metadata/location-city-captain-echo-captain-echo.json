@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Captain Echo with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-captain-echo-captain-echo.svg"
+  "file": "04_Resources/Assets/Locations/location-city-captain-echo-captain-echo.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:44.064Z",
+  "generationMethod": "ComfyUI"
 }

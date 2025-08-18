@@ -25,5 +25,8 @@
   "alt_text": "Artifact statuette-of-saint-markovia-cos with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-statuette-of-saint-markovia-cos-v2-statuette-of-saint-markovia-cos.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-statuette-of-saint-markovia-cos-v2-statuette-of-saint-markovia-cos.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:43:11.017Z",
+  "generationMethod": "ComfyUI"
 }

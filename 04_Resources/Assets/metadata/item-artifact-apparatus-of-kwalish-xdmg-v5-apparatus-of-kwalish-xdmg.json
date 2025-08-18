@@ -25,5 +25,8 @@
   "alt_text": "Artifact apparatus-of-kwalish-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-apparatus-of-kwalish-xdmg-v5-apparatus-of-kwalish-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-apparatus-of-kwalish-xdmg-v5-apparatus-of-kwalish-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:13:55.260Z",
+  "generationMethod": "ComfyUI"
 }

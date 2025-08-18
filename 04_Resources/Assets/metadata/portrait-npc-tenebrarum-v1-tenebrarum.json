@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Tenebrarum with evocative background; clear features readable at token size.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-tenebrarum-v1-tenebrarum.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-tenebrarum-v1-tenebrarum.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:00:55.832Z",
+  "generationMethod": "ComfyUI"
 }

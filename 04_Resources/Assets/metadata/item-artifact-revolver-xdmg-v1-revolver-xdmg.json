@@ -25,5 +25,8 @@
   "alt_text": "Artifact revolver-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-revolver-xdmg-v1-revolver-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-revolver-xdmg-v1-revolver-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:36:43.114Z",
+  "generationMethod": "ComfyUI"
 }

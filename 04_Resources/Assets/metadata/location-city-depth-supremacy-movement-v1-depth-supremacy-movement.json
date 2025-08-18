@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Depth Supremacy Movement with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-depth-supremacy-movement-v1-depth-supremacy-movement.svg"
+  "file": "04_Resources/Assets/Locations/location-city-depth-supremacy-movement-v1-depth-supremacy-movement.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:46.830Z",
+  "generationMethod": "ComfyUI"
 }

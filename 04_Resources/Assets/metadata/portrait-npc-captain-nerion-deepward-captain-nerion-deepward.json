@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Captain Nerion Deepward with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-captain-nerion-deepward-captain-nerion-deepward.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-captain-nerion-deepward-captain-nerion-deepward.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:57:12.855Z",
+  "generationMethod": "ComfyUI"
 }

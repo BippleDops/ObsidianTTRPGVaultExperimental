@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Vanguard Captain Crystalla Shardstrike with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-vanguard-captain-crystalla-shardstrike-vanguard-captain-crystalla-shardstrike.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-vanguard-captain-crystalla-shardstrike-vanguard-captain-crystalla-shardstrike.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:53.321Z",
+  "generationMethod": "ComfyUI"
 }

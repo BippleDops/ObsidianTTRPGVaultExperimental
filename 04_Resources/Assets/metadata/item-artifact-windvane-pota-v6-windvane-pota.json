@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "A heroic and fantastical artifact from a medieval-fantasy realm akin to the universe of D&D 5e, made with grounded materials like pearl, coral, cloud-crystal, and pressure-forged metals with abstract sigils manifesting a soft glow. This artifact resembles a windvane-pot, engraved with airship motifs and wind-swept forms, beautifully reflecting a painterly collection style. Presented as a product render, the artifact has a scale reference of a human hand or a ruler. The color palette features navy, gold, cloud-white, with warm sun highlights accentuating the fine detail. Embracing an aesthetic of skyward romantic realism, the image avoids any modern tech, sci-fi UI, readable words, garbled letters and anime style. The background is devoid of modern signage, and the item doesn't bear any photoreal CGI or bloom glare.",
-  "file": "04_Resources/Assets/Items/item-artifact-windvane-pota-v6-windvane-pota.png"
+  "file": "04_Resources/Assets/Items/item-artifact-windvane-pota-v6-windvane-pota.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:46:37.135Z",
+  "generationMethod": "ComfyUI"
 }

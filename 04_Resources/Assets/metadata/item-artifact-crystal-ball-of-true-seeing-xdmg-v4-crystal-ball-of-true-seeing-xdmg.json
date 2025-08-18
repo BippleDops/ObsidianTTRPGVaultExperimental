@@ -25,5 +25,8 @@
   "alt_text": "Artifact crystal-ball-of-true-seeing-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-crystal-ball-of-true-seeing-xdmg-v4-crystal-ball-of-true-seeing-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-crystal-ball-of-true-seeing-xdmg-v4-crystal-ball-of-true-seeing-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:20:05.376Z",
+  "generationMethod": "ComfyUI"
 }

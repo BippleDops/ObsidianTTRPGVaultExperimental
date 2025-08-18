@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Lost Shipment with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-lost-shipment-the-lost-shipment.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-lost-shipment-the-lost-shipment.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:37.142Z",
+  "generationMethod": "ComfyUI"
 }

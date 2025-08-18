@@ -25,5 +25,8 @@
   "alt_text": "Artifact iron-bands-of-bilarro-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-iron-bands-of-bilarro-xdmg-v4-iron-bands-of-bilarro-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-iron-bands-of-bilarro-xdmg-v4-iron-bands-of-bilarro-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:28:59.567Z",
+  "generationMethod": "ComfyUI"
 }

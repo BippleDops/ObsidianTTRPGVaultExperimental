@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Temple Clergy with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-temple-clergy-v1-temple-clergy.svg"
+  "file": "04_Resources/Assets/Locations/location-city-temple-clergy-v1-temple-clergy.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:39.588Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Emperor Abyssal the Deep-Sighted with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-emperor-abyssal-the-deep-sighted-emperor-abyssal-the-deep-sighted.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-emperor-abyssal-the-deep-sighted-emperor-abyssal-the-deep-sighted.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:58:00.904Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact jasper-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-jasper-xdmg-v3-jasper-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-jasper-xdmg-v3-jasper-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:29:21.043Z",
+  "generationMethod": "ComfyUI"
 }

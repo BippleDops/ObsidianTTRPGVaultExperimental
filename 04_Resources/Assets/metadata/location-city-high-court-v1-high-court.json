@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of High Court with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-high-court-v1-high-court.svg"
+  "file": "04_Resources/Assets/Locations/location-city-high-court-v1-high-court.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:51.193Z",
+  "generationMethod": "ComfyUI"
 }

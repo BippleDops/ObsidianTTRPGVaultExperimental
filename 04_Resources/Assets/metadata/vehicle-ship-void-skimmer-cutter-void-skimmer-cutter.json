@@ -26,5 +26,8 @@
   "realm": "void",
   "callouts": "numbered pins 01..10; legend area reserved; no paragraph labels",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Vehicles/vehicle-ship-void-skimmer-cutter-void-skimmer-cutter.svg"
+  "file": "04_Resources/Assets/Vehicles/vehicle-ship-void-skimmer-cutter-void-skimmer-cutter.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:04:17.180Z",
+  "generationMethod": "ComfyUI"
 }

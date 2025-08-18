@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Sacred Historian Coral Deepscribe with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-sacred-historian-coral-deepscribe-v1-sacred-historian-coral-deepscribe.svg"
+  "file": "04_Resources/Assets/Locations/location-city-sacred-historian-coral-deepscribe-v1-sacred-historian-coral-deepscribe.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:49.195Z",
+  "generationMethod": "ComfyUI"
 }

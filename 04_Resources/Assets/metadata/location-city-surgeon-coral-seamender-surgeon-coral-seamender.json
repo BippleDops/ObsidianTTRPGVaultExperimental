@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Surgeon Coral Seamender with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-surgeon-coral-seamender-surgeon-coral-seamender.svg"
+  "file": "04_Resources/Assets/Locations/location-city-surgeon-coral-seamender-surgeon-coral-seamender.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:34.791Z",
+  "generationMethod": "ComfyUI"
 }

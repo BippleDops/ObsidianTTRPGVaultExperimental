@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Institute for Reality Studies Researchers with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-institute-for-reality-studies-researchers-v1-institute-for-reality-studies-researchers.svg"
+  "file": "04_Resources/Assets/Locations/location-city-institute-for-reality-studies-researchers-v1-institute-for-reality-studies-researchers.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:03.552Z",
+  "generationMethod": "ComfyUI"
 }

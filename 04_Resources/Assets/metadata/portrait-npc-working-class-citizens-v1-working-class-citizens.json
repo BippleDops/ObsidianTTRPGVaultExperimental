@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Working Class Citizens with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-working-class-citizens-v1-working-class-citizens.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-working-class-citizens-v1-working-class-citizens.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:58.130Z",
+  "generationMethod": "ComfyUI"
 }

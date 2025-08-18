@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Into the Blue with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-into-the-blue-v1-into-the-blue.svg"
+  "file": "04_Resources/Assets/Locations/location-city-into-the-blue-v1-into-the-blue.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:10.981Z",
+  "generationMethod": "ComfyUI"
 }

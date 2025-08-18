@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Echo-Translator Vera with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-echo-translator-vera-echo-translator-vera.svg"
+  "file": "04_Resources/Assets/Locations/location-city-echo-translator-vera-echo-translator-vera.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:01.448Z",
+  "generationMethod": "ComfyUI"
 }

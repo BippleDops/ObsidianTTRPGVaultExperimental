@@ -25,5 +25,8 @@
   "alt_text": "Artifact sovereign-glue-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-sovereign-glue-xdmg-v2-sovereign-glue-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-sovereign-glue-xdmg-v2-sovereign-glue-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:41:25.436Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Atmospheric illustration of: Crystal trench aurora.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Scenes/scene-scene-crystal-trench-aurora-crystal-trench-aurora.svg"
+  "file": "04_Resources/Assets/Scenes/scene-scene-crystal-trench-aurora-crystal-trench-aurora.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:02.946Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact staff-of-defense-lmop with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-staff-of-defense-lmop-v6-staff-of-defense-lmop.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-staff-of-defense-lmop-v6-staff-of-defense-lmop.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:42:37.411Z",
+  "generationMethod": "ComfyUI"
 }

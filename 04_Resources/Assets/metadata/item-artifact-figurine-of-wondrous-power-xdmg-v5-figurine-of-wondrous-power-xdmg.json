@@ -25,5 +25,8 @@
   "alt_text": "Artifact figurine-of-wondrous-power-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-figurine-of-wondrous-power-xdmg-v5-figurine-of-wondrous-power-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-figurine-of-wondrous-power-xdmg-v5-figurine-of-wondrous-power-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:24:24.970Z",
+  "generationMethod": "ComfyUI"
 }

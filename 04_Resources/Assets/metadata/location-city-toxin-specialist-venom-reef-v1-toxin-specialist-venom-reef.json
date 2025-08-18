@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Toxin Specialist Venom Reef with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-toxin-specialist-venom-reef-v1-toxin-specialist-venom-reef.svg"
+  "file": "04_Resources/Assets/Locations/location-city-toxin-specialist-venom-reef-v1-toxin-specialist-venom-reef.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:29.911Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Memory Recording Chambers with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-memory-recording-chambers-memory-recording-chambers.svg"
+  "file": "04_Resources/Assets/Locations/location-city-memory-recording-chambers-memory-recording-chambers.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:16.045Z",
+  "generationMethod": "ComfyUI"
 }

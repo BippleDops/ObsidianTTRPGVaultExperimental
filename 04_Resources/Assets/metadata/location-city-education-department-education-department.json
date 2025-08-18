@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Education Department with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-education-department-education-department.svg"
+  "file": "04_Resources/Assets/Locations/location-city-education-department-education-department.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:03.977Z",
+  "generationMethod": "ComfyUI"
 }

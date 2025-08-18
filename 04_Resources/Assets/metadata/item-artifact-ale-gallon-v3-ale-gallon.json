@@ -25,5 +25,8 @@
   "alt_text": "Artifact ale-gallon with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-ale-gallon-v3-ale-gallon.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-ale-gallon-v3-ale-gallon.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:13:28.897Z",
+  "generationMethod": "ComfyUI"
 }

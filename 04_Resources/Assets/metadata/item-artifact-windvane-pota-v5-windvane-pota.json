@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "A detailed rendering of a heroic artifact, lying amidst a backdrop of a medieval-fantasy tabletop setting. The artifact, called the windvane-pota, includes materials such as pearl, coral, and cloud-crystal, seamlessly interwoven with pressure-forged metals. Abstract, meaningful sigils - not resembling any known alphabets - adorn its surface, emanating a soft, gentle glow. Use an item such as a hand or ruler for size comparison. The rendering aims for a skyward romantic realism aesthetic,  the artifact detailing influences of wind-swept forms and motifs of airships. The core color palette consists of navy, gold, and cloud-white, with warm highlights reminiscent of the sun. Avoid any modern tech, sci-fi UIs, modern signage, and photoreal CGI. No Anime style or bloom glare.",
-  "file": "04_Resources/Assets/Items/item-artifact-windvane-pota-v5-windvane-pota.png"
+  "file": "04_Resources/Assets/Items/item-artifact-windvane-pota-v5-windvane-pota.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:46:37.136Z",
+  "generationMethod": "ComfyUI"
 }

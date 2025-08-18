@@ -25,5 +25,8 @@
   "alt_text": "Artifact horn-of-valhalla-bronze-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-horn-of-valhalla-bronze-xdmg-horn-of-valhalla-bronze-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-horn-of-valhalla-bronze-xdmg-horn-of-valhalla-bronze-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:27:38.542Z",
+  "generationMethod": "ComfyUI"
 }

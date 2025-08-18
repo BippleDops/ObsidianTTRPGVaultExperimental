@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Marcus \"The Shade\" Blackwood with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-marcus-the-shade-blackwood-v1-marcus-the-shade-blackwood.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-marcus-the-shade-blackwood-v1-marcus-the-shade-blackwood.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:59:10.261Z",
+  "generationMethod": "ComfyUI"
 }

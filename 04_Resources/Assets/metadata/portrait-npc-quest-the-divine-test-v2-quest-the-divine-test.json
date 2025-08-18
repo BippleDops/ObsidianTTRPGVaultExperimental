@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Quest - The Divine Test with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-divine-test-v2-quest-the-divine-test.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-divine-test-v2-quest-the-divine-test.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:00:05.435Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Atmospheric illustration of: Golden Trade Route convoy.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Scenes/scene-scene-golden-trade-route-convoy-golden-trade-route-convoy.svg"
+  "file": "04_Resources/Assets/Scenes/scene-scene-golden-trade-route-convoy-golden-trade-route-convoy.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:05.372Z",
+  "generationMethod": "ComfyUI"
 }

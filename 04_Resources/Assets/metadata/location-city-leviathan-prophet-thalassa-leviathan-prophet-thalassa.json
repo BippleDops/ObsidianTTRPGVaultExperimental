@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Leviathan Prophet Thalassa with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-leviathan-prophet-thalassa-leviathan-prophet-thalassa.svg"
+  "file": "04_Resources/Assets/Locations/location-city-leviathan-prophet-thalassa-leviathan-prophet-thalassa.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:30.555Z",
+  "generationMethod": "ComfyUI"
 }

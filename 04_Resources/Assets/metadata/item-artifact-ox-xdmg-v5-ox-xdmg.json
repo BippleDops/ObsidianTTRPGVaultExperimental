@@ -25,5 +25,8 @@
   "alt_text": "Artifact ox-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-ox-xdmg-v5-ox-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-ox-xdmg-v5-ox-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:33:00.797Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Harbormaster Erik Saltbeard with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-harbormaster-erik-saltbeard-harbormaster-erik-saltbeard.svg"
+  "file": "04_Resources/Assets/Locations/location-city-harbormaster-erik-saltbeard-harbormaster-erik-saltbeard.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:46.229Z",
+  "generationMethod": "ComfyUI"
 }

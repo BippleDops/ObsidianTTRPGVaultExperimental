@@ -25,5 +25,8 @@
   "alt_text": "Artifact periapt-of-proof-against-poison-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-periapt-of-proof-against-poison-xdmg-v6-periapt-of-proof-against-poison-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-periapt-of-proof-against-poison-xdmg-v6-periapt-of-proof-against-poison-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:33:34.399Z",
+  "generationMethod": "ComfyUI"
 }

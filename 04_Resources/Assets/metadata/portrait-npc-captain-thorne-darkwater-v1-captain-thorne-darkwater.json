@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Captain Thorne Darkwater with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-captain-thorne-darkwater-v1-captain-thorne-darkwater.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-captain-thorne-darkwater-v1-captain-thorne-darkwater.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:57:27.318Z",
+  "generationMethod": "ComfyUI"
 }

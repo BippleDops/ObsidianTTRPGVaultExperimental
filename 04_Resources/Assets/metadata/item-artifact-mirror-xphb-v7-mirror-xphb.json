@@ -25,5 +25,8 @@
   "alt_text": "Artifact mirror-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-mirror-xphb-v7-mirror-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-mirror-xphb-v7-mirror-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:31:39.148Z",
+  "generationMethod": "ComfyUI"
 }

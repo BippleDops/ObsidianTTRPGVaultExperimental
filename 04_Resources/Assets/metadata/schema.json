@@ -3,7 +3,13 @@
   "title": "TTRPG Asset Metadata Schema",
   "description": "Standardized metadata for vault assets including images, maps, and multimedia",
   "type": "object",
-  "required": ["id", "title", "kind", "tags", "created"],
+  "required": [
+    "id",
+    "title",
+    "kind",
+    "tags",
+    "created"
+  ],
   "properties": {
     "id": {
       "type": "string",
@@ -16,7 +22,16 @@
     },
     "kind": {
       "type": "string",
-      "enum": ["portrait", "location", "map", "prop", "creature", "symbol", "handout", "token"],
+      "enum": [
+        "portrait",
+        "location",
+        "map",
+        "prop",
+        "creature",
+        "symbol",
+        "handout",
+        "token"
+      ],
       "description": "Primary category of the asset"
     },
     "tags": {
@@ -50,7 +65,13 @@
     },
     "license": {
       "type": "string",
-      "enum": ["CC0", "CC-BY-4.0", "CC-BY-SA-4.0", "proprietary", "fair-use"],
+      "enum": [
+        "CC0",
+        "CC-BY-4.0",
+        "CC-BY-SA-4.0",
+        "proprietary",
+        "fair-use"
+      ],
       "description": "License or usage rights"
     },
     "artist": {
@@ -60,8 +81,12 @@
     "dimensions": {
       "type": "object",
       "properties": {
-        "width": {"type": "integer"},
-        "height": {"type": "integer"}
+        "width": {
+          "type": "integer"
+        },
+        "height": {
+          "type": "integer"
+        }
       },
       "description": "Image dimensions in pixels"
     },
@@ -72,5 +97,8 @@
       },
       "description": "Related vault notes for cross-reference"
     }
-  }
+  },
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:15.076Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Historical Societies with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-historical-societies-v1-historical-societies.svg"
+  "file": "04_Resources/Assets/Locations/location-city-historical-societies-v1-historical-societies.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:58.646Z",
+  "generationMethod": "ComfyUI"
 }

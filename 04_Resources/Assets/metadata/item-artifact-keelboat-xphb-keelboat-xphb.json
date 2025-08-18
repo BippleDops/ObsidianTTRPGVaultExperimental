@@ -25,5 +25,8 @@
   "alt_text": "Artifact keelboat-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-keelboat-xphb-keelboat-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-keelboat-xphb-keelboat-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:29:35.281Z",
+  "generationMethod": "ComfyUI"
 }

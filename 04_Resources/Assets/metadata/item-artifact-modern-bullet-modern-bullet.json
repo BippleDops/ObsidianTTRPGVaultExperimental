@@ -25,5 +25,8 @@
   "alt_text": "Artifact modern-bullet with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-modern-bullet-modern-bullet.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-modern-bullet-modern-bullet.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:31:41.482Z",
+  "generationMethod": "ComfyUI"
 }

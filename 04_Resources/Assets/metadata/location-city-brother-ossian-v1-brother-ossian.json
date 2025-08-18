@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Brother Ossian with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-brother-ossian-v1-brother-ossian.svg"
+  "file": "04_Resources/Assets/Locations/location-city-brother-ossian-v1-brother-ossian.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:41.684Z",
+  "generationMethod": "ComfyUI"
 }

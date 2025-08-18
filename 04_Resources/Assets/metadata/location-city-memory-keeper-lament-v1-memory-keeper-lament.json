@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Memory Keeper Lament with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-memory-keeper-lament-v1-memory-keeper-lament.svg"
+  "file": "04_Resources/Assets/Locations/location-city-memory-keeper-lament-v1-memory-keeper-lament.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:13.682Z",
+  "generationMethod": "ComfyUI"
 }

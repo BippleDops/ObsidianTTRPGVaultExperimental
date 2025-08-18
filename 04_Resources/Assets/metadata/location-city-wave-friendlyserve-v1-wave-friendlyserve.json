@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Wave Friendlyserve with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-wave-friendlyserve-v1-wave-friendlyserve.svg"
+  "file": "04_Resources/Assets/Locations/location-city-wave-friendlyserve-v1-wave-friendlyserve.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:56.103Z",
+  "generationMethod": "ComfyUI"
 }

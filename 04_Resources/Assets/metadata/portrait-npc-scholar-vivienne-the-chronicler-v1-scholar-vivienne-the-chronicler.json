@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Scholar Vivienne the Chronicler with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-scholar-vivienne-the-chronicler-v1-scholar-vivienne-the-chronicler.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-scholar-vivienne-the-chronicler-v1-scholar-vivienne-the-chronicler.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:00:29.439Z",
+  "generationMethod": "ComfyUI"
 }

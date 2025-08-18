@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Reality Distortion Effects with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-reality-distortion-effects-reality-distortion-effects.svg"
+  "file": "04_Resources/Assets/Locations/location-city-reality-distortion-effects-reality-distortion-effects.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:32.412Z",
+  "generationMethod": "ComfyUI"
 }

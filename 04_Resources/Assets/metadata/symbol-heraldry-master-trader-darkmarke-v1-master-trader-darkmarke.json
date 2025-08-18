@@ -27,5 +27,8 @@
   "palette": "deep blues",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-master-trader-darkmarke-v1-master-trader-darkmarke.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-master-trader-darkmarke-v1-master-trader-darkmarke.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:50.883Z",
+  "generationMethod": "ComfyUI"
 }

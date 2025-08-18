@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Quest - The Blackmail Papers with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-quest-the-blackmail-papers-quest-the-blackmail-papers.svg"
+  "file": "04_Resources/Assets/Locations/location-city-quest-the-blackmail-papers-quest-the-blackmail-papers.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:27.573Z",
+  "generationMethod": "ComfyUI"
 }

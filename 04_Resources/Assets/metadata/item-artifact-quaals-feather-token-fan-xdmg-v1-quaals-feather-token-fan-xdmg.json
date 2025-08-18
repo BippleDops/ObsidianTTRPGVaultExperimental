@@ -25,5 +25,8 @@
   "alt_text": "Artifact quaals-feather-token-fan-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-quaals-feather-token-fan-xdmg-v1-quaals-feather-token-fan-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-quaals-feather-token-fan-xdmg-v1-quaals-feather-token-fan-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:36:09.599Z",
+  "generationMethod": "ComfyUI"
 }

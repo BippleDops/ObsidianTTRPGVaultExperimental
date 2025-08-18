@@ -27,5 +27,8 @@
   "palette": "seafoam greens",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-convergence-seekers-the-convergence-seekers.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-convergence-seekers-the-convergence-seekers.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:27.002Z",
+  "generationMethod": "ComfyUI"
 }

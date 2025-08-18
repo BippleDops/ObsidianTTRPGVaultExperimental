@@ -2,9 +2,17 @@
   "id": "npc-portrait-senator-glaucus-v1",
   "title": "Senator Glaucus Tidecaller — Shadow Replaced",
   "kind": "portrait",
-  "tags": ["npc", "aquabyssos", "parliament", "shadow", "horror"],
+  "tags": [
+    "npc",
+    "aquabyssos",
+    "parliament",
+    "shadow",
+    "horror"
+  ],
   "brief": "Tall, unnaturally thin figure with translucent skin revealing dark veins beneath. Completely black eyes with no whites or iris. Shadow moves independently. Formal senatorial robes with water-adapted modifications. Unsettling smile.",
-  "sources": ["02_Worldbuilding/People/Senator Glaucus.md"],
+  "sources": [
+    "02_Worldbuilding/People/Senator Glaucus.md"
+  ],
   "created": "2025-08-11",
   "updated": "2025-08-11",
   "license": "CC-BY-4.0",
@@ -17,5 +25,8 @@
     "02_Worldbuilding/Places/Parliament of Echoes.md",
     "02_Worldbuilding/Groups/Shadow Parliament.md",
     "02_Worldbuilding/People/Shadow Duchess Nyx.md"
-  ]
+  ],
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:56:32.073Z",
+  "generationMethod": "ComfyUI"
 }

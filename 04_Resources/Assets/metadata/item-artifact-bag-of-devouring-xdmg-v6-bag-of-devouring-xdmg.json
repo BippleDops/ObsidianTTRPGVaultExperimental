@@ -25,5 +25,8 @@
   "alt_text": "Artifact bag-of-devouring-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-bag-of-devouring-xdmg-v6-bag-of-devouring-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-bag-of-devouring-xdmg-v6-bag-of-devouring-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:14:52.541Z",
+  "generationMethod": "ComfyUI"
 }

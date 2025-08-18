@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Social Clubs with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-social-clubs-social-clubs.svg"
+  "file": "04_Resources/Assets/Locations/location-city-social-clubs-social-clubs.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:22.836Z",
+  "generationMethod": "ComfyUI"
 }

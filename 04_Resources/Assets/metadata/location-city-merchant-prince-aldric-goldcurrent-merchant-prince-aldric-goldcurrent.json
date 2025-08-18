@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Merchant Prince Aldric Goldcurrent with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-merchant-prince-aldric-goldcurrent-merchant-prince-aldric-goldcurrent.svg"
+  "file": "04_Resources/Assets/Locations/location-city-merchant-prince-aldric-goldcurrent-merchant-prince-aldric-goldcurrent.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:20.816Z",
+  "generationMethod": "ComfyUI"
 }

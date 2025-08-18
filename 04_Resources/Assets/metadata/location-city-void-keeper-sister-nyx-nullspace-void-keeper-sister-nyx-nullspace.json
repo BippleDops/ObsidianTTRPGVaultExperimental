@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Void Keeper Sister Nyx Nullspace with architecture and inhabitants.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-void-keeper-sister-nyx-nullspace-void-keeper-sister-nyx-nullspace.svg"
+  "file": "04_Resources/Assets/Locations/location-city-void-keeper-sister-nyx-nullspace-void-keeper-sister-nyx-nullspace.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:48.949Z",
+  "generationMethod": "ComfyUI"
 }

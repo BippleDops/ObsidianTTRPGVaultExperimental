@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Great Sky Harbor with architecture and inhabitants.",
   "realm": "aethermoor",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-great-sky-harbor-the-great-sky-harbor.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-great-sky-harbor-the-great-sky-harbor.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:22.734Z",
+  "generationMethod": "ComfyUI"
 }

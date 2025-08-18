@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Garden of Shadows with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-garden-of-shadows-v1-garden-of-shadows.svg"
+  "file": "04_Resources/Assets/Locations/location-city-garden-of-shadows-v1-garden-of-shadows.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:26.370Z",
+  "generationMethod": "ComfyUI"
 }

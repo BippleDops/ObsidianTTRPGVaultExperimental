@@ -27,5 +27,8 @@
   "palette": "seafoam greens",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-stellar-confluence-v1-the-stellar-confluence.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-stellar-confluence-v1-the-stellar-confluence.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:46.114Z",
+  "generationMethod": "ComfyUI"
 }

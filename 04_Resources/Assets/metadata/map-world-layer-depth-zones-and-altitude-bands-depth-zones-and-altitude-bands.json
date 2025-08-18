@@ -36,5 +36,8 @@
   "scale": "1:25,000,000",
   "textPolicy": "labels added as separate overlay, no rasterized tiny text",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Maps/map-world-layer-depth-zones-and-altitude-bands-depth-zones-and-altitude-bands.svg"
+  "file": "04_Resources/Assets/Maps/map-world-layer-depth-zones-and-altitude-bands-depth-zones-and-altitude-bands.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:56:27.314Z",
+  "generationMethod": "ComfyUI"
 }

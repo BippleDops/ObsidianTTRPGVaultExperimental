@@ -25,5 +25,8 @@
   "alt_text": "Artifact censer-of-controlling-air-elementals-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-censer-of-controlling-air-elementals-xdmg-v7-censer-of-controlling-air-elementals-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-censer-of-controlling-air-elementals-xdmg-v7-censer-of-controlling-air-elementals-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:18:22.925Z",
+  "generationMethod": "ComfyUI"
 }

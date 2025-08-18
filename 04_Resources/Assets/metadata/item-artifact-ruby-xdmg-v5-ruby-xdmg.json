@@ -28,5 +28,8 @@
   "model": "gpt-image-1",
   "size": "1024x1024",
   "revised_prompt": null,
-  "file": "04_Resources/Assets/Items/item-artifact-ruby-xdmg-v5-ruby-xdmg.png"
+  "file": "04_Resources/Assets/Items/item-artifact-ruby-xdmg-v5-ruby-xdmg.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:38:42.503Z",
+  "generationMethod": "ComfyUI"
 }

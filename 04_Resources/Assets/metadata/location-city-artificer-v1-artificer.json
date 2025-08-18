@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Artificer with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-artificer-v1-artificer.svg"
+  "file": "04_Resources/Assets/Locations/location-city-artificer-v1-artificer.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:29.734Z",
+  "generationMethod": "ComfyUI"
 }

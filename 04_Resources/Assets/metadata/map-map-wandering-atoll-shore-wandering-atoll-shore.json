@@ -33,5 +33,8 @@
   },
   "levels": 1,
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Maps/map-map-wandering-atoll-shore-wandering-atoll-shore.svg"
+  "file": "04_Resources/Assets/Maps/map-map-wandering-atoll-shore-wandering-atoll-shore.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:56:24.903Z",
+  "generationMethod": "ComfyUI"
 }

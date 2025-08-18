@@ -25,5 +25,8 @@
   "alt_text": "Artifact bag-of-tricks-tan-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-bag-of-tricks-tan-xdmg-v4-bag-of-tricks-tan-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-bag-of-tricks-tan-xdmg-v4-bag-of-tricks-tan-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:14:59.730Z",
+  "generationMethod": "ComfyUI"
 }

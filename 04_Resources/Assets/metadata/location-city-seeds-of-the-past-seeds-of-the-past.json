@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Seeds of the Past with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-seeds-of-the-past-seeds-of-the-past.svg"
+  "file": "04_Resources/Assets/Locations/location-city-seeds-of-the-past-seeds-of-the-past.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:06.036Z",
+  "generationMethod": "ComfyUI"
 }

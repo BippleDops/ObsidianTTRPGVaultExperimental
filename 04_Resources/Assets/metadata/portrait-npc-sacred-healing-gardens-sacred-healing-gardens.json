@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Sacred Healing Gardens with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-sacred-healing-gardens-sacred-healing-gardens.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-sacred-healing-gardens-sacred-healing-gardens.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:00:27.029Z",
+  "generationMethod": "ComfyUI"
 }

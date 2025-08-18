@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Create a panoramic view of a fantastical setting known as 'The Shadowmere'. Ensure it is imbued with a consistent painterly visual style reminiscent of heroic tabletop fantasy and grounded medieval-fantasy that rejects modern technology or signage. This unique world is lit by a cinematic gold-lit evening glow during a looming storm. A striking feature of this landscape is its bioluminescent coral or cloudstone, which glow in captivating hues of teal, deep blues, and sea-greens, with accents of pearl highlights. Atmospheric particles swirl amidst the scene, suggesting the pressure differences under the protective dome-like material. To provide a sense of scale, please include figures or vehicles that are culturally coherent to this mythical world. The image created should align with an aspect or resolution that avoids visual artifacts. Please avoid including readable signage or paragraphs; instead, use iconography or blank signboards. Ensure all symbols used are meaningful or numbered pins, no random letter strings. Avoid elements of sci-fi UIs, modern signage, photoreal CGI, or anime style, and keep the bloom glare to a minimum.",
-  "file": "04_Resources/Assets/Locations/location-city-the-shadowmere-v1-the-shadowmere.png"
+  "file": "04_Resources/Assets/Locations/location-city-the-shadowmere-v1-the-shadowmere.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:58.702Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Time-Lost Delegate Chronus with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-time-lost-delegate-chronus-v1-time-lost-delegate-chronus.svg"
+  "file": "04_Resources/Assets/Locations/location-city-time-lost-delegate-chronus-v1-time-lost-delegate-chronus.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:27.476Z",
+  "generationMethod": "ComfyUI"
 }

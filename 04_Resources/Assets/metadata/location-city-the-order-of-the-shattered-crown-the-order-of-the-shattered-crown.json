@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Order of the Shattered Crown with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-order-of-the-shattered-crown-the-order-of-the-shattered-crown.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-order-of-the-shattered-crown-the-order-of-the-shattered-crown.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:46.695Z",
+  "generationMethod": "ComfyUI"
 }

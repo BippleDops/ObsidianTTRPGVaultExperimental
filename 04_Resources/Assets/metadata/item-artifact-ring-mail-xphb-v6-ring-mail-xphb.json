@@ -25,5 +25,8 @@
   "alt_text": "Artifact ring-mail-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-ring-mail-xphb-v6-ring-mail-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-ring-mail-xphb-v6-ring-mail-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:36:50.298Z",
+  "generationMethod": "ComfyUI"
 }

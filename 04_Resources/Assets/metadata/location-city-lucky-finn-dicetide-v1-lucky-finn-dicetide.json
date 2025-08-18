@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Lucky Finn Dicetide with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-lucky-finn-dicetide-v1-lucky-finn-dicetide.svg"
+  "file": "04_Resources/Assets/Locations/location-city-lucky-finn-dicetide-v1-lucky-finn-dicetide.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:35.361Z",
+  "generationMethod": "ComfyUI"
 }

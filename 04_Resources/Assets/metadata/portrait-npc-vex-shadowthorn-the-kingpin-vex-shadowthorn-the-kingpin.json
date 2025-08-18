@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Vex Shadowthorn the Kingpin with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-vex-shadowthorn-the-kingpin-vex-shadowthorn-the-kingpin.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-vex-shadowthorn-the-kingpin-vex-shadowthorn-the-kingpin.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:55.714Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Crystal Speak with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-crystal-speak-crystal-speak.svg"
+  "file": "04_Resources/Assets/Locations/location-city-crystal-speak-crystal-speak.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:24.838Z",
+  "generationMethod": "ComfyUI"
 }

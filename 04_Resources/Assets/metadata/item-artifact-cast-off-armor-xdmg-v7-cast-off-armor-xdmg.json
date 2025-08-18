@@ -25,5 +25,8 @@
   "alt_text": "Artifact cast-off-armor-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-cast-off-armor-xdmg-v7-cast-off-armor-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-cast-off-armor-xdmg-v7-cast-off-armor-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:18:15.777Z",
+  "generationMethod": "ComfyUI"
 }

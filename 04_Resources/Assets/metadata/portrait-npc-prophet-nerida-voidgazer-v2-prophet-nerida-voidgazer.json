@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Prophet Nerida Voidgazer with evocative background; clear features readable at token size.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-prophet-nerida-voidgazer-v2-prophet-nerida-voidgazer.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-prophet-nerida-voidgazer-v2-prophet-nerida-voidgazer.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:59:39.179Z",
+  "generationMethod": "ComfyUI"
 }

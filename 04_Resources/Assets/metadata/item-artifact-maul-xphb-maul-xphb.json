@@ -25,5 +25,8 @@
   "alt_text": "Artifact maul-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-maul-xphb-maul-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-maul-xphb-maul-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:31:17.811Z",
+  "generationMethod": "ComfyUI"
 }

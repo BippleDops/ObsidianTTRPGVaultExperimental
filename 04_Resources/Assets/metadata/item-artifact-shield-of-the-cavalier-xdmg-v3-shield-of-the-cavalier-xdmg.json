@@ -25,5 +25,8 @@
   "alt_text": "Artifact shield-of-the-cavalier-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-shield-of-the-cavalier-xdmg-v3-shield-of-the-cavalier-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-shield-of-the-cavalier-xdmg-v3-shield-of-the-cavalier-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:40:15.750Z",
+  "generationMethod": "ComfyUI"
 }

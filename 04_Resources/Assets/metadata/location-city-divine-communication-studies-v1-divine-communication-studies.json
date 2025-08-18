@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Divine Communication Studies with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-divine-communication-studies-v1-divine-communication-studies.svg"
+  "file": "04_Resources/Assets/Locations/location-city-divine-communication-studies-v1-divine-communication-studies.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:51.764Z",
+  "generationMethod": "ComfyUI"
 }

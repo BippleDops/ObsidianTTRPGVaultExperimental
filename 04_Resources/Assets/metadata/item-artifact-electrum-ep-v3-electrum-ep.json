@@ -25,5 +25,8 @@
   "alt_text": "Artifact electrum-ep with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-electrum-ep-v3-electrum-ep.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-electrum-ep-v3-electrum-ep.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:22:06.736Z",
+  "generationMethod": "ComfyUI"
 }

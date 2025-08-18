@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Traditional Elder Wisdom Keeper with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-traditional-elder-wisdom-keeper-v1-traditional-elder-wisdom-keeper.svg"
+  "file": "04_Resources/Assets/Locations/location-city-traditional-elder-wisdom-keeper-v1-traditional-elder-wisdom-keeper.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:34.660Z",
+  "generationMethod": "ComfyUI"
 }

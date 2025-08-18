@@ -25,5 +25,8 @@
   "alt_text": "Artifact carrion-crawler-mucus-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-carrion-crawler-mucus-xdmg-v1-carrion-crawler-mucus-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-carrion-crawler-mucus-xdmg-v1-carrion-crawler-mucus-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:18:03.849Z",
+  "generationMethod": "ComfyUI"
 }

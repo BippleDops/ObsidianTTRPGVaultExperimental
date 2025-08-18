@@ -27,5 +27,8 @@
   "palette": "seafoam greens",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-deputy-archmerchant-scroll-deepmin-deputy-archmerchant-scroll-deepmin.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-deputy-archmerchant-scroll-deepmin-deputy-archmerchant-scroll-deepmin.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:29.461Z",
+  "generationMethod": "ComfyUI"
 }

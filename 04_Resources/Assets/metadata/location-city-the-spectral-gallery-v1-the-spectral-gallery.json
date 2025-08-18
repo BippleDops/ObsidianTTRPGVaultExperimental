@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Spectral Gallery with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-spectral-gallery-v1-the-spectral-gallery.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-spectral-gallery-v1-the-spectral-gallery.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:03.447Z",
+  "generationMethod": "ComfyUI"
 }

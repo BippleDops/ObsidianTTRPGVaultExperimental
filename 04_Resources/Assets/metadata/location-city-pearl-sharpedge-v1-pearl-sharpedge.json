@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Pearl Sharpedge with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-pearl-sharpedge-v1-pearl-sharpedge.svg"
+  "file": "04_Resources/Assets/Locations/location-city-pearl-sharpedge-v1-pearl-sharpedge.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:47.074Z",
+  "generationMethod": "ComfyUI"
 }

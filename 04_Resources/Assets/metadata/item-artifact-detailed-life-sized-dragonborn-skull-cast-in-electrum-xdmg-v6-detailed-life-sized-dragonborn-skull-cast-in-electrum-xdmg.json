@@ -25,5 +25,8 @@
   "alt_text": "Artifact detailed-life-sized-dragonborn-skull-cast-in-electrum-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-detailed-life-sized-dragonborn-skull-cast-in-electrum-xdmg-v6-detailed-life-sized-dragonborn-skull-cast-in-electrum-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-detailed-life-sized-dragonborn-skull-cast-in-electrum-xdmg-v6-detailed-life-sized-dragonborn-skull-cast-in-electrum-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:20:45.984Z",
+  "generationMethod": "ComfyUI"
 }

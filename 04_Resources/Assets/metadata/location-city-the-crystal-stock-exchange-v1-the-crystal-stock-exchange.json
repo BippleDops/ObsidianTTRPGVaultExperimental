@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Crystal Stock Exchange with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-crystal-stock-exchange-v1-the-crystal-stock-exchange.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-crystal-stock-exchange-v1-the-crystal-stock-exchange.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:05.918Z",
+  "generationMethod": "ComfyUI"
 }

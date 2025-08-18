@@ -25,5 +25,8 @@
   "alt_text": "Concept art of young-hook-horror-oota with anatomy, scale, and environment.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Creatures/creature-creature-young-hook-horror-oota-v3-young-hook-horror-oota.svg"
+  "file": "04_Resources/Assets/Creatures/creature-creature-young-hook-horror-oota-v3-young-hook-horror-oota.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:11:50.758Z",
+  "generationMethod": "ComfyUI"
 }

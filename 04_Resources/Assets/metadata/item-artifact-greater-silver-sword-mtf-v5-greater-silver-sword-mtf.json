@@ -25,5 +25,8 @@
   "alt_text": "Artifact greater-silver-sword-mtf with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-greater-silver-sword-mtf-v5-greater-silver-sword-mtf.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-greater-silver-sword-mtf-v5-greater-silver-sword-mtf.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:26:12.278Z",
+  "generationMethod": "ComfyUI"
 }

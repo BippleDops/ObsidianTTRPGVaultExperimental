@@ -25,5 +25,8 @@
   "alt_text": "Artifact tome-of-the-stilled-tongue-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-tome-of-the-stilled-tongue-xdmg-v1-tome-of-the-stilled-tongue-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-tome-of-the-stilled-tongue-xdmg-v1-tome-of-the-stilled-tongue-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:44:39.861Z",
+  "generationMethod": "ComfyUI"
 }

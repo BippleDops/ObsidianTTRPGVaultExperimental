@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Inter-Realm Diplomacy with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-inter-realm-diplomacy-v1-inter-realm-diplomacy.svg"
+  "file": "04_Resources/Assets/Locations/location-city-inter-realm-diplomacy-v1-inter-realm-diplomacy.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:05.998Z",
+  "generationMethod": "ComfyUI"
 }

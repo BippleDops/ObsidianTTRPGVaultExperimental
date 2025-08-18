@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Foreign Trader Captain Hassan al-Rimal with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-foreign-trader-captain-hassan-al-rimal-v2-foreign-trader-captain-hassan-al-rimal.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-foreign-trader-captain-hassan-al-rimal-v2-foreign-trader-captain-hassan-al-rimal.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:58:10.378Z",
+  "generationMethod": "ComfyUI"
 }

@@ -27,5 +27,8 @@
   "palette": "deep blues",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-resonance-cascade-attack-resonance-cascade-attack.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-resonance-cascade-attack-resonance-cascade-attack.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:05.352Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Traditional Craft Districts with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-traditional-craft-districts-v1-traditional-craft-districts.svg"
+  "file": "04_Resources/Assets/Locations/location-city-traditional-craft-districts-v1-traditional-craft-districts.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:32.285Z",
+  "generationMethod": "ComfyUI"
 }

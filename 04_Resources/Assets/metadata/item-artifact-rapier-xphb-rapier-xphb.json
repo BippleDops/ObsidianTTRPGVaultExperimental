@@ -25,5 +25,8 @@
   "alt_text": "Artifact rapier-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-rapier-xphb-rapier-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-rapier-xphb-rapier-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:36:33.615Z",
+  "generationMethod": "ComfyUI"
 }

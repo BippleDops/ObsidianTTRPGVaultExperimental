@@ -25,5 +25,8 @@
   "alt_text": "Artifact oil-of-taggit-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-oil-of-taggit-xdmg-v7-oil-of-taggit-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-oil-of-taggit-xdmg-v7-oil-of-taggit-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:32:44.020Z",
+  "generationMethod": "ComfyUI"
 }

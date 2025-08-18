@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Memory Merchant Valeria Siltweave with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-memory-merchant-valeria-siltweave-v1-memory-merchant-valeria-siltweave.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-memory-merchant-valeria-siltweave-v1-memory-merchant-valeria-siltweave.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:59:19.986Z",
+  "generationMethod": "ComfyUI"
 }

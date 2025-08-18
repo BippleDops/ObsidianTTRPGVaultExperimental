@@ -25,5 +25,8 @@
   "alt_text": "Artifact acid-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-acid-xphb-acid-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-acid-xphb-acid-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:13:09.734Z",
+  "generationMethod": "ComfyUI"
 }

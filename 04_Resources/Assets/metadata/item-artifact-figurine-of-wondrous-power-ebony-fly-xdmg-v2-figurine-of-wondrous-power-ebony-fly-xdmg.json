@@ -25,5 +25,8 @@
   "alt_text": "Artifact figurine-of-wondrous-power-ebony-fly-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-figurine-of-wondrous-power-ebony-fly-xdmg-v2-figurine-of-wondrous-power-ebony-fly-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-figurine-of-wondrous-power-ebony-fly-xdmg-v2-figurine-of-wondrous-power-ebony-fly-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:24:08.506Z",
+  "generationMethod": "ComfyUI"
 }

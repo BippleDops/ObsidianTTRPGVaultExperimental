@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Mad Prophet Silas the Depth-Touched with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-mad-prophet-silas-the-depth-touched-v1-mad-prophet-silas-the-depth-touched.svg"
+  "file": "04_Resources/Assets/Locations/location-city-mad-prophet-silas-the-depth-touched-v1-mad-prophet-silas-the-depth-touched.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:40.367Z",
+  "generationMethod": "ComfyUI"
 }

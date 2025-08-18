@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Agent Whisper Voidheart with evocative background; clear features readable at token size.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-agent-whisper-voidheart-v2-agent-whisper-voidheart.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-agent-whisper-voidheart-v2-agent-whisper-voidheart.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:56:39.231Z",
+  "generationMethod": "ComfyUI"
 }

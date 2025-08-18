@@ -25,5 +25,8 @@
   "alt_text": "Artifact necklace-of-adaptation-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-necklace-of-adaptation-xdmg-v3-necklace-of-adaptation-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-necklace-of-adaptation-xdmg-v3-necklace-of-adaptation-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:32:12.797Z",
+  "generationMethod": "ComfyUI"
 }

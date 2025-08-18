@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Paradox Engineer Zeno with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-paradox-engineer-zeno-v1-paradox-engineer-zeno.svg"
+  "file": "04_Resources/Assets/Locations/location-city-paradox-engineer-zeno-v1-paradox-engineer-zeno.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:44.693Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Quest - The Prophecy Fulfilled with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-prophecy-fulfilled-v2-quest-the-prophecy-fulfilled.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-prophecy-fulfilled-v2-quest-the-prophecy-fulfilled.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:00:10.196Z",
+  "generationMethod": "ComfyUI"
 }

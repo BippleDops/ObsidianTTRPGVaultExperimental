@@ -25,5 +25,8 @@
   "alt_text": "Artifact bag-of-tricks-gray-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-bag-of-tricks-gray-xdmg-v6-bag-of-tricks-gray-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-bag-of-tricks-gray-xdmg-v6-bag-of-tricks-gray-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:14:57.345Z",
+  "generationMethod": "ComfyUI"
 }

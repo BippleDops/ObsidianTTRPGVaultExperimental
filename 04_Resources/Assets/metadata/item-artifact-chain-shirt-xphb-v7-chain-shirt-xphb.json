@@ -25,5 +25,8 @@
   "alt_text": "Artifact chain-shirt-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-chain-shirt-xphb-v7-chain-shirt-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-chain-shirt-xphb-v7-chain-shirt-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:18:27.731Z",
+  "generationMethod": "ComfyUI"
 }

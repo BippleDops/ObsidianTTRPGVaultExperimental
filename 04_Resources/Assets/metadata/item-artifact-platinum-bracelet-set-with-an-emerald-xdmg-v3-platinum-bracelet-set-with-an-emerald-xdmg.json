@@ -25,5 +25,8 @@
   "alt_text": "Artifact platinum-bracelet-set-with-an-emerald-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-platinum-bracelet-set-with-an-emerald-xdmg-v3-platinum-bracelet-set-with-an-emerald-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-platinum-bracelet-set-with-an-emerald-xdmg-v3-platinum-bracelet-set-with-an-emerald-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:34:05.465Z",
+  "generationMethod": "ComfyUI"
 }

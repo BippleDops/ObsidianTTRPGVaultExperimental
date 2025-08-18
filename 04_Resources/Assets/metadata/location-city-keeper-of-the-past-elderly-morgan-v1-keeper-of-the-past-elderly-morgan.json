@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Keeper of the Past, Elderly Morgan with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-keeper-of-the-past-elderly-morgan-v1-keeper-of-the-past-elderly-morgan.svg"
+  "file": "04_Resources/Assets/Locations/location-city-keeper-of-the-past-elderly-morgan-v1-keeper-of-the-past-elderly-morgan.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:20.736Z",
+  "generationMethod": "ComfyUI"
 }

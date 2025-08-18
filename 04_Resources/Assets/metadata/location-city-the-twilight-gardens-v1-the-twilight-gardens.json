@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Twilight Gardens with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-twilight-gardens-v1-the-twilight-gardens.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-twilight-gardens-v1-the-twilight-gardens.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:15.447Z",
+  "generationMethod": "ComfyUI"
 }

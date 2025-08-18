@@ -25,5 +25,8 @@
   "alt_text": "Artifact wand-of-fear-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-wand-of-fear-xdmg-wand-of-fear-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-wand-of-fear-xdmg-wand-of-fear-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:45:29.942Z",
+  "generationMethod": "ComfyUI"
 }

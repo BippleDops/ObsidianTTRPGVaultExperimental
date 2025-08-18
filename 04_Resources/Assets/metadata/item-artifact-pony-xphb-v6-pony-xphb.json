@@ -25,5 +25,8 @@
   "alt_text": "Artifact pony-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-pony-xphb-v6-pony-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-pony-xphb-v6-pony-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:34:19.824Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Pressure Suit Malfunction with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-pressure-suit-malfunction-pressure-suit-malfunction.svg"
+  "file": "04_Resources/Assets/Locations/location-city-pressure-suit-malfunction-pressure-suit-malfunction.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:10.833Z",
+  "generationMethod": "ComfyUI"
 }

@@ -33,5 +33,8 @@
   },
   "levels": 1,
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Maps/map-map-void-fractured-plaza-v1-void-fractured-plaza.svg"
+  "file": "04_Resources/Assets/Maps/map-map-void-fractured-plaza-v1-void-fractured-plaza.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:56:24.904Z",
+  "generationMethod": "ComfyUI"
 }

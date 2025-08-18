@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Imagine a vivid image inspired by the world of tabletop fantasy, reminiscent of medieval times without any modern technologies or signs. It's a beautifully painted collection that cohesively blends with the culture of the era. Central to the illustration is a detailed artifact - a mystic spell gem crafted from lapis lazuli sourced from the underground tunnels of oota. This gem is complimented with elements like pearls, corals, and cloud-crystals, embedded in metals fashioned through high-pressure methods. The surface of the artifact is etched with abstract sigils that glow faintly. For size reference, there is a hand or a ruler placed next to the artifact. The image resembles a commercial product render imbued with an aquatic fantasy realism touch. Subtle effects of subsurface caustics and bioluminescent accents adorn the piece, with materials showing the effects of pressure domes. Our palette is dominated by the shades of the sea - teals, deep blues, sea-greens, and pearl highlights, avoiding any elements that may cause distortion. The runes are abstract sigils, steering clear of any alphabet-like gibberish or readable words. The image is free from any sci-fi interfaces, modern signs, photorealistic CGI, anime style, or bloom glares.",
-  "file": "04_Resources/Assets/Items/item-artifact-spell-gem-lapis-lazuli-oota-v2-spell-gem-lapis-lazuli-oota.png"
+  "file": "04_Resources/Assets/Items/item-artifact-spell-gem-lapis-lazuli-oota-v2-spell-gem-lapis-lazuli-oota.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:41:37.456Z",
+  "generationMethod": "ComfyUI"
 }

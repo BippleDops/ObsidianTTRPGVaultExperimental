@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Lady Dawn Pureheart with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-lady-dawn-pureheart-v1-lady-dawn-pureheart.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-lady-dawn-pureheart-v1-lady-dawn-pureheart.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:58:43.942Z",
+  "generationMethod": "ComfyUI"
 }

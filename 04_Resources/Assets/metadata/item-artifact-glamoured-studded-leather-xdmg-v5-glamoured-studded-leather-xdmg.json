@@ -25,5 +25,8 @@
   "alt_text": "Artifact glamoured-studded-leather-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-glamoured-studded-leather-xdmg-v5-glamoured-studded-leather-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-glamoured-studded-leather-xdmg-v5-glamoured-studded-leather-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:25:24.673Z",
+  "generationMethod": "ComfyUI"
 }

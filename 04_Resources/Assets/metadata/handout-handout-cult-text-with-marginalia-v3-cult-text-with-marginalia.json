@@ -28,5 +28,8 @@
   "model": "gpt-image-1",
   "size": "1024x1024",
   "revised_prompt": null,
-  "file": "04_Resources/Assets/Handouts/handout-handout-cult-text-with-marginalia-v3-cult-text-with-marginalia.png"
+  "file": "04_Resources/Assets/Handouts/handout-handout-cult-text-with-marginalia-v3-cult-text-with-marginalia.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:12:07.616Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Palace Courtyard - Crystal Garden with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-palace-courtyard-crystal-garden-v1-palace-courtyard-crystal-garden.svg"
+  "file": "04_Resources/Assets/Locations/location-city-palace-courtyard-crystal-garden-v1-palace-courtyard-crystal-garden.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:42.312Z",
+  "generationMethod": "ComfyUI"
 }

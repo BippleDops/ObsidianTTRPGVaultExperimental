@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Neutral Current Tavern with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-neutral-current-tavern-the-neutral-current-tavern.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-neutral-current-tavern-the-neutral-current-tavern.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:44.288Z",
+  "generationMethod": "ComfyUI"
 }

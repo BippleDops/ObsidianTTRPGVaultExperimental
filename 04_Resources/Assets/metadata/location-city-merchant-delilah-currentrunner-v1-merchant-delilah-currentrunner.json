@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Merchant Delilah Currentrunner with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-merchant-delilah-currentrunner-v1-merchant-delilah-currentrunner.svg"
+  "file": "04_Resources/Assets/Locations/location-city-merchant-delilah-currentrunner-v1-merchant-delilah-currentrunner.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:18.403Z",
+  "generationMethod": "ComfyUI"
 }

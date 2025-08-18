@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Quest - The Voice Beneath with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-voice-beneath-v1-quest-the-voice-beneath.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-voice-beneath-v1-quest-the-voice-beneath.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:00:22.204Z",
+  "generationMethod": "ComfyUI"
 }

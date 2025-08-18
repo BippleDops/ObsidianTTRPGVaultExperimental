@@ -25,5 +25,8 @@
   "alt_text": "Artifact ring-of-animal-influence-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-ring-of-animal-influence-xdmg-v4-ring-of-animal-influence-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-ring-of-animal-influence-xdmg-v4-ring-of-animal-influence-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:36:55.093Z",
+  "generationMethod": "ComfyUI"
 }

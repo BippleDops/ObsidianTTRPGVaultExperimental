@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Surface Trade Ports with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-surface-trade-ports-v1-surface-trade-ports.svg"
+  "file": "04_Resources/Assets/Locations/location-city-surface-trade-ports-v1-surface-trade-ports.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:34.791Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Memory Sanctity Laws with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-memory-sanctity-laws-v1-memory-sanctity-laws.svg"
+  "file": "04_Resources/Assets/Locations/location-city-memory-sanctity-laws-v1-memory-sanctity-laws.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:18.399Z",
+  "generationMethod": "ComfyUI"
 }

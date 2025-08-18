@@ -25,5 +25,8 @@
   "alt_text": "Artifact elemental-gem-yellow-diamond-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-elemental-gem-yellow-diamond-xdmg-v4-elemental-gem-yellow-diamond-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-elemental-gem-yellow-diamond-xdmg-v4-elemental-gem-yellow-diamond-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:22:16.332Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Knowledge Truthseeker with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-knowledge-truthseeker-v1-knowledge-truthseeker.svg"
+  "file": "04_Resources/Assets/Locations/location-city-knowledge-truthseeker-v1-knowledge-truthseeker.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:28.160Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Senator_Glaucus_Brain with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-senator-glaucus-brain-senator-glaucus-brain.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-senator-glaucus-brain-senator-glaucus-brain.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:00:31.852Z",
+  "generationMethod": "ComfyUI"
 }

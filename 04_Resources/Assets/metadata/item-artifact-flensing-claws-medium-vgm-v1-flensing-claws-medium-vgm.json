@@ -25,5 +25,8 @@
   "alt_text": "Artifact flensing-claws-medium-vgm with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-flensing-claws-medium-vgm-v1-flensing-claws-medium-vgm.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-flensing-claws-medium-vgm-v1-flensing-claws-medium-vgm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:24:48.928Z",
+  "generationMethod": "ComfyUI"
 }

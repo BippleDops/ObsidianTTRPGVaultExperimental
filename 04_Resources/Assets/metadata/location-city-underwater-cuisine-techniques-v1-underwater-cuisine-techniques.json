@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Underwater Cuisine Techniques with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-underwater-cuisine-techniques-v1-underwater-cuisine-techniques.svg"
+  "file": "04_Resources/Assets/Locations/location-city-underwater-cuisine-techniques-v1-underwater-cuisine-techniques.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:41.770Z",
+  "generationMethod": "ComfyUI"
 }

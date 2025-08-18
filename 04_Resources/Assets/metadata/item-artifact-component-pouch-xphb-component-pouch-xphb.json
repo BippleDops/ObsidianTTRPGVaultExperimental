@@ -25,5 +25,8 @@
   "alt_text": "Artifact component-pouch-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-component-pouch-xphb-component-pouch-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-component-pouch-xphb-component-pouch-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:19:34.560Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact mantle-of-spell-resistance-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-mantle-of-spell-resistance-xdmg-v3-mantle-of-spell-resistance-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-mantle-of-spell-resistance-xdmg-v3-mantle-of-spell-resistance-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:30:46.678Z",
+  "generationMethod": "ComfyUI"
 }

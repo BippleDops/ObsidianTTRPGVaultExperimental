@@ -25,5 +25,8 @@
   "alt_text": "Artifact brooch-of-shielding-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-brooch-of-shielding-xdmg-v7-brooch-of-shielding-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-brooch-of-shielding-xdmg-v7-brooch-of-shielding-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:17:18.522Z",
+  "generationMethod": "ComfyUI"
 }

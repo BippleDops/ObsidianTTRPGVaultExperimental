@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Wandering Prophet Coral Stormrider with architecture and inhabitants.",
   "realm": "mixed",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-wandering-prophet-coral-stormrider-wandering-prophet-coral-stormrider.svg"
+  "file": "04_Resources/Assets/Locations/location-city-wandering-prophet-coral-stormrider-wandering-prophet-coral-stormrider.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:53.713Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact cuddly-strixhaven-mascot-scc with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-cuddly-strixhaven-mascot-scc-v1-cuddly-strixhaven-mascot-scc.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-cuddly-strixhaven-mascot-scc-v1-cuddly-strixhaven-mascot-scc.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:20:17.348Z",
+  "generationMethod": "ComfyUI"
 }

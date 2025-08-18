@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Church of the Tidal Throne with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-church-of-the-tidal-throne-v1-church-of-the-tidal-throne.svg"
+  "file": "04_Resources/Assets/Locations/location-city-church-of-the-tidal-throne-v1-church-of-the-tidal-throne.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:56.049Z",
+  "generationMethod": "ComfyUI"
 }

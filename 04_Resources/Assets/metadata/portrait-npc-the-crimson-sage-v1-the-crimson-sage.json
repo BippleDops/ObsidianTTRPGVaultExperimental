@@ -25,5 +25,8 @@
   "alt_text": "Portrait of The Crimson Sage with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-the-crimson-sage-v1-the-crimson-sage.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-the-crimson-sage-v1-the-crimson-sage.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:03.052Z",
+  "generationMethod": "ComfyUI"
 }

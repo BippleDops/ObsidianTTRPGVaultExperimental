@@ -27,5 +27,8 @@
   "palette": "gold accents",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-ambassador-blacktrade-ambassador-blacktrade.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-ambassador-blacktrade-ambassador-blacktrade.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:17.468Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact ioun-stone-awareness-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-ioun-stone-awareness-xdmg-v6-ioun-stone-awareness-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-ioun-stone-awareness-xdmg-v6-ioun-stone-awareness-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:28:33.363Z",
+  "generationMethod": "ComfyUI"
 }

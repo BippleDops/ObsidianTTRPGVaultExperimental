@@ -28,5 +28,8 @@
   "model": "gpt-image-1",
   "size": "1024x1024",
   "revised_prompt": null,
-  "file": "04_Resources/Assets/Handouts/handout-handout-council-summons-notice-v1-council-summons-notice.png"
+  "file": "04_Resources/Assets/Handouts/handout-handout-council-summons-notice-v1-council-summons-notice.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:12:05.231Z",
+  "generationMethod": "ComfyUI"
 }

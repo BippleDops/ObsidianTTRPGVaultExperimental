@@ -25,5 +25,8 @@
   "alt_text": "Artifact headband-of-intellect-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-headband-of-intellect-xdmg-v3-headband-of-intellect-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-headband-of-intellect-xdmg-v3-headband-of-intellect-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:26:55.455Z",
+  "generationMethod": "ComfyUI"
 }

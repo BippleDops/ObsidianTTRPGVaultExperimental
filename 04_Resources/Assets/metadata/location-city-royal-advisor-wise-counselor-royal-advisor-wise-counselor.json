@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Royal Advisor Wise Counselor with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-royal-advisor-wise-counselor-royal-advisor-wise-counselor.svg"
+  "file": "04_Resources/Assets/Locations/location-city-royal-advisor-wise-counselor-royal-advisor-wise-counselor.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:42.027Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Trader Grimm Voidheart with architecture and inhabitants.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-trader-grimm-voidheart-v1-trader-grimm-voidheart.svg"
+  "file": "04_Resources/Assets/Locations/location-city-trader-grimm-voidheart-v1-trader-grimm-voidheart.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:32.286Z",
+  "generationMethod": "ComfyUI"
 }

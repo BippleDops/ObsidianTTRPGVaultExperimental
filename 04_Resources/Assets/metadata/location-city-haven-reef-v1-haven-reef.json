@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Haven Reef with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-haven-reef-v1-haven-reef.svg"
+  "file": "04_Resources/Assets/Locations/location-city-haven-reef-v1-haven-reef.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:48.764Z",
+  "generationMethod": "ComfyUI"
 }

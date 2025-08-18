@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Master Artificer Korvin Gearwright with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-master-artificer-korvin-gearwright-master-artificer-korvin-gearwright.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-master-artificer-korvin-gearwright-master-artificer-korvin-gearwright.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:59:12.721Z",
+  "generationMethod": "ComfyUI"
 }

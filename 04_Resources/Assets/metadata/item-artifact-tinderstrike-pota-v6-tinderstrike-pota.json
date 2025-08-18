@@ -25,5 +25,8 @@
   "alt_text": "Artifact tinderstrike-pota with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-tinderstrike-pota-v6-tinderstrike-pota.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-tinderstrike-pota-v6-tinderstrike-pota.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:44:30.320Z",
+  "generationMethod": "ComfyUI"
 }

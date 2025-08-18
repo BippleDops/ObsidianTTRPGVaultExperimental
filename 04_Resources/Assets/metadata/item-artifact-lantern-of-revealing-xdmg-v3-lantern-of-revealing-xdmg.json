@@ -25,5 +25,8 @@
   "alt_text": "Artifact lantern-of-revealing-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-lantern-of-revealing-xdmg-v3-lantern-of-revealing-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-lantern-of-revealing-xdmg-v3-lantern-of-revealing-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:29:47.402Z",
+  "generationMethod": "ComfyUI"
 }

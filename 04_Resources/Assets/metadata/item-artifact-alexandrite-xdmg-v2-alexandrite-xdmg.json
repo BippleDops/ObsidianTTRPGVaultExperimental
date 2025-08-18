@@ -25,5 +25,8 @@
   "alt_text": "Artifact alexandrite-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-alexandrite-xdmg-v2-alexandrite-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-alexandrite-xdmg-v2-alexandrite-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:13:31.282Z",
+  "generationMethod": "ComfyUI"
 }

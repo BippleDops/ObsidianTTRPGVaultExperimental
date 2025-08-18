@@ -25,5 +25,8 @@
   "alt_text": "Artifact staff-of-the-woodlands-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-staff-of-the-woodlands-xdmg-v5-staff-of-the-woodlands-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-staff-of-the-woodlands-xdmg-v5-staff-of-the-woodlands-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:42:58.929Z",
+  "generationMethod": "ComfyUI"
 }

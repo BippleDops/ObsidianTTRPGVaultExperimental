@@ -25,5 +25,8 @@
   "alt_text": "Artifact midnight-tears-xdmg with materials, runes, and scale.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-midnight-tears-xdmg-v6-midnight-tears-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-midnight-tears-xdmg-v6-midnight-tears-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:31:24.960Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact flute-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-flute-xphb-v1-flute-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-flute-xphb-v1-flute-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:24:56.023Z",
+  "generationMethod": "ComfyUI"
 }

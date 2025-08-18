@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Tenebrarum Embassy with architecture and inhabitants.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-tenebrarum-embassy-tenebrarum-embassy.svg"
+  "file": "04_Resources/Assets/Locations/location-city-tenebrarum-embassy-tenebrarum-embassy.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:49.167Z",
+  "generationMethod": "ComfyUI"
 }

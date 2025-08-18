@@ -25,5 +25,8 @@
   "alt_text": "Portrait of The Soul Market with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-the-soul-market-v1-the-soul-market.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-the-soul-market-v1-the-soul-market.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:36.620Z",
+  "generationMethod": "ComfyUI"
 }

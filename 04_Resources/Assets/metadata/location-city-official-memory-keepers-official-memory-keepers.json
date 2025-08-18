@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Official Memory Keepers with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-official-memory-keepers-official-memory-keepers.svg"
+  "file": "04_Resources/Assets/Locations/location-city-official-memory-keepers-official-memory-keepers.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:39.953Z",
+  "generationMethod": "ComfyUI"
 }

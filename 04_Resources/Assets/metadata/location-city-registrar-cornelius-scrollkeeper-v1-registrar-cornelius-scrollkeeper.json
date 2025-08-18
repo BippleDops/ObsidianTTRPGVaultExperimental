@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Registrar Cornelius Scrollkeeper with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-registrar-cornelius-scrollkeeper-v1-registrar-cornelius-scrollkeeper.svg"
+  "file": "04_Resources/Assets/Locations/location-city-registrar-cornelius-scrollkeeper-v1-registrar-cornelius-scrollkeeper.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:37.243Z",
+  "generationMethod": "ComfyUI"
 }

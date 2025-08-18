@@ -25,5 +25,8 @@
   "alt_text": "Artifact perfume-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-perfume-xphb-v5-perfume-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-perfume-xphb-v5-perfume-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:33:29.679Z",
+  "generationMethod": "ComfyUI"
 }

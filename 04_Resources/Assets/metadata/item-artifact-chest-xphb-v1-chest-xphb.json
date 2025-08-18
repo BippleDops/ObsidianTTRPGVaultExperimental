@@ -25,5 +25,8 @@
   "alt_text": "Artifact chest-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-chest-xphb-v1-chest-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-chest-xphb-v1-chest-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:18:39.674Z",
+  "generationMethod": "ComfyUI"
 }

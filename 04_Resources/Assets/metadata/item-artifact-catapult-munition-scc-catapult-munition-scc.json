@@ -25,5 +25,8 @@
   "alt_text": "Artifact catapult-munition-scc with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-catapult-munition-scc-catapult-munition-scc.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-catapult-munition-scc-catapult-munition-scc.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:18:15.776Z",
+  "generationMethod": "ComfyUI"
 }

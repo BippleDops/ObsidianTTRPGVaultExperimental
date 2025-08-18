@@ -25,5 +25,8 @@
   "alt_text": "Artifact quaals-feather-token-whip-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-quaals-feather-token-whip-xdmg-v1-quaals-feather-token-whip-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-quaals-feather-token-whip-xdmg-v1-quaals-feather-token-whip-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:36:16.675Z",
+  "generationMethod": "ComfyUI"
 }

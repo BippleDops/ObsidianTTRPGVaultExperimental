@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Shadow Merchant Riptide with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-shadow-merchant-riptide-shadow-merchant-riptide.svg"
+  "file": "04_Resources/Assets/Locations/location-city-shadow-merchant-riptide-shadow-merchant-riptide.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:13.248Z",
+  "generationMethod": "ComfyUI"
 }

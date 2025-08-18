@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Military Families Support Groups with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-military-families-support-groups-military-families-support-groups.svg"
+  "file": "04_Resources/Assets/Locations/location-city-military-families-support-groups-military-families-support-groups.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:25.612Z",
+  "generationMethod": "ComfyUI"
 }

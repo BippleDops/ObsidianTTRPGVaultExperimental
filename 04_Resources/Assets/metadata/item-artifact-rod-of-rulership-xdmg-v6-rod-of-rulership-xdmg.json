@@ -25,5 +25,8 @@
   "alt_text": "Artifact rod-of-rulership-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-rod-of-rulership-xdmg-v6-rod-of-rulership-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-rod-of-rulership-xdmg-v6-rod-of-rulership-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:38:23.422Z",
+  "generationMethod": "ComfyUI"
 }

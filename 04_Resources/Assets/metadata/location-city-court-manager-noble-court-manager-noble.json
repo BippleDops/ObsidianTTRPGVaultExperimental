@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Court Manager Noble with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-court-manager-noble-court-manager-noble.svg"
+  "file": "04_Resources/Assets/Locations/location-city-court-manager-noble-court-manager-noble.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:15.243Z",
+  "generationMethod": "ComfyUI"
 }

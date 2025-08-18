@@ -25,5 +25,8 @@
   "alt_text": "Artifact javelin-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-javelin-xphb-javelin-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-javelin-xphb-javelin-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:29:23.397Z",
+  "generationMethod": "ComfyUI"
 }

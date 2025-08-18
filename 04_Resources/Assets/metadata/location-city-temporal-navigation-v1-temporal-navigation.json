@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Temporal Navigation with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-temporal-navigation-v1-temporal-navigation.svg"
+  "file": "04_Resources/Assets/Locations/location-city-temporal-navigation-v1-temporal-navigation.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:49.167Z",
+  "generationMethod": "ComfyUI"
 }

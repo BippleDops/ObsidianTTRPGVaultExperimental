@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Deep Anarchists with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-deep-anarchists-v2-deep-anarchists.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-deep-anarchists-v2-deep-anarchists.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:57:44.130Z",
+  "generationMethod": "ComfyUI"
 }

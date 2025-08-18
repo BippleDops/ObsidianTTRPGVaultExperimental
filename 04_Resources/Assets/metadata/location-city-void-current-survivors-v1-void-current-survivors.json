@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Void Current Survivors with architecture and inhabitants.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-void-current-survivors-v1-void-current-survivors.svg"
+  "file": "04_Resources/Assets/Locations/location-city-void-current-survivors-v1-void-current-survivors.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:48.948Z",
+  "generationMethod": "ComfyUI"
 }

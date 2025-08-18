@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Void-Keeper Null with architecture and inhabitants.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-void-keeper-null-void-keeper-null.svg"
+  "file": "04_Resources/Assets/Locations/location-city-void-keeper-null-void-keeper-null.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:48.949Z",
+  "generationMethod": "ComfyUI"
 }

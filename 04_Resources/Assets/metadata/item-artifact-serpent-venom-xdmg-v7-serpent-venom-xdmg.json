@@ -25,5 +25,8 @@
   "alt_text": "Artifact serpent-venom-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-serpent-venom-xdmg-v7-serpent-venom-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-serpent-venom-xdmg-v7-serpent-venom-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:40:03.905Z",
+  "generationMethod": "ComfyUI"
 }

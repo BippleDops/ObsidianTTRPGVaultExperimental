@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Pressure Brewing Technology with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-pressure-brewing-technology-v1-pressure-brewing-technology.svg"
+  "file": "04_Resources/Assets/Locations/location-city-pressure-brewing-technology-v1-pressure-brewing-technology.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:03.743Z",
+  "generationMethod": "ComfyUI"
 }

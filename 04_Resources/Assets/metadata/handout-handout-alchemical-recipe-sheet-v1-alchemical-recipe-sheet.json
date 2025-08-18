@@ -25,5 +25,8 @@
   "alt_text": "Alchemical Recipe Sheet as an in-world paper prop.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Handouts/handout-handout-alchemical-recipe-sheet-v1-alchemical-recipe-sheet.svg"
+  "file": "04_Resources/Assets/Handouts/handout-handout-alchemical-recipe-sheet-v1-alchemical-recipe-sheet.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:12:00.399Z",
+  "generationMethod": "ComfyUI"
 }

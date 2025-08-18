@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Pressure Angel Benthia with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-v2-pressure-angel-benthia.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-v2-pressure-angel-benthia.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:59:36.826Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Doctor Helena Voidwalker with evocative background; clear features readable at token size.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-doctor-helena-voidwalker-doctor-helena-voidwalker.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-doctor-helena-voidwalker-doctor-helena-voidwalker.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:57:51.346Z",
+  "generationMethod": "ComfyUI"
 }

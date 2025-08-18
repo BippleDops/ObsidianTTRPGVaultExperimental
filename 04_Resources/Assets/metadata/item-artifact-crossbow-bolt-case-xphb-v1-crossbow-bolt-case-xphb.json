@@ -25,5 +25,8 @@
   "alt_text": "Artifact crossbow-bolt-case-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-crossbow-bolt-case-xphb-v1-crossbow-bolt-case-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-crossbow-bolt-case-xphb-v1-crossbow-bolt-case-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:19:53.583Z",
+  "generationMethod": "ComfyUI"
 }

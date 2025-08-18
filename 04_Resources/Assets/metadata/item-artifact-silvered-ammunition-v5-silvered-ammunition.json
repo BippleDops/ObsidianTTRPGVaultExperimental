@@ -25,5 +25,8 @@
   "alt_text": "Artifact silvered-ammunition with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-silvered-ammunition-v5-silvered-ammunition.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-silvered-ammunition-v5-silvered-ammunition.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:40:58.888Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact monster-hunters-pack-vrgr with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-monster-hunters-pack-vrgr-monster-hunters-pack-vrgr.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-monster-hunters-pack-vrgr-monster-hunters-pack-vrgr.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:31:46.406Z",
+  "generationMethod": "ComfyUI"
 }

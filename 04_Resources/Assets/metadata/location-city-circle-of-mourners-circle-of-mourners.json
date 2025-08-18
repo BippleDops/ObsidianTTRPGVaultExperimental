@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Circle of Mourners with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-circle-of-mourners-circle-of-mourners.svg"
+  "file": "04_Resources/Assets/Locations/location-city-circle-of-mourners-circle-of-mourners.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:56.052Z",
+  "generationMethod": "ComfyUI"
 }

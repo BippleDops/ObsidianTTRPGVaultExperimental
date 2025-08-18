@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Keeper Aquaeous Depth-Scholar with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-keeper-aquaeous-depth-scholar-keeper-aquaeous-depth-scholar.svg"
+  "file": "04_Resources/Assets/Locations/location-city-keeper-aquaeous-depth-scholar-keeper-aquaeous-depth-scholar.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:13.495Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact rod-of-absorption-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-rod-of-absorption-xdmg-v1-rod-of-absorption-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-rod-of-absorption-xdmg-v1-rod-of-absorption-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:38:13.852Z",
+  "generationMethod": "ComfyUI"
 }

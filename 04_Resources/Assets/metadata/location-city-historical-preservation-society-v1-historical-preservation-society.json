@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Historical Preservation Society with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-historical-preservation-society-v1-historical-preservation-society.svg"
+  "file": "04_Resources/Assets/Locations/location-city-historical-preservation-society-v1-historical-preservation-society.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:56.237Z",
+  "generationMethod": "ComfyUI"
 }

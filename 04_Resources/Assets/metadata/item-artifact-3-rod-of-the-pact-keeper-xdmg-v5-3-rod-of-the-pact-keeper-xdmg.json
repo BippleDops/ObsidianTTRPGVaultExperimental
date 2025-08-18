@@ -25,5 +25,8 @@
   "alt_text": "Artifact 3-rod-of-the-pact-keeper-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-3-rod-of-the-pact-keeper-xdmg-v5-3-rod-of-the-pact-keeper-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-3-rod-of-the-pact-keeper-xdmg-v5-3-rod-of-the-pact-keeper-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:12:57.735Z",
+  "generationMethod": "ComfyUI"
 }

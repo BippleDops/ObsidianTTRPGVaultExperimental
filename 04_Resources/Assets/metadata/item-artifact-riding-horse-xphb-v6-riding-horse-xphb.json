@@ -25,5 +25,8 @@
   "alt_text": "Artifact riding-horse-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-riding-horse-xphb-v6-riding-horse-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-riding-horse-xphb-v6-riding-horse-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:36:47.886Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact horn-of-blasting-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-horn-of-blasting-xdmg-v7-horn-of-blasting-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-horn-of-blasting-xdmg-v7-horn-of-blasting-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:27:36.065Z",
+  "generationMethod": "ComfyUI"
 }

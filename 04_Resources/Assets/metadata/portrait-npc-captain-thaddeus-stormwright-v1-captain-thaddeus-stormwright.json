@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Captain Thaddeus Stormwright with evocative background; clear features readable at token size.",
   "realm": "aethermoor",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-captain-thaddeus-stormwright-v1-captain-thaddeus-stormwright.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-captain-thaddeus-stormwright-v1-captain-thaddeus-stormwright.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:57:27.320Z",
+  "generationMethod": "ComfyUI"
 }

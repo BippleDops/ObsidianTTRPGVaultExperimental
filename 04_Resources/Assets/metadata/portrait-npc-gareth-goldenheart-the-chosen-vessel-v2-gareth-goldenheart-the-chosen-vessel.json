@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Gareth Goldenheart, The Chosen Vessel with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-gareth-goldenheart-the-chosen-vessel-v2-gareth-goldenheart-the-chosen-vessel.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-gareth-goldenheart-the-chosen-vessel-v2-gareth-goldenheart-the-chosen-vessel.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:58:12.775Z",
+  "generationMethod": "ComfyUI"
 }

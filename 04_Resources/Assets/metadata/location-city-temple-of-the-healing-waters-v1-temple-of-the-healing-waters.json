@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Temple of the Healing Waters with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-temple-of-the-healing-waters-v1-temple-of-the-healing-waters.svg"
+  "file": "04_Resources/Assets/Locations/location-city-temple-of-the-healing-waters-v1-temple-of-the-healing-waters.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:46.762Z",
+  "generationMethod": "ComfyUI"
 }

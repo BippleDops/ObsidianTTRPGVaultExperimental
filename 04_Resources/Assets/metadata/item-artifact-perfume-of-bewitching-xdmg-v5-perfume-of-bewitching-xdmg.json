@@ -25,5 +25,8 @@
   "alt_text": "Artifact perfume-of-bewitching-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-perfume-of-bewitching-xdmg-v5-perfume-of-bewitching-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-perfume-of-bewitching-xdmg-v5-perfume-of-bewitching-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:33:29.680Z",
+  "generationMethod": "ComfyUI"
 }

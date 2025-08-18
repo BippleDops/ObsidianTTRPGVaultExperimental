@@ -25,5 +25,8 @@
   "alt_text": "Artifact clockwork-amulet-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-clockwork-amulet-xdmg-v1-clockwork-amulet-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-clockwork-amulet-xdmg-v1-clockwork-amulet-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:19:17.829Z",
+  "generationMethod": "ComfyUI"
 }

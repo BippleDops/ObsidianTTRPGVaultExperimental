@@ -25,5 +25,8 @@
   "alt_text": "Artifact mystery-key-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-mystery-key-xdmg-v1-mystery-key-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-mystery-key-xdmg-v1-mystery-key-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:32:07.990Z",
+  "generationMethod": "ComfyUI"
 }

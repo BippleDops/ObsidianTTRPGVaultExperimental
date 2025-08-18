@@ -25,5 +25,8 @@
   "alt_text": "Artifact potion-of-longevity-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-potion-of-longevity-xdmg-v7-potion-of-longevity-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-potion-of-longevity-xdmg-v7-potion-of-longevity-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:35:17.209Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact antitoxin-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-antitoxin-xphb-antitoxin-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-antitoxin-xphb-antitoxin-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:13:50.425Z",
+  "generationMethod": "ComfyUI"
 }

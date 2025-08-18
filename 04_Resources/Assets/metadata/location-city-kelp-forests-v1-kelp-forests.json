@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Kelp Forests with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-kelp-forests-v1-kelp-forests.svg"
+  "file": "04_Resources/Assets/Locations/location-city-kelp-forests-v1-kelp-forests.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:25.715Z",
+  "generationMethod": "ComfyUI"
 }

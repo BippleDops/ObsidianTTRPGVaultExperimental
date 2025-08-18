@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Archivist Methodius Recordkeeper with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-archivist-methodius-recordkeeper-archivist-methodius-recordkeeper.svg"
+  "file": "04_Resources/Assets/Locations/location-city-archivist-methodius-recordkeeper-archivist-methodius-recordkeeper.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:24.918Z",
+  "generationMethod": "ComfyUI"
 }

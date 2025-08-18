@@ -25,5 +25,8 @@
   "alt_text": "Portrait of The Heart of Oceanus with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-the-heart-of-oceanus-v1-the-heart-of-oceanus.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-the-heart-of-oceanus-v1-the-heart-of-oceanus.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:17.380Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact masque-charm-scc with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-masque-charm-scc-v1-masque-charm-scc.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-masque-charm-scc-v1-masque-charm-scc.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:31:12.957Z",
+  "generationMethod": "ComfyUI"
 }

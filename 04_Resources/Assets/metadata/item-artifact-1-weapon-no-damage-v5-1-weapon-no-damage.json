@@ -25,5 +25,8 @@
   "alt_text": "Artifact 1-weapon-no-damage with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-1-weapon-no-damage-v5-1-weapon-no-damage.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-1-weapon-no-damage-v5-1-weapon-no-damage.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:12:33.842Z",
+  "generationMethod": "ComfyUI"
 }

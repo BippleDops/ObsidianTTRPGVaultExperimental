@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Create a Medieval-era fantasy inspired piece that resembles a panoramic view of The Shadowmere. The scene should include bioluminescent coral or cloudstone elements and figures or vehicles to suggest the scale of the environment. The atmosphere should convey a stormy golden-hour, featuring specific weather cues and particles. The color palette should be dominated by teals, deep blues, sea-greens, with pearl highlights. The craftsmanship and materials of gear and vehicles should be reminiscent of a grounded and culturally coherent medieval setting. Keep the overall style painterly and cinematic, evoking an aquatic fantasy realism and omitting modern tech or signage. The scene should also include aspects of subsurface caustics and bioluminescent accents. To ensure coherence, refrain from using modern signage, photoreal CGI styles, anime styles, and bloom glare. If necessary, utilize simplistic iconography or numbered pins instead of textual signage.",
-  "file": "04_Resources/Assets/Locations/location-city-the-shadowmere-the-shadowmere.png"
+  "file": "04_Resources/Assets/Locations/location-city-the-shadowmere-the-shadowmere.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:58.703Z",
+  "generationMethod": "ComfyUI"
 }

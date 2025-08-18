@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Storm Empress Tempestas Maelstrom with evocative background; clear features readable at token size.",
   "realm": "aethermoor",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-storm-empress-tempestas-maelstrom-v1-storm-empress-tempestas-maelstrom.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-storm-empress-tempestas-maelstrom-v1-storm-empress-tempestas-maelstrom.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:00:48.606Z",
+  "generationMethod": "ComfyUI"
 }

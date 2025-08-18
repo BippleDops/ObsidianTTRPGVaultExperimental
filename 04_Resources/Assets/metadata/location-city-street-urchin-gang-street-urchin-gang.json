@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Street Urchin Gang with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-street-urchin-gang-street-urchin-gang.svg"
+  "file": "04_Resources/Assets/Locations/location-city-street-urchin-gang-street-urchin-gang.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:27.618Z",
+  "generationMethod": "ComfyUI"
 }

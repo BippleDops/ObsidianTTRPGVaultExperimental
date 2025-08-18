@@ -25,5 +25,8 @@
   "alt_text": "Artifact goggles-of-night-xdmg with materials, runes, and scale.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-goggles-of-night-xdmg-v1-goggles-of-night-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-goggles-of-night-xdmg-v1-goggles-of-night-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:25:36.688Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact decanter-of-endless-water-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-decanter-of-endless-water-xdmg-v1-decanter-of-endless-water-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-decanter-of-endless-water-xdmg-v1-decanter-of-endless-water-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:20:31.548Z",
+  "generationMethod": "ComfyUI"
 }

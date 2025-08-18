@@ -25,5 +25,8 @@
   "alt_text": "Artifact silver-bar-5-pound-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-silver-bar-5-pound-xdmg-v3-silver-bar-5-pound-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-silver-bar-5-pound-xdmg-v3-silver-bar-5-pound-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:40:44.513Z",
+  "generationMethod": "ComfyUI"
 }

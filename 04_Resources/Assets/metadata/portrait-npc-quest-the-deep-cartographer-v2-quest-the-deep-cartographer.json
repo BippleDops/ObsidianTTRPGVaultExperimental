@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Quest - The Deep Cartographer with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-deep-cartographer-v2-quest-the-deep-cartographer.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-deep-cartographer-v2-quest-the-deep-cartographer.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:00:00.620Z",
+  "generationMethod": "ComfyUI"
 }

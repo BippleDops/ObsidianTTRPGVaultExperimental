@@ -28,5 +28,8 @@
   "model": "gpt-image-1",
   "size": "1024x1024",
   "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-bio-tech-supervisor-reef-lifeweaver-bio-tech-supervisor-reef-lifeweaver.png"
+  "file": "04_Resources/Assets/Locations/location-city-bio-tech-supervisor-reef-lifeweaver-bio-tech-supervisor-reef-lifeweaver.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:36.927Z",
+  "generationMethod": "ComfyUI"
 }

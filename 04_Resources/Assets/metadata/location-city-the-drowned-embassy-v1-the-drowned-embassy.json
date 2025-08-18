@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Drowned Embassy with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-drowned-embassy-v1-the-drowned-embassy.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-drowned-embassy-v1-the-drowned-embassy.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:13.141Z",
+  "generationMethod": "ComfyUI"
 }

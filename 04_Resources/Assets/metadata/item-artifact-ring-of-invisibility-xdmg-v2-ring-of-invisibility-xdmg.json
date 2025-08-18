@@ -25,5 +25,8 @@
   "alt_text": "Artifact ring-of-invisibility-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-ring-of-invisibility-xdmg-v2-ring-of-invisibility-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-ring-of-invisibility-xdmg-v2-ring-of-invisibility-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:37:18.876Z",
+  "generationMethod": "ComfyUI"
 }

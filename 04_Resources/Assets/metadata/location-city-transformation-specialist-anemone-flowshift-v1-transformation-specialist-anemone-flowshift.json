@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Transformation Specialist Anemone Flowshift with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-transformation-specialist-anemone-flowshift-v1-transformation-specialist-anemone-flowshift.svg"
+  "file": "04_Resources/Assets/Locations/location-city-transformation-specialist-anemone-flowshift-v1-transformation-specialist-anemone-flowshift.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:34.659Z",
+  "generationMethod": "ComfyUI"
 }

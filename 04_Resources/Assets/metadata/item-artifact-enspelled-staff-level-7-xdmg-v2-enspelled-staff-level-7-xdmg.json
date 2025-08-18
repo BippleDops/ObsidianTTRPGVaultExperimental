@@ -25,5 +25,8 @@
   "alt_text": "Artifact enspelled-staff-level-7-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-enspelled-staff-level-7-xdmg-v2-enspelled-staff-level-7-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-enspelled-staff-level-7-xdmg-v2-enspelled-staff-level-7-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:23:13.370Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Crystal Caverns with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-crystal-caverns-v1-the-crystal-caverns.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-crystal-caverns-v1-the-crystal-caverns.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:03.509Z",
+  "generationMethod": "ComfyUI"
 }

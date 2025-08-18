@@ -27,5 +27,8 @@
   "palette": "storm greys",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-deepwatch-guard-the-deepwatch-guard.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-deepwatch-guard-the-deepwatch-guard.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:29.390Z",
+  "generationMethod": "ComfyUI"
 }

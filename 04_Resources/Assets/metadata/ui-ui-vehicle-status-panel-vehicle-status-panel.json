@@ -28,5 +28,8 @@
   "model": "gpt-image-1",
   "size": "1024x1024",
   "revised_prompt": null,
-  "file": "04_Resources/Assets/Digital/ui-ui-vehicle-status-panel-vehicle-status-panel.png"
+  "file": "04_Resources/Assets/Digital/ui-ui-vehicle-status-panel-vehicle-status-panel.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:04:02.766Z",
+  "generationMethod": "ComfyUI"
 }

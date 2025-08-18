@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Senior Nurse Polyp Tendercurrent with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-senior-nurse-polyp-tendercurrent-v1-senior-nurse-polyp-tendercurrent.svg"
+  "file": "04_Resources/Assets/Locations/location-city-senior-nurse-polyp-tendercurrent-v1-senior-nurse-polyp-tendercurrent.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:08.458Z",
+  "generationMethod": "ComfyUI"
 }

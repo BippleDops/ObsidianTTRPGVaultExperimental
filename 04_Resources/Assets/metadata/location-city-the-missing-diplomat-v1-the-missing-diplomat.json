@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Missing Diplomat with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-missing-diplomat-v1-the-missing-diplomat.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-missing-diplomat-v1-the-missing-diplomat.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:41.909Z",
+  "generationMethod": "ComfyUI"
 }

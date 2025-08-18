@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Thornfield District with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-thornfield-district-v1-the-thornfield-district.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-thornfield-district-v1-the-thornfield-district.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:13.055Z",
+  "generationMethod": "ComfyUI"
 }

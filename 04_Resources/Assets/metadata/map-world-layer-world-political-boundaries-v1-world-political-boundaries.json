@@ -36,5 +36,8 @@
   "scale": "1:25,000,000",
   "textPolicy": "labels added as separate overlay, no rasterized tiny text",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Maps/map-world-layer-world-political-boundaries-v1-world-political-boundaries.svg"
+  "file": "04_Resources/Assets/Maps/map-world-layer-world-political-boundaries-v1-world-political-boundaries.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:56:29.700Z",
+  "generationMethod": "ComfyUI"
 }

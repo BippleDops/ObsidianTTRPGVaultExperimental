@@ -25,5 +25,8 @@
   "alt_text": "Artifact bead-of-nourishment-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-bead-of-nourishment-xdmg-v5-bead-of-nourishment-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-bead-of-nourishment-xdmg-v5-bead-of-nourishment-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:15:26.106Z",
+  "generationMethod": "ComfyUI"
 }

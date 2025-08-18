@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Pressure's End with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-pressure-s-end-v1-pressure-s-end.svg"
+  "file": "04_Resources/Assets/Locations/location-city-pressure-s-end-v1-pressure-s-end.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:10.831Z",
+  "generationMethod": "ComfyUI"
 }

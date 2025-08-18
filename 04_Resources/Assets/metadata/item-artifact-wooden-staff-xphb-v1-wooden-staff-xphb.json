@@ -25,5 +25,8 @@
   "alt_text": "Artifact wooden-staff-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-wooden-staff-xphb-v1-wooden-staff-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-wooden-staff-xphb-v1-wooden-staff-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:46:48.945Z",
+  "generationMethod": "ComfyUI"
 }

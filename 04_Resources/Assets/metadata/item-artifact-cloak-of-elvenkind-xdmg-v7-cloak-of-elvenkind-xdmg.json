@@ -25,5 +25,8 @@
   "alt_text": "Artifact cloak-of-elvenkind-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-cloak-of-elvenkind-xdmg-v7-cloak-of-elvenkind-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-cloak-of-elvenkind-xdmg-v7-cloak-of-elvenkind-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:19:08.251Z",
+  "generationMethod": "ComfyUI"
 }

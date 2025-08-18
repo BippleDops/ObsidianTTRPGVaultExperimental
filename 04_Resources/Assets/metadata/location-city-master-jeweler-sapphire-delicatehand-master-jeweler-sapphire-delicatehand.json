@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Master Jeweler Sapphire Delicatehand with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-master-jeweler-sapphire-delicatehand-master-jeweler-sapphire-delicatehand.svg"
+  "file": "04_Resources/Assets/Locations/location-city-master-jeweler-sapphire-delicatehand-master-jeweler-sapphire-delicatehand.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:01.832Z",
+  "generationMethod": "ComfyUI"
 }

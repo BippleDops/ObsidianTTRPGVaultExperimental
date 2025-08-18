@@ -25,5 +25,8 @@
   "alt_text": "Artifact strixhaven-pennant-scc with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-strixhaven-pennant-scc-strixhaven-pennant-scc.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-strixhaven-pennant-scc-strixhaven-pennant-scc.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:43:23.087Z",
+  "generationMethod": "ComfyUI"
 }

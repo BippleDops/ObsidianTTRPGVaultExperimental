@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Keeper of the Shattered Crown, Marcus Crystalvein with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-keeper-of-the-shattered-crown-marcus-crystalvein-keeper-of-the-shattered-crown-marcus-crystalvein.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-keeper-of-the-shattered-crown-marcus-crystalvein-keeper-of-the-shattered-crown-marcus-crystalvein.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:58:36.872Z",
+  "generationMethod": "ComfyUI"
 }

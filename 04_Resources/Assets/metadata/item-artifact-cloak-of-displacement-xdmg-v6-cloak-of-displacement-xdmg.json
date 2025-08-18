@@ -25,5 +25,8 @@
   "alt_text": "Artifact cloak-of-displacement-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-cloak-of-displacement-xdmg-v6-cloak-of-displacement-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-cloak-of-displacement-xdmg-v6-cloak-of-displacement-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:19:05.901Z",
+  "generationMethod": "ComfyUI"
 }

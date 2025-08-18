@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Living Quarters with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-living-quarters-the-living-quarters.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-living-quarters-the-living-quarters.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:34.775Z",
+  "generationMethod": "ComfyUI"
 }

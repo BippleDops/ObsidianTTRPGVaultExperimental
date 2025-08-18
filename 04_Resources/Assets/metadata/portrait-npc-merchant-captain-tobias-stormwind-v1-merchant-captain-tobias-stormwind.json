@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Merchant Captain Tobias Stormwind with evocative background; clear features readable at token size.",
   "realm": "mixed",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-merchant-captain-tobias-stormwind-v1-merchant-captain-tobias-stormwind.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-merchant-captain-tobias-stormwind-v1-merchant-captain-tobias-stormwind.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:59:19.987Z",
+  "generationMethod": "ComfyUI"
 }

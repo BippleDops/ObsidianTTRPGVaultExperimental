@@ -25,5 +25,8 @@
   "alt_text": "Artifact amulet-of-proof-against-detection-and-location-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-amulet-of-proof-against-detection-and-location-xdmg-v3-amulet-of-proof-against-detection-and-location-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-amulet-of-proof-against-detection-and-location-xdmg-v3-amulet-of-proof-against-detection-and-location-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:13:43.273Z",
+  "generationMethod": "ComfyUI"
 }

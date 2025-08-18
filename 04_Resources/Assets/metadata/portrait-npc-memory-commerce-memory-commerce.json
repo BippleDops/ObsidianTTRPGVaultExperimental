@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Memory Commerce with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-memory-commerce-memory-commerce.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-memory-commerce-memory-commerce.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:59:17.547Z",
+  "generationMethod": "ComfyUI"
 }

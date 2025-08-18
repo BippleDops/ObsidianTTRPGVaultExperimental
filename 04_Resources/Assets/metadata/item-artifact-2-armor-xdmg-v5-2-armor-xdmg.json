@@ -25,5 +25,8 @@
   "alt_text": "Artifact 2-armor-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-2-armor-xdmg-v5-2-armor-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-2-armor-xdmg-v5-2-armor-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:12:41.037Z",
+  "generationMethod": "ComfyUI"
 }

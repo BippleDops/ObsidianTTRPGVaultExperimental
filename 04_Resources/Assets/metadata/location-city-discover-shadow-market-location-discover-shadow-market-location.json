@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Discover Shadow Market Location with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-discover-shadow-market-location-discover-shadow-market-location.svg"
+  "file": "04_Resources/Assets/Locations/location-city-discover-shadow-market-location-discover-shadow-market-location.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:51.741Z",
+  "generationMethod": "ComfyUI"
 }

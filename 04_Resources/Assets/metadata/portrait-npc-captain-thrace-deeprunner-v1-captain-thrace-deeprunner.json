@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Captain Thrace Deeprunner with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-captain-thrace-deeprunner-v1-captain-thrace-deeprunner.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-captain-thrace-deeprunner-v1-captain-thrace-deeprunner.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:57:29.734Z",
+  "generationMethod": "ComfyUI"
 }

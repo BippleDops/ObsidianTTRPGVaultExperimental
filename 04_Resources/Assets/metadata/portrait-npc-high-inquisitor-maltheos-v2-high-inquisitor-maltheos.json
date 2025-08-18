@@ -25,5 +25,8 @@
   "alt_text": "Portrait of High Inquisitor Maltheos with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-high-inquisitor-maltheos-v2-high-inquisitor-maltheos.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-high-inquisitor-maltheos-v2-high-inquisitor-maltheos.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:58:19.979Z",
+  "generationMethod": "ComfyUI"
 }

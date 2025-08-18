@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Pressure Crown with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-pressure-crown-v1-the-pressure-crown.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-pressure-crown-v1-the-pressure-crown.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:51.472Z",
+  "generationMethod": "ComfyUI"
 }

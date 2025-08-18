@@ -25,5 +25,8 @@
   "alt_text": "Artifact spell-gem-topaz-oota with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-spell-gem-topaz-oota-v3-spell-gem-topaz-oota.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-spell-gem-topaz-oota-v3-spell-gem-topaz-oota.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:41:49.304Z",
+  "generationMethod": "ComfyUI"
 }

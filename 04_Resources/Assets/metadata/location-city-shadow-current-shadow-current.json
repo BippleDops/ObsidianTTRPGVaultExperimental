@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Shadow Current with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-shadow-current-shadow-current.svg"
+  "file": "04_Resources/Assets/Locations/location-city-shadow-current-shadow-current.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:13.250Z",
+  "generationMethod": "ComfyUI"
 }

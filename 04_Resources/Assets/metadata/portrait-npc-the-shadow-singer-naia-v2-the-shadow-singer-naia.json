@@ -25,5 +25,8 @@
   "alt_text": "Portrait of The Shadow Singer Naia with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-the-shadow-singer-naia-v2-the-shadow-singer-naia.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-the-shadow-singer-naia-v2-the-shadow-singer-naia.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:31.809Z",
+  "generationMethod": "ComfyUI"
 }

@@ -27,5 +27,8 @@
   "palette": "seafoam greens",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-duchess-duel-v1-the-shadow-duchess-duel.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-duchess-duel-v1-the-shadow-duchess-duel.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:43.708Z",
+  "generationMethod": "ComfyUI"
 }

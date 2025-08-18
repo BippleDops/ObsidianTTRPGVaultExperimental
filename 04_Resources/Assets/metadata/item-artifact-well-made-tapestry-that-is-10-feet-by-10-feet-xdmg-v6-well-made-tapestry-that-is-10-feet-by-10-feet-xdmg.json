@@ -25,5 +25,8 @@
   "alt_text": "Artifact well-made-tapestry-that-is-10-feet-by-10-feet-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-well-made-tapestry-that-is-10-feet-by-10-feet-xdmg-v6-well-made-tapestry-that-is-10-feet-by-10-feet-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-well-made-tapestry-that-is-10-feet-by-10-feet-xdmg-v6-well-made-tapestry-that-is-10-feet-by-10-feet-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:46:22.679Z",
+  "generationMethod": "ComfyUI"
 }

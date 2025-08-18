@@ -25,5 +25,8 @@
   "alt_text": "Artifact handheld-mirror-set-in-a-painted-wooden-frame-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-handheld-mirror-set-in-a-painted-wooden-frame-xdmg-v5-handheld-mirror-set-in-a-painted-wooden-frame-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-handheld-mirror-set-in-a-painted-wooden-frame-xdmg-v5-handheld-mirror-set-in-a-painted-wooden-frame-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:26:45.742Z",
+  "generationMethod": "ComfyUI"
 }

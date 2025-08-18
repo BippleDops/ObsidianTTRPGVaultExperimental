@@ -25,5 +25,8 @@
   "alt_text": "Artifact chalk-1-piece with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-chalk-1-piece-v6-chalk-1-piece.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-chalk-1-piece-v6-chalk-1-piece.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:18:32.455Z",
+  "generationMethod": "ComfyUI"
 }

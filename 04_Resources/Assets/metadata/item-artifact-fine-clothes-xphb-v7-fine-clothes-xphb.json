@@ -25,5 +25,8 @@
   "alt_text": "Artifact fine-clothes-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-fine-clothes-xphb-v7-fine-clothes-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-fine-clothes-xphb-v7-fine-clothes-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:24:27.354Z",
+  "generationMethod": "ComfyUI"
 }

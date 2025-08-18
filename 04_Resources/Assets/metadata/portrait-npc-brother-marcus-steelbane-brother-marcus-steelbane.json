@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Brother Marcus Steelbane with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-brother-marcus-steelbane-brother-marcus-steelbane.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-brother-marcus-steelbane-brother-marcus-steelbane.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:56:48.839Z",
+  "generationMethod": "ComfyUI"
 }

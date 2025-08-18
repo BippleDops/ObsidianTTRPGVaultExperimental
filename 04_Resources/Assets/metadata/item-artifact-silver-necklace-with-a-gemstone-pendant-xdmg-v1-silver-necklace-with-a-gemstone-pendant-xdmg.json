@@ -25,5 +25,8 @@
   "alt_text": "Artifact silver-necklace-with-a-gemstone-pendant-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-silver-necklace-with-a-gemstone-pendant-xdmg-v1-silver-necklace-with-a-gemstone-pendant-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-silver-necklace-with-a-gemstone-pendant-xdmg-v1-silver-necklace-with-a-gemstone-pendant-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:40:49.292Z",
+  "generationMethod": "ComfyUI"
 }

@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Generate a painting capturing a heroic fantasy theme with a touch of medieval appeal. The scene should lack modern technology or indications. The visual style should align with a consistent, rich, painterly collection. In focus, there should be a detailed artifact: a wind vane pot crafted from elements such as pearl, coral, cloud-crystal, and pressure-forged metals. The pot should be adorned with abstract, meaningful sigils emitting a gentle glow. For size perspective, include a hand or a ruler in the image. The artifact's design ought to incorporate motifs of airships and present wind-swept forms. The color palette for this project includes shades of navy, gold, cloud white, with warm highlights reminiscent of the sun's glow. Retain the specified aspect and resolution while avoiding artifacts. Abstain from including sci-fi UIs, photoreal signage, hyperreal CGI, or styles representative of anime or excessive bloom glare.",
-  "file": "04_Resources/Assets/Items/item-artifact-windvane-pota-windvane-pota.png"
+  "file": "04_Resources/Assets/Items/item-artifact-windvane-pota-windvane-pota.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:46:37.136Z",
+  "generationMethod": "ComfyUI"
 }

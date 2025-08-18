@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Dr. Siphon Gillwater with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-dr-siphon-gillwater-v1-dr-siphon-gillwater.svg"
+  "file": "04_Resources/Assets/Locations/location-city-dr-siphon-gillwater-v1-dr-siphon-gillwater.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:56.608Z",
+  "generationMethod": "ComfyUI"
 }

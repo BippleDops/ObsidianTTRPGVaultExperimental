@@ -27,5 +27,8 @@
   "palette": "gold accents",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-cross-realm-agricultural-exchang-v1-cross-realm-agricultural-exchang.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-cross-realm-agricultural-exchang-v1-cross-realm-agricultural-exchang.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:27.111Z",
+  "generationMethod": "ComfyUI"
 }

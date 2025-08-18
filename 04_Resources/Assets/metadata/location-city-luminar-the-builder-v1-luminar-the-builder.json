@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Luminar the Builder with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-luminar-the-builder-v1-luminar-the-builder.svg"
+  "file": "04_Resources/Assets/Locations/location-city-luminar-the-builder-v1-luminar-the-builder.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:37.830Z",
+  "generationMethod": "ComfyUI"
 }

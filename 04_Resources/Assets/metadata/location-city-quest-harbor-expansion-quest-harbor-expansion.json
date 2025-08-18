@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Quest - Harbor Expansion with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-quest-harbor-expansion-quest-harbor-expansion.svg"
+  "file": "04_Resources/Assets/Locations/location-city-quest-harbor-expansion-quest-harbor-expansion.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:25.190Z",
+  "generationMethod": "ComfyUI"
 }

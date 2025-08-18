@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Twilight Depths with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-twilight-depths-twilight-depths.svg"
+  "file": "04_Resources/Assets/Locations/location-city-twilight-depths-twilight-depths.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:39.377Z",
+  "generationMethod": "ComfyUI"
 }

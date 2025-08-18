@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Harbor Wall with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-harbor-wall-v1-harbor-wall.svg"
+  "file": "04_Resources/Assets/Locations/location-city-harbor-wall-v1-harbor-wall.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:46.228Z",
+  "generationMethod": "ComfyUI"
 }

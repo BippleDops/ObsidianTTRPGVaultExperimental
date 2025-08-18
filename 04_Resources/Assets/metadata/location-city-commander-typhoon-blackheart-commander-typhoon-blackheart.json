@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Commander Typhoon Blackheart with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-commander-typhoon-blackheart-commander-typhoon-blackheart.svg"
+  "file": "04_Resources/Assets/Locations/location-city-commander-typhoon-blackheart-commander-typhoon-blackheart.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:58.453Z",
+  "generationMethod": "ComfyUI"
 }

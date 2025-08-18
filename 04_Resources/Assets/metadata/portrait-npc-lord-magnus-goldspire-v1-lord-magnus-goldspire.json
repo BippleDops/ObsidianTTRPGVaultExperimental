@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Lord Magnus Goldspire with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-lord-magnus-goldspire-v1-lord-magnus-goldspire.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-lord-magnus-goldspire-v1-lord-magnus-goldspire.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:59:05.445Z",
+  "generationMethod": "ComfyUI"
 }

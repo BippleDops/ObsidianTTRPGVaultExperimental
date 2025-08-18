@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of High Vigil Keeper Thalassa Depthmind with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-high-vigil-keeper-thalassa-depthmind-v1-high-vigil-keeper-thalassa-depthmind.svg"
+  "file": "04_Resources/Assets/Locations/location-city-high-vigil-keeper-thalassa-depthmind-v1-high-vigil-keeper-thalassa-depthmind.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:53.749Z",
+  "generationMethod": "ComfyUI"
 }

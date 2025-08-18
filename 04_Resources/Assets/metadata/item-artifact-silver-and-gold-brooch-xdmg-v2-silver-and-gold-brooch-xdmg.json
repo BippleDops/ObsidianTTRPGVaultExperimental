@@ -25,5 +25,8 @@
   "alt_text": "Artifact silver-and-gold-brooch-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-silver-and-gold-brooch-xdmg-v2-silver-and-gold-brooch-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-silver-and-gold-brooch-xdmg-v2-silver-and-gold-brooch-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:40:39.768Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Terminal Master Hadrian Depthbridge with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-terminal-master-hadrian-depthbridge-v1-terminal-master-hadrian-depthbridge.svg"
+  "file": "04_Resources/Assets/Locations/location-city-terminal-master-hadrian-depthbridge-v1-terminal-master-hadrian-depthbridge.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:51.539Z",
+  "generationMethod": "ComfyUI"
 }

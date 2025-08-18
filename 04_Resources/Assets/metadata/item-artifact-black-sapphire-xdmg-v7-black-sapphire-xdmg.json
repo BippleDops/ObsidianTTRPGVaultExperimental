@@ -25,5 +25,8 @@
   "alt_text": "Artifact black-sapphire-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-black-sapphire-xdmg-v7-black-sapphire-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-black-sapphire-xdmg-v7-black-sapphire-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:16:04.583Z",
+  "generationMethod": "ComfyUI"
 }

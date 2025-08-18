@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Intelligence Services with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-intelligence-services-intelligence-services.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-intelligence-services-intelligence-services.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:58:34.451Z",
+  "generationMethod": "ComfyUI"
 }

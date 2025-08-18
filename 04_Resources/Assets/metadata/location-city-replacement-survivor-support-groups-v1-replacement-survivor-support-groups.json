@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Replacement Survivor Support Groups with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-replacement-survivor-support-groups-v1-replacement-survivor-support-groups.svg"
+  "file": "04_Resources/Assets/Locations/location-city-replacement-survivor-support-groups-v1-replacement-survivor-support-groups.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:39.632Z",
+  "generationMethod": "ComfyUI"
 }

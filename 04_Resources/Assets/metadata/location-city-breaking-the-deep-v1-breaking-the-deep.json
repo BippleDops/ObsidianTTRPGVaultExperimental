@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Breaking the Deep with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-breaking-the-deep-v1-breaking-the-deep.svg"
+  "file": "04_Resources/Assets/Locations/location-city-breaking-the-deep-v1-breaking-the-deep.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:39.281Z",
+  "generationMethod": "ComfyUI"
 }

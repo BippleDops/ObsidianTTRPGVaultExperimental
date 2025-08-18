@@ -33,5 +33,8 @@
   },
   "levels": 1,
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Maps/map-map-floating-market-barges-v1-floating-market-barges.svg"
+  "file": "04_Resources/Assets/Maps/map-map-floating-market-barges-v1-floating-market-barges.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:56:12.927Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Archivist Reef Bookkeeper with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-archivist-reef-bookkeeper-v1-archivist-reef-bookkeeper.svg"
+  "file": "04_Resources/Assets/Locations/location-city-archivist-reef-bookkeeper-v1-archivist-reef-bookkeeper.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:24.917Z",
+  "generationMethod": "ComfyUI"
 }

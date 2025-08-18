@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Express Racers with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-express-racers-express-racers.svg"
+  "file": "04_Resources/Assets/Locations/location-city-express-racers-express-racers.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:13.913Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Mothercoral Crisis with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-mothercoral-crisis-v1-the-mothercoral-crisis.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-mothercoral-crisis-v1-the-mothercoral-crisis.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:41.908Z",
+  "generationMethod": "ComfyUI"
 }

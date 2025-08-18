@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Merchant Viktor Geargrind with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-merchant-viktor-geargrind-v1-merchant-viktor-geargrind.svg"
+  "file": "04_Resources/Assets/Locations/location-city-merchant-viktor-geargrind-v1-merchant-viktor-geargrind.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:23.200Z",
+  "generationMethod": "ComfyUI"
 }

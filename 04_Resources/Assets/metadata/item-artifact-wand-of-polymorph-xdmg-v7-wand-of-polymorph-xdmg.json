@@ -25,5 +25,8 @@
   "alt_text": "Artifact wand-of-polymorph-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-wand-of-polymorph-xdmg-v7-wand-of-polymorph-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-wand-of-polymorph-xdmg-v7-wand-of-polymorph-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:45:44.312Z",
+  "generationMethod": "ComfyUI"
 }

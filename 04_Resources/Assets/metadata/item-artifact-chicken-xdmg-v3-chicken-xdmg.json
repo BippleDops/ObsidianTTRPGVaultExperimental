@@ -25,5 +25,8 @@
   "alt_text": "Artifact chicken-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-chicken-xdmg-v3-chicken-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-chicken-xdmg-v3-chicken-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:18:42.021Z",
+  "generationMethod": "ComfyUI"
 }

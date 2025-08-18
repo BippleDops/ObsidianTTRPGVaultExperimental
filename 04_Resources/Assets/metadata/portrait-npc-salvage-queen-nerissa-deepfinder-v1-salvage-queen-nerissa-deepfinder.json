@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Salvage Queen Nerissa Deepfinder with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-salvage-queen-nerissa-deepfinder-v1-salvage-queen-nerissa-deepfinder.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-salvage-queen-nerissa-deepfinder-v1-salvage-queen-nerissa-deepfinder.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:00:27.030Z",
+  "generationMethod": "ComfyUI"
 }

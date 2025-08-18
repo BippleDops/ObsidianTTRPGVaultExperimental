@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Priest Thomas Messagekeeper with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-priest-thomas-messagekeeper-priest-thomas-messagekeeper.svg"
+  "file": "04_Resources/Assets/Locations/location-city-priest-thomas-messagekeeper-priest-thomas-messagekeeper.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:13.197Z",
+  "generationMethod": "ComfyUI"
 }

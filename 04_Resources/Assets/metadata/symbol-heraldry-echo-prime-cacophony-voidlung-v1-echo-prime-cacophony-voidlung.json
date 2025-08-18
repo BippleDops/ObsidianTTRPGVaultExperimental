@@ -27,5 +27,8 @@
   "palette": "gold accents",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-echo-prime-cacophony-voidlung-v1-echo-prime-cacophony-voidlung.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-echo-prime-cacophony-voidlung-v1-echo-prime-cacophony-voidlung.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:34.291Z",
+  "generationMethod": "ComfyUI"
 }

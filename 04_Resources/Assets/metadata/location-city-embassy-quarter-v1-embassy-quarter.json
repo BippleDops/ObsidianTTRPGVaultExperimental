@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Embassy Quarter with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-embassy-quarter-v1-embassy-quarter.svg"
+  "file": "04_Resources/Assets/Locations/location-city-embassy-quarter-v1-embassy-quarter.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:08.880Z",
+  "generationMethod": "ComfyUI"
 }

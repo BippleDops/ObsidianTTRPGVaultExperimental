@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Captain Sterling Lightshield with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-captain-sterling-lightshield-v1-captain-sterling-lightshield.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-captain-sterling-lightshield-v1-captain-sterling-lightshield.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:57:22.483Z",
+  "generationMethod": "ComfyUI"
 }

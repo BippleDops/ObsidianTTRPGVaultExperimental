@@ -25,5 +25,8 @@
   "alt_text": "Artifact jeweled-platinum-ring-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-jeweled-platinum-ring-xdmg-v4-jeweled-platinum-ring-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-jeweled-platinum-ring-xdmg-v4-jeweled-platinum-ring-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:29:30.564Z",
+  "generationMethod": "ComfyUI"
 }

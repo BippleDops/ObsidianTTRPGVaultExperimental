@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Scream Saturation Rules with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-scream-saturation-rules-v1-scream-saturation-rules.svg"
+  "file": "04_Resources/Assets/Locations/location-city-scream-saturation-rules-v1-scream-saturation-rules.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:58.814Z",
+  "generationMethod": "ComfyUI"
 }

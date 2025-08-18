@@ -26,5 +26,8 @@
   "realm": "aethermoor",
   "callouts": "numbered pins 01..10; legend area reserved; no paragraph labels",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Vehicles/vehicle-ship-storm-borne-battleship-v2-storm-borne-battleship.svg"
+  "file": "04_Resources/Assets/Vehicles/vehicle-ship-storm-borne-battleship-v2-storm-borne-battleship.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:04:17.181Z",
+  "generationMethod": "ComfyUI"
 }

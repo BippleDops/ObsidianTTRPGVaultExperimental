@@ -25,5 +25,8 @@
   "alt_text": "Artifact old-masterpiece-painting-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-old-masterpiece-painting-xdmg-v7-old-masterpiece-painting-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-old-masterpiece-painting-xdmg-v7-old-masterpiece-painting-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:32:46.406Z",
+  "generationMethod": "ComfyUI"
 }

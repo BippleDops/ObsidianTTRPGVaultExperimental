@@ -25,5 +25,8 @@
   "alt_text": "Artifact hide-armor-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-hide-armor-xphb-v2-hide-armor-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-hide-armor-xphb-v2-hide-armor-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:27:21.895Z",
+  "generationMethod": "ComfyUI"
 }

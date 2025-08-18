@@ -25,5 +25,8 @@
   "alt_text": "Artifact totem with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-totem-v2-totem.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-totem-v2-totem.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:44:49.426Z",
+  "generationMethod": "ComfyUI"
 }

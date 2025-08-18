@@ -25,5 +25,8 @@
   "alt_text": "Artifact mind-carapace-armor-vgm with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-mind-carapace-armor-vgm-v1-mind-carapace-armor-vgm.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-mind-carapace-armor-vgm-v1-mind-carapace-armor-vgm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:31:29.713Z",
+  "generationMethod": "ComfyUI"
 }

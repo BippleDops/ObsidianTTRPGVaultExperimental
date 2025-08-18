@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Registry Keeper Mordecai Truthbane with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-registry-keeper-mordecai-truthbane-registry-keeper-mordecai-truthbane.svg"
+  "file": "04_Resources/Assets/Locations/location-city-registry-keeper-mordecai-truthbane-registry-keeper-mordecai-truthbane.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:37.245Z",
+  "generationMethod": "ComfyUI"
 }

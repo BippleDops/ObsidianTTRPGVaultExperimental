@@ -25,5 +25,8 @@
   "alt_text": "Portrait of The Reality-Sick Mayor, Lord Quantum Aldrich with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-the-reality-sick-mayor-lord-quantum-aldrich-v2-the-reality-sick-mayor-lord-quantum-aldrich.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-the-reality-sick-mayor-lord-quantum-aldrich-v2-the-reality-sick-mayor-lord-quantum-aldrich.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:27.001Z",
+  "generationMethod": "ComfyUI"
 }

@@ -28,5 +28,8 @@
   "model": "gpt-image-1",
   "size": "1024x1024",
   "revised_prompt": null,
-  "file": "04_Resources/Assets/Items/item-artifact-explorers-pack-xphb-v6-explorers-pack-xphb.png"
+  "file": "04_Resources/Assets/Items/item-artifact-explorers-pack-xphb-v6-explorers-pack-xphb.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:23:49.390Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Chief Inspector Magnus Ledgerkeep with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-chief-inspector-magnus-ledgerkeep-v1-chief-inspector-magnus-ledgerkeep.svg"
+  "file": "04_Resources/Assets/Locations/location-city-chief-inspector-magnus-ledgerkeep-v1-chief-inspector-magnus-ledgerkeep.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:51.301Z",
+  "generationMethod": "ComfyUI"
 }

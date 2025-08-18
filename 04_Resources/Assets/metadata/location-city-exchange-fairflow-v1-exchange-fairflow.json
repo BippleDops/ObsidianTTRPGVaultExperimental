@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Exchange Fairflow with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-exchange-fairflow-v1-exchange-fairflow.svg"
+  "file": "04_Resources/Assets/Locations/location-city-exchange-fairflow-v1-exchange-fairflow.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:11.416Z",
+  "generationMethod": "ComfyUI"
 }

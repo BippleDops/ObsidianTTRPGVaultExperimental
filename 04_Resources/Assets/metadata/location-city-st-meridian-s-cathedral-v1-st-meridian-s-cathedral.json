@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of St. Meridian's Cathedral with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-st-meridian-s-cathedral-v1-st-meridian-s-cathedral.svg"
+  "file": "04_Resources/Assets/Locations/location-city-st-meridian-s-cathedral-v1-st-meridian-s-cathedral.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:25.240Z",
+  "generationMethod": "ComfyUI"
 }

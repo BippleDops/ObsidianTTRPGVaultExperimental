@@ -25,5 +25,8 @@
   "alt_text": "Artifact caltrops-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-caltrops-xphb-v4-caltrops-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-caltrops-xphb-v4-caltrops-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:17:32.862Z",
+  "generationMethod": "ComfyUI"
 }

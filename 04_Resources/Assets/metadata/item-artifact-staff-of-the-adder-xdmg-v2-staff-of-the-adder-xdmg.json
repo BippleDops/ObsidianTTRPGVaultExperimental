@@ -25,5 +25,8 @@
   "alt_text": "Artifact staff-of-the-adder-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-staff-of-the-adder-xdmg-v2-staff-of-the-adder-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-staff-of-the-adder-xdmg-v2-staff-of-the-adder-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:42:51.742Z",
+  "generationMethod": "ComfyUI"
 }

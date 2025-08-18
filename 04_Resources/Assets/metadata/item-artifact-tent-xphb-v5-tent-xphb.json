@@ -25,5 +25,8 @@
   "alt_text": "Artifact tent-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-tent-xphb-v5-tent-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-tent-xphb-v5-tent-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:44:18.257Z",
+  "generationMethod": "ComfyUI"
 }

@@ -27,5 +27,8 @@
   "palette": "storm greys",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-border-marches-v1-the-border-marches.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-border-marches-v1-the-border-marches.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:24.590Z",
+  "generationMethod": "ComfyUI"
 }

@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Visualize a scene from a tabletop fantasy game reminiscent of Dungeons and Dragons, set in a grounded medieval world with no modern technology or signage. Imagine an item being a detailed artifact, a spell gem created from materials like lapis lazuli, pearl, coral, and cloud-crystal, and forged metals created under pressure. The artifact is adorned with abstract sigils that are not letters, and emits a gentle glow. The item is to be compared with the size of a hand or ruler. The style is consistent, painterly, akin to a product render, but with an aquatic, fantasy realism twist. The image includes subsurface caustics, bioluminescent accents, and resembles materials of a pressure dome. The primary colors are teals, deep blues, sea-greens with pearl highlights. The abstract sigils are significant and meaningful; avoid the random, garbled letters and keep any symbols discerning. Do not use sci-fi UIs, modern signage, photoreal CGI, or anime style, and avoid excessive bloom glare.",
-  "file": "04_Resources/Assets/Items/item-artifact-spell-gem-lapis-lazuli-oota-v3-spell-gem-lapis-lazuli-oota.png"
+  "file": "04_Resources/Assets/Items/item-artifact-spell-gem-lapis-lazuli-oota-v3-spell-gem-lapis-lazuli-oota.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:41:37.452Z",
+  "generationMethod": "ComfyUI"
 }

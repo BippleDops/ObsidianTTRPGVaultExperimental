@@ -25,5 +25,8 @@
   "alt_text": "Artifact carved-wooden-harp-with-ivory-inlay-and-zircon-gems-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-carved-wooden-harp-with-ivory-inlay-and-zircon-gems-xdmg-v6-carved-wooden-harp-with-ivory-inlay-and-zircon-gems-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-carved-wooden-harp-with-ivory-inlay-and-zircon-gems-xdmg-v6-carved-wooden-harp-with-ivory-inlay-and-zircon-gems-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:18:13.280Z",
+  "generationMethod": "ComfyUI"
 }

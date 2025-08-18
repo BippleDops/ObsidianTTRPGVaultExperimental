@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Temple-Scholar Depth-Seer with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-temple-scholar-depth-seer-temple-scholar-depth-seer.svg"
+  "file": "04_Resources/Assets/Locations/location-city-temple-scholar-depth-seer-temple-scholar-depth-seer.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:46.763Z",
+  "generationMethod": "ComfyUI"
 }

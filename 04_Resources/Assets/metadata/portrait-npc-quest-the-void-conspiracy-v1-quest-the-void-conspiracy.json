@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Create a portrait of a notable human figure from the realms of Aquabyssos/Aethermoor in a D&D 5e adjacent, heroic tabletop fantasy setting. This adult character is dressed in specific attire conforming to the medieval-fantasy theme, yet tailored to their environment and personality, with no incorporation of modern technology. The painting should evoke emotion in the viewer and embody character-driven narratives. Make it memorable through unique traits and signature elements of the environment. Imagine this scene with impossible geometries and cosmic surrealism, perhaps an indigo starfield subtly illuminating the scene. Use a painterly collection style with emphasis on the character, ensuring it is readable at small sizes. The color palette should mainly consist of varying indigos, violets, black, and cold silver. Remember, no use of artifacts, garbled or random letter strings, modern signage, photoreal CGI, anime style, or bloom glare.",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-v1-quest-the-void-conspiracy.png"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-v1-quest-the-void-conspiracy.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:00:22.204Z",
+  "generationMethod": "ComfyUI"
 }

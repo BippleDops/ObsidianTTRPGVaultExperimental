@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Priest Faith Crystalsong with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-priest-faith-crystalsong-priest-faith-crystalsong.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-priest-faith-crystalsong-priest-faith-crystalsong.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:59:36.825Z",
+  "generationMethod": "ComfyUI"
 }

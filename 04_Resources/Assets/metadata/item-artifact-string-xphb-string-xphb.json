@@ -25,5 +25,8 @@
   "alt_text": "Artifact string-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-string-xphb-string-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-string-xphb-string-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:43:20.659Z",
+  "generationMethod": "ComfyUI"
 }

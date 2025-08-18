@@ -25,5 +25,8 @@
   "alt_text": "Artifact sprig-of-mistletoe-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-sprig-of-mistletoe-xphb-v5-sprig-of-mistletoe-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-sprig-of-mistletoe-xphb-v5-sprig-of-mistletoe-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:42:25.360Z",
+  "generationMethod": "ComfyUI"
 }

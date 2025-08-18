@@ -25,5 +25,8 @@
   "alt_text": "Portrait of High Priest Absence with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-high-priest-absence-v2-high-priest-absence.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-high-priest-absence-v2-high-priest-absence.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:58:22.403Z",
+  "generationMethod": "ComfyUI"
 }

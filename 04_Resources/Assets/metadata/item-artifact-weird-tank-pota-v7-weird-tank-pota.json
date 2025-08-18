@@ -28,5 +28,8 @@
   "model": "gpt-image-1",
   "size": "1024x1024",
   "revised_prompt": null,
-  "file": "04_Resources/Assets/Items/item-artifact-weird-tank-pota-v7-weird-tank-pota.png"
+  "file": "04_Resources/Assets/Items/item-artifact-weird-tank-pota-v7-weird-tank-pota.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:46:20.300Z",
+  "generationMethod": "ComfyUI"
 }

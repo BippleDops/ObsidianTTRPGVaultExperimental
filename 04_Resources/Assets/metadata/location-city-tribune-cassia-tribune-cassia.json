@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Tribune Cassia with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-tribune-cassia-tribune-cassia.svg"
+  "file": "04_Resources/Assets/Locations/location-city-tribune-cassia-tribune-cassia.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:36.986Z",
+  "generationMethod": "ComfyUI"
 }

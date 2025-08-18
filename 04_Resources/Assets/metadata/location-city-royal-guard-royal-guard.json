@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Royal Guard with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-royal-guard-royal-guard.svg"
+  "file": "04_Resources/Assets/Locations/location-city-royal-guard-royal-guard.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:44.410Z",
+  "generationMethod": "ComfyUI"
 }

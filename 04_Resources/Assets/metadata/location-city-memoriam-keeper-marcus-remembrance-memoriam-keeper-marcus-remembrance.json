@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Memoriam Keeper Marcus Remembrance with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-memoriam-keeper-marcus-remembrance-memoriam-keeper-marcus-remembrance.svg"
+  "file": "04_Resources/Assets/Locations/location-city-memoriam-keeper-marcus-remembrance-memoriam-keeper-marcus-remembrance.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:08.901Z",
+  "generationMethod": "ComfyUI"
 }

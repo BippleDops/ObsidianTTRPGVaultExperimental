@@ -25,5 +25,8 @@
   "alt_text": "Artifact oathbow-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-oathbow-xdmg-v3-oathbow-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-oathbow-xdmg-v3-oathbow-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:32:29.693Z",
+  "generationMethod": "ComfyUI"
 }

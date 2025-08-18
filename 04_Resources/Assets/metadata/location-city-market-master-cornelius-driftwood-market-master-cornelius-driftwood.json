@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Market Master Cornelius Driftwood with architecture and inhabitants.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-market-master-cornelius-driftwood-market-master-cornelius-driftwood.svg"
+  "file": "04_Resources/Assets/Locations/location-city-market-master-cornelius-driftwood-market-master-cornelius-driftwood.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:52.444Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Diplomatic Quarter with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-diplomatic-quarter-v1-the-diplomatic-quarter.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-diplomatic-quarter-v1-the-diplomatic-quarter.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:10.746Z",
+  "generationMethod": "ComfyUI"
 }

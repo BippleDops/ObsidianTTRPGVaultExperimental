@@ -25,5 +25,8 @@
   "alt_text": "Artifact hat-of-vermin-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-hat-of-vermin-xdmg-v2-hat-of-vermin-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-hat-of-vermin-xdmg-v2-hat-of-vermin-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:26:50.655Z",
+  "generationMethod": "ComfyUI"
 }

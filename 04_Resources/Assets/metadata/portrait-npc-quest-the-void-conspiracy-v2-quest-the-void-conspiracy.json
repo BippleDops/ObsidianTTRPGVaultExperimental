@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1792x1024",
   "revised_prompt": "Imagine a fantastical painterly portrait in shades of indigo, violet, black, and cold silver. It represents an adult human figure, a notable character from a realm known as Aquabyssos/Aethermoor that exists in a parallel universe of heroic tabletop fantasy. This realm-specific attire is grounded in medieval fantasy materials, showcasing culturally coherent gear but no modern technology. The scene captures the character-driven emotion of the quest titled 'The Void Conspiracy.' Cosmic surrealism fills the scene, featuring impossible geometries highlighted by a starfield grain and indigo glows. Its signature environment is imbued with memorable traits that add to its intrigue. The imagery should be clear and readable even at small sizes, maintaining a consistent style similar to that of a coherent collection. Avoid any depiction of modern sci-fi UIs, too glaring bloom effects, anime style, or photoreal CGI. No embedded text or words should be included unless specifically mentioned.",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-v2-quest-the-void-conspiracy.png"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-v2-quest-the-void-conspiracy.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:00:22.202Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact saddlebags with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-saddlebags-v5-saddlebags.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-saddlebags-v5-saddlebags.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:38:47.266Z",
+  "generationMethod": "ComfyUI"
 }

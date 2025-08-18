@@ -25,5 +25,8 @@
   "alt_text": "Artifact rod-of-resurrection-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-rod-of-resurrection-xdmg-v2-rod-of-resurrection-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-rod-of-resurrection-xdmg-v2-rod-of-resurrection-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:38:21.021Z",
+  "generationMethod": "ComfyUI"
 }

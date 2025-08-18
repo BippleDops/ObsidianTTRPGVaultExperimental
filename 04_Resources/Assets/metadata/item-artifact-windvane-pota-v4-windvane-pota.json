@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Create an image in a heroic tabletop fantasy theme, adjacent to Dungeons & Dragons 5E. The scene should be made up of grounded medieval materials, with no modern technology or signage visible. Choose culturally coherent gear for the characters. Render a windvane-pota in detailed focus, made from pearls, coral, cloud-crystal, and pressure-forged metals adorned with abstract sigils that are not letter-like. The product subtly emits a gentle glow and is portrayed next to either a human hand or a ruler to give a sense of scale. The artistic style should lean towards romantic realism, depicting cloudstone and brass structures with wind-swept forms echoing airship motifs. The color palette should consist of navy, gold, and cloud-white tones, balanced with warm sun highlights. Avoid embellishments or styles that suggest sci-fi, modern signage, photorealistic CGI, anime, or excessive bloom glare. The item should not contain any garbled or random letter strings; if symbols are used, they must hold meaning or be represented by numbered pins.",
-  "file": "04_Resources/Assets/Items/item-artifact-windvane-pota-v4-windvane-pota.png"
+  "file": "04_Resources/Assets/Items/item-artifact-windvane-pota-v4-windvane-pota.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:46:37.136Z",
+  "generationMethod": "ComfyUI"
 }

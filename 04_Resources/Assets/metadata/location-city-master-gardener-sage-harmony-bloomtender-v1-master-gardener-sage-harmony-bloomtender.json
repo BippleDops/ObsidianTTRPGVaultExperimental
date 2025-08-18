@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Master Gardener Sage Harmony Bloomtender with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-master-gardener-sage-harmony-bloomtender-v1-master-gardener-sage-harmony-bloomtender.svg"
+  "file": "04_Resources/Assets/Locations/location-city-master-gardener-sage-harmony-bloomtender-v1-master-gardener-sage-harmony-bloomtender.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:59.503Z",
+  "generationMethod": "ComfyUI"
 }

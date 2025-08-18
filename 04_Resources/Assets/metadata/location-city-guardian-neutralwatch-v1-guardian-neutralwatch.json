@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Guardian Neutralwatch with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-guardian-neutralwatch-v1-guardian-neutralwatch.svg"
+  "file": "04_Resources/Assets/Locations/location-city-guardian-neutralwatch-v1-guardian-neutralwatch.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:36.400Z",
+  "generationMethod": "ComfyUI"
 }

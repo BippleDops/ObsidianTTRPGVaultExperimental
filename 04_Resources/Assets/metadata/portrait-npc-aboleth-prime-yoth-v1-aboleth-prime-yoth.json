@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Aboleth Prime Yoth with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-aboleth-prime-yoth-v1-aboleth-prime-yoth.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-aboleth-prime-yoth-v1-aboleth-prime-yoth.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:56:32.074Z",
+  "generationMethod": "ComfyUI"
 }

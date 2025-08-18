@@ -27,5 +27,8 @@
   "palette": "seafoam greens",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-order-of-the-azure-flame-v1-the-order-of-the-azure-flame.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-order-of-the-azure-flame-v1-the-order-of-the-azure-flame.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:38.928Z",
+  "generationMethod": "ComfyUI"
 }

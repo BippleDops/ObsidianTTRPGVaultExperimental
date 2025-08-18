@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Theological Education with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-theological-education-v1-theological-education.svg"
+  "file": "04_Resources/Assets/Locations/location-city-theological-education-v1-theological-education.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:22.666Z",
+  "generationMethod": "ComfyUI"
 }

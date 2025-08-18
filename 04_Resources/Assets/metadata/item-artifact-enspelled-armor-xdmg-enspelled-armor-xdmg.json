@@ -25,5 +25,8 @@
   "alt_text": "Artifact enspelled-armor-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-enspelled-armor-xdmg-enspelled-armor-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-enspelled-armor-xdmg-enspelled-armor-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:22:56.839Z",
+  "generationMethod": "ComfyUI"
 }

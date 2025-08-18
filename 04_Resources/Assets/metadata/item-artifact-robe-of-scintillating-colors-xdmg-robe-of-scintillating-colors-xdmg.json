@@ -25,5 +25,8 @@
   "alt_text": "Artifact robe-of-scintillating-colors-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-robe-of-scintillating-colors-xdmg-robe-of-scintillating-colors-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-robe-of-scintillating-colors-xdmg-robe-of-scintillating-colors-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:38:04.205Z",
+  "generationMethod": "ComfyUI"
 }

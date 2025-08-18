@@ -25,5 +25,8 @@
   "alt_text": "Artifact witherbloom-trinket-scc with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-witherbloom-trinket-scc-v6-witherbloom-trinket-scc.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-witherbloom-trinket-scc-v6-witherbloom-trinket-scc.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:46:46.622Z",
+  "generationMethod": "ComfyUI"
 }

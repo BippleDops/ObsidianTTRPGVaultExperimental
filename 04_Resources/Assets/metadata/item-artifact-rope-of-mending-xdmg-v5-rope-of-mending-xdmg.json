@@ -25,5 +25,8 @@
   "alt_text": "Artifact rope-of-mending-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-rope-of-mending-xdmg-v5-rope-of-mending-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-rope-of-mending-xdmg-v5-rope-of-mending-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:38:35.423Z",
+  "generationMethod": "ComfyUI"
 }

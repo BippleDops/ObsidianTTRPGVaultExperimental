@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Wave Traderwind with architecture and inhabitants.",
   "realm": "aethermoor",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-wave-traderwind-v1-wave-traderwind.svg"
+  "file": "04_Resources/Assets/Locations/location-city-wave-traderwind-v1-wave-traderwind.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:58.510Z",
+  "generationMethod": "ComfyUI"
 }

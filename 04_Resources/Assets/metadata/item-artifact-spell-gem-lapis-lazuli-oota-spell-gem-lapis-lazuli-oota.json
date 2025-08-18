@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "A heroic fantasy image with a table top theme similar to D&D 5e, featuring medieval-fantasy materials and culturally coherent gear. The image should not include any modern technology or signs. The style should be consistent and painterly, with a focus on detailed artifacts such as a spell-gem made of lapis lazuli, pearl, coral, and cloud-crystal, all created under great pressure. Abstract sigils rather than letters should adorn the items, creating a gentle glow. To give a sense of scale, include a hand or ruler. The rendering should be of product quality, incorporating elements of aquatic fantasy realism such as subsurface caustics and bioluminescent accents. Pressure-dome materials should be used with a color palette of teals, deep blues, sea-greens, and pearl highlights. The aspect/resolution should be specified and free from artifacts. Runes, if included, should be abstract sigils, and there should be no readable words on the item. Avoid the use of modern signage, sci-fi UIs, photoreal CGI, anime style, or bloom glare.",
-  "file": "04_Resources/Assets/Items/item-artifact-spell-gem-lapis-lazuli-oota-spell-gem-lapis-lazuli-oota.png"
+  "file": "04_Resources/Assets/Items/item-artifact-spell-gem-lapis-lazuli-oota-spell-gem-lapis-lazuli-oota.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:41:37.452Z",
+  "generationMethod": "ComfyUI"
 }

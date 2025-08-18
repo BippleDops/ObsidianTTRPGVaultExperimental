@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Quest - The Betrayers' Truth with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-betrayers-truth-v1-quest-the-betrayers-truth.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-betrayers-truth-v1-quest-the-betrayers-truth.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:59:51.111Z",
+  "generationMethod": "ComfyUI"
 }

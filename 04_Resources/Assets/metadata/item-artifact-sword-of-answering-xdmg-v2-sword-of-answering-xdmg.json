@@ -25,5 +25,8 @@
   "alt_text": "Artifact sword-of-answering-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-sword-of-answering-xdmg-v2-sword-of-answering-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-sword-of-answering-xdmg-v2-sword-of-answering-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:43:49.486Z",
+  "generationMethod": "ComfyUI"
 }

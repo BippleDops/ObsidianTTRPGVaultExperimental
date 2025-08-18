@@ -25,5 +25,8 @@
   "alt_text": "Artifact eye-agate-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-eye-agate-xdmg-v3-eye-agate-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-eye-agate-xdmg-v3-eye-agate-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:23:51.845Z",
+  "generationMethod": "ComfyUI"
 }

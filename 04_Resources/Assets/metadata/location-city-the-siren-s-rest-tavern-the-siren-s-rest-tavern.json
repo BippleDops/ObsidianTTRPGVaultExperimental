@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Siren's Rest Tavern with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-siren-s-rest-tavern-the-siren-s-rest-tavern.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-siren-s-rest-tavern-the-siren-s-rest-tavern.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:03.449Z",
+  "generationMethod": "ComfyUI"
 }

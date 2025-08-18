@@ -28,5 +28,8 @@
   "model": "gpt-image-1",
   "size": "1024x1024",
   "revised_prompt": null,
-  "file": "04_Resources/Assets/Handouts/handout-handout-tavern-bill-of-fare-v1-tavern-bill-of-fare.png"
+  "file": "04_Resources/Assets/Handouts/handout-handout-tavern-bill-of-fare-v1-tavern-bill-of-fare.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:12:19.558Z",
+  "generationMethod": "ComfyUI"
 }

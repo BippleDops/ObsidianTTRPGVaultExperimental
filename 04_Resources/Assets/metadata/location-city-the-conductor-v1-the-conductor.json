@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Conductor with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-conductor-v1-the-conductor.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-conductor-v1-the-conductor.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:58.718Z",
+  "generationMethod": "ComfyUI"
 }

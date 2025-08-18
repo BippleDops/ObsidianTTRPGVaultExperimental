@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Keeper Deepcurrent with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-keeper-deepcurrent-v1-keeper-deepcurrent.svg"
+  "file": "04_Resources/Assets/Locations/location-city-keeper-deepcurrent-v1-keeper-deepcurrent.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:15.910Z",
+  "generationMethod": "ComfyUI"
 }

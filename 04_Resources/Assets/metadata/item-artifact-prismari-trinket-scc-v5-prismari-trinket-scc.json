@@ -25,5 +25,8 @@
   "alt_text": "Artifact prismari-trinket-scc with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-prismari-trinket-scc-v5-prismari-trinket-scc.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-prismari-trinket-scc-v5-prismari-trinket-scc.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:36:00.097Z",
+  "generationMethod": "ComfyUI"
 }

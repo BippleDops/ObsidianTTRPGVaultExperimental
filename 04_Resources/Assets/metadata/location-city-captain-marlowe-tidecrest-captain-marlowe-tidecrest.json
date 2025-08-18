@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Captain Marlowe Tidecrest with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-captain-marlowe-tidecrest-captain-marlowe-tidecrest.svg"
+  "file": "04_Resources/Assets/Locations/location-city-captain-marlowe-tidecrest-captain-marlowe-tidecrest.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:46.449Z",
+  "generationMethod": "ComfyUI"
 }

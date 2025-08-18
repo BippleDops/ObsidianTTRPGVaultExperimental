@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Mad Bell-Ringer Thomas with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-mad-bell-ringer-thomas-v1-mad-bell-ringer-thomas.svg"
+  "file": "04_Resources/Assets/Locations/location-city-mad-bell-ringer-thomas-v1-mad-bell-ringer-thomas.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:40.370Z",
+  "generationMethod": "ComfyUI"
 }

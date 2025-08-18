@@ -25,5 +25,8 @@
   "alt_text": "Artifact trinket-cos with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-trinket-cos-v7-trinket-cos.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-trinket-cos-v7-trinket-cos.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:45:01.377Z",
+  "generationMethod": "ComfyUI"
 }

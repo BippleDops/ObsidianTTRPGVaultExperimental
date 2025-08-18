@@ -25,5 +25,8 @@
   "alt_text": "Artifact hunting-trap-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-hunting-trap-xphb-v4-hunting-trap-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-hunting-trap-xphb-v4-hunting-trap-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:27:57.733Z",
+  "generationMethod": "ComfyUI"
 }

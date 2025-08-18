@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Innkeeper Mara Ironlung with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-innkeeper-mara-ironlung-v1-innkeeper-mara-ironlung.svg"
+  "file": "04_Resources/Assets/Locations/location-city-innkeeper-mara-ironlung-v1-innkeeper-mara-ironlung.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:01.125Z",
+  "generationMethod": "ComfyUI"
 }

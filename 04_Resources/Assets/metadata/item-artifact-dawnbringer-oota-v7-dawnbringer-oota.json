@@ -25,5 +25,8 @@
   "alt_text": "Artifact dawnbringer-oota with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-dawnbringer-oota-v7-dawnbringer-oota.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-dawnbringer-oota-v7-dawnbringer-oota.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:20:31.549Z",
+  "generationMethod": "ComfyUI"
 }

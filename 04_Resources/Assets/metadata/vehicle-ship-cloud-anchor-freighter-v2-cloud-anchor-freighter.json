@@ -26,5 +26,8 @@
   "realm": "aethermoor",
   "callouts": "numbered pins 01..10; legend area reserved; no paragraph labels",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Vehicles/vehicle-ship-cloud-anchor-freighter-v2-cloud-anchor-freighter.svg"
+  "file": "04_Resources/Assets/Vehicles/vehicle-ship-cloud-anchor-freighter-v2-cloud-anchor-freighter.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:04:09.955Z",
+  "generationMethod": "ComfyUI"
 }

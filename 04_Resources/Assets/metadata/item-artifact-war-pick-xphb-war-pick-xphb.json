@@ -25,5 +25,8 @@
   "alt_text": "Artifact war-pick-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-war-pick-xphb-war-pick-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-war-pick-xphb-war-pick-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:46:05.910Z",
+  "generationMethod": "ComfyUI"
 }

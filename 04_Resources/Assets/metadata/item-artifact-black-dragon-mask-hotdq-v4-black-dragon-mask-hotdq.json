@@ -25,5 +25,8 @@
   "alt_text": "Artifact black-dragon-mask-hotdq with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-black-dragon-mask-hotdq-v4-black-dragon-mask-hotdq.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-black-dragon-mask-hotdq-v4-black-dragon-mask-hotdq.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:15:57.334Z",
+  "generationMethod": "ComfyUI"
 }

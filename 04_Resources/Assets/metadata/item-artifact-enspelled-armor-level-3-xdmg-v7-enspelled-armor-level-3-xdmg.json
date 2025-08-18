@@ -25,5 +25,8 @@
   "alt_text": "Artifact enspelled-armor-level-3-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-enspelled-armor-level-3-xdmg-v7-enspelled-armor-level-3-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-enspelled-armor-level-3-xdmg-v7-enspelled-armor-level-3-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:22:47.330Z",
+  "generationMethod": "ComfyUI"
 }

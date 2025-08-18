@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Royal Vault with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-royal-vault-v1-royal-vault.svg"
+  "file": "04_Resources/Assets/Locations/location-city-royal-vault-v1-royal-vault.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:46.818Z",
+  "generationMethod": "ComfyUI"
 }

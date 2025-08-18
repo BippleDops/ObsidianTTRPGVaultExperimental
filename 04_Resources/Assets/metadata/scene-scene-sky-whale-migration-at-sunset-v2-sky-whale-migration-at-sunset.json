@@ -25,5 +25,8 @@
   "alt_text": "Atmospheric illustration of: Sky whale migration at sunset.",
   "realm": "mixed",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Scenes/scene-scene-sky-whale-migration-at-sunset-v2-sky-whale-migration-at-sunset.svg"
+  "file": "04_Resources/Assets/Scenes/scene-scene-sky-whale-migration-at-sunset-v2-sky-whale-migration-at-sunset.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:07.803Z",
+  "generationMethod": "ComfyUI"
 }

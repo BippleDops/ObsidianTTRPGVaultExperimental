@@ -25,5 +25,8 @@
   "alt_text": "Portrait of The Schooling with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-the-schooling-v2-the-schooling.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-the-schooling-v2-the-schooling.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:29.412Z",
+  "generationMethod": "ComfyUI"
 }

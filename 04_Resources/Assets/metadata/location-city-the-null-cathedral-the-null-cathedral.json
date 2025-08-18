@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Null Cathedral with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-null-cathedral-the-null-cathedral.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-null-cathedral-the-null-cathedral.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:44.290Z",
+  "generationMethod": "ComfyUI"
 }

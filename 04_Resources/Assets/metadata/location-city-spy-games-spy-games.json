@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Spy Games with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-spy-games-spy-games.svg"
+  "file": "04_Resources/Assets/Locations/location-city-spy-games-spy-games.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:25.241Z",
+  "generationMethod": "ComfyUI"
 }

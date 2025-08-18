@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Marina Swiftfin with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-marina-swiftfin-v1-marina-swiftfin.svg"
+  "file": "04_Resources/Assets/Locations/location-city-marina-swiftfin-v1-marina-swiftfin.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:50.024Z",
+  "generationMethod": "ComfyUI"
 }

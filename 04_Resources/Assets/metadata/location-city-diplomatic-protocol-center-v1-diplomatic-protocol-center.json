@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Diplomatic Protocol Center with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-diplomatic-protocol-center-v1-diplomatic-protocol-center.svg"
+  "file": "04_Resources/Assets/Locations/location-city-diplomatic-protocol-center-v1-diplomatic-protocol-center.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:51.766Z",
+  "generationMethod": "ComfyUI"
 }

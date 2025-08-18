@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Chronomancer Paradox with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-chronomancer-paradox-v1-chronomancer-paradox.svg"
+  "file": "04_Resources/Assets/Locations/location-city-chronomancer-paradox-v1-chronomancer-paradox.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:53.685Z",
+  "generationMethod": "ComfyUI"
 }

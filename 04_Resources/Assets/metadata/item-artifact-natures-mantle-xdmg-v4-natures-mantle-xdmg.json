@@ -25,5 +25,8 @@
   "alt_text": "Artifact natures-mantle-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-natures-mantle-xdmg-v4-natures-mantle-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-natures-mantle-xdmg-v4-natures-mantle-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:32:10.406Z",
+  "generationMethod": "ComfyUI"
 }

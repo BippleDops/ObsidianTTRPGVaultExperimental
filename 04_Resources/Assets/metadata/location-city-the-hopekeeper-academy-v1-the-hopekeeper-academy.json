@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Hopekeeper Academy with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-hopekeeper-academy-v1-the-hopekeeper-academy.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-hopekeeper-academy-v1-the-hopekeeper-academy.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:27.553Z",
+  "generationMethod": "ComfyUI"
 }

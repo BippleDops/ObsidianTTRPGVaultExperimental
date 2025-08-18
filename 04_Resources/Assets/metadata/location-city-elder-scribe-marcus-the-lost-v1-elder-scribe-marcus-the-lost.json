@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Elder Scribe Marcus the Lost with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-elder-scribe-marcus-the-lost-v1-elder-scribe-marcus-the-lost.svg"
+  "file": "04_Resources/Assets/Locations/location-city-elder-scribe-marcus-the-lost-v1-elder-scribe-marcus-the-lost.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:03.956Z",
+  "generationMethod": "ComfyUI"
 }

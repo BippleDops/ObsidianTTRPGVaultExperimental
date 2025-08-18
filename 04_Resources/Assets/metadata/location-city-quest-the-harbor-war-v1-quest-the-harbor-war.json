@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Quest - The Harbor War with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-quest-the-harbor-war-v1-quest-the-harbor-war.svg"
+  "file": "04_Resources/Assets/Locations/location-city-quest-the-harbor-war-v1-quest-the-harbor-war.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:27.572Z",
+  "generationMethod": "ComfyUI"
 }

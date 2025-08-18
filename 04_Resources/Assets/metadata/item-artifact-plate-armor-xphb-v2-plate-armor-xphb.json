@@ -25,5 +25,8 @@
   "alt_text": "Artifact plate-armor-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-plate-armor-xphb-v2-plate-armor-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-plate-armor-xphb-v2-plate-armor-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:34:03.056Z",
+  "generationMethod": "ComfyUI"
 }

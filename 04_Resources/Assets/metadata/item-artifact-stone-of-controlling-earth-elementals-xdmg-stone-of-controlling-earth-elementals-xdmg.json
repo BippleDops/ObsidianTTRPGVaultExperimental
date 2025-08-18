@@ -25,5 +25,8 @@
   "alt_text": "Artifact stone-of-controlling-earth-elementals-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-stone-of-controlling-earth-elementals-xdmg-stone-of-controlling-earth-elementals-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-stone-of-controlling-earth-elementals-xdmg-stone-of-controlling-earth-elementals-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:43:13.431Z",
+  "generationMethod": "ComfyUI"
 }

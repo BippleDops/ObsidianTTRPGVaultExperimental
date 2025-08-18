@@ -25,5 +25,8 @@
   "alt_text": "Artifact unbreakable-arrow-xge with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-unbreakable-arrow-xge-v5-unbreakable-arrow-xge.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-unbreakable-arrow-xge-v5-unbreakable-arrow-xge.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:45:08.561Z",
+  "generationMethod": "ComfyUI"
 }

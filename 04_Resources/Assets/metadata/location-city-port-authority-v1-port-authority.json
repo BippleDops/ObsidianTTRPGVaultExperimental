@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Port Authority with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-port-authority-v1-port-authority.svg"
+  "file": "04_Resources/Assets/Locations/location-city-port-authority-v1-port-authority.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:54.228Z",
+  "generationMethod": "ComfyUI"
 }

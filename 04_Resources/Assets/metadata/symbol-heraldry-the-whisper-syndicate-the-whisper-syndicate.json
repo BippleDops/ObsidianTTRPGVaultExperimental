@@ -30,5 +30,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Generate an image of a Heroic tabletop fantasy scenario, similar in aesthetics to D&D 5e game. The scene should favor grounded medieval and fantastical elements, excluding any modern technology or references. Visual style should be consistent, mimicking a hand painted collection. The main emblem represents The Whisper Syndicate, using simple geometric shapes and two to three motifs that tie in with their identity. Provide variations for a seal, a banner and a coin in vector SVG format. The setting leans towards aquatic fantasy realism, featuring subsurface caustics, bioluminescent accents and materials that look like they can withstand extreme pressure. A color palette consisting of teals, deep blues, sea-greens and pearl white should be used. The image should conform to the given aspect and resolution while avoiding artifacts. Unless explicitly mentioned, text or words should not be contained within the image. Refrain from including modern or sci-fi UIs, signs, photoreal CGI and anime styled elements. Glare and bloom effects should be avoided.",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-whisper-syndicate-the-whisper-syndicate.png"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-whisper-syndicate-the-whisper-syndicate.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:50.918Z",
+  "generationMethod": "ComfyUI"
 }

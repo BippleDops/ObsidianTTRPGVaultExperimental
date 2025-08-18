@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Harbor Master Luna Freedrift with architecture and inhabitants.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-harbor-master-luna-freedrift-v1-harbor-master-luna-freedrift.svg"
+  "file": "04_Resources/Assets/Locations/location-city-harbor-master-luna-freedrift-v1-harbor-master-luna-freedrift.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:41.314Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact robe-of-stars-xdmg with materials, runes, and scale.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-robe-of-stars-xdmg-v6-robe-of-stars-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-robe-of-stars-xdmg-v6-robe-of-stars-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:38:06.583Z",
+  "generationMethod": "ComfyUI"
 }

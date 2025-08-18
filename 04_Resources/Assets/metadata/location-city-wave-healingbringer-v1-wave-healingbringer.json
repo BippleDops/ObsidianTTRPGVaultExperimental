@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Wave Healingbringer with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-wave-healingbringer-v1-wave-healingbringer.svg"
+  "file": "04_Resources/Assets/Locations/location-city-wave-healingbringer-v1-wave-healingbringer.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:56.102Z",
+  "generationMethod": "ComfyUI"
 }

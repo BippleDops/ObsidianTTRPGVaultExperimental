@@ -25,5 +25,8 @@
   "alt_text": "Artifact dust-of-sneezing-and-choking-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-dust-of-sneezing-and-choking-xdmg-dust-of-sneezing-and-choking-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-dust-of-sneezing-and-choking-xdmg-dust-of-sneezing-and-choking-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:21:52.445Z",
+  "generationMethod": "ComfyUI"
 }

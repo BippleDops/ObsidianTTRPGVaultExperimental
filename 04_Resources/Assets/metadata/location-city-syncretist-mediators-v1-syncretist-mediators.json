@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Syncretist Mediators with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-syncretist-mediators-v1-syncretist-mediators.svg"
+  "file": "04_Resources/Assets/Locations/location-city-syncretist-mediators-v1-syncretist-mediators.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:37.189Z",
+  "generationMethod": "ComfyUI"
 }

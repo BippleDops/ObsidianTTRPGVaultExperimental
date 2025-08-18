@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Portal Terminal Central with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-portal-terminal-central-portal-terminal-central.svg"
+  "file": "04_Resources/Assets/Locations/location-city-portal-terminal-central-portal-terminal-central.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:03.745Z",
+  "generationMethod": "ComfyUI"
 }

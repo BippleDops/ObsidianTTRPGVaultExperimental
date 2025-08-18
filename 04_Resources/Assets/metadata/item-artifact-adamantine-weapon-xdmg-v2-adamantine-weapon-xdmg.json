@@ -25,5 +25,8 @@
   "alt_text": "Artifact adamantine-weapon-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-adamantine-weapon-xdmg-v2-adamantine-weapon-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-adamantine-weapon-xdmg-v2-adamantine-weapon-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:13:16.901Z",
+  "generationMethod": "ComfyUI"
 }

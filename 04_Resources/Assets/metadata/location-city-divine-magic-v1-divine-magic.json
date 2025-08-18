@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Divine Magic with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-divine-magic-v1-divine-magic.svg"
+  "file": "04_Resources/Assets/Locations/location-city-divine-magic-v1-divine-magic.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:51.788Z",
+  "generationMethod": "ComfyUI"
 }

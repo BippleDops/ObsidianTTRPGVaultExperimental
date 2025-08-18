@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Voices from Below with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-voices-from-below-v1-voices-from-below.svg"
+  "file": "04_Resources/Assets/Locations/location-city-voices-from-below-v1-voices-from-below.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:46.542Z",
+  "generationMethod": "ComfyUI"
 }

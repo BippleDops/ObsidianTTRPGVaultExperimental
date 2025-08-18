@@ -25,5 +25,8 @@
   "alt_text": "Artifact caltrop with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-caltrop-caltrop.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-caltrop-caltrop.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:17:30.453Z",
+  "generationMethod": "ComfyUI"
 }

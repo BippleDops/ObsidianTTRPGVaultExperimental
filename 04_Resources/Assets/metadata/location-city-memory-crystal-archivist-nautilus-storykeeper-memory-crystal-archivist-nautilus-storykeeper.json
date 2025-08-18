@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Memory Crystal Archivist Nautilus Storykeeper with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-memory-crystal-archivist-nautilus-storykeeper-memory-crystal-archivist-nautilus-storykeeper.svg"
+  "file": "04_Resources/Assets/Locations/location-city-memory-crystal-archivist-nautilus-storykeeper-memory-crystal-archivist-nautilus-storykeeper.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:11.289Z",
+  "generationMethod": "ComfyUI"
 }

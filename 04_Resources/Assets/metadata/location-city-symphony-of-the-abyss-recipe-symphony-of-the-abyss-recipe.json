@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Symphony of the Abyss Recipe with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-symphony-of-the-abyss-recipe-symphony-of-the-abyss-recipe.svg"
+  "file": "04_Resources/Assets/Locations/location-city-symphony-of-the-abyss-recipe-symphony-of-the-abyss-recipe.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:37.187Z",
+  "generationMethod": "ComfyUI"
 }

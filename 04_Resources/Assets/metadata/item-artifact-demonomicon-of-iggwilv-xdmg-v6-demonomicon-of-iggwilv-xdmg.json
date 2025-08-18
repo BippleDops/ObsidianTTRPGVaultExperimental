@@ -25,5 +25,8 @@
   "alt_text": "Artifact demonomicon-of-iggwilv-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-demonomicon-of-iggwilv-xdmg-v6-demonomicon-of-iggwilv-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-demonomicon-of-iggwilv-xdmg-v6-demonomicon-of-iggwilv-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:20:43.586Z",
+  "generationMethod": "ComfyUI"
 }

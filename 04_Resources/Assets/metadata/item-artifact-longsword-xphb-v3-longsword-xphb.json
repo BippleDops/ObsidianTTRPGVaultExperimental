@@ -25,5 +25,8 @@
   "alt_text": "Artifact longsword-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-longsword-xphb-v3-longsword-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-longsword-xphb-v3-longsword-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:30:15.970Z",
+  "generationMethod": "ComfyUI"
 }

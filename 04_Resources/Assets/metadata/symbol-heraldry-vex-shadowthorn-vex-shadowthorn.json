@@ -27,5 +27,8 @@
   "palette": "gold accents",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-vex-shadowthorn-vex-shadowthorn.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-vex-shadowthorn-vex-shadowthorn.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:53.342Z",
+  "generationMethod": "ComfyUI"
 }

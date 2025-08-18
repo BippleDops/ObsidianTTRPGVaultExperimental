@@ -25,5 +25,8 @@
   "alt_text": "Artifact horn-of-valhalla-brass-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-horn-of-valhalla-brass-xdmg-v4-horn-of-valhalla-brass-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-horn-of-valhalla-brass-xdmg-v4-horn-of-valhalla-brass-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:27:38.542Z",
+  "generationMethod": "ComfyUI"
 }

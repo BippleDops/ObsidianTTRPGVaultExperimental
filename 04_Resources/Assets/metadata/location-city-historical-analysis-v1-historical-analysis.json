@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Historical Analysis with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-historical-analysis-v1-historical-analysis.svg"
+  "file": "04_Resources/Assets/Locations/location-city-historical-analysis-v1-historical-analysis.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:56.192Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact instrument-of-the-bards-anstruth-harp-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-instrument-of-the-bards-anstruth-harp-xdmg-v1-instrument-of-the-bards-anstruth-harp-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-instrument-of-the-bards-anstruth-harp-xdmg-v1-instrument-of-the-bards-anstruth-harp-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:28:14.382Z",
+  "generationMethod": "ComfyUI"
 }

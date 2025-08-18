@@ -25,5 +25,8 @@
   "alt_text": "Artifact gold-birdcage-with-electrum-filigree-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-gold-birdcage-with-electrum-filigree-xdmg-v7-gold-birdcage-with-electrum-filigree-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-gold-birdcage-with-electrum-filigree-xdmg-v7-gold-birdcage-with-electrum-filigree-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:25:43.690Z",
+  "generationMethod": "ComfyUI"
 }

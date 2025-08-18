@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Master Smith-Priest Vulcan Depthforge with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-master-smith-priest-vulcan-depthforge-v1-master-smith-priest-vulcan-depthforge.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-master-smith-priest-vulcan-depthforge-v1-master-smith-priest-vulcan-depthforge.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:59:15.132Z",
+  "generationMethod": "ComfyUI"
 }

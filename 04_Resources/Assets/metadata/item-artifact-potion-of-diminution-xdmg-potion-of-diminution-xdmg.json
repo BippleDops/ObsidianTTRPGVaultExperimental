@@ -25,5 +25,8 @@
   "alt_text": "Artifact potion-of-diminution-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-potion-of-diminution-xdmg-potion-of-diminution-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-potion-of-diminution-xdmg-potion-of-diminution-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:34:38.873Z",
+  "generationMethod": "ComfyUI"
 }

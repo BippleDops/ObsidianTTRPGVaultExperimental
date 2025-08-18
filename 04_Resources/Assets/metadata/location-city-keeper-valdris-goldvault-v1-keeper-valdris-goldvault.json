@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Keeper Valdris Goldvault with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-keeper-valdris-goldvault-v1-keeper-valdris-goldvault.svg"
+  "file": "04_Resources/Assets/Locations/location-city-keeper-valdris-goldvault-v1-keeper-valdris-goldvault.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:23.215Z",
+  "generationMethod": "ComfyUI"
 }

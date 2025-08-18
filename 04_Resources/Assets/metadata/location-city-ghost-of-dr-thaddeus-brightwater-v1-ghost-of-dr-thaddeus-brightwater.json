@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Ghost of Dr. Thaddeus Brightwater with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-ghost-of-dr-thaddeus-brightwater-v1-ghost-of-dr-thaddeus-brightwater.svg"
+  "file": "04_Resources/Assets/Locations/location-city-ghost-of-dr-thaddeus-brightwater-v1-ghost-of-dr-thaddeus-brightwater.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:31.389Z",
+  "generationMethod": "ComfyUI"
 }

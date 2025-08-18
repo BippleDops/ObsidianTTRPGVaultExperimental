@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Aethermoor Capital with architecture and inhabitants.",
   "realm": "aethermoor",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-aethermoor-capital-v1-aethermoor-capital.svg"
+  "file": "04_Resources/Assets/Locations/location-city-aethermoor-capital-v1-aethermoor-capital.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:10.485Z",
+  "generationMethod": "ComfyUI"
 }

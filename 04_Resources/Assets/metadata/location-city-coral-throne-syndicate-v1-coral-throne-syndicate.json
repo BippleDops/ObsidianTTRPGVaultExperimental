@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Coral Throne Syndicate with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-coral-throne-syndicate-v1-coral-throne-syndicate.svg"
+  "file": "04_Resources/Assets/Locations/location-city-coral-throne-syndicate-v1-coral-throne-syndicate.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:10.491Z",
+  "generationMethod": "ComfyUI"
 }

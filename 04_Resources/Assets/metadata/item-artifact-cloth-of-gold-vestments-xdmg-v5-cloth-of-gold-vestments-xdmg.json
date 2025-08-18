@@ -25,5 +25,8 @@
   "alt_text": "Artifact cloth-of-gold-vestments-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-cloth-of-gold-vestments-xdmg-v5-cloth-of-gold-vestments-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-cloth-of-gold-vestments-xdmg-v5-cloth-of-gold-vestments-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:19:20.157Z",
+  "generationMethod": "ComfyUI"
 }

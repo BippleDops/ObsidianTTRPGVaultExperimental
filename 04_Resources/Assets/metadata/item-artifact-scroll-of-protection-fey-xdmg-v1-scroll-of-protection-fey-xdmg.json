@@ -25,5 +25,8 @@
   "alt_text": "Artifact scroll-of-protection-fey-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-scroll-of-protection-fey-xdmg-v1-scroll-of-protection-fey-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-scroll-of-protection-fey-xdmg-v1-scroll-of-protection-fey-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:39:18.485Z",
+  "generationMethod": "ComfyUI"
 }

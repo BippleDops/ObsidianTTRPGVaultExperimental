@@ -25,5 +25,8 @@
   "alt_text": "Atmospheric illustration of: Trench-fire battlefield aftermath.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Scenes/scene-scene-trench-fire-battlefield-aftermath-v2-trench-fire-battlefield-aftermath.svg"
+  "file": "04_Resources/Assets/Scenes/scene-scene-trench-fire-battlefield-aftermath-v2-trench-fire-battlefield-aftermath.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:12.649Z",
+  "generationMethod": "ComfyUI"
 }

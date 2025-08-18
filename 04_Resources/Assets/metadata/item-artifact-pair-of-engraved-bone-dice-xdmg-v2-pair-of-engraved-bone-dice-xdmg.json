@@ -25,5 +25,8 @@
   "alt_text": "Artifact pair-of-engraved-bone-dice-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-pair-of-engraved-bone-dice-xdmg-v2-pair-of-engraved-bone-dice-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-pair-of-engraved-bone-dice-xdmg-v2-pair-of-engraved-bone-dice-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:33:10.430Z",
+  "generationMethod": "ComfyUI"
 }

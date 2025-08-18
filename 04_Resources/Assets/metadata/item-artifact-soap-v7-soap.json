@@ -25,5 +25,8 @@
   "alt_text": "Artifact soap with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-soap-v7-soap.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-soap-v7-soap.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:41:23.010Z",
+  "generationMethod": "ComfyUI"
 }

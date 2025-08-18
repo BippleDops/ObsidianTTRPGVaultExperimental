@@ -25,5 +25,8 @@
   "alt_text": "Artifact ring-of-jumping-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-ring-of-jumping-xdmg-v1-ring-of-jumping-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-ring-of-jumping-xdmg-v1-ring-of-jumping-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:37:21.284Z",
+  "generationMethod": "ComfyUI"
 }

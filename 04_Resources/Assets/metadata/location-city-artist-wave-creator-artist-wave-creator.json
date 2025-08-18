@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Artist Wave Creator with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-artist-wave-creator-artist-wave-creator.svg"
+  "file": "04_Resources/Assets/Locations/location-city-artist-wave-creator-artist-wave-creator.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:29.735Z",
+  "generationMethod": "ComfyUI"
 }

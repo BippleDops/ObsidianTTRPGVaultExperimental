@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Lord General Harrison Ironhold with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-lord-general-harrison-ironhold-lord-general-harrison-ironhold.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-lord-general-harrison-ironhold-lord-general-harrison-ironhold.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:59:05.444Z",
+  "generationMethod": "ComfyUI"
 }

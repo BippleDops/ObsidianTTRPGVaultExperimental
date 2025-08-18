@@ -25,5 +25,8 @@
   "alt_text": "Portrait of The Shadow Surgeons with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-the-shadow-surgeons-the-shadow-surgeons.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-the-shadow-surgeons-the-shadow-surgeons.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:31.807Z",
+  "generationMethod": "ComfyUI"
 }

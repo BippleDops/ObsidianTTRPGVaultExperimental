@@ -25,5 +25,8 @@
   "alt_text": "Artifact deck-of-many-things-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-deck-of-many-things-xdmg-v2-deck-of-many-things-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-deck-of-many-things-xdmg-v2-deck-of-many-things-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:20:36.365Z",
+  "generationMethod": "ComfyUI"
 }

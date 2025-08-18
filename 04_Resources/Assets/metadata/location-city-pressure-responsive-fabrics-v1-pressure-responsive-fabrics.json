@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Pressure-Responsive Fabrics with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-pressure-responsive-fabrics-v1-pressure-responsive-fabrics.svg"
+  "file": "04_Resources/Assets/Locations/location-city-pressure-responsive-fabrics-v1-pressure-responsive-fabrics.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:08.468Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact weapon-of-warning-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-weapon-of-warning-xdmg-v7-weapon-of-warning-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-weapon-of-warning-xdmg-v7-weapon-of-warning-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:46:15.507Z",
+  "generationMethod": "ComfyUI"
 }

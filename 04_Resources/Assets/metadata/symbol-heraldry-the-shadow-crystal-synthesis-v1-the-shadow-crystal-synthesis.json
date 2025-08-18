@@ -30,5 +30,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Create a painterly-style, medieval-fantasy image featuring a heroic tabletop fantasy setting. The scene should include culturally coherent gear with no modern tech. A central feature should be the Heraldic emblem of The Shadow-Crystal Synthesis, comprised of simple geometric designs and 2-3 motifs tied to the identity of the emblem. There should also be variations of this emblem in the forms of a seal, a banner, and a coin. The color palette should lean towards aquatic themes, with teals, deep blues, sea-greens and pearl highlights. The scene should also include elements of underwater beauty such as subsurface caustics and bioluminescent accents. Please maintain a high resolution and avoid any text, symbols, or numbers unless specifically declared, and stay away from styles associated with modernity, such as sci-fi UI, modern signage, photoreal CGI, and anime.",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-crystal-synthesis-v1-the-shadow-crystal-synthesis.png"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-crystal-synthesis-v1-the-shadow-crystal-synthesis.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:43.708Z",
+  "generationMethod": "ComfyUI"
 }

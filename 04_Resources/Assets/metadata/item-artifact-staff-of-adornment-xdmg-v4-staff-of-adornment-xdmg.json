@@ -25,5 +25,8 @@
   "alt_text": "Artifact staff-of-adornment-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-staff-of-adornment-xdmg-v4-staff-of-adornment-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-staff-of-adornment-xdmg-v4-staff-of-adornment-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:42:32.593Z",
+  "generationMethod": "ComfyUI"
 }

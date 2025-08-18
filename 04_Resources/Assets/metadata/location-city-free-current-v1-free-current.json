@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Free Current with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-free-current-v1-free-current.svg"
+  "file": "04_Resources/Assets/Locations/location-city-free-current-v1-free-current.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:23.893Z",
+  "generationMethod": "ComfyUI"
 }

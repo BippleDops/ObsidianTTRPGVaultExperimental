@@ -25,5 +25,8 @@
   "alt_text": "Artifact survival-mantle-vgm with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-survival-mantle-vgm-survival-mantle-vgm.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-survival-mantle-vgm-survival-mantle-vgm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:43:30.329Z",
+  "generationMethod": "ComfyUI"
 }

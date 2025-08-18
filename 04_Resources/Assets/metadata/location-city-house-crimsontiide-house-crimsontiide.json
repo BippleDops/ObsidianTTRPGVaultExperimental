@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of House Crimsontiide with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-house-crimsontiide-house-crimsontiide.svg"
+  "file": "04_Resources/Assets/Locations/location-city-house-crimsontiide-house-crimsontiide.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:58.660Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact barding with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-barding-v1-barding.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-barding-v1-barding.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:15:14.154Z",
+  "generationMethod": "ComfyUI"
 }

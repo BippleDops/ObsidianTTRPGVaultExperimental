@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Master Goldwin Ledgerkeeper with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-master-goldwin-ledgerkeeper-master-goldwin-ledgerkeeper.svg"
+  "file": "04_Resources/Assets/Locations/location-city-master-goldwin-ledgerkeeper-master-goldwin-ledgerkeeper.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:59.500Z",
+  "generationMethod": "ComfyUI"
 }

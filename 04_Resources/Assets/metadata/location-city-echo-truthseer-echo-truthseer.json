@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Echo Truthseer with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-echo-truthseer-echo-truthseer.svg"
+  "file": "04_Resources/Assets/Locations/location-city-echo-truthseer-echo-truthseer.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:03.901Z",
+  "generationMethod": "ComfyUI"
 }

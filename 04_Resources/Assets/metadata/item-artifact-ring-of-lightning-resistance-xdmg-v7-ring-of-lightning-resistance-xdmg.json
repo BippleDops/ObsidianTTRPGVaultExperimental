@@ -25,5 +25,8 @@
   "alt_text": "Artifact ring-of-lightning-resistance-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-ring-of-lightning-resistance-xdmg-v7-ring-of-lightning-resistance-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-ring-of-lightning-resistance-xdmg-v7-ring-of-lightning-resistance-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:37:23.715Z",
+  "generationMethod": "ComfyUI"
 }

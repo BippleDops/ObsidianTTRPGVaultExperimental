@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The First Truth with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-first-truth-the-first-truth.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-first-truth-the-first-truth.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:15.545Z",
+  "generationMethod": "ComfyUI"
 }

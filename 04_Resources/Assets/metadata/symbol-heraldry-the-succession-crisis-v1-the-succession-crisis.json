@@ -27,5 +27,8 @@
   "palette": "storm greys",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-succession-crisis-v1-the-succession-crisis.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-succession-crisis-v1-the-succession-crisis.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:46.112Z",
+  "generationMethod": "ComfyUI"
 }

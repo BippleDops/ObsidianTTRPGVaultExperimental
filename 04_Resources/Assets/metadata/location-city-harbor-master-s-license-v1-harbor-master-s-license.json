@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Harbor Master's License with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-harbor-master-s-license-v1-harbor-master-s-license.svg"
+  "file": "04_Resources/Assets/Locations/location-city-harbor-master-s-license-v1-harbor-master-s-license.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:41.320Z",
+  "generationMethod": "ComfyUI"
 }

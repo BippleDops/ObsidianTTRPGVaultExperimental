@@ -25,5 +25,8 @@
   "alt_text": "Atmospheric illustration of: Cloud citadel duel.",
   "realm": "aethermoor",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Scenes/scene-scene-cloud-citadel-duel-cloud-citadel-duel.svg"
+  "file": "04_Resources/Assets/Scenes/scene-scene-cloud-citadel-duel-cloud-citadel-duel.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:00.526Z",
+  "generationMethod": "ComfyUI"
 }

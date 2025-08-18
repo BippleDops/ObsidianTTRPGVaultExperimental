@@ -25,5 +25,8 @@
   "alt_text": "Artifact gold-locket-with-a-painted-portrait-inside-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-gold-locket-with-a-painted-portrait-inside-xdmg-v4-gold-locket-with-a-painted-portrait-inside-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-gold-locket-with-a-painted-portrait-inside-xdmg-v4-gold-locket-with-a-painted-portrait-inside-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:25:55.599Z",
+  "generationMethod": "ComfyUI"
 }

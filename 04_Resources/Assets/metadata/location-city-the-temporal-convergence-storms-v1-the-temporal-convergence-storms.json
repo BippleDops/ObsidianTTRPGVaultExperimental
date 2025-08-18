@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Temporal Convergence Storms with architecture and inhabitants.",
   "realm": "aethermoor",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-temporal-convergence-storms-v1-the-temporal-convergence-storms.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-temporal-convergence-storms-v1-the-temporal-convergence-storms.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:10.645Z",
+  "generationMethod": "ComfyUI"
 }

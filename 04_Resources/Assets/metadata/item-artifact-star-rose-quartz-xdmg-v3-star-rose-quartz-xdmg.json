@@ -25,5 +25,8 @@
   "alt_text": "Artifact star-rose-quartz-xdmg with materials, runes, and scale.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-star-rose-quartz-xdmg-v3-star-rose-quartz-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-star-rose-quartz-xdmg-v3-star-rose-quartz-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:43:06.208Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact chalcedony-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-chalcedony-xdmg-v2-chalcedony-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-chalcedony-xdmg-v2-chalcedony-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:18:30.046Z",
+  "generationMethod": "ComfyUI"
 }

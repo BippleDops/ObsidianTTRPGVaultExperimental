@@ -25,5 +25,8 @@
   "alt_text": "Artifact amulet-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-amulet-xphb-v2-amulet-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-amulet-xphb-v2-amulet-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:13:45.618Z",
+  "generationMethod": "ComfyUI"
 }

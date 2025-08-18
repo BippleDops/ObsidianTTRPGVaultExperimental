@@ -25,5 +25,8 @@
   "alt_text": "Artifact chime-of-opening-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-chime-of-opening-xdmg-v6-chime-of-opening-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-chime-of-opening-xdmg-v6-chime-of-opening-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:18:44.386Z",
+  "generationMethod": "ComfyUI"
 }

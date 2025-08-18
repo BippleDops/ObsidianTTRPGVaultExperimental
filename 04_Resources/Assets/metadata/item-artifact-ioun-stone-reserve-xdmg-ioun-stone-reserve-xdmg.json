@@ -25,5 +25,8 @@
   "alt_text": "Artifact ioun-stone-reserve-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-ioun-stone-reserve-xdmg-ioun-stone-reserve-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-ioun-stone-reserve-xdmg-ioun-stone-reserve-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:28:50.126Z",
+  "generationMethod": "ComfyUI"
 }

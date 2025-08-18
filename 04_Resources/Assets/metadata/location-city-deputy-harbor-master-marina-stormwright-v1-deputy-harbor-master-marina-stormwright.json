@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Deputy Harbor Master Marina Stormwright with architecture and inhabitants.",
   "realm": "aethermoor",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-deputy-harbor-master-marina-stormwright-v1-deputy-harbor-master-marina-stormwright.svg"
+  "file": "04_Resources/Assets/Locations/location-city-deputy-harbor-master-marina-stormwright-v1-deputy-harbor-master-marina-stormwright.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:49.264Z",
+  "generationMethod": "ComfyUI"
 }

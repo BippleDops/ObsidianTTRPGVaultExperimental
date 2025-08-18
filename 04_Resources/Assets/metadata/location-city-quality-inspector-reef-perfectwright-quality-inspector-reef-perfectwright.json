@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Quality Inspector Reef Perfectwright with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-quality-inspector-reef-perfectwright-quality-inspector-reef-perfectwright.svg"
+  "file": "04_Resources/Assets/Locations/location-city-quality-inspector-reef-perfectwright-quality-inspector-reef-perfectwright.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:22.743Z",
+  "generationMethod": "ComfyUI"
 }

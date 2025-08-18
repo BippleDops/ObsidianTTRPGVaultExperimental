@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Director of Experimental Procedures Dr. Siren Voidtouch with evocative background; clear features readable at token size.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-director-of-experimental-procedures-dr-siren-voidtouch-v2-director-of-experimental-procedures-dr-siren-voidtouch.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-director-of-experimental-procedures-dr-siren-voidtouch-v2-director-of-experimental-procedures-dr-siren-voidtouch.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:57:51.347Z",
+  "generationMethod": "ComfyUI"
 }

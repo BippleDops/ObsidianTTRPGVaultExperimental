@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of International Trade Agreements with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-international-trade-agreements-international-trade-agreements.svg"
+  "file": "04_Resources/Assets/Locations/location-city-international-trade-agreements-international-trade-agreements.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:08.484Z",
+  "generationMethod": "ComfyUI"
 }

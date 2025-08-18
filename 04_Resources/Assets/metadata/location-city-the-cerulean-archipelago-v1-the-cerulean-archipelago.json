@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Cerulean Archipelago with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-cerulean-archipelago-v1-the-cerulean-archipelago.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-cerulean-archipelago-v1-the-cerulean-archipelago.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:58.719Z",
+  "generationMethod": "ComfyUI"
 }

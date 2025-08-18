@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Sky Trader Zephyr Windcatcher with architecture and inhabitants.",
   "realm": "aethermoor",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-sky-trader-zephyr-windcatcher-sky-trader-zephyr-windcatcher.svg"
+  "file": "04_Resources/Assets/Locations/location-city-sky-trader-zephyr-windcatcher-sky-trader-zephyr-windcatcher.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:20.434Z",
+  "generationMethod": "ComfyUI"
 }

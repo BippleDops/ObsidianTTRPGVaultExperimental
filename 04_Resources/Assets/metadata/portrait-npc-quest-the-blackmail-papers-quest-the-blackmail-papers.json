@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Quest - The Blackmail Papers with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-blackmail-papers-quest-the-blackmail-papers.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-blackmail-papers-quest-the-blackmail-papers.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:59:53.456Z",
+  "generationMethod": "ComfyUI"
 }

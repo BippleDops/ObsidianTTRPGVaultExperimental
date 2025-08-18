@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Captain Torren Stormwright with evocative background; clear features readable at token size.",
   "realm": "aethermoor",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-captain-torren-stormwright-v1-captain-torren-stormwright.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-captain-torren-stormwright-v1-captain-torren-stormwright.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:57:29.735Z",
+  "generationMethod": "ComfyUI"
 }

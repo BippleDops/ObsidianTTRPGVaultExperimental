@@ -25,5 +25,8 @@
   "alt_text": "Artifact eyes-of-charming-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-eyes-of-charming-xdmg-v3-eyes-of-charming-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-eyes-of-charming-xdmg-v3-eyes-of-charming-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:23:59.078Z",
+  "generationMethod": "ComfyUI"
 }

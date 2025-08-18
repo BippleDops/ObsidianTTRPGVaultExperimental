@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Senator's Private Chambers with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-senator-s-private-chambers-senator-s-private-chambers.svg"
+  "file": "04_Resources/Assets/Locations/location-city-senator-s-private-chambers-senator-s-private-chambers.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:08.459Z",
+  "generationMethod": "ComfyUI"
 }

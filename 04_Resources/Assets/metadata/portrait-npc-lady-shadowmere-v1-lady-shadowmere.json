@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Lady Shadowmere with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-lady-shadowmere-v1-lady-shadowmere.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-lady-shadowmere-v1-lady-shadowmere.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:58:48.638Z",
+  "generationMethod": "ComfyUI"
 }

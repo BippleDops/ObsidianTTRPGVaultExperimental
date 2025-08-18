@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Lord Chancellor Prism with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-lord-chancellor-prism-v2-lord-chancellor-prism.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-lord-chancellor-prism-v2-lord-chancellor-prism.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:58:58.231Z",
+  "generationMethod": "ComfyUI"
 }

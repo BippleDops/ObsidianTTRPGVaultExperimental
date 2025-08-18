@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Patrol Boundaryrider with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-patrol-boundaryrider-patrol-boundaryrider.svg"
+  "file": "04_Resources/Assets/Locations/location-city-patrol-boundaryrider-patrol-boundaryrider.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:47.075Z",
+  "generationMethod": "ComfyUI"
 }

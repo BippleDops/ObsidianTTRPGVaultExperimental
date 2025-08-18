@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Harbormaster Tidal Stormcrest with architecture and inhabitants.",
   "realm": "aethermoor",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-harbormaster-tidal-stormcrest-v1-harbormaster-tidal-stormcrest.svg"
+  "file": "04_Resources/Assets/Locations/location-city-harbormaster-tidal-stormcrest-v1-harbormaster-tidal-stormcrest.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:46.206Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact mask-of-the-dragon-queen-rot with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-mask-of-the-dragon-queen-rot-v5-mask-of-the-dragon-queen-rot.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-mask-of-the-dragon-queen-rot-v5-mask-of-the-dragon-queen-rot.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:31:10.600Z",
+  "generationMethod": "ComfyUI"
 }

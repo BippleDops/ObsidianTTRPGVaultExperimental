@@ -25,5 +25,8 @@
   "alt_text": "Artifact deck-of-illusions-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-deck-of-illusions-xdmg-v3-deck-of-illusions-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-deck-of-illusions-xdmg-v3-deck-of-illusions-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:20:33.974Z",
+  "generationMethod": "ComfyUI"
 }

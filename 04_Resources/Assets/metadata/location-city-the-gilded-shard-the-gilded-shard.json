@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Gilded Shard with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-gilded-shard-the-gilded-shard.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-gilded-shard-the-gilded-shard.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:20.313Z",
+  "generationMethod": "ComfyUI"
 }

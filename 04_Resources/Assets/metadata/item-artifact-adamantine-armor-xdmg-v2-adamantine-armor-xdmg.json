@@ -25,5 +25,8 @@
   "alt_text": "Artifact adamantine-armor-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-adamantine-armor-xdmg-v2-adamantine-armor-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-adamantine-armor-xdmg-v2-adamantine-armor-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:13:14.470Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Sage Prism Lightweaver with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-sage-prism-lightweaver-v1-sage-prism-lightweaver.svg"
+  "file": "04_Resources/Assets/Locations/location-city-sage-prism-lightweaver-v1-sage-prism-lightweaver.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:51.603Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Seven Shards Mystery with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-seven-shards-mystery-the-seven-shards-mystery.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-seven-shards-mystery-the-seven-shards-mystery.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:56.309Z",
+  "generationMethod": "ComfyUI"
 }

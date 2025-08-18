@@ -25,5 +25,8 @@
   "alt_text": "Artifact saffron-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-saffron-xdmg-v4-saffron-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-saffron-xdmg-v4-saffron-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:38:49.627Z",
+  "generationMethod": "ComfyUI"
 }

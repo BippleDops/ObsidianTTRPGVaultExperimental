@@ -25,5 +25,8 @@
   "alt_text": "Artifact tankard-of-sobriety-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-tankard-of-sobriety-xdmg-v2-tankard-of-sobriety-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-tankard-of-sobriety-xdmg-v2-tankard-of-sobriety-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:44:13.476Z",
+  "generationMethod": "ComfyUI"
 }

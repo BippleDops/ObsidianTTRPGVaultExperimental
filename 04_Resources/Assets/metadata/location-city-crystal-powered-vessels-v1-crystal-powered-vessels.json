@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Crystal-Powered Vessels with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-crystal-powered-vessels-v1-crystal-powered-vessels.svg"
+  "file": "04_Resources/Assets/Locations/location-city-crystal-powered-vessels-v1-crystal-powered-vessels.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:22.432Z",
+  "generationMethod": "ComfyUI"
 }

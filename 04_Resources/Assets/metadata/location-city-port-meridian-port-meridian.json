@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Port Meridian with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-port-meridian-port-meridian.svg"
+  "file": "04_Resources/Assets/Locations/location-city-port-meridian-port-meridian.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:58.993Z",
+  "generationMethod": "ComfyUI"
 }

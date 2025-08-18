@@ -25,5 +25,8 @@
   "alt_text": "Artifact carpet-of-flying-5-ft-7-ft-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-carpet-of-flying-5-ft-7-ft-xdmg-v3-carpet-of-flying-5-ft-7-ft-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-carpet-of-flying-5-ft-7-ft-xdmg-v3-carpet-of-flying-5-ft-7-ft-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:17:56.708Z",
+  "generationMethod": "ComfyUI"
 }

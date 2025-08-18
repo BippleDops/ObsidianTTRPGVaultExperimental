@@ -25,5 +25,8 @@
   "alt_text": "Artifact holy-avenger-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-holy-avenger-xdmg-v5-holy-avenger-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-holy-avenger-xdmg-v5-holy-avenger-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:27:24.183Z",
+  "generationMethod": "ComfyUI"
 }

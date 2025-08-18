@@ -25,5 +25,8 @@
   "alt_text": "Artifact gravenhollow-compass-ring-oota with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-gravenhollow-compass-ring-oota-v5-gravenhollow-compass-ring-oota.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-gravenhollow-compass-ring-oota-v5-gravenhollow-compass-ring-oota.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:26:07.467Z",
+  "generationMethod": "ComfyUI"
 }

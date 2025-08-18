@@ -25,5 +25,8 @@
   "alt_text": "Artifact sealing-wax with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-sealing-wax-v7-sealing-wax.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-sealing-wax-v7-sealing-wax.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:39:54.351Z",
+  "generationMethod": "ComfyUI"
 }

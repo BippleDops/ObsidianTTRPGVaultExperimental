@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Madame Nightwhisper with evocative background; clear features readable at token size.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-madame-nightwhisper-v1-madame-nightwhisper.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-madame-nightwhisper-v1-madame-nightwhisper.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:59:07.865Z",
+  "generationMethod": "ComfyUI"
 }

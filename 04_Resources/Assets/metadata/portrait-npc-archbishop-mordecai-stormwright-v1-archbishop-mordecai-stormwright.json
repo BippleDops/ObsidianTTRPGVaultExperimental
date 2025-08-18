@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Archbishop Mordecai Stormwright with evocative background; clear features readable at token size.",
   "realm": "aethermoor",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-archbishop-mordecai-stormwright-v1-archbishop-mordecai-stormwright.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-archbishop-mordecai-stormwright-v1-archbishop-mordecai-stormwright.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:56:41.619Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact hand-of-vecna-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-hand-of-vecna-xdmg-v6-hand-of-vecna-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-hand-of-vecna-xdmg-v6-hand-of-vecna-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:26:40.891Z",
+  "generationMethod": "ComfyUI"
 }

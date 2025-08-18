@@ -25,5 +25,8 @@
   "alt_text": "Artifact scroll-of-protection-humanoids-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-scroll-of-protection-humanoids-xdmg-v2-scroll-of-protection-humanoids-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-scroll-of-protection-humanoids-xdmg-v2-scroll-of-protection-humanoids-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:39:25.700Z",
+  "generationMethod": "ComfyUI"
 }

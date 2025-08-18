@@ -27,5 +27,8 @@
   "palette": "storm greys",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-family-matriarch-anvil-v1-family-matriarch-anvil.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-family-matriarch-anvil-v1-family-matriarch-anvil.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:39.048Z",
+  "generationMethod": "ComfyUI"
 }

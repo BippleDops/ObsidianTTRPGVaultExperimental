@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Time Keeper with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-time-keeper-the-time-keeper.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-time-keeper-the-time-keeper.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:13.055Z",
+  "generationMethod": "ComfyUI"
 }

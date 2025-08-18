@@ -25,5 +25,8 @@
   "alt_text": "Artifact painted-gold-war-mask-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-painted-gold-war-mask-xdmg-v6-painted-gold-war-mask-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-painted-gold-war-mask-xdmg-v6-painted-gold-war-mask-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:33:08.003Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Sunken Cathedral of Perfect Order with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-sunken-cathedral-of-perfect-order-v1-the-sunken-cathedral-of-perfect-order.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-sunken-cathedral-of-perfect-order-v1-the-sunken-cathedral-of-perfect-order.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:08.230Z",
+  "generationMethod": "ComfyUI"
 }

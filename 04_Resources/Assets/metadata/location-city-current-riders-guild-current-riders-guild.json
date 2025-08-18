@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Current Riders Guild with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-current-riders-guild-current-riders-guild.svg"
+  "file": "04_Resources/Assets/Locations/location-city-current-riders-guild-current-riders-guild.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:34.513Z",
+  "generationMethod": "ComfyUI"
 }

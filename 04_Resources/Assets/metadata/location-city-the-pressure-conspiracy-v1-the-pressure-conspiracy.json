@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Pressure Conspiracy with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-pressure-conspiracy-v1-the-pressure-conspiracy.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-pressure-conspiracy-v1-the-pressure-conspiracy.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:49.063Z",
+  "generationMethod": "ComfyUI"
 }

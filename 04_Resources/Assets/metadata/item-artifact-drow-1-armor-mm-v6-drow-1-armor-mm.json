@@ -25,5 +25,8 @@
   "alt_text": "Artifact drow-1-armor-mm with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-drow-1-armor-mm-v6-drow-1-armor-mm.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-drow-1-armor-mm-v6-drow-1-armor-mm.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:21:28.527Z",
+  "generationMethod": "ComfyUI"
 }

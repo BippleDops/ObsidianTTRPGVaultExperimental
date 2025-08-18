@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Keeper of Contracts Minerva Bindingword with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-keeper-of-contracts-minerva-bindingword-keeper-of-contracts-minerva-bindingword.svg"
+  "file": "04_Resources/Assets/Locations/location-city-keeper-of-contracts-minerva-bindingword-keeper-of-contracts-minerva-bindingword.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:18.299Z",
+  "generationMethod": "ComfyUI"
 }

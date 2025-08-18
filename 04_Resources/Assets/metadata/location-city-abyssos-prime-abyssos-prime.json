@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Abyssos Prime with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-abyssos-prime-abyssos-prime.svg"
+  "file": "04_Resources/Assets/Locations/location-city-abyssos-prime-abyssos-prime.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:05.750Z",
+  "generationMethod": "ComfyUI"
 }

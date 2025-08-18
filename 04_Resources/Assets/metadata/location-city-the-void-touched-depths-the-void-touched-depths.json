@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Void Touched Depths with architecture and inhabitants.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-void-touched-depths-the-void-touched-depths.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-void-touched-depths-the-void-touched-depths.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:20.266Z",
+  "generationMethod": "ComfyUI"
 }

@@ -30,5 +30,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Paint a heroic tabletop fantasy scene reminiscent of D&D 5e set in medieval times, with no sign of modern technology. Characters should be dressed in culturally consistent gear showcasing meticulous detailing in medieval-fantasy materials. They engage in an investigation of the Shadow Conspiracy, symbolized by a heraldic emblem - a piece of simple geometry that bears 2-3 motifs of identity. Images of this emblem may appear in different forms like a seal, a banner, or a coin. Render the collection with a consistent, painterly style. Transition the scene into aquatic fantasy realism. Subsurface caustics illuminate the marine lifeforms adorned with bioluminescent accents. Pressure-dome-like structures made up of an amalgamation of vibrant teals, deep blues, sea-greens, and pearl highlights lay across the fantasy realm. Ensure a balanced composition in the specified aspect and resolution, avoiding any digital artifacts. Refrain from embedding any text or words unless they are meaningful or numbered pins. Steer clear of rendering garbled or random letter strings, sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare. The preferred format is vector SVG.",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-shadow-conspiracy-investigation-v1-shadow-conspiracy-investigation.png"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-shadow-conspiracy-investigation-v1-shadow-conspiracy-investigation.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:10.105Z",
+  "generationMethod": "ComfyUI"
 }

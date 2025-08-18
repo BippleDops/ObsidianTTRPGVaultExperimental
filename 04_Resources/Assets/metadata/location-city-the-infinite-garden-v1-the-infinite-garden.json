@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Infinite Garden with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-infinite-garden-v1-the-infinite-garden.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-infinite-garden-v1-the-infinite-garden.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:29.920Z",
+  "generationMethod": "ComfyUI"
 }

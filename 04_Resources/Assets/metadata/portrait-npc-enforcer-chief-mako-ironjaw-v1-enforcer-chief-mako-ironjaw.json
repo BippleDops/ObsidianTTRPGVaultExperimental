@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Enforcer Chief Mako Ironjaw with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-enforcer-chief-mako-ironjaw-v1-enforcer-chief-mako-ironjaw.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-enforcer-chief-mako-ironjaw-v1-enforcer-chief-mako-ironjaw.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:58:05.652Z",
+  "generationMethod": "ComfyUI"
 }

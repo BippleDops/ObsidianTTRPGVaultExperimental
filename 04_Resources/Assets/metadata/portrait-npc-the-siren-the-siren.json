@@ -25,5 +25,8 @@
   "alt_text": "Portrait of The Siren with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-the-siren-the-siren.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-the-siren-the-siren.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:34.194Z",
+  "generationMethod": "ComfyUI"
 }

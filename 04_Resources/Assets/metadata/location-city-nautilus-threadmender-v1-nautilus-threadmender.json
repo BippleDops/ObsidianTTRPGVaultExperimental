@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Nautilus Threadmender with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-nautilus-threadmender-v1-nautilus-threadmender.svg"
+  "file": "04_Resources/Assets/Locations/location-city-nautilus-threadmender-v1-nautilus-threadmender.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:30.394Z",
+  "generationMethod": "ComfyUI"
 }

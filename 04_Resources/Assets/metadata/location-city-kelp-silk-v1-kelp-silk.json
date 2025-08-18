@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Kelp-Silk with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-kelp-silk-v1-kelp-silk.svg"
+  "file": "04_Resources/Assets/Locations/location-city-kelp-silk-v1-kelp-silk.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:25.730Z",
+  "generationMethod": "ComfyUI"
 }

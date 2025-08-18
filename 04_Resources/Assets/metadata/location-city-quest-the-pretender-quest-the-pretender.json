@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Quest - The Pretender with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-quest-the-pretender-quest-the-pretender.svg"
+  "file": "04_Resources/Assets/Locations/location-city-quest-the-pretender-quest-the-pretender.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:29.982Z",
+  "generationMethod": "ComfyUI"
 }

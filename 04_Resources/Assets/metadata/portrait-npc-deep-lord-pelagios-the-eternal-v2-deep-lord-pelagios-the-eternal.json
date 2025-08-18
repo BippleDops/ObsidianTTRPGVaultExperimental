@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Deep Lord Pelagios the Eternal with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-deep-lord-pelagios-the-eternal-v2-deep-lord-pelagios-the-eternal.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-deep-lord-pelagios-the-eternal-v2-deep-lord-pelagios-the-eternal.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:57:46.539Z",
+  "generationMethod": "ComfyUI"
 }

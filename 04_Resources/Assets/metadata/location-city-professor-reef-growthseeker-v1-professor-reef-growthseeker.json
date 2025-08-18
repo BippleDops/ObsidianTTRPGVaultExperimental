@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Professor Reef Growthseeker with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-professor-reef-growthseeker-v1-professor-reef-growthseeker.svg"
+  "file": "04_Resources/Assets/Locations/location-city-professor-reef-growthseeker-v1-professor-reef-growthseeker.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:17.995Z",
+  "generationMethod": "ComfyUI"
 }

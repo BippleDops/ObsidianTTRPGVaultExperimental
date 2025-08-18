@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Legal Profession with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-legal-profession-v1-legal-profession.svg"
+  "file": "04_Resources/Assets/Locations/location-city-legal-profession-v1-legal-profession.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:30.531Z",
+  "generationMethod": "ComfyUI"
 }

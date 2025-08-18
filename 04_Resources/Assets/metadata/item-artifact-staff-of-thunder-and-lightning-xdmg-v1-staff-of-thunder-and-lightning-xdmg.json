@@ -25,5 +25,8 @@
   "alt_text": "Artifact staff-of-thunder-and-lightning-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-staff-of-thunder-and-lightning-xdmg-v1-staff-of-thunder-and-lightning-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-staff-of-thunder-and-lightning-xdmg-v1-staff-of-thunder-and-lightning-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:42:58.928Z",
+  "generationMethod": "ComfyUI"
 }

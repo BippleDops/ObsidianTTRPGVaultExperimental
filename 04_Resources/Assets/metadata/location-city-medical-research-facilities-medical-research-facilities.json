@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Medical Research Facilities with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-medical-research-facilities-medical-research-facilities.svg"
+  "file": "04_Resources/Assets/Locations/location-city-medical-research-facilities-medical-research-facilities.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:04.175Z",
+  "generationMethod": "ComfyUI"
 }

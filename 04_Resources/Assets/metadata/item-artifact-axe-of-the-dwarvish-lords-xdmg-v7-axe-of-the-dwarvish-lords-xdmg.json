@@ -25,5 +25,8 @@
   "alt_text": "Artifact axe-of-the-dwarvish-lords-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-axe-of-the-dwarvish-lords-xdmg-v7-axe-of-the-dwarvish-lords-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-axe-of-the-dwarvish-lords-xdmg-v7-axe-of-the-dwarvish-lords-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:14:45.266Z",
+  "generationMethod": "ComfyUI"
 }

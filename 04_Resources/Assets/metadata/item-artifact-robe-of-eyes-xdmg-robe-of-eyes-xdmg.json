@@ -25,5 +25,8 @@
   "alt_text": "Artifact robe-of-eyes-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-robe-of-eyes-xdmg-robe-of-eyes-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-robe-of-eyes-xdmg-robe-of-eyes-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:38:01.860Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Scepter of Winter's Command with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-scepter-of-winter-s-command-v1-scepter-of-winter-s-command.svg"
+  "file": "04_Resources/Assets/Locations/location-city-scepter-of-winter-s-command-v1-scepter-of-winter-s-command.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:53.989Z",
+  "generationMethod": "ComfyUI"
 }

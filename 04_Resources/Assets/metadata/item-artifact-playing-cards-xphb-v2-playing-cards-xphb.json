@@ -25,5 +25,8 @@
   "alt_text": "Artifact playing-cards-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-playing-cards-xphb-v2-playing-cards-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-playing-cards-xphb-v2-playing-cards-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:34:10.281Z",
+  "generationMethod": "ComfyUI"
 }

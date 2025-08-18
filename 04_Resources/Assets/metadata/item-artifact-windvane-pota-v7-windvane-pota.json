@@ -28,5 +28,8 @@
   "model": "dall-e-3",
   "size": "1024x1792",
   "revised_prompt": "Create an image in a heroic tabletop fantasy setting resembling the style of classical Dungeons and Dragons. The scene should contain medieval-fantasy elements including culturally coherent gear with no trace of modern technology. Ensure that the collection style is consistent and painterly. The centerpiece should be a detailed artifact - a windvane-pota abundantly decorated with pearls, corals, cloud-crystals and pressure-forged metals. The artifact should have abstract sigils glowing gently, instead of letters. To provide a frame of reference for its size, include a hand or a ruler in the scene. Present it as a product render. The overarching style should be skyward romantic realism, with emphasis on cloudstone and brass elements, and wind-swept forms characteristic of airship motifs. The color palette should primarily comprise navy, gold, cloud-white with warm sun highlights. Ensure the chosen aspect/resolution results in a clean render, with no artefacts. Ensure that any runes presented are abstract sigils rather than letter-like gibberish. There should be an absence of garbled or random strings of letters; if symbols are used, make them meaningful or numbered pins. Do not incorporate any sci-fi UIs, modern signage, photoreal CGI, anime style or bloom glare into the composition.",
-  "file": "04_Resources/Assets/Items/item-artifact-windvane-pota-v7-windvane-pota.png"
+  "file": "04_Resources/Assets/Items/item-artifact-windvane-pota-v7-windvane-pota.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:46:37.137Z",
+  "generationMethod": "ComfyUI"
 }

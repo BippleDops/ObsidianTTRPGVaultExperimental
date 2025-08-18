@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Scholar David Crossref with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-scholar-david-crossref-scholar-david-crossref.svg"
+  "file": "04_Resources/Assets/Locations/location-city-scholar-david-crossref-scholar-david-crossref.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:56.396Z",
+  "generationMethod": "ComfyUI"
 }

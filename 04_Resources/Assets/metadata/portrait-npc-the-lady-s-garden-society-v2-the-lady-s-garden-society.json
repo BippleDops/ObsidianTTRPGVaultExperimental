@@ -25,5 +25,8 @@
   "alt_text": "Portrait of The Lady's Garden Society with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-the-lady-s-garden-society-v2-the-lady-s-garden-society.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-the-lady-s-garden-society-v2-the-lady-s-garden-society.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:19.802Z",
+  "generationMethod": "ComfyUI"
 }

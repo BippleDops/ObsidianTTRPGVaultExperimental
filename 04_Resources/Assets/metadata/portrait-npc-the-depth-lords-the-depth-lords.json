@@ -25,5 +25,8 @@
   "alt_text": "Portrait of The Depth Lords with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-the-depth-lords-the-depth-lords.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-the-depth-lords-the-depth-lords.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:07.848Z",
+  "generationMethod": "ComfyUI"
 }

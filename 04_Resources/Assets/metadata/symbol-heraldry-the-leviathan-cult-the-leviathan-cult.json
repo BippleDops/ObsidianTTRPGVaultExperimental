@@ -27,5 +27,8 @@
   "palette": "deep blues",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-leviathan-cult-the-leviathan-cult.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-leviathan-cult-the-leviathan-cult.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:36.555Z",
+  "generationMethod": "ComfyUI"
 }

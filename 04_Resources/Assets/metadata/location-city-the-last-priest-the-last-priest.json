@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Last Priest with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-last-priest-the-last-priest.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-last-priest-the-last-priest.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:32.349Z",
+  "generationMethod": "ComfyUI"
 }

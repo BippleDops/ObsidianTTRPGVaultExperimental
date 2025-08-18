@@ -28,5 +28,8 @@
   "model": "gpt-image-1",
   "size": "1024x1024",
   "revised_prompt": null,
-  "file": "04_Resources/Assets/Digital/ui-ui-quest-log-pins-v2-quest-log-pins.png"
+  "file": "04_Resources/Assets/Digital/ui-ui-quest-log-pins-v2-quest-log-pins.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:04:02.768Z",
+  "generationMethod": "ComfyUI"
 }

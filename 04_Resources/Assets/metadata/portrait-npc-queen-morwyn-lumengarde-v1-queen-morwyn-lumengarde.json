@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Queen Morwyn Lumengarde with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-queen-morwyn-lumengarde-v1-queen-morwyn-lumengarde.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-queen-morwyn-lumengarde-v1-queen-morwyn-lumengarde.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:59:41.558Z",
+  "generationMethod": "ComfyUI"
 }

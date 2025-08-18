@@ -25,5 +25,8 @@
   "alt_text": "Artifact rod-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-rod-xphb-v1-rod-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-rod-xphb-v1-rod-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:38:28.219Z",
+  "generationMethod": "ComfyUI"
 }

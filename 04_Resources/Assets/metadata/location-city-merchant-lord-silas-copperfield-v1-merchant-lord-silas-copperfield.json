@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Merchant Lord Silas Copperfield with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-merchant-lord-silas-copperfield-v1-merchant-lord-silas-copperfield.svg"
+  "file": "04_Resources/Assets/Locations/location-city-merchant-lord-silas-copperfield-v1-merchant-lord-silas-copperfield.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:20.813Z",
+  "generationMethod": "ComfyUI"
 }

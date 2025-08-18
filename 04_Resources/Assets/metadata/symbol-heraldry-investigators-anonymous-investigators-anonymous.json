@@ -27,5 +27,8 @@
   "palette": "deep blues",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-investigators-anonymous-investigators-anonymous.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-investigators-anonymous-investigators-anonymous.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:48.523Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Old Valdris with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-old-valdris-old-valdris.svg"
+  "file": "04_Resources/Assets/Locations/location-city-old-valdris-old-valdris.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:42.308Z",
+  "generationMethod": "ComfyUI"
 }

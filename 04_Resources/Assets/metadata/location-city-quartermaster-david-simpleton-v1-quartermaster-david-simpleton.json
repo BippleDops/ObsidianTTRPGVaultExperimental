@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Quartermaster David Simpleton with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-quartermaster-david-simpleton-v1-quartermaster-david-simpleton.svg"
+  "file": "04_Resources/Assets/Locations/location-city-quartermaster-david-simpleton-v1-quartermaster-david-simpleton.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:52:22.742Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Portrait of The Pressure Pirates with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-the-pressure-pirates-v2-the-pressure-pirates.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-the-pressure-pirates-v2-the-pressure-pirates.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:24.620Z",
+  "generationMethod": "ComfyUI"
 }

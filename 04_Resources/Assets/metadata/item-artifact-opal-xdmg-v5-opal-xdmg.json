@@ -25,5 +25,8 @@
   "alt_text": "Artifact opal-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-opal-xdmg-v5-opal-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-opal-xdmg-v5-opal-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:32:51.176Z",
+  "generationMethod": "ComfyUI"
 }

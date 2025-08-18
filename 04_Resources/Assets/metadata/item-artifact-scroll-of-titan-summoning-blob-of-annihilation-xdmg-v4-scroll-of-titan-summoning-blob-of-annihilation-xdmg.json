@@ -25,5 +25,8 @@
   "alt_text": "Artifact scroll-of-titan-summoning-blob-of-annihilation-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-scroll-of-titan-summoning-blob-of-annihilation-xdmg-v4-scroll-of-titan-summoning-blob-of-annihilation-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-scroll-of-titan-summoning-blob-of-annihilation-xdmg-v4-scroll-of-titan-summoning-blob-of-annihilation-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:39:40.151Z",
+  "generationMethod": "ComfyUI"
 }

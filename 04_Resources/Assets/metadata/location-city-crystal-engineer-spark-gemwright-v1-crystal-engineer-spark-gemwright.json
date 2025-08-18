@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Crystal Engineer Spark Gemwright with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-crystal-engineer-spark-gemwright-v1-crystal-engineer-spark-gemwright.svg"
+  "file": "04_Resources/Assets/Locations/location-city-crystal-engineer-spark-gemwright-v1-crystal-engineer-spark-gemwright.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:20.038Z",
+  "generationMethod": "ComfyUI"
 }

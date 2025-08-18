@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Healer Sage Bondseer with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-healer-sage-bondseer-v1-healer-sage-bondseer.svg"
+  "file": "04_Resources/Assets/Locations/location-city-healer-sage-bondseer-v1-healer-sage-bondseer.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:48.755Z",
+  "generationMethod": "ComfyUI"
 }

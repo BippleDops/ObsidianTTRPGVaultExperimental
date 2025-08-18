@@ -25,5 +25,8 @@
   "alt_text": "Artifact embroidered-silk-and-velvet-mantle-set-with-numerous-moonstones-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-embroidered-silk-and-velvet-mantle-set-with-numerous-moonstones-xdmg-embroidered-silk-and-velvet-mantle-set-with-numerous-moonstones-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-embroidered-silk-and-velvet-mantle-set-with-numerous-moonstones-xdmg-embroidered-silk-and-velvet-mantle-set-with-numerous-moonstones-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:22:28.290Z",
+  "generationMethod": "ComfyUI"
 }

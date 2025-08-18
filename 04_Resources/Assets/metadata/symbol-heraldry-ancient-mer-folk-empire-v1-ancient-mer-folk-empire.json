@@ -27,5 +27,8 @@
   "palette": "storm greys",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-ancient-mer-folk-empire-v1-ancient-mer-folk-empire.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-ancient-mer-folk-empire-v1-ancient-mer-folk-empire.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:17.467Z",
+  "generationMethod": "ComfyUI"
 }

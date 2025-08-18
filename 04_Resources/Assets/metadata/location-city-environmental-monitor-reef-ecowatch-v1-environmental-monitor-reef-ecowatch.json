@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Environmental Monitor Reef Ecowatch with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-environmental-monitor-reef-ecowatch-v1-environmental-monitor-reef-ecowatch.svg"
+  "file": "04_Resources/Assets/Locations/location-city-environmental-monitor-reef-ecowatch-v1-environmental-monitor-reef-ecowatch.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:11.394Z",
+  "generationMethod": "ComfyUI"
 }

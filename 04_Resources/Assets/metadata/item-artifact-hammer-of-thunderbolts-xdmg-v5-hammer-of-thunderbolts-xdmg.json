@@ -25,5 +25,8 @@
   "alt_text": "Artifact hammer-of-thunderbolts-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-hammer-of-thunderbolts-xdmg-v5-hammer-of-thunderbolts-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-hammer-of-thunderbolts-xdmg-v5-hammer-of-thunderbolts-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:26:36.038Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact veterans-cane-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-veterans-cane-xdmg-v7-veterans-cane-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-veterans-cane-xdmg-v7-veterans-cane-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:45:10.878Z",
+  "generationMethod": "ComfyUI"
 }

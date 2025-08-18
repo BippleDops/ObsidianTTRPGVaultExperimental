@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Sunken Cathedral of Stars with architecture and inhabitants.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-sunken-cathedral-of-stars-the-sunken-cathedral-of-stars.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-sunken-cathedral-of-stars-the-sunken-cathedral-of-stars.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:08.230Z",
+  "generationMethod": "ComfyUI"
 }

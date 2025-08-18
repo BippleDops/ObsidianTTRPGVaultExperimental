@@ -25,5 +25,8 @@
   "alt_text": "Artifact iron-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-iron-xdmg-v3-iron-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-iron-xdmg-v3-iron-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:29:09.105Z",
+  "generationMethod": "ComfyUI"
 }

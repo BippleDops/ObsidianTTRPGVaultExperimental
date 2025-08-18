@@ -27,5 +27,8 @@
   "palette": "gold accents",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-agricultural-provinces-agricultural-provinces.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-agricultural-provinces-agricultural-provinces.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:02:15.075Z",
+  "generationMethod": "ComfyUI"
 }

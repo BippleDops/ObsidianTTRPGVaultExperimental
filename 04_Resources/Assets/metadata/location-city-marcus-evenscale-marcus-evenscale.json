@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Marcus Evenscale with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-marcus-evenscale-marcus-evenscale.svg"
+  "file": "04_Resources/Assets/Locations/location-city-marcus-evenscale-marcus-evenscale.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:47.609Z",
+  "generationMethod": "ComfyUI"
 }

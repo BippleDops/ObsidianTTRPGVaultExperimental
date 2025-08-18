@@ -25,5 +25,8 @@
   "alt_text": "Artifact spell-gem-lapis-lazuli-oota with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-spell-gem-lapis-lazuli-oota-v6-spell-gem-lapis-lazuli-oota.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-spell-gem-lapis-lazuli-oota-v6-spell-gem-lapis-lazuli-oota.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:41:37.453Z",
+  "generationMethod": "ComfyUI"
 }

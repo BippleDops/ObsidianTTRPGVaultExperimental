@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Amnesia Gallery with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-amnesia-gallery-v1-amnesia-gallery.svg"
+  "file": "04_Resources/Assets/Locations/location-city-amnesia-gallery-v1-amnesia-gallery.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:15.292Z",
+  "generationMethod": "ComfyUI"
 }

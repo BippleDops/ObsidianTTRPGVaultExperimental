@@ -27,5 +27,8 @@
   "palette": "deep blues",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-unnamed-watcher-v1-the-unnamed-watcher.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-the-unnamed-watcher-v1-the-unnamed-watcher.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:48.493Z",
+  "generationMethod": "ComfyUI"
 }

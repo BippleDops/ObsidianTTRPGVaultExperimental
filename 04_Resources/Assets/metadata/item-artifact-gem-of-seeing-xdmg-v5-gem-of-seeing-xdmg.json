@@ -25,5 +25,8 @@
   "alt_text": "Artifact gem-of-seeing-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-gem-of-seeing-xdmg-v5-gem-of-seeing-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-gem-of-seeing-xdmg-v5-gem-of-seeing-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:25:15.169Z",
+  "generationMethod": "ComfyUI"
 }

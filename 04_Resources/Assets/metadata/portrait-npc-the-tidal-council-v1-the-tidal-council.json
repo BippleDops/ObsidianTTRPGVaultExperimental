@@ -25,5 +25,8 @@
   "alt_text": "Portrait of The Tidal Council with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-the-tidal-council-v1-the-tidal-council.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-the-tidal-council-v1-the-tidal-council.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:41.376Z",
+  "generationMethod": "ComfyUI"
 }

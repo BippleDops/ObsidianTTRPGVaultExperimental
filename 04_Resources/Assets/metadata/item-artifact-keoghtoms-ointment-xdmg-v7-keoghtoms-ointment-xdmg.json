@@ -25,5 +25,8 @@
   "alt_text": "Artifact keoghtoms-ointment-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-keoghtoms-ointment-xdmg-v7-keoghtoms-ointment-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-keoghtoms-ointment-xdmg-v7-keoghtoms-ointment-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:29:40.107Z",
+  "generationMethod": "ComfyUI"
 }

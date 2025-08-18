@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Chronos Tidekeep with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-chronos-tidekeep-chronos-tidekeep.svg"
+  "file": "04_Resources/Assets/Locations/location-city-chronos-tidekeep-chronos-tidekeep.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:53.684Z",
+  "generationMethod": "ComfyUI"
 }

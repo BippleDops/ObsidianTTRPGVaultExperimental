@@ -25,5 +25,8 @@
   "alt_text": "Artifact brazier-of-commanding-fire-elementals-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-brazier-of-commanding-fire-elementals-xdmg-brazier-of-commanding-fire-elementals-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-brazier-of-commanding-fire-elementals-xdmg-brazier-of-commanding-fire-elementals-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:17:06.695Z",
+  "generationMethod": "ComfyUI"
 }

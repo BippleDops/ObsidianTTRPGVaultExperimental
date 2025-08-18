@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Slave Markets of Tethys with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-slave-markets-of-tethys-v1-the-slave-markets-of-tethys.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-slave-markets-of-tethys-v1-the-slave-markets-of-tethys.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:03.448Z",
+  "generationMethod": "ComfyUI"
 }

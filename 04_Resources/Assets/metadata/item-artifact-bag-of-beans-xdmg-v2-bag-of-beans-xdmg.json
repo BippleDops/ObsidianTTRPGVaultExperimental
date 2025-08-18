@@ -25,5 +25,8 @@
   "alt_text": "Artifact bag-of-beans-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-bag-of-beans-xdmg-v2-bag-of-beans-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-bag-of-beans-xdmg-v2-bag-of-beans-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:14:50.134Z",
+  "generationMethod": "ComfyUI"
 }

@@ -28,5 +28,8 @@
   "model": "gpt-image-1",
   "size": "1024x1024",
   "revised_prompt": null,
-  "file": "04_Resources/Assets/Handouts/handout-handout-temple-prayer-sheet-v1-temple-prayer-sheet.png"
+  "file": "04_Resources/Assets/Handouts/handout-handout-temple-prayer-sheet-v1-temple-prayer-sheet.png",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:12:21.919Z",
+  "generationMethod": "ComfyUI"
 }

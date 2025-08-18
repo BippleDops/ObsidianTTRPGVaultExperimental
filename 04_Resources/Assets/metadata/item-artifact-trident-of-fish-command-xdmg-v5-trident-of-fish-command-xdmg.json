@@ -25,5 +25,8 @@
   "alt_text": "Artifact trident-of-fish-command-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-trident-of-fish-command-xdmg-v5-trident-of-fish-command-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-trident-of-fish-command-xdmg-v5-trident-of-fish-command-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:44:56.615Z",
+  "generationMethod": "ComfyUI"
 }

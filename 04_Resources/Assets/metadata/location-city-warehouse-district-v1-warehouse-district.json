@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Warehouse District with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-warehouse-district-v1-warehouse-district.svg"
+  "file": "04_Resources/Assets/Locations/location-city-warehouse-district-v1-warehouse-district.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:53.716Z",
+  "generationMethod": "ComfyUI"
 }

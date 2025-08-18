@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Memory Rights Debate with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-memory-rights-debate-memory-rights-debate.svg"
+  "file": "04_Resources/Assets/Locations/location-city-memory-rights-debate-memory-rights-debate.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:16.045Z",
+  "generationMethod": "ComfyUI"
 }

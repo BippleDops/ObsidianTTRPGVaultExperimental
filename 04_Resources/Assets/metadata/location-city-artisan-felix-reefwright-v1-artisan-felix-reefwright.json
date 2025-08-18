@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Artisan Felix Reefwright with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-artisan-felix-reefwright-v1-artisan-felix-reefwright.svg"
+  "file": "04_Resources/Assets/Locations/location-city-artisan-felix-reefwright-v1-artisan-felix-reefwright.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:29.733Z",
+  "generationMethod": "ComfyUI"
 }

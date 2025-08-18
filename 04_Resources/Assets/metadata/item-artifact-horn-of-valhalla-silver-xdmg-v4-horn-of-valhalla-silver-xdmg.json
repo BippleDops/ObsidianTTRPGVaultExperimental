@@ -25,5 +25,8 @@
   "alt_text": "Artifact horn-of-valhalla-silver-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-horn-of-valhalla-silver-xdmg-v4-horn-of-valhalla-silver-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-horn-of-valhalla-silver-xdmg-v4-horn-of-valhalla-silver-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:27:43.282Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Shadow Brokers with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-shadow-brokers-v1-shadow-brokers.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-shadow-brokers-v1-shadow-brokers.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:00:39.103Z",
+  "generationMethod": "ComfyUI"
 }

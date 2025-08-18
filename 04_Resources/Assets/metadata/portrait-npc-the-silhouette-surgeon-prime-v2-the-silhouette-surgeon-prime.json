@@ -25,5 +25,8 @@
   "alt_text": "Portrait of The Silhouette Surgeon Prime with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-the-silhouette-surgeon-prime-v2-the-silhouette-surgeon-prime.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-the-silhouette-surgeon-prime-v2-the-silhouette-surgeon-prime.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:34.193Z",
+  "generationMethod": "ComfyUI"
 }

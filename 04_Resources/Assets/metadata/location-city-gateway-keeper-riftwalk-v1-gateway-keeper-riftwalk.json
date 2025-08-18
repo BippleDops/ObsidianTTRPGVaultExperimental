@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Gateway Keeper Riftwalk with architecture and inhabitants.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-gateway-keeper-riftwalk-v1-gateway-keeper-riftwalk.svg"
+  "file": "04_Resources/Assets/Locations/location-city-gateway-keeper-riftwalk-v1-gateway-keeper-riftwalk.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:49:28.888Z",
+  "generationMethod": "ComfyUI"
 }

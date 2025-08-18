@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Temple Guardian Marcus the Drowned with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-temple-guardian-marcus-the-drowned-temple-guardian-marcus-the-drowned.svg"
+  "file": "04_Resources/Assets/Locations/location-city-temple-guardian-marcus-the-drowned-temple-guardian-marcus-the-drowned.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:41.990Z",
+  "generationMethod": "ComfyUI"
 }

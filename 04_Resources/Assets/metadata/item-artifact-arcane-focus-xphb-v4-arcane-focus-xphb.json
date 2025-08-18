@@ -25,5 +25,8 @@
   "alt_text": "Artifact arcane-focus-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-arcane-focus-xphb-v4-arcane-focus-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-arcane-focus-xphb-v4-arcane-focus-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:13:57.650Z",
+  "generationMethod": "ComfyUI"
 }

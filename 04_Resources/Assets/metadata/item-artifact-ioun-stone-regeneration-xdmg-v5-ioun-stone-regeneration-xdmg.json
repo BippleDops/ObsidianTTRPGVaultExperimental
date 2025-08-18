@@ -25,5 +25,8 @@
   "alt_text": "Artifact ioun-stone-regeneration-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-ioun-stone-regeneration-xdmg-v5-ioun-stone-regeneration-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-ioun-stone-regeneration-xdmg-v5-ioun-stone-regeneration-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:28:50.126Z",
+  "generationMethod": "ComfyUI"
 }

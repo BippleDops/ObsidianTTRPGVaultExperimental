@@ -25,5 +25,8 @@
   "alt_text": "Artifact elven-chain-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-elven-chain-xdmg-v2-elven-chain-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-elven-chain-xdmg-v2-elven-chain-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:22:21.231Z",
+  "generationMethod": "ComfyUI"
 }

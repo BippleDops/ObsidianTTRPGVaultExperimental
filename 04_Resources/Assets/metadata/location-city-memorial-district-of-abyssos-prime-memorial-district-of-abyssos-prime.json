@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Memorial District of Abyssos Prime with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-memorial-district-of-abyssos-prime-memorial-district-of-abyssos-prime.svg"
+  "file": "04_Resources/Assets/Locations/location-city-memorial-district-of-abyssos-prime-memorial-district-of-abyssos-prime.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:06.508Z",
+  "generationMethod": "ComfyUI"
 }

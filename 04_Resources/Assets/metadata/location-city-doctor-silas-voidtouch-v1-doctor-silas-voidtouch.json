@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Doctor Silas Voidtouch with architecture and inhabitants.",
   "realm": "void",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-doctor-silas-voidtouch-v1-doctor-silas-voidtouch.svg"
+  "file": "04_Resources/Assets/Locations/location-city-doctor-silas-voidtouch-v1-doctor-silas-voidtouch.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:56.605Z",
+  "generationMethod": "ComfyUI"
 }

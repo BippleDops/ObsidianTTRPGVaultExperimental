@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Seven Shards with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-seven-shards-v1-seven-shards.svg"
+  "file": "04_Resources/Assets/Locations/location-city-seven-shards-v1-seven-shards.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:53:10.818Z",
+  "generationMethod": "ComfyUI"
 }

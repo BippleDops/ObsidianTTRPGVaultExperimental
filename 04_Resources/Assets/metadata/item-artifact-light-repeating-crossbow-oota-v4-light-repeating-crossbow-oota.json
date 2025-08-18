@@ -25,5 +25,8 @@
   "alt_text": "Artifact light-repeating-crossbow-oota with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-light-repeating-crossbow-oota-v4-light-repeating-crossbow-oota.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-light-repeating-crossbow-oota-v4-light-repeating-crossbow-oota.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:30:01.657Z",
+  "generationMethod": "ComfyUI"
 }

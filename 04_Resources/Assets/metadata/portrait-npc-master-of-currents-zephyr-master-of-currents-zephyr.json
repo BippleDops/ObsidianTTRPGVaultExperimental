@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Master of Currents Zephyr with evocative background; clear features readable at token size.",
   "realm": "aethermoor",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-master-of-currents-zephyr-master-of-currents-zephyr.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-master-of-currents-zephyr-master-of-currents-zephyr.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:59:15.133Z",
+  "generationMethod": "ComfyUI"
 }

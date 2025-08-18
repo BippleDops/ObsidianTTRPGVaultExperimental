@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Titan Foundationbearer with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-titan-foundationbearer-titan-foundationbearer.svg"
+  "file": "04_Resources/Assets/Locations/location-city-titan-foundationbearer-titan-foundationbearer.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:29.911Z",
+  "generationMethod": "ComfyUI"
 }

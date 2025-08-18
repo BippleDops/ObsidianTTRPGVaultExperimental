@@ -25,5 +25,8 @@
   "alt_text": "Artifact silk-rope-50-feet with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-silk-rope-50-feet-v6-silk-rope-50-feet.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-silk-rope-50-feet-v6-silk-rope-50-feet.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:40:34.975Z",
+  "generationMethod": "ComfyUI"
 }

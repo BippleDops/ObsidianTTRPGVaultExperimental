@@ -27,5 +27,8 @@
   "palette": "gold accents",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Symbols/symbol-heraldry-witness-protection-protocols-witness-protection-protocols.svg"
+  "file": "04_Resources/Assets/Symbols/symbol-heraldry-witness-protection-protocols-witness-protection-protocols.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:03:55.647Z",
+  "generationMethod": "ComfyUI"
 }

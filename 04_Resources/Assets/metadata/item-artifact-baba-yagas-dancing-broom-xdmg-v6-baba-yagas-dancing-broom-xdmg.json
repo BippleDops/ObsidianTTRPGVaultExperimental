@@ -25,5 +25,8 @@
   "alt_text": "Artifact baba-yagas-dancing-broom-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-baba-yagas-dancing-broom-xdmg-v6-baba-yagas-dancing-broom-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-baba-yagas-dancing-broom-xdmg-v6-baba-yagas-dancing-broom-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:14:47.727Z",
+  "generationMethod": "ComfyUI"
 }

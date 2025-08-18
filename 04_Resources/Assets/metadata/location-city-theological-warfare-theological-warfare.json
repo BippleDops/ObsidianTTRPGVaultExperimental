@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Theological Warfare with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-theological-warfare-theological-warfare.svg"
+  "file": "04_Resources/Assets/Locations/location-city-theological-warfare-theological-warfare.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:22.666Z",
+  "generationMethod": "ComfyUI"
 }

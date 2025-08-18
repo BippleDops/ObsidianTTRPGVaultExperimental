@@ -25,5 +25,8 @@
   "alt_text": "Artifact elemental-gem-red-corundum-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-elemental-gem-red-corundum-xdmg-v7-elemental-gem-red-corundum-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-elemental-gem-red-corundum-xdmg-v7-elemental-gem-red-corundum-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:22:13.969Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Memory Meadows Black Market with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-memory-meadows-black-market-v1-memory-meadows-black-market.svg"
+  "file": "04_Resources/Assets/Locations/location-city-memory-meadows-black-market-v1-memory-meadows-black-market.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:51:13.676Z",
+  "generationMethod": "ComfyUI"
 }

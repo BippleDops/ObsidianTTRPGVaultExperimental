@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Theological Seminaries with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-theological-seminaries-theological-seminaries.svg"
+  "file": "04_Resources/Assets/Locations/location-city-theological-seminaries-theological-seminaries.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:22.667Z",
+  "generationMethod": "ComfyUI"
 }

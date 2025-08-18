@@ -25,5 +25,8 @@
   "alt_text": "Artifact wings-of-flying-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-wings-of-flying-xdmg-v6-wings-of-flying-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-wings-of-flying-xdmg-v6-wings-of-flying-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:46:41.898Z",
+  "generationMethod": "ComfyUI"
 }

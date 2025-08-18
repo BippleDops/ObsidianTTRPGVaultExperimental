@@ -25,5 +25,8 @@
   "alt_text": "Artifact elven-trinket-mtf with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-elven-trinket-mtf-v3-elven-trinket-mtf.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-elven-trinket-mtf-v3-elven-trinket-mtf.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:22:23.571Z",
+  "generationMethod": "ComfyUI"
 }

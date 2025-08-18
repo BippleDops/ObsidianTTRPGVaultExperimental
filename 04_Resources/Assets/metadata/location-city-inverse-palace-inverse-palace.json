@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Inverse Palace with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-inverse-palace-inverse-palace.svg"
+  "file": "04_Resources/Assets/Locations/location-city-inverse-palace-inverse-palace.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:50:10.976Z",
+  "generationMethod": "ComfyUI"
 }

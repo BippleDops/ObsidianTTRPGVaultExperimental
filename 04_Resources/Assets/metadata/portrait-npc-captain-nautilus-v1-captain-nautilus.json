@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Captain Nautilus with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-captain-nautilus-v1-captain-nautilus.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-captain-nautilus-v1-captain-nautilus.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:57:10.505Z",
+  "generationMethod": "ComfyUI"
 }

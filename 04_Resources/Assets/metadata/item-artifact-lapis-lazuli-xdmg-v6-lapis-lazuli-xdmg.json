@@ -25,5 +25,8 @@
   "alt_text": "Artifact lapis-lazuli-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-lapis-lazuli-xdmg-v6-lapis-lazuli-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-lapis-lazuli-xdmg-v6-lapis-lazuli-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:29:49.805Z",
+  "generationMethod": "ComfyUI"
 }

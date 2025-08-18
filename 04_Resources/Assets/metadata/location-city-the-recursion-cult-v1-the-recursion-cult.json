@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of The Recursion Cult with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-the-recursion-cult-v1-the-recursion-cult.svg"
+  "file": "04_Resources/Assets/Locations/location-city-the-recursion-cult-v1-the-recursion-cult.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:54:53.851Z",
+  "generationMethod": "ComfyUI"
 }

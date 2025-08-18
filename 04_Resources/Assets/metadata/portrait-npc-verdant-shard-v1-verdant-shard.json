@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Verdant Shard with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-verdant-shard-v1-verdant-shard.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-verdant-shard-v1-verdant-shard.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:01:53.324Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Artifact dwarven-plate-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-dwarven-plate-xdmg-v5-dwarven-plate-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-dwarven-plate-xdmg-v5-dwarven-plate-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:21:54.832Z",
+  "generationMethod": "ComfyUI"
 }

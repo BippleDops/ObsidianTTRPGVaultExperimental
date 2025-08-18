@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Codex of Forgotten Depths with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-codex-of-forgotten-depths-codex-of-forgotten-depths.svg"
+  "file": "04_Resources/Assets/Locations/location-city-codex-of-forgotten-depths-codex-of-forgotten-depths.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:47:56.049Z",
+  "generationMethod": "ComfyUI"
 }

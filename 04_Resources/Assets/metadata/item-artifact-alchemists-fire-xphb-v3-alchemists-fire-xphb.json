@@ -25,5 +25,8 @@
   "alt_text": "Artifact alchemists-fire-xphb with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-alchemists-fire-xphb-v3-alchemists-fire-xphb.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-alchemists-fire-xphb-v3-alchemists-fire-xphb.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:13:24.049Z",
+  "generationMethod": "ComfyUI"
 }

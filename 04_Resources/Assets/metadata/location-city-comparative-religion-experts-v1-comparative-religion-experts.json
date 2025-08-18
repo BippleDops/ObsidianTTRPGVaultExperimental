@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Comparative Religion Experts with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-comparative-religion-experts-v1-comparative-religion-experts.svg"
+  "file": "04_Resources/Assets/Locations/location-city-comparative-religion-experts-v1-comparative-religion-experts.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:48:03.277Z",
+  "generationMethod": "ComfyUI"
 }

@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Investigator Supreme Lucian Brightwater with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-investigator-supreme-lucian-brightwater-v1-investigator-supreme-lucian-brightwater.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-investigator-supreme-lucian-brightwater-v1-investigator-supreme-lucian-brightwater.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:58:36.870Z",
+  "generationMethod": "ComfyUI"
 }

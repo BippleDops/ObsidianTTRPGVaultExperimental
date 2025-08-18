@@ -25,5 +25,8 @@
   "alt_text": "Artifact bowl-of-commanding-water-elementals-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-bowl-of-commanding-water-elementals-xdmg-v7-bowl-of-commanding-water-elementals-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-bowl-of-commanding-water-elementals-xdmg-v7-bowl-of-commanding-water-elementals-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:16:57.100Z",
+  "generationMethod": "ComfyUI"
 }

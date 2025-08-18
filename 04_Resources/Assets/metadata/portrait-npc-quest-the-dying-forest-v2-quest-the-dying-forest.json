@@ -25,5 +25,8 @@
   "alt_text": "Portrait of Quest - The Dying Forest with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-dying-forest-v2-quest-the-dying-forest.svg"
+  "file": "04_Resources/Assets/Portraits/portrait-npc-quest-the-dying-forest-v2-quest-the-dying-forest.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-18T00:00:05.434Z",
+  "generationMethod": "ComfyUI"
 }

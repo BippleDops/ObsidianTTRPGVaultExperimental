@@ -25,5 +25,8 @@
   "alt_text": "Artifact obsidian-statuette-with-gold-fittings-and-inlay-xdmg with materials, runes, and scale.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Items/item-artifact-obsidian-statuette-with-gold-fittings-and-inlay-xdmg-v3-obsidian-statuette-with-gold-fittings-and-inlay-xdmg.svg"
+  "file": "04_Resources/Assets/Items/item-artifact-obsidian-statuette-with-gold-fittings-and-inlay-xdmg-v3-obsidian-statuette-with-gold-fittings-and-inlay-xdmg.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:32:32.108Z",
+  "generationMethod": "ComfyUI"
 }

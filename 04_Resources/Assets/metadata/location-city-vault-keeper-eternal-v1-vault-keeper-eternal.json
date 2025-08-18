@@ -25,5 +25,8 @@
   "alt_text": "Cinematic view of Vault Keeper Eternal with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",
-  "file": "04_Resources/Assets/Locations/location-city-vault-keeper-eternal-v1-vault-keeper-eternal.svg"
+  "file": "04_Resources/Assets/Locations/location-city-vault-keeper-eternal-v1-vault-keeper-eternal.svg",
+  "imageGenerated": true,
+  "generatedAt": "2025-08-17T23:55:46.539Z",
+  "generationMethod": "ComfyUI"
 }
